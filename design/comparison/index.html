@@ -1,0 +1,151 @@
+<title>Claims Site Design Concepts</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;600&display=swap">
+<style>
+/* Layout: one reading column; each concept is a section with a short brief, then its screens side by side. */
+:root{
+  --bg:#fbfbf9; --surface:#ffffff; --fg:#1b2430; --muted:#5b6675; --line:#dfe3e8; --accent:#1f5fbf; --accent-soft:#e8f0fc;
+  --good:#1a6f4a; --warn:#8a5a00;
+  --display:"Space Grotesk","Inter",system-ui,sans-serif; --body:"Inter",system-ui,-apple-system,"Segoe UI",sans-serif;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --bg:#12161c; --surface:#1a2029; --fg:#e8ecf1; --muted:#a3adba; --line:#2c3541; --accent:#7fb0ff; --accent-soft:#1d2a40;
+  --good:#6fd0a0; --warn:#e2b25a; color-scheme:dark } }
+:root[data-theme="dark"]{
+  --bg:#12161c; --surface:#1a2029; --fg:#e8ecf1; --muted:#a3adba; --line:#2c3541; --accent:#7fb0ff; --accent-soft:#1d2a40;
+  --good:#6fd0a0; --warn:#e2b25a; color-scheme:dark }
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:16px;line-height:1.6}
+.wrap{max-width:1120px;margin:0 auto;padding-block:40px 72px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:flex;flex-direction:column;gap:56px}
+h1,h2,h3{font-family:var(--display);line-height:1.2;text-wrap:balance;margin:0}
+h1{font-size:clamp(1.9rem,4vw,2.6rem);font-weight:600}
+h2{font-size:1.6rem;font-weight:600}
+h3{font-size:1.05rem;font-weight:600}
+p{margin:0;max-width:68ch}
+.lede{font-size:1.1rem;color:var(--muted)}
+.intro{display:flex;flex-direction:column;gap:16px}
+a{color:var(--accent)}
+a:focus-visible,summary:focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:4px}
+.table-scroll{overflow-x:auto}
+table{border-collapse:collapse;width:100%;min-width:640px;font-size:.95rem}
+th,td{text-align:left;vertical-align:top;padding:12px 14px;border-bottom:1px solid var(--line)}
+thead th{font-family:var(--display);font-weight:600;border-bottom:2px solid var(--fg)}
+tbody th{font-weight:500;color:var(--muted);width:20%}
+.concept{display:flex;flex-direction:column;gap:20px;border-top:2px solid var(--fg);padding-top:24px}
+.concept header{display:flex;flex-wrap:wrap;gap:8px 20px;align-items:baseline;justify-content:space-between}
+.kicker{color:var(--muted);font-size:.95rem}
+.facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:20px 32px}
+.facts div{min-width:0;display:flex;flex-direction:column;gap:4px}
+.facts p{font-size:.95rem}
+.plus h3{color:var(--good)} .minus h3{color:var(--warn)}
+.shots{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.shots.phone{grid-template-columns:repeat(3,minmax(0,220px))}
+figure{margin:0;display:flex;flex-direction:column;gap:6px;min-width:0}
+figure img{display:block;width:100%;height:auto;border:1px solid var(--line);border-radius:6px;background:var(--surface)}
+figcaption{font-size:.85rem;color:var(--muted)}
+details summary{cursor:pointer;color:var(--accent);font-weight:500}
+details[open] summary{margin-bottom:12px}
+.rec{background:var(--accent-soft);border-radius:10px;padding:24px;display:flex;flex-direction:column;gap:12px}
+.rec ul{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:6px;max-width:68ch}
+.note{font-size:.9rem;color:var(--muted)}
+@media (max-width:720px){ .shots{grid-template-columns:1fr} .shots.phone{grid-template-columns:repeat(2,minmax(0,1fr))} }
+</style>
+
+<div class="wrap">
+  <section class="intro">
+    <h1>Three ways to redesign the claims site</h1>
+    <p class="lede">You said the current map looks too much like an intelligence tool. Three designers each built a different answer as a small working prototype with real data. Nothing on the live map has changed. Pick one, or tell me which parts to combine.</p>
+    <p>Each prototype has three working screens: the home page, one claim, and one person or organisation. You can open and click through each one from its section below. Only about a dozen claims are filled in, and the screenshots were taken with a stand-in font, so the type will look a little different in the prototypes themselves.</p>
+  </section>
+
+  <section>
+    <h2 style="margin-bottom:16px">Side by side</h2>
+    <div class="table-scroll">
+      <table>
+        <thead><tr><th></th><th>A. Reader-first</th><th>B. Explorer</th><th>C. Guided map</th></tr></thead>
+        <tbody>
+          <tr><th>Starts from</th><td>The 30 claims, in the order the video makes them</td><td>A search box and the most-named people and organisations</td><td>A map of six topic areas and three guided tours</td></tr>
+          <tr><th>Best for</th><td>Someone who watched the video and wants to know what is true</td><td>Someone who arrives with a name in mind</td><td>Someone who wants to be walked through a storyline</td></tr>
+          <tr><th>The network</th><td>A small diagram per claim and per name, nine names at most</td><td>A small diagram per profile; no overall graph</td><td>The home screen, but only a few names per topic until you ask for more</td></tr>
+          <tr><th>Answers "what holds up?"</th><td>Immediately, on the home page</td><td>Only as a tally beside the search</td><td>As a tally above the map</td></tr>
+          <tr><th>Shows recurring names across claims</th><td>Weakly: only on a name's own page</td><td>Strongly: that is the point of a profile</td><td>Partly: within a topic or a tour</td></tr>
+          <tr><th>Upkeep</th><td>Low: generated from the data, plus chapter titles</td><td>Low: generated from the data</td><td>High: someone picks the names, topics and tour scripts by hand</td></tr>
+          <tr><th>Main risk</th><td>Long home page; little free exploration</td><td>A profile can read like a charge sheet</td><td>Hand curation is where bias or error can enter</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="concept">
+    <header><h2>A. Reader-first: "The claims, checked"</h2><a href="concept-reader/index.html" target="_blank" rel="noopener">Open the working prototype</a></header>
+    <p>The home page is the answer. A headline says the claims mostly hold up, and one bar splits the 708 checked points into what holds up, what needed correcting and what is unproven. Claims follow in video order, grouped into seven chapters, and each row carries a one-sentence finding. Claim pages always run in the same order: what the video says, verdict, bottom line, what holds up, what needs correcting, what is unproven, the other side, everyone named, sources.</p>
+    <div class="facts">
+      <div class="plus"><h3>Strengths</h3><p>Answers the reader's first question without a click. Reads like a publication, not software. Every row says something, which matters because 72 of 82 verdicts are "mostly accurate".</p></div>
+      <div class="minus"><h3>Weaknesses</h3><p>Gives up free exploration. You cannot see the same lobbyist or investor recurring across claims without opening that name's page. The headline and chapter titles are editorial choices that need your sign-off.</p></div>
+    </div>
+    <div class="shots">
+      <figure><img src="shots/reader-home-desktop.png" alt="Reader-first home page: headline, tally bar and the start of the claims list"><figcaption>Home</figcaption></figure>
+      <figure><img src="shots/reader-claim-desktop.png" alt="Reader-first claim page"><figcaption>One claim</figcaption></figure>
+      <figure><img src="shots/reader-entity-desktop.png" alt="Reader-first page for one name"><figcaption>One name</figcaption></figure>
+    </div>
+    <details><summary>Phone screens</summary>
+      <div class="shots phone">
+        <figure><img src="shots/reader-home-phone.png" alt="Reader-first home on a phone"><figcaption>Home</figcaption></figure>
+        <figure><img src="shots/reader-claim-phone.png" alt="Reader-first claim on a phone"><figcaption>One claim</figcaption></figure>
+        <figure><img src="shots/reader-entity-phone.png" alt="Reader-first name page on a phone"><figcaption>One name</figcaption></figure>
+      </div>
+    </details>
+  </section>
+
+  <section class="concept">
+    <header><h2>B. Explorer: a look-up site</h2><a href="concept-explorer/index.html" target="_blank" rel="noopener">Open the working prototype</a></header>
+    <p>The home screen is a search box, the verdict tally and the most-named people and organisations. Every name gets a profile with a small diagram of its closest connections, a dated timeline, a strip of the largest sums and the claims that mention it. There is no whole-network graph: you walk it one step at a time, and every relationship line says who did what, when, and which claim it comes from.</p>
+    <div class="facts">
+      <div class="plus"><h3>Strengths</h3><p>The fastest route for someone who arrives with a name. Makes recurring names obvious. Search and browse are built in from the start.</p></div>
+      <div class="minus"><h3>Weaknesses</h3><p>A profile gathers everything about one person on one page, so it can read like a charge sheet despite the caveats. It tells the video's overall story less well. The same relationship is restated across claims, and the merging is still crude.</p></div>
+    </div>
+    <div class="shots">
+      <figure><img src="shots/explorer-home-desktop.png" alt="Explorer home page: search box, verdict tally and name cards"><figcaption>Home</figcaption></figure>
+      <figure><img src="shots/explorer-claim-desktop.png" alt="Explorer claim page"><figcaption>One claim</figcaption></figure>
+      <figure><img src="shots/explorer-entity-desktop.png" alt="Explorer profile page"><figcaption>One name</figcaption></figure>
+    </div>
+    <details><summary>Phone screens</summary>
+      <div class="shots phone">
+        <figure><img src="shots/explorer-home-phone.png" alt="Explorer home on a phone"><figcaption>Home</figcaption></figure>
+        <figure><img src="shots/explorer-claim-phone.png" alt="Explorer claim on a phone"><figcaption>One claim</figcaption></figure>
+        <figure><img src="shots/explorer-entity-phone.png" alt="Explorer profile on a phone"><figcaption>One name</figcaption></figure>
+      </div>
+    </details>
+  </section>
+
+  <section class="concept">
+    <header><h2>C. Guided map: topics and tours</h2><a href="concept-guided-map/index.html" target="_blank" rel="noopener">Open the working prototype</a></header>
+    <p>The home screen is a calm, hand-placed map of six topic areas, each showing three or four well-known names. Nothing moves. Choosing a topic opens it with more names and its claims; choosing a name numbers its links and explains each in a plain sentence. Three guided tours walk one storyline in four or five steps and each ends on what the record does not show. Unverified items are never drawn as lines.</p>
+    <div class="facts">
+      <div class="plus"><h3>Strengths</h3><p>Keeps the visual map you asked for at the start, without the hairball. Tours give a newcomer a way in. Ending every tour on what is not shown keeps it fair.</p></div>
+      <div class="minus"><h3>Weaknesses</h3><p>The map is curated by hand, not generated. Someone has to choose about 40 of roughly 1,160 names, assign topics and write the tours, which is ongoing work and a place for bias. There is no search yet, and the other names are reachable only through claim and name pages.</p></div>
+    </div>
+    <div class="shots">
+      <figure><img src="shots/guided-home-desktop.png" alt="Guided map home page: six coloured topic areas and a list of tours"><figcaption>Home</figcaption></figure>
+      <figure><img src="shots/guided-claim-desktop.png" alt="Guided map claim page"><figcaption>One claim</figcaption></figure>
+      <figure><img src="shots/guided-entity-desktop.png" alt="Guided map page for one name"><figcaption>One name</figcaption></figure>
+    </div>
+    <details><summary>Phone screens</summary>
+      <div class="shots phone">
+        <figure><img src="shots/guided-home-phone.png" alt="Guided map home on a phone"><figcaption>Home</figcaption></figure>
+        <figure><img src="shots/guided-claim-phone.png" alt="Guided map claim on a phone"><figcaption>One claim</figcaption></figure>
+        <figure><img src="shots/guided-entity-phone.png" alt="Guided map name page on a phone"><figcaption>One name</figcaption></figure>
+      </div>
+    </details>
+  </section>
+
+  <section class="rec">
+    <h2>My recommendation</h2>
+    <p>Build A as the base, and take one thing from each of the others.</p>
+    <ul>
+      <li><strong>A's home and claim pages.</strong> It is the only concept that answers "what is true?" before the first click, and it can be generated straight from the research with little upkeep.</li>
+      <li><strong>B's search and name profiles</strong> in place of A's thinner name pages, so a reader can also start from a name and see where it recurs.</li>
+      <li><strong>C's guided tours</strong> as a short section on the home page, for the three or four storylines worth walking through. Leave out the hand-drawn topic map, which costs the most upkeep.</li>
+    </ul>
+    <p class="note">This is my view, not a decision. All three designers hit the same gap: the research files do not record "what is unproven" as its own field, so any of these would need that added before a full build.</p>
+  </section>
+</div>

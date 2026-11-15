@@ -1,0 +1,439 @@
+{
+  "id": "C05",
+  "title": "Justin Sun, WLF and the SEC",
+  "verdict": "mostly-accurate",
+  "confidence": "high",
+  "summary": "The core facts hold up. Sun put a total of $75M into WLF ($30M in Nov 2024 plus $45M in Jan 2025) while facing a 2023 SEC civil complaint that included fraud and market-manipulation counts, and he was named a WLF adviser. Under Trump, the SEC first paused the case (Feb 2025), then in March 2026 dropped all claims against Sun while his company Rainberry paid $10M. The later feud, the 'personal ATM' and 'absurd governance scam' quotes, and the lawsuits in both directions are all documented. The claim blurs the timing and the tranches, and the suggestion that the investment caused the SEC outcome is not proven.",
+  "sub_claims": [
+    {
+      "statement": "Justin Sun invested $75 million into World Liberty Financial.",
+      "verdict": "confirmed",
+      "finding": "$30M announced Nov 25, 2024 (on-chain via HTX), then $45M more via TRON DAO announced Jan 19-20, 2025, for $75M in total. Sun himself cites $75M.",
+      "sources": [
+        "https://cointelegraph.com/news/justin-sun-invests-30-million-trump-world-liberty-financial",
+        "https://invezz.com/news/2025/01/20/tron-dao-raises-investment-to-75m-in-trump-backed-world-liberty-financial-ahead-of-inauguration/",
+        "https://www.malaymail.com/news/money/2025/09/06/trump-crypto-backer-justin-sun-says-us75m-in-world-liberty-tokens-unreasonably-frozen-seeks-resolution/190175"
+      ]
+    },
+    {
+      "statement": "Sun was at the time charged with fraud by the SEC.",
+      "verdict": "confirmed",
+      "finding": "SEC civil complaint of Mar 22, 2023 (S.D.N.Y. 1:23-cv-02433) against Sun, Tron Foundation, BitTorrent Foundation and Rainberry. It alleged unregistered TRX/BTT offerings, fraud and market manipulation via more than 600,000 wash trades, and undisclosed celebrity promotion. The case was civil, not criminal, and was still pending when Sun invested.",
+      "sources": [
+        "https://www.sec.gov/news/press-release/2023-59",
+        "https://www.cnbc.com/2023/03/22/sec-hits-jake-paul-lindsey-lohan-justin-sun-with-crypto-violations.html"
+      ]
+    },
+    {
+      "statement": "Sun became an adviser to WLF.",
+      "verdict": "confirmed",
+      "finding": "WLF announced Sun as an adviser on Nov 26, 2024, the day after his $30M purchase.",
+      "sources": [
+        "https://www.theblock.co/amp/post/328398/tron-founder-justin-sun-named-advisor-to-trump-backed-world-liberty-financial-following-30-million-investment",
+        "https://www.benzinga.com/markets/cryptocurrency/24/11/42198909/trump-linked-crypto-platform-world-liberty-financial-appoints-justin-sun-as-advisor-after-"
+      ]
+    },
+    {
+      "statement": "After Trump took office the SEC dismissed its case against Sun and settled with his company.",
+      "verdict": "confirmed",
+      "finding": "Joint motion to stay filed Feb 26, 2025. On Mar 5, 2026 the SEC filed a proposed final judgment (Lit. Rel. 26496): Rainberry pays a $10M penalty on a Section 17(a)(3) wash-trading claim without admitting or denying it, and all claims against Sun, Tron Foundation and BitTorrent Foundation are dismissed. Outlets disagree on whether the court has formally entered the judgment.",
+      "sources": [
+        "https://www.theblock.co/post/343635/sec-and-justin-sun-look-to-explore-a-potential-resolution",
+        "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26496",
+        "https://www.theblock.co/amp/post/392509/sec-dismisses-claims-against-justin-sun-and-tron-foundation-bittorrent-developer-rainberry-agrees-to-pay-10m-fine",
+        "https://cointelegraph.com/news/justin-sun-sec-lawsuit-settles-10-million"
+      ]
+    },
+    {
+      "statement": "Sun broke with WLF, accusing it of treating the crypto community as a 'personal ATM' and of an 'absurd governance scam'.",
+      "verdict": "confirmed",
+      "finding": "WLF froze Sun's tokens in Sept 2025. On Apr 15, 2026, Sun called a lockup governance proposal 'one of the most absurd governance scams I have ever seen'. In April 2026 he also accused the WLFI team of treating 'the crypto community as a personal ATM'.",
+      "sources": [
+        "https://www.coindesk.com/business/2026/04/15/justin-sun-blasts-trump-linked-wlfi-s-absurd-governance-vote-escalating-feud",
+        "https://decrypt.co/364137/justin-sun-bashes-trump-world-liberty-financial-investors-personal-atm"
+      ]
+    },
+    {
+      "statement": "WLF denies Sun's accusations.",
+      "verdict": "confirmed",
+      "finding": "WLF called them 'baseless allegations to cover up his own misconduct'. CEO Zach Witkoff called Sun's claims 'entirely meritless'.",
+      "sources": [
+        "https://dlnews.com/articles/markets/trump-project-world-liberty-financial-feuds-with-justin-sun/",
+        "https://www.theblock.co/news/markets/2026-04-22-justin-sun-sues-world-liberty-financial-398397"
+      ]
+    },
+    {
+      "statement": "Lawsuits have been flying back and forth.",
+      "verdict": "confirmed",
+      "finding": "Sun sued WLF in N.D. Cal. on about Apr 22, 2026 (No. 3:26-cv-03360) over the token freeze and governance exclusion. WLF sued Sun for defamation in Miami-Dade circuit court on May 4, 2026, alleging straw purchases and shorting of WLFI. No rulings found in either case.",
+      "sources": [
+        "https://www.theblock.co/news/markets/2026-04-22-justin-sun-sues-world-liberty-financial-398397",
+        "https://www.cbsnews.com/news/trump-world-liberty-financial-justin-sun-cryptocurrency/",
+        "https://www.businesswire.com/news/home/20260504735336/en/"
+      ]
+    },
+    {
+      "statement": "Sun was the initial champion of WLF and its largest public investor.",
+      "verdict": "confirmed",
+      "finding": "Sun called himself WLF's largest investor in Nov 2024, and Bloomberg reported the sale was a bust until he stepped in. A larger undisclosed investor (covered in C06) emerged later.",
+      "sources": [
+        "https://bnnbloomberg.ca/business/company-news/2024/11/29/trumps-crypto-project-was-a-bust-until-justin-sun-stepped-in",
+        "https://cointelegraph.com/news/justin-sun-invests-30-million-trump-world-liberty-financial"
+      ]
+    }
+  ],
+  "corrections": [
+    "Claimed (by implication): a single $75M investment. The record shows: $30M (Nov 2024) plus $45M via TRON DAO (Jan 2025).",
+    "'Charged with fraud' refers to a civil SEC complaint with antifraud and market-manipulation counts, not a criminal charge.",
+    "The dismissal was not immediate. The SEC sought a stay in Feb 2025 and filed the settlement and dismissal in Mar 2026. Rainberry paid $10M without admitting wrongdoing, and the claims against Sun personally were dropped.",
+    "Whether the court has formally entered the final judgment is unconfirmed: reports conflict."
+  ],
+  "denials_and_context": [
+    "Sun, WLF and the White House deny any quid pro quo, and no document ties Sun's WLF purchases to the SEC decision. The causal link is insinuation.",
+    "The SEC under Trump dropped or paused many crypto enforcement cases (Coinbase, Binance, Kraken and others), so the Sun outcome fits a broader policy shift.",
+    "Former SEC chief of staff Amanda Fischer criticized the settlement and urged the judge to reject it.",
+    "The Sun-WLF accusations (backdoors and freezes on one side, shorting and defamation on the other) are unadjudicated allegations."
+  ],
+  "sources": [
+    {
+      "title": "Justin Sun invests $30 million in Trump's World Liberty Financial",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/justin-sun-invests-30-million-trump-world-liberty-financial",
+      "date": "2024-11-25"
+    },
+    {
+      "title": "Tron founder Justin Sun named advisor to Trump-backed World Liberty Financial following $30 million investment",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/amp/post/328398/tron-founder-justin-sun-named-advisor-to-trump-backed-world-liberty-financial-following-30-million-investment",
+      "date": "2024-11-26"
+    },
+    {
+      "title": "Trump-Linked Crypto Platform World Liberty Financial Appoints Justin Sun As Advisor After $30 Million Investment",
+      "publisher": "Benzinga",
+      "url": "https://www.benzinga.com/markets/cryptocurrency/24/11/42198909/trump-linked-crypto-platform-world-liberty-financial-appoints-justin-sun-as-advisor-after-",
+      "date": "2024-11-26"
+    },
+    {
+      "title": "Trump's crypto project was a bust until Justin Sun stepped in",
+      "publisher": "BNN Bloomberg",
+      "url": "https://bnnbloomberg.ca/business/company-news/2024/11/29/trumps-crypto-project-was-a-bust-until-justin-sun-stepped-in",
+      "date": "2024-11-29"
+    },
+    {
+      "title": "Tron DAO raises investment to $75M in Trump-backed World Liberty Financial ahead of inauguration",
+      "publisher": "Invezz",
+      "url": "https://invezz.com/news/2025/01/20/tron-dao-raises-investment-to-75m-in-trump-backed-world-liberty-financial-ahead-of-inauguration/",
+      "date": "2025-01-20"
+    },
+    {
+      "title": "Justin Sun Raises Stake in World Liberty Financial to $75M",
+      "publisher": "CryptoPotato",
+      "url": "https://cryptopotato.com/justin-sun-raises-stake-in-world-liberty-financial-to-75m/",
+      "date": "2025-01-20"
+    },
+    {
+      "title": "Trump crypto backer Justin Sun says US$75m in World Liberty tokens unreasonably frozen",
+      "publisher": "Malay Mail / Reuters",
+      "url": "https://www.malaymail.com/news/money/2025/09/06/trump-crypto-backer-justin-sun-says-us75m-in-world-liberty-tokens-unreasonably-frozen-seeks-resolution/190175",
+      "date": "2025-09-06"
+    },
+    {
+      "title": "SEC Charges Crypto Entrepreneur Justin Sun and His Companies for Fraud and Other Securities Law Violations (Press Release 2023-59)",
+      "publisher": "SEC",
+      "url": "https://www.sec.gov/news/press-release/2023-59",
+      "date": "2023-03-22"
+    },
+    {
+      "title": "SEC charges Tron founder Justin Sun, celebrities Lindsay Lohan, Jake Paul with crypto violations",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2023/03/22/sec-hits-jake-paul-lindsey-lohan-justin-sun-with-crypto-violations.html",
+      "date": "2023-03-22"
+    },
+    {
+      "title": "SEC and Justin Sun look to 'explore a potential resolution'",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/343635/sec-and-justin-sun-look-to-explore-a-potential-resolution",
+      "date": "2025-02-26"
+    },
+    {
+      "title": "Litigation Release No. 26496: Justin Sun, Tron Foundation Limited, BitTorrent Foundation Ltd., Rainberry, Inc., and DeAndre Cortez Way",
+      "publisher": "SEC",
+      "url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26496",
+      "date": "2026-03-05"
+    },
+    {
+      "title": "SEC dismisses claims against Justin Sun and Tron Foundation, BitTorrent developer Rainberry agrees to pay $10M fine",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/amp/post/392509/sec-dismisses-claims-against-justin-sun-and-tron-foundation-bittorrent-developer-rainberry-agrees-to-pay-10m-fine",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "Justin Sun SEC lawsuit settles for $10 million",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/justin-sun-sec-lawsuit-settles-10-million",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "Justin Sun blasts Trump-linked WLFI's 'absurd' governance vote, escalating feud",
+      "publisher": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/04/15/justin-sun-blasts-trump-linked-wlfi-s-absurd-governance-vote-escalating-feud",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "Justin Sun Bashes Trump Family's World Liberty, Claims Investors Used as 'Personal ATM'",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/364137/justin-sun-bashes-trump-world-liberty-financial-investors-personal-atm",
+      "date": "2026-04"
+    },
+    {
+      "title": "Trump project World Liberty Financial feuds with Justin Sun",
+      "publisher": "DL News",
+      "url": "https://dlnews.com/articles/markets/trump-project-world-liberty-financial-feuds-with-justin-sun/",
+      "date": "2026-04"
+    },
+    {
+      "title": "Justin Sun sues World Liberty Financial over WLFI token freeze, governance exclusion",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/markets/2026-04-22-justin-sun-sues-world-liberty-financial-398397",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "Justin Sun sues Trump-backed World Liberty Financial over frozen tokens",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/365106/justin-sun-sues-trump-backed-world-liberty-financial-over-frozen-tokens",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "Trump family's World Liberty Financial sues crypto billionaire Justin Sun for defamation",
+      "publisher": "CBS News",
+      "url": "https://www.cbsnews.com/news/trump-world-liberty-financial-justin-sun-cryptocurrency/",
+      "date": "2026-05-04"
+    },
+    {
+      "title": "World Liberty Financial Files Defamation Suit Against Justin Sun in Florida State Court",
+      "publisher": "Business Wire",
+      "url": "https://www.businesswire.com/news/home/20260504735336/en/",
+      "date": "2026-05-04"
+    }
+  ],
+  "entities": [
+    {
+      "id": "justin-sun",
+      "name": "Justin Sun",
+      "type": "person",
+      "description": "Tron founder; $75M WLFI buyer and WLF adviser, later WLF's adversary in litigation."
+    },
+    {
+      "id": "world-liberty-financial",
+      "name": "World Liberty Financial",
+      "type": "company",
+      "description": "Trump-family-linked DeFi/token venture that sold WLFI tokens."
+    },
+    {
+      "id": "wlfi-token",
+      "name": "WLFI token",
+      "type": "asset",
+      "description": "World Liberty Financial governance token."
+    },
+    {
+      "id": "sec",
+      "name": "U.S. Securities and Exchange Commission",
+      "type": "government",
+      "description": "Sued Sun in 2023; settled and dismissed the case in 2026."
+    },
+    {
+      "id": "tron",
+      "name": "Tron (TRON DAO / Tron Foundation)",
+      "type": "company",
+      "description": "Sun's blockchain organization; defendant in the SEC case and source of the $45M tranche."
+    },
+    {
+      "id": "rainberry",
+      "name": "Rainberry Inc. (formerly BitTorrent)",
+      "type": "company",
+      "description": "Sun-owned company that paid the $10M SEC penalty."
+    },
+    {
+      "id": "bittorrent-foundation",
+      "name": "BitTorrent Foundation Ltd.",
+      "type": "company",
+      "description": "Sun entity; SEC claims against it dismissed."
+    },
+    {
+      "id": "htx",
+      "name": "HTX (formerly Huobi)",
+      "type": "company",
+      "description": "Sun-associated exchange; on-chain source of the $30M WLFI purchase."
+    },
+    {
+      "id": "zach-witkoff",
+      "name": "Zach Witkoff",
+      "type": "person",
+      "description": "WLF CEO/co-founder; called Sun's suit meritless."
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "U.S. President; family promotes and profits from WLF."
+    },
+    {
+      "id": "amanda-fischer",
+      "name": "Amanda Fischer",
+      "type": "person",
+      "description": "Former SEC chief of staff; criticized the Sun settlement."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "justin-sun",
+      "target": "world-liberty-financial",
+      "label": "bought $30M of WLFI tokens (via HTX)",
+      "type": "money",
+      "date": "2024-11-25",
+      "amount_usd": 30000000
+    },
+    {
+      "source": "tron",
+      "target": "world-liberty-financial",
+      "label": "added $45M WLFI purchase (total $75M)",
+      "type": "money",
+      "date": "2025-01-20",
+      "amount_usd": 45000000
+    },
+    {
+      "source": "justin-sun",
+      "target": "world-liberty-financial",
+      "label": "named adviser to",
+      "type": "advisory",
+      "date": "2024-11-26"
+    },
+    {
+      "source": "htx",
+      "target": "wlfi-token",
+      "label": "on-chain buyer of $30M of",
+      "type": "money",
+      "date": "2024-11-25",
+      "amount_usd": 30000000
+    },
+    {
+      "source": "justin-sun",
+      "target": "tron",
+      "label": "founder of",
+      "type": "ownership"
+    },
+    {
+      "source": "justin-sun",
+      "target": "rainberry",
+      "label": "owns",
+      "type": "ownership"
+    },
+    {
+      "source": "justin-sun",
+      "target": "htx",
+      "label": "closely associated with",
+      "type": "ownership"
+    },
+    {
+      "source": "sec",
+      "target": "justin-sun",
+      "label": "sued for fraud, market manipulation and unregistered securities",
+      "type": "regulatory",
+      "date": "2023-03-22"
+    },
+    {
+      "source": "sec",
+      "target": "justin-sun",
+      "label": "jointly sought stay to explore resolution",
+      "type": "regulatory",
+      "date": "2025-02-26"
+    },
+    {
+      "source": "sec",
+      "target": "justin-sun",
+      "label": "dismissed all claims against",
+      "type": "regulatory",
+      "date": "2026-03-05"
+    },
+    {
+      "source": "rainberry",
+      "target": "sec",
+      "label": "agreed to pay civil penalty (wash trading)",
+      "type": "legal",
+      "date": "2026-03-05",
+      "amount_usd": 10000000
+    },
+    {
+      "source": "sec",
+      "target": "bittorrent-foundation",
+      "label": "dismissed claims against",
+      "type": "regulatory",
+      "date": "2026-03-05"
+    },
+    {
+      "source": "world-liberty-financial",
+      "target": "justin-sun",
+      "label": "froze/blacklisted WLFI tokens of",
+      "type": "legal",
+      "date": "2025-09"
+    },
+    {
+      "source": "justin-sun",
+      "target": "world-liberty-financial",
+      "label": "sued over token freeze (N.D. Cal.)",
+      "type": "legal",
+      "date": "2026-04-22"
+    },
+    {
+      "source": "world-liberty-financial",
+      "target": "justin-sun",
+      "label": "sued for defamation (Miami-Dade)",
+      "type": "legal",
+      "date": "2026-05-04"
+    },
+    {
+      "source": "zach-witkoff",
+      "target": "world-liberty-financial",
+      "label": "CEO of",
+      "type": "ownership"
+    },
+    {
+      "source": "donald-trump",
+      "target": "world-liberty-financial",
+      "label": "family-linked backer/promoter of",
+      "type": "ownership"
+    },
+    {
+      "source": "amanda-fischer",
+      "target": "sec",
+      "label": "criticized Sun settlement by",
+      "type": "political",
+      "date": "2026-03"
+    }
+  ],
+  "audit": {
+    "checked": [
+      "SEC proposed final judgment of Mar 5, 2026: Rainberry pays $10M on a Section 17(a)(3) claim without admitting/denying; claims against Sun, Tron Foundation and BitTorrent Foundation dismissed with prejudice",
+      "Whether the S.D.N.Y. court has entered the judgment"
+    ],
+    "result": "upheld",
+    "changes": [
+      "No changes: Cointelegraph, Decrypt and the SEC litigation release listing confirm the terms; all fresh reports describe court approval as pending, matching the write-up's 'unconfirmed'. Better Markets urged the judge to reject the deal. Lawsuit and quote sub-claims were not re-checked.",
+      "Second-pass audit was cut short: the shared web-search budget ran out partway through, and direct fetches of sec.gov and theblock.co were blocked, so only the assertions listed here were re-checked."
+    ],
+    "new_sources": [
+      {
+        "title": "Justin Sun SEC lawsuit settles for $10 million",
+        "publisher": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/justin-sun-sec-lawsuit-settles-10-million",
+        "date": "2026-03-06"
+      },
+      {
+        "title": "SEC Moves to Settle Justin Sun Case With $10M Penalty for BitTorrent Owner",
+        "publisher": "Decrypt",
+        "url": "https://decrypt.co/360201?amp=1",
+        "date": "2026-03-06"
+      }
+    ]
+  }
+}

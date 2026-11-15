@@ -1,0 +1,29 @@
+---
+id: "us-saudi-123-agreement"
+kind: "entity"
+type: "law"
+connections: 2
+claims: 1
+tags:
+  - "entity"
+  - "type/law"
+---
+# US-Saudi 123 civil nuclear agreement
+
+Signed 22 Jul 2026; sent to Congress 25 Aug 2026
+
+| | |
+|---|---|
+| Type | Law or policy |
+| Appears in | 1 check |
+| Connections | 2 |
+
+## Appears in Checks
+
+- [[C56 Saudi Arabia Family Deals Alongside US Policy Decisions]] · Mostly accurate
+
+## Relationships
+
+### Regulatory (1)
+
+- [[Chris Wright]] *signed* [[US-Saudi 123 civil nuclear agreement]] · 2026-07-22 · [[C56 Saudi Arabia Family Deals Alongside US Policy Decisions|C56]]

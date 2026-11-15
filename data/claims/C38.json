@@ -1,0 +1,875 @@
+{
+  "id": "C38",
+  "title": "Polymarket probes dropped before 1789 Capital invested; federal push for prediction markets",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "The dated facts in the claim hold up. Bloomberg, CNBC and others reported on 2025-07-15 that the DOJ (Manhattan U.S. Attorney's Office) and the CFTC had closed their Polymarket probes with no charges. That was six weeks before 1789 Capital's 2025-08-26 investment and Don Jr.'s move to the advisory board. The CFTC under Selig sued AZ, CT and IL (2026-04-02), NY (2026-04-24) and WI (2026-04-28), and later MN and UT, and Sen. Curtis asked Senate Judiciary on 2026-09-21 to investigate. What the record does not show: who decided to close the probes (neither agency ever said, and the notices were never published), or any link between the closure and the Trump family. The documented White House 'lobbying' is thinner than the word suggests, and the source for it is a North Carolina Speaker's spokesman, not the White House.",
+  "sub_claims": [
+    {
+      "statement": "The DOJ and CFTC closed their Polymarket investigations in July 2025.",
+      "verdict": "confirmed",
+      "finding": "Bloomberg reported on 2025-07-15 that Polymarket had received formal declination notices from both the DOJ and the CFTC. CNBC (via a person familiar) reported that both probes closed with no charges, and said the criminal inquiry was run by the Manhattan U.S. Attorney's Office (SDNY), which declined to comment. CEO Shayne Coplan said on X that the company had been 'cleared of any wrongdoing'. The DOJ, CFTC and Polymarket declined to comment, and no agency has publicly confirmed the closure. The probes began under Biden after the 2024 election and looked at whether US users still traded despite the CFTC's January 2022 settlement ($1.4M penalty). The FBI searched Coplan's home in November 2024. Neither charges nor a public finding of misconduct followed.",
+      "sources": [
+        "https://www.bloomberg.com/news/articles/2025-07-15/polymarket-probe-ended-by-doj-in-win-for-crypto-bets-under-trump",
+        "https://www.theblock.co/news/regulation/2025-07-15-us-justice-department-and-cftc-close-probes-into-polymarket-bloomberg-362703",
+        "https://www.nbcsandiego.com/news/business/money-report/trump-administration-ends-polymarket-investigations-without-charges/3868886/",
+        "https://cointelegraph.com/news/justice-department-ends-investigation-polymarket"
+      ]
+    },
+    {
+      "statement": "The closure came about a month before 1789 Capital invested and Don Jr. joined Polymarket's advisory board.",
+      "verdict": "confirmed",
+      "finding": "The probes closed by 2025-07-15, and 1789 Capital's strategic investment and Don Jr.'s advisory-board seat were announced on 2025-08-26, a gap of about six weeks. Reuters put the investment in the double-digit millions and Axios at eight figures or more; no exact amount was disclosed. Axios reported that 1789 founder Omeed Malik and Coplan had been talking for about 18 months, and that the firm waited for a clear legal path to US operations. That fits a sequence in which the investment followed the regulatory relief. Nothing in the record shows the reverse, that the investment or Don Jr.'s involvement brought about the closure. Later, Polymarket bought the CFTC-licensed QCEX for $112M (July 2025), received a CFTC staff no-action letter in early September 2025, and 1789's total stake grew to a reported ~$200M before a planned ~$300M more in 2026.",
+      "sources": [
+        "https://www.axios.com/2025/08/26/trump-jr-vc-fund-polymarket",
+        "https://www.theblock.co/post/368292/donald-trump-jr-invests-in-polymarket-and-joins-advisory-board",
+        "https://www.thestar.com.my/tech/tech-news/2025/08/27/polymarket-secures-investment-from-trump-jr-backed-1789-capital",
+        "https://blockworks.co/news/donald-trump-jr-polymarket-investment",
+        "https://www.theblock.co/amp/post/369377/polymarket-can-go-live-in-the-us-following-cftc-ruling-ceo-says",
+        "https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round"
+      ]
+    },
+    {
+      "statement": "It is documented who decided to close the probes.",
+      "verdict": "unverified",
+      "finding": "No public record names the decision-maker. The criminal matter sat with SDNY under the Trump DOJ, and the CFTC was then run by Acting Chair Caroline Pham, since Selig was not confirmed until 2025-12-18. Reporting relies on anonymous sources and Polymarket's own statements, and the declination letters have not been published. When Rep. McGovern asked Selig on 2026-04-16 whether the White House had sought to drop a Polymarket probe, the question concerned the CFTC under Selig. He called the insinuation 'insulting'. No evidence of White House intervention in the July 2025 closures has surfaced.",
+      "sources": [
+        "https://www.nbcsandiego.com/news/business/money-report/trump-administration-ends-polymarket-investigations-without-charges/3868886/",
+        "https://www.bloomberg.com/news/articles/2025-07-15/polymarket-probe-ended-by-doj-in-win-for-crypto-bets-under-trump",
+        "https://krdo.com/news/2026/04/16/trumps-top-regulator-for-prediction-markets-pledges-crackdown-on-insider-trading/"
+      ]
+    },
+    {
+      "statement": "The White House, not only Don Jr., lobbied state officials over prediction markets.",
+      "verdict": "partly-accurate",
+      "finding": "The NYT reported on 2026-08-27 (seen here only through secondary coverage) that the White House Office of Intergovernmental Affairs gave North Carolina lawmakers information on federal policy toward state regulation of prediction markets. That account comes from a spokesman for NC House Speaker Destin Hall, not from the White House. The same story covered Don Jr.'s March 2026 pitch to GOP AGs (see C25), and also said a Kalshi lobbyist, ex-legislator Jim Harrell, helped shape the NC provision. 'Lobbied' overstates what has been documented about the White House: it is one reported briefing of one state's lawmakers. The administration's broader public push is well documented, including Trump's 2026-05-26 Truth Social post and the CFTC/DOJ lawsuits. No on-the-record White House response to the NYT story was found.",
+      "sources": [
+        "https://gvwire.com/2026/08/29/clash-between-prediction-markets-and-states-sets-off-a-furious-political-battle/",
+        "https://www.gambling.com/news/trump-jr-and-white-house-both-lobbied-states-over-prediction-markets",
+        "https://gamblinginsider.com/news/193604/trump-jr-white-house-state-prediction-market-fight",
+        "https://sccgmanagement.com/sccg-articles/2026/08/28/trump-jr-and-white-house-directly-engage-state-officials-on-prediction-market-regulation/",
+        "https://ny1.com/nyc/all-boroughs/news/2026/08/19/trump-administration-attempts-to-stop-states-from-regulating-online-prediction-markets"
+      ]
+    },
+    {
+      "statement": "Selig's CFTC sued Arizona, Connecticut, Illinois, New York and Wisconsin to defend prediction markets.",
+      "verdict": "confirmed",
+      "finding": "The CFTC sued Arizona, Connecticut and Illinois on 2026-04-02. It sued New York on 2026-04-24 in SDNY, naming Gov. Hochul, AG Letitia James and the Gaming Commission, after James sued Coinbase and Gemini. It sued Wisconsin on 2026-04-28 in E.D. Wis., naming Gov. Evers, AG Kaul and gaming administrator Dillett. The list in the claim is incomplete. The CFTC also sued Minnesota on 2026-05-19 over the first outright state ban, and, with the DOJ, sued Utah on 2026-10-27 after Utah AG Derek Brown sued Kalshi. A New Republic-cited tracker puts the total at nine states, and one report calls Utah the 10th. Every suit seeks declarations that the CEA preempts state gambling law for CFTC-registered exchanges. Courts are split. The 3rd Circuit backed Kalshi (April 2026), while the 9th Circuit (2026-08-28, Nevada) and the 6th Circuit (2026-09-25, Ohio and Tennessee) held that states can regulate. Audit addition: one late-Oct 2026 report lists the CFTC's suits as Arizona, Connecticut, Illinois, Kentucky, Minnesota, New Mexico, New York, Rhode Island, Wisconsin and Utah (Utah being the 10th; D. Utah No. 2:26-cv-01055), and says the CFTC won preliminary injunctions in Arizona, Minnesota and Illinois (single report; not independently confirmed).",
+      "sources": [
+        "https://www.covers.com/industry/cftc-sues-illinois-arizona-connecticut-prediction-markets-april-2-2026",
+        "https://npr.org/2026/04/02/nx-s1-5771635/trump-cftc-kalshi-polymarket-lawsuits",
+        "https://www.theblock.co/post/398886/cftc-sues-new-york-over-prediction-market-crackdown-as-38-ags-back-massachusetts-kalshi-case",
+        "https://courthousenews.com/cftc-sues-new-york-gaming-regulators-over-prediction-markets-crackdown/",
+        "https://www.theblock.co/news/regulation/2026-04-28-cftc-sues-wisconsin-federal-state-clash-prediction-market-oversight-399253",
+        "https://www.courthousenews.com/articles/cftc-sues-wisconsin-gaming-administration-in-response-to-kalshi-crackdown",
+        "https://www.theblock.co/news/regulation/2026-05-19-cftc-sues-minnesota-first-explicit-state-ban-prediction-markets-401917",
+        "https://theblock.co/news/regulation/2026-10-27-cftc-sues-utah-battle-over-prediction-market-regulation-intensifies-431922",
+        "https://www.sportsbookreview.com/news/cftc-justice-department-sue-utah-over-prediction-market-enforcement-oct-28-2026/",
+        "https://newrepublic.com/article/214489/legal-war-prediction-markets-crazier",
+        "https://krdo.com/news/2026/08/28/states-can-regulate-prediction-markets-as-gambling-federal-appeals-court-rules",
+        "https://www.aljazeera.com/news/2026/9/25/us-court-rules-against-kalshi-says-states-can-regulate-prediction-markets",
+        "https://defirate.com/news/cftc-sues-utah-block-kalshi-crackdown/"
+      ]
+    },
+    {
+      "statement": "Sen. John Curtis sought a Senate Judiciary probe over Don Jr.'s prediction-market ties.",
+      "verdict": "confirmed",
+      "finding": "On Monday 2026-09-21, Curtis (R-Utah) wrote to Judiciary Chair Chuck Grassley and Ranking Member Dick Durbin. He asked them to investigate whether presidential family members used their relationships for private gain or preferential access, and urged subpoenas for both Donald Trump Jr. and Hunter Biden. He cited Don Jr.'s Kalshi and Polymarket roles and 1789's stake, along with crypto, foreign real estate and defense investments. The claim leaves out that the request was framed as bipartisan, also targeting Hunter Biden. No committee action on it was found. The letter also cited Don Jr.'s acceptance of wedding gifts from Russian businessman Umar Kremlev and his promotion of family crypto ventures, and it says its aim is to establish facts, without alleging that he broke any law.",
+      "sources": [
+        "https://www.axios.com/2026/09/22/john-curtis-trump-jr-hunter-biden-subpoenas",
+        "https://www.legalsportsreport.com/278593/gop-senator-wants-probe-into-trump-jr-s-prediction-market-ties/",
+        "https://sbcamericas.com/2026/09/23/curtis-trump-jr-prediction-markets/",
+        "https://cointelegraph.com/news/us-senator-probe-donald-trump-hunter-biden-crypto-business",
+        "https://sbcamericas.com/2026/09/23/curtis-trump-jr-prediction-markets/"
+      ]
+    }
+  ],
+  "corrections": [
+    "The claim says 'about a month'. The probes were reported closed on 2025-07-15 and the 1789 investment was announced on 2025-08-26, about six weeks later.",
+    "The claim lists five states. The CFTC also sued Minnesota (2026-05-19) and Utah (2026-10-27), and trackers count nine or ten states in total.",
+    "The claim says the White House 'lobbied state officials'. The documented instance is the White House Office of Intergovernmental Affairs giving North Carolina lawmakers information on federal policy, per the NC Speaker's spokesman as reported by the NYT.",
+    "Curtis's request also sought a subpoena for Hunter Biden. It was not aimed solely at the Trump family."
+  ],
+  "denials_and_context": [
+    "Polymarket/Coplan: the company was 'cleared of any wrongdoing', and the Biden-era raid was a 'last-ditch effort' to shut it down. The DOJ, CFTC and SDNY declined to comment.",
+    "The probes began under the previous administration and ended without charges. Nothing shows the Trump family or 1789 Capital played any role in closing them, and Axios reports 1789 waited for the legal path to clear before investing.",
+    "Don Jr.'s spokesperson: he 'does not interface with the federal government on behalf of any company he invests in or advises' and does not trade on prediction markets.",
+    "Selig: the CFTC treats all market participants alike. He called McGovern's suggestion of White House interference 'insulting'.",
+    "Kalshi called the 2026-08-27 NYT story one-sided and says Don Jr. advises on marketing, not regulation.",
+    "The White House (Anna Kelly, in a separate August 2026 context) said 'There are no conflicts of interest.' No specific response to the NYT story was found.",
+    "Courts are split on CFTC preemption (3rd Circuit for Kalshi; 9th and 6th Circuits for the states), so the federal push has not yet produced the outcome the industry wants.",
+    "Source limits: covers.com and cftc.gov could not be read directly, and the NYT and Bloomberg originals were not read directly. Findings rely on consistent coverage across several outlets."
+  ],
+  "sources": [
+    {
+      "title": "Polymarket Probe Ended by DOJ in Win for Crypto Bets Under Trump",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-07-15/polymarket-probe-ended-by-doj-in-win-for-crypto-bets-under-trump",
+      "date": "2025-07-15"
+    },
+    {
+      "title": "US Justice Department and CFTC close probes into Polymarket: Bloomberg",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/regulation/2025-07-15-us-justice-department-and-cftc-close-probes-into-polymarket-bloomberg-362703",
+      "date": "2025-07-15"
+    },
+    {
+      "title": "Trump administration ends Polymarket investigations without charges",
+      "publisher": "CNBC via NBC San Diego",
+      "url": "https://www.nbcsandiego.com/news/business/money-report/trump-administration-ends-polymarket-investigations-without-charges/3868886/",
+      "date": "2025-07-15"
+    },
+    {
+      "title": "Justice Department ends investigation into Polymarket",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/justice-department-ends-investigation-polymarket",
+      "date": "2025-07-15"
+    },
+    {
+      "title": "Scoop: Donald Trump Jr.'s VC firm bets on Polymarket",
+      "publisher": "Axios",
+      "url": "https://www.axios.com/2025/08/26/trump-jr-vc-fund-polymarket",
+      "date": "2025-08-26"
+    },
+    {
+      "title": "Donald Trump Jr. invests in Polymarket and joins advisory board",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/368292/donald-trump-jr-invests-in-polymarket-and-joins-advisory-board",
+      "date": "2025-08-26"
+    },
+    {
+      "title": "Polymarket secures investment from Trump Jr-backed 1789 Capital",
+      "publisher": "Reuters via The Star",
+      "url": "https://www.thestar.com.my/tech/tech-news/2025/08/27/polymarket-secures-investment-from-trump-jr-backed-1789-capital",
+      "date": "2025-08-27"
+    },
+    {
+      "title": "Polymarket can go live in the US following CFTC ruling, CEO says",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/amp/post/369377/polymarket-can-go-live-in-the-us-following-cftc-ruling-ceo-says",
+      "date": "2025-09-03"
+    },
+    {
+      "title": "CFTC no-action letter for Polymarket's QCEX",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/cftc-no-action-polymarket-letter-qcex-event-contracts",
+      "date": "2025-09-03"
+    },
+    {
+      "title": "CFTC sues Illinois, Arizona, Connecticut over prediction markets",
+      "publisher": "Covers",
+      "url": "https://www.covers.com/industry/cftc-sues-illinois-arizona-connecticut-prediction-markets-april-2-2026",
+      "date": "2026-04-02"
+    },
+    {
+      "title": "Trump's CFTC sues states over Kalshi, Polymarket",
+      "publisher": "NPR",
+      "url": "https://npr.org/2026/04/02/nx-s1-5771635/trump-cftc-kalshi-polymarket-lawsuits",
+      "date": "2026-04-02"
+    },
+    {
+      "title": "Trump's top regulator for prediction markets pledges crackdown on insider trading",
+      "publisher": "KRDO (AP)",
+      "url": "https://krdo.com/news/2026/04/16/trumps-top-regulator-for-prediction-markets-pledges-crackdown-on-insider-trading/",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "CFTC sues New York over prediction market crackdown",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/398886/cftc-sues-new-york-over-prediction-market-crackdown-as-38-ags-back-massachusetts-kalshi-case",
+      "date": "2026-04-24"
+    },
+    {
+      "title": "CFTC sues New York gaming regulators over prediction markets crackdown",
+      "publisher": "Courthouse News",
+      "url": "https://courthousenews.com/cftc-sues-new-york-gaming-regulators-over-prediction-markets-crackdown/",
+      "date": "2026-04-24"
+    },
+    {
+      "title": "CFTC sues Wisconsin escalating federal-state clash",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/regulation/2026-04-28-cftc-sues-wisconsin-federal-state-clash-prediction-market-oversight-399253",
+      "date": "2026-04-28"
+    },
+    {
+      "title": "CFTC sues Wisconsin gaming administration",
+      "publisher": "Courthouse News",
+      "url": "https://www.courthousenews.com/articles/cftc-sues-wisconsin-gaming-administration-in-response-to-kalshi-crackdown",
+      "date": "2026-04-28"
+    },
+    {
+      "title": "CFTC sues Minnesota over first explicit state ban on prediction markets",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/regulation/2026-05-19-cftc-sues-minnesota-first-explicit-state-ban-prediction-markets-401917",
+      "date": "2026-05-19"
+    },
+    {
+      "title": "CFTC flexes emergency authority to keep Kalshi operating amid New York lawsuit",
+      "publisher": "The Block",
+      "url": "https://theblock.co/news/regulation/2026-08-11-cftc-flexes-emergency-authority-kalshi-operating-amid-new-york-lawsuit-411507",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Trump administration attempts to stop states from regulating online prediction markets",
+      "publisher": "NY1 / Spectrum News",
+      "url": "https://ny1.com/nyc/all-boroughs/news/2026/08/19/trump-administration-attempts-to-stop-states-from-regulating-online-prediction-markets",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "Trump Jr And White House Both Lobbied States Over Prediction Markets",
+      "publisher": "Gambling.com",
+      "url": "https://www.gambling.com/news/trump-jr-and-white-house-both-lobbied-states-over-prediction-markets",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "Trump Jr., White House Step Into Prediction Market's Fight vs. States",
+      "publisher": "Gambling Insider",
+      "url": "https://gamblinginsider.com/news/193604/trump-jr-white-house-state-prediction-market-fight",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "Kalshi rebuts report Trump Jr pitched GOP attorneys general",
+      "publisher": "Gaming.net",
+      "url": "https://www.gaming.net/kalshi-rebuts-report-trump-jr-pitched-gop-attorneys-general/",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "Trump Jr. and White House directly engage state officials on prediction market regulation",
+      "publisher": "SCCG",
+      "url": "https://sccgmanagement.com/sccg-articles/2026/08/28/trump-jr-and-white-house-directly-engage-state-officials-on-prediction-market-regulation/",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "States can regulate prediction markets as gambling, federal appeals court rules",
+      "publisher": "CNN via KRDO",
+      "url": "https://krdo.com/news/2026/08/28/states-can-regulate-prediction-markets-as-gambling-federal-appeals-court-rules",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "Clash between prediction markets and states sets off a furious political battle",
+      "publisher": "NYT via GV Wire",
+      "url": "https://gvwire.com/2026/08/29/clash-between-prediction-markets-and-states-sets-off-a-furious-political-battle/",
+      "date": "2026-08-29"
+    },
+    {
+      "title": "Trump Jr.-linked 1789 Capital leads Polymarket's $1B raise",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round",
+      "date": "2026-08-31"
+    },
+    {
+      "title": "Sen. Curtis seeks Trump Jr., Hunter Biden subpoenas",
+      "publisher": "Axios",
+      "url": "https://www.axios.com/2026/09/22/john-curtis-trump-jr-hunter-biden-subpoenas",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "GOP Senator Wants Probe Into Trump Jr.'s Prediction Market Ties",
+      "publisher": "Legal Sports Report",
+      "url": "https://www.legalsportsreport.com/278593/gop-senator-wants-probe-into-trump-jr-s-prediction-market-ties/",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "Senator calls for Trump Jr. probe over prediction markets ties",
+      "publisher": "SBC Americas",
+      "url": "https://sbcamericas.com/2026/09/23/curtis-trump-jr-prediction-markets/",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "US court rules against Kalshi, says states can regulate prediction markets",
+      "publisher": "Al Jazeera (Reuters)",
+      "url": "https://www.aljazeera.com/news/2026/9/25/us-court-rules-against-kalshi-says-states-can-regulate-prediction-markets",
+      "date": "2026-09-25"
+    },
+    {
+      "title": "The legal war over prediction markets is getting crazier",
+      "publisher": "The New Republic",
+      "url": "https://newrepublic.com/article/214489/legal-war-prediction-markets-crazier",
+      "date": "2026-10"
+    },
+    {
+      "title": "CFTC sues Utah as battle over prediction market regulation intensifies",
+      "publisher": "The Block",
+      "url": "https://theblock.co/news/regulation/2026-10-27-cftc-sues-utah-battle-over-prediction-market-regulation-intensifies-431922",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "CFTC and Justice Department sue Utah over prediction market enforcement",
+      "publisher": "Sportsbook Review",
+      "url": "https://www.sportsbookreview.com/news/cftc-justice-department-sue-utah-over-prediction-market-enforcement-oct-28-2026/",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "CFTC Sues Utah to Block Kalshi Crackdown After State's Court Victory",
+      "publisher": "DeFi Rate",
+      "url": "https://defirate.com/news/cftc-sues-utah-block-kalshi-crackdown/",
+      "date": "2026-10"
+    }
+  ],
+  "entities": [
+    {
+      "id": "polymarket",
+      "name": "Polymarket",
+      "type": "company",
+      "description": "Crypto-based prediction market; DOJ/CFTC probes closed July 2025."
+    },
+    {
+      "id": "kalshi",
+      "name": "Kalshi",
+      "type": "company",
+      "description": "CFTC-registered prediction market; Don Jr. is a strategic adviser."
+    },
+    {
+      "id": "1789-capital",
+      "name": "1789 Capital",
+      "type": "fund",
+      "description": "VC firm where Don Jr. is a partner; Polymarket investor."
+    },
+    {
+      "id": "donald-trump-jr",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "1789 Capital partner; Polymarket advisory board; Kalshi adviser."
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "President; publicly backed exclusive CFTC authority over prediction markets."
+    },
+    {
+      "id": "doj",
+      "name": "U.S. Department of Justice",
+      "type": "government",
+      "description": "Ran the criminal Polymarket inquiry (SDNY), closed July 2025; co-plaintiff in Utah suit."
+    },
+    {
+      "id": "sdny",
+      "name": "U.S. Attorney's Office, Southern District of New York",
+      "type": "government",
+      "description": "Manhattan federal prosecutors who ran the Polymarket criminal probe."
+    },
+    {
+      "id": "cftc",
+      "name": "Commodity Futures Trading Commission",
+      "type": "government",
+      "description": "Closed its Polymarket probe July 2025; sued states in 2026."
+    },
+    {
+      "id": "caroline-pham",
+      "name": "Caroline Pham",
+      "type": "person",
+      "description": "CFTC Acting Chair when the Polymarket probe closed."
+    },
+    {
+      "id": "mike-selig",
+      "name": "Mike Selig",
+      "type": "person",
+      "description": "CFTC Chair from Dec 2025; led suits against states."
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Office of Intergovernmental Affairs briefed NC lawmakers on prediction-market policy."
+    },
+    {
+      "id": "shayne-coplan",
+      "name": "Shayne Coplan",
+      "type": "person",
+      "description": "Polymarket founder/CEO; home searched by FBI Nov 2024; not charged."
+    },
+    {
+      "id": "omeed-malik",
+      "name": "Omeed Malik",
+      "type": "person",
+      "description": "1789 Capital founder; negotiated Polymarket investment."
+    },
+    {
+      "id": "jim-mcgovern",
+      "name": "Jim McGovern",
+      "type": "person",
+      "description": "House Democrat who asked Selig about White House pressure on a Polymarket probe."
+    },
+    {
+      "id": "john-curtis",
+      "name": "John Curtis",
+      "type": "person",
+      "description": "Republican senator from Utah who sought a Judiciary probe of presidential-family dealings."
+    },
+    {
+      "id": "chuck-grassley",
+      "name": "Chuck Grassley",
+      "type": "person",
+      "description": "Senate Judiciary Committee chair; recipient of Curtis letter."
+    },
+    {
+      "id": "dick-durbin",
+      "name": "Dick Durbin",
+      "type": "person",
+      "description": "Senate Judiciary ranking member; recipient of Curtis letter."
+    },
+    {
+      "id": "hunter-biden",
+      "name": "Hunter Biden",
+      "type": "person",
+      "description": "Also named in Curtis's subpoena request."
+    },
+    {
+      "id": "senate-judiciary-committee",
+      "name": "Senate Judiciary Committee",
+      "type": "government",
+      "description": "Asked by Curtis to investigate presidential-family dealings."
+    },
+    {
+      "id": "us-congress",
+      "name": "U.S. Congress",
+      "type": "government",
+      "description": "Venue of McGovern questioning and Curtis request."
+    },
+    {
+      "id": "destin-hall",
+      "name": "Destin Hall",
+      "type": "person",
+      "description": "North Carolina House Speaker whose spokesman described the White House briefing."
+    },
+    {
+      "id": "north-carolina",
+      "name": "North Carolina (state government)",
+      "type": "government",
+      "description": "State legislature briefed by White House on prediction markets."
+    },
+    {
+      "id": "jim-harrell",
+      "name": "Jim Harrell",
+      "type": "person",
+      "description": "Former NC legislator, Kalshi lobbyist, reportedly helped shape NC provision."
+    },
+    {
+      "id": "arizona",
+      "name": "State of Arizona",
+      "type": "government",
+      "description": "Sued by CFTC 2026-04-02."
+    },
+    {
+      "id": "connecticut",
+      "name": "State of Connecticut",
+      "type": "government",
+      "description": "Sued by CFTC 2026-04-02."
+    },
+    {
+      "id": "illinois",
+      "name": "State of Illinois",
+      "type": "government",
+      "description": "Sued by CFTC 2026-04-02."
+    },
+    {
+      "id": "new-york-state",
+      "name": "State of New York",
+      "type": "government",
+      "description": "Sued by CFTC 2026-04-24 (Hochul, James, Gaming Commission)."
+    },
+    {
+      "id": "wisconsin",
+      "name": "State of Wisconsin",
+      "type": "government",
+      "description": "Sued by CFTC 2026-04-28."
+    },
+    {
+      "id": "minnesota",
+      "name": "State of Minnesota",
+      "type": "government",
+      "description": "Sued by CFTC 2026-05-19 over first state ban."
+    },
+    {
+      "id": "utah",
+      "name": "State of Utah",
+      "type": "government",
+      "description": "Sued by CFTC and DOJ 2026-10-27."
+    },
+    {
+      "id": "letitia-james",
+      "name": "Letitia James",
+      "type": "person",
+      "description": "New York AG; sued Coinbase, Gemini and Kalshi; defendant in CFTC suit."
+    },
+    {
+      "id": "derek-brown",
+      "name": "Derek Brown",
+      "type": "person",
+      "description": "Utah AG; sued Kalshi Oct 2026; defendant in CFTC suit."
+    },
+    {
+      "id": "qcex",
+      "name": "QCEX (QCX LLC / QC Clearing LLC)",
+      "type": "company",
+      "description": "CFTC-licensed exchange and clearinghouse bought by Polymarket for $112M."
+    },
+    {
+      "id": "new-york-times",
+      "name": "The New York Times",
+      "type": "media",
+      "description": "Reported 2026-08-27 on Don Jr. and White House engagement with states."
+    },
+    {
+      "id": "bloomberg",
+      "name": "Bloomberg",
+      "type": "media",
+      "description": "First reported the Polymarket probe closures."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "doj",
+      "target": "polymarket",
+      "label": "closed criminal probe without charges",
+      "type": "legal",
+      "date": "2025-07-15"
+    },
+    {
+      "source": "sdny",
+      "target": "polymarket",
+      "label": "ran criminal inquiry into",
+      "type": "legal",
+      "date": "2024-11"
+    },
+    {
+      "source": "sdny",
+      "target": "doj",
+      "label": "component of",
+      "type": "ownership"
+    },
+    {
+      "source": "cftc",
+      "target": "polymarket",
+      "label": "closed investigation into",
+      "type": "regulatory",
+      "date": "2025-07-15"
+    },
+    {
+      "source": "caroline-pham",
+      "target": "cftc",
+      "label": "acting chair at time of closure",
+      "type": "regulatory",
+      "date": "2025-07"
+    },
+    {
+      "source": "1789-capital",
+      "target": "polymarket",
+      "label": "strategic investment (eight figures)",
+      "type": "money",
+      "date": "2025-08-26"
+    },
+    {
+      "source": "1789-capital",
+      "target": "polymarket",
+      "label": "planned ~$300M in $1B round (total ~$500M)",
+      "type": "money",
+      "date": "2026-08-31",
+      "amount_usd": 300000000
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "polymarket",
+      "label": "joined advisory board",
+      "type": "advisory",
+      "date": "2025-08-26"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "1789-capital",
+      "label": "partner at",
+      "type": "ownership"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "kalshi",
+      "label": "strategic adviser",
+      "type": "advisory",
+      "date": "2025-01"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "donald-trump",
+      "label": "son of",
+      "type": "family"
+    },
+    {
+      "source": "omeed-malik",
+      "target": "1789-capital",
+      "label": "founder of",
+      "type": "ownership"
+    },
+    {
+      "source": "shayne-coplan",
+      "target": "polymarket",
+      "label": "founder and CEO",
+      "type": "ownership"
+    },
+    {
+      "source": "polymarket",
+      "target": "qcex",
+      "label": "acquired for $112M",
+      "type": "money",
+      "date": "2025-07",
+      "amount_usd": 112000000
+    },
+    {
+      "source": "cftc",
+      "target": "qcex",
+      "label": "staff no-action letter",
+      "type": "regulatory",
+      "date": "2025-09-03"
+    },
+    {
+      "source": "white-house",
+      "target": "north-carolina",
+      "label": "briefed lawmakers on federal prediction-market policy",
+      "type": "political",
+      "date": "2026"
+    },
+    {
+      "source": "jim-harrell",
+      "target": "kalshi",
+      "label": "lobbyist for",
+      "type": "commercial"
+    },
+    {
+      "source": "mike-selig",
+      "target": "cftc",
+      "label": "chair of",
+      "type": "regulatory",
+      "date": "2025-12-18"
+    },
+    {
+      "source": "cftc",
+      "target": "arizona",
+      "label": "sued over prediction markets",
+      "type": "legal",
+      "date": "2026-04-02"
+    },
+    {
+      "source": "cftc",
+      "target": "connecticut",
+      "label": "sued over prediction markets",
+      "type": "legal",
+      "date": "2026-04-02"
+    },
+    {
+      "source": "cftc",
+      "target": "illinois",
+      "label": "sued over prediction markets",
+      "type": "legal",
+      "date": "2026-04-02"
+    },
+    {
+      "source": "cftc",
+      "target": "new-york-state",
+      "label": "sued over prediction markets (SDNY)",
+      "type": "legal",
+      "date": "2026-04-24"
+    },
+    {
+      "source": "cftc",
+      "target": "wisconsin",
+      "label": "sued over prediction markets",
+      "type": "legal",
+      "date": "2026-04-28"
+    },
+    {
+      "source": "cftc",
+      "target": "minnesota",
+      "label": "sued over prediction-market ban",
+      "type": "legal",
+      "date": "2026-05-19"
+    },
+    {
+      "source": "cftc",
+      "target": "utah",
+      "label": "sued (with DOJ) over prediction markets",
+      "type": "legal",
+      "date": "2026-10-27"
+    },
+    {
+      "source": "doj",
+      "target": "utah",
+      "label": "co-plaintiff in suit against",
+      "type": "legal",
+      "date": "2026-10-27"
+    },
+    {
+      "source": "letitia-james",
+      "target": "kalshi",
+      "label": "sued",
+      "type": "legal",
+      "date": "2026-07-31"
+    },
+    {
+      "source": "derek-brown",
+      "target": "kalshi",
+      "label": "sued",
+      "type": "legal",
+      "date": "2026-10-20"
+    },
+    {
+      "source": "jim-mcgovern",
+      "target": "mike-selig",
+      "label": "asked about White House pressure on Polymarket probe",
+      "type": "political",
+      "date": "2026-04-16"
+    },
+    {
+      "source": "john-curtis",
+      "target": "senate-judiciary-committee",
+      "label": "requested probe of presidential-family dealings",
+      "type": "political",
+      "date": "2026-09-21"
+    },
+    {
+      "source": "john-curtis",
+      "target": "donald-trump-jr",
+      "label": "sought subpoena of",
+      "type": "political",
+      "date": "2026-09-21"
+    },
+    {
+      "source": "john-curtis",
+      "target": "hunter-biden",
+      "label": "sought subpoena of",
+      "type": "political",
+      "date": "2026-09-21"
+    },
+    {
+      "source": "chuck-grassley",
+      "target": "senate-judiciary-committee",
+      "label": "chair of",
+      "type": "political"
+    },
+    {
+      "source": "dick-durbin",
+      "target": "senate-judiciary-committee",
+      "label": "ranking member of",
+      "type": "political"
+    },
+    {
+      "source": "senate-judiciary-committee",
+      "target": "us-congress",
+      "label": "committee of",
+      "type": "political"
+    },
+    {
+      "source": "donald-trump",
+      "target": "cftc",
+      "label": "publicly backed exclusive authority of",
+      "type": "political",
+      "date": "2026-05-26"
+    },
+    {
+      "source": "new-york-times",
+      "target": "white-house",
+      "label": "reported state outreach by",
+      "type": "media",
+      "date": "2026-08-27"
+    },
+    {
+      "source": "bloomberg",
+      "target": "polymarket",
+      "label": "reported probe closures",
+      "type": "media",
+      "date": "2025-07-15"
+    }
+  ],
+  "leads": [
+    {
+      "title": "CFTC no-action letter cleared Polymarket's US return a week after 1789 invested",
+      "why_connected": "CFTC staff relief for Polymarket's $112M QCEX acquisition came on about 2025-09-03, days after Don Jr. joined the board. It is a separate regulatory benefit whose decision-makers have not been examined.",
+      "entities": [
+        "cftc",
+        "polymarket",
+        "qcex",
+        "1789-capital",
+        "donald-trump-jr",
+        "caroline-pham"
+      ],
+      "source_url": "https://www.theblock.co/amp/post/369377/polymarket-can-go-live-in-the-us-following-cftc-ruling-ceo-says"
+    },
+    {
+      "title": "1789 Capital to put ~$300M into Polymarket's $1B round at $21B valuation",
+      "why_connected": "Don Jr.'s firm's exposure grows to a reported ~$500M while the CFTC litigates for the industry. Worth checking the amounts and whether the round closed.",
+      "entities": [
+        "1789-capital",
+        "polymarket",
+        "donald-trump-jr"
+      ],
+      "source_url": "https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round"
+    },
+    {
+      "title": "CFTC and DOJ sue Utah, Sen. Curtis's home state, over prediction markets",
+      "why_connected": "Federal suit against the state whose AG sued Kalshi, filed a month after Curtis sought a probe of Don Jr.'s ties. It extends the federal-preemption campaign.",
+      "entities": [
+        "cftc",
+        "doj",
+        "utah",
+        "derek-brown",
+        "kalshi",
+        "john-curtis"
+      ],
+      "source_url": "https://theblock.co/news/regulation/2026-10-27-cftc-sues-utah-battle-over-prediction-market-regulation-intensifies-431922"
+    },
+    {
+      "title": "CFTC uses emergency authority to keep Kalshi operating amid New York lawsuit",
+      "why_connected": "An unusual emergency order protecting a company Don Jr. advises, issued after NY AG James sued Kalshi.",
+      "entities": [
+        "cftc",
+        "kalshi",
+        "letitia-james",
+        "mike-selig",
+        "donald-trump-jr"
+      ],
+      "source_url": "https://theblock.co/news/regulation/2026-08-11-cftc-flexes-emergency-authority-kalshi-operating-amid-new-york-lawsuit-411507"
+    },
+    {
+      "title": "Ninth and Sixth Circuits rule states can regulate prediction markets, setting up a Supreme Court fight",
+      "why_connected": "These rulings decide whether the federal push that benefits the Trump-linked platforms succeeds.",
+      "entities": [
+        "kalshi",
+        "polymarket",
+        "cftc"
+      ],
+      "source_url": "https://krdo.com/news/2026/08/28/states-can-regulate-prediction-markets-as-gambling-federal-appeals-court-rules"
+    }
+  ],
+  "audit": {
+    "checked": [
+      "DOJ/CFTC closure of the Polymarket probes in July 2025 and who confirmed it",
+      "CFTC's state lawsuits, including Utah (27 Oct 2026) and the total count",
+      "Sen. Curtis's 21 Sep 2026 letter to Grassley and Durbin"
+    ],
+    "result": "upheld",
+    "changes": [
+      "Closure confirmed across outlets as resting on Bloomberg/CNBC anonymous sourcing plus Polymarket's statements; DOJ/CFTC declined comment, so the write-up's caution stands.",
+      "Added the fuller list of states the CFTC has sued (incl. Kentucky, New Mexico, Rhode Island) and the reported injunctions, attributed to a single report.",
+      "Added that Curtis's letter also cited the Kremlev wedding gifts and explicitly did not allege lawbreaking. Verdict and confidence unchanged."
+    ],
+    "new_sources": [
+      {
+        "title": "CFTC Sues Utah to Block Kalshi Crackdown After State's Court Victory",
+        "publisher": "DeFi Rate",
+        "url": "https://defirate.com/news/cftc-sues-utah-block-kalshi-crackdown/",
+        "date": "2026-10"
+      },
+      {
+        "title": "Senator calls for Trump Jr. probe over prediction markets ties",
+        "publisher": "SBC Americas",
+        "url": "https://sbcamericas.com/2026/09/23/curtis-trump-jr-prediction-markets/",
+        "date": "2026-09-23"
+      },
+      {
+        "title": "Trump administration ends Polymarket investigations without charges",
+        "publisher": "CNBC (via NBC San Diego)",
+        "url": "https://www.nbcsandiego.com/news/business/money-report/trump-administration-ends-polymarket-investigations-without-charges/3868886/",
+        "date": "2025-07-15"
+      }
+    ]
+  }
+}

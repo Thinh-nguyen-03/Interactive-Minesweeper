@@ -1,0 +1,752 @@
+{
+  "id": "C48",
+  "title": "Trump presidential library foundation: settlement money, Miami land, IRS status",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "Documented: the first Trump Presidential Library Fund (incorporated Dec 2024) was administratively dissolved in Sept 2025. A successor Donald J. Trump Presidential Library Foundation (May 2025; trustees Eric Trump, Michael Boulos and James Kiley) won IRS exemption in 10 days during the Oct 2025 shutdown and was deeded the Miami Dade College parcel (county-assessed at $67M+) for $10, with two lawsuits failing so far to stop it. The weakest element is '$60M+ unaccounted for': Trump's June 2026 disclosure shows $56.5M paid to the foundation and $8M from X paid to Trump personally, so lawmakers now allege $6.5M-$14.5M missing plus $7M unexplained. The 747 transfer to the foundation is the stated plan, but it is not settled.",
+  "sub_claims": [
+    {
+      "statement": "The first library fund was dissolved in Sept 2025 and ~$60M+ of settlement money earmarked for the library is unaccounted for, per Warren, Blumenthal and Stansbury.",
+      "verdict": "partly-accurate",
+      "finding": "The fund was incorporated in Florida on 20 Dec 2024 by Trump-entity lawyer Jacob Roth and administratively dissolved in late Sept 2025 for not filing an annual report. The lawmakers' March-April 2026 letters alleged up to $63M lacked any public accounting. Trump's OGE disclosure, released 30 Jun 2026, then showed $64.5M in total: $56.5M paid to the Foundation by Meta, ABC and Paramount, and $8M paid by X to Trump personally. The lawmakers' 16 Jul 2026 letter alleges $6.5M-$14.5M missing and $7M of unexplained spending against the Foundation's reported $50M of revenue (as of 10 Oct 2025). The dissolution and the allegation are documented, but 'unaccounted for' now refers to a much smaller gap, and that gap remains an allegation.",
+      "sources": [
+        "https://www.wlrn.org/government-politics/2025-10-16/trump-presidential-library-nonprofit-miami",
+        "https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-stansbury-press-big-tech-ceos-on-trump-settlements-to-now-dissolved-library-fund",
+        "https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-stansbury-press-trump-on-missing-millions-donated-to-dissolved-trump-library-fund-new-big-tech-ceo-responses-raise-fresh-questions/",
+        "https://www.warren.senate.gov/?p=39088",
+        "https://www.warren.senate.gov/wp-content/uploads/2026/07/Warren-Letter-to-Trump-Library-Foundation-re-Financial-Disclosures.pdf",
+        "https://www.thedailybeast.com/donald-trumps-librarys-missing-millions-mystery-targeted-in-new-probe"
+      ]
+    },
+    {
+      "statement": "A successor foundation received Miami Dade College land worth $67M+ for $10.",
+      "verdict": "confirmed",
+      "finding": "The MDC trustees voted on 23 Sep 2025 to give the ~2.6-acre downtown parcel to the state. DeSantis and the Cabinet (Board of Trustees of the Internal Improvement Trust Fund) voted unanimously on 30 Sep 2025 to deed it to the foundation for $10, on condition that construction starts within five years. The county appraiser's 2025 assessment is more than $67M; one report cites a $60M appraisal, and plaintiffs estimate ~$300M market value. The deed was recorded in Jan-Feb 2026.",
+      "sources": [
+        "https://www.myfloridacfo.com/news/pressreleases/press-release-details/2025/09/30/in-case-you-missed-it--governor-ron-desantis-and-cabinet-deed-land-for-the-donald-j.-trump-presidential-library",
+        "https://www.nbcmiami.com/news/local/lawsuit-challenges-vote-to-gift-prime-miami-real-estate-for-trumps-presidential-library/3702519/",
+        "https://keyt.com/politics/cnn-us-politics/2026/05/13/locals-sue-to-block-prime-miami-land-from-becoming-trump-presidential-library/"
+      ]
+    },
+    {
+      "statement": "The foundation got fast-track IRS approval during the government shutdown.",
+      "verdict": "confirmed",
+      "finding": "It applied on 10 Oct 2025 and received an IRS determination letter dated 20 Oct 2025, during the shutdown. Normal processing is 3-6 months, and lawyers called it 'virtually unheard of'. The request cited settlement money in limbo. The application projected ~$950M of contributions ($50M in 2025, $300M in 2026, $600M in 2027). The day after the approval, the IRS announced it would not process exemption applications for the rest of the shutdown (Miami Herald). The IRS declined comment, citing privacy. No evidence of political intervention was found; 'special treatment' is the Miami Herald's characterization.",
+      "sources": [
+        "https://www.cpapracticeadvisor.com/2025/11/20/trumps-library-foundation-got-special-treatment-from-the-irs-during-the-government-shutdown/173612/",
+        "https://www.cpapracticeadvisor.com/2025/11/19/tax-documents-show-trump-library-is-counting-on-a-1-billion-fundraising-haul/173534/",
+        "https://www.wlrn.org/government-politics/2025-11-20/trump-library-foundation-expects-to-raise-50-million-this-year"
+      ]
+    },
+    {
+      "statement": "The Qatari 747 is slated to go to the library foundation.",
+      "verdict": "mostly-accurate",
+      "finding": "Per C16, the jet is to transfer to the foundation by 1 Jan 2029, and Bondi and White House counsel called this legally permissible. It flew as Air Force One from mid-2026. A White House official said there was 'no final decision'. In Oct 2026 Eric Trump told NBC that displaying it in Miami is 'not the plan at the moment' and that an older retired Air Force One would be shown instead.",
+      "sources": [
+        "https://thepulseofnh.com/no-final-decision-on-future-of-qatar-donated-air-force-one-after-trumps-term-white-house-official-says/"
+      ]
+    },
+    {
+      "statement": "Foundation officers include Eric Trump, Michael Boulos and James Kiley.",
+      "verdict": "confirmed",
+      "finding": "The May 2025 Florida incorporation lists Eric Trump (president and trustee), Michael Boulos (Tiffany Trump's husband) and James Kiley (an attorney who has represented Trump) as trustees. Tiffany Trump's inclusion is reported inconsistently and is unverified. The NYT found that a proposed budget allotted $400,000 to officers, while a Florida charity filing said none expected pay. The first fund's directors were not identified.",
+      "sources": [
+        "https://cbsnews.com/news/trump-library-democratic-congress",
+        "https://www.wlrn.org/government-politics/2025-11-20/trump-library-foundation-expects-to-raise-50-million-this-year",
+        "https://www.citizensforethics.org/reports-investigations/crew-investigations/the-trump-organization-is-developing-trumps-presidential-library-maybe-as-a-trump-hotel/"
+      ]
+    },
+    {
+      "statement": "The land transfer has been challenged in court.",
+      "verdict": "confirmed",
+      "finding": "In the state case, Marvin Dunn's Sunshine Law suit won a pause and then a temporary injunction (Oct-Nov 2025, Judge Mavel Ruiz; Dunn posted his home as bond). It was dismissed on 18 Dec 2025 after the MDC board re-voted. In the federal case, Sistrunk Seeds (Dunn's Overtown Farm) et al. v. Trump et al. (S.D. Fla. 1:2026cv23365) was filed on 13 May 2026 by the Constitutional Accountability Center and Gelber Schachter & Greenberg under the Domestic Emoluments Clause, alleging the 'library' is a hotel venture. In Sept 2026 Judge Rodolfo Ruiz II stayed discovery and said the immunity and standing defenses could 'dispose of the entire case'. No final ruling was found as of Nov 2026.",
+      "sources": [
+        "https://www.nbcnews.com/politics/donald-trump/trump-presidential-library-judge-blocks-miami-land-transfer-rcna237725",
+        "https://www.local10.com/news/local/2025/11/03/judge-rules-to-temporarily-stop-transfer-of-miami-dade-college-land-for-trump-library",
+        "https://www.wlrn.org/government-politics/2025-12-19/judge-dismisses-complaint-against-miami-land-transfer-for-trumps-presidential-library",
+        "https://keyt.com/politics/cnn-us-politics/2026/05/13/locals-sue-to-block-prime-miami-land-from-becoming-trump-presidential-library/",
+        "https://www.theusconstitution.org/litigation/sistrunk-seeds-v-trump/",
+        "https://dockets.justia.com/docket/florida/flsdce/1:2026cv23365/714261",
+        "https://www.nwaonline.com/news/2026/sep/13/dismissal-eyed-for-trump-library-suit/"
+      ]
+    },
+    {
+      "statement": "The foundation, White House and payers have explained the money trail.",
+      "verdict": "false",
+      "finding": "No on-record foundation response to reporters or to the lawmakers was found. The White House refers questions to the library. The companies told lawmakers they paid as their agreements required, without saying where the money went after the fund dissolved. The IRS declined comment.",
+      "sources": [
+        "https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-stansbury-press-trump-on-missing-millions-donated-to-dissolved-trump-library-fund-new-big-tech-ceo-responses-raise-fresh-questions/",
+        "https://www.thedailybeast.com/donald-trumps-librarys-missing-millions-mystery-targeted-in-new-probe",
+        "https://www.cpapracticeadvisor.com/2025/11/20/trumps-library-foundation-got-special-treatment-from-the-irs-during-the-government-shutdown/173612/"
+      ]
+    }
+  ],
+  "corrections": [
+    "The claim says ~$60M+ is unaccounted for; after Trump's 30 Jun 2026 disclosure, $56.5M is shown as paid to the foundation, and the lawmakers' current allegation is $6.5M-$14.5M missing plus $7M of unexplained expenditures.",
+    "X's settlement (~$8M per the disclosure, not the ~$10M press figure) was paid to Trump personally, not to the library.",
+    "$67M is the county assessed value; reported estimates range from a $60M appraisal to ~$300M market value.",
+    "The 747 transfer to the library is the stated plan, not settled; Eric Trump says it is not planned for display in Miami."
+  ],
+  "denials_and_context": [
+    "The foundation has not responded publicly; the White House refers questions to it; the IRS cites privacy law.",
+    "Presidential library foundations are private nonprofits not required to disclose donors; no evidence that funds went to Trump family members has been shown, although the lawmakers ask.",
+    "The land transfer passed two public MDC votes and a unanimous Cabinet vote, and survived the state lawsuit; DeSantis and the CFO championed it.",
+    "The federal emoluments suit faces presidential-immunity and standing defenses that the judge signaled could end it.",
+    "The money allegations come from Democratic lawmakers; the underlying records (Sunbiz, IRS letter, OGE disclosure) are official."
+  ],
+  "sources": [
+    {
+      "title": "Trump presidential library nonprofit dissolved before Miami land transfer",
+      "publisher": "WLRN (AP)",
+      "url": "https://www.wlrn.org/government-politics/2025-10-16/trump-presidential-library-nonprofit-miami",
+      "date": "2025-10-16"
+    },
+    {
+      "title": "Warren, Blumenthal, Stansbury Press Big Tech CEOs on Trump Settlements to Now-Dissolved Library Fund",
+      "publisher": "Office of Sen. Elizabeth Warren",
+      "url": "https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-stansbury-press-big-tech-ceos-on-trump-settlements-to-now-dissolved-library-fund",
+      "date": "2026-03-11"
+    },
+    {
+      "title": "Warren, Blumenthal, Stansbury Press Trump on Missing Millions Donated to Dissolved Trump Library Fund",
+      "publisher": "Office of Sen. Elizabeth Warren",
+      "url": "https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-stansbury-press-trump-on-missing-millions-donated-to-dissolved-trump-library-fund-new-big-tech-ceo-responses-raise-fresh-questions/",
+      "date": "2026-04-20"
+    },
+    {
+      "title": "Press release on Trump Library Foundation financial disclosures",
+      "publisher": "Office of Sen. Elizabeth Warren",
+      "url": "https://www.warren.senate.gov/?p=39088",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Warren Letter to Trump Library Foundation re Financial Disclosures",
+      "publisher": "Office of Sen. Elizabeth Warren",
+      "url": "https://www.warren.senate.gov/wp-content/uploads/2026/07/Warren-Letter-to-Trump-Library-Foundation-re-Financial-Disclosures.pdf",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Trump's Library Foundation Got Special Treatment From the IRS During the Government Shutdown",
+      "publisher": "Miami Herald via CPA Practice Advisor",
+      "url": "https://www.cpapracticeadvisor.com/2025/11/20/trumps-library-foundation-got-special-treatment-from-the-irs-during-the-government-shutdown/173612/",
+      "date": "2025-11-20"
+    },
+    {
+      "title": "Tax Documents Show Trump Library is Counting on a $1 Billion Fundraising Haul",
+      "publisher": "Miami Herald via CPA Practice Advisor",
+      "url": "https://www.cpapracticeadvisor.com/2025/11/19/tax-documents-show-trump-library-is-counting-on-a-1-billion-fundraising-haul/173534/",
+      "date": "2025-11-19"
+    },
+    {
+      "title": "Trump library foundation expects to raise $50 million this year",
+      "publisher": "WLRN",
+      "url": "https://www.wlrn.org/government-politics/2025-11-20/trump-library-foundation-expects-to-raise-50-million-this-year",
+      "date": "2025-11-20"
+    },
+    {
+      "title": "Governor DeSantis and Cabinet Deed Land for the Donald J. Trump Presidential Library",
+      "publisher": "Florida Chief Financial Officer",
+      "url": "https://www.myfloridacfo.com/news/pressreleases/press-release-details/2025/09/30/in-case-you-missed-it--governor-ron-desantis-and-cabinet-deed-land-for-the-donald-j.-trump-presidential-library",
+      "date": "2025-09-30"
+    },
+    {
+      "title": "Lawsuit challenges vote to gift prime Miami real estate for Trump's presidential library",
+      "publisher": "NBC Miami (AP)",
+      "url": "https://www.nbcmiami.com/news/local/lawsuit-challenges-vote-to-gift-prime-miami-real-estate-for-trumps-presidential-library/3702519/",
+      "date": "2025-10"
+    },
+    {
+      "title": "Florida judge halts transfer of downtown Miami land for Trump's presidential library",
+      "publisher": "NBC News",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-presidential-library-judge-blocks-miami-land-transfer-rcna237725",
+      "date": "2025-10"
+    },
+    {
+      "title": "Judge rules to temporarily stop transfer of Miami Dade College land for Trump library",
+      "publisher": "Local10",
+      "url": "https://www.local10.com/news/local/2025/11/03/judge-rules-to-temporarily-stop-transfer-of-miami-dade-college-land-for-trump-library",
+      "date": "2025-11-03"
+    },
+    {
+      "title": "Judge dismisses complaint against Miami land transfer for Trump's presidential library",
+      "publisher": "WLRN (AP)",
+      "url": "https://www.wlrn.org/government-politics/2025-12-19/judge-dismisses-complaint-against-miami-land-transfer-for-trumps-presidential-library",
+      "date": "2025-12-19"
+    },
+    {
+      "title": "Locals sue to block prime Miami land from becoming Trump presidential library",
+      "publisher": "CNN via KEYT",
+      "url": "https://keyt.com/politics/cnn-us-politics/2026/05/13/locals-sue-to-block-prime-miami-land-from-becoming-trump-presidential-library/",
+      "date": "2026-05-13"
+    },
+    {
+      "title": "Sistrunk Seeds v. Trump",
+      "publisher": "Constitutional Accountability Center",
+      "url": "https://www.theusconstitution.org/litigation/sistrunk-seeds-v-trump/",
+      "date": "2026-05"
+    },
+    {
+      "title": "Sistrunk Seeds Inc. et al v. Trump et al (docket)",
+      "publisher": "Justia Dockets",
+      "url": "https://dockets.justia.com/docket/florida/flsdce/1:2026cv23365/714261",
+      "date": "2026"
+    },
+    {
+      "title": "Dismissal eyed for Trump library suit",
+      "publisher": "NWA Democrat-Gazette (NYT)",
+      "url": "https://www.nwaonline.com/news/2026/sep/13/dismissal-eyed-for-trump-library-suit/",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "The Trump Organization is developing Trump's presidential library, maybe as a Trump hotel",
+      "publisher": "CREW",
+      "url": "https://www.citizensforethics.org/reports-investigations/crew-investigations/the-trump-organization-is-developing-trumps-presidential-library-maybe-as-a-trump-hotel/",
+      "date": "2026"
+    },
+    {
+      "title": "What to know about Trump's future presidential library, which he says may be a hotel",
+      "publisher": "Michigan Public (NPR)",
+      "url": "https://www.michiganpublic.org/2026-03-31/what-to-know-about-trumps-future-presidential-library-which-he-says-may-be-a-hotel",
+      "date": "2026-03-31"
+    },
+    {
+      "title": "Trump library and Democratic congressional inquiry",
+      "publisher": "CBS News",
+      "url": "https://cbsnews.com/news/trump-library-democratic-congress",
+      "date": "2026"
+    },
+    {
+      "title": "'No final decision' on future of Qatar-donated Air Force One after Trump's term",
+      "publisher": "The Pulse of NH (ABC)",
+      "url": "https://thepulseofnh.com/no-final-decision-on-future-of-qatar-donated-air-force-one-after-trumps-term-white-house-official-says/",
+      "date": "2026"
+    },
+    {
+      "title": "Donald Trump library's missing millions mystery targeted in new probe",
+      "publisher": "The Daily Beast",
+      "url": "https://www.thedailybeast.com/donald-trumps-librarys-missing-millions-mystery-targeted-in-new-probe",
+      "date": "2026"
+    }
+  ],
+  "entities": [
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "US president; namesake of the library; received X settlement payment personally per 2025 disclosure"
+    },
+    {
+      "id": "eric-trump",
+      "name": "Eric Trump",
+      "type": "person",
+      "description": "President and trustee of the library foundation; Trump Organization executive"
+    },
+    {
+      "id": "michael-boulos",
+      "name": "Michael Boulos",
+      "type": "person",
+      "description": "Tiffany Trump's husband; library foundation trustee"
+    },
+    {
+      "id": "james-kiley",
+      "name": "James Kiley",
+      "type": "person",
+      "description": "Long Island attorney who has represented Trump; library foundation trustee"
+    },
+    {
+      "id": "tiffany-trump",
+      "name": "Tiffany Trump",
+      "type": "person",
+      "description": "Trump's daughter; reported by some outlets (not all) as a foundation trustee"
+    },
+    {
+      "id": "jacob-roth",
+      "name": "Jacob Roth",
+      "type": "person",
+      "description": "Florida attorney who incorporated the first library fund"
+    },
+    {
+      "id": "trump-presidential-library-fund",
+      "name": "Trump Presidential Library Fund, Inc.",
+      "type": "fund",
+      "description": "First Florida library nonprofit (20 Dec 2024), administratively dissolved Sept 2025"
+    },
+    {
+      "id": "trump-presidential-library-foundation",
+      "name": "Donald J. Trump Presidential Library Foundation, Inc.",
+      "type": "fund",
+      "description": "Successor Florida nonprofit (May 2025); IRS-exempt 20 Oct 2025; owns the Miami parcel"
+    },
+    {
+      "id": "miami-dade-college-land",
+      "name": "Miami Dade College downtown parcel",
+      "type": "asset",
+      "description": "~2.6-acre lot by the Freedom Tower; assessed at $67M+, deeded to the foundation for $10"
+    },
+    {
+      "id": "miami-dade-college",
+      "name": "Miami Dade College",
+      "type": "government",
+      "description": "State college whose trustees gave the parcel to the state in Sept 2025"
+    },
+    {
+      "id": "florida-board-of-trustees-iitf",
+      "name": "Florida Board of Trustees of the Internal Improvement Trust Fund",
+      "type": "government",
+      "description": "Governor and Cabinet; voted 30 Sep 2025 to deed the land to the foundation"
+    },
+    {
+      "id": "ron-desantis",
+      "name": "Ron DeSantis",
+      "type": "person",
+      "description": "Florida governor; chaired the Cabinet vote; defendant in the federal emoluments suit"
+    },
+    {
+      "id": "irs",
+      "name": "Internal Revenue Service",
+      "type": "government",
+      "description": "Granted the foundation's 501(c)(3) status in 10 days during the shutdown"
+    },
+    {
+      "id": "elizabeth-warren",
+      "name": "Elizabeth Warren",
+      "type": "person",
+      "description": "US senator (D-MA) leading the inquiry into library settlement money"
+    },
+    {
+      "id": "richard-blumenthal",
+      "name": "Richard Blumenthal",
+      "type": "person",
+      "description": "US senator (D-CT), co-signer of the library letters"
+    },
+    {
+      "id": "melanie-stansbury",
+      "name": "Melanie Stansbury",
+      "type": "person",
+      "description": "US representative (D-NM), co-signer of the library letters"
+    },
+    {
+      "id": "us-congress",
+      "name": "US Congress",
+      "type": "government",
+      "description": "Body whose Democratic members are investigating"
+    },
+    {
+      "id": "abc-news",
+      "name": "ABC News",
+      "type": "media",
+      "description": "Paid $15M settlement for the library"
+    },
+    {
+      "id": "meta",
+      "name": "Meta",
+      "type": "company",
+      "description": "Paid ~$22-25M settlement toward the library"
+    },
+    {
+      "id": "paramount",
+      "name": "Paramount",
+      "type": "company",
+      "description": "Paid $16M settlement toward the library"
+    },
+    {
+      "id": "x-corp",
+      "name": "X Corp",
+      "type": "company",
+      "description": "Settled Trump suit; ~$8M paid to Trump personally per 2025 disclosure"
+    },
+    {
+      "id": "marvin-dunn",
+      "name": "Marvin Dunn",
+      "type": "person",
+      "description": "Miami historian who sued MDC under the Sunshine Law; his farm nonprofit is a federal plaintiff"
+    },
+    {
+      "id": "mavel-ruiz",
+      "name": "Mavel Ruiz",
+      "type": "person",
+      "description": "Miami-Dade circuit judge; enjoined then dismissed Dunn's state suit"
+    },
+    {
+      "id": "rodolfo-ruiz",
+      "name": "Rodolfo A. Ruiz II",
+      "type": "person",
+      "description": "US district judge (S.D. Fla.) presiding over the emoluments suit"
+    },
+    {
+      "id": "sistrunk-seeds-v-trump",
+      "name": "Sistrunk Seeds v. Trump",
+      "type": "event",
+      "description": "Federal Domestic Emoluments Clause suit over the land gift, filed 13 May 2026"
+    },
+    {
+      "id": "constitutional-accountability-center",
+      "name": "Constitutional Accountability Center",
+      "type": "company",
+      "description": "Progressive legal group representing the federal plaintiffs"
+    },
+    {
+      "id": "crew",
+      "name": "Citizens for Responsibility and Ethics in Washington",
+      "type": "company",
+      "description": "Watchdog reporting Trump Organization involvement in the library"
+    },
+    {
+      "id": "trump-organization",
+      "name": "Trump Organization",
+      "type": "company",
+      "description": "Family business that Eric Trump says is developing the library project"
+    },
+    {
+      "id": "qatar-jet",
+      "name": "Qatari Boeing 747-8",
+      "type": "asset",
+      "description": "Qatari gift used as Air Force One, slated to pass to the foundation by 2029"
+    },
+    {
+      "id": "qatar",
+      "name": "Qatar",
+      "type": "country",
+      "description": "Donor of the 747"
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Refers library questions to the foundation"
+    },
+    {
+      "id": "elon-musk",
+      "name": "Elon Musk",
+      "type": "person",
+      "description": "Owner of X Corp"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "eric-trump",
+      "target": "trump-presidential-library-foundation",
+      "label": "president and trustee of",
+      "type": "ownership",
+      "date": "2025-05"
+    },
+    {
+      "source": "michael-boulos",
+      "target": "trump-presidential-library-foundation",
+      "label": "trustee of",
+      "type": "ownership",
+      "date": "2025-05"
+    },
+    {
+      "source": "james-kiley",
+      "target": "trump-presidential-library-foundation",
+      "label": "trustee of",
+      "type": "ownership",
+      "date": "2025-05"
+    },
+    {
+      "source": "james-kiley",
+      "target": "donald-trump",
+      "label": "has served as attorney for",
+      "type": "legal"
+    },
+    {
+      "source": "michael-boulos",
+      "target": "tiffany-trump",
+      "label": "married to",
+      "type": "family"
+    },
+    {
+      "source": "eric-trump",
+      "target": "donald-trump",
+      "label": "son of",
+      "type": "family"
+    },
+    {
+      "source": "eric-trump",
+      "target": "trump-organization",
+      "label": "executive of",
+      "type": "ownership"
+    },
+    {
+      "source": "trump-organization",
+      "target": "trump-presidential-library-foundation",
+      "label": "involved in developing library project (per Eric Trump)",
+      "type": "commercial",
+      "date": "2026"
+    },
+    {
+      "source": "jacob-roth",
+      "target": "trump-presidential-library-fund",
+      "label": "incorporated",
+      "type": "legal",
+      "date": "2024-12-20"
+    },
+    {
+      "source": "trump-presidential-library-fund",
+      "target": "trump-presidential-library-foundation",
+      "label": "dissolved, succeeded by (asset transfer unconfirmed)",
+      "type": "ownership",
+      "date": "2025-09"
+    },
+    {
+      "source": "meta",
+      "target": "trump-presidential-library-foundation",
+      "label": "settlement paid to (part of $56.5M with ABC, Paramount)",
+      "type": "money",
+      "date": "2025"
+    },
+    {
+      "source": "abc-news",
+      "target": "trump-presidential-library-foundation",
+      "label": "settlement paid to (per 2025 disclosure)",
+      "type": "money",
+      "amount_usd": 15000000,
+      "date": "2024-12"
+    },
+    {
+      "source": "paramount",
+      "target": "trump-presidential-library-foundation",
+      "label": "settlement paid to",
+      "type": "money",
+      "amount_usd": 16000000,
+      "date": "2025-07"
+    },
+    {
+      "source": "x-corp",
+      "target": "donald-trump",
+      "label": "settlement paid personally (per 2025 OGE disclosure)",
+      "type": "money",
+      "amount_usd": 8000000,
+      "date": "2025"
+    },
+    {
+      "source": "irs",
+      "target": "trump-presidential-library-foundation",
+      "label": "granted tax exemption in 10 days during shutdown",
+      "type": "regulatory",
+      "date": "2025-10-20"
+    },
+    {
+      "source": "miami-dade-college",
+      "target": "florida-board-of-trustees-iitf",
+      "label": "gave downtown parcel to state",
+      "type": "regulatory",
+      "date": "2025-09-23"
+    },
+    {
+      "source": "florida-board-of-trustees-iitf",
+      "target": "trump-presidential-library-foundation",
+      "label": "deeded $67M+ parcel for $10",
+      "type": "money",
+      "amount_usd": 67000000,
+      "date": "2025-09-30"
+    },
+    {
+      "source": "trump-presidential-library-foundation",
+      "target": "miami-dade-college-land",
+      "label": "owns",
+      "type": "ownership",
+      "date": "2026-01"
+    },
+    {
+      "source": "ron-desantis",
+      "target": "florida-board-of-trustees-iitf",
+      "label": "chairs",
+      "type": "political"
+    },
+    {
+      "source": "marvin-dunn",
+      "target": "miami-dade-college",
+      "label": "sued under Sunshine Law (dismissed 18 Dec 2025)",
+      "type": "legal",
+      "date": "2025-10"
+    },
+    {
+      "source": "mavel-ruiz",
+      "target": "miami-dade-college",
+      "label": "enjoined then dismissed suit against",
+      "type": "legal",
+      "date": "2025-12-18"
+    },
+    {
+      "source": "constitutional-accountability-center",
+      "target": "sistrunk-seeds-v-trump",
+      "label": "counsel for plaintiffs in",
+      "type": "legal",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "sistrunk-seeds-v-trump",
+      "target": "donald-trump",
+      "label": "emoluments suit against",
+      "type": "legal",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "sistrunk-seeds-v-trump",
+      "target": "trump-presidential-library-foundation",
+      "label": "seeks to void land gift to",
+      "type": "legal",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "rodolfo-ruiz",
+      "target": "sistrunk-seeds-v-trump",
+      "label": "stayed discovery pending immunity/standing",
+      "type": "legal",
+      "date": "2026-09"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "trump-presidential-library-foundation",
+      "label": "pressed on $6.5M-$14.5M missing and $7M unexplained spending",
+      "type": "political",
+      "date": "2026-07-16"
+    },
+    {
+      "source": "richard-blumenthal",
+      "target": "trump-presidential-library-foundation",
+      "label": "co-signed inquiry into",
+      "type": "political",
+      "date": "2026-07-16"
+    },
+    {
+      "source": "melanie-stansbury",
+      "target": "trump-presidential-library-foundation",
+      "label": "co-signed inquiry into",
+      "type": "political",
+      "date": "2026-07-16"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "meta",
+      "label": "questioned on library settlement",
+      "type": "political",
+      "date": "2026-03-11"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "abc-news",
+      "label": "questioned on library settlement",
+      "type": "political",
+      "date": "2026-03-11"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "paramount",
+      "label": "questioned on library settlement",
+      "type": "political",
+      "date": "2026-03-11"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "x-corp",
+      "label": "questioned on library settlement",
+      "type": "political",
+      "date": "2026-03-11"
+    },
+    {
+      "source": "qatar",
+      "target": "qatar-jet",
+      "label": "gifted",
+      "type": "money",
+      "amount_usd": 400000000,
+      "date": "2025-05"
+    },
+    {
+      "source": "qatar-jet",
+      "target": "trump-presidential-library-foundation",
+      "label": "slated to transfer to by 2029 (not final)",
+      "type": "ownership",
+      "date": "2029-01-01"
+    },
+    {
+      "source": "crew",
+      "target": "trump-presidential-library-foundation",
+      "label": "reported on Trump Organization role and hotel plans",
+      "type": "media",
+      "date": "2026"
+    },
+    {
+      "source": "elon-musk",
+      "target": "x-corp",
+      "label": "owns",
+      "type": "ownership"
+    }
+  ],
+  "leads": [
+    {
+      "title": "Library tower as a Trump hotel developed by the Trump Organization",
+      "why_connected": "Trump said the Miami library will 'most likely' be a hotel; Eric Trump (a foundation trustee) says the Trump Organization is developing it, which bears on whether the $10 public land gift benefits the family business.",
+      "entities": [
+        "trump-organization",
+        "eric-trump",
+        "trump-presidential-library-foundation",
+        "miami-dade-college-land"
+      ],
+      "source_url": "https://www.citizensforethics.org/reports-investigations/crew-investigations/the-trump-organization-is-developing-trumps-presidential-library-maybe-as-a-trump-hotel/"
+    },
+    {
+      "title": "X's ~$8M settlement paid to Trump personally rather than the library",
+      "why_connected": "Trump's 2025 OGE disclosure lists the X payment as income to Trump, contrary to the assumption that all four settlements went to the library.",
+      "entities": [
+        "x-corp",
+        "donald-trump",
+        "elon-musk"
+      ],
+      "source_url": "https://www.warren.senate.gov/?p=39088"
+    },
+    {
+      "title": "Foundation officer pay discrepancy ($400K budget vs. no compensation filing)",
+      "why_connected": "Reporting on the foundation's Florida charity filing found a proposed budget allotting $400K to officers (Eric Trump, Boulos and two lawyers) while another filing said none would be paid (NYT finding relayed in search results; not read in the original).",
+      "entities": [
+        "eric-trump",
+        "michael-boulos",
+        "james-kiley",
+        "trump-presidential-library-foundation"
+      ],
+      "source_url": "https://www.wlrn.org/government-politics/2025-11-20/trump-library-foundation-expects-to-raise-50-million-this-year"
+    }
+  ],
+  "audit": {
+    "checked": [
+      "Trump's disclosure figures ($64.5M total; $56.5M from Meta, ABC and Paramount to the Foundation; $8M from X to Trump) and the lawmakers' 16 Jul 2026 allegation of $6.5M-$14.5M missing plus $7M unexplained",
+      "IRS exemption: application 10 Oct 2025, determination letter about 10 days later during the shutdown",
+      "Federal emoluments suit Sistrunk Seeds v. Trump (S.D. Fla. 1:26-cv-23365): status as of Nov 2026",
+      "State Sunshine Law suit dismissed 18 Dec 2025"
+    ],
+    "result": "upheld",
+    "changes": [
+      "Fresh searches (Warren/Stansbury releases and the July letter PDF, CPA Practice Advisor/WLRN reprints of the Miami Herald, CAC case page, Justia docket, Law&Crime, WLRN, Law360) confirmed every checked assertion. No final ruling in the federal case was found; Judge Ruiz signalled he may dismiss on immunity grounds, and CAC filed its opposition to the motions to dismiss on 15 Sep 2026. No Foundation response to the lawmakers was found.",
+      "Added to the JSON sub-claim a detail already in the .md that strengthens the 'special treatment' context: the IRS announced the day after approval that it would stop processing exemption applications during the shutdown. Still no evidence of political intervention. No other changes.",
+      "Replaces the earlier wording-only audit (no fresh searches)."
+    ],
+    "new_sources": [
+      {
+        "title": "Warren letter to Trump Library Foundation re financial disclosures",
+        "publisher": "Office of Sen. Elizabeth Warren",
+        "url": "https://www.warren.senate.gov/wp-content/uploads/2026/07/Warren-Letter-to-Trump-Library-Foundation-re-Financial-Disclosures.pdf",
+        "date": "2026-07-16"
+      },
+      {
+        "title": "Trump's Library Foundation Got Special Treatment From the IRS During the Government Shutdown",
+        "publisher": "CPA Practice Advisor (Miami Herald)",
+        "url": "https://www.cpapracticeadvisor.com/2025/11/20/trumps-library-foundation-got-special-treatment-from-the-irs-during-the-government-shutdown/173612/",
+        "date": "2025-11-20"
+      },
+      {
+        "title": "Sistrunk Seeds v. Trump",
+        "publisher": "Constitutional Accountability Center",
+        "url": "https://www.theusconstitution.org/litigation/sistrunk-seeds-v-trump/",
+        "date": "2026"
+      },
+      {
+        "title": "Judge dismisses complaint against Miami land transfer for Trump's presidential library",
+        "publisher": "WLRN",
+        "url": "https://www.wlrn.org/government-politics/2025-12-19/judge-dismisses-complaint-against-miami-land-transfer-for-trumps-presidential-library",
+        "date": "2025-12-19"
+      }
+    ]
+  }
+}

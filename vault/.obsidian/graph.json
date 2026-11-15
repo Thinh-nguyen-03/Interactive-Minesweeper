@@ -1,0 +1,75 @@
+{
+  "colorGroups": [
+    {
+      "query": "tag:#verdict/confirmed",
+      "color": {
+        "a": 1,
+        "rgb": 5222015
+      }
+    },
+    {
+      "query": "tag:#verdict/mostly-accurate",
+      "color": {
+        "a": 1,
+        "rgb": 9418842
+      }
+    },
+    {
+      "query": "tag:#verdict/partly-accurate",
+      "color": {
+        "a": 1,
+        "rgb": 14065978
+      }
+    },
+    {
+      "query": "tag:#verdict/misleading",
+      "color": {
+        "a": 1,
+        "rgb": 14383676
+      }
+    },
+    {
+      "query": "tag:#verdict/unverified",
+      "color": {
+        "a": 1,
+        "rgb": 10134445
+      }
+    },
+    {
+      "query": "tag:#verdict/false",
+      "color": {
+        "a": 1,
+        "rgb": 13784399
+      }
+    },
+    {
+      "query": "tag:#verdict/pending",
+      "color": {
+        "a": 1,
+        "rgb": 7042176
+      }
+    },
+    {
+      "query": "tag:#theme",
+      "color": {
+        "a": 1,
+        "rgb": 13209552
+      }
+    },
+    {
+      "query": "tag:#type/person",
+      "color": {
+        "a": 1,
+        "rgb": 14731680
+      }
+    },
+    {
+      "query": "tag:#entity",
+      "color": {
+        "a": 1,
+        "rgb": 7315396
+      }
+    }
+  ],
+  "showTags": false
+}

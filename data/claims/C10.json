@@ -1,0 +1,434 @@
+{
+  "id": "C10",
+  "title": "Binance driving USD1 adoption",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "Binance listed USD1 early (2025-05-22, after HTX, MEXC and KuCoin) and ran a capped, month-long promotion of up to 20% APR that WLF reportedly helped fund. Independent data put about 85-87% of USD1 on Binance. WLF calls the incentives standard practice, and it did post a $159.5M annualized USD1 revenue run rate in April 2026. The specific WSJ chart tying every usage jump to Binance could not be accessed, but Bloomberg and Forbes analyses support the underlying point.",
+  "sub_claims": [
+    {
+      "statement": "Binance was one of the first exchanges to list USD1 for trading.",
+      "verdict": "confirmed",
+      "finding": "Binance opened USD1/USDT spot trading on 2025-05-22 with no listing fee, after HTX, MEXC and KuCoin (2025-05-21). That makes it 'one of the first', but not the first.",
+      "sources": [
+        "https://beincrypto.com/binance-listing-usd1-stablecoin",
+        "https://coingape.com/just-in-binance-lists-of-trump-family-backed-wlf-stablecoin-usd1"
+      ]
+    },
+    {
+      "statement": "Binance effectively paid customers ~20% annual yield to hold USD1.",
+      "verdict": "mostly-accurate",
+      "finding": "A Binance 'booster' promotion paid up to 20% APR on flexible USD1 Earn products from about 2025-12-24 to 2026-01-23, with bonus tiers reportedly capped at about 50,000 USD1 per user. Market cap rose from about $2.74B to $2.89B. A $40M reward pool followed on 2026-01-22. A person familiar told Bloomberg that WLF provides a marketing budget for these promotions. The 20% was a temporary, capped rate, not a standing yield.",
+      "sources": [
+        "https://cointelegraph.com/news/trump-family-usd1-stablecoin-150m-binance-promotion",
+        "https://coinmarketcap.com/academy/article/world-liberty-financials-usd1-stablecoin-gains-dollar150m-after-yield-program",
+        "https://news.bloomberglaw.com/crypto/trump-familys-stablecoin-wealth-fueled-by-binance-relationship"
+      ]
+    },
+    {
+      "statement": "A WSJ chart showed each major jump in USD1 usage was linked to Binance.",
+      "verdict": "unverified",
+      "finding": "The WSJ article could not be accessed. The supporting evidence: supply jumped from about $130M to $2.1B with the MGX-Binance $2B deal (May 2025) and later grew with Binance listings and promotions; about 85-87% of USD1 sits on Binance (Arkham, Nansen, Kaiko; Forbes: $4.7B of $5.4B on 2026-02-09); Bloomberg attributes WLF's stablecoin profits partly to the Binance promotional arrangement. Arkham later put Binance's custody share at about 89%.",
+      "sources": [
+        "https://www.theblock.co/post/353618/trump-tied-world-liberty-financials-usd1-stablecoin-market-cap-surges-from-130m-to-over-2b-since-late-april",
+        "https://www.forbes.com/sites/zacheverson/2026/02/09/trump-stablecoin-usd1-binance-holds-87-percent/",
+        "https://blocknow.com/binance-supercharges-trump-stablecoin-as-usd1-surges-to-5b/",
+        "https://news.bloomberglaw.com/crypto/trump-familys-stablecoin-wealth-fueled-by-binance-relationship",
+        "https://crypto.news/binance-trump-usd1-stablecoin-concentration-2026/"
+      ]
+    },
+    {
+      "statement": "World Liberty says this is standard industry practice for marketing a stablecoin.",
+      "verdict": "confirmed",
+      "finding": "A WLF spokesman called the funded incentives 'standard practice' for stablecoin issuers and denied that Binance has any control over WLF. Binance denies giving preferential treatment.",
+      "sources": [
+        "https://blocknow.com/binance-supercharges-trump-stablecoin-as-usd1-surges-to-5b/",
+        "https://www.forbes.com/sites/zacheverson/2026/02/09/trump-stablecoin-usd1-binance-holds-87-percent/"
+      ]
+    },
+    {
+      "statement": "WLF brags it makes ~$159M annually from USD1, 'compounding, accelerating'.",
+      "verdict": "mostly-accurate",
+      "finding": "In April 2026 WLF posted a $159.5M annualized USD1 revenue 'run rate'. That is a run rate, not booked annual revenue. Bloomberg estimated nearly $150M for 2026. The 'compounding, accelerating' wording was not independently confirmed. Later context: Cointelegraph (2026-10-19, CoinGecko data) reported USD1 supply fell about $401M (9.1%) from 2026-10-06, driven by redemptions on Ethereum and BNB Chain, with reserves of about $4.01B. A smaller base implies a lower run rate, which cuts against 'compounding, accelerating'.",
+      "sources": [
+        "https://theedgemalaysia.com/node/806046",
+        "https://stablecoininsider.org/trumps-world-liberty-financial-is-on-track-to-earn-150-million-from-its-usd1-stablecoin-in-2026/",
+        "https://cointelegraph.com/news/world-liberty-usd1-stablecoin-market-cap-drops-400-million",
+        "https://beincrypto.com/world-liberty-financial-wlfi-liquidity-drain-concern"
+      ]
+    },
+    {
+      "statement": "USD1 revenue flows to WLF, which pays the president and his family.",
+      "verdict": "mostly-accurate",
+      "finding": "Bloomberg values WLF's stablecoin business at about $1.7B, with the Trump family's stake at about $630M. The exact split of USD1 income is not public.",
+      "sources": [
+        "https://news.bloomberglaw.com/crypto/trump-familys-stablecoin-wealth-fueled-by-binance-relationship"
+      ]
+    }
+  ],
+  "corrections": [
+    "Claimed (by implication): Binance was among the very first to list USD1. The record shows: HTX, MEXC and KuCoin listed it before Binance's 2025-05-22 listing.",
+    "Claimed: Customers were paid 20% annual yield. The record shows: a capped (~50,000 USD1/user per reports), roughly one-month promotional APR of 'up to' 20% (Dec 2025-Jan 2026).",
+    "Claimed: WLF makes $159M annually. The record shows: WLF's April 2026 figure was a $159.5M annualized run rate, not realized annual revenue.",
+    "The WSJ chart could not be independently accessed; comparable Bloomberg (2026-06-05) and Forbes (2026-02-09) analyses support the Binance-concentration point."
+  ],
+  "denials_and_context": [
+    "WLF: incentives are standard practice for stablecoin issuers and are funded by WLF; Binance has no control over WLF; WLF runs promotions on other exchanges too.",
+    "Binance: 'has not provided preferential treatment to World Liberty Financial'; hosts more than 15 stablecoins and promotes others; no revenue sharing with WLF. CEO Richard Teng denied boosting WLF ahead of the CZ pardon.",
+    "It is unclear how much of the USD1 held at Binance belongs to the exchange and how much to its customers.",
+    "The link to the CZ pardon is inference by critics (e.g., Sens. Warren and Merkley); no documented quid pro quo."
+  ],
+  "sources": [
+    {
+      "title": "Binance listing USD1 stablecoin",
+      "publisher": "BeInCrypto",
+      "url": "https://beincrypto.com/binance-listing-usd1-stablecoin",
+      "date": "2025-05-22"
+    },
+    {
+      "title": "Just-In: Binance Lists Trump Family Backed WLF Stablecoin USD1",
+      "publisher": "CoinGape",
+      "url": "https://coingape.com/just-in-binance-lists-of-trump-family-backed-wlf-stablecoin-usd1",
+      "date": "2025-05-22"
+    },
+    {
+      "title": "Binance elevates Trump-backed World Liberty's stablecoin by adding USD1 trading pairs",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/382240/binance-elevates-trump-backed-world-libertys-stablecoin-by-adding-usd1-trading-pairs",
+      "date": "2025-12"
+    },
+    {
+      "title": "Trump family USD1 stablecoin gains $150M after Binance promotion",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/trump-family-usd1-stablecoin-150m-binance-promotion",
+      "date": "2025-12"
+    },
+    {
+      "title": "World Liberty Financial's USD1 Stablecoin Gains $150M After Yield Program",
+      "publisher": "CoinMarketCap Academy",
+      "url": "https://coinmarketcap.com/academy/article/world-liberty-financials-usd1-stablecoin-gains-dollar150m-after-yield-program",
+      "date": "2025-12"
+    },
+    {
+      "title": "Trump-Linked USD1 Stablecoin Crosses $3B Market Cap After Binance Rolls Out 20% Yield",
+      "publisher": "CoinGape",
+      "url": "https://coingape.com/trump-linked-usd1-stablecoin-crosses-3b-market-cap-after-binance-rolls-out-20-yield/",
+      "date": "2026-01"
+    },
+    {
+      "title": "Trump Family's Stablecoin Wealth Fueled by Binance Relationship",
+      "publisher": "Bloomberg (Bloomberg Law)",
+      "url": "https://news.bloomberglaw.com/crypto/trump-familys-stablecoin-wealth-fueled-by-binance-relationship",
+      "date": "2026-06-05"
+    },
+    {
+      "title": "Trump family's stablecoin wealth fueled by Binance relationship",
+      "publisher": "Daily Herald (Bloomberg syndication)",
+      "url": "https://www.dailyherald.com/20260606/nation-and-world-politics/trump-familys-stablecoin-wealth-fueled-by-binance-relationship/",
+      "date": "2026-06-06"
+    },
+    {
+      "title": "Trump-tied World Liberty Financial's USD1 stablecoin market cap surges from $130M to over $2B since late April",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/353618/trump-tied-world-liberty-financials-usd1-stablecoin-market-cap-surges-from-130m-to-over-2b-since-late-april",
+      "date": "2025-05"
+    },
+    {
+      "title": "Trump-Tied Stablecoin Used for MGX's $2 Billion Binance Deal",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-05-01/trump-linked-stablecoin-used-for-mgx-s-2-billion-binance-deal",
+      "date": "2025-05-01"
+    },
+    {
+      "title": "Trump's Stablecoin USD1: Binance Holds 87% After Founder's Pardon",
+      "publisher": "Forbes",
+      "url": "https://www.forbes.com/sites/zacheverson/2026/02/09/trump-stablecoin-usd1-binance-holds-87-percent/",
+      "date": "2026-02-09"
+    },
+    {
+      "title": "Binance Supercharges Trump Stablecoin as USD1 Surges to $5B",
+      "publisher": "Blocknow",
+      "url": "https://blocknow.com/binance-supercharges-trump-stablecoin-as-usd1-surges-to-5b/",
+      "date": "2026-01"
+    },
+    {
+      "title": "Binance CEO dismisses claims the firm boosted a Trump crypto venture ahead of CZ pardon",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2025/11/04/binance-ceo-richard-teng-denies-changpeng-zhao-trump-crypto-project-cz-pardon-world-liberty-financial-mgx-.html",
+      "date": "2025-11-04"
+    },
+    {
+      "title": "Trump's World Liberty Financial is on track to earn $150 million from its USD1 stablecoin in 2026",
+      "publisher": "Stablecoin Insider",
+      "url": "https://stablecoininsider.org/trumps-world-liberty-financial-is-on-track-to-earn-150-million-from-its-usd1-stablecoin-in-2026/",
+      "date": "2026-06"
+    },
+    {
+      "title": "Trump family's stablecoin wealth fuelled by relationship with Binance",
+      "publisher": "The Edge Malaysia (Bloomberg)",
+      "url": "https://theedgemalaysia.com/node/806046",
+      "date": "2026-06"
+    },
+    {
+      "title": "Warren, Merkley Seek World Liberty Financial Records on $2 Billion Trump Stablecoin Deal Involving UAE Firm and Binance",
+      "publisher": "US Senate Banking Committee (minority)",
+      "url": "https://www.banking.senate.gov/newsroom/minority/warren-merkley-seek-world-liberty-financial-records-on-2-billion-trump-stablecoin-deal-involving-uae-firm-and-binance",
+      "date": "2025"
+    },
+    {
+      "title": "World Liberty USD1 stablecoin market cap drops $400 million",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/world-liberty-usd1-stablecoin-market-cap-drops-400-million",
+      "date": "2026-10-19"
+    },
+    {
+      "title": "Binance and Trump-linked USD1 stablecoin concentration (title paraphrased from URL)",
+      "publisher": "crypto.news",
+      "url": "https://crypto.news/binance-trump-usd1-stablecoin-concentration-2026/",
+      "date": "2026"
+    },
+    {
+      "title": "World Liberty Financial drains its own pool, but calls it 'by design'",
+      "publisher": "BeInCrypto",
+      "url": "https://beincrypto.com/world-liberty-financial-wlfi-liquidity-drain-concern",
+      "date": "2026-04"
+    }
+  ],
+  "entities": [
+    {
+      "id": "binance",
+      "name": "Binance",
+      "type": "company",
+      "description": "World's largest crypto exchange; listed USD1 and ran USD1 yield promotions."
+    },
+    {
+      "id": "usd1",
+      "name": "USD1",
+      "type": "asset",
+      "description": "World Liberty Financial's US-dollar stablecoin, custodied by BitGo."
+    },
+    {
+      "id": "world-liberty-financial",
+      "name": "World Liberty Financial",
+      "type": "company",
+      "description": "Trump-family-linked crypto venture that issues USD1."
+    },
+    {
+      "id": "trump-family",
+      "name": "Trump family",
+      "type": "person",
+      "description": "Donald Trump and sons; Bloomberg credits the family with ~$630M stake in WLF's stablecoin business."
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "US president; family benefits from WLF revenues."
+    },
+    {
+      "id": "changpeng-zhao",
+      "name": "Changpeng Zhao",
+      "type": "person",
+      "description": "Binance co-founder, pardoned by Trump in Oct 2025."
+    },
+    {
+      "id": "mgx",
+      "name": "MGX",
+      "type": "fund",
+      "description": "Abu Dhabi investment firm whose $2B Binance investment settled in USD1."
+    },
+    {
+      "id": "richard-teng",
+      "name": "Richard Teng",
+      "type": "person",
+      "description": "Binance CEO; denied boosting WLF ahead of the CZ pardon."
+    },
+    {
+      "id": "wall-street-journal",
+      "name": "The Wall Street Journal",
+      "type": "media",
+      "description": "Reported to have charted USD1 adoption against Binance activity (chart not independently accessed)."
+    },
+    {
+      "id": "bloomberg",
+      "name": "Bloomberg",
+      "type": "media",
+      "description": "Reported (2026-06-05) WLF stablecoin profits fueled partly by a Binance promotional arrangement."
+    },
+    {
+      "id": "forbes",
+      "name": "Forbes",
+      "type": "media",
+      "description": "Reported Binance holds ~87% of USD1 (2026-02-09)."
+    },
+    {
+      "id": "bitgo",
+      "name": "BitGo",
+      "type": "company",
+      "description": "Custodian of USD1 reserves."
+    },
+    {
+      "id": "cz-pardon",
+      "name": "CZ pardon",
+      "type": "event",
+      "description": "Trump's October 2025 pardon of Changpeng Zhao."
+    },
+    {
+      "id": "uae",
+      "name": "United Arab Emirates",
+      "type": "country",
+      "description": "Home of MGX."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "binance",
+      "target": "usd1",
+      "label": "listed for spot trading",
+      "type": "commercial",
+      "date": "2025-05-22"
+    },
+    {
+      "source": "binance",
+      "target": "usd1",
+      "label": "ran up-to-20% APR booster promotion for holders of",
+      "type": "commercial",
+      "date": "2025-12"
+    },
+    {
+      "source": "world-liberty-financial",
+      "target": "binance",
+      "label": "reportedly provides marketing budget for promotions to",
+      "type": "money",
+      "date": "2026"
+    },
+    {
+      "source": "binance",
+      "target": "usd1",
+      "label": "holds ~85-87% of supply of",
+      "type": "ownership",
+      "date": "2026-02-09",
+      "amount_usd": 4700000000
+    },
+    {
+      "source": "world-liberty-financial",
+      "target": "usd1",
+      "label": "issues",
+      "type": "ownership",
+      "date": "2025-03"
+    },
+    {
+      "source": "usd1",
+      "target": "world-liberty-financial",
+      "label": "generates $159.5M annualized revenue run rate (WLF claim) for",
+      "type": "money",
+      "date": "2026-04",
+      "amount_usd": 159500000
+    },
+    {
+      "source": "trump-family",
+      "target": "world-liberty-financial",
+      "label": "holds ~$630M stake in stablecoin business of",
+      "type": "ownership",
+      "date": "2026-06",
+      "amount_usd": 630000000
+    },
+    {
+      "source": "donald-trump",
+      "target": "trump-family",
+      "label": "head of",
+      "type": "family"
+    },
+    {
+      "source": "mgx",
+      "target": "binance",
+      "label": "invested $2B in (settled in USD1)",
+      "type": "money",
+      "date": "2025-05",
+      "amount_usd": 2000000000
+    },
+    {
+      "source": "mgx",
+      "target": "uae",
+      "label": "state-linked fund of",
+      "type": "ownership"
+    },
+    {
+      "source": "richard-teng",
+      "target": "binance",
+      "label": "CEO of",
+      "type": "ownership"
+    },
+    {
+      "source": "changpeng-zhao",
+      "target": "binance",
+      "label": "co-founder of",
+      "type": "ownership"
+    },
+    {
+      "source": "donald-trump",
+      "target": "changpeng-zhao",
+      "label": "pardoned",
+      "type": "legal",
+      "date": "2025-10"
+    },
+    {
+      "source": "bitgo",
+      "target": "usd1",
+      "label": "custodies reserves of",
+      "type": "commercial"
+    },
+    {
+      "source": "wall-street-journal",
+      "target": "usd1",
+      "label": "charted adoption of (as claimed; not independently accessed)",
+      "type": "media"
+    },
+    {
+      "source": "bloomberg",
+      "target": "world-liberty-financial",
+      "label": "reported Binance-fueled stablecoin profits of",
+      "type": "media",
+      "date": "2026-06-05"
+    },
+    {
+      "source": "forbes",
+      "target": "binance",
+      "label": "reported 87% USD1 concentration at",
+      "type": "media",
+      "date": "2026-02-09"
+    }
+  ],
+  "audit": {
+    "checked": [
+      "WLF's $159.5M annualized USD1 'run rate' (April 2026) and Bloomberg's ~$147-150M 2026 estimate",
+      "Binance up-to-20% APR booster (2025-12-24 to 2026-01-23) and its per-user cap",
+      "Binance's share of USD1 supply (85-89%)",
+      "USD1 trajectory after mid-2026"
+    ],
+    "result": "upheld",
+    "changes": [
+      "Run-rate figure, Bloomberg estimate, promotion dates/rate and concentration re-confirmed from different outlets. The ~50,000 USD1 bonus cap is widely reported but not confirmed from Binance's own terms, consistent with the existing 'reportedly' wording.",
+      "Added a material later update: USD1 supply fell ~$401M (9.1%) in Oct 6-19, 2026, with reserves ~$4.01B, which tempers WLF's 'compounding, accelerating' framing. Added Arkham's later ~89% Binance share figure."
+    ],
+    "new_sources": [
+      {
+        "title": "World Liberty USD1 stablecoin market cap drops $400 million",
+        "publisher": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/world-liberty-usd1-stablecoin-market-cap-drops-400-million",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "Binance and Trump-linked USD1 stablecoin concentration (title paraphrased from URL)",
+        "publisher": "crypto.news",
+        "url": "https://crypto.news/binance-trump-usd1-stablecoin-concentration-2026/",
+        "date": "2026"
+      },
+      {
+        "title": "World Liberty Financial drains its own pool, but calls it 'by design'",
+        "publisher": "BeInCrypto",
+        "url": "https://beincrypto.com/world-liberty-financial-wlfi-liquidity-drain-concern",
+        "date": "2026-04"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1021 @@
+{
+  "id": "C79",
+  "title": "Lesser-known foreign layers: Tbilisi, South Korea, Maldives tokens, Vietnam trademarks",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "All five leads are real and documented. The South Korean 'aggregator' lead is NYT-reported: Base Group paid Trump's company $2M in 2025 while its subsidiary Korea Aluminium fought a Commerce circumvention case, and Eric Trump visited Hanam with Base's chairman on 10-11 Feb 2026 (several Korean outlets), before the payment became public. New layer: the Trump family's World Liberty Financial now runs the Maldives resort token financing as an accredited-only private placement, so the family is on both sides of that project. No favourable US decision was found for any counterparty: the Korea case moved against the firm, Ivanishvili's sanctions remain, and Vietnam received a new 12.5% Section 301 duty.",
+  "sub_claims": [
+    {
+      "statement": "Base Group (South Korea), parent of Korea Aluminium, paid Trump's company a $2M 'nonrefundable development fee' in 2025 while Korea Aluminium contested a Commerce circumvention case.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED (financial disclosure reported by the NYT 14 Jul 2026; confirmed by both companies; senators' letters). The fee was tied to an Aug 2025 letter of intent for golf-course management. Korea Aluminium was among six Korean firms in Commerce's aluminium foil circumvention inquiry (prelim Mar 2023, countrywide final affirmative 27 Nov 2023). Korean press citing the NYT reports a 13 Jul 2026 preliminary Commerce ruling that could raise its foil rate about fourfold to 105.8% (matching the China-wide margin; our reading). No final ruling was found as of Nov 2026. The NYT found no evidence of intervention by Trump or his family. This shows a payment from a party with an open US trade case; it does not show any favourable decision, and the only decision found went against the company. Audit note: Federal Register summaries found in this check show Korea Aluminium Co., Ltd. as a separate-rate exporter at 28.01% in the amended final results of the 2023-24 administrative review of the China aluminium-foil AD order (FR doc 2026-10525), and 105.80% is the China-wide entity rate in that order. That fits the 'about fourfold' reading if the Jul 2026 preliminary results of the 2024-25 review denied it a separate rate, but I could not see its line in that notice, so the 105.8% preliminary rate for Korea Aluminium remains as reported by Korean press citing the NYT, not confirmed against the notice. The open case may therefore be the China-order review rather than (or as well as) the 2023 Korea circumvention inquiry; a Korean list of the six circumvention firms names 한국알미늄, which I could not tie with certainty to Base Group's Korea Aluminium.",
+      "sources": [
+        "https://electionlawblog.org/?p=157345",
+        "https://politicalwire.com/2026/07/14/trump-pocketed-2-million-from-firm-in-trade-dispute/",
+        "https://www.bostonglobe.com/2026/07/14/nation/trump-south-korea-trade-investigation/",
+        "https://www.koreajoongangdaily.com/business/korean-firm-under-us-trade-probe-paid-2-million-to-trump-family-business-report-says/12774870",
+        "https://dnyuz.com/2026/07/14/trump-paid-2-million-by-south-korean-company-facing-trade-investigation/",
+        "https://www.govinfo.gov/content/pkg/FR-2023-11-27/pdf/2023-26030.pdf",
+        "https://cm.asiae.co.kr/en/article/2023040400092740874",
+        "https://policyrisk.com/federal-register/2026-10525"
+      ]
+    },
+    {
+      "statement": "Senators opened inquiries: Warren/Blumenthal/Andy Kim to Base Group chairman Kim Sung-jip, Wyden to Commerce Secretary Lutnick.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED. The 6 Aug 2026 letter asked Kim Sung-jip for documents by 21 Aug and cited the federal bribery statute. Wyden asked Lutnick whether Commerce officials knew of the payment before the disclosure became public, and asked about the administration's relationship with Base Group. No public responses were found.",
+      "sources": [
+        "https://www.warren.senate.gov/wp-content/uploads/2026/08/Final-Letter-from-Senators-Warren-Blumenthal-Kim-to-Base-Group-Letter-on-2-Million-Payment-to-Trump.pdf",
+        "https://www.finance.senate.gov/imo/media/doc/8182026letterfromrmwydentosecretarylutnick.pdf",
+        "https://view.asiae.co.kr/en/article/2026080709071431453"
+      ]
+    },
+    {
+      "statement": "The payment relates to Trump International Golf Club Korea in Hanam; Eric Trump visited the site on 11 Feb 2026.",
+      "verdict": "confirmed",
+      "finding": "Project DOCUMENTED (Trump Organization and Base Group announcement, 13 Aug 2026, Hakam-dong, Hanam, Gyeonggi; first Trump golf project in Northeast Asia; Eric Trump quoted). The site visit is now DOCUMENTED by several Korean outlets (audit): Kyeongin Ilbo reports Eric Trump visited Hanam on two consecutive days, 10-11 Feb 2026, touring the former Seongnam golf-course site on the 10th and hearing Mayor Lee Hyun-jae's K-culture complex pitch and visiting the K-Star World hotel site on the 11th; Hankyung ran a Base Group photo of his visit and reports Base invited him to its Seoul headquarters that month. No source found states that the site he toured is the same plot as the announced Hakam-dong golf club. The visit came five months before the payment became public. No Korean land-use or permit records were found.",
+      "sources": [
+        "https://www.koreatimes.co.kr/business/companies/20260813/korean-firm-behind-2-mil-trump-payment-to-build-golf-club-in-hanam",
+        "https://www.trump.com/media/trump-international-golf-club-korea-a-new-chapter-in-hanam/",
+        "https://www.kyeongin.com/article/1758988",
+        "https://www.hankyung.com/article/2026071555787"
+      ]
+    },
+    {
+      "statement": "Trump Tower Tbilisi sits on land linked to the family of US-sanctioned Bidzina Ivanishvili, with partners close to his party.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED. Registry records cited by the Guardian and BM.ge show the former hippodrome still registered to the International Charity Fund Cartu, about 35% owned by Uta Ivanishvili via Cartu Group JSC. A 2023 agreement sells it to Central Park Avenue LLC (linked to INVIA/Wissol and Biograpi Living), and the transfer is incomplete. The WSJ (13 Sep 2026, via JAMnews) says developers bought it from the family fund in 2023. Archi Group chairman Ilia Tsulaia is a former Georgian Dream MP (Daily Beast); co-founder Meni Benish is Georgia's honorary consul in Israel (Ynet); the Sapir Organization is co-developer. Announced 19 Apr 2026; launched 15 Sep 2026 with PM Kobakhidze present ($2B, 62 storeys/282 m); Eric Trump appeared by video. Treasury sanctioned Ivanishvili on 27 Dec 2024 and no delisting was found. Denials: Ivanishvili's lawyer says most of the land was donated for a park; Biograpi Living says it is not a participant.",
+      "sources": [
+        "https://www.inkl.com/news/trump-tower-in-georgia-to-be-built-on-land-part-owned-by-son-of-us-sanctions-hit-leader",
+        "https://bm.ge/en/news/the-trump-tower-project-land-is-still-owned-by-cartu-fund",
+        "https://thedailybeast.com/trumps-sign-mega-tower-deal-with-firm-tied-to-sanctioned-pro-putin-billionaire/",
+        "https://jam-news.net/trump-tower-in-georgia/",
+        "https://info.imedi.ge/en/society/9300/the-trump-organization-to-build-trump-tower-tbilisi",
+        "https://www.ynetnews.com/business/article/hyztzpdymg",
+        "https://www.ynetnews.com/real-estate/article/bjgibzetzg",
+        "https://www.thenationalnews.com/business/property/2026/09/17/trump-organisation-to-build-62-storey-ultra-luxury-tower-in-georgia/",
+        "https://georgiatoday.ge/trump-tower-tbilisi-unveiled-as-flagship-project-of-2-billion-development/",
+        "https://www.thestar.com.my/news/world/2024/12/28/us-imposes-sanctions-on-georgian-ex-prime-minister-billionaire-ivanishvili"
+      ]
+    },
+    {
+      "statement": "US Georgia policy since the tower deal: a 'reset' in talks, the MEGOBARI sanctions bill stalled in the Senate, and no concrete US concession.",
+      "verdict": "partly-accurate",
+      "finding": "Each event DOCUMENTED; any link to the tower INFERRED. A State Department delegation visited Tbilisi on 25-29 May 2026 and said the administration was ready for a 'constructive, forward-looking relationship'. The MEGOBARI Act passed the House 349-42 (6 May 2025) and has stalled in the Senate. OC Media opinion (SINGLE-SOURCE) says Sen. Mullin is blocking unanimous consent. Reuters reported that GOP donor Steve Nicandros (Frontera/TXN Energy) lobbied against the bill. No sanctions relief or restored strategic partnership was found, and bne IntelliNews (Jun 2026) says the reset 'keeps failing to arrive'. Commentators (Veridica, Jamestown) read the tower as Georgian Dream courting Trump; that is analysis, not evidence.",
+      "sources": [
+        "https://dfwatch.net/u-s-eyes-reset-with-georgia-after-tbilisi-visit-66747/",
+        "https://info.imedi.ge/en/foreigpolicy/9813/us-department-of-state-delegation-shares-trump-administrations-readiness-to-engage-in-constructive-forwardlooking-relationship-with-government-of-georgia",
+        "https://www.intellinews.com/georgian-dream-s-promised-us-reset-keeps-failing-to-arrive-458975/",
+        "https://jamestown.org/georgian-dream-sends-mixed-messages-amid-push-for-u-s-diplomatic-reset/",
+        "https://oc-media.org/opinion-with-georgias-democracy-on-the-line-one-us-senator-makes-a-cynical-stand",
+        "https://jam-news.net/reuters-us-businessman-lobbying-for-georgias-ruling-party/",
+        "https://oc-media.org/republican-donor-with-business-interests-in-georgia-lobbying-against-passage-of-megobari-act/"
+      ]
+    },
+    {
+      "statement": "Dar Global's tokenised Trump Maldives resort was marketed to US retail investors and discussed with the SEC.",
+      "verdict": "partly-accurate",
+      "finding": "DOCUMENTED, with a correction. In Nov 2025 (Reuters via The Block) Dar Global planned to sell up to 70% of the ~$300M project as tokens to US retail investors and was in talks with the SEC. On 18 Feb 2026 the plan was restructured: World Liberty Financial, with Securitize and DarGlobal, would tokenise loan revenue interests (not equity) as an unregistered Reg D 506(c) placement for verified accredited investors plus Reg S offshore. That needs no SEC approval and excludes retail buyers. New layer: the family earns licence fees from Dar Global (C31) and holds a large stake in WLF, which runs the financing tokens, so it is on both sides of the project. The Trump Organization says it does not issue or promote the tokens. No amount raised was found. Completion is now about 2030.",
+      "sources": [
+        "https://www.theblock.co/news/business/2025-11-19-saudi-tokenize-trump-hotel-379431",
+        "https://www.businesswire.com/news/home/20260218211545/en/World-Liberty-Financial-to-Tokenize-Trump-International-Hotel-Resort-Maldives-in-Partnership-with-DarGlobal-and-Securitize",
+        "https://darglobal.co.uk/press/world-liberty-financial-tokenizes-trump-international-hotel-maldives",
+        "https://www.crowdfundinsider.com/2026/02/262753-world-liberty-financial-securitize-enter-tokenization-partnership-for-trump-maldives-resort/"
+      ]
+    },
+    {
+      "statement": "The Trump company filed new trademark applications in Vietnam after the tariff deal.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED (CREW, from international trademark databases). DTTM Operations LLC filed five applications on 27 Nov 2025 (e.g. Trump International Hung Yen, Trump Residences Vietnam, Trump International Golf Club Vietnam), published about two months later. They came about five months after the 2 Jul 2025 tariff announcement and a month after the 26 Oct 2025 framework. Granting them is a Vietnamese government decision (an emoluments question); grant status was not found.",
+      "sources": [
+        "https://www.citizensforethics.org/reports-investigations/crew-investigations/trump-continues-conflicts-in-vietnam-with-five-new-trademark-applications/"
+      ]
+    },
+    {
+      "statement": "Farmers at Hung Yen were displaced with low compensation, and the corresponding US decisions on Vietnam since.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED. Reuters (Aug 2025) reported offers of about $12/m2 plus rice, paid by the state but funded by developers. SCMP reported petitions for double compensation. Bloomberg (Jun 2026) reported enforcement against holdouts from 26 Jun 2026. Grave exhumations are reported by trade press (single-source). The Trump Organization says it is not responsible for compensation. US side: the trade agreement is still unsigned (Hanoi sent final text in Oct 2026), and an additional 12.5% Section 301 duty on Vietnamese goods took effect on 24 Jul 2026 (single-source: VnEconomy). This cuts against a special-favour reading.",
+      "sources": [
+        "https://www.thestar.com.my/news/world/2025/08/11/exclusive-fistful-of-dollars-and-rice-for-vietnam-farmers-displaced-for-15-billion-trump-golf-club",
+        "https://www.scmp.com/news/asia/southeast-asia/article/3331147/angry-vietnam-farmers-take-swing-trump-branded-us15-billion-golf-resort",
+        "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/26/trump-backed-golf-resort-advances-as-vietnam-seizes-farmland",
+        "https://en.vneconomy.vn/us-imposes-125-additional-tariff-on-many-export-items-from-vietnam.htm",
+        "https://technode.global/2026/10/14/vietnam-urges-swift-us-trade-deal-final-text-already-sent-to-washington/"
+      ]
+    }
+  ],
+  "corrections": [
+    "The $2M South Korean payment is not just an unverified aggregator claim. It comes from Trump's 2026 financial disclosure (NYT, 14 Jul 2026) and is confirmed by Base Group and the Trump Organization.",
+    "The Maldives tokens were not cleared by the SEC for US retail buyers. The Feb 2026 structure is an unregistered Reg D 506(c)/Reg S placement for accredited investors, issued with WLF and Securitize.",
+    "Trump Tower Tbilisi is 62 storeys/282 m in launch materials, not 70 storeys. The Cartu land transfer was not complete as of mid-2026.",
+    "The ~105.8% Korea Aluminium rate is a reported preliminary rate (matching the China-wide margin), not a final determination.",
+    "Audit: Eric Trump's Hanam visit was 10-11 Feb 2026 (two days), not only 11 Feb, and is reported by several Korean outlets, so it is no longer single-source."
+  ],
+  "denials_and_context": [
+    "The Trump Organization and Base Group say the $2M was a standard fee under an Aug 2025 golf LOI. Base Group denies trade violations. The NYT found no evidence of family intervention.",
+    "The White House says neither the president nor his family engages in conflicts of interest. The Trump Organization describes itself as only a licensor in Tbilisi and the Maldives and says it does not issue or promote the tokens.",
+    "Ivanishvili's lawyer says most of the family's racecourse land was donated to the state for a park. Biograpi Living says it is not a participant.",
+    "Georgia's ambassador says the government has no US lobbying affiliations.",
+    "Inferred only (no source asserts): the timing of the State Department reset visit against the Guardian land story; the Aug 2025 LOI against the US-Korea tariff deal and summit; WLF tokenisation against the SEC's tokenisation-friendly stance."
+  ],
+  "sources": [
+    {
+      "title": "Trump Paid $2 Million by South Korean Company Facing Trade Investigation (NYT excerpt)",
+      "publisher": "Election Law Blog",
+      "url": "https://electionlawblog.org/?p=157345",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Trump pocketed $2 million from firm in trade dispute",
+      "publisher": "Political Wire",
+      "url": "https://politicalwire.com/2026/07/14/trump-pocketed-2-million-from-firm-in-trade-dispute/",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Trump South Korea trade investigation (NYT)",
+      "publisher": "Boston Globe",
+      "url": "https://www.bostonglobe.com/2026/07/14/nation/trump-south-korea-trade-investigation/",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Korean firm under U.S. trade probe paid $2 million to Trump family business, report says",
+      "publisher": "Korea JoongAng Daily",
+      "url": "https://www.koreajoongangdaily.com/business/korean-firm-under-us-trade-probe-paid-2-million-to-trump-family-business-report-says/12774870",
+      "date": "2026-07"
+    },
+    {
+      "title": "Trump paid $2 million by South Korean company facing trade investigation",
+      "publisher": "dnyuz (NYT syndication)",
+      "url": "https://dnyuz.com/2026/07/14/trump-paid-2-million-by-south-korean-company-facing-trade-investigation/",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Letter from Senators Warren, Blumenthal, Kim to Base Group on $2 million payment to Trump",
+      "publisher": "US Senate (Warren)",
+      "url": "https://www.warren.senate.gov/wp-content/uploads/2026/08/Final-Letter-from-Senators-Warren-Blumenthal-Kim-to-Base-Group-Letter-on-2-Million-Payment-to-Trump.pdf",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Letter from Ranking Member Wyden to Secretary Lutnick",
+      "publisher": "Senate Finance Committee",
+      "url": "https://www.finance.senate.gov/imo/media/doc/8182026letterfromrmwydentosecretarylutnick.pdf",
+      "date": "2026-08"
+    },
+    {
+      "title": "US Democrats Probe Korea's Base Group Over $2 Million Payment to Trump",
+      "publisher": "Asia Economy",
+      "url": "https://view.asiae.co.kr/en/article/2026080709071431453",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Korean firm behind $2 mil. Trump payment to build golf club in Hanam",
+      "publisher": "Korea Times",
+      "url": "https://www.koreatimes.co.kr/business/companies/20260813/korean-firm-behind-2-mil-trump-payment-to-build-golf-club-in-hanam",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Trump International Golf Club Korea: a new chapter in Hanam",
+      "publisher": "Trump Organization",
+      "url": "https://www.trump.com/media/trump-international-golf-club-korea-a-new-chapter-in-hanam/",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Aluminum foil from China: final affirmative determinations of circumvention with respect to Korea and Thailand",
+      "publisher": "Federal Register / Commerce ITA",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2023-11-27/pdf/2023-26030.pdf",
+      "date": "2023-11-27"
+    },
+    {
+      "title": "US preliminary circumvention finding on Korean aluminum foil (six firms incl. Korea Aluminum)",
+      "publisher": "Asia Economy",
+      "url": "https://cm.asiae.co.kr/en/article/2023040400092740874",
+      "date": "2023-04-04"
+    },
+    {
+      "title": "Trump Tower in Georgia to be built on land part-owned by son of US sanctions-hit leader",
+      "publisher": "inkl / The Guardian",
+      "url": "https://www.inkl.com/news/trump-tower-in-georgia-to-be-built-on-land-part-owned-by-son-of-us-sanctions-hit-leader",
+      "date": "2026-05"
+    },
+    {
+      "title": "The Trump Tower project land is still owned by Cartu fund",
+      "publisher": "BM.ge",
+      "url": "https://bm.ge/en/news/the-trump-tower-project-land-is-still-owned-by-cartu-fund",
+      "date": "2026"
+    },
+    {
+      "title": "Trumps sign mega tower deal with firm tied to sanctioned pro-Putin billionaire",
+      "publisher": "Daily Beast",
+      "url": "https://thedailybeast.com/trumps-sign-mega-tower-deal-with-firm-tied-to-sanctioned-pro-putin-billionaire/",
+      "date": "2026-05"
+    },
+    {
+      "title": "Wall Street Journal: New Trump Tower to be built in Georgia as country draws closer to Russia",
+      "publisher": "JAMnews",
+      "url": "https://jam-news.net/trump-tower-in-georgia/",
+      "date": "2026-09"
+    },
+    {
+      "title": "The Trump Organization to build Trump Tower Tbilisi",
+      "publisher": "Imedi",
+      "url": "https://info.imedi.ge/en/society/9300/the-trump-organization-to-build-trump-tower-tbilisi",
+      "date": "2026-04-19"
+    },
+    {
+      "title": "Trump Tower Tbilisi launches with Eric Trump on Zoom and Israeli partner in $2B development",
+      "publisher": "Ynet",
+      "url": "https://www.ynetnews.com/business/article/hyztzpdymg",
+      "date": "2026-09"
+    },
+    {
+      "title": "From Israel to Georgia: The developer behind Tbilisi's new Trump Tower",
+      "publisher": "Ynet",
+      "url": "https://www.ynetnews.com/real-estate/article/bjgibzetzg",
+      "date": "2026-09"
+    },
+    {
+      "title": "Trump Organisation to build 62-storey ultra-luxury tower in Georgia",
+      "publisher": "The National",
+      "url": "https://www.thenationalnews.com/business/property/2026/09/17/trump-organisation-to-build-62-storey-ultra-luxury-tower-in-georgia/",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Trump Tower Tbilisi unveiled as flagship project of $2 billion development",
+      "publisher": "Georgia Today",
+      "url": "https://georgiatoday.ge/trump-tower-tbilisi-unveiled-as-flagship-project-of-2-billion-development/",
+      "date": "2026-09"
+    },
+    {
+      "title": "U.S. eyes reset with Georgia after Tbilisi visit",
+      "publisher": "DFWatch",
+      "url": "https://dfwatch.net/u-s-eyes-reset-with-georgia-after-tbilisi-visit-66747/",
+      "date": "2026-06-02"
+    },
+    {
+      "title": "US Department of State delegation shares Trump administration's readiness to engage in constructive, forward-looking relationship with Government of Georgia",
+      "publisher": "Imedi",
+      "url": "https://info.imedi.ge/en/foreigpolicy/9813/us-department-of-state-delegation-shares-trump-administrations-readiness-to-engage-in-constructive-forwardlooking-relationship-with-government-of-georgia",
+      "date": "2026-06-01"
+    },
+    {
+      "title": "Georgian Dream's promised US reset keeps failing to arrive",
+      "publisher": "bne IntelliNews",
+      "url": "https://www.intellinews.com/georgian-dream-s-promised-us-reset-keeps-failing-to-arrive-458975/",
+      "date": "2026-06"
+    },
+    {
+      "title": "Georgian Dream sends mixed messages amid push for U.S. diplomatic reset",
+      "publisher": "Jamestown Foundation",
+      "url": "https://jamestown.org/georgian-dream-sends-mixed-messages-amid-push-for-u-s-diplomatic-reset/",
+      "date": "2026"
+    },
+    {
+      "title": "Opinion: With Georgia's democracy on the line, one US senator makes a cynical stand",
+      "publisher": "OC Media",
+      "url": "https://oc-media.org/opinion-with-georgias-democracy-on-the-line-one-us-senator-makes-a-cynical-stand",
+      "date": "2026"
+    },
+    {
+      "title": "Reuters: US businessman lobbying for Georgia's ruling party",
+      "publisher": "JAMnews",
+      "url": "https://jam-news.net/reuters-us-businessman-lobbying-for-georgias-ruling-party/",
+      "date": "2025"
+    },
+    {
+      "title": "Republican donor with business interests in Georgia lobbying against passage of MEGOBARI Act",
+      "publisher": "OC Media",
+      "url": "https://oc-media.org/republican-donor-with-business-interests-in-georgia-lobbying-against-passage-of-megobari-act/",
+      "date": "2025"
+    },
+    {
+      "title": "US imposes sanctions on Georgian ex-prime minister, billionaire Ivanishvili",
+      "publisher": "The Star (Reuters)",
+      "url": "https://www.thestar.com.my/news/world/2024/12/28/us-imposes-sanctions-on-georgian-ex-prime-minister-billionaire-ivanishvili",
+      "date": "2024-12-28"
+    },
+    {
+      "title": "Saudi real estate firm to tokenize Maldives Trump hotel; targets US investors: report",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/business/2025-11-19-saudi-tokenize-trump-hotel-379431",
+      "date": "2025-11-19"
+    },
+    {
+      "title": "World Liberty Financial to Tokenize Trump International Hotel Resort Maldives in Partnership with DarGlobal and Securitize",
+      "publisher": "Business Wire",
+      "url": "https://www.businesswire.com/news/home/20260218211545/en/World-Liberty-Financial-to-Tokenize-Trump-International-Hotel-Resort-Maldives-in-Partnership-with-DarGlobal-and-Securitize",
+      "date": "2026-02-18"
+    },
+    {
+      "title": "World Liberty Financial tokenizes Trump International Hotel Maldives",
+      "publisher": "Dar Global",
+      "url": "https://darglobal.co.uk/press/world-liberty-financial-tokenizes-trump-international-hotel-maldives",
+      "date": "2026-02"
+    },
+    {
+      "title": "World Liberty Financial, Securitize enter tokenization partnership for Trump Maldives resort",
+      "publisher": "Crowdfund Insider",
+      "url": "https://www.crowdfundinsider.com/2026/02/262753-world-liberty-financial-securitize-enter-tokenization-partnership-for-trump-maldives-resort/",
+      "date": "2026-02"
+    },
+    {
+      "title": "Trump continues conflicts in Vietnam with five new trademark applications",
+      "publisher": "CREW",
+      "url": "https://www.citizensforethics.org/reports-investigations/crew-investigations/trump-continues-conflicts-in-vietnam-with-five-new-trademark-applications/",
+      "date": "2026-01"
+    },
+    {
+      "title": "Exclusive: Fistful of dollars and rice for Vietnam farmers displaced for $1.5 billion Trump golf club",
+      "publisher": "The Star (Reuters)",
+      "url": "https://www.thestar.com.my/news/world/2025/08/11/exclusive-fistful-of-dollars-and-rice-for-vietnam-farmers-displaced-for-15-billion-trump-golf-club",
+      "date": "2025-08-11"
+    },
+    {
+      "title": "Angry Vietnam farmers take swing at Trump-branded US$1.5 billion golf resort",
+      "publisher": "South China Morning Post",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3331147/angry-vietnam-farmers-take-swing-trump-branded-us15-billion-golf-resort",
+      "date": "2025"
+    },
+    {
+      "title": "Trump-backed golf resort advances as Vietnam seizes farmland",
+      "publisher": "The Star (Bloomberg)",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/26/trump-backed-golf-resort-advances-as-vietnam-seizes-farmland",
+      "date": "2026-06-26"
+    },
+    {
+      "title": "US imposes 12.5% additional tariff on many export items from Vietnam",
+      "publisher": "VnEconomy",
+      "url": "https://en.vneconomy.vn/us-imposes-125-additional-tariff-on-many-export-items-from-vietnam.htm",
+      "date": "2026-07-26"
+    },
+    {
+      "title": "Vietnam urges swift US trade deal, final text already sent to Washington",
+      "publisher": "TechNode Global",
+      "url": "https://technode.global/2026/10/14/vietnam-urges-swift-us-trade-deal-final-text-already-sent-to-washington/",
+      "date": "2026-10-14"
+    }
+  ],
+  "entities": [
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "US president; owner of the Trump Organization licensing entities"
+    },
+    {
+      "id": "eric-trump",
+      "name": "Eric Trump",
+      "type": "person",
+      "description": "Trump Organization EVP; fronted the Korea, Tbilisi and Maldives projects"
+    },
+    {
+      "id": "donald-trump-jr",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "Trump Organization EVP; named in Tbilisi coverage"
+    },
+    {
+      "id": "trump-organization",
+      "name": "Trump Organization",
+      "type": "company",
+      "description": "Trump family business; brand licensor"
+    },
+    {
+      "id": "dttm-operations",
+      "name": "DTTM Operations LLC",
+      "type": "company",
+      "description": "Trump Organization trademark-holding entity"
+    },
+    {
+      "id": "base-group",
+      "name": "Base Group (Base Co., Ltd.)",
+      "type": "company",
+      "description": "South Korean group; paid $2M fee; developer of Trump International Golf Club Korea"
+    },
+    {
+      "id": "korea-aluminium",
+      "name": "Korea Aluminium",
+      "type": "company",
+      "description": "Base Group aluminium-foil subsidiary in a US Commerce circumvention case"
+    },
+    {
+      "id": "kim-sung-jip",
+      "name": "Kim Sung-jip",
+      "type": "person",
+      "description": "Chairman of Base Group"
+    },
+    {
+      "id": "trump-international-golf-club-korea",
+      "name": "Trump International Golf Club Korea",
+      "type": "asset",
+      "description": "Planned Trump golf course in Hakam-dong, Hanam, Gyeonggi"
+    },
+    {
+      "id": "south-korea",
+      "name": "South Korea",
+      "type": "country",
+      "description": "Country of Base Group"
+    },
+    {
+      "id": "us-commerce-department",
+      "name": "US Department of Commerce",
+      "type": "government",
+      "description": "Runs AD/CVD and circumvention cases"
+    },
+    {
+      "id": "howard-lutnick",
+      "name": "Howard Lutnick",
+      "type": "person",
+      "description": "US Commerce Secretary"
+    },
+    {
+      "id": "elizabeth-warren",
+      "name": "Elizabeth Warren",
+      "type": "person",
+      "description": "US senator; co-led letter to Base Group"
+    },
+    {
+      "id": "richard-blumenthal",
+      "name": "Richard Blumenthal",
+      "type": "person",
+      "description": "US senator; co-signed letter to Base Group"
+    },
+    {
+      "id": "andy-kim",
+      "name": "Andy Kim",
+      "type": "person",
+      "description": "US senator; co-signed letter to Base Group"
+    },
+    {
+      "id": "ron-wyden",
+      "name": "Ron Wyden",
+      "type": "person",
+      "description": "Senate Finance ranking member; wrote to Lutnick"
+    },
+    {
+      "id": "georgia-country",
+      "name": "Georgia",
+      "type": "country",
+      "description": "South Caucasus state ruled by Georgian Dream"
+    },
+    {
+      "id": "bidzina-ivanishvili",
+      "name": "Bidzina Ivanishvili",
+      "type": "person",
+      "description": "Georgian Dream founder; US-sanctioned Dec 2024"
+    },
+    {
+      "id": "uta-ivanishvili",
+      "name": "Uta Ivanishvili",
+      "type": "person",
+      "description": "Son of Bidzina Ivanishvili; ~35% owner of Cartu fund via Cartu Group"
+    },
+    {
+      "id": "cartu-fund",
+      "name": "International Charity Fund Cartu",
+      "type": "fund",
+      "description": "Ivanishvili-linked fund registered as owner of the Tbilisi hippodrome site"
+    },
+    {
+      "id": "central-park-avenue-llc",
+      "name": "Central Park Avenue LLC",
+      "type": "company",
+      "description": "Buyer of the hippodrome land under a 2023 agreement"
+    },
+    {
+      "id": "trump-tower-tbilisi",
+      "name": "Trump Tower Tbilisi",
+      "type": "asset",
+      "description": "62-storey Trump-licensed tower in a $2B development"
+    },
+    {
+      "id": "archi-group",
+      "name": "Archi Group",
+      "type": "company",
+      "description": "Georgian developer leading Trump Tower Tbilisi"
+    },
+    {
+      "id": "ilia-tsulaia",
+      "name": "Ilia Tsulaia",
+      "type": "person",
+      "description": "Archi Group founder/chairman; former Georgian Dream MP"
+    },
+    {
+      "id": "meni-benish",
+      "name": "Meni Benish",
+      "type": "person",
+      "description": "Israeli Archi co-founder; Georgia's honorary consul in Israel"
+    },
+    {
+      "id": "invia",
+      "name": "INVIA (formerly Wissol Group)",
+      "type": "company",
+      "description": "Georgian group; partner via Biograpi Living"
+    },
+    {
+      "id": "biograpi-living",
+      "name": "Biograpi Living",
+      "type": "company",
+      "description": "INVIA real-estate arm named as partner; denies participation"
+    },
+    {
+      "id": "sapir-organization",
+      "name": "Sapir Organization",
+      "type": "company",
+      "description": "New York developer (Alex Sapir); co-developer of Trump Tower Tbilisi"
+    },
+    {
+      "id": "irakli-kobakhidze",
+      "name": "Irakli Kobakhidze",
+      "type": "person",
+      "description": "Georgian prime minister; attended the 15 Sep 2026 launch"
+    },
+    {
+      "id": "megobari-act",
+      "name": "MEGOBARI Act",
+      "type": "law",
+      "description": "US bill to sanction Georgian Dream officials; passed House May 2025"
+    },
+    {
+      "id": "steve-nicandros",
+      "name": "Steve Nicandros",
+      "type": "person",
+      "description": "GOP donor, Frontera/TXN Energy co-founder; lobbied against MEGOBARI"
+    },
+    {
+      "id": "us-treasury",
+      "name": "US Treasury",
+      "type": "government",
+      "description": "Sanctioned Ivanishvili (OFAC)"
+    },
+    {
+      "id": "state-department",
+      "name": "State Department",
+      "type": "government",
+      "description": "Suspended Georgia partnership; 2026 reset talks"
+    },
+    {
+      "id": "us-congress",
+      "name": "US Congress",
+      "type": "government",
+      "description": "Legislature; MEGOBARI Act"
+    },
+    {
+      "id": "maldives",
+      "name": "Maldives",
+      "type": "country",
+      "description": "Location of Trump International Hotel Maldives"
+    },
+    {
+      "id": "trump-international-maldives",
+      "name": "Trump International Hotel & Resort Maldives",
+      "type": "asset",
+      "description": "Dar Global-developed, Trump-licensed resort financed via tokens"
+    },
+    {
+      "id": "dar-global",
+      "name": "Dar Global",
+      "type": "company",
+      "description": "London-listed arm of Saudi Dar Al Arkan; Trump licensee"
+    },
+    {
+      "id": "world-liberty-financial",
+      "name": "World Liberty Financial",
+      "type": "company",
+      "description": "Trump-family crypto venture; tokenising Maldives loan interests"
+    },
+    {
+      "id": "securitize",
+      "name": "Securitize",
+      "type": "company",
+      "description": "SEC-registered broker-dealer/transfer agent running the token issuance"
+    },
+    {
+      "id": "sec",
+      "name": "SEC",
+      "type": "government",
+      "description": "US securities regulator"
+    },
+    {
+      "id": "vietnam",
+      "name": "Vietnam",
+      "type": "country",
+      "description": "Host of Hung Yen project; trade-deal partner"
+    },
+    {
+      "id": "kinh-bac-city",
+      "name": "Kinh Bac City Development",
+      "type": "company",
+      "description": "Vietnamese developer of Trump International Hung Yen"
+    },
+    {
+      "id": "trump-international-hung-yen",
+      "name": "Trump International Hung Yen",
+      "type": "asset",
+      "description": "$1.5B golf/urban project in Khoai Chau"
+    },
+    {
+      "id": "us-vietnam-trade-framework-2025",
+      "name": "US-Vietnam trade framework (2025)",
+      "type": "event",
+      "description": "20% tariff framework; agreement not yet signed"
+    },
+    {
+      "id": "crew",
+      "name": "CREW",
+      "type": "media",
+      "description": "Ethics watchdog that tracked the Vietnam trademarks"
+    },
+    {
+      "id": "new-york-times",
+      "name": "New York Times",
+      "type": "media",
+      "description": "Broke the Base Group payment story"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "base-group",
+      "target": "trump-organization",
+      "label": "paid nonrefundable development fee (golf LOI) to Trump holding company",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 2000000
+    },
+    {
+      "source": "base-group",
+      "target": "korea-aluminium",
+      "label": "parent and lead investor of",
+      "type": "ownership",
+      "date": "2025"
+    },
+    {
+      "source": "kim-sung-jip",
+      "target": "base-group",
+      "label": "chairman of",
+      "type": "ownership",
+      "date": "2026"
+    },
+    {
+      "source": "us-commerce-department",
+      "target": "korea-aluminium",
+      "label": "AD/circumvention proceedings; prelim ruling reportedly could raise foil rate to ~105.8% (Korean press via NYT; not confirmed in notice)",
+      "type": "regulatory",
+      "date": "2026-07-13"
+    },
+    {
+      "source": "base-group",
+      "target": "trump-international-golf-club-korea",
+      "label": "developer of (Trump-licensed)",
+      "type": "commercial",
+      "date": "2026-08-13"
+    },
+    {
+      "source": "trump-organization",
+      "target": "trump-international-golf-club-korea",
+      "label": "brand licensor/manager of",
+      "type": "commercial",
+      "date": "2026-08-13"
+    },
+    {
+      "source": "eric-trump",
+      "target": "trump-international-golf-club-korea",
+      "label": "visited Hanam sites with Base Group, 10-11 Feb 2026 (Korean press; same plot not confirmed)",
+      "type": "commercial",
+      "date": "2026-02-10"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "base-group",
+      "label": "demanded answers on $2M payment (with Blumenthal, Andy Kim)",
+      "type": "political",
+      "date": "2026-08-06"
+    },
+    {
+      "source": "richard-blumenthal",
+      "target": "base-group",
+      "label": "co-signed inquiry letter",
+      "type": "political",
+      "date": "2026-08-06"
+    },
+    {
+      "source": "andy-kim",
+      "target": "base-group",
+      "label": "co-signed inquiry letter",
+      "type": "political",
+      "date": "2026-08-06"
+    },
+    {
+      "source": "ron-wyden",
+      "target": "howard-lutnick",
+      "label": "asked whether Commerce knew of Base Group payment",
+      "type": "political",
+      "date": "2026-08"
+    },
+    {
+      "source": "howard-lutnick",
+      "target": "us-commerce-department",
+      "label": "secretary of",
+      "type": "political",
+      "date": "2025"
+    },
+    {
+      "source": "uta-ivanishvili",
+      "target": "cartu-fund",
+      "label": "~35% owner via Cartu Group JSC",
+      "type": "ownership",
+      "date": "2026"
+    },
+    {
+      "source": "bidzina-ivanishvili",
+      "target": "uta-ivanishvili",
+      "label": "father of",
+      "type": "family"
+    },
+    {
+      "source": "cartu-fund",
+      "target": "central-park-avenue-llc",
+      "label": "agreed 2023 sale of hippodrome land (transfer incomplete)",
+      "type": "money",
+      "date": "2023"
+    },
+    {
+      "source": "central-park-avenue-llc",
+      "target": "trump-tower-tbilisi",
+      "label": "site holder/developer vehicle",
+      "type": "ownership",
+      "date": "2023"
+    },
+    {
+      "source": "archi-group",
+      "target": "trump-tower-tbilisi",
+      "label": "lead developer of",
+      "type": "commercial",
+      "date": "2026-04-19"
+    },
+    {
+      "source": "trump-organization",
+      "target": "trump-tower-tbilisi",
+      "label": "brand licensor of",
+      "type": "commercial",
+      "date": "2026-04-19"
+    },
+    {
+      "source": "ilia-tsulaia",
+      "target": "archi-group",
+      "label": "founder/chairman of",
+      "type": "ownership",
+      "date": "2006"
+    },
+    {
+      "source": "ilia-tsulaia",
+      "target": "bidzina-ivanishvili",
+      "label": "former MP for Georgian Dream party",
+      "type": "political"
+    },
+    {
+      "source": "meni-benish",
+      "target": "archi-group",
+      "label": "co-founder of",
+      "type": "ownership",
+      "date": "2006"
+    },
+    {
+      "source": "sapir-organization",
+      "target": "trump-tower-tbilisi",
+      "label": "co-developer of",
+      "type": "commercial",
+      "date": "2026"
+    },
+    {
+      "source": "invia",
+      "target": "biograpi-living",
+      "label": "parent of",
+      "type": "ownership",
+      "date": "2026"
+    },
+    {
+      "source": "irakli-kobakhidze",
+      "target": "trump-tower-tbilisi",
+      "label": "attended official launch",
+      "type": "political",
+      "date": "2026-09-15"
+    },
+    {
+      "source": "eric-trump",
+      "target": "trump-tower-tbilisi",
+      "label": "presented project by video",
+      "type": "commercial",
+      "date": "2026-09-15"
+    },
+    {
+      "source": "us-treasury",
+      "target": "bidzina-ivanishvili",
+      "label": "sanctioned",
+      "type": "regulatory",
+      "date": "2024-12-27"
+    },
+    {
+      "source": "state-department",
+      "target": "georgia-country",
+      "label": "reset-talks delegation to Tbilisi",
+      "type": "political",
+      "date": "2026-05-25"
+    },
+    {
+      "source": "us-congress",
+      "target": "megobari-act",
+      "label": "House passed 349-42; stalled in Senate",
+      "type": "political",
+      "date": "2025-05-06"
+    },
+    {
+      "source": "steve-nicandros",
+      "target": "megobari-act",
+      "label": "lobbied against",
+      "type": "political",
+      "date": "2025"
+    },
+    {
+      "source": "dar-global",
+      "target": "trump-international-maldives",
+      "label": "developer of",
+      "type": "commercial",
+      "date": "2025-11-17"
+    },
+    {
+      "source": "trump-organization",
+      "target": "trump-international-maldives",
+      "label": "brand licensor of",
+      "type": "commercial",
+      "date": "2025-11-17"
+    },
+    {
+      "source": "world-liberty-financial",
+      "target": "trump-international-maldives",
+      "label": "tokenising loan revenue interests (Reg D 506(c)/Reg S)",
+      "type": "money",
+      "date": "2026-02-18"
+    },
+    {
+      "source": "securitize",
+      "target": "world-liberty-financial",
+      "label": "issuance/compliance partner for Maldives tokens",
+      "type": "commercial",
+      "date": "2026-02-18"
+    },
+    {
+      "source": "donald-trump",
+      "target": "world-liberty-financial",
+      "label": "family holds major stake in",
+      "type": "ownership",
+      "date": "2024"
+    },
+    {
+      "source": "dar-global",
+      "target": "sec",
+      "label": "discussed planned US token sale with",
+      "type": "regulatory",
+      "date": "2025-11"
+    },
+    {
+      "source": "dttm-operations",
+      "target": "vietnam",
+      "label": "filed five Trump trademark applications",
+      "type": "commercial",
+      "date": "2025-11-27"
+    },
+    {
+      "source": "dttm-operations",
+      "target": "trump-organization",
+      "label": "trademark entity of",
+      "type": "ownership"
+    },
+    {
+      "source": "kinh-bac-city",
+      "target": "trump-international-hung-yen",
+      "label": "developer of",
+      "type": "commercial",
+      "date": "2024-10"
+    },
+    {
+      "source": "trump-organization",
+      "target": "trump-international-hung-yen",
+      "label": "licensor/operator of",
+      "type": "commercial",
+      "date": "2025-05-21"
+    },
+    {
+      "source": "vietnam",
+      "target": "us-vietnam-trade-framework-2025",
+      "label": "party to; agreement unsigned as of Oct 2026",
+      "type": "political",
+      "date": "2025-10-26"
+    },
+    {
+      "source": "crew",
+      "target": "dttm-operations",
+      "label": "reported Vietnam trademark filings by",
+      "type": "media",
+      "date": "2026-01"
+    },
+    {
+      "source": "new-york-times",
+      "target": "base-group",
+      "label": "reported $2M payment by",
+      "type": "media",
+      "date": "2026-07-14"
+    }
+  ],
+  "leads": [
+    {
+      "title": "Korea Aluminium final circumvention ruling by Commerce",
+      "why_connected": "The outcome of the case pending while Base Group paid Trump $2M is the test of any favour; prelim (13 Jul 2026) went against the firm.",
+      "entities": [
+        "korea-aluminium",
+        "base-group",
+        "us-commerce-department",
+        "trump-organization"
+      ],
+      "source_url": "https://www.koreatimes.co.kr/business/companies/20260813/korean-firm-behind-2-mil-trump-payment-to-build-golf-club-in-hanam"
+    },
+    {
+      "title": "TBC Bank partnership with Trump Tower Tbilisi",
+      "why_connected": "Georgia's largest London-listed bank is reported as a project partner; its financing role and any US exposure are unexamined.",
+      "entities": [
+        "trump-tower-tbilisi",
+        "georgia-country"
+      ],
+      "source_url": "https://georgiatoday.ge/tbc-partners-with-trump-tower-tbilisi-project/"
+    },
+    {
+      "title": "Senate hold on the MEGOBARI Act",
+      "why_connected": "Who is blocking Georgia sanctions in the Senate, and whether any lobbyist or donor tie to Trump-world exists, is single-sourced.",
+      "entities": [
+        "megobari-act",
+        "bidzina-ivanishvili",
+        "us-congress"
+      ],
+      "source_url": "https://oc-media.org/opinion-with-georgias-democracy-on-the-line-one-us-senator-makes-a-cynical-stand"
+    },
+    {
+      "title": "WLF real-estate tokenisation pipeline ('first of many')",
+      "why_connected": "Eric Trump said the Maldives deal is the first of many; further WLF tokenisations of Trump-licensed foreign properties would deepen the double-dip pattern.",
+      "entities": [
+        "world-liberty-financial",
+        "eric-trump",
+        "dar-global",
+        "securitize"
+      ],
+      "source_url": "https://www.pulse.bot/proptech/news/exclusive-eric-trump-calls-maldives-hotel-first-of-many-real-estate-tokenization-projects-0a1de421-27ad-4bfc-b385-63e06ef78551/"
+    }
+  ],
+  "audit": {
+    "checked": [
+      "Base Group's $2M fee to the Trump Organization (NYT via financial disclosure) and the senators' letters",
+      "Korea Aluminium's Commerce trade case and the reported 105.8% preliminary rate",
+      "Eric Trump's Feb 2026 Hanam visit (single-source in the original)",
+      "WLF's role in the Maldives resort token financing",
+      "Tbilisi tower land tied to Cartu/Uta Ivanishvili"
+    ],
+    "result": "strengthened",
+    "changes": [
+      "$2M fee, denials and the Warren/Blumenthal/Kim and Wyden letters upheld across Korean and US outlets.",
+      "Hanam visit upgraded from single-source to documented and dated 10-11 Feb 2026 (Kyeongin Ilbo, Hankyung); noted that no source ties the toured plot to the Hakam-dong golf site.",
+      "Trade case clarified, not overturned: FR summaries show Korea Aluminium at a 28.01% separate rate in the China-order 2023-24 review and 105.80% as the China-wide rate; the 105.8% preliminary figure for the company could not be confirmed against the Jul 2026 notice and stays attributed to Korean press/NYT. Flagged that the live case may be the China-order review rather than the Korea circumvention inquiry.",
+      "Maldives WLF/Securitize/DarGlobal Reg D 506(c)/Reg S loan-revenue token structure upheld (Feb 2026 releases, Decrypt, Crowdfund Insider).",
+      "Tbilisi land upheld (Guardian 25 May 2026 via relays: Cartu fund ~35% owned by Uta Ivanishvili; 2023 sale to Central Park Avenue LLC pending payment). The original pages at NYT, Guardian, govinfo and JoongAng Daily were not read directly."
+    ],
+    "new_sources": [
+      {
+        "title": "K-스타월드·성남골프장 관심 (Eric Trump's Hanam visit)",
+        "publisher": "Kyeongin Ilbo",
+        "url": "https://www.kyeongin.com/article/1758988",
+        "date": "2026-02"
+      },
+      {
+        "title": "Eric Trump visits Korea, discusses cooperation with Base Group",
+        "publisher": "Hankyung",
+        "url": "https://www.hankyung.com/article/2026071555787",
+        "date": "2026-07-15"
+      },
+      {
+        "title": "Commerce fixes aluminum foil duty calculations (FR 2026-10525 summary)",
+        "publisher": "PolicyRisk",
+        "url": "https://policyrisk.com/federal-register/2026-10525",
+        "date": "2026"
+      },
+      {
+        "title": "Korean firm under U.S. trade probe paid $2 million to Trump family business, report says",
+        "publisher": "Korea JoongAng Daily",
+        "url": "https://www.koreajoongangdaily.com/business/korean-firm-under-us-trade-probe-paid-2-million-to-trump-family-business-report-says/12774870",
+        "date": "2026-07"
+      },
+      {
+        "title": "Trump-backed World Liberty plots 'exit mechanism' for Maldives hotel tokenization",
+        "publisher": "Decrypt",
+        "url": "https://decrypt.co/358781/trump-backed-world-liberty-exit-mechanism-maldives-hotel-tokenization",
+        "date": "2026-02"
+      }
+    ]
+  }
+}

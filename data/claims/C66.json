@@ -1,0 +1,1537 @@
+{
+  "id": "C66",
+  "title": "The extended family: Boulos, Kushner seniors, Lara, Tiffany, Barron, Ivanka",
+  "verdict": "partly-accurate",
+  "confidence": "medium",
+  "summary": "The in-law roles are documented. Massad Boulos runs US Africa diplomacy, including DRC minerals and Libyan oil, and Charles Kushner, whom Trump pardoned, is ambassador to France. A single NYT investigation (Aug-Sept 2025) documents Boulos-family money and access channels: a $100K payment from a Saudi businessman, now under a House Oversight inquiry; a yacht fee on a sale to Jared Kushner; and a vacation on a Turkish oil trader's yacht that would benefit from Libyan output. The strongest Kushner-sibling link to government decisions is GSA procurement chief Josh Gruenbaum, who courted Ramp (Thrive-backed) while his FAS gave Thrive-led Databricks a $1.824M sole-source order; his reported Thrive-vehicle stake rests on a single WSJ report, and he says he recused (C81). Barron's Sollos venture uses a Trump donor's house as its address. Lara, Ivanka and Kai have no federal-dependent ventures we could find, and Thrive-Kalshi/Polymarket and Boulos-business-DRC-minerals links are unsupported (C75 found no Boulos or Trump-family stake in any DRC asset).",
+  "sub_claims": [
+    {
+      "statement": "Massad Boulos (Tiffany Trump's father-in-law) was given a senior US government role and fronts the DRC/Rwanda minerals-for-security diplomacy.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED. Boulos was named Senior Advisor for Africa in April 2025, on top of his Arab-affairs remit. His first trip was to Kinshasa (3 Apr 2025), where he said a US-DRC minerals deal was being negotiated alongside a Congo-Rwanda peace agreement and that US companies would invest billions once the deals were signed (AP, NPR, Mining.com). Five House Democrats wrote demanding clarity on the minerals terms (Africa Confidential). This shows a family in-law running diplomacy in which minerals access is a bargaining chip. It does NOT show a Boulos family financial interest in Congolese minerals: no source we found ties SCOA Nigeria, the Fadoul group or Michael Boulos to a DRC mining asset. C75 (Nov 2026) confirms that none of the assets awarded under the framework (Chemaf to Virtus, Manono to KoBold, the Glencore stake MOU to Orion CMC) has a documented Boulos or Trump-family stake. The only family-adjacent bidder is Don Jr.'s friend Gentry Beach (Rubaya, not closed), whom Don Jr.'s lawyer sent a cease-and-desist in Aug 2025 per the WSJ (single-source).",
+      "sources": [
+        "https://www.clickondetroit.com/news/world/2025/04/03/the-us-is-negotiating-a-minerals-deal-with-conflict-hit-congo-a-trump-official-says/",
+        "https://www.nhpr.org/2025-04-03/mineral-rich-war-torn-drc-first-stop-for-trumps-new-africa-czar",
+        "https://mining.com/web/trump-envoy-says-us-congo-mining-and-security-deal-moving-ahead",
+        "https://www.africa-confidential.com/article/id/15508/us-lawmakers-demand-%e2%80%98clarity%27-on-minerals%27-role-in-peace-talks",
+        "https://www.theafricareport.com/398241/from-congo-to-sudan-time-is-running-out-for-trumps-africa-dealmaker-massad-boulos/"
+      ]
+    },
+    {
+      "statement": "Massad Boulos's own business is a Nigerian truck/equipment dealer (SCOA Nigeria) controlled by his wife's family, far smaller than the 'billionaire' label, and his financial disclosure is not public.",
+      "verdict": "partly-accurate",
+      "finding": "DOCUMENTED for the business: per the NYT (Dec 2024, relayed by Naharnet, Mediaite and Business Insider), Boulos spent about 20 years selling trucks and machinery in Nigeria for SCOA Nigeria PLC, part of the Fadoul group controlled by his father-in-law. SCOA posted a profit under $66,000 the prior year and had a market value of about $865,000 (figures as of Dec 2024). Audit note: SCOA's share price has since risen sharply (about 437% year-to-date by Feb 2026, per Nairametrics) and it reported an unaudited FY2025 pre-tax profit of N723.8M (roughly $0.5M), so the 2024 snapshot understates its current size; it is still far from a billionaire-scale business. Boulos said he does not call himself a billionaire, and SCOA's audit-committee chair defended him (ThisDay). SINGLE-SOURCE for the disclosure: Tablet (relayed by KIVU Today) could not find an OGE 278e for him, and State said only that he is 'compliant with all employment requirements'. A confidential OGE 450 would not be public, so a missing 278e does not by itself show non-filing.",
+      "sources": [
+        "https://www.naharnet.com/stories/en/309825-new-york-times-questions-whether-trump-s-mideast-adviser-boulos-is-truly-a-billionaire",
+        "https://www.mediaite.com/politics/trump/nyt-reports-trump-administration-pick-and-tiffany-trump-father-in-law-is-not-as-rich-as-he-claims/",
+        "https://www.businessinsider.nl/massad-boulos-hailed-as-a-billionaire-lawyer-advising-trump-on-middle-east-policy-probably-isnt-a-lawyer-or-a-billionaire/",
+        "https://www.thisdaylive.com/2024/12/15/trump-organisation-defends-boulos-on-nigerian-networth/",
+        "https://kivutoday.com/the-hidden-war-behind-the-rwanda-congo-peace-deal-who-really-wanted-congos-minerals/",
+        "https://www.tabletmag.com/sections/news/articles/family-business-armin-rosen",
+        "https://nairametrics.com/2026/02/26/scoa-nigeria-records-n723-8-million-fy2025-profit-as-equipment-sales-hit-n7-billion/"
+      ]
+    },
+    {
+      "statement": "Nigeria awarded a $700M contract to the Chagoury family, Boulos's reported long-time patrons, weeks before Boulos met President Tinubu.",
+      "verdict": "partly-accurate",
+      "finding": "DOCUMENTED that Chagoury-owned ITB Nigeria was picked for a roughly $700M Lagos ports (Apapa/Tin Can) renovation in March 2025 (ThisDay citing Africa Intelligence; Sahara Reporters), and that Tinubu met Boulos in Paris in mid-April 2025 (AllAfrica/State House). SINGLE-SOURCE (Tablet, as relayed in search results) for the juxtaposition and for describing the Chagourys as Boulos's long-time patrons. The Tablet article was not read directly to confirm its exact wording. No source alleges the contract was linked to Boulos's role, and no response from the parties was found.",
+      "sources": [
+        "https://www.thisdaylive.com/2025/03/18/africa-intelligence-tinubu-has-picked-gilbert-chagoury-for-700m-lagos-ports-renovation-project/",
+        "https://saharareporters.com/2025/03/18/tinubus-lebanese-ally-chagoury-awarded-700million-lagos-ports-contract-despite-lacking",
+        "https://allafrica.com/stories/202504140133.html",
+        "https://www.tabletmag.com/sections/news/articles/family-business-armin-rosen"
+      ]
+    },
+    {
+      "statement": "Tiffany Trump and Michael Boulos vacationed on the yacht of a Turkish oil trader (BGN International) that stands to benefit from the Libyan oil output Massad Boulos was promoting.",
+      "verdict": "confirmed",
+      "finding": "SINGLE-SOURCE (one NYT investigation, Sept 2025, widely relayed by Middle East Eye, Turkish Minute and Infobae). In summer 2025 the couple sailed on Phoenix 2, owned by Ercument and Ruya Bayegan of BGN International. Tiffany posted from the yacht a day after Massad Boulos announced plans to raise Libyan oil output, and the NYT reported that BGN trades Libyan oil and stands to benefit. Boulos also dined privately with Libya's national security adviser on 23 July after announcing oil deals in Tripoli; he at first denied the dinner, then acknowledged it. Family associates told the NYT that Michael Boulos has an interest in Libya's oil sector. The couple's spokesperson called it a 'personal and private vacation'. Nothing illegal is alleged, and no transaction benefiting the Boulos family is documented.",
+      "sources": [
+        "https://www.middleeasteye.net/news/tiffany-trump-and-michael-boulos-sailed-yacht-turkish-billionaire-trading-libyan-oil-report",
+        "https://turkishminute.com/2025/09/20/trumps-daughter-vacationed-on-turkish-billionaires-yacht-report/",
+        "https://www.infobae.com/america/the-new-york-times/2025/09/18/como-el-instagram-de-tiffany-trump-nos-condujo-al-megayate-de-un-magnate-petrolero/"
+      ]
+    },
+    {
+      "statement": "Michael Boulos took $100,000 from a Saudi businessman who sought help recovering assets seized in the Saudi corruption crackdown and an invitation to the Trump wedding; House Oversight Democrats opened an inquiry.",
+      "verdict": "mostly-accurate",
+      "finding": "DOCUMENTED for the inquiry: on 29 Aug 2025, Ranking Member Robert Garcia wrote to Michael Boulos, his cousin James Frangi and Abdulelah Allam (Oversight Democrats press release and PDF; The Hill). SINGLE-SOURCE (NYT) for the underlying facts: Allam wired $100,000 to Boulos on the day of a 22 June 2022 meeting at Allam's Virginia home that Frangi arranged, and an invitation to the 12 Nov 2022 Mar-a-Lago wedding was discussed. Garcia's office describes the payment as being for leveraging Trump ties to help Allam recover assets seized by Saudi Arabia. The explanations conflict. Boulos's spokesman says Allam settled a debt that Frangi's company owed Boulos; Allam's side calls it a loan awaiting repayment. Allam got neither an invitation nor his assets back. No public reply from Boulos, Frangi or Allam was found as of Nov 2026 (audit re-check). This happened while Trump was out of office, so no government decision is involved.",
+      "sources": [
+        "https://oversightdemocrats.house.gov/news/press-releases/ranking-member-robert-garcia-investigates-reports-foreign-money-flowing",
+        "https://oversightdemocrats.house.gov/sites/evo-subsites/democrats-oversight.house.gov/files/evo-media-document/2025-08-29-garcia-to-boulos-allam-frangi.pdf",
+        "https://thehill.com/homenews/administration/5477588-oversight-committee-investigates-boulos/",
+        "https://oversightdemocrats.house.gov/news/press-releases/ranking-members-robert-garcia-and-ron-wyden-investigate-jared-kushner-raising-billions-from-middle-east-governments-while-negotiating-us-foreign-policy"
+      ]
+    },
+    {
+      "statement": "Michael Boulos earned a fee on a superyacht sale to Jared Kushner that the NYT says was overpriced by about $2.5M.",
+      "verdict": "confirmed",
+      "finding": "SINGLE-SOURCE (NYT, 21 Aug 2025, relayed by the Spokesman-Review, Daily Beast and Protothema). Boulos worked for the yacht brokerage of his cousin Jimmy (James) Frangi. Kushner bought the 50m superyacht Solstice, being built at Perama, Greece, as an investment. The NYT reported a roughly $2.5M overcharge and about $300,000 to Boulos when the sale closed in 2022, with the yacht still unfinished. The spokesperson says Boulos received only a prenegotiated finder's fee, has ended his business with Frangi, and that Tiffany had no knowledge of the deals. This is an intra-family commercial link, not one that depends on government action. Its significance is that the same Frangi channel recurs in the Allam payment.",
+      "sources": [
+        "https://www.spokesman.com/stories/2025/aug/21/he-asked-tiffany-trump-to-marry-him-then-the-deals/",
+        "https://www.thedailybeast.com/tiffany-trumps-in-laws-took-jared-kushner-for-millions/",
+        "https://origin01-en.protothema.gr/2025/08/22/nyt-suspected-fraud-among-trumps-daughters-in-law-e2-5m-overcharge-for-superyacht-solstice-built-in-perama"
+      ]
+    },
+    {
+      "statement": "Michael Boulos is a trustee of the Trump presidential library foundation.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED (from C48, Florida incorporation records). The May 2025 Donald J. Trump Presidential Library Foundation lists Eric Trump, Michael Boulos and James Kiley as trustees. The foundation won IRS exemption in 10 days and received the state-deeded Miami Dade College parcel. Tiffany Trump's trustee status is still unverified. We did not re-research this here.",
+      "sources": [
+        "https://cbsnews.com/news/trump-library-democratic-congress",
+        "https://www.wlrn.org/government-politics/2025-11-20/trump-library-foundation-expects-to-raise-50-million-this-year"
+      ]
+    },
+    {
+      "statement": "Charles Kushner, pardoned by Trump in 2020, was made ambassador to France (and Monaco).",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED. Trump pardoned Charles Kushner in Dec 2020 for his 2005 tax-evasion, witness-tampering and illegal-campaign-contribution convictions. Trump nominated him in Nov 2024 (Fortune), the Senate confirmed him 51-45 on 19-20 May 2025 (AP), and he presented credentials in July 2025. He also presented credentials to Prince Albert II as ambassador to Monaco on 27 Oct 2025 (Monaco Tribune, Monaco Life; verified in audit). In Aug 2025 he publicly rebuked Macron over antisemitism and was summoned by the French foreign ministry. An unsourced web dossier claims his ethics agreement required resigning from 55 entities and divesting about 150 positions. We could not verify that and do not rely on it.",
+      "sources": [
+        "https://fortune.com/2024/11/30/trump-charles-kushner-pardon-jared-ivanka-us-ambassador-france/",
+        "https://www.news4jax.com/news/politics/2025/05/20/senate-confirms-charles-kushner-father-of-trumps-son-in-law-as-ambassador-to-france/",
+        "https://en.wikipedia.org/wiki/Charles_Kushner",
+        "https://www.foreign.senate.gov/download/05/01/2025/050125_kushner_testimonypdf",
+        "https://www.monaco-tribune.com/en/2025/10/prince-albert-ii-and-princess-charlene-welcome-charles-kushner-new-us-ambassador-to-monaco/"
+      ]
+    },
+    {
+      "statement": "Kushner Companies relied on Gulf-linked financing for 666 Fifth Avenue while Jared Kushner served in the first Trump White House.",
+      "verdict": "partly-accurate",
+      "finding": "DOCUMENTED but historical. In 2017 Charles Kushner discussed 666 Fifth financing with Qatar's finance minister, and a reported $500M commitment from former Qatari PM Hamad bin Jassim collapsed (Bisnow). In Aug 2018 Brookfield took the tower on a 99-year lease with rent prepaid. The Qatar Investment Authority was a major Brookfield investor, but Brookfield said no Qatar-linked entity was involved (The Week, The Real Deal). Sen. Wyden queried Brookfield in 2022. We found NO documented foreign financing of Kushner Companies in 2025-26. The company is now led by Laurent Morali and Nicole Kushner Meyer and is doing Miami deals (Commercial Observer, 2026). The live Gulf-money story is Jared's Affinity Partners (C15, C46), not Kushner Companies.",
+      "sources": [
+        "https://www.bisnow.com/new-york/news/office/kushner-cos-qatar-financing-new-deal-76497",
+        "https://theweek.com/speedreads/773861/qatarfunded-canadian-firm-says-kushner-cos-bailout-include-no-qatari-money",
+        "https://therealdeal.com/2018/05/17/brookfield-in-talks-to-bail-kushner-companies-out-at-666-fifth-report",
+        "https://commercialobserver.com/power-series/2026-power-south-florida/player/laurent-morali-and-nicole-meyer"
+      ]
+    },
+    {
+      "statement": "Josh Kushner's Thrive Capital is one of OpenAI's largest backers and is tied into OpenAI through a circular deal, while OpenAI's Stargate project was launched at the White House.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED. Thrive led OpenAI's early-2024 employee tender at about $86B and committed more than $1B to the Oct 2024 $6.6B round, with an option to invest more at the same valuation (Maginative/The Information, btw.media). On 1 Dec 2025 OpenAI took an equity stake in Thrive Holdings, a Thrive-created vehicle, paid for in services rather than cash (TechCrunch, Bloomberg, The Register). Thrive closed a $10B+ fund in Feb 2026. OpenAI is the operating partner of Stargate, announced by Trump at the White House in Jan 2025 (C08). INFERRED (no source asserts it): Thrive's largest position gains from administration AI policy. We found no reporting that Thrive itself is a Stargate investor or lobbied the administration. Josh Kushner is not in government and has kept his distance from Trump politically.",
+      "sources": [
+        "https://www.maginative.com/article/thrive-capital-to-lead-purchase-of-openai-tender-offer-at-80-billion-valuation/",
+        "https://btw.media/en/thrive-capital-secures-exclusive-clause-in-openais-funding",
+        "https://techcrunch.com/2025/12/01/openais-investment-into-thrive-holdings-is-its-latest-circular-deal/",
+        "https://www.bloomberg.com/news/articles/2025-12-01/openai-takes-stake-in-thrive-holdings-adding-to-circular-deals",
+        "https://www.theregister.com/2025/12/01/openai_takes_ownership_stake_in/",
+        "https://www.advisorperspectives.com/articles/2026/02/17/josh-kushners-thrive-capital-raises-10-billion"
+      ]
+    },
+    {
+      "statement": "A senior GSA procurement official who is himself a Thrive investor oversaw federal contracting with Thrive-backed companies (Ramp, Databricks).",
+      "verdict": "partly-accurate",
+      "finding": "DOCUMENTED that GSA under Federal Acquisition Service commissioner Josh Gruenbaum courted Ramp (backed first by Founders Fund; Thrive joined from its June 2025 Series E) for a SmartPay pilot worth up to $25M within the roughly $700B SmartPay card program. ProPublica found at least four meetings with Ramp before the opportunity was opened, and Rep. Gerald Connolly wrote to GSA on 9 May 2025 (ProPublica, Gizmodo, Banking Dive). No source says Ramp won the pilot. DOCUMENTED for the award (contract records, reconciled with C81): GSA's TTS, part of FAS, posted a sole-source justification on 10 Feb 2026 for a five-month, fixed-price Databricks engineering-services order (47QPCA26F0011) with a ceiling of $1,824,000. The aggregators' '$18M' figure is an error; the WSJ figure is $1.8M. SINGLE-SOURCE, secondhand (WSJ, late May 2026, relayed by aggregators; the WSJ itself could not be reached): Gruenbaum invested $100,001-$250,000 (an OGE value band) in March 2025 in a Databricks-linked Thrive special-purpose vehicle. He says he disclosed it, got ethics approval and recused himself. Also single-source: GSA Administrator Ed Forst blocked a ~$25M Ramp award in April 2026 and asked him to step aside; his April 2026 departure from FAS is documented (Federal News Network), and he calls it planned. No source says Gruenbaum signed or steered the Databricks order, and the sum is immaterial to Databricks. Thrive says neither it nor Josh Kushner discussed government contracts with Gruenbaum, and Ramp says it was unaware of the investment. Gruenbaum was simultaneously working for Jared Kushner on Gaza and the Board of Peace (C81); any link between that and the investment is INFERRED. This is the only documented channel we found in which a Kushner-family firm's portfolio meets federal procurement decisions. Full treatment in C81.",
+      "sources": [
+        "https://www.propublica.org/article/trump-peter-thiel-ramp-gsa-smartpay-expense-payment-system",
+        "https://gizmodo.com/trump-team-eyes-politically-connected-startup-to-overhaul-700-billion-government-payments-program-2000591587",
+        "https://bankingdive.com/news/ramp-angles-700b-smartpay-trump/745959",
+        "https://en.wikipedia.org/wiki/Josh_Gruenbaum",
+        "https://cryptobriefing.com/thrive-capital-trump-adviser-contract-concerns/",
+        "https://www.edgen.tech/fr/news/post/trump-advisers-thrive-capital-investment-draws-scrutiny-over-18m-contract",
+        "https://www.highergov.com/contract/47QTCA25D00D3-47QPCA26F0011/",
+        "https://federalnewsnetwork.com/people/2026/04/gruenbaum-leaving-as-gsa-fas-commissioner/?readmore=1"
+      ]
+    },
+    {
+      "statement": "Thrive Capital holds stakes in Kalshi or Polymarket.",
+      "verdict": "unverified",
+      "finding": "NOT FOUND. No source we found lists Thrive as an investor in Kalshi or Polymarket. The presidential-family prediction-market link is Don Jr. (1789 Capital's Polymarket stake; adviser to both; see C25), not Josh Kushner. We discard this as unsupported.",
+      "sources": [
+        "https://www.newcomer.co/i/211092441/prediction-markets-are-a-bad-bet"
+      ]
+    },
+    {
+      "statement": "Lara Trump hosts a Fox News show and runs ventures that depend on government decisions.",
+      "verdict": "partly-accurate",
+      "finding": "DOCUMENTED that Fox News signed Lara Trump (RNC co-chair from March 2024 to January 2025) to host 'My View with Lara Trump', which premiered 22 Feb 2025 on Saturdays at 9pm. She also launched an activewear line (LT Brand) and released music. We found NO Lara Trump venture that depends on a federal decision. The relevant link is media: the president's daughter-in-law holds a primetime slot on the network that covers him. Her husband Eric's ventures are covered in other claims.",
+      "sources": [
+        "https://www.nbcwashington.com/news/national-international/lara-trump-fox-news-show/3836957/",
+        "https://www.clickondetroit.com/news/politics/2025/02/05/fox-news-hires-presidents-daughter-lara-trump-for-weekend-show-on-network/",
+        "https://www.aol.com/news/pop-star-potential-senator-now-222742848.html"
+      ]
+    },
+    {
+      "statement": "Barron Trump holds a WLF stake and has launched other ventures, one tied to a Trump donor.",
+      "verdict": "mostly-accurate",
+      "finding": "DOCUMENTED that WLF lists Barron as a co-founder and 'DeFi visionary' (C04). His income is a press ESTIMATE: Forbes put his WLF token-sale haul at about $40M ($25M after tax) and his stake at about 7.5% (Benzinga, VnExpress), and C29 records Forbes's later $150M net-worth estimate. Neither number comes from a disclosure. SINGLE-SOURCE-plus (Newsweek, relayed by Mediaite, Daily Beast and IBTimes): Sollos Yerba Mate Inc. (Delaware, 3 Dec 2025; Florida, 12 Jan 2026) lists as its address a roughly $16M Palm Beach house owned by developer Jay Weitzman. Weitzman gave $25,000 to Trump's 2017 inauguration and $2,700 to the 2016 campaign, his grandson Spencer Bernstein is a director, and his firm Park America has held federal contracts. Weitzman and the company deny he has any role. Fox Business initially could not confirm that the filing's Barron Trump is the president's son; a later Fox Business report (seen only as a search snippet) says January Florida and Delaware filings list Barron Trump as one of five directors of the Palm Beach company, and BevNET says the brand launched in May 2026 (Gopuff exclusive) and is 'reportedly' connected to him. No outlet we found has a family or company confirmation. An earlier real-estate venture (Trump, Fulcher & Roxburgh) will not be relaunched.",
+      "sources": [
+        "https://www.benzinga.com/markets/25/06/46017024/trump-financial-disclosures-reveal-barron-trumps-potential-40-million-windfall-from-crypto-project",
+        "https://e.vnexpress.net/news/tech/personalities/trump-s-youngest-son-barron-reportedly-earns-40m-from-family-crypto-venture-4908245.html",
+        "https://www.mediaite.com/media/news/barron-trumps-tea-startup-lists-donors-palm-beach-mansion-as-hq-report/",
+        "https://www.thedailybeast.com/barron-trumps-new-get-rich-quick-scheme-linked-to-fathers-donor-jay-weitzman",
+        "https://www.ibtimes.co.uk/barron-trump-yerba-mate-ethical-concerns-1782153",
+        "https://www.foxbusiness.com/politics/barron-trump-linked-beverage-company-based-near-mar-a-lago",
+        "https://www.bevnet.com/news/2026/review-how-does-sollos-yerba-mate-stack-up",
+        "https://www-ak-ms.foxbusiness.com/politics/barron-trump-business-partner-clarifies-future-luxury-real-estate-venture-will-not-relaunched",
+        "https://www.foxbusiness.com/retail/barron-trump-linked-beverage-brand-launches-first-product-florida-inspired-twist"
+      ]
+    },
+    {
+      "statement": "Ivanka Trump has ventures that depend on government decisions.",
+      "verdict": "partly-accurate",
+      "finding": "DOCUMENTED. Her new US venture is Planet Harvest, a 'profit-for-purpose' produce company co-founded with Melissa Ackerman and launched publicly in 2025 (CNN via KVIA). We found no federal dependency. Her government-dependent exposure is foreign: the Albania (Sazan/Zvernec) resort plans with Jared Kushner need Albanian government approval (C45, Forbes June 2026). She holds no administration role in the second term.",
+      "sources": [
+        "https://kvia.com/politics/cnn-us-politics/2025/05/08/ivanka-trump-discusses-produce-business-in-her-first-major-public-event-of-fathers-second-term/",
+        "https://www.forbes.com/sites/alisondurkee/2026/06/03/why-jared-kushner-and-ivanka-trumps-albanian-resort-plans-are-under-fire/"
+      ]
+    },
+    {
+      "statement": "Kai Trump (Don Jr.'s daughter) has endorsement deals.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED. Her NIL deals include TaylorMade (Feb 2025), Leaf Trading Cards, and Accelerator Active Energy as an NIL and equity partner (mid-2025). On3 estimates her NIL value at about $1.2M. These are ordinary commercial deals; we found no counterparty with a pending federal matter, and no source suggests one.",
+      "sources": [
+        "https://www.foxbusiness.com/sports/kai-trump-announces-1st-major-nil-partnership-accelerator-active-energy-presidential-fashion",
+        "https://www.on3.com/nil/news/miami-golf-commit-kai-trump-inks-nil-deal-with-accelerator-active-energy",
+        "https://www.yardbarker.com/golf/articles/taylormade_signs_kai_trump_to_endorsement_deal/s1_17063_41794860",
+        "https://www.on3.com/nil/news/leaf-trading-cards-announces-nil-partnership-with-kai-trump-miami-hurricanes-golf/"
+      ]
+    }
+  ],
+  "corrections": [
+    "The claim implies a Boulos minerals/Congo business deal. The record shows Massad Boulos's official role in DRC minerals diplomacy, not a family stake in Congolese minerals.",
+    "This check asks about Thrive stakes in Kalshi/Polymarket. None was found; the family prediction-market link is Don Jr./1789 Capital (C25).",
+    "The claim says Kushner Companies has foreign financing. The documented Gulf-linked episode (666 Fifth, 2017-18) is historical, and Brookfield denied any Qatari role. Current Gulf money flows to Affinity Partners, not Kushner Companies.",
+    "Several aggregators conflate Massad and Michael Boulos: it was Massad, not Michael, who spent decades in Lagos running SCOA's truck business. Some summaries also wrongly name Michael as the government adviser.",
+    "Barron's WLF figures (about $40M proceeds, about 7.5% stake, about $150M net worth) are Forbes estimates, not disclosed numbers.",
+    "The Databricks order's ceiling was $1,824,000 (HigherGov contract record, per C81), not $18M as some aggregators reported.",
+    "Charles Kushner's Monaco accreditation is verified: credentials presented 27 Oct 2025."
+  ],
+  "denials_and_context": [
+    "Michael Boulos's spokesman says Allam's $100K settled a debt Frangi's company owed Boulos; Allam's side calls it a loan. Both deny that a wedding invitation was sold.",
+    "On the Kushner yacht deal, the Boulos/Tiffany spokesperson says Boulos received only a prenegotiated finder's fee, has ended his business with Frangi, and that Tiffany knew nothing of the deals.",
+    "The couple's spokesperson called the Bayegan yacht stay a 'personal and private vacation'. Massad Boulos declined to comment and at first denied, then acknowledged, the Libya NSA dinner.",
+    "Massad Boulos says he never called himself a billionaire. SCOA's audit-committee chair defended him, and State says he complies with all employment requirements.",
+    "Thrive says neither it nor Josh Kushner discussed government contracts with Gruenbaum, and Ramp says it was unaware of any link.",
+    "Jay Weitzman and Sollos deny that Weitzman has any role in the business.",
+    "A documented relationship is not proof of wrongdoing. None of these links shows a government decision made to benefit a family member."
+  ],
+  "sources": [
+    {
+      "title": "The US is negotiating a minerals deal with conflict-hit Congo, a Trump official says",
+      "publisher": "AP (via WDIV)",
+      "url": "https://www.clickondetroit.com/news/world/2025/04/03/the-us-is-negotiating-a-minerals-deal-with-conflict-hit-congo-a-trump-official-says/",
+      "date": "2025-04-03"
+    },
+    {
+      "title": "Mineral-rich, war-torn DRC first stop for Trump's new Africa czar",
+      "publisher": "NPR (via NHPR)",
+      "url": "https://www.nhpr.org/2025-04-03/mineral-rich-war-torn-drc-first-stop-for-trumps-new-africa-czar",
+      "date": "2025-04-03"
+    },
+    {
+      "title": "Trump envoy says US-Congo mining and security deal moving ahead",
+      "publisher": "Mining.com / Reuters",
+      "url": "https://mining.com/web/trump-envoy-says-us-congo-mining-and-security-deal-moving-ahead",
+      "date": "2025"
+    },
+    {
+      "title": "US lawmakers demand 'clarity' on minerals' role in peace talks",
+      "publisher": "Africa Confidential",
+      "url": "https://www.africa-confidential.com/article/id/15508/us-lawmakers-demand-%e2%80%98clarity%27-on-minerals%27-role-in-peace-talks",
+      "date": "2025"
+    },
+    {
+      "title": "From Congo to Sudan, time is running out for Trump's Africa dealmaker Massad Boulos",
+      "publisher": "The Africa Report",
+      "url": "https://www.theafricareport.com/398241/from-congo-to-sudan-time-is-running-out-for-trumps-africa-dealmaker-massad-boulos/",
+      "date": "2025"
+    },
+    {
+      "title": "The Hidden War Behind the Rwanda-Congo Peace Deal",
+      "publisher": "KIVU Today (relaying Tablet)",
+      "url": "https://kivutoday.com/the-hidden-war-behind-the-rwanda-congo-peace-deal-who-really-wanted-congos-minerals/",
+      "date": "2025"
+    },
+    {
+      "title": "Family Business (Armin Rosen)",
+      "publisher": "Tablet",
+      "url": "https://www.tabletmag.com/sections/news/articles/family-business-armin-rosen",
+      "date": "2025"
+    },
+    {
+      "title": "New York Times questions whether Trump's Mideast adviser Boulos is truly a billionaire",
+      "publisher": "Naharnet",
+      "url": "https://www.naharnet.com/stories/en/309825-new-york-times-questions-whether-trump-s-mideast-adviser-boulos-is-truly-a-billionaire",
+      "date": "2024-12-13"
+    },
+    {
+      "title": "NYT reports Trump administration pick and Tiffany Trump father-in-law is not as rich as he claims",
+      "publisher": "Mediaite",
+      "url": "https://www.mediaite.com/politics/trump/nyt-reports-trump-administration-pick-and-tiffany-trump-father-in-law-is-not-as-rich-as-he-claims/",
+      "date": "2024-12-12"
+    },
+    {
+      "title": "Massad Boulos probably isn't a lawyer or a billionaire",
+      "publisher": "Business Insider",
+      "url": "https://www.businessinsider.nl/massad-boulos-hailed-as-a-billionaire-lawyer-advising-trump-on-middle-east-policy-probably-isnt-a-lawyer-or-a-billionaire/",
+      "date": "2024-12"
+    },
+    {
+      "title": "Trump Organisation defends Boulos on Nigerian net worth",
+      "publisher": "ThisDay",
+      "url": "https://www.thisdaylive.com/2024/12/15/trump-organisation-defends-boulos-on-nigerian-networth/",
+      "date": "2024-12-15"
+    },
+    {
+      "title": "Africa Intelligence: Tinubu has picked Gilbert Chagoury for $700m Lagos ports renovation project",
+      "publisher": "ThisDay",
+      "url": "https://www.thisdaylive.com/2025/03/18/africa-intelligence-tinubu-has-picked-gilbert-chagoury-for-700m-lagos-ports-renovation-project/",
+      "date": "2025-03-18"
+    },
+    {
+      "title": "Tinubu's Lebanese ally Chagoury awarded $700m Lagos ports contract",
+      "publisher": "Sahara Reporters",
+      "url": "https://saharareporters.com/2025/03/18/tinubus-lebanese-ally-chagoury-awarded-700million-lagos-ports-contract-despite-lacking",
+      "date": "2025-03-18"
+    },
+    {
+      "title": "Tinubu discusses stronger Nigeria-U.S. ties with Trump advisor",
+      "publisher": "AllAfrica",
+      "url": "https://allafrica.com/stories/202504140133.html",
+      "date": "2025-04-14"
+    },
+    {
+      "title": "Tiffany Trump and Michael Boulos sailed on yacht of Turkish billionaire trading Libyan oil",
+      "publisher": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/tiffany-trump-and-michael-boulos-sailed-yacht-turkish-billionaire-trading-libyan-oil-report",
+      "date": "2025-09"
+    },
+    {
+      "title": "Trump's daughter vacationed on Turkish billionaire's yacht: report",
+      "publisher": "Turkish Minute",
+      "url": "https://turkishminute.com/2025/09/20/trumps-daughter-vacationed-on-turkish-billionaires-yacht-report/",
+      "date": "2025-09-20"
+    },
+    {
+      "title": "Como el Instagram de Tiffany Trump nos condujo al megayate de un magnate petrolero",
+      "publisher": "The New York Times (via Infobae)",
+      "url": "https://www.infobae.com/america/the-new-york-times/2025/09/18/como-el-instagram-de-tiffany-trump-nos-condujo-al-megayate-de-un-magnate-petrolero/",
+      "date": "2025-09-18"
+    },
+    {
+      "title": "He asked Tiffany Trump to marry him. Then the deals started coming.",
+      "publisher": "The New York Times (via Spokesman-Review)",
+      "url": "https://www.spokesman.com/stories/2025/aug/21/he-asked-tiffany-trump-to-marry-him-then-the-deals/",
+      "date": "2025-08-21"
+    },
+    {
+      "title": "Tiffany Trump's in-laws took Jared Kushner for millions",
+      "publisher": "The Daily Beast",
+      "url": "https://www.thedailybeast.com/tiffany-trumps-in-laws-took-jared-kushner-for-millions/",
+      "date": "2025-08"
+    },
+    {
+      "title": "NYT: suspected fraud... EUR 2.5m overcharge for superyacht Solstice built in Perama",
+      "publisher": "Protothema",
+      "url": "https://origin01-en.protothema.gr/2025/08/22/nyt-suspected-fraud-among-trumps-daughters-in-law-e2-5m-overcharge-for-superyacht-solstice-built-in-perama",
+      "date": "2025-08-22"
+    },
+    {
+      "title": "Ranking Member Robert Garcia investigates reports of foreign money flowing to Trump family member",
+      "publisher": "House Oversight Democrats",
+      "url": "https://oversightdemocrats.house.gov/news/press-releases/ranking-member-robert-garcia-investigates-reports-foreign-money-flowing",
+      "date": "2025-08-29"
+    },
+    {
+      "title": "Letters to Boulos, Allam and Frangi",
+      "publisher": "House Oversight Democrats",
+      "url": "https://oversightdemocrats.house.gov/sites/evo-subsites/democrats-oversight.house.gov/files/evo-media-document/2025-08-29-garcia-to-boulos-allam-frangi.pdf",
+      "date": "2025-08-29"
+    },
+    {
+      "title": "Democrats launch probe into Trump son-in-law over alleged wedding deal",
+      "publisher": "The Hill",
+      "url": "https://thehill.com/homenews/administration/5477588-oversight-committee-investigates-boulos/",
+      "date": "2025-08-29"
+    },
+    {
+      "title": "Garcia and Wyden investigate Jared Kushner raising billions from Middle East governments",
+      "publisher": "House Oversight Democrats",
+      "url": "https://oversightdemocrats.house.gov/news/press-releases/ranking-members-robert-garcia-and-ron-wyden-investigate-jared-kushner-raising-billions-from-middle-east-governments-while-negotiating-us-foreign-policy",
+      "date": "2026-03-19"
+    },
+    {
+      "title": "Trump names Charles Kushner, pardoned real estate mogul, as US ambassador to France",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/2024/11/30/trump-charles-kushner-pardon-jared-ivanka-us-ambassador-france/",
+      "date": "2024-11-30"
+    },
+    {
+      "title": "Senate confirms Charles Kushner as ambassador to France",
+      "publisher": "AP (via WJXT)",
+      "url": "https://www.news4jax.com/news/politics/2025/05/20/senate-confirms-charles-kushner-father-of-trumps-son-in-law-as-ambassador-to-france/",
+      "date": "2025-05-20"
+    },
+    {
+      "title": "Charles Kushner",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Charles_Kushner",
+      "date": "2026"
+    },
+    {
+      "title": "Charles Kushner testimony",
+      "publisher": "Senate Foreign Relations Committee",
+      "url": "https://www.foreign.senate.gov/download/05/01/2025/050125_kushner_testimonypdf",
+      "date": "2025-05-01"
+    },
+    {
+      "title": "Kushner must pivot on 666 Fifth Ave. after Qatari financing falls through",
+      "publisher": "Bisnow",
+      "url": "https://www.bisnow.com/new-york/news/office/kushner-cos-qatar-financing-new-deal-76497",
+      "date": "2018"
+    },
+    {
+      "title": "Qatar-funded Canadian firm says Kushner Cos. bailout would include no Qatari money",
+      "publisher": "The Week",
+      "url": "https://theweek.com/speedreads/773861/qatarfunded-canadian-firm-says-kushner-cos-bailout-include-no-qatari-money",
+      "date": "2018-05"
+    },
+    {
+      "title": "Brookfield in talks to bail Kushner Companies out at 666 Fifth",
+      "publisher": "The Real Deal",
+      "url": "https://therealdeal.com/2018/05/17/brookfield-in-talks-to-bail-kushner-companies-out-at-666-fifth-report",
+      "date": "2018-05-17"
+    },
+    {
+      "title": "Laurent Morali and Nicole Kushner Meyer (Power South Florida 2026)",
+      "publisher": "Commercial Observer",
+      "url": "https://commercialobserver.com/power-series/2026-power-south-florida/player/laurent-morali-and-nicole-meyer",
+      "date": "2026-03"
+    },
+    {
+      "title": "Thrive Capital to lead purchase of OpenAI tender offer",
+      "publisher": "Maginative",
+      "url": "https://www.maginative.com/article/thrive-capital-to-lead-purchase-of-openai-tender-offer-at-80-billion-valuation/",
+      "date": "2024"
+    },
+    {
+      "title": "Thrive Capital secures exclusive clause in OpenAI's funding",
+      "publisher": "btw.media",
+      "url": "https://btw.media/en/thrive-capital-secures-exclusive-clause-in-openais-funding",
+      "date": "2024-10"
+    },
+    {
+      "title": "OpenAI's investment into Thrive Holdings is its latest circular deal",
+      "publisher": "TechCrunch",
+      "url": "https://techcrunch.com/2025/12/01/openais-investment-into-thrive-holdings-is-its-latest-circular-deal/",
+      "date": "2025-12-01"
+    },
+    {
+      "title": "OpenAI gets stake in Thrive Holdings, adds to circular deals",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-01/openai-takes-stake-in-thrive-holdings-adding-to-circular-deals",
+      "date": "2025-12-01"
+    },
+    {
+      "title": "OpenAI money-go-round sees it invest in company that invested in OpenAI",
+      "publisher": "The Register",
+      "url": "https://www.theregister.com/2025/12/01/openai_takes_ownership_stake_in/",
+      "date": "2025-12-01"
+    },
+    {
+      "title": "Josh Kushner's Thrive Capital raises $10 billion",
+      "publisher": "Advisor Perspectives / Bloomberg",
+      "url": "https://www.advisorperspectives.com/articles/2026/02/17/josh-kushners-thrive-capital-raises-10-billion",
+      "date": "2026-02-17"
+    },
+    {
+      "title": "Trump, Peter Thiel, Ramp and the GSA SmartPay program",
+      "publisher": "ProPublica",
+      "url": "https://www.propublica.org/article/trump-peter-thiel-ramp-gsa-smartpay-expense-payment-system",
+      "date": "2025"
+    },
+    {
+      "title": "Trump team eyes politically connected startup to overhaul $700 billion government payments program",
+      "publisher": "Gizmodo",
+      "url": "https://gizmodo.com/trump-team-eyes-politically-connected-startup-to-overhaul-700-billion-government-payments-program-2000591587",
+      "date": "2025"
+    },
+    {
+      "title": "Ramp angles for $700B SmartPay",
+      "publisher": "Banking Dive",
+      "url": "https://bankingdive.com/news/ramp-angles-700b-smartpay-trump/745959",
+      "date": "2025"
+    },
+    {
+      "title": "Josh Gruenbaum",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Josh_Gruenbaum",
+      "date": "2026"
+    },
+    {
+      "title": "Thrive Capital / Trump adviser contract concerns",
+      "publisher": "Crypto Briefing (relaying WSJ)",
+      "url": "https://cryptobriefing.com/thrive-capital-trump-adviser-contract-concerns/",
+      "date": "2026"
+    },
+    {
+      "title": "Trump adviser's Thrive Capital investment draws scrutiny",
+      "publisher": "Edgen (relaying WSJ)",
+      "url": "https://www.edgen.tech/fr/news/post/trump-advisers-thrive-capital-investment-draws-scrutiny-over-18m-contract",
+      "date": "2026"
+    },
+    {
+      "title": "Prediction markets are a bad bet",
+      "publisher": "Newcomer",
+      "url": "https://www.newcomer.co/i/211092441/prediction-markets-are-a-bad-bet",
+      "date": "2026"
+    },
+    {
+      "title": "Fox News hires Lara Trump to host weekend show",
+      "publisher": "NBC Washington",
+      "url": "https://www.nbcwashington.com/news/national-international/lara-trump-fox-news-show/3836957/",
+      "date": "2025-02-05"
+    },
+    {
+      "title": "Fox News hires president's daughter-in-law Lara Trump for weekend show",
+      "publisher": "AP (via WDIV)",
+      "url": "https://www.clickondetroit.com/news/politics/2025/02/05/fox-news-hires-presidents-daughter-lara-trump-for-weekend-show-on-network/",
+      "date": "2025-02-05"
+    },
+    {
+      "title": "Aspiring musician, potential senator... and now clothes brand owner",
+      "publisher": "AOL / The Independent",
+      "url": "https://www.aol.com/news/pop-star-potential-senator-now-222742848.html",
+      "date": "2024"
+    },
+    {
+      "title": "Trump financial disclosures reveal Barron Trump's potential $40 million windfall",
+      "publisher": "Benzinga",
+      "url": "https://www.benzinga.com/markets/25/06/46017024/trump-financial-disclosures-reveal-barron-trumps-potential-40-million-windfall-from-crypto-project",
+      "date": "2025-06"
+    },
+    {
+      "title": "Trump's youngest son Barron reportedly earns $40M from family crypto venture",
+      "publisher": "VnExpress",
+      "url": "https://e.vnexpress.net/news/tech/personalities/trump-s-youngest-son-barron-reportedly-earns-40m-from-family-crypto-venture-4908245.html",
+      "date": "2025-06"
+    },
+    {
+      "title": "Barron Trump's tea startup lists donor's Palm Beach mansion as HQ",
+      "publisher": "Mediaite",
+      "url": "https://www.mediaite.com/media/news/barron-trumps-tea-startup-lists-donors-palm-beach-mansion-as-hq-report/",
+      "date": "2026-02"
+    },
+    {
+      "title": "Barron Trump's new venture linked to father's donor Jay Weitzman",
+      "publisher": "The Daily Beast",
+      "url": "https://www.thedailybeast.com/barron-trumps-new-get-rich-quick-scheme-linked-to-fathers-donor-jay-weitzman",
+      "date": "2026-02"
+    },
+    {
+      "title": "Barron Trump's business tied to father's major donor",
+      "publisher": "IBTimes UK",
+      "url": "https://www.ibtimes.co.uk/barron-trump-yerba-mate-ethical-concerns-1782153",
+      "date": "2026-02"
+    },
+    {
+      "title": "Barron Trump linked to beverage company based near Mar-a-Lago",
+      "publisher": "Fox Business",
+      "url": "https://www.foxbusiness.com/politics/barron-trump-linked-beverage-company-based-near-mar-a-lago",
+      "date": "2026"
+    },
+    {
+      "title": "Review: How does Sollos Yerba Mate stack up?",
+      "publisher": "BevNET",
+      "url": "https://www.bevnet.com/news/2026/review-how-does-sollos-yerba-mate-stack-up",
+      "date": "2026"
+    },
+    {
+      "title": "Barron Trump business partner clarifies future of luxury real estate venture",
+      "publisher": "Fox Business",
+      "url": "https://www-ak-ms.foxbusiness.com/politics/barron-trump-business-partner-clarifies-future-luxury-real-estate-venture-will-not-relaunched",
+      "date": "2025-01"
+    },
+    {
+      "title": "Ivanka Trump discusses produce business",
+      "publisher": "CNN (via KVIA)",
+      "url": "https://kvia.com/politics/cnn-us-politics/2025/05/08/ivanka-trump-discusses-produce-business-in-her-first-major-public-event-of-fathers-second-term/",
+      "date": "2025-05-08"
+    },
+    {
+      "title": "Why Jared Kushner and Ivanka Trump's Albanian resort plans are under fire",
+      "publisher": "Forbes",
+      "url": "https://www.forbes.com/sites/alisondurkee/2026/06/03/why-jared-kushner-and-ivanka-trumps-albanian-resort-plans-are-under-fire/",
+      "date": "2026-06-03"
+    },
+    {
+      "title": "Kai Trump announces 1st major NIL partnership with Accelerator Active Energy",
+      "publisher": "Fox Business",
+      "url": "https://www.foxbusiness.com/sports/kai-trump-announces-1st-major-nil-partnership-accelerator-active-energy-presidential-fashion",
+      "date": "2025"
+    },
+    {
+      "title": "Miami golf commit Kai Trump inks NIL deal with Accelerator Active Energy",
+      "publisher": "On3",
+      "url": "https://www.on3.com/nil/news/miami-golf-commit-kai-trump-inks-nil-deal-with-accelerator-active-energy",
+      "date": "2025"
+    },
+    {
+      "title": "TaylorMade signs Kai Trump to endorsement deal",
+      "publisher": "Field Level Media (via Yardbarker)",
+      "url": "https://www.yardbarker.com/golf/articles/taylormade_signs_kai_trump_to_endorsement_deal/s1_17063_41794860",
+      "date": "2025-02"
+    },
+    {
+      "title": "Leaf Trading Cards announces NIL partnership with Kai Trump",
+      "publisher": "On3",
+      "url": "https://www.on3.com/nil/news/leaf-trading-cards-announces-nil-partnership-with-kai-trump-miami-hurricanes-golf/",
+      "date": "2025"
+    },
+    {
+      "title": "Prince Albert II and Princess Charlene welcome Charles Kushner, new US ambassador to Monaco",
+      "publisher": "Monaco Tribune",
+      "url": "https://www.monaco-tribune.com/en/2025/10/prince-albert-ii-and-princess-charlene-welcome-charles-kushner-new-us-ambassador-to-monaco/",
+      "date": "2025-10"
+    },
+    {
+      "title": "SCOA Nigeria records N723.8 million FY2025 profit",
+      "publisher": "Nairametrics",
+      "url": "https://nairametrics.com/2026/02/26/scoa-nigeria-records-n723-8-million-fy2025-profit-as-equipment-sales-hit-n7-billion/",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "Barron Trump-linked beverage brand launches first product",
+      "publisher": "Fox Business",
+      "url": "https://www.foxbusiness.com/retail/barron-trump-linked-beverage-brand-launches-first-product-florida-inspired-twist",
+      "date": "2026-05"
+    },
+    {
+      "title": "Databricks engineering services order 47QPCA26F0011",
+      "publisher": "HigherGov (federal contract record)",
+      "url": "https://www.highergov.com/contract/47QTCA25D00D3-47QPCA26F0011/",
+      "date": "2026-02-10"
+    },
+    {
+      "title": "Gruenbaum leaving as GSA FAS commissioner",
+      "publisher": "Federal News Network",
+      "url": "https://federalnewsnetwork.com/people/2026/04/gruenbaum-leaving-as-gsa-fas-commissioner/?readmore=1",
+      "date": "2026-04"
+    }
+  ],
+  "entities": [
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "US president"
+    },
+    {
+      "id": "massad-boulos",
+      "name": "Massad Boulos",
+      "type": "person",
+      "description": "Tiffany Trump's father-in-law; Senior Advisor for Africa and Arab affairs since 2025"
+    },
+    {
+      "id": "michael-boulos",
+      "name": "Michael Boulos",
+      "type": "person",
+      "description": "Tiffany Trump's husband; library foundation trustee"
+    },
+    {
+      "id": "tiffany-trump",
+      "name": "Tiffany Trump",
+      "type": "person",
+      "description": "Trump's daughter, married to Michael Boulos (Nov 2022)"
+    },
+    {
+      "id": "scoa-nigeria",
+      "name": "SCOA Nigeria PLC",
+      "type": "company",
+      "description": "Lagos truck/equipment dealer run by Massad Boulos; part of the Fadoul group"
+    },
+    {
+      "id": "fadoul-group",
+      "name": "Fadoul Group",
+      "type": "company",
+      "description": "West African conglomerate controlled by Massad Boulos's in-laws"
+    },
+    {
+      "id": "gilbert-chagoury",
+      "name": "Gilbert Chagoury",
+      "type": "person",
+      "description": "Lebanese-Nigerian tycoon close to Tinubu; reported Boulos patron (Tablet)"
+    },
+    {
+      "id": "itb-nigeria",
+      "name": "ITB Nigeria",
+      "type": "company",
+      "description": "Chagoury-owned contractor picked for roughly $700M Lagos ports renovation (Mar 2025)"
+    },
+    {
+      "id": "bola-tinubu",
+      "name": "Bola Tinubu",
+      "type": "person",
+      "description": "President of Nigeria"
+    },
+    {
+      "id": "nigeria",
+      "name": "Nigeria",
+      "type": "country",
+      "description": "Boulos family business base"
+    },
+    {
+      "id": "drc",
+      "name": "Democratic Republic of the Congo",
+      "type": "country",
+      "description": "Subject of US minerals-for-security diplomacy led by Boulos"
+    },
+    {
+      "id": "libya",
+      "name": "Libya",
+      "type": "country",
+      "description": "Boulos promoted increased oil output in 2025"
+    },
+    {
+      "id": "ercument-bayegan",
+      "name": "Ercument Bayegan",
+      "type": "person",
+      "description": "Turkish oil trader, BGN International; owner of yacht Phoenix 2"
+    },
+    {
+      "id": "bgn-international",
+      "name": "BGN International",
+      "type": "company",
+      "description": "Turkish energy trader that the NYT says stands to gain from higher Libyan output"
+    },
+    {
+      "id": "abdulelah-allam",
+      "name": "Abdulelah Allam",
+      "type": "person",
+      "description": "Saudi businessman who wired $100,000 to Michael Boulos (June 2022)"
+    },
+    {
+      "id": "james-frangi",
+      "name": "James (Jimmy) Frangi",
+      "type": "person",
+      "description": "Michael Boulos's cousin; yacht broker; arranged the Allam meeting"
+    },
+    {
+      "id": "solstice-yacht",
+      "name": "Solstice superyacht",
+      "type": "asset",
+      "description": "50m yacht bought by Jared Kushner via Frangi's brokerage; NYT reports about $2.5M overcharge"
+    },
+    {
+      "id": "ron-wyden",
+      "name": "Ron Wyden",
+      "type": "person",
+      "description": "US senator (D-OR); co-led the 2026 Kushner fundraising probe"
+    },
+    {
+      "id": "robert-garcia",
+      "name": "Robert Garcia",
+      "type": "person",
+      "description": "Ranking member, House Oversight; letters to Boulos/Allam/Frangi"
+    },
+    {
+      "id": "us-congress",
+      "name": "US Congress",
+      "type": "government",
+      "description": "House Oversight Democrats' inquiry"
+    },
+    {
+      "id": "state-department",
+      "name": "State Department",
+      "type": "government",
+      "description": "Employs Massad Boulos; Charles Kushner's embassy"
+    },
+    {
+      "id": "trump-presidential-library-foundation",
+      "name": "Donald J. Trump Presidential Library Foundation, Inc.",
+      "type": "fund",
+      "description": "Florida nonprofit; Michael Boulos a trustee"
+    },
+    {
+      "id": "charles-kushner",
+      "name": "Charles Kushner",
+      "type": "person",
+      "description": "Founder of Kushner Companies; pardoned 2020; US ambassador to France from 2025"
+    },
+    {
+      "id": "kushner-companies",
+      "name": "Kushner Companies",
+      "type": "company",
+      "description": "Kushner family real-estate firm; led by Laurent Morali and Nicole Kushner Meyer"
+    },
+    {
+      "id": "666-fifth-avenue",
+      "name": "666 Fifth Avenue",
+      "type": "asset",
+      "description": "Kushner flagship tower; Brookfield 99-year lease, 2018"
+    },
+    {
+      "id": "brookfield",
+      "name": "Brookfield",
+      "type": "company",
+      "description": "Took 666 Fifth on a 99-year lease in 2018; QIA a major investor"
+    },
+    {
+      "id": "qatar-investment-authority",
+      "name": "Qatar Investment Authority",
+      "type": "fund",
+      "description": "Qatari sovereign fund; Brookfield investor; Affinity investor"
+    },
+    {
+      "id": "france",
+      "name": "France",
+      "type": "country",
+      "description": "Charles Kushner's posting"
+    },
+    {
+      "id": "jared-kushner",
+      "name": "Jared Kushner",
+      "type": "person",
+      "description": "Trump's son-in-law; Affinity Partners; envoy"
+    },
+    {
+      "id": "affinity-partners",
+      "name": "Affinity Partners",
+      "type": "fund",
+      "description": "Jared Kushner's Gulf-funded investment firm"
+    },
+    {
+      "id": "josh-kushner",
+      "name": "Joshua Kushner",
+      "type": "person",
+      "description": "Jared's brother; founder of Thrive Capital"
+    },
+    {
+      "id": "thrive-capital",
+      "name": "Thrive Capital",
+      "type": "fund",
+      "description": "Josh Kushner's venture firm; major OpenAI investor"
+    },
+    {
+      "id": "thrive-holdings",
+      "name": "Thrive Holdings",
+      "type": "company",
+      "description": "Thrive-created vehicle; OpenAI took equity stake Dec 2025"
+    },
+    {
+      "id": "openai",
+      "name": "OpenAI",
+      "type": "company",
+      "description": "AI company; Stargate operating partner"
+    },
+    {
+      "id": "stargate",
+      "name": "Stargate",
+      "type": "product",
+      "description": "OpenAI/SoftBank/Oracle/MGX AI infrastructure venture announced at the White House Jan 2025"
+    },
+    {
+      "id": "josh-gruenbaum",
+      "name": "Josh Gruenbaum",
+      "type": "person",
+      "description": "GSA Federal Acquisition Service commissioner; reported Thrive fund investor"
+    },
+    {
+      "id": "gsa",
+      "name": "General Services Administration",
+      "type": "government",
+      "description": "Federal procurement agency"
+    },
+    {
+      "id": "ramp",
+      "name": "Ramp",
+      "type": "company",
+      "description": "Thrive-backed fintech courted for GSA SmartPay"
+    },
+    {
+      "id": "databricks",
+      "name": "Databricks",
+      "type": "company",
+      "description": "Thrive-backed data company; reported GSA sole-source award"
+    },
+    {
+      "id": "gerald-connolly",
+      "name": "Gerald Connolly",
+      "type": "person",
+      "description": "Late Rep. (D-VA); opened 2025 probe into GSA-Ramp dealings"
+    },
+    {
+      "id": "kalshi",
+      "name": "Kalshi",
+      "type": "company",
+      "description": "Prediction market; no Thrive stake found"
+    },
+    {
+      "id": "polymarket",
+      "name": "Polymarket",
+      "type": "company",
+      "description": "Prediction market; 1789 Capital stake (C25); no Thrive stake found"
+    },
+    {
+      "id": "donald-trump-jr",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "Trump son; Kalshi/Polymarket adviser; father of Kai"
+    },
+    {
+      "id": "eric-trump",
+      "name": "Eric Trump",
+      "type": "person",
+      "description": "Trump son; Lara's husband; library foundation president"
+    },
+    {
+      "id": "lara-trump",
+      "name": "Lara Trump",
+      "type": "person",
+      "description": "Eric Trump's wife; Fox News host; ex-RNC co-chair"
+    },
+    {
+      "id": "fox-news",
+      "name": "Fox News",
+      "type": "media",
+      "description": "Hosts 'My View with Lara Trump' since Feb 2025"
+    },
+    {
+      "id": "barron-trump",
+      "name": "Barron Trump",
+      "type": "person",
+      "description": "Trump's youngest son; WLF co-founder"
+    },
+    {
+      "id": "world-liberty-financial",
+      "name": "World Liberty Financial",
+      "type": "company",
+      "description": "Trump-family crypto venture"
+    },
+    {
+      "id": "sollos-yerba-mate",
+      "name": "Sollos Yerba Mate Inc.",
+      "type": "company",
+      "description": "Beverage startup reportedly linked to Barron Trump; Palm Beach address"
+    },
+    {
+      "id": "jay-weitzman",
+      "name": "Jay Weitzman",
+      "type": "person",
+      "description": "Palm Beach developer and Trump donor; owns the house used as Sollos's address"
+    },
+    {
+      "id": "park-america",
+      "name": "Park America",
+      "type": "company",
+      "description": "Weitzman's parking company; federal contractor"
+    },
+    {
+      "id": "ivanka-trump",
+      "name": "Ivanka Trump",
+      "type": "person",
+      "description": "Trump's daughter; Jared Kushner's wife"
+    },
+    {
+      "id": "planet-harvest",
+      "name": "Planet Harvest",
+      "type": "company",
+      "description": "Ivanka Trump's produce venture (2025)"
+    },
+    {
+      "id": "albania",
+      "name": "Albania",
+      "type": "country",
+      "description": "Approves Kushner/Ivanka resort projects (C45)"
+    },
+    {
+      "id": "kai-trump",
+      "name": "Kai Trump",
+      "type": "person",
+      "description": "Don Jr.'s daughter; golfer with NIL deals"
+    },
+    {
+      "id": "accelerator-active-energy",
+      "name": "Accelerator Active Energy",
+      "type": "company",
+      "description": "Energy-drink brand; Kai Trump NIL and equity partner"
+    },
+    {
+      "id": "taylormade",
+      "name": "TaylorMade Golf",
+      "type": "company",
+      "description": "Kai Trump endorsement (Feb 2025)"
+    },
+    {
+      "id": "forbes",
+      "name": "Forbes",
+      "type": "media",
+      "description": "Estimated Barron's WLF proceeds"
+    },
+    {
+      "id": "new-york-times",
+      "name": "New York Times",
+      "type": "media",
+      "description": "Investigated the Boulos family deals"
+    },
+    {
+      "id": "gentry-beach",
+      "name": "Gentry Beach",
+      "type": "person",
+      "description": "Don Jr. friend, America First Global chair; Rubaya coltan bidder; sent cease-and-desist by Don Jr.'s lawyer (WSJ, per C75)"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "massad-boulos",
+      "target": "michael-boulos",
+      "label": "father of",
+      "type": "family"
+    },
+    {
+      "source": "michael-boulos",
+      "target": "tiffany-trump",
+      "label": "married to",
+      "type": "family",
+      "date": "2022-11-12"
+    },
+    {
+      "source": "donald-trump",
+      "target": "tiffany-trump",
+      "label": "father of",
+      "type": "family"
+    },
+    {
+      "source": "donald-trump",
+      "target": "massad-boulos",
+      "label": "appointed senior adviser for Africa/Arab affairs",
+      "type": "political",
+      "date": "2025-04"
+    },
+    {
+      "source": "massad-boulos",
+      "target": "state-department",
+      "label": "senior adviser at",
+      "type": "political",
+      "date": "2025-04"
+    },
+    {
+      "source": "massad-boulos",
+      "target": "drc",
+      "label": "led minerals-for-security talks with",
+      "type": "regulatory",
+      "date": "2025-04-03"
+    },
+    {
+      "source": "massad-boulos",
+      "target": "scoa-nigeria",
+      "label": "managing director of",
+      "type": "commercial"
+    },
+    {
+      "source": "fadoul-group",
+      "target": "scoa-nigeria",
+      "label": "controls",
+      "type": "ownership"
+    },
+    {
+      "source": "massad-boulos",
+      "target": "fadoul-group",
+      "label": "son-in-law of controlling family",
+      "type": "family"
+    },
+    {
+      "source": "massad-boulos",
+      "target": "bola-tinubu",
+      "label": "met in Paris",
+      "type": "political",
+      "date": "2025-04"
+    },
+    {
+      "source": "bola-tinubu",
+      "target": "itb-nigeria",
+      "label": "government picked for $700M Lagos ports contract",
+      "type": "commercial",
+      "date": "2025-03",
+      "amount_usd": 700000000
+    },
+    {
+      "source": "gilbert-chagoury",
+      "target": "itb-nigeria",
+      "label": "owns",
+      "type": "ownership"
+    },
+    {
+      "source": "gilbert-chagoury",
+      "target": "massad-boulos",
+      "label": "reported long-time patron of (Tablet; single-source)",
+      "type": "commercial"
+    },
+    {
+      "source": "massad-boulos",
+      "target": "libya",
+      "label": "announced plans to raise oil output",
+      "type": "political",
+      "date": "2025-07"
+    },
+    {
+      "source": "tiffany-trump",
+      "target": "ercument-bayegan",
+      "label": "vacationed on his yacht Phoenix 2",
+      "type": "commercial",
+      "date": "2025-07"
+    },
+    {
+      "source": "michael-boulos",
+      "target": "ercument-bayegan",
+      "label": "vacationed on his yacht Phoenix 2",
+      "type": "commercial",
+      "date": "2025-07"
+    },
+    {
+      "source": "ercument-bayegan",
+      "target": "bgn-international",
+      "label": "owns",
+      "type": "ownership"
+    },
+    {
+      "source": "bgn-international",
+      "target": "libya",
+      "label": "trades Libyan oil",
+      "type": "commercial"
+    },
+    {
+      "source": "abdulelah-allam",
+      "target": "michael-boulos",
+      "label": "wired $100,000 to",
+      "type": "money",
+      "date": "2022-06-22",
+      "amount_usd": 100000
+    },
+    {
+      "source": "james-frangi",
+      "target": "michael-boulos",
+      "label": "cousin; arranged Allam meeting; yacht-brokerage employer",
+      "type": "family",
+      "date": "2022"
+    },
+    {
+      "source": "robert-garcia",
+      "target": "michael-boulos",
+      "label": "sent inquiry letter to",
+      "type": "legal",
+      "date": "2025-08-29"
+    },
+    {
+      "source": "robert-garcia",
+      "target": "abdulelah-allam",
+      "label": "sent inquiry letter to",
+      "type": "legal",
+      "date": "2025-08-29"
+    },
+    {
+      "source": "jared-kushner",
+      "target": "solstice-yacht",
+      "label": "bought via Frangi brokerage",
+      "type": "commercial",
+      "date": "2022"
+    },
+    {
+      "source": "michael-boulos",
+      "target": "jared-kushner",
+      "label": "earned about $300K fee on yacht sold to",
+      "type": "money",
+      "date": "2022",
+      "amount_usd": 300000
+    },
+    {
+      "source": "michael-boulos",
+      "target": "trump-presidential-library-foundation",
+      "label": "trustee of",
+      "type": "ownership",
+      "date": "2025-05"
+    },
+    {
+      "source": "eric-trump",
+      "target": "trump-presidential-library-foundation",
+      "label": "president and trustee of",
+      "type": "ownership",
+      "date": "2025-05"
+    },
+    {
+      "source": "charles-kushner",
+      "target": "jared-kushner",
+      "label": "father of",
+      "type": "family"
+    },
+    {
+      "source": "charles-kushner",
+      "target": "josh-kushner",
+      "label": "father of",
+      "type": "family"
+    },
+    {
+      "source": "jared-kushner",
+      "target": "ivanka-trump",
+      "label": "married to",
+      "type": "family"
+    },
+    {
+      "source": "donald-trump",
+      "target": "charles-kushner",
+      "label": "pardoned",
+      "type": "legal",
+      "date": "2020-12-23"
+    },
+    {
+      "source": "donald-trump",
+      "target": "charles-kushner",
+      "label": "nominated ambassador to France",
+      "type": "political",
+      "date": "2024-11-30"
+    },
+    {
+      "source": "charles-kushner",
+      "target": "france",
+      "label": "US ambassador to",
+      "type": "political",
+      "date": "2025-07"
+    },
+    {
+      "source": "charles-kushner",
+      "target": "kushner-companies",
+      "label": "founder and chairman of",
+      "type": "ownership"
+    },
+    {
+      "source": "kushner-companies",
+      "target": "666-fifth-avenue",
+      "label": "owned; leased to Brookfield for 99 years",
+      "type": "ownership",
+      "date": "2018-08"
+    },
+    {
+      "source": "brookfield",
+      "target": "666-fifth-avenue",
+      "label": "took 99-year lease, rent prepaid",
+      "type": "money",
+      "date": "2018-08"
+    },
+    {
+      "source": "qatar-investment-authority",
+      "target": "brookfield",
+      "label": "major investor in (Brookfield denies Qatari role in 666 deal)",
+      "type": "money"
+    },
+    {
+      "source": "josh-kushner",
+      "target": "thrive-capital",
+      "label": "founder of",
+      "type": "ownership"
+    },
+    {
+      "source": "thrive-capital",
+      "target": "openai",
+      "label": "invested more than $1B in Oct 2024 round; led 2024 tender",
+      "type": "money",
+      "date": "2024-10",
+      "amount_usd": 1000000000
+    },
+    {
+      "source": "openai",
+      "target": "thrive-holdings",
+      "label": "took equity stake (paid in services)",
+      "type": "ownership",
+      "date": "2025-12-01"
+    },
+    {
+      "source": "thrive-capital",
+      "target": "thrive-holdings",
+      "label": "created and raised $1B for",
+      "type": "ownership",
+      "date": "2025"
+    },
+    {
+      "source": "openai",
+      "target": "stargate",
+      "label": "operating partner of",
+      "type": "commercial",
+      "date": "2025-01-21"
+    },
+    {
+      "source": "donald-trump",
+      "target": "stargate",
+      "label": "announced at White House",
+      "type": "political",
+      "date": "2025-01-21"
+    },
+    {
+      "source": "jared-kushner",
+      "target": "thrive-capital",
+      "label": "divested Thrive-linked LLCs (2017 ethics filing)",
+      "type": "ownership",
+      "date": "2017-03"
+    },
+    {
+      "source": "josh-gruenbaum",
+      "target": "gsa",
+      "label": "FAS commissioner at",
+      "type": "political",
+      "date": "2025"
+    },
+    {
+      "source": "josh-gruenbaum",
+      "target": "thrive-capital",
+      "label": "reported $100,001-$250,000 investor in a Databricks-linked Thrive SPV (WSJ via aggregators; single-source); says he recused",
+      "type": "money",
+      "date": "2025-03"
+    },
+    {
+      "source": "thrive-capital",
+      "target": "ramp",
+      "label": "investor in",
+      "type": "money"
+    },
+    {
+      "source": "thrive-capital",
+      "target": "databricks",
+      "label": "investor in",
+      "type": "money"
+    },
+    {
+      "source": "gsa",
+      "target": "ramp",
+      "label": "courted for SmartPay contract",
+      "type": "commercial",
+      "date": "2025"
+    },
+    {
+      "source": "gsa",
+      "target": "databricks",
+      "label": "sole-source order, $1,824,000 ceiling (TTS/FAS, Feb 2026)",
+      "type": "commercial",
+      "date": "2026-02-10",
+      "amount_usd": 1824000
+    },
+    {
+      "source": "gerald-connolly",
+      "target": "gsa",
+      "label": "opened probe into Ramp dealings",
+      "type": "legal",
+      "date": "2025"
+    },
+    {
+      "source": "lara-trump",
+      "target": "eric-trump",
+      "label": "married to",
+      "type": "family"
+    },
+    {
+      "source": "lara-trump",
+      "target": "fox-news",
+      "label": "hosts 'My View with Lara Trump'",
+      "type": "media",
+      "date": "2025-02-22"
+    },
+    {
+      "source": "barron-trump",
+      "target": "world-liberty-financial",
+      "label": "co-founder; estimated about 7.5% stake (Forbes)",
+      "type": "ownership",
+      "date": "2024-09"
+    },
+    {
+      "source": "forbes",
+      "target": "barron-trump",
+      "label": "estimated about $40M from WLF token sales",
+      "type": "media",
+      "date": "2025-06",
+      "amount_usd": 40000000
+    },
+    {
+      "source": "barron-trump",
+      "target": "sollos-yerba-mate",
+      "label": "listed director per filings (Fox Business, snippet); identity not confirmed by family",
+      "type": "ownership",
+      "date": "2025-12-03"
+    },
+    {
+      "source": "jay-weitzman",
+      "target": "sollos-yerba-mate",
+      "label": "owns house used as company address (denies involvement)",
+      "type": "commercial",
+      "date": "2026-01"
+    },
+    {
+      "source": "jay-weitzman",
+      "target": "donald-trump",
+      "label": "donated $25,000 to 2017 inauguration",
+      "type": "money",
+      "date": "2017-01",
+      "amount_usd": 25000
+    },
+    {
+      "source": "jay-weitzman",
+      "target": "park-america",
+      "label": "owns",
+      "type": "ownership"
+    },
+    {
+      "source": "ivanka-trump",
+      "target": "planet-harvest",
+      "label": "co-founder of",
+      "type": "ownership",
+      "date": "2025"
+    },
+    {
+      "source": "ivanka-trump",
+      "target": "albania",
+      "label": "resort plans need government approval (C45)",
+      "type": "commercial",
+      "date": "2025-01"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "kai-trump",
+      "label": "father of",
+      "type": "family"
+    },
+    {
+      "source": "kai-trump",
+      "target": "accelerator-active-energy",
+      "label": "NIL and equity partner",
+      "type": "commercial",
+      "date": "2025"
+    },
+    {
+      "source": "kai-trump",
+      "target": "taylormade",
+      "label": "endorsement deal",
+      "type": "commercial",
+      "date": "2025-02"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "polymarket",
+      "label": "advisory board; 1789 Capital invested (C25)",
+      "type": "advisory"
+    },
+    {
+      "source": "new-york-times",
+      "target": "michael-boulos",
+      "label": "investigated deals after Tiffany engagement",
+      "type": "media",
+      "date": "2025-08-21"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "gentry-beach",
+      "label": "lawyer sent cease-and-desist over claimed business partnership (WSJ, single-source; Beach denies receipt)",
+      "type": "legal",
+      "date": "2025-08"
+    }
+  ],
+  "leads": [
+    {
+      "title": "Kimberly Guilfoyle (ambassador to Greece) and an alleged pay-to-play scheme",
+      "why_connected": "Another in-law-style appointee (Don Jr.'s former fiancée) facing a House Democratic records request; fits the 'in-laws given roles' pattern.",
+      "entities": [
+        "donald-trump-jr",
+        "us-congress"
+      ],
+      "source_url": "https://www.pbs.org/newshour/politics/exclusive-house-democrats-ask-kimberly-guilfoyle-for-records-related-to-alleged-pay-to-pay-scheme"
+    },
+    {
+      "title": "Russian oligarch reportedly funded Don Jr.'s wedding parties",
+      "why_connected": "Same Oversight Democrats pattern as the Boulos wedding-invitation probe: foreign money around a Trump-family wedding.",
+      "entities": [
+        "donald-trump-jr",
+        "robert-garcia"
+      ],
+      "source_url": "https://www.axios.com/2026/09/15/donald-trump-jr-wedding-investigation-kremlev"
+    },
+    {
+      "title": "GSA commissioner Gruenbaum, Thrive Capital and Databricks sole-source award",
+      "why_connected": "A procurement official reported to hold a stake in Josh Kushner's fund awarding contracts to its portfolio companies; the original WSJ report needs direct verification.",
+      "entities": [
+        "josh-gruenbaum",
+        "thrive-capital",
+        "gsa",
+        "databricks",
+        "ramp"
+      ],
+      "source_url": "https://cryptobriefing.com/thrive-capital-trump-adviser-contract-concerns/"
+    },
+    {
+      "title": "US firm in key Congo minerals deal overstated its mining experience (Reuters)",
+      "why_connected": "Who got access under the Boulos-brokered US-DRC minerals framework; check for links to Trump-family or Boulos associates.",
+      "entities": [
+        "massad-boulos",
+        "drc"
+      ],
+      "source_url": "https://finance.yahoo.com/sectors/energy/articles/exclusive-us-firm-key-congo-075755712.html"
+    },
+    {
+      "title": "Nigeria's UBA preps $50M financing for DRC minerals bid",
+      "why_connected": "Nigerian capital moving into DRC minerals under the US framework, where Boulos's Nigerian network could intersect.",
+      "entities": [
+        "massad-boulos",
+        "nigeria",
+        "drc"
+      ],
+      "source_url": "https://www.semafor.com/article/01/26/2026/nigerias-uba-preps-50m-financing-for-drc-minerals-bid"
+    },
+    {
+      "title": "Garcia/Wyden probe of Jared Kushner's Gulf fundraising while negotiating",
+      "why_connected": "The same congressional channel links the Boulos and Kushner in-law inquiries (March 2026).",
+      "entities": [
+        "jared-kushner",
+        "affinity-partners",
+        "robert-garcia",
+        "ron-wyden"
+      ],
+      "source_url": "https://oversightdemocrats.house.gov/news/press-releases/ranking-members-robert-garcia-and-ron-wyden-investigate-jared-kushner-raising-billions-from-middle-east-governments-while-negotiating-us-foreign-policy"
+    }
+  ],
+  "audit": {
+    "checked": [
+      "Michael Boulos $100K from Abdulelah Allam and the Garcia inquiry",
+      "Massad Boulos SCOA Nigeria size",
+      "Charles Kushner's Monaco accreditation",
+      "Barron Trump and Sollos Yerba Mate",
+      "Gruenbaum/Thrive/Databricks reconciled with C81; Boulos/DRC reconciled with C75"
+    ],
+    "result": "corrected",
+    "changes": [
+      "Gruenbaum sub-claim rewritten from C81: the Databricks order ceiling is $1,824,000 (documented), not $18M; the stake (Databricks-linked Thrive SPV) and the Forst/Ramp block remain single-source WSJ; Gruenbaum's recusal claim added.",
+      "Boulos/DRC: added C75 finding of no Boulos or Trump-family stake in any awarded DRC asset, and the WSJ (single-source) cease-and-desist to Gentry Beach.",
+      "SCOA: flagged the NYT figures as a Dec 2024 snapshot; shares and profit have risen since (Nairametrics).",
+      "Charles Kushner's Monaco credentials (27 Oct 2025) now verified.",
+      "Sollos: a later Fox Business report (snippet only) lists Barron Trump as one of five directors; family confirmation still missing.",
+      "Upheld: Allam $100K and the Garcia letters (no public reply found)."
+    ],
+    "new_sources": [
+      {
+        "title": "Prince Albert II and Princess Charlene welcome Charles Kushner, new US ambassador to Monaco",
+        "publisher": "Monaco Tribune",
+        "url": "https://www.monaco-tribune.com/en/2025/10/prince-albert-ii-and-princess-charlene-welcome-charles-kushner-new-us-ambassador-to-monaco/",
+        "date": "2025-10"
+      },
+      {
+        "title": "SCOA Nigeria records N723.8 million FY2025 profit",
+        "publisher": "Nairametrics",
+        "url": "https://nairametrics.com/2026/02/26/scoa-nigeria-records-n723-8-million-fy2025-profit-as-equipment-sales-hit-n7-billion/",
+        "date": "2026-02-26"
+      },
+      {
+        "title": "Barron Trump-linked beverage brand launches first product",
+        "publisher": "Fox Business",
+        "url": "https://www.foxbusiness.com/retail/barron-trump-linked-beverage-brand-launches-first-product-florida-inspired-twist",
+        "date": "2026-05"
+      },
+      {
+        "title": "Databricks engineering services order 47QPCA26F0011",
+        "publisher": "HigherGov (federal contract record)",
+        "url": "https://www.highergov.com/contract/47QTCA25D00D3-47QPCA26F0011/",
+        "date": "2026-02-10"
+      },
+      {
+        "title": "Gruenbaum leaving as GSA FAS commissioner",
+        "publisher": "Federal News Network",
+        "url": "https://federalnewsnetwork.com/people/2026/04/gruenbaum-leaving-as-gsa-fas-commissioner/?readmore=1",
+        "date": "2026-04"
+      }
+    ]
+  }
+}

@@ -1,0 +1,655 @@
+{
+  "id": "C08",
+  "title": "UAE AI chips deal, Stargate, currency swap",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "The timing of the UAE chip deal is documented: Emirati money flowed to WLF (secret 49% Aryam stake in Jan 2025; MGX's $2B Binance deal settled in USD1, announced May 1, 2025), and about two weeks later the US-UAE AI chip framework was announced. MGX was a Stargate equity funder, Trump called the UAE a 'good ally' while saying a currency swap was 'under consideration', and WLF denies any quid pro quo. Three points are overstated: the Biden-era stance was restriction and delay, not outright refusal; Trump did not commit to financial aid; and MGX's Stargate role (Jan 2025) came before the USD1 deal. No explicit quid pro quo has been documented.",
+  "sub_claims": [
+    {
+      "statement": "The US had refused to allow highly sensitive AI chips to the UAE over fears they could fall into the wrong hands or be used militarily.",
+      "verdict": "partly-accurate",
+      "finding": "Biden-era licences tied to Microsoft-G42 were delayed over China-diversion concerns, and US intelligence flagged G42's ties to Huawei. Some licences were cleared in Dec 2024. The Jan 2025 AI Diffusion Rule put the UAE in a capped tier 2. This was restriction and delay, not a blanket refusal.",
+      "sources": [
+        "https://www.axios.com/2024/12/07/us-uae-microsoft-g42-ai-chips",
+        "https://www.banking.senate.gov/imo/media/doc/americannationalsecurityforsalebhuaminoritystaffreport.pdf"
+      ]
+    },
+    {
+      "statement": "Shortly after the UAE-Trump crypto deals began, the chips deal was approved.",
+      "verdict": "confirmed",
+      "finding": "Aryam (Tahnoon-linked) agreed to buy 49% of WLF on 2025-01-16 (WSJ). USD1 was announced for MGX's $2B Binance deal on 2025-05-01. The US-UAE AI Acceleration Partnership and 5GW G42 campus were announced around 2025-05-15, with press reports of up to 500k Nvidia chips per year. Licences followed: Microsoft's licence for about 60,400 A100-equivalents (including GB300s) was granted in Sept 2025 and disclosed 2025-11-03, and on 2025-11-19 Commerce approved G42 (and Saudi Humain) to buy up to 35,000 Nvidia GB300 equivalents each. The sequence is accurate; the NYT found no evidence of an explicit exchange.",
+      "sources": [
+        "https://the-decoder.com/nyt-uae-poured-billions-into-trump-linked-crypto-firm-as-u-s-weighed-chip-deal/",
+        "https://www.business-standard.com/amp/world-news/trump-envoy-steve-witkoff-uae-deals-crypto-chips-tahnoon-125091600331_1.html",
+        "https://www.theblock.co/news/deals/2026-02-01-uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj-387931",
+        "https://www.bloomberg.com/news/articles/2025-05-01/trump-linked-stablecoin-used-for-mgx-s-2-billion-binance-deal",
+        "https://www.meed.com/us-and-uae-agree-5gw-artificial-intelligence-campus",
+        "https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-finally-grants-nvidia-license-to-ship-ai-gpus-to-uae-500-000-blackwell-gpus-coming-to-the-gulf-region",
+        "https://agbi.com/analysis/trade/2026/07/us-export-rules-keep-uae-in-ai-technology-slow-lane/",
+        "https://news.bgov.com/artificial-intelligence/nvidia-chip-sales-to-g42-humain-approved-by-commerce-department",
+        "https://www.implicator.ai/microsoft-gets-a-rare-u-s-export-license-for-uae-ai-chips/"
+      ]
+    },
+    {
+      "statement": "World Liberty denies any political quid pro quo and says it has no influence over policy.",
+      "verdict": "confirmed",
+      "finding": "A WLF spokesperson called the $2B investment 'completely independent of government matters'. The White House said Sacks acted appropriately and Witkoff was working with ethics officials.",
+      "sources": [
+        "https://the-decoder.com/nyt-uae-poured-billions-into-trump-linked-crypto-firm-as-u-s-weighed-chip-deal/",
+        "https://www.mediaite.com/media/news/nyt-bombshell-steve-witkoff-at-center-of-shady-crypto-deal-enriching-trump-family"
+      ]
+    },
+    {
+      "statement": "MGX was announced as an investor in Project Stargate alongside SoftBank, OpenAI and Oracle.",
+      "verdict": "confirmed",
+      "finding": "At the 2025-01-21 White House announcement, SoftBank, OpenAI, Oracle and MGX were named initial equity funders of the $500B project ($100B immediately). This predates the USD1 deal.",
+      "sources": [
+        "https://group.softbank/en/news/press/20250122",
+        "https://openai.com/index/announcing-the-stargate-project/",
+        "https://dc.fortune.com/2025/01/21/stargate-ai-openai-oracle-nvidia-mgx-softbank-trump-sam-altman-larry-ellison-masayoshi-son/"
+      ]
+    },
+    {
+      "statement": "Trump said a currency swap/financial help for the UAE during the Iran crisis was under consideration because it has been 'a good ally'.",
+      "verdict": "mostly-accurate",
+      "finding": "In a CNBC interview on 2026-04-21, during the US-Israeli war with Iran, Trump said a swap with the UAE was 'under consideration' and called it 'a good ally'. The paraphrase that he 'would financially assist' overstates this. US officials said no formal request had been made, the UAE denied liquidity stress, and Bessent backed the idea. No swap line had been reported as finalized as of mid-2026. A later commentary (Express Tribune, 2026-08-10) said Washington had still not given a formal answer to the UAE's swap-line request; no signed swap line was found as of Nov 2026.",
+      "sources": [
+        "https://www.bloomberg.com/news/articles/2026-04-21/trump-says-currency-swap-with-uae-is-under-consideration",
+        "https://www.bloomberg.com/news/articles/2026-04-19/uae-in-talks-with-us-for-possible-financial-lifeline-wsj-says",
+        "https://www.thenationalnews.com/news/us/2026/04/21/uae-economy-highly-resilient-ambassador-to-us-says-after-trump-discusses-potential-currency-swap/",
+        "https://www.aljazeera.com/amp/economy/2026/4/22/us-treasury-secretary-bessent-says-gulf-asian-allies-request-swap-lines",
+        "https://tribune.com.pk/story/2622996/swap-lines-as-diplomatic-currency"
+      ]
+    }
+  ],
+  "corrections": [
+    "Claimed: The US 'had refused' the chip deals. The record shows: Biden-era delays, tier-2 caps and partial approvals (Dec 2024), not a blanket refusal.",
+    "Claimed: Trump 'said he would financially assist the UAE'. The record shows: he said a currency swap was 'under consideration', and no swap line had been reported as signed as of August 2026 (none found through Nov 2026).",
+    "The chip framework was announced ~2025-05-15; actual export licences came in Sept and Nov 2025.",
+    "MGX's Stargate role was announced 2025-01-21, before the USD1/MGX deal, so it is not a subsequent benefit."
+  ],
+  "denials_and_context": [
+    "WLF: the investment was 'completely independent of government matters'; it has no policy influence.",
+    "White House: Sacks acted appropriately; Witkoff is working with ethics officials. Bessent denied Trump-family UAE ties are linked to the swap-line talks.",
+    "The NYT found no evidence of an explicit quid pro quo; the concern is overlapping timing and Witkoff's dual role as envoy and WLF co-founder.",
+    "UAE officials say they have no liquidity need; the Gulf chip deals were part of a broader AI-export strategy that also covered Saudi Arabia.",
+    "Senators Warren and Slotkin called for investigations; the Senate Banking minority report flagged national-security risks."
+  ],
+  "sources": [
+    {
+      "title": "UAE poured billions into Trump-linked crypto firm as U.S. weighed chip deal (NYT summary)",
+      "publisher": "The Decoder / New York Times",
+      "url": "https://the-decoder.com/nyt-uae-poured-billions-into-trump-linked-crypto-firm-as-u-s-weighed-chip-deal/",
+      "date": "2025-09-15"
+    },
+    {
+      "title": "NYT Bombshell: Steve Witkoff at Center of Shady Crypto Deal",
+      "publisher": "Mediaite",
+      "url": "https://www.mediaite.com/media/news/nyt-bombshell-steve-witkoff-at-center-of-shady-crypto-deal-enriching-trump-family",
+      "date": "2025-09-15"
+    },
+    {
+      "title": "A tale of two deals: Trump envoy's UAE deals raise personal gain concerns",
+      "publisher": "Business Standard",
+      "url": "https://www.business-standard.com/amp/world-news/trump-envoy-steve-witkoff-uae-deals-crypto-chips-tahnoon-125091600331_1.html",
+      "date": "2025-09-16"
+    },
+    {
+      "title": "UAE Sheikh secretly acquired 49% of Trump's World Liberty Financial days before inauguration: WSJ",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/deals/2026-02-01-uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj-387931",
+      "date": "2026-02-01"
+    },
+    {
+      "title": "Trump-Tied Stablecoin Used for MGX's $2 Billion Binance Deal",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-05-01/trump-linked-stablecoin-used-for-mgx-s-2-billion-binance-deal",
+      "date": "2025-05-01"
+    },
+    {
+      "title": "World Liberty Financial's USD1 to close Binance's $2 billion investment from MGX",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/352830/world-liberty-financials-usd1-binances-2-billion-investment-mgx-report",
+      "date": "2025-05-01"
+    },
+    {
+      "title": "Announcing The Stargate Project",
+      "publisher": "SoftBank Group",
+      "url": "https://group.softbank/en/news/press/20250122",
+      "date": "2025-01-22"
+    },
+    {
+      "title": "Announcing The Stargate Project",
+      "publisher": "OpenAI",
+      "url": "https://openai.com/index/announcing-the-stargate-project/",
+      "date": "2025-01-21"
+    },
+    {
+      "title": "Stargate AI: OpenAI, Oracle, MGX, SoftBank",
+      "publisher": "Fortune",
+      "url": "https://dc.fortune.com/2025/01/21/stargate-ai-openai-oracle-nvidia-mgx-softbank-trump-sam-altman-larry-ellison-masayoshi-son/",
+      "date": "2025-01-21"
+    },
+    {
+      "title": "Scoop: Advanced AI chips cleared for export to UAE under Microsoft deal",
+      "publisher": "Axios",
+      "url": "https://www.axios.com/2024/12/07/us-uae-microsoft-g42-ai-chips",
+      "date": "2024-12-07"
+    },
+    {
+      "title": "US and UAE agree 5GW artificial intelligence campus",
+      "publisher": "MEED",
+      "url": "https://www.meed.com/us-and-uae-agree-5gw-artificial-intelligence-campus",
+      "date": "2025-05-15"
+    },
+    {
+      "title": "U.S. finally grants Nvidia license to ship AI GPUs to UAE",
+      "publisher": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-finally-grants-nvidia-license-to-ship-ai-gpus-to-uae-500-000-blackwell-gpus-coming-to-the-gulf-region",
+      "date": "2025"
+    },
+    {
+      "title": "US export rules keep UAE in AI technology slow lane",
+      "publisher": "AGBI",
+      "url": "https://agbi.com/analysis/trade/2026/07/us-export-rules-keep-uae-in-ai-technology-slow-lane/",
+      "date": "2026-07"
+    },
+    {
+      "title": "US makes it easier to export Nvidia AI chips and military equipment to UAE",
+      "publisher": "Al-Monitor",
+      "url": "https://www.al-monitor.com/originals/2026/07/us-makes-it-easier-export-nvidia-ai-chips-and-military-equipment-uae",
+      "date": "2026-07"
+    },
+    {
+      "title": "Trump Says Currency Swap With UAE Is Under Consideration",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-21/trump-says-currency-swap-with-uae-is-under-consideration",
+      "date": "2026-04-21"
+    },
+    {
+      "title": "UAE in Talks With US for Possible Financial Lifeline, WSJ Says",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-19/uae-in-talks-with-us-for-possible-financial-lifeline-wsj-says",
+      "date": "2026-04-19"
+    },
+    {
+      "title": "UAE economy highly resilient, ambassador says after Trump discusses potential currency swap",
+      "publisher": "The National",
+      "url": "https://www.thenationalnews.com/news/us/2026/04/21/uae-economy-highly-resilient-ambassador-to-us-says-after-trump-discusses-potential-currency-swap/",
+      "date": "2026-04-21"
+    },
+    {
+      "title": "US Treasury Secretary Bessent says Gulf, Asian allies request swap lines",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/amp/economy/2026/4/22/us-treasury-secretary-bessent-says-gulf-asian-allies-request-swap-lines",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "American National Security for Sale (minority staff report)",
+      "publisher": "US Senate Banking Committee",
+      "url": "https://www.banking.senate.gov/imo/media/doc/americannationalsecurityforsalebhuaminoritystaffreport.pdf",
+      "date": "2025"
+    },
+    {
+      "title": "Nvidia Chip Sales to G42, Humain Approved by Commerce Department",
+      "publisher": "Bloomberg Government",
+      "url": "https://news.bgov.com/artificial-intelligence/nvidia-chip-sales-to-g42-humain-approved-by-commerce-department",
+      "date": "2025-11-19"
+    },
+    {
+      "title": "Microsoft gets a rare U.S. export license for UAE AI chips",
+      "publisher": "Implicator.ai",
+      "url": "https://www.implicator.ai/microsoft-gets-a-rare-u-s-export-license-for-uae-ai-chips/",
+      "date": "2025-11-03"
+    },
+    {
+      "title": "Swap lines as diplomatic currency",
+      "publisher": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2622996/swap-lines-as-diplomatic-currency",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Scott Bessent's 'Swap Diplomacy': A New Front for US Treasury",
+      "publisher": "The Global Treasurer",
+      "url": "https://www.theglobaltreasurer.com/2026/04/24/scott-bessents-swap-diplomacy-a-new-front-for-us-treasury/",
+      "date": "2026-04-24"
+    }
+  ],
+  "entities": [
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "US President; WLF co-founder; announced Stargate and discussed UAE swap"
+    },
+    {
+      "id": "eric-trump",
+      "name": "Eric Trump",
+      "type": "person",
+      "description": "Signed the Aryam-WLF stake deal per WSJ"
+    },
+    {
+      "id": "steve-witkoff",
+      "name": "Steve Witkoff",
+      "type": "person",
+      "description": "Middle East envoy and WLF co-founder who backed UAE chip access"
+    },
+    {
+      "id": "zach-witkoff",
+      "name": "Zach Witkoff",
+      "type": "person",
+      "description": "WLF co-founder; announced USD1 for MGX-Binance deal"
+    },
+    {
+      "id": "tahnoon-bin-zayed",
+      "name": "Sheikh Tahnoon bin Zayed",
+      "type": "person",
+      "description": "UAE national security adviser; chairs MGX and G42"
+    },
+    {
+      "id": "david-sacks",
+      "name": "David Sacks",
+      "type": "person",
+      "description": "White House AI and crypto czar involved in UAE chip talks"
+    },
+    {
+      "id": "scott-bessent",
+      "name": "Scott Bessent",
+      "type": "person",
+      "description": "US Treasury Secretary; discussed UAE swap line"
+    },
+    {
+      "id": "world-liberty-financial",
+      "name": "World Liberty Financial",
+      "type": "company",
+      "description": "Trump-family crypto venture issuing USD1"
+    },
+    {
+      "id": "usd1",
+      "name": "USD1",
+      "type": "asset",
+      "description": "WLF stablecoin used to settle MGX's $2B Binance investment"
+    },
+    {
+      "id": "mgx",
+      "name": "MGX",
+      "type": "fund",
+      "description": "Abu Dhabi AI investment fund chaired by Tahnoon"
+    },
+    {
+      "id": "binance",
+      "name": "Binance",
+      "type": "company",
+      "description": "Crypto exchange that received MGX's $2B investment"
+    },
+    {
+      "id": "aryam-investment-1",
+      "name": "Aryam Investment 1",
+      "type": "fund",
+      "description": "Tahnoon-linked vehicle that reportedly bought 49% of WLF"
+    },
+    {
+      "id": "g42",
+      "name": "G42",
+      "type": "company",
+      "description": "Abu Dhabi AI firm chaired by Tahnoon; main recipient of US chips"
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "type": "company",
+      "description": "G42 partner licensed to ship Nvidia chips to UAE"
+    },
+    {
+      "id": "nvidia",
+      "name": "Nvidia",
+      "type": "company",
+      "description": "Maker of the advanced AI chips exported to UAE"
+    },
+    {
+      "id": "stargate",
+      "name": "Stargate",
+      "type": "product",
+      "description": "$500B US AI infrastructure venture announced Jan 2025"
+    },
+    {
+      "id": "softbank",
+      "name": "SoftBank",
+      "type": "company",
+      "description": "Stargate lead equity funder"
+    },
+    {
+      "id": "openai",
+      "name": "OpenAI",
+      "type": "company",
+      "description": "Stargate lead partner"
+    },
+    {
+      "id": "oracle",
+      "name": "Oracle",
+      "type": "company",
+      "description": "Stargate equity funder and technology partner"
+    },
+    {
+      "id": "uae-chips-deal",
+      "name": "US-UAE AI chips deal",
+      "type": "event",
+      "description": "May 2025 AI Acceleration Partnership and subsequent export licences"
+    },
+    {
+      "id": "ai-diffusion-rule",
+      "name": "AI Diffusion Rule",
+      "type": "law",
+      "description": "Biden-era Jan 2025 export rule placing UAE in tier 2; rescinded May 2025"
+    },
+    {
+      "id": "us-commerce-department",
+      "name": "US Department of Commerce",
+      "type": "government",
+      "description": "Issues chip export licences (BIS)"
+    },
+    {
+      "id": "us-treasury",
+      "name": "US Treasury",
+      "type": "government",
+      "description": "Would run a swap line via Exchange Stabilization Fund"
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Announced Stargate and UAE AI partnership"
+    },
+    {
+      "id": "uae",
+      "name": "United Arab Emirates",
+      "type": "country",
+      "description": "Gulf state seeking AI chips and a US currency swap"
+    },
+    {
+      "id": "iran",
+      "name": "Iran",
+      "type": "country",
+      "description": "Party to the 2026 war that strained the UAE economy"
+    },
+    {
+      "id": "us-iran-war-2026",
+      "name": "2026 US-Israel war with Iran",
+      "type": "event",
+      "description": "Conflict that prompted UAE swap-line talks"
+    },
+    {
+      "id": "new-york-times",
+      "name": "The New York Times",
+      "type": "media",
+      "description": "Published Sept 2025 investigation of the two deals"
+    },
+    {
+      "id": "wall-street-journal",
+      "name": "The Wall Street Journal",
+      "type": "media",
+      "description": "Reported the secret 49% WLF stake and the swap-line talks"
+    },
+    {
+      "id": "cnbc",
+      "name": "CNBC",
+      "type": "media",
+      "description": "Interview where Trump discussed a UAE swap"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "aryam-investment-1",
+      "target": "world-liberty-financial",
+      "label": "reportedly agreed to buy 49% of",
+      "type": "ownership",
+      "date": "2025-01-16"
+    },
+    {
+      "source": "tahnoon-bin-zayed",
+      "target": "aryam-investment-1",
+      "label": "linked to / backs",
+      "type": "ownership",
+      "date": "2025-01"
+    },
+    {
+      "source": "eric-trump",
+      "target": "aryam-investment-1",
+      "label": "signed stake deal with (per WSJ)",
+      "type": "commercial",
+      "date": "2025-01-16"
+    },
+    {
+      "source": "tahnoon-bin-zayed",
+      "target": "mgx",
+      "label": "chairs",
+      "type": "ownership"
+    },
+    {
+      "source": "tahnoon-bin-zayed",
+      "target": "g42",
+      "label": "chairs",
+      "type": "ownership"
+    },
+    {
+      "source": "mgx",
+      "target": "binance",
+      "label": "invested $2B in, settled in USD1",
+      "type": "money",
+      "date": "2025-05-01",
+      "amount_usd": 2000000000
+    },
+    {
+      "source": "mgx",
+      "target": "usd1",
+      "label": "used for $2B Binance deal",
+      "type": "money",
+      "date": "2025-05-01",
+      "amount_usd": 2000000000
+    },
+    {
+      "source": "world-liberty-financial",
+      "target": "usd1",
+      "label": "issues",
+      "type": "ownership"
+    },
+    {
+      "source": "zach-witkoff",
+      "target": "usd1",
+      "label": "announced as settlement currency for MGX deal",
+      "type": "commercial",
+      "date": "2025-05-01"
+    },
+    {
+      "source": "steve-witkoff",
+      "target": "world-liberty-financial",
+      "label": "co-founded",
+      "type": "ownership"
+    },
+    {
+      "source": "steve-witkoff",
+      "target": "uae-chips-deal",
+      "label": "backed UAE chip access as envoy",
+      "type": "political",
+      "date": "2025-05"
+    },
+    {
+      "source": "david-sacks",
+      "target": "uae-chips-deal",
+      "label": "negotiated",
+      "type": "political",
+      "date": "2025-05"
+    },
+    {
+      "source": "white-house",
+      "target": "uae",
+      "label": "agreed AI Acceleration Partnership / chip framework with",
+      "type": "regulatory",
+      "date": "2025-05-15"
+    },
+    {
+      "source": "us-commerce-department",
+      "target": "g42",
+      "label": "licensed ~35,000 Nvidia chips to",
+      "type": "regulatory",
+      "date": "2025-11"
+    },
+    {
+      "source": "us-commerce-department",
+      "target": "microsoft",
+      "label": "licensed Nvidia chip transfers to UAE",
+      "type": "regulatory",
+      "date": "2025-09"
+    },
+    {
+      "source": "nvidia",
+      "target": "g42",
+      "label": "supplies AI chips to",
+      "type": "commercial",
+      "date": "2025-11"
+    },
+    {
+      "source": "ai-diffusion-rule",
+      "target": "uae",
+      "label": "placed in restricted tier 2",
+      "type": "regulatory",
+      "date": "2025-01"
+    },
+    {
+      "source": "us-commerce-department",
+      "target": "ai-diffusion-rule",
+      "label": "rescinded",
+      "type": "regulatory",
+      "date": "2025-05"
+    },
+    {
+      "source": "mgx",
+      "target": "stargate",
+      "label": "initial equity funder of",
+      "type": "money",
+      "date": "2025-01-21"
+    },
+    {
+      "source": "softbank",
+      "target": "stargate",
+      "label": "lead equity funder of",
+      "type": "money",
+      "date": "2025-01-21"
+    },
+    {
+      "source": "openai",
+      "target": "stargate",
+      "label": "lead partner / equity funder of",
+      "type": "money",
+      "date": "2025-01-21"
+    },
+    {
+      "source": "oracle",
+      "target": "stargate",
+      "label": "equity funder / tech partner of",
+      "type": "money",
+      "date": "2025-01-21"
+    },
+    {
+      "source": "donald-trump",
+      "target": "stargate",
+      "label": "announced at White House",
+      "type": "political",
+      "date": "2025-01-21"
+    },
+    {
+      "source": "donald-trump",
+      "target": "uae",
+      "label": "said currency swap 'under consideration'; called 'good ally'",
+      "type": "political",
+      "date": "2026-04-21"
+    },
+    {
+      "source": "scott-bessent",
+      "target": "uae",
+      "label": "said swap line would benefit both countries",
+      "type": "political",
+      "date": "2026-04"
+    },
+    {
+      "source": "us-treasury",
+      "target": "uae",
+      "label": "discussed possible swap line with",
+      "type": "money",
+      "date": "2026-04"
+    },
+    {
+      "source": "us-iran-war-2026",
+      "target": "uae",
+      "label": "strained economy, prompting swap talks",
+      "type": "political",
+      "date": "2026-04"
+    },
+    {
+      "source": "iran",
+      "target": "uae",
+      "label": "missile/drone attacks and Hormuz blockade",
+      "type": "political",
+      "date": "2026"
+    },
+    {
+      "source": "cnbc",
+      "target": "donald-trump",
+      "label": "interviewed on UAE swap",
+      "type": "media",
+      "date": "2026-04-21"
+    },
+    {
+      "source": "new-york-times",
+      "target": "world-liberty-financial",
+      "label": "investigated UAE deals of",
+      "type": "media",
+      "date": "2025-09-15"
+    },
+    {
+      "source": "wall-street-journal",
+      "target": "aryam-investment-1",
+      "label": "revealed secret WLF stake of",
+      "type": "media",
+      "date": "2026-02-01"
+    }
+  ],
+  "audit": {
+    "checked": [
+      "Timing and size of chip approvals (Microsoft Sept 2025 licence; G42 35,000 GB300s on 2025-11-19)",
+      "Trump's 2026-04-21 'under consideration' / 'good ally' swap remarks",
+      "Whether any US-UAE swap line was finalized through Nov 2026"
+    ],
+    "result": "upheld",
+    "changes": [
+      "Made the licence details precise: Microsoft licence granted Sept 2025 but disclosed 2025-11-03; G42 approval of up to 35,000 GB300 equivalents dated 2025-11-19.",
+      "Extended the swap-line status: as of an 2026-08-10 report Washington had not formally answered the UAE request; no signed line found through Nov 2026. Updated the correction wording from 'mid-2026'."
+    ],
+    "new_sources": [
+      {
+        "title": "Nvidia Chip Sales to G42, Humain Approved by Commerce Department",
+        "publisher": "Bloomberg Government",
+        "url": "https://news.bgov.com/artificial-intelligence/nvidia-chip-sales-to-g42-humain-approved-by-commerce-department",
+        "date": "2025-11-19"
+      },
+      {
+        "title": "Microsoft gets a rare U.S. export license for UAE AI chips",
+        "publisher": "Implicator.ai",
+        "url": "https://www.implicator.ai/microsoft-gets-a-rare-u-s-export-license-for-uae-ai-chips/",
+        "date": "2025-11-03"
+      },
+      {
+        "title": "Swap lines as diplomatic currency",
+        "publisher": "The Express Tribune",
+        "url": "https://tribune.com.pk/story/2622996/swap-lines-as-diplomatic-currency",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Scott Bessent's 'Swap Diplomacy': A New Front for US Treasury",
+        "publisher": "The Global Treasurer",
+        "url": "https://www.theglobaltreasurer.com/2026/04/24/scott-bessents-swap-diplomacy-a-new-front-for-us-treasury/",
+        "date": "2026-04-24"
+      }
+    ]
+  }
+}

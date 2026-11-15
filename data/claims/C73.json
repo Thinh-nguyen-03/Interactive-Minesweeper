@@ -1,0 +1,1364 @@
+{
+ "id": "C73",
+ "title": "Qatar's access network inside and around the administration",
+ "verdict": "mostly-accurate",
+ "confidence": "medium",
+ "summary": "Most of the Qatari ties in the claim are documented. They include Bondi's Ballard FARA work, Patel's embassy consulting plus a March 2025 waiver and Dec 2025 FBI-Qatar agreements, Kerik's April 2025 contract, QIA money in Kushner's Affinity and the WBD bid, the QIA Park Lane purchase, Barrack's Colony-QIA history and his attendance at UCC's Syria signing, the Qatari Diar licence, and a Qatari royal's $50M Newsmax stake. Also documented: Zeldin's consulting for the same royal's Heritage Advisors, the fund in the Menendez-Daibes case. The US decisions (security EO, Idaho facility, $38B Al Udeid statement, arms sales up to the $4.5B KC-46A) are documented. Weaker than claimed: the Witkoff $100M Qatar-trust link was corrected (the lender was Apollo itself), Wiles's Mercury-Qatar tie predates her, and a current Ballard-Qatar contract is unverified. No source shows any tie buying a decision; the timing overlaps are our inference.",
+ "sub_claims": [
+  {
+   "statement": "Pam Bondi was a registered Qatar agent at Ballard and then signed the DOJ memo clearing the jet, which is still unreleased.",
+   "verdict": "confirmed",
+   "finding": "DOCUMENTED (C61, C64, C65 establish the Ballard FARA work in 2019-20 and the May 2025 memo). New: the Freedom of the Press Foundation's FOIA suit for the memo (D.D.C. 25-2432, American Oversight counsel, July 2025) remains open. DOJ estimated processing would take until 25 Jan 2027 (620-day average). No release was found through Nov 2026. DOJ says career ethics officials cleared her participation. This shows a prior paid tie and an undisclosed legal rationale, not that the memo was improper.",
+   "sources": [
+    "https://americanoversight.org/doj-sued-for-withholding-legal-memo-on-trump-administrations-400-million-jet-gifted-by-qatar/",
+    "https://freedom.press/the-classifieds/620-days-to-find-one-document-in-response-to-fpf-foia-thats-why-we-sued/"
+   ]
+  },
+  {
+   "statement": "Kash Patel consulted for Qatar's embassy, got a March 2025 waiver for Qatar matters, and signed FBI security agreements in Doha in Dec 2025.",
+   "verdict": "confirmed",
+   "finding": "DOCUMENTED. Patel's Trishul LLC listed the Qatari embassy as a client, and he did not register under FARA (C64). A waiver issued on 4 Mar 2025 by the FBI's ethics official covers 'a particular matter' related to Qatar; the public filing does not say what that matter is (Responsible Statecraft; Jewish Insider). His Nov 2024 one-year recusal pledge had expired the month before he signed bilateral security agreements in Doha (Dec 2025), which the FBI did not announce. Public Citizen asked OGE to rescind the waiver, and a separate FARA complaint is unresolved. The nature of his Qatar work is still undisclosed.",
+   "sources": [
+    "https://jewishinsider.com/2025/12/fbi-kash-patel-qatar-security-deals-lobbying-disclosure/",
+    "https://responsiblestatecraft.org/kash-patel-qatar/"
+   ]
+  },
+  {
+   "statement": "EPA Administrator Lee Zeldin consulted for Heritage Advisors, the fund of Qatari royal Sheikh Sultan bin Jassim Al Thani, which also invested $50M in Newsmax and was the Qatari investor in the Menendez-Daibes bribery case.",
+   "verdict": "mostly-accurate",
+   "finding": "Each link is DOCUMENTED; the chain is INFERRED (our cross-reference). (a) Zeldin's OGE 278e nominee disclosure lists Heritage Advisors (London) as a consulting client of Zeldin Strategies; Jewish Insider reports compensation above $5,000 for April-December 2023 (The Intercept, 2025-02-11; Jewish Insider). His spokesperson declined to comment; Senate EPW Republicans said he disclosed everything required. (b) Heritage Advisors, founded by Sheikh Sultan bin Jassim Al Thani, was identified (NYT/ICIJ/Real Deal) as the 'Qatari Investment Co.' in the Jan 2024 superseding Menendez indictment. Prosecutors alleged Menendez pushed it to invest with Fred Daibes, partly by taking pro-Qatar actions. The Sheikh and Qatar were not accused. (c) Sheikh Sultan invested about $50M in Newsmax in 2019-20 (Washington Post/ICIJ). (d) Daibes paid Keith Schiller's Javelin Advisors $1M in Q1 2025 in a failed pardon bid (C64). No source links these threads, and no EPA decision touching Qatar was found.",
+   "sources": [
+    "https://theintercept.com/2025/02/11/trump-qatar-ethics-patel-zeldin-bondi/",
+    "https://jewishinsider.com/2025/02/lee-zeldin-epa-administrator-qatar-financial-disclosures/",
+    "https://therealdeal.com/new-york/tristate/2024/01/03/updated-menendez-indictment-links-nj-developer-to-qatar",
+    "https://www.icij.org/inside-icij/2024/03/qatari-royal-invested-about-50-million-in-pro-trump-network-newsmax/",
+    "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/B4586F4FD7718EA485258C0F00336FAE/%24FILE/Zeldin%2C Lee  final278.pdf"
+   ]
+  },
+  {
+   "statement": "Qatar's embassy hired pardoned Trump ally Bernard Kerik's firm in April 2025.",
+   "verdict": "confirmed",
+   "finding": "DOCUMENTED (O'Dwyer's; Shomrim; terms vary). The Kerik Group's contract was effective 1 Apr 2025: $240K for a one-year term (O'Dwyer's), or $240K for 2.5 months then $80K/month with a bar on other Mideast governments (Shomrim). Kerik died on 29 May 2025, as announced by FBI Director Patel. That was eight days after the jet acceptance, so the engagement lasted under two months. He held no administration post. His activities for Qatar are not on record in the coverage we found.",
+   "sources": [
+    "https://www.odwyerpr.com/story/public/22882/2025-04-18/ex-nypd-chief-bernie-kerik-reps-qatar.html",
+    "https://www.shomrim.news/eng/qatar-new-lobbyist",
+    "https://www.nbcnews.com/news/us-news/bernard-kerik-new-york-police-commissioner-911-dies-69-rcna209887"
+   ]
+  },
+  {
+   "statement": "Chief of staff Susie Wiles's former firm Mercury represented Qatar.",
+   "verdict": "partly-accurate",
+   "finding": "Employment DOCUMENTED; Qatar link to Wiles SINGLE-SOURCE (C64). Mercury's documented Qatar embassy contracts (2015, 2019, and an earlier $100K/month April-June contract) predate her 2022-24 tenure. No 2025-26 Mercury-Qatar contract was found. Her earlier firm Ballard represented Qatar in 2018-20.",
+   "sources": [
+    "https://quincyinst.org/research/soft-power-hard-influence-how-qatar-became-a-giant-in-washington/"
+   ]
+  },
+  {
+   "statement": "Ballard Partners has a current Qatar embassy contract.",
+   "verdict": "unverified",
+   "finding": "UNVERIFIED. The Washington Free Beacon reports a Ballard contract with the Qatari embassy at $175K/month (second payment due 1 May), but the date could not be established (the page was not read directly). Audit note: $175K x 12 matches the $2.1M one-year pact Florida Politics reported when Qatar hired Ballard in spring 2018 ahead of the Emir's visit, so the Free Beacon figure most likely describes the 2018 contract, not a current one (our inference from the matching figures). Sludge's Feb 2026 roster of Ballard foreign clients does not name Qatar. No 2025-26 FARA filing was confirmed.",
+   "sources": [
+    "https://freebeacon.com/?p=1007167",
+    "https://readsludge.com/2026/02/05/foreign-interests-are-paying-millions-to-a-trump-linked-lobbying-firm/",
+    "https://floridapolitics.com/archives/260868-qatar-taps-ballard-partners-for-2-1-million-push-ahead-of-emirs-visit"
+   ]
+  },
+  {
+   "statement": "An Apollo-run trust partly owned by Qatar put $100M into the Witkoff Group in 2025.",
+   "verdict": "misleading",
+   "finding": "WEAKENED by a correction. The NYT (Sept 2025) reported $100M 'as recently as May' from an Apollo-run trust partly owned by Qatar. Commercial Observer describes it as a $100M Apollo refinancing of the Witkoff/Access West Palm Beach golf resort. A correction relayed by the Jerusalem Post and others says the lender was Apollo Global Management, not the subsidiary in which Qatar invested. We saw search text only; the page was not read directly. Apollo says Qatar-linked investors do not direct investments. The QIA purchase of the Park Lane (~$623M, Aug 2023, from a Witkoff-Mubadala JV) remains DOCUMENTED (C53). The Witkoff family's lawyer (Parlatore) threatened the NYT with a defamation suit unless it corrected the story; Qatar's International Media Office also called the report false (Gulf Times/Peninsula).",
+   "sources": [
+    "https://commercialobserver.com/2025/05/witkoff-access-west-palm-beach-dutchmans-pipe-golf-club-belgrove-resort-spa/",
+    "https://www.jpost.com/american-politics/article-869981",
+    "https://www.washingtonexaminer.com/?p=3827497"
+   ]
+  },
+  {
+   "statement": "Jared Kushner's Affinity takes QIA money, sought more from Qatar while acting as envoy, and co-backed the Paramount bid for WBD alongside QIA.",
+   "verdict": "confirmed",
+   "finding": "DOCUMENTED. QIA and Lunate put about $1.5B into Affinity in Dec 2024 (C15). On 13 Mar 2026 the NYT (five sources) reported Kushner seeking $5B+ from Saudi, Qatari and Emirati sovereign funds while he was a US negotiator. Sen. Wyden opened an inquiry, and closing status is unclear. Paramount's Dec 2025 WBD tender listed PIF, QIA (QIA TMT Holding), L'imad and Affinity as non-voting equity. Affinity exited on 16 Dec 2025 and QIA stayed (C68). The 666 Fifth episode (2017-18: a collapsed Hamad bin Jassim commitment, then a Brookfield lease) is historical, and Brookfield denies any Qatari role (C66).",
+   "sources": [
+    "https://www.mediaite.com/politics/jared-kushner-reportedly-seeks-5b-from-middle-east-governments-for-his-firm-while-serving-as-envoy/",
+    "https://fortune.com/2025/12/08/jared-kushner-paramount-warner-netflix-trump-ellison-saudi-antitrust/",
+    "https://www.thewrap.com/industry-news/deals-ma/paramount-warner-bros-deal-middle-east-sovereign-wealth-funds-lion-tree-equity-investments/",
+    "https://www.bisnow.com/news/new-york/capital-markets/lawmakers-investigating-if-666-fifth-ave-deal-influenced-trump-foreigin-policy-on-qatar-107048"
+   ]
+  },
+  {
+   "statement": "Envoy Tom Barrack's firm partnered with Qatari state funds for years, and as envoy he presided over deals for Qatar's UCC Holding.",
+   "verdict": "mostly-accurate",
+   "finding": "DOCUMENTED. Colony Capital and a QIA unit bought Miramax from Disney (2010, ~$660M) and sold it to Qatar's beIN Media (Mar 2016) (Bloomberg, Fortune). Colony sold PSG to Qatar Sports Investments: 70% in May 2011 and 30% in Mar 2012 (sources name Sebastien Bazin as Colony's lead). As envoy, Barrack attended the 29 May 2025 Damascus signing of a ~$7B power MoU with a UCC Holding-led consortium; final concessions for 8 plants and 5 GW followed on 6 Nov 2025. UCC is also in the Kirkuk-Baniyas consortium with TI Capital, whose Barrack ties Reuters reported (C65). No source says Barrack profits from UCC.",
+   "sources": [
+    "https://www.bloomberg.com/news/articles/2016-03-02/barrack-group-sells-filmmaker-miramax-to-qatar-broadcaster-bein",
+    "https://fortune.com/2016/03/03/qatar-bein-media-miramax/",
+    "https://www.unquote.com/france/official-record/89290/colony-capital-completes-psg-exit",
+    "https://www.gulf-times.com/article/705336/qatar/syria-and-ucc-holding-sign-landmark-mou-to-boost-power-sector",
+    "https://thepeninsulaqatar.com/article/06/11/2025/ministry-of-energy-signs-the-final-concession-agreements-to-build-and-operate-eight-power-plants-with-a-total-capacity-of-5000-mw-with-a-foreign-consortium-led-by-ucc-holding",
+    "https://al-monitor.com/originals/2026/10/trump-envoy-kept-financial-ties-firm-behind-15-billion-hormuz-bypass-oil-pipeline"
+   ]
+  },
+  {
+   "statement": "The Trump Organization licensed its name to a golf and villa project with QIA's Qatari Diar.",
+   "verdict": "confirmed",
+   "finding": "DOCUMENTED (C16). Agreement signed 30 Apr 2025 between Qatari Diar and Dar Global, with Eric Trump present. AP/Dawn put the Trump development at about $3B within the larger Simaisma masterplan. The Trump Organization licenses its name and does not own or develop the project. No 2026 progress reporting was found.",
+   "sources": [
+    "https://www.dawn.com/news/1907703"
+   ]
+  },
+  {
+   "statement": "Qatari money reached Newsmax and other conservative media around Trump.",
+   "verdict": "mostly-accurate",
+   "finding": "Newsmax stake DOCUMENTED; coverage-softening SINGLE-SOURCE and disputed. Sheikh Sultan bin Jassim invested about $50M in 2019-20 for a significant minority stake (Washington Post/ICIJ). Two employees said staff were told to 'soften' Qatar coverage, which Newsmax denies. QIA had passed on a stake around 2017. Newsmax is carried on Truth+ (C21). FARA filings show Lumen8 Advisors ($180K/month from Qatar's International Media Office) arranged Tucker Carlson's March 2025 interview with Qatar's PM. They do not show Carlson was paid, and he denies it. FDD and Quincy tally $225M-$250M in Qatari FARA spending since 2016-17.",
+   "sources": [
+    "https://www.icij.org/inside-icij/2024/03/qatari-royal-invested-about-50-million-in-pro-trump-network-newsmax/",
+    "https://www.mediaite.com/media/news/newsmax-leaders-urged-staff-to-soften-coverage-of-qatar-after-gulf-royal-invested-50-million-in-network-report/",
+    "https://www.ynetnews.com/business/article/hjuuz7p11xe",
+    "https://www.fdd.org/analysis/2025/11/21/inside-qatars-225-million-effort-to-court-us-policymakers-and-press/"
+   ]
+  },
+  {
+   "statement": "US decisions benefiting Qatar in 2025-26: the security-guarantee order, the Idaho facility, Al Udeid commitments and arms sales.",
+   "verdict": "confirmed",
+   "finding": "Each decision is DOCUMENTED; any tie to the access network is INFERRED. The 'Assuring the Security of the State of Qatar' EO was signed 29 Sep 2025 and published 1 Oct 2025, after the 9 Sep Israeli strike on Doha. It pledges diplomatic, economic and if necessary military responses. Axios (single-source) called it part of the 'compensation' for the strike. On 10 Oct 2025 Hegseth signed a letter of acceptance for a Qatari Emiri Air Force facility at Mountain Home AFB, Idaho (F-15 training). He linked it to Qatar's Gaza role and said it is not a Qatari base; the site was chosen in 2022. The 14 May 2025 fact sheet includes a $38B statement of intent on Al Udeid burden-sharing and defence (not $10B), plus the $96B Qatar Airways-Boeing order. Arms sales: MQ-9B $1.96B (2025-03-26), Patriot $4.01B and APKWS $992M (May 2026, emergency waiver), KC-46A $4.5B ceiling (2026-08-20).",
+   "sources": [
+    "https://www.aljazeera.com/amp/news/2025/10/1/new-trump-executive-order-guarantees-qatar-security-after-israeli-attack",
+    "https://www.axios.com/2025/10/01/trump-qatar-security-guarantee-israel-attack",
+    "https://www.cbsnews.com/news/hegseth-qatar-air-force-facility-us-base-idaho",
+    "https://www.notus.org/defense/qatar-air-force-facility-idaho-pentagon",
+    "https://www.whitehouse.gov/fact-sheets/2025/05/fact-sheet-president-donald-j-trump-secures-historic-1-2-trillion-economic-commitment-in-qatar/",
+    "https://defensenews.com/global/mideast-africa/2026/08/20/us-approves-possible-45-billion-sale-of-kc-46as-equipment-to-qatar"
+   ]
+  },
+  {
+   "statement": "The jet's retrofit cost and provenance tie back into the network.",
+   "verdict": "unverified",
+   "finding": "Retrofit: the Air Force told Congress it would cost under $400M; IBTimes reports $934M. The jet flew as Air Force One by July 2026 and is to be taken offline for further upgrades (Breaking Defense). Provenance: its reported registration P4-HBJ matches the initials of ex-PM Hamad bin Jassim (relayed from Bloomberg), whose 2017 666 Fifth commitment collapsed (C66). A Free Beacon headline links the jet's 'owner' to the Menendez scandal, but we could not read the article. No link is asserted here.",
+   "sources": [
+    "https://breakingdefense.com/2026/07/qatari-air-force-one-will-be-taken-offline-for-maxed-out-upgrades-trump/",
+    "https://www.ibtimes.co.uk/trump-qatar-gifted-boeing-747-8-interim-air-force-one-1804428",
+    "https://freebeacon.com/?p=2031229"
+   ]
+  }
+ ],
+ "corrections": [
+  "Claimed: an Apollo trust partly owned by Qatar put $100M into the Witkoff Group. A relayed correction says the lender was Apollo Global Management, not the Qatar-invested subsidiary (a $100M golf-resort refinancing).",
+  "Claimed: Kerik hired Apr 2025. Correct, but he died on 29 May 2025, so the engagement lasted under two months.",
+  "Al Udeid: the May 2025 fact sheet gives a $38B statement of intent (potential investments), not a firm commitment and not $10B.",
+  "C64 says Patel would recuse from Qatar work for a year. His Nov 2024 pledge had expired, and a March 2025 waiver allowed participation.",
+  "The security EO is dated 29 Sep 2025 and was published 1 Oct 2025; the claim's 'Oct 2025' refers to publication."
+ ],
+ "denials_and_context": [
+  "Qatar and QIA say investment decisions are separate from diplomacy. QIA denies any 666 Fifth role, and Brookfield denies Qatari involvement.",
+  "Apollo says Qatar-linked investors do not direct its trust; the White House called the NYT Witkoff story a 'bogus smear'.",
+  "DOJ says career ethics officials cleared Bondi's role in the jet memo, which remains unreleased.",
+  "Newsmax denies softening Qatar coverage; Carlson denies taking Qatari money.",
+  "Hegseth says the Idaho facility is not a Qatari base, and the plan dates to 2022. The MQ-9B request predates Trump, and the 2026 sales followed the Iran war.",
+  "Qatar's lobbying is legal and disclosed under FARA; a documented tie is not proof of influence.",
+  "The Witkoff family threatened the NYT with a defamation suit over the Sept 2025 story; Qatar's International Media Office says Qatar declined to invest in Alex Witkoff's fund pitch."
+ ],
+ "sources": [
+  {
+   "title": "New Trump executive order guarantees Qatar security after Israeli attack",
+   "publisher": "Al Jazeera",
+   "url": "https://www.aljazeera.com/amp/news/2025/10/1/new-trump-executive-order-guarantees-qatar-security-after-israeli-attack",
+   "date": "2025-10-01"
+  },
+  {
+   "title": "Trump gives Qatar unprecedented security guarantee after Israeli attack",
+   "publisher": "Axios",
+   "url": "https://www.axios.com/2025/10/01/trump-qatar-security-guarantee-israel-attack",
+   "date": "2025-10-01"
+  },
+  {
+   "title": "Hegseth announces Qatar will build air force facility at U.S. base in Idaho",
+   "publisher": "CBS News",
+   "url": "https://www.cbsnews.com/news/hegseth-qatar-air-force-facility-us-base-idaho",
+   "date": "2025-10-10"
+  },
+  {
+   "title": "Qatar air force facility in Idaho",
+   "publisher": "NOTUS",
+   "url": "https://www.notus.org/defense/qatar-air-force-facility-idaho-pentagon",
+   "date": "2025-10"
+  },
+  {
+   "title": "Ex-NYPD chief Bernie Kerik reps Qatar",
+   "publisher": "O'Dwyer's",
+   "url": "https://www.odwyerpr.com/story/public/22882/2025-04-18/ex-nypd-chief-bernie-kerik-reps-qatar.html",
+   "date": "2025-04-18"
+  },
+  {
+   "title": "Qatar Hires Pardoned Trump Ally as New U.S Lobbyist",
+   "publisher": "Shomrim",
+   "url": "https://www.shomrim.news/eng/qatar-new-lobbyist",
+   "date": "2025-04"
+  },
+  {
+   "title": "Bernard Kerik, New York police commissioner on 9/11, dies at 69",
+   "publisher": "NBC News",
+   "url": "https://www.nbcnews.com/news/us-news/bernard-kerik-new-york-police-commissioner-911-dies-69-rcna209887",
+   "date": "2025-05-30"
+  },
+  {
+   "title": "Inside Qatar's $225 million effort to court US policymakers and press",
+   "publisher": "FDD",
+   "url": "https://www.fdd.org/analysis/2025/11/21/inside-qatars-225-million-effort-to-court-us-policymakers-and-press/",
+   "date": "2025-11-21"
+  },
+  {
+   "title": "Soft power, hard influence: how Qatar became a giant in Washington",
+   "publisher": "Quincy Institute",
+   "url": "https://quincyinst.org/research/soft-power-hard-influence-how-qatar-became-a-giant-in-washington/",
+   "date": "2025-09"
+  },
+  {
+   "title": "Qatari royal invested about $50 million in pro-Trump network Newsmax",
+   "publisher": "ICIJ",
+   "url": "https://www.icij.org/inside-icij/2024/03/qatari-royal-invested-about-50-million-in-pro-trump-network-newsmax/",
+   "date": "2024-03-27"
+  },
+  {
+   "title": "Newsmax leaders urged staff to 'soften' coverage of Qatar after Gulf royal invested $50 million",
+   "publisher": "Mediaite",
+   "url": "https://www.mediaite.com/media/news/newsmax-leaders-urged-staff-to-soften-coverage-of-qatar-after-gulf-royal-invested-50-million-in-network-report/",
+   "date": "2024-03"
+  },
+  {
+   "title": "Trump nominees' Qatar ties: Patel, Zeldin, Bondi",
+   "publisher": "The Intercept",
+   "url": "https://theintercept.com/2025/02/11/trump-qatar-ethics-patel-zeldin-bondi/",
+   "date": "2025-02-11"
+  },
+  {
+   "title": "Lee Zeldin reveals Qatar ties in financial disclosures",
+   "publisher": "Jewish Insider",
+   "url": "https://jewishinsider.com/2025/02/lee-zeldin-epa-administrator-qatar-financial-disclosures/",
+   "date": "2025-02"
+  },
+  {
+   "title": "Updated Menendez indictment links NJ developer to Qatar",
+   "publisher": "The Real Deal",
+   "url": "https://therealdeal.com/new-york/tristate/2024/01/03/updated-menendez-indictment-links-nj-developer-to-qatar",
+   "date": "2024-01-03"
+  },
+  {
+   "title": "Former Biden aide set up meeting between Qatari royal and US senator accused of corruption",
+   "publisher": "ICIJ",
+   "url": "https://www.icij.org/news/2024/07/former-biden-aide-set-up-meeting-between-qatari-royal-and-us-senator-accused-of-corruption/",
+   "date": "2024-07"
+  },
+  {
+   "title": "FBI Director Patel signs security deals with Qatar, his former lobbying client",
+   "publisher": "Jewish Insider",
+   "url": "https://jewishinsider.com/2025/12/fbi-kash-patel-qatar-security-deals-lobbying-disclosure/",
+   "date": "2025-12"
+  },
+  {
+   "title": "Kash Patel and Qatar",
+   "publisher": "Responsible Statecraft",
+   "url": "https://responsiblestatecraft.org/kash-patel-qatar/",
+   "date": "2025"
+  },
+  {
+   "title": "Witkoff's son sought investments from Middle East as father negotiated peace in region",
+   "publisher": "Washington Examiner",
+   "url": "https://www.washingtonexaminer.com/?p=3827497",
+   "date": "2025-09"
+  },
+  {
+   "title": "Witkoff, Access get $100M Apollo refinancing for West Palm Beach golf resort",
+   "publisher": "Commercial Observer",
+   "url": "https://commercialobserver.com/2025/05/witkoff-access-west-palm-beach-dutchmans-pipe-golf-club-belgrove-resort-spa/",
+   "date": "2025-05"
+  },
+  {
+   "title": "NYT Witkoff report and correction (search text only)",
+   "publisher": "Jerusalem Post",
+   "url": "https://www.jpost.com/american-politics/article-869981",
+   "date": "2025-09"
+  },
+  {
+   "title": "Jared Kushner, Paramount, Warner, Netflix, Trump, Ellison, Saudi, antitrust",
+   "publisher": "Fortune",
+   "url": "https://fortune.com/2025/12/08/jared-kushner-paramount-warner-netflix-trump-ellison-saudi-antitrust/",
+   "date": "2025-12-08"
+  },
+  {
+   "title": "Paramount confirms Middle East sovereign wealth fund investment to back Warner Bros. deal",
+   "publisher": "TheWrap",
+   "url": "https://www.thewrap.com/industry-news/deals-ma/paramount-warner-bros-deal-middle-east-sovereign-wealth-funds-lion-tree-equity-investments/",
+   "date": "2026"
+  },
+  {
+   "title": "Jared Kushner reportedly seeks $5B from Middle East governments for his firm while serving as envoy",
+   "publisher": "Mediaite",
+   "url": "https://www.mediaite.com/politics/jared-kushner-reportedly-seeks-5b-from-middle-east-governments-for-his-firm-while-serving-as-envoy/",
+   "date": "2026-03"
+  },
+  {
+   "title": "Lawmakers investigating if 666 Fifth Ave deal influenced Trump foreign policy on Qatar",
+   "publisher": "Bisnow",
+   "url": "https://www.bisnow.com/news/new-york/capital-markets/lawmakers-investigating-if-666-fifth-ave-deal-influenced-trump-foreigin-policy-on-qatar-107048",
+   "date": "2019"
+  },
+  {
+   "title": "Barrack group sells filmmaker Miramax to Qatar broadcaster beIN",
+   "publisher": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2016-03-02/barrack-group-sells-filmmaker-miramax-to-qatar-broadcaster-bein",
+   "date": "2016-03-02"
+  },
+  {
+   "title": "Qatar's beIN Media buys Miramax",
+   "publisher": "Fortune",
+   "url": "https://fortune.com/2016/03/03/qatar-bein-media-miramax/",
+   "date": "2016-03-03"
+  },
+  {
+   "title": "Colony Capital completes PSG exit",
+   "publisher": "Unquote",
+   "url": "https://www.unquote.com/france/official-record/89290/colony-capital-completes-psg-exit",
+   "date": "2012-03"
+  },
+  {
+   "title": "Syria and UCC Holding sign landmark MoU to boost power sector",
+   "publisher": "Gulf Times",
+   "url": "https://www.gulf-times.com/article/705336/qatar/syria-and-ucc-holding-sign-landmark-mou-to-boost-power-sector",
+   "date": "2025-05-29"
+  },
+  {
+   "title": "Ministry of Energy signs final concession agreements with UCC Holding-led consortium",
+   "publisher": "The Peninsula",
+   "url": "https://thepeninsulaqatar.com/article/06/11/2025/ministry-of-energy-signs-the-final-concession-agreements-to-build-and-operate-eight-power-plants-with-a-total-capacity-of-5000-mw-with-a-foreign-consortium-led-by-ucc-holding",
+   "date": "2025-11-06"
+  },
+  {
+   "title": "Trump envoy kept financial ties to firm behind $15 billion Hormuz bypass oil pipeline",
+   "publisher": "Al-Monitor (Reuters)",
+   "url": "https://al-monitor.com/originals/2026/10/trump-envoy-kept-financial-ties-firm-behind-15-billion-hormuz-bypass-oil-pipeline",
+   "date": "2026-10-09"
+  },
+  {
+   "title": "Fact Sheet: President Donald J. Trump Secures Historic $1.2 Trillion Economic Commitment in Qatar",
+   "publisher": "White House",
+   "url": "https://www.whitehouse.gov/fact-sheets/2025/05/fact-sheet-president-donald-j-trump-secures-historic-1-2-trillion-economic-commitment-in-qatar/",
+   "date": "2025-05-14"
+  },
+  {
+   "title": "Trump Organisation inks deal for Qatar golf club, villas",
+   "publisher": "Dawn (AP)",
+   "url": "https://www.dawn.com/news/1907703",
+   "date": "2025-04-30"
+  },
+  {
+   "title": "US approves possible $4.5 billion sale of KC-46As, equipment to Qatar",
+   "publisher": "Defense News",
+   "url": "https://defensenews.com/global/mideast-africa/2026/08/20/us-approves-possible-45-billion-sale-of-kc-46as-equipment-to-qatar",
+   "date": "2026-08-20"
+  },
+  {
+   "title": "Qatari Air Force One will be taken offline for maxed-out upgrades",
+   "publisher": "Breaking Defense",
+   "url": "https://breakingdefense.com/2026/07/qatari-air-force-one-will-be-taken-offline-for-maxed-out-upgrades-trump/",
+   "date": "2026-07"
+  },
+  {
+   "title": "Trump set to own Qatar-gifted Air Force One in 2029 following $934M taxpayer-funded retrofit",
+   "publisher": "IBTimes UK",
+   "url": "https://www.ibtimes.co.uk/trump-qatar-gifted-boeing-747-8-interim-air-force-one-1804428",
+   "date": "2026"
+  },
+  {
+   "title": "DOJ sued for withholding legal memo on Trump administration's $400 million jet gifted by Qatar",
+   "publisher": "American Oversight",
+   "url": "https://americanoversight.org/doj-sued-for-withholding-legal-memo-on-trump-administrations-400-million-jet-gifted-by-qatar/",
+   "date": "2025-07"
+  },
+  {
+   "title": "620 days to find one document",
+   "publisher": "Freedom of the Press Foundation",
+   "url": "https://freedom.press/the-classifieds/620-days-to-find-one-document-in-response-to-fpf-foia-thats-why-we-sued/",
+   "date": "2025"
+  },
+  {
+   "title": "Prominent U.S. lobbyists have not commented on Qatar ties (Ballard $175K/month contract)",
+   "publisher": "Washington Free Beacon",
+   "url": "https://freebeacon.com/?p=1007167",
+   "date": "undated"
+  },
+  {
+   "title": "Owner of Trump's Qatari Air Force One linked to Bob Menendez corruption scandal (headline only seen)",
+   "publisher": "Washington Free Beacon",
+   "url": "https://freebeacon.com/?p=2031229",
+   "date": "undated"
+  },
+  {
+   "title": "Qatar lobby reaches deep into US conservative media, documents show",
+   "publisher": "Ynet",
+   "url": "https://www.ynetnews.com/business/article/hjuuz7p11xe",
+   "date": "2025"
+  },
+  {
+   "title": "Foreign interests are paying millions to a Trump-linked lobbying firm",
+   "publisher": "Sludge",
+   "url": "https://readsludge.com/2026/02/05/foreign-interests-are-paying-millions-to-a-trump-linked-lobbying-firm/",
+   "date": "2026-02-05"
+  }
+ ],
+ "entities": [
+  {
+   "id": "qatar",
+   "name": "Qatar",
+   "type": "country",
+   "description": "Gulf state whose officials, funds and lobbyists form the network mapped here"
+  },
+  {
+   "id": "qatar-investment-authority",
+   "name": "Qatar Investment Authority",
+   "type": "fund",
+   "description": "Qatar's sovereign fund; Affinity LP, Park Lane buyer, WBD-bid equity backer"
+  },
+  {
+   "id": "qatari-diar",
+   "name": "Qatari Diar",
+   "type": "company",
+   "description": "QIA real-estate arm; Trump golf/villas partner at Simaisma"
+  },
+  {
+   "id": "dar-global",
+   "name": "Dar Global",
+   "type": "company",
+   "description": "Trump Organization licensee developing the Qatar project"
+  },
+  {
+   "id": "trump-organization",
+   "name": "Trump Organization",
+   "type": "company",
+   "description": "Trump family business; licensor of the Qatar golf project"
+  },
+  {
+   "id": "eric-trump",
+   "name": "Eric Trump",
+   "type": "person",
+   "description": "Attended the Qatari Diar signing"
+  },
+  {
+   "id": "donald-trump",
+   "name": "Donald Trump",
+   "type": "person",
+   "description": "President; signed the Qatar security EO"
+  },
+  {
+   "id": "pam-bondi",
+   "name": "Pam Bondi",
+   "type": "person",
+   "description": "Attorney General Feb 2025 - Apr 2, 2026; ex-Ballard Qatar FARA registrant; signed jet memo"
+  },
+  {
+   "id": "ballard-partners",
+   "name": "Ballard Partners",
+   "type": "company",
+   "description": "Trump-linked lobbying firm; represented Qatar 2018-20"
+  },
+  {
+   "id": "pam-bondi-jet-memo",
+   "name": "DOJ memo on the Qatari jet",
+   "type": "event",
+   "description": "May 2025 memo clearing jet acceptance; unreleased"
+  },
+  {
+   "id": "kash-patel",
+   "name": "Kash Patel",
+   "type": "person",
+   "description": "FBI Director; former Qatar embassy consultant via Trishul"
+  },
+  {
+   "id": "trishul-llc",
+   "name": "Trishul LLC",
+   "type": "company",
+   "description": "Patel's consulting firm; Qatar embassy client"
+  },
+  {
+   "id": "fbi",
+   "name": "FBI",
+   "type": "government",
+   "description": "Signed security agreements with Qatar in Dec 2025"
+  },
+  {
+   "id": "fbi-qatar-security-agreements",
+   "name": "FBI-Qatar security agreements (Dec 2025)",
+   "type": "event",
+   "description": "Bilateral agreements Patel signed in Doha"
+  },
+  {
+   "id": "lee-zeldin",
+   "name": "Lee Zeldin",
+   "type": "person",
+   "description": "EPA Administrator; disclosed consulting for Heritage Advisors"
+  },
+  {
+   "id": "heritage-advisors",
+   "name": "Heritage Advisors",
+   "type": "fund",
+   "description": "London fund of Sheikh Sultan bin Jassim Al Thani"
+  },
+  {
+   "id": "sultan-bin-jassim-al-thani",
+   "name": "Sheikh Sultan bin Jassim Al Thani",
+   "type": "person",
+   "description": "Qatari royal; Newsmax investor; investor in Menendez-case deal"
+  },
+  {
+   "id": "newsmax",
+   "name": "Newsmax",
+   "type": "media",
+   "description": "Pro-Trump network; ~$50M Qatari-royal investment 2019-20"
+  },
+  {
+   "id": "truth-plus",
+   "name": "Truth+",
+   "type": "product",
+   "description": "TMTG streaming service carrying Newsmax"
+  },
+  {
+   "id": "bob-menendez",
+   "name": "Bob Menendez",
+   "type": "person",
+   "description": "Ex-senator convicted of bribery including a Qatar-related scheme"
+  },
+  {
+   "id": "fred-daibes",
+   "name": "Fred Daibes",
+   "type": "person",
+   "description": "NJ developer; Menendez co-defendant; paid Javelin $1M for pardon bid"
+  },
+  {
+   "id": "javelin-advisors",
+   "name": "Javelin Advisors",
+   "type": "company",
+   "description": "Keith Schiller/George Sorial firm; pardon and Pakistan work"
+  },
+  {
+   "id": "keith-schiller",
+   "name": "Keith Schiller",
+   "type": "person",
+   "description": "Former Trump bodyguard turned lobbyist"
+  },
+  {
+   "id": "bernard-kerik",
+   "name": "Bernard Kerik",
+   "type": "person",
+   "description": "Pardoned ex-NYPD chief; Qatar embassy contract Apr 2025; died May 2025"
+  },
+  {
+   "id": "kerik-group",
+   "name": "Kerik Group",
+   "type": "company",
+   "description": "Kerik's consultancy hired by Qatar's embassy"
+  },
+  {
+   "id": "susie-wiles",
+   "name": "Susie Wiles",
+   "type": "person",
+   "description": "White House chief of staff; ex-Ballard and Mercury"
+  },
+  {
+   "id": "mercury-public-affairs",
+   "name": "Mercury Public Affairs",
+   "type": "company",
+   "description": "Lobbying firm with past Qatar embassy contracts"
+  },
+  {
+   "id": "steve-witkoff",
+   "name": "Steve Witkoff",
+   "type": "person",
+   "description": "Special envoy; Qatar-mediated Gaza talks"
+  },
+  {
+   "id": "witkoff-group",
+   "name": "Witkoff Group",
+   "type": "company",
+   "description": "Witkoff family real-estate firm"
+  },
+  {
+   "id": "park-lane-hotel",
+   "name": "Park Lane Hotel (36 Central Park South)",
+   "type": "asset",
+   "description": "Sold to QIA in 2023"
+  },
+  {
+   "id": "apollo-global-management",
+   "name": "Apollo Global Management",
+   "type": "company",
+   "description": "Lender on $100M Witkoff refinancing"
+  },
+  {
+   "id": "jared-kushner",
+   "name": "Jared Kushner",
+   "type": "person",
+   "description": "Affinity founder; Gaza/Iran negotiator"
+  },
+  {
+   "id": "affinity-partners",
+   "name": "Affinity Partners",
+   "type": "fund",
+   "description": "Kushner fund with QIA, PIF, Lunate LPs"
+  },
+  {
+   "id": "lunate",
+   "name": "Lunate",
+   "type": "fund",
+   "description": "Abu Dhabi fund; co-invested with QIA in Affinity"
+  },
+  {
+   "id": "paramount-skydance",
+   "name": "Paramount Skydance",
+   "type": "company",
+   "description": "Hostile bidder for WBD backed by Gulf funds"
+  },
+  {
+   "id": "warner-bros-discovery",
+   "name": "Warner Bros. Discovery",
+   "type": "company",
+   "description": "Target of Paramount bid"
+  },
+  {
+   "id": "666-fifth-avenue",
+   "name": "666 Fifth Avenue",
+   "type": "asset",
+   "description": "Kushner tower; 2017-18 Qatar/Brookfield episode"
+  },
+  {
+   "id": "brookfield",
+   "name": "Brookfield",
+   "type": "company",
+   "description": "Took 666 Fifth lease in 2018; QIA held stake in its property unit"
+  },
+  {
+   "id": "hamad-bin-jassim",
+   "name": "Hamad bin Jassim Al Thani",
+   "type": "person",
+   "description": "Ex-Qatari PM; reported 666 Fifth talks in 2017"
+  },
+  {
+   "id": "tom-barrack",
+   "name": "Tom Barrack",
+   "type": "person",
+   "description": "US ambassador to Turkey and Syria envoy; Colony Capital founder"
+  },
+  {
+   "id": "colony-capital",
+   "name": "Colony Capital",
+   "type": "company",
+   "description": "Barrack firm (now DigitalBridge); co-owned Miramax with QIA, sold PSG to QSI"
+  },
+  {
+   "id": "miramax",
+   "name": "Miramax",
+   "type": "company",
+   "description": "Film studio co-owned by Colony and QIA, sold to beIN 2016"
+  },
+  {
+   "id": "bein-media-group",
+   "name": "beIN Media Group",
+   "type": "company",
+   "description": "Qatari broadcaster; bought Miramax"
+  },
+  {
+   "id": "qatar-sports-investments",
+   "name": "Qatar Sports Investments",
+   "type": "fund",
+   "description": "QIA-linked owner of PSG"
+  },
+  {
+   "id": "ucc-holding",
+   "name": "UCC Holding",
+   "type": "company",
+   "description": "Qatari conglomerate (Al Khayyat family) leading Syria power and pipeline consortia"
+  },
+  {
+   "id": "syria-power-deal",
+   "name": "Syria UCC power concessions",
+   "type": "event",
+   "description": "$7B MoU May 2025; final concessions Nov 2025"
+  },
+  {
+   "id": "ti-capital",
+   "name": "TI Capital",
+   "type": "company",
+   "description": "Barrack-linked investment firm in pipeline consortium"
+  },
+  {
+   "id": "kirkuk-baniyas-pipeline",
+   "name": "Kirkuk-Baniyas pipeline project",
+   "type": "asset",
+   "description": "Iraq-Syria pipeline; TI Capital, Chevron, UCC consortium"
+  },
+  {
+   "id": "lumen8-advisors",
+   "name": "Lumen8 Advisors",
+   "type": "company",
+   "description": "FARA registrant for Qatar's International Media Office"
+  },
+  {
+   "id": "tucker-carlson",
+   "name": "Tucker Carlson",
+   "type": "person",
+   "description": "Interviewed Qatar's PM in Mar 2025 via Lumen8 arrangement"
+  },
+  {
+   "id": "qatar-jet",
+   "name": "Qatari Boeing 747-8",
+   "type": "asset",
+   "description": "Accepted 2025-05-21 for Air Force One use"
+  },
+  {
+   "id": "trump-presidential-library-foundation",
+   "name": "Donald J. Trump Presidential Library Foundation",
+   "type": "company",
+   "description": "Slated recipient of the jet by 2029"
+  },
+  {
+   "id": "qatar-security-eo",
+   "name": "EO 'Assuring the Security of the State of Qatar'",
+   "type": "law",
+   "description": "Signed 2025-09-29, published 2025-10-01"
+  },
+  {
+   "id": "doha-strike-2025",
+   "name": "Israeli strike on Doha (Sept 9, 2025)",
+   "type": "event",
+   "description": "Prompted the security EO"
+  },
+  {
+   "id": "mountain-home-qatari-facility",
+   "name": "Qatari Emiri Air Force facility, Mountain Home AFB",
+   "type": "asset",
+   "description": "Letter of acceptance signed 2025-10-10"
+  },
+  {
+   "id": "pete-hegseth",
+   "name": "Pete Hegseth",
+   "type": "person",
+   "description": "Defense Secretary; accepted jet; signed Idaho facility deal"
+  },
+  {
+   "id": "pentagon",
+   "name": "Pentagon",
+   "type": "government",
+   "description": "US Department of Defense"
+  },
+  {
+   "id": "al-udeid-air-base",
+   "name": "Al Udeid Air Base",
+   "type": "asset",
+   "description": "US base in Qatar; $38B statement of intent May 2025"
+  },
+  {
+   "id": "state-department",
+   "name": "State Department",
+   "type": "government",
+   "description": "Approves foreign military sales"
+  },
+  {
+   "id": "mq-9b-sale-qatar",
+   "name": "MQ-9B sale to Qatar",
+   "type": "event",
+   "description": "$1.96B, approved 2025-03-26"
+  },
+  {
+   "id": "qatar-patriot-apkws-sales-2026",
+   "name": "2026 Qatar Patriot and APKWS sales",
+   "type": "event",
+   "description": "~$5B, May 2026"
+  },
+  {
+   "id": "qatar-kc46-sale-2026",
+   "name": "KC-46A sale to Qatar",
+   "type": "event",
+   "description": "$4.5B ceiling, approved 2026-08-20"
+  },
+  {
+   "id": "freedom-of-the-press-foundation",
+   "name": "Freedom of the Press Foundation",
+   "type": "company",
+   "description": "FOIA plaintiff for the jet memo"
+  },
+  {
+   "id": "american-oversight",
+   "name": "American Oversight",
+   "type": "company",
+   "description": "Counsel in jet-memo FOIA suit"
+  },
+  {
+   "id": "ron-wyden",
+   "name": "Ron Wyden",
+   "type": "person",
+   "description": "Senator probing Kushner's fundraising and 666 Fifth"
+  },
+  {
+   "id": "public-citizen",
+   "name": "Public Citizen",
+   "type": "company",
+   "description": "Filed OGE/FARA complaints on Patel"
+  },
+  {
+   "id": "us-department-of-justice",
+   "name": "US Department of Justice",
+   "type": "government",
+   "description": "Issued jet memo"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "qatar",
+   "target": "ballard-partners",
+   "label": "paid $115K/month for embassy lobbying (Bondi listed)",
+   "type": "money",
+   "date": "2019-07"
+  },
+  {
+   "source": "pam-bondi",
+   "target": "pam-bondi-jet-memo",
+   "label": "signed",
+   "type": "regulatory",
+   "date": "2025-05"
+  },
+  {
+   "source": "pam-bondi-jet-memo",
+   "target": "qatar-jet",
+   "label": "cleared acceptance of",
+   "type": "legal",
+   "date": "2025-05"
+  },
+  {
+   "source": "freedom-of-the-press-foundation",
+   "target": "us-department-of-justice",
+   "label": "sued for jet memo (FOIA)",
+   "type": "legal",
+   "date": "2025-07"
+  },
+  {
+   "source": "qatar",
+   "target": "trishul-llc",
+   "label": "client of (embassy consulting)",
+   "type": "money",
+   "date": "2024"
+  },
+  {
+   "source": "kash-patel",
+   "target": "trishul-llc",
+   "label": "owns",
+   "type": "ownership",
+   "date": "2024"
+  },
+  {
+   "source": "kash-patel",
+   "target": "fbi-qatar-security-agreements",
+   "label": "signed in Doha",
+   "type": "political",
+   "date": "2025-12"
+  },
+  {
+   "source": "fbi",
+   "target": "qatar",
+   "label": "security agreements with",
+   "type": "political",
+   "date": "2025-12"
+  },
+  {
+   "source": "public-citizen",
+   "target": "kash-patel",
+   "label": "asked OGE to rescind Qatar waiver of",
+   "type": "legal",
+   "date": "2025"
+  },
+  {
+   "source": "heritage-advisors",
+   "target": "lee-zeldin",
+   "label": "paid consulting fees (>$5K, Apr-Dec 2023) to",
+   "type": "money",
+   "date": "2023-04"
+  },
+  {
+   "source": "sultan-bin-jassim-al-thani",
+   "target": "heritage-advisors",
+   "label": "founded",
+   "type": "ownership",
+   "date": ""
+  },
+  {
+   "source": "sultan-bin-jassim-al-thani",
+   "target": "newsmax",
+   "label": "invested ~$50M in",
+   "type": "money",
+   "date": "2019",
+   "amount_usd": 50000000
+  },
+  {
+   "source": "heritage-advisors",
+   "target": "fred-daibes",
+   "label": "invested in Daibes project (Menendez case)",
+   "type": "money",
+   "date": "2022"
+  },
+  {
+   "source": "bob-menendez",
+   "target": "heritage-advisors",
+   "label": "allegedly steered toward Daibes deal",
+   "type": "legal",
+   "date": "2021-06"
+  },
+  {
+   "source": "fred-daibes",
+   "target": "javelin-advisors",
+   "label": "paid $1M for pardon lobbying",
+   "type": "money",
+   "date": "2025-Q1",
+   "amount_usd": 1000000
+  },
+  {
+   "source": "keith-schiller",
+   "target": "javelin-advisors",
+   "label": "co-founded",
+   "type": "ownership",
+   "date": ""
+  },
+  {
+   "source": "newsmax",
+   "target": "truth-plus",
+   "label": "carried on",
+   "type": "commercial",
+   "date": "2024"
+  },
+  {
+   "source": "qatar",
+   "target": "kerik-group",
+   "label": "hired (embassy contract, $240K)",
+   "type": "money",
+   "date": "2025-04-01",
+   "amount_usd": 240000
+  },
+  {
+   "source": "bernard-kerik",
+   "target": "kerik-group",
+   "label": "owned",
+   "type": "ownership",
+   "date": ""
+  },
+  {
+   "source": "donald-trump",
+   "target": "bernard-kerik",
+   "label": "pardoned",
+   "type": "political",
+   "date": "2020-02"
+  },
+  {
+   "source": "susie-wiles",
+   "target": "mercury-public-affairs",
+   "label": "co-chaired Florida/DC offices",
+   "type": "commercial",
+   "date": "2022-02"
+  },
+  {
+   "source": "qatar",
+   "target": "mercury-public-affairs",
+   "label": "past embassy contracts with",
+   "type": "money",
+   "date": "2015"
+  },
+  {
+   "source": "susie-wiles",
+   "target": "ballard-partners",
+   "label": "former lobbyist at",
+   "type": "commercial",
+   "date": "2011"
+  },
+  {
+   "source": "qatar-investment-authority",
+   "target": "park-lane-hotel",
+   "label": "bought (~$623M) from Witkoff-Mubadala JV",
+   "type": "money",
+   "date": "2023-08",
+   "amount_usd": 623000000
+  },
+  {
+   "source": "steve-witkoff",
+   "target": "witkoff-group",
+   "label": "founder; minority shareholder",
+   "type": "ownership",
+   "date": ""
+  },
+  {
+   "source": "apollo-global-management",
+   "target": "witkoff-group",
+   "label": "lent $100M (refinancing)",
+   "type": "money",
+   "date": "2025-05",
+   "amount_usd": 100000000
+  },
+  {
+   "source": "qatar-investment-authority",
+   "target": "affinity-partners",
+   "label": "invested (with Lunate, ~$1.5B)",
+   "type": "money",
+   "date": "2024-12",
+   "amount_usd": 1500000000
+  },
+  {
+   "source": "lunate",
+   "target": "affinity-partners",
+   "label": "invested (with QIA)",
+   "type": "money",
+   "date": "2024-12"
+  },
+  {
+   "source": "jared-kushner",
+   "target": "affinity-partners",
+   "label": "founder",
+   "type": "ownership",
+   "date": ""
+  },
+  {
+   "source": "jared-kushner",
+   "target": "qatar-investment-authority",
+   "label": "sought new capital from (NYT)",
+   "type": "money",
+   "date": "2026-03"
+  },
+  {
+   "source": "qatar-investment-authority",
+   "target": "paramount-skydance",
+   "label": "non-voting equity backer of WBD bid",
+   "type": "money",
+   "date": "2025-12"
+  },
+  {
+   "source": "affinity-partners",
+   "target": "paramount-skydance",
+   "label": "briefly co-backed WBD bid, exited 2025-12-16",
+   "type": "money",
+   "date": "2025-12"
+  },
+  {
+   "source": "paramount-skydance",
+   "target": "warner-bros-discovery",
+   "label": "hostile bid for",
+   "type": "commercial",
+   "date": "2025-12"
+  },
+  {
+   "source": "brookfield",
+   "target": "666-fifth-avenue",
+   "label": "took 99-year lease",
+   "type": "money",
+   "date": "2018-08"
+  },
+  {
+   "source": "hamad-bin-jassim",
+   "target": "666-fifth-avenue",
+   "label": "reported financing talks (collapsed)",
+   "type": "money",
+   "date": "2017"
+  },
+  {
+   "source": "tom-barrack",
+   "target": "colony-capital",
+   "label": "founded",
+   "type": "ownership",
+   "date": ""
+  },
+  {
+   "source": "colony-capital",
+   "target": "miramax",
+   "label": "co-owned with QIA unit",
+   "type": "ownership",
+   "date": "2010"
+  },
+  {
+   "source": "qatar-investment-authority",
+   "target": "miramax",
+   "label": "co-owned with Colony",
+   "type": "ownership",
+   "date": "2010"
+  },
+  {
+   "source": "bein-media-group",
+   "target": "miramax",
+   "label": "bought from Colony and QIA",
+   "type": "money",
+   "date": "2016-03"
+  },
+  {
+   "source": "colony-capital",
+   "target": "qatar-sports-investments",
+   "label": "sold PSG to",
+   "type": "money",
+   "date": "2011-05"
+  },
+  {
+   "source": "tom-barrack",
+   "target": "syria-power-deal",
+   "label": "attended signing as US envoy",
+   "type": "political",
+   "date": "2025-05-29"
+  },
+  {
+   "source": "ucc-holding",
+   "target": "syria-power-deal",
+   "label": "leads consortium (~$7B)",
+   "type": "commercial",
+   "date": "2025-05-29",
+   "amount_usd": 7000000000
+  },
+  {
+   "source": "ucc-holding",
+   "target": "kirkuk-baniyas-pipeline",
+   "label": "consortium member",
+   "type": "commercial",
+   "date": "2026-07"
+  },
+  {
+   "source": "ti-capital",
+   "target": "kirkuk-baniyas-pipeline",
+   "label": "consortium member",
+   "type": "commercial",
+   "date": "2026-07"
+  },
+  {
+   "source": "tom-barrack",
+   "target": "ti-capital",
+   "label": "retained financial ties (Reuters)",
+   "type": "money",
+   "date": "2024"
+  },
+  {
+   "source": "qatari-diar",
+   "target": "dar-global",
+   "label": "signed Trump golf/villas agreement",
+   "type": "commercial",
+   "date": "2025-04-30"
+  },
+  {
+   "source": "trump-organization",
+   "target": "dar-global",
+   "label": "licenses Trump brand to",
+   "type": "commercial",
+   "date": "2025-04-30"
+  },
+  {
+   "source": "eric-trump",
+   "target": "qatari-diar",
+   "label": "attended signing with",
+   "type": "commercial",
+   "date": "2025-04-30"
+  },
+  {
+   "source": "qatar-investment-authority",
+   "target": "qatari-diar",
+   "label": "owns",
+   "type": "ownership",
+   "date": ""
+  },
+  {
+   "source": "qatar",
+   "target": "lumen8-advisors",
+   "label": "pays $180K/month (International Media Office)",
+   "type": "money",
+   "date": "2023",
+   "amount_usd": 180000
+  },
+  {
+   "source": "lumen8-advisors",
+   "target": "tucker-carlson",
+   "label": "arranged interview with Qatar PM",
+   "type": "media",
+   "date": "2025-03"
+  },
+  {
+   "source": "qatar",
+   "target": "qatar-jet",
+   "label": "supplied",
+   "type": "money",
+   "date": "2025-05"
+  },
+  {
+   "source": "pete-hegseth",
+   "target": "qatar-jet",
+   "label": "accepted",
+   "type": "regulatory",
+   "date": "2025-05-21"
+  },
+  {
+   "source": "qatar-jet",
+   "target": "trump-presidential-library-foundation",
+   "label": "slated to transfer to",
+   "type": "ownership",
+   "date": "2029-01-01"
+  },
+  {
+   "source": "doha-strike-2025",
+   "target": "qatar-security-eo",
+   "label": "preceded",
+   "type": "political",
+   "date": "2025-09-09"
+  },
+  {
+   "source": "donald-trump",
+   "target": "qatar-security-eo",
+   "label": "signed",
+   "type": "political",
+   "date": "2025-09-29"
+  },
+  {
+   "source": "qatar-security-eo",
+   "target": "qatar",
+   "label": "pledges US defence of",
+   "type": "political",
+   "date": "2025-10-01"
+  },
+  {
+   "source": "pete-hegseth",
+   "target": "mountain-home-qatari-facility",
+   "label": "signed letter of acceptance",
+   "type": "political",
+   "date": "2025-10-10"
+  },
+  {
+   "source": "qatar",
+   "target": "al-udeid-air-base",
+   "label": "$38B statement of intent (burden-sharing/defence)",
+   "type": "money",
+   "date": "2025-05-14",
+   "amount_usd": 38000000000
+  },
+  {
+   "source": "state-department",
+   "target": "mq-9b-sale-qatar",
+   "label": "approved",
+   "type": "regulatory",
+   "date": "2025-03-26",
+   "amount_usd": 1960000000
+  },
+  {
+   "source": "state-department",
+   "target": "qatar-patriot-apkws-sales-2026",
+   "label": "approved (emergency waiver)",
+   "type": "regulatory",
+   "date": "2026-05",
+   "amount_usd": 5000000000
+  },
+  {
+   "source": "state-department",
+   "target": "qatar-kc46-sale-2026",
+   "label": "approved",
+   "type": "regulatory",
+   "date": "2026-08-20",
+   "amount_usd": 4500000000
+  },
+  {
+   "source": "ron-wyden",
+   "target": "jared-kushner",
+   "label": "opened inquiry into fundraising",
+   "type": "legal",
+   "date": "2026-03"
+  }
+ ],
+ "leads": [
+  {
+   "title": "Heritage Advisors / Sheikh Sultan bin Jassim across Zeldin, Newsmax and the Menendez case",
+   "why_connected": "One Qatari royal's fund paid a current cabinet member, invested in a pro-Trump network and was the investor in a bribery case whose defendant later bought Trump-world pardon lobbying.",
+   "entities": [
+    "heritage-advisors",
+    "lee-zeldin",
+    "newsmax",
+    "fred-daibes",
+    "javelin-advisors"
+   ],
+   "source_url": "https://theintercept.com/2025/02/11/trump-qatar-ethics-patel-zeldin-bondi/"
+  },
+  {
+   "title": "Jet registration P4-HBJ and the Free Beacon 'owner linked to Menendez' report",
+   "why_connected": "Could tie the Air Force One jet's prior owner to the Qatari figures in the 666 Fifth and Menendez episodes; we could not read the article.",
+   "entities": [
+    "qatar-jet",
+    "hamad-bin-jassim",
+    "bob-menendez"
+   ],
+   "source_url": "https://freebeacon.com/?p=2031229"
+  },
+  {
+   "title": "UCC Holding's US partners and Barrack's role in Syria power concessions",
+   "why_connected": "A Qatari conglomerate won Syrian concessions signed in the envoy's presence and sits with Barrack-linked TI Capital in the pipeline consortium.",
+   "entities": [
+    "ucc-holding",
+    "tom-barrack",
+    "ti-capital",
+    "syria-power-deal"
+   ],
+   "source_url": "https://www.gulf-times.com/article/705336/qatar/syria-and-ucc-holding-sign-landmark-mou-to-boost-power-sector"
+  },
+  {
+   "title": "Kushner's 2026 $5B Affinity raise from Gulf sovereign funds",
+   "why_connected": "Kushner was soliciting QIA and others while negotiating with Qatar as mediator; Wyden inquiry outcome and closing are unknown.",
+   "entities": [
+    "jared-kushner",
+    "affinity-partners",
+    "qatar-investment-authority",
+    "ron-wyden"
+   ],
+   "source_url": "https://www.mediaite.com/politics/jared-kushner-reportedly-seeks-5b-from-middle-east-governments-for-his-firm-while-serving-as-envoy/"
+  },
+  {
+   "title": "Patel's Qatar waiver and the unannounced FBI-Qatar agreements",
+   "why_connected": "The scope of the March 2025 waiver and the content of the Dec 2025 agreements are undisclosed; the OGE and FARA complaints are pending.",
+   "entities": [
+    "kash-patel",
+    "fbi-qatar-security-agreements",
+    "public-citizen"
+   ],
+   "source_url": "https://jewishinsider.com/2025/12/fbi-kash-patel-qatar-security-deals-lobbying-disclosure/"
+  }
+ ],
+ "audit": {
+  "checked": [
+   "Zeldin's consulting income from Heritage Advisors (OGE 278e, amount and period)",
+   "Patel's March 2025 Qatar waiver and the Dec 2025 Doha security agreements",
+   "The NYT correction on the Witkoff $100M Apollo loan",
+   "Whether Ballard holds a current Qatar embassy contract ($175K/month)"
+  ],
+  "result": "upheld",
+  "changes": [
+   "Zeldin: added OGE 278e detail (Heritage Advisors, London, a client of Zeldin Strategies; >$5,000, Apr-Dec 2023 per Jewish Insider) and corrected the relationship date from 2024 to 2023. Accountable.US gives 2024; the OGE form and Jewish Insider support 2023.",
+   "Patel: tightened the waiver description. It was issued on 4 Mar 2025 by the FBI ethics official for 'a particular matter' related to Qatar, not an unlimited licence for Qatar matters. The Doha MOUs (Dec 2025, not announced by the FBI) are confirmed by Qatari state media (The Peninsula).",
+   "Ballard: the $175K/month Free Beacon figure matches the 2018 $2.1M one-year Qatar contract, so it is most likely historical. The sub-claim stays unverified, and the label is marked as our inference.",
+   "Witkoff: recorded the family's defamation threat against the NYT and Qatar's denial.",
+   "Cross-file consistency: pam-bondi entity described her as the current Attorney General; she was removed on Apr 2, 2026 (C61, C65). Description now gives her tenure."
+  ],
+  "new_sources": [
+   {
+    "title": "Zeldin, Lee — OGE Form 278e nominee report",
+    "publisher": "U.S. Office of Government Ethics",
+    "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/B4586F4FD7718EA485258C0F00336FAE/%24FILE/Zeldin%2C Lee  final278.pdf",
+    "date": "2025-01"
+   },
+   {
+    "title": "Qatar taps Ballard Partners for $2.1 million push ahead of Emir's visit",
+    "publisher": "Florida Politics",
+    "url": "https://floridapolitics.com/archives/260868-qatar-taps-ballard-partners-for-2-1-million-push-ahead-of-emirs-visit",
+    "date": "2018-04"
+   },
+   {
+    "title": "Minister of Interior meets with FBI Director",
+    "publisher": "The Peninsula",
+    "url": "https://s.thepeninsula.qa/article/09/12/2025/minister-of-interior-meets-with-fbi-director",
+    "date": "2025-12-09"
+   },
+   {
+    "title": "Witkoff family threatens NYT with defamation suit",
+    "publisher": "Yahoo News",
+    "url": "https://www.yahoo.com/news/articles/witkoff-family-threatens-nyt-defamation-212437336.html",
+    "date": "2025-09"
+   }
+  ]
+ }
+}

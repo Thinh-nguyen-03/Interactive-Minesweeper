@@ -1,0 +1,1361 @@
+{
+  "id": "C86",
+  "title": "Trump mega-donors holding stakes in companies that received federal backing",
+  "verdict": "partly-accurate",
+  "confidence": "medium",
+  "summary": "Paulson is the clearest case. He is a documented Trump fundraiser and the largest holder of Perpetua, which won a $2.9B EXIM loan approval (not yet closed). He also gained an estimated $60-70M on paper from the Trilogy stake before selling out in Q4 2025. Context: much of Perpetua's federal support began under Biden. Yass ($16M to MAGA Inc.) and Boehly ($1M+) are documented donors whose holdings sit in a federally approved TikTok venture and a DFC-backed Lukoil bid. That bid is pending and unsigned. The rest is weaker. The Schwarzman/Griffin/Cohen PIPE purchase rests on one Senate letter, Griffin is a public critic, and no Cohen donation to Trump was found. Warren and Hamm got regulatory help, not stakes, loans or price floors. No realised donor windfall is documented apart from Paulson's undisclosed Trilogy sale.",
+  "sub_claims": [
+    {
+      "statement": "John Paulson (Trump fundraiser) is Perpetua Resources' largest shareholder, and Perpetua won a $2.9B EXIM loan approval in 2026.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented. This extends C77. Paulson hosted Trump's April 2024 Palm Beach fundraiser ($50.5M raised) and was considered for Treasury Secretary. Paulson & Co. bought $100M of Perpetua's ~$425M June 2025 raise at $13.20 a share. Bloomberg Government says he has put about $185M into the company in total. 13F trackers put Paulson & Co. at 32.3M shares, about 25-26% of Perpetua, in Q1 2026, the largest holder by a wide margin (audit re-check; aggregator figures). Under Trump: Stibnite became a FAST-41 priority project in April 2025, received its final Army Corps permit in May 2025, and won EXIM board approval for $2.9B in May 2026 (EXIM had notified Congress of $2.7B in March 2026). The loan is still subject to definitive documents and conditions precedent (expected in H2 2026 per the May 2026 announcement), and no final close was found through Nov 2026. Context that cuts the other way: the Forest Service record of decision (2025-01-03), the first ~$1.8B EXIM letter of interest (April 2024) and most of the ~$80M in DoD awards all came under Biden. Paper gain: our own arithmetic, not a sourced figure. The roughly 7.58M June 2025 placement shares were worth about $203M at the 2026-05-21 close of US$26.72, a paper gain of about $100M on that tranche alone. No Paulson statement on a conflict was found.",
+      "sources": [
+        "https://news.bgov.com/esg/critical-minerals-project-faces-hurdles-after-trumps-greenlight",
+        "https://www.northernminer.com/news/perpetua-secures-400m-financing-for-stibnite-gold-project/1003879534/",
+        "https://www.eenews.net/articles/feds-advance-2-7b-loan-for-idaho-gold-mine/",
+        "https://www.theaureport.com/pub/na/co-secures-us-2-9b-exim-loan-fully-funding-stibnite-gold-antimony-mine",
+        "https://wwww.stockwatch.com/News/Item/Z-C!PPTA-3823394/C/PPTA?fmt=orig",
+        "https://mining.com/web/biden-administration-issues-permit-for-perpetuas-idaho-antimony-and-gold-mine",
+        "https://www.boisestatepublicradio.org/news/2024-04-09/idaho-perpetua-export-import-bank-stibnite",
+        "https://www.mining.com/stibnite-gold-project-in-idaho-named-a-priority-by-white-house/",
+        "https://us.trendlyne.com/us/equity/holding-lookup/1554638/2158661/perpetua-resources-corp/john-paulson-portfolio",
+        "https://www.miningweekly.com/article/perpetua-secures-29bn-loan-from-us-export-import-bank-that-fully-funds-stibnite-project-2026-05-22"
+      ]
+    },
+    {
+      "statement": "Paulson profited from the October 2025 U.S. stake in Trilogy Metals and later sold out.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented. Paulson & Co. held about 8.7% of Trilogy (fourth-largest holder). On 2025-10-06 the Department of War signed a binding letter of intent to pay $35.6M in total for about 10% of Trilogy, in two parallel halves: $17.8M directly to Trilogy for 8,215,570 units at $2.17 (each with three-quarters of a warrant), and $17.8M to South32 for 8,215,570 existing Trilogy shares plus a call option on 6,161,678 more; all $35.6M is to be reinvested in Ambler Metals. The warrants and option could take the stake toward 17.5%. The administration also approved the Ambler Road. The stock rose more than 200%. Popular Information and Dermot Cole estimated Paulson's paper gain at $60-70M. His 13F shows he sold all 14.3M shares between 2025-10-01 and 2025-12-31. The exact dates and prices are not disclosed, so the realised gain is unknown. Paulson has not explained the sale. Context: the largest holder, Thomas Kaplan's Electrum (~18.5%, worth >$136M in March 2026), gained more on paper. We found no reporting that describes Kaplan as a Trump donor, and his giving was not checked.",
+      "sources": [
+        "https://popular.info/p/trump-approves-mining-road-delivers",
+        "https://www.dermotcole.com/reportingfromalaska/2025/10/7/billionaire-trump-donor-gains-70-million-in-ambler-windfall",
+        "https://www.mining.com/web/billionaire-paulson-sells-stake-in-alaska-focused-trilogy-metals/",
+        "https://alaskabeacon.com/2026/03/09/after-spending-big-on-donlin-billionaire-sells-stake-in-company-with-ambler-prospects/",
+        "https://www.kyuk.org/economy/2026-03-11/after-spending-big-on-donlin-billionaire-sells-stake-in-company-with-ambler-prospects",
+        "https://www.northernminer.com/news/u-s-takes-10-trilogy-stake-in-alaska-push/1003894826/",
+        "https://www.mining-technology.com/news/us-government-buy-stake-trilogy-metals/",
+        "https://www.fool.com/investing/2026/02/19/why-trilogy-metals-stock-is-crashing-this-week/"
+      ]
+    },
+    {
+      "statement": "Paulson's other big 2025 bet, Donlin Gold (Alaska), received federal backing.",
+      "verdict": "unverified",
+      "finding": "Evidence grade: documented holding, but no federal backing found. Paulson paid Barrick $800M for 40% of Donlin (closed 2025-06-03). On 2026-07-21 NovaGold agreed to buy that 40% in an all-stock deal valued at about $4.2B, leaving Paulson with about 40% of the economic interest in the combined NovaGold Corp. The deal is expected to close in Q4 2026. The only federal action we found is a court-ordered Army Corps supplemental environmental review. We found no federal equity stake, loan or price floor. Separately, Paulson gave $250,000 to MAGA KY, a Trump-allied super PAC (2025). We did not find a Paulson MAGA Inc. contribution.",
+      "sources": [
+        "https://www.adn.com/business-economy/2025/04/27/how-a-billionaires-bet-on-donlin-mine-could-inject-new-life-into-the-huge-slow-moving-alaska-gold-project/",
+        "https://www.engineeringnews.co.za/article/novagold-paulson-consolidate-donlin-gold-holdings-through-merger-to-develop-holy-grail-gold-mine-in-america-2026-07-23",
+        "https://alaskabeacon.com/2026/03/09/after-spending-big-on-donlin-billionaire-sells-stake-in-company-with-ambler-prospects/",
+        "https://www.rnanews.eu/donors-to-trump-allies-anti-massie-super-pac-revealed-912516.html"
+      ]
+    },
+    {
+      "statement": "Schwarzman, Griffin and Steven A. Cohen, as Trump allies, bought discounted shares in the Cantor-placed USA Rare Earth PIPE that sat alongside the Commerce stake.",
+      "verdict": "partly-accurate",
+      "finding": "Evidence grade: single-source allegation for the share purchases. The senators' 2026-02-26 letter is the only source, and the company's PIPE release names only Inflection Point. The donor links vary. Schwarzman: documented. He gave $5M to MAGA Inc. in H2 2025 (FEC, via Bloomberg on 2026-01-02) and also donated to the White House ballroom. Griffin: he gave $1M to the inauguration and met Trump in 2024, but did not endorse him. In January 2026 he publicly accused the administration of being 'very enriching to the families' of officials, so calling him a 'Trump ally' is contestable. Citadel did hold about 5.6M USAR shares in Q3 2026 (C77), but a 13F does not show PIPE participation. Cohen: we found no Trump or MAGA Inc. donation. His documented Trump-family link runs instead through Point72's 4% stake in Alt5 Sigma, the WLF treasury vehicle (Bloomberg, 2025-08-19; see C13). Gains: the PIPE price was $21.50 and the stock was about $9.30 in late October 2026, so any PIPE buyer had a paper loss. Cantor says it had no role in USAR's government deal.",
+      "sources": [
+        "https://www.warren.senate.gov/newsroom/press-releases/warren-wyden-van-hollen-sound-alarm-on-lutnick-familys-conflicts-of-interest-involving-new-commerce-rare-earth-deal/",
+        "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-warren-wyden-lofgren-lead-new-probe-into-cantor-fitzgerald-usar-after-16-billion-trump-administration-deal",
+        "https://www.barchart.com/story/news/37293614/usa-rare-earth-announces-closing-of-1-5-billion-pipe-financing",
+        "https://www.bloomberg.com/news/articles/2026-01-02/schwarzman-openai-s-brockman-boost-102-million-trump-war-chest",
+        "https://alternativecreditinvestor.com/2026/01/02/blackstones-steve-schwarzman-among-major-donors-to-trumps-super-pac/",
+        "https://quiverquant.com/news/Citadel%27s+Ken+Griffin+opposes+tariffs+but+backs+Trump+with+inaugural+%241M+donation",
+        "https://www.mediaite.com/politics/billionaire-gop-mega-donor-rips-trump-corruption-been-very-enriching-to-the-families-of-admin-officials",
+        "https://fortune.com/2024/07/13/ken-griffin-citadel-paul-singer-elliott-donald-trump-campaign-donation-meetings/",
+        "https://www.bloomberg.com/news/articles/2025-08-19/point72-exoduspoint-bought-stakes-in-trump-tied-crypto-firm"
+      ]
+    },
+    {
+      "statement": "Todd Boehly, a Trump donor, leads a bid for Lukoil's foreign assets in which a federal agency (DFC) would take equity.",
+      "verdict": "mostly-accurate",
+      "finding": "Evidence grade: documented donations; consortium single-source (FT, relayed by several outlets). Eldridge Industries (Boehly) gave $1M to Trump's inaugural. NBC's FEC analysis lists Boehly among new $1M+ MAGA Inc. donors after the 2024 election, but the exact amount and date could not be confirmed because the article was not read directly. The FT reported in September 2026 that Boehly's consortium for Lukoil International includes Tahnoon-chaired IHC, the Qatari Al-Khayyat family and the U.S. DFC, which would take a reported mid-teens equity stake. As of the latest OFAC extension (2026-10-21), the license runs to 2026-11-21 and covers negotiations only. No deal was signed and no DFC commitment was announced. Nothing has been realised. C76 covers the Witkoff/Kushner side and their denials.",
+      "sources": [
+        "https://frontofficesports.com/trump-inauguration-sports-donations",
+        "https://www.nbcnews.com/politics/politics-news/new-megadonors-major-business-government-back-trumps-super-pac-rcna252867",
+        "https://meduza.io/en/news/2026/09/23/former-chelsea-co-owner-todd-boehly-seeks-to-buy-lukoil-s-foreign-assets",
+        "https://interfax.com/newsroom/top-stories/119637/",
+        "https://www.wionews.com/world/us-russia-talks-lukoil-assets-todd-boehly-trump-investors-1791021292256"
+      ]
+    },
+    {
+      "statement": "Kelcy Warren (Energy Transfer) got federal backing after giving to Trump.",
+      "verdict": "partly-accurate",
+      "finding": "Evidence grade: documented donations and regulatory actions; the benefit is regulatory, not an equity stake, loan or price floor. Warren gave at least $5M toward Trump's 2024 bid. Warren and Energy Transfer together gave MAGA Inc. $25M in February 2025 (Forbes reports $12.5M each). Under Biden, DOE refused to extend Lake Charles LNG's export deadline and denied rehearing. On day one, Trump lifted the Biden LNG-export pause, and in August 2025 Energy Secretary Wright granted Lake Charles more time to start non-FTA exports. Energy Transfer then suspended the project on 2025-12-18, so no gain flowed from it. Energy Transfer had called the earlier DOE denial 'political'.",
+      "sources": [
+        "https://www.eenews.net/articles/billionaire-kelcy-warren-invests-in-pipelines-and-trump/",
+        "https://truthout.org/articles/dakota-access-pipeline-company-is-top-fossil-fuel-donor-to-trumps-war-chest",
+        "https://forbes.com.br/forbes-money/2026/05/quais-bilionarios-estao-impulsionando-a-super-arma-eleitoral-de-meio-de-mandato-de-donald-trump/",
+        "https://lngprime.com/americas/us-doe-denies-lake-charles-lngs-rehearing-request/84436",
+        "https://www.marinelink.com/amp/news/doe-grants-lake-charles-lng-additional-529249",
+        "https://www.bloomberg.com/news/articles/2025-12-18/energy-transfer-drops-us-lng-project-to-focus-on-gas-pipelines",
+        "https://www.aol.com/news/trump-promised-riches-liquid-gold-110050196.html"
+      ]
+    },
+    {
+      "statement": "Harold Hamm (Continental Resources) got federal stakes, loans or price floors.",
+      "verdict": "unverified",
+      "finding": "Evidence grade: documented donations and role; financial backing not found. Hamm gave $3,300 to Trump's campaign in 2023, plus $1.6M-$4.3M to pro-Trump committees (figures from advocacy sources, which disagree). He chaired energy policy on the 2024 transition and was named a White House ballroom donor in October 2025. High Country News and the Revolving Door Project describe BLM approving Continental permits, including 71 new wells in one county. We found no federal equity stake, loan or price floor for Continental. Continental did not comment.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Harold_Hamm",
+        "https://www.eenews.net/articles/harold-hamm-gives-to-trump-after-avoiding-him/",
+        "https://www.yahoo.com/news/articles/oklahoma-oil-magnate-among-list-164727197.html",
+        "https://therevolvingdoorproject.org/harold-hamm-trump-billionaires-and-the-admin/"
+      ]
+    },
+    {
+      "statement": "Jeff Yass, a top MAGA Inc. donor, holds ByteDance and is in the federally approved TikTok USDS joint venture.",
+      "verdict": "mostly-accurate",
+      "finding": "Evidence grade: documented. Yass gave MAGA Inc. $16M: $1M days before the inauguration and $15M in March 2025. In 2024 his spokesperson had said he had never given to Trump. Susquehanna is reported to own about 15% of ByteDance and Yass about 7% personally; outlet valuations vary widely. Trump reversed his position to oppose a TikTok ban after meeting Yass in March 2024, but no source shows the meeting caused the change. Trump repeatedly delayed enforcing the ban, approved the framework by executive order on 2025-09-25, and the joint venture closed on 2026-01-22. Susquehanna affiliate Vastmere Strategic Investments is an investor (one outlet attributes Vastmere to Dell instead), and SIG's Mark Dooley holds a board seat. ByteDance retains 19.9%. Gains are undisclosed. Earlier layers: Susquehanna held about 2% of DWAC before the TMTG merger and says it had no economic interest as a market maker. Reuters (2026-10) also named it as a Truth Social API subscriber (C41).",
+      "sources": [
+        "https://readsludge.com/2025/08/01/tiktok-billionaire-donates-millions-to-trump-as-he-repeatedly-delays-ban/",
+        "https://www.brennancenter.org/our-work/analysis-opinion/pro-trump-super-pac-raises-record-breaking-305-million",
+        "https://www.salon.com/2024/03/25/top-billionaire-megadonor-had-big-stake-in-company-in-trumps-truth-social-deal-report",
+        "https://www.inquirer.com/politics/nation/jeffrey-yass-trump-ballroom-billionaire-donations-20251103.html",
+        "https://technical.ly/entrepreneurship/susquehanna-international-group-jeff-yass-tiktok-board/",
+        "https://thedailyrecord.com/2026/01/23/tiktok-bytedance-us-owned-joint-venture-ban/"
+      ]
+    },
+    {
+      "statement": "Congress has asked whether Trump donors hold equity in companies receiving federal equity stakes.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented (a question, not a finding). On 2026-02-02, House Natural Resources Democrats asked DoD, Commerce, Energy and Interior whether major Trump campaign donors or Trump Organization affiliates hold equity in companies the government has invested in. Fortune (2026-07-26) found no single public ledger of the roughly $27B in federal stakes, and several of them, such as Vulcan Elements and xLight, have no SEC filings. No agency answer was found.",
+      "sources": [
+        "https://democrats-naturalresources.house.gov/imo/media/doc/2026-02-02_moc_to_defense_commerce_energy_interior_re_mineral_equity_deals_oversight.pdf",
+        "https://fortune.com/2026/07/26/the-u-s-government-invested-27-billion-in-corporate-stakes-good-luck-finding-them/"
+      ]
+    }
+  ],
+  "corrections": [
+    "The claim calls Griffin a Trump ally. He gave $1M to the inauguration but did not endorse Trump in 2024, and in 2026 he publicly accused the administration of enriching officials' families.",
+    "We found no Trump or MAGA Inc. donation from Steven A. Cohen. His documented Trump-family link is Point72's 4% Alt5 Sigma stake.",
+    "Perpetua's federal backing did not begin under Trump. The record of decision, the first EXIM letter of interest ($1.8B, April 2024) and most of the DoD awards came under Biden.",
+    "Kelcy Warren and Harold Hamm received regulatory decisions (an LNG deadline extension, BLM permits), not federal equity stakes, loans or price floors. Lake Charles LNG was suspended in December 2025.",
+    "Trilogy's biggest paper winner was Electrum (~18.5%), not Paulson (~8.7%)."
+  ],
+  "denials_and_context": [
+    "Cantor says it had no role in USA Rare Earth's government negotiations or financing.",
+    "Paulson has not explained his Trilogy sale. An economist quoted by the Alaska Beacon said the sale does not necessarily signal anything.",
+    "In 2024 Yass's spokesperson said he had never donated to Trump. In 2025 he gave $16M to MAGA Inc. Susquehanna says it had no economic interest in Trump Media and held DWAC only as a market maker.",
+    "Witkoff's spokesperson denies any conflict in the Lukoil talks (C76). No Boehly or DFC statement was found.",
+    "Energy Transfer called the Biden-era DOE denial 'political'. Continental did not respond to requests for comment.",
+    "A documented donation plus a federal action is not evidence of a quid pro quo. No source shows that any donation caused any federal decision."
+  ],
+  "sources": [
+    {
+      "title": "Trump approves mining road, delivers $70 million windfall to MAGA billionaire",
+      "publisher": "Popular Information",
+      "url": "https://popular.info/p/trump-approves-mining-road-delivers",
+      "date": "2025-10"
+    },
+    {
+      "title": "Billionaire Trump donor gains $70 million in Ambler windfall",
+      "publisher": "Dermot Cole",
+      "url": "https://www.dermotcole.com/reportingfromalaska/2025/10/7/billionaire-trump-donor-gains-70-million-in-ambler-windfall",
+      "date": "2025-10-07"
+    },
+    {
+      "title": "Billionaire Paulson sells stake in Alaska-focused Trilogy Metals",
+      "publisher": "Mining.com",
+      "url": "https://www.mining.com/web/billionaire-paulson-sells-stake-in-alaska-focused-trilogy-metals/",
+      "date": "2026-03"
+    },
+    {
+      "title": "After spending big on Donlin, billionaire sells stake in company with Ambler prospects",
+      "publisher": "Alaska Beacon",
+      "url": "https://alaskabeacon.com/2026/03/09/after-spending-big-on-donlin-billionaire-sells-stake-in-company-with-ambler-prospects/",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "Same, syndicated",
+      "publisher": "KYUK",
+      "url": "https://www.kyuk.org/economy/2026-03-11/after-spending-big-on-donlin-billionaire-sells-stake-in-company-with-ambler-prospects",
+      "date": "2026-03-11"
+    },
+    {
+      "title": "U.S. takes 10% Trilogy stake in Alaska push",
+      "publisher": "Northern Miner",
+      "url": "https://www.northernminer.com/news/u-s-takes-10-trilogy-stake-in-alaska-push/1003894826/",
+      "date": "2025-10"
+    },
+    {
+      "title": "Perpetua secures $400M+ financing",
+      "publisher": "Northern Miner",
+      "url": "https://www.northernminer.com/news/perpetua-secures-400m-financing-for-stibnite-gold-project/1003879534/",
+      "date": "2025-06"
+    },
+    {
+      "title": "Critical mineral project faces hurdle after Trump greenlight",
+      "publisher": "Bloomberg Government",
+      "url": "https://news.bgov.com/esg/critical-minerals-project-faces-hurdles-after-trumps-greenlight",
+      "date": "2025"
+    },
+    {
+      "title": "Feds advance $2.7B loan for Idaho gold mine",
+      "publisher": "E&E News",
+      "url": "https://www.eenews.net/articles/feds-advance-2-7b-loan-for-idaho-gold-mine/",
+      "date": "2026-03"
+    },
+    {
+      "title": "Perpetua secures US$2.9B EXIM loan",
+      "publisher": "The Gold Report",
+      "url": "https://www.theaureport.com/pub/na/co-secures-us-2-9b-exim-loan-fully-funding-stibnite-gold-antimony-mine",
+      "date": "2026-05"
+    },
+    {
+      "title": "Perpetua EXIM approval release (price US$26.72 on 2026-05-21)",
+      "publisher": "Stockwatch",
+      "url": "https://wwww.stockwatch.com/News/Item/Z-C!PPTA-3823394/C/PPTA?fmt=orig",
+      "date": "2026-05-21"
+    },
+    {
+      "title": "Biden officials issue permit for Perpetua's Idaho mine",
+      "publisher": "Mining.com",
+      "url": "https://mining.com/web/biden-administration-issues-permit-for-perpetuas-idaho-antimony-and-gold-mine",
+      "date": "2025-01"
+    },
+    {
+      "title": "Perpetua receives EXIM letter of interest",
+      "publisher": "Boise State Public Radio",
+      "url": "https://www.boisestatepublicradio.org/news/2024-04-09/idaho-perpetua-export-import-bank-stibnite",
+      "date": "2024-04-09"
+    },
+    {
+      "title": "Stibnite named a priority by White House",
+      "publisher": "Mining.com",
+      "url": "https://www.mining.com/stibnite-gold-project-in-idaho-named-a-priority-by-white-house/",
+      "date": "2025-04"
+    },
+    {
+      "title": "How a billionaire's bet on Donlin could inject new life",
+      "publisher": "Anchorage Daily News",
+      "url": "https://www.adn.com/business-economy/2025/04/27/how-a-billionaires-bet-on-donlin-mine-could-inject-new-life-into-the-huge-slow-moving-alaska-gold-project/",
+      "date": "2025-04-27"
+    },
+    {
+      "title": "NovaGold, Paulson consolidate Donlin holdings",
+      "publisher": "Engineering News",
+      "url": "https://www.engineeringnews.co.za/article/novagold-paulson-consolidate-donlin-gold-holdings-through-merger-to-develop-holy-grail-gold-mine-in-america-2026-07-23",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Donors to Trump allies' anti-Massie super PAC revealed",
+      "publisher": "RNA News",
+      "url": "https://www.rnanews.eu/donors-to-trump-allies-anti-massie-super-pac-revealed-912516.html",
+      "date": "2025"
+    },
+    {
+      "title": "Warren, Wyden, Van Hollen sound alarm on Lutnick family conflicts",
+      "publisher": "Sen. Warren",
+      "url": "https://www.warren.senate.gov/newsroom/press-releases/warren-wyden-van-hollen-sound-alarm-on-lutnick-familys-conflicts-of-interest-involving-new-commerce-rare-earth-deal/",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "New probe into Cantor and USAR",
+      "publisher": "Sen. Van Hollen",
+      "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-warren-wyden-lofgren-lead-new-probe-into-cantor-fitzgerald-usar-after-16-billion-trump-administration-deal",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "USA Rare Earth announces closing of $1.5B PIPE",
+      "publisher": "USA Rare Earth via Barchart",
+      "url": "https://www.barchart.com/story/news/37293614/usa-rare-earth-announces-closing-of-1-5-billion-pipe-financing",
+      "date": "2026-01-29"
+    },
+    {
+      "title": "Schwarzman, OpenAI's Brockman boost $102M Trump war chest",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-02/schwarzman-openai-s-brockman-boost-102-million-trump-war-chest",
+      "date": "2026-01-02"
+    },
+    {
+      "title": "Schwarzman among major donors to Trump's super PAC",
+      "publisher": "Alternative Credit Investor",
+      "url": "https://alternativecreditinvestor.com/2026/01/02/blackstones-steve-schwarzman-among-major-donors-to-trumps-super-pac/",
+      "date": "2026-01-02"
+    },
+    {
+      "title": "Griffin backs Trump with $1M inaugural donation",
+      "publisher": "Quiver Quant",
+      "url": "https://quiverquant.com/news/Citadel%27s+Ken+Griffin+opposes+tariffs+but+backs+Trump+with+inaugural+%241M+donation",
+      "date": "2024-12"
+    },
+    {
+      "title": "Billionaire GOP mega-donor rips Trump corruption",
+      "publisher": "Mediaite",
+      "url": "https://www.mediaite.com/politics/billionaire-gop-mega-donor-rips-trump-corruption-been-very-enriching-to-the-families-of-admin-officials",
+      "date": "2026-01"
+    },
+    {
+      "title": "Griffin and Singer met Trump about donating",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/2024/07/13/ken-griffin-citadel-paul-singer-elliott-donald-trump-campaign-donation-meetings/",
+      "date": "2024-07-13"
+    },
+    {
+      "title": "Point72, ExodusPoint bought stakes in Trump-tied crypto firm",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-19/point72-exoduspoint-bought-stakes-in-trump-tied-crypto-firm",
+      "date": "2025-08-19"
+    },
+    {
+      "title": "Trump inauguration sports donations",
+      "publisher": "Front Office Sports",
+      "url": "https://frontofficesports.com/trump-inauguration-sports-donations",
+      "date": "2025"
+    },
+    {
+      "title": "New megadonors with major business before the government back Trump's super PAC",
+      "publisher": "NBC News",
+      "url": "https://www.nbcnews.com/politics/politics-news/new-megadonors-major-business-government-back-trumps-super-pac-rcna252867",
+      "date": "2026"
+    },
+    {
+      "title": "Todd Boehly seeks to buy Lukoil's foreign assets",
+      "publisher": "Meduza (FT)",
+      "url": "https://meduza.io/en/news/2026/09/23/former-chelsea-co-owner-todd-boehly-seeks-to-buy-lukoil-s-foreign-assets",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "OFAC extends Lukoil license to Nov 21",
+      "publisher": "Interfax",
+      "url": "https://interfax.com/newsroom/top-stories/119637/",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "Boehly consortium and US-Russia talks",
+      "publisher": "WION",
+      "url": "https://www.wionews.com/world/us-russia-talks-lukoil-assets-todd-boehly-trump-investors-1791021292256",
+      "date": "2026-10"
+    },
+    {
+      "title": "Harold Hamm",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Harold_Hamm",
+      "date": "2026"
+    },
+    {
+      "title": "Harold Hamm gives to Trump after avoiding him",
+      "publisher": "E&E News",
+      "url": "https://www.eenews.net/articles/harold-hamm-gives-to-trump-after-avoiding-him/",
+      "date": "2023"
+    },
+    {
+      "title": "Oklahoma oil magnate among ballroom donors",
+      "publisher": "Yahoo News",
+      "url": "https://www.yahoo.com/news/articles/oklahoma-oil-magnate-among-list-164727197.html",
+      "date": "2025-10"
+    },
+    {
+      "title": "Harold Hamm: Trump billionaires and the admin",
+      "publisher": "Revolving Door Project",
+      "url": "https://therevolvingdoorproject.org/harold-hamm-trump-billionaires-and-the-admin/",
+      "date": "2026"
+    },
+    {
+      "title": "Billionaire Kelcy Warren invests in pipelines and Trump",
+      "publisher": "E&E News",
+      "url": "https://www.eenews.net/articles/billionaire-kelcy-warren-invests-in-pipelines-and-trump/",
+      "date": "2024"
+    },
+    {
+      "title": "Dakota Access pipeline company is top fossil fuel donor to Trump's war chest",
+      "publisher": "Truthout",
+      "url": "https://truthout.org/articles/dakota-access-pipeline-company-is-top-fossil-fuel-donor-to-trumps-war-chest",
+      "date": "2025"
+    },
+    {
+      "title": "Billionaires behind Trump's midterm super PAC",
+      "publisher": "Forbes Brasil",
+      "url": "https://forbes.com.br/forbes-money/2026/05/quais-bilionarios-estao-impulsionando-a-super-arma-eleitoral-de-meio-de-mandato-de-donald-trump/",
+      "date": "2026-05"
+    },
+    {
+      "title": "DOE denies Lake Charles LNG rehearing",
+      "publisher": "LNG Prime",
+      "url": "https://lngprime.com/americas/us-doe-denies-lake-charles-lngs-rehearing-request/84436",
+      "date": "2024"
+    },
+    {
+      "title": "DOE grants Lake Charles LNG additional time",
+      "publisher": "MarineLink",
+      "url": "https://www.marinelink.com/amp/news/doe-grants-lake-charles-lng-additional-529249",
+      "date": "2025-08"
+    },
+    {
+      "title": "Energy Transfer drops US LNG project",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-18/energy-transfer-drops-us-lng-project-to-focus-on-gas-pipelines",
+      "date": "2025-12-18"
+    },
+    {
+      "title": "Trump promised riches from 'liquid gold'; fossil fuel donors benefiting",
+      "publisher": "The Guardian via AOL",
+      "url": "https://www.aol.com/news/trump-promised-riches-liquid-gold-110050196.html",
+      "date": "2025"
+    },
+    {
+      "title": "TikTok billionaire donates millions to Trump as he delays ban",
+      "publisher": "Sludge",
+      "url": "https://readsludge.com/2025/08/01/tiktok-billionaire-donates-millions-to-trump-as-he-repeatedly-delays-ban/",
+      "date": "2025-08-01"
+    },
+    {
+      "title": "Pro-Trump super PAC raises record-breaking $305 million",
+      "publisher": "Brennan Center",
+      "url": "https://www.brennancenter.org/our-work/analysis-opinion/pro-trump-super-pac-raises-record-breaking-305-million",
+      "date": "2026"
+    },
+    {
+      "title": "Top megadonor had big stake in company in Truth Social deal",
+      "publisher": "Salon",
+      "url": "https://www.salon.com/2024/03/25/top-billionaire-megadonor-had-big-stake-in-company-in-trumps-truth-social-deal-report",
+      "date": "2024-03-25"
+    },
+    {
+      "title": "Jeffrey Yass and the Trump ballroom donors",
+      "publisher": "Philadelphia Inquirer",
+      "url": "https://www.inquirer.com/politics/nation/jeffrey-yass-trump-ballroom-billionaire-donations-20251103.html",
+      "date": "2025-11-03"
+    },
+    {
+      "title": "Susquehanna gets TikTok board seat",
+      "publisher": "Technical.ly",
+      "url": "https://technical.ly/entrepreneurship/susquehanna-international-group-jeff-yass-tiktok-board/",
+      "date": "2026-01"
+    },
+    {
+      "title": "TikTok seals deal for new joint venture",
+      "publisher": "The Daily Record (Reuters)",
+      "url": "https://thedailyrecord.com/2026/01/23/tiktok-bytedance-us-owned-joint-venture-ban/",
+      "date": "2026-01-23"
+    },
+    {
+      "title": "Letter to DoD, Commerce, Energy, Interior on mineral equity deals",
+      "publisher": "House Natural Resources Democrats",
+      "url": "https://democrats-naturalresources.house.gov/imo/media/doc/2026-02-02_moc_to_defense_commerce_energy_interior_re_mineral_equity_deals_oversight.pdf",
+      "date": "2026-02-02"
+    },
+    {
+      "title": "The U.S. government invested $27 billion in corporate stakes",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/2026/07/26/the-u-s-government-invested-27-billion-in-corporate-stakes-good-luck-finding-them/",
+      "date": "2026-07-26"
+    }
+  ],
+  "entities": [
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "President; recipient of the donations"
+    },
+    {
+      "id": "john-paulson",
+      "name": "John Paulson",
+      "type": "person",
+      "description": "Hedge-fund manager; hosted $50.5M Trump fundraiser (Apr 2024)"
+    },
+    {
+      "id": "paulson-and-co",
+      "name": "Paulson & Co.",
+      "type": "fund",
+      "description": "Paulson's investment firm"
+    },
+    {
+      "id": "perpetua-resources",
+      "name": "Perpetua Resources",
+      "type": "company",
+      "description": "Idaho Stibnite gold-antimony developer; EXIM $2.9B approval"
+    },
+    {
+      "id": "stibnite-gold-project",
+      "name": "Stibnite Gold Project",
+      "type": "asset",
+      "description": "Perpetua's Idaho mine"
+    },
+    {
+      "id": "trilogy-metals",
+      "name": "Trilogy Metals",
+      "type": "company",
+      "description": "Alaska copper explorer; US took ~10% stake Oct 2025"
+    },
+    {
+      "id": "ambler-road",
+      "name": "Ambler Road",
+      "type": "asset",
+      "description": "Alaska industrial road approved with Trilogy stake"
+    },
+    {
+      "id": "donlin-gold",
+      "name": "Donlin Gold",
+      "type": "asset",
+      "description": "Alaska gold project; Paulson bought 40% in 2025"
+    },
+    {
+      "id": "novagold",
+      "name": "NovaGold Resources",
+      "type": "company",
+      "description": "Donlin co-owner merging with Paulson's 40%"
+    },
+    {
+      "id": "electrum-group",
+      "name": "Electrum Group",
+      "type": "fund",
+      "description": "Thomas Kaplan's firm; ~18.5% of Trilogy"
+    },
+    {
+      "id": "thomas-kaplan",
+      "name": "Thomas Kaplan",
+      "type": "person",
+      "description": "Electrum chairman; largest Trilogy holder"
+    },
+    {
+      "id": "exim-bank",
+      "name": "Export-Import Bank of the United States",
+      "type": "government",
+      "description": "Approved Perpetua loan"
+    },
+    {
+      "id": "pentagon",
+      "name": "Pentagon",
+      "type": "government",
+      "description": "DoD; Perpetua DPA awards"
+    },
+    {
+      "id": "us-army-corps-of-engineers",
+      "name": "U.S. Army Corps of Engineers",
+      "type": "government",
+      "description": "Issued Stibnite permit; Donlin SEIS"
+    },
+    {
+      "id": "us-commerce-department",
+      "name": "U.S. Commerce Department",
+      "type": "government",
+      "description": "USAR equity and loan"
+    },
+    {
+      "id": "howard-lutnick",
+      "name": "Howard Lutnick",
+      "type": "person",
+      "description": "Commerce Secretary; ex-Cantor chair"
+    },
+    {
+      "id": "cantor-fitzgerald",
+      "name": "Cantor Fitzgerald",
+      "type": "company",
+      "description": "Lead placement agent on USAR PIPE"
+    },
+    {
+      "id": "usa-rare-earth",
+      "name": "USA Rare Earth",
+      "type": "company",
+      "description": "Commerce ~10% stake + $1.3B loan; $1.5B PIPE"
+    },
+    {
+      "id": "inflection-point",
+      "name": "Inflection Point",
+      "type": "fund",
+      "description": "Anchor of USAR PIPE"
+    },
+    {
+      "id": "stephen-schwarzman",
+      "name": "Stephen Schwarzman",
+      "type": "person",
+      "description": "Blackstone CEO; $5M MAGA Inc. donor"
+    },
+    {
+      "id": "blackstone",
+      "name": "Blackstone",
+      "type": "company",
+      "description": "Schwarzman's firm"
+    },
+    {
+      "id": "ken-griffin",
+      "name": "Ken Griffin",
+      "type": "person",
+      "description": "Citadel founder; $1M inaugural donor and public critic"
+    },
+    {
+      "id": "citadel",
+      "name": "Citadel",
+      "type": "fund",
+      "description": "Griffin's hedge fund; USAR holder per 13F"
+    },
+    {
+      "id": "steven-a-cohen",
+      "name": "Steven A. Cohen",
+      "type": "person",
+      "description": "Point72 founder; named in senators' letter"
+    },
+    {
+      "id": "point72",
+      "name": "Point72 Asset Management",
+      "type": "fund",
+      "description": "Took 4% of Alt5 Sigma (2025)"
+    },
+    {
+      "id": "alt5-sigma",
+      "name": "ALT5 Sigma",
+      "type": "company",
+      "description": "WLF-linked treasury company"
+    },
+    {
+      "id": "world-liberty-financial",
+      "name": "World Liberty Financial",
+      "type": "company",
+      "description": "Trump-family crypto venture"
+    },
+    {
+      "id": "elizabeth-warren",
+      "name": "Elizabeth Warren",
+      "type": "person",
+      "description": "Senator; letters on USAR"
+    },
+    {
+      "id": "ron-wyden",
+      "name": "Ron Wyden",
+      "type": "person",
+      "description": "Senator; co-signed USAR letters"
+    },
+    {
+      "id": "chris-van-hollen",
+      "name": "Chris Van Hollen",
+      "type": "person",
+      "description": "Senator; co-signed USAR letters"
+    },
+    {
+      "id": "maga-inc",
+      "name": "MAGA Inc.",
+      "type": "fund",
+      "description": "Pro-Trump super PAC"
+    },
+    {
+      "id": "maga-ky",
+      "name": "MAGA KY",
+      "type": "fund",
+      "description": "Trump-allied anti-Massie super PAC"
+    },
+    {
+      "id": "trump-inaugural-committee",
+      "name": "Trump-Vance Inaugural Committee",
+      "type": "fund",
+      "description": "2025 inauguration fund"
+    },
+    {
+      "id": "white-house-ballroom",
+      "name": "White House ballroom",
+      "type": "asset",
+      "description": "Privately funded ballroom project"
+    },
+    {
+      "id": "todd-boehly",
+      "name": "Todd Boehly",
+      "type": "person",
+      "description": "Eldridge CEO; leads Lukoil-assets consortium"
+    },
+    {
+      "id": "eldridge-industries",
+      "name": "Eldridge Industries",
+      "type": "company",
+      "description": "Boehly's holding company; $1M inaugural"
+    },
+    {
+      "id": "lukoil",
+      "name": "Lukoil",
+      "type": "company",
+      "description": "Sanctioned Russian oil major selling foreign assets"
+    },
+    {
+      "id": "lukoil-international",
+      "name": "Lukoil International GmbH",
+      "type": "company",
+      "description": "Lukoil's foreign-asset holding unit"
+    },
+    {
+      "id": "us-dfc",
+      "name": "US International Development Finance Corporation",
+      "type": "government",
+      "description": "Reported mid-teens equity partner in Boehly bid"
+    },
+    {
+      "id": "ofac",
+      "name": "OFAC",
+      "type": "government",
+      "description": "Treasury sanctions office licensing Lukoil sale"
+    },
+    {
+      "id": "international-holding-company",
+      "name": "International Holding Company",
+      "type": "company",
+      "description": "Tahnoon-chaired Abu Dhabi conglomerate in Boehly consortium"
+    },
+    {
+      "id": "tahnoon-bin-zayed",
+      "name": "Tahnoon bin Zayed",
+      "type": "person",
+      "description": "UAE national security adviser; IHC chair"
+    },
+    {
+      "id": "al-khayyat-brothers",
+      "name": "Al-Khayyat family",
+      "type": "person",
+      "description": "Qatari investors in Boehly consortium"
+    },
+    {
+      "id": "kelcy-warren",
+      "name": "Kelcy Warren",
+      "type": "person",
+      "description": "Energy Transfer chairman; $25M MAGA Inc. (with ET)"
+    },
+    {
+      "id": "energy-transfer",
+      "name": "Energy Transfer",
+      "type": "company",
+      "description": "Pipeline company; Lake Charles LNG"
+    },
+    {
+      "id": "lake-charles-lng",
+      "name": "Lake Charles LNG",
+      "type": "asset",
+      "description": "Louisiana LNG export project, suspended Dec 2025"
+    },
+    {
+      "id": "department-of-energy",
+      "name": "U.S. Department of Energy",
+      "type": "government",
+      "description": "LNG export authorizations"
+    },
+    {
+      "id": "chris-wright",
+      "name": "Chris Wright",
+      "type": "person",
+      "description": "Energy Secretary"
+    },
+    {
+      "id": "harold-hamm",
+      "name": "Harold Hamm",
+      "type": "person",
+      "description": "Continental Resources founder; Trump energy adviser"
+    },
+    {
+      "id": "continental-resources",
+      "name": "Continental Resources",
+      "type": "company",
+      "description": "Shale producer"
+    },
+    {
+      "id": "bureau-of-land-management",
+      "name": "Bureau of Land Management",
+      "type": "government",
+      "description": "Federal drilling permits"
+    },
+    {
+      "id": "jeff-yass",
+      "name": "Jeff Yass",
+      "type": "person",
+      "description": "Susquehanna co-founder; $16M MAGA Inc. donor"
+    },
+    {
+      "id": "susquehanna-international-group",
+      "name": "Susquehanna International Group",
+      "type": "company",
+      "description": "Trading firm; ByteDance holder; TikTok JV board seat"
+    },
+    {
+      "id": "vastmere-strategic-investments",
+      "name": "Vastmere Strategic Investments",
+      "type": "fund",
+      "description": "Reported Susquehanna affiliate investing in TikTok USDS"
+    },
+    {
+      "id": "bytedance",
+      "name": "ByteDance",
+      "type": "company",
+      "description": "TikTok parent; keeps 19.9% of US JV"
+    },
+    {
+      "id": "tiktok-usds-joint-venture",
+      "name": "TikTok USDS Joint Venture",
+      "type": "company",
+      "description": "US TikTok entity approved by Trump EO"
+    },
+    {
+      "id": "oracle",
+      "name": "Oracle",
+      "type": "company",
+      "description": "15% TikTok USDS owner"
+    },
+    {
+      "id": "silver-lake",
+      "name": "Silver Lake",
+      "type": "fund",
+      "description": "15% TikTok USDS owner"
+    },
+    {
+      "id": "mgx",
+      "name": "MGX",
+      "type": "fund",
+      "description": "15% TikTok USDS owner"
+    },
+    {
+      "id": "trump-media-technology-group",
+      "name": "Trump Media & Technology Group",
+      "type": "company",
+      "description": "Trump's media company"
+    },
+    {
+      "id": "digital-world-acquisition-corp",
+      "name": "Digital World Acquisition Corp.",
+      "type": "company",
+      "description": "SPAC that merged with TMTG"
+    },
+    {
+      "id": "house-natural-resources-democrats",
+      "name": "House Natural Resources Committee Democrats",
+      "type": "government",
+      "description": "Asked agencies about donor equity positions"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "john-paulson",
+      "target": "donald-trump",
+      "label": "hosted Palm Beach fundraiser that raised $50.5M",
+      "type": "political",
+      "date": "2024-04",
+      "amount_usd": 50500000
+    },
+    {
+      "source": "john-paulson",
+      "target": "maga-ky",
+      "label": "donated $250,000",
+      "type": "political",
+      "date": "2025",
+      "amount_usd": 250000
+    },
+    {
+      "source": "john-paulson",
+      "target": "paulson-and-co",
+      "label": "founder",
+      "type": "ownership",
+      "date": ""
+    },
+    {
+      "source": "paulson-and-co",
+      "target": "perpetua-resources",
+      "label": "largest shareholder (~25% per 13F trackers); bought $100M of June 2025 raise at $13.20",
+      "type": "ownership",
+      "date": "2025-06",
+      "amount_usd": 100000000
+    },
+    {
+      "source": "exim-bank",
+      "target": "perpetua-resources",
+      "label": "board approved $2.9B senior loan (subject to documents)",
+      "type": "money",
+      "date": "2026-05",
+      "amount_usd": 2900000000
+    },
+    {
+      "source": "pentagon",
+      "target": "perpetua-resources",
+      "label": "~$80M DPA and other awards (mostly Biden-era)",
+      "type": "money",
+      "date": "2022-2025",
+      "amount_usd": 80000000
+    },
+    {
+      "source": "us-army-corps-of-engineers",
+      "target": "stibnite-gold-project",
+      "label": "final 404 permit",
+      "type": "regulatory",
+      "date": "2025-05"
+    },
+    {
+      "source": "perpetua-resources",
+      "target": "stibnite-gold-project",
+      "label": "develops",
+      "type": "ownership",
+      "date": ""
+    },
+    {
+      "source": "paulson-and-co",
+      "target": "trilogy-metals",
+      "label": "held ~8.7%; sold 14.3M shares in Q4 2025; est. $60-70M paper gain",
+      "type": "ownership",
+      "date": "2025-10/2025-12"
+    },
+    {
+      "source": "donald-trump",
+      "target": "trilogy-metals",
+      "label": "US (Department of War) agreed $35.6M for ~10% ($17.8M to Trilogy, $17.8M to South32) plus warrants",
+      "type": "money",
+      "date": "2025-10-06",
+      "amount_usd": 35600000
+    },
+    {
+      "source": "donald-trump",
+      "target": "ambler-road",
+      "label": "approved road",
+      "type": "regulatory",
+      "date": "2025-10-06"
+    },
+    {
+      "source": "electrum-group",
+      "target": "trilogy-metals",
+      "label": "~18.5% holder (>$136M Mar 2026)",
+      "type": "ownership",
+      "date": "2026-03",
+      "amount_usd": 136000000
+    },
+    {
+      "source": "thomas-kaplan",
+      "target": "electrum-group",
+      "label": "chairman",
+      "type": "ownership",
+      "date": ""
+    },
+    {
+      "source": "paulson-and-co",
+      "target": "donlin-gold",
+      "label": "bought 40% from Barrick for $800M",
+      "type": "ownership",
+      "date": "2025-06-03",
+      "amount_usd": 800000000
+    },
+    {
+      "source": "novagold",
+      "target": "paulson-and-co",
+      "label": "all-stock acquisition of Paulson's 40% Donlin stake (~$4.2B)",
+      "type": "commercial",
+      "date": "2026-07-21",
+      "amount_usd": 4200000000
+    },
+    {
+      "source": "stephen-schwarzman",
+      "target": "maga-inc",
+      "label": "donated $5M",
+      "type": "political",
+      "date": "2025-H2",
+      "amount_usd": 5000000
+    },
+    {
+      "source": "stephen-schwarzman",
+      "target": "white-house-ballroom",
+      "label": "donor",
+      "type": "political",
+      "date": "2025-10"
+    },
+    {
+      "source": "stephen-schwarzman",
+      "target": "usa-rare-earth",
+      "label": "alleged PIPE buyer (senators' letter only)",
+      "type": "money",
+      "date": "2026-01"
+    },
+    {
+      "source": "ken-griffin",
+      "target": "trump-inaugural-committee",
+      "label": "$1M donation (planned/reported)",
+      "type": "political",
+      "date": "2024-12",
+      "amount_usd": 1000000
+    },
+    {
+      "source": "citadel",
+      "target": "usa-rare-earth",
+      "label": "~5.6M shares per 13F (PIPE participation unconfirmed)",
+      "type": "ownership",
+      "date": "2026-Q3"
+    },
+    {
+      "source": "ken-griffin",
+      "target": "citadel",
+      "label": "founder/CEO",
+      "type": "ownership",
+      "date": ""
+    },
+    {
+      "source": "steven-a-cohen",
+      "target": "usa-rare-earth",
+      "label": "alleged PIPE buyer (senators' letter only)",
+      "type": "money",
+      "date": "2026-01"
+    },
+    {
+      "source": "steven-a-cohen",
+      "target": "point72",
+      "label": "founder",
+      "type": "ownership",
+      "date": ""
+    },
+    {
+      "source": "point72",
+      "target": "alt5-sigma",
+      "label": "4% stake (fund-held)",
+      "type": "ownership",
+      "date": "2025-08"
+    },
+    {
+      "source": "alt5-sigma",
+      "target": "world-liberty-financial",
+      "label": "WLFI treasury partner",
+      "type": "commercial",
+      "date": "2025-08"
+    },
+    {
+      "source": "cantor-fitzgerald",
+      "target": "usa-rare-earth",
+      "label": "lead placement agent, $1.5B PIPE",
+      "type": "commercial",
+      "date": "2026-01-29",
+      "amount_usd": 1500000000
+    },
+    {
+      "source": "us-commerce-department",
+      "target": "usa-rare-earth",
+      "label": "~10% stake, $277M funding + $1.3B loan",
+      "type": "money",
+      "date": "2026-06-03",
+      "amount_usd": 1577000000
+    },
+    {
+      "source": "howard-lutnick",
+      "target": "us-commerce-department",
+      "label": "Secretary",
+      "type": "political",
+      "date": "2025-02"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "usa-rare-earth",
+      "label": "letters alleging Trump allies got PIPE shares",
+      "type": "political",
+      "date": "2026-02-26"
+    },
+    {
+      "source": "todd-boehly",
+      "target": "eldridge-industries",
+      "label": "CEO",
+      "type": "ownership",
+      "date": ""
+    },
+    {
+      "source": "eldridge-industries",
+      "target": "trump-inaugural-committee",
+      "label": "$1M donation",
+      "type": "political",
+      "date": "2025-01",
+      "amount_usd": 1000000
+    },
+    {
+      "source": "todd-boehly",
+      "target": "maga-inc",
+      "label": "listed as $1M+ donor (amount unconfirmed)",
+      "type": "political",
+      "date": "2025"
+    },
+    {
+      "source": "todd-boehly",
+      "target": "lukoil-international",
+      "label": "leads consortium bid",
+      "type": "commercial",
+      "date": "2026-09"
+    },
+    {
+      "source": "us-dfc",
+      "target": "lukoil-international",
+      "label": "reported mid-teens equity stake in Boehly bid",
+      "type": "money",
+      "date": "2026-09"
+    },
+    {
+      "source": "international-holding-company",
+      "target": "lukoil-international",
+      "label": "reported consortium lead with Boehly",
+      "type": "commercial",
+      "date": "2026-09"
+    },
+    {
+      "source": "tahnoon-bin-zayed",
+      "target": "international-holding-company",
+      "label": "chairman",
+      "type": "ownership",
+      "date": ""
+    },
+    {
+      "source": "al-khayyat-brothers",
+      "target": "lukoil-international",
+      "label": "reported consortium member",
+      "type": "commercial",
+      "date": "2026-09"
+    },
+    {
+      "source": "ofac",
+      "target": "lukoil-international",
+      "label": "license for negotiations to 2026-11-21",
+      "type": "regulatory",
+      "date": "2026-10-21"
+    },
+    {
+      "source": "lukoil",
+      "target": "lukoil-international",
+      "label": "parent",
+      "type": "ownership",
+      "date": ""
+    },
+    {
+      "source": "kelcy-warren",
+      "target": "maga-inc",
+      "label": "$25M with Energy Transfer (reported $12.5M each)",
+      "type": "political",
+      "date": "2025-02",
+      "amount_usd": 25000000
+    },
+    {
+      "source": "kelcy-warren",
+      "target": "donald-trump",
+      "label": "at least $5M toward 2024 bid",
+      "type": "political",
+      "date": "2024",
+      "amount_usd": 5000000
+    },
+    {
+      "source": "kelcy-warren",
+      "target": "energy-transfer",
+      "label": "chairman/co-founder",
+      "type": "ownership",
+      "date": ""
+    },
+    {
+      "source": "department-of-energy",
+      "target": "lake-charles-lng",
+      "label": "extended deadline to start non-FTA exports",
+      "type": "regulatory",
+      "date": "2025-08"
+    },
+    {
+      "source": "chris-wright",
+      "target": "department-of-energy",
+      "label": "Secretary; signed extension",
+      "type": "political",
+      "date": "2025-08"
+    },
+    {
+      "source": "energy-transfer",
+      "target": "lake-charles-lng",
+      "label": "developer; suspended project",
+      "type": "ownership",
+      "date": "2025-12-18"
+    },
+    {
+      "source": "harold-hamm",
+      "target": "donald-trump",
+      "label": "$3,300 campaign gift; transition energy policy lead",
+      "type": "political",
+      "date": "2023-08/2024-11",
+      "amount_usd": 3300
+    },
+    {
+      "source": "harold-hamm",
+      "target": "white-house-ballroom",
+      "label": "named donor",
+      "type": "political",
+      "date": "2025-10"
+    },
+    {
+      "source": "harold-hamm",
+      "target": "continental-resources",
+      "label": "founder/chairman",
+      "type": "ownership",
+      "date": ""
+    },
+    {
+      "source": "bureau-of-land-management",
+      "target": "continental-resources",
+      "label": "drilling permits (incl. 71 wells in one county, per HCN)",
+      "type": "regulatory",
+      "date": "2025-2026"
+    },
+    {
+      "source": "jeff-yass",
+      "target": "maga-inc",
+      "label": "$16M ($1M Jan 2025, $15M Mar 2025)",
+      "type": "political",
+      "date": "2025-03",
+      "amount_usd": 16000000
+    },
+    {
+      "source": "jeff-yass",
+      "target": "susquehanna-international-group",
+      "label": "co-founder, ~51% owner",
+      "type": "ownership",
+      "date": ""
+    },
+    {
+      "source": "susquehanna-international-group",
+      "target": "bytedance",
+      "label": "reported ~15% stake",
+      "type": "ownership",
+      "date": ""
+    },
+    {
+      "source": "jeff-yass",
+      "target": "bytedance",
+      "label": "reported ~7% personal stake",
+      "type": "ownership",
+      "date": ""
+    },
+    {
+      "source": "vastmere-strategic-investments",
+      "target": "tiktok-usds-joint-venture",
+      "label": "investor (reported SIG affiliate)",
+      "type": "ownership",
+      "date": "2026-01-22"
+    },
+    {
+      "source": "susquehanna-international-group",
+      "target": "tiktok-usds-joint-venture",
+      "label": "board seat (Mark Dooley)",
+      "type": "ownership",
+      "date": "2026-01-22"
+    },
+    {
+      "source": "bytedance",
+      "target": "tiktok-usds-joint-venture",
+      "label": "retains 19.9%",
+      "type": "ownership",
+      "date": "2026-01-22"
+    },
+    {
+      "source": "donald-trump",
+      "target": "tiktok-usds-joint-venture",
+      "label": "approved by executive order",
+      "type": "regulatory",
+      "date": "2025-09-25"
+    },
+    {
+      "source": "susquehanna-international-group",
+      "target": "digital-world-acquisition-corp",
+      "label": "held ~2% before TMTG merger (market maker)",
+      "type": "ownership",
+      "date": "2024-03"
+    },
+    {
+      "source": "susquehanna-international-group",
+      "target": "trump-media-technology-group",
+      "label": "reported Truth API subscriber (C41)",
+      "type": "commercial",
+      "date": "2026-10"
+    },
+    {
+      "source": "house-natural-resources-democrats",
+      "target": "us-commerce-department",
+      "label": "asked whether Trump donors hold equity in stake companies",
+      "type": "political",
+      "date": "2026-02-02"
+    }
+  ],
+  "leads": [
+    {
+      "title": "Thomas Kaplan/Electrum: the biggest paper winner from the Trilogy stake",
+      "why_connected": "Electrum held ~18.5% of Trilogy (>$136M in March 2026), more than Paulson; his political giving and any contact with Interior/Alaska officials before the Oct 2025 stake were not checked.",
+      "entities": [
+        "thomas-kaplan",
+        "electrum-group",
+        "trilogy-metals"
+      ],
+      "source_url": "https://alaskabeacon.com/2026/03/09/after-spending-big-on-donlin-billionaire-sells-stake-in-company-with-ambler-prospects/"
+    },
+    {
+      "title": "USA Rare Earth PIPE allocation list",
+      "why_connected": "Only the senators' letter names Schwarzman, Griffin and Cohen; the PIPE resale registration (S-1/S-3 selling-stockholder table) would show actual buyers and allocation sizes.",
+      "entities": [
+        "usa-rare-earth",
+        "cantor-fitzgerald",
+        "stephen-schwarzman",
+        "ken-griffin",
+        "steven-a-cohen"
+      ],
+      "source_url": "https://www.warren.senate.gov/newsroom/press-releases/warren-wyden-van-hollen-sound-alarm-on-lutnick-familys-conflicts-of-interest-involving-new-commerce-rare-earth-deal/"
+    },
+    {
+      "title": "Lukoil International sale after the Nov 21 OFAC deadline",
+      "why_connected": "A DFC equity stake alongside a Trump donor (Boehly) and Tahnoon's IHC would be a direct federal-backing case; watch the next OFAC general license and any DFC board notice.",
+      "entities": [
+        "todd-boehly",
+        "us-dfc",
+        "international-holding-company",
+        "lukoil-international"
+      ],
+      "source_url": "https://interfax.com/newsroom/top-stories/119637/"
+    },
+    {
+      "title": "Agency answers to the House Natural Resources donor-equity question",
+      "why_connected": "The Feb 2026 letter asked agencies outright whether Trump donors hold equity in stake companies; any reply would settle this question.",
+      "entities": [
+        "house-natural-resources-democrats",
+        "us-commerce-department",
+        "pentagon",
+        "department-of-energy"
+      ],
+      "source_url": "https://democrats-naturalresources.house.gov/imo/media/doc/2026-02-02_moc_to_defense_commerce_energy_interior_re_mineral_equity_deals_oversight.pdf"
+    },
+    {
+      "title": "Susquehanna's multiple Trump-world touchpoints",
+      "why_connected": "Same firm appears as DWAC holder (2024), TikTok USDS investor/board member (2026), Truth API subscriber (2026) and via its founder as MAGA Inc.'s $16M donor.",
+      "entities": [
+        "susquehanna-international-group",
+        "jeff-yass",
+        "tiktok-usds-joint-venture",
+        "trump-media-technology-group"
+      ],
+      "source_url": "https://technical.ly/entrepreneurship/susquehanna-international-group-jeff-yass-tiktok-board/"
+    }
+  ],
+  "audit": {
+    "checked": [
+      "Paulson as Perpetua's largest holder and the $2.9B EXIM loan approval/close",
+      "Paulson's Trilogy Metals stake, the US $35.6M stake and his Q4 2025 exit",
+      "Yass/Susquehanna's position in the TikTok USDS joint venture (Vastmere, board seat)"
+    ],
+    "result": "upheld",
+    "changes": [
+      "Perpetua: upheld. EXIM's board approved $2.9B (largest 'Make More in America' loan), funds available only after definitive documents and conditions; no close found through Nov 2026. Added 13F-tracker figure of ~25-26% (32.3M shares, Q1 2026) for Paulson's holding.",
+      "Trilogy: upheld (8.7%, 14.3M shares sold in Q4 2025 per Bloomberg/13F; dates and prices undisclosed). Clarified that the $35.6M was split: only $17.8M went to Trilogy; the other $17.8M bought existing shares from South32. Relationship label updated.",
+      "TikTok/Yass: upheld. Vastmere Strategic Investments is named as a Susquehanna affiliate and SIG's Mark Dooley holds one of seven board seats; Oracle, Silver Lake and MGX hold 15% each and ByteDance 19.9%. Sources still disagree on the residual 'other investors' share; no change needed.",
+      "Label check: Paulson's ~$100M Perpetua paper gain is marked as our arithmetic; the USAR PIPE purchases are marked single-source; the Boehly consortium is marked single-source (FT)."
+    ],
+    "new_sources": [
+      {
+        "title": "Perpetua secures $2.9bn loan from US Export-Import Bank that fully funds Stibnite project",
+        "publisher": "Mining Weekly",
+        "url": "https://www.miningweekly.com/article/perpetua-secures-29bn-loan-from-us-export-import-bank-that-fully-funds-stibnite-project-2026-05-22",
+        "date": "2026-05-22"
+      },
+      {
+        "title": "John Paulson portfolio: Perpetua Resources holding history",
+        "publisher": "Trendlyne (13F aggregator)",
+        "url": "https://us.trendlyne.com/us/equity/holding-lookup/1554638/2158661/perpetua-resources-corp/john-paulson-portfolio",
+        "date": "2026"
+      },
+      {
+        "title": "US government to buy stake in Trilogy Metals",
+        "publisher": "Mining Technology",
+        "url": "https://www.mining-technology.com/news/us-government-buy-stake-trilogy-metals/",
+        "date": "2025-10"
+      },
+      {
+        "title": "Why Trilogy Metals Stock Is Crashing This Week",
+        "publisher": "The Motley Fool",
+        "url": "https://www.fool.com/investing/2026/02/19/why-trilogy-metals-stock-is-crashing-this-week/",
+        "date": "2026-02-19"
+      },
+      {
+        "title": "What you should know about the owners of US TikTok",
+        "publisher": "TechCrunch",
+        "url": "https://techcrunch.com/2026/01/27/what-you-should-know-about-the-owners-of-us-tiktok",
+        "date": "2026-01-27"
+      }
+    ]
+  }
+}

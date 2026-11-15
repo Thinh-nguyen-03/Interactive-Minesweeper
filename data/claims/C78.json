@@ -1,0 +1,1382 @@
+{
+  "id": "C78",
+  "title": "The SPAC web: McGurn, Yorkville, Texas Ventures, Clear Street",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "The SPAC web is real and larger than the claim: Yorkville controls four blank-cheque vehicles (MCGA, Texas Ventures III, Blue Water III, Yorkville International), McGurn is CEO of at least three of them while serving as TMTG interim CEO (and ran Texas Ventures III until Apr 22, 2026), and Trump Organization EVPs Glick and Garten sit on Texas Ventures III's board, which is merging with PlusAI at $800M. Two parts of the claim are off: McGurn resigned from the Trump sons' New America SPAC on Aug 5, 2026 (Dominari's Kyle Wool now runs it), and the Dominari/D. Boral underwriting cluster is separate from the Yorkville cluster, joined only through McGurn. Clear Street's tie is limited to the TMTG raise, and its IPO was postponed in Feb 2026. No Truth Social crypto ETF approval was found. The governance overlaps are documented; no source shows a transaction benefiting the Trump family beyond the sons' NWAX founder shares.",
+  "sub_claims": [
+    {
+      "statement": "Kevin McGurn has run or sat on the board of at least six blank-cheque vehicles since 2025, four of them sponsored by Yorkville, while also advising and then running Trump Media.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented (SEC filings and company releases via search snippets; sec.gov was not read directly). The roles: (1) CEO and director of Yorkville Acquisition Corp (MCGA) since Mar 31, 2025. (2) CEO of Blue Water Acquisition Corp III after Yorkville BW Acquisition Sponsor took it over in Nov 2025; the roic.ai filing profile lists him first among the new directors. (3) CEO and director of Yorkville International Capital Corp (YICC), which priced its IPO in June 2026; Renaissance Capital's IPO note calls him 'Interim CEO of Trump Media & Technology Group'. (4) Chairman, CEO and CFO, then CEO, of the Trump sons' New America Acquisition I (NWAX), and sole member of its sponsor, until he resigned on Aug 5, 2026. (5) Director of D. Boral Acquisition I, where he sat with Pentagon official George Kollitides (C74). (6) CEO of Texas Ventures Acquisition III from the Sept 2025 Yorkville takeover until he resigned 'effective immediately' on Apr 22, 2026, the day after he became TMTG interim CEO; the 8-K says the resignation was not due to any disagreement, and Troy Rillo was appointed CEO while staying CFO (TVA III 8-K, Apr 2026; audit). That is why the Sept 2026 PlusAI release names Rillo. He has advised TMTG since Dec 2024 and became interim CEO on Apr 21, 2026. These roles show heavy concentration in one person, not wrongdoing. SPAC officers often hold several posts, and conflicts are disclosed in the prospectuses.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/2064658/000110465926037697/mcga-20251231x10k.htm",
+        "https://www.roic.ai/quote/BLUWU",
+        "https://www.renaissancecapital.com/IPO-Center/News/119848/spac-yorkville-international-capital-prices-200-million-ipo-targeting",
+        "https://www.sec.gov/Archives/edgar/data/0002074878/000149315226036181/form8-k.htm",
+        "https://news.bgov.com/bloomberg-government-news/pentagon-investment-arm-director-joined-firm-with-defense-ties",
+        "https://wendysiegelman.substack.com/p/two-trump-org-execs-and-two-trump",
+        "https://www.thewrap.com/media-platforms/journalism/trump-media-company-kevin-mcgurn-interim-ceo/",
+        "https://www.sec.gov/Archives/edgar/data/0002033991/000110465926048534/tm2612658d1_8k.htm"
+      ]
+    },
+    {
+      "statement": "Texas Ventures Acquisition III was taken over by a Yorkville sponsor, and Trump Organization executives sit on its board.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented (8-K and FY2025 10-K via search snippets). TVA III closed a $225M IPO (22.5M units) in April 2025 under E. Scott Crist's TV Partners III. Under a Sept 18, 2025 purchase agreement, Yorkville Acquisition Sponsor II, LLC bought 7,500,000 Class B founder shares and 4,700,000 private warrants for $7.4M. That is about $0.99 for each founder share with warrants attached, against $10 per public unit. The whole prior board resigned. The 10-K lists Lawrence Glick (Trump Organization EVP of Development) and Alan Garten (Trump Organization EVP and Chief Legal Officer) as directors, with Mark Angelo as chairman and Omar Hasan as a director. Insider listings name Troy Rillo, a Yorkville Securities co-CEO, as CFO. Then-TMTG CEO Devin Nunes and TMTG general counsel Scott Glabe were also directors: a TVA III 8-K (date of report 23 Feb 2026, seen via search-result summaries on Stock Titan/Quantisnow) reports that Glabe and Nunes resigned from the board and its audit and compensation committees, and that Garten and Glick were appointed to those committees. Their directorships are therefore documented, ending Feb 2026 (audit correction; previously single-source). McGurn was CEO until Apr 22, 2026 and Rillo has been CEO and CFO since (8-K). I found no compensation figures for Glick or Garten.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/0002033991/000110465925092948/tm2526796d1_8k.htm",
+        "https://www.sec.gov/Archives/edgar/data/0002033991/000110465926043863/tva-20251231x10k.htm",
+        "https://www.nasdaq.com/press-release/texas-ventures-acquisition-iii-corp-completes-225-million-initial-public-offering",
+        "https://www.marketscreener.com/news/texas-ventures-acquisition-iii-corp-announces-board-changes-effective-september-18-2025-ce7d5bdfda8ff023",
+        "https://www.tipranks.com/news/company-announcements/texas-ventures-undergoes-major-sponsorship-and-management-shift",
+        "https://newstracs.com/trump-org-and-trump-media-execs-are-directors-of-texas-ventures-acquisition-iii-corp/2026/01/16/",
+        "https://wendysiegelman.substack.com/p/two-trump-org-execs-and-two-trump",
+        "https://www.stocktitan.net/sec-filings/TVA/8-k-texas-ventures-acquisition-iii-corp-reports-material-event-2566adb1a983.html",
+        "https://www.sec.gov/Archives/edgar/data/0002033991/000110465926048534/tm2612658d1_8k.htm"
+      ]
+    },
+    {
+      "statement": "Texas Ventures III's target: PlusAI autonomous-trucking software, at an $800M pre-money valuation, with Yorkville financing.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented (company release syndicated by Reuters/The Star, FreightWaves, Trucking Dive; S-4 filed Oct 9, 2026). The merger agreement was signed Sept 2-3, 2026. It values Plus Automation Inc. at about $800M pre-money and is backed by up to about $300M: more than $60M committed, including a significant commitment from funds managed by Yorkville Advisors Global, plus about $236M in trust. PlusAI's earlier $1.2B deal with Churchill Capital IX was mutually terminated on Apr 20-21, 2026, so this is PlusAI's third SPAC attempt. An aggregator reports that shareholders extended the deadline from Oct 24, 2026 to Jul 24, 2027 and redeemed 17,699,488 Class A shares, leaving about 4.8M. That is unverified against the filing, but if true most of the trust has left. I found no Trump-administration action involving PlusAI. Any federal autonomous-trucking policy angle is not documented, so I am not asserting one.",
+      "sources": [
+        "https://www.thestar.com.my/tech/tech-news/2026/09/03/autonomous-trucking-software-firm-plusai-to-go-public-in-800-million-spac-deal",
+        "https://www.freightwaves.com/news/plusai-texas-ventures-spac-close",
+        "https://www.truckingdive.com/news/plusai-plans-merger-with-texas-ventures-acquisition/829637/?.tsrc=rss",
+        "https://www.sec.gov/Archives/edgar/data/0002033991/000119312526418671/ck0002033991-20261009.htm",
+        "https://www.freightwaves.com/news/plusai-spac-termination-churchill-capital-ix",
+        "https://www.businesswire.com/news/home/20260421921727/en"
+      ]
+    },
+    {
+      "statement": "Blue Water Acquisition Corp III, a $10B Citgo bidder, was taken over by Yorkville with TMTG's CEO and general counsel on its board.",
+      "verdict": "mostly-accurate",
+      "finding": "Evidence grade: the sponsor change is documented (8-K); the board composition is documented for McGurn (roic.ai filing profile) and single-source for Nunes, Scott Glabe and Angelo (Siegelman/NewsTRACS; roic.ai's listing is truncated after 'Kevin McGurn, Devin Nunes, Scott'). BLUW closed a $253M IPO (25.3M units) in June 2025. Under founder Joseph Hernandez it made a roughly $10B bid in September 2025 for PDV Holding, the Citgo parent, in the Delaware court auction, and dropped it by mid-November. Yorkville BW Acquisition Sponsor, LLC then bought control. Siegelman puts the price at $7.2M, single-source. The prior board and officers resigned. The court approved the sale to Elliott's Amber Energy at about $5.9B in Nov 2025. Fortune (Sept 2026) reports that OFAC has since blocked further leadership changes at Citgo's parents. I found no evidence that the Yorkville-run BLUW pursued Citgo after the takeover, and no announced target. Siegelman says she could find no explanation of how BLUW could fund a $10B bid.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/0002050501/000110465925116938/tm2532368d1_8k.htm",
+        "https://www.roic.ai/quote/BLUWU",
+        "https://www-web.itiger.com/news/2542531067",
+        "https://wendysiegelman.substack.com/p/devin-nunes-and-others-linked-to?",
+        "https://newstracs.com/devin-nunes-and-others-linked-to-trump-media-are-officers-of-a-company-that-bid-for-citgo/2026/01/01/",
+        "https://fortune.com/2026/09/27/trump-citgo-elliott-management-venezuela/"
+      ]
+    },
+    {
+      "statement": "Yorkville International Capital, a McGurn-led SPAC aimed at Venezuela, drew a Senate Finance inquiry.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented (Senate Finance release and letter; Renaissance Capital; SPACInsider). YICC was formed in March 2026 and filed its S-1 on May 14, 2026. It priced a $200M IPO (20M units) in June 2026, targeting emerging markets 'with a particular emphasis on Latin America and Venezuela'. Units split into YICC/YICCW from Jul 13, 2026. Officers: McGurn (CEO), Rillo (CFO), Angelo (chairman). Cohen & Company Capital Markets was sole book-runner. On Jun 25, 2026 Sen. Ron Wyden wrote to Angelo. He argued that Yorkville stands to profit after the administration loosened Venezuela sanctions, raised sanctions and human-rights concerns, and asked whether Yorkville had sought or received an OFAC license. Wyden's framing that it 'shares a CEO with Trump Media' is accurate. I found no Yorkville reply and no OFAC licence on record. The inquiry is a minority-party letter, not an enforcement action.",
+      "sources": [
+        "https://www.finance.senate.gov/ranking-members-news/wyden-launches-inquiry-into-trump-connected-blank-check-company-planning-venezuela-investments",
+        "https://www.finance.senate.gov/download/wyden-letter-to-yorkville-advisors-global&download=1",
+        "https://www.renaissancecapital.com/IPO-Center/News/119848/spac-yorkville-international-capital-prices-200-million-ipo-targeting",
+        "https://old.spacinsider.com/2026/06/15/yorkville-international-capital-corp-yiccu-prices-200m-ipo/"
+      ]
+    },
+    {
+      "statement": "Yorkville Acquisition Corp (MCGA), the vehicle for the Trump Media CRO treasury, has $181M in trust and no deal after the termination.",
+      "verdict": "mostly-accurate",
+      "finding": "Evidence grade: documented (10-Q/10-K figures via search snippets; termination per Axios/Decrypt, see C41/C63). MCGA sold 17.25M units at $10 on Jun 30, 2025 ($172.5M), plus 351,825 private units to its Yorkville sponsor for $3.52M, putting $173.36M ($10.05 a share) in trust. The trust was $181.17M at Sep 30, 2026. The Trump Media Group CRO Strategy combination (about $6.42B including a $5B Yorkville equity line) was mutually terminated on Aug 7, 2026. I found no new target, extension vote or liquidation in search results, so the current status is unverified. The Q1 2026 10-Q flagged going-concern risk.",
+      "sources": [
+        "https://www.investing.com/news/sec-filings/yorkville-acquisition-corp-completes-1725-million-ipo-and-private-placement-93CH-4125529",
+        "https://www.sec.gov/Archives/edgar/data/2064658/000110465926127113/mcga-20260930x10q.htm",
+        "https://www.sec.gov/Archives/edgar/data/2064658/000110465926037697/mcga-20251231x10k.htm",
+        "https://axios.com/2026/08/07/trump-media-crypto-treasury-deals",
+        "https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market"
+      ]
+    },
+    {
+      "statement": "McGurn left the Trump sons' New America Acquisition I and Dominari's Kyle Wool took over. Ex-White House ethics lawyer Stefan Passantino joined the board.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented (8-K and company releases). On Feb 6, 2026, Kyle Wool, president of Dominari Securities (co-underwriter of NWAX and the Trump sons' broker, C39), became chairman, and Stefan Passantino joined as an independent director. McGurn stayed CEO and director and resigned both posts effective Aug 5, 2026, 'not the result of any disagreement'. Wool became CEO and the board went from six to five. CFO George O'Leary left effective Aug 26, 2026, replaced by Tim Ledwick (CFO) and Christopher Devall (COO). Control of the Trump sons' SPAC thus moved from the Yorkville/TMTG executive to the Dominari executive. A Trump Organization spokesperson, quoted by Siegelman, said the sons 'have no involvement with Yorkville' and that McGurn had already stepped down from NWAX. Read against the filings, that statement looks premature or refers to the chairmanship, so its timing is unverified. Passantino also joined the board of JFB Construction, the XTEND drone merger vehicle Eric Trump invested in (C51 lead, Al Jazeera). His recurrence across two Trump-son vehicles is our cross-reference. His earlier role as Trump White House deputy counsel for compliance and ethics is widely reported but was not re-sourced here. As of the latest reports (Trefis, July 2026), NWAX has no announced target.",
+      "sources": [
+        "https://am590theanswer.com/news/business/new-america-acquisition-i-corp-appoints-kyle-wool-as-chairman-and-adds-stefan-pa/8739333ad40ba1c8b1cfda07cd41a012",
+        "https://www.sec.gov/Archives/edgar/data/0002074878/000149315226036181/form8-k.htm",
+        "https://finviz.com/news/377913/new-america-acquisition-i-corp-announces-leadership-transition-kyle-wool-appointed-chief-executive-officer",
+        "https://www.quiverquant.com/news/New+America+Acquisition+I+Corp.+Appoints+Tim+Ledwick+as+CFO+and+Christopher+Devall+as+COO",
+        "https://www.sec.gov/Archives/edgar/data/2074878/000149315226014178/form10-k.htm",
+        "https://www.trefis.com/data/companies/NWAX",
+        "https://wendysiegelman.substack.com/p/two-trump-org-execs-and-two-trump",
+        "https://www.aljazeera.com/economy/2026/2/17/us-presidents-son-eric-trump-invests-in-drone-maker-with-govt-contracts"
+      ]
+    },
+    {
+      "statement": "Founder-share economics: the Trump sons hold 5M NWAX founder shares worth about $50M on paper, and Yorkville bought SPAC founder blocks for well under $1 a share.",
+      "verdict": "mostly-accurate",
+      "finding": "Evidence grade: documented (S-1 via AP/Reuters; TVA 8-K); the purchase price of the sons' shares is unverified. Per the NWAX S-1, Eric Trump holds an indirect interest in 3,000,000 founder shares and Don Jr. in 2,000,000, through membership interests in New America Sponsor I LLC (formed in Florida May 27, 2025). McGurn received an interest in 1,000,000. AP valued the sons' 5M at up to about $50M at $10, before any merger. Founder shares usually convert only on a completed deal and are worth nothing if the SPAC liquidates. I could not find what, if anything, the sons paid; the common $25,000 sponsor price was not confirmed. For comparison, Yorkville paid $7.4M for 7.5M TVA III founder shares plus 4.7M warrants and a reported $7.2M for BLUW's sponsor stake. That is founder equity at roughly a tenth of the public price, which is standard SPAC economics, not a Trump-specific benefit. I found no founder-share grants to the Trump Organization directors of TVA III.",
+      "sources": [
+        "https://www.news4jax.com/business/2025/08/04/company-advised-by-trump-sons-said-it-hoped-to-benefit-from-fed-money-then-took-it-back/",
+        "https://finance.yahoo.com/news/eric-trump-jr-backed-manufacturing-152853627.html",
+        "https://wendysiegelman.substack.com/p/eric-and-don-jr-partner-with-dominari",
+        "https://www.sec.gov/Archives/edgar/data/0002033991/000110465925092948/tm2526796d1_8k.htm",
+        "https://wendysiegelman.substack.com/p/two-trump-org-execs-and-two-trump"
+      ]
+    },
+    {
+      "statement": "D. Boral Capital and Dominari are the recurring underwriters for the Trump-sons/McGurn vehicles, and D. Boral runs its own SPAC with McGurn on the board.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented (company releases, Bloomberg Government, 8-Ks; see C27, C39, C74). Dominari Securities and D. Boral Capital were co-lead book-runners on NWAX's $345M IPO (Dec 2025). D. Boral Capital was sole book-runner on its affiliate D. Boral Acquisition I's $287.5M IPO (Feb 2026). McGurn is a director there, with Luisa Ingargiola, and was named to its audit and compensation committees in a Nov 6, 2026 8-K. The Pentagon's Kollitides was a director from Feb 10 to Sep 23, 2026. Both Dominari and D. Boral received the House China committee's March 2026 letter on Chinese small-cap IPOs (C47). The Yorkville-sponsored SPACs used other banks: Cohen & Company led YICC. I found no D. Boral or Dominari role in MCGA, TVA III or BLUW, so the 'recurring sponsor/underwriter' framing holds for the Dominari/D. Boral pair and for Yorkville as sponsor, but these are two separate clusters joined through McGurn.",
+      "sources": [
+        "https://www.accessnewswire.com/newsroom/en/banking-and-financial-services/d.-boral-capital-acted-as-co-lead-bookrunner-to-new-america-acquisit-1115436",
+        "https://finviz.com/news/309854/d-boral-acquisition-i-corp-announces-closing-of-287500000-initial-public-offering-including-full-exercise-of-underwriters-over-allotment-option",
+        "https://www.sec.gov/Archives/edgar/data/0002095161/000121390026116912/ea0309298-8k_dboralacq1.htm",
+        "https://news.bgov.com/bloomberg-government-news/pentagon-investment-arm-director-joined-firm-with-defense-ties"
+      ]
+    },
+    {
+      "statement": "Clear Street, co-lead agent on Trump Media's bitcoin raise and a leading crypto-treasury underwriter, launched a $1B IPO and then postponed it.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented (TMTG release; Reuters via syndication; IPOScoop; DL News; Cointelegraph/FT). Clear Street was co-lead placement agent with Yorkville Securities on TMTG's roughly $2.44B May 2025 bitcoin-treasury raise. Reuters describes it as underwriter on several Strategy offerings and for TMTG. Its Nasdaq IPO (CLRS) launched in early February 2026 at 23.8M shares for $40-44, up to about $1.05B at a valuation of up to $11.8B, with Goldman, BofA, Morgan Stanley and UBS. It was cut on Feb 12 to about 13M shares at $26-28 (roughly $351-364M) and postponed the same day, citing market conditions. Bitcoin was about 30% off its October 2025 high. I found no relaunch through Nov 2026. I found no Trump-era regulatory decision involving Clear Street and no role for it in the SPACs mapped here. Its Trump tie is the TMTG raise alone.",
+      "sources": [
+        "https://www.theblock.co/post/355829/trump-media-establishes-corporate-bitcoin-treasury-with-2-5-billion-offering",
+        "https://www.itiger.com/news/2611218605",
+        "https://www.itiger.com/news/1127284580",
+        "https://www.iposcoop.com/?p=37748",
+        "https://www.dlnews.com/articles/deals/dat-underwriter-clear-street-reportedly-going-public-next-year/",
+        "https://cointelegraph.com/news/clear-street-prepares-10b-ipo-as-crypto-treasury-boom-falters"
+      ]
+    },
+    {
+      "statement": "Cohen & Company Capital Markets and Troy Rillo/Yorkville Securities link the TMTG bitcoin raise to the Yorkville SPACs.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: each fact documented; the linkage is inferred. Cohen & Company Capital Markets was co-placement agent on TMTG's May 2025 raise and sole book-runner on YICC's $200M IPO in June 2026. Troy Rillo is co-CEO and director of Yorkville Securities (co-lead agent on the TMTG raise), CFO of YICC and CFO of TVA III, and was named CEO of TVA III in the PlusAI release. A quantisnow item also shows him as a CFO buying MCGA Class A shares (single-source). So the same Yorkville team placed TMTG stock with investors and runs the SPACs that Trump Media and Trump Organization executives sit on. No source draws that line explicitly.",
+      "sources": [
+        "https://www.theblock.co/post/355829/trump-media-establishes-corporate-bitcoin-treasury-with-2-5-billion-offering",
+        "https://www.renaissancecapital.com/IPO-Center/News/119848/spac-yorkville-international-capital-prices-200-million-ipo-targeting",
+        "https://www.thestar.com.my/tech/tech-news/2026/09/03/autonomous-trucking-software-firm-plusai-to-go-public-in-800-million-spac-deal",
+        "https://www.tipranks.com/news/company-announcements/texas-ventures-undergoes-major-sponsorship-and-management-shift"
+      ]
+    },
+    {
+      "statement": "SEC review status of the Truth Social crypto ETFs: no approval found; the filings were repeatedly delayed and then refiled.",
+      "verdict": "mostly-accurate",
+      "finding": "Evidence grade: documented through Feb 2026 (The Block, Cointelegraph); status after that is unverified. NYSE Arca filed the 19b-4 for the Yorkville America Digital-sponsored Truth Social Bitcoin ETF on Jun 3, 2025. The SEC extended its review in Aug 2025, and the final deadline was about Jan 29, 2026. The Bitcoin & Ethereum ETF (June 2025, 75/25) and the Crypto Blue Chip ETF S-1 (July 2025: BTC, ETH, SOL, CRO, XRP) were also delayed. On Feb 13, 2026 Yorkville America Equities filed two new products: a Bitcoin and Ether ETF (about 60/40, Nasdaq) and a Truth Social Cronos Yield Maximizer ETF. A Feb 2026 report said none had launched, and I found no approval or launch since. Foris DAX (Crypto.com) was the named custodian, but TMTG, Crypto.com and Yorkville ended Crypto.com's servicing of Yorkville America ETFs on Aug 7, 2026 (C41), so the custody arrangement for any launch is unclear. The non-crypto Truth Social equity ETFs launched Dec 30, 2025 (C24). The SEC record shows procedural delays, not favorable treatment.",
+      "sources": [
+        "https://cointelegraph.com/news/trump-truth-social-files-spot-bitcoin-etf",
+        "https://www.theblock.co/amp/post/364454/us-sec-delays-decision-on-trumps-truth-social-bitcoin-etf",
+        "https://www.theblock.co/post/367274/sec-delays-decisions-on-truth-socials-bitcoin-and-ethereum-etf-along-with-xrp-and-litecoin-funds",
+        "https://www.theblock.co/post/361562/trumps-truth-social-files-with-sec-to-launch-crypto-blue-chip-etf-tracking-btc-eth-sol-xrp-and-cro",
+        "https://www.theblock.co/news/regulation/2026-02-13-trump-media-and-technology-group-files-two-new-crypto-etf-proposals-following-sec-delay-389896",
+        "https://etfdb.com/news/2025/12/30/5-truth-social-etfs-launch-anti-dei-screening/"
+      ]
+    },
+    {
+      "statement": "Trump Organization and Trump Media executives sit on SPAC boards controlled by Trump Media's own largest financier.",
+      "verdict": "partly-accurate",
+      "finding": "Evidence grade: the board seats are documented for Glick and Garten (TVA III 10-K) and McGurn (BLUW, YICC, MCGA), documented for Nunes and Glabe at TVA III (until their Feb 2026 resignations, per 8-K) and single-source for Nunes and Glabe at BLUW. The characterization is inferred. Yorkville bought about $450M of TMTG stock under its 2024 equity line, co-led its 2025 raise, sponsors its ETFs and was partner in the CRO SPAC (C62). In 2025-26 it installed TMTG's CEO, TMTG's general counsel, TMTG's adviser and later interim CEO, and the Trump Organization's chief legal officer and development chief on the boards of SPACs it controls. No source reports what these directors are paid, whether they hold founder shares, or whether any Trump entity benefits. The Trump Organization says the sons have no involvement with Yorkville. This shows overlapping governance between a financier and its client, which is a conflict-of-interest question. It is not evidence of any transaction.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/0002033991/000110465926043863/tva-20251231x10k.htm",
+        "https://www.roic.ai/quote/BLUWU",
+        "https://wendysiegelman.substack.com/p/two-trump-org-execs-and-two-trump",
+        "https://newstracs.com/trump-org-and-trump-media-execs-are-directors-of-texas-ventures-acquisition-iii-corp/2026/01/16/",
+        "https://www.renaissancecapital.com/IPO-Center/News/119848/spac-yorkville-international-capital-prices-200-million-ipo-targeting"
+      ]
+    }
+  ],
+  "corrections": [
+    "The claim says McGurn runs New America Acquisition I while TMTG interim CEO: he resigned as its CEO and director effective Aug 5, 2026, and Kyle Wool, who became chairman Feb 6, 2026, is now CEO.",
+    "The claim says McGurn runs Texas Ventures III: he did, from the Sept 2025 Yorkville takeover until he resigned as CEO on Apr 22, 2026 (8-K), the day after becoming TMTG interim CEO. Troy Rillo has been CEO and CFO since. (The original pass had marked this unverified.)",
+    "The claim lists D. Boral, Dominari and Yorkville as recurring sponsors/underwriters together: Dominari/D. Boral underwrote NWAX and D. Boral's own SPAC, while the Yorkville SPACs used Cohen & Company (YICC) and no Dominari/D. Boral role was found in them.",
+    "C62 lists Texas Ventures III's Trump Org directors as single-source: the FY2025 10-K names Lawrence Glick and Alan Garten, so this is documented. Nunes and Glabe were also TVA III directors until they resigned in Feb 2026 (8-K), so that is documented too.",
+    "Clear Street's IPO was not completed: it was cut from about $1.05B to about $351-364M and postponed on Feb 12, 2026."
+  ],
+  "denials_and_context": [
+    "A Trump Organization spokesperson (quoted by Siegelman) said Eric Trump and Donald Trump Jr. have no involvement with Yorkville.",
+    "McGurn's NWAX resignation was 'not the result of any disagreement' per the 8-K.",
+    "Cheap founder shares, multiple SPAC directorships and sponsor changes are standard SPAC practice, and conflicts are disclosed in prospectuses. Nothing here shows a regulatory favour.",
+    "The SEC's handling of the Truth Social crypto ETFs shows repeated delay, not favourable treatment.",
+    "Wyden's letter is a minority-party inquiry; Yorkville's reply, if any, was not found.",
+    "sec.gov, newstracs.com and the Siegelman Substack were not read directly. Filing details come from search-result snippets and secondary summaries."
+  ],
+  "sources": [
+    {
+      "title": "Texas Ventures Acquisition III Corp 8-K (sponsor purchase agreement)",
+      "publisher": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/0002033991/000110465925092948/tm2526796d1_8k.htm",
+      "date": "2025-09-18"
+    },
+    {
+      "title": "Texas Ventures Acquisition III Corp Form 10-K FY2025",
+      "publisher": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/0002033991/000110465926043863/tva-20251231x10k.htm",
+      "date": "2026-03-31"
+    },
+    {
+      "title": "Texas Ventures Acquisition III Corp Form S-4",
+      "publisher": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/0002033991/000119312526418671/ck0002033991-20261009.htm",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Texas Ventures Acquisition III Corp Completes $225 Million Initial Public Offering",
+      "publisher": "Nasdaq / company release",
+      "url": "https://www.nasdaq.com/press-release/texas-ventures-acquisition-iii-corp-completes-225-million-initial-public-offering",
+      "date": "2025-04"
+    },
+    {
+      "title": "Texas Ventures Acquisition III Corp Announces Board Changes, Effective September 18, 2025",
+      "publisher": "MarketScreener",
+      "url": "https://www.marketscreener.com/news/texas-ventures-acquisition-iii-corp-announces-board-changes-effective-september-18-2025-ce7d5bdfda8ff023",
+      "date": "2025-09-18"
+    },
+    {
+      "title": "Texas Ventures undergoes major sponsorship and management shift",
+      "publisher": "TipRanks",
+      "url": "https://www.tipranks.com/news/company-announcements/texas-ventures-undergoes-major-sponsorship-and-management-shift",
+      "date": "2025-09"
+    },
+    {
+      "title": "Autonomous trucking software firm PlusAI to go public in $800 million SPAC deal",
+      "publisher": "Reuters via The Star",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/03/autonomous-trucking-software-firm-plusai-to-go-public-in-800-million-spac-deal",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "PlusAI targets year-end close on $800M Texas Ventures SPAC",
+      "publisher": "FreightWaves",
+      "url": "https://www.freightwaves.com/news/plusai-texas-ventures-spac-close",
+      "date": "2026-09"
+    },
+    {
+      "title": "PlusAI plans merger with Texas Ventures Acquisition",
+      "publisher": "Trucking Dive",
+      "url": "https://www.truckingdive.com/news/plusai-plans-merger-with-texas-ventures-acquisition/829637/?.tsrc=rss",
+      "date": "2026-09"
+    },
+    {
+      "title": "PlusAI terminates SPAC deal with Churchill Capital IX",
+      "publisher": "FreightWaves",
+      "url": "https://www.freightwaves.com/news/plusai-spac-termination-churchill-capital-ix",
+      "date": "2026-04-21"
+    },
+    {
+      "title": "PlusAI and Churchill Capital Corp IX Terminate Business Combination",
+      "publisher": "Business Wire",
+      "url": "https://www.businesswire.com/news/home/20260421921727/en",
+      "date": "2026-04-21"
+    },
+    {
+      "title": "Two Trump Org execs and two Trump Media execs are directors of Texas Ventures Acquisition III",
+      "publisher": "Wendy Siegelman (Substack)",
+      "url": "https://wendysiegelman.substack.com/p/two-trump-org-execs-and-two-trump",
+      "date": "2026-01"
+    },
+    {
+      "title": "Trump-linked execs are directors of Texas Ventures Acquisition III",
+      "publisher": "NewsTRACS",
+      "url": "https://newstracs.com/trump-org-and-trump-media-execs-are-directors-of-texas-ventures-acquisition-iii-corp/2026/01/16/",
+      "date": "2026-01-16"
+    },
+    {
+      "title": "Devin Nunes and others linked to Trump Media are officers of a company that bid for Citgo",
+      "publisher": "Wendy Siegelman (Substack)",
+      "url": "https://wendysiegelman.substack.com/p/devin-nunes-and-others-linked-to?",
+      "date": "2026-01"
+    },
+    {
+      "title": "Devin Nunes and others linked to Trump Media are officers of a company that bid for Citgo",
+      "publisher": "NewsTRACS",
+      "url": "https://newstracs.com/devin-nunes-and-others-linked-to-trump-media-are-officers-of-a-company-that-bid-for-citgo/2026/01/01/",
+      "date": "2026-01-01"
+    },
+    {
+      "title": "Blue Water Acquisition Corp III 8-K (sponsor purchase agreement)",
+      "publisher": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/0002050501/000110465925116938/tm2532368d1_8k.htm",
+      "date": "2025-11"
+    },
+    {
+      "title": "Blue Water Acquisition Corp III profile",
+      "publisher": "roic.ai",
+      "url": "https://www.roic.ai/quote/BLUWU",
+      "date": "2026"
+    },
+    {
+      "title": "Blue Water Acquisition III Closes $253 Million IPO",
+      "publisher": "MT Newswires via Tiger",
+      "url": "https://www-web.itiger.com/news/2542531067",
+      "date": "2025-06"
+    },
+    {
+      "title": "Trump, Citgo, Elliott Management and Venezuela",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/2026/09/27/trump-citgo-elliott-management-venezuela/",
+      "date": "2026-09-27"
+    },
+    {
+      "title": "Yorkville Acquisition Corp. completes $172.5 million IPO and private placement",
+      "publisher": "Investing.com",
+      "url": "https://www.investing.com/news/sec-filings/yorkville-acquisition-corp-completes-1725-million-ipo-and-private-placement-93CH-4125529",
+      "date": "2025-07"
+    },
+    {
+      "title": "Yorkville Acquisition Corp 10-Q (Sep 30, 2026)",
+      "publisher": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/2064658/000110465926127113/mcga-20260930x10q.htm",
+      "date": "2026-11"
+    },
+    {
+      "title": "Yorkville Acquisition Corp 10-K FY2025",
+      "publisher": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/2064658/000110465926037697/mcga-20251231x10k.htm",
+      "date": "2026-03-31"
+    },
+    {
+      "title": "Trump Media drops crypto treasury deals",
+      "publisher": "Axios",
+      "url": "https://axios.com/2026/08/07/trump-media-crypto-treasury-deals",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Trump Media abandons crypto treasury, prediction market plans",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Wyden launches inquiry into Trump-connected blank check company planning Venezuela investments",
+      "publisher": "Senate Finance Committee",
+      "url": "https://www.finance.senate.gov/ranking-members-news/wyden-launches-inquiry-into-trump-connected-blank-check-company-planning-venezuela-investments",
+      "date": "2026-06-25"
+    },
+    {
+      "title": "Wyden letter to Yorkville Advisors Global",
+      "publisher": "Senate Finance Committee",
+      "url": "https://www.finance.senate.gov/download/wyden-letter-to-yorkville-advisors-global&download=1",
+      "date": "2026-06-25"
+    },
+    {
+      "title": "SPAC Yorkville International Capital prices $200 million IPO",
+      "publisher": "Renaissance Capital",
+      "url": "https://www.renaissancecapital.com/IPO-Center/News/119848/spac-yorkville-international-capital-prices-200-million-ipo-targeting",
+      "date": "2026-06"
+    },
+    {
+      "title": "Yorkville International Capital Corp. (YICCU) Prices $200M IPO",
+      "publisher": "SPACInsider",
+      "url": "https://old.spacinsider.com/2026/06/15/yorkville-international-capital-corp-yiccu-prices-200m-ipo/",
+      "date": "2026-06-15"
+    },
+    {
+      "title": "New America Acquisition I Corp 8-K (McGurn resignation)",
+      "publisher": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/0002074878/000149315226036181/form8-k.htm",
+      "date": "2026-08"
+    },
+    {
+      "title": "New America Acquisition I Corp announces leadership transition; Kyle Wool appointed CEO",
+      "publisher": "Finviz / company release",
+      "url": "https://finviz.com/news/377913/new-america-acquisition-i-corp-announces-leadership-transition-kyle-wool-appointed-chief-executive-officer",
+      "date": "2026-08"
+    },
+    {
+      "title": "New America Acquisition I Corp. Appoints Kyle Wool as Chairman and Adds Stefan Passantino as Independent Director",
+      "publisher": "ACCESS Newswire via AM590",
+      "url": "https://am590theanswer.com/news/business/new-america-acquisition-i-corp-appoints-kyle-wool-as-chairman-and-adds-stefan-pa/8739333ad40ba1c8b1cfda07cd41a012",
+      "date": "2026-02-06"
+    },
+    {
+      "title": "New America Acquisition I Corp 10-K FY2025",
+      "publisher": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/2074878/000149315226014178/form10-k.htm",
+      "date": "2026"
+    },
+    {
+      "title": "New America Acquisition I Corp. Appoints Tim Ledwick as CFO and Christopher Devall as COO",
+      "publisher": "Quiver Quantitative",
+      "url": "https://www.quiverquant.com/news/New+America+Acquisition+I+Corp.+Appoints+Tim+Ledwick+as+CFO+and+Christopher+Devall+as+COO",
+      "date": "2026-08"
+    },
+    {
+      "title": "NWAX company data",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/data/companies/NWAX",
+      "date": "2026-07"
+    },
+    {
+      "title": "Company advised by Trump sons said it hoped to benefit from fed money, then took it back",
+      "publisher": "Associated Press via News4Jax",
+      "url": "https://www.news4jax.com/business/2025/08/04/company-advised-by-trump-sons-said-it-hoped-to-benefit-from-fed-money-then-took-it-back/",
+      "date": "2025-08-04"
+    },
+    {
+      "title": "Eric and Trump Jr-backed manufacturing SPAC files for $300 million US IPO",
+      "publisher": "Reuters via Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/eric-trump-jr-backed-manufacturing-152853627.html",
+      "date": "2025-08-04"
+    },
+    {
+      "title": "Eric and Don Jr partner with Dominari",
+      "publisher": "Wendy Siegelman (Substack)",
+      "url": "https://wendysiegelman.substack.com/p/eric-and-don-jr-partner-with-dominari",
+      "date": "2025"
+    },
+    {
+      "title": "D. Boral Capital acted as co-lead bookrunner to New America Acquisition I Corp",
+      "publisher": "ACCESS Newswire",
+      "url": "https://www.accessnewswire.com/newsroom/en/banking-and-financial-services/d.-boral-capital-acted-as-co-lead-bookrunner-to-new-america-acquisit-1115436",
+      "date": "2025-12"
+    },
+    {
+      "title": "D. Boral Acquisition I Corp announces closing of $287,500,000 IPO",
+      "publisher": "Finviz / company release",
+      "url": "https://finviz.com/news/309854/d-boral-acquisition-i-corp-announces-closing-of-287500000-initial-public-offering-including-full-exercise-of-underwriters-over-allotment-option",
+      "date": "2026-02"
+    },
+    {
+      "title": "D. Boral Acquisition I 8-K (committee appointments)",
+      "publisher": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/0002095161/000121390026116912/ea0309298-8k_dboralacq1.htm",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Pentagon investment arm director joined firm with defense ties",
+      "publisher": "Bloomberg Government",
+      "url": "https://news.bgov.com/bloomberg-government-news/pentagon-investment-arm-director-joined-firm-with-defense-ties",
+      "date": "2026"
+    },
+    {
+      "title": "Fintech Clear Street postpones US IPO citing market conditions",
+      "publisher": "Reuters via Tiger",
+      "url": "https://www.itiger.com/news/2611218605",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "Clear Street targets $11.8 billion valuation in Nasdaq IPO",
+      "publisher": "Reuters via Tiger",
+      "url": "https://www.itiger.com/news/1127284580",
+      "date": "2026-02"
+    },
+    {
+      "title": "The IPO Buzz: Clear Street Group cuts IPO's size to $351 million",
+      "publisher": "IPOScoop",
+      "url": "https://www.iposcoop.com/?p=37748",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "DAT underwriter Clear Street reportedly going public next year",
+      "publisher": "DL News",
+      "url": "https://www.dlnews.com/articles/deals/dat-underwriter-clear-street-reportedly-going-public-next-year/",
+      "date": "2025-12"
+    },
+    {
+      "title": "Clear Street prepares $10B IPO as crypto treasury boom falters",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/clear-street-prepares-10b-ipo-as-crypto-treasury-boom-falters",
+      "date": "2025-12"
+    },
+    {
+      "title": "Trump Media establishes corporate bitcoin treasury with $2.5 billion offering",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/355829/trump-media-establishes-corporate-bitcoin-treasury-with-2-5-billion-offering",
+      "date": "2025-05-27"
+    },
+    {
+      "title": "Truth Social files spot bitcoin ETF",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/trump-truth-social-files-spot-bitcoin-etf",
+      "date": "2025-06"
+    },
+    {
+      "title": "US SEC delays decision on Trump's Truth Social bitcoin ETF",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/amp/post/364454/us-sec-delays-decision-on-trumps-truth-social-bitcoin-etf",
+      "date": "2025-08"
+    },
+    {
+      "title": "SEC delays decisions on Truth Social's Bitcoin and Ethereum ETF",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/367274/sec-delays-decisions-on-truth-socials-bitcoin-and-ethereum-etf-along-with-xrp-and-litecoin-funds",
+      "date": "2025-08"
+    },
+    {
+      "title": "Truth Social files to launch Crypto Blue Chip ETF",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/361562/trumps-truth-social-files-with-sec-to-launch-crypto-blue-chip-etf-tracking-btc-eth-sol-xrp-and-cro",
+      "date": "2025-07"
+    },
+    {
+      "title": "Trump Media files two new crypto ETF proposals following SEC delay",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/regulation/2026-02-13-trump-media-and-technology-group-files-two-new-crypto-etf-proposals-following-sec-delay-389896",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "5 Truth Social ETFs launch with anti-DEI screening",
+      "publisher": "ETF Database",
+      "url": "https://etfdb.com/news/2025/12/30/5-truth-social-etfs-launch-anti-dei-screening/",
+      "date": "2025-12-30"
+    },
+    {
+      "title": "US president's son Eric Trump invests in drone maker with government contracts",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/2/17/us-presidents-son-eric-trump-invests-in-drone-maker-with-govt-contracts",
+      "date": "2026-02-17"
+    },
+    {
+      "title": "Trump Media names Kevin McGurn interim CEO",
+      "publisher": "TheWrap",
+      "url": "https://www.thewrap.com/media-platforms/journalism/trump-media-company-kevin-mcgurn-interim-ceo/",
+      "date": "2026-04-21"
+    },
+    {
+      "title": "Texas Ventures Acquisition III Corp Form 8-K (CEO resignation)",
+      "publisher": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/0002033991/000110465926048534/tm2612658d1_8k.htm",
+      "date": "2026-04-24"
+    }
+  ],
+  "entities": [
+    {
+      "id": "kevin-mcgurn",
+      "name": "Kevin McGurn",
+      "type": "person",
+      "description": "TMTG interim CEO (Apr 2026); CEO of Yorkville SPACs MCGA, BLUW, YICC; ex-CEO of NWAX; D. Boral Acquisition I director"
+    },
+    {
+      "id": "mark-angelo",
+      "name": "Mark Angelo",
+      "type": "person",
+      "description": "Yorkville Advisors founder/president; chairman or director across the Yorkville SPACs"
+    },
+    {
+      "id": "troy-rillo",
+      "name": "Troy Rillo",
+      "type": "person",
+      "description": "Yorkville Advisors partner, Yorkville Securities co-CEO; CFO of YICC and TVA III"
+    },
+    {
+      "id": "yorkville-advisors",
+      "name": "Yorkville Advisors",
+      "type": "fund",
+      "description": "Mountainside NJ investment manager (Mark Angelo); TMTG's equity-line buyer and SPAC sponsor"
+    },
+    {
+      "id": "yorkville-securities",
+      "name": "Yorkville Securities",
+      "type": "company",
+      "description": "Yorkville broker-dealer; co-lead agent on TMTG's 2025 bitcoin raise"
+    },
+    {
+      "id": "yorkville-acquisition-corp",
+      "name": "Yorkville Acquisition Corp (MCGA)",
+      "type": "company",
+      "description": "$172.5M SPAC (Jun 2025); CRO Strategy deal terminated Aug 2026"
+    },
+    {
+      "id": "yorkville-acquisition-sponsor-ii",
+      "name": "Yorkville Acquisition Sponsor II, LLC",
+      "type": "company",
+      "description": "Bought TVA III founder shares and warrants for $7.4M (Sep 2025)"
+    },
+    {
+      "id": "yorkville-bw-acquisition-sponsor",
+      "name": "Yorkville BW Acquisition Sponsor, LLC",
+      "type": "company",
+      "description": "Took over Blue Water Acquisition Corp III's sponsorship (Nov 2025)"
+    },
+    {
+      "id": "texas-ventures-acquisition-iii",
+      "name": "Texas Ventures Acquisition III Corp (TVA)",
+      "type": "company",
+      "description": "$225M SPAC; Yorkville-controlled since Sep 2025; Trump Org EVPs on board; merging with PlusAI"
+    },
+    {
+      "id": "blue-water-acquisition-corp-iii",
+      "name": "Blue Water Acquisition Corp III (BLUW)",
+      "type": "company",
+      "description": "$253M SPAC; bid ~$10B for Citgo parent; Yorkville took control Nov 2025"
+    },
+    {
+      "id": "yorkville-international-capital",
+      "name": "Yorkville International Capital Corp (YICC)",
+      "type": "company",
+      "description": "$200M SPAC (Jun 2026) targeting Latin America/Venezuela; subject of Wyden inquiry"
+    },
+    {
+      "id": "new-america-acquisition-i",
+      "name": "New America Acquisition I Corp (NWAX)",
+      "type": "company",
+      "description": "Trump sons' $345M SPAC; Kyle Wool chairman (Feb 2026) and CEO (Aug 2026)"
+    },
+    {
+      "id": "new-america-sponsor-i",
+      "name": "New America Sponsor I LLC",
+      "type": "company",
+      "description": "NWAX sponsor; McGurn sole member; holds sons' founder interests"
+    },
+    {
+      "id": "d-boral-acquisition-i",
+      "name": "D. Boral Acquisition I",
+      "type": "company",
+      "description": "Cayman SPAC, $287.5M IPO Feb 2026; McGurn a director"
+    },
+    {
+      "id": "d-boral-capital",
+      "name": "D. Boral Capital",
+      "type": "company",
+      "description": "Investment bank; co-led NWAX IPO, sole book-runner of D. Boral Acquisition I"
+    },
+    {
+      "id": "dominari-holdings",
+      "name": "Dominari Holdings / Dominari Securities",
+      "type": "company",
+      "description": "Trump Tower broker; Trump sons' underwriter; co-led NWAX"
+    },
+    {
+      "id": "kyle-wool",
+      "name": "Kyle Wool",
+      "type": "person",
+      "description": "Dominari Securities president; NWAX chairman and CEO"
+    },
+    {
+      "id": "stefan-passantino",
+      "name": "Stefan Passantino",
+      "type": "person",
+      "description": "Lawyer; independent director of NWAX (Feb 2026) and JFB Construction"
+    },
+    {
+      "id": "jfb-construction",
+      "name": "JFB Construction",
+      "type": "company",
+      "description": "Vehicle for XTEND drone merger in which Eric Trump invested (C51)"
+    },
+    {
+      "id": "trump-media-group-cro-strategy",
+      "name": "Trump Media Group CRO Strategy",
+      "type": "company",
+      "description": "Planned CRO treasury vehicle via MCGA; terminated Aug 7, 2026"
+    },
+    {
+      "id": "plusai",
+      "name": "Plus Automation Inc. (PlusAI)",
+      "type": "company",
+      "description": "Autonomous-truck software firm; TVA III merger target at $800M pre-money"
+    },
+    {
+      "id": "churchill-capital-ix",
+      "name": "Churchill Capital Corp IX",
+      "type": "company",
+      "description": "SPAC whose $1.2B PlusAI deal was terminated Apr 2026"
+    },
+    {
+      "id": "citgo-pdv-holding",
+      "name": "Citgo / PDV Holding",
+      "type": "company",
+      "description": "Venezuela-owned US refiner auctioned in Delaware court"
+    },
+    {
+      "id": "amber-energy",
+      "name": "Amber Energy (Elliott Management)",
+      "type": "company",
+      "description": "Winning Citgo bidder at ~$5.9B"
+    },
+    {
+      "id": "joseph-hernandez",
+      "name": "Joseph Hernandez",
+      "type": "person",
+      "description": "Blue Water founder; made ~$10B Citgo bid"
+    },
+    {
+      "id": "lawrence-glick",
+      "name": "Lawrence Glick",
+      "type": "person",
+      "description": "Trump Organization EVP of Development; TVA III director"
+    },
+    {
+      "id": "alan-garten",
+      "name": "Alan Garten",
+      "type": "person",
+      "description": "Trump Organization EVP and Chief Legal Officer; TVA III director"
+    },
+    {
+      "id": "devin-nunes",
+      "name": "Devin Nunes",
+      "type": "person",
+      "description": "TMTG CEO until Apr 2026; reported director of BLUW and TVA III"
+    },
+    {
+      "id": "scott-glabe",
+      "name": "Scott Glabe",
+      "type": "person",
+      "description": "TMTG general counsel; reported BLUW director"
+    },
+    {
+      "id": "omar-hasan",
+      "name": "Omar Hasan",
+      "type": "person",
+      "description": "TVA III director since Sep 2025"
+    },
+    {
+      "id": "clear-street",
+      "name": "Clear Street",
+      "type": "company",
+      "description": "NY brokerage; co-lead agent on TMTG bitcoin raise; crypto-treasury underwriter; IPO postponed Feb 2026"
+    },
+    {
+      "id": "cohen-and-company-capital-markets",
+      "name": "Cohen & Company Capital Markets",
+      "type": "company",
+      "description": "Co-agent on TMTG raise; sole book-runner of YICC IPO"
+    },
+    {
+      "id": "strategy-mstr",
+      "name": "Strategy (MicroStrategy)",
+      "type": "company",
+      "description": "Bitcoin-treasury company; Clear Street underwrote its offerings"
+    },
+    {
+      "id": "ron-wyden",
+      "name": "Ron Wyden",
+      "type": "person",
+      "description": "Senate Finance ranking member; opened YICC inquiry Jun 25, 2026"
+    },
+    {
+      "id": "ofac",
+      "name": "Office of Foreign Assets Control",
+      "type": "government",
+      "description": "Treasury sanctions office; Venezuela licences"
+    },
+    {
+      "id": "yorkville-america-digital",
+      "name": "Yorkville America Digital",
+      "type": "company",
+      "description": "Sponsor of Truth Social crypto ETF filings"
+    },
+    {
+      "id": "yorkville-america-equities",
+      "name": "Yorkville America Equities",
+      "type": "company",
+      "description": "Adviser to Truth Social ETFs; Feb 2026 crypto ETF filer"
+    },
+    {
+      "id": "truth-social-etfs",
+      "name": "Truth Social ETFs",
+      "type": "product",
+      "description": "Truth.Fi-branded ETFs; equity funds live, crypto funds unapproved"
+    },
+    {
+      "id": "foris-dax-national-trust-bank",
+      "name": "Foris DAX (Crypto.com custody)",
+      "type": "company",
+      "description": "Named custodian in Truth Social crypto ETF filings"
+    },
+    {
+      "id": "george-kollitides",
+      "name": "George Kollitides",
+      "type": "person",
+      "description": "Pentagon Economic Defense Unit director; D. Boral Acquisition I director Feb-Sep 2026"
+    },
+    {
+      "id": "trump-media-technology-group",
+      "name": "Trump Media & Technology Group",
+      "type": "company",
+      "description": "Truth Social parent"
+    },
+    {
+      "id": "trump-organization",
+      "name": "Trump Organization",
+      "type": "company",
+      "description": "Trump family business"
+    },
+    {
+      "id": "crypto-com",
+      "name": "Crypto.com",
+      "type": "company",
+      "description": "CRO Strategy partner; ETF custodian/servicer until Aug 2026"
+    },
+    {
+      "id": "donald-trump-jr",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "NWAX adviser; 2M founder shares"
+    },
+    {
+      "id": "eric-trump",
+      "name": "Eric Trump",
+      "type": "person",
+      "description": "NWAX adviser; 3M founder shares"
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "President; TMTG majority holder via trust"
+    },
+    {
+      "id": "sec",
+      "name": "SEC",
+      "type": "government",
+      "description": "Reviews SPAC registrations and ETF filings"
+    },
+    {
+      "id": "us-congress",
+      "name": "US Congress",
+      "type": "government",
+      "description": "Senate Finance minority inquiry"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "kevin-mcgurn",
+      "target": "trump-media-technology-group",
+      "label": "interim CEO of",
+      "type": "commercial",
+      "date": "2026-04-21"
+    },
+    {
+      "source": "kevin-mcgurn",
+      "target": "yorkville-acquisition-corp",
+      "label": "CEO and director of",
+      "type": "commercial",
+      "date": "2025-03-31"
+    },
+    {
+      "source": "kevin-mcgurn",
+      "target": "blue-water-acquisition-corp-iii",
+      "label": "CEO/director after Yorkville takeover",
+      "type": "commercial",
+      "date": "2025-11"
+    },
+    {
+      "source": "kevin-mcgurn",
+      "target": "yorkville-international-capital",
+      "label": "CEO and director of",
+      "type": "commercial",
+      "date": "2026-06"
+    },
+    {
+      "source": "kevin-mcgurn",
+      "target": "new-america-acquisition-i",
+      "label": "CEO/director until resignation",
+      "type": "commercial",
+      "date": "2026-08-05"
+    },
+    {
+      "source": "kevin-mcgurn",
+      "target": "new-america-sponsor-i",
+      "label": "sole member of; 1M founder-share interest",
+      "type": "ownership",
+      "date": "2025-05-27"
+    },
+    {
+      "source": "kevin-mcgurn",
+      "target": "d-boral-acquisition-i",
+      "label": "director of",
+      "type": "commercial",
+      "date": "2026"
+    },
+    {
+      "source": "kevin-mcgurn",
+      "target": "texas-ventures-acquisition-iii",
+      "label": "CEO of until resignation (8-K)",
+      "type": "commercial",
+      "date": "2025-09/2026-04-22"
+    },
+    {
+      "source": "yorkville-acquisition-sponsor-ii",
+      "target": "texas-ventures-acquisition-iii",
+      "label": "bought 7.5M founder shares + 4.7M warrants",
+      "type": "ownership",
+      "date": "2025-09-18",
+      "amount_usd": 7400000
+    },
+    {
+      "source": "yorkville-advisors",
+      "target": "yorkville-acquisition-sponsor-ii",
+      "label": "affiliate sponsor of",
+      "type": "ownership",
+      "date": "2025-09"
+    },
+    {
+      "source": "yorkville-bw-acquisition-sponsor",
+      "target": "blue-water-acquisition-corp-iii",
+      "label": "acquired sponsorship (reported $7.2M)",
+      "type": "ownership",
+      "date": "2025-11",
+      "amount_usd": 7200000
+    },
+    {
+      "source": "yorkville-advisors",
+      "target": "yorkville-bw-acquisition-sponsor",
+      "label": "affiliate sponsor of",
+      "type": "ownership",
+      "date": "2025-11"
+    },
+    {
+      "source": "yorkville-advisors",
+      "target": "yorkville-international-capital",
+      "label": "sponsor of",
+      "type": "ownership",
+      "date": "2026-03"
+    },
+    {
+      "source": "yorkville-advisors",
+      "target": "yorkville-acquisition-corp",
+      "label": "sponsor of",
+      "type": "ownership",
+      "date": "2025-06-30"
+    },
+    {
+      "source": "yorkville-advisors",
+      "target": "plusai",
+      "label": "funds committed PIPE financing for TVA III merger",
+      "type": "money",
+      "date": "2026-09-03"
+    },
+    {
+      "source": "texas-ventures-acquisition-iii",
+      "target": "plusai",
+      "label": "merger agreement at $800M pre-money",
+      "type": "commercial",
+      "date": "2026-09-03",
+      "amount_usd": 800000000
+    },
+    {
+      "source": "plusai",
+      "target": "churchill-capital-ix",
+      "label": "prior SPAC deal terminated",
+      "type": "commercial",
+      "date": "2026-04-20",
+      "amount_usd": 1200000000
+    },
+    {
+      "source": "lawrence-glick",
+      "target": "texas-ventures-acquisition-iii",
+      "label": "director of",
+      "type": "commercial",
+      "date": "2025-09"
+    },
+    {
+      "source": "alan-garten",
+      "target": "texas-ventures-acquisition-iii",
+      "label": "director of",
+      "type": "commercial",
+      "date": "2025-09"
+    },
+    {
+      "source": "lawrence-glick",
+      "target": "trump-organization",
+      "label": "EVP of Development",
+      "type": "commercial"
+    },
+    {
+      "source": "alan-garten",
+      "target": "trump-organization",
+      "label": "EVP and Chief Legal Officer",
+      "type": "legal"
+    },
+    {
+      "source": "mark-angelo",
+      "target": "texas-ventures-acquisition-iii",
+      "label": "chairman of",
+      "type": "commercial",
+      "date": "2025-09"
+    },
+    {
+      "source": "mark-angelo",
+      "target": "yorkville-international-capital",
+      "label": "chairman of",
+      "type": "commercial",
+      "date": "2026-06"
+    },
+    {
+      "source": "mark-angelo",
+      "target": "blue-water-acquisition-corp-iii",
+      "label": "director of (single-source)",
+      "type": "commercial",
+      "date": "2025-11"
+    },
+    {
+      "source": "devin-nunes",
+      "target": "blue-water-acquisition-corp-iii",
+      "label": "director of (single-source)",
+      "type": "commercial",
+      "date": "2025-11"
+    },
+    {
+      "source": "devin-nunes",
+      "target": "texas-ventures-acquisition-iii",
+      "label": "director of until Feb 2026 resignation (8-K)",
+      "type": "commercial",
+      "date": "2025-09/2026-02"
+    },
+    {
+      "source": "scott-glabe",
+      "target": "blue-water-acquisition-corp-iii",
+      "label": "director of (single-source)",
+      "type": "commercial",
+      "date": "2025-11"
+    },
+    {
+      "source": "scott-glabe",
+      "target": "trump-media-technology-group",
+      "label": "general counsel",
+      "type": "legal"
+    },
+    {
+      "source": "omar-hasan",
+      "target": "texas-ventures-acquisition-iii",
+      "label": "director of",
+      "type": "commercial",
+      "date": "2025-09"
+    },
+    {
+      "source": "troy-rillo",
+      "target": "yorkville-securities",
+      "label": "co-CEO and director",
+      "type": "commercial"
+    },
+    {
+      "source": "troy-rillo",
+      "target": "yorkville-international-capital",
+      "label": "CFO of",
+      "type": "commercial",
+      "date": "2026-06"
+    },
+    {
+      "source": "troy-rillo",
+      "target": "texas-ventures-acquisition-iii",
+      "label": "CFO; also CEO from Apr 22, 2026",
+      "type": "commercial",
+      "date": "2025-09-18"
+    },
+    {
+      "source": "joseph-hernandez",
+      "target": "blue-water-acquisition-corp-iii",
+      "label": "founder; prior sponsor",
+      "type": "ownership"
+    },
+    {
+      "source": "blue-water-acquisition-corp-iii",
+      "target": "citgo-pdv-holding",
+      "label": "bid ~$10B, abandoned",
+      "type": "commercial",
+      "date": "2025-09",
+      "amount_usd": 10000000000
+    },
+    {
+      "source": "amber-energy",
+      "target": "citgo-pdv-holding",
+      "label": "won court auction",
+      "type": "commercial",
+      "date": "2025-11",
+      "amount_usd": 5900000000
+    },
+    {
+      "source": "ron-wyden",
+      "target": "yorkville-international-capital",
+      "label": "opened inquiry into Venezuela SPAC",
+      "type": "political",
+      "date": "2026-06-25"
+    },
+    {
+      "source": "ron-wyden",
+      "target": "ofac",
+      "label": "asked whether Yorkville sought OFAC licence",
+      "type": "regulatory",
+      "date": "2026-06-25"
+    },
+    {
+      "source": "cohen-and-company-capital-markets",
+      "target": "yorkville-international-capital",
+      "label": "sole book-runner of $200M IPO",
+      "type": "commercial",
+      "date": "2026-06",
+      "amount_usd": 200000000
+    },
+    {
+      "source": "cohen-and-company-capital-markets",
+      "target": "trump-media-technology-group",
+      "label": "co-placement agent on bitcoin raise",
+      "type": "commercial",
+      "date": "2025-05"
+    },
+    {
+      "source": "clear-street",
+      "target": "trump-media-technology-group",
+      "label": "co-lead placement agent on ~$2.44B raise",
+      "type": "commercial",
+      "date": "2025-05-27"
+    },
+    {
+      "source": "yorkville-securities",
+      "target": "trump-media-technology-group",
+      "label": "co-lead placement agent on ~$2.44B raise",
+      "type": "commercial",
+      "date": "2025-05-27"
+    },
+    {
+      "source": "clear-street",
+      "target": "strategy-mstr",
+      "label": "underwriter of stock offerings",
+      "type": "commercial"
+    },
+    {
+      "source": "yorkville-acquisition-corp",
+      "target": "trump-media-group-cro-strategy",
+      "label": "business combination terminated",
+      "type": "commercial",
+      "date": "2026-08-07"
+    },
+    {
+      "source": "crypto-com",
+      "target": "trump-media-group-cro-strategy",
+      "label": "co-founder of; terminated",
+      "type": "commercial",
+      "date": "2026-08-07"
+    },
+    {
+      "source": "eric-trump",
+      "target": "new-america-sponsor-i",
+      "label": "indirect interest in 3M founder shares",
+      "type": "ownership",
+      "date": "2025-08",
+      "amount_usd": 30000000
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "new-america-sponsor-i",
+      "label": "indirect interest in 2M founder shares",
+      "type": "ownership",
+      "date": "2025-08",
+      "amount_usd": 20000000
+    },
+    {
+      "source": "new-america-sponsor-i",
+      "target": "new-america-acquisition-i",
+      "label": "sponsor of",
+      "type": "ownership",
+      "date": "2025"
+    },
+    {
+      "source": "dominari-holdings",
+      "target": "new-america-acquisition-i",
+      "label": "co-lead book-runner of $345M IPO",
+      "type": "commercial",
+      "date": "2025-12-05",
+      "amount_usd": 345000000
+    },
+    {
+      "source": "d-boral-capital",
+      "target": "new-america-acquisition-i",
+      "label": "co-lead book-runner of $345M IPO",
+      "type": "commercial",
+      "date": "2025-12-05",
+      "amount_usd": 345000000
+    },
+    {
+      "source": "d-boral-capital",
+      "target": "d-boral-acquisition-i",
+      "label": "affiliate; sole book-runner of $287.5M IPO",
+      "type": "commercial",
+      "date": "2026-02",
+      "amount_usd": 287500000
+    },
+    {
+      "source": "kyle-wool",
+      "target": "new-america-acquisition-i",
+      "label": "chairman (Feb 2026), CEO (Aug 2026)",
+      "type": "commercial",
+      "date": "2026-02-06"
+    },
+    {
+      "source": "kyle-wool",
+      "target": "dominari-holdings",
+      "label": "president of Dominari Securities",
+      "type": "commercial"
+    },
+    {
+      "source": "stefan-passantino",
+      "target": "new-america-acquisition-i",
+      "label": "independent director",
+      "type": "commercial",
+      "date": "2026-02-06"
+    },
+    {
+      "source": "stefan-passantino",
+      "target": "jfb-construction",
+      "label": "director of",
+      "type": "commercial",
+      "date": "2026"
+    },
+    {
+      "source": "eric-trump",
+      "target": "jfb-construction",
+      "label": "investor in XTEND/JFB drone merger",
+      "type": "money",
+      "date": "2026-02"
+    },
+    {
+      "source": "george-kollitides",
+      "target": "d-boral-acquisition-i",
+      "label": "director Feb-Sep 2026",
+      "type": "commercial",
+      "date": "2026-02-10"
+    },
+    {
+      "source": "yorkville-america-digital",
+      "target": "truth-social-etfs",
+      "label": "sponsor of crypto ETF filings",
+      "type": "commercial",
+      "date": "2025-06-03"
+    },
+    {
+      "source": "yorkville-america-equities",
+      "target": "truth-social-etfs",
+      "label": "filed Bitcoin-Ether and Cronos Yield Maximizer ETFs",
+      "type": "commercial",
+      "date": "2026-02-13"
+    },
+    {
+      "source": "sec",
+      "target": "truth-social-etfs",
+      "label": "delayed decisions; no approval found",
+      "type": "regulatory",
+      "date": "2025-08"
+    },
+    {
+      "source": "foris-dax-national-trust-bank",
+      "target": "truth-social-etfs",
+      "label": "named custodian in filings",
+      "type": "commercial",
+      "date": "2025-06"
+    },
+    {
+      "source": "trump-media-technology-group",
+      "target": "truth-social-etfs",
+      "label": "Truth.Fi brand owner",
+      "type": "ownership"
+    },
+    {
+      "source": "donald-trump",
+      "target": "trump-media-technology-group",
+      "label": "majority holder via revocable trust",
+      "type": "ownership"
+    },
+    {
+      "source": "yorkville-advisors",
+      "target": "trump-media-technology-group",
+      "label": "equity-line buyer, placement agent, ETF adviser",
+      "type": "money",
+      "date": "2024-07"
+    },
+    {
+      "source": "trump-organization",
+      "target": "yorkville-advisors",
+      "label": "spokesperson says sons have no involvement with Yorkville",
+      "type": "commercial",
+      "date": "2026-01"
+    },
+    {
+      "source": "scott-glabe",
+      "target": "texas-ventures-acquisition-iii",
+      "label": "director of until Feb 2026 resignation (8-K)",
+      "type": "advisory",
+      "date": "2025-09/2026-02"
+    }
+  ],
+  "leads": [
+    {
+      "title": "Yorkville International Capital and Venezuela: OFAC licensing and any target",
+      "why_connected": "A SPAC run by TMTG's interim CEO and TMTG's main financier is targeting Venezuela after the sanctions were eased. Wyden asked about OFAC licences, and no answer has been found.",
+      "entities": [
+        "yorkville-international-capital",
+        "kevin-mcgurn",
+        "yorkville-advisors",
+        "ofac",
+        "ron-wyden"
+      ],
+      "source_url": "https://www.finance.senate.gov/ranking-members-news/wyden-launches-inquiry-into-trump-connected-blank-check-company-planning-venezuela-investments"
+    },
+    {
+      "title": "Blue Water III's $10B Citgo bid and its takeover by Yorkville/TMTG insiders",
+      "why_connected": "A shell with $253M in trust bid $10B for Citgo, then passed to Yorkville with TMTG executives on the board. How the bid was funded, and whether the new team kept Venezuela ambitions, is unexplained.",
+      "entities": [
+        "blue-water-acquisition-corp-iii",
+        "citgo-pdv-holding",
+        "devin-nunes",
+        "scott-glabe",
+        "kevin-mcgurn"
+      ],
+      "source_url": "https://newstracs.com/devin-nunes-and-others-linked-to-trump-media-are-officers-of-a-company-that-bid-for-citgo/2026/01/01/"
+    },
+    {
+      "title": "PlusAI / Texas Ventures III: redemptions, Yorkville PIPE terms and federal AV policy",
+      "why_connected": "The SPAC with Trump Org directors is merging with an autonomous-trucking firm. The Yorkville PIPE size, the reported 79% redemptions and any exposure to DOT autonomous-vehicle rule-making are unverified.",
+      "entities": [
+        "texas-ventures-acquisition-iii",
+        "plusai",
+        "yorkville-advisors",
+        "lawrence-glick",
+        "alan-garten"
+      ],
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0002033991/000119312526418671/ck0002033991-20261009.htm"
+    },
+    {
+      "title": "Stefan Passantino across Trump-son vehicles (NWAX, JFB/XTEND)",
+      "why_connected": "The same former White House ethics lawyer joined two boards of vehicles tied to the Trump sons in 2026.",
+      "entities": [
+        "stefan-passantino",
+        "new-america-acquisition-i",
+        "jfb-construction",
+        "eric-trump"
+      ],
+      "source_url": "https://am590theanswer.com/news/business/new-america-acquisition-i-corp-appoints-kyle-wool-as-chairman-and-adds-stefan-pa/8739333ad40ba1c8b1cfda07cd41a012"
+    },
+    {
+      "title": "Truth Social crypto ETFs: final SEC disposition and new custodian after the Crypto.com unwind",
+      "why_connected": "No approval found after Feb 2026 refilings; Crypto.com's ETF servicing ended Aug 2026, leaving custody and launch status open.",
+      "entities": [
+        "truth-social-etfs",
+        "yorkville-america-equities",
+        "sec",
+        "crypto-com"
+      ],
+      "source_url": "https://www.theblock.co/news/regulation/2026-02-13-trump-media-and-technology-group-files-two-new-crypto-etf-proposals-following-sec-delay-389896"
+    }
+  ],
+  "audit": {
+    "checked": [
+      "Trump Organization EVPs Lawrence Glick and Alan Garten as Texas Ventures Acquisition III directors",
+      "McGurn's roles, especially the TVA III CEO post the original marked unverified",
+      "Nunes/Glabe directorships at TVA III (single-source in the original)",
+      "Wyden's Jun 25, 2026 inquiry into Yorkville International Capital and any reply",
+      "McGurn's Aug 5, 2026 NWAX resignation and Kyle Wool's succession"
+    ],
+    "result": "corrected",
+    "changes": [
+      "McGurn's TVA III CEO role changed from unverified to documented: a TVA III 8-K reports he resigned as CEO effective Apr 22, 2026 (no disagreement) and Rillo was appointed CEO while remaining CFO. This resolves the apparent conflict with the Sept 2026 PlusAI release. Updated sub-claim 0, corrections, summary and the relationship label/date.",
+      "Nunes and Glabe at TVA III upgraded from single-source to documented, with an end date: an 8-K (date of report 23 Feb 2026, seen via search summaries) reports both resigned from the board and committees and Garten/Glick joined the audit and compensation committees. Added a scott-glabe -> TVA III edge; Nunes/Glabe at BLUW remain single-source.",
+      "Glick/Garten directorships upheld (also on the committees as of Feb 2026); no later departure found, but current status after mid-2026 not confirmed.",
+      "Wyden inquiry upheld (Senate Finance release and letter; Trump Org spokesperson denial recorded); still no Yorkville reply or OFAC licence found.",
+      "NWAX handover upheld (8-K: McGurn out Aug 5, 2026, Wool CEO, board cut to five)."
+    ],
+    "new_sources": [
+      {
+        "title": "Texas Ventures Acquisition III Corp Form 8-K (CEO resignation, Rillo appointed)",
+        "publisher": "SEC EDGAR",
+        "url": "https://www.sec.gov/Archives/edgar/data/0002033991/000110465926048534/tm2612658d1_8k.htm",
+        "date": "2026-04-24"
+      },
+      {
+        "title": "Texas Ventures Acquisition III 8-K summary (director resignations)",
+        "publisher": "Stock Titan",
+        "url": "https://www.stocktitan.net/sec-filings/TVA/8-k-texas-ventures-acquisition-iii-corp-reports-material-event-2566adb1a983.html",
+        "date": "2026-02"
+      },
+      {
+        "title": "New America Acquisition I announces leadership transition",
+        "publisher": "Stock Titan",
+        "url": "https://www.stocktitan.net/news/DOMH/new-america-acquisition-i-corp-announces-leadership-transition-kyle-fdnbjldega1q.html",
+        "date": "2026-08"
+      },
+      {
+        "title": "Senate Democrats probe Yorkville Venezuela fundraising plan",
+        "publisher": "Traders Union",
+        "url": "https://tradersunion.com/news/financial-news/show/2477977-senate-probe-yorkville-venezuela-trump-ties/",
+        "date": "2026-06"
+      }
+    ]
+  }
+}

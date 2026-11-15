@@ -1,0 +1,1192 @@
+{
+  "id": "C60",
+  "title": "Government equity stakes and critical-minerals deals: who was positioned to profit",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "The core of the claim is documented. A June 28, 2026 NYT investigation (Lipton and Sonne) counted at least 14 critical-minerals companies tied to the Trump or Lutnick families that had received or were seeking more than $8.9B in federal support (mostly commitments and letters of interest), and Senate Democrats built July 2026 letters on it. The strongest instances are 1789/Vulcan, Dominari/American Ventures via Skyline-Kaz Resources (with Cantor raising $210M for a project partner), and Cantor as lead placement agent on USA Rare Earth's $1.5B PIPE alongside a $1.6B Commerce LOI. The Cantor-TMC and Cantor-Critical Metals links are also real. But MP Materials, Lithium Americas and Intel are not on the reported list and no family tie to them was found. Family gains are largely unquantified, and no evidence shows influence; Commerce, the White House, Cantor and the Trump family deny wrongdoing. Audit update: Trump's own accounts bought Intel shares in early 2026 after the government stake (AP, May 2026), a personal-portfolio link rather than a family firm in the deal; Cantor's role in American Ocean Minerals' >$150M placement is documented, while ties for Energy Fuels, Titan and Guardian Metal remain unverified.",
+  "sub_claims": [
+    {
+      "statement": "Reporting (NYT) found Trump-family or Lutnick-family-linked firms held positions in, or advised, a dozen-plus critical-minerals companies that received or sought federal backing.",
+      "verdict": "confirmed",
+      "finding": "Confirmed as reporting. A New York Times investigation by Eric Lipton and Paul Sonne (published 2026-06-28, syndicated by the Boston Globe) counted at least 14 companies with financial ties to the Trump or Lutnick families. The government had provided, or was considering providing, more than $8.9B in support to them, and some had permit applications before Commerce. Secondary coverage gives the 14 as Kaz Resources, USA Rare Earth, Perpetua Resources, ASP Isotopes, Critical Metals, Vulcan Elements, The Metals Company, Trilogy Metals, American Ocean Minerals, Guardian Metal Resources, Titan Mining, Westwater Resources, ReElement/American Resources Corp. and Energy Fuels. The Times reported that Cantor Fitzgerald, now run by Lutnick's sons, frequently served as adviser, underwriter or placement agent. On 2026-07-30/31, Sens. Blumenthal, Schiff and Warren cited the $8.9B and 14-deal figures in letters to DoD, DOE, Commerce, Interior and EXIM, plus a separate letter to OSC on Vulcan. The $8.9B is mostly commitments, letters of interest and conditional loans, not disbursed money.",
+      "sources": [
+        "https://www.bostonglobe.com/2026/06/28/world/trump-cut-billion-dollar-mining-deal-his-sons-stand-profit/",
+        "https://x.com/DanLinnaeus/status/2072232463716208784",
+        "https://www.cnbc.com/2026/07/31/senate-democrats-trump-lutnick-critical-mineral-deals.html",
+        "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-schiff-and-warren-raise-concerns-about-trump-administration-directing-taxpayer-dollars-toward-critical-mining-companies-linked-to-trump_lutnick-families",
+        "https://www.blumenthal.senate.gov/imo/media/doc/07-30-26_letter_from_sens_blumenthal_schiff_warren_to_dod_doe_doc_doi_and_export-import_bankpdf.pdf",
+        "https://www.sej.org/headlines/trump-s-sons-stand-profit-critical-minerals-arms-race"
+      ]
+    },
+    {
+      "statement": "1789 Capital (Don Jr.) invested in Vulcan Elements before its federal loan and equity package.",
+      "verdict": "confirmed",
+      "finding": "This is covered in C26 and not repeated in full here. 1789 joined Vulcan's $65M Series A in August 2025. On 2025-11-03 a $1.4B package followed, including a $620M OSC conditional loan, $50M in Commerce CHIPS money and government warrants/equity. ProPublica reported that White House aide Peter Navarro initiated the deal. 1789 and Don Jr. deny any role, and no reporting shows foreknowledge.",
+      "sources": [
+        "https://www.propublica.org/article/donald-trump-jr-vulcan-deal-white-house",
+        "https://www.axios.com/local/raleigh/2025/11/03/north-carolina-startup-vulcan-gets-1-billion-for-new-rare-earth-magnets-factory",
+        "https://oversightdemocrats.house.gov/news/press-releases/ranking-members-robert-garcia-and-jared-huffman-demand-documents-from-vulcan-elements-after-white-house-pushed-through-620-million-loan-to-company-tied-to-donald-trump-jr",
+        "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-schiff-and-warren-raise-concerns-about-trump-administration-directing-taxpayer-dollars-toward-critical-mining-companies-linked-to-trump_lutnick-families"
+      ]
+    },
+    {
+      "statement": "Dominari / American Ventures (Trump sons) took a position via Skyline Builders in the Cove Kaz / Kaz Resources tungsten project backed by U.S. financing, and Cantor also profited.",
+      "verdict": "mostly-accurate",
+      "finding": "This is covered in C47. The FT (May 2026) and NYT (June 2026) reported that the sons bought into Skyline in August 2025 through a Dominari-linked SPV. That was before Tokayev reportedly told Trump on 2025-09-22 that Cove Kaz would get the project, and before the deal was signed on 2025-11-06. Skyline then took 20% of Kaz Resources, which holds non-binding EXIM (up to $900M) and DFC (about $700M) letters of interest. In May 2026 Cove sought about $400M more from OSC. The NYT also reported that Brandon and Kyle Lutnick's Cantor Fitzgerald helped raise $210M for one of the project's investment partners, potentially earning millions in fees; the partner's identity and the fee amount were not available in the coverage accessible here. SEC filings do not name the brothers, the FT found no evidence of foreknowledge or influence, and a Trump family lawyer called the NYT report 'libelous'.",
+      "sources": [
+        "https://www.bostonglobe.com/2026/06/28/world/trump-cut-billion-dollar-mining-deal-his-sons-stand-profit/",
+        "https://www.yahoo.com/news/politics/articles/ny-times-bombshell-details-trump-102257627.html",
+        "https://www.commondreams.org/news/trump-sons-tungsten-mining",
+        "https://www.mining.com/trump-sons-invested-in-us-group-developing-1-1b-tungsten-project-in-kazakhstan-ft/",
+        "https://en.orda.kz/pentagon-may-add-400-million-to-kazakh-tungsten-project-linked-to-trumps-sons-10417/",
+        "https://www.banking.senate.gov/newsroom/minority/warren-questions-agency-heads-following-reports-of-trump-family-ties-to-a-2-billion-federal-assistance-package-for-kazakhstan-mining-deal",
+        "https://www.foxnews.com/politics/libelous-nyt-report-tying-trump-family-government-backed-deal-sparks-legal-demand"
+      ]
+    },
+    {
+      "statement": "Cantor Fitzgerald was banker on USA Rare Earth's private raise alongside the Commerce Department's equity-and-loan deal.",
+      "verdict": "confirmed",
+      "finding": "On 2026-01-26 USA Rare Earth announced a non-binding Commerce CHIPS letter of intent for about $1.6B: $277M in federal funding and a $1.3B senior secured loan. The government would receive 16.1M shares and about 17.6M warrants, roughly 10% (8-16% depending on warrant exercise). The LOI had no price floor. The same day USAR announced a $1.5B common-stock PIPE at $21.50 a share, anchored by Inflection Point. Cantor Fitzgerald, chaired by Brandon Lutnick, was lead placement agent and Moelis was co-agent. USAR said Cantor was not involved in the government transaction. On 2026-02-26 Warren, Wyden and Van Hollen wrote to Lutnick, also alleging that billionaire Trump allies got access to PIPE shares. That is an allegation, and the specific investors are not confirmed here. Commerce reportedly did not answer by the 2026-03-11 deadline. Cantor's fee is not public in the sources found.",
+      "sources": [
+        "https://www.eenews.net/articles/us-takes-equity-stake-invests-1-6b-in-rare-earths-miner/",
+        "https://www.mining.com/?p=1197844",
+        "https://pulse2.com/usa-rare-earth-1-6-billion-deal/",
+        "https://www.fortune.com/2026/01/26/trump-admin-buys-stake-usa-rare-earth-wave-deals-critical-minerals",
+        "https://www.warren.senate.gov/newsroom/press-releases/warren-wyden-van-hollen-sound-alarm-on-lutnick-familys-conflicts-of-interest-involving-new-commerce-rare-earth-deal/",
+        "https://www.warren.senate.gov/imo/media/doc/warren_letter_to_secretary_lutnick_re_usar_critical_minerals_deal.pdf",
+        "https://www.wyden.senate.gov/news/press-releases/wyden-presses-trumps-commerce-secretary-on-conflict-of-interest-after-familys-firm-brokers-investment-in-critical-minerals",
+        "https://www.cnbc.com/2026/02/26/warren-lutnick-usa-rare-earth-usar-critical-minerals.html"
+      ]
+    },
+    {
+      "statement": "The Metals Company, a Cantor client, sought deep-sea mining permits from NOAA, which sits under Lutnick's Commerce Department.",
+      "verdict": "confirmed",
+      "finding": "Cantor Fitzgerald is reported as one of TMC's leading bankers and financial advisers. TMC said in March 2025 it would seek U.S. licences, filed its applications under the Deep Seabed Hard Mineral Resources Act within about a week of Trump's April 2025 seabed-mining executive order, and refiled under NOAA's streamlined rules in January 2026. NOAA certified an exploration application, the first since Trump took office, and Earthjustice and conservation groups sued in 2026. No commercial recovery permit had been reported issued. Whether Lutnick recused himself from TMC matters was not established. This is a permit, not money, so it presumably counts toward the 14 but not the $8.9B.",
+      "sources": [
+        "https://news.mongabay.com/2025/03/deep-sea-miner-tmc-seeks-u-s-approval-potentially-bypassing-global-regulator/",
+        "https://www.engineeringnews.co.za/article/deep-sea-mining-company-seeks-international-permit-under-new-trump-rules-2026-01-23",
+        "https://earthjustice.org/press/2026/lawsuit-challenges-trump-administration-greenlighting-of-international-deep-sea-mining-exploration-permit"
+      ]
+    },
+    {
+      "statement": "Cantor holds a position in Critical Metals Corp (Tanbreez, Greenland), a company the administration discussed taking a stake in.",
+      "verdict": "mostly-accurate",
+      "finding": "The Deep Dive reports that Cantor Fitzgerald is among Critical Metals' largest investors. The current stake size was not found, and Cantor's holdings partly reflect its brokerage and research role; Cantor initiated coverage with a Speculative Buy and an $18 target on 2026-07-14. Reuters reported in October 2025 that administration officials discussed taking a stake in Critical Metals. No completed U.S. equity stake was found. The company raised its Tanbreez ownership to 92.5% in April 2026. CRML is on the NYT list of 14.",
+      "sources": [
+        "https://thedeepdive.ca/a-western-company-just-locked-up-greenlands-rarest-deposit-and-its-backers-have-washington-ties/",
+        "https://www.criticalmetalscorp.com/wp-content/uploads/2026/07/CRML_20260714_initiation_publish.pdf",
+        "https://www.bloomberg.com/news/articles/2026-04-17/critical-metals-boosts-stake-in-greenland-rare-earths-asset"
+      ]
+    },
+    {
+      "statement": "Perpetua Resources, ASP Isotopes and Westwater, all on the NYT list, have Cantor ties and federal support.",
+      "verdict": "partly-accurate",
+      "finding": "Perpetua: EXIM advanced a large loan in May 2026 for the Stibnite gold-antimony project. Figures differ between $2.7B and $2.9B against an earlier $2.0B application. Cantor's documented role in the accessible sources is analyst coverage (Buy, target $27); any banking role is per the NYT only. ASP Isotopes: Cantor was a joint book-runner on its June 2025 $50M offering and covers it at Overweight. The specific federal support counted for ASP was not identified in accessible sources. Westwater: received EXIM financing for its graphite project in August 2026; the Cantor or family tie was not identified. Audit additions on the four less-covered names: American Ocean Minerals: Cantor Fitzgerald (chaired by Brandon Lutnick) and Citigroup arranged a private placement of more than $150M tied to its April 2026 merger with Odyssey Marine and act as its capital-markets advisers (Reuters, documented in C77); the federal action is a NOAA seabed permit review, advanced in July 2026. Energy Fuels: the federal action is documented, a conditional OSC/Pentagon loan of about $725M for rare-earth expansion announced in June 2026, but no Trump- or Lutnick-family tie was found in accessible coverage beyond its inclusion on the NYT list. Titan Mining: received EXIM financing for its Empire State Mines zinc-graphite expansion (about $15.8M per Mining.com; one commentary says $21M), but no family tie was found. Guardian Metal Resources: a commentary source reports about $6.2M in Defense Department study money for a Nevada tungsten site; neither that nor a family tie was confirmed. For Energy Fuels, Titan and Guardian the nature of the NYT-reported tie remains unverified here.",
+      "sources": [
+        "https://www.eenews.net/articles/feds-advance-2-7b-loan-for-idaho-gold-mine/",
+        "https://pulse2.com/perpetua-resources-2-9-billion-exim-loan-approval-paired-with-574-2-million-cash-and-3000-gold-floor-ahead-of-h2-2026-stibnite-decision/",
+        "https://quantisnow.com/i/asp-isotopes-inc-announces-pricing-of-50-million-underwritten-registered-direct-offering-of-common-6066866",
+        "https://parameter.io/westwater-resources-wwr-stock-soars-88-on-25m-federal-financing-deal/",
+        "https://www.metaltechnews.com/story/2026/08/12/tech-metals/exim-funds-three-critical-mineral-projects/2879.html",
+        "https://www.cnbc.com/2026/07/31/senate-democrats-trump-lutnick-critical-mineral-deals.html",
+        "https://www.mining.com/energy-fuels-lands-725m-pentagon-loan-for-rare-earths-boost/",
+        "https://www.mining.com/titan-mining-soars-on-15-8m-exim-funding-for-zinc-graphite-development/",
+        "https://www.bairdmaritime.com/amp/story/offshore/undersea-mining/odyssey-to-merge-with-ex-rio-tinto-ceos-deep-sea-mining-firm-in-1b-deal"
+      ]
+    },
+    {
+      "statement": "The administration's equity stakes in MP Materials, Lithium Americas, Trilogy Metals and Intel are among the deals where Trump- or Lutnick-linked firms were positioned to profit.",
+      "verdict": "unverified",
+      "finding": "The government actions are real. In July 2025 the DoD bought $400M of MP Materials convertible preferred stock (conversion at $30.03, about 15%, making it the largest shareholder), plus warrants, a 10-year $110/kg NdPr price floor and offtake, and a planned $150M loan. In October 2025 DOE took warrants for about 5% of Lithium Americas plus 5% of the Thacker Pass JV with GM when restructuring its $2.26B loan (a $435M drawdown and $182M of deferred repayments). On 2025-08-22 the government agreed to take 433.3M Intel shares (9.9%) for $8.9B at $20.47 a share, funded from unpaid CHIPS ($5.7B) and Secure Enclave ($3.2B) grants, plus a conditional 5% warrant; the stake is passive. On 2025-10-06 the government took about 10% of Trilogy Metals for $35.6M, with warrants that could lift it to about 17.5%, alongside Ambler Road permits; Trilogy shares roughly tripled. But MP Materials, Lithium Americas and Intel do not appear on the NYT list of 14 as reported, and this research found no reported Trump- or Lutnick-family position in them. Trilogy is on the NYT list, but the nature of its family tie could not be confirmed from accessible sources. Treat the claim's grouping of these stakes with the conflicted deals as unsubstantiated except for Trilogy. The MP, Lithium Americas and Intel terms are stated from widely reported 2025 deal announcements and were not re-sourced in this check. Audit addition: one Trump-family position in Intel has since been reported. AP (2026-05-19) reported that Trump's own first-quarter 2026 periodic transaction report showed Intel purchases (one secondary source dates one to 2 March 2026), months after the government took its stake; a Trump spokesperson said third-party managers have 'sole and exclusive' authority over the portfolio. This is a post-stake portfolio holding by Trump himself, not a family firm positioned in the deal, and no MP Materials or Lithium Americas holding by the family was found.",
+      "sources": [
+        "https://www.northernminer.com/news/u-s-takes-10-trilogy-stake-in-alaska-push/1003894826/",
+        "https://finance.yahoo.com/news/trilogy-metals-stock-explodes-on-news-of-10-stake-by-trump-admin-and-eo-ordering-permits-for-alaska-road-141434093.html",
+        "https://www.ctvnews.ca/business/article/us-government-to-take-10-stake-in-canadian-mining-company-trilogy-metals/",
+        "https://tokenpost.com/news/regulation/56727",
+        "https://www.mining.com/mp-materials-lands-multi-billion-pentagon-deal/",
+        "https://www.mining.com/web/us-government-to-take-5-stake-in-lithium-americas-and-joint-venture-with-gm-source-says/",
+        "https://www.electrive.com/2025/10/01/us-doe-takes-equity-stake-in-lithium-americas-thacker-pass-project",
+        "https://finance.yahoo.com/news/intel-announces-89-billion-investment-from-us-government-which-will-own-99-of-chipmaker-180452175.html",
+        "https://wtop.com/business-finance/2026/05/trump-discloses-thousands-of-stock-trades-some-in-companies-directly-influenced-by-his-policies/"
+      ]
+    },
+    {
+      "statement": "Family-linked firms made documented gains from the government actions.",
+      "verdict": "unverified",
+      "finding": "Gains are mostly unquantified. Cantor earned placement fees on the $1.5B USAR PIPE and reportedly on the $210M Kaz-related raise, but the amounts are not public. 1789's Vulcan stake and the sons' Skyline/Kaz position are unrealized and private or thinly traded. No realized family profit tied to a specific government action is documented. The share-price jumps on announcement (Trilogy, USAR) benefited all holders, including the government.",
+      "sources": [
+        "https://www.bostonglobe.com/2026/06/28/world/trump-cut-billion-dollar-mining-deal-his-sons-stand-profit/",
+        "https://www.cnbc.com/2026/07/31/senate-democrats-trump-lutnick-critical-mineral-deals.html",
+        "https://www.warren.senate.gov/newsroom/press-releases/warren-wyden-van-hollen-sound-alarm-on-lutnick-familys-conflicts-of-interest-involving-new-commerce-rare-earth-deal/"
+      ]
+    },
+    {
+      "statement": "Family members or Lutnick influenced the federal decisions.",
+      "verdict": "unverified",
+      "finding": "No document shows a Trump son or Lutnick son lobbying for any of these awards. The closest is ProPublica's report that Navarro initiated the Vulcan deal (C26). Commerce says neither Lutnick nor anyone at the department 'has interacted with or had any discussions whatsoever with Cantor Fitzgerald' about rare-earth companies. Congressional letters (Feb 2026 House Natural Resources; Feb 2026 Warren/Wyden/Van Hollen; Jul 2026 Blumenthal/Schiff/Warren) and CREW FOIA requests seek records. Post-midterm coverage (Nov 2026) says Democrats plan formal investigations, but no finding exists yet.",
+      "sources": [
+        "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-schiff-and-warren-raise-concerns-about-trump-administration-directing-taxpayer-dollars-toward-critical-mining-companies-linked-to-trump_lutnick-families",
+        "https://www.citizensforethics.org/reports-investigations/foia-requests/crew-requests-records-on-communications-between-secretary-lutnicks-and-president-trumps-adult-children-and-the-mining-industry/",
+        "https://www.citizensforethics.org/wp-content/uploads/2026/08/Lutnick-FOIA-request-DFC.pdf",
+        "https://democrats-naturalresources.house.gov/download/2026-02-02-moc-to-defense-commerce-energy-interior-re-mineral-equity-deals-oversight?download=1",
+        "https://www.heinrich.senate.gov/newsroom/press-releases/ranking-members-heinrich-huffman-garcia-demand-transparency-from-trump-administration-on-taxpayer-funded-mining-spending-spree",
+        "https://www.eenews.net/articles/democrats-post-midterm-war-plan-mineral-deal-investigations/",
+        "https://www.cnbc.com/2026/11/05/trump-election-energy-venezuela-critical-mineral-renewable-iran.html",
+        "https://www.newstribune.com/news/2026/nov/08/trump-backed-critical-minerals-deals-face-growing/",
+        "https://www.spglobal.com/energy/en/news-research/latest-news/metals/092226-democrats-eye-broader-probes-of-trump-administration-mining-stakes-after-midterms",
+        "https://wjla.com/news/nation-world/the-heat-is-on-commerce-secretary-lutnick-over-epstein-familys-tariff-refund-wagers"
+      ]
+    }
+  ],
+  "corrections": [
+    "The claim groups MP Materials, Lithium Americas and Intel with the family-linked deals; the NYT list of 14 as reported does not include them and no family-firm position was found. The one later link is Trump's personal portfolio buying Intel shares in Q1 2026, after the government stake (AP, 2026-05-19).",
+    "'Around a dozen-plus' is the NYT's 'at least 14' companies; the $8.9B is support provided or under consideration (LOIs, conditional loans, warrants), not money disbursed.",
+    "USA Rare Earth's federal package is a non-binding LOI ($277M funding plus $1.3B loan for ~10% equity), with no price floor; Cantor's role was the parallel $1.5B private PIPE, not the government deal.",
+    "Kaz Resources' $1.6B is non-binding EXIM and DFC letters of interest; the Trump sons' stake is indirect, via a Skyline SPV, and not named in SEC filings.",
+    "The Metals Company's connection is a NOAA permit process, not federal funding."
+  ],
+  "denials_and_context": [
+    "White House spokesman Kush Desai: 'the only special interest guiding the Trump administration's decision-making is the best interest of the American people.'",
+    "Commerce: neither Lutnick nor anyone at the department 'has interacted with or had any discussions whatsoever with Cantor Fitzgerald' regarding the rare-earth companies. Lutnick says he divested Cantor; critics note his stake went to trusts and adult sons who run the firm.",
+    "Cantor says it merely serves as a partner for companies raising capital in critical minerals; USA Rare Earth said Cantor was not involved in the government transaction.",
+    "1789 Capital and Don Jr. deny any role in the Vulcan loan (C26); a Trump family lawyer called the NYT Kaz report 'libelous' and demanded a retraction (C47).",
+    "Context cutting the other way: the administration has done many mineral deals (one tally is about 160 deals and $40B), so overlap with a dominant critical-minerals banker such as Cantor is partly structural. The national-security rationale for reducing China dependence is bipartisan.",
+    "Source limits: the original pages at NYT/Boston Globe, CNBC, Senate sites and most outlets were not read directly, and the research ended before MP Materials, Lithium Americas, Intel, Energy Fuels, Titan, Guardian and American Ocean Minerals could be checked individually. Those items rely on search-result summaries."
+  ],
+  "sources": [
+    {
+      "title": "Democrats demand information on Trump and Lutnick families' ties to critical mineral deals",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/31/senate-democrats-trump-lutnick-critical-mineral-deals.html",
+      "date": "2026-07-31"
+    },
+    {
+      "title": "Blumenthal, Schiff & Warren raise concerns about Trump administration directing taxpayer dollars toward critical mining companies linked to Trump & Lutnick families",
+      "publisher": "Office of Sen. Richard Blumenthal",
+      "url": "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-schiff-and-warren-raise-concerns-about-trump-administration-directing-taxpayer-dollars-toward-critical-mining-companies-linked-to-trump_lutnick-families",
+      "date": "2026-07-31"
+    },
+    {
+      "title": "Letter from Sens. Blumenthal, Schiff and Warren to DoD, DOE, DOC, DOI and the Export-Import Bank",
+      "publisher": "U.S. Senate (Blumenthal)",
+      "url": "https://www.blumenthal.senate.gov/imo/media/doc/07-30-26_letter_from_sens_blumenthal_schiff_warren_to_dod_doe_doc_doi_and_export-import_bankpdf.pdf",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "Schiff press release on critical-minerals letters",
+      "publisher": "Office of Sen. Adam Schiff",
+      "url": "https://www.schiff.senate.gov/?p=13310",
+      "date": "2026-07-31"
+    },
+    {
+      "title": "Trump cut a billion-dollar mining deal. His sons stand to profit. (NYT, syndicated)",
+      "publisher": "Boston Globe / New York Times",
+      "url": "https://www.bostonglobe.com/2026/06/28/world/trump-cut-billion-dollar-mining-deal-his-sons-stand-profit/",
+      "date": "2026-06-28"
+    },
+    {
+      "title": "NY Times bombshell details how Trump's sons stand to gain from $1.6B Kazakhstan mining deal",
+      "publisher": "Yahoo News",
+      "url": "https://www.yahoo.com/news/politics/articles/ny-times-bombshell-details-trump-102257627.html",
+      "date": "2026-06"
+    },
+    {
+      "title": "Trump sons set to profit from tungsten mining deal",
+      "publisher": "Common Dreams",
+      "url": "https://www.commondreams.org/news/trump-sons-tungsten-mining",
+      "date": "2026-06"
+    },
+    {
+      "title": "Trump's Sons Stand to Profit From the Critical Minerals Arms Race (headline digest of NYT)",
+      "publisher": "Society of Environmental Journalists",
+      "url": "https://www.sej.org/headlines/trump-s-sons-stand-profit-critical-minerals-arms-race",
+      "date": "2026-06"
+    },
+    {
+      "title": "Post summarising NYT investigation by Eric Lipton and Paul Sonne",
+      "publisher": "X (Dan Linnaeus)",
+      "url": "https://x.com/DanLinnaeus/status/2072232463716208784",
+      "date": "2026-06"
+    },
+    {
+      "title": "CREW FOIA request to DFC on Lutnick/Trump adult children and mining industry",
+      "publisher": "CREW",
+      "url": "https://www.citizensforethics.org/wp-content/uploads/2026/08/Lutnick-FOIA-request-DFC.pdf",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "CREW requests records on communications between Secretary Lutnick's and President Trump's adult children and the mining industry",
+      "publisher": "CREW",
+      "url": "https://www.citizensforethics.org/reports-investigations/foia-requests/crew-requests-records-on-communications-between-secretary-lutnicks-and-president-trumps-adult-children-and-the-mining-industry/",
+      "date": "2026-07"
+    },
+    {
+      "title": "Warren, Wyden, Van Hollen sound alarm on Lutnick family's conflicts of interest involving new Commerce rare earth deal",
+      "publisher": "Office of Sen. Elizabeth Warren",
+      "url": "https://www.warren.senate.gov/newsroom/press-releases/warren-wyden-van-hollen-sound-alarm-on-lutnick-familys-conflicts-of-interest-involving-new-commerce-rare-earth-deal/",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "Warren letter to Secretary Lutnick re USAR critical minerals deal",
+      "publisher": "Office of Sen. Elizabeth Warren",
+      "url": "https://www.warren.senate.gov/imo/media/doc/warren_letter_to_secretary_lutnick_re_usar_critical_minerals_deal.pdf",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "Wyden presses Trump's Commerce Secretary on conflict of interest after family's firm brokers investment in critical minerals",
+      "publisher": "Office of Sen. Ron Wyden",
+      "url": "https://www.wyden.senate.gov/news/press-releases/wyden-presses-trumps-commerce-secretary-on-conflict-of-interest-after-familys-firm-brokers-investment-in-critical-minerals",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "Democratic senators press Commerce Secretary Lutnick on conflict of interest concerns in USA Rare Earth deal",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2026/02/26/warren-lutnick-usa-rare-earth-usar-critical-minerals.html",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "US to take equity stake, invest $1.6B in rare earths miner",
+      "publisher": "E&E News",
+      "url": "https://www.eenews.net/articles/us-takes-equity-stake-invests-1-6b-in-rare-earths-miner/",
+      "date": "2026-01-26"
+    },
+    {
+      "title": "US agrees to buy 10% of USA Rare Earth in $1.6B deal",
+      "publisher": "Mining.com",
+      "url": "https://www.mining.com/?p=1197844",
+      "date": "2026-01-26"
+    },
+    {
+      "title": "USA Rare Earth: CHIPS Program LOI for $1.6 billion package",
+      "publisher": "Pulse 2.0",
+      "url": "https://pulse2.com/usa-rare-earth-1-6-billion-deal/",
+      "date": "2026-01-26"
+    },
+    {
+      "title": "Trump admin buys stake in USA Rare Earth amid wave of critical-minerals deals",
+      "publisher": "Fortune",
+      "url": "https://www.fortune.com/2026/01/26/trump-admin-buys-stake-usa-rare-earth-wave-deals-critical-minerals",
+      "date": "2026-01-26"
+    },
+    {
+      "title": "U.S. takes 10% Trilogy stake in Alaska push",
+      "publisher": "Northern Miner",
+      "url": "https://www.northernminer.com/news/u-s-takes-10-trilogy-stake-in-alaska-push/1003894826/",
+      "date": "2025-10"
+    },
+    {
+      "title": "Trilogy Metals stock explodes on news of 10% stake by Trump admin and EO ordering permits for Alaska road",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/trilogy-metals-stock-explodes-on-news-of-10-stake-by-trump-admin-and-eo-ordering-permits-for-alaska-road-141434093.html",
+      "date": "2025-10-07"
+    },
+    {
+      "title": "U.S. government to take 10% stake in Canadian mining company Trilogy Metals",
+      "publisher": "CTV News",
+      "url": "https://www.ctvnews.ca/business/article/us-government-to-take-10-stake-in-canadian-mining-company-trilogy-metals/",
+      "date": "2025-10-06"
+    },
+    {
+      "title": "Deep-sea miner TMC seeks U.S. approval, potentially bypassing global regulator",
+      "publisher": "Mongabay",
+      "url": "https://news.mongabay.com/2025/03/deep-sea-miner-tmc-seeks-u-s-approval-potentially-bypassing-global-regulator/",
+      "date": "2025-03"
+    },
+    {
+      "title": "Lawsuit challenges Trump administration greenlighting of international deep-sea mining exploration permit",
+      "publisher": "Earthjustice",
+      "url": "https://earthjustice.org/press/2026/lawsuit-challenges-trump-administration-greenlighting-of-international-deep-sea-mining-exploration-permit",
+      "date": "2026"
+    },
+    {
+      "title": "Deep-sea mining company seeks international permit under new Trump rules",
+      "publisher": "Engineering News",
+      "url": "https://www.engineeringnews.co.za/article/deep-sea-mining-company-seeks-international-permit-under-new-trump-rules-2026-01-23",
+      "date": "2026-01-23"
+    },
+    {
+      "title": "A Western company just locked up Greenland's rarest deposit, and its backers have Washington ties",
+      "publisher": "The Deep Dive",
+      "url": "https://thedeepdive.ca/a-western-company-just-locked-up-greenlands-rarest-deposit-and-its-backers-have-washington-ties/",
+      "date": "2026"
+    },
+    {
+      "title": "Cantor Fitzgerald initiation of coverage on Critical Metals Corp (hosted by company)",
+      "publisher": "Critical Metals Corp / Cantor Fitzgerald",
+      "url": "https://www.criticalmetalscorp.com/wp-content/uploads/2026/07/CRML_20260714_initiation_publish.pdf",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Critical Metals boosts stake in Greenland rare earths asset",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-17/critical-metals-boosts-stake-in-greenland-rare-earths-asset",
+      "date": "2026-04-17"
+    },
+    {
+      "title": "Feds advance $2.7B loan for Idaho gold mine",
+      "publisher": "E&E News",
+      "url": "https://www.eenews.net/articles/feds-advance-2-7b-loan-for-idaho-gold-mine/",
+      "date": "2026-05"
+    },
+    {
+      "title": "Perpetua Resources $2.9 billion EXIM loan approval",
+      "publisher": "Pulse 2.0",
+      "url": "https://pulse2.com/perpetua-resources-2-9-billion-exim-loan-approval-paired-with-574-2-million-cash-and-3000-gold-floor-ahead-of-h2-2026-stibnite-decision/",
+      "date": "2026-05"
+    },
+    {
+      "title": "ASP Isotopes announces pricing of $50 million underwritten registered direct offering",
+      "publisher": "Quantisnow (company release)",
+      "url": "https://quantisnow.com/i/asp-isotopes-inc-announces-pricing-of-50-million-underwritten-registered-direct-offering-of-common-6066866",
+      "date": "2025-06"
+    },
+    {
+      "title": "Westwater Resources stock soars on federal financing deal",
+      "publisher": "Parameter",
+      "url": "https://parameter.io/westwater-resources-wwr-stock-soars-88-on-25m-federal-financing-deal/",
+      "date": "2026-08"
+    },
+    {
+      "title": "EXIM funds three critical mineral projects",
+      "publisher": "Metal Tech News",
+      "url": "https://www.metaltechnews.com/story/2026/08/12/tech-metals/exim-funds-three-critical-mineral-projects/2879.html",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Dems sharpen attack on post-midterm target: Trump's mineral deals",
+      "publisher": "E&E News by Politico",
+      "url": "https://www.eenews.net/articles/democrats-post-midterm-war-plan-mineral-deal-investigations/",
+      "date": "2026"
+    },
+    {
+      "title": "Trump's energy deals are about to face a wave of investigations by Democrats",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/05/trump-election-energy-venezuela-critical-mineral-renewable-iran.html",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "Trump-backed critical minerals deals face growing pressure after blue wave",
+      "publisher": "News Tribune",
+      "url": "https://www.newstribune.com/news/2026/nov/08/trump-backed-critical-minerals-deals-face-growing/",
+      "date": "2026-11-08"
+    },
+    {
+      "title": "Democrats eye broader probes of Trump administration mining stakes after midterms",
+      "publisher": "S&P Global Commodity Insights",
+      "url": "https://www.spglobal.com/energy/en/news-research/latest-news/metals/092226-democrats-eye-broader-probes-of-trump-administration-mining-stakes-after-midterms",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "On Capitol Hill, Democrats press Lutnick on Epstein ties and rare earth conflicts",
+      "publisher": "WJLA / Sinclair",
+      "url": "https://wjla.com/news/nation-world/the-heat-is-on-commerce-secretary-lutnick-over-epstein-familys-tariff-refund-wagers",
+      "date": "2026"
+    },
+    {
+      "title": "'Libelous' NYT report tying Trump family to government-backed deal sparks legal demand",
+      "publisher": "Fox News",
+      "url": "https://www.foxnews.com/politics/libelous-nyt-report-tying-trump-family-government-backed-deal-sparks-legal-demand",
+      "date": "2026-07"
+    },
+    {
+      "title": "Trump sons invested in US group developing $1.1B tungsten project in Kazakhstan: FT",
+      "publisher": "Mining.com",
+      "url": "https://www.mining.com/trump-sons-invested-in-us-group-developing-1-1b-tungsten-project-in-kazakhstan-ft/",
+      "date": "2026-05"
+    },
+    {
+      "title": "Pentagon may add $400 million to Kazakh tungsten project linked to Trump's sons",
+      "publisher": "Orda.kz",
+      "url": "https://en.orda.kz/pentagon-may-add-400-million-to-kazakh-tungsten-project-linked-to-trumps-sons-10417/",
+      "date": "2026-05"
+    },
+    {
+      "title": "Warren questions agency heads following reports of Trump family ties to a $2 billion federal assistance package for Kazakhstan mining deal",
+      "publisher": "Senate Banking Committee (minority)",
+      "url": "https://www.banking.senate.gov/newsroom/minority/warren-questions-agency-heads-following-reports-of-trump-family-ties-to-a-2-billion-federal-assistance-package-for-kazakhstan-mining-deal",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "Donald Trump Jr., Vulcan deal and the White House",
+      "publisher": "ProPublica",
+      "url": "https://www.propublica.org/article/donald-trump-jr-vulcan-deal-white-house",
+      "date": "2026-05-28"
+    },
+    {
+      "title": "North Carolina startup Vulcan gets $1 billion for new rare earth magnets factory",
+      "publisher": "Axios Raleigh",
+      "url": "https://www.axios.com/local/raleigh/2025/11/03/north-carolina-startup-vulcan-gets-1-billion-for-new-rare-earth-magnets-factory",
+      "date": "2025-11-03"
+    },
+    {
+      "title": "Garcia and Huffman demand documents from Vulcan Elements after White House pushed through $620 million loan",
+      "publisher": "House Oversight Democrats",
+      "url": "https://oversightdemocrats.house.gov/news/press-releases/ranking-members-robert-garcia-and-jared-huffman-demand-documents-from-vulcan-elements-after-white-house-pushed-through-620-million-loan-to-company-tied-to-donald-trump-jr",
+      "date": "2026"
+    },
+    {
+      "title": "Letter to Defense, Commerce, Energy, Interior re mineral equity deals oversight",
+      "publisher": "House Natural Resources Democrats",
+      "url": "https://democrats-naturalresources.house.gov/download/2026-02-02-moc-to-defense-commerce-energy-interior-re-mineral-equity-deals-oversight?download=1",
+      "date": "2026-02-02"
+    },
+    {
+      "title": "Heinrich, Huffman, Garcia demand transparency from Trump administration on taxpayer-funded mining spending spree",
+      "publisher": "Office of Sen. Martin Heinrich",
+      "url": "https://www.heinrich.senate.gov/newsroom/press-releases/ranking-members-heinrich-huffman-garcia-demand-transparency-from-trump-administration-on-taxpayer-funded-mining-spending-spree",
+      "date": "2026"
+    },
+    {
+      "title": "Trump administration's $40 billion mineral push spans 160 deals",
+      "publisher": "TokenPost",
+      "url": "https://tokenpost.com/news/regulation/56727",
+      "date": "2026"
+    },
+    {
+      "title": "MP Materials lands multi-billion Pentagon deal",
+      "publisher": "Mining.com",
+      "url": "https://www.mining.com/mp-materials-lands-multi-billion-pentagon-deal/",
+      "date": "2025-07-10"
+    },
+    {
+      "title": "US government to take 5% stake in Lithium Americas and joint venture with GM",
+      "publisher": "Mining.com (Reuters)",
+      "url": "https://www.mining.com/web/us-government-to-take-5-stake-in-lithium-americas-and-joint-venture-with-gm-source-says/",
+      "date": "2025-10-01"
+    },
+    {
+      "title": "US DOE takes equity stake in Lithium Americas' Thacker Pass project",
+      "publisher": "electrive",
+      "url": "https://www.electrive.com/2025/10/01/us-doe-takes-equity-stake-in-lithium-americas-thacker-pass-project",
+      "date": "2025-10-01"
+    },
+    {
+      "title": "Intel announces $8.9 billion investment from US government, which will own 9.9% of chipmaker",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/intel-announces-89-billion-investment-from-us-government-which-will-own-99-of-chipmaker-180452175.html",
+      "date": "2025-08-22"
+    },
+    {
+      "title": "Trump discloses thousands of stock trades, some in companies directly influenced by his policies",
+      "publisher": "AP via WTOP",
+      "url": "https://wtop.com/business-finance/2026/05/trump-discloses-thousands-of-stock-trades-some-in-companies-directly-influenced-by-his-policies/",
+      "date": "2026-05-19"
+    },
+    {
+      "title": "Energy Fuels lands $725M Pentagon loan for rare earths boost",
+      "publisher": "Mining.com",
+      "url": "https://www.mining.com/energy-fuels-lands-725m-pentagon-loan-for-rare-earths-boost/",
+      "date": "2026-06"
+    },
+    {
+      "title": "Titan Mining soars on $15.8M EXIM funding for zinc-graphite development",
+      "publisher": "Mining.com",
+      "url": "https://www.mining.com/titan-mining-soars-on-15-8m-exim-funding-for-zinc-graphite-development/",
+      "date": ""
+    },
+    {
+      "title": "Odyssey to merge with ex-Rio Tinto CEO's deep-sea mining firm in $1B deal (Reuters)",
+      "publisher": "Baird Maritime",
+      "url": "https://www.bairdmaritime.com/amp/story/offshore/undersea-mining/odyssey-to-merge-with-ex-rio-tinto-ceos-deep-sea-mining-firm-in-1b-deal",
+      "date": "2026-04-08"
+    }
+  ],
+  "entities": [
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "President; signed the Kazakhstan tungsten deal and mineral executive orders"
+    },
+    {
+      "id": "donald-trump-jr",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "1789 Capital partner; indirect investor via Dominari/American Ventures"
+    },
+    {
+      "id": "eric-trump",
+      "name": "Eric Trump",
+      "type": "person",
+      "description": "Dominari shareholder and adviser; indirect investor in Skyline/Kaz"
+    },
+    {
+      "id": "howard-lutnick",
+      "name": "Howard Lutnick",
+      "type": "person",
+      "description": "Commerce Secretary; former Cantor Fitzgerald chairman/CEO"
+    },
+    {
+      "id": "brandon-lutnick",
+      "name": "Brandon Lutnick",
+      "type": "person",
+      "description": "Cantor Fitzgerald chairman"
+    },
+    {
+      "id": "kyle-lutnick",
+      "name": "Kyle Lutnick",
+      "type": "person",
+      "description": "Cantor Fitzgerald executive, son of Howard Lutnick"
+    },
+    {
+      "id": "cantor-fitzgerald",
+      "name": "Cantor Fitzgerald",
+      "type": "company",
+      "description": "Investment bank run by Lutnick's sons; banker/adviser to many mineral firms"
+    },
+    {
+      "id": "1789-capital",
+      "name": "1789 Capital",
+      "type": "fund",
+      "description": "VC firm with Don Jr. as partner; Vulcan Elements investor"
+    },
+    {
+      "id": "dominari-holdings",
+      "name": "Dominari Holdings",
+      "type": "company",
+      "description": "Broker-dealer parent partly owned by the Trump sons"
+    },
+    {
+      "id": "american-ventures",
+      "name": "American Ventures",
+      "type": "fund",
+      "description": "Dominari-controlled fund with Trump-son investors"
+    },
+    {
+      "id": "skyline-builders",
+      "name": "Skyline Builders",
+      "type": "company",
+      "description": "Nasdaq microcap that took 20% of Kaz Resources; merged with Cove Kaz"
+    },
+    {
+      "id": "cove-kaz-capital",
+      "name": "Cove Kaz Capital",
+      "type": "company",
+      "description": "Developer of the Kazakh tungsten project"
+    },
+    {
+      "id": "kaz-resources",
+      "name": "Kaz Resources",
+      "type": "company",
+      "description": "U.S. vehicle for the Upper Kairakty tungsten project; holds EXIM/DFC letters of interest"
+    },
+    {
+      "id": "vulcan-elements",
+      "name": "Vulcan Elements",
+      "type": "company",
+      "description": "Rare-earth magnet maker; $620M OSC loan"
+    },
+    {
+      "id": "reelement-technologies",
+      "name": "ReElement Technologies",
+      "type": "company",
+      "description": "Rare-earth refiner (American Resources Corp. affiliate); $80M OSC loan, later withdrawn"
+    },
+    {
+      "id": "american-resources-corp",
+      "name": "American Resources Corp.",
+      "type": "company",
+      "description": "Parent of ReElement; on NYT list"
+    },
+    {
+      "id": "usa-rare-earth",
+      "name": "USA Rare Earth",
+      "type": "company",
+      "description": "Mine-to-magnet company; $1.6B Commerce CHIPS LOI and ~10% government stake"
+    },
+    {
+      "id": "inflection-point",
+      "name": "Inflection Point",
+      "type": "fund",
+      "description": "Anchor investor of USA Rare Earth's $1.5B PIPE"
+    },
+    {
+      "id": "the-metals-company",
+      "name": "The Metals Company",
+      "type": "company",
+      "description": "Deep-sea miner seeking NOAA permits; Cantor client"
+    },
+    {
+      "id": "critical-metals-corp",
+      "name": "Critical Metals Corp",
+      "type": "company",
+      "description": "Owner of Greenland's Tanbreez rare-earth project; Cantor-backed"
+    },
+    {
+      "id": "perpetua-resources",
+      "name": "Perpetua Resources",
+      "type": "company",
+      "description": "Idaho Stibnite gold-antimony developer; large EXIM loan"
+    },
+    {
+      "id": "asp-isotopes",
+      "name": "ASP Isotopes",
+      "type": "company",
+      "description": "Isotope enrichment company; Cantor book-runner; on NYT list"
+    },
+    {
+      "id": "trilogy-metals",
+      "name": "Trilogy Metals",
+      "type": "company",
+      "description": "Alaska Ambler district explorer; ~10% U.S. stake (Oct 2025)"
+    },
+    {
+      "id": "westwater-resources",
+      "name": "Westwater Resources",
+      "type": "company",
+      "description": "Graphite developer with EXIM financing; on NYT list"
+    },
+    {
+      "id": "energy-fuels",
+      "name": "Energy Fuels",
+      "type": "company",
+      "description": "Uranium/rare-earth producer; on NYT list"
+    },
+    {
+      "id": "titan-mining",
+      "name": "Titan Mining",
+      "type": "company",
+      "description": "Zinc/graphite miner; on NYT list"
+    },
+    {
+      "id": "guardian-metal-resources",
+      "name": "Guardian Metal Resources",
+      "type": "company",
+      "description": "Nevada tungsten explorer; on NYT list"
+    },
+    {
+      "id": "american-ocean-minerals",
+      "name": "American Ocean Minerals",
+      "type": "company",
+      "description": "Seabed-minerals company; on NYT list"
+    },
+    {
+      "id": "mp-materials",
+      "name": "MP Materials",
+      "type": "company",
+      "description": "Rare-earth miner; DoD equity stake and price floor (Jul 2025); no family tie found"
+    },
+    {
+      "id": "lithium-americas",
+      "name": "Lithium Americas",
+      "type": "company",
+      "description": "Thacker Pass lithium developer; DOE equity stake (Oct 2025); no family tie found"
+    },
+    {
+      "id": "intel",
+      "name": "Intel",
+      "type": "company",
+      "description": "Chipmaker; ~10% U.S. stake (Aug 2025); not a minerals firm; no family tie found"
+    },
+    {
+      "id": "us-commerce-department",
+      "name": "U.S. Department of Commerce",
+      "type": "government",
+      "description": "CHIPS office, NOAA parent; led by Lutnick"
+    },
+    {
+      "id": "noaa",
+      "name": "NOAA",
+      "type": "government",
+      "description": "Commerce agency licensing deep-seabed mining"
+    },
+    {
+      "id": "pentagon",
+      "name": "Department of Defense / War",
+      "type": "government",
+      "description": "Equity and loans via OSC"
+    },
+    {
+      "id": "office-of-strategic-capital",
+      "name": "Office of Strategic Capital",
+      "type": "government",
+      "description": "Pentagon lending office"
+    },
+    {
+      "id": "us-department-of-energy",
+      "name": "U.S. Department of Energy",
+      "type": "government",
+      "description": "Lender to and shareholder in Lithium Americas"
+    },
+    {
+      "id": "exim-bank",
+      "name": "Export-Import Bank of the U.S.",
+      "type": "government",
+      "description": "Issued letters of interest and loans to mineral projects"
+    },
+    {
+      "id": "us-dfc",
+      "name": "U.S. International Development Finance Corp.",
+      "type": "government",
+      "description": "Issued letters of interest for Kaz Resources"
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Defended deals; Navarro initiated Vulcan deal"
+    },
+    {
+      "id": "kazakhstan",
+      "name": "Kazakhstan",
+      "type": "country",
+      "description": "Host of the tungsten project"
+    },
+    {
+      "id": "china",
+      "name": "China",
+      "type": "country",
+      "description": "Dominant rare-earth supplier the policy aims to displace"
+    },
+    {
+      "id": "new-york-times",
+      "name": "The New York Times",
+      "type": "media",
+      "description": "Published the 14-company investigation (2026-06-28)"
+    },
+    {
+      "id": "eric-lipton",
+      "name": "Eric Lipton",
+      "type": "person",
+      "description": "NYT reporter"
+    },
+    {
+      "id": "paul-sonne",
+      "name": "Paul Sonne",
+      "type": "person",
+      "description": "NYT reporter"
+    },
+    {
+      "id": "elizabeth-warren",
+      "name": "Elizabeth Warren",
+      "type": "person",
+      "description": "Senator; letters on USAR, Kaz and the 14 deals"
+    },
+    {
+      "id": "richard-blumenthal",
+      "name": "Richard Blumenthal",
+      "type": "person",
+      "description": "Senator; co-led July 2026 letters"
+    },
+    {
+      "id": "adam-schiff",
+      "name": "Adam Schiff",
+      "type": "person",
+      "description": "Senator; co-led July 2026 letters"
+    },
+    {
+      "id": "ron-wyden",
+      "name": "Ron Wyden",
+      "type": "person",
+      "description": "Senator; USAR conflict letter"
+    },
+    {
+      "id": "chris-van-hollen",
+      "name": "Chris Van Hollen",
+      "type": "person",
+      "description": "Senator; USAR conflict letter"
+    },
+    {
+      "id": "crew",
+      "name": "CREW",
+      "type": "company",
+      "description": "Watchdog; FOIA requests on family-mining communications"
+    },
+    {
+      "id": "kush-desai",
+      "name": "Kush Desai",
+      "type": "person",
+      "description": "White House spokesman"
+    },
+    {
+      "id": "peter-navarro",
+      "name": "Peter Navarro",
+      "type": "person",
+      "description": "White House adviser who initiated the Vulcan deal"
+    },
+    {
+      "id": "us-congress",
+      "name": "U.S. Congress",
+      "type": "government",
+      "description": "Source of oversight letters"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "donald-trump-jr",
+      "target": "1789-capital",
+      "label": "partner at",
+      "type": "ownership",
+      "date": "2024-11"
+    },
+    {
+      "source": "1789-capital",
+      "target": "vulcan-elements",
+      "label": "invested in Series A",
+      "type": "money",
+      "date": "2025-08"
+    },
+    {
+      "source": "office-of-strategic-capital",
+      "target": "vulcan-elements",
+      "label": "$620M conditional loan",
+      "type": "money",
+      "date": "2025-11-03",
+      "amount_usd": 620000000
+    },
+    {
+      "source": "peter-navarro",
+      "target": "vulcan-elements",
+      "label": "initiated government deal for",
+      "type": "political",
+      "date": "2025"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "dominari-holdings",
+      "label": "shareholder",
+      "type": "ownership"
+    },
+    {
+      "source": "eric-trump",
+      "target": "dominari-holdings",
+      "label": "shareholder and adviser",
+      "type": "ownership"
+    },
+    {
+      "source": "dominari-holdings",
+      "target": "american-ventures",
+      "label": "controls ~90% of",
+      "type": "ownership"
+    },
+    {
+      "source": "american-ventures",
+      "target": "skyline-builders",
+      "label": "SPV invested in (reported)",
+      "type": "money",
+      "date": "2025-08"
+    },
+    {
+      "source": "skyline-builders",
+      "target": "kaz-resources",
+      "label": "bought 20% for $20M",
+      "type": "ownership",
+      "date": "2025-10-31",
+      "amount_usd": 20000000
+    },
+    {
+      "source": "donald-trump",
+      "target": "kaz-resources",
+      "label": "announced Kazakhstan tungsten deal for",
+      "type": "political",
+      "date": "2025-11-06"
+    },
+    {
+      "source": "exim-bank",
+      "target": "kaz-resources",
+      "label": "letter of interest up to $900M",
+      "type": "money",
+      "date": "2025-11",
+      "amount_usd": 900000000
+    },
+    {
+      "source": "us-dfc",
+      "target": "kaz-resources",
+      "label": "letters of interest ~$700M",
+      "type": "money",
+      "date": "2025-11",
+      "amount_usd": 700000000
+    },
+    {
+      "source": "cantor-fitzgerald",
+      "target": "kaz-resources",
+      "label": "raised $210M for a project investment partner (NYT)",
+      "type": "commercial",
+      "amount_usd": 210000000
+    },
+    {
+      "source": "howard-lutnick",
+      "target": "cantor-fitzgerald",
+      "label": "former chairman/CEO; stake moved to sons' trusts",
+      "type": "ownership",
+      "date": "2025-02"
+    },
+    {
+      "source": "brandon-lutnick",
+      "target": "cantor-fitzgerald",
+      "label": "chairman of",
+      "type": "ownership"
+    },
+    {
+      "source": "kyle-lutnick",
+      "target": "cantor-fitzgerald",
+      "label": "executive at",
+      "type": "ownership"
+    },
+    {
+      "source": "howard-lutnick",
+      "target": "brandon-lutnick",
+      "label": "father of",
+      "type": "family"
+    },
+    {
+      "source": "howard-lutnick",
+      "target": "kyle-lutnick",
+      "label": "father of",
+      "type": "family"
+    },
+    {
+      "source": "howard-lutnick",
+      "target": "us-commerce-department",
+      "label": "Secretary of",
+      "type": "political"
+    },
+    {
+      "source": "us-commerce-department",
+      "target": "usa-rare-earth",
+      "label": "$1.6B CHIPS LOI for ~10% stake",
+      "type": "money",
+      "date": "2026-01-26",
+      "amount_usd": 1600000000
+    },
+    {
+      "source": "cantor-fitzgerald",
+      "target": "usa-rare-earth",
+      "label": "lead placement agent on $1.5B PIPE",
+      "type": "commercial",
+      "date": "2026-01-26",
+      "amount_usd": 1500000000
+    },
+    {
+      "source": "cantor-fitzgerald",
+      "target": "the-metals-company",
+      "label": "banker/financial adviser to",
+      "type": "commercial"
+    },
+    {
+      "source": "noaa",
+      "target": "the-metals-company",
+      "label": "certified deep-sea exploration application",
+      "type": "regulatory",
+      "date": "2026"
+    },
+    {
+      "source": "cantor-fitzgerald",
+      "target": "critical-metals-corp",
+      "label": "major investor in (reported)",
+      "type": "ownership"
+    },
+    {
+      "source": "cantor-fitzgerald",
+      "target": "asp-isotopes",
+      "label": "joint book-runner on $50M offering",
+      "type": "commercial",
+      "date": "2025-06",
+      "amount_usd": 50000000
+    },
+    {
+      "source": "exim-bank",
+      "target": "perpetua-resources",
+      "label": "advanced ~$2.7-2.9B loan",
+      "type": "money",
+      "date": "2026-05"
+    },
+    {
+      "source": "exim-bank",
+      "target": "westwater-resources",
+      "label": "financing for graphite project",
+      "type": "money",
+      "date": "2026-08"
+    },
+    {
+      "source": "white-house",
+      "target": "trilogy-metals",
+      "label": "announced ~10% U.S. government stake for $35.6M",
+      "type": "money",
+      "date": "2025-10-06",
+      "amount_usd": 35600000
+    },
+    {
+      "source": "pentagon",
+      "target": "mp-materials",
+      "label": "equity stake and NdPr price floor",
+      "type": "money",
+      "date": "2025-07"
+    },
+    {
+      "source": "us-department-of-energy",
+      "target": "lithium-americas",
+      "label": "~5% equity stake in loan restructuring",
+      "type": "money",
+      "date": "2025-10"
+    },
+    {
+      "source": "us-commerce-department",
+      "target": "intel",
+      "label": "~10% government stake",
+      "type": "money",
+      "date": "2025-08"
+    },
+    {
+      "source": "office-of-strategic-capital",
+      "target": "reelement-technologies",
+      "label": "$80M conditional loan (later withdrawn)",
+      "type": "money",
+      "date": "2025-11",
+      "amount_usd": 80000000
+    },
+    {
+      "source": "new-york-times",
+      "target": "cantor-fitzgerald",
+      "label": "reported ties to 14 federally backed mineral firms",
+      "type": "media",
+      "date": "2026-06-28"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "howard-lutnick",
+      "label": "conflict-of-interest letters (USAR; 14 deals)",
+      "type": "political",
+      "date": "2026-02-26"
+    },
+    {
+      "source": "richard-blumenthal",
+      "target": "exim-bank",
+      "label": "letter demanding records on 14 deals",
+      "type": "political",
+      "date": "2026-07-30"
+    },
+    {
+      "source": "adam-schiff",
+      "target": "office-of-strategic-capital",
+      "label": "letter on Vulcan loan",
+      "type": "political",
+      "date": "2026-07-30"
+    },
+    {
+      "source": "crew",
+      "target": "us-dfc",
+      "label": "FOIA request on Lutnick/Trump children and mining",
+      "type": "legal",
+      "date": "2026-07-28"
+    }
+  ],
+  "leads": [
+    {
+      "title": "The Metals Company's NOAA deep-sea mining permit and Lutnick recusal",
+      "why_connected": "Cantor is TMC's banker and NOAA sits under Lutnick's Commerce; no recusal found; Earthjustice suit pending.",
+      "entities": [
+        "the-metals-company",
+        "cantor-fitzgerald",
+        "howard-lutnick",
+        "noaa"
+      ],
+      "source_url": "https://earthjustice.org/press/2026/lawsuit-challenges-trump-administration-greenlighting-of-international-deep-sea-mining-exploration-permit"
+    },
+    {
+      "title": "Which Trump allies got shares in Cantor's USA Rare Earth PIPE",
+      "why_connected": "Warren/Wyden/Van Hollen allege billionaire Trump allies accessed the Cantor-brokered $1.5B PIPE priced the day of the Commerce LOI.",
+      "entities": [
+        "usa-rare-earth",
+        "cantor-fitzgerald",
+        "brandon-lutnick"
+      ],
+      "source_url": "https://www.warren.senate.gov/newsroom/press-releases/warren-wyden-van-hollen-sound-alarm-on-lutnick-familys-conflicts-of-interest-involving-new-commerce-rare-earth-deal/"
+    },
+    {
+      "title": "Critical Metals / Tanbreez: Cantor stake and U.S. stake talks over Greenland",
+      "why_connected": "Cantor is reportedly a top holder while the administration discussed equity in the Greenland project during Trump's Greenland push.",
+      "entities": [
+        "critical-metals-corp",
+        "cantor-fitzgerald",
+        "donald-trump"
+      ],
+      "source_url": "https://thedeepdive.ca/a-western-company-just-locked-up-greenlands-rarest-deposit-and-its-backers-have-washington-ties/"
+    },
+    {
+      "title": "Perpetua Resources EXIM loan and Nez Perce challenge",
+      "why_connected": "Multi-billion EXIM loan to a company on the NYT 14-company list; family tie per NYT is Cantor.",
+      "entities": [
+        "perpetua-resources",
+        "exim-bank",
+        "cantor-fitzgerald"
+      ],
+      "source_url": "https://www.eenews.net/articles/feds-advance-2-7b-loan-for-idaho-gold-mine/"
+    },
+    {
+      "title": "Post-midterm House investigations of mineral equity deals",
+      "why_connected": "Democrats signal subpoena-backed probes of the 14 deals after the Nov 2026 midterms.",
+      "entities": [
+        "us-congress",
+        "us-commerce-department",
+        "pentagon"
+      ],
+      "source_url": "https://www.eenews.net/articles/democrats-post-midterm-war-plan-mineral-deal-investigations/"
+    }
+  ],
+  "audit": {
+    "checked": [
+      "Deal terms for MP Materials, Lithium Americas and Intel (written from memory; gap flagged)",
+      "Any Trump/Lutnick-family position in MP Materials, Lithium Americas or Intel",
+      "Family ties and federal support for Energy Fuels, Titan Mining, Guardian Metal and American Ocean Minerals (gap flagged)"
+    ],
+    "result": "corrected",
+    "changes": [
+      "Equity-stakes sub-claim: re-sourced MP ($400M preferred, ~15%, $110/kg floor), Lithium Americas (5% + 5% JV warrants, $435M drawdown) and Intel (9.9%, $8.9B at $20.47) terms.",
+      "Added AP report that Trump's own accounts bought Intel shares in Q1 2026, after the stake; correction reworded so 'no family position' no longer holds for Intel. Verdict on that sub-claim kept unverified because the claim's 'positioned to profit' framing via family firms is still not shown.",
+      "Perpetua/ASP/Westwater sub-claim: added Cantor-arranged >$150M AOMC placement (per C77), Energy Fuels' ~$725M conditional OSC loan and Titan's EXIM financing; family ties for Energy Fuels, Titan and Guardian still unverified.",
+      "Summary updated; overall verdict mostly-accurate kept.",
+      "Not re-checked: USAR PIPE terms, Kaz/Skyline, Vulcan, Trilogy."
+    ],
+    "new_sources": [
+      {
+        "title": "MP Materials lands multi-billion Pentagon deal",
+        "publisher": "Mining.com",
+        "url": "https://www.mining.com/mp-materials-lands-multi-billion-pentagon-deal/",
+        "date": "2025-07-10"
+      },
+      {
+        "title": "US government to take 5% stake in Lithium Americas and joint venture with GM",
+        "publisher": "Mining.com (Reuters)",
+        "url": "https://www.mining.com/web/us-government-to-take-5-stake-in-lithium-americas-and-joint-venture-with-gm-source-says/",
+        "date": "2025-10-01"
+      },
+      {
+        "title": "US DOE takes equity stake in Lithium Americas' Thacker Pass project",
+        "publisher": "electrive",
+        "url": "https://www.electrive.com/2025/10/01/us-doe-takes-equity-stake-in-lithium-americas-thacker-pass-project",
+        "date": "2025-10-01"
+      },
+      {
+        "title": "Intel announces $8.9 billion investment from US government, which will own 9.9% of chipmaker",
+        "publisher": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/news/intel-announces-89-billion-investment-from-us-government-which-will-own-99-of-chipmaker-180452175.html",
+        "date": "2025-08-22"
+      },
+      {
+        "title": "Trump discloses thousands of stock trades, some in companies directly influenced by his policies",
+        "publisher": "AP via WTOP",
+        "url": "https://wtop.com/business-finance/2026/05/trump-discloses-thousands-of-stock-trades-some-in-companies-directly-influenced-by-his-policies/",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "Energy Fuels lands $725M Pentagon loan for rare earths boost",
+        "publisher": "Mining.com",
+        "url": "https://www.mining.com/energy-fuels-lands-725m-pentagon-loan-for-rare-earths-boost/",
+        "date": "2026-06"
+      },
+      {
+        "title": "Titan Mining soars on $15.8M EXIM funding for zinc-graphite development",
+        "publisher": "Mining.com",
+        "url": "https://www.mining.com/titan-mining-soars-on-15-8m-exim-funding-for-zinc-graphite-development/",
+        "date": ""
+      },
+      {
+        "title": "Odyssey to merge with ex-Rio Tinto CEO's deep-sea mining firm in $1B deal (Reuters)",
+        "publisher": "Baird Maritime",
+        "url": "https://www.bairdmaritime.com/amp/story/offshore/undersea-mining/odyssey-to-merge-with-ex-rio-tinto-ceos-deep-sea-mining-firm-in-1b-deal",
+        "date": "2026-04-08"
+      }
+    ]
+  }
+}

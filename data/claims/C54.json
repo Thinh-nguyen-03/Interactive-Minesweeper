@@ -1,0 +1,1192 @@
+{
+  "id": "C54",
+  "title": "The crypto revolving door: officials who moved to firms they shaped policy for",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "Most of the named moves are documented. Bo Hines left the White House crypto council on 9 Aug 2025, joined Tether on 19 Aug and became CEO of its US arm (USAT) on 12 Sep 2025. Per the WSJ (14 Oct 2026), a firm he co-owned, Nxum, had a $415K-a-month Tether deal from May 2025 and received about $6.3M, and Sen. Blumenthal opened an inquiry on 22 Oct 2026. Caroline Pham (CFTC to MoonPay), Summer Mersinger (CFTC to Blockchain Association) and Brian Quintenz (a16z/Kalshi to a withdrawn CFTC nomination, then SUI Group's board and, from July 2026, senior adviser to the Kalshi-backed Coalition for Prediction Markets) are also documented. So are the industry ties Mike Selig, Paul Atkins and Jonathan Gould brought into office, and Steve Witkoff's retained World Liberty holdings as special envoy. Gaps: I found no waiver or cooling-off record for Hines or Gould, no named 2025-26 SEC staff move to Coinbase or a16z, and no finding by any authority that a move broke ethics rules.",
+  "sub_claims": [
+    {
+      "statement": "Bo Hines went from director of the White House crypto council to running Tether's US arm (USAT).",
+      "verdict": "confirmed",
+      "finding": "Hines was executive director of the President's Council of Advisers on Digital Assets from Jan 2025 and announced his departure on 9 Aug 2025. Tether named him strategic adviser for digital assets and US strategy on 19 Aug 2025, ten days later. On 12 Sep 2025 Tether unveiled USAT and named him CEO of the US business, based in Charlotte. Anchorage Digital Bank is the issuer and Cantor Fitzgerald the reserve custodian (see C35). USAT launched on 27 Jan 2026. Some early reports called him 'CEO of Tether USA' as early as August; Bloomberg and others called him an adviser until the September announcement.",
+      "sources": [
+        "https://cointelegraph.com/news/bo-hines-director-white-house-crypto-group-steps-down",
+        "https://decrypt.co/334416/bo-hines-leave-white-house-crypto-post-private-sector",
+        "https://www.bloomberg.com/news/articles/2025-08-19/tether-taps-ex-white-house-crypto-advisor-hines-for-us-expansion",
+        "https://www.theblock.co/post/370472",
+        "https://dc.fortune.com/crypto/2025/09/12/tether-paolo-ardoino-bo-hines-stablecoin-crypto-trump-anchorage",
+        "https://www.fortune.com/2026/01/27/crypto-giant-tether-pushes-into-the-u-s-with-usat-stablecoin-to-challenge-circle/"
+      ]
+    },
+    {
+      "statement": "Hines's move raises cooling-off/ethics issues (payments from Tether while he shaped stablecoin policy).",
+      "verdict": "partly-accurate",
+      "finding": "The WSJ reported on 14 Oct 2026 (known here through secondary coverage) that Tether agreed in May 2025 to pay Nxum, a consulting firm Hines co-founded and still owned a third of while in government, $415,000 a month for lobbying, PR and advisory work. About $6.3M reportedly flowed. Early payments were routed through a marketing firm, Notorious, and later ones, including two of $2.49M in Dec 2025 and Apr 2026, went straight to Nxum after Hines left. The WSJ also reported that Hines pushed for the GENIUS Act's three-year transition period, a provision favourable to Tether. On 22 Oct 2026 Sen. Blumenthal (PSI ranking member) wrote to Tether CEO Paolo Ardoino and to Nxum CEO Todd Hines, Bo's father, asking for contracts and payment records by 3 Nov 2026 (one outlet says 6 Nov). His letter says the arrangement implicates ethics, anticorruption and lobbying laws, and that Nxum never registered its lobbying. No public ethics waiver or post-employment determination for Hines was found. No authority has found a violation, and the reporting does not show the money changed any provision. Audit note: the 22 Oct 2026 letters went to Tether CEO Paolo Ardoino and to Todd Hines, Bo's father, at Nxum. They say Nxum never registered as a lobbyist and cite WSJ-reviewed messages in which Ardoino urged Nxum to 'obliterate' GENIUS Act opponents. Per the WSJ, citing FEC records, the Fellowship PAC (chaired by Tether's government-affairs head Jesse Spiro) also paid Nxum Group $6.55M from Jan to Apr 2026. Nxum says Hines was unaware of and uninvolved in its Tether work while in government. Tether cites an external-counsel review. These are allegations, not findings.",
+      "sources": [
+        "https://www.ibtimes.co.uk/bo-hines-tether-nxum-stablecoin-law-payments-1826042",
+        "https://ambcrypto.com/tethers-6-3m-payments-to-bo-hines-linked-firm-raise-timeline-questions/",
+        "https://decrypt.co/381755/senate-democrat-tether-payments-ex-white-house-crypto-adviser",
+        "https://www.hsgac.senate.gov/wp-content/uploads/2026-10-22-Letter-from-Sen-Blumenthal-to-Nxum.pdf",
+        "https://bitbo.io/news/blumenthal-probes-tether-payments/",
+        "https://decrypt.co/381755/senate-democrat-tether-payments-ex-white-house-crypto-adviser",
+        "https://www.hsgac.senate.gov/wp-content/uploads/2026-10-22-Letter-from-Sen-Blumenthal-to-Tether.pdf",
+        "https://protos.com/tether-paid-bo-hines-company-while-he-was-at-white-house-wsj/"
+      ]
+    },
+    {
+      "statement": "Brian Quintenz (Kalshi board) had his CFTC chair nomination withdrawn.",
+      "verdict": "confirmed",
+      "finding": "Quintenz was a CFTC commissioner in Trump's first term, then a16z crypto's global head of policy and a Kalshi board member (reportedly since 2021). He pledged to leave the Kalshi board if confirmed, and his Kalshi ties drew gaming-industry opposition. Trump nominated him in early 2025. After months of delay and a public feud with the Winklevoss twins, who urged Trump to drop him (Quintenz released their texts), the White House withdrew the nomination on 30 Sep 2025; it was reported on 1 Oct. Mike Selig was nominated instead. Quintenz joined SUI Group's board (Nasdaq: SUIG) as an independent director effective 5 Jan 2026. In July 2026 the Coalition for Prediction Markets (members include Kalshi, Crypto.com, Coinbase, Robinhood and Underdog; led by former Rep. Sean Patrick Maloney) named him a senior adviser. The role supports its push for long-term CFTC authorisation and funding. Note: as a withdrawn nominee he never held office in this administration, so this is an industry-to-nominee-to-industry path, not a classic revolving-door exit.",
+      "sources": [
+        "https://www.covers.com/industry/white-house-pulls-quintenz-nomination-for-cftc-oct-1-2025",
+        "https://www.theblock.co/amp/post/372990/white-house-drops-brian-quintenz-from-cftc-chair-consideration",
+        "https://www.notus.org/trump-white-house/brian-quintenz-white-house-cftc-nominee-winklevoss-twins",
+        "https://sbcamericas.com/2025/10/01/white-house-ditches-quintenz-cftc-chair/",
+        "https://www.businesswire.com/news/home/20260106529089/en",
+        "https://bettorsinsider.com/?p=18539",
+        "https://deadspin.com/prediction-markets/legal-news/coalition-for-prediction-markets-adds-brian-quintenz-to-its-ranks/",
+        "https://gamingamerica.com/news/1086011/brian-quintenz-coalition-prediction-markets"
+      ]
+    },
+    {
+      "statement": "Mike Selig's prior crypto clients.",
+      "verdict": "confirmed",
+      "finding": "Before government, Selig was a Willkie Farr & Gallagher partner. He represented crypto clients including eToro and Paradigm, and The Intercept's review of his ethics records (26 Nov 2025) adds venture firms, a Cayman Islands blockchain company, Architect Financial Technologies and trade groups such as the Blockchain Association. He was chief counsel of the SEC's Crypto Task Force in 2025, was confirmed CFTC chair on 18 Dec 2025 (53-43, see C25) and was sworn in on 22 Dec 2025. Per The Intercept, his ethics agreement makes him step back from former clients' matters only for the standard one year after his last service, with no broader recusal. The full client list rests on The Intercept and his OGE filing; I could not read either directly.",
+      "sources": [
+        "https://theintercept.com/2025/11/26/trump-crypto-regulation-cftc-mike-selig/",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/9C903C665498A61785258D3F0031957A/$FILE/Selig%2C%20Michael%20%20finalEA.pdf",
+        "https://m.mondovisione.com/news/michael-selig-sworn-in-as-16th-cftc-chairman-20251222",
+        "https://bitcoinmagazine.com/news/trump-picks-crypto-counsel-michael-selig"
+      ]
+    },
+    {
+      "statement": "Paul Atkins's prior crypto clients and holdings.",
+      "verdict": "confirmed",
+      "finding": "Atkins founded Patomak Global Partners, whose clients reportedly included banks, crypto exchanges and DeFi platforms. FTX signed on in early 2022. His OGE disclosure, made public on 25 Mar 2025, showed up to ~$327M in family assets and up to ~$6M in crypto-related assets: about $1M of Anchorage Digital equity, Securitize call options worth $2.5-5M, and a small Pontoro stake. He reported no direct crypto. He pledged to resign from Patomak and divest within 90 days of confirmation, and to stay out of matters involving Patomak or its clients for one year. On 6 Aug 2025 Sen. Warren asked him to name the buyer and the price; the SEC said he complies with his ethics agreement, and no buyer has been disclosed in what I found. Barron's (Aug 2025) reported that defendants in a Trump Media lawsuit sought Patomak records on any TMTG engagement. TMTG called this 'meritless' and denied engaging Patomak.",
+      "sources": [
+        "https://cointelegraph.com/news/paul-atkins-sec-hearing-financial-disclosure-wife",
+        "https://www.theblock.co/amp/post/348123/sec-chair-nominee-paul-atkins-held-shares-in-securitize-and-anchorage-digital-financial-disclosures-show-reports",
+        "https://www.theblock.co/post/347827/sen-warren-presses-sec-nominee-paul-atkins-on-ftx-ties-trumps-crypto-conflicts",
+        "https://www.banking.senate.gov/newsroom/minority/warren-calls-on-atkins-to-disclosure-buyer-of-lucrative-consulting-business",
+        "https://www.thinkadvisor.com/amp/2025/08/06/sen-warren-presses-sec-chair-on-consulting-firm-sale/",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/84398B6A308FF36C85258C58002C898F/$FILE/Atkins%2C Paul S.  finalEA.pdf",
+        "https://news.bloomberglaw.com/us-law-week/trumps-sec-pick-brings-slew-of-potential-conflicts-to-new-role",
+        "https://www.itiger.com/news/2559943634"
+      ]
+    },
+    {
+      "statement": "Jonathan Gould (OCC) came from crypto firm Bitfury.",
+      "verdict": "mostly-accurate",
+      "finding": "Gould was senior deputy comptroller and chief counsel at the OCC (2018-21), then Bitfury's chief legal officer from 2022 (Law.com). He was earlier a Jones Day partner. He was confirmed Comptroller 50-45 on 10 Jul 2025, and his OCC granted World Liberty's trust-bank charter preliminary conditional approval on 14 Aug 2026 (see C12). I found no public ethics agreement, recusal list or waiver covering Bitfury or crypto-charter matters. Reports of Warren seeking a four-year recusal come only from a low-reliability dossier site and are unverified. Audit note: a fresh search (Nov 2026) again found no public ethics agreement, recusal memo or waiver for Gould in mainstream coverage or official pages. Claims about Warren letters seeking a four-year recusal (Mar 2025) and Erebor-charter recusal records (Feb 2026) appear only on the unreliable dossier site and remain unverified.",
+      "sources": [
+        "https://www.theblock.co/amp/post/340494/trump-picks-former-bitfury-exec-jonathan-gould-to-lead-the-occ-signaling-ongoing-shift-to-crypto-friendly-regulators",
+        "https://www.theblock.co/amp/post/362071/senate-confirms-former-blockchain-executive-jonathan-gould-to-lead-occ",
+        "https://law.com/corpcounsel/2022/02/11/bitfury-taps-regulatory-vet-to-lead-crypto-companys-legal-team",
+        "https://www.theblock.co/amp/post/362071/senate-confirms-former-blockchain-executive-jonathan-gould-to-lead-occ"
+      ]
+    },
+    {
+      "statement": "David Sacks (AI & crypto czar) kept industry holdings under ethics waivers.",
+      "verdict": "confirmed",
+      "finding": "Established in C34. He served as a special government employee under ethics waivers (crypto, 5 Mar 2025; AI, mid-2025) while Craft Ventures kept AI-linked stakes and a 7.8% BitGo stake. He stepped down as czar around 26-27 Mar 2026 and became PCAST co-chair. Sacks denies any conflict.",
+      "sources": [
+        "https://www.warren.senate.gov/newsroom/press-releases/warren-stansbury-members-of-congress-launch-investigation-into-trump-crypto-and-ai-czars-ethics-conflicts"
+      ]
+    },
+    {
+      "statement": "SEC/CFTC officials departed to crypto firms (Coinbase, a16z, etc.).",
+      "verdict": "partly-accurate",
+      "finding": "The clearest cases are at the CFTC. Acting Chair Caroline Pham's move to MoonPay as chief legal and administrative officer was announced on 17 Dec 2025, to start when her CFTC service ended; MoonPay said she would lead its Washington policy strategy. Commissioner Summer Mersinger's move to Blockchain Association CEO was announced on 14 May 2025; she started on 2 Jun 2025, leaving a term that ran to Apr 2028, and was reported in Sep 2026 to be stepping down at year-end. Former SEC Trading & Markets director Brett Redfearn, a first-term official, went to Coinbase and then became Securitize's president in Apr 2026. Securitize was an Atkins holding. Traffic also runs the other way: Selig moved from industry law to the SEC to the CFTC, and Taylor Lindman, Chainlink's deputy GC, became SEC Crypto Task Force chief counsel on 23 Feb 2026. I could not name any 2025-26 SEC staffer who moved to Coinbase or a16z specifically; one Jan 2026 headline about a Coinbase hire was too thin to rely on. The widely cited count of 200+ officials (28 SEC, 15 CFTC) comes from a Tech Transparency Project study cited in Oct 2022 congressional letters, so it predates this administration. Audit note: a fresh search again found no named 2025-26 SEC staffer moving to Coinbase or a16z. The nearest is Elad Roisman, a former SEC commissioner and acting chair who left the SEC in 2022. Fireblocks hired him in Aug 2026 as chief regulatory and policy officer, which is an older-era official, not a current-administration exit.",
+      "sources": [
+        "https://www.moonpay.com/newsroom/caroline-d-pham",
+        "https://www.bloomberg.com/news/articles/2025-12-17/moonpay-says-cftc-s-caroline-pham-will-join-crypto-payments-firm",
+        "https://blockworks.co/news/summer-mersinger-cftc-blockchain-association",
+        "https://thedefiant.io/news/people/cftc-s-mersinger-to-head-blockchain-association-ceo-starting-june-2-succeeding-c198da9f",
+        "https://cointelegraph.com/news/cftc-commissioner-leaving-blockchain-association-ceo",
+        "https://cointelegraph.com/news/sec-official-securitize-president-board",
+        "https://theblock.co/post/390889/chainlinks-taylor-lindman-joins-sec-as-chief-counsel-for-crypto-task-force",
+        "https://www.techtransparencyproject.org/articles/crypto-industry-amasses-washington-insiders-lobbying-blitz-intensifies",
+        "https://www.warren.senate.gov/newsroom/press-releases/warren-ocasio-cortez-lawmakers-seek-answers-from-financial-regulators-about-revolving-door-between-regulatory-agencies-and-crypto-industry",
+        "https://www.financemagnates.com/executives/moves/fireblocks-taps-former-sec-acting-chair-for-stablecoin-and-tokenisation-push/"
+      ]
+    },
+    {
+      "statement": "Hines's successor Patrick Witt also left for industry.",
+      "verdict": "unverified",
+      "finding": "Witt was Hines's deputy and took the executive director post in Aug 2025. He had been a Pentagon technology official and acting director of the Office of Strategic Capital. He announced his exit on 14 Oct 2026 as the CLARITY Act stalled and said he would go to the private sector. No employer had been reported in what I found.",
+      "sources": [
+        "https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611",
+        "https://thehill.com/policy/technology/6151072-trump-crypto-advisor-patrick-witt-leaves/amp/"
+      ]
+    },
+    {
+      "statement": "Trump family business partners were placed in government roles.",
+      "verdict": "mostly-accurate",
+      "finding": "Steve Witkoff co-founded World Liberty Financial with the Trump sons; his son Zach is WLF's CEO. He became Special Envoy. WLF said in May 2025 that he was divesting, yet his 13 Aug 2025 disclosure still listed WLF crypto holdings and WC Digital Fi LLC shares. Senators led by Schiff and Warren queried OGE (Oct 2025), and Warren and Murphy opened an inquiry on 18 Nov 2025. A spokesperson said he does not take part in matters affecting his financial interests. Howard Lutnick's Cantor-Tether ties (C35) are a second example. I did not find a systematic list of family business partners in government posts.",
+      "sources": [
+        "https://fortune.com/crypto/2025/10/22/adam-schiff-senators-steve-witkoff-trump-uae-world-liberty-financial/",
+        "https://www.warren.senate.gov/newsroom/press-releases/warren-murphy-investigate-ethics-conflicts-related-to-trumps-envoy-to-the-middle-east",
+        "https://kvia.com/?p=1442925"
+      ]
+    }
+  ],
+  "corrections": [
+    "The claim calls Quintenz part of an official-to-industry move, but he never took office in this administration. His nomination was withdrawn on 30 Sep 2025, and his Kalshi board seat predated the nomination.",
+    "Hines was first a Tether 'strategic adviser' (19 Aug 2025). He became CEO of the US arm/USAT on 12 Sep 2025, not on leaving the White House.",
+    "The '200+ officials' revolving-door count (Tech Transparency Project) dates from 2022 and does not measure this administration.",
+    "No 2025-26 SEC staff move to Coinbase or a16z was confirmed. The best-documented departures are CFTC leaders (Pham to MoonPay, Mersinger to Blockchain Association)."
+  ],
+  "denials_and_context": [
+    "Nxum's representative said Hines did not know of the Tether deal and received no Tether funds while at the White House. Tether says an external-counsel investigation found no wrongdoing.",
+    "The SEC says Atkins complies with his ethics agreement, and Trump Media called the Patomak subpoena inquiry 'meritless'.",
+    "Witkoff's spokesperson says he does not take part in matters that could affect his financial interests. WLF says neither Trump nor Witkoff was involved in the UAE-linked $2B MGX deal.",
+    "Selig's and Atkins's one-year recusals are the standard federal ethics pledge, not special treatment. Critics argue it is too short for officials writing rules for the whole industry.",
+    "Industry-to-regulator hiring (Lindman, Selig) is defended as bringing technical expertise. Revolving-door hiring in crypto also predates this administration, as the TTP 2022 study shows.",
+    "Searches did not show any of these moves violating 18 U.S.C. 207 or a signed ethics pledge. The concerns rest on timing, payments and congressional letters."
+  ],
+  "sources": [
+    {
+      "title": "Bo Hines, director of White House crypto group, steps down",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/bo-hines-director-white-house-crypto-group-steps-down",
+      "date": "2025-08-09"
+    },
+    {
+      "title": "Tether Taps Ex-White House Crypto Advisor Hines for US Expansion",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-19/tether-taps-ex-white-house-crypto-advisor-hines-for-us-expansion",
+      "date": "2025-08-19"
+    },
+    {
+      "title": "Bo Hines named CEO of Tether's new US arm as company unveils USAT stablecoin",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/370472",
+      "date": "2025-09-12"
+    },
+    {
+      "title": "Tether, Ardoino, Bo Hines and Anchorage unveil USAT",
+      "publisher": "Fortune",
+      "url": "https://dc.fortune.com/crypto/2025/09/12/tether-paolo-ardoino-bo-hines-stablecoin-crypto-trump-anchorage",
+      "date": "2025-09-12"
+    },
+    {
+      "title": "Crypto giant Tether pushes into the U.S. with USAT stablecoin",
+      "publisher": "Fortune",
+      "url": "https://www.fortune.com/2026/01/27/crypto-giant-tether-pushes-into-the-u-s-with-usat-stablecoin-to-challenge-circle/",
+      "date": "2026-01-27"
+    },
+    {
+      "title": "Trump Crypto Adviser Helped Shape Stablecoin Law While Firm He Co-Owned Received $6.3M From Tether",
+      "publisher": "IBTimes UK (summarising WSJ)",
+      "url": "https://www.ibtimes.co.uk/bo-hines-tether-nxum-stablecoin-law-payments-1826042",
+      "date": "2026-10"
+    },
+    {
+      "title": "Tether's $6.3M payments to Bo Hines-linked firm raise timeline questions",
+      "publisher": "AMBCrypto",
+      "url": "https://ambcrypto.com/tethers-6-3m-payments-to-bo-hines-linked-firm-raise-timeline-questions/",
+      "date": "2026-10"
+    },
+    {
+      "title": "Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser's Firm",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/381755/senate-democrat-tether-payments-ex-white-house-crypto-adviser",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "Letter from Sen. Blumenthal to Nxum",
+      "publisher": "U.S. Senate HSGAC/PSI minority",
+      "url": "https://www.hsgac.senate.gov/wp-content/uploads/2026-10-22-Letter-from-Sen-Blumenthal-to-Nxum.pdf",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "Super PAC tied to Tether makes first ad buy from firm founded by Tether's U.S. CEO",
+      "publisher": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/04/10/super-pac-tied-to-tether-makes-first-ad-buy-from-firm-founded-by-tether-s-u-s-ceo",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "White House Pulls Quintenz Nomination for CFTC",
+      "publisher": "Covers",
+      "url": "https://www.covers.com/industry/white-house-pulls-quintenz-nomination-for-cftc-oct-1-2025",
+      "date": "2025-10-01"
+    },
+    {
+      "title": "White House drops Brian Quintenz from CFTC chair consideration",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/amp/post/372990/white-house-drops-brian-quintenz-from-cftc-chair-consideration",
+      "date": "2025-09-30"
+    },
+    {
+      "title": "Brian Quintenz, White House CFTC nominee, and the Winklevoss twins",
+      "publisher": "NOTUS",
+      "url": "https://www.notus.org/trump-white-house/brian-quintenz-white-house-cftc-nominee-winklevoss-twins",
+      "date": "2025-09"
+    },
+    {
+      "title": "SUI Group appoints former CFTC Commissioner Brian Quintenz to board",
+      "publisher": "Business Wire",
+      "url": "https://www.businesswire.com/news/home/20260106529089/en",
+      "date": "2026-01-06"
+    },
+    {
+      "title": "Trump crypto regulation: CFTC nominee Mike Selig",
+      "publisher": "The Intercept",
+      "url": "https://theintercept.com/2025/11/26/trump-crypto-regulation-cftc-mike-selig/",
+      "date": "2025-11-26"
+    },
+    {
+      "title": "Michael Selig ethics agreement",
+      "publisher": "U.S. Office of Government Ethics",
+      "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/9C903C665498A61785258D3F0031957A/$FILE/Selig%2C%20Michael%20%20finalEA.pdf",
+      "date": "2025"
+    },
+    {
+      "title": "Michael Selig sworn in as 16th CFTC Chairman",
+      "publisher": "Mondo Visione",
+      "url": "https://m.mondovisione.com/news/michael-selig-sworn-in-as-16th-cftc-chairman-20251222",
+      "date": "2025-12-22"
+    },
+    {
+      "title": "Paul Atkins SEC hearing financial disclosure",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/paul-atkins-sec-hearing-financial-disclosure-wife",
+      "date": "2025-03-25"
+    },
+    {
+      "title": "SEC Chair nominee Paul Atkins held shares in Securitize and Anchorage Digital",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/amp/post/348123/sec-chair-nominee-paul-atkins-held-shares-in-securitize-and-anchorage-digital-financial-disclosures-show-reports",
+      "date": "2025-03"
+    },
+    {
+      "title": "Sen. Warren presses SEC nominee Paul Atkins on FTX ties",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/347827/sen-warren-presses-sec-nominee-paul-atkins-on-ftx-ties-trumps-crypto-conflicts",
+      "date": "2025-03"
+    },
+    {
+      "title": "Warren calls on Atkins to disclose buyer of lucrative consulting business",
+      "publisher": "Senate Banking Committee minority",
+      "url": "https://www.banking.senate.gov/newsroom/minority/warren-calls-on-atkins-to-disclosure-buyer-of-lucrative-consulting-business",
+      "date": "2025-08-06"
+    },
+    {
+      "title": "Paul S. Atkins ethics agreement",
+      "publisher": "U.S. Office of Government Ethics",
+      "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/84398B6A308FF36C85258C58002C898F/$FILE/Atkins%2C Paul S.  finalEA.pdf",
+      "date": "2025-03-20"
+    },
+    {
+      "title": "Trump's SEC Pick Brings Slew of Potential Conflicts to New Role",
+      "publisher": "Bloomberg Law",
+      "url": "https://news.bloomberglaw.com/us-law-week/trumps-sec-pick-brings-slew-of-potential-conflicts-to-new-role",
+      "date": "2025"
+    },
+    {
+      "title": "SEC Chair Paul Atkins Is Drawn Into Trump Media Legal Fight",
+      "publisher": "Barron's (via iTiger)",
+      "url": "https://www.itiger.com/news/2559943634",
+      "date": "2025-08"
+    },
+    {
+      "title": "Trump picks former Bitfury exec Jonathan Gould to lead the OCC",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/amp/post/340494/trump-picks-former-bitfury-exec-jonathan-gould-to-lead-the-occ-signaling-ongoing-shift-to-crypto-friendly-regulators",
+      "date": "2025-02"
+    },
+    {
+      "title": "Senate confirms former blockchain executive Jonathan Gould to lead OCC",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/amp/post/362071/senate-confirms-former-blockchain-executive-jonathan-gould-to-lead-occ",
+      "date": "2025-07-10"
+    },
+    {
+      "title": "Bitfury taps regulatory vet to lead crypto company's legal team",
+      "publisher": "Law.com Corporate Counsel",
+      "url": "https://law.com/corpcounsel/2022/02/11/bitfury-taps-regulatory-vet-to-lead-crypto-companys-legal-team",
+      "date": "2022-02-11"
+    },
+    {
+      "title": "CFTC Acting Chairman Caroline D. Pham to Join MoonPay",
+      "publisher": "MoonPay",
+      "url": "https://www.moonpay.com/newsroom/caroline-d-pham",
+      "date": "2025-12-17"
+    },
+    {
+      "title": "MoonPay Says CFTC's Caroline Pham Will Join Crypto Payments Firm",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-17/moonpay-says-cftc-s-caroline-pham-will-join-crypto-payments-firm",
+      "date": "2025-12-17"
+    },
+    {
+      "title": "CFTC's Summer Mersinger to take helm of Blockchain Association",
+      "publisher": "Blockworks",
+      "url": "https://blockworks.co/news/summer-mersinger-cftc-blockchain-association",
+      "date": "2025-05-14"
+    },
+    {
+      "title": "Mersinger to step down as Blockchain Association CEO",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/cftc-commissioner-leaving-blockchain-association-ceo",
+      "date": "2026-09-25"
+    },
+    {
+      "title": "Former SEC official Redfearn named Securitize president",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/sec-official-securitize-president-board",
+      "date": "2026-04"
+    },
+    {
+      "title": "Chainlink's Taylor Lindman joins SEC as chief counsel for crypto task force",
+      "publisher": "The Block",
+      "url": "https://theblock.co/post/390889/chainlinks-taylor-lindman-joins-sec-as-chief-counsel-for-crypto-task-force",
+      "date": "2026-02-23"
+    },
+    {
+      "title": "Crypto Industry Amasses Washington Insiders as Lobbying Blitz Intensifies",
+      "publisher": "Tech Transparency Project",
+      "url": "https://www.techtransparencyproject.org/articles/crypto-industry-amasses-washington-insiders-lobbying-blitz-intensifies",
+      "date": "2022"
+    },
+    {
+      "title": "Warren, Ocasio-Cortez seek answers on revolving door between regulators and crypto industry",
+      "publisher": "Office of Sen. Warren",
+      "url": "https://www.warren.senate.gov/newsroom/press-releases/warren-ocasio-cortez-lawmakers-seek-answers-from-financial-regulators-about-revolving-door-between-regulatory-agencies-and-crypto-industry",
+      "date": "2022-10-25"
+    },
+    {
+      "title": "Patrick Witt exits White House crypto role as Clarity Act stalls",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Schiff, senators press on Steve Witkoff's World Liberty holdings",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/crypto/2025/10/22/adam-schiff-senators-steve-witkoff-trump-uae-world-liberty-financial/",
+      "date": "2025-10-22"
+    },
+    {
+      "title": "Warren, Murphy investigate ethics conflicts related to Trump's envoy to the Middle East",
+      "publisher": "Office of Sen. Warren",
+      "url": "https://www.warren.senate.gov/newsroom/press-releases/warren-murphy-investigate-ethics-conflicts-related-to-trumps-envoy-to-the-middle-east",
+      "date": "2025-11-18"
+    },
+    {
+      "title": "Coalition for Prediction Markets adds Brian Quintenz to its ranks",
+      "publisher": "Deadspin",
+      "url": "https://deadspin.com/prediction-markets/legal-news/coalition-for-prediction-markets-adds-brian-quintenz-to-its-ranks/",
+      "date": "2026-07"
+    },
+    {
+      "title": "Jilted CFTC nominee Brian Quintenz to lobby with Coalition for Prediction Markets",
+      "publisher": "Gaming America",
+      "url": "https://gamingamerica.com/news/1086011/brian-quintenz-coalition-prediction-markets",
+      "date": "2026-07"
+    },
+    {
+      "title": "Letter from Sen. Blumenthal to Tether",
+      "publisher": "Senate PSI minority (HSGAC)",
+      "url": "https://www.hsgac.senate.gov/wp-content/uploads/2026-10-22-Letter-from-Sen-Blumenthal-to-Tether.pdf",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "Tether paid Bo Hines' company while he was at White House, WSJ",
+      "publisher": "Protos",
+      "url": "https://protos.com/tether-paid-bo-hines-company-while-he-was-at-white-house-wsj/",
+      "date": "2026-10"
+    },
+    {
+      "title": "Fireblocks taps former SEC acting chair for stablecoin and tokenisation push",
+      "publisher": "Finance Magnates",
+      "url": "https://www.financemagnates.com/executives/moves/fireblocks-taps-former-sec-acting-chair-for-stablecoin-and-tokenisation-push/",
+      "date": "2026-08-17"
+    }
+  ],
+  "entities": [
+    {
+      "id": "bo-hines",
+      "name": "Bo Hines",
+      "type": "person",
+      "description": "Ex-executive director, White House crypto council (Jan-Aug 2025); CEO of Tether's US arm/USAT"
+    },
+    {
+      "id": "tether",
+      "name": "Tether",
+      "type": "company",
+      "description": "Issuer of USDT; hired Hines and paid his co-owned firm Nxum"
+    },
+    {
+      "id": "usat",
+      "name": "USAT",
+      "type": "product",
+      "description": "Tether's GENIUS-compliant US stablecoin, launched Jan 2026"
+    },
+    {
+      "id": "paolo-ardoino",
+      "name": "Paolo Ardoino",
+      "type": "person",
+      "description": "Tether CEO; recipient of Blumenthal's Oct 2026 letter"
+    },
+    {
+      "id": "anchorage-digital",
+      "name": "Anchorage Digital",
+      "type": "company",
+      "description": "USAT issuer; Atkins held ~$1M equity before taking office"
+    },
+    {
+      "id": "cantor-fitzgerald",
+      "name": "Cantor Fitzgerald",
+      "type": "company",
+      "description": "USAT reserve custodian; Lutnick family firm"
+    },
+    {
+      "id": "nxum-group",
+      "name": "Nxum Group",
+      "type": "company",
+      "description": "Consulting firm co-founded and one-third owned by Bo Hines; reportedly paid ~$6.3M by Tether"
+    },
+    {
+      "id": "todd-hines",
+      "name": "Todd Hines",
+      "type": "person",
+      "description": "Nxum CEO, Bo Hines's father"
+    },
+    {
+      "id": "presidents-council-of-advisers-on-digital-assets",
+      "name": "President's Council of Advisers on Digital Assets",
+      "type": "government",
+      "description": "White House crypto council led by Hines, then Witt"
+    },
+    {
+      "id": "patrick-witt",
+      "name": "Patrick Witt",
+      "type": "person",
+      "description": "Hines's successor at the crypto council (Aug 2025-Oct 2026)"
+    },
+    {
+      "id": "brian-quintenz",
+      "name": "Brian Quintenz",
+      "type": "person",
+      "description": "Ex-CFTC commissioner, ex-a16z crypto policy head, Kalshi board; CFTC chair nomination withdrawn Sep 2025"
+    },
+    {
+      "id": "andreessen-horowitz",
+      "name": "Andreessen Horowitz (a16z crypto)",
+      "type": "fund",
+      "description": "VC firm where Quintenz was global head of policy"
+    },
+    {
+      "id": "sui-group",
+      "name": "SUI Group",
+      "type": "company",
+      "description": "Nasdaq-listed SUI treasury company; Quintenz joined board Jan 2026"
+    },
+    {
+      "id": "kalshi",
+      "name": "Kalshi",
+      "type": "company",
+      "description": "Prediction market; Quintenz board member, Don Jr. adviser"
+    },
+    {
+      "id": "tyler-winklevoss",
+      "name": "Tyler Winklevoss",
+      "type": "person",
+      "description": "Gemini co-founder who lobbied against Quintenz"
+    },
+    {
+      "id": "cameron-winklevoss",
+      "name": "Cameron Winklevoss",
+      "type": "person",
+      "description": "Gemini co-founder who lobbied against Quintenz"
+    },
+    {
+      "id": "mike-selig",
+      "name": "Mike Selig",
+      "type": "person",
+      "description": "CFTC Chair since Dec 2025; ex-Willkie Farr crypto lawyer and SEC Crypto Task Force chief counsel"
+    },
+    {
+      "id": "willkie-farr-gallagher",
+      "name": "Willkie Farr & Gallagher",
+      "type": "company",
+      "description": "Law firm where Selig represented crypto clients"
+    },
+    {
+      "id": "paul-atkins",
+      "name": "Paul Atkins",
+      "type": "person",
+      "description": "SEC Chair; founder of Patomak Global Partners"
+    },
+    {
+      "id": "patomak-global-partners",
+      "name": "Patomak Global Partners",
+      "type": "company",
+      "description": "Atkins's consultancy; clients included FTX, banks and crypto firms"
+    },
+    {
+      "id": "ftx",
+      "name": "FTX",
+      "type": "company",
+      "description": "Collapsed exchange; former Patomak client"
+    },
+    {
+      "id": "securitize",
+      "name": "Securitize",
+      "type": "company",
+      "description": "Tokenization firm; Atkins held options; Redfearn became president 2026"
+    },
+    {
+      "id": "jonathan-gould",
+      "name": "Jonathan Gould",
+      "type": "person",
+      "description": "Comptroller of the Currency since Jul 2025; ex-Bitfury CLO"
+    },
+    {
+      "id": "bitfury",
+      "name": "Bitfury",
+      "type": "company",
+      "description": "Bitcoin mining/blockchain firm where Gould was chief legal officer"
+    },
+    {
+      "id": "david-sacks",
+      "name": "David Sacks",
+      "type": "person",
+      "description": "White House AI & crypto czar (2025-Mar 2026) under ethics waivers"
+    },
+    {
+      "id": "caroline-pham",
+      "name": "Caroline Pham",
+      "type": "person",
+      "description": "Ex-acting CFTC chair; MoonPay CLO/CAO"
+    },
+    {
+      "id": "moonpay",
+      "name": "MoonPay",
+      "type": "company",
+      "description": "Crypto payments firm that hired Pham"
+    },
+    {
+      "id": "summer-mersinger",
+      "name": "Summer Mersinger",
+      "type": "person",
+      "description": "Ex-CFTC commissioner; Blockchain Association CEO from Jun 2025"
+    },
+    {
+      "id": "blockchain-association",
+      "name": "Blockchain Association",
+      "type": "company",
+      "description": "Crypto trade/lobby group; Selig former client; Mersinger CEO"
+    },
+    {
+      "id": "brett-redfearn",
+      "name": "Brett Redfearn",
+      "type": "person",
+      "description": "Ex-SEC Trading & Markets director; Coinbase, then Securitize president"
+    },
+    {
+      "id": "taylor-lindman",
+      "name": "Taylor Lindman",
+      "type": "person",
+      "description": "Ex-Chainlink deputy GC; SEC Crypto Task Force chief counsel from Feb 2026"
+    },
+    {
+      "id": "chainlink-labs",
+      "name": "Chainlink Labs",
+      "type": "company",
+      "description": "Blockchain oracle firm; Lindman's previous employer"
+    },
+    {
+      "id": "steve-witkoff",
+      "name": "Steve Witkoff",
+      "type": "person",
+      "description": "WLF co-founder and Special Envoy; retained WLF holdings per Aug 2025 disclosure"
+    },
+    {
+      "id": "zach-witkoff",
+      "name": "Zach Witkoff",
+      "type": "person",
+      "description": "WLF co-founder/CEO, Steve Witkoff's son"
+    },
+    {
+      "id": "howard-lutnick",
+      "name": "Howard Lutnick",
+      "type": "person",
+      "description": "Commerce Secretary; ex-Cantor CEO (see C35)"
+    },
+    {
+      "id": "world-liberty-financial",
+      "name": "World Liberty Financial",
+      "type": "company",
+      "description": "Trump family crypto venture"
+    },
+    {
+      "id": "coinbase",
+      "name": "Coinbase",
+      "type": "company",
+      "description": "Crypto exchange; employed Redfearn"
+    },
+    {
+      "id": "genius-act",
+      "name": "GENIUS Act",
+      "type": "law",
+      "description": "Stablecoin law signed Jul 18 2025"
+    },
+    {
+      "id": "clarity-act",
+      "name": "CLARITY Act",
+      "type": "law",
+      "description": "Market-structure bill that stalled in 2026"
+    },
+    {
+      "id": "richard-blumenthal",
+      "name": "Richard Blumenthal",
+      "type": "person",
+      "description": "PSI ranking member; probing Tether-Nxum payments"
+    },
+    {
+      "id": "elizabeth-warren",
+      "name": "Elizabeth Warren",
+      "type": "person",
+      "description": "Senator pressing Atkins and Witkoff on ethics"
+    },
+    {
+      "id": "chris-murphy",
+      "name": "Chris Murphy",
+      "type": "person",
+      "description": "Senator co-leading the Witkoff ethics inquiry"
+    },
+    {
+      "id": "adam-schiff",
+      "name": "Adam Schiff",
+      "type": "person",
+      "description": "Senator who queried OGE on Witkoff's holdings"
+    },
+    {
+      "id": "office-of-government-ethics",
+      "name": "Office of Government Ethics",
+      "type": "government",
+      "description": "Holds ethics agreements and disclosures"
+    },
+    {
+      "id": "trump-media-technology-group",
+      "name": "Trump Media & Technology Group",
+      "type": "company",
+      "description": "Litigation sought Patomak records"
+    },
+    {
+      "id": "sec",
+      "name": "SEC",
+      "type": "government",
+      "description": "Securities regulator"
+    },
+    {
+      "id": "cftc",
+      "name": "CFTC",
+      "type": "government",
+      "description": "Derivatives regulator"
+    },
+    {
+      "id": "occ",
+      "name": "OCC",
+      "type": "government",
+      "description": "Bank regulator; granted WLF charter approval"
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Executive office"
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "President; nominated these officials"
+    },
+    {
+      "id": "donald-trump-jr",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "Kalshi adviser; WLF co-founder"
+    },
+    {
+      "id": "wall-street-journal",
+      "name": "The Wall Street Journal",
+      "type": "media",
+      "description": "Broke the Tether-Nxum story (Oct 14 2026)"
+    },
+    {
+      "id": "the-intercept",
+      "name": "The Intercept",
+      "type": "media",
+      "description": "Reported Selig's former client list"
+    },
+    {
+      "id": "tech-transparency-project",
+      "name": "Tech Transparency Project",
+      "type": "media",
+      "description": "Watchdog that counted crypto revolving-door hires (2022)"
+    },
+    {
+      "id": "us-congress",
+      "name": "U.S. Congress",
+      "type": "government",
+      "description": "Senate letters/inquiries"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "bo-hines",
+      "target": "presidents-council-of-advisers-on-digital-assets",
+      "label": "executive director of",
+      "type": "political",
+      "date": "2025-01"
+    },
+    {
+      "source": "bo-hines",
+      "target": "tether",
+      "label": "joined as strategic adviser 10 days after leaving White House",
+      "type": "commercial",
+      "date": "2025-08-19"
+    },
+    {
+      "source": "bo-hines",
+      "target": "usat",
+      "label": "CEO of",
+      "type": "commercial",
+      "date": "2025-09-12"
+    },
+    {
+      "source": "tether",
+      "target": "nxum-group",
+      "label": "agreed to pay $415K/month; ~$6.3M paid (WSJ)",
+      "type": "money",
+      "date": "2025-05",
+      "amount_usd": 6300000
+    },
+    {
+      "source": "bo-hines",
+      "target": "nxum-group",
+      "label": "co-founder, retained one-third stake while in government",
+      "type": "ownership",
+      "date": "2025"
+    },
+    {
+      "source": "todd-hines",
+      "target": "nxum-group",
+      "label": "CEO of",
+      "type": "ownership"
+    },
+    {
+      "source": "todd-hines",
+      "target": "bo-hines",
+      "label": "father of",
+      "type": "family"
+    },
+    {
+      "source": "richard-blumenthal",
+      "target": "tether",
+      "label": "sought records on Nxum payments",
+      "type": "legal",
+      "date": "2026-10-22"
+    },
+    {
+      "source": "richard-blumenthal",
+      "target": "nxum-group",
+      "label": "sought records on Tether payments",
+      "type": "legal",
+      "date": "2026-10-22"
+    },
+    {
+      "source": "wall-street-journal",
+      "target": "bo-hines",
+      "label": "reported Tether-Nxum payments",
+      "type": "media",
+      "date": "2026-10-14"
+    },
+    {
+      "source": "bo-hines",
+      "target": "genius-act",
+      "label": "pushed three-year transition period (WSJ)",
+      "type": "political",
+      "date": "2025"
+    },
+    {
+      "source": "anchorage-digital",
+      "target": "usat",
+      "label": "issuer of",
+      "type": "commercial",
+      "date": "2025-09-12"
+    },
+    {
+      "source": "cantor-fitzgerald",
+      "target": "usat",
+      "label": "reserve custodian of",
+      "type": "commercial",
+      "date": "2025-09-12"
+    },
+    {
+      "source": "patrick-witt",
+      "target": "presidents-council-of-advisers-on-digital-assets",
+      "label": "executive director (Aug 2025-Oct 2026)",
+      "type": "political",
+      "date": "2025-08"
+    },
+    {
+      "source": "brian-quintenz",
+      "target": "kalshi",
+      "label": "board member",
+      "type": "commercial",
+      "date": "2021"
+    },
+    {
+      "source": "brian-quintenz",
+      "target": "andreessen-horowitz",
+      "label": "global head of policy, a16z crypto",
+      "type": "commercial"
+    },
+    {
+      "source": "donald-trump",
+      "target": "brian-quintenz",
+      "label": "withdrew CFTC chair nomination",
+      "type": "political",
+      "date": "2025-09-30"
+    },
+    {
+      "source": "tyler-winklevoss",
+      "target": "brian-quintenz",
+      "label": "lobbied Trump against nomination",
+      "type": "political",
+      "date": "2025-07"
+    },
+    {
+      "source": "cameron-winklevoss",
+      "target": "brian-quintenz",
+      "label": "lobbied Trump against nomination",
+      "type": "political",
+      "date": "2025-07"
+    },
+    {
+      "source": "brian-quintenz",
+      "target": "sui-group",
+      "label": "independent director",
+      "type": "commercial",
+      "date": "2026-01-05"
+    },
+    {
+      "source": "mike-selig",
+      "target": "willkie-farr-gallagher",
+      "label": "former partner representing crypto clients",
+      "type": "commercial"
+    },
+    {
+      "source": "mike-selig",
+      "target": "blockchain-association",
+      "label": "former client",
+      "type": "commercial"
+    },
+    {
+      "source": "mike-selig",
+      "target": "sec",
+      "label": "chief counsel, Crypto Task Force",
+      "type": "regulatory",
+      "date": "2025"
+    },
+    {
+      "source": "mike-selig",
+      "target": "cftc",
+      "label": "Chair (sworn in)",
+      "type": "regulatory",
+      "date": "2025-12-22"
+    },
+    {
+      "source": "paul-atkins",
+      "target": "patomak-global-partners",
+      "label": "founder; pledged to divest within 90 days",
+      "type": "ownership",
+      "date": "2025-03-20"
+    },
+    {
+      "source": "ftx",
+      "target": "patomak-global-partners",
+      "label": "former client",
+      "type": "commercial",
+      "date": "2022"
+    },
+    {
+      "source": "paul-atkins",
+      "target": "anchorage-digital",
+      "label": "held ~$1M equity (pre-office)",
+      "type": "ownership",
+      "amount_usd": 1000000
+    },
+    {
+      "source": "paul-atkins",
+      "target": "securitize",
+      "label": "held $2.5-5M call options (pre-office)",
+      "type": "ownership"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "paul-atkins",
+      "label": "demanded identity of Patomak buyer",
+      "type": "political",
+      "date": "2025-08-06"
+    },
+    {
+      "source": "trump-media-technology-group",
+      "target": "patomak-global-partners",
+      "label": "litigation opponents sought Patomak records on TMTG",
+      "type": "legal",
+      "date": "2025-08"
+    },
+    {
+      "source": "jonathan-gould",
+      "target": "bitfury",
+      "label": "former chief legal officer",
+      "type": "commercial",
+      "date": "2022"
+    },
+    {
+      "source": "jonathan-gould",
+      "target": "occ",
+      "label": "Comptroller (confirmed 50-45)",
+      "type": "regulatory",
+      "date": "2025-07-10"
+    },
+    {
+      "source": "occ",
+      "target": "world-liberty-financial",
+      "label": "conditionally approved trust charter",
+      "type": "regulatory",
+      "date": "2026-08-14"
+    },
+    {
+      "source": "david-sacks",
+      "target": "white-house",
+      "label": "AI & crypto czar under ethics waivers",
+      "type": "political",
+      "date": "2025-03-05"
+    },
+    {
+      "source": "caroline-pham",
+      "target": "moonpay",
+      "label": "CLO/CAO after acting CFTC chair",
+      "type": "commercial",
+      "date": "2025-12-17"
+    },
+    {
+      "source": "caroline-pham",
+      "target": "cftc",
+      "label": "acting chair",
+      "type": "regulatory",
+      "date": "2025-01"
+    },
+    {
+      "source": "summer-mersinger",
+      "target": "blockchain-association",
+      "label": "CEO after leaving CFTC early",
+      "type": "commercial",
+      "date": "2025-06-02"
+    },
+    {
+      "source": "brett-redfearn",
+      "target": "coinbase",
+      "label": "head of capital markets (ex-SEC)",
+      "type": "commercial"
+    },
+    {
+      "source": "brett-redfearn",
+      "target": "securitize",
+      "label": "president and director",
+      "type": "commercial",
+      "date": "2026-04"
+    },
+    {
+      "source": "taylor-lindman",
+      "target": "sec",
+      "label": "Crypto Task Force chief counsel (from Chainlink)",
+      "type": "regulatory",
+      "date": "2026-02-23"
+    },
+    {
+      "source": "taylor-lindman",
+      "target": "chainlink-labs",
+      "label": "former deputy general counsel",
+      "type": "commercial"
+    },
+    {
+      "source": "steve-witkoff",
+      "target": "world-liberty-financial",
+      "label": "co-founder; retained holdings per Aug 2025 disclosure",
+      "type": "ownership",
+      "date": "2025-08-13"
+    },
+    {
+      "source": "zach-witkoff",
+      "target": "steve-witkoff",
+      "label": "son of",
+      "type": "family"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "steve-witkoff",
+      "label": "opened ethics inquiry (with Murphy)",
+      "type": "political",
+      "date": "2025-11-18"
+    },
+    {
+      "source": "chris-murphy",
+      "target": "steve-witkoff",
+      "label": "opened ethics inquiry (with Warren)",
+      "type": "political",
+      "date": "2025-11-18"
+    },
+    {
+      "source": "adam-schiff",
+      "target": "office-of-government-ethics",
+      "label": "queried Witkoff disclosure",
+      "type": "political",
+      "date": "2025-10-22"
+    },
+    {
+      "source": "howard-lutnick",
+      "target": "cantor-fitzgerald",
+      "label": "former CEO; interests to children's trusts",
+      "type": "family",
+      "date": "2025-05-16"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "kalshi",
+      "label": "strategic adviser",
+      "type": "advisory",
+      "date": "2025-01"
+    },
+    {
+      "source": "donald-trump",
+      "target": "mike-selig",
+      "label": "nominated as CFTC chair",
+      "type": "political",
+      "date": "2025-10"
+    }
+  ],
+  "leads": [
+    {
+      "title": "Tether-linked super PAC's first ad buy went to a firm founded by Bo Hines",
+      "why_connected": "A second money channel between Tether and Hines's businesses while Tether sought US market access.",
+      "entities": [
+        "tether",
+        "bo-hines",
+        "usat"
+      ],
+      "source_url": "https://www.coindesk.com/policy/2026/04/10/super-pac-tied-to-tether-makes-first-ad-buy-from-firm-founded-by-tether-s-u-s-ceo"
+    },
+    {
+      "title": "Quintenz becomes adviser to a prediction-markets coalition as Kalshi fights state enforcement",
+      "why_connected": "A withdrawn CFTC nominee now advocating before the agency on a sector tied to Don Jr. (C25).",
+      "entities": [
+        "brian-quintenz",
+        "kalshi",
+        "cftc",
+        "donald-trump-jr"
+      ],
+      "source_url": "https://bettorsinsider.com/?p=18539"
+    },
+    {
+      "title": "Undisclosed buyer of Atkins's Patomak stake",
+      "why_connected": "Warren's question of who paid the SEC chair for his firm is still unanswered in the record I found.",
+      "entities": [
+        "paul-atkins",
+        "patomak-global-partners",
+        "sec"
+      ],
+      "source_url": "https://www.banking.senate.gov/newsroom/minority/warren-calls-on-atkins-to-disclosure-buyer-of-lucrative-consulting-business"
+    },
+    {
+      "title": "Patrick Witt's private-sector destination after leaving the crypto council",
+      "why_connected": "Second consecutive crypto-council director to leave for the private sector; employer not yet reported.",
+      "entities": [
+        "patrick-witt",
+        "presidents-council-of-advisers-on-digital-assets"
+      ],
+      "source_url": "https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611"
+    },
+    {
+      "title": "Brett Redfearn, ex-SEC official, named president of Securitize, a former Atkins holding",
+      "why_connected": "Revolving-door hire at a company in which the current SEC chair held options before taking office.",
+      "entities": [
+        "brett-redfearn",
+        "securitize",
+        "paul-atkins"
+      ],
+      "source_url": "https://cointelegraph.com/news/sec-official-securitize-president-board"
+    }
+  ],
+  "audit": {
+    "checked": [
+      "WSJ (14 Oct 2026): Tether's $415K/month deal and ~$6.3M to Hines-co-owned Nxum, plus Blumenthal's 22 Oct letters",
+      "Date and nature of Quintenz's prediction-markets coalition role",
+      "Whether Gould's ethics agreement or recusal is public",
+      "Named 2025-26 SEC staff moves to Coinbase or a16z; Pham's MoonPay move"
+    ],
+    "result": "strengthened",
+    "changes": [
+      "Filled the three gaps left by the first round of research. Quintenz was named a senior adviser to the Coalition for Prediction Markets in July 2026 (updated sub-claim and summary). A fresh search again found no public Gould ethics agreement or recusal, so that gap is recorded as checked-and-absent. Again no named 2025-26 SEC staff move to Coinbase or a16z; Roisman's Aug 2026 Fireblocks hire is noted as an older-era official.",
+      "Hines sub-claim: confirmed the 22 Oct 2026 letters (to Ardoino and to Todd Hines at Nxum). Added the unregistered-lobbying point, the Fellowship PAC's $6.55M to Nxum (WSJ/FEC), and Nxum's and Tether's denials. These remain allegations.",
+      "Pham's MoonPay move (announced Dec 2025) re-confirmed via MoonPay's newsroom. Verdict and confidence unchanged."
+    ],
+    "new_sources": [
+      {
+        "title": "Coalition for Prediction Markets adds Brian Quintenz to its ranks",
+        "publisher": "Deadspin",
+        "url": "https://deadspin.com/prediction-markets/legal-news/coalition-for-prediction-markets-adds-brian-quintenz-to-its-ranks/",
+        "date": "2026-07"
+      },
+      {
+        "title": "Jilted CFTC nominee Brian Quintenz to lobby with Coalition for Prediction Markets",
+        "publisher": "Gaming America",
+        "url": "https://gamingamerica.com/news/1086011/brian-quintenz-coalition-prediction-markets",
+        "date": "2026-07"
+      },
+      {
+        "title": "Senate Democrat probes Tether payments to ex-White House crypto adviser's firm",
+        "publisher": "Decrypt",
+        "url": "https://decrypt.co/381755/senate-democrat-tether-payments-ex-white-house-crypto-adviser",
+        "date": "2026-10"
+      },
+      {
+        "title": "Letter from Sen. Blumenthal to Tether",
+        "publisher": "Senate PSI minority (HSGAC)",
+        "url": "https://www.hsgac.senate.gov/wp-content/uploads/2026-10-22-Letter-from-Sen-Blumenthal-to-Tether.pdf",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Tether paid Bo Hines' company while he was at White House, WSJ",
+        "publisher": "Protos",
+        "url": "https://protos.com/tether-paid-bo-hines-company-while-he-was-at-white-house-wsj/",
+        "date": "2026-10"
+      },
+      {
+        "title": "Fireblocks taps former SEC acting chair for stablecoin and tokenisation push",
+        "publisher": "Finance Magnates",
+        "url": "https://www.financemagnates.com/executives/moves/fireblocks-taps-former-sec-acting-chair-for-stablecoin-and-tokenisation-push/",
+        "date": "2026-08-17"
+      },
+      {
+        "title": "Senate confirms former blockchain executive Jonathan Gould to lead OCC",
+        "publisher": "The Block",
+        "url": "https://www.theblock.co/amp/post/362071/senate-confirms-former-blockchain-executive-jonathan-gould-to-lead-occ",
+        "date": "2025-07-10"
+      },
+      {
+        "title": "CFTC Acting Chairman Caroline D. Pham to Join MoonPay",
+        "publisher": "MoonPay",
+        "url": "https://www.moonpay.com/newsroom/caroline-d-pham",
+        "date": "2025-12-17"
+      }
+    ]
+  }
+}

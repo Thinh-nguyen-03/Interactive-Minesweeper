@@ -1,0 +1,41 @@
+---
+id: "echostar"
+kind: "entity"
+type: "company"
+connections: 4
+claims: 2
+tags:
+  - "entity"
+  - "type/company"
+---
+# EchoStar
+
+Sold spectrum to AT&T and SpaceX; FCC approval 2026-05-12 with $2.4B escrow
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 2 checks |
+| Connections | 4 |
+
+## How Other Checks Describe It
+
+- Spectrum sales to AT&T and SpaceX; FCC probe closed Sep 2025
+
+## Appears in Checks
+
+- [[C69 Master Timeline Money Events & Government Actions]] · Partly accurate
+- [[C92 The White House Ballroom Donor List]] · Partly accurate
+
+## Relationships
+
+### Ownership (2)
+
+- [[Charles Ergen]] *chairman / co-founder* [[EchoStar]] · [[C92 The White House Ballroom Donor List|C92]]
+- [[Charles Ergen]] *chairman of* [[EchoStar]] · [[C69 Master Timeline Money Events & Government Actions|C69]]
+
+### Regulatory (3)
+
+- [[Federal Communications Commission]] *closed 5G buildout probe (Carr letter)* [[EchoStar]] · 2025-09-08 · [[C92 The White House Ballroom Donor List|C92]]
+- [[Federal Communications Commission]] *approved AT&T and SpaceX spectrum sales with $2.4B escrow* [[EchoStar]] · 2026-05-12 · [[C92 The White House Ballroom Donor List|C92]]
+- [[Federal Communications Commission]] *approved spectrum sales with $2.4B escrow condition* [[EchoStar]] · 2026-05-12 · [[C69 Master Timeline Money Events & Government Actions|C69]]

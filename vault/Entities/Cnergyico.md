@@ -1,0 +1,29 @@
+---
+id: "cnergyico"
+kind: "entity"
+type: "company"
+connections: 2
+claims: 1
+tags:
+  - "entity"
+  - "type/company"
+---
+# Cnergyico
+
+Pakistani refiner; first US crude cargo.
+
+| | |
+|---|---|
+| Type | Company |
+| Appears in | 1 check |
+| Connections | 2 |
+
+## Appears in Checks
+
+- [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs]] · Mostly accurate
+
+## Relationships
+
+### Commercial (1)
+
+- [[Cnergyico]] *bought ~1M bbl WTI test cargo* [[Vitol]] · 2025-07 · [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs|C72]]

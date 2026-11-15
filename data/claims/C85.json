@@ -1,0 +1,985 @@
+{
+  "id": "C85",
+  "title": "Yorkville's blank-cheque vehicles: Venezuela, Blue Water III and PlusAI",
+  "verdict": "partly-accurate",
+  "confidence": "medium",
+  "summary": "The governance and money links are documented. Yorkville's sponsors hold founder blocks with a nominal value (our arithmetic, at $10 a share) of about $153M (YICC, bought for $25,000), $75M (TVA III, $7.4M) and $63M (BLUW, a reported $7.2M). YICC closed at $230M and still has no Venezuelan target, licence or reply to Wyden. TVA III, with two Trump Organization EVPs on its board, was the announced merger vehicle for a Truth Social spin-off from Feb to Jun 2026 before signing PlusAI, and about 79% of its trust has since been redeemed. The policy side of the claim is not substantiated: BLUW abandoned Citgo before Yorkville took over, the Citgo sale to Elliott's Amber Energy remains unlicensed and frozen by Treasury, and federal AV actions are industry-wide with no PlusAI-specific decision.",
+  "sub_claims": [
+    {
+      "statement": "Yorkville International Capital (YICC), a Venezuela/Latin America SPAC run by TMTG interim CEO McGurn, closed a $230M IPO and its Yorkville sponsor holds about 15.33M founder shares bought for $25,000.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented (8-K, 10-Q and S-1/A via search summaries; sec.gov not read directly). The IPO closed on 17 Jun 2026: 23,000,000 units including the full 3M over-allotment, $230M in trust at $10.00 (C78 and Wyden used the $200M priced figure). Private warrants: 6.3M at $1, 4.0M to the sponsor and 2.3M to Cohen & Company Capital Markets, the sole book-runner. Yorkville International Capital Sponsor, LLC (Florida) bought 15,333,333 Class B shares for $25,000; the subscription letter reads 15,033,333, unresolved. The prospectus itself sizes the founder shares to convert to 40% of total shares outstanding (43.4% if the over-allotment had not been exercised), about double the usual 20%; audit re-check of S-1/424B4 search extracts, so this is documented rather than inferred. MarketChameleon's ~$378.7M value at $9.88 (30 Oct 2026) is consistent. The S-1 dates the $25,000 purchase to 31 Mar 2026, the 424B4 to 2 Apr 2026. Per the S-1, Yorkville founder Mark Angelo (YICC chairman) is sole managing member of YA II PN, Ltd., the sponsor's managing member, and holds voting and investment discretion over its shares. A June 2026 Schedule 13G reports 15,183,333 shares for the sponsor (vs 15,033,333 in the S-1 table); the balance is with officers and directors, and the gaps are unexplained. The block is ~$153M nominal at $10 (our arithmetic) and worthless on liquidation. No target and no reply to Wyden were found as of Nov 2026. The FT first reported the plan on 14-15 May 2026.",
+      "sources": [
+        "https://finviz.com/news/362527/yorkville-international-capital-corp-announces-closing-of-230000000-initial-public-offering",
+        "https://www.sec.gov/Archives/edgar/data/0002130386/000110465926077343/tm2618436d1_8k.htm",
+        "https://www.sec.gov/Archives/edgar/data/0002130386/000110465926095038/yicc-20260630x10q.htm",
+        "https://www.stocktitan.net/sec-filings/YICCU/s-1-a-yorkville-international-capital-corp-amends-ipo-registration-st-8f5a5b247037.html",
+        "https://www.lawinsider.com/contracts/kMCj05aNvba",
+        "https://marketchameleon.com/Overview/YICC/Summary/",
+        "https://lapatilla.com/2026/05/15/grupo-vinculado-a-la-familia-trump-busca-invertir-en-venezuela-con-fondo-de-200-millones-de-dolares-segun-ft/",
+        "https://www.finance.senate.gov/ranking-members-news/wyden-launches-inquiry-into-trump-connected-blank-check-company-planning-venezuela-investments",
+        "https://www.sec.gov/Archives/edgar/data/0002130386/000110465926074584/tm2614044-6_424b4.htm",
+        "https://www.sec.gov/Archives/edgar/data/0002130386/000110465926061345/yicc-20260514xs1.htm",
+        "https://www.sec.gov/Archives/edgar/data/0002130386/000110465926094284/primary_doc.xml"
+      ]
+    },
+    {
+      "statement": "YICC's Venezuela plan depends on the post-Maduro OFAC licence regime, and no Yorkville licence is on record.",
+      "verdict": "unverified",
+      "finding": "Evidence grade: the regime is documented (law-firm alerts); its applicability to YICC is inferred. After Maduro's capture on 3 Jan 2026, OFAC issued: GL 46 (29 Jan 2026), covering oil production and sales by 'established U.S. entities' (read as organised on or before 29 Jan 2025) and excluding new investment; GL 46A and 46B (10 Feb and 13 Mar); GL 47 (diluents); GL 49 (negotiations and contingent contracts for new investment); GL 50 (PDVSA entities); and a March PDVSA direct-sales licence. Payments go to Treasury-controlled accounts. YICC was formed in the Caymans in March 2026, so on our reading it falls outside GL 46 and would need GL 49 or a specific licence for an actual investment. Wyden asked exactly this on 25 Jun 2026, plus the PDVSA 50 Percent Rule exposure. No answer and no licence were found.",
+      "sources": [
+        "https://www.thompsonhinesmartrade.com/2026/02/ofac-issues-general-license-authorizing-certain-oil-activities-in-venezuela/",
+        "https://www.kelleydrye.com/viewpoints/blogs/trade-and-manufacturing-monitor/new-ofac-venezuela-licenses-permit-goods-technology-software-services-and-other-activities-for-oil-and-gas-exploration-and-production",
+        "https://www.jdsupra.com/legalnews/ofac-issues-venezuela-general-licenses-1590174/",
+        "https://www.finance.senate.gov/ranking-members-news/wyden-launches-inquiry-into-trump-connected-blank-check-company-planning-venezuela-investments"
+      ]
+    },
+    {
+      "statement": "Texas Ventures Acquisition III, whose board included Trump Organization EVPs Glick and Garten, was the announced merger vehicle for a spin-off of Truth Social (Feb-Jun 2026).",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented (company release; Axios, CBS, MediaPost; Stocktwits/TNW on the abandonment). On 27 Feb 2026 TMTG, TAE Technologies and TVA III announced talks for TMTG to spin off Truth Social and other media assets into a new company. Its shares would go to TMTG holders before the TAE merger closed, and it would then merge with TVA III. On 26 Feb 2026, one day earlier, TMTG CEO Nunes and general counsel Glabe resigned from TVA III's board, citing no disagreement (8-K). Linking the resignations to the announcement is inferred from timing. On 10 Jun 2026 the parties said they would not pursue the spin-off 'at this time'; the media assets go to a post-TAE 'strategic alternatives' review. That President Trump's trust, as TMTG's largest holder, would have received spin-off shares is inferred from the announced pro-rata structure. The TAE merger's S-4 is effective, but the merger had not closed by mid-Nov 2026.",
+      "sources": [
+        "https://www.axios.com/2026/02/27/truth-social-spin-off",
+        "https://www.cbsnews.com/amp/news/trump-media-technology-group-tmtg-truth-social-spinoff",
+        "https://www.stocktitan.net/sec-filings/TVA/8-k-texas-ventures-acquisition-iii-corp-reports-material-event-2566adb1a983.html",
+        "https://stocktwits.com/news-articles/markets/equity/djt-stock-gains-truth-social-spin-off-plans-scrapped/cZ06mh1R7TM",
+        "https://thenextweb.com/news/trump-media-drops-truth-social-spinoff-refocuses-on-6-billion-fusion-merger-with-tae-technologies",
+        "https://finviz.com/news/417799/trump-media-technology-group-and-tae-technologies-announce-effectiveness-of-form-s-4-registration-statement-for-proposed-merger"
+      ]
+    },
+    {
+      "statement": "After the spin-off fell away, TVA III signed PlusAI. Redemptions of about 79% leave the Yorkville sponsor's founder shares larger than the public float.",
+      "verdict": "mostly-accurate",
+      "finding": "Evidence grade: documented via aggregator summaries of the 8-K and 8-K/A (not read in the filing itself). The deal: an $800M pre-money valuation, up to 63M earnout shares, and a $40M minimum-cash condition. At the extension vote holders redeemed 17,699,488 Class A shares at about $10.63 (~$188M), leaving 4,800,512 (~$51M). The deadline moves from 24 Oct 2026 toward 24 Jul 2027 by monthly deposits. Yorkville Acquisition Sponsor II issued a $145,000 note on 20 Oct 2026, and its deposit extended the deadline to 24 Nov 2026. A going-concern doubt was flagged in Aug 2026. The Yorkville sponsor paid $7.4M for 7.5M founder shares plus 4.7M warrants (C78), now ~$75M nominal at $10 and more than the 4.8M public shares. Forfeitures under the merger agreement, the post-merger board, and whether Glick and Garten remain are unverified (S-4 not readable). FreightWaves reports PlusAI targeting a year-end 2026 close; Yorkville-managed funds provide a significant share of the more than $60M in committed notes and PIPE.",
+      "sources": [
+        "https://equibles.com/stocks/tva/documents",
+        "https://siliconangle.com/2026/09/03/self-driving-truck-firm-plusai-takes-third-run-at-listing-this-time-at-800m/",
+        "https://www.freightwaves.com/news/plusai-texas-ventures-spac-close"
+      ]
+    },
+    {
+      "statement": "PlusAI stands to benefit from the administration's federal autonomous-vehicle rules.",
+      "verdict": "partly-accurate",
+      "finding": "Evidence grade: the policies are documented; any PlusAI-specific benefit is unverified. DOT released its national AV strategy ('AV 5.0', non-binding) on 3 Sep 2026, the same day the PlusAI-TVA III deal was announced; the timing match is our observation (inferred). NHTSA issued an interim final rule on 31 Jul 2026 allowing production before an exemption is granted. FMCSA granted a five-year exemption (7 Oct 2026 to 7 Oct 2031) for cab-mounted beacons on Level-4 trucks; Aurora applied and any Level-4 carrier can opt in. FMCSA's proposed rule on ADS-equipped trucks was still unpublished. Trade press lists PlusAI among the firms scaling in 2027. The rules are industry-wide. No source reports a PlusAI opt-in, lobbying or a company-specific decision.",
+      "sources": [
+        "https://www.transportation.gov/briefing-room/trumps-transportation-secretary-sean-p-duffy-unveils-new-national-av-strategy",
+        "https://www.hklaw.com/en/insights/publications/2026/09/the-road-ahead-for-driverless-vehicles-dot-unveils-av-5",
+        "https://www.freightwaves.com/news/fmcsa-aurora-warning-beacon-exemption-five-year",
+        "https://ttnews.com/articles/fmcsa-beacons-autonomous-trucks"
+      ]
+    },
+    {
+      "statement": "Blue Water III's $10B Citgo bid carried over into the Yorkville/TMTG-staffed vehicle.",
+      "verdict": "false",
+      "finding": "Evidence grade: documented (company release; 8-K; Maha releases). BLUW suspended its Citgo bid on 14 Nov 2025, citing market and regulatory conditions; its unnamed financing partner was never identified. On 25 Nov 2025 Yorkville BW Acquisition Sponsor bought 6,325,000 Class B shares and 430,000 private units from Blue Water Acquisition III LLC. The $7.2M price is single-source (Medici List 10-K summary). That block is ~$63M nominal at $10 and is worthless on liquidation. No target has been named since. The Venezuela thread went with founder Joseph Hernandez: his Blue Water Acquisition Corp IV (NYSE: BWIV) signed a non-binding LOI on 28 Apr 2026 for Maha Capital AB subsidiaries holding an indirect 24% of PetroUrdaneta (Lake Maracaibo; Law360 put the deal at $490M) and terminated it on 15 May 2026. No Yorkville or TMTG person is reported at BWIV.",
+      "sources": [
+        "https://hartfordbusiness.com/article/ct-spac-suspends-plans-to-buy-citgos-parent-company/",
+        "https://www.itiger.com/news/2587737626",
+        "https://www.sec.gov/Archives/edgar/data/0002050501/000110465925116938/tm2532368d1_8k.htm",
+        "https://medici-list.vercel.app/company/blue-water-acquisition-corp-iii-2050501",
+        "https://simplywall.st/stocks/us/diversified-financials/nasdaq-bluw/blue-water-acquisition-iii",
+        "https://www.accessnewswire.com/newsroom/en/banking-and-financial-services/maha-enters-into-letter-of-intent-for-a-business-combination-with-bw-1161814",
+        "https://www.accessnewswire.com/newsroom/en/banking-and-financial-services/maha-and-bwiv-terminate-the-letter-of-intent-for-proposed-spac-trans-1167597",
+        "https://www.law360.co.uk/articles/2470767"
+      ]
+    },
+    {
+      "statement": "The Citgo auction outcome: sold to Elliott's Amber Energy.",
+      "verdict": "misleading",
+      "finding": "Evidence grade: documented (OGJ, Bloomberg, Fortune, IISD, Law360). The Delaware court approved Amber Energy's $5.9B bid on 25 Nov 2025, but the sale has not closed. OFAC has not licensed it, and Fortune reports that Treasury has extended Citgo's protection from the sale six times since January 2026. On 14 Sep 2026 OFAC amended the licence to bar unauthorised governance changes at Citgo, Citgo Holding and PDV Holding, while Delcy Rodriguez's interim government sought to replace those boards. Venezuela's Third Circuit appeal (Greenberg Traurig as counsel since Jun 2026) had no ruling found as of mid-Nov 2026. Bloomberg (Apr 2026) cites administration concerns over price and political risk. Energy Secretary Chris Wright had applauded the sale to Elliott, whose founder Paul Singer is a GOP megadonor (Fortune, NHPR). No link to Yorkville or BLUW's post-Nov 2025 management was found.",
+      "sources": [
+        "https://www.ogj.com/general-interest/government/news/55405154/us-freezes-citgo-board-to-protect-pending-59-billion-acquisition",
+        "https://fortune.com/2026/09/27/trump-citgo-elliott-management-venezuela/",
+        "https://fortune.com/2026/01/09/paul-singer-elliott-management-venezuela-citgo-maduro/",
+        "https://www.nhpr.org/2026-01-07/how-billionaire-and-trump-donor-paul-singer-could-benefit-from-maduros-removal",
+        "https://www.bloomberg.com/news/articles/2026-04-07/elliott-s-citgo-purchase-bogged-down-by-us-price-risk-concerns",
+        "https://www.iisd.org/itn/2026/09/09/court-ordered-sale-of-citgos-parent-contested-as-venezuela-appeals-and-ofac-withholds-clearance/",
+        "https://www.law360.com/bankruptcy-authority/articles/2488795"
+      ]
+    }
+  ],
+  "corrections": [
+    "YICC's IPO closed at $230M (23M units, over-allotment exercised), not the $200M priced figure used in C78 and by Wyden.",
+    "BLUW suspended its Citgo bid on 14 Nov 2025, before the 25 Nov 2025 Yorkville takeover. The Venezuela thread went to founder Hernandez's separate Blue Water IV (Maha/PetroUrdaneta LOI, Apr-May 2026), not to the Yorkville/TMTG-staffed BLUW.",
+    "There is no Citgo 'auction outcome' yet. The $5.9B Amber Energy sale is court-approved but unlicensed by OFAC and under Third Circuit appeal.",
+    "No PlusAI-specific federal AV action was found. DOT's strategy, NHTSA's interim rule and FMCSA's beacon exemption are industry-wide."
+  ],
+  "denials_and_context": [
+    "A Trump Organization spokesperson said the Trump sons have no involvement with Yorkville (via Siegelman, C78).",
+    "Yorkville has not publicly responded to Wyden's 25 Jun 2026 letter, which is a minority oversight request, not an enforcement action.",
+    "TMTG, TAE and TVA III gave no reason for dropping the Truth Social spin-off. Nunes's and Glabe's 8-K said their resignations involved no disagreement.",
+    "Cheap founder shares ($25,000 promotes; about $1 a share on transferred blocks) are standard SPAC economics and are worthless without a completed deal. They are not by themselves a Trump-specific benefit.",
+    "Sponsor control: the YICC S-1 says Mark Angelo holds voting and investment discretion via YA II PN, Ltd. Whether McGurn, Rillo or any Trump Org or TMTG director holds an economic interest in any sponsor LLC is not disclosed in anything we could read. sec.gov, fortune.com, iisd.org and barchart were not read directly, so filing figures rely on search summaries and aggregators."
+  ],
+  "sources": [
+    {
+      "title": "Yorkville International Capital Corp. announces closing of $230,000,000 IPO",
+      "publisher": "GlobeNewswire via Finviz",
+      "url": "https://finviz.com/news/362527/yorkville-international-capital-corp-announces-closing-of-230000000-initial-public-offering",
+      "date": "2026-06-17"
+    },
+    {
+      "title": "Yorkville International Capital Corp. Form 8-K (IPO closing)",
+      "publisher": "SEC",
+      "url": "https://www.sec.gov/Archives/edgar/data/0002130386/000110465926077343/tm2618436d1_8k.htm",
+      "date": "2026-06-23"
+    },
+    {
+      "title": "Yorkville International Capital Corp. Form 10-Q, Q2 2026",
+      "publisher": "SEC",
+      "url": "https://www.sec.gov/Archives/edgar/data/0002130386/000110465926095038/yicc-20260630x10q.htm",
+      "date": "2026-08"
+    },
+    {
+      "title": "YICC S-1/A summary (founder shares)",
+      "publisher": "Stock Titan",
+      "url": "https://www.stocktitan.net/sec-filings/YICCU/s-1-a-yorkville-international-capital-corp-amends-ipo-registration-st-8f5a5b247037.html",
+      "date": "2026-06"
+    },
+    {
+      "title": "YICC securities subscription letter",
+      "publisher": "Law Insider",
+      "url": "https://www.lawinsider.com/contracts/kMCj05aNvba",
+      "date": "2026"
+    },
+    {
+      "title": "YICC Class A summary",
+      "publisher": "MarketChameleon",
+      "url": "https://marketchameleon.com/Overview/YICC/Summary/",
+      "date": "2026-10-30"
+    },
+    {
+      "title": "Grupo vinculado a la familia Trump busca invertir en Venezuela (citing FT)",
+      "publisher": "La Patilla",
+      "url": "https://lapatilla.com/2026/05/15/grupo-vinculado-a-la-familia-trump-busca-invertir-en-venezuela-con-fondo-de-200-millones-de-dolares-segun-ft/",
+      "date": "2026-05-15"
+    },
+    {
+      "title": "Wyden launches inquiry into Trump-connected blank check company planning Venezuela investments",
+      "publisher": "Senate Finance Committee",
+      "url": "https://www.finance.senate.gov/ranking-members-news/wyden-launches-inquiry-into-trump-connected-blank-check-company-planning-venezuela-investments",
+      "date": "2026-06-25"
+    },
+    {
+      "title": "OFAC issues general license authorizing certain oil activities in Venezuela",
+      "publisher": "Thompson Hine",
+      "url": "https://www.thompsonhinesmartrade.com/2026/02/ofac-issues-general-license-authorizing-certain-oil-activities-in-venezuela/",
+      "date": "2026-02"
+    },
+    {
+      "title": "New OFAC Venezuela licenses for oil and gas exploration and production",
+      "publisher": "Kelley Drye",
+      "url": "https://www.kelleydrye.com/viewpoints/blogs/trade-and-manufacturing-monitor/new-ofac-venezuela-licenses-permit-goods-technology-software-services-and-other-activities-for-oil-and-gas-exploration-and-production",
+      "date": "2026"
+    },
+    {
+      "title": "OFAC issues Venezuela general licenses",
+      "publisher": "Pillsbury via JD Supra",
+      "url": "https://www.jdsupra.com/legalnews/ofac-issues-venezuela-general-licenses-1590174/",
+      "date": "2026"
+    },
+    {
+      "title": "Trump Media & Technology Group in talks to spin off Truth Social",
+      "publisher": "Axios",
+      "url": "https://www.axios.com/2026/02/27/truth-social-spin-off",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "Trump Media & Technology Group says it may spin off Truth Social",
+      "publisher": "CBS News",
+      "url": "https://www.cbsnews.com/amp/news/trump-media-technology-group-tmtg-truth-social-spinoff",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "Truth Social spin-off plans scrapped",
+      "publisher": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/djt-stock-gains-truth-social-spin-off-plans-scrapped/cZ06mh1R7TM",
+      "date": "2026-06-10"
+    },
+    {
+      "title": "Trump Media drops Truth Social spinoff, refocuses on TAE merger",
+      "publisher": "The Next Web",
+      "url": "https://thenextweb.com/news/trump-media-drops-truth-social-spinoff-refocuses-on-6-billion-fusion-merger-with-tae-technologies",
+      "date": "2026-06"
+    },
+    {
+      "title": "Texas Ventures Acquisition III 8-K (Nunes, Glabe resign)",
+      "publisher": "Stock Titan",
+      "url": "https://www.stocktitan.net/sec-filings/TVA/8-k-texas-ventures-acquisition-iii-corp-reports-material-event-2566adb1a983.html",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "TVA III filings list (extension, redemptions, sponsor note)",
+      "publisher": "Equibles",
+      "url": "https://equibles.com/stocks/tva/documents",
+      "date": "2026-10"
+    },
+    {
+      "title": "Self-driving truck firm PlusAI takes third run at listing, this time at $800M",
+      "publisher": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/03/self-driving-truck-firm-plusai-takes-third-run-at-listing-this-time-at-800m/",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Duffy unveils new national AV strategy",
+      "publisher": "US Department of Transportation",
+      "url": "https://www.transportation.gov/briefing-room/trumps-transportation-secretary-sean-p-duffy-unveils-new-national-av-strategy",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "The road ahead for driverless vehicles: DOT unveils AV 5.0",
+      "publisher": "Holland & Knight",
+      "url": "https://www.hklaw.com/en/insights/publications/2026/09/the-road-ahead-for-driverless-vehicles-dot-unveils-av-5",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "AV truck fleets win 5-year exemption on warning beacons",
+      "publisher": "FreightWaves",
+      "url": "https://www.freightwaves.com/news/fmcsa-aurora-warning-beacon-exemption-five-year",
+      "date": "2026-10"
+    },
+    {
+      "title": "FMCSA approves warning beacons for autonomous trucks",
+      "publisher": "Transport Topics",
+      "url": "https://ttnews.com/articles/fmcsa-beacons-autonomous-trucks",
+      "date": "2026-10"
+    },
+    {
+      "title": "CT SPAC suspends plans to buy Citgo's parent company",
+      "publisher": "Hartford Business Journal",
+      "url": "https://hartfordbusiness.com/article/ct-spac-suspends-plans-to-buy-citgos-parent-company/",
+      "date": "2025-11-14"
+    },
+    {
+      "title": "Blue Water Acquisition Corp. III sells shares and private units to new sponsor",
+      "publisher": "Tiger Brokers",
+      "url": "https://www.itiger.com/news/2587737626",
+      "date": "2025-11"
+    },
+    {
+      "title": "Blue Water Acquisition Corp. III 8-K (sponsor purchase agreement)",
+      "publisher": "SEC",
+      "url": "https://www.sec.gov/Archives/edgar/data/0002050501/000110465925116938/tm2532368d1_8k.htm",
+      "date": "2025-11-25"
+    },
+    {
+      "title": "Blue Water Acquisition Corp III profile (10-K summary)",
+      "publisher": "Medici List",
+      "url": "https://medici-list.vercel.app/company/blue-water-acquisition-corp-iii-2050501",
+      "date": "2026"
+    },
+    {
+      "title": "BLUW quote",
+      "publisher": "Simply Wall St",
+      "url": "https://simplywall.st/stocks/us/diversified-financials/nasdaq-bluw/blue-water-acquisition-iii",
+      "date": "2026"
+    },
+    {
+      "title": "Maha enters into letter of intent with BWIV",
+      "publisher": "AccessNewswire",
+      "url": "https://www.accessnewswire.com/newsroom/en/banking-and-financial-services/maha-enters-into-letter-of-intent-for-a-business-combination-with-bw-1161814",
+      "date": "2026-04-28"
+    },
+    {
+      "title": "Maha and BWIV terminate the letter of intent",
+      "publisher": "AccessNewswire",
+      "url": "https://www.accessnewswire.com/newsroom/en/banking-and-financial-services/maha-and-bwiv-terminate-the-letter-of-intent-for-proposed-spac-trans-1167597",
+      "date": "2026-05-15"
+    },
+    {
+      "title": "SPAC targets Maha Capital in $490M energy-fintech deal",
+      "publisher": "Law360",
+      "url": "https://www.law360.co.uk/articles/2470767",
+      "date": "2026-04"
+    },
+    {
+      "title": "US freezes Citgo board to protect pending $5.9-billion acquisition",
+      "publisher": "Oil & Gas Journal",
+      "url": "https://www.ogj.com/general-interest/government/news/55405154/us-freezes-citgo-board-to-protect-pending-59-billion-acquisition",
+      "date": "2026-09"
+    },
+    {
+      "title": "Trump, Citgo and Elliott Management",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/2026/09/27/trump-citgo-elliott-management-venezuela/",
+      "date": "2026-09-27"
+    },
+    {
+      "title": "Paul Singer's Elliott positioned to win Citgo sale amid Maduro removal",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/2026/01/09/paul-singer-elliott-management-venezuela-citgo-maduro/",
+      "date": "2026-01-09"
+    },
+    {
+      "title": "How billionaire and Trump donor Paul Singer could benefit from Maduro's removal",
+      "publisher": "NHPR",
+      "url": "https://www.nhpr.org/2026-01-07/how-billionaire-and-trump-donor-paul-singer-could-benefit-from-maduros-removal",
+      "date": "2026-01-07"
+    },
+    {
+      "title": "Elliott's Citgo bid bogged down by US price, risk concerns",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-07/elliott-s-citgo-purchase-bogged-down-by-us-price-risk-concerns",
+      "date": "2026-04-07"
+    },
+    {
+      "title": "Court-ordered sale of Citgo's parent contested as Venezuela appeals and OFAC withholds clearance",
+      "publisher": "IISD Investment Treaty News",
+      "url": "https://www.iisd.org/itn/2026/09/09/court-ordered-sale-of-citgos-parent-contested-as-venezuela-appeals-and-ofac-withholds-clearance/",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "Venezuela turns to Greenberg Traurig in Citgo sale appeal",
+      "publisher": "Law360",
+      "url": "https://www.law360.com/bankruptcy-authority/articles/2488795",
+      "date": "2026-06-11"
+    },
+    {
+      "title": "TMTG and TAE announce effectiveness of Form S-4",
+      "publisher": "GlobeNewswire via Finviz",
+      "url": "https://finviz.com/news/417799/trump-media-technology-group-and-tae-technologies-announce-effectiveness-of-form-s-4-registration-statement-for-proposed-merger",
+      "date": "2026"
+    }
+  ],
+  "entities": [
+    {
+      "id": "yorkville-international-capital",
+      "name": "Yorkville International Capital Corp (YICC)",
+      "type": "company",
+      "description": "Yorkville-sponsored Cayman SPAC; $230M IPO Jun 2026; Latin America/Venezuela focus; CEO Kevin McGurn"
+    },
+    {
+      "id": "yorkville-international-capital-sponsor",
+      "name": "Yorkville International Capital Sponsor, LLC",
+      "type": "fund",
+      "description": "Florida LLC holding ~15.33M YICC founder shares bought for $25,000"
+    },
+    {
+      "id": "yorkville-acquisition-sponsor-ii",
+      "name": "Yorkville Acquisition Sponsor II, LLC",
+      "type": "fund",
+      "description": "Sponsor of Texas Ventures Acquisition III; 7.5M founder shares"
+    },
+    {
+      "id": "yorkville-bw-acquisition-sponsor",
+      "name": "Yorkville BW Acquisition Sponsor, LLC",
+      "type": "fund",
+      "description": "Bought control of Blue Water Acquisition Corp III in Nov 2025"
+    },
+    {
+      "id": "yorkville-advisors",
+      "name": "Yorkville Advisors Global",
+      "type": "fund",
+      "description": "Mark Angelo's investment firm; TMTG financier and SPAC sponsor"
+    },
+    {
+      "id": "texas-ventures-acquisition-iii",
+      "name": "Texas Ventures Acquisition III Corp",
+      "type": "company",
+      "description": "Yorkville-sponsored SPAC merging with PlusAI; planned Truth Social spin-off partner"
+    },
+    {
+      "id": "blue-water-acquisition-corp-iii",
+      "name": "Blue Water Acquisition Corp III",
+      "type": "company",
+      "description": "SPAC that bid ~$10B for Citgo's parent, then sold to a Yorkville sponsor"
+    },
+    {
+      "id": "blue-water-acquisition-corp-iv",
+      "name": "Blue Water Acquisition Corp IV (BWIV)",
+      "type": "company",
+      "description": "Joseph Hernandez's next SPAC; LOI for Maha Capital's Venezuela oil assets, Apr-May 2026"
+    },
+    {
+      "id": "maha-capital",
+      "name": "Maha Capital AB",
+      "type": "company",
+      "description": "Swedish-listed company with an indirect 24% stake in PetroUrdaneta"
+    },
+    {
+      "id": "petrourdaneta",
+      "name": "PetroUrdaneta",
+      "type": "company",
+      "description": "Venezuelan oil joint venture on Lake Maracaibo"
+    },
+    {
+      "id": "joseph-hernandez",
+      "name": "Joseph Hernandez",
+      "type": "person",
+      "description": "Founder/CEO of the Blue Water SPACs"
+    },
+    {
+      "id": "plusai",
+      "name": "PlusAI (Plus Automation Inc.)",
+      "type": "company",
+      "description": "Autonomous-trucking software firm merging with TVA III at $800M pre-money"
+    },
+    {
+      "id": "kevin-mcgurn",
+      "name": "Kevin McGurn",
+      "type": "person",
+      "description": "TMTG interim CEO; CEO of YICC, BLUW and Yorkville Acquisition Corp"
+    },
+    {
+      "id": "mark-angelo",
+      "name": "Mark Angelo",
+      "type": "person",
+      "description": "Founder of Yorkville Advisors; chairman of YICC and TVA III"
+    },
+    {
+      "id": "troy-rillo",
+      "name": "Troy Rillo",
+      "type": "person",
+      "description": "Yorkville Securities co-CEO; CFO of YICC and TVA III"
+    },
+    {
+      "id": "lawrence-glick",
+      "name": "Lawrence Glick",
+      "type": "person",
+      "description": "Trump Organization EVP; TVA III director"
+    },
+    {
+      "id": "alan-garten",
+      "name": "Alan Garten",
+      "type": "person",
+      "description": "Trump Organization chief legal officer; TVA III director"
+    },
+    {
+      "id": "devin-nunes",
+      "name": "Devin Nunes",
+      "type": "person",
+      "description": "Former TMTG CEO; left the TVA III board on 26 Feb 2026"
+    },
+    {
+      "id": "scott-glabe",
+      "name": "Scott Glabe",
+      "type": "person",
+      "description": "TMTG general counsel; left the TVA III board on 26 Feb 2026"
+    },
+    {
+      "id": "cohen-and-company-capital-markets",
+      "name": "Cohen & Company Capital Markets",
+      "type": "company",
+      "description": "YICC sole book-runner and buyer of 2.3M private warrants"
+    },
+    {
+      "id": "truth-social",
+      "name": "Truth Social",
+      "type": "product",
+      "description": "TMTG platform proposed for spin-off into TVA III, Feb-Jun 2026"
+    },
+    {
+      "id": "trump-media-technology-group",
+      "name": "Trump Media & Technology Group",
+      "type": "company",
+      "description": "Truth Social parent; merging with TAE"
+    },
+    {
+      "id": "tae-technologies",
+      "name": "TAE Technologies",
+      "type": "company",
+      "description": "Fusion company merging with TMTG"
+    },
+    {
+      "id": "tmtg-tae-merger",
+      "name": "TMTG-TAE merger",
+      "type": "event",
+      "description": "$6B all-stock merger signed Dec 2025, pending as of Nov 2026"
+    },
+    {
+      "id": "trump-organization",
+      "name": "Trump Organization",
+      "type": "company",
+      "description": "Trump family business; two EVPs on the TVA III board"
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "President; largest TMTG holder through his trust"
+    },
+    {
+      "id": "ron-wyden",
+      "name": "Ron Wyden",
+      "type": "person",
+      "description": "Senate Finance ranking member; Yorkville inquiry 25 Jun 2026"
+    },
+    {
+      "id": "ofac",
+      "name": "Office of Foreign Assets Control",
+      "type": "government",
+      "description": "Treasury sanctions office; Venezuela general licences, Citgo licensing"
+    },
+    {
+      "id": "us-treasury",
+      "name": "US Department of the Treasury",
+      "type": "government",
+      "description": "Parent of OFAC"
+    },
+    {
+      "id": "nicolas-maduro",
+      "name": "Nicolas Maduro",
+      "type": "person",
+      "description": "Venezuelan leader captured by US forces on 3 Jan 2026"
+    },
+    {
+      "id": "delcy-rodriguez",
+      "name": "Delcy Rodriguez",
+      "type": "person",
+      "description": "Venezuela's interim president after Maduro's capture"
+    },
+    {
+      "id": "pdvsa",
+      "name": "Petroleos de Venezuela (PDVSA)",
+      "type": "company",
+      "description": "Venezuelan state oil company; parent of the Citgo chain"
+    },
+    {
+      "id": "citgo-pdv-holding",
+      "name": "PDV Holding / Citgo Petroleum",
+      "type": "company",
+      "description": "Citgo's US parent; subject of the Delaware court auction"
+    },
+    {
+      "id": "amber-energy",
+      "name": "Amber Energy",
+      "type": "company",
+      "description": "Elliott affiliate; court-approved $5.9B buyer of PDV Holding"
+    },
+    {
+      "id": "elliott-management",
+      "name": "Elliott Investment Management",
+      "type": "fund",
+      "description": "Paul Singer's hedge fund; behind Amber Energy"
+    },
+    {
+      "id": "paul-singer",
+      "name": "Paul Singer",
+      "type": "person",
+      "description": "Elliott founder; GOP megadonor"
+    },
+    {
+      "id": "chris-wright",
+      "name": "Chris Wright",
+      "type": "person",
+      "description": "US Energy Secretary"
+    },
+    {
+      "id": "us-department-of-transportation",
+      "name": "US Department of Transportation",
+      "type": "government",
+      "description": "Issued the national AV strategy on 3 Sep 2026"
+    },
+    {
+      "id": "sean-duffy",
+      "name": "Sean Duffy",
+      "type": "person",
+      "description": "US Transportation Secretary"
+    },
+    {
+      "id": "fmcsa",
+      "name": "Federal Motor Carrier Safety Administration",
+      "type": "government",
+      "description": "Granted a five-year beacon exemption for Level-4 trucks on 7 Oct 2026"
+    },
+    {
+      "id": "nhtsa",
+      "name": "National Highway Traffic Safety Administration",
+      "type": "government",
+      "description": "AV interim final rule, 31 Jul 2026"
+    },
+    {
+      "id": "financial-times",
+      "name": "Financial Times",
+      "type": "media",
+      "description": "First reported the Yorkville Venezuela SPAC plan, May 2026"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "kevin-mcgurn",
+      "target": "yorkville-international-capital",
+      "label": "CEO and director of",
+      "type": "advisory",
+      "date": "2026-03"
+    },
+    {
+      "source": "mark-angelo",
+      "target": "yorkville-international-capital",
+      "label": "chairman of",
+      "type": "advisory",
+      "date": "2026-03"
+    },
+    {
+      "source": "yorkville-international-capital-sponsor",
+      "target": "yorkville-international-capital",
+      "label": "holds ~15.33M founder shares (paid $25,000; sized to 40% of shares) in",
+      "type": "ownership",
+      "date": "2026",
+      "amount_usd": 25000
+    },
+    {
+      "source": "yorkville-international-capital-sponsor",
+      "target": "yorkville-international-capital",
+      "label": "bought 4.0M private placement warrants in",
+      "type": "money",
+      "date": "2026-06-17",
+      "amount_usd": 4000000
+    },
+    {
+      "source": "cohen-and-company-capital-markets",
+      "target": "yorkville-international-capital",
+      "label": "sole book-runner of $230M IPO and bought 2.3M warrants in",
+      "type": "commercial",
+      "date": "2026-06-17",
+      "amount_usd": 2300000
+    },
+    {
+      "source": "ron-wyden",
+      "target": "yorkville-advisors",
+      "label": "opened Senate Finance inquiry (OFAC licences, Venezuela) into",
+      "type": "political",
+      "date": "2026-06-25"
+    },
+    {
+      "source": "ofac",
+      "target": "yorkville-international-capital",
+      "label": "no licence on record; GL 46/49 regime governs any Venezuelan investment by (inferred)",
+      "type": "regulatory",
+      "date": "2026"
+    },
+    {
+      "source": "yorkville-acquisition-sponsor-ii",
+      "target": "texas-ventures-acquisition-iii",
+      "label": "holds 7.5M founder shares + 4.7M warrants (paid $7.4M; ~$75M nominal, our arithmetic) in",
+      "type": "ownership",
+      "date": "2025-09-18",
+      "amount_usd": 7400000
+    },
+    {
+      "source": "yorkville-acquisition-sponsor-ii",
+      "target": "texas-ventures-acquisition-iii",
+      "label": "$145,000 extension note/deposit to",
+      "type": "money",
+      "date": "2026-10-20",
+      "amount_usd": 145000
+    },
+    {
+      "source": "trump-media-technology-group",
+      "target": "texas-ventures-acquisition-iii",
+      "label": "announced talks to merge Truth Social spin-off into (dropped 10 Jun 2026)",
+      "type": "commercial",
+      "date": "2026-02-27"
+    },
+    {
+      "source": "truth-social",
+      "target": "texas-ventures-acquisition-iii",
+      "label": "proposed spin-off merger partner",
+      "type": "commercial",
+      "date": "2026-02-27"
+    },
+    {
+      "source": "tae-technologies",
+      "target": "texas-ventures-acquisition-iii",
+      "label": "party to Truth Social spin-off discussions with",
+      "type": "commercial",
+      "date": "2026-02-27"
+    },
+    {
+      "source": "devin-nunes",
+      "target": "texas-ventures-acquisition-iii",
+      "label": "resigned as director the day before spin-off announcement",
+      "type": "advisory",
+      "date": "2026-02-26"
+    },
+    {
+      "source": "scott-glabe",
+      "target": "texas-ventures-acquisition-iii",
+      "label": "resigned as director",
+      "type": "advisory",
+      "date": "2026-02-26"
+    },
+    {
+      "source": "lawrence-glick",
+      "target": "texas-ventures-acquisition-iii",
+      "label": "director of",
+      "type": "advisory",
+      "date": "2025-09"
+    },
+    {
+      "source": "alan-garten",
+      "target": "texas-ventures-acquisition-iii",
+      "label": "director of",
+      "type": "advisory",
+      "date": "2025-09"
+    },
+    {
+      "source": "lawrence-glick",
+      "target": "trump-organization",
+      "label": "EVP of",
+      "type": "commercial"
+    },
+    {
+      "source": "alan-garten",
+      "target": "trump-organization",
+      "label": "EVP and chief legal officer of",
+      "type": "commercial"
+    },
+    {
+      "source": "donald-trump",
+      "target": "trump-media-technology-group",
+      "label": "largest shareholder (via trust) of; would have received spin-off shares (inferred)",
+      "type": "ownership"
+    },
+    {
+      "source": "texas-ventures-acquisition-iii",
+      "target": "plusai",
+      "label": "business combination agreement at $800M pre-money with",
+      "type": "commercial",
+      "date": "2026-09-03",
+      "amount_usd": 800000000
+    },
+    {
+      "source": "yorkville-advisors",
+      "target": "plusai",
+      "label": "PIPE/financing commitment from funds managed by",
+      "type": "money",
+      "date": "2026-09"
+    },
+    {
+      "source": "us-department-of-transportation",
+      "target": "plusai",
+      "label": "industry-wide national AV strategy released same day as PlusAI deal (timing inferred)",
+      "type": "regulatory",
+      "date": "2026-09-03"
+    },
+    {
+      "source": "fmcsa",
+      "target": "plusai",
+      "label": "five-year Level-4 beacon exemption open to carriers including (no opt-in reported)",
+      "type": "regulatory",
+      "date": "2026-10-07"
+    },
+    {
+      "source": "sean-duffy",
+      "target": "us-department-of-transportation",
+      "label": "Secretary of",
+      "type": "political",
+      "date": "2025"
+    },
+    {
+      "source": "yorkville-bw-acquisition-sponsor",
+      "target": "blue-water-acquisition-corp-iii",
+      "label": "bought 6,325,000 founder shares + 430,000 private units (reported $7.2M) in",
+      "type": "ownership",
+      "date": "2025-11-25",
+      "amount_usd": 7200000
+    },
+    {
+      "source": "kevin-mcgurn",
+      "target": "blue-water-acquisition-corp-iii",
+      "label": "CEO of",
+      "type": "advisory",
+      "date": "2025-11"
+    },
+    {
+      "source": "blue-water-acquisition-corp-iii",
+      "target": "citgo-pdv-holding",
+      "label": "bid ~$10B then suspended (14 Nov 2025) for",
+      "type": "commercial",
+      "date": "2025-09",
+      "amount_usd": 10000000000
+    },
+    {
+      "source": "joseph-hernandez",
+      "target": "blue-water-acquisition-corp-iv",
+      "label": "chairman and CEO of",
+      "type": "advisory",
+      "date": "2026"
+    },
+    {
+      "source": "blue-water-acquisition-corp-iv",
+      "target": "maha-capital",
+      "label": "non-binding LOI (terminated 15 May 2026) to acquire subsidiaries of",
+      "type": "commercial",
+      "date": "2026-04-28",
+      "amount_usd": 490000000
+    },
+    {
+      "source": "maha-capital",
+      "target": "petrourdaneta",
+      "label": "indirect 24% stake in",
+      "type": "ownership"
+    },
+    {
+      "source": "amber-energy",
+      "target": "citgo-pdv-holding",
+      "label": "court-approved $5.9B buyer (unlicensed, under appeal) of",
+      "type": "commercial",
+      "date": "2025-11-25",
+      "amount_usd": 5900000000
+    },
+    {
+      "source": "elliott-management",
+      "target": "amber-energy",
+      "label": "affiliate/backer of",
+      "type": "ownership"
+    },
+    {
+      "source": "paul-singer",
+      "target": "elliott-management",
+      "label": "founder of",
+      "type": "ownership"
+    },
+    {
+      "source": "ofac",
+      "target": "citgo-pdv-holding",
+      "label": "froze governance changes at (licence amendment)",
+      "type": "regulatory",
+      "date": "2026-09-14"
+    },
+    {
+      "source": "delcy-rodriguez",
+      "target": "citgo-pdv-holding",
+      "label": "interim government sought to replace boards of",
+      "type": "political",
+      "date": "2026"
+    },
+    {
+      "source": "pdvsa",
+      "target": "citgo-pdv-holding",
+      "label": "parent of",
+      "type": "ownership"
+    },
+    {
+      "source": "chris-wright",
+      "target": "elliott-management",
+      "label": "applauded court sale of Citgo to",
+      "type": "political",
+      "date": "2026-01"
+    },
+    {
+      "source": "ofac",
+      "target": "pdvsa",
+      "label": "GL 46/49/50 Venezuela oil licences after Maduro capture",
+      "type": "regulatory",
+      "date": "2026-01-29"
+    },
+    {
+      "source": "us-treasury",
+      "target": "ofac",
+      "label": "parent of",
+      "type": "regulatory"
+    },
+    {
+      "source": "financial-times",
+      "target": "yorkville-international-capital",
+      "label": "first reported Venezuela SPAC plan of",
+      "type": "media",
+      "date": "2026-05-15"
+    }
+  ],
+  "leads": [
+    {
+      "title": "PlusAI / TVA III S-4: post-closing board, sponsor forfeitures and the Trump Org directors",
+      "why_connected": "Trump Organization EVPs Glick and Garten sat on TVA III's board, and Yorkville's 7.5M founder shares now exceed the 4.8M public float. The S-4 should show who sits on the PlusAI board and what the sponsor keeps.",
+      "entities": [
+        "texas-ventures-acquisition-iii",
+        "plusai",
+        "lawrence-glick",
+        "alan-garten",
+        "yorkville-acquisition-sponsor-ii"
+      ],
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0002033991/000119312526418671/ck0002033991-20261009.htm"
+    },
+    {
+      "title": "TMTG's legacy media assets after the TAE close",
+      "why_connected": "Truth Social was slated to merge into Yorkville's TVA III before the plan was shelved for a post-merger 'strategic alternatives' review. Watch whether a Yorkville vehicle resurfaces as the buyer or partner.",
+      "entities": [
+        "truth-social",
+        "trump-media-technology-group",
+        "tae-technologies",
+        "yorkville-advisors"
+      ],
+      "source_url": "https://thenextweb.com/news/trump-media-drops-truth-social-spinoff-refocuses-on-6-billion-fusion-merger-with-tae-technologies"
+    },
+    {
+      "title": "OFAC's decision on the Elliott/Amber Citgo sale",
+      "why_connected": "Treasury has repeatedly stalled a court-approved sale to a GOP megadonor's fund and froze Citgo's governance. The eventual licence decision is a direct administration call on Venezuelan assets.",
+      "entities": [
+        "ofac",
+        "amber-energy",
+        "elliott-management",
+        "paul-singer",
+        "citgo-pdv-holding"
+      ],
+      "source_url": "https://www.ogj.com/general-interest/government/news/55405154/us-freezes-citgo-board-to-protect-pending-59-billion-acquisition"
+    },
+    {
+      "title": "Blue Water IV and Maha/PetroUrdaneta",
+      "why_connected": "The original Citgo bidder pivoted to Venezuelan oil assets through a new SPAC in the same weeks Yorkville launched its Venezuela SPAC. Why the LOI ended is unexplained.",
+      "entities": [
+        "blue-water-acquisition-corp-iv",
+        "joseph-hernandez",
+        "maha-capital",
+        "petrourdaneta"
+      ],
+      "source_url": "https://www.accessnewswire.com/newsroom/en/banking-and-financial-services/maha-and-bwiv-terminate-the-letter-of-intent-for-proposed-spac-trans-1167597"
+    }
+  ],
+  "not_connected_in_coverage": [
+    "YICC needing GL 49 or a specific licence (outside GL 46's 'established U.S. entity' carve-out): inferred, our reading.",
+    "Nunes/Glabe TVA III resignations (26 Feb 2026) tied to the next day's spin-off announcement: inferred from timing.",
+    "President Trump receiving spin-off shares via his TMTG trust: inferred from the announced pro-rata structure.",
+    "DOT AV strategy and the PlusAI deal announced the same day (3 Sep 2026): inferred coincidence.",
+    "BWIV/Maha LOI terminated 15 May 2026, the day after YICC's S-1 and the FT report: inferred coincidence.",
+    "McGurn left the TVA III CEO post (22 Apr 2026) the day after PlusAI-Churchill IX was terminated: inferred; the TMTG interim CEO appointment is the documented reason.",
+    "YICC founders holding ~40%: inferred from share counts and market value."
+  ],
+  "audit": {
+    "checked": [
+      "YICC founder shares: 15,333,333 Class B for $25,000 and the ~40% promote",
+      "TMTG/TAE/TVA III Truth Social spin-off talks (27 Feb 2026) and their abandonment (10 Jun 2026)",
+      "TVA III-PlusAI deal status, redemptions and extensions through Nov 2026"
+    ],
+    "result": "strengthened",
+    "changes": [
+      "Founder shares: S-1 and 424B4 extracts confirm 15,333,333 founder shares for $25,000 (~$0.002/share) and state they convert to 40% of shares outstanding, so the ~40% promote is now documented, not inferred (sub-claim 1, report section 1 and 'Not connected' list updated). Added Mark Angelo's voting control of the sponsor, the 31 Mar vs 2 Apr 2026 issue-date discrepancy, and the 13G count of 15,183,333.",
+      "Spin-off: upheld. Multiple outlets (TNW, Stocktwits, ValueTheMarkets, Panabee, Axios for the February announcement) confirm the 27 Feb 2026 talks and the June 2026 decision not to proceed 'at this time'; no official reason was given. TAE merger close still targeted for Q4 2026.",
+      "PlusAI: upheld ($800M pre-money, $40M minimum cash, $145,000 monthly extensions, deadline moved to 24 Nov 2026 via a sponsor note). Added FreightWaves' year-end close target. No November redemption tally or closing found.",
+      "Labels: founder-block values at $10 are now marked as our arithmetic in the summary and relationship labels."
+    ],
+    "new_sources": [
+      {
+        "title": "Yorkville International Capital Corp. Form 424B4",
+        "publisher": "SEC EDGAR",
+        "url": "https://www.sec.gov/Archives/edgar/data/0002130386/000110465926074584/tm2614044-6_424b4.htm",
+        "date": "2026-06"
+      },
+      {
+        "title": "Yorkville International Capital Corp. Form S-1",
+        "publisher": "SEC EDGAR",
+        "url": "https://www.sec.gov/Archives/edgar/data/0002130386/000110465926061345/yicc-20260514xs1.htm",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "Yorkville International Capital Corp. Schedule 13G",
+        "publisher": "SEC EDGAR",
+        "url": "https://www.sec.gov/Archives/edgar/data/0002130386/000110465926094284/primary_doc.xml",
+        "date": "2026-06"
+      },
+      {
+        "title": "PlusAI targets year-end close on $800M Texas Ventures SPAC",
+        "publisher": "FreightWaves",
+        "url": "https://www.freightwaves.com/news/plusai-texas-ventures-spac-close",
+        "date": "2026"
+      },
+      {
+        "title": "TMTG Halts Planned Spinoff of Truth Social as Focus Shifts to Merger with TAE Technologies",
+        "publisher": "ValueTheMarkets",
+        "url": "https://www.valuethemarkets.com/cryptocurrency/news/tmtg-halts-planned-spinoff-of-truth-social-as-focus-shifts-to-merger-with-tae-technologies",
+        "date": "2026-06"
+      }
+    ]
+  }
+}

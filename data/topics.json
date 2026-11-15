@@ -1,0 +1,47 @@
+[
+  {
+    "id": "family-ventures-and-wealth",
+    "name": "Family Ventures & Wealth",
+    "description": "What the Trump family's businesses, licensing entities and extended relatives have earned, and how the totals are estimated."
+  },
+  {
+    "id": "crypto-ventures",
+    "name": "Crypto Ventures",
+    "description": "The meme coins, World Liberty Financial, the USD1 stablecoin and bitcoin companies tied to the Trump family, and who put money into them."
+  },
+  {
+    "id": "trump-media-and-markets",
+    "name": "Trump Media & Markets",
+    "description": "Trump Media & Technology Group, its financial products and backers, and the effect of presidential posts on markets."
+  },
+  {
+    "id": "gulf-money",
+    "name": "Gulf Money",
+    "description": "Investments, gifts and licensing deals involving the UAE, Saudi Arabia and Qatar, and the US decisions affecting those states."
+  },
+  {
+    "id": "foreign-deals",
+    "name": "Foreign Deals",
+    "description": "Business projects and financial ties outside the Gulf, set beside US policy toward the countries involved."
+  },
+  {
+    "id": "regulators-and-enforcement",
+    "name": "Regulators & Enforcement",
+    "description": "Decisions by the SEC, the CFTC, the OCC and other agencies affecting companies with financial ties to the Trump family or its donors, and the officials who took them."
+  },
+  {
+    "id": "pardons-lobbyists-and-access",
+    "name": "Pardons, Lobbyists & Access",
+    "description": "Clemency decisions, paid lobbying and other routes by which companies, donors and foreign governments reach the White House."
+  },
+  {
+    "id": "defence-minerals-and-contracts",
+    "name": "Defence, Minerals & Contracts",
+    "description": "Federal contracts, loans and equity stakes in defence, drone and critical-minerals companies with ties to the Trump family, officials or donors."
+  },
+  {
+    "id": "tech-and-media-companies",
+    "name": "Tech & Media Companies",
+    "description": "Technology and media companies that made payments, settlements or donations while they had business before the federal government."
+  }
+]

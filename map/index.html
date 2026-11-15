@@ -1,0 +1,83 @@
+<title>Trump Claims Map</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:wght@400;600;700&family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&display=swap">
+<link rel="stylesheet" href="style.css">
+
+<a class="skip" href="#app">Skip to the Content</a>
+
+<header class="top">
+  <div class="wrap top-in">
+    <a class="site" href="#home" id="site-name">
+      <svg width="26" height="18" viewBox="0 0 26 18" aria-hidden="true"><path d="M6 9h14" stroke="currentColor" stroke-width="1.6" fill="none"/><circle cx="6" cy="9" r="4.4" fill="var(--k-person)"/><path d="M20 3.2l5.8 5.8-5.8 5.8-5.8-5.8z" fill="var(--hold)"/></svg>
+      <span>Trump Claims Map</span>
+    </a>
+    <nav class="nav" aria-label="Main">
+      <a href="#claims" data-nav="claims">Checks</a>
+      <a href="#names" data-nav="names" aria-label="People &amp; Organisations">People<span class="wide"> &amp; Organisations</span></a>
+      <a href="#map" data-nav="map">Map</a>
+      <a href="#method" data-nav="method">How We Checked</a>
+    </nav>
+    <div class="search" role="search">
+      <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><circle cx="7" cy="7" r="4.6"></circle><path d="M10.5 10.5 14 14"></path></svg>
+      <label class="sr" for="search">Search names and checks</label>
+      <input id="search" type="search" placeholder="Search names and checks" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="search-results" aria-autocomplete="list">
+      <ul class="results" id="search-results" role="listbox" hidden></ul>
+    </div>
+    <div class="themesw" id="theme" role="group" aria-label="Theme">
+      <button type="button" data-theme-opt="light" data-tip="Light" aria-label="Light theme" aria-pressed="false">
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" aria-hidden="true"><circle cx="8" cy="8" r="3"/><path d="M8 1.2v1.6M8 13.2v1.6M1.2 8h1.6M13.2 8h1.6M3.2 3.2l1.1 1.1M11.7 11.7l1.1 1.1M3.2 12.8l1.1-1.1M11.7 4.3l1.1-1.1"/></svg>
+      </button>
+      <button type="button" data-theme-opt="dark" data-tip="Dark" aria-label="Dark theme" aria-pressed="false">
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round" aria-hidden="true"><path d="M13.6 9.6A6 6 0 0 1 6.4 2.4a6 6 0 1 0 7.2 7.2z"/></svg>
+      </button>
+      <button type="button" data-theme-opt="system" data-tip="System" aria-label="System theme" aria-pressed="true">
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="1.6" y="2.4" width="12.8" height="8.6" rx="1.4"/><path d="M5.6 13.8h4.8M8 11v2.8"/></svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<main id="app" tabindex="-1">
+  <div id="page" class="wrap"></div>
+
+  <section id="mapview" class="mapview" aria-label="Map of every check, name and connection" hidden>
+    <div class="map-stage">
+    <canvas id="graph" tabindex="0" role="img" aria-label="Network of the checks, grouped by topic around a ring, and the people and organisations they involve. Drag to move, scroll or pinch to zoom, arrow keys to move, plus and minus to zoom, zero to fit. The Checks and People and organisations pages give the same content as text."></canvas>
+    <p class="map-loading" id="map-loading">Drawing the map</p>
+
+    <div class="map-tools" id="map-tools">
+      <button type="button" class="btn" id="tools-toggle" aria-expanded="false" aria-controls="tools-body">
+        <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="M2 4h12M4.5 8h7M7 12h2"></path></svg>
+        <span>Key &amp; Filters</span><span class="count" id="filter-count" hidden></span>
+      </button>
+      <form class="tools-body" id="tools-body" hidden></form>
+    </div>
+
+    <div class="map-banner" id="banner" role="status" hidden></div>
+    <div class="tip" id="tip" hidden></div>
+
+    <div class="map-zoom" role="group" aria-label="Map controls">
+      <button type="button" id="zoom-in" aria-label="Zoom in" title="Zoom In">+</button>
+      <button type="button" id="zoom-out" aria-label="Zoom out" title="Zoom Out">&minus;</button>
+      <button type="button" id="zoom-fit" aria-label="Show the whole map" title="Show the Whole Map">
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M1 5V1h4M9 1h4v4M13 9v4H9M5 13H1V9"></path></svg>
+      </button>
+    </div>
+
+    <aside class="map-panel" id="panel" aria-label="Selected item" hidden></aside>
+    </div>
+
+    <p class="map-note" id="map-note"><strong>Everyone named denies wrongdoing.</strong> <span class="wide">Nothing here is an accusation of a crime. A line is a documented link between two names, not proof that one caused the other.</span><span class="narrow">A line is a documented link, not an accusation.</span></p>
+  </section>
+</main>
+
+<footer class="foot" id="foot">
+  <div class="wrap">
+    <p><strong>Everyone named denies wrongdoing, and nothing here is an accusation of a crime.</strong> This site is a tool for looking into Donald Trump, his family, his administration and the connections around them. A link between two names means a documented relationship, or that both appear in the same check. It does not show that one caused the other.</p>
+    <p class="muted" id="foot-meta"></p>
+  </div>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script src="graph-data.js"></script>
+<script src="app.js"></script>

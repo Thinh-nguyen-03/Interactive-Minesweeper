@@ -1,0 +1,770 @@
+{
+  "id": "C41",
+  "title": "Trump Media follow-ups: API customers, SEC complaint, Nunes, CRO treasury deal",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "Most of the claim holds up. Reuters (Oct 28, 2026, anonymous sources) reported Bloomberg, Susquehanna and Jump Trading as Truth API subscribers. Warren and Schiff wrote to the SEC on July 28, 2026, and the SEC only acknowledged receipt, with no probe found. Lighthizer (effective Mar 6, 2026) and Swider (Apr 6, 2026) resigned from the board. The ~$6.4B CRO treasury venture with Crypto.com and Yorkville was mutually terminated on Aug 7, 2026. Two items are off. Nunes was named PIAB chair in December 2024, not when he left TMTG in April 2026. And TAE's CEO 'lobbying DOE' was an industry meeting urging fusion funding: I found no registered TAE lobbying and nothing tying the meeting to the merger.",
+  "sub_claims": [
+    {
+      "statement": "Bloomberg, Susquehanna and Jump Trading subscribe to the Truth API.",
+      "verdict": "mostly-accurate",
+      "finding": "Reuters (Anirban Sen and Edmund Lee, Oct 28, 2026) reported, citing people with direct knowledge, that Bloomberg LP and the HFT firms Susquehanna International Group and Jump Trading signed up for the feed. It costs up to $100,000 a month, and Trump Media staff put the speed edge at about 50 milliseconds. All three firms declined to comment. TMTG has never named its clients: in August it said it had more than 10 customer agreements. The claim rests on a single outlet with anonymous sources and has not been confirmed on the record.",
+      "sources": [
+        "https://www.thestandard.com.hk/world/article/346854/Bloomberg-two-trading-firms-agree-to-pay-Trumps-Truth-Social-for-faster-access-to-presidents-posts-sources-say",
+        "https://thefinancialexpress.com.bd/america/bloomberg-two-trading-firms-agree-to-pay-trumps-truth-social-for-faster-access-to-presidents-posts-sources-say",
+        "https://www.citybiz.co/?p=926968"
+      ]
+    },
+    {
+      "statement": "Sens. Warren and Schiff asked the SEC to investigate the Truth API; the SEC responded.",
+      "verdict": "confirmed",
+      "finding": "Warren and Schiff sent a letter to SEC Chair Paul Atkins dated July 28, 2026 and released it on July 29. It asks whether Truth API violates federal securities laws and warns that it could erode investor confidence in market fairness. An SEC spokesperson confirmed the agency received the letter and declined further comment. I found no reporting through mid-November 2026 that the SEC opened an inquiry. All three sitting SEC commissioners are Republicans. Separately, The Intercept and the Freedom of the Press Foundation sued in SDNY on Aug 12, 2026 to stop the feed and to bar Truth Social-exclusive White House announcements. I found no ruling.",
+      "sources": [
+        "https://www.banking.senate.gov/newsroom/minority/warren-schiff-call-on-sec-to-investigate-trump-medias-plan-to-give-wall-street-firms-faster-access-to-truth-social-posts",
+        "https://www.banking.senate.gov/imo/media/doc/2026.07.28%20Letter%20to%20SEC%20re%20Truth%20Social%20API.pdf",
+        "https://gvwire.com/2026/07/29/us-democratic-lawmakers-press-sec-to-probe-trump-medias-fast-feed/",
+        "https://gvwire.com/2026/08/12/trump-sued-over-service-that-offers-paid-early-access-to-truth-social-posts/"
+      ]
+    },
+    {
+      "statement": "Devin Nunes left TMTG in April 2026 and was named chair of the President's Intelligence Advisory Board.",
+      "verdict": "partly-accurate",
+      "finding": "The departure is right: TMTG announced on Apr 21, 2026 (some outlets say Apr 22) that Nunes was stepping down and that Kevin McGurn would be interim CEO. The sequence is wrong. Trump announced Nunes as PIAB chair on Dec 14, 2024, and Nunes stayed TMTG CEO alongside that role for about 15 months, with the appointment formalized in February 2025. In April 2026 Nunes said he was leaving to 'focus more intently on my role as Chairman of the President's Intelligence Advisory Board and on other ventures.' TMTG gave no reason for the exit.",
+      "sources": [
+        "https://krdo.com/news/2026/04/22/devin-nunes-steps-down-as-head-of-trumps-struggling-media-company/",
+        "https://justthenews.com/index%2ephp/politics-policy/hldnunes-depart-trump-media-focus-intel-oversight-role",
+        "https://www.nbcnews.com/politics/donald-trump/trump-picks-truthsocial-ceo-devin-nunes-intelligence-advisory-board-rcna184272",
+        "https://bnnbloomberg.ca/business/company-news/2024/12/14/trump-names-truth-social-ceo-nunes-to-head-intel-advisory-board"
+      ]
+    },
+    {
+      "statement": "Board members Robert Lighthizer and Eric Swider resigned.",
+      "verdict": "confirmed",
+      "finding": "Lighthizer, Trump's former US Trade Representative, resigned from the board and its committees effective Mar 6, 2026, per an 8-K reported by Reuters. Swider notified TMTG on Apr 6, 2026 that he was resigning effective immediately, per the 8-K. Some outlets dated the filing Apr 9-10. Both filings say the departures were not due to any disagreement. One secondary brief says Swider left to focus on Rubidex, but I did not confirm that.",
+      "sources": [
+        "https://whbl.com/2026/03/06/former-us-trade-chief-lighthizer-resigns-from-trump-media-board/",
+        "https://www.mediapost.com/publications/article/413324/lighthizer-resigns-from-trump-media-technologys.html",
+        "https://finance.yahoo.com/markets/stocks/articles/eric-swider-resigns-trump-media-222610050.html",
+        "https://whbl.com/2026/04/10/eric-swider-resigns-from-trump-media-board/"
+      ]
+    },
+    {
+      "statement": "The $6.4B CRO-token treasury venture with Crypto.com/Yorkville was terminated.",
+      "verdict": "confirmed",
+      "finding": "Trump Media Group CRO Strategy was announced on Aug 26, 2025 as a roughly $6.42B package: $1B in CRO, $200M in cash, $220M in warrants and a $5B equity line from a Yorkville affiliate, to be listed via Yorkville Acquisition Corp. On Aug 7, 2026, TMTG, Crypto.com and Yorkville mutually terminated the business combination, citing 'prevailing market conditions' and 'shifting business and stakeholder priorities.' They also ended Crypto.com's servicing of Yorkville America ETFs and dropped direct prediction-market integration into Truth Social, replacing it with a marketing deal for Crypto.com's prediction products. The existing Truth Social-branded ETFs and TMTG's CRO holdings remain. McGurn told Axios the digital-asset treasury market had become crowded. CRO fell about 4%.",
+      "sources": [
+        "https://axios.com/2026/08/07/trump-media-crypto-treasury-deals",
+        "https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market",
+        "https://cryptobriefing.com/trump-media-and-crypto-com-terminate-planned-cro-treasury-deal/",
+        "https://crypto.news/trump-media-crypto-com-end-6-42b-cro-treasury-deal/"
+      ]
+    },
+    {
+      "statement": "TMTG planned a Truth Social utility token.",
+      "verdict": "mostly-accurate",
+      "finding": "Nunes's Apr 29, 2025 shareholder letter floated a utility token and digital wallet, first for paying for Truth+ subscriptions. TMTG teased it again in July 2025. In August 2025 it dropped a proprietary token in favor of letting users convert Truth Social and Truth+ 'gems' into Crypto.com's CRO. On Dec 31, 2025 it announced a separate non-transferable shareholder rewards token: one per DJT share, minted and custodied by Crypto.com, possibly on Cronos, with a Feb 2, 2026 record date. I found no confirmation that the shareholder tokens have been distributed, and TMTG reserved the right to cancel. So the plan was real, but it morphed and has not visibly launched.",
+      "sources": [
+        "https://fortune.com/crypto/2025/04/29/trump-media-tmtg-truth-plus-utility-token-digital-wallet/",
+        "https://www.theblock.co/news/business/2025-07-10-truth-social-utlity-token-streaming-361931",
+        "https://www.benzinga.com/content/47578527/trumps-truth-social-ditches-own-token-plan-adds-cro-instead",
+        "https://www.theblock.co/amp/post/384059/trump-media-distribute-rewards-token-djt-shareholders-crypto-com",
+        "https://www.theblock.co/news/business/2026-01-20-trump-media-sets-feb-2-record-date-for-upcoming-rewards-token-386306"
+      ]
+    },
+    {
+      "statement": "TAE's CEO lobbied DOE before the merger.",
+      "verdict": "partly-accurate",
+      "finding": "Reuters, TechCrunch and Al Jazeera report that TAE CEO Michl Binderbauer and other fusion executives met DOE officials in December 2025, in the week before the Dec 18 merger announcement. They urged DOE to steer billions toward fusion, weeks after DOE created its fusion office. TAE has held DOE grants since Trump's first term. The meeting is documented. I found no Lobbying Disclosure Act filing naming TAE: the Fusion Industry Association's lobbyist does lobby DOE, and I could not query the Senate LDA database directly. No report ties the meeting to the merger or to any award.",
+      "sources": [
+        "https://www.aljazeera.com/economy/2025/12/18/trump-media-to-merge-with-nuclear-fusion-company-to-power-ai",
+        "https://techcrunch.com/?p=3077322",
+        "https://fortune.com/2025/12/18/trump-media-nuclear-fusion-tae-technologies-michl-binderbauer/",
+        "https://www.eenews.net/articles/trump-media-takes-on-fusion-in-6b-merger/",
+        "https://projects.propublica.org/represent/lobbying/r/301032919"
+      ]
+    }
+  ],
+  "corrections": [
+    "The claim implies Nunes was named PIAB chair when he left TMTG in April 2026. Trump named him on Dec 14, 2024, and he held both roles until April 2026.",
+    "The Bloomberg/Susquehanna/Jump customer list is a Reuters report from anonymous sources (Oct 28, 2026). Some syndicated copies are mislabelled 'Exclusive-Bloomberg', but Bloomberg is a reported customer, not the reporter. TMTG and the three firms have not confirmed it.",
+    "The SEC's 'response' to Warren and Schiff was only an acknowledgment of receipt. No investigation has been reported.",
+    "'Lobbying' is loose: what is documented is a DOE meeting of fusion executives urging fusion funding, not a registered TAE lobbying campaign tied to the merger."
+  ],
+  "denials_and_context": [
+    "TMTG calls Truth API an 'industry-standard API product for which there is significant demand across industries' and says Congressional Democrats 'continue to mischaracterize' it. Bloomberg, Susquehanna and Jump declined to comment.",
+    "Both director resignation filings say the exits were not due to any disagreement with management or the board.",
+    "The CRO deal termination was described as mutual and driven by market conditions. Parts of the Crypto.com relationship continue: a prediction-market marketing deal, CRO holdings and the Truth Social-branded ETFs.",
+    "TAE had received DOE grants under both Trump and Biden, and the December 2025 DOE meeting was an industry-wide one. Rep. Don Beyer and ethics experts still flagged conflict-of-interest risk because the president's family trust would own about 20% of the merged company.",
+    "The White House has said the president and his family do not engage in conflicts of interest."
+  ],
+  "sources": [
+    {
+      "title": "Bloomberg, two trading firms agree to pay Trump's Truth Social for faster access to president's posts, sources say (Reuters)",
+      "publisher": "The Standard HK (Reuters)",
+      "url": "https://www.thestandard.com.hk/world/article/346854/Bloomberg-two-trading-firms-agree-to-pay-Trumps-Truth-Social-for-faster-access-to-presidents-posts-sources-say",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Bloomberg, two trading firms agree to pay Trump's Truth Social for faster access (Reuters)",
+      "publisher": "The Financial Express (Reuters)",
+      "url": "https://thefinancialexpress.com.bd/america/bloomberg-two-trading-firms-agree-to-pay-trumps-truth-social-for-faster-access-to-presidents-posts-sources-say",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Truth Social Sells Faster Access to Trump Posts to Bloomberg and Trading Firms, Reuters Reports",
+      "publisher": "citybiz",
+      "url": "https://www.citybiz.co/?p=926968",
+      "date": "2026-10"
+    },
+    {
+      "title": "Warren, Schiff call on SEC to investigate Trump Media's plan",
+      "publisher": "US Senate Banking Committee (minority)",
+      "url": "https://www.banking.senate.gov/newsroom/minority/warren-schiff-call-on-sec-to-investigate-trump-medias-plan-to-give-wall-street-firms-faster-access-to-truth-social-posts",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "Letter to SEC re Truth Social API",
+      "publisher": "US Senate Banking Committee (minority)",
+      "url": "https://www.banking.senate.gov/imo/media/doc/2026.07.28%20Letter%20to%20SEC%20re%20Truth%20Social%20API.pdf",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "US Democratic lawmakers press SEC to probe Trump Media's fast feed (Reuters)",
+      "publisher": "GV Wire (Reuters)",
+      "url": "https://gvwire.com/2026/07/29/us-democratic-lawmakers-press-sec-to-probe-trump-medias-fast-feed/",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "Trump sued over service that offers paid early access to Truth Social posts (Reuters)",
+      "publisher": "GV Wire (Reuters)",
+      "url": "https://gvwire.com/2026/08/12/trump-sued-over-service-that-offers-paid-early-access-to-truth-social-posts/",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Devin Nunes steps down as head of Trump's struggling media company (CNN)",
+      "publisher": "KRDO (CNN)",
+      "url": "https://krdo.com/news/2026/04/22/devin-nunes-steps-down-as-head-of-trumps-struggling-media-company/",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "Devin Nunes departing Trump Media to focus on intel oversight role",
+      "publisher": "Just the News",
+      "url": "https://justthenews.com/index%2ephp/politics-policy/hldnunes-depart-trump-media-focus-intel-oversight-role",
+      "date": "2026-04-21"
+    },
+    {
+      "title": "Trump picks TruthSocial CEO Devin Nunes to lead intelligence advisory board",
+      "publisher": "NBC News",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-picks-truthsocial-ceo-devin-nunes-intelligence-advisory-board-rcna184272",
+      "date": "2024-12-14"
+    },
+    {
+      "title": "Trump names Truth Social CEO Nunes to head intel advisory board",
+      "publisher": "BNN Bloomberg",
+      "url": "https://bnnbloomberg.ca/business/company-news/2024/12/14/trump-names-truth-social-ceo-nunes-to-head-intel-advisory-board",
+      "date": "2024-12-14"
+    },
+    {
+      "title": "Former US trade chief Lighthizer resigns from Trump Media board (Reuters)",
+      "publisher": "WHBL (Reuters)",
+      "url": "https://whbl.com/2026/03/06/former-us-trade-chief-lighthizer-resigns-from-trump-media-board/",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "Lighthizer resigns from Trump Media & Technology's board",
+      "publisher": "MediaPost",
+      "url": "https://www.mediapost.com/publications/article/413324/lighthizer-resigns-from-trump-media-technologys.html",
+      "date": "2026-03"
+    },
+    {
+      "title": "Eric Swider resigns from Trump Media board",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/eric-swider-resigns-trump-media-222610050.html",
+      "date": "2026-04"
+    },
+    {
+      "title": "Eric Swider resigns from Trump Media board (Reuters)",
+      "publisher": "WHBL (Reuters)",
+      "url": "https://whbl.com/2026/04/10/eric-swider-resigns-from-trump-media-board/",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "Exclusive: Trump Media unwinds crypto deals",
+      "publisher": "Axios",
+      "url": "https://axios.com/2026/08/07/trump-media-crypto-treasury-deals",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Trump Media Abandons Crypto Treasury, Prediction Market Ventures",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Trump Media and Crypto.com terminate planned CRO treasury deal",
+      "publisher": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/trump-media-and-crypto-com-terminate-planned-cro-treasury-deal/",
+      "date": "2026-08"
+    },
+    {
+      "title": "Trump Media, Crypto.com end $6.42B CRO treasury deal",
+      "publisher": "crypto.news",
+      "url": "https://crypto.news/trump-media-crypto-com-end-6-42b-cro-treasury-deal/",
+      "date": "2026-08"
+    },
+    {
+      "title": "Trump Media eyes utility token and digital wallet for Truth+",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/crypto/2025/04/29/trump-media-tmtg-truth-plus-utility-token-digital-wallet/",
+      "date": "2025-04-29"
+    },
+    {
+      "title": "Truth Social utility token / streaming",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/business/2025-07-10-truth-social-utlity-token-streaming-361931",
+      "date": "2025-07-10"
+    },
+    {
+      "title": "Trump's Truth Social Ditches Own Token Plan - Adds $CRO Instead",
+      "publisher": "Benzinga",
+      "url": "https://www.benzinga.com/content/47578527/trumps-truth-social-ditches-own-token-plan-adds-cro-instead",
+      "date": "2025-08"
+    },
+    {
+      "title": "Trump Media to distribute new rewards token to DJT shareholders with Crypto.com",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/amp/post/384059/trump-media-distribute-rewards-token-djt-shareholders-crypto-com",
+      "date": "2025-12-31"
+    },
+    {
+      "title": "Trump Media sets Feb. 2 record date for upcoming rewards token",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/business/2026-01-20-trump-media-sets-feb-2-record-date-for-upcoming-rewards-token-386306",
+      "date": "2026-01-20"
+    },
+    {
+      "title": "Trump Media to merge with nuclear fusion company to power AI",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2025/12/18/trump-media-to-merge-with-nuclear-fusion-company-to-power-ai",
+      "date": "2025-12-18"
+    },
+    {
+      "title": "Trump Media / TAE merger and fusion industry DOE meeting",
+      "publisher": "TechCrunch",
+      "url": "https://techcrunch.com/?p=3077322",
+      "date": "2025-12"
+    },
+    {
+      "title": "Trump Media nuclear fusion TAE Technologies Michl Binderbauer",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/2025/12/18/trump-media-nuclear-fusion-tae-technologies-michl-binderbauer/",
+      "date": "2025-12-18"
+    },
+    {
+      "title": "Trump Media takes on fusion in $6B merger",
+      "publisher": "E&E News",
+      "url": "https://www.eenews.net/articles/trump-media-takes-on-fusion-in-6b-merger/",
+      "date": "2025-12"
+    },
+    {
+      "title": "Lobbying filing: Venture Government Strategies for Fusion Industry Association",
+      "publisher": "ProPublica Represent",
+      "url": "https://projects.propublica.org/represent/lobbying/r/301032919",
+      "date": "2025"
+    }
+  ],
+  "entities": [
+    {
+      "id": "trump-media-technology-group",
+      "name": "Trump Media & Technology Group (DJT)",
+      "type": "company",
+      "description": "Parent of Truth Social; sells the Truth API feed and is merging with TAE."
+    },
+    {
+      "id": "truth-social",
+      "name": "Truth Social",
+      "type": "media",
+      "description": "TMTG's social network."
+    },
+    {
+      "id": "truth-api",
+      "name": "Truth API",
+      "type": "product",
+      "description": "Paid low-latency feed of top Truth Social accounts, up to $100K a month, live since 2026-08-01."
+    },
+    {
+      "id": "truth-plus",
+      "name": "Truth+",
+      "type": "product",
+      "description": "TMTG's streaming service, the first intended use of the utility token."
+    },
+    {
+      "id": "bloomberg-lp",
+      "name": "Bloomberg LP",
+      "type": "company",
+      "description": "Data provider reported by Reuters as a Truth API customer."
+    },
+    {
+      "id": "susquehanna-international-group",
+      "name": "Susquehanna International Group",
+      "type": "company",
+      "description": "HFT firm reported as a Truth API customer."
+    },
+    {
+      "id": "jump-trading",
+      "name": "Jump Trading",
+      "type": "company",
+      "description": "HFT firm reported as a Truth API customer."
+    },
+    {
+      "id": "reuters",
+      "name": "Reuters",
+      "type": "media",
+      "description": "Reported the Truth API customer names on 2026-10-28."
+    },
+    {
+      "id": "elizabeth-warren",
+      "name": "Elizabeth Warren",
+      "type": "person",
+      "description": "Democratic senator, Banking Committee ranking member; co-signed the SEC letter."
+    },
+    {
+      "id": "adam-schiff",
+      "name": "Adam Schiff",
+      "type": "person",
+      "description": "Democratic senator; co-signed the SEC letter."
+    },
+    {
+      "id": "paul-atkins",
+      "name": "Paul Atkins",
+      "type": "person",
+      "description": "SEC Chair and recipient of the letter."
+    },
+    {
+      "id": "sec",
+      "name": "U.S. Securities and Exchange Commission",
+      "type": "government",
+      "description": "Acknowledged the letter; no probe reported."
+    },
+    {
+      "id": "the-intercept",
+      "name": "The Intercept",
+      "type": "media",
+      "description": "Co-plaintiff in the SDNY suit against Truth API."
+    },
+    {
+      "id": "freedom-of-the-press-foundation",
+      "name": "Freedom of the Press Foundation",
+      "type": "company",
+      "description": "Nonprofit co-plaintiff in the SDNY suit against Truth API."
+    },
+    {
+      "id": "devin-nunes",
+      "name": "Devin Nunes",
+      "type": "person",
+      "description": "TMTG CEO 2022 to Apr 2026; PIAB chair since the Dec 2024 announcement."
+    },
+    {
+      "id": "presidents-intelligence-advisory-board",
+      "name": "President's Intelligence Advisory Board",
+      "type": "government",
+      "description": "White House advisory board chaired by Nunes."
+    },
+    {
+      "id": "kevin-mcgurn",
+      "name": "Kevin McGurn",
+      "type": "person",
+      "description": "TMTG interim CEO since Apr 2026."
+    },
+    {
+      "id": "robert-lighthizer",
+      "name": "Robert Lighthizer",
+      "type": "person",
+      "description": "Former USTR; TMTG director until 2026-03-06."
+    },
+    {
+      "id": "eric-swider",
+      "name": "Eric Swider",
+      "type": "person",
+      "description": "TMTG director (ex-DWAC CEO); resigned 2026-04-06."
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "President; his revocable trust is TMTG's largest shareholder."
+    },
+    {
+      "id": "donald-trump-jr",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "TMTG director."
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Targeted by the lawsuit's bid to bar Truth Social-exclusive announcements."
+    },
+    {
+      "id": "crypto-com",
+      "name": "Crypto.com",
+      "type": "company",
+      "description": "Partner in the terminated CRO treasury venture; mints the shareholder token."
+    },
+    {
+      "id": "yorkville-acquisition-corp",
+      "name": "Yorkville Acquisition Corp",
+      "type": "company",
+      "description": "SPAC (MCGA) that was to list the CRO treasury company."
+    },
+    {
+      "id": "trump-media-group-cro-strategy",
+      "name": "Trump Media Group CRO Strategy",
+      "type": "company",
+      "description": "Planned ~$6.42B CRO treasury company; terminated 2026-08-07."
+    },
+    {
+      "id": "cronos-cro",
+      "name": "Cronos (CRO)",
+      "type": "asset",
+      "description": "Crypto.com's token; Truth gems convert into it."
+    },
+    {
+      "id": "tmtg-shareholder-token",
+      "name": "TMTG shareholder rewards token",
+      "type": "asset",
+      "description": "Non-transferable token, one per DJT share, record date 2026-02-02; distribution unconfirmed."
+    },
+    {
+      "id": "tae-technologies",
+      "name": "TAE Technologies",
+      "type": "company",
+      "description": "Fusion developer merging with TMTG (vote 2026-12-14)."
+    },
+    {
+      "id": "michl-binderbauer",
+      "name": "Michl Binderbauer",
+      "type": "person",
+      "description": "TAE CEO; met DOE officials in December 2025."
+    },
+    {
+      "id": "department-of-energy",
+      "name": "U.S. Department of Energy",
+      "type": "government",
+      "description": "Fusion funder; created a fusion office in 2025."
+    },
+    {
+      "id": "tmtg-tae-merger",
+      "name": "TMTG-TAE merger",
+      "type": "event",
+      "description": "All-stock deal over $6B announced 2025-12-18."
+    },
+    {
+      "id": "fusion-industry-association",
+      "name": "Fusion Industry Association",
+      "type": "company",
+      "description": "Trade group whose registered lobbyist lobbies DOE."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "bloomberg-lp",
+      "target": "truth-api",
+      "label": "reportedly subscribes to",
+      "type": "commercial",
+      "date": "2026-10"
+    },
+    {
+      "source": "susquehanna-international-group",
+      "target": "truth-api",
+      "label": "reportedly subscribes to",
+      "type": "commercial",
+      "date": "2026-10"
+    },
+    {
+      "source": "jump-trading",
+      "target": "truth-api",
+      "label": "reportedly subscribes to",
+      "type": "commercial",
+      "date": "2026-10"
+    },
+    {
+      "source": "susquehanna-international-group",
+      "target": "trump-media-technology-group",
+      "label": "reportedly pays up to $100K/month for Truth API",
+      "type": "money",
+      "date": "2026-10",
+      "amount_usd": 100000
+    },
+    {
+      "source": "reuters",
+      "target": "truth-api",
+      "label": "reported customer names of",
+      "type": "media",
+      "date": "2026-10-28"
+    },
+    {
+      "source": "trump-media-technology-group",
+      "target": "truth-api",
+      "label": "sells",
+      "type": "commercial",
+      "date": "2026-08-01"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "sec",
+      "label": "asked to investigate Truth API",
+      "type": "political",
+      "date": "2026-07-28"
+    },
+    {
+      "source": "adam-schiff",
+      "target": "sec",
+      "label": "asked to investigate Truth API",
+      "type": "political",
+      "date": "2026-07-28"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "paul-atkins",
+      "label": "addressed letter to",
+      "type": "political",
+      "date": "2026-07-28"
+    },
+    {
+      "source": "sec",
+      "target": "trump-media-technology-group",
+      "label": "acknowledged complaint; no probe reported",
+      "type": "regulatory",
+      "date": "2026-07-29"
+    },
+    {
+      "source": "the-intercept",
+      "target": "donald-trump",
+      "label": "sued over Truth API",
+      "type": "legal",
+      "date": "2026-08-12"
+    },
+    {
+      "source": "freedom-of-the-press-foundation",
+      "target": "donald-trump",
+      "label": "sued over Truth API",
+      "type": "legal",
+      "date": "2026-08-12"
+    },
+    {
+      "source": "devin-nunes",
+      "target": "trump-media-technology-group",
+      "label": "stepped down as CEO of",
+      "type": "advisory",
+      "date": "2026-04-21"
+    },
+    {
+      "source": "donald-trump",
+      "target": "devin-nunes",
+      "label": "named chair of PIAB",
+      "type": "political",
+      "date": "2024-12-14"
+    },
+    {
+      "source": "devin-nunes",
+      "target": "presidents-intelligence-advisory-board",
+      "label": "chairs",
+      "type": "political",
+      "date": "2025-01"
+    },
+    {
+      "source": "kevin-mcgurn",
+      "target": "trump-media-technology-group",
+      "label": "interim CEO of",
+      "type": "advisory",
+      "date": "2026-04-21"
+    },
+    {
+      "source": "robert-lighthizer",
+      "target": "trump-media-technology-group",
+      "label": "resigned from board of",
+      "type": "advisory",
+      "date": "2026-03-06"
+    },
+    {
+      "source": "eric-swider",
+      "target": "trump-media-technology-group",
+      "label": "resigned from board of",
+      "type": "advisory",
+      "date": "2026-04-06"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "trump-media-technology-group",
+      "label": "director of",
+      "type": "advisory"
+    },
+    {
+      "source": "donald-trump",
+      "target": "trump-media-technology-group",
+      "label": "largest shareholder (via revocable trust) of",
+      "type": "ownership"
+    },
+    {
+      "source": "trump-media-technology-group",
+      "target": "trump-media-group-cro-strategy",
+      "label": "terminated CRO treasury venture",
+      "type": "commercial",
+      "date": "2026-08-07",
+      "amount_usd": 6420000000
+    },
+    {
+      "source": "crypto-com",
+      "target": "trump-media-group-cro-strategy",
+      "label": "co-sponsor (terminated)",
+      "type": "commercial",
+      "date": "2026-08-07"
+    },
+    {
+      "source": "yorkville-acquisition-corp",
+      "target": "trump-media-group-cro-strategy",
+      "label": "business combination terminated",
+      "type": "commercial",
+      "date": "2026-08-07"
+    },
+    {
+      "source": "crypto-com",
+      "target": "trump-media-technology-group",
+      "label": "prediction-market marketing deal replacing integration",
+      "type": "commercial",
+      "date": "2026-08-07"
+    },
+    {
+      "source": "trump-media-technology-group",
+      "target": "tmtg-shareholder-token",
+      "label": "announced shareholder token",
+      "type": "commercial",
+      "date": "2025-12-31"
+    },
+    {
+      "source": "crypto-com",
+      "target": "tmtg-shareholder-token",
+      "label": "mints and custodies",
+      "type": "commercial",
+      "date": "2025-12-31"
+    },
+    {
+      "source": "truth-social",
+      "target": "cronos-cro",
+      "label": "lets users convert gems into",
+      "type": "commercial",
+      "date": "2025-08"
+    },
+    {
+      "source": "michl-binderbauer",
+      "target": "department-of-energy",
+      "label": "met officials urging fusion funding",
+      "type": "political",
+      "date": "2025-12"
+    },
+    {
+      "source": "department-of-energy",
+      "target": "tae-technologies",
+      "label": "has awarded grants to",
+      "type": "money"
+    },
+    {
+      "source": "fusion-industry-association",
+      "target": "department-of-energy",
+      "label": "lobbies (registered)",
+      "type": "political",
+      "date": "2025"
+    },
+    {
+      "source": "tae-technologies",
+      "target": "tmtg-tae-merger",
+      "label": "party to",
+      "type": "commercial",
+      "date": "2025-12-18"
+    },
+    {
+      "source": "trump-media-technology-group",
+      "target": "tmtg-tae-merger",
+      "label": "party to",
+      "type": "commercial",
+      "date": "2025-12-18"
+    }
+  ],
+  "leads": [
+    {
+      "title": "Intercept / Freedom of the Press Foundation lawsuit against Truth API and Truth Social-exclusive White House announcements",
+      "why_connected": "A First and Fifth Amendment challenge, filed in SDNY on 2026-08-12, to the president's paid feed and to official use of his own platform. I found no ruling yet.",
+      "entities": [
+        "the-intercept",
+        "freedom-of-the-press-foundation",
+        "truth-api",
+        "donald-trump",
+        "white-house"
+      ],
+      "source_url": "https://gvwire.com/2026/08/12/trump-sued-over-service-that-offers-paid-early-access-to-truth-social-posts/"
+    },
+    {
+      "title": "Truth API sales tripling TMTG revenue (Q3 2026)",
+      "why_connected": "Measures how much the feed, with its reported Bloomberg, Susquehanna and Jump customers, pays the Trump trust's company.",
+      "entities": [
+        "trump-media-technology-group",
+        "truth-api",
+        "donald-trump"
+      ],
+      "source_url": "https://www.adn.com/nation-world/2026/11/10/sales-of-faster-access-to-trumps-social-posts-helped-triple-his-media-companys-revenue/"
+    },
+    {
+      "title": "Status of the TMTG shareholder rewards token minted by Crypto.com",
+      "why_connected": "The record date passed on 2026-02-02 with no distribution found. It is another Crypto.com tie that survived the CRO deal's termination.",
+      "entities": [
+        "tmtg-shareholder-token",
+        "crypto-com",
+        "trump-media-technology-group"
+      ],
+      "source_url": "https://www.theblock.co/news/business/2026-01-20-trump-media-sets-feb-2-record-date-for-upcoming-rewards-token-386306"
+    },
+    {
+      "title": "TAE's unpaid-bills claims ahead of the TMTG merger",
+      "why_connected": "Bloomberg Government reported claims over unpaid bills against TMTG's merger partner. It bears on diligence for a deal tied to the president's trust.",
+      "entities": [
+        "tae-technologies",
+        "trump-media-technology-group",
+        "tmtg-tae-merger"
+      ],
+      "source_url": "https://news.bgov.com/california-brief/trump-medias-fusion-partner-faced-claims-over-unpaid-bills-1"
+    }
+  ],
+  "audit": {
+    "checked": [
+      "Reuters (2026-10-28, anonymous sources) reported Bloomberg, Susquehanna and Jump Trading as Truth API subscribers",
+      "TMTG, Crypto.com and Yorkville terminated the CRO treasury venture on 2026-08-07",
+      "Lighthizer resigned from the TMTG board effective 2026-03-06 (8-K)"
+    ],
+    "result": "upheld",
+    "changes": [
+      "No changes. Fresh copies of the Reuters story (The Standard HK, 24/7 Wall St) match: up to $100K a month, about a 50ms edge, all three firms declined to comment, and TMTG reports more than 10 customer agreements that Reuters could not confirm. Axios and The Block confirm the 2026-08-07 termination; Axios adds that TMTG also dropped its plan for in-house prediction markets and will market Crypto.com's instead. The SEC 8-K confirms Lighthizer's resignation was effective 2026-03-06 and not due to any disagreement."
+    ],
+    "new_sources": [
+      {
+        "title": "Bloomberg, two trading firms agree to pay Trump's Truth Social for faster access to president's posts, sources say",
+        "publisher": "Reuters (via The Standard HK)",
+        "url": "https://www.thestandard.com.hk/world/article/346854/Bloomberg-two-trading-firms-agree-to-pay-Trumps-Truth-Social-for-faster-access-to-presidents-posts-sources-say",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Exclusive: Trump Media unwinds crypto deals",
+        "publisher": "Axios",
+        "url": "https://axios.com/2026/08/07/trump-media-crypto-treasury-deals",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "Trump Media & Technology Group Corp. Form 8-K (Lighthizer resignation)",
+        "publisher": "SEC EDGAR",
+        "url": "https://www.sec.gov/Archives/edgar/data/1849635/000114036126008276/ef20067392_form8k.htm",
+        "date": "2026-03-06"
+      }
+    ]
+  }
+}

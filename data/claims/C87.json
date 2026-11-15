@@ -1,0 +1,1000 @@
+{
+  "id": "C87",
+  "title": "Silver Lake: the co-investor on both the Saudi-Kushner and Abu Dhabi sides",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "Silver Lake's dual position is well documented. Mubadala has owned a passive minority stake in the firm since 2020, and Silver Lake has held G42 shares (with Durban on the board) since 2021. It co-owns the TikTok US JV and Intel's Altera with Tahnoon's MGX, and co-bought EA with PIF and Kushner's Affinity, a deal Reuters says began with Durban and Kushner. It is reportedly in Unity takeover talks with PIF again. We found no documented Trump-related donations, lobbying or administration roles for Durban or Silver Lake. The idea that Silver Lake is a hub between the two Trump-connected Gulf networks is our own cross-reference, and nothing we found shows coordination or a quid pro quo.",
+  "sub_claims": [
+    {
+      "statement": "Mubadala (Abu Dhabi) owns a minority equity stake in Silver Lake itself and anchors a $2B, 25-year Silver Lake strategy.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: DOCUMENTED (joint Silver Lake/Mubadala release, Business Wire, 2020-09-30; TechCrunch, The National). Mubadala bought a minority interest in Silver Lake's management company in a secondary purchase from Dyal Capital (Neuberger Berman). Dyal had held a passive, non-voting interest of under 10% since 2016 and kept about half of it. Mubadala also committed $2B to a new long-term Silver Lake strategy with a 25-year horizon that co-invests alongside the flagship funds. The size of Mubadala's interest and its price were not disclosed by the parties; contemporaneous wire coverage (Investing.com) put it at under 5%, consistent with buying about half of Dyal's under-10% holding. It is described as passive and non-voting, so it shows an economic link, not control. Mubadala is chaired by Sheikh Mansour bin Zayed, not Tahnoon, but it is a founding partner of Tahnoon's MGX (C57).",
+      "sources": [
+        "https://www.silverlake.com/silver-lake-and-mubadala-partner-to-establish-unique-long-term-investment-strategy",
+        "https://www.mubadala.com/en/news/silver-lake-and-mubadala-partner-establish-unique-long-term-investment-strategy",
+        "https://www.businesswire.com/news/home/20200930005365/en/Silver-Lake-and-Mubadala-Partner-to-Establish-Unique-Long-term-Investment-Strategy",
+        "https://techcrunch.com/2020/09/30/silverlake-adds-a-2-billion-long-only-hedge-fund-backed-by-abu-dhabi-to-its-tech-finance-toolkit",
+        "https://www.investing.com/news/stock-market-news/mubadala-to-invest-2-billion-in-us-private-equity-firm-silver-lake-2311292"
+      ]
+    },
+    {
+      "statement": "Silver Lake is a G42 shareholder and its co-CEO Egon Durban sits on G42's board.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: DOCUMENTED for the stake and the board seat (Gulf News, The National, April 2021; Durban's own Silver Lake bio lists G42 among his boards). The roughly $800M price is SINGLE-SOURCE: the WSJ cited unnamed people, and the terms were never disclosed. Silver Lake was G42's first big US investor, three years before Microsoft's $1.5B stake (2024). Bloomberg (about 2026-09, relayed by AI Weekly) lists Silver Lake, Mubadala and Microsoft as existing G42 holders while G42 holds exploratory talks on selling a majority stake to US buyers to keep its licence-free chip access past about April 2027 (C80). No report names Silver Lake as a prospective buyer. So Silver Lake already has a director inside a company whose ownership is being redesigned around a US export-control decision.",
+      "sources": [
+        "https://gulfnews.com/business/us-based-investment-firm-picks-up-stake-in-abu-dhabi-tech-firm-group42-1.1618407661489",
+        "https://www.thenationalnews.com/business/technology/us-investor-silver-lake-buys-stake-in-abu-dhabi-s-g42-1.1203826",
+        "https://www.silverlake.com/people/egon-durban/",
+        "https://aiweekly.co/alerts/bloomberg-g42-weighs-selling-majority-stake-to-us-firms-to-safeguard-nvidia"
+      ]
+    },
+    {
+      "statement": "Silver Lake and Tahnoon's MGX co-invested in Intel's Altera chip unit in 2025, the same month the TikTok framework was approved.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: DOCUMENTED (WAM state news agency, Reuters via The Star, Semafor, Altera release). Intel agreed in April 2025 to sell 51% of Altera at an $8.75B valuation, about $3.3B of equity value for the stake (reports citing a filing; Intel's headline $4.46B is simply 51% of the $8.75B valuation, before debt financing). The deal closed on 2025-09-12. On about 2025-09-16, MGX said it had joined the Silver Lake-led buyer group, with its contribution undisclosed, and Intel kept 49%. Before this, Silver Lake and MGX had been treated as separate co-investors only in the TikTok JV (C57/C68). Altera makes the second Silver Lake-MGX co-ownership, and it is in US semiconductors. Separately DOCUMENTED: the US government took a 9.9% Intel stake on 2025-08-22 (433.3M shares at $20.47, funded from CHIPS grants). INFERRED (our cross-reference, asserted by no source): this makes the US government an indirect holder, via Intel, of the 49% of Altera not owned by the Silver Lake/MGX group, three weeks before closing. UNVERIFIED: we found no report of a CFIUS review of MGX's entry into Altera, even though Altera serves defence and aerospace customers.",
+      "sources": [
+        "https://www.wam.ae/en/article/blqki86-mgx-joins-silver-lake-altera-acquisition",
+        "https://www.thestar.com.my/tech/tech-news/2025/09/16/mgx-co-invests-with-silver-lake-in-altera-acquisition",
+        "https://www.semafor.com/article/09/17/2025/abi-dhabi-ai-firm-mgx-lands-stake-in-us-chipmaker-altera",
+        "https://www.businesswire.com/news/home/20250915168341/en/Altera-Closes-Silver-Lake-Investment-to-Become-Worlds-Largest-Pure-play-FPGA-Solutions-Provider",
+        "https://siliconangle.com/2025/08/22/trump-says-us-government-will-take-10-stake-intel/",
+        "https://www.techrepublic.com/article/news-trump-intel-deal-chip-production/",
+        "https://www.arabianbusiness.com/gcc/uae/abu-dhabis-mgx-and-silver-lake-acquire-majority-stake-in-altera"
+      ]
+    },
+    {
+      "statement": "Silver Lake is a 15% managing investor in the TikTok US joint venture, and Durban sits on its board.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: DOCUMENTED (established in C57/C68 and extended here). Oracle, Silver Lake and MGX each own 15% of TikTok USDS Joint Venture LLC. Existing ByteDance investors hold 30.1% and ByteDance keeps 19.9%. The deal closed on 2026-01-22 under Trump's EO of 2025-09-25 and the Bessent-He Lifeng framework. Durban holds one of the seven board seats (SCMP; his own Silver Lake bio lists TikTok USDS JV), alongside MGX's David Scott. SINGLE-SOURCE (syndicated coverage seen only in search snippets): some reports described Silver Lake as having 'backing from Abu Dhabi's Mubadala'. That is the only press framing we found that ties Silver Lake's ownership to the Abu Dhabi side of the deal. Durban's role in the negotiations is UNVERIFIED; no report describes it.",
+      "sources": [
+        "https://fortune.com/2025/12/19/tiktok-agrees-u-s-joint-venture-deal-with-oracle-silver-lake-and-mgx/",
+        "https://finance.yahoo.com/news/deal-us-ownership-tiktok-closed-002520253.html",
+        "https://www.scmp.com/news/china/article/3341074/who-are-owners-new-tiktok-us-entity",
+        "https://www.npr.org/2025/09/22/nx-s1-5550152/tiktok-deal-joint-venture",
+        "https://www.silverlake.com/people/egon-durban/"
+      ]
+    },
+    {
+      "statement": "The EA buyout began as a Durban-Kushner conversation, and Silver Lake brought in PIF.",
+      "verdict": "partly-accurate",
+      "finding": "Evidence grade: SINGLE-SOURCE (Reuters, 2025-09-30, citing people familiar, widely syndicated; DealStreetAsia). Reuters reported that the talks started between Durban and Kushner in a spring 2025 brainstorming session. It said Kushner helped persuade PIF to back a take-private, and Silver Lake saw PIF, which already held about 9.9% of EA, as a natural partner. Reuters also said Durban had looked at EA as far back as 2011. EA and the consortium did not confirm Kushner's role. DOCUMENTED (from C56/C80 and here): the deal was announced 2025-09-29 at $210 a share; the HSR waiting period expired on 2026-02-09; EA's 2026-07-30 filing said all approvals, CFIUS included, had been obtained; it closed on 2026-08-04 (PIF about 93.4%, Silver Lake about 5.5%, Affinity about 1.1%, press estimates). This is the only documented Silver Lake-Affinity co-investment we found. We found no Silver Lake commitment as an Affinity LP, and no shared board or staff.",
+      "sources": [
+        "https://www.thestar.com.my/tech/tech-news/2025/10/01/from-riyadh-to-silicon-valley-how-ea-became-the-jewel-of-saudi-arabia039s-gaming-vision",
+        "https://media.dealstreetasia.com/stories/electronic-arts-saudi-arabia-gaming-458146",
+        "https://www.axios.com/2025/09/29/electronic-arts-saudi-arabia-silver-lake",
+        "https://gamesbeat.com/ea-is-poised-to-close-55b-sale-to-saudi-led-group/",
+        "https://www.pif.gov.sa/en/news-and-insights/newswire/2026/electronic-arts-announces-completion-of-acquisition-by-pif-silver-lake-and-affinity-partners/",
+        "https://www.hsgac.senate.gov/wp-content/uploads/2025-10-14-Letter-from-Blumenthal-and-Warren-to-Secretary-Bessent-re-Electronic-Arts.pdf"
+      ]
+    },
+    {
+      "statement": "Silver Lake and PIF are working together again on a ~$25B Unity Software take-private (Nov 2026).",
+      "verdict": "unverified",
+      "finding": "Evidence grade: SINGLE-SOURCE (Reuters, about 2026-11-05, anonymous sources, relayed by Game Developer, TechSpot and others). Unity held talks with a consortium of Silver Lake and PIF at about a $25B valuation, and it has reportedly hired a bank. No deal had been signed as of about 2026-11-09, and none of the parties commented. Silver Lake already owns about 8% of Unity, and Durban sits on its board. No report places Affinity in this consortium. One Game Developer item wrongly calls Silver Lake Kushner's firm; we disregard that. INFERRED: a PIF-majority purchase of a US software company would again face CFIUS review chaired by Treasury Secretary Bessent, as EA did.",
+      "sources": [
+        "https://www.gamedeveloper.com/business/silver-lake-and-the-saudi-arabia-pif-hold-talks-with-unity-to-explore-acquisition",
+        "https://techspot.com/news/114479-after-buying-ea-silver-lake-pif-reportedly-offer.html"
+      ]
+    },
+    {
+      "statement": "Silver Lake controls Endeavor (majority owner of TKO/UFC/WWE), taken private in 2025 with Mubadala as co-investor; TKO has Saudi state partnerships, an Ellison media deal and staged UFC on the White House lawn.",
+      "verdict": "confirmed",
+      "finding": "Each element is DOCUMENTED. (a) Silver Lake completed its roughly $25B take-private of Endeavor on 2025-03-24 (Silver Lake release). Co-investors included Mubadala, DFO, Lexington, Goldman Sachs Asset Management and CPP Investments, and Ari Emanuel rolled his equity over (Enterprise AM). Endeavor stays the majority owner of the listed TKO Group. (b) On 2025-03-05 TKO launched a boxing promotion with Saudi Arabia's Turki Alalshikh and Sela, a PIF subsidiary (ESPN, Reuters). (c) In August 2025, TKO signed a seven-year, $7.7B UFC media-rights deal with David Ellison's newly merged Paramount Skydance (NBC News). (d) UFC Freedom 250 was held on the White House South Lawn on 2026-06-14; TKO says it lost about $30M on it, and the White House rejected conflict-of-interest claims (SAN; Reuters via News Tribune). INFERRED (no source draws the chain): a company controlled by Silver Lake and co-financed by Mubadala sits in commercial deals with the PIF (boxing), the Ellisons (UFC rights) and the President (the White House event).",
+      "sources": [
+        "https://www.silverlake.com/endeavor-announces-completion-of-acquisition-by-silver-lake/",
+        "https://enterpriseam.com/uae/2025/03/27/mubadala-silver-lake-take-nyse-listed-endeavor-private/",
+        "https://www.postwrestling.com/2025/03/24/endeavor-goes-private-tko-remains-public-and-unchanged/",
+        "https://www.espn.com/boxing/story/_/id/44120770/tko-group-partners-saudis-form-new-boxing-promotion",
+        "https://www.nbcnews.com/business/media/paramount-buys-ufc-rights-seven-years-rcna224261",
+        "https://san.com/cc/ufc-lost-30-million-on-white-house-event-but-says-it-was-worth-it/",
+        "https://www.newstribune.com/news/2026/jun/15/white-houses-ufc-fights-concentrate-trumps-sporting-political-and-economic-power/"
+      ]
+    },
+    {
+      "statement": "Durban/Silver Lake principals have documented political donations or administration ties.",
+      "verdict": "unverified",
+      "finding": "NOT FOUND. Our searches found no FEC-reported 2024-26 donations by Durban or co-CEO Greg Mondre to Trump, MAGA Inc., the inaugural committee or the ballroom. We also found no Silver Lake lobbying registration aimed at the administration, and no reported Durban White House meeting. LittleSis aggregates older contributions by Silver Lake-linked people, including co-founder Glenn Hutchins and Durban, mostly to Democrats. We did not verify these against FEC records, and they predate 2024. Durban's documented political-adjacent ties are indirect. He joined Twitter's board in 2022 and was described as an Elon Musk ally (Fortune, 2022-05-27). He has sat on Dell's board since 2013, and Michael and Susan Dell pledged $6.25B to 'Trump Accounts' on 2025-12-02 with Susan Dell at the White House (NBC/AP). INFERRED: the Dell pledge is Michael Dell's personal philanthropy. No source connects it to Silver Lake or to Durban.",
+      "sources": [
+        "https://littlesis.org/person/246720-Egon_Durban",
+        "https://fortune.com/2022/05/27/twitter-board-elon-musk-ally-egon-durban-stays-despite-shareholder-vote/",
+        "https://www.dell.com/en-us/lp/egon-durban",
+        "https://www.nbcnews.com/business/business-news/dells-billions-donation-trump-accounts-rcna246946"
+      ]
+    },
+    {
+      "statement": "Cross-deal pattern: Silver Lake is the one private firm co-owning US-approval-dependent assets with both the Saudi/Kushner side and the Tahnoon/Abu Dhabi side.",
+      "verdict": "partly-accurate",
+      "finding": "Nodes DOCUMENTED; the pattern is INFERRED (our cross-reference; no outlet we found frames Silver Lake as a hub). In 2025-26, Silver Lake co-owned with the Tahnoon network in G42 (board seat), the TikTok JV (MGX, 15% each, presidential EO) and Altera (MGX co-investor). It co-owned with PIF and Affinity in EA (CFIUS-cleared) and was reported in talks with PIF on Unity. In 2025 Mubadala co-invested with it in Endeavor, and Mubadala owns part of Silver Lake itself. Each of the TikTok, EA and (by inference) Altera deals needed or plausibly needed federal sign-off in the window when Tahnoon's Aryam held 49% of WLF (C06/C57) and Kushner's Affinity held PIF's $2B (C15). This shows that Silver Lake is a recurring, trusted partner for Gulf sovereign capital in the US. It does not show that Silver Lake brokered, benefited from or influenced any Trump-family deal.",
+      "sources": [
+        "https://fortune.com/2025/12/19/tiktok-agrees-u-s-joint-venture-deal-with-oracle-silver-lake-and-mgx/",
+        "https://www.wam.ae/en/article/blqki86-mgx-joins-silver-lake-altera-acquisition",
+        "https://www.thestar.com.my/tech/tech-news/2025/10/01/from-riyadh-to-silicon-valley-how-ea-became-the-jewel-of-saudi-arabia039s-gaming-vision",
+        "https://www.silverlake.com/silver-lake-and-mubadala-partner-to-establish-unique-long-term-investment-strategy",
+        "https://enterpriseam.com/uae/2025/03/27/mubadala-silver-lake-take-nyse-listed-endeavor-private/",
+        "https://www.gamedeveloper.com/business/silver-lake-and-the-saudi-arabia-pif-hold-talks-with-unity-to-explore-acquisition"
+      ]
+    }
+  ],
+  "corrections": [
+    "The claim implies a Mubadala 'stake in Silver Lake' that could confer influence. The 2020 interest was bought from Dyal's passive, non-voting under-10% holding, and its size was undisclosed.",
+    "The claim lists G42 and Mubadala ties but not Altera. MGX also co-invested with Silver Lake in the 51% Altera purchase (Sept 2025), so Silver Lake and MGX co-own two US assets, not one.",
+    "Mubadala is chaired by Mansour bin Zayed, not Tahnoon. It links to the Tahnoon network through MGX, which it co-founded.",
+    "Some coverage of the Unity talks calls Silver Lake Kushner's firm. That is wrong: Kushner's firm is Affinity, and no report puts Affinity in the Unity consortium."
+  ],
+  "denials_and_context": [
+    "EA, Silver Lake, PIF and Affinity did not confirm Reuters' account of Kushner's role. Unity, Silver Lake and PIF did not comment on the takeover talks.",
+    "The White House rejected conflict-of-interest claims over the UFC White House event, and TKO says it lost money on it.",
+    "Silver Lake is one of the largest technology PE firms and has co-invested with Gulf sovereigns (Mubadala, PIF) and Singapore's GIC for years before 2025. Repeat partnerships are normal in mega-deals and are not in themselves evidence of political influence.",
+    "No source reports a Silver Lake lobbying campaign, a Durban White House meeting, or Trump-directed donations by Silver Lake principals. Older LittleSis-aggregated giving by Silver Lake people leans Democratic and was not verified against the FEC.",
+    "Search results only: Semafor and several other outlets could not be read directly."
+  ],
+  "sources": [
+    {
+      "title": "Silver Lake and Mubadala Partner to Establish Unique Long-Term Investment Strategy",
+      "publisher": "Silver Lake",
+      "url": "https://www.silverlake.com/silver-lake-and-mubadala-partner-to-establish-unique-long-term-investment-strategy",
+      "date": "2020-09-30"
+    },
+    {
+      "title": "Silver Lake and Mubadala Partner to Establish Unique Long-Term Investment Strategy",
+      "publisher": "Mubadala",
+      "url": "https://www.mubadala.com/en/news/silver-lake-and-mubadala-partner-establish-unique-long-term-investment-strategy",
+      "date": "2020-09-30"
+    },
+    {
+      "title": "Silver Lake and Mubadala Partner to Establish Unique Long-term Investment Strategy",
+      "publisher": "Business Wire",
+      "url": "https://www.businesswire.com/news/home/20200930005365/en/Silver-Lake-and-Mubadala-Partner-to-Establish-Unique-Long-term-Investment-Strategy",
+      "date": "2020-09-30"
+    },
+    {
+      "title": "Silver Lake adds a $2 billion long-only fund backed by Abu Dhabi",
+      "publisher": "TechCrunch",
+      "url": "https://techcrunch.com/2020/09/30/silverlake-adds-a-2-billion-long-only-hedge-fund-backed-by-abu-dhabi-to-its-tech-finance-toolkit",
+      "date": "2020-09-30"
+    },
+    {
+      "title": "US investor Silver Lake buys stake in Abu Dhabi's G42",
+      "publisher": "The National",
+      "url": "https://www.thenationalnews.com/business/technology/us-investor-silver-lake-buys-stake-in-abu-dhabi-s-g42-1.1203826",
+      "date": "2021-04-14"
+    },
+    {
+      "title": "US-based investment firm picks up stake in Abu Dhabi tech firm Group42",
+      "publisher": "Gulf News",
+      "url": "https://gulfnews.com/business/us-based-investment-firm-picks-up-stake-in-abu-dhabi-tech-firm-group42-1.1618407661489",
+      "date": "2021-04-14"
+    },
+    {
+      "title": "Egon Durban (bio, board seats)",
+      "publisher": "Silver Lake",
+      "url": "https://www.silverlake.com/people/egon-durban/",
+      "date": "2026"
+    },
+    {
+      "title": "Bloomberg: G42 weighs selling majority stake to US firms (relay)",
+      "publisher": "AI Weekly",
+      "url": "https://aiweekly.co/alerts/bloomberg-g42-weighs-selling-majority-stake-to-us-firms-to-safeguard-nvidia",
+      "date": "2026-09"
+    },
+    {
+      "title": "MGX joins Silver Lake in Altera acquisition",
+      "publisher": "WAM",
+      "url": "https://www.wam.ae/en/article/blqki86-mgx-joins-silver-lake-altera-acquisition",
+      "date": "2025-09-16"
+    },
+    {
+      "title": "MGX co-invests with Silver Lake in Altera acquisition (Reuters)",
+      "publisher": "The Star",
+      "url": "https://www.thestar.com.my/tech/tech-news/2025/09/16/mgx-co-invests-with-silver-lake-in-altera-acquisition",
+      "date": "2025-09-16"
+    },
+    {
+      "title": "Abu Dhabi AI firm MGX lands stake in US chipmaker Altera",
+      "publisher": "Semafor",
+      "url": "https://www.semafor.com/article/09/17/2025/abi-dhabi-ai-firm-mgx-lands-stake-in-us-chipmaker-altera",
+      "date": "2025-09-17"
+    },
+    {
+      "title": "Altera Closes Silver Lake Investment",
+      "publisher": "Business Wire",
+      "url": "https://www.businesswire.com/news/home/20250915168341/en/Altera-Closes-Silver-Lake-Investment-to-Become-Worlds-Largest-Pure-play-FPGA-Solutions-Provider",
+      "date": "2025-09-15"
+    },
+    {
+      "title": "Trump says US government will take 10% stake in Intel",
+      "publisher": "SiliconANGLE",
+      "url": "https://siliconangle.com/2025/08/22/trump-says-us-government-will-take-10-stake-intel/",
+      "date": "2025-08-22"
+    },
+    {
+      "title": "US Government Secures 10% Stake in Intel",
+      "publisher": "TechRepublic",
+      "url": "https://www.techrepublic.com/article/news-trump-intel-deal-chip-production/",
+      "date": "2025-08-25"
+    },
+    {
+      "title": "TikTok agrees U.S. joint venture deal with Oracle, Silver Lake and MGX",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/2025/12/19/tiktok-agrees-u-s-joint-venture-deal-with-oracle-silver-lake-and-mgx/",
+      "date": "2025-12-19"
+    },
+    {
+      "title": "Deal for US ownership of TikTok closed",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/deal-us-ownership-tiktok-closed-002520253.html",
+      "date": "2026-01-22"
+    },
+    {
+      "title": "Who are the owners of the new TikTok US entity?",
+      "publisher": "South China Morning Post",
+      "url": "https://www.scmp.com/news/china/article/3341074/who-are-owners-new-tiktok-us-entity",
+      "date": "2025-12"
+    },
+    {
+      "title": "Deal for TikTok creates U.S. joint venture",
+      "publisher": "NPR",
+      "url": "https://www.npr.org/2025/09/22/nx-s1-5550152/tiktok-deal-joint-venture",
+      "date": "2025-09-22"
+    },
+    {
+      "title": "From Riyadh to Silicon Valley: How EA became the jewel of Saudi Arabia's gaming vision (Reuters)",
+      "publisher": "The Star",
+      "url": "https://www.thestar.com.my/tech/tech-news/2025/10/01/from-riyadh-to-silicon-valley-how-ea-became-the-jewel-of-saudi-arabia039s-gaming-vision",
+      "date": "2025-10-01"
+    },
+    {
+      "title": "How Kushner and PIF's gaming ambitions sealed the $55b Electronic Arts takeover",
+      "publisher": "DealStreetAsia",
+      "url": "https://media.dealstreetasia.com/stories/electronic-arts-saudi-arabia-gaming-458146",
+      "date": "2025-09-30"
+    },
+    {
+      "title": "Saudi Arabia helping to take Electronic Arts private",
+      "publisher": "Axios",
+      "url": "https://www.axios.com/2025/09/29/electronic-arts-saudi-arabia-silver-lake",
+      "date": "2025-09-29"
+    },
+    {
+      "title": "EA is poised to close $55B sale to Saudi-led group",
+      "publisher": "GamesBeat",
+      "url": "https://gamesbeat.com/ea-is-poised-to-close-55b-sale-to-saudi-led-group/",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "Electronic Arts announces completion of acquisition by PIF, Silver Lake and Affinity Partners",
+      "publisher": "PIF",
+      "url": "https://www.pif.gov.sa/en/news-and-insights/newswire/2026/electronic-arts-announces-completion-of-acquisition-by-pif-silver-lake-and-affinity-partners/",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Letter from Blumenthal and Warren to Secretary Bessent re Electronic Arts",
+      "publisher": "US Senate HSGAC",
+      "url": "https://www.hsgac.senate.gov/wp-content/uploads/2025-10-14-Letter-from-Blumenthal-and-Warren-to-Secretary-Bessent-re-Electronic-Arts.pdf",
+      "date": "2025-10-14"
+    },
+    {
+      "title": "Silver Lake and the Saudi Arabia PIF hold talks with Unity to explore acquisition",
+      "publisher": "Game Developer",
+      "url": "https://www.gamedeveloper.com/business/silver-lake-and-the-saudi-arabia-pif-hold-talks-with-unity-to-explore-acquisition",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "After buying EA, Silver Lake and PIF reportedly approach Unity",
+      "publisher": "TechSpot",
+      "url": "https://techspot.com/news/114479-after-buying-ea-silver-lake-pif-reportedly-offer.html",
+      "date": "2026-11"
+    },
+    {
+      "title": "Endeavor announces completion of acquisition by Silver Lake",
+      "publisher": "Silver Lake",
+      "url": "https://www.silverlake.com/endeavor-announces-completion-of-acquisition-by-silver-lake/",
+      "date": "2025-03-24"
+    },
+    {
+      "title": "Mubadala, Silver Lake take NYSE-listed Endeavor private",
+      "publisher": "Enterprise AM",
+      "url": "https://enterpriseam.com/uae/2025/03/27/mubadala-silver-lake-take-nyse-listed-endeavor-private/",
+      "date": "2025-03-27"
+    },
+    {
+      "title": "Endeavor goes private, TKO remains public and unchanged",
+      "publisher": "POST Wrestling",
+      "url": "https://www.postwrestling.com/2025/03/24/endeavor-goes-private-tko-remains-public-and-unchanged/",
+      "date": "2025-03-24"
+    },
+    {
+      "title": "TKO Group partners with Saudis to form new boxing promotion",
+      "publisher": "ESPN",
+      "url": "https://www.espn.com/boxing/story/_/id/44120770/tko-group-partners-saudis-form-new-boxing-promotion",
+      "date": "2025-03-05"
+    },
+    {
+      "title": "Paramount buys UFC rights in $7.7 billion deal",
+      "publisher": "NBC News",
+      "url": "https://www.nbcnews.com/business/media/paramount-buys-ufc-rights-seven-years-rcna224261",
+      "date": "2025-08-11"
+    },
+    {
+      "title": "UFC lost $30 million on White House event, but says it was worth it",
+      "publisher": "Straight Arrow News",
+      "url": "https://san.com/cc/ufc-lost-30-million-on-white-house-event-but-says-it-was-worth-it/",
+      "date": "2026"
+    },
+    {
+      "title": "White House's UFC fights concentrate Trump's sporting, political and economic power",
+      "publisher": "News Tribune (Reuters)",
+      "url": "https://www.newstribune.com/news/2026/jun/15/white-houses-ufc-fights-concentrate-trumps-sporting-political-and-economic-power/",
+      "date": "2026-06-15"
+    },
+    {
+      "title": "Egon Durban (Dell board)",
+      "publisher": "Dell Technologies",
+      "url": "https://www.dell.com/en-us/lp/egon-durban",
+      "date": "2026"
+    },
+    {
+      "title": "Dells' billions donation to Trump Accounts",
+      "publisher": "NBC News",
+      "url": "https://www.nbcnews.com/business/business-news/dells-billions-donation-trump-accounts-rcna246946",
+      "date": "2025-12-02"
+    },
+    {
+      "title": "Egon Durban",
+      "publisher": "LittleSis",
+      "url": "https://littlesis.org/person/246720-Egon_Durban",
+      "date": "n.d."
+    },
+    {
+      "title": "Twitter board: Elon Musk ally Egon Durban stays despite shareholder vote",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/2022/05/27/twitter-board-elon-musk-ally-egon-durban-stays-despite-shareholder-vote/",
+      "date": "2022-05-27"
+    }
+  ],
+  "entities": [
+    {
+      "id": "silver-lake",
+      "name": "Silver Lake",
+      "type": "fund",
+      "description": "Tech PE firm; co-owner with MGX (TikTok JV, Altera), G42 holder, EA co-buyer with PIF/Affinity; Mubadala owns a minority stake"
+    },
+    {
+      "id": "egon-durban",
+      "name": "Egon Durban",
+      "type": "person",
+      "description": "Silver Lake co-CEO; boards of G42, TikTok USDS JV, Dell, Unity; reportedly started EA talks with Kushner"
+    },
+    {
+      "id": "greg-mondre",
+      "name": "Greg Mondre",
+      "type": "person",
+      "description": "Silver Lake co-CEO"
+    },
+    {
+      "id": "mubadala",
+      "name": "Mubadala",
+      "type": "fund",
+      "description": "Abu Dhabi sovereign fund; minority owner of Silver Lake since 2020; MGX co-founder; Endeavor co-investor"
+    },
+    {
+      "id": "dyal-capital",
+      "name": "Dyal Capital Partners",
+      "type": "fund",
+      "description": "Neuberger Berman unit; sold part of its passive Silver Lake stake to Mubadala (2020)"
+    },
+    {
+      "id": "g42",
+      "name": "G42",
+      "type": "company",
+      "description": "Tahnoon-chaired AI group; Silver Lake shareholder since 2021"
+    },
+    {
+      "id": "mgx",
+      "name": "MGX",
+      "type": "fund",
+      "description": "Tahnoon-chaired AI investor; Silver Lake co-investor in TikTok JV and Altera"
+    },
+    {
+      "id": "tahnoon-bin-zayed",
+      "name": "Tahnoon bin Zayed",
+      "type": "person",
+      "description": "UAE NSA; chairs G42 and MGX; his Aryam holds 49% of WLF"
+    },
+    {
+      "id": "altera",
+      "name": "Altera",
+      "type": "company",
+      "description": "FPGA chipmaker; 51% sold by Intel to Silver Lake-led group incl. MGX (closed 2025-09-12)"
+    },
+    {
+      "id": "intel",
+      "name": "Intel",
+      "type": "company",
+      "description": "Retains 49% of Altera; US government holds 9.9% of Intel since Aug 2025"
+    },
+    {
+      "id": "tiktok-usds-joint-venture",
+      "name": "TikTok USDS Joint Venture",
+      "type": "company",
+      "description": "US TikTok entity; Oracle, Silver Lake, MGX 15% each"
+    },
+    {
+      "id": "oracle",
+      "name": "Oracle",
+      "type": "company",
+      "description": "TikTok JV co-owner"
+    },
+    {
+      "id": "electronic-arts",
+      "name": "Electronic Arts",
+      "type": "company",
+      "description": "Taken private for $55B by PIF, Silver Lake, Affinity (closed 2026-08-04)"
+    },
+    {
+      "id": "saudi-pif",
+      "name": "Saudi Public Investment Fund",
+      "type": "fund",
+      "description": "EA majority owner; Unity bid partner with Silver Lake; owns Sela"
+    },
+    {
+      "id": "affinity-partners",
+      "name": "Affinity Partners",
+      "type": "fund",
+      "description": "Kushner's fund; ~1.1% of EA alongside Silver Lake"
+    },
+    {
+      "id": "jared-kushner",
+      "name": "Jared Kushner",
+      "type": "person",
+      "description": "Affinity founder; reportedly began EA talks with Durban"
+    },
+    {
+      "id": "unity-software",
+      "name": "Unity Software",
+      "type": "company",
+      "description": "Game-engine maker; Silver Lake ~8%; reported Silver Lake/PIF ~$25B takeover talks (Nov 2026)"
+    },
+    {
+      "id": "endeavor",
+      "name": "Endeavor (WME Group)",
+      "type": "company",
+      "description": "Taken private by Silver Lake with Mubadala et al. (Mar 2025); majority owner of TKO"
+    },
+    {
+      "id": "tko-group",
+      "name": "TKO Group",
+      "type": "company",
+      "description": "UFC/WWE parent; Saudi boxing venture; Paramount UFC deal; White House UFC card"
+    },
+    {
+      "id": "ufc-freedom-250",
+      "name": "UFC Freedom 250",
+      "type": "event",
+      "description": "UFC card on the White House South Lawn, 2026-06-14"
+    },
+    {
+      "id": "sela",
+      "name": "Sela",
+      "type": "company",
+      "description": "PIF-owned events company; TKO boxing partner"
+    },
+    {
+      "id": "turki-alalshikh",
+      "name": "Turki Alalshikh",
+      "type": "person",
+      "description": "Saudi General Entertainment Authority chairman; TKO boxing partner"
+    },
+    {
+      "id": "paramount-skydance",
+      "name": "Paramount Skydance",
+      "type": "company",
+      "description": "Ellison-controlled; $7.7B UFC rights deal with TKO"
+    },
+    {
+      "id": "david-ellison",
+      "name": "David Ellison",
+      "type": "person",
+      "description": "Paramount Skydance CEO"
+    },
+    {
+      "id": "dana-white",
+      "name": "Dana White",
+      "type": "person",
+      "description": "UFC/TKO executive; Trump ally"
+    },
+    {
+      "id": "ari-emanuel",
+      "name": "Ari Emanuel",
+      "type": "person",
+      "description": "Endeavor executive chair; rolled equity into Silver Lake take-private"
+    },
+    {
+      "id": "dell-technologies",
+      "name": "Dell Technologies",
+      "type": "company",
+      "description": "Former Silver Lake buyout; Durban a director since 2013"
+    },
+    {
+      "id": "michael-dell",
+      "name": "Michael Dell",
+      "type": "person",
+      "description": "Dell founder; pledged $6.25B to Trump Accounts with Susan Dell"
+    },
+    {
+      "id": "trump-accounts",
+      "name": "Trump Accounts",
+      "type": "product",
+      "description": "Federal children's investment accounts created by 2025 law"
+    },
+    {
+      "id": "elon-musk",
+      "name": "Elon Musk",
+      "type": "person",
+      "description": "Durban was described as his ally on Twitter's board (2022)"
+    },
+    {
+      "id": "cfius",
+      "name": "CFIUS",
+      "type": "government",
+      "description": "Reviewed and cleared the EA buyout"
+    },
+    {
+      "id": "scott-bessent",
+      "name": "Scott Bessent",
+      "type": "person",
+      "description": "Treasury Secretary; CFIUS chair; negotiated TikTok framework"
+    },
+    {
+      "id": "us-treasury",
+      "name": "US Treasury",
+      "type": "government",
+      "description": "Chairs CFIUS"
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Signed TikTok EO; announced Intel stake; hosted UFC card"
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Venue of UFC Freedom 250 and Trump Accounts pledge event"
+    },
+    {
+      "id": "world-liberty-financial",
+      "name": "World Liberty Financial",
+      "type": "company",
+      "description": "Trump family crypto venture; 49% held by Tahnoon-linked Aryam"
+    },
+    {
+      "id": "bytedance",
+      "name": "ByteDance",
+      "type": "company",
+      "description": "Keeps 19.9% of TikTok US JV"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "mubadala",
+      "target": "silver-lake",
+      "label": "bought minority (passive, reportedly <5%) stake in, plus $2B 25-year strategy",
+      "type": "ownership",
+      "date": "2020-09-30",
+      "amount_usd": 2000000000
+    },
+    {
+      "source": "dyal-capital",
+      "target": "mubadala",
+      "label": "sold part of its Silver Lake stake to",
+      "type": "ownership",
+      "date": "2020-09-30"
+    },
+    {
+      "source": "egon-durban",
+      "target": "silver-lake",
+      "label": "co-CEO of",
+      "type": "commercial",
+      "date": "2019"
+    },
+    {
+      "source": "greg-mondre",
+      "target": "silver-lake",
+      "label": "co-CEO of",
+      "type": "commercial",
+      "date": "2019"
+    },
+    {
+      "source": "silver-lake",
+      "target": "g42",
+      "label": "bought minority stake in (~$800M per WSJ)",
+      "type": "ownership",
+      "date": "2021-04",
+      "amount_usd": 800000000
+    },
+    {
+      "source": "egon-durban",
+      "target": "g42",
+      "label": "board member of",
+      "type": "commercial",
+      "date": "2021"
+    },
+    {
+      "source": "tahnoon-bin-zayed",
+      "target": "g42",
+      "label": "chairs",
+      "type": "ownership",
+      "date": "2021"
+    },
+    {
+      "source": "tahnoon-bin-zayed",
+      "target": "mgx",
+      "label": "chairs",
+      "type": "ownership",
+      "date": "2024"
+    },
+    {
+      "source": "mubadala",
+      "target": "mgx",
+      "label": "founding partner of",
+      "type": "ownership",
+      "date": "2024"
+    },
+    {
+      "source": "silver-lake",
+      "target": "altera",
+      "label": "led purchase of 51% of (~$3.3B equity per filing-based reports; $8.75B valuation)",
+      "type": "ownership",
+      "date": "2025-09-12",
+      "amount_usd": 3300000000
+    },
+    {
+      "source": "mgx",
+      "target": "altera",
+      "label": "co-invested with Silver Lake in",
+      "type": "ownership",
+      "date": "2025-09-16"
+    },
+    {
+      "source": "intel",
+      "target": "altera",
+      "label": "retains 49% of",
+      "type": "ownership",
+      "date": "2025-09-12"
+    },
+    {
+      "source": "donald-trump",
+      "target": "intel",
+      "label": "announced US government 9.9% stake in",
+      "type": "regulatory",
+      "date": "2025-08-22",
+      "amount_usd": 8900000000
+    },
+    {
+      "source": "silver-lake",
+      "target": "tiktok-usds-joint-venture",
+      "label": "owns 15% of",
+      "type": "ownership",
+      "date": "2026-01-22"
+    },
+    {
+      "source": "mgx",
+      "target": "tiktok-usds-joint-venture",
+      "label": "owns 15% of",
+      "type": "ownership",
+      "date": "2026-01-22"
+    },
+    {
+      "source": "oracle",
+      "target": "tiktok-usds-joint-venture",
+      "label": "owns 15% of",
+      "type": "ownership",
+      "date": "2026-01-22"
+    },
+    {
+      "source": "egon-durban",
+      "target": "tiktok-usds-joint-venture",
+      "label": "board member of",
+      "type": "commercial",
+      "date": "2026-01-22"
+    },
+    {
+      "source": "donald-trump",
+      "target": "tiktok-usds-joint-venture",
+      "label": "approved divestiture framework by EO",
+      "type": "regulatory",
+      "date": "2025-09-25"
+    },
+    {
+      "source": "scott-bessent",
+      "target": "tiktok-usds-joint-venture",
+      "label": "negotiated framework with China for",
+      "type": "political",
+      "date": "2025-09"
+    },
+    {
+      "source": "egon-durban",
+      "target": "jared-kushner",
+      "label": "reportedly began EA buyout talks with (Reuters, anonymous)",
+      "type": "commercial",
+      "date": "2025-spring"
+    },
+    {
+      "source": "silver-lake",
+      "target": "electronic-arts",
+      "label": "co-acquired ~5.5% (press estimate)",
+      "type": "ownership",
+      "date": "2026-08-04"
+    },
+    {
+      "source": "saudi-pif",
+      "target": "electronic-arts",
+      "label": "acquired ~93.4% (press estimate)",
+      "type": "ownership",
+      "date": "2026-08-04"
+    },
+    {
+      "source": "affinity-partners",
+      "target": "electronic-arts",
+      "label": "acquired ~1.1% (press estimate)",
+      "type": "ownership",
+      "date": "2026-08-04"
+    },
+    {
+      "source": "silver-lake",
+      "target": "affinity-partners",
+      "label": "co-investor in EA buyout with",
+      "type": "commercial",
+      "date": "2025-09-29"
+    },
+    {
+      "source": "cfius",
+      "target": "electronic-arts",
+      "label": "cleared buyout (per EA filing)",
+      "type": "regulatory",
+      "date": "2026-07-30"
+    },
+    {
+      "source": "silver-lake",
+      "target": "unity-software",
+      "label": "holds ~8% of; reported takeover talks with PIF",
+      "type": "ownership",
+      "date": "2026-11-05"
+    },
+    {
+      "source": "saudi-pif",
+      "target": "unity-software",
+      "label": "reported ~$25B takeover talks (with Silver Lake)",
+      "type": "commercial",
+      "date": "2026-11-05",
+      "amount_usd": 25000000000
+    },
+    {
+      "source": "egon-durban",
+      "target": "unity-software",
+      "label": "board member of",
+      "type": "commercial",
+      "date": "2026"
+    },
+    {
+      "source": "silver-lake",
+      "target": "endeavor",
+      "label": "took private (~$25B EV)",
+      "type": "ownership",
+      "date": "2025-03-24",
+      "amount_usd": 25000000000
+    },
+    {
+      "source": "mubadala",
+      "target": "endeavor",
+      "label": "co-invested in Silver Lake take-private of",
+      "type": "ownership",
+      "date": "2025-03-24"
+    },
+    {
+      "source": "ari-emanuel",
+      "target": "endeavor",
+      "label": "rolled equity; executive chair of",
+      "type": "ownership",
+      "date": "2025-03-24"
+    },
+    {
+      "source": "endeavor",
+      "target": "tko-group",
+      "label": "majority owner of",
+      "type": "ownership",
+      "date": "2025-03-24"
+    },
+    {
+      "source": "tko-group",
+      "target": "sela",
+      "label": "formed boxing promotion with",
+      "type": "commercial",
+      "date": "2025-03-05"
+    },
+    {
+      "source": "turki-alalshikh",
+      "target": "tko-group",
+      "label": "boxing promotion partner of",
+      "type": "commercial",
+      "date": "2025-03-05"
+    },
+    {
+      "source": "saudi-pif",
+      "target": "sela",
+      "label": "owns",
+      "type": "ownership",
+      "date": "2025"
+    },
+    {
+      "source": "paramount-skydance",
+      "target": "tko-group",
+      "label": "paid $7.7B for 7-year UFC rights",
+      "type": "money",
+      "date": "2025-08-11",
+      "amount_usd": 7700000000
+    },
+    {
+      "source": "david-ellison",
+      "target": "paramount-skydance",
+      "label": "CEO of",
+      "type": "commercial",
+      "date": "2025-08"
+    },
+    {
+      "source": "tko-group",
+      "target": "ufc-freedom-250",
+      "label": "staged (reported ~$30M loss)",
+      "type": "commercial",
+      "date": "2026-06-14"
+    },
+    {
+      "source": "ufc-freedom-250",
+      "target": "white-house",
+      "label": "held on South Lawn of",
+      "type": "political",
+      "date": "2026-06-14"
+    },
+    {
+      "source": "dana-white",
+      "target": "donald-trump",
+      "label": "longtime ally of",
+      "type": "political",
+      "date": "2026"
+    },
+    {
+      "source": "egon-durban",
+      "target": "dell-technologies",
+      "label": "director of",
+      "type": "commercial",
+      "date": "2013-10"
+    },
+    {
+      "source": "michael-dell",
+      "target": "trump-accounts",
+      "label": "pledged $6.25B (with Susan Dell) to",
+      "type": "money",
+      "date": "2025-12-02",
+      "amount_usd": 6250000000
+    },
+    {
+      "source": "egon-durban",
+      "target": "elon-musk",
+      "label": "described as ally of on Twitter board",
+      "type": "commercial",
+      "date": "2022-05"
+    },
+    {
+      "source": "tahnoon-bin-zayed",
+      "target": "world-liberty-financial",
+      "label": "Aryam holds 49% of (C06/C57)",
+      "type": "ownership",
+      "date": "2025"
+    },
+    {
+      "source": "jared-kushner",
+      "target": "affinity-partners",
+      "label": "founder of",
+      "type": "ownership",
+      "date": "2021"
+    },
+    {
+      "source": "bytedance",
+      "target": "tiktok-usds-joint-venture",
+      "label": "retains 19.9% of",
+      "type": "ownership",
+      "date": "2026-01-22"
+    }
+  ],
+  "leads": [
+    {
+      "title": "Silver Lake/PIF Unity Software takeover talks (~$25B) and any future CFIUS review",
+      "why_connected": "Same Silver Lake-PIF pairing as the CFIUS-cleared EA buyout; Durban sits on Unity's board; Affinity's participation is unknown.",
+      "entities": [
+        "silver-lake",
+        "saudi-pif",
+        "unity-software",
+        "egon-durban",
+        "affinity-partners"
+      ],
+      "source_url": "https://www.gamedeveloper.com/business/silver-lake-and-the-saudi-arabia-pif-hold-talks-with-unity-to-explore-acquisition"
+    },
+    {
+      "title": "Whether CFIUS reviewed MGX's entry into Altera",
+      "why_connected": "A Tahnoon-chaired fund bought into a US programmable-chip maker with defence customers, three weeks after the US government took 9.9% of Intel; no review has been reported.",
+      "entities": [
+        "mgx",
+        "altera",
+        "silver-lake",
+        "intel",
+        "cfius"
+      ],
+      "source_url": "https://www.semafor.com/article/09/17/2025/abi-dhabi-ai-firm-mgx-lands-stake-in-us-chipmaker-altera"
+    },
+    {
+      "title": "G42's US-ownership restructuring and the role of existing holders Silver Lake and Microsoft",
+      "why_connected": "Durban sits on G42's board; the restructuring is driven by the 2026 BIS rule that named G42 for licence-free chips (C80).",
+      "entities": [
+        "g42",
+        "silver-lake",
+        "egon-durban",
+        "tahnoon-bin-zayed"
+      ],
+      "source_url": "https://aiweekly.co/alerts/bloomberg-g42-weighs-selling-majority-stake-to-us-firms-to-safeguard-nvidia"
+    },
+    {
+      "title": "TKO/UFC White House event economics and Saudi boxing venture",
+      "why_connected": "Silver Lake-controlled Endeavor majority-owns TKO, which staged UFC on the White House lawn and runs a PIF-linked boxing promotion.",
+      "entities": [
+        "tko-group",
+        "endeavor",
+        "silver-lake",
+        "sela",
+        "white-house"
+      ],
+      "source_url": "https://san.com/cc/ufc-lost-30-million-on-white-house-event-but-says-it-was-worth-it/"
+    }
+  ],
+  "audit": {
+    "checked": [
+      "MGX joining Silver Lake's 51% Altera purchase and the price",
+      "Mubadala's 2020 minority stake in Silver Lake",
+      "Silver Lake-PIF Unity takeover talks (Nov 2026)"
+    ],
+    "result": "upheld",
+    "changes": [
+      "Altera: upheld. MGX joined the Silver Lake-led group after the 2025-09-12 close (Arabian Business, Enterprise AM); MGX's contribution undisclosed. Clarified that ~$3.3B is the equity figure and Intel's $4.46B headline is 51% of $8.75B.",
+      "Mubadala: upheld (secondary purchase from Dyal's passive, non-voting under-10% stake, Sept 2020). Added that wire coverage put the stake at under 5%; parties never disclosed it.",
+      "Unity: upheld as single-source (Reuters, 5 Nov 2026, people familiar; widely relayed). Silver Lake holds ~8%; ~$25B discussed vs ~$21.5B market value; no deal announced by mid-Nov 2026.",
+      "Label check: the 'Silver Lake as hub' pattern and the US-government/Altera link remain labelled inferred; the Durban-Kushner EA origin and G42 price remain single-source in labels."
+    ],
+    "new_sources": [
+      {
+        "title": "Abu Dhabi's MGX and Silver Lake acquire majority stake in Altera",
+        "publisher": "Arabian Business",
+        "url": "https://www.arabianbusiness.com/gcc/uae/abu-dhabis-mgx-and-silver-lake-acquire-majority-stake-in-altera",
+        "date": "2025-09"
+      },
+      {
+        "title": "MGX joins Silver Lake in Altera buyout",
+        "publisher": "Enterprise AM",
+        "url": "https://enterpriseam.com/uae/2025/09/17/mgx-joins-silver-lake-in-altera-buyout/",
+        "date": "2025-09-17"
+      },
+      {
+        "title": "Mubadala to invest $2 billion in US private equity firm Silver Lake",
+        "publisher": "Investing.com (Reuters)",
+        "url": "https://www.investing.com/news/stock-market-news/mubadala-to-invest-2-billion-in-us-private-equity-firm-silver-lake-2311292",
+        "date": "2020-09-30"
+      },
+      {
+        "title": "Silver Lake and Saudi PIF hold talks to buy Unity at about $25bn",
+        "publisher": "Inven Global",
+        "url": "https://www.invenglobal.com/articles/28236/silver-lake-and-saudi-pif-hold-talks-to-buy-unity-at-about-25bn",
+        "date": "2026-11"
+      }
+    ]
+  }
+}

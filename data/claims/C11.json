@@ -1,0 +1,453 @@
+{
+  "id": "C11",
+  "title": "GENIUS / CLARITY Acts and USD1",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "Trump publicly pushed the GENIUS Act and lobbied House holdouts personally, including late-night calls that he described himself, while his family's World Liberty Financial issues the USD1 stablecoin. The CLARITY Act passed only the House and failed a Senate cloture vote in September 2026. No X post with the exact boast 'second largest GENIUS compliant stablecoin' could be found. The closest documented posts are Eric Trump's January 2026 post that USD1 passed PYUSD and his September 2025 description of USD1 as 'GENIUS Act compliant'. The 'leg up' framing is interpretation, not a documented causal fact.",
+  "sub_claims": [
+    {
+      "statement": "Trump pushed for and made statements supporting the GENIUS Act.",
+      "verdict": "confirmed",
+      "finding": "On June 18, 2025, after the Senate passed the bill 68-30 on June 17, Trump posted on Truth Social urging the House to pass a 'clean' bill 'LIGHTNING FAST... NO DELAYS, NO ADD ONS'. He met House holdouts and signed the bill on July 18, 2025, after House passage 308-122 on July 17. 'Shaping the legislation' is supported only in the sense that he pressed for a clean bill. Amendments to bar presidential-family profit were not adopted. No evidence was found that he drafted the text.",
+      "sources": [
+        "https://www.theblock.co/news/ecosystems/2025-06-18-trump-urges-house-to-pass-genius-stablecoin-bill-358821",
+        "https://cointelegraph.com/news/donald-trump-urges-quick-passing-of-genuis-stablecoin-bill",
+        "https://www.axios.com/2025/07/17/house-passes-genius-act-stablecoins-trump",
+        "https://abc7ny.com/post/what-is-genius-act-trump-sign-1st-major-federal-cryptocurrency-bill-law/17181655/",
+        "https://www.nbcnews.com/politics/congress/senate-passes-landmark-crypto-regulation-bill-bipartisan-vote-sending-rcna213437"
+      ]
+    },
+    {
+      "statement": "Trump also pushed the CLARITY Act alongside GENIUS.",
+      "verdict": "partly-accurate",
+      "finding": "CLARITY was part of the July 2025 'Crypto Week' rule package that Trump lobbied for, and it passed the House 294-134 on July 17, 2025. It is not law: it cleared Senate Banking 15-9 in May 2026, failed Senate cloture 49-50 on September 15, 2026, and is stalled.",
+      "sources": [
+        "https://www.cnbc.com/2026/09/15/senate-cloture-vote-on-clarity-act-fails-dealing-regulatory-setback-to-crypto-industry.html",
+        "https://www.dlapiper.com/en/insights/publications/2026/09/senate-fails-to-advance-the-clarity-act",
+        "https://www.orrick.com/en/Insights/2026/10/The-CLARITY-Act-Stalls-in-the-Senate-Whats-Next-for-Digital-Asset-Regulation"
+      ]
+    },
+    {
+      "statement": "There were reports of nighttime calls from Trump to solicit votes.",
+      "verdict": "confirmed",
+      "finding": "On the evening of July 15, 2025, after the rule failed 196-223, Trump posted shortly before 9 p.m. ET that 11 of the 12 holdouts were in the Oval Office and had agreed to vote yes. Reports describe multiple conversations with Trump. At the July 18 signing, Trump said he had been making calls 'at 2:00, 3:00, 4:00 in the morning' and was 'about four short at 3:30 in the morning'. The source for the hour is Trump's own account.",
+      "sources": [
+        "https://www.washingtonexaminer.com/?p=3472562",
+        "https://www.nbcnewyork.com/news/business/money-report/trump-backed-crypto-regulation-bills-fail-to-clear-key-hurdle-in-congress/6336676/",
+        "https://www.semafor.com/article/07/17/2025/they-took-it-to-the-next-level-emmer-breaks-down-the-republican-crypto-rebellion",
+        "https://www.democrats.senate.gov/newsroom/trump-transcripts/transcript-president-trump-signs-crypto-stablecoin-legislation-into-law-71825",
+        "https://www.presidency.ucsb.edu/documents/remarks-signing-the-guiding-and-establishing-national-innovation-for-us-stablecoins-genius"
+      ]
+    },
+    {
+      "statement": "The Trump family benefits and profits from its own stablecoin, USD1.",
+      "verdict": "confirmed",
+      "finding": "USD1 is issued by World Liberty Financial. The Trump family was reported to hold ~60% of WLF, and a Trump-affiliated entity was reported to receive 75% of token-sale revenue. Trump's June 2025 disclosure (covering calendar 2024) reported about $57.3M from WLF token sales; his disclosure for calendar 2025, released 2026-06-30, reported about $526M more from WLF token sales. The White House denies any conflict.",
+      "sources": [
+        "https://cointelegraph.com/news/senators-amendment-genius-act-world-liberty-financial-stablecoin",
+        "https://www.nbcnews.com/politics/congress/senate-passes-landmark-crypto-regulation-bill-bipartisan-vote-sending-rcna213437",
+        "https://www.foxbusiness.com/politics/trump-financial-disclosure-reveals-more-than-1b-crypto-income-during-first-year-back-office"
+      ]
+    },
+    {
+      "statement": "A Trump son boasted on X that USD1 is now the second-largest GENIUS-compliant stablecoin.",
+      "verdict": "unverified",
+      "finding": "No post with this wording was found. Eric Trump posted on X on about January 23, 2026 that USD1 (~$4.4-4.5B) had overtaken PayPal's PYUSD, calling it 'a major milestone'. In September 2025 he called USD1 'GENIUS Act compliant'. Among US-regulated stablecoins, being second only to USDC is a plausible framing, but by total market cap USD1 ranked about 4th-6th. 'GENIUS compliant' is self-description: the Act's rules are not yet effective, and BPI (June 2026) argued USD1's reserves would not meet the requirements.",
+      "sources": [
+        "https://finviz.com/news/285959/eric-trump-says-trump-family-linked-world-liberty-financials-stablecoin-usd1-has-eclipsed-paypals-digital-dollar-the-shift-is-happening",
+        "https://en.bloomingbit.io/feed/news/104628",
+        "https://www.coinage.media/s4/inside-trumps-plan-to-launch-a-digital-dollar-at-world-liberty-financial",
+        "https://decrypt.co/356279/world-liberty-financials-usd1-tops-5b-market-cap-as-trump-meme-coin-stumbles",
+        "https://bpi.com/not-all-stablecoins-will-follow-genius-reserve-asset-requirements/"
+      ]
+    },
+    {
+      "statement": "The regulation was written around the time USD1 was created, giving USD1 a leg up.",
+      "verdict": "partly-accurate",
+      "finding": "The timing is accurate: the GENIUS Act was introduced in the Senate in February 2025, and WLF announced USD1 with BitGo custody on March 25, 2025, while the bill was being negotiated. That this gave USD1 a 'leg up' is an interpretation. It is plausible but not documented as causal.",
+      "sources": [
+        "https://www.theblock.co/amp/post/347995/world-liberty-financial-debuts-plan-for-usd1-stablecoin-as-president-trump-continues-push-for-crypto-legislation",
+        "https://blockworks.co/news/bitgo-to-custody-wlfi-usd1",
+        "https://www.nbcnews.com/politics/congress/senate-passes-landmark-crypto-regulation-bill-bipartisan-vote-sending-rcna213437"
+      ]
+    }
+  ],
+  "corrections": [
+    "The GENIUS and CLARITY Acts are often paired as legislation Trump is getting passed. Only GENIUS became law (signed 2025-07-18). CLARITY passed the House 294-134 but failed Senate cloture 49-50 on 2026-09-15.",
+    "Claimed: a Trump son boasted USD1 is 'the second largest GENIUS compliant stablecoin'. The record shows: no such post was found. Eric Trump's documented January 2026 X post said USD1 had passed PayPal's PYUSD, and by total market cap USD1 was roughly 4th-6th, not 2nd.",
+    "The 'nighttime calls' are sourced mainly to Trump's own remarks at the signing (calls at 2-4 a.m.). Press reports document an evening Oval Office meeting with holdouts on 2025-07-15.",
+    "The write-up previously gave '$57.3M from WLF' as the 2025 disclosure figure; that was the June 2025 filing covering 2024. The filing for calendar 2025 (released 2026-06-30) reports about $526M from WLF token sales."
+  ],
+  "denials_and_context": [
+    "White House: Trump's assets are in a trust managed by his children; 'there are no conflicts of interest.'",
+    "The GENIUS Act was bipartisan: 18 Senate Democrats and 102 House Democrats voted yes, so passage was not Trump's doing alone.",
+    "Democratic amendments to bar the president and his family from profiting from stablecoins were not included. Reporting says the ethics provision covers members of Congress but not the president's family.",
+    "'GENIUS compliant' is a WLF/Trump-family marketing claim. Implementing rules are not yet effective, and BPI disputes that USD1's reserves would qualify."
+  ],
+  "sources": [
+    {
+      "title": "Trump signs 1st major federal cryptocurrency bill into law",
+      "publisher": "ABC7 / AP",
+      "url": "https://abc7ny.com/post/what-is-genius-act-trump-sign-1st-major-federal-cryptocurrency-bill-law/17181655/",
+      "date": "2025-07-18"
+    },
+    {
+      "title": "Stablecoin regulation bill heads to Trump's desk",
+      "publisher": "Axios",
+      "url": "https://www.axios.com/2025/07/17/house-passes-genius-act-stablecoins-trump",
+      "date": "2025-07-17"
+    },
+    {
+      "title": "Trump urges House to pass GENIUS stablecoin bill: 'get it to my desk, ASAP'",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/ecosystems/2025-06-18-trump-urges-house-to-pass-genius-stablecoin-bill-358821",
+      "date": "2025-06-18"
+    },
+    {
+      "title": "Donald Trump urges quick passing of GENIUS stablecoin bill",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/donald-trump-urges-quick-passing-of-genuis-stablecoin-bill",
+      "date": "2025-06-19"
+    },
+    {
+      "title": "Trump strikes deal with GOP holdouts on GENIUS Act during 'crypto week'",
+      "publisher": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/?p=3472562",
+      "date": "2025-07-16"
+    },
+    {
+      "title": "Trump-backed crypto regulation bills fail to clear key hurdle in Congress",
+      "publisher": "CNBC via NBC New York",
+      "url": "https://www.nbcnewyork.com/news/business/money-report/trump-backed-crypto-regulation-bills-fail-to-clear-key-hurdle-in-congress/6336676/",
+      "date": "2025-07-15"
+    },
+    {
+      "title": "Emmer breaks down the Republican crypto rebellion",
+      "publisher": "Semafor",
+      "url": "https://www.semafor.com/article/07/17/2025/they-took-it-to-the-next-level-emmer-breaks-down-the-republican-crypto-rebellion",
+      "date": "2025-07-17"
+    },
+    {
+      "title": "Transcript: President Trump signs crypto stablecoin legislation into law 7/18/25",
+      "publisher": "Senate Democrats",
+      "url": "https://www.democrats.senate.gov/newsroom/trump-transcripts/transcript-president-trump-signs-crypto-stablecoin-legislation-into-law-71825",
+      "date": "2025-07-18"
+    },
+    {
+      "title": "Remarks on Signing the GENIUS Act",
+      "publisher": "American Presidency Project",
+      "url": "https://www.presidency.ucsb.edu/documents/remarks-signing-the-guiding-and-establishing-national-innovation-for-us-stablecoins-genius",
+      "date": "2025-07-18"
+    },
+    {
+      "title": "Senators plan amendment to GENIUS Act over World Liberty Financial stablecoin",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/senators-amendment-genius-act-world-liberty-financial-stablecoin",
+      "date": "2025-05"
+    },
+    {
+      "title": "Senate passes landmark crypto regulation bill in bipartisan vote",
+      "publisher": "NBC News",
+      "url": "https://www.nbcnews.com/politics/congress/senate-passes-landmark-crypto-regulation-bill-bipartisan-vote-sending-rcna213437",
+      "date": "2025-06-17"
+    },
+    {
+      "title": "Senate cloture vote on Clarity Act fails",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/15/senate-cloture-vote-on-clarity-act-fails-dealing-regulatory-setback-to-crypto-industry.html",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Senate fails to advance the CLARITY Act: Top points",
+      "publisher": "DLA Piper",
+      "url": "https://www.dlapiper.com/en/insights/publications/2026/09/senate-fails-to-advance-the-clarity-act",
+      "date": "2026-09"
+    },
+    {
+      "title": "The CLARITY Act Stalls in the Senate",
+      "publisher": "Orrick",
+      "url": "https://www.orrick.com/en/Insights/2026/10/The-CLARITY-Act-Stalls-in-the-Senate-Whats-Next-for-Digital-Asset-Regulation",
+      "date": "2026-10"
+    },
+    {
+      "title": "Eric Trump says USD1 has eclipsed PayPal's digital dollar",
+      "publisher": "Finviz (Benzinga)",
+      "url": "https://finviz.com/news/285959/eric-trump-says-trump-family-linked-world-liberty-financials-stablecoin-usd1-has-eclipsed-paypals-digital-dollar-the-shift-is-happening",
+      "date": "2026-01-23"
+    },
+    {
+      "title": "Eric Trump: 'USD1 surpasses PYUSD in scale... a major milestone'",
+      "publisher": "Bloomingbit",
+      "url": "https://en.bloomingbit.io/feed/news/104628",
+      "date": "2026-01-23"
+    },
+    {
+      "title": "Inside Trump's USD1 Digital Dollar at World Liberty Financial",
+      "publisher": "Coinage",
+      "url": "https://www.coinage.media/s4/inside-trumps-plan-to-launch-a-digital-dollar-at-world-liberty-financial",
+      "date": "2025-09"
+    },
+    {
+      "title": "World Liberty Financial's USD1 Tops $5B Market Cap",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/356279/world-liberty-financials-usd1-tops-5b-market-cap-as-trump-meme-coin-stumbles",
+      "date": "2026"
+    },
+    {
+      "title": "Not All Stablecoins Will Follow GENIUS Reserve Asset Requirements",
+      "publisher": "Bank Policy Institute",
+      "url": "https://bpi.com/not-all-stablecoins-will-follow-genius-reserve-asset-requirements/",
+      "date": "2026-06"
+    },
+    {
+      "title": "World Liberty Financial debuts plan for USD1 stablecoin",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/amp/post/347995/world-liberty-financial-debuts-plan-for-usd1-stablecoin-as-president-trump-continues-push-for-crypto-legislation",
+      "date": "2025-03-25"
+    },
+    {
+      "title": "BitGo to custody reserves of World Liberty Financial's USD1",
+      "publisher": "Blockworks",
+      "url": "https://blockworks.co/news/bitgo-to-custody-wlfi-usd1",
+      "date": "2025-03-25"
+    },
+    {
+      "title": "Trump financial disclosure reveals more than $1B in crypto income during first year back in office",
+      "publisher": "Fox Business",
+      "url": "https://www.foxbusiness.com/politics/trump-financial-disclosure-reveals-more-than-1b-crypto-income-during-first-year-back-office",
+      "date": "2026-06-30"
+    }
+  ],
+  "entities": [
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "US President; pushed GENIUS/CLARITY Acts; WLF co-founder emeritus"
+    },
+    {
+      "id": "eric-trump",
+      "name": "Eric Trump",
+      "type": "person",
+      "description": "Trump son, WLF co-founder; promoted USD1 on X"
+    },
+    {
+      "id": "donald-trump-jr",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "Trump son, WLF co-founder; posted about USD1 milestones"
+    },
+    {
+      "id": "world-liberty-financial",
+      "name": "World Liberty Financial",
+      "type": "company",
+      "description": "Trump-family-linked crypto venture that issues USD1"
+    },
+    {
+      "id": "usd1",
+      "name": "USD1",
+      "type": "asset",
+      "description": "WLF dollar stablecoin announced March 2025"
+    },
+    {
+      "id": "genius-act",
+      "name": "GENIUS Act",
+      "type": "law",
+      "description": "Federal stablecoin law signed 2025-07-18"
+    },
+    {
+      "id": "clarity-act",
+      "name": "CLARITY Act",
+      "type": "law",
+      "description": "Crypto market-structure bill; passed House 2025, failed Senate cloture 2026-09-15"
+    },
+    {
+      "id": "us-congress",
+      "name": "US Congress",
+      "type": "government",
+      "description": "Passed GENIUS; CLARITY stalled in Senate"
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Denies conflicts of interest"
+    },
+    {
+      "id": "bitgo",
+      "name": "BitGo",
+      "type": "company",
+      "description": "Custodian of USD1 reserves"
+    },
+    {
+      "id": "paypal-pyusd",
+      "name": "PayPal USD (PYUSD)",
+      "type": "asset",
+      "description": "Paxos-issued stablecoin USD1 overtook in Jan 2026"
+    },
+    {
+      "id": "bank-policy-institute",
+      "name": "Bank Policy Institute",
+      "type": "company",
+      "description": "Bank lobby group; disputed USD1 GENIUS reserve compliance"
+    },
+    {
+      "id": "house-freedom-caucus",
+      "name": "House Freedom Caucus",
+      "type": "government",
+      "description": "GOP holdouts who blocked the Crypto Week rule on 2025-07-15"
+    },
+    {
+      "id": "elizabeth-warren",
+      "name": "Elizabeth Warren",
+      "type": "person",
+      "description": "Senator; led Democratic objections to Trump stablecoin conflicts"
+    },
+    {
+      "id": "x-twitter",
+      "name": "X (Twitter)",
+      "type": "media",
+      "description": "Platform where Eric Trump promoted USD1"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "donald-trump",
+      "target": "genius-act",
+      "label": "lobbied for and signed into law",
+      "type": "political",
+      "date": "2025-07-18"
+    },
+    {
+      "source": "donald-trump",
+      "target": "clarity-act",
+      "label": "lobbied House to pass",
+      "type": "political",
+      "date": "2025-07"
+    },
+    {
+      "source": "donald-trump",
+      "target": "house-freedom-caucus",
+      "label": "met and called holdouts to flip votes",
+      "type": "political",
+      "date": "2025-07-15"
+    },
+    {
+      "source": "us-congress",
+      "target": "genius-act",
+      "label": "passed (Senate 68-30, House 308-122)",
+      "type": "regulatory",
+      "date": "2025-07-17"
+    },
+    {
+      "source": "us-congress",
+      "target": "clarity-act",
+      "label": "House passed 294-134; Senate cloture failed 49-50",
+      "type": "regulatory",
+      "date": "2026-09-15"
+    },
+    {
+      "source": "world-liberty-financial",
+      "target": "usd1",
+      "label": "issues",
+      "type": "ownership",
+      "date": "2025-03-25"
+    },
+    {
+      "source": "donald-trump",
+      "target": "world-liberty-financial",
+      "label": "family holds majority stake / revenue share",
+      "type": "ownership"
+    },
+    {
+      "source": "eric-trump",
+      "target": "world-liberty-financial",
+      "label": "co-founder",
+      "type": "ownership"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "world-liberty-financial",
+      "label": "co-founder",
+      "type": "ownership"
+    },
+    {
+      "source": "eric-trump",
+      "target": "donald-trump",
+      "label": "son of",
+      "type": "family"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "donald-trump",
+      "label": "son of",
+      "type": "family"
+    },
+    {
+      "source": "eric-trump",
+      "target": "usd1",
+      "label": "promoted on X as passing PYUSD / 'GENIUS Act compliant'",
+      "type": "media",
+      "date": "2026-01-23"
+    },
+    {
+      "source": "genius-act",
+      "target": "usd1",
+      "label": "regulates (USD1 marketed as compliant)",
+      "type": "regulatory"
+    },
+    {
+      "source": "bitgo",
+      "target": "usd1",
+      "label": "custodies reserves",
+      "type": "commercial",
+      "date": "2025-03-25"
+    },
+    {
+      "source": "usd1",
+      "target": "paypal-pyusd",
+      "label": "overtook in market cap",
+      "type": "commercial",
+      "date": "2026-01"
+    },
+    {
+      "source": "bank-policy-institute",
+      "target": "usd1",
+      "label": "argued reserves would not meet GENIUS rules",
+      "type": "regulatory",
+      "date": "2026-06"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "genius-act",
+      "label": "pushed anti-corruption amendment re Trump/USD1",
+      "type": "political",
+      "date": "2025-05"
+    },
+    {
+      "source": "white-house",
+      "target": "donald-trump",
+      "label": "denies conflicts of interest",
+      "type": "political"
+    }
+  ],
+  "audit": {
+    "checked": [
+      "Trump's reported income from WLF on his financial disclosures"
+    ],
+    "result": "corrected",
+    "changes": [
+      "Corrected the WLF income line: $57.3M was from the June 2025 disclosure covering 2024 (and the cited NBC Senate-vote article did not support it); the calendar-2025 disclosure released 2026-06-30 reports ~$526M from WLF token sales. This strengthens the 'family profits' sub-claim.",
+      "Not re-checked: GENIUS/CLARITY votes, CLARITY's Sept 15, 2026 cloture failure, Eric Trump's X posts.",
+      "Second-pass audit was cut short: the shared web-search budget ran out partway through, and direct fetches of sec.gov and theblock.co were blocked, so only the assertions listed here were re-checked."
+    ],
+    "new_sources": [
+      {
+        "title": "Trump financial disclosure reveals more than $1B in crypto income during first year back in office",
+        "publisher": "Fox Business",
+        "url": "https://www.foxbusiness.com/politics/trump-financial-disclosure-reveals-more-than-1b-crypto-income-during-first-year-back-office",
+        "date": "2026-06-30"
+      }
+    ]
+  }
+}

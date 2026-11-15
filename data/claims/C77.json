@@ -1,0 +1,1379 @@
+{
+  "id": "C77",
+  "title": "Greenland, the seabed and rare earths: Cantor-linked firms before Lutnick's department",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "Most of the claim's links are documented. Cantor was a top shareholder of Critical Metals when U.S. officials steered Tanbreez to it, then EXIM offered a $120M LOI and officials discussed an ~8% stake that never closed. Cantor advises TMC and co-arranged a >$150M raise for a second NOAA seabed applicant (AOMC) while Lutnick's NOAA decides their permits. Cantor led USAR's $1.5B PIPE, and John Paulson, a top Trump fundraiser, is the largest holder of EXIM-backed Perpetua. Trump associates Schiller and Sorial own part of GreenMet, Tanbreez's development partner. Not substantiated: any Lutnick recusal (unknown), the Warren letter's claim that named Trump allies bought PIPE shares, and family gains (PIPE buyers were ~57% under water by Oct 2026).",
+  "sub_claims": [
+    {
+      "statement": "Cantor Fitzgerald holds a position in Critical Metals Corp (Tanbreez, Greenland), and Washington helped steer Tanbreez to that company and then offered it financing and discussed an equity stake.",
+      "verdict": "mostly-accurate",
+      "finding": "Evidence: documented for each step; Cantor's current stake is not. (1) Jan 2025: Reuters reported that U.S. officials lobbied Tanbreez's then-owner, Greg Barnes, not to sell to a Chinese-linked buyer. Critical Metals got the project for $5M cash and $211M in its own stock, and Reuters described Cantor, then still led by Howard Lutnick (nominated but not yet confirmed), as Critical Metals' third-largest investor. (2) A 13F aggregator puts Cantor at about 1.25M shares (~1%) at 31 Dec 2024. Another shows a cut to about 161K shares in Q1 2025; the two conflict, and Cantor does not appear among top holders in 2026 aggregator lists. No primary 13F was readable here. (3) Jun 2025: EXIM sent a non-binding letter of interest for a loan of up to $120M over 15 years. Separately, the company applied for a $50M Defense Production Act grant. (4) Oct 2025: Reuters reported talks to convert that grant into an equity stake of roughly 8%. Bloomberg then quoted an official saying no investment was being actively considered. No completed U.S. stake or final EXIM loan was found through Nov 2026. (5) Cantor is also the company's research broker: it initiated coverage on 2026-07-14 with a Speculative Buy and an $18 target (C60). What this does not show: any Cantor gain from the Jan 2026 rally, because its holding at that time is unknown.",
+      "sources": [
+        "https://www.mining.com/web/us-lobbied-greenland-rare-earths-developer-tanbreez-not-to-sell-to-china/",
+        "https://equibles.com/stocks/crml/holdings",
+        "https://www.miningweekly.com/article/us-export-import-bank-considers-120m-loan-for-greenland-rare-earths-project-2025-06-17",
+        "https://www.nasdaq.com/articles/critical-metals-corp-secures-120-million-letter-interest-exim-bank-tanbreez-project",
+        "https://www.miningweekly.com/article/trump-administration-eyes-stake-in-company-developing-greenland-rare-earths-mine-2025-10-06",
+        "https://www.mining.com/us-government-pours-cold-water-on-critical-metals-deal",
+        "https://thedeepdive.ca/a-western-company-just-locked-up-greenlands-rarest-deposit-and-its-backers-have-washington-ties/"
+      ]
+    },
+    {
+      "statement": "Critical Metals' share price moved with Trump's Greenland push.",
+      "verdict": "confirmed",
+      "finding": "Evidence: documented (Fortune, Yahoo Finance). In January 2026, during Trump's renewed push to acquire Greenland, CRML rose nearly 150% over a short run, including a 25.6% one-day jump. CEO Tony Sage told CNBC on 2026-01-20 of 'a little trepidation' among Greenlandic partners and staff. In early January Sage said 75% of planned output was pre-sold and that the company was open to U.S. government investment. Greenland approved the transfer that took Critical Metals to 92.5% of Tanbreez on 2026-04-18. The price movement benefited all holders. Who held CRML through the spike, Cantor included, is not documented.",
+      "sources": [
+        "https://fortune.com/2026/01/21/critical-metals-greenland-rare-earths-mine-stock-trump-greenland/",
+        "https://finance.yahoo.com/sectors/energy/articles/greenland-again-focus-critical-metals-171700969.html",
+        "https://www.mining.com/web/critical-metals-expects-to-close-greenland-rare-earth-supply-deals-in-q1-2026-ceo-says/"
+      ]
+    },
+    {
+      "statement": "Trump-circle figures hold a stake in the firm helping to develop Tanbreez (GreenMet).",
+      "verdict": "confirmed",
+      "finding": "Evidence: documented (OCCRP/NPR 2026-01-22, Bloomberg 2025 feature, CNBC via CB Insights, Mining.com). GreenMet, the trade name of Greentech Minerals Holdings (founded 2021), agreed with Critical Metals to help develop Tanbreez. It brokers deals between Washington and critical-minerals companies. CEO Drew Horn was Mike Pence's policy director and a senior adviser to the DNI in Trump's first term. OCCRP found that George Sorial (former Trump Organization EVP and chief compliance counsel) and Keith Schiller (Trump's longtime bodyguard and former Oval Office operations director) are listed as beneficial shareholders, with Schiller also named as a director. Both say they are passive minority investors with no management role, and Sorial says he has no involvement with Greenland. Libra Group, an early backer, sold its non-controlling stake on 2025-11-04. In Oct 2026 GreenMet signed a $1M contract to help a DRC miner (Kamituga Mining) build ties with the U.S. government. What this does not show: that GreenMet's Trump-circle shareholders shaped EXIM's or the Pentagon's handling of Tanbreez. GreenMet's exact economic interest in Tanbreez is reported inconsistently. Audit note: the 'director' status for Schiller comes from OCCRP's records. A low-quality dossier site claims both men resigned board and advisory roles in early 2025; we could not confirm that and have not adopted it.",
+      "sources": [
+        "https://www.npr.org/transcripts/nx-s1-5682258",
+        "https://www.bloomberg.com/features/2025-greenland-trump-deals/",
+        "https://www.mining.com/?p=1175496",
+        "https://www.cbinsights.com/company/greenmet/alternatives-competitors",
+        "https://www.libra.com/news-and-insights/libra-group-unveils-new-investment-in-sustainable-lithium/",
+        "https://www.odwyerpr.com/story/public/25497/2026-10-22/greenmet-gets-1m-pact-from-drc-mining-co.html"
+      ]
+    },
+    {
+      "statement": "Schiller and Sorial sell critical-minerals access through two vehicles at once: GreenMet (Greenland) and Javelin Advisors (Pakistan minerals lobbying).",
+      "verdict": "partly-accurate",
+      "finding": "Evidence: each link documented; the pattern is inferred. GreenMet's shareholding is documented by OCCRP/NPR (above). Javelin Advisors, co-founded by Schiller and Sorial, registered under FARA (No. 7579) on 2025-04-25 as Seiden Law's subcontractor at about $50K/month for Pakistan. Global Witness reports that the Seiden mandate was to promote Pakistan's rare earths and critical minerals (C64, C72). No source we found connects the two vehicles or says the same people pitched both. The overlap is our cross-reference.",
+      "sources": [
+        "https://www.npr.org/transcripts/nx-s1-5682258",
+        "https://www.globalwitness.org/en/campaigns/transition-minerals/revealed-trump-linked-firms-cash-in-on-mineral-lobbying-deals-as-us-cuts-aid"
+      ]
+    },
+    {
+      "statement": "Ronald Lauder, the Trump friend credited with the Greenland-purchase idea, has a stake in Tanbreez or Critical Metals.",
+      "verdict": "unverified",
+      "finding": "Evidence: Lauder's Greenland interests are documented; no Tanbreez link was found. John Bolton told Forbes that Lauder first gave Trump the Greenland idea in the first term. Politiken and the Irish Times (2026-01-15) report that Lauder became co-owner of Greenland Water Bank, a bottled-water firm co-owned by the husband of Greenland's foreign minister. Through Greenland Development Partners (Delaware), a stake-holder in Greenland Investment Group, he is also linked to a hydropower-for-aluminium-smelter plan at Greenland's largest lake. Lauder and the White House declined to comment. No source ties Lauder to Critical Metals, Tanbreez or Cantor.",
+      "sources": [
+        "https://www.irishtimes.com/world/europe/2026/01/15/an-abandoned-building-a-billionaire-trump-pal-and-the-battle-for-greenland/",
+        "https://www.newarab.com/news/ronald-lauder-billionaire-linked-trumps-greenland-bid",
+        "https://www.forbes.com.au/news/billionaires/these-billionaires-bet-big-on-greenland-after-trump-took-interest/"
+      ]
+    },
+    {
+      "statement": "The Metals Company, advised by Cantor, is seeking the first U.S. deep-sea mining permits from NOAA, which sits under Lutnick; Lutnick's recusal is unclear.",
+      "verdict": "mostly-accurate",
+      "finding": "Evidence: the link and timeline are documented (AP, NOAA, company releases); the recusal is unverified. AP (2026-05-21) reports that TMC 'has received financial advice from Cantor Fitzgerald', and other outlets call Cantor one of TMC's leading bankers. AP also notes that Lutnick 'is now in charge of NOAA and could be influential in the final decision on permits'. The April 2025 seabed-mining executive order gave Lutnick 60 days to expedite licences and permits. Timeline: TMC filed within about a week of the order; NOAA's streamlined rule allowing consolidated applications came in January 2026; TMC filed the first consolidated exploration-plus-commercial-recovery application on 2026-02-06; NOAA found it in substantial compliance around 2026-03-09 and received an amended application on 2026-03-19, then found it in full compliance around 2026-04-28 to 05-01; Federal Register publication, with a notice of intent for an EIS on 2026-08-17; public comment closed 2026-10-19; TMC expects a decision by end of Q1 2027. No commercial permit had been issued as of Nov 2026. Earthjustice and others are suing over NOAA's certification of a TMC USA exploration application. Recusal: the NYT reported in 2025 that Lutnick's ethics agreement would require him, at least initially, to recuse from matters involving 106 corporate entities. Whether TMC is on that list, and whether Lutnick has stepped back from TMC decisions, was not found. Commerce says he complies with all divestiture and recusal requirements. Korea Zinc took 5% of TMC for $85M in Jun 2025.",
+      "sources": [
+        "https://wtop.com/news/2026/05/trumps-push-for-deep-sea-mining-spawns-new-companies-and-fast-tracked-rules/",
+        "https://www.bnnbloomberg.ca/business/2026/05/21/trumps-push-for-deep-sea-mining-spawns-new-companies-and-fast-tracked-rules/",
+        "https://www.noaa.gov/news-release/noaa-advances-review-of-first-ever-deep-seabed-mining-commercial-recovery-application",
+        "https://www.barchart.com/story/news/37171286/tmc-usa-files-first-consolidated-deep-seabed-mining-application-increasing-expected-commercial-recovery-permit-area-to-65-000-km2",
+        "https://www.barchart.com/story/news/1644737/noaa-determines-tmc-usas-consolidated-deep-seabed-mining-application-is-in-full-compliance",
+        "https://earthjustice.org/press/2026/lawsuit-challenges-trump-administration-greenlighting-of-international-deep-sea-mining-exploration-permit",
+        "https://www.yahoo.com/news/howard-lutnick-trumps-commerce-pick-194648767.html",
+        "https://www.mining.com/?p=1181501",
+        "https://www.miningweekly.com/article/tmc-says-deep-sea-mining-application-makes-permitting-progress-2026-03-09"
+      ]
+    },
+    {
+      "statement": "Cantor also raised money for a second NOAA seabed applicant, American Ocean Minerals (merging with Odyssey Marine).",
+      "verdict": "confirmed",
+      "finding": "Evidence: documented (Reuters via Baird Maritime; company releases). On 2026-04-08 American Ocean Minerals Corp (AOMC) agreed an all-stock merger with Odyssey Marine Exploration, giving a combined company worth about $1B, to trade as AOMC. Reuters reported that Citigroup and Cantor Fitzgerald, chaired by Brandon Lutnick, arranged the private placement of more than $150M tied to the deal and serve as AOMC's capital-markets advisers. The company release calls them joint private placement agents. Closing was expected in late Q2 or Q3 2026, but we found no closing announcement through Nov 2026. A $75M pre-public round closed in February. The chairman is Albanese, Rio Tinto CEO from 2007 to 2013. AOMC says two of its DSHMRA exploration applications are in full compliance, and NOAA advanced its Area-1 consolidated application on 2026-07-07. Cantor therefore banks at least two of the companies whose permits Lutnick's NOAA decides. AOMC is also on the NYT list of 14 (C60). Investor names and Cantor's fee are not public.",
+      "sources": [
+        "https://www.bairdmaritime.com/amp/story/offshore/undersea-mining/odyssey-to-merge-with-ex-rio-tinto-ceos-deep-sea-mining-firm-in-1b-deal",
+        "https://www.businesswire.com/news/home/20260408786194/en/",
+        "https://secure.businesswire.com/news/home/20260707621104/en/NOAA-Advances-American-Ocean-Minerals-Area-1-Seabed-Minerals-Consolidated-Exploration-and-Commercial-Recovery-Application-to-Next-Phase-of-Review"
+      ]
+    },
+    {
+      "statement": "Trump allies got shares in the Cantor-placed $1.5B USA Rare Earth PIPE announced the same day as the $1.6B Commerce letter of intent.",
+      "verdict": "partly-accurate",
+      "finding": "Evidence: the allegation is single-source (Senate letter); the deal facts are documented. The PIPE closed on 2026-01-29: about 69.8M shares at $21.50, anchored by Inflection Point, with Cantor as lead placement agent and Moelis as co-agent (8-K). Warren, Wyden and Van Hollen's 2026-02-26 letter says 'billionaire Trump allies appear to have had access to shares', naming Steve Schwarzman, Ken Griffin and Steven A. Cohen as Trump campaign and inauguration donors. USAR has not published a buyer list, and no filing found here confirms the three as PIPE buyers. A 13F aggregator lists Citadel Advisors with about 5.6M USAR shares in Q3 2026, but 13F holdings do not show PIPE participation. Commerce signed the definitive agreements on 2026-06-03: up to $277M in funding and a $1.3B CHIPS loan, for about 16.1M shares plus about 17.6M warrants (exercise price reportedly $17.17). On 2026-07-07 Warren, Wyden, Van Hollen and Rep. Lofgren wrote to Brandon Lutnick and USAR CEO Barbara Humpton about how Cantor was chosen, its commissions and any meetings with Commerce. Coverage says USAR booked about $50M in PIPE financing costs; Cantor's share is not disclosed. Gains: USAR traded at about $9.30 on 2026-10-23, roughly 57% below the PIPE price, so PIPE buyers had paper losses at that date, not gains. Cantor's fee is the only certain income. USAR says Cantor was not involved in the government deal.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1970622/000197062226000009/ex991pressrelease2026-0129.htm",
+        "https://www.warren.senate.gov/newsroom/press-releases/warren-wyden-van-hollen-sound-alarm-on-lutnick-familys-conflicts-of-interest-involving-new-commerce-rare-earth-deal/",
+        "https://blarkad.com/ticker/USAR/ownership",
+        "https://www.barchart.com/story/news/2280291/usa-rare-earth-finalizes-definitive-agreements-with-u-s-department-of-commerce-unlocking-access-to-up-to-1-6-billion-to-advance-the-leading-rare-earth-value-chain",
+        "https://www.panabee.com/news/usar-finalizes-1-6b-chips-agreement-capital-covenants-and-dilution",
+        "https://www.marketscreener.com/news/usa-rare-earth-finalizes-deals-for-up-to-1-6-billion-in-funding-under-chips-act-ce7f5ddfde8af12c",
+        "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-warren-wyden-lofgren-lead-new-probe-into-cantor-fitzgerald-usar-after-16-billion-trump-administration-deal",
+        "https://democrats-science.house.gov/imo/media/doc/2026-07-07%20Cantor%20Joint%20Letter.pdf",
+        "https://www.itiger.com/news/2649593973",
+        "https://marketchameleon.com/Overview/USAR/"
+      ]
+    },
+    {
+      "statement": "Perpetua Resources' EXIM loan benefits a major Trump donor: John Paulson is its largest shareholder.",
+      "verdict": "confirmed",
+      "finding": "Evidence: documented (Bloomberg Government, Northern Miner, E&E, company releases). Bloomberg Government names John Paulson, a billionaire Trump supporter, as Perpetua's largest shareholder, with roughly a quarter of the company (one figure is 26%). In Jun 2025 Paulson & Co. bought $100M of a $425M raise at $13.20 a share. Paulson hosted Trump's April 2024 Palm Beach fundraiser, which raised $50.5M, and withdrew from Treasury Secretary consideration in 2024, citing his financial entanglements. Federal actions: the White House picked Stibnite as a FAST-41 transparency project (Apr 2025); final federal permits followed in 2025; DoD support exceeds $80M; EXIM notified Congress of a $2.7B loan and its board approved $2.9B in May 2026, subject to definitive documents expected in H2 2026. Cantor's documented role is smaller than the claim implies: Cantor Fitzgerald Canada co-led Perpetua's Aug 2021 $57.5M offering (before Lutnick's appointment) and covers the stock with a Buy, but it was not on the Jun 2025 deal. What this does not show: that Paulson lobbied for the loan, or a realized gain. A parallel case is documented: Paulson's Trilogy Metals stake gained an estimated $60-70M on paper on the day of the government's 2025-10-06 stake, and he later sold it.",
+      "sources": [
+        "https://news.bgov.com/esg/critical-minerals-project-faces-hurdles-after-trumps-greenlight",
+        "https://www.northernminer.com/news/perpetua-secures-400m-financing-for-stibnite-gold-project/1003879534/",
+        "https://pulse2.com/perpetua-resources-2-9-billion-exim-loan-approval-paired-with-574-2-million-cash-and-3000-gold-floor-ahead-of-h2-2026-stibnite-decision/",
+        "https://www.eenews.net/articles/feds-advance-2-7b-loan-for-idaho-gold-mine/",
+        "https://www.mining.com/stibnite-gold-project-in-idaho-named-a-priority-by-white-house/",
+        "https://www.investors.perpetuaresources.com/investors/news/2021/perpetua-resources-announces-public-offering-of-common-shares",
+        "https://popular.info/p/trump-approves-mining-road-delivers",
+        "https://www.dermotcole.com/reportingfromalaska/2025/10/7/billionaire-trump-donor-gains-70-million-in-ambler-windfall",
+        "https://www.mining.com/web/billionaire-paulson-sells-stake-in-alaska-focused-trilogy-metals/"
+      ]
+    },
+    {
+      "statement": "GreenMet also links to Deputy Defense Secretary Steve Feinberg's Cerberus.",
+      "verdict": "unverified",
+      "finding": "Evidence: the 2022 deal is documented; any link to Tanbreez or to current decisions is inferred, and we found no source asserting one. In Nov 2022 a Cerberus affiliate led a $50M phased investment in Torngat Metals (Strange Lake rare earths, Québec), and GreenMet said it 'helped secure' it. Feinberg co-founded Cerberus and has been Deputy Secretary of Defense since March 2025 (C65, C74). The Pentagon runs DPA grants of the kind Critical Metals sought. These facts sit near each other but do not form a documented chain: the Cerberus deal predates the administration and has nothing to do with Greenland.",
+      "sources": [
+        "https://www.businesswire.com/news/home/20221109005422/en/Torngat-Metals-Announces-Investment-from-Cerberus-Capital-Management",
+        "https://prnewswire.com/news-releases/ev-metals-supply-chain-leader-greenmet-helps-secure-major-investment-from-wall-street-301674891.html"
+      ]
+    }
+  ],
+  "corrections": [
+    "The claim calls the Critical Metals tie a 'Cantor stake'. It was a roughly 1% shareholding at end-2024 (reported third-largest investor), with conflicting later data and no confirmed 2026 holding.",
+    "There is no U.S. government stake in Critical Metals. Only talks (Oct 2025) and a non-binding $120M EXIM letter of interest exist, and an official later said no investment was being actively considered.",
+    "NOAA has not issued TMC any commercial recovery permit. Its consolidated application is in EIS review, with a decision expected around Q1 2027.",
+    "'Which Trump allies got shares': the only named investors (Schwarzman, Griffin, Cohen) come from a Senate letter, not from USAR disclosures.",
+    "Perpetua's 'Cantor-linked' status rests on a 2021 offering and analyst coverage. Its more consequential political link is its largest shareholder, John Paulson.",
+    "Gains: USAR traded around $9.30 in Oct 2026 against the $21.50 PIPE price, so PIPE buyers were not in profit at that date."
+  ],
+  "denials_and_context": [
+    "Commerce: Lutnick divested Cantor and complies with all divestiture and recusal requirements in his ethics agreement. It says neither he nor his department has discussed rare-earth companies with Cantor.",
+    "USA Rare Earth says Cantor had no role in the government transaction. Cantor denies wrongdoing and calls itself a capital-raising partner.",
+    "Sorial and Schiller call themselves passive minority investors in GreenMet. GreenMet did not answer NPR. Lauder and the White House declined to comment on his Greenland holdings.",
+    "Cantor is one of the most active small-cap mining and SPAC banks, so some overlap with federally backed miners is structural. The national-security rationale for non-Chinese rare-earth supply is bipartisan.",
+    "Source limits: the original pages at Senate sites, NPR member stations and 13F aggregators were not read directly. Details rely on search-result summaries, and 13F figures come from aggregators that conflict."
+  ],
+  "sources": [
+    {
+      "title": "Trump administration eyes stake in company developing Greenland rare earths mine (Reuters)",
+      "publisher": "Mining Weekly / Reuters",
+      "url": "https://www.miningweekly.com/article/trump-administration-eyes-stake-in-company-developing-greenland-rare-earths-mine-2025-10-06",
+      "date": "2025-10-06"
+    },
+    {
+      "title": "US government pours cold water on Critical Metals deal",
+      "publisher": "Mining.com",
+      "url": "https://www.mining.com/us-government-pours-cold-water-on-critical-metals-deal",
+      "date": "2025-10"
+    },
+    {
+      "title": "US lobbied Greenland rare earths developer Tanbreez not to sell to China (Reuters)",
+      "publisher": "Mining.com / Reuters",
+      "url": "https://www.mining.com/web/us-lobbied-greenland-rare-earths-developer-tanbreez-not-to-sell-to-china/",
+      "date": "2025-01-10"
+    },
+    {
+      "title": "US Export-Import Bank considers $120M loan for Greenland rare earths project (Reuters)",
+      "publisher": "Mining Weekly / Reuters",
+      "url": "https://www.miningweekly.com/article/us-export-import-bank-considers-120m-loan-for-greenland-rare-earths-project-2025-06-17",
+      "date": "2025-06-17"
+    },
+    {
+      "title": "Critical Metals Corp secures $120 million letter of interest from EXIM for Tanbreez",
+      "publisher": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/critical-metals-corp-secures-120-million-letter-interest-exim-bank-tanbreez-project",
+      "date": "2025-06"
+    },
+    {
+      "title": "Greenland rare earths mining company stock spikes nearly 150% on Trump 'trepidation'",
+      "publisher": "Fortune (via AOL)",
+      "url": "https://fortune.com/2026/01/21/critical-metals-greenland-rare-earths-mine-stock-trump-greenland/",
+      "date": "2026-01-21"
+    },
+    {
+      "title": "Greenland again a focus as Critical Metals ups rare-earths stake",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/greenland-again-focus-critical-metals-171700969.html",
+      "date": "2026-04"
+    },
+    {
+      "title": "A Western company just locked up Greenland's rarest deposit, and its backers have Washington ties",
+      "publisher": "The Deep Dive",
+      "url": "https://thedeepdive.ca/a-western-company-just-locked-up-greenlands-rarest-deposit-and-its-backers-have-washington-ties/",
+      "date": "2026"
+    },
+    {
+      "title": "CRML institutional holdings (13F aggregator)",
+      "publisher": "Equibles",
+      "url": "https://equibles.com/stocks/crml/holdings",
+      "date": "2026"
+    },
+    {
+      "title": "Critical Metals expects to close Greenland supply deals in Q1 2026, CEO says (Reuters)",
+      "publisher": "Mining.com",
+      "url": "https://www.mining.com/web/critical-metals-expects-to-close-greenland-rare-earth-supply-deals-in-q1-2026-ceo-says/",
+      "date": "2026-01-02"
+    },
+    {
+      "title": "Investigation links several of Trump's associates to mining interests in Greenland (OCCRP interview)",
+      "publisher": "NPR",
+      "url": "https://www.npr.org/transcripts/nx-s1-5682258",
+      "date": "2026-01-22"
+    },
+    {
+      "title": "Trump allies and Greenland deals (feature)",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/features/2025-greenland-trump-deals/",
+      "date": "2025"
+    },
+    {
+      "title": "Critical Metals, GreenMet partner to develop Tanbreez rare earth project in Greenland",
+      "publisher": "Mining.com",
+      "url": "https://www.mining.com/?p=1175496",
+      "date": "2025-03"
+    },
+    {
+      "title": "GreenMet company profile (citing CNBC on Sorial and Schiller)",
+      "publisher": "CB Insights",
+      "url": "https://www.cbinsights.com/company/greenmet/alternatives-competitors",
+      "date": "2026"
+    },
+    {
+      "title": "GreenMet gets $1M pact from DRC mining co",
+      "publisher": "O'Dwyer's",
+      "url": "https://www.odwyerpr.com/story/public/25497/2026-10-22/greenmet-gets-1m-pact-from-drc-mining-co.html",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "Libra Group announces sale of stake in GreenMet",
+      "publisher": "Libra Group",
+      "url": "https://www.libra.com/news-and-insights/libra-group-unveils-new-investment-in-sustainable-lithium/",
+      "date": "2025-11-04"
+    },
+    {
+      "title": "Torngat Metals announces investment from Cerberus Capital Management",
+      "publisher": "Business Wire",
+      "url": "https://www.businesswire.com/news/home/20221109005422/en/Torngat-Metals-Announces-Investment-from-Cerberus-Capital-Management",
+      "date": "2022-11-09"
+    },
+    {
+      "title": "EV metals supply chain leader GreenMet helps secure major investment from Wall Street",
+      "publisher": "PR Newswire",
+      "url": "https://prnewswire.com/news-releases/ev-metals-supply-chain-leader-greenmet-helps-secure-major-investment-from-wall-street-301674891.html",
+      "date": "2022-11"
+    },
+    {
+      "title": "An abandoned building, a billionaire Trump pal and the battle for Greenland",
+      "publisher": "Irish Times",
+      "url": "https://www.irishtimes.com/world/europe/2026/01/15/an-abandoned-building-a-billionaire-trump-pal-and-the-battle-for-greenland/",
+      "date": "2026-01-15"
+    },
+    {
+      "title": "Who is Ronald Lauder, the billionaire behind Trump's bid to buy Greenland?",
+      "publisher": "The New Arab",
+      "url": "https://www.newarab.com/news/ronald-lauder-billionaire-linked-trumps-greenland-bid",
+      "date": "2026-01"
+    },
+    {
+      "title": "These billionaires bet big on Greenland after Trump took interest",
+      "publisher": "Forbes Australia",
+      "url": "https://www.forbes.com.au/news/billionaires/these-billionaires-bet-big-on-greenland-after-trump-took-interest/",
+      "date": "2026-01"
+    },
+    {
+      "title": "Companies join a deep-sea mining rush after Trump executive order, as regulators fast-track permits (AP)",
+      "publisher": "WTOP / Associated Press",
+      "url": "https://wtop.com/news/2026/05/trumps-push-for-deep-sea-mining-spawns-new-companies-and-fast-tracked-rules/",
+      "date": "2026-05-21"
+    },
+    {
+      "title": "Trump's push for deep-sea mining spawns new companies and fast-tracked rules",
+      "publisher": "BNN Bloomberg",
+      "url": "https://www.bnnbloomberg.ca/business/2026/05/21/trumps-push-for-deep-sea-mining-spawns-new-companies-and-fast-tracked-rules/",
+      "date": "2026-05-21"
+    },
+    {
+      "title": "NOAA advances review of first-ever deep seabed mining commercial recovery application",
+      "publisher": "NOAA",
+      "url": "https://www.noaa.gov/news-release/noaa-advances-review-of-first-ever-deep-seabed-mining-commercial-recovery-application",
+      "date": "2026-08"
+    },
+    {
+      "title": "TMC USA files first consolidated deep seabed mining application",
+      "publisher": "Barchart (company release)",
+      "url": "https://www.barchart.com/story/news/37171286/tmc-usa-files-first-consolidated-deep-seabed-mining-application-increasing-expected-commercial-recovery-permit-area-to-65-000-km2",
+      "date": "2026-02"
+    },
+    {
+      "title": "NOAA determines TMC USA's consolidated deep seabed mining application is in full compliance",
+      "publisher": "Barchart (company release)",
+      "url": "https://www.barchart.com/story/news/1644737/noaa-determines-tmc-usas-consolidated-deep-seabed-mining-application-is-in-full-compliance",
+      "date": "2026-05-01"
+    },
+    {
+      "title": "Lawsuit challenges Trump administration greenlighting of international deep-sea mining exploration permit",
+      "publisher": "Earthjustice",
+      "url": "https://earthjustice.org/press/2026/lawsuit-challenges-trump-administration-greenlighting-of-international-deep-sea-mining-exploration-permit",
+      "date": "2026"
+    },
+    {
+      "title": "TMC secures $85M from Korea Zinc to boost deep-sea mining push",
+      "publisher": "Mining.com",
+      "url": "https://www.mining.com/?p=1181501",
+      "date": "2025-06"
+    },
+    {
+      "title": "Deep-sea miner TMC seeks U.S. approval, potentially bypassing global regulator",
+      "publisher": "Mongabay",
+      "url": "https://news.mongabay.com/2025/03/deep-sea-miner-tmc-seeks-u-s-approval-potentially-bypassing-global-regulator/",
+      "date": "2025-03"
+    },
+    {
+      "title": "Odyssey to merge with ex-Rio Tinto CEO's deep-sea mining firm in $1B deal (Reuters)",
+      "publisher": "Baird Maritime",
+      "url": "https://www.bairdmaritime.com/amp/story/offshore/undersea-mining/odyssey-to-merge-with-ex-rio-tinto-ceos-deep-sea-mining-firm-in-1b-deal",
+      "date": "2026-04-08"
+    },
+    {
+      "title": "American Ocean Minerals Corporation to merge with Odyssey Marine Exploration",
+      "publisher": "Business Wire",
+      "url": "https://www.businesswire.com/news/home/20260408786194/en/",
+      "date": "2026-04-08"
+    },
+    {
+      "title": "NOAA advances American Ocean Minerals Area 1 consolidated application to next phase of review",
+      "publisher": "Business Wire",
+      "url": "https://secure.businesswire.com/news/home/20260707621104/en/NOAA-Advances-American-Ocean-Minerals-Area-1-Seabed-Minerals-Consolidated-Exploration-and-Commercial-Recovery-Application-to-Next-Phase-of-Review",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "Howard Lutnick, Trump's commerce pick, is on crypto task force despite conflicts (NYT on 106-entity recusal)",
+      "publisher": "Yahoo News",
+      "url": "https://www.yahoo.com/news/howard-lutnick-trumps-commerce-pick-194648767.html",
+      "date": "2025-02"
+    },
+    {
+      "title": "Warren, Wyden, Van Hollen sound alarm on Lutnick family's conflicts of interest involving new Commerce rare earth deal",
+      "publisher": "Office of Sen. Elizabeth Warren",
+      "url": "https://www.warren.senate.gov/newsroom/press-releases/warren-wyden-van-hollen-sound-alarm-on-lutnick-familys-conflicts-of-interest-involving-new-commerce-rare-earth-deal/",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "Van Hollen, Warren, Wyden, Lofgren lead new probe into Cantor Fitzgerald, USAR after $1.6 billion Trump administration deal",
+      "publisher": "Office of Sen. Chris Van Hollen",
+      "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-warren-wyden-lofgren-lead-new-probe-into-cantor-fitzgerald-usar-after-16-billion-trump-administration-deal",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "Joint letter to Cantor Fitzgerald (House Science Democrats)",
+      "publisher": "U.S. House Committee on Science, Space and Technology (minority)",
+      "url": "https://democrats-science.house.gov/imo/media/doc/2026-07-07%20Cantor%20Joint%20Letter.pdf",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "Joint letter to USA Rare Earth (House Science Democrats)",
+      "publisher": "U.S. House Committee on Science, Space and Technology (minority)",
+      "url": "https://democrats-science.house.gov/imo/media/doc/2026-07-07%20USA%20Rare%20Earth%20Joint%20Letter.pdf",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "Democratic lawmakers probe Lutnick's possible ties to Cantor Fitzgerald deal (Dow Jones)",
+      "publisher": "iTiger / Dow Jones",
+      "url": "https://www.itiger.com/news/2649593973",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "USA Rare Earth announces closing of $1.5 billion PIPE financing (8-K exhibit)",
+      "publisher": "SEC / USA Rare Earth",
+      "url": "https://www.sec.gov/Archives/edgar/data/1970622/000197062226000009/ex991pressrelease2026-0129.htm",
+      "date": "2026-01-29"
+    },
+    {
+      "title": "USA Rare Earth finalizes definitive agreements with U.S. Department of Commerce",
+      "publisher": "Barchart (company release)",
+      "url": "https://www.barchart.com/story/news/2280291/usa-rare-earth-finalizes-definitive-agreements-with-u-s-department-of-commerce-unlocking-access-to-up-to-1-6-billion-to-advance-the-leading-rare-earth-value-chain",
+      "date": "2026-06-03"
+    },
+    {
+      "title": "USAR finalizes $1.6B CHIPS agreement: capital, covenants and dilution",
+      "publisher": "Panabee",
+      "url": "https://www.panabee.com/news/usar-finalizes-1-6b-chips-agreement-capital-covenants-and-dilution",
+      "date": "2026-06"
+    },
+    {
+      "title": "USA Rare Earth finalizes deals for up to $1.6 billion in funding under CHIPS Act",
+      "publisher": "MarketScreener",
+      "url": "https://www.marketscreener.com/news/usa-rare-earth-finalizes-deals-for-up-to-1-6-billion-in-funding-under-chips-act-ce7f5ddfde8af12c",
+      "date": "2026-06-03"
+    },
+    {
+      "title": "USAR overview and price history",
+      "publisher": "Market Chameleon",
+      "url": "https://marketchameleon.com/Overview/USAR/",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "USAR ownership (13F aggregator)",
+      "publisher": "Blarkad",
+      "url": "https://blarkad.com/ticker/USAR/ownership",
+      "date": "2026"
+    },
+    {
+      "title": "Critical mineral project faces hurdle after Trump greenlight",
+      "publisher": "Bloomberg Government",
+      "url": "https://news.bgov.com/esg/critical-minerals-project-faces-hurdles-after-trumps-greenlight",
+      "date": "2025"
+    },
+    {
+      "title": "Perpetua secures $400M financing for Stibnite Gold",
+      "publisher": "Northern Miner",
+      "url": "https://www.northernminer.com/news/perpetua-secures-400m-financing-for-stibnite-gold-project/1003879534/",
+      "date": "2025-06"
+    },
+    {
+      "title": "Perpetua Resources $2.9 billion EXIM loan approval",
+      "publisher": "Pulse 2.0",
+      "url": "https://pulse2.com/perpetua-resources-2-9-billion-exim-loan-approval-paired-with-574-2-million-cash-and-3000-gold-floor-ahead-of-h2-2026-stibnite-decision/",
+      "date": "2026-05"
+    },
+    {
+      "title": "Feds advance $2.7B loan for Idaho gold mine",
+      "publisher": "E&E News",
+      "url": "https://www.eenews.net/articles/feds-advance-2-7b-loan-for-idaho-gold-mine/",
+      "date": "2026-05"
+    },
+    {
+      "title": "Stibnite gold project in Idaho named a priority by White House",
+      "publisher": "Mining.com",
+      "url": "https://www.mining.com/stibnite-gold-project-in-idaho-named-a-priority-by-white-house/",
+      "date": "2025-04"
+    },
+    {
+      "title": "Perpetua Resources announces public offering of common shares (B. Riley and Cantor Fitzgerald Canada)",
+      "publisher": "Perpetua Resources",
+      "url": "https://www.investors.perpetuaresources.com/investors/news/2021/perpetua-resources-announces-public-offering-of-common-shares",
+      "date": "2021-08"
+    },
+    {
+      "title": "Trump approves mining road, delivers $70 million windfall to MAGA billionaire",
+      "publisher": "Popular Information",
+      "url": "https://popular.info/p/trump-approves-mining-road-delivers",
+      "date": "2025-10"
+    },
+    {
+      "title": "Billionaire Trump donor gains tens of millions in one-day Ambler windfall",
+      "publisher": "Reporting from Alaska (Dermot Cole)",
+      "url": "https://www.dermotcole.com/reportingfromalaska/2025/10/7/billionaire-trump-donor-gains-70-million-in-ambler-windfall",
+      "date": "2025-10-07"
+    },
+    {
+      "title": "Billionaire Paulson sells stake in Alaska-focused Trilogy Metals",
+      "publisher": "Mining.com",
+      "url": "https://www.mining.com/web/billionaire-paulson-sells-stake-in-alaska-focused-trilogy-metals/",
+      "date": "2025"
+    },
+    {
+      "title": "Revealed: Trump-linked firms cash in on mineral lobbying deals as US cuts aid",
+      "publisher": "Global Witness",
+      "url": "https://www.globalwitness.org/en/campaigns/transition-minerals/revealed-trump-linked-firms-cash-in-on-mineral-lobbying-deals-as-us-cuts-aid",
+      "date": "2025"
+    },
+    {
+      "title": "Former Trump staffers, allies angle for minerals cash",
+      "publisher": "E&E News",
+      "url": "https://www.eenews.net/articles/former-trump-staffers-allies-angle-for-minerals-cash/",
+      "date": "2025-08-26"
+    }
+  ],
+  "entities": [
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "President; pushed to acquire Greenland and signed the April 2025 seabed-mining order"
+    },
+    {
+      "id": "howard-lutnick",
+      "name": "Howard Lutnick",
+      "type": "person",
+      "description": "Commerce Secretary; oversees NOAA and CHIPS; former Cantor chairman/CEO"
+    },
+    {
+      "id": "brandon-lutnick",
+      "name": "Brandon Lutnick",
+      "type": "person",
+      "description": "Cantor Fitzgerald chairman; Howard Lutnick's son"
+    },
+    {
+      "id": "kyle-lutnick",
+      "name": "Kyle Lutnick",
+      "type": "person",
+      "description": "Cantor executive vice chair; Howard Lutnick's son"
+    },
+    {
+      "id": "cantor-fitzgerald",
+      "name": "Cantor Fitzgerald",
+      "type": "company",
+      "description": "Lutnick-family broker-dealer; banker or holder in CRML, TMC, AOMC, USAR"
+    },
+    {
+      "id": "critical-metals-corp",
+      "name": "Critical Metals Corp",
+      "type": "company",
+      "description": "Nasdaq CRML; owns 92.5% of Tanbreez"
+    },
+    {
+      "id": "tanbreez-project",
+      "name": "Tanbreez rare earth project",
+      "type": "asset",
+      "description": "Heavy rare-earth deposit in southern Greenland"
+    },
+    {
+      "id": "greenland",
+      "name": "Greenland",
+      "type": "country",
+      "description": "Autonomous territory of Denmark; target of Trump's acquisition push"
+    },
+    {
+      "id": "tony-sage",
+      "name": "Tony Sage",
+      "type": "person",
+      "description": "CEO of Critical Metals Corp"
+    },
+    {
+      "id": "greg-barnes",
+      "name": "Greg Barnes",
+      "type": "person",
+      "description": "Geologist and former Tanbreez owner whom U.S. officials lobbied"
+    },
+    {
+      "id": "greenmet",
+      "name": "GreenMet (Greentech Minerals Holdings)",
+      "type": "company",
+      "description": "Washington critical-minerals deal broker; Tanbreez development partner"
+    },
+    {
+      "id": "drew-horn",
+      "name": "Drew Horn",
+      "type": "person",
+      "description": "GreenMet CEO; former Pence policy director and DNI adviser"
+    },
+    {
+      "id": "george-sorial",
+      "name": "George Sorial",
+      "type": "person",
+      "description": "Former Trump Organization EVP and chief compliance counsel; Javelin co-founder; GreenMet shareholder"
+    },
+    {
+      "id": "keith-schiller",
+      "name": "Keith Schiller",
+      "type": "person",
+      "description": "Trump's former bodyguard and Oval Office operations director; Javelin co-founder; GreenMet shareholder and director"
+    },
+    {
+      "id": "javelin-advisors",
+      "name": "Javelin Advisors",
+      "type": "company",
+      "description": "Schiller-Sorial lobbying firm (Pakistan minerals mandate)"
+    },
+    {
+      "id": "libra-group",
+      "name": "Libra Group",
+      "type": "company",
+      "description": "Early GreenMet investor; sold its stake Nov 2025"
+    },
+    {
+      "id": "cerberus-capital-management",
+      "name": "Cerberus Capital Management",
+      "type": "fund",
+      "description": "Feinberg's firm; led a 2022 Torngat investment that GreenMet helped arrange"
+    },
+    {
+      "id": "steve-feinberg",
+      "name": "Stephen Feinberg",
+      "type": "person",
+      "description": "Deputy Secretary of Defense; Cerberus co-founder"
+    },
+    {
+      "id": "torngat-metals",
+      "name": "Torngat Metals",
+      "type": "company",
+      "description": "Québec rare-earth developer (Strange Lake)"
+    },
+    {
+      "id": "ronald-lauder",
+      "name": "Ronald Lauder",
+      "type": "person",
+      "description": "Billionaire Trump friend credited with the Greenland-purchase idea"
+    },
+    {
+      "id": "greenland-water-bank",
+      "name": "Greenland Water Bank",
+      "type": "company",
+      "description": "Greenlandic water firm Lauder co-owns"
+    },
+    {
+      "id": "greenland-development-partners",
+      "name": "Greenland Development Partners",
+      "type": "company",
+      "description": "Delaware consortium linked to Lauder; Greenland hydropower plan"
+    },
+    {
+      "id": "john-bolton",
+      "name": "John Bolton",
+      "type": "person",
+      "description": "Former national security adviser; source for Lauder's role"
+    },
+    {
+      "id": "the-metals-company",
+      "name": "The Metals Company (TMC)",
+      "type": "company",
+      "description": "Deep-sea nodule miner; first consolidated NOAA permit applicant"
+    },
+    {
+      "id": "american-ocean-minerals",
+      "name": "American Ocean Minerals Corp (AOMC)",
+      "type": "company",
+      "description": "Deep-sea miner merging with Odyssey; NOAA applicant"
+    },
+    {
+      "id": "odyssey-marine-exploration",
+      "name": "Odyssey Marine Exploration",
+      "type": "company",
+      "description": "Nasdaq seabed explorer merging into AOMC"
+    },
+    {
+      "id": "citigroup",
+      "name": "Citigroup",
+      "type": "company",
+      "description": "Co-arranger of the AOMC private placement"
+    },
+    {
+      "id": "korea-zinc",
+      "name": "Korea Zinc",
+      "type": "company",
+      "description": "Bought ~5% of TMC for $85M in Jun 2025"
+    },
+    {
+      "id": "noaa",
+      "name": "NOAA",
+      "type": "government",
+      "description": "Commerce agency licensing seabed mining under DSHMRA"
+    },
+    {
+      "id": "dshmra",
+      "name": "Deep Seabed Hard Mineral Resources Act",
+      "type": "law",
+      "description": "1980 U.S. statute used for TMC and AOMC permits"
+    },
+    {
+      "id": "seabed-mining-eo",
+      "name": "April 2025 offshore critical minerals executive order",
+      "type": "law",
+      "description": "Ordered Commerce to expedite seabed licences and permits"
+    },
+    {
+      "id": "us-commerce-department",
+      "name": "U.S. Department of Commerce",
+      "type": "government",
+      "description": "Runs NOAA and the CHIPS programme"
+    },
+    {
+      "id": "usa-rare-earth",
+      "name": "USA Rare Earth (USAR)",
+      "type": "company",
+      "description": "Round Top/Stillwater rare-earth magnet company; Commerce CHIPS deal"
+    },
+    {
+      "id": "inflection-point",
+      "name": "Inflection Point",
+      "type": "fund",
+      "description": "Anchor investor in the USAR PIPE"
+    },
+    {
+      "id": "moelis",
+      "name": "Moelis & Company",
+      "type": "company",
+      "description": "Co-placement agent on the USAR PIPE"
+    },
+    {
+      "id": "barbara-humpton",
+      "name": "Barbara Humpton",
+      "type": "person",
+      "description": "USA Rare Earth CEO"
+    },
+    {
+      "id": "stephen-schwarzman",
+      "name": "Stephen Schwarzman",
+      "type": "person",
+      "description": "Blackstone CEO; named in Warren letter as having PIPE access"
+    },
+    {
+      "id": "ken-griffin",
+      "name": "Ken Griffin",
+      "type": "person",
+      "description": "Citadel founder; named in Warren letter"
+    },
+    {
+      "id": "steven-a-cohen",
+      "name": "Steven A. Cohen",
+      "type": "person",
+      "description": "Point72 founder; named in Warren letter"
+    },
+    {
+      "id": "citadel",
+      "name": "Citadel Advisors",
+      "type": "fund",
+      "description": "Reported 13F holder of USAR (Q3 2026)"
+    },
+    {
+      "id": "perpetua-resources",
+      "name": "Perpetua Resources",
+      "type": "company",
+      "description": "Stibnite gold-antimony project, Idaho"
+    },
+    {
+      "id": "stibnite-gold-project",
+      "name": "Stibnite Gold Project",
+      "type": "asset",
+      "description": "Idaho antimony-gold mine backed by EXIM and DoD"
+    },
+    {
+      "id": "john-paulson",
+      "name": "John Paulson",
+      "type": "person",
+      "description": "Hedge-fund billionaire and Trump fundraiser; Perpetua's largest shareholder"
+    },
+    {
+      "id": "paulson-and-co",
+      "name": "Paulson & Co.",
+      "type": "fund",
+      "description": "Paulson's investment firm"
+    },
+    {
+      "id": "trilogy-metals",
+      "name": "Trilogy Metals",
+      "type": "company",
+      "description": "Alaska miner in which the U.S. took ~10% in Oct 2025"
+    },
+    {
+      "id": "exim-bank",
+      "name": "Export-Import Bank of the United States",
+      "type": "government",
+      "description": "Lender to Perpetua; issued an LOI to Critical Metals"
+    },
+    {
+      "id": "pentagon",
+      "name": "Department of Defense",
+      "type": "government",
+      "description": "DPA grants; Perpetua support"
+    },
+    {
+      "id": "elizabeth-warren",
+      "name": "Elizabeth Warren",
+      "type": "person",
+      "description": "Senator; USAR/Cantor letters"
+    },
+    {
+      "id": "ron-wyden",
+      "name": "Ron Wyden",
+      "type": "person",
+      "description": "Senator; USAR/Cantor letters"
+    },
+    {
+      "id": "chris-van-hollen",
+      "name": "Chris Van Hollen",
+      "type": "person",
+      "description": "Senator; USAR/Cantor letters"
+    },
+    {
+      "id": "zoe-lofgren",
+      "name": "Zoe Lofgren",
+      "type": "person",
+      "description": "House Science ranking member; July 2026 Cantor/USAR letters"
+    },
+    {
+      "id": "occrp",
+      "name": "OCCRP",
+      "type": "media",
+      "description": "Investigative network behind the Greenland-associates probe"
+    },
+    {
+      "id": "associated-press",
+      "name": "Associated Press",
+      "type": "media",
+      "description": "Reported the Cantor-TMC advice and Lutnick's NOAA role"
+    },
+    {
+      "id": "reuters",
+      "name": "Reuters",
+      "type": "media",
+      "description": "Reported Tanbreez lobbying, EXIM LOI, stake talks, AOMC placement"
+    },
+    {
+      "id": "earthjustice",
+      "name": "Earthjustice",
+      "type": "company",
+      "description": "Environmental law group suing NOAA over TMC certification"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "howard-lutnick",
+      "target": "cantor-fitzgerald",
+      "label": "former chairman/CEO; interests moved to children's trusts",
+      "type": "ownership",
+      "date": "2025-05"
+    },
+    {
+      "source": "brandon-lutnick",
+      "target": "cantor-fitzgerald",
+      "label": "chairman",
+      "type": "ownership",
+      "date": "2025"
+    },
+    {
+      "source": "kyle-lutnick",
+      "target": "cantor-fitzgerald",
+      "label": "executive vice chair",
+      "type": "ownership",
+      "date": "2025"
+    },
+    {
+      "source": "brandon-lutnick",
+      "target": "howard-lutnick",
+      "label": "son of",
+      "type": "family",
+      "date": ""
+    },
+    {
+      "source": "donald-trump",
+      "target": "howard-lutnick",
+      "label": "appointed Commerce Secretary",
+      "type": "political",
+      "date": "2025-02"
+    },
+    {
+      "source": "howard-lutnick",
+      "target": "us-commerce-department",
+      "label": "Secretary",
+      "type": "political",
+      "date": "2025-02"
+    },
+    {
+      "source": "us-commerce-department",
+      "target": "noaa",
+      "label": "oversees",
+      "type": "regulatory",
+      "date": ""
+    },
+    {
+      "source": "cantor-fitzgerald",
+      "target": "critical-metals-corp",
+      "label": "shareholder (~1% end-2024; reported third-largest investor) and research coverage",
+      "type": "ownership",
+      "date": "2024-12"
+    },
+    {
+      "source": "critical-metals-corp",
+      "target": "tanbreez-project",
+      "label": "owns 92.5%",
+      "type": "ownership",
+      "date": "2026-04-18"
+    },
+    {
+      "source": "tanbreez-project",
+      "target": "greenland",
+      "label": "located in",
+      "type": "commercial",
+      "date": ""
+    },
+    {
+      "source": "greg-barnes",
+      "target": "critical-metals-corp",
+      "label": "sold Tanbreez control for $5M cash + $211M stock",
+      "type": "commercial",
+      "date": "2024",
+      "amount_usd": 216000000
+    },
+    {
+      "source": "donald-trump",
+      "target": "greenland",
+      "label": "pushed to acquire",
+      "type": "political",
+      "date": "2026-01"
+    },
+    {
+      "source": "exim-bank",
+      "target": "critical-metals-corp",
+      "label": "letter of interest for up to $120M loan",
+      "type": "money",
+      "date": "2025-06",
+      "amount_usd": 120000000
+    },
+    {
+      "source": "pentagon",
+      "target": "critical-metals-corp",
+      "label": "DPA grant application; equity conversion (~8%) discussed",
+      "type": "money",
+      "date": "2025-10",
+      "amount_usd": 50000000
+    },
+    {
+      "source": "tony-sage",
+      "target": "critical-metals-corp",
+      "label": "CEO",
+      "type": "commercial",
+      "date": ""
+    },
+    {
+      "source": "greenmet",
+      "target": "critical-metals-corp",
+      "label": "Tanbreez development partner",
+      "type": "commercial",
+      "date": "2025"
+    },
+    {
+      "source": "drew-horn",
+      "target": "greenmet",
+      "label": "CEO",
+      "type": "ownership",
+      "date": ""
+    },
+    {
+      "source": "george-sorial",
+      "target": "greenmet",
+      "label": "beneficial shareholder (says passive)",
+      "type": "ownership",
+      "date": "2021"
+    },
+    {
+      "source": "keith-schiller",
+      "target": "greenmet",
+      "label": "beneficial shareholder and director (says passive)",
+      "type": "ownership",
+      "date": "2021"
+    },
+    {
+      "source": "george-sorial",
+      "target": "javelin-advisors",
+      "label": "co-founder",
+      "type": "ownership",
+      "date": ""
+    },
+    {
+      "source": "keith-schiller",
+      "target": "javelin-advisors",
+      "label": "co-founder",
+      "type": "ownership",
+      "date": ""
+    },
+    {
+      "source": "keith-schiller",
+      "target": "donald-trump",
+      "label": "former bodyguard / Oval Office operations director",
+      "type": "political",
+      "date": ""
+    },
+    {
+      "source": "george-sorial",
+      "target": "donald-trump",
+      "label": "former Trump Organization EVP/chief compliance counsel",
+      "type": "advisory",
+      "date": ""
+    },
+    {
+      "source": "libra-group",
+      "target": "greenmet",
+      "label": "sold non-controlling stake",
+      "type": "ownership",
+      "date": "2025-11-04"
+    },
+    {
+      "source": "greenmet",
+      "target": "cerberus-capital-management",
+      "label": "helped arrange Cerberus-led Torngat investment",
+      "type": "commercial",
+      "date": "2022-11"
+    },
+    {
+      "source": "cerberus-capital-management",
+      "target": "torngat-metals",
+      "label": "led $50M phased investment",
+      "type": "money",
+      "date": "2022-11",
+      "amount_usd": 50000000
+    },
+    {
+      "source": "steve-feinberg",
+      "target": "cerberus-capital-management",
+      "label": "co-founder",
+      "type": "ownership",
+      "date": ""
+    },
+    {
+      "source": "steve-feinberg",
+      "target": "pentagon",
+      "label": "Deputy Secretary",
+      "type": "political",
+      "date": "2025-03"
+    },
+    {
+      "source": "ronald-lauder",
+      "target": "donald-trump",
+      "label": "longtime friend; suggested buying Greenland (per Bolton)",
+      "type": "political",
+      "date": "first term"
+    },
+    {
+      "source": "ronald-lauder",
+      "target": "greenland-water-bank",
+      "label": "co-owner",
+      "type": "ownership",
+      "date": "2025"
+    },
+    {
+      "source": "ronald-lauder",
+      "target": "greenland-development-partners",
+      "label": "linked investor (hydropower plan)",
+      "type": "ownership",
+      "date": "2025"
+    },
+    {
+      "source": "cantor-fitzgerald",
+      "target": "the-metals-company",
+      "label": "financial adviser/banker",
+      "type": "advisory",
+      "date": "2025"
+    },
+    {
+      "source": "the-metals-company",
+      "target": "noaa",
+      "label": "first consolidated exploration + commercial recovery application",
+      "type": "regulatory",
+      "date": "2026-02-06"
+    },
+    {
+      "source": "donald-trump",
+      "target": "seabed-mining-eo",
+      "label": "signed",
+      "type": "political",
+      "date": "2025-04"
+    },
+    {
+      "source": "seabed-mining-eo",
+      "target": "howard-lutnick",
+      "label": "directs Commerce to expedite permits within 60 days",
+      "type": "regulatory",
+      "date": "2025-04"
+    },
+    {
+      "source": "korea-zinc",
+      "target": "the-metals-company",
+      "label": "bought ~5% stake",
+      "type": "money",
+      "date": "2025-06",
+      "amount_usd": 85000000
+    },
+    {
+      "source": "earthjustice",
+      "target": "noaa",
+      "label": "sued over TMC USA exploration certification",
+      "type": "legal",
+      "date": "2026"
+    },
+    {
+      "source": "cantor-fitzgerald",
+      "target": "american-ocean-minerals",
+      "label": "co-arranged >$150M private placement; capital-markets adviser",
+      "type": "advisory",
+      "date": "2026-04-08",
+      "amount_usd": 150000000
+    },
+    {
+      "source": "citigroup",
+      "target": "american-ocean-minerals",
+      "label": "co-arranged private placement",
+      "type": "advisory",
+      "date": "2026-04-08"
+    },
+    {
+      "source": "american-ocean-minerals",
+      "target": "odyssey-marine-exploration",
+      "label": "all-stock merger (~$1B pro forma)",
+      "type": "ownership",
+      "date": "2026-04-08",
+      "amount_usd": 1000000000
+    },
+    {
+      "source": "american-ocean-minerals",
+      "target": "noaa",
+      "label": "Area-1 consolidated application advanced",
+      "type": "regulatory",
+      "date": "2026-07-07"
+    },
+    {
+      "source": "cantor-fitzgerald",
+      "target": "usa-rare-earth",
+      "label": "lead placement agent, $1.5B PIPE",
+      "type": "advisory",
+      "date": "2026-01-26",
+      "amount_usd": 1500000000
+    },
+    {
+      "source": "moelis",
+      "target": "usa-rare-earth",
+      "label": "co-placement agent",
+      "type": "advisory",
+      "date": "2026-01-26"
+    },
+    {
+      "source": "inflection-point",
+      "target": "usa-rare-earth",
+      "label": "anchored PIPE",
+      "type": "money",
+      "date": "2026-01-26"
+    },
+    {
+      "source": "us-commerce-department",
+      "target": "usa-rare-earth",
+      "label": "definitive CHIPS agreements: $277M funding + $1.3B loan for ~16.1M shares + warrants",
+      "type": "money",
+      "date": "2026-06-03",
+      "amount_usd": 1600000000
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "stephen-schwarzman",
+      "label": "alleged PIPE access (letter)",
+      "type": "political",
+      "date": "2026-02-26"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "ken-griffin",
+      "label": "alleged PIPE access (letter)",
+      "type": "political",
+      "date": "2026-02-26"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "steven-a-cohen",
+      "label": "alleged PIPE access (letter)",
+      "type": "political",
+      "date": "2026-02-26"
+    },
+    {
+      "source": "ken-griffin",
+      "target": "citadel",
+      "label": "founder",
+      "type": "ownership",
+      "date": ""
+    },
+    {
+      "source": "citadel",
+      "target": "usa-rare-earth",
+      "label": "13F holder (~5.6M shares, Q3 2026, aggregator)",
+      "type": "ownership",
+      "date": "2026-09"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "howard-lutnick",
+      "label": "letter on USAR conflicts",
+      "type": "political",
+      "date": "2026-02-26"
+    },
+    {
+      "source": "zoe-lofgren",
+      "target": "brandon-lutnick",
+      "label": "joint letter to Cantor on USAR placement",
+      "type": "political",
+      "date": "2026-07-07"
+    },
+    {
+      "source": "chris-van-hollen",
+      "target": "barbara-humpton",
+      "label": "joint letter to USAR",
+      "type": "political",
+      "date": "2026-07-07"
+    },
+    {
+      "source": "ron-wyden",
+      "target": "howard-lutnick",
+      "label": "letter on USAR conflicts",
+      "type": "political",
+      "date": "2026-02-26"
+    },
+    {
+      "source": "barbara-humpton",
+      "target": "usa-rare-earth",
+      "label": "CEO",
+      "type": "commercial",
+      "date": ""
+    },
+    {
+      "source": "john-paulson",
+      "target": "paulson-and-co",
+      "label": "founder",
+      "type": "ownership",
+      "date": ""
+    },
+    {
+      "source": "paulson-and-co",
+      "target": "perpetua-resources",
+      "label": "largest shareholder (~25-26%); $100M placement",
+      "type": "ownership",
+      "date": "2025-06",
+      "amount_usd": 100000000
+    },
+    {
+      "source": "john-paulson",
+      "target": "donald-trump",
+      "label": "hosted $50.5M fundraiser",
+      "type": "political",
+      "date": "2024-04",
+      "amount_usd": 50500000
+    },
+    {
+      "source": "perpetua-resources",
+      "target": "stibnite-gold-project",
+      "label": "owns",
+      "type": "ownership",
+      "date": ""
+    },
+    {
+      "source": "exim-bank",
+      "target": "perpetua-resources",
+      "label": "board approved $2.9B loan",
+      "type": "money",
+      "date": "2026-05",
+      "amount_usd": 2900000000
+    },
+    {
+      "source": "pentagon",
+      "target": "perpetua-resources",
+      "label": "more than $80M in support",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 80000000
+    },
+    {
+      "source": "cantor-fitzgerald",
+      "target": "perpetua-resources",
+      "label": "co-bookrunner on 2021 offering (Cantor Canada); analyst coverage",
+      "type": "advisory",
+      "date": "2021-08"
+    },
+    {
+      "source": "paulson-and-co",
+      "target": "trilogy-metals",
+      "label": "held stake; ~$60-70M paper gain on U.S. stake news, later sold",
+      "type": "ownership",
+      "date": "2025-10-06"
+    },
+    {
+      "source": "occrp",
+      "target": "greenmet",
+      "label": "exposed Trump-associate shareholders",
+      "type": "media",
+      "date": "2026-01-22"
+    },
+    {
+      "source": "reuters",
+      "target": "cantor-fitzgerald",
+      "label": "reported AOMC placement role",
+      "type": "media",
+      "date": "2026-04-08"
+    },
+    {
+      "source": "associated-press",
+      "target": "cantor-fitzgerald",
+      "label": "reported TMC advice",
+      "type": "media",
+      "date": "2026-05-21"
+    }
+  ],
+  "leads": [
+    {
+      "title": "American Ocean Minerals / Odyssey: Cantor-placed raise and NOAA permits",
+      "why_connected": "Cantor (Brandon Lutnick) co-arranged the >$150M placement for a second NOAA seabed applicant; investors and fees are undisclosed; check the S-4 for buyers and placement fees.",
+      "entities": [
+        "american-ocean-minerals",
+        "odyssey-marine-exploration",
+        "cantor-fitzgerald",
+        "noaa",
+        "howard-lutnick"
+      ],
+      "source_url": "https://www.bairdmaritime.com/amp/story/offshore/undersea-mining/odyssey-to-merge-with-ex-rio-tinto-ceos-deep-sea-mining-firm-in-1b-deal"
+    },
+    {
+      "title": "Is TMC (or AOMC) on Lutnick's 106-entity recusal list?",
+      "why_connected": "The NYT reported an initial recusal from matters involving 106 entities; the OGE ethics agreement and any waivers would settle whether he is walled off from Cantor clients before NOAA.",
+      "entities": [
+        "howard-lutnick",
+        "the-metals-company",
+        "noaa"
+      ],
+      "source_url": "https://www.yahoo.com/news/howard-lutnick-trumps-commerce-pick-194648767.html"
+    },
+    {
+      "title": "GreenMet's U.S.-government access contracts in Africa",
+      "why_connected": "Firm owned in part by Schiller and Sorial signed a $1M contract to help a DRC miner build U.S. government ties, the same model as Javelin's FARA work.",
+      "entities": [
+        "greenmet",
+        "keith-schiller",
+        "george-sorial",
+        "drew-horn"
+      ],
+      "source_url": "https://www.odwyerpr.com/story/public/25497/2026-10-22/greenmet-gets-1m-pact-from-drc-mining-co.html"
+    },
+    {
+      "title": "John Paulson's portfolio overlap with federal minerals stakes",
+      "why_connected": "Paulson is Perpetua's largest holder (EXIM $2.9B) and profited from the Trilogy stake; check other holdings (e.g., NovaGold) against federal actions.",
+      "entities": [
+        "john-paulson",
+        "perpetua-resources",
+        "trilogy-metals",
+        "exim-bank"
+      ],
+      "source_url": "https://popular.info/p/trump-approves-mining-road-delivers"
+    },
+    {
+      "title": "Lauder's Greenland hydropower concession",
+      "why_connected": "Trump's friend who pitched the Greenland purchase is linked to a consortium seeking hydropower at Greenland's largest lake; any U.S. financing (EXIM/DFC) would be a direct conflict test.",
+      "entities": [
+        "ronald-lauder",
+        "greenland-development-partners",
+        "greenland",
+        "donald-trump"
+      ],
+      "source_url": "https://www.irishtimes.com/world/europe/2026/01/15/an-abandoned-building-a-billionaire-trump-pal-and-the-battle-for-greenland/"
+    }
+  ],
+  "audit": {
+    "checked": [
+      "Schiller and Sorial as GreenMet shareholders (OCCRP/NPR) and their response",
+      "Cantor's role with The Metals Company and the status of TMC's NOAA application",
+      "Cantor's role in American Ocean Minerals' >$150M placement and the Odyssey merger"
+    ],
+    "result": "upheld",
+    "changes": [
+      "AOMC: confirmed that Citi and Cantor were joint private placement agents and capital-markets advisers (company release, Reuters). Added that the merger's closing was not found through Nov 2026.",
+      "TMC: added NOAA's substantial-compliance finding (~2026-03-09) and the amended application (2026-03-19) before the full-compliance finding. Still no report of a Lutnick recusal on TMC, and Cantor is again described as one of TMC's leading bankers.",
+      "GreenMet: the shareholdings and the passive-investor denial were re-confirmed via CB Insights/CNBC. Schiller's director status rests on OCCRP. An unverified dossier claim that they left board roles in early 2025 was not adopted."
+    ],
+    "new_sources": [
+      {
+        "title": "TMC says deep-sea mining application makes permitting progress",
+        "publisher": "Mining Weekly",
+        "url": "https://www.miningweekly.com/article/tmc-says-deep-sea-mining-application-makes-permitting-progress-2026-03-09",
+        "date": "2026-03-09"
+      },
+      {
+        "title": "Odyssey to merge with ex-Rio Tinto CEO's deep-sea mining firm in $1b deal",
+        "publisher": "Baird Maritime (Reuters)",
+        "url": "https://www.bairdmaritime.com/offshore/undersea-mining/odyssey-to-merge-with-ex-rio-tinto-ceos-deep-sea-mining-firm-in-1b-deal",
+        "date": "2026-04-08"
+      },
+      {
+        "title": "Challenges persist for TMC's bid to mine the deep sea even after boost from Trump",
+        "publisher": "Pulitzer Center",
+        "url": "https://pulitzercenter.org/stories/challenges-persist-tmcs-bid-mine-deep-sea-even-after-boost-trump",
+        "date": "2026"
+      }
+    ]
+  }
+}

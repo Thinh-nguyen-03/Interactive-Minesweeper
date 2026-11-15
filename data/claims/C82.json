@@ -1,0 +1,703 @@
+{
+  "id": "C82",
+  "title": "Abu Dhabi layers: unannounced Trump licensing entities, StringZ and the Delaware referral",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "The entity and date links are documented. DT Marks Abu Dhabi LLC and DT Marks Abu Dhabi Member Corp were formed in Delaware on 30 Jan 2025, 14 days after Eric Trump signed the Aryam 49% deal. DT Marks Al Raha Beach LLC was formed on the day of the July 2025 data-centre permitting order (CREW only). Two Damac subsidiaries paid the new entities $5M each in 2025 for Abu Dhabi projects that are still unannounced, while the Abu Dhabi partner Eric Trump and Dar Global had talked up in Dec 2024 was Dar Global, not Damac. StringZ's April 2025 Abu Dhabi and May 2025 Delaware registrations rest on the WSJ alone. I found no ADGM register entry and no shared officers or addresses with Aryam Investment 1, so that overlap is unverified. Khanna's referral to the Delaware US Attorney and the Warren/Kim CFIUS request are documented, but no answer, opened matter or CFIUS outcome had been reported by Nov 2026.",
+  "sub_claims": [
+    {
+      "statement": "DT Marks Abu Dhabi LLC and DT Marks Abu Dhabi Member Corp were formed in Delaware on 30 Jan 2025, two weeks after the Aryam deal and ten days after the inauguration.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented for the formation (Forbes, 24 Jul 2025, from Delaware filings; repeated by CREW in 2026). Forbes: on 30 Jan 2025 a firm tied to the president created both companies. The names follow the template of more than 30 other Trump licensing entities, and corporate filings pointed to at least three unannounced deals (Abu Dhabi, Serbia, Hungary). Eric Trump signed the Aryam Investment 1 agreement for 49% of WLF on about 16 Jan 2025 (WSJ). The formation therefore came 14 days later. That sequence is our own observation: no source links the licensing entity to the Aryam deal, and the counterparty that later paid it was Damac, not a Tahnoon vehicle. Audit: Forbes's own Instagram post (relayed) and Forbes Türkiye repeat the 30 Jan 2025 formation of both entities; Forbes Türkiye adds later DT Marks Doha LLC/Member Corp filings.",
+      "sources": [
+        "https://www.forbes.com/sites/danalexander/2025/07/24/wed-call-that-corruption-how-trump-used-the-presidency-to-expand-his-global-empire/",
+        "https://www.citizensforethics.org/reports-investigations/crew-investigations/dubai-developer-paid-trump-12-5-million-while-bringing-data-centers-to-the-u-s/",
+        "https://www.theblock.co/news/deals/2026-02-01-uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj-387931"
+      ]
+    },
+    {
+      "statement": "DT Marks Al Raha Beach LLC was formed in Delaware on the same day Trump signed the data-centre permitting executive order (July 2025).",
+      "verdict": "unverified",
+      "finding": "Evidence grade: single-source (CREW, from Delaware records). CREW says DT Marks Al Raha Beach LLC was formed the same day the 'Accelerating Federal Permitting of Data Center Infrastructure' order was released (23 Jul 2025). This builds on C70. Damac's Sajwani had pledged $20B or more for US data centres at Mar-a-Lago on 7 Jan 2025. CNBC found no evidence that any Damac payment influenced the order or that Trump intervened for Damac. The order is general policy. The same-day match shows proximity, not causation. I could not confirm the formation date from the Delaware register itself, which was not consulted.",
+      "sources": [
+        "https://www.citizensforethics.org/reports-investigations/crew-investigations/dubai-developer-paid-trump-12-5-million-while-bringing-data-centers-to-the-u-s/",
+        "https://timesbrasil.com.br/mundo/negocio-de-licenciamento-imobiliario-de-trump-no-exterior-dispara-para-us-595-milhoes-com-pagamentos-de-incorporadoras-do-golfo/",
+        "https://fortune.com/2025/01/07/trump-announces-hussain-sajwani-20-billion-us-data-centers-investment/"
+      ]
+    },
+    {
+      "statement": "Two Damac subsidiaries paid $5M each in licence fees to the new Abu Dhabi entities in 2025, for projects that have not been announced.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented (Trump's 2026 OGE disclosure for 2025, as read by CREW, CNBC and The National). The payers are Damac Properties Investment LLC and Damac Sky View Real Estate LLC. Each new company (DT Marks Abu Dhabi LLC and DT Marks Al Raha Beach LLC) received $5M. CNBC notes the Trump Organization has no active Abu Dhabi developments. The National describes the Damac total, about $12.5M, as fees from the Dubai golf club 'and an estate project at Abu Dhabi's Al Raha Beach'. Forbes (27 Oct 2025) had already reported that Sajwani added two Abu Dhabi agreements in 2025. As of Nov 2026 I found no public launch of a Trump-branded Abu Dhabi project. Damac did not respond to CNBC. I read the line items through press reports, not from the filing itself. Audit: CREW says Damac paid each new company $5M through its subsidiaries; CNBC (via Times Brasil) reports two new $5M fees for Damac projects in Abu Dhabi and gives a Damac total of $11.3M against CREW's and The National's ~$12.5M. Disclosure forms partly use value ranges, so totals are estimates.",
+      "sources": [
+        "https://www.citizensforethics.org/reports-investigations/crew-investigations/dubai-developer-paid-trump-12-5-million-while-bringing-data-centers-to-the-u-s/",
+        "https://www.thenationalnews.com/business/2026/07/01/gulf-developers-bring-windfall-to-trump-family/",
+        "https://timesbrasil.com.br/mundo/negocio-de-licenciamento-imobiliario-de-trump-no-exterior-dispara-para-us-595-milhoes-com-pagamentos-de-incorporadoras-do-golfo/",
+        "https://www.forbes.com/sites/danalexander/2025/10/27/this-gulf-nation-is-powering-trumps-moneymaking-machine/"
+      ]
+    },
+    {
+      "statement": "Eric Trump announced Abu Dhabi plans in Abu Dhabi in Dec 2024, five weeks before signing the Aryam deal, with Dar Global named as the intended partner.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented (Reuters, Semafor, Bloomberg). In mid-December 2024 Eric Trump gave interviews in Abu Dhabi. He said 'We'll probably be in Abu Dhabi in the next year or so' and promised a 'very large wall' between the Trump Organization and the US government. Reuters reported Dar Global's CEO as saying the partners hoped to do one tower and one golf community there. On about 16 Jan 2025 Eric signed the Aryam 49% WLF agreement, the deal backed by Tahnoon. Our observation, which no source states: the Abu Dhabi fees that materialised in 2025 came from Damac, not Dar Global. The same Abu Dhabi trip preceded both the Aryam deal and the 30 Jan entity formation. No source ties Eric's Abu Dhabi meetings to Tahnoon's vehicles. A secondhand summary says Eric Trump has said the WLF deal gave no one access to government decision-making, but I could not find the original quote.",
+      "sources": [
+        "https://theprint.in/world/there-will-be-very-large-wall-between-trump-org-and-us-government-eric-trump-says/2396549/",
+        "https://www.semafor.com/article/12/16/2024/trump-organization-eyes-gulf-expansion",
+        "https://bnnbloomberg.ca/business/company-news/2024/12/13/eric-trump-says-hes-wrong-guy-to-gain-us-favor-amid-deal-push",
+        "https://semafor.com/article/04/30/2025/eric-trump-travels-to-dubai-to-sell-property-and-crypto"
+      ]
+    },
+    {
+      "statement": "StringZ Holding RSC was registered in Abu Dhabi in April 2025 and in Delaware a month later, and it appears on the ADGM register sharing officers or addresses with Aryam Investment 1.",
+      "verdict": "unverified",
+      "finding": "Evidence grade: single-source for the registration dates (WSJ, 27 Aug 2026, relayed by Forklog and others). The officer and address overlap is unverified. The WSJ says StringZ Holding RSC was registered in Abu Dhabi in April 2025 and in Delaware ('StringZ Holding RSC (DE) LLC', the name in OCC CD #1385) a month later. That places it about three months after the Aryam deal, around the 1 May 2025 MGX/USD1 announcement, and eight months before the WLTC charter application (5 Jan 2026). The sequencing is our own observation. 'RSC' is an ADGM restricted-scope company category, but no search surfaced an ADGM public-register entry. The ADGM register and Delaware's entity search could not be queried. No outlet names StringZ's officers or registered address, and none reports a shared officer, agent or address with Aryam Investment 1. Aryam's own Delaware formation is unconfirmed; a non-news dossier's claim of a December 2024 formation remains unverified (C63). The tie between the two vehicles is limited to the reported common Tahnoon backing and the same 49% stake size. Audit: further searches found the April 2025 Abu Dhabi / May 2025 Delaware dates repeated only by relays of the WSJ (e.g. logos-pres.md); still single-source.",
+      "sources": [
+        "https://forklog.com/en/wsj-uae-investors-take-49-stake-in-trumps-planned-crypto-bank-holding-company/",
+        "https://theblock.co/news/regulation/2026-08-27-uae-spy-sheikh-takes-49-stake-in-trump-familys-bank-venture-wsj-412971",
+        "https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/cd1385.pdf",
+        "https://www.adgm.com/registration-authority/registration-and-incorporation"
+      ]
+    },
+    {
+      "statement": "The Al Raha Beach district's master developer sits in a Tahnoon-chaired corporate group.",
+      "verdict": "unverified",
+      "finding": "Evidence grade: documented for the corporate chain. The link to the Trump project is inferred and weak, and no source asserts it. Aldar Properties is a master developer of Al Raha (as well as Yas, Saadiyat and Reem). Alpha Dhabi became Aldar's parent with about 30% (2022) and still held about 31.6% in late 2025, denying plans to sell. IHC owns about 45% of Alpha Dhabi, and IHC sits in Tahnoon's Royal Group. Al Raha Beach has several developers, including private ones such as Burtville. No source says the Damac/Trump Abu Dhabi project is on Aldar land or involves Aldar or IHC. This is recorded only as a question for further checking.",
+      "sources": [
+        "https://www.thenationalnews.com/business/markets/2022/06/28/alpha-dhabi-increases-aldar-stake-to-become-abu-dhabi-developers-parent",
+        "https://www.thenationalnews.com/business/markets/abu-dhabi-s-ihc-completes-45-stake-purchase-in-alpha-dhabi-holding-1.1202501",
+        "https://www.thenationalnews.com/business/property/2025/11/06/abu-dhabis-ihc-has-no-plans-to-sell-aldar-stake-ceo-says"
+      ]
+    },
+    {
+      "statement": "Rep. Khanna referred the Emirati WLF investor's Delaware domicile to the US Attorney for Delaware.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented (the letter on the committee's site, plus several outlets). On 4 Feb 2026 Ro Khanna, ranking member of the House Select Committee on the CCP, wrote to Benjamin Wallace, US Attorney for the District of Delaware. He said at least one entity in Aryam's 49% purchase was registered in Delaware and raised the foreign emoluments clause. A parallel letter asked Zach Witkoff for ownership records, payment flows and communications by 1 Mar 2026. As ranking member, Khanna cannot issue subpoenas; the chair holds that power (secondary analysis). I found no reply from Wallace's office, no opened matter and no public WLF production. The letter does not name which entity is Delaware-registered. The only Delaware Emirati vehicle on the public record in this network is StringZ's '(DE)' entity, which postdates the letter's subject deal and concerns the bank. Pairing it with the referral is our inference.",
+      "sources": [
+        "https://democrats-selectcommitteeontheccp.house.gov/sites/evo-subsites/democrats-selectcommitteeontheccp.house.gov/files/evo-media-document/2-4-26-scc-letter-to-wallace.pdf",
+        "https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/ranking-member-ro-khanna-presses-world-liberty-financial-information-trump",
+        "https://decrypt.co/357046/ro-khanna-launches-probe-into-500m-uae-deal-with-trump-linked-world-liberty-financial",
+        "https://www.theblock.co/post/388607/house-launches-probe-world-liberty-financial"
+      ]
+    },
+    {
+      "statement": "Sens. Warren and Kim asked CFIUS chair Bessent to review the Aryam stake; outcome.",
+      "verdict": "unverified",
+      "finding": "Evidence grade: documented for the request; the outcome is unverified. The letter to Treasury Secretary Bessent (13 Feb 2026), who chairs CFIUS, asked whether CFIUS had analysed the deal or advised Trump on it, and whether the UAE or China could reach WLF users' personal data. It set a 5 Mar 2026 deadline. Searches through Nov 2026 found no Treasury reply, no CFIUS review and no statement of jurisdiction. A dossier site says no review had begun by the deadline, but it is not a reliable source. The StringZ stake in WLTC was reported in Aug 2026, but I found no CFIUS request about it. The OCC instead handled StringZ through passivity commitments.",
+      "sources": [
+        "https://www.banking.senate.gov/imo/media/doc/letter_to_bessent_re_cfius_wlf.pdf",
+        "https://www.theblock.co/post/389958/sens-warren-kim-demand-cfius-review-of-uaes-reported-500-million-stake-in-world-liberty-financial-reuters",
+        "https://cointelegraph.com/news/senators-urge-cfius-probe-uae-stake-trump-linked-wlfi"
+      ]
+    },
+    {
+      "statement": "The Trump side's denials.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented. WLF spokesperson David Wachsman: 'Neither President Trump nor Steve Witkoff had any involvement whatsoever in this transaction'. He also denied to CNN any link to chip decisions. Trump said of the UAE investment, 'I know nothing about it' (early Feb 2026). The Trump Organization described the disclosure as reflecting its financial strength. Damac and Dar Al Arkan did not respond to CNBC.",
+      "sources": [
+        "https://www.theblock.co/news/deals/2026-02-03-president-trump-says-he-was-unaware-of-500-million-uae-investment-in-world-liberty-financial-388191",
+        "https://krdo.com/politics/cnn-us-politics/2026/02/02/uae-linked-firm-bought-major-stake-in-trump-family-crypto-company-wall-street-journal-reports/"
+      ]
+    }
+  ],
+  "corrections": [
+    "The claim pairs 'DT Marks Abu Dhabi' and 'Al Raha Beach' as if formed together. Per Forbes and CREW they were formed about six months apart: DT Marks Abu Dhabi LLC and Member Corp on 30 Jan 2025, and DT Marks Al Raha Beach LLC in July 2025 (CREW).",
+    "The Abu Dhabi licence fees came from Damac subsidiaries, not from Dar Global, the partner named in Dec 2024, and not from any Tahnoon vehicle.",
+    "No source establishes that StringZ appears on the ADGM register or shares officers or addresses with Aryam Investment 1. That part of the claim is unverified, not disproven."
+  ],
+  "denials_and_context": [
+    "WLF says neither Trump nor Steve Witkoff had any involvement in the Aryam transaction; Trump says he knows nothing about it.",
+    "CNBC found no evidence that Damac payments influenced the data-centre permitting order. That order is general policy.",
+    "Under the Trump Organization's January 2025 ethics policy, deals with private foreign companies are permitted. Damac is private, while Aryam and StringZ are reportedly backed by a senior UAE official.",
+    "The registration dates and formation-date coincidences rest on CREW, Forbes and the WSJ. The Delaware and ADGM registers were not consulted, and citizensforethics.org, forbes.com and thenationalnews.com were not read directly, so their findings come from search snippets and syndicated copies."
+  ],
+  "sources": [
+    {
+      "title": "We'd Call That Corruption: How Trump Used The Presidency To Expand His Global Empire",
+      "publisher": "Forbes",
+      "url": "https://www.forbes.com/sites/danalexander/2025/07/24/wed-call-that-corruption-how-trump-used-the-presidency-to-expand-his-global-empire/",
+      "date": "2025-07-24"
+    },
+    {
+      "title": "This Gulf Nation Is Powering Trump's Moneymaking Machine",
+      "publisher": "Forbes",
+      "url": "https://www.forbes.com/sites/danalexander/2025/10/27/this-gulf-nation-is-powering-trumps-moneymaking-machine/",
+      "date": "2025-10-27"
+    },
+    {
+      "title": "Trump's Foreign Licensing Business Grew 900% As He Returned To Power",
+      "publisher": "Forbes",
+      "url": "https://www.forbes.com/sites/danalexander/2026/07/08/trumps-foreign-licensing-business-grew-900-as-he-returned-to-power/",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "Dubai developer paid Trump $12.5 million while bringing data centers to the U.S.",
+      "publisher": "CREW",
+      "url": "https://www.citizensforethics.org/reports-investigations/crew-investigations/dubai-developer-paid-trump-12-5-million-while-bringing-data-centers-to-the-u-s/",
+      "date": "2026-07"
+    },
+    {
+      "title": "Gulf developers bring windfall to Trump family",
+      "publisher": "The National",
+      "url": "https://www.thenationalnews.com/business/2026/07/01/gulf-developers-bring-windfall-to-trump-family/",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "Negocio de licenciamento imobiliario de Trump no exterior dispara (CNBC licensee)",
+      "publisher": "Times Brasil / CNBC",
+      "url": "https://timesbrasil.com.br/mundo/negocio-de-licenciamento-imobiliario-de-trump-no-exterior-dispara-para-us-595-milhoes-com-pagamentos-de-incorporadoras-do-golfo/",
+      "date": "2026-07"
+    },
+    {
+      "title": "There will be 'very large wall' between Trump Org and US government, Eric Trump says",
+      "publisher": "Reuters via ThePrint",
+      "url": "https://theprint.in/world/there-will-be-very-large-wall-between-trump-org-and-us-government-eric-trump-says/2396549/",
+      "date": "2024-12"
+    },
+    {
+      "title": "Trump Organization eyes Gulf expansion",
+      "publisher": "Semafor",
+      "url": "https://www.semafor.com/article/12/16/2024/trump-organization-eyes-gulf-expansion",
+      "date": "2024-12-16"
+    },
+    {
+      "title": "Eric Trump says he's wrong guy to gain US favor amid deal push",
+      "publisher": "Bloomberg via BNN",
+      "url": "https://bnnbloomberg.ca/business/company-news/2024/12/13/eric-trump-says-hes-wrong-guy-to-gain-us-favor-amid-deal-push",
+      "date": "2024-12-13"
+    },
+    {
+      "title": "WSJ: UAE investors take 49% stake in Trump's planned crypto bank holding company",
+      "publisher": "Forklog",
+      "url": "https://forklog.com/en/wsj-uae-investors-take-49-stake-in-trumps-planned-crypto-bank-holding-company/",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "UAE 'spy sheikh' takes 49% stake in Trump family's bank venture: WSJ",
+      "publisher": "The Block",
+      "url": "https://theblock.co/news/regulation/2026-08-27-uae-spy-sheikh-takes-49-stake-in-trump-familys-bank-venture-wsj-412971",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "OCC Conditional Approval #1385 (World Liberty Trust Company)",
+      "publisher": "OCC",
+      "url": "https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/cd1385.pdf",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Letter from Ranking Member Khanna to US Attorney Benjamin Wallace",
+      "publisher": "House Select Committee on the CCP (Democrats)",
+      "url": "https://democrats-selectcommitteeontheccp.house.gov/sites/evo-subsites/democrats-selectcommitteeontheccp.house.gov/files/evo-media-document/2-4-26-scc-letter-to-wallace.pdf",
+      "date": "2026-02-04"
+    },
+    {
+      "title": "Ranking Member Ro Khanna presses World Liberty Financial for information",
+      "publisher": "House Select Committee on the CCP (Democrats)",
+      "url": "https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/ranking-member-ro-khanna-presses-world-liberty-financial-information-trump",
+      "date": "2026-02-04"
+    },
+    {
+      "title": "Ro Khanna launches probe into $500M UAE deal with Trump-linked World Liberty Financial",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/357046/ro-khanna-launches-probe-into-500m-uae-deal-with-trump-linked-world-liberty-financial",
+      "date": "2026-02-05"
+    },
+    {
+      "title": "Warren/Kim letter to Bessent re CFIUS and WLF",
+      "publisher": "Senate Banking Committee (minority)",
+      "url": "https://www.banking.senate.gov/imo/media/doc/letter_to_bessent_re_cfius_wlf.pdf",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "Sens. Warren, Kim demand CFIUS review of UAE's reported $500 million stake in World Liberty Financial",
+      "publisher": "The Block (Reuters)",
+      "url": "https://www.theblock.co/post/389958/sens-warren-kim-demand-cfius-review-of-uaes-reported-500-million-stake-in-world-liberty-financial-reuters",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "President Trump says he was unaware of $500 million UAE investment in World Liberty Financial",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/deals/2026-02-03-president-trump-says-he-was-unaware-of-500-million-uae-investment-in-world-liberty-financial-388191",
+      "date": "2026-02-03"
+    },
+    {
+      "title": "Alpha Dhabi increases Aldar stake to become Abu Dhabi developer's parent",
+      "publisher": "The National",
+      "url": "https://www.thenationalnews.com/business/markets/2022/06/28/alpha-dhabi-increases-aldar-stake-to-become-abu-dhabi-developers-parent",
+      "date": "2022-06-28"
+    },
+    {
+      "title": "Abu Dhabi's IHC has no plans to sell Aldar stake, CEO says",
+      "publisher": "The National",
+      "url": "https://www.thenationalnews.com/business/property/2025/11/06/abu-dhabis-ihc-has-no-plans-to-sell-aldar-stake-ceo-says",
+      "date": "2025-11-06"
+    }
+  ],
+  "entities": [
+    {
+      "id": "eric-trump",
+      "name": "Eric Trump",
+      "type": "person",
+      "description": "Trump Organization EVP; promoted Abu Dhabi plans in Dec 2024 and signed the Aryam 49% WLF agreement."
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "President; ultimate owner of the DT Marks licensing entities."
+    },
+    {
+      "id": "trump-organization",
+      "name": "Trump Organization",
+      "type": "company",
+      "description": "Family company that licenses the Trump brand abroad through 'DT Marks <place>' LLCs."
+    },
+    {
+      "id": "dt-marks-abu-dhabi",
+      "name": "DT Marks Abu Dhabi LLC",
+      "type": "company",
+      "description": "Delaware licensing entity formed 30 Jan 2025; received a $5M Damac licence fee in 2025."
+    },
+    {
+      "id": "dt-marks-abu-dhabi-member-corp",
+      "name": "DT Marks Abu Dhabi Member Corp.",
+      "type": "company",
+      "description": "Delaware companion entity formed the same day as DT Marks Abu Dhabi LLC."
+    },
+    {
+      "id": "dt-marks-al-raha-beach",
+      "name": "DT Marks Al Raha Beach LLC",
+      "type": "company",
+      "description": "Delaware licensing entity formed July 2025 (same day as the data-centre permitting order, per CREW); received a $5M Damac licence fee."
+    },
+    {
+      "id": "damac-properties",
+      "name": "Damac Properties",
+      "type": "company",
+      "description": "Dubai developer controlled by Hussain Sajwani; long-time Trump licensee."
+    },
+    {
+      "id": "damac-properties-investment-llc",
+      "name": "Damac Properties Investment LLC",
+      "type": "company",
+      "description": "Damac subsidiary named as a payer of the 2025 Abu Dhabi licence fees."
+    },
+    {
+      "id": "damac-sky-view-real-estate-llc",
+      "name": "Damac Sky View Real Estate LLC",
+      "type": "company",
+      "description": "Damac subsidiary named as a payer of the 2025 Abu Dhabi licence fees."
+    },
+    {
+      "id": "hussain-sajwani",
+      "name": "Hussain Sajwani",
+      "type": "person",
+      "description": "Damac founder; pledged $20B+ for US data centres at Mar-a-Lago, 7 Jan 2025."
+    },
+    {
+      "id": "dar-global",
+      "name": "Dar Global",
+      "type": "company",
+      "description": "Dar Al Arkan's international arm; named in Dec 2024 as the hoped-for Abu Dhabi partner."
+    },
+    {
+      "id": "data-center-permitting-eo",
+      "name": "EO 'Accelerating Federal Permitting of Data Center Infrastructure'",
+      "type": "law",
+      "description": "July 2025 executive order speeding federal permitting for data centres."
+    },
+    {
+      "id": "aryam-investment-1",
+      "name": "Aryam Investment 1",
+      "type": "fund",
+      "description": "Tahnoon-backed vehicle that agreed ~16 Jan 2025 to buy 49% of WLF for $500M (WSJ)."
+    },
+    {
+      "id": "stringz-holding",
+      "name": "StringZ Holding RSC (DE) LLC",
+      "type": "fund",
+      "description": "Reported Tahnoon-backed holder of 49% of WLTC Holdings; registered Abu Dhabi Apr 2025, Delaware May 2025 (WSJ)."
+    },
+    {
+      "id": "wltc-holdings",
+      "name": "WLTC Holdings LLC",
+      "type": "company",
+      "description": "Delaware parent of World Liberty Trust Company, N.A."
+    },
+    {
+      "id": "world-liberty-financial",
+      "name": "World Liberty Financial",
+      "type": "company",
+      "description": "Trump-family crypto venture."
+    },
+    {
+      "id": "tahnoon-bin-zayed",
+      "name": "Sheikh Tahnoon bin Zayed Al Nahyan",
+      "type": "person",
+      "description": "UAE national security adviser; chairs IHC's parent group, MGX and G42; reported backer of Aryam and StringZ."
+    },
+    {
+      "id": "adgm",
+      "name": "Abu Dhabi Global Market",
+      "type": "government",
+      "description": "Abu Dhabi financial free zone whose registry uses the 'RSC' company category."
+    },
+    {
+      "id": "aldar-properties",
+      "name": "Aldar Properties",
+      "type": "company",
+      "description": "Abu Dhabi developer; master developer of Al Raha and other districts."
+    },
+    {
+      "id": "alpha-dhabi",
+      "name": "Alpha Dhabi Holding",
+      "type": "company",
+      "description": "IHC affiliate; Aldar's parent with ~30% stake."
+    },
+    {
+      "id": "international-holding-company",
+      "name": "International Holding Company",
+      "type": "company",
+      "description": "Abu Dhabi conglomerate in Tahnoon's Royal Group; owns ~45% of Alpha Dhabi."
+    },
+    {
+      "id": "ro-khanna",
+      "name": "Ro Khanna",
+      "type": "person",
+      "description": "Ranking member, House Select Committee on the CCP."
+    },
+    {
+      "id": "us-attorney-delaware",
+      "name": "US Attorney for the District of Delaware (Benjamin Wallace)",
+      "type": "government",
+      "description": "Recipient of Khanna's 4 Feb 2026 referral."
+    },
+    {
+      "id": "house-select-committee-ccp",
+      "name": "House Select Committee on the CCP",
+      "type": "government",
+      "description": "House committee whose minority opened the WLF inquiry."
+    },
+    {
+      "id": "zach-witkoff",
+      "name": "Zach Witkoff",
+      "type": "person",
+      "description": "WLF co-founder; WLTC chairman; recipient of Khanna's document request."
+    },
+    {
+      "id": "elizabeth-warren",
+      "name": "Elizabeth Warren",
+      "type": "person",
+      "description": "Senator; co-author of the CFIUS request."
+    },
+    {
+      "id": "andy-kim",
+      "name": "Andy Kim",
+      "type": "person",
+      "description": "Senator; co-author of the CFIUS request."
+    },
+    {
+      "id": "scott-bessent",
+      "name": "Scott Bessent",
+      "type": "person",
+      "description": "Treasury Secretary and CFIUS chair."
+    },
+    {
+      "id": "cfius",
+      "name": "CFIUS",
+      "type": "government",
+      "description": "Committee on Foreign Investment in the United States."
+    },
+    {
+      "id": "occ",
+      "name": "OCC",
+      "type": "government",
+      "description": "Bank regulator; conditionally approved World Liberty Trust Company (14 Aug 2026)."
+    },
+    {
+      "id": "crew",
+      "name": "Citizens for Responsibility and Ethics in Washington",
+      "type": "media",
+      "description": "Watchdog that matched the entity formation dates to the disclosure."
+    },
+    {
+      "id": "forbes",
+      "name": "Forbes",
+      "type": "media",
+      "description": "First reported the DT Marks Abu Dhabi formation (Jul 2025)."
+    },
+    {
+      "id": "wall-street-journal",
+      "name": "Wall Street Journal",
+      "type": "media",
+      "description": "Reported the Aryam and StringZ stakes."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "trump-organization",
+      "target": "dt-marks-abu-dhabi",
+      "label": "formed (Delaware) licensing entity",
+      "type": "ownership",
+      "date": "2025-01-30"
+    },
+    {
+      "source": "trump-organization",
+      "target": "dt-marks-abu-dhabi-member-corp",
+      "label": "formed (Delaware) member corp",
+      "type": "ownership",
+      "date": "2025-01-30"
+    },
+    {
+      "source": "dt-marks-abu-dhabi-member-corp",
+      "target": "dt-marks-abu-dhabi",
+      "label": "member entity of (by naming template; structure inferred)",
+      "type": "ownership",
+      "date": "2025-01-30"
+    },
+    {
+      "source": "trump-organization",
+      "target": "dt-marks-al-raha-beach",
+      "label": "formed (Delaware) licensing entity, same day as EO per CREW (single-source)",
+      "type": "ownership",
+      "date": "2025-07-23"
+    },
+    {
+      "source": "donald-trump",
+      "target": "dt-marks-abu-dhabi",
+      "label": "ultimate owner (reported on OGE disclosure)",
+      "type": "ownership",
+      "date": "2025"
+    },
+    {
+      "source": "damac-properties-investment-llc",
+      "target": "dt-marks-abu-dhabi",
+      "label": "paid licence fee (one of two $5M fees; payer-to-payee mapping not specified)",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 5000000
+    },
+    {
+      "source": "damac-sky-view-real-estate-llc",
+      "target": "dt-marks-al-raha-beach",
+      "label": "paid licence fee (one of two $5M fees; payer-to-payee mapping not specified)",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 5000000
+    },
+    {
+      "source": "damac-properties",
+      "target": "damac-properties-investment-llc",
+      "label": "parent of",
+      "type": "ownership"
+    },
+    {
+      "source": "damac-properties",
+      "target": "damac-sky-view-real-estate-llc",
+      "label": "parent of",
+      "type": "ownership"
+    },
+    {
+      "source": "hussain-sajwani",
+      "target": "damac-properties",
+      "label": "founder / controlling owner",
+      "type": "ownership"
+    },
+    {
+      "source": "hussain-sajwani",
+      "target": "donald-trump",
+      "label": "$20B+ US data-centre pledge announced with",
+      "type": "political",
+      "date": "2025-01-07",
+      "amount_usd": 20000000000
+    },
+    {
+      "source": "donald-trump",
+      "target": "data-center-permitting-eo",
+      "label": "signed",
+      "type": "regulatory",
+      "date": "2025-07-23"
+    },
+    {
+      "source": "eric-trump",
+      "target": "dar-global",
+      "label": "announced planned Abu Dhabi tower and golf community with",
+      "type": "commercial",
+      "date": "2024-12"
+    },
+    {
+      "source": "eric-trump",
+      "target": "aryam-investment-1",
+      "label": "signed 49% WLF sale agreement with",
+      "type": "commercial",
+      "date": "2025-01-16",
+      "amount_usd": 500000000
+    },
+    {
+      "source": "aryam-investment-1",
+      "target": "world-liberty-financial",
+      "label": "bought 49% of",
+      "type": "ownership",
+      "date": "2025-01-16",
+      "amount_usd": 500000000
+    },
+    {
+      "source": "tahnoon-bin-zayed",
+      "target": "aryam-investment-1",
+      "label": "reported backer of",
+      "type": "ownership"
+    },
+    {
+      "source": "tahnoon-bin-zayed",
+      "target": "stringz-holding",
+      "label": "reported backer of (WSJ, anonymous)",
+      "type": "ownership"
+    },
+    {
+      "source": "stringz-holding",
+      "target": "adgm",
+      "label": "registered in Abu Dhabi as RSC (WSJ, single-source; register entry not found)",
+      "type": "regulatory",
+      "date": "2025-04"
+    },
+    {
+      "source": "stringz-holding",
+      "target": "wltc-holdings",
+      "label": "holds 49% of (WSJ)",
+      "type": "ownership",
+      "date": "2026-08"
+    },
+    {
+      "source": "occ",
+      "target": "stringz-holding",
+      "label": "required passivity commitment from",
+      "type": "regulatory",
+      "date": "2026-08-14"
+    },
+    {
+      "source": "zach-witkoff",
+      "target": "wltc-holdings",
+      "label": "president and chairman",
+      "type": "advisory"
+    },
+    {
+      "source": "international-holding-company",
+      "target": "alpha-dhabi",
+      "label": "owns ~45% of",
+      "type": "ownership"
+    },
+    {
+      "source": "alpha-dhabi",
+      "target": "aldar-properties",
+      "label": "parent, ~30% stake",
+      "type": "ownership",
+      "date": "2022-06"
+    },
+    {
+      "source": "tahnoon-bin-zayed",
+      "target": "international-holding-company",
+      "label": "chairs parent Royal Group",
+      "type": "ownership"
+    },
+    {
+      "source": "ro-khanna",
+      "target": "us-attorney-delaware",
+      "label": "referred Emirati WLF investor's Delaware domicile to",
+      "type": "legal",
+      "date": "2026-02-04"
+    },
+    {
+      "source": "ro-khanna",
+      "target": "zach-witkoff",
+      "label": "requested WLF ownership and payment records from",
+      "type": "political",
+      "date": "2026-02-04"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "scott-bessent",
+      "label": "asked for CFIUS review of Aryam stake",
+      "type": "political",
+      "date": "2026-02-13"
+    },
+    {
+      "source": "andy-kim",
+      "target": "scott-bessent",
+      "label": "asked for CFIUS review of Aryam stake",
+      "type": "political",
+      "date": "2026-02-13"
+    },
+    {
+      "source": "scott-bessent",
+      "target": "cfius",
+      "label": "chairs",
+      "type": "regulatory"
+    }
+  ],
+  "leads": [
+    {
+      "title": "Trump licensing entities for unannounced Serbia and Hungary deals",
+      "why_connected": "Forbes found Delaware filings for unannounced deals in Serbia and Hungary alongside DT Marks Abu Dhabi. Serbia ties to Kushner's collapsed Belgrade project (C70); Hungary to the Orban government.",
+      "entities": [
+        "trump-organization",
+        "forbes"
+      ],
+      "source_url": "https://www.forbes.com/sites/danalexander/2025/07/24/wed-call-that-corruption-how-trump-used-the-presidency-to-expand-his-global-empire/"
+    },
+    {
+      "title": "What Damac's Al Raha Beach 'estate project' is and whose land it sits on",
+      "why_connected": "The National describes the $5M fee as tied to an Al Raha Beach estate project. If the site is Aldar or IHC land, the Damac fee would sit inside a Tahnoon-group property chain. Unverified.",
+      "entities": [
+        "damac-properties",
+        "dt-marks-al-raha-beach",
+        "aldar-properties",
+        "international-holding-company"
+      ],
+      "source_url": "https://www.thenationalnews.com/business/2026/07/01/gulf-developers-bring-windfall-to-trump-family/"
+    },
+    {
+      "title": "Registry pull: ADGM and Delaware filings for StringZ Holding RSC and Aryam Investment 1",
+      "why_connected": "Officers, registered agents and addresses would settle whether the two 49% vehicles share management. That needs direct registry access, which was not available here.",
+      "entities": [
+        "stringz-holding",
+        "aryam-investment-1",
+        "adgm"
+      ],
+      "source_url": "https://www.adgm.com/registration-authority/registration-and-incorporation"
+    }
+  ],
+  "audit": {
+    "checked": [
+      "Formation date of DT Marks Abu Dhabi LLC and Member Corp (30 Jan 2025)",
+      "Damac subsidiaries' two $5M licence fees",
+      "StringZ Holding RSC registration dates (single-source)",
+      "Outcome of Khanna's referral to the Delaware US Attorney"
+    ],
+    "result": "upheld",
+    "changes": [
+      "30 Jan 2025 formation upheld via Forbes's own post and Forbes Türkiye.",
+      "Two $5M Damac fees upheld (CREW, CNBC via Times Brasil); noted CNBC's $11.3M vs CREW/National ~$12.5M total in sub-claim 2 (already in the report timeline).",
+      "StringZ dates still single-source (WSJ relays); added single-source tags to the StringZ->ADGM and DT Marks Al Raha Beach relationship labels so they match the findings.",
+      "Khanna referral: no reply from the US Attorney, opened matter or WLF production found through Nov 2026."
+    ],
+    "new_sources": [
+      {
+        "title": "ABD Başkanı Trump makamını işlerini büyütmek için nasıl kullanıyor",
+        "publisher": "Forbes Türkiye",
+        "url": "https://www.forbes.com.tr/dunya/abd-baskani-trump-makamini-islerini-buyutmek-icin-nasil-kullaniyor",
+        "date": "2025"
+      },
+      {
+        "title": "Negócio de licenciamento imobiliário de Trump no exterior dispara para US$ 59,5 milhões (CNBC)",
+        "publisher": "Times Brasil / CNBC",
+        "url": "https://timesbrasil.com.br/mundo/negocio-de-licenciamento-imobiliario-de-trump-no-exterior-dispara-para-us-595-milhoes-com-pagamentos-de-incorporadoras-do-golfo/",
+        "date": "2026-07"
+      },
+      {
+        "title": "House launches probe into $500 million UAE deal linked to World Liberty Financial",
+        "publisher": "The Block",
+        "url": "https://www.theblock.co/post/388607/house-launches-probe-world-liberty-financial",
+        "date": "2026-02"
+      }
+    ]
+  }
+}

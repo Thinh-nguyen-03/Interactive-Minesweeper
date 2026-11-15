@@ -1,0 +1,495 @@
+{
+  "id": "C01",
+  "title": "$TRUMP meme coin",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "Trump launched the official $TRUMP meme coin on the evening of January 17, 2025, about 2.5 days before his inauguration. His own 2025 OGE financial disclosure reports about $635-636M in meme-coin royalty and licensing income through CIC Digital LLC, so the '$600M' figure is a slight understatement of self-reported gross income. TRUMP (about 95% down in early 2026, about 98% by November 2026) and MELANIA (about 99% down) have collapsed, and on-chain data shows most buyers lost money, though no exact share exists. Trump did make the 'lead or China takes over' remark (CNBC, July 2026). The suggestion that he launched the coin 'so China wouldn't do it first' is a sarcastic paraphrase of that remark, not something Trump said.",
+  "sub_claims": [
+    {
+      "statement": "Trump launched an official meme coin two days before taking office.",
+      "verdict": "confirmed",
+      "finding": "Announced on Truth Social and X on the evening of Friday, Jan 17, 2025 (Jan 18 UTC); inauguration Jan 20. CIC Digital LLC and Fight Fight Fight LLC held 80% of the supply, locked and vesting over three years; 200M of the planned 1B tokens were released at launch.",
+      "sources": [
+        "https://fortune.com/crypto/2025/01/18/trump-memecoin-crypto-7-billion-solana-president-inauguration/",
+        "https://m.washingtontimes.com/news/2025/jan/18/trump-launches-his-own-crypto-meme-coin-rakes-in-b/",
+        "https://www.theblock.co/post/335541/trump-launched-his-own-memecoin-what-is-going-on"
+      ]
+    },
+    {
+      "statement": "The president raked in $600 million from the Trump coin.",
+      "verdict": "mostly-accurate",
+      "finding": "The 2025 OGE disclosure (released 2026-06-30) lists 'Celebration Coins' royalties of $635,068,835 via CIC Digital LLC (about $636.1M on the CIC Digital licensing and crypto line). This is gross licensing income Trump reported himself. Earlier outside estimates ranged from about $315M (Forbes) to more than $800M (Conor Grogan).",
+      "sources": [
+        "https://www.cnbc.com/2026/06/30/trump-financial-disclosure-released.html",
+        "https://startupfortune.com/trumps-financial-disclosure-shows-635-million-in-meme-coin-royalties-while-retail-buyers-lost-more-than-700-million/",
+        "https://time.com/article/2026/07/01/trump-2025-financial-disclosure-crypto-world-liberty-financial/"
+      ]
+    },
+    {
+      "statement": "Money flowed through shell companies, which Molly White tracked.",
+      "verdict": "partly-accurate",
+      "finding": "Proceeds flow through LLCs: CIC Digital LLC (a Trump Organization affiliate) and Fight Fight Fight LLC (run by Bill Zanker). 'Shell companies' is a pejorative label. Molly White's Citation Needed newsletter analyzed the disclosure; her specific entity tracking was not independently located.",
+      "sources": [
+        "https://www.citationneeded.news/trumps-crypto-disclosure/",
+        "https://www.democracynow.org/2025/5/6/molly_white_crypto_trump_memecoin_ethics"
+      ]
+    },
+    {
+      "statement": "Melania reported $6 million on her coin and NFTs.",
+      "verdict": "mostly-accurate",
+      "finding": "The 2025 OGE filing shows more than $6M from NFTs and 'other collectibles' under a Designers Manager license. The filing does not name $MELANIA; linking the income to the coin is an analyst inference (CAP).",
+      "sources": [
+        "https://fortune.com/2026/07/01/melania-trump-nft-earnings-surge-filing-shows/",
+        "https://www.americanprogress.org/wp-content/uploads/sites/2/2026/07/2026-07-16-Memo-on-Understanding-Trumps-Crypto-Wealth-Updated-Google-Docs.pdf"
+      ]
+    },
+    {
+      "statement": "Asked about his family's crypto, Trump said the US must be at the top or China will take it over.",
+      "verdict": "confirmed",
+      "finding": "In a White House interview with CNBC's Joe Kernen around July 2, 2026, Trump said he 'could know' about the ventures but didn't, called them 'nothing illegal,' and said the US must lead or 'China's going to take it over.' He was talking about crypto generally, not giving a reason for the meme coin.",
+      "sources": [
+        "https://www.mediaite.com/media/tv/trump-defends-his-1-4-billion-crypto-profits-claims-he-doesnt-know-the-details-while-maintaining-i-could-know/",
+        "https://www.yahoo.com/news/politics/articles/trump-says-didnt-know-windfall-234408615.html"
+      ]
+    },
+    {
+      "statement": "TRUMP has lost about 95% of its value; MELANIA about 99%.",
+      "verdict": "confirmed",
+      "finding": "TRUMP peaked at about $73.43 on 2025-01-19. It was about 95% down in early 2026 and about 98% down by November 2026, with reported record lows of about $1.11-1.22 between Nov 4 and Nov 10 (outlets differ; the earlier write-up's $1.05-1.10 for Nov 9-13 could not be re-confirmed). MELANIA peaked at about $13.73 and is about 99% down.",
+      "sources": [
+        "https://247wallst.com/investing/cryptocurrency/2026/11/09/the-trump-coin-just-hit-an-all-time-low-down-98-from-its-peak-will-trump-coin-ever-go-back-up/",
+        "https://decrypt.co/342717/melania-trump-meme-coin-jumps-after-first-lady-promotes?amp=1",
+        "https://www.mitrade.com/insights/news/live-news/article-3-2230858-20261105"
+      ]
+    },
+    {
+      "statement": "Buyers, unless very early, have almost exclusively lost money.",
+      "verdict": "mostly-accurate",
+      "finding": "In May 2025 Chainalysis data (via CNBC) showed about 764,000 of roughly 2M buyer wallets at a loss, while 58 wallets made more than $10M each (about $1.1B combined). Prices have fallen much further since. Retail losses across TRUMP and MELANIA are estimated at about $4.3B. Wallet counts are not people, and no exact share of losing buyers exists.",
+      "sources": [
+        "https://www.nbcnews.com/tech/crypto/58-crypto-wallets-made-millions-trumps-meme-coin-764000-lost-money-dat-rcna205237",
+        "https://beincrypto.com/trump-meme-coins-took-4-billion-from-retail-investors"
+      ]
+    }
+  ],
+  "corrections": [
+    "Claimed: 'two days' before taking office. The record shows: the launch was the evening of Jan 17, 2025 (ET), about 2.5 days before the Jan 20 inauguration.",
+    "Claimed: $600M. The record shows: Trump's own 2025 disclosure reports about $635-636M in gross meme-coin royalty and licensing income via CIC Digital.",
+    "Claimed: TRUMP is down about 95%. The record shows: that was accurate in early 2026, but by November 2026 it was about 98% below its peak.",
+    "The China remark was about crypto generally (CNBC, July 2026), not a stated reason for launching the meme coin."
+  ],
+  "denials_and_context": [
+    "Trump said on Truth Social that the coin was not intended to be an investment opportunity.",
+    "The White House says Trump's assets are held in a trust managed by his children and that ethics rules are followed. Trump told CNBC it is 'nothing illegal' and that Eric Trump and outside managers run the businesses.",
+    "The income figures come from Trump's self-reported gross licensing income, not audited profit. Estimates from other methods range from about $315M to more than $800M.",
+    "Critics, including the WSJ editorial board, called the arrangement an 'unseemly display of using the Presidency for family profit.'"
+  ],
+  "sources": [
+    {
+      "title": "Trump's annual financial disclosure shows more than $580M in crypto-related income",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/30/trump-financial-disclosure-released.html",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "Trump Reports Over $1 Billion in Income From Crypto Ventures",
+      "publisher": "TIME",
+      "url": "https://time.com/article/2026/07/01/trump-2025-financial-disclosure-crypto-world-liberty-financial/",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "Donald Trump's financial disclosure, cryptocurrency profits: What to know",
+      "publisher": "The Hill",
+      "url": "https://thehill.com/homenews/administration/5949500-trump-financial-disclosure-crypto/",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "Trump's financial disclosure shows $635 million in meme coin royalties while retail buyers lost more than $700 million",
+      "publisher": "Startup Fortune",
+      "url": "https://startupfortune.com/trumps-financial-disclosure-shows-635-million-in-meme-coin-royalties-while-retail-buyers-lost-more-than-700-million/",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "Melania Trump NFT earnings surge, filing shows",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/2026/07/01/melania-trump-nft-earnings-surge-filing-shows/",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "Memo on Understanding Trump's Crypto Wealth (updated)",
+      "publisher": "Center for American Progress",
+      "url": "https://www.americanprogress.org/wp-content/uploads/sites/2/2026/07/2026-07-16-Memo-on-Understanding-Trumps-Crypto-Wealth-Updated-Google-Docs.pdf",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Trump's crypto disclosure",
+      "publisher": "Citation Needed (Molly White)",
+      "url": "https://www.citationneeded.news/trumps-crypto-disclosure/",
+      "date": "2026-07"
+    },
+    {
+      "title": "Molly White on crypto, Trump memecoin and ethics",
+      "publisher": "Democracy Now",
+      "url": "https://www.democracynow.org/2025/5/6/molly_white_crypto_trump_memecoin_ethics",
+      "date": "2025-05-06"
+    },
+    {
+      "title": "Trump Defends His $1.4 Billion Crypto Profits — Claims He Doesn't Know the Details While Maintaining 'I Could Know'",
+      "publisher": "Mediaite",
+      "url": "https://www.mediaite.com/media/tv/trump-defends-his-1-4-billion-crypto-profits-claims-he-doesnt-know-the-details-while-maintaining-i-could-know/",
+      "date": "2026-07-02"
+    },
+    {
+      "title": "Trump says he didn't know about windfall from family's crypto ventures",
+      "publisher": "Yahoo News",
+      "url": "https://www.yahoo.com/news/politics/articles/trump-says-didnt-know-windfall-234408615.html",
+      "date": "2026-07"
+    },
+    {
+      "title": "Trump memecoin hits $7 billion ahead of inauguration",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/crypto/2025/01/18/trump-memecoin-crypto-7-billion-solana-president-inauguration/",
+      "date": "2025-01-18"
+    },
+    {
+      "title": "Trump launches his own crypto meme coin",
+      "publisher": "Washington Times",
+      "url": "https://m.washingtontimes.com/news/2025/jan/18/trump-launches-his-own-crypto-meme-coin-rakes-in-b/",
+      "date": "2025-01-18"
+    },
+    {
+      "title": "Trump launched his own memecoin. What is going on?",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/335541/trump-launched-his-own-memecoin-what-is-going-on",
+      "date": "2025-01-18"
+    },
+    {
+      "title": "58 crypto wallets have made millions on Trump's meme coin while 764,000 have lost money, data shows",
+      "publisher": "NBC News / CNBC",
+      "url": "https://www.nbcnews.com/tech/crypto/58-crypto-wallets-made-millions-trumps-meme-coin-764000-lost-money-dat-rcna205237",
+      "date": "2025-05-06"
+    },
+    {
+      "title": "The TRUMP Coin Just Hit an All-Time Low, Down 98% From Its Peak",
+      "publisher": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/11/09/the-trump-coin-just-hit-an-all-time-low-down-98-from-its-peak-will-trump-coin-ever-go-back-up/",
+      "date": "2026-11-09"
+    },
+    {
+      "title": "Melania Trump Meme Coin Jumps After First Lady Promotes It, Still Down 99% From Peak",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/342717/melania-trump-meme-coin-jumps-after-first-lady-promotes?amp=1",
+      "date": ""
+    },
+    {
+      "title": "TRUMP and MELANIA Meme Coins Leave Retail Investors With $4.3 Billion Loss",
+      "publisher": "BeInCrypto",
+      "url": "https://beincrypto.com/trump-meme-coins-took-4-billion-from-retail-investors",
+      "date": ""
+    },
+    {
+      "title": "$324M in fees and no roadmap: what's really going on with the TRUMP memecoin",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/explained/324m-in-fees-and-no-roadmap-whats-really-going-on-with-the-trump-memecoin",
+      "date": ""
+    },
+    {
+      "title": "One Corner of Crypto Missed the Post-Election Rally, and It Carries Trump's Name",
+      "publisher": "Mitrade (wire reprint)",
+      "url": "https://www.mitrade.com/insights/news/live-news/article-3-2230858-20261105",
+      "date": "2026-11-05"
+    }
+  ],
+  "entities": [
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "47th US president; launched $TRUMP meme coin Jan 17, 2025"
+    },
+    {
+      "id": "melania-trump",
+      "name": "Melania Trump",
+      "type": "person",
+      "description": "First Lady; associated with $MELANIA coin and NFT licensing income"
+    },
+    {
+      "id": "eric-trump",
+      "name": "Eric Trump",
+      "type": "person",
+      "description": "Runs Trump Organization businesses; cited by Trump as handling ventures"
+    },
+    {
+      "id": "trump-coin",
+      "name": "$TRUMP (Official Trump)",
+      "type": "asset",
+      "description": "Solana meme coin; peak ~$73.43 (2025-01-19), ~98% down by Nov 2026"
+    },
+    {
+      "id": "melania-coin",
+      "name": "$MELANIA",
+      "type": "asset",
+      "description": "Melania-branded meme coin; ~99% below peak"
+    },
+    {
+      "id": "cic-digital",
+      "name": "CIC Digital LLC",
+      "type": "company",
+      "description": "Trump Organization affiliate; co-holder of 80% of TRUMP supply; recipient of ~$635M royalties"
+    },
+    {
+      "id": "fight-fight-fight-llc",
+      "name": "Fight Fight Fight LLC",
+      "type": "company",
+      "description": "Co-issuer of $TRUMP, run by Bill Zanker"
+    },
+    {
+      "id": "bill-zanker",
+      "name": "Bill Zanker",
+      "type": "person",
+      "description": "Longtime Trump business partner behind Fight Fight Fight LLC"
+    },
+    {
+      "id": "designers-manager",
+      "name": "Designers Manager",
+      "type": "company",
+      "description": "Licensee in Melania's disclosure for NFTs and collectibles (>$6M)"
+    },
+    {
+      "id": "trump-organization",
+      "name": "Trump Organization",
+      "type": "company",
+      "description": "Trump family business; CIC Digital is an affiliate"
+    },
+    {
+      "id": "molly-white",
+      "name": "Molly White",
+      "type": "person",
+      "description": "Crypto researcher, Citation Needed newsletter; tracks Trump crypto income"
+    },
+    {
+      "id": "coffeezilla",
+      "name": "Coffeezilla",
+      "type": "media",
+      "description": "Online investigator and commentator.",
+      "hidden": true
+    },
+    {
+      "id": "joe-kernen",
+      "name": "Joe Kernen",
+      "type": "person",
+      "description": "CNBC anchor who interviewed Trump ~July 2, 2026"
+    },
+    {
+      "id": "cnbc",
+      "name": "CNBC",
+      "type": "media",
+      "description": "Broadcaster of Trump interview; reported Chainalysis wallet data"
+    },
+    {
+      "id": "chainalysis",
+      "name": "Chainalysis",
+      "type": "company",
+      "description": "Blockchain analytics firm; wallet profit/loss data on TRUMP"
+    },
+    {
+      "id": "office-of-government-ethics",
+      "name": "US Office of Government Ethics",
+      "type": "government",
+      "description": "Released Trump's 2025 financial disclosure on 2026-06-30"
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Says president's assets are in a trust run by his children"
+    },
+    {
+      "id": "china",
+      "name": "China",
+      "type": "country",
+      "description": "Invoked by Trump as crypto rival"
+    },
+    {
+      "id": "trump-2025-financial-disclosure",
+      "name": "Trump 2025 OGE financial disclosure",
+      "type": "event",
+      "description": "Annual filing released June 30, 2026, reporting ~$635M meme-coin royalties"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "donald-trump",
+      "target": "trump-coin",
+      "label": "launched and promoted",
+      "type": "commercial",
+      "date": "2025-01-17"
+    },
+    {
+      "source": "cic-digital",
+      "target": "trump-coin",
+      "label": "co-holds 80% of supply (with Fight Fight Fight)",
+      "type": "ownership",
+      "date": "2025-01-17"
+    },
+    {
+      "source": "fight-fight-fight-llc",
+      "target": "trump-coin",
+      "label": "co-issuer / co-holds 80% of supply",
+      "type": "ownership",
+      "date": "2025-01-17"
+    },
+    {
+      "source": "bill-zanker",
+      "target": "fight-fight-fight-llc",
+      "label": "runs",
+      "type": "ownership"
+    },
+    {
+      "source": "trump-organization",
+      "target": "cic-digital",
+      "label": "affiliate",
+      "type": "ownership"
+    },
+    {
+      "source": "cic-digital",
+      "target": "donald-trump",
+      "label": "reported 'Celebration Coins' royalties of $635,068,835 for 2025",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 635068835
+    },
+    {
+      "source": "designers-manager",
+      "target": "melania-trump",
+      "label": "paid >$6M for NFTs/collectibles license in 2025",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 6000000
+    },
+    {
+      "source": "melania-trump",
+      "target": "melania-coin",
+      "label": "promoted",
+      "type": "commercial",
+      "date": "2025-01-19"
+    },
+    {
+      "source": "donald-trump",
+      "target": "melania-trump",
+      "label": "spouse",
+      "type": "family"
+    },
+    {
+      "source": "donald-trump",
+      "target": "eric-trump",
+      "label": "father of",
+      "type": "family"
+    },
+    {
+      "source": "eric-trump",
+      "target": "trump-organization",
+      "label": "runs",
+      "type": "ownership"
+    },
+    {
+      "source": "office-of-government-ethics",
+      "target": "trump-2025-financial-disclosure",
+      "label": "released",
+      "type": "regulatory",
+      "date": "2026-06-30"
+    },
+    {
+      "source": "trump-2025-financial-disclosure",
+      "target": "donald-trump",
+      "label": "discloses income of",
+      "type": "regulatory",
+      "date": "2026-06-30"
+    },
+    {
+      "source": "joe-kernen",
+      "target": "donald-trump",
+      "label": "interviewed on family crypto ventures",
+      "type": "media",
+      "date": "2026-07-02"
+    },
+    {
+      "source": "cnbc",
+      "target": "joe-kernen",
+      "label": "employs",
+      "type": "media"
+    },
+    {
+      "source": "donald-trump",
+      "target": "china",
+      "label": "cast crypto as race with",
+      "type": "political",
+      "date": "2026-07-02"
+    },
+    {
+      "source": "chainalysis",
+      "target": "trump-coin",
+      "label": "found ~764k of ~2M wallets at a loss; 58 wallets >$10M gains",
+      "type": "media",
+      "date": "2025-05-06"
+    },
+    {
+      "source": "molly-white",
+      "target": "donald-trump",
+      "label": "tracks and criticizes crypto income of",
+      "type": "media"
+    },
+    {
+      "source": "coffeezilla",
+      "target": "molly-white",
+      "label": "cites research of",
+      "type": "media",
+      "hidden": true
+    },
+    {
+      "source": "white-house",
+      "target": "donald-trump",
+      "label": "defends ethics arrangements of",
+      "type": "political"
+    }
+  ],
+  "audit": {
+    "checked": [
+      "OGE 2025 disclosure: ~$635-636M meme-coin royalties via CIC Digital (released 2026-06-30)",
+      "Trump CNBC (Joe Kernen) July 2, 2026 remark: 'we have to be at the top, otherwise China's going to take it over'",
+      "TRUMP price/drawdown in November 2026"
+    ],
+    "result": "upheld",
+    "changes": [
+      "Softened the exact November 2026 TRUMP price: fresh reports put record lows at about $1.11-1.12 (Nov 8-10) and $1.22 (Nov 4), not $1.05-1.10; the ~98% drawdown stands.",
+      "Disclosure figure and China quote re-confirmed by independent outlets (Fox Business, Honolulu Star-Advertiser/AP, IBTimes, Daily Guardian). Fresh coverage also notes the same filing reports ~$526M from WLF token sales and >$1.2-1.4B total crypto income.",
+      "Second-pass audit was cut short: the shared web-search budget ran out partway through, and direct fetches of sec.gov and theblock.co were blocked, so only the assertions listed here were re-checked."
+    ],
+    "new_sources": [
+      {
+        "title": "Trump financial disclosure reveals more than $1B in crypto income during first year back in office",
+        "publisher": "Fox Business",
+        "url": "https://www.foxbusiness.com/politics/trump-financial-disclosure-reveals-more-than-1b-crypto-income-during-first-year-back-office",
+        "date": "2026-06-30"
+      },
+      {
+        "title": "Trump reports at least $1.4 billion in 2025 crypto earnings",
+        "publisher": "Honolulu Star-Advertiser",
+        "url": "https://www.staradvertiser.com/2026/06/30/breaking-news/trump-reports-at-least-1-4-billion-in-2025-crypto-earnings/",
+        "date": "2026-06-30"
+      },
+      {
+        "title": "Trump defends family crypto ventures",
+        "publisher": "IBTimes UK",
+        "url": "https://www.ibtimes.co.uk/trump-defends-family-crypto-ventures-1806732",
+        "date": "2026-07-03"
+      },
+      {
+        "title": "One Corner of Crypto Missed the Post-Election Rally, and It Carries Trump's Name",
+        "publisher": "Mitrade (wire reprint)",
+        "url": "https://www.mitrade.com/insights/news/live-news/article-3-2230858-20261105",
+        "date": "2026-11-05"
+      }
+    ]
+  }
+}

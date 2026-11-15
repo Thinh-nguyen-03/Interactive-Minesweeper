@@ -1,0 +1,369 @@
+{
+  "id": "C19",
+  "title": "Strategic Bitcoin Reserve, TMTG treasury, Cumberland/Don Wilson",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "Trump signed EO 14233 creating a Strategic Bitcoin Reserve on 2025-03-06, and the SEC dismissed its Cumberland DRW case with prejudice on 2025-03-27. TMTG announced a ~$2.5B bitcoin-treasury raise on 2025-05-27, which closed at ~$2.44B gross. DRW Investments (Don Wilson's firm) bought ~4M TMTG shares (~$100M) as part of it. The timing is loose ('around that time' is ~12 weeks), the investor was DRW rather than Wilson personally, and the dismissal was agreed in principle on 2025-02-20, before the TMTG deal was public. No quid pro quo is documented beyond the sequence of events.",
+  "sub_claims": [
+    {
+      "statement": "Trump signed an executive order creating a Strategic Bitcoin Reserve.",
+      "verdict": "confirmed",
+      "finding": "EO 14233 was signed 2025-03-06. It funds the reserve with forfeited government BTC that may not be sold; any further buying must be budget-neutral.",
+      "sources": [
+        "https://www.whitehouse.gov/presidential-actions/2025/03/establishment-of-the-strategic-bitcoin-reserve-and-united-states-digital-asset-stockpile/",
+        "https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-establishes-the-strategic-bitcoin-reserve-and-u-s-digital-asset-stockpile/"
+      ]
+    },
+    {
+      "statement": "Around that time TMTG announced a $2.5B raise to establish its own bitcoin reserve.",
+      "verdict": "mostly-accurate",
+      "finding": "TMTG announced the plan on 2025-05-27, about 12 weeks after the EO: ~$1.5B in stock plus $1B in convertible notes from ~50 institutions. It closed on 2025-05-30 at ~$2.44B gross (~$2.32B net).",
+      "sources": [
+        "https://www.nbcnews.com/business/markets/trump-media-raising-billions-bitcoin-rcna209250",
+        "https://www.theblock.co/post/355829/trump-media-establishes-corporate-bitcoin-treasury-with-2-5-billion-offering",
+        "https://www.crowdfundinsider.com/2025/05/240546-trump-media-closes-on-private-placement-raising-2-44-billion/"
+      ]
+    },
+    {
+      "statement": "Don Wilson is one of the TMTG investors.",
+      "verdict": "confirmed",
+      "finding": "Per FT-cited reports and SEC filings (June 2025), DRW Investments, founded and controlled by Wilson, bought nearly 4M TMTG shares worth ~$100M in the bitcoin-treasury financing. Jane Street (~$375M) was the largest buyer.",
+      "sources": [
+        "https://coingape.com/trump-media-secures-100m-investment-from-drw-to-fund-its-2-5-billion-bitcoin-bet",
+        "https://en.bitcoinsistemi.com/new-developments-regarding-donald-trumps-2-billion-bitcoin-move/amp",
+        "https://cryptoslate.com/sec-greenlights-trump-medias-2-3b-bitcoin-treasury-deal/"
+      ]
+    },
+    {
+      "statement": "Weeks earlier, the SEC enforcement case against Wilson's crypto firm Cumberland was dismissed with prejudice.",
+      "verdict": "confirmed",
+      "finding": "The SEC sued Cumberland DRW in October 2024 (unregistered dealer, >$2B in crypto). Dismissal was agreed in principle on 2025-02-20 and announced on 2025-03-04. The joint stipulation to dismiss with prejudice was filed 2025-03-27 (LR-26276), with no admission and no penalty. That was ~8-9 weeks before the TMTG purchase.",
+      "sources": [
+        "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26276",
+        "https://www.sec.gov/files/litigation/litreleases/2025/lr-26276-joint-stipulation.pdf",
+        "https://www.theblock.co/post/344571/sec-moves-to-drop-lawsuit-against-cumberland-drw-marking-latest-crypto-probe-dissolved-under-trump-administration",
+        "https://decrypt.co/312072/sec-drops-cases-kraken-consensys-cumberland-drw",
+        "https://chicagomaroon.com/46949/news/sec-drops-charges-against-uchicago-trustees-crypto-trading-firm/"
+      ]
+    },
+    {
+      "statement": "Cumberland denied any quid pro quo or connection between the TMTG investment and the SEC dismissal.",
+      "verdict": "unverified",
+      "finding": "The denial was given privately in response to a request for comment and cannot be independently checked. It is consistent with DRW's public statements that the stake was a strategic balance-sheet decision and that Wilson has long called for a clear regulatory framework.",
+      "sources": [
+        "https://coingape.com/trump-media-secures-100m-investment-from-drw-to-fund-its-2-5-billion-bitcoin-bet",
+        "https://en.bitcoinsistemi.com/new-developments-regarding-donald-trumps-2-billion-bitcoin-move/amp"
+      ]
+    }
+  ],
+  "corrections": [
+    "Claimed: the TMTG raise came 'around that time' as the EO. The record shows: the EO was signed 2025-03-06 and TMTG announced on 2025-05-27, about 12 weeks later.",
+    "Claimed: '$2.5 billion raised'. The record shows: that was the announced size; the deal closed at ~$2.44B gross (~$2.32B net).",
+    "Claimed: Don Wilson invested. The record shows: the documented buyer is DRW Investments, his firm; Cumberland is DRW's crypto unit.",
+    "The Cumberland dismissal was agreed in principle with SEC staff on 2025-02-20 and announced 2025-03-04, before TMTG's treasury plan was public."
+  ],
+  "denials_and_context": [
+    "Cumberland/DRW deny any connection and say the TMTG stake was a bitcoin balance-sheet decision.",
+    "The SEC dropped the case as part of a broad retreat from Gensler-era crypto cases; Kraken, Consensys and Coinbase cases were dropped around the same time.",
+    "About 50 institutions took part in the raise; Jane Street's ~$375M was nearly four times DRW's stake.",
+    "TMTG is controlled by Donald J. Trump's revocable trust, so investing in it benefits the President's business; CREW raised 'policy-for-investment' concerns. No quid pro quo is documented, and the link is timing only."
+  ],
+  "sources": [
+    {
+      "title": "Establishment of the Strategic Bitcoin Reserve and United States Digital Asset Stockpile",
+      "publisher": "The White House",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/03/establishment-of-the-strategic-bitcoin-reserve-and-united-states-digital-asset-stockpile/",
+      "date": "2025-03-06"
+    },
+    {
+      "title": "Fact Sheet: President Donald J. Trump Establishes the Strategic Bitcoin Reserve and U.S. Digital Asset Stockpile",
+      "publisher": "The White House",
+      "url": "https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-establishes-the-strategic-bitcoin-reserve-and-u-s-digital-asset-stockpile/",
+      "date": "2025-03-06"
+    },
+    {
+      "title": "Trump Media says it's raising $2.5 billion to buy bitcoin",
+      "publisher": "NBC News",
+      "url": "https://www.nbcnews.com/business/markets/trump-media-raising-billions-bitcoin-rcna209250",
+      "date": "2025-05-27"
+    },
+    {
+      "title": "Trump Media establishes corporate bitcoin treasury with $2.5 billion offering",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/355829/trump-media-establishes-corporate-bitcoin-treasury-with-2-5-billion-offering",
+      "date": "2025-05-27"
+    },
+    {
+      "title": "Trump Media Closes on Private Placement Raising $2.44 Billion",
+      "publisher": "Crowdfund Insider",
+      "url": "https://www.crowdfundinsider.com/2025/05/240546-trump-media-closes-on-private-placement-raising-2-44-billion/",
+      "date": "2025-05-30"
+    },
+    {
+      "title": "SEC greenlights Trump Media's $2.3B Bitcoin Treasury deal",
+      "publisher": "CryptoSlate",
+      "url": "https://cryptoslate.com/sec-greenlights-trump-medias-2-3b-bitcoin-treasury-deal/",
+      "date": "2025-06-16"
+    },
+    {
+      "title": "Trump Media secures $100M investment from DRW to fund its $2.5 billion bitcoin bet",
+      "publisher": "CoinGape",
+      "url": "https://coingape.com/trump-media-secures-100m-investment-from-drw-to-fund-its-2-5-billion-bitcoin-bet",
+      "date": "2025-06-14"
+    },
+    {
+      "title": "New Developments Regarding Donald Trump's $2 Billion Bitcoin Move",
+      "publisher": "Bitcoinsistemi",
+      "url": "https://en.bitcoinsistemi.com/new-developments-regarding-donald-trumps-2-billion-bitcoin-move/amp",
+      "date": "2025-06-14"
+    },
+    {
+      "title": "SEC moves to drop lawsuit against Cumberland DRW",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/344571/sec-moves-to-drop-lawsuit-against-cumberland-drw-marking-latest-crypto-probe-dissolved-under-trump-administration",
+      "date": "2025-03-04"
+    },
+    {
+      "title": "Litigation Release LR-26276: Cumberland DRW LLC",
+      "publisher": "U.S. SEC",
+      "url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26276",
+      "date": "2025-03-27"
+    },
+    {
+      "title": "LR-26276 Joint Stipulation",
+      "publisher": "U.S. SEC",
+      "url": "https://www.sec.gov/files/litigation/litreleases/2025/lr-26276-joint-stipulation.pdf",
+      "date": "2025-03-27"
+    },
+    {
+      "title": "SEC officially drops cases against Kraken, Consensys and Cumberland DRW",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/312072/sec-drops-cases-kraken-consensys-cumberland-drw",
+      "date": "2025-03-28"
+    },
+    {
+      "title": "SEC drops charges against UChicago trustee's crypto trading firm",
+      "publisher": "Chicago Maroon",
+      "url": "https://chicagomaroon.com/46949/news/sec-drops-charges-against-uchicago-trustees-crypto-trading-firm/",
+      "date": "2025-04"
+    },
+    {
+      "title": "BlockTempo report citing CREW concerns",
+      "publisher": "BlockTempo",
+      "url": "https://www.blocktempo.com/?p=424204",
+      "date": "2025-06"
+    }
+  ],
+  "entities": [
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "U.S. President; signed EO 14233; his revocable trust controls TMTG"
+    },
+    {
+      "id": "white-house",
+      "name": "The White House",
+      "type": "government",
+      "description": "Issued the Strategic Bitcoin Reserve executive order"
+    },
+    {
+      "id": "strategic-bitcoin-reserve",
+      "name": "Strategic Bitcoin Reserve",
+      "type": "law",
+      "description": "Created by EO 14233 on 2025-03-06 from forfeited government BTC"
+    },
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "type": "asset",
+      "description": "Asset held by the federal reserve stockpile and by TMTG's treasury"
+    },
+    {
+      "id": "trump-media-technology-group",
+      "name": "Trump Media & Technology Group",
+      "type": "company",
+      "description": "Owner of Truth Social; raised ~$2.44B in May 2025 for a bitcoin treasury"
+    },
+    {
+      "id": "don-wilson",
+      "name": "Don Wilson",
+      "type": "person",
+      "description": "Founder and CEO of DRW, parent of crypto trader Cumberland"
+    },
+    {
+      "id": "cumberland-drw",
+      "name": "Cumberland DRW",
+      "type": "company",
+      "description": "DRW's crypto trading unit; SEC case dismissed with prejudice in March 2025"
+    },
+    {
+      "id": "drw-investments",
+      "name": "DRW Investments",
+      "type": "company",
+      "description": "Chicago trading firm founded and controlled by Don Wilson; bought ~4M TMTG shares"
+    },
+    {
+      "id": "sec",
+      "name": "U.S. Securities and Exchange Commission",
+      "type": "government",
+      "description": "Sued Cumberland in October 2024 and dismissed the case in March 2025"
+    },
+    {
+      "id": "jane-street",
+      "name": "Jane Street",
+      "type": "company",
+      "description": "Largest reported investor (~$375M) in TMTG's bitcoin-treasury raise"
+    },
+    {
+      "id": "crypto-com",
+      "name": "Crypto.com",
+      "type": "company",
+      "description": "Named custodian for TMTG's bitcoin treasury"
+    },
+    {
+      "id": "anchorage-digital",
+      "name": "Anchorage Digital",
+      "type": "company",
+      "description": "Named custodian for TMTG's bitcoin treasury"
+    },
+    {
+      "id": "coffeezilla",
+      "name": "Coffeezilla",
+      "type": "media",
+      "description": "Independent online investigator who requested comment from Cumberland (internal reference; not shown)",
+      "hidden": true
+    }
+  ],
+  "relationships": [
+    {
+      "source": "donald-trump",
+      "target": "strategic-bitcoin-reserve",
+      "label": "signed EO 14233 establishing",
+      "type": "political",
+      "date": "2025-03-06"
+    },
+    {
+      "source": "white-house",
+      "target": "strategic-bitcoin-reserve",
+      "label": "issued executive order creating",
+      "type": "political",
+      "date": "2025-03-06"
+    },
+    {
+      "source": "strategic-bitcoin-reserve",
+      "target": "bitcoin",
+      "label": "holds forfeited government",
+      "type": "regulatory",
+      "date": "2025-03-06"
+    },
+    {
+      "source": "donald-trump",
+      "target": "trump-media-technology-group",
+      "label": "controls via revocable trust",
+      "type": "ownership"
+    },
+    {
+      "source": "trump-media-technology-group",
+      "target": "bitcoin",
+      "label": "raised ~$2.44B gross to build treasury in",
+      "type": "money",
+      "date": "2025-05-30",
+      "amount_usd": 2440000000
+    },
+    {
+      "source": "sec",
+      "target": "cumberland-drw",
+      "label": "sued as unregistered dealer",
+      "type": "legal",
+      "date": "2024-10"
+    },
+    {
+      "source": "sec",
+      "target": "cumberland-drw",
+      "label": "dismissed enforcement case with prejudice",
+      "type": "regulatory",
+      "date": "2025-03-27"
+    },
+    {
+      "source": "don-wilson",
+      "target": "drw-investments",
+      "label": "founded and controls",
+      "type": "ownership"
+    },
+    {
+      "source": "drw-investments",
+      "target": "cumberland-drw",
+      "label": "parent of crypto unit",
+      "type": "ownership"
+    },
+    {
+      "source": "drw-investments",
+      "target": "trump-media-technology-group",
+      "label": "bought ~4M shares (~$100M) in bitcoin-treasury raise",
+      "type": "money",
+      "date": "2025-05",
+      "amount_usd": 100000000
+    },
+    {
+      "source": "jane-street",
+      "target": "trump-media-technology-group",
+      "label": "bought ~$375M in bitcoin-treasury raise",
+      "type": "money",
+      "date": "2025-05",
+      "amount_usd": 375000000
+    },
+    {
+      "source": "crypto-com",
+      "target": "trump-media-technology-group",
+      "label": "custodian for bitcoin treasury",
+      "type": "commercial",
+      "date": "2025-05-27"
+    },
+    {
+      "source": "anchorage-digital",
+      "target": "trump-media-technology-group",
+      "label": "custodian for bitcoin treasury",
+      "type": "commercial",
+      "date": "2025-05-27"
+    },
+    {
+      "source": "cumberland-drw",
+      "target": "coffeezilla",
+      "label": "denied quid pro quo in comment to",
+      "type": "media",
+      "hidden": true
+    }
+  ],
+  "audit": {
+    "checked": [
+      "Cumberland dismissal agreed in principle with SEC staff on 20 Feb 2025, announced 4 Mar, formally dismissed late Mar 2025",
+      "DRW bought about 4M TMTG shares (~$100M) in the bitcoin-treasury financing; Jane Street largest at ~$375M",
+      "Timing gap between the dismissal and the TMTG purchase"
+    ],
+    "result": "upheld",
+    "changes": [
+      "No factual changes. Decrypt, Cointelegraph and The Block confirm the dates. One outlet puts DRW's filing at 'over 3.8 million' shares, consistent with 'about 4M'. Reports frame the investment as about nine weeks after the case ended, matching the write-up's 8-9 weeks. Still no documented quid pro quo."
+    ],
+    "new_sources": [
+      {
+        "title": "Crypto firm Cumberland says SEC will drop lawsuit",
+        "publisher": "Decrypt",
+        "url": "https://decrypt.co/308645/crypto-firm-cumberland-sec-drop-lawsuit",
+        "date": "2025-03-04"
+      },
+      {
+        "title": "SEC formally dismisses enforcement action against Kraken, Consensys and Cumberland DRW",
+        "publisher": "The Block",
+        "url": "https://www.theblock.co/post/348606/sec-formally-dismisses-enforcement-action-against-kraken-consensys-cumberland-drw",
+        "date": "2025-03-28"
+      },
+      {
+        "title": "Trump Media secures $100M investment from DRW to fund its $2.5 billion bitcoin bet",
+        "publisher": "CoinGape",
+        "url": "https://coingape.com/trump-media-secures-100m-investment-from-drw-to-fund-its-2-5-billion-bitcoin-bet",
+        "date": "2025-06"
+      }
+    ]
+  }
+}

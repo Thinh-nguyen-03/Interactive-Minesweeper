@@ -1,0 +1,804 @@
+{
+  "id": "C37",
+  "title": "Jared Kushner's hacked phone",
+  "verdict": "unverified",
+  "confidence": "medium",
+  "summary": "One specific allegation exists, but it rests on a single source. Matthew Cole's book 'Princes and Thieves', excerpted by Vanity Fair on 22 Oct 2026, says Russia's GRU hacked Kushner's personal iPhone in 2017-18 and that Dutch military intelligence (MIVD) gained screen-image access via a turned GRU hacker, seeing him log into a roughly $750M UAE/Saudi-funded account at First Abu Dhabi Bank. No government has confirmed it: the MIVD declined comment, and Kushner, his lawyer and Trump deny it. The firmly documented incident is narrower: in Oct 2024 Chinese Salt Typhoon hackers targeted Kushner's phone and call data via US telecoms, with no public evidence that his data was taken.",
+  "sub_claims": [
+    {
+      "statement": "A credible outlet has reported that Kushner's phone was hacked.",
+      "verdict": "confirmed",
+      "finding": "Vanity Fair published an excerpt of national-security reporter Matthew Cole's book 'Princes and Thieves' (Simon & Schuster/Atria) on 22 Oct 2026. It was widely picked up by Dutch (NL Times, DutchNews, NOS) and US outlets. This confirms only that the allegation was reported, not that the hack happened.",
+      "sources": [
+        "https://gizmodo.com/report-dutch-spies-hacked-jared-kushners-iphone-watched-him-use-sleazy-middle-eastern-slush-fund-2000829742",
+        "https://nltimes.nl/2026/10/23/dutch-intelligence-service-spied-phone-trumps-son-law-jared-kushner-book",
+        "https://www.dutchnews.nl/2026/10/dutch-spies-hacked-jared-kushners-phone-alleges-book/"
+      ]
+    },
+    {
+      "statement": "Russia's GRU compromised Kushner's personal iPhone in 2017-18, and Dutch MIVD obtained access by turning a GRU hacker.",
+      "verdict": "unverified",
+      "finding": "This is a single-source book claim resting on an unnamed source who called Cole in spring 2020; Cole does not say he saw the Dutch material. In the book's account the MIVD turned a GRU hacker in late 2017 (work for them or face arrest in Britain), gained access to GRU-held screenshots, and from early 2018 could see the screen while the phone was in use. There was no microphone, camera or manipulation capability. It is unclear whether Kushner knew. No US or Dutch official has confirmed any part of this.",
+      "sources": [
+        "https://cybernews.com/security/jared-kushner-hacked-iphone-gru-russia/",
+        "https://www.status.news/p/jared-kushner-vanity-fair-book-matthew-cole",
+        "https://www.democracynow.org/2026/11/2/matthew_cole_jared_kushner_book"
+      ]
+    },
+    {
+      "statement": "The screenshots showed Kushner accessing a roughly $750M Saudi/UAE-funded account (part of $1.75B-$2B in secret funds).",
+      "verdict": "unverified",
+      "finding": "The book alleges about $750M of Saudi and Emirati origin was routed via an Azerbaijani bank into a First Abu Dhabi Bank account held by the UAE government-funded Watani Al Emarat Foundation, with Kushner a signatory, not the owner. It also alleges about $1B sent via Azerbaijan to an Israeli government account and a third, defence-related account. Headline totals vary ($700M+, $1.75B, $2B). No bank records were published. Axios's Barak Ravid said parts 'don't add up', and the Jerusalem Post pulled its write-up, citing 'significant factual questions'.",
+      "sources": [
+        "https://lavocedinewyork.com/en/news/2026/10/23/kushner-denies-vanity-fair-claims-of-secret-funds-from-uae-azerbaijan/",
+        "https://jam-news.net/kushners-links-to-azerbaijani-bank/",
+        "https://mediaite.com/media/news/political-world-piles-on-vanity-fairs-bombshell-jared-kushner-report-bananas"
+      ]
+    },
+    {
+      "statement": "Official responses: denials from Kushner, his lawyer and Trump; no Dutch confirmation.",
+      "verdict": "confirmed",
+      "finding": "The MIVD and the Dutch Defence Ministry told NOS and Reformatorisch Dagblad they do not comment on methods, knowledge or sources. Kushner called the claims 'completely insane' and said they 'never happened'. Chad Mizelle sent Condé Nast a letter on 23 Oct 2026 calling the excerpt defamatory per se and demanding takedown; it says Cole and Simon & Schuster were warned on 30 Jul and 10 Aug. Trump called it 'a totally false story' on 23 Oct, and White House communications director Steven Cheung called it 'baseless smears' and the book fiction. Simon & Schuster reportedly released the book a couple of days early (around 25-27 Oct) despite the legal threat. No suit, retraction or correction had been found by mid-Nov 2026.",
+      "sources": [
+        "https://nltimes.nl/2026/10/23/dutch-intelligence-service-spied-phone-trumps-son-law-jared-kushner-book",
+        "https://www.newsweek.com/jared-kushners-lawyer-puts-vanity-fair-on-notice-over-false-claims-12614525",
+        "https://thehill.com/media/6170355-kushner-attorneys-warn-vanity-fair/",
+        "https://mediaite.com/media/news/its-a-totally-false-story-trump-slams-vanity-fair-story-on-jared-kushner",
+        "https://www.thewrap.com/media-platforms/journalism/jared-kushner-lawyer-demands-vanity-fair-book-excerpt-removed/",
+        "https://politicalwire.com/2026/10/26/book-on-jared-kushner-released-early/"
+      ]
+    },
+    {
+      "statement": "Congress has linked the alleged hack to his current envoy role in the Russia and Iran talks.",
+      "verdict": "confirmed",
+      "finding": "Rep. Jamie Raskin (House Judiciary ranking member) demanded in Oct 2026 that Kushner recuse 'from negotiating or representing the United States in any capacity' in the Russia and Iran talks until he produces records of foreign-government payments, citing the slush-fund and GRU phone-hack reports. This extends Raskin's 17 Apr 2026 probe. That the GRU holds actual leverage over Kushner is inference, not reported fact. Raskin's letter says Kushner cannot serve as a US diplomat 'when at least five foreign governments — the Saudis, the Emiratis, the Israelis, the Russians, and even the Dutch — appear to have damning kompromat on you'; this is a political characterization of unverified allegations.",
+      "sources": [
+        "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-demands-jared-kushner-recuse-from-us-envoy-role-in-russia-and-iran-conflicts-amid-explosive-reports-of-secret-middle-eastern-slush-funds-and-phone-hacking-by-russian-intelligence-service",
+        "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-opens-sweeping-investigation-into-us-special-envoy-for-peace-jared-kushner-s-foreign-entanglements-and-staggering-conflicts-of-interest"
+      ]
+    },
+    {
+      "statement": "Chinese state hackers (Salt Typhoon) targeted Kushner's phone and communications in 2024.",
+      "verdict": "confirmed",
+      "finding": "In late Oct 2024 the NYT and others reported that China-linked hackers inside US telecom carriers targeted Eric Trump and Kushner, among others. The FBI said call logs and unencrypted texts may have been exposed. What was taken from Kushner was never disclosed. A source close to him said there was 'no indication that anyone got access to the data'. This is confirmed targeting; compromise is unproven.",
+      "sources": [
+        "https://gvwire.com/2024/10/29/trump-family-members-and-biden-aides-among-china-hack-targets/",
+        "https://www.israelhayom.com/2024/10/30/fbi-china-hacked-trump-family-phones/"
+      ]
+    },
+    {
+      "statement": "First-term communications-security concerns (WhatsApp with foreign leaders, Saudi spyware risk).",
+      "verdict": "confirmed",
+      "finding": "In Mar 2019 Rep. Cummings said Kushner's lawyer Abbe Lowell had told the committee Kushner used WhatsApp for official business; Lowell disputed parts of that. A Saudi royal-court source told CNN that Kushner messaged MBS on WhatsApp (single source). WhatsApp patched an NSO spyware flaw in May 2019. In Jan 2020 UN rapporteur Agnes Callamard urged Kushner to check or replace his phone after the Bezos hack linked to an MBS account. None of this showed an actual compromise of his phone.",
+      "sources": [
+        "https://www.pbs.org/newshour/politics/cummings-jared-kushner-and-ivanka-trumps-private-emails-texts-raise-security-concerns",
+        "https://amp.cnn.com/cnn/2019/03/23/politics/kushner-whatsapp-concerns",
+        "https://www.washingtonexaminer.com/?p=1409170",
+        "https://www.washingtonexaminer.com/?p=2001998"
+      ]
+    },
+    {
+      "statement": "Kushner's phone was compromised by Pegasus, Paragon or Iranian hackers.",
+      "verdict": "unverified",
+      "finding": "No credible report was found. Iran-linked groups leaked material from other Trump-circle accounts (e.g. Kash Patel's Gmail, Mar 2026). The Feb 2026 Gabbard whistleblower complaint concerns an NSA intercept of foreign nationals discussing Kushner, not a hack of his device.",
+      "sources": [
+        "https://www.nbcnewyork.com/news/national-international/iranian-hackers-emails-allegedly-stolen-kash-patel/6482486/",
+        "https://san.com/cc/kushner-cited-in-classified-whistleblower-complaint-against-dni-gabbard-report/"
+      ]
+    },
+    {
+      "statement": "Social-media claims that Dutch intelligence 'confirmed' the hack or that Kushner is a foreign intelligence operative.",
+      "verdict": "false",
+      "finding": "Dutch authorities declined comment and confirmed nothing. Nothing in the book or in any verified record calls Kushner an operative; that version is viral distortion.",
+      "sources": [
+        "https://hasbara.co.il/facts-myths/myth-jared-kushner-intelligence-allegations",
+        "https://nltimes.nl/2026/10/23/dutch-intelligence-service-spied-phone-trumps-son-law-jared-kushner-book"
+      ]
+    }
+  ],
+  "corrections": [
+    "Headlines saying 'Dutch spies hacked Kushner's phone' compress the book's account: it says the GRU hacked the phone and the MIVD obtained screen images second-hand via a turned GRU officer.",
+    "The alleged monitoring dates to 2017-18 (Trump's first term), not his 2025-26 envoy period; its relevance to current talks is critics' inference.",
+    "Dollar figures in coverage are inconsistent ($700M+, $1.75B, $2B); the core alleged account is about $750M at First Abu Dhabi Bank.",
+    "The 2024 Salt Typhoon reporting shows Kushner was targeted, not that his data was stolen."
+  ],
+  "denials_and_context": [
+    "Kushner: the claims are 'completely insane', 'outrageous and categorically false' and 'never happened'; he points to the absence of bank statements, account numbers or dates.",
+    "Chad Mizelle: 'no credible evidence'; 'There are no accounts and never were'; demand letter to Condé Nast on 23 Oct 2026 threatening defamation action.",
+    "Trump (23 Oct 2026): 'a totally false story', 'fake news'.",
+    "MIVD and the Dutch Defence Ministry: no comment on operational methods, sources or knowledge; neither confirmation nor denial.",
+    "Skeptics: Axios's Barak Ravid says key details 'don't add up' (e.g. a Bank of Israel account with Netanyahu as signatory); the Jerusalem Post removed its story over 'significant factual questions'.",
+    "Kushner's public denials centre on the accounts; no coverage found has him specifically addressing whether his phone was compromised.",
+    "Cole stands by the reporting (Democracy Now, 2 Nov 2026). Vanity Fair had not responded publicly to the takedown demand.",
+    "White House communications director Steven Cheung dismissed the article as 'baseless smears' and the book as fiction (late Oct 2026).",
+    "Audit re-check (mid-Nov 2026): no defamation suit filed, no Vanity Fair/Simon & Schuster retraction or correction, and no US or Dutch official confirmation found; Mizelle's post ended 'More to come.'"
+  ],
+  "sources": [
+    {
+      "title": "Report: Dutch Spies Hacked Jared Kushner's iPhone, Watched Him Use Sleazy Middle Eastern Slush Fund",
+      "publisher": "Gizmodo",
+      "url": "https://gizmodo.com/report-dutch-spies-hacked-jared-kushners-iphone-watched-him-use-sleazy-middle-eastern-slush-fund-2000829742",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "GRU hacked Kushner's iPhone, but the Dutch flipped a Russian spy and took a look themselves",
+      "publisher": "Cybernews",
+      "url": "https://cybernews.com/security/jared-kushner-hacked-iphone-gru-russia/",
+      "date": "2026-10"
+    },
+    {
+      "title": "Dutch intelligence service spied on phone of Trump's son-in-law Jared Kushner: book",
+      "publisher": "NL Times",
+      "url": "https://nltimes.nl/2026/10/23/dutch-intelligence-service-spied-phone-trumps-son-law-jared-kushner-book",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Dutch spies hacked Jared Kushner's phone, alleges book",
+      "publisher": "DutchNews.nl",
+      "url": "https://www.dutchnews.nl/2026/10/dutch-spies-hacked-jared-kushners-phone-alleges-book/",
+      "date": "2026-10"
+    },
+    {
+      "title": "Donald Trump Responds to $2 Billion Jared Kushner Allegation: 'Totally False'",
+      "publisher": "Newsweek",
+      "url": "https://www.newsweek.com/kushner-rebukes-completely-insane-report-over-hacked-phone-secret-talks-12608268",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Jared Kushner Threatens Legal Action Over Vanity Fair Claims",
+      "publisher": "Newsweek",
+      "url": "https://www.newsweek.com/jared-kushners-lawyer-puts-vanity-fair-on-notice-over-false-claims-12614525",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Jared Kushner's attorneys send notice to Vanity Fair on alleged 'defamatory' excerpt",
+      "publisher": "The Hill",
+      "url": "https://thehill.com/media/6170355-kushner-attorneys-warn-vanity-fair/",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Jared Kushner's Lawyer Demands Vanity Fair Pull Book Excerpt Over 'False and Defamatory Allegations'",
+      "publisher": "TheWrap",
+      "url": "https://www.thewrap.com/media-platforms/journalism/jared-kushner-lawyer-demands-vanity-fair-book-excerpt-removed/",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "'It's a Totally False Story:' Trump Slams Vanity Fair Story on Jared Kushner",
+      "publisher": "Mediaite",
+      "url": "https://mediaite.com/media/news/its-a-totally-false-story-trump-slams-vanity-fair-story-on-jared-kushner",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Political World Piles on Vanity Fair's Bombshell Jared Kushner Report: 'Bananas'",
+      "publisher": "Mediaite",
+      "url": "https://mediaite.com/media/news/political-world-piles-on-vanity-fairs-bombshell-jared-kushner-report-bananas",
+      "date": "2026-10"
+    },
+    {
+      "title": "Jared Kushner's Phone Was Hacked — It Exposed An Alleged $2 Billion Foreign Money Web",
+      "publisher": "Daily Caller",
+      "url": "https://dailycaller.com/2026/10/23/jared-kushner-phone-hacked-foreign-money-web-united-arab-emirates-saudi-matthew-cole/",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Kushner Denies Vanity Fair Claims of Secret Funds from UAE, Azerbaijan",
+      "publisher": "La Voce di New York",
+      "url": "https://lavocedinewyork.com/en/news/2026/10/23/kushner-denies-vanity-fair-claims-of-secret-funds-from-uae-azerbaijan/",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Vanity Fair: Trump son-in-law received $750m from Azerbaijani bank",
+      "publisher": "JAMnews",
+      "url": "https://jam-news.net/kushners-links-to-azerbaijani-bank/",
+      "date": "2026-10"
+    },
+    {
+      "title": "Jared Kushner accessed secret billion dollars from UAE, Saudi: What Dutch spies found on hacked phone",
+      "publisher": "The Week (India)",
+      "url": "https://www.theweek.in/news/world/2026/10/23/jared-kushner-accessed-secret-billion-dollars-from-uae-saudi-what-dutch-spies-found-on-hacked-phone.html",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Vanity Fair's Kushner Conundrum",
+      "publisher": "Status News",
+      "url": "https://www.status.news/p/jared-kushner-vanity-fair-book-matthew-cole",
+      "date": "2026-10"
+    },
+    {
+      "title": "'Princes and Thieves' Author Matthew Cole on Jared Kushner & the 'Secret Plot to Remake Middle East'",
+      "publisher": "Democracy Now!",
+      "url": "https://www.democracynow.org/2026/11/2/matthew_cole_jared_kushner_book",
+      "date": "2026-11-02"
+    },
+    {
+      "title": "Ranking Member Raskin Demands Jared Kushner Recuse from U.S. Envoy Role in Russia and Iran Conflicts Amid Explosive Reports of Secret Middle Eastern Slush Funds and Phone Hacking by Russian Intelligence Service",
+      "publisher": "House Judiciary Democrats",
+      "url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-demands-jared-kushner-recuse-from-us-envoy-role-in-russia-and-iran-conflicts-amid-explosive-reports-of-secret-middle-eastern-slush-funds-and-phone-hacking-by-russian-intelligence-service",
+      "date": "2026-10"
+    },
+    {
+      "title": "Ranking Member Raskin Opens Sweeping Investigation into US Special Envoy for Peace Jared Kushner's Foreign Entanglements",
+      "publisher": "House Judiciary Democrats",
+      "url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-opens-sweeping-investigation-into-us-special-envoy-for-peace-jared-kushner-s-foreign-entanglements-and-staggering-conflicts-of-interest",
+      "date": "2026-04-17"
+    },
+    {
+      "title": "Trump family members and Biden aides among China hack targets",
+      "publisher": "GV Wire (NYT syndication)",
+      "url": "https://gvwire.com/2024/10/29/trump-family-members-and-biden-aides-among-china-hack-targets/",
+      "date": "2024-10-29"
+    },
+    {
+      "title": "FBI: China hacked Trump family phones",
+      "publisher": "Israel Hayom",
+      "url": "https://www.israelhayom.com/2024/10/30/fbi-china-hacked-trump-family-phones/",
+      "date": "2024-10-30"
+    },
+    {
+      "title": "Cummings: Jared Kushner and Ivanka Trump's private emails, texts raise security concerns",
+      "publisher": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/politics/cummings-jared-kushner-and-ivanka-trumps-private-emails-texts-raise-security-concerns",
+      "date": "2019-03-21"
+    },
+    {
+      "title": "Kushner WhatsApp concerns",
+      "publisher": "CNN",
+      "url": "https://amp.cnn.com/cnn/2019/03/23/politics/kushner-whatsapp-concerns",
+      "date": "2019-03-23"
+    },
+    {
+      "title": "WhatsApp fixes security flaw in service used by journalists, Jared Kushner",
+      "publisher": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/?p=1409170",
+      "date": "2019-05"
+    },
+    {
+      "title": "UN investigator recommends Jared Kushner replace his phone after suspected Saudi hack of Jeff Bezos",
+      "publisher": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/?p=2001998",
+      "date": "2020-01"
+    },
+    {
+      "title": "Independent UN rights experts call for 'immediate investigation' into alleged Bezos phone hack by Saudi Arabia",
+      "publisher": "UN News",
+      "url": "https://news.un.org/en/story/2020/01/1055771",
+      "date": "2020-01-22"
+    },
+    {
+      "title": "Kushner cited in classified whistleblower complaint against DNI Gabbard: Report",
+      "publisher": "Straight Arrow News",
+      "url": "https://san.com/cc/kushner-cited-in-classified-whistleblower-complaint-against-dni-gabbard-report/",
+      "date": "2026-02"
+    },
+    {
+      "title": "Report: whistleblower complaint against Gabbard tied to Iran-linked Kushner intercept",
+      "publisher": "Ynet",
+      "url": "https://www.ynetnews.com/article/skzc6mnp11e",
+      "date": "2026-02"
+    },
+    {
+      "title": "Iranian hackers: emails allegedly stolen from Kash Patel",
+      "publisher": "NBC New York",
+      "url": "https://www.nbcnewyork.com/news/national-international/iranian-hackers-emails-allegedly-stolen-kash-patel/6482486/",
+      "date": "2026-03"
+    },
+    {
+      "title": "Myth: Jared Kushner intelligence allegations",
+      "publisher": "hasbara.co.il (advocacy site)",
+      "url": "https://hasbara.co.il/facts-myths/myth-jared-kushner-intelligence-allegations",
+      "date": "2026-10"
+    },
+    {
+      "title": "Book on Jared Kushner released early",
+      "publisher": "Political Wire",
+      "url": "https://politicalwire.com/2026/10/26/book-on-jared-kushner-released-early/",
+      "date": "2026-10-26"
+    }
+  ],
+  "entities": [
+    {
+      "id": "jared-kushner",
+      "name": "Jared Kushner",
+      "type": "person",
+      "description": "Trump's son-in-law; Affinity Partners founder; unofficial 'envoy of peace'; alleged target of GRU and Dutch phone access (2017-18) and of Salt Typhoon targeting (2024)."
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "US President; called the Vanity Fair story 'a totally false story' (23 Oct 2026)."
+    },
+    {
+      "id": "eric-trump",
+      "name": "Eric Trump",
+      "type": "person",
+      "description": "Trump's son; named alongside Kushner as a Salt Typhoon target in 2024."
+    },
+    {
+      "id": "steve-witkoff",
+      "name": "Steve Witkoff",
+      "type": "person",
+      "description": "US Special Envoy; Kushner's partner in the Russia-Ukraine and Iran talks."
+    },
+    {
+      "id": "affinity-partners",
+      "name": "Affinity Partners",
+      "type": "fund",
+      "description": "Kushner's Gulf-funded private equity firm (see C15); not named in the alleged accounts."
+    },
+    {
+      "id": "saudi-pif",
+      "name": "Public Investment Fund (Saudi Arabia)",
+      "type": "fund",
+      "description": "Affinity's largest investor ($2B, 2021)."
+    },
+    {
+      "id": "mohammed-bin-salman",
+      "name": "Mohammed bin Salman",
+      "type": "person",
+      "description": "Saudi Crown Prince; reported WhatsApp contact of Kushner in the first term; his account was linked to the Bezos hack."
+    },
+    {
+      "id": "chad-mizelle",
+      "name": "Chad Mizelle",
+      "type": "person",
+      "description": "Kushner's attorney; sent the 23 Oct 2026 defamation notice to Condé Nast."
+    },
+    {
+      "id": "matthew-cole",
+      "name": "Matthew Cole",
+      "type": "person",
+      "description": "National-security journalist; author of 'Princes and Thieves', the sole source of the GRU/MIVD phone allegation."
+    },
+    {
+      "id": "princes-and-thieves",
+      "name": "Princes and Thieves (book)",
+      "type": "media",
+      "description": "Cole's 2026 book (Simon & Schuster/Atria) alleging the phone hack and secret Gulf-funded accounts."
+    },
+    {
+      "id": "vanity-fair",
+      "name": "Vanity Fair (Condé Nast)",
+      "type": "media",
+      "description": "Published the book excerpt on 22 Oct 2026; received a takedown demand."
+    },
+    {
+      "id": "simon-and-schuster",
+      "name": "Simon & Schuster",
+      "type": "company",
+      "description": "Publisher of 'Princes and Thieves'; Kushner's counsel say they warned it on 30 Jul and 10 Aug 2026."
+    },
+    {
+      "id": "gru",
+      "name": "GRU (Russian military intelligence)",
+      "type": "government",
+      "description": "Alleged original hacker of Kushner's iPhone, 2017-18."
+    },
+    {
+      "id": "mivd",
+      "name": "MIVD (Dutch Military Intelligence and Security Service)",
+      "type": "government",
+      "description": "Allegedly obtained screen images of Kushner's phone via a turned GRU officer; declines to comment."
+    },
+    {
+      "id": "netherlands",
+      "name": "Netherlands",
+      "type": "country",
+      "description": "Home of the MIVD; the Defence Ministry declined comment."
+    },
+    {
+      "id": "russia",
+      "name": "Russia",
+      "type": "country",
+      "description": "GRU's state; counterpart in the Ukraine talks Kushner co-negotiates."
+    },
+    {
+      "id": "salt-typhoon",
+      "name": "Salt Typhoon",
+      "type": "government",
+      "description": "China-linked state hacking group that breached US telecoms and targeted Trump-family phones in 2024."
+    },
+    {
+      "id": "china",
+      "name": "China",
+      "type": "country",
+      "description": "State behind Salt Typhoon, per US officials."
+    },
+    {
+      "id": "watani-al-emarat-foundation",
+      "name": "Watani Al Emarat Foundation",
+      "type": "company",
+      "description": "UAE government-funded charity alleged to hold the roughly $750M account on which Kushner was a signatory."
+    },
+    {
+      "id": "first-abu-dhabi-bank",
+      "name": "First Abu Dhabi Bank",
+      "type": "company",
+      "description": "UAE bank where the alleged foundation account sat (Dubai)."
+    },
+    {
+      "id": "azerbaijan",
+      "name": "Azerbaijan",
+      "type": "country",
+      "description": "Alleged routing jurisdiction for the Saudi/UAE funds and an alleged $1B transfer to Israel."
+    },
+    {
+      "id": "uae",
+      "name": "United Arab Emirates",
+      "type": "country",
+      "description": "Alleged co-funder of the secret account; home of Lunate, an Affinity investor."
+    },
+    {
+      "id": "saudi-arabia",
+      "name": "Saudi Arabia",
+      "type": "country",
+      "description": "Alleged co-funder of the secret account; owner of the PIF."
+    },
+    {
+      "id": "israel",
+      "name": "Israel",
+      "type": "country",
+      "description": "Alleged recipient of about $1B via Azerbaijan; this detail is disputed by Axios's Barak Ravid."
+    },
+    {
+      "id": "iran",
+      "name": "Iran",
+      "type": "country",
+      "description": "Counterpart in talks Kushner joins; Iran-linked hackers leaked other Trump-circle accounts; no Kushner hack reported."
+    },
+    {
+      "id": "jamie-raskin",
+      "name": "Jamie Raskin",
+      "type": "person",
+      "description": "House Judiciary ranking member; demanded Kushner's recusal from the Russia and Iran talks citing the hack and fund reports."
+    },
+    {
+      "id": "elijah-cummings",
+      "name": "Elijah Cummings",
+      "type": "person",
+      "description": "Late House Oversight chair; disclosed Kushner's WhatsApp use for official business in 2019."
+    },
+    {
+      "id": "abbe-lowell",
+      "name": "Abbe Lowell",
+      "type": "person",
+      "description": "Kushner's first-term lawyer; disputed parts of Cummings's account."
+    },
+    {
+      "id": "agnes-callamard",
+      "name": "Agnes Callamard",
+      "type": "person",
+      "description": "UN special rapporteur; urged Kushner to check or replace his phone in Jan 2020."
+    },
+    {
+      "id": "nso-group",
+      "name": "NSO Group",
+      "type": "company",
+      "description": "Pegasus spyware maker; its WhatsApp exploit was patched in 2019; no report links it to Kushner's phone."
+    },
+    {
+      "id": "tulsi-gabbard",
+      "name": "Tulsi Gabbard",
+      "type": "person",
+      "description": "DNI; subject of a whistleblower complaint about restricting an NSA intercept in which foreigners discussed Kushner."
+    },
+    {
+      "id": "us-congress",
+      "name": "US Congress",
+      "type": "government",
+      "description": "House Democrats probing Kushner's foreign ties."
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Treats Kushner as an unpaid volunteer envoy; dismissed the report."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "gru",
+      "target": "jared-kushner",
+      "label": "allegedly hacked personal iPhone of (single-source book claim)",
+      "type": "legal",
+      "date": "2017"
+    },
+    {
+      "source": "mivd",
+      "target": "jared-kushner",
+      "label": "allegedly viewed phone screen via turned GRU officer",
+      "type": "legal",
+      "date": "2018"
+    },
+    {
+      "source": "mivd",
+      "target": "gru",
+      "label": "allegedly recruited a GRU hacker, gaining server access",
+      "type": "legal",
+      "date": "2017"
+    },
+    {
+      "source": "netherlands",
+      "target": "mivd",
+      "label": "operates",
+      "type": "ownership"
+    },
+    {
+      "source": "russia",
+      "target": "gru",
+      "label": "operates",
+      "type": "ownership"
+    },
+    {
+      "source": "matthew-cole",
+      "target": "princes-and-thieves",
+      "label": "author of",
+      "type": "media",
+      "date": "2026"
+    },
+    {
+      "source": "simon-and-schuster",
+      "target": "princes-and-thieves",
+      "label": "publisher of",
+      "type": "commercial",
+      "date": "2026"
+    },
+    {
+      "source": "vanity-fair",
+      "target": "jared-kushner",
+      "label": "published excerpt alleging phone hack and secret accounts",
+      "type": "media",
+      "date": "2026-10-22"
+    },
+    {
+      "source": "jared-kushner",
+      "target": "watani-al-emarat-foundation",
+      "label": "alleged signatory on roughly $750M account of (denied)",
+      "type": "money",
+      "date": "2018",
+      "amount_usd": 750000000
+    },
+    {
+      "source": "watani-al-emarat-foundation",
+      "target": "first-abu-dhabi-bank",
+      "label": "allegedly held account at",
+      "type": "commercial"
+    },
+    {
+      "source": "uae",
+      "target": "watani-al-emarat-foundation",
+      "label": "funds (government-funded charity)",
+      "type": "money"
+    },
+    {
+      "source": "saudi-arabia",
+      "target": "watani-al-emarat-foundation",
+      "label": "allegedly co-funded account via Azerbaijan",
+      "type": "money",
+      "date": "2018"
+    },
+    {
+      "source": "azerbaijan",
+      "target": "first-abu-dhabi-bank",
+      "label": "alleged routing bank for Saudi/UAE funds",
+      "type": "money"
+    },
+    {
+      "source": "chad-mizelle",
+      "target": "vanity-fair",
+      "label": "sent defamation notice and takedown demand to",
+      "type": "legal",
+      "date": "2026-10-23"
+    },
+    {
+      "source": "chad-mizelle",
+      "target": "jared-kushner",
+      "label": "attorney for",
+      "type": "legal"
+    },
+    {
+      "source": "donald-trump",
+      "target": "vanity-fair",
+      "label": "called excerpt 'a totally false story'",
+      "type": "media",
+      "date": "2026-10-23"
+    },
+    {
+      "source": "jamie-raskin",
+      "target": "jared-kushner",
+      "label": "demanded recusal from Russia/Iran envoy role citing hack reports",
+      "type": "regulatory",
+      "date": "2026-10"
+    },
+    {
+      "source": "jamie-raskin",
+      "target": "us-congress",
+      "label": "House Judiciary ranking member in",
+      "type": "political"
+    },
+    {
+      "source": "salt-typhoon",
+      "target": "jared-kushner",
+      "label": "targeted phone/call data of (access unconfirmed)",
+      "type": "legal",
+      "date": "2024-10"
+    },
+    {
+      "source": "salt-typhoon",
+      "target": "eric-trump",
+      "label": "targeted phone/call data of",
+      "type": "legal",
+      "date": "2024-10"
+    },
+    {
+      "source": "china",
+      "target": "salt-typhoon",
+      "label": "state sponsor of (per US officials)",
+      "type": "ownership"
+    },
+    {
+      "source": "jared-kushner",
+      "target": "mohammed-bin-salman",
+      "label": "reportedly messaged via WhatsApp (single source)",
+      "type": "political",
+      "date": "2018"
+    },
+    {
+      "source": "elijah-cummings",
+      "target": "jared-kushner",
+      "label": "disclosed WhatsApp use for official business",
+      "type": "regulatory",
+      "date": "2019-03-21"
+    },
+    {
+      "source": "abbe-lowell",
+      "target": "jared-kushner",
+      "label": "attorney for (first term)",
+      "type": "legal"
+    },
+    {
+      "source": "agnes-callamard",
+      "target": "jared-kushner",
+      "label": "urged him to check/replace phone after Bezos hack",
+      "type": "advisory",
+      "date": "2020-01"
+    },
+    {
+      "source": "tulsi-gabbard",
+      "target": "jared-kushner",
+      "label": "allegedly restricted NSA intercept of foreigners discussing",
+      "type": "regulatory",
+      "date": "2025"
+    },
+    {
+      "source": "jared-kushner",
+      "target": "steve-witkoff",
+      "label": "co-negotiates Russia/Iran talks with",
+      "type": "political",
+      "date": "2025"
+    },
+    {
+      "source": "jared-kushner",
+      "target": "russia",
+      "label": "negotiates Ukraine settlement with",
+      "type": "political",
+      "date": "2025-12"
+    },
+    {
+      "source": "jared-kushner",
+      "target": "affinity-partners",
+      "label": "founder and CEO of",
+      "type": "ownership",
+      "date": "2021"
+    },
+    {
+      "source": "saudi-pif",
+      "target": "affinity-partners",
+      "label": "committed $2B to (largest investor)",
+      "type": "money",
+      "date": "2021-07",
+      "amount_usd": 2000000000
+    }
+  ],
+  "leads": [
+    {
+      "title": "Alleged $1B transfer via Azerbaijan to an Israeli government account ('Beta' account)",
+      "why_connected": "Part of the same Cole allegation; it is the detail Axios's Barak Ravid and the Jerusalem Post challenged most strongly and could be checked against Israeli banking rules.",
+      "entities": [
+        "jared-kushner",
+        "azerbaijan",
+        "israel",
+        "matthew-cole"
+      ],
+      "source_url": "https://jam-news.net/kushners-links-to-azerbaijani-bank/"
+    },
+    {
+      "title": "Gabbard whistleblower complaint over an NSA intercept discussing Kushner",
+      "why_connected": "A classified intercept of foreign nationals (reportedly Iran-linked) discussing Kushner was allegedly restricted by the DNI; it touches his envoy role and Iran talks.",
+      "entities": [
+        "tulsi-gabbard",
+        "jared-kushner",
+        "iran"
+      ],
+      "source_url": "https://san.com/cc/kushner-cited-in-classified-whistleblower-complaint-against-dni-gabbard-report/"
+    },
+    {
+      "title": "Kushner's defamation threat against Vanity Fair/Condé Nast and Simon & Schuster",
+      "why_connected": "Whether a suit is filed, and what discovery shows, would test the book's sourcing on the phone hack and Gulf accounts.",
+      "entities": [
+        "jared-kushner",
+        "chad-mizelle",
+        "vanity-fair",
+        "simon-and-schuster"
+      ],
+      "source_url": "https://thehill.com/media/6170355-kushner-attorneys-warn-vanity-fair/"
+    },
+    {
+      "title": "Raskin's House Judiciary probe of Kushner's Albania resort and compliance",
+      "why_connected": "Same investigation that produced the recusal demand; another Kushner foreign deal (Aug 2026 letter).",
+      "entities": [
+        "jamie-raskin",
+        "jared-kushner",
+        "affinity-partners"
+      ],
+      "source_url": "https://democrats-judiciary.house.gov/sites/evo-subsites/democrats-judiciary.house.gov/files/evo-media-document/2026-08-24-raskin-to-kushner-affinity-re-albania-and-compliance.pdf"
+    },
+    {
+      "title": "Salt Typhoon targeting of Trump-family phones (2024)",
+      "why_connected": "The only government-attributed targeting of Kushner's communications; what was taken has never been disclosed.",
+      "entities": [
+        "salt-typhoon",
+        "china",
+        "jared-kushner",
+        "eric-trump"
+      ],
+      "source_url": "https://gvwire.com/2024/10/29/trump-family-members-and-biden-aides-among-china-hack-targets/"
+    }
+  ],
+  "audit": {
+    "checked": [
+      "Whether any lawsuit, retraction, correction or official confirmation followed the Vanity Fair excerpt (through mid-Nov 2026)",
+      "Jerusalem Post removal and Axios/Ravid scepticism",
+      "Salt Typhoon targeting of Kushner in Oct 2024",
+      "Raskin's recusal demand citing the phone-hack report"
+    ],
+    "result": "upheld",
+    "changes": [
+      "No change to verdicts. Write-up already treats the GRU/MIVD hack and the accounts as single-source and unverified; confirmed that is still the state of the record.",
+      "Added the White House (Steven Cheung) denial, the book's early release despite the legal threat, and Raskin's 'kompromat' quote framed as political characterization.",
+      "Restated the mid-Nov 2026 status: no suit, retraction, correction or official confirmation found."
+    ],
+    "new_sources": [
+      {
+        "title": "Jared Kushner's Lawyer Demands Vanity Fair Pull Book Excerpt Over 'False and Defamatory Allegations'",
+        "publisher": "TheWrap",
+        "url": "https://www.thewrap.com/media-platforms/journalism/jared-kushner-lawyer-demands-vanity-fair-book-excerpt-removed/",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "Book on Jared Kushner released early",
+        "publisher": "Political Wire",
+        "url": "https://politicalwire.com/2026/10/26/book-on-jared-kushner-released-early/",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "Political World Piles on Vanity Fair's Bombshell Jared Kushner Report: 'Bananas'",
+        "publisher": "Mediaite",
+        "url": "https://mediaite.com/media/news/political-world-piles-on-vanity-fairs-bombshell-jared-kushner-report-bananas",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "GRU hacked Kushner's iPhone, but the Dutch flipped a Russian spy and took a look themselves",
+        "publisher": "Cybernews",
+        "url": "https://cybernews.com/security/jared-kushner-hacked-iphone-gru-russia/",
+        "date": "2026-10"
+      },
+      {
+        "title": "Trump family members and Biden aides among China hack targets",
+        "publisher": "Reuters (via GV Wire)",
+        "url": "https://gvwire.com/2024/10/29/trump-family-members-and-biden-aides-among-china-hack-targets/",
+        "date": "2024-10-29"
+      }
+    ]
+  }
+}

@@ -1,0 +1,912 @@
+{
+  "id": "C40",
+  "title": "Insiders behind the $TRUMP and $MELANIA launches (Hayden Davis, Meteora, Kelsier)",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "The claim accurately describes the allegations. A Burwick Law class action accused Meteora's Benjamin Chow and Kelsier's Hayden Davis of running MELANIA, LIBRA and other tokens as a pump-and-dump, calling Melania Trump and Milei 'props' and alleging about $10M in MELANIA insider gains. Davis admitted he was the launch strategist for both tokens and that his team sniped them. Neither court found fraud: SDNY Judge Rochon dismissed the suit with prejudice on 2026-09-29 and refused to add MELANIA, and Argentina dropped its LIBRA criminal case in October 2026. No US regulator has acted. $TRUMP was operated by Fight Fight Fight LLC (Bill Zanker) and CIC Digital on Meteora, earning an estimated $350M+ in sales and fees; no source shows Davis ran it.",
+  "sub_claims": [
+    {
+      "statement": "A class action alleged Chow/Meteora and Davis/Kelsier ran MELANIA and LIBRA as a pump-and-dump, using Melania Trump and Milei as 'props'.",
+      "verdict": "confirmed",
+      "finding": "Hurlock v. Kelsier (SDNY 1:25-cv-03891-JLR) was filed by Burwick Law in March 2025 over LIBRA. The proposed second amended complaint (2025-10-21) named Chow, Meteora, Kelsier, and Hayden, Gideon and Charles Davis. It alleged a scheme across at least 15 tokens, focusing on LIBRA, MELANIA, ENRON, TRUST and M3M3, and called the celebrities 'props'. Melania Trump was not a defendant and is not accused of wrongdoing.",
+      "sources": [
+        "https://fortune.com/crypto/2025/10/23/melania-trump-memecoin-conspiracy-court-filing-benjamin-chow-hayden-davis/",
+        "https://decrypt.co/345493/melania-trump-javier-milei-props-meme-coin-fraud-lawsuit-alleges",
+        "https://www.theblock.co/post/375832/ben-chow-melania-libra-memecoin/",
+        "https://storage.courtlistener.com/recap/gov.uscourts.nysd.642202/gov.uscourts.nysd.642202.205.2.pdf"
+      ]
+    },
+    {
+      "statement": "Insiders took about $10M+ from MELANIA.",
+      "verdict": "mostly-accurate",
+      "finding": "Coverage of the complaint says plaintiffs allege that insider wallets tied to Chow and Davis took about $10M from MELANIA. Bubblemaps separately reported about $30M of 'community' tokens moved and sold (Apr 2025) and an earlier about $2M single-sided liquidity extraction tied to Davis. EmberCN reported about $14.75M sold in one month. All are untested allegations and estimates. Davis said the MELANIA team 'made no money'.",
+      "sources": [
+        "https://www.theblock.co/post/375832/ben-chow-melania-libra-memecoin/",
+        "https://blog.bubblemaps.io/huge-sell-offs-on-melania",
+        "https://cointelegraph.com/news/melania-trump-memecoin-team-sold-30-million-bubblemaps",
+        "https://beincrypto.com/melania-plunges-to-all-time-low-insider-sell-off",
+        "https://www.coindesk.com/business/2025/02/17/javier-milei-memecoin-creator-also-launched-melania-admits-to-sniping-tokens"
+      ]
+    },
+    {
+      "statement": "Hayden Davis/Kelsier ran the MELANIA and LIBRA launches.",
+      "verdict": "confirmed",
+      "finding": "Davis said in a recorded interview (Feb 2025) that he was launch strategist for LIBRA and MELANIA and that his team sniped both. Bubblemaps' wallet clustering ties the two launches together. Chow resigned as Meteora CEO on 2025-02-18; Meow (Jupiter) said Fenwick & West would investigate, but no published findings were located. The issuer of record for MELANIA remains MKT World LLC.",
+      "sources": [
+        "https://www.coindesk.com/business/2025/02/17/javier-milei-memecoin-creator-also-launched-melania-admits-to-sniping-tokens",
+        "https://www.dlnews.com/articles/people-culture/man-behind-milei-memecoin-also-worked-on-melania-trump-coin/",
+        "https://decrypt.co/306498/co-founder-of-crypto-firm-behind-trump-melania-tokens-resigns-amid-insider-trading-allegations"
+      ]
+    },
+    {
+      "statement": "$TRUMP was operated by Bill Zanker's Fight Fight Fight LLC and CIC Digital, not by Davis/Kelsier.",
+      "verdict": "confirmed",
+      "finding": "Fight Fight Fight LLC (run by Zanker and owned by Celebration Cards LLC) and CIC Digital LLC (a Trump Organization affiliate) hold 80% of supply. The token launched on Meteora, and its creators take a share of trading fees. Chow said the team dealt with co-founder Meow. TRUMP-team wallets received about $4.2M in Meteora's MET airdrop (Oct 2025). No source shows Davis operating $TRUMP; a second-hand report of him describing a pre-launch Trump-associated sale is unverified.",
+      "sources": [
+        "https://www.banking.senate.gov/imo/media/doc/20260408_warren_schiff_blumenthal_letter_to_fff_llc_re_trump_memecoin_conferencepdf.pdf",
+        "https://www.bnnbloomberg.ca/markets/crypto/2025/02/03/trumps-meme-coin-made-nearly-100-million-in-trading-fees-as-small-traders-lost-money/",
+        "https://cryptonews.com/news/meteora-gave-trump-team-4-2m-airdrop-hours-after-founder-sued-for-memecoin-scams/"
+      ]
+    },
+    {
+      "statement": "Early wallets made large sniping profits.",
+      "verdict": "mostly-accurate",
+      "finding": "MELANIA: the FT reported 24 wallets spent about $2.6M roughly 2.5 minutes before the announcement and made nearly $100M; Lookonchain reported 3 wallets bought more than 420M tokens pre-listing. A claimed Arkham link from one wallet to a Barron Trump address is unverified. TRUMP: 58 wallets made more than $10M each (Chainalysis, see C01), and individual snipers made up to about $100M+. No credible evidence shows the operators sniped their own launch. Aggregator figures of $1.2B-$4B in 'insider' gains are unverified.",
+      "sources": [
+        "https://cryptoslate.com/melania-memecoin-insiders-reportedly-make-over-150-million-including-pre-sale-trades/",
+        "https://www.tipranks.com/news/melania-trump-memecoin-explodes-as-traders-strike-early-and-pocket-100m",
+        "https://www.dlnews.com/articles/markets/winners-and-losers-of-official-trump-memecoin/",
+        "https://decrypt.co/302126/lucky-crypto-trader-over-100-million-trump-meme-coin"
+      ]
+    },
+    {
+      "statement": "The $TRUMP operators earned large trading-fee revenue.",
+      "verdict": "confirmed",
+      "finding": "Fee estimates for 2025-01-17 to 01-30 are about $86M-$100M (Merkle Science, Chainalysis). The FT put the total at at least $350M by March 2025 ($314M in token sales plus $36M in fees). CoinDesk/Chainalysis put fees at about $320M by May 2025, with about 5% to Meteora. TRUMP-team wallets withdrew about $94M USDC from Meteora pools in December 2025. Trump's OGE-reported $635M in royalties (C01) is a different measure.",
+      "sources": [
+        "https://www.bnnbloomberg.ca/markets/crypto/2025/02/03/trumps-meme-coin-made-nearly-100-million-in-trading-fees-as-small-traders-lost-money/",
+        "https://cointelegraph.com/news/trump-memecoin-generated-350-million-creators-report",
+        "https://hotfix.coindesk.com/business/2025/05/09/trump-family-profited-usd320m-on-memecoin-despite-87-decline-since-day-one",
+        "https://cointelegraph.com/news/wallets-tied-to-official-trump-meme-team-pull-94m-usdc-to-coinbase-in-december"
+      ]
+    },
+    {
+      "statement": "The litigation is ongoing.",
+      "verdict": "false",
+      "finding": "Rochon unfroze about $57.6M USDC on 2025-08-19. On 2026-09-29 she dismissed the LIBRA/M3M3 class action with prejudice: RICO failed for no adequate pattern, state claims failed for lack of personal jurisdiction over Kelsier, and the claims against Chow and Meteora were deficient. Adding MELANIA was denied as futile. There was no merits finding on fraud, and no appeal was reported as of early October 2026. In Argentina, Judge Martínez de Giorgi dismissed the LIBRA criminal case against Milei, Karina Milei, Davis and others in October 2026; the opposition is contesting it.",
+      "sources": [
+        "https://decrypt.co/336060/libra-promoters-regain-access-57-6-million-crypto-judge-unfreezes-assets",
+        "https://solanacompass.com/news/judge-dismisses-libra-and-m3m3-memecoin-class-action-against-meteora-and-ben-chow",
+        "https://www.cryptotimes.io/2026/10/01/us-judge-dismisses-libra-m3m3-case-against-davis-kelsier/",
+        "https://cryptoslate.com/us-judge-kills-mileis-libra-memecoin-lawsuit-leaving-investors-stranded/",
+        "https://protos.com/burwick-law-loses-libra-lawsuit-against-hayden-davis/",
+        "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra"
+      ]
+    },
+    {
+      "statement": "Regulators have taken action.",
+      "verdict": "false",
+      "finding": "No SEC, DOJ or CFTC action against Davis, Kelsier, Chow, Meteora or Fight Fight Fight was found. SEC staff said in February 2025 that meme coins are generally not securities. Democratic senators sent letters: Blumenthal to Fight Fight Fight (2025-05-06), Warren/Schiff/Blumenthal to Zanker (2026-04-08), and Warren/Blumenthal asking SEC Chair Atkins to investigate (2026-08). Reports of a DOJ LIBRA probe are unconfirmed. An Argentine congressional commission (Nov 2025) found Milei may have breached ethics law.",
+      "sources": [
+        "https://www.axios.com/2025/03/03/meme-coins-sec",
+        "https://www.hsgac.senate.gov/wp-content/uploads/2025-05-06-Letter-from-Sen.-Richard-Blumenthal-to-Fight-Fight-Fight.pdf",
+        "https://www.banking.senate.gov/imo/media/doc/20260408_warren_schiff_blumenthal_letter_to_fff_llc_re_trump_memecoin_conferencepdf.pdf",
+        "https://theblock.co/news/regulation/2026-08-04-senators-seek-sec-probe-president-trump-memecoin-crypto-bill-enters-pivotal-week-410624",
+        "https://en.mercopress.com/2025/11/19/argentina-s-libra-scandal-report-says-milei-promoted-private-scheme-violated-ethics-rules"
+      ]
+    }
+  ],
+  "corrections": [
+    "MELANIA was only in a proposed amended complaint; the court never admitted it and later denied the amendment as futile.",
+    "The '$10M+' insider figure is the complaint's. Bubblemaps' estimate of team sales is about $30M, and FT-reported sniper profits (about $100M) are a separate category.",
+    "The litigation has not established wrongdoing. The SDNY case was dismissed with prejudice on 2026-09-29 and Argentina's criminal case was dismissed in October 2026.",
+    "No source shows Davis/Kelsier operated $TRUMP. Its issuers are Fight Fight Fight LLC and CIC Digital."
+  ],
+  "denials_and_context": [
+    "Davis denies wrongdoing, calls LIBRA 'a plan gone miserably wrong' and says sniping 'is not illegal' in meme markets.",
+    "Chow denies leaking information or receiving tokens; Meow said there was 'no financial impropriety'.",
+    "Fight Fight Fight has not publicly answered the senators' letters; no White House or Melania Trump comment on the suit was found.",
+    "Judge Rochon's dismissal rests on pleading, RICO-pattern and jurisdiction grounds and expressly makes no finding on whether manipulation occurred.",
+    "The original pages at protos.com, solanacompass.com, decrypt.co and coindesk.com were not read directly; their content is cited from search summaries across multiple outlets."
+  ],
+  "sources": [
+    {
+      "title": "Melania Trump memecoin team 'weaponized fame to disarm diligence'",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/crypto/2025/10/23/melania-trump-memecoin-conspiracy-court-filing-benjamin-chow-hayden-davis/",
+      "date": "2025-10-23"
+    },
+    {
+      "title": "Melania Trump, Javier Milei used as 'props' for meme coin fraud, lawsuit alleges",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/345493/melania-trump-javier-milei-props-meme-coin-fraud-lawsuit-alleges",
+      "date": "2025-10-22"
+    },
+    {
+      "title": "Class action lawsuit claims Ben Chow orchestrated Melania, LIBRA memecoin fraud",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/375832/ben-chow-melania-libra-memecoin/",
+      "date": "2025-10-23"
+    },
+    {
+      "title": "Proposed second amended class action complaint, Dkt 205-2",
+      "publisher": "CourtListener / SDNY",
+      "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.642202/gov.uscourts.nysd.642202.205.2.pdf",
+      "date": "2025-10-21"
+    },
+    {
+      "title": "Creator of LIBRA memecoin introduced MELANIA, says he sniped both tokens",
+      "publisher": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2025/02/17/javier-milei-memecoin-creator-also-launched-melania-admits-to-sniping-tokens",
+      "date": "2025-02-17"
+    },
+    {
+      "title": "Who is Hayden Davis?",
+      "publisher": "DL News",
+      "url": "https://www.dlnews.com/articles/people-culture/man-behind-milei-memecoin-also-worked-on-melania-trump-coin/",
+      "date": "2025-02"
+    },
+    {
+      "title": "Huge sell-offs on $MELANIA",
+      "publisher": "Bubblemaps",
+      "url": "https://blog.bubblemaps.io/huge-sell-offs-on-melania",
+      "date": "2025-04"
+    },
+    {
+      "title": "Melania Trump memecoin team sold $30 million: Bubblemaps",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/melania-trump-memecoin-team-sold-30-million-bubblemaps",
+      "date": "2025-04"
+    },
+    {
+      "title": "MELANIA plunges to all-time low amid insider sell-off",
+      "publisher": "BeInCrypto",
+      "url": "https://beincrypto.com/melania-plunges-to-all-time-low-insider-sell-off",
+      "date": "2025"
+    },
+    {
+      "title": "Libra promoters regain access to $57.6 million after judge unfreezes assets",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/336060/libra-promoters-regain-access-57-6-million-crypto-judge-unfreezes-assets",
+      "date": "2025-08"
+    },
+    {
+      "title": "Hurlock v. Kelsier Labs TRO order",
+      "publisher": "SDNY (via ALM)",
+      "url": "https://assets.alm.com/d2/2c/4133f3924f6c901f27f785114d2e/hurlock-v-kelsier-labs-tro-order-u-s-district-court-for-the-southern-district-of-new-york.pdf",
+      "date": "2025-05-27"
+    },
+    {
+      "title": "Judge dismisses LIBRA and M3M3 memecoin class action against Meteora and Ben Chow",
+      "publisher": "Solana Compass",
+      "url": "https://solanacompass.com/news/judge-dismisses-libra-and-m3m3-memecoin-class-action-against-meteora-and-ben-chow",
+      "date": "2026-09"
+    },
+    {
+      "title": "US judge dismisses $LIBRA, $M3M3 case against Davis, Kelsier",
+      "publisher": "The Crypto Times",
+      "url": "https://www.cryptotimes.io/2026/10/01/us-judge-dismisses-libra-m3m3-case-against-davis-kelsier/",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "US judge kills Milei's LIBRA memecoin lawsuit, leaving investors stranded",
+      "publisher": "CryptoSlate",
+      "url": "https://cryptoslate.com/us-judge-kills-mileis-libra-memecoin-lawsuit-leaving-investors-stranded/",
+      "date": "2026-10"
+    },
+    {
+      "title": "Burwick Law loses LIBRA lawsuit against Hayden Davis",
+      "publisher": "Protos",
+      "url": "https://protos.com/burwick-law-loses-libra-lawsuit-against-hayden-davis/",
+      "date": "2026-10"
+    },
+    {
+      "title": "Argentina drops criminal probe into President Milei over crashed memecoin LIBRA",
+      "publisher": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra",
+      "date": "2026-10-24"
+    },
+    {
+      "title": "Argentina's $LIBRA scandal: report says Milei promoted private scheme",
+      "publisher": "MercoPress",
+      "url": "https://en.mercopress.com/2025/11/19/argentina-s-libra-scandal-report-says-milei-promoted-private-scheme-violated-ethics-rules",
+      "date": "2025-11-19"
+    },
+    {
+      "title": "Co-founder of crypto firm behind Trump, Melania tokens resigns",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/306498/co-founder-of-crypto-firm-behind-trump-melania-tokens-resigns-amid-insider-trading-allegations",
+      "date": "2025-02-18"
+    },
+    {
+      "title": "Trump's meme coin made nearly $100 million in trading fees",
+      "publisher": "BNN Bloomberg",
+      "url": "https://www.bnnbloomberg.ca/markets/crypto/2025/02/03/trumps-meme-coin-made-nearly-100-million-in-trading-fees-as-small-traders-lost-money/",
+      "date": "2025-02-03"
+    },
+    {
+      "title": "TRUMP memecoin generated $350 million for creators: report (FT)",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/trump-memecoin-generated-350-million-creators-report",
+      "date": "2025-03"
+    },
+    {
+      "title": "Trump family profited $320M on memecoin",
+      "publisher": "CoinDesk",
+      "url": "https://hotfix.coindesk.com/business/2025/05/09/trump-family-profited-usd320m-on-memecoin-despite-87-decline-since-day-one",
+      "date": "2025-05-09"
+    },
+    {
+      "title": "Wallets tied to Official Trump meme team pull $94M USDC to Coinbase in December",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/wallets-tied-to-official-trump-meme-team-pull-94m-usdc-to-coinbase-in-december",
+      "date": "2025-12-31"
+    },
+    {
+      "title": "Meteora gave Trump team $4.2M airdrop hours after founder sued",
+      "publisher": "Cryptonews",
+      "url": "https://cryptonews.com/news/meteora-gave-trump-team-4-2m-airdrop-hours-after-founder-sued-for-memecoin-scams/",
+      "date": "2025-10-23"
+    },
+    {
+      "title": "Wallets tied to Melania Trump meme coin airdropped $1.2 million in Meteora tokens",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/345768/wallets-melania-trump-meme-coin-airdropped-1-2-million-meteora-tokens",
+      "date": "2025-10-23"
+    },
+    {
+      "title": "MELANIA memecoin insiders reportedly make over $150 million",
+      "publisher": "CryptoSlate",
+      "url": "https://cryptoslate.com/melania-memecoin-insiders-reportedly-make-over-150-million-including-pre-sale-trades/",
+      "date": "2025"
+    },
+    {
+      "title": "Melania Trump memecoin explodes as traders strike early and pocket $100M",
+      "publisher": "TipRanks",
+      "url": "https://www.tipranks.com/news/melania-trump-memecoin-explodes-as-traders-strike-early-and-pocket-100m",
+      "date": "2025-01"
+    },
+    {
+      "title": "These traders made millions during Trump's memecoin frenzy",
+      "publisher": "DL News",
+      "url": "https://www.dlnews.com/articles/markets/winners-and-losers-of-official-trump-memecoin/",
+      "date": "2025-01"
+    },
+    {
+      "title": "This lucky crypto trader made over $100 million on Trump's meme coin",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/302126/lucky-crypto-trader-over-100-million-trump-meme-coin",
+      "date": "2025-01"
+    },
+    {
+      "title": "Letter from Sen. Blumenthal to Fight Fight Fight",
+      "publisher": "US Senate HSGAC",
+      "url": "https://www.hsgac.senate.gov/wp-content/uploads/2025-05-06-Letter-from-Sen.-Richard-Blumenthal-to-Fight-Fight-Fight.pdf",
+      "date": "2025-05-06"
+    },
+    {
+      "title": "Warren/Schiff/Blumenthal letter to Bill Zanker re memecoin conference",
+      "publisher": "US Senate Banking Committee",
+      "url": "https://www.banking.senate.gov/imo/media/doc/20260408_warren_schiff_blumenthal_letter_to_fff_llc_re_trump_memecoin_conferencepdf.pdf",
+      "date": "2026-04-08"
+    },
+    {
+      "title": "Senators seek SEC probe of President Trump's memecoin",
+      "publisher": "The Block",
+      "url": "https://theblock.co/news/regulation/2026-08-04-senators-seek-sec-probe-president-trump-memecoin-crypto-bill-enters-pivotal-week-410624",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Why the SEC staff ruled out actions on meme coins",
+      "publisher": "Axios",
+      "url": "https://www.axios.com/2025/03/03/meme-coins-sec",
+      "date": "2025-03-03"
+    },
+    {
+      "title": "Trump memecoin issuer pursues $200 million funding to build digital asset treasury",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/amp/post/373745/trump-memecoin-issuer-plans-funding",
+      "date": "2025-10"
+    }
+  ],
+  "entities": [
+    {
+      "id": "hayden-davis",
+      "name": "Hayden Davis",
+      "type": "person",
+      "description": "Kelsier Ventures/Labs CEO; self-described launch strategist for LIBRA and MELANIA"
+    },
+    {
+      "id": "benjamin-chow",
+      "name": "Benjamin Chow",
+      "type": "person",
+      "description": "Meteora co-founder and ex-CEO; resigned Feb 2025; class-action defendant"
+    },
+    {
+      "id": "meteora",
+      "name": "Meteora",
+      "type": "company",
+      "description": "Solana DEX that hosted the TRUMP, MELANIA and LIBRA launches"
+    },
+    {
+      "id": "kelsier-ventures",
+      "name": "Kelsier Ventures",
+      "type": "company",
+      "description": "Davis family venture firm behind LIBRA and the MELANIA launch strategy"
+    },
+    {
+      "id": "libra-token",
+      "name": "$LIBRA",
+      "type": "asset",
+      "description": "Solana meme token promoted by Javier Milei in Feb 2025 that collapsed within hours"
+    },
+    {
+      "id": "melania-coin",
+      "name": "$MELANIA",
+      "type": "asset",
+      "description": "Melania Trump's meme coin, launched 2025-01-19"
+    },
+    {
+      "id": "trump-coin",
+      "name": "$TRUMP (Official Trump)",
+      "type": "asset",
+      "description": "Trump's official meme coin, launched 2025-01-17"
+    },
+    {
+      "id": "mkt-world-llc",
+      "name": "MKT World LLC",
+      "type": "company",
+      "description": "Issuer of $MELANIA"
+    },
+    {
+      "id": "fight-fight-fight-llc",
+      "name": "Fight Fight Fight LLC",
+      "type": "company",
+      "description": "Co-issuer of $TRUMP, run by Bill Zanker"
+    },
+    {
+      "id": "celebration-cards-llc",
+      "name": "Celebration Cards LLC",
+      "type": "company",
+      "description": "Owner of Fight Fight Fight LLC, per Senate letter"
+    },
+    {
+      "id": "bill-zanker",
+      "name": "Bill Zanker",
+      "type": "person",
+      "description": "Trump business partner who runs Fight Fight Fight LLC"
+    },
+    {
+      "id": "cic-digital",
+      "name": "CIC Digital LLC",
+      "type": "company",
+      "description": "Trump Organization affiliate; co-issuer of $TRUMP"
+    },
+    {
+      "id": "trump-organization",
+      "name": "Trump Organization",
+      "type": "company",
+      "description": "Trump family business"
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "US President; $TRUMP namesake and royalty recipient"
+    },
+    {
+      "id": "melania-trump",
+      "name": "Melania Trump",
+      "type": "person",
+      "description": "First Lady; $MELANIA namesake; not a defendant"
+    },
+    {
+      "id": "javier-milei",
+      "name": "Javier Milei",
+      "type": "person",
+      "description": "President of Argentina who promoted LIBRA"
+    },
+    {
+      "id": "karina-milei",
+      "name": "Karina Milei",
+      "type": "person",
+      "description": "Milei's sister and chief of staff; cleared in the Argentine LIBRA case"
+    },
+    {
+      "id": "meow-jupiter",
+      "name": "Meow",
+      "type": "person",
+      "description": "Pseudonymous Jupiter founder and Meteora co-founder"
+    },
+    {
+      "id": "burwick-law",
+      "name": "Burwick Law",
+      "type": "company",
+      "description": "Plaintiffs' firm in Hurlock v. Kelsier"
+    },
+    {
+      "id": "hurlock-v-kelsier",
+      "name": "Hurlock v. Kelsier Ventures (SDNY 1:25-cv-03891)",
+      "type": "event",
+      "description": "LIBRA/M3M3 class action, dismissed with prejudice 2026-09-29"
+    },
+    {
+      "id": "jennifer-rochon",
+      "name": "Judge Jennifer L. Rochon",
+      "type": "person",
+      "description": "SDNY judge who unfroze the funds and dismissed the class action"
+    },
+    {
+      "id": "marcelo-martinez-de-giorgi",
+      "name": "Judge Marcelo Martínez de Giorgi",
+      "type": "person",
+      "description": "Argentine federal judge who closed the LIBRA criminal case in Oct 2026"
+    },
+    {
+      "id": "argentina",
+      "name": "Argentina",
+      "type": "country",
+      "description": "Site of the LIBRA scandal and its probes"
+    },
+    {
+      "id": "bubblemaps",
+      "name": "Bubblemaps",
+      "type": "company",
+      "description": "On-chain analytics firm that linked LIBRA and MELANIA wallets"
+    },
+    {
+      "id": "arkham-intelligence",
+      "name": "Arkham Intelligence",
+      "type": "company",
+      "description": "On-chain analytics firm that tracked TRUMP-team wallets"
+    },
+    {
+      "id": "lookonchain",
+      "name": "Lookonchain",
+      "type": "company",
+      "description": "On-chain analytics account that tracked sniping and liquidity pulls"
+    },
+    {
+      "id": "chainalysis",
+      "name": "Chainalysis",
+      "type": "company",
+      "description": "Blockchain analytics firm that estimated TRUMP fees and wallet losses"
+    },
+    {
+      "id": "financial-times",
+      "name": "Financial Times",
+      "type": "media",
+      "description": "Estimated $350M+ in TRUMP revenue and about $100M for MELANIA pre-launch buyers"
+    },
+    {
+      "id": "coffeezilla",
+      "name": "Coffeezilla",
+      "type": "media",
+      "description": "Interviewed Davis in Feb 2025"
+    },
+    {
+      "id": "sec",
+      "name": "U.S. Securities and Exchange Commission",
+      "type": "government",
+      "description": "Staff said meme coins are generally not securities; no action taken"
+    },
+    {
+      "id": "elizabeth-warren",
+      "name": "Elizabeth Warren",
+      "type": "person",
+      "description": "Senator who wrote to Fight Fight Fight and the SEC"
+    },
+    {
+      "id": "richard-blumenthal",
+      "name": "Richard Blumenthal",
+      "type": "person",
+      "description": "Senator who wrote to Fight Fight Fight and the SEC"
+    },
+    {
+      "id": "adam-schiff",
+      "name": "Adam Schiff",
+      "type": "person",
+      "description": "Senator who co-signed the April 2026 letter"
+    },
+    {
+      "id": "paul-atkins",
+      "name": "Paul Atkins",
+      "type": "person",
+      "description": "SEC Chair asked to investigate $TRUMP"
+    },
+    {
+      "id": "us-congress",
+      "name": "US Congress",
+      "type": "government",
+      "description": "Minority senators' oversight letters"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "hayden-davis",
+      "target": "kelsier-ventures",
+      "label": "CEO of",
+      "type": "ownership"
+    },
+    {
+      "source": "hayden-davis",
+      "target": "melania-coin",
+      "label": "self-described launch strategist; team sniped launch",
+      "type": "commercial",
+      "date": "2025-01"
+    },
+    {
+      "source": "hayden-davis",
+      "target": "libra-token",
+      "label": "launched and managed liquidity for",
+      "type": "commercial",
+      "date": "2025-02"
+    },
+    {
+      "source": "benjamin-chow",
+      "target": "meteora",
+      "label": "co-founded; resigned as CEO",
+      "type": "ownership",
+      "date": "2025-02-18"
+    },
+    {
+      "source": "meow-jupiter",
+      "target": "meteora",
+      "label": "co-founder; ordered Fenwick & West review",
+      "type": "ownership"
+    },
+    {
+      "source": "meteora",
+      "target": "trump-coin",
+      "label": "hosted launch; takes about 5% of fees",
+      "type": "commercial",
+      "date": "2025-01-17"
+    },
+    {
+      "source": "meteora",
+      "target": "melania-coin",
+      "label": "hosted launch",
+      "type": "commercial",
+      "date": "2025-01-19"
+    },
+    {
+      "source": "meteora",
+      "target": "libra-token",
+      "label": "hosted launch",
+      "type": "commercial",
+      "date": "2025-02-14"
+    },
+    {
+      "source": "meteora",
+      "target": "trump-coin",
+      "label": "airdropped about $4.2M of MET to TRUMP-team wallets",
+      "type": "money",
+      "date": "2025-10-23",
+      "amount_usd": 4200000
+    },
+    {
+      "source": "mkt-world-llc",
+      "target": "melania-coin",
+      "label": "issuer of",
+      "type": "ownership"
+    },
+    {
+      "source": "melania-trump",
+      "target": "mkt-world-llc",
+      "label": "controls",
+      "type": "ownership"
+    },
+    {
+      "source": "fight-fight-fight-llc",
+      "target": "trump-coin",
+      "label": "co-issuer; co-holds 80% of supply",
+      "type": "ownership"
+    },
+    {
+      "source": "cic-digital",
+      "target": "trump-coin",
+      "label": "co-issuer; co-holds 80% of supply",
+      "type": "ownership"
+    },
+    {
+      "source": "celebration-cards-llc",
+      "target": "fight-fight-fight-llc",
+      "label": "owns",
+      "type": "ownership"
+    },
+    {
+      "source": "bill-zanker",
+      "target": "fight-fight-fight-llc",
+      "label": "runs",
+      "type": "ownership"
+    },
+    {
+      "source": "trump-organization",
+      "target": "cic-digital",
+      "label": "affiliate",
+      "type": "ownership"
+    },
+    {
+      "source": "cic-digital",
+      "target": "donald-trump",
+      "label": "pays meme-coin royalties ($635M in 2025)",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 635068835
+    },
+    {
+      "source": "trump-coin",
+      "target": "fight-fight-fight-llc",
+      "label": "generated at least $350M in token sales and fees for operating entities (FT estimate)",
+      "type": "money",
+      "date": "2025-03",
+      "amount_usd": 350000000
+    },
+    {
+      "source": "burwick-law",
+      "target": "hurlock-v-kelsier",
+      "label": "plaintiffs' counsel in",
+      "type": "legal",
+      "date": "2025-03"
+    },
+    {
+      "source": "hurlock-v-kelsier",
+      "target": "benjamin-chow",
+      "label": "named as alleged orchestrator",
+      "type": "legal",
+      "date": "2025-10-21"
+    },
+    {
+      "source": "hurlock-v-kelsier",
+      "target": "hayden-davis",
+      "label": "defendant",
+      "type": "legal"
+    },
+    {
+      "source": "hurlock-v-kelsier",
+      "target": "kelsier-ventures",
+      "label": "defendant",
+      "type": "legal"
+    },
+    {
+      "source": "hurlock-v-kelsier",
+      "target": "meteora",
+      "label": "defendant",
+      "type": "legal"
+    },
+    {
+      "source": "hurlock-v-kelsier",
+      "target": "melania-coin",
+      "label": "proposed to add; denied as futile",
+      "type": "legal",
+      "date": "2026-09-29"
+    },
+    {
+      "source": "hurlock-v-kelsier",
+      "target": "melania-trump",
+      "label": "described as a 'prop'; not a defendant",
+      "type": "legal",
+      "date": "2025-10-21"
+    },
+    {
+      "source": "jennifer-rochon",
+      "target": "hurlock-v-kelsier",
+      "label": "unfroze $57.6M USDC; dismissed with prejudice",
+      "type": "legal",
+      "date": "2026-09-29",
+      "amount_usd": 57600000
+    },
+    {
+      "source": "marcelo-martinez-de-giorgi",
+      "target": "javier-milei",
+      "label": "dismissed LIBRA criminal case against",
+      "type": "legal",
+      "date": "2026-10"
+    },
+    {
+      "source": "marcelo-martinez-de-giorgi",
+      "target": "hayden-davis",
+      "label": "dismissed LIBRA criminal case against",
+      "type": "legal",
+      "date": "2026-10"
+    },
+    {
+      "source": "javier-milei",
+      "target": "libra-token",
+      "label": "promoted",
+      "type": "political",
+      "date": "2025-02-14"
+    },
+    {
+      "source": "karina-milei",
+      "target": "javier-milei",
+      "label": "sister and chief of staff",
+      "type": "family"
+    },
+    {
+      "source": "javier-milei",
+      "target": "argentina",
+      "label": "president of",
+      "type": "political"
+    },
+    {
+      "source": "bubblemaps",
+      "target": "melania-coin",
+      "label": "reported about $30M of community tokens sold; linked wallets to LIBRA",
+      "type": "media",
+      "date": "2025-04"
+    },
+    {
+      "source": "lookonchain",
+      "target": "trump-coin",
+      "label": "tracked about $94M USDC pulled from Meteora pools by team wallets",
+      "type": "media",
+      "date": "2025-12-31",
+      "amount_usd": 94000000
+    },
+    {
+      "source": "arkham-intelligence",
+      "target": "trump-coin",
+      "label": "identified team wallets in MET airdrop",
+      "type": "media",
+      "date": "2025-10-23"
+    },
+    {
+      "source": "financial-times",
+      "target": "melania-coin",
+      "label": "reported 24 pre-announcement wallets made about $100M",
+      "type": "media",
+      "date": "2025-03"
+    },
+    {
+      "source": "chainalysis",
+      "target": "trump-coin",
+      "label": "estimated about $94M in early fees and about $320M by May 2025",
+      "type": "media"
+    },
+    {
+      "source": "coffeezilla",
+      "target": "hayden-davis",
+      "label": "interviewed; Davis admitted sniping",
+      "type": "media",
+      "date": "2025-02"
+    },
+    {
+      "source": "richard-blumenthal",
+      "target": "fight-fight-fight-llc",
+      "label": "oversight letter citing $350M in fees",
+      "type": "regulatory",
+      "date": "2025-05-06"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "bill-zanker",
+      "label": "letter on Mar-a-Lago memecoin conference (with Schiff, Blumenthal)",
+      "type": "regulatory",
+      "date": "2026-04-08"
+    },
+    {
+      "source": "adam-schiff",
+      "target": "fight-fight-fight-llc",
+      "label": "co-signed oversight letter",
+      "type": "regulatory",
+      "date": "2026-04-08"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "paul-atkins",
+      "label": "asked SEC to investigate $TRUMP (with Blumenthal)",
+      "type": "regulatory",
+      "date": "2026-08-04"
+    },
+    {
+      "source": "paul-atkins",
+      "target": "sec",
+      "label": "chairs",
+      "type": "regulatory"
+    },
+    {
+      "source": "sec",
+      "target": "trump-coin",
+      "label": "staff: meme coins generally not securities; no action",
+      "type": "regulatory",
+      "date": "2025-02-27"
+    },
+    {
+      "source": "donald-trump",
+      "target": "melania-trump",
+      "label": "spouse",
+      "type": "family"
+    },
+    {
+      "source": "donald-trump",
+      "target": "trump-coin",
+      "label": "launched and promoted",
+      "type": "commercial",
+      "date": "2025-01-17"
+    }
+  ],
+  "leads": [
+    {
+      "title": "TRUMP-team wallets pulled about $94M USDC from Meteora liquidity in December 2025",
+      "why_connected": "This shows ongoing cash extraction by the $TRUMP operators via single-sided liquidity, the same technique Davis is accused of using on MELANIA and LIBRA.",
+      "entities": [
+        "trump-coin",
+        "fight-fight-fight-llc",
+        "cic-digital",
+        "meteora"
+      ],
+      "source_url": "https://cointelegraph.com/news/wallets-tied-to-official-trump-meme-team-pull-94m-usdc-to-coinbase-in-december"
+    },
+    {
+      "title": "Meteora's MET airdrop gave about $4.2M to TRUMP-team wallets and $1.2M to MELANIA-launch wallets",
+      "why_connected": "These are direct payments from the DEX whose co-founder was sued to the Trump-family token teams, arriving hours after the amended complaint was filed.",
+      "entities": [
+        "meteora",
+        "trump-coin",
+        "melania-coin",
+        "benjamin-chow"
+      ],
+      "source_url": "https://cryptonews.com/news/meteora-gave-trump-team-4-2m-airdrop-hours-after-founder-sued-for-memecoin-scams/"
+    },
+    {
+      "title": "Fight Fight Fight seeks $200M-$1B for a TRUMP digital-asset treasury",
+      "why_connected": "This would be a new vehicle to buy up the collapsing token, run by the same operator (Zanker) that shares revenue with CIC Digital.",
+      "entities": [
+        "fight-fight-fight-llc",
+        "bill-zanker",
+        "trump-coin"
+      ],
+      "source_url": "https://www.theblock.co/amp/post/373745/trump-memecoin-issuer-plans-funding"
+    },
+    {
+      "title": "Warren/Blumenthal ask SEC Chair Atkins to investigate $TRUMP as a possible 'rug pull'",
+      "why_connected": "This is the only formal request for federal regulatory action on the Trump memecoin and tests whether the SEC's hands-off meme-coin stance holds.",
+      "entities": [
+        "elizabeth-warren",
+        "richard-blumenthal",
+        "paul-atkins",
+        "sec",
+        "trump-coin"
+      ],
+      "source_url": "https://theblock.co/news/regulation/2026-08-04-senators-seek-sec-probe-president-trump-memecoin-crypto-bill-enters-pivotal-week-410624"
+    }
+  ],
+  "audit": {
+    "checked": [
+      "SDNY Judge Rochon dismissed the LIBRA/M3M3 class action with prejudice on 2026-09-29 and refused to add MELANIA",
+      "Argentina's LIBRA criminal case dismissed (sobreseimiento) in October 2026",
+      "TRUMP-team wallets withdrew about $94M USDC from Meteora pools in December 2025"
+    ],
+    "result": "upheld",
+    "changes": [
+      "No changes. The dismissal date, the with-prejudice ruling and the denial of the MELANIA/ENRON/TRUST amendment all match fresh coverage (The Defiant, crypto.news, Bitcoin.com). Judge Marcelo Martinez de Giorgi dismissed Javier and Karina Milei and others on 2026-10-23, at the prosecutor's request (Perfil, Criptonoticias). The ~$94M December 2025 USDC drain comes from on-chain trackers (AMBCrypto, CoinGape), and the team has not confirmed intent, which is consistent with the write-up's framing."
+    ],
+    "new_sources": [
+      {
+        "title": "Judge dismisses LIBRA, M3M3 class action with prejudice",
+        "publisher": "The Defiant",
+        "url": "https://thedefiant.io/news/regulation/judge-dismisses-libra-m3m3-class-action-with-prejudice",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "LIBRA lawsuit dismissed as court rejects claims against Meteora and Chow",
+        "publisher": "crypto.news",
+        "url": "https://crypto.news/libra-lawsuit-dismissed-as-court-rejects-claims-against-meteora-and-chow/",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "Causa $LIBRA: sobreseyeron a Javier y Karina Milei",
+        "publisher": "Perfil",
+        "url": "https://www.perfil.com/politica/causa-libra-sobreseyeron-javier-karina-milei-a03c89A4JP5P",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "Is TRUMP being soft rugged? On-chain data points to a $94mln exit",
+        "publisher": "AMBCrypto",
+        "url": "https://ambcrypto.com/is-trump-being-soft-rugged-on-chain-data-points-to-a-94mln-exit/",
+        "date": "2025-12"
+      }
+    ]
+  }
+}

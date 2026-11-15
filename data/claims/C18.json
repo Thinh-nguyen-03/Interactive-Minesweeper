@@ -1,0 +1,560 @@
+{
+  "id": "C18",
+  "title": "Eric Trump: Metaplanet, American Bitcoin and Hut 8",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "Every core fact checks out: Eric Trump's Metaplanet advisory role (March 21, 2025), the Trump brothers' stake in American Bitcoin, the 80% equity Hut 8 got for contributing its miners in a cashless deal, Prusak's 'capital markets and narrative' quote to Wired, and the stock's collapse. The framing goes too far in suggesting Hut 8 gave away its whole mining business. Hut 8 kept its energy and data-center assets, controls and consolidates American Bitcoin, and earns colocation fees from it. The 'five treasury companies' count is a rough but defensible estimate.",
+  "sub_claims": [
+    {
+      "statement": "Eric Trump became a strategic board adviser to Japanese bitcoin company Metaplanet.",
+      "verdict": "confirmed",
+      "finding": "On March 21, 2025, Metaplanet named Eric Trump the first member of its new Strategic Board of Advisors. This is an advisory board, not the board of directors.",
+      "sources": [
+        "https://fidelity.com/news/article/default/202503210102RTRSNEWSCOMBINED_L4N3Q40BP_1",
+        "https://hotfix.coindesk.com/markets/2025/03/21/japan-s-biggest-corporate-bitcoin-holder-adds-eric-trump-as-advisor",
+        "https://decrypt.co/311041/metaplanet-appoints-eric-trump-to-newly-formed-strategic-advisory-board",
+        "https://www.theblock.co/amp/post/347420/bitcoin-focused-metaplanet-appoints-eric-trump-to-advisory-board"
+      ]
+    },
+    {
+      "statement": "Eric Trump and Donald Trump Jr. are part owners of American Bitcoin.",
+      "verdict": "confirmed",
+      "finding": "American Data Centers was formed in February 2025 with Dominari Holdings and the two brothers. It became American Bitcoin on March 31, 2025, with the Trump-linked holders keeping 20%. Eric Trump is co-founder and chief strategy officer; Bloomberg estimated his stake at about 7.5% at the September 2025 listing.",
+      "sources": [
+        "https://www.bisnow.com/news/national/data-center/trump-sons-backed-bitcoin-data-center-firm-may-go-public-following-acquisition-128775",
+        "https://datacenterdynamics.com/en/news/hut-8-acquires-data-center-company-owned-by-trump-sons",
+        "https://www.fintechfutures.com/press-releases/hut-8-and-eric-trump-launch-american-bitcoin-to-set-a-new-standard-in-bitcoin-mining",
+        "https://fortune.com/crypto/2025/03/31/eric-trump-donald-trump-jr-american-bitcoin-hut-8/",
+        "https://www.bloomberg.com/news/articles/2025-09-03/trumps-cash-in-on-crypto-anew-as-american-bitcoin-shares-surge"
+      ]
+    },
+    {
+      "statement": "American Bitcoin is 80% owned by Hut 8, an energy infrastructure company.",
+      "verdict": "confirmed",
+      "finding": "Hut 8 received 80% of the equity at launch. After the Gryphon Digital Mining all-stock merger and the Nasdaq listing (ABTC, September 3, 2025), Hut 8 holds a majority of the stock and about 80% of the voting power. Hut 8 calls itself an 'energy infrastructure platform'.",
+      "sources": [
+        "https://www.fintechfutures.com/press-releases/hut-8-and-eric-trump-launch-american-bitcoin-to-set-a-new-standard-in-bitcoin-mining",
+        "https://www.investing.com/news/sec-filings/hut-8-completes-merger-of-subsidiary-with-gryphon-digital-mining-93CH-4221884",
+        "https://www.nasdaq.com/press-release/american-bitcoin-debuts-nasdaq-abtc-2025-09-03",
+        "https://stockanalysis.com/stocks/hut/company"
+      ]
+    },
+    {
+      "statement": "Hut 8 contributed its mining equipment in exchange for 80%, with no cash known to have changed hands.",
+      "verdict": "mostly-accurate",
+      "finding": "Hut 8's filing and press release confirm it contributed substantially all of its ASIC miners (about 61,000) for newly issued equity, and reports call the deal cashless. However, Hut 8 did not give away '100% of its mining firm'. It kept its power and data-center business, became the exclusive colocation and managed-services provider, and controls and consolidates American Bitcoin.",
+      "sources": [
+        "https://www.fintechfutures.com/press-releases/hut-8-and-eric-trump-launch-american-bitcoin-to-set-a-new-standard-in-bitcoin-mining",
+        "https://datacenterdynamics.com/en/news/hut-8-acquires-data-center-company-owned-by-trump-sons",
+        "https://www.theblock.co/post/348858/hut-8-partners-with-trump-backed-firm-to-launch-american-bitcoin-mining-company"
+      ]
+    },
+    {
+      "statement": "CEO Matt Prusak told Wired the Trump brothers brought access to capital markets and 'narrative'.",
+      "verdict": "confirmed",
+      "finding": "Jessica Klein's Wired feature quotes Prusak saying the brothers brought 'two things to the table': access to capital markets and 'narrative'. The quote was verified via a mirror and reposts; the wired.com original could not be fetched. Prusak later served as president and interim CFO and left on August 4, 2026 for Giga Energy.",
+      "sources": [
+        "https://wirednews.pages.dev/story/the-inside-story-of-eric-trumps-american-bitcoin",
+        "https://blockspace.media/insight/matt-prusak-joins-giga-energy-cbo-cfo/",
+        "https://www.stocktitan.net/sec-filings/ABTC/8-k-american-bitcoin-corp-reports-material-event-f6ce829c2016.html"
+      ]
+    },
+    {
+      "statement": "The Trump family is linked to about five crypto treasury companies.",
+      "verdict": "partly-accurate",
+      "finding": "Five links can be documented: American Bitcoin (ownership), Trump Media (bitcoin treasury), ALT5 Sigma (WLFI treasury), Thumzup (Don Jr. stake) and Metaplanet (Eric as adviser). The nature of the links varies widely, and I found no published source that gives a count of five.",
+      "sources": [
+        "https://fortune.com/crypto/2025/08/11/world-liberty-financial-1-5-billion-alt5-sigma-alts-crypto-treasury-company-trump/",
+        "https://www.theblock.co/post/361885/thumzup-xrp-sol-doge-more-bitcoin-treasury-trump-jr",
+        "https://cointelegraph.com/news/trump-jr-tied-firm-raises-50m-crypto-buys-mining-rigs",
+        "https://coinmarketcap.com/academy/article/trump-crypto-billion-dollar-business",
+        "https://fidelity.com/news/article/default/202503210102RTRSNEWSCOMBINED_L4N3Q40BP_1"
+      ]
+    },
+    {
+      "statement": "American Bitcoin stock has performed poorly.",
+      "verdict": "confirmed",
+      "finding": "The stock surged at its September 2025 debut, fell about 40% when the lockup expired on December 2, 2025, and was about 70% off its peak by December 2025. By 2026 it was more than 90-95% below its peak, with a 1-for-15 reverse split and an $82M Q1 2026 loss.",
+      "sources": [
+        "https://www.theblock.co/post/381173/american-bitcoin-dips-40-eric-trump",
+        "https://www.bloomberg.com/news/articles/2025-12-02/trump-family-linked-american-bitcoin-sinks-on-crypto-downturn",
+        "https://www.bloomberg.com/news/articles/2025-12-05/the-man-who-got-eric-trump-into-american-bitcoin-before-70-rout",
+        "https://decrypt.co/367150/trump-backed-american-bitcoin-shares-fall-82-million-q1-loss",
+        "https://crypto.news/eric-trumps-american-bitcoin-sinks-95-as-stake-loses-600m/"
+      ]
+    }
+  ],
+  "corrections": [
+    "The 'Asher' Eric Trump refers to is Asher Genoot, CEO of Hut 8.",
+    "Claimed: Hut 8 gave away '100% of your Bitcoin mining firm'. The record shows: Hut 8 contributed its miner fleet, kept its energy and data-center business, earns colocation and managed-services fees, and controls and consolidates American Bitcoin.",
+    "After the Gryphon merger, 80% is Hut 8's approximate voting power rather than exactly its economic stake.",
+    "Metaplanet's body is a 'Strategic Board of Advisors', not its board of directors."
+  ],
+  "denials_and_context": [
+    "Hut 8 and American Bitcoin present the structure as a way to raise and deploy capital for mining without straining Hut 8's balance sheet.",
+    "Eric Trump blamed the December 2025 drop on pre-merger investors taking profits, said he would not sell, and called the company's fundamentals 'virtually unmatched'.",
+    "No specific regulatory favour to American Bitcoin is documented. The conflict-of-interest point is inference from the president's crypto policy role, not proof of a quid pro quo."
+  ],
+  "sources": [
+    {
+      "title": "Japanese bitcoin company Metaplanet names Eric Trump as advisor",
+      "publisher": "Reuters (via Fidelity)",
+      "url": "https://fidelity.com/news/article/default/202503210102RTRSNEWSCOMBINED_L4N3Q40BP_1",
+      "date": "2025-03-21"
+    },
+    {
+      "title": "Japan's biggest corporate bitcoin holder adds Eric Trump as advisor",
+      "publisher": "CoinDesk",
+      "url": "https://hotfix.coindesk.com/markets/2025/03/21/japan-s-biggest-corporate-bitcoin-holder-adds-eric-trump-as-advisor",
+      "date": "2025-03-21"
+    },
+    {
+      "title": "Metaplanet appoints Eric Trump to newly formed strategic advisory board",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/311041/metaplanet-appoints-eric-trump-to-newly-formed-strategic-advisory-board",
+      "date": "2025-03-21"
+    },
+    {
+      "title": "Bitcoin-focused Metaplanet appoints Eric Trump to advisory board",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/amp/post/347420/bitcoin-focused-metaplanet-appoints-eric-trump-to-advisory-board",
+      "date": "2025-03-21"
+    },
+    {
+      "title": "Bitcoin data center firm backed by Trump's sons may go public following acquisition",
+      "publisher": "Bisnow",
+      "url": "https://www.bisnow.com/news/national/data-center/trump-sons-backed-bitcoin-data-center-firm-may-go-public-following-acquisition-128775",
+      "date": "2025-04"
+    },
+    {
+      "title": "Hut 8 acquires data center company owned by Trump sons",
+      "publisher": "DatacenterDynamics",
+      "url": "https://datacenterdynamics.com/en/news/hut-8-acquires-data-center-company-owned-by-trump-sons",
+      "date": "2025-04"
+    },
+    {
+      "title": "Hut 8 and Eric Trump Launch American Bitcoin to Set a New Standard in Bitcoin Mining",
+      "publisher": "Hut 8 / GlobeNewswire (via FinTech Futures)",
+      "url": "https://www.fintechfutures.com/press-releases/hut-8-and-eric-trump-launch-american-bitcoin-to-set-a-new-standard-in-bitcoin-mining",
+      "date": "2025-03-31"
+    },
+    {
+      "title": "Hut 8 partners with Trump-backed firm to launch American Bitcoin mining company",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/348858/hut-8-partners-with-trump-backed-firm-to-launch-american-bitcoin-mining-company",
+      "date": "2025-03-31"
+    },
+    {
+      "title": "Eric Trump, Donald Trump Jr. and Hut 8 launch American Bitcoin",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/crypto/2025/03/31/eric-trump-donald-trump-jr-american-bitcoin-hut-8/",
+      "date": "2025-03-31"
+    },
+    {
+      "title": "Hut 8 completes merger of subsidiary with Gryphon Digital Mining",
+      "publisher": "Investing.com (SEC filing)",
+      "url": "https://www.investing.com/news/sec-filings/hut-8-completes-merger-of-subsidiary-with-gryphon-digital-mining-93CH-4221884",
+      "date": "2025-09-03"
+    },
+    {
+      "title": "American Bitcoin Debuts on Nasdaq as ABTC",
+      "publisher": "Nasdaq / company press release",
+      "url": "https://www.nasdaq.com/press-release/american-bitcoin-debuts-nasdaq-abtc-2025-09-03",
+      "date": "2025-09-03"
+    },
+    {
+      "title": "Trumps cash in on crypto anew as American Bitcoin shares surge",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-03/trumps-cash-in-on-crypto-anew-as-american-bitcoin-shares-surge",
+      "date": "2025-09-03"
+    },
+    {
+      "title": "Hut 8 Corp. company profile",
+      "publisher": "StockAnalysis",
+      "url": "https://stockanalysis.com/stocks/hut/company",
+      "date": "2026-11"
+    },
+    {
+      "title": "The Inside Story of Eric Trump's American Bitcoin (mirror of Wired article by Jessica Klein)",
+      "publisher": "Wired (mirror)",
+      "url": "https://wirednews.pages.dev/story/the-inside-story-of-eric-trumps-american-bitcoin",
+      "date": "2025"
+    },
+    {
+      "title": "Matt Prusak departs American Bitcoin, joins Giga Energy as chief business officer and interim CFO",
+      "publisher": "Blockspace",
+      "url": "https://blockspace.media/insight/matt-prusak-joins-giga-energy-cbo-cfo/",
+      "date": "2026-08"
+    },
+    {
+      "title": "American Bitcoin Corp 8-K: material event",
+      "publisher": "Stock Titan",
+      "url": "https://www.stocktitan.net/sec-filings/ABTC/8-k-american-bitcoin-corp-reports-material-event-f6ce829c2016.html",
+      "date": "2026-08"
+    },
+    {
+      "title": "World Liberty Financial $1.5 billion ALT5 Sigma crypto treasury",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/crypto/2025/08/11/world-liberty-financial-1-5-billion-alt5-sigma-alts-crypto-treasury-company-trump/",
+      "date": "2025-08-11"
+    },
+    {
+      "title": "Thumzup to add XRP, DOGE, and more to bitcoin-led corporate treasury; Trump Jr. takes stake",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/361885/thumzup-xrp-sol-doge-more-bitcoin-treasury-trump-jr",
+      "date": "2025-07-09"
+    },
+    {
+      "title": "Trump Jr.-tied firm raises $50M, buys mining rigs",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/trump-jr-tied-firm-raises-50m-crypto-buys-mining-rigs",
+      "date": "2025-08"
+    },
+    {
+      "title": "The Definitive Guide to Donald Trump's Crypto Ventures in 2026",
+      "publisher": "CoinMarketCap Academy",
+      "url": "https://coinmarketcap.com/academy/article/trump-crypto-billion-dollar-business",
+      "date": "2026"
+    },
+    {
+      "title": "Eric Trump's American Bitcoin dips 40% after token lockup expires",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/381173/american-bitcoin-dips-40-eric-trump",
+      "date": "2025-12-02"
+    },
+    {
+      "title": "Crypto Firm Tied to Trumps Sees Shares Sink as Lockup Ends",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-02/trump-family-linked-american-bitcoin-sinks-on-crypto-downturn",
+      "date": "2025-12-02"
+    },
+    {
+      "title": "The man who got Eric Trump into American Bitcoin before 70% rout",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-05/the-man-who-got-eric-trump-into-american-bitcoin-before-70-rout",
+      "date": "2025-12-05"
+    },
+    {
+      "title": "Trump-Backed American Bitcoin Shares Fall After $82 Million Q1 Loss",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/367150/trump-backed-american-bitcoin-shares-fall-82-million-q1-loss",
+      "date": "2026-05"
+    },
+    {
+      "title": "Eric Trump's American Bitcoin sinks 95% as stake loses $600M",
+      "publisher": "crypto.news",
+      "url": "https://crypto.news/eric-trumps-american-bitcoin-sinks-95-as-stake-loses-600m/",
+      "date": "2026"
+    }
+  ],
+  "entities": [
+    {
+      "id": "eric-trump",
+      "name": "Eric Trump",
+      "type": "person",
+      "description": "Trump Organization EVP; co-founder and chief strategy officer of American Bitcoin; Metaplanet adviser."
+    },
+    {
+      "id": "donald-trump-jr",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "Co-owner of American Bitcoin via American Data Centers; Thumzup investor."
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "US president; self-styled 'crypto president'."
+    },
+    {
+      "id": "matt-prusak",
+      "name": "Matt Prusak",
+      "type": "person",
+      "description": "Former Hut 8 executive; American Bitcoin CEO at launch; left in August 2026 for Giga Energy."
+    },
+    {
+      "id": "asher-genoot",
+      "name": "Asher Genoot",
+      "type": "person",
+      "description": "CEO of Hut 8 (the 'Asher' Eric Trump refers to)."
+    },
+    {
+      "id": "molly-white",
+      "name": "Molly White",
+      "type": "person",
+      "description": "Crypto researcher who has criticised the American Bitcoin deal."
+    },
+    {
+      "id": "metaplanet",
+      "name": "Metaplanet",
+      "type": "company",
+      "description": "Tokyo-listed bitcoin treasury company."
+    },
+    {
+      "id": "american-bitcoin",
+      "name": "American Bitcoin Corp. (ABTC)",
+      "type": "company",
+      "description": "Bitcoin miner/treasury company; Nasdaq-listed since September 2025 via Gryphon merger."
+    },
+    {
+      "id": "hut-8",
+      "name": "Hut 8 Corp.",
+      "type": "company",
+      "description": "Energy infrastructure platform and bitcoin miner; majority owner of American Bitcoin."
+    },
+    {
+      "id": "american-data-centers",
+      "name": "American Data Centers Inc.",
+      "type": "company",
+      "description": "Trump-brothers/Dominari venture formed in February 2025; renamed American Bitcoin."
+    },
+    {
+      "id": "dominari-holdings",
+      "name": "Dominari Holdings",
+      "type": "company",
+      "description": "Small investment firm; the Trump brothers are on its board or advise it; co-formed American Data Centers."
+    },
+    {
+      "id": "gryphon-digital-mining",
+      "name": "Gryphon Digital Mining",
+      "type": "company",
+      "description": "Nasdaq-listed miner merged with American Bitcoin (all-stock) in September 2025."
+    },
+    {
+      "id": "trump-media-technology-group",
+      "name": "Trump Media & Technology Group",
+      "type": "company",
+      "description": "Truth Social parent; holds a bitcoin treasury."
+    },
+    {
+      "id": "alt5-sigma",
+      "name": "ALT5 Sigma",
+      "type": "company",
+      "description": "WLFI-token treasury company tied to World Liberty Financial."
+    },
+    {
+      "id": "thumzup-media",
+      "name": "Thumzup Media",
+      "type": "company",
+      "description": "Ad-tech firm turned multi-coin treasury and Dogecoin miner; Don Jr. holds a stake."
+    },
+    {
+      "id": "world-liberty-financial",
+      "name": "World Liberty Financial",
+      "type": "company",
+      "description": "Trump-family crypto venture."
+    },
+    {
+      "id": "giga-energy",
+      "name": "Giga Energy",
+      "type": "company",
+      "description": "AI/HPC energy infrastructure firm Prusak joined in August 2026."
+    },
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "type": "asset",
+      "description": "Cryptocurrency mined and held by American Bitcoin and Metaplanet."
+    },
+    {
+      "id": "wired",
+      "name": "Wired",
+      "type": "media",
+      "description": "Published the Jessica Klein feature on American Bitcoin."
+    },
+    {
+      "id": "japan",
+      "name": "Japan",
+      "type": "country",
+      "description": "Home country of Metaplanet."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "eric-trump",
+      "target": "metaplanet",
+      "label": "named to Strategic Board of Advisors of",
+      "type": "advisory",
+      "date": "2025-03-21"
+    },
+    {
+      "source": "eric-trump",
+      "target": "american-bitcoin",
+      "label": "co-founder, chief strategy officer and shareholder of",
+      "type": "ownership",
+      "date": "2025-03-31"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "american-bitcoin",
+      "label": "co-owner of",
+      "type": "ownership",
+      "date": "2025-03-31"
+    },
+    {
+      "source": "eric-trump",
+      "target": "american-data-centers",
+      "label": "co-founded",
+      "type": "ownership",
+      "date": "2025-02"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "american-data-centers",
+      "label": "co-founded",
+      "type": "ownership",
+      "date": "2025-02"
+    },
+    {
+      "source": "dominari-holdings",
+      "target": "american-data-centers",
+      "label": "co-formed and held stake in",
+      "type": "ownership",
+      "date": "2025-02"
+    },
+    {
+      "source": "eric-trump",
+      "target": "dominari-holdings",
+      "label": "board member/adviser of",
+      "type": "advisory",
+      "date": "2025-02"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "dominari-holdings",
+      "label": "board member/adviser of",
+      "type": "advisory",
+      "date": "2025-02"
+    },
+    {
+      "source": "hut-8",
+      "target": "american-bitcoin",
+      "label": "contributed ASIC miners for 80% equity in",
+      "type": "ownership",
+      "date": "2025-03-31"
+    },
+    {
+      "source": "american-data-centers",
+      "target": "american-bitcoin",
+      "label": "renamed as",
+      "type": "commercial",
+      "date": "2025-03-31"
+    },
+    {
+      "source": "hut-8",
+      "target": "american-bitcoin",
+      "label": "exclusive colocation and managed-services provider to",
+      "type": "commercial",
+      "date": "2025-03-31"
+    },
+    {
+      "source": "american-bitcoin",
+      "target": "gryphon-digital-mining",
+      "label": "merged (all-stock) to list on Nasdaq via",
+      "type": "commercial",
+      "date": "2025-09-03"
+    },
+    {
+      "source": "matt-prusak",
+      "target": "american-bitcoin",
+      "label": "CEO of (later president/interim CFO; left 2026-08)",
+      "type": "advisory",
+      "date": "2025-03-31"
+    },
+    {
+      "source": "matt-prusak",
+      "target": "wired",
+      "label": "told brothers bring capital-markets access and 'narrative'",
+      "type": "media",
+      "date": "2025"
+    },
+    {
+      "source": "matt-prusak",
+      "target": "giga-energy",
+      "label": "joined as chief business officer",
+      "type": "commercial",
+      "date": "2026-08-04"
+    },
+    {
+      "source": "asher-genoot",
+      "target": "hut-8",
+      "label": "CEO of",
+      "type": "advisory"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "thumzup-media",
+      "label": "took stake in",
+      "type": "ownership",
+      "date": "2025-07"
+    },
+    {
+      "source": "donald-trump",
+      "target": "trump-media-technology-group",
+      "label": "largest shareholder of",
+      "type": "ownership"
+    },
+    {
+      "source": "world-liberty-financial",
+      "target": "alt5-sigma",
+      "label": "WLFI treasury partner of",
+      "type": "commercial",
+      "date": "2025-08"
+    },
+    {
+      "source": "american-bitcoin",
+      "target": "bitcoin",
+      "label": "mines and holds",
+      "type": "commercial"
+    },
+    {
+      "source": "metaplanet",
+      "target": "bitcoin",
+      "label": "holds as treasury asset",
+      "type": "commercial"
+    },
+    {
+      "source": "metaplanet",
+      "target": "japan",
+      "label": "listed in",
+      "type": "commercial"
+    },
+    {
+      "source": "molly-white",
+      "target": "american-bitcoin",
+      "label": "criticised",
+      "type": "media"
+    }
+  ],
+  "audit": {
+    "checked": [
+      "1-for-15 reverse split of American Bitcoin (effective July 2026) to keep its Nasdaq listing",
+      "Q1 2026 net loss of about $82M",
+      "Matt Prusak's departure on 4 Aug 2026 for Giga Energy"
+    ],
+    "result": "upheld",
+    "changes": [
+      "No factual changes. The reverse split took effect on 2 Jul 2026, with split-adjusted trading from 6 Jul. The Q1 2026 net loss was $81.8M, driven by a $117.2M mark-to-market loss on bitcoin. Prusak left on 4 Aug 2026 to become Giga Energy's chief business officer and interim CFO, and Paul Sacks became ABTC's interim CFO."
+    ],
+    "new_sources": [
+      {
+        "title": "Trump-backed American Bitcoin sets 1-for-15 reverse stock split in bid to maintain Nasdaq listing",
+        "publisher": "The Block",
+        "url": "https://theblock.co/post/406941/trump-backed-american-bitcoin-1-for-15-reverse-stock-split-maintain-nasdaq-listing",
+        "date": "2026-07"
+      },
+      {
+        "title": "Eric Trump's American Bitcoin reports $82 million loss in Q1 amid 'record' mining production",
+        "publisher": "The Block",
+        "url": "https://www.theblock.co/post/400327/eric-trump-american-bitcoin-82-million-loss-q1",
+        "date": "2026-05-06"
+      },
+      {
+        "title": "Executive Shift in Bitcoin Mining: Matt Prusak Joins Giga Energy",
+        "publisher": "Value The Markets",
+        "url": "https://www.valuethemarkets.com/cryptocurrency/news/executive-shift-in-bitcoin-mining-matt-prusak-joins-giga-energy",
+        "date": "2026-07"
+      }
+    ]
+  }
+}

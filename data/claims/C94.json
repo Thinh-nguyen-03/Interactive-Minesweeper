@@ -1,0 +1,1045 @@
+{
+  "id": "C94",
+  "title": "The Lukoil foreign-assets sale: Boehly's consortium and who is in it",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "The bidder sequence is documented: Gunvor was killed by Treasury (Nov 2025), the Boehly/Allied bid fronted by Xtellus, a former VTB Capital unit, was rejected (Dec 2025), Carlyle's Jan 2026 deal lapsed, and a Boehly-led consortium now leads. The consortium's reported members are IHC, Allied Investment Partners, Al Hail, the Al-Khayyat brothers and the DFC, which together tie Gulf partners of the Trump family (WLF), Kushner (Affinity, Albania) and envoy Barrack (UCC) to a deal the administration must licence. The weightiest points are single-source NYT reporting: that Putin raised the sale with Witkoff and Kushner, and that the envoys helped negotiate the DFC's stake. Witkoff denies any stake, and no source documents personal benefit. As of 14 Nov 2026 nothing had been signed, and the OFAC negotiation licence ran to 21 Nov 2026.",
+  "sub_claims": [
+    {
+      "statement": "Gunvor's ~$22B agreement to buy Lukoil International was killed by a public US Treasury rebuke and withdrawn.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED (multiple outlets). Gunvor agreed in late Oct 2025 to buy Lukoil International GmbH for about $22B. On 6 Nov 2025 the US Treasury posted on X that 'the Kremlin's puppet, Gunvor, will never get a licence to operate and profit'. Gunvor called the statement 'fundamentally misinformed and false' and withdrew the bid. Co-founder Gennady Timchenko sold his stake to Torbjorn Tornqvist in 2014; Tornqvist's holding is reported as 85% or 88%. No Trump-family or administration tie to Gunvor was found. The withdrawal happened in Nov 2025, not 2026.",
+      "sources": [
+        "https://kyivindependent.com/gunvor-withdraws-offer-for-russias-lukoil-assets-after-us-calls-it-kremlins-puppet",
+        "https://www.euronews.com/2025/11/07/swiss-firm-gunvor-drops-plan-to-buy-lukoil-assets-after-us-resistance"
+      ]
+    },
+    {
+      "statement": "Boehly's first attempt came in Dec 2025, fronted by Xtellus Partners (a former VTB Capital US unit) with UAE-based Allied Investment Partners, and Treasury rejected it.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED AS REUTERS REPORTING (multiple relays, anonymous sources). Xtellus is a New York bank formed in 2018 through a management buyout of VTB Capital's US arm. In Dec 2025 it pitched Treasury a cashless swap: frozen Lukoil shares held by US investors would be exchanged for LIG's assets. Per Reuters, Xtellus was advising Todd Boehly and Allied Investment Partners. Reuters reported on 10 Dec that Lukoil favoured the bid, and on 15-16 Dec (four sources) that Treasury had rejected it because Lukoil must not profit in cash or shares. The Nov 2026 Boehly plan reuses the swap structure, with the shares held in escrow. Boehly's interest therefore predates the Sep-Oct 2026 peace-talk reporting by about nine months.",
+      "sources": [
+        "https://www.oilandgas360.com/exclusive-us-bank-floats-plan-to-repay-us-investors-via-lukoil-asset-sale-sources-say/",
+        "https://www.marketscreener.com/news/lukoil-leans-towards-xtellus-cashless-bid-for-its-foreign-assets-ce7d50dbd88df327",
+        "https://uk.marketscreener.com/news/u-s-treasury-rejects-xtellus-led-bid-for-lukoil-assets-sources-say-ce7d50d9dc8af222",
+        "https://tass.com/economy/2058893"
+      ]
+    },
+    {
+      "statement": "Lukoil hired former Trump 2024 campaign senior adviser Bryan Lanza (Mercury Public Affairs) to deal with Treasury over the sale.",
+      "verdict": "confirmed",
+      "finding": "SINGLE-SOURCE (Politico, Dec 2025, two people familiar; seen only through relays). Lanza and Mercury began advising Lukoil International in late 2025. Politico said their contacts with Treasury helped win the extension of the deadline from 13 Dec 2025 to 17 Jan 2026. Politico also reported the work was treated as commercial, so no FARA or LDA registration was required; we found no filing. Lanza, Mercury and Lukoil did not comment. Some outlets spell the name 'Brian'.",
+      "sources": [
+        "https://www.pravda.com.ua/eng/news/2025/12/12/8011596/",
+        "https://euromaidanpress.com/2025/12/12/ex-trump-campaign-adviser-now-consulting-for-sanctioned-russian-oil-giant-seeking-buyer-for-global-assets/"
+      ]
+    },
+    {
+      "statement": "Carlyle signed a deal for most of Lukoil's foreign assets in Jan 2026 and later dropped out.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED. On 29 Jan 2026 Lukoil announced a conditional, non-exclusive agreement with Carlyle that excluded Kazakhstan. No price was disclosed; the assets are estimated at up to $22B. Carlyle explored UAE partners in Feb 2026. The agreement lapsed without OFAC approval, according to LIG's annual report. Bloomberg reported on 8 Oct 2026 that Carlyle had confirmed the expiry, which relays describe as a withdrawal. No Trump-family or administration tie to Carlyle surfaced in our searches.",
+      "sources": [
+        "https://www.rigzone.com/news/wire/lukoil_to_sell_most_of_foreign_assets_to_carlyle-29-jan-2026-182878-article/",
+        "https://www.thenationalnews.com/business/energy/2026/01/29/lukoil-agrees-conditional-sale-of-overseas-assets-to-carlyle",
+        "https://hydrocarbonprocessing.com/news/2026/02/carlyle-in-talks-with-potential-uae-partners-on-lukoil-assets/",
+        "https://www.citybiz.co/?p=916770",
+        "https://www.privateequitywire.co.uk/carlyles-lukoil-oversees-assets-deal-expires/"
+      ]
+    },
+    {
+      "statement": "The leading bidder is a Boehly-led consortium of IHC, Allied Investment Partners, Al Hail Holding, the Al-Khayyat brothers and the US DFC, structured as an escrowed share swap.",
+      "verdict": "mostly-accurate",
+      "finding": "DOCUMENTED AS PRESS REPORTING (FT Sep 2026; Reuters 3 Nov 2026; NYT relays). Terms are unconfirmed. Per the FT, the DFC would take a 'mid-teens' equity stake (other relays say 10-20%). Boehly and the DFC would control a majority of the board, and IHC and Allied would lead on the Gulf side. Per Reuters on 3 Nov 2026, the deal is a cashless swap of frozen Lukoil securities held by Western funds, including Capital Group. An unnamed foreign bank had already bought Lukoil paper. The shares would go into escrow rather than to Lukoil, and a deal was 'expected within weeks'. Lukoil and Treasury did not comment; Al Hail, the Al-Khayyats and the DFC did not respond. IHC's interest is documented on its own: it publicly declared interest and notified Treasury in Nov 2025. We could not establish Al Hail Holding's owners. Its CEO is Hamad Jassim Al Darwish, and no source ties it to Tahnoon. Audit: both the FT (Sep 2026) and Reuters (3 Nov 2026) rest on anonymous sources; one says the final structure is not settled. IHC's spokesperson said it does not comment on potential investments. No price for the Boehly bid has been disclosed; Reuters says the assets' value has fallen from the ~$20-22B first estimated.",
+      "sources": [
+        "https://meduza.io/en/news/2026/09/23/former-chelsea-co-owner-todd-boehly-seeks-to-buy-lukoil-s-foreign-assets",
+        "https://lavocedinewyork.com/en/news/2026/09/23/boehly-builds-consortium-to-outbid-carlyle-for-lukoil-assets/",
+        "https://kurs.com.ua/en/novost/1481002-konsorcium-za-uchastju-urjadu-ssha-pretendue-na-zakordonni-aktivi-lukoilu",
+        "https://semafor.com/article/09/23/2026/abu-dhabi-firms-are-hunting-energy-assets-beyond-the-gulf",
+        "https://brazilenergyinsight.com/2026/11/04/us-billionaire-leads-swap-plan-to-buy-lukoils-overseas-assets-sources-say/",
+        "https://kurs.com.ua/en/novost/1486880-amerikanskii-miljarder-skupovue-zamorozheni-akciyi-zaradi-aktiviv-lukoilu-reuters",
+        "https://novayagazeta.ru/articles/2026/11/06/araby-vkhodiat-v-doliu",
+        "https://www.bloomberg.com/news/articles/2025-11-21/abu-dhabi-s-ihc-says-it-s-interested-in-lukoil-s-overseas-assets",
+        "https://gulfnews.com/business/energy/uaes-ihc-eyes-overseas-operations-of-russias-lukoil-amid-us-sanctions-1.500355940"
+      ]
+    },
+    {
+      "statement": "Boehly is a Trump donor.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED; THE AMOUNT IS DISPUTED. NBC's FEC analysis lists Boehly among new $1M+ MAGA Inc. donors, and Eldridge gave $1M to the inaugural (C86). Novaya Gazeta reports $1M to MAGA Inc. plus $1M to the inaugural; NYT relays say $2M in total. No source we found links Boehly personally to Witkoff.",
+      "sources": [
+        "https://www.nbcnews.com/politics/politics-news/new-megadonors-major-business-government-back-trumps-super-pac-rcna252867",
+        "https://novayagazeta.ru/articles/2026/11/06/araby-vkhodiat-v-doliu",
+        "https://meduza.io/en/news/2026/10/05/lukoil-s-foreign-asset-sale-becomes-part-of-u-s-russia-talks-on-ending-ukraine-war-nyt-reports"
+      ]
+    },
+    {
+      "statement": "Consortium partner Tahnoon/IHC is a business partner of the Trump family (WLF) and of Kushner (Affinity).",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED IN THE PROJECT (C57/C06) AND ASSERTED BY THE NYT. Tahnoon-linked Aryam bought 49% of World Liberty Financial, which the Witkoffs and Trump's sons co-founded. Tahnoon-overseen Lunate invested in Affinity Partners. Per relays, the NYT describes 'two Middle Eastern groups that have done business with Kushner or Witkoff's family'. It says Trump, his three sons, Kushner, Ivanka Trump and the Witkoff family all have financial ties to partners in the deal, but none holds a direct stake in the transaction.",
+      "sources": [
+        "https://mediaite.com/media/news/us-russia-peace-talks-now-include-multi-billion-dollar-oil-deal-tied-to-trump-negotiators-nyt",
+        "https://meduza.io/en/news/2026/10/05/lukoil-s-foreign-asset-sale-becomes-part-of-u-s-russia-talks-on-ending-ukraine-war-nyt-reports",
+        "https://eualive.net/billionaire-close-to-trump-family-emerges-as-prospective-buyer-of-lukoil-assets/"
+      ]
+    },
+    {
+      "statement": "The Al-Khayyat brothers are partners of Kushner and Ivanka Trump in the Sazan, Albania resort.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED; THIS UPGRADES C76's SINGLE-SOURCE GRADE. Ramez Al-Khayyat confirmed the partnership to the NYT (via Balkanweb). A Sazan Real Estate spokesperson confirmed the brothers' involvement to CBS, which saw filings naming their Qatar-based Assets Group as partner. OCCRP cites a March 2026 Albanian registry declaration naming Moutaz and Ramez Al-Khayyat as ultimate beneficial owners. SPAK froze accounts of Albania Land Development, which the brothers own, in May-June 2026. Kushner describes himself as a minority partner (C45). Audit: re-confirmed. Balkanweb dates the NYT investigation in which Ramez Al-Khayyat confirmed the partnership to 19 Apr 2026. No source we found says the partnership has ended.",
+      "sources": [
+        "https://www.balkanweb.com/en/Two-Qatari-billionaires-and-a-complex-network-of-companies-behind-the-Sazan-project/",
+        "https://cbsnews.com/news/albania-protests-jared-kushner-luxury-resort-plans-anti-corruption",
+        "https://www.occrp.org/en/scoop/albanian-drug-trafficking-investigation-overlaps-with-probe-into-planned-resort-that-sparked-flamingo-revolution",
+        "https://en.politis.com.cy/news/world/1014327/kushner-linked-albania-project-backed-by-qatari-billionaires"
+      ]
+    },
+    {
+      "statement": "Putin raised the Lukoil sale with Witkoff and Kushner, and the two envoys helped negotiate the terms of the DFC's stake.",
+      "verdict": "unverified",
+      "finding": "SINGLE-SOURCE (NYT, 3 Oct 2026: three unnamed people, plus a senior administration official; read via relays). Putin raised the sale at a 5 Sep 2026 Kremlin meeting. The official said Witkoff and Kushner 'helped negotiate the terms of the federal government's investment', seeking 'a substantial upfront payment and profits interest for the United States'. A DFC representative said the deal would serve US economic security, foreign policy and lower energy prices. Per relays, the Kremlin confirmed on 21 Oct 2026 that Russia and the US were discussing Lukoil's assets. Witkoff's spokeswoman said he 'has no conflict of interest and no financial stake in this matter', and the NYT found no indication that either envoy would profit personally. Dmitriev, who had met Witkoff and Kushner on Russian energy in Mar 2026, defended Kushner on X as a 'peacemaker' (IBTimes, Daily Beast). Per IBTimes, that was a reply to a Kushner post about a separate Israel allegation. We found no Kushner statement on Lukoil specifically.",
+      "sources": [
+        "https://www.pravda.com.ua/eng/news/2026/10/03/8056300/",
+        "https://mediaite.com/media/news/us-russia-peace-talks-now-include-multi-billion-dollar-oil-deal-tied-to-trump-negotiators-nyt",
+        "https://cyprus-mail.com/2026/10/03/us-russia-talks-on-ukraine-involve-multi-billion-dollar-oil-deal-nyt-reports",
+        "https://meduza.io/en/news/2026/10/05/lukoil-s-foreign-asset-sale-becomes-part-of-u-s-russia-talks-on-ending-ukraine-war-nyt-reports",
+        "https://kyivindependent.com/u-s-peace-negotiations-with-russia-could-now-involve-multi-billion-dollar-lukoil-deal-nyt-reports/",
+        "https://www.ibtimes.co.uk/putin-envoy-defends-kushner-over-lukoil-deal-1823543",
+        "https://thedailybeast.com/kremlin-rushes-to-defend-jared-kushner-as-murky-deal-is-exposed/",
+        "https://www.themoscowtimes.com/2026/03/12/putin-envoy-kirill-dmitriev-meets-with-witkoff-and-kushner-to-discuss-russian-energy-a92208"
+      ]
+    },
+    {
+      "statement": "OFAC licences: negotiations are authorised only under time-limited general licences, the latest running to 21 Nov 2026, and any closing needs a separate licence.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED. The GL 131 series covers negotiations and conditional agreements for Lukoil International GmbH. A final transfer needs a separate OFAC authorisation, and proceeds must be blocked (C76 audit). Reported deadline chain: 13 Dec 2025, 17 Jan 2026, 28 Feb, 1 Apr, 30 May, 27 Jun, 25 Jul, 22 Oct, then extended on 21 Oct 2026 to 21 Nov 2026 (GL 131K per C76's audit). OFAC may revoke early if the parties do not negotiate in good faith. Licences for LIG's filling stations and Bulgarian assets run to 24 Apr 2027. Commentators note the structural conflict: the DFC would invest in the buyer while Treasury/OFAC licenses the sale. Audit: GL 131K (issued 21 Oct 2026) keeps the condition that Lukoil may receive no benefit beforehand, for example through an exchange of assets or securities, and requires a buyer to seek OFAC review before reselling significant assets (FesenkoLaw). The consortium's escrow arrangement is reported as its answer to that condition (Reuters, two people). No further extension beyond 21 Nov 2026 had been reported as of 14 Nov 2026.",
+      "sources": [
+        "https://interfax.com/newsroom/top-stories/119637/",
+        "https://kurs.com.ua/en/novost/1485213-vashington-prodovzhiv-termin-prodazhu-zakordonnogo-biznesu-lukoila",
+        "https://shipandbunker.com/news/world/708441-us-again-extends-deadline-for-lukoil-foreign-assets-sale",
+        "https://www.mondaq.com/unitedstates/export-controls-trade-investment-sanctions/1786274/ofac-widens-the-door-on-lukoil-divestments-navigating-gls-131e-and-128c-for-lukoil-divestments",
+        "https://globalsanctions.com/2026/06/us-renews-general-license-for-lukoil-international-sale-until-25-july-2026/",
+        "https://fesenkolaw.com/blog/ofac-gl-131k-one-more-month-for-the-lukoil-deal/"
+      ]
+    },
+    {
+      "statement": "Outcome through Nov 2026.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED AS ABSENCE. As of 14 Nov 2026 no sale had been signed, no OFAC transfer licence had been issued and no DFC commitment had been announced. Reuters said on 3 Nov that a deal was 'expected within weeks'. The 21 Nov 2026 negotiation licence expiry was pending. Audit: a fresh search (14 Nov 2026) found no report of a signed sale, OFAC transfer licence or further GL extension.",
+      "sources": [
+        "https://brazilenergyinsight.com/2026/11/04/us-billionaire-leads-swap-plan-to-buy-lukoils-overseas-assets-sources-say/",
+        "https://interfax.com/newsroom/top-stories/119637/"
+      ]
+    },
+    {
+      "statement": "INFERRED: US envoy Tom Barrack presided over Al-Khayyat (UCC) deals in Syria, and the same family is in the Lukoil consortium.",
+      "verdict": "unverified",
+      "finding": "INFERRED; NO SOURCE ASSERTS A LUKOIL LINK. Barrack attended the 29 May 2025 signing of UCC Holding's roughly $7B Syria power MoU and backs the UCC-linked Kirkuk-Baniyas pipeline (C73, documented). No source puts Barrack in the Lukoil talks. This is our own cross-reference showing the same family as counterparty to two separate US envoys.",
+      "sources": []
+    }
+  ],
+  "corrections": [
+    "C76 graded the Al-Khayyat-Kushner/Ivanka Albania partnership single-source. It is documented: the brothers confirmed it to the NYT, CBS and OCCRP cite filings, and SPAK froze the brothers' company's accounts.",
+    "The claim lists Gunvor's withdrawn bid. That happened in Nov 2025, after a public Treasury rebuke, not during the 2026 bidding.",
+    "Boehly's interest is not a product of the Sep 2026 Kremlin talks. Reuters reported him behind the rejected Xtellus swap bid in Dec 2025.",
+    "Some relays cite a '13 December' Lukoil deadline. That was the 2025 deadline; the current one is 21 Nov 2026.",
+    "C86 uses entity id al-khayyat-family; C76 and C94 use al-khayyat-brothers for the same people."
+  ],
+  "denials_and_context": [
+    "Witkoff's spokeswoman: he 'has no conflict of interest and no financial stake in this matter'. The NYT found no indication that Witkoff or Kushner would personally profit, and reports that the Trump family has no direct stake in the transaction.",
+    "A DFC representative said the deal would advance US economic security, foreign policy and lower energy prices. A senior official framed the envoys' role as securing an upfront payment and profits interest for the US.",
+    "Gunvor called Treasury's 'Kremlin puppet' statement 'fundamentally misinformed and false'.",
+    "Lanza, Mercury and Lukoil did not comment to Politico. Al Hail, the Al-Khayyats and the DFC did not respond to Reuters, and Lukoil and Treasury declined comment.",
+    "Kushner describes himself as a minority partner in the Albania project (C45). We found no Kushner statement on Lukoil specifically.",
+    "Commentators note a structural conflict: one arm of the government (the DFC) would invest in the buyer while another (OFAC) licenses the sale. That is a conflict of roles, not evidence of wrongdoing.",
+    "Most primary outlets (NYT, FT, Reuters, Bloomberg, Politico) could not be read directly, so their reporting is cited through relays."
+  ],
+  "sources": [
+    {
+      "title": "Former Chelsea co-owner Todd Boehly seeks to buy Lukoil's foreign assets (FT relay)",
+      "publisher": "Meduza",
+      "url": "https://meduza.io/en/news/2026/09/23/former-chelsea-co-owner-todd-boehly-seeks-to-buy-lukoil-s-foreign-assets",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "Boehly builds consortium to outbid Carlyle for Lukoil assets",
+      "publisher": "La Voce di New York",
+      "url": "https://lavocedinewyork.com/en/news/2026/09/23/boehly-builds-consortium-to-outbid-carlyle-for-lukoil-assets/",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "Consortium with U.S. government participation lays claim to Lukoil's foreign assets",
+      "publisher": "Kurs.com.ua",
+      "url": "https://kurs.com.ua/en/novost/1481002-konsorcium-za-uchastju-urjadu-ssha-pretendue-na-zakordonni-aktivi-lukoilu",
+      "date": "2026-09"
+    },
+    {
+      "title": "Billionaire close to Trump family emerges as prospective buyer of Lukoil assets",
+      "publisher": "EU Alive",
+      "url": "https://eualive.net/billionaire-close-to-trump-family-emerges-as-prospective-buyer-of-lukoil-assets/",
+      "date": "2026-09"
+    },
+    {
+      "title": "Abu Dhabi firms are hunting energy assets beyond the Gulf",
+      "publisher": "Semafor",
+      "url": "https://semafor.com/article/09/23/2026/abu-dhabi-firms-are-hunting-energy-assets-beyond-the-gulf",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "US and Russia are negotiating multibillion-dollar deal on Lukoil assets, says NYT",
+      "publisher": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/03/8056300/",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "US-Russia Peace Talks Now Include Multi-Billion Dollar Oil Deal Tied to Trump Negotiators: NYT",
+      "publisher": "Mediaite",
+      "url": "https://mediaite.com/media/news/us-russia-peace-talks-now-include-multi-billion-dollar-oil-deal-tied-to-trump-negotiators-nyt",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "US-Russia talks on Ukraine involve multi-billion dollar oil deal, NYT reports (Reuters)",
+      "publisher": "Cyprus Mail",
+      "url": "https://cyprus-mail.com/2026/10/03/us-russia-talks-on-ukraine-involve-multi-billion-dollar-oil-deal-nyt-reports",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "Lukoil's foreign asset sale becomes part of U.S.-Russia talks on ending Ukraine war, NYT reports",
+      "publisher": "Meduza",
+      "url": "https://meduza.io/en/news/2026/10/05/lukoil-s-foreign-asset-sale-becomes-part-of-u-s-russia-talks-on-ending-ukraine-war-nyt-reports",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "U.S. peace negotiations with Russia could now involve multi-billion dollar Lukoil deal, NYT reports",
+      "publisher": "Kyiv Independent",
+      "url": "https://kyivindependent.com/u-s-peace-negotiations-with-russia-could-now-involve-multi-billion-dollar-lukoil-deal-nyt-reports/",
+      "date": "2026-10"
+    },
+    {
+      "title": "US-Russia talks: Lukoil assets, Todd Boehly and Trump investors",
+      "publisher": "WION",
+      "url": "https://www.wionews.com/world/us-russia-talks-lukoil-assets-todd-boehly-trump-investors-1791021292256",
+      "date": "2026-10"
+    },
+    {
+      "title": "Russian Envoy Backs Jared Kushner as Ukraine Peace Talks Expand Into Multibillion-Dollar Oil Deal",
+      "publisher": "IBTimes UK",
+      "url": "https://www.ibtimes.co.uk/putin-envoy-defends-kushner-over-lukoil-deal-1823543",
+      "date": "2026-10"
+    },
+    {
+      "title": "Kremlin rushes to defend Jared Kushner as murky deal is exposed",
+      "publisher": "Daily Beast",
+      "url": "https://thedailybeast.com/kremlin-rushes-to-defend-jared-kushner-as-murky-deal-is-exposed/",
+      "date": "2026-10"
+    },
+    {
+      "title": "US extends Lukoil International sale-negotiation licence to 21 November",
+      "publisher": "Interfax",
+      "url": "https://interfax.com/newsroom/top-stories/119637/",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "Washington extends deadline for sale of Lukoil's foreign business",
+      "publisher": "Kurs.com.ua",
+      "url": "https://kurs.com.ua/en/novost/1485213-vashington-prodovzhiv-termin-prodazhu-zakordonnogo-biznesu-lukoila",
+      "date": "2026-10"
+    },
+    {
+      "title": "US again extends deadline for Lukoil foreign assets sale",
+      "publisher": "Ship & Bunker",
+      "url": "https://shipandbunker.com/news/world/708441-us-again-extends-deadline-for-lukoil-foreign-assets-sale",
+      "date": "2026-10"
+    },
+    {
+      "title": "US billionaire leads swap plan to buy Lukoil's overseas assets, sources say (Reuters)",
+      "publisher": "Brazil Energy Insight",
+      "url": "https://brazilenergyinsight.com/2026/11/04/us-billionaire-leads-swap-plan-to-buy-lukoils-overseas-assets-sources-say/",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "US billionaire buying up frozen shares for Lukoil assets - Reuters",
+      "publisher": "Kurs.com.ua",
+      "url": "https://kurs.com.ua/en/novost/1486880-amerikanskii-miljarder-skupovue-zamorozheni-akciyi-zaradi-aktiviv-lukoilu-reuters",
+      "date": "2026-11"
+    },
+    {
+      "title": "Arabs enter into a share (Araby vkhodiat v doliu)",
+      "publisher": "Novaya Gazeta",
+      "url": "https://novayagazeta.ru/articles/2026/11/06/araby-vkhodiat-v-doliu",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Gunvor withdraws offer for Russia's Lukoil assets after US calls it 'Kremlin's puppet'",
+      "publisher": "Kyiv Independent",
+      "url": "https://kyivindependent.com/gunvor-withdraws-offer-for-russias-lukoil-assets-after-us-calls-it-kremlins-puppet",
+      "date": "2025-11-07"
+    },
+    {
+      "title": "Swiss firm Gunvor drops plan to buy Lukoil assets after US resistance",
+      "publisher": "Euronews",
+      "url": "https://www.euronews.com/2025/11/07/swiss-firm-gunvor-drops-plan-to-buy-lukoil-assets-after-us-resistance",
+      "date": "2025-11-07"
+    },
+    {
+      "title": "Abu Dhabi's IHC Says It's Interested in Lukoil's Overseas Assets",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-21/abu-dhabi-s-ihc-says-it-s-interested-in-lukoil-s-overseas-assets",
+      "date": "2025-11-21"
+    },
+    {
+      "title": "UAE's IHC eyes overseas operations of Russia's Lukoil amid US sanctions",
+      "publisher": "Gulf News",
+      "url": "https://gulfnews.com/business/energy/uaes-ihc-eyes-overseas-operations-of-russias-lukoil-amid-us-sanctions-1.500355940",
+      "date": "2025-11"
+    },
+    {
+      "title": "US bank floats plan to repay US investors via Lukoil asset sale (Reuters)",
+      "publisher": "oilandgas360",
+      "url": "https://www.oilandgas360.com/exclusive-us-bank-floats-plan-to-repay-us-investors-via-lukoil-asset-sale-sources-say/",
+      "date": "2025-12"
+    },
+    {
+      "title": "Lukoil leans towards Xtellus cashless bid for its foreign assets (Reuters)",
+      "publisher": "MarketScreener",
+      "url": "https://www.marketscreener.com/news/lukoil-leans-towards-xtellus-cashless-bid-for-its-foreign-assets-ce7d50dbd88df327",
+      "date": "2025-12-10"
+    },
+    {
+      "title": "U.S. Treasury rejects Xtellus-led bid for Lukoil assets, sources say (Reuters)",
+      "publisher": "MarketScreener",
+      "url": "https://uk.marketscreener.com/news/u-s-treasury-rejects-xtellus-led-bid-for-lukoil-assets-sources-say-ce7d50d9dc8af222",
+      "date": "2025-12"
+    },
+    {
+      "title": "US Treasury rejects Xtellus offer for Lukoil foreign assets (Reuters relay)",
+      "publisher": "TASS",
+      "url": "https://tass.com/economy/2058893",
+      "date": "2025-12"
+    },
+    {
+      "title": "Trump ally who said 'Crimea is gone' becomes consultant to Russian oil giant Lukoil, Politico reports",
+      "publisher": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2025/12/12/8011596/",
+      "date": "2025-12-12"
+    },
+    {
+      "title": "Ex-Trump campaign adviser now consulting for sanctioned Russian oil giant seeking buyer for global assets",
+      "publisher": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2025/12/12/ex-trump-campaign-adviser-now-consulting-for-sanctioned-russian-oil-giant-seeking-buyer-for-global-assets/",
+      "date": "2025-12-12"
+    },
+    {
+      "title": "Lukoil to Sell Most of Foreign Assets to Carlyle",
+      "publisher": "Rigzone",
+      "url": "https://www.rigzone.com/news/wire/lukoil_to_sell_most_of_foreign_assets_to_carlyle-29-jan-2026-182878-article/",
+      "date": "2026-01-29"
+    },
+    {
+      "title": "Lukoil agrees conditional sale of overseas assets to Carlyle",
+      "publisher": "The National",
+      "url": "https://www.thenationalnews.com/business/energy/2026/01/29/lukoil-agrees-conditional-sale-of-overseas-assets-to-carlyle",
+      "date": "2026-01-29"
+    },
+    {
+      "title": "Carlyle in talks with potential UAE partners on Lukoil assets",
+      "publisher": "Hydrocarbon Processing",
+      "url": "https://hydrocarbonprocessing.com/news/2026/02/carlyle-in-talks-with-potential-uae-partners-on-lukoil-assets/",
+      "date": "2026-02"
+    },
+    {
+      "title": "Carlyle Ends Pursuit of Lukoil International Assets as Rival Investors Emerge",
+      "publisher": "CityBiz (Bloomberg relay)",
+      "url": "https://www.citybiz.co/?p=916770",
+      "date": "2026-10"
+    },
+    {
+      "title": "Carlyle's Lukoil overseas assets deal expires",
+      "publisher": "PrivateEquityWire",
+      "url": "https://www.privateequitywire.co.uk/carlyles-lukoil-oversees-assets-deal-expires/",
+      "date": "2026-10"
+    },
+    {
+      "title": "Putin envoy Kirill Dmitriev meets with Witkoff and Kushner to discuss Russian energy",
+      "publisher": "Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/03/12/putin-envoy-kirill-dmitriev-meets-with-witkoff-and-kushner-to-discuss-russian-energy-a92208",
+      "date": "2026-03-12"
+    },
+    {
+      "title": "New megadonors with major business before the government back Trump's super PAC",
+      "publisher": "NBC News",
+      "url": "https://www.nbcnews.com/politics/politics-news/new-megadonors-major-business-government-back-trumps-super-pac-rcna252867",
+      "date": "2025"
+    },
+    {
+      "title": "Albania protests over Jared Kushner luxury resort plans",
+      "publisher": "CBS News",
+      "url": "https://cbsnews.com/news/albania-protests-jared-kushner-luxury-resort-plans-anti-corruption",
+      "date": "2026"
+    },
+    {
+      "title": "Two Qatari billionaires and a complex network of companies behind the Sazan project (NYT relay)",
+      "publisher": "Balkanweb",
+      "url": "https://www.balkanweb.com/en/Two-Qatari-billionaires-and-a-complex-network-of-companies-behind-the-Sazan-project/",
+      "date": "2026"
+    },
+    {
+      "title": "Albanian Drug Trafficking Investigation Overlaps with Probe into Planned Resort that Sparked 'Flamingo Revolution'",
+      "publisher": "OCCRP",
+      "url": "https://www.occrp.org/en/scoop/albanian-drug-trafficking-investigation-overlaps-with-probe-into-planned-resort-that-sparked-flamingo-revolution",
+      "date": "2026"
+    },
+    {
+      "title": "Kushner-Linked Albania Project Backed by Qatari Billionaires",
+      "publisher": "Politis",
+      "url": "https://en.politis.com.cy/news/world/1014327/kushner-linked-albania-project-backed-by-qatari-billionaires",
+      "date": "2026"
+    },
+    {
+      "title": "OFAC widens the door on Lukoil divestments: navigating GLs 131E and 128C",
+      "publisher": "Mondaq",
+      "url": "https://www.mondaq.com/unitedstates/export-controls-trade-investment-sanctions/1786274/ofac-widens-the-door-on-lukoil-divestments-navigating-gls-131e-and-128c-for-lukoil-divestments",
+      "date": "2026"
+    },
+    {
+      "title": "US renews general license for Lukoil International sale until 25 July 2026",
+      "publisher": "Global Sanctions",
+      "url": "https://globalsanctions.com/2026/06/us-renews-general-license-for-lukoil-international-sale-until-25-july-2026/",
+      "date": "2026-06"
+    }
+  ],
+  "entities": [
+    {
+      "id": "lukoil",
+      "name": "Lukoil",
+      "type": "company",
+      "description": "US-sanctioned Russian oil major (Oct 2025) forced to sell its foreign assets."
+    },
+    {
+      "id": "lukoil-international-gmbh",
+      "name": "Lukoil International GmbH",
+      "type": "company",
+      "description": "Austrian holding company for Lukoil's ~$20-22B foreign assets; the object of the sale."
+    },
+    {
+      "id": "todd-boehly",
+      "name": "Todd Boehly",
+      "type": "person",
+      "description": "Eldridge co-founder and Trump donor; leads the consortium bidding for Lukoil International."
+    },
+    {
+      "id": "eldridge-industries",
+      "name": "Eldridge Industries",
+      "type": "company",
+      "description": "Boehly's holding company; gave $1M to Trump's inaugural."
+    },
+    {
+      "id": "international-holding-company",
+      "name": "International Holding Company (IHC)",
+      "type": "company",
+      "description": "Tahnoon-chaired Abu Dhabi conglomerate; declared interest in Lukoil assets in Nov 2025; reported consortium lead."
+    },
+    {
+      "id": "tahnoon-bin-zayed",
+      "name": "Tahnoon bin Zayed",
+      "type": "person",
+      "description": "UAE national security adviser; chairs IHC; Tahnoon-linked Aryam bought 49% of WLF."
+    },
+    {
+      "id": "allied-investment-partners",
+      "name": "Allied Investment Partners",
+      "type": "fund",
+      "description": "UAE investor; partnered with Boehly from the Dec 2025 Xtellus bid; reported co-lead of the consortium."
+    },
+    {
+      "id": "al-hail-holding",
+      "name": "Al Hail Holding",
+      "type": "company",
+      "description": "Abu Dhabi investment company (CEO Hamad Jassim Al Darwish) reported in the consortium; owners not established."
+    },
+    {
+      "id": "al-khayyat-brothers",
+      "name": "Moutaz and Ramez Al-Khayyat",
+      "type": "person",
+      "description": "Syrian-born Qatari businessmen (UCC Holding/Assets Group); consortium members; partners of Kushner and Ivanka Trump at Sazan."
+    },
+    {
+      "id": "ucc-holding",
+      "name": "UCC Holding",
+      "type": "company",
+      "description": "Qatari conglomerate of the Al-Khayyat family; Syria power and pipeline deals with US envoy Barrack present."
+    },
+    {
+      "id": "sazan-island-resort",
+      "name": "Sazan Island Resort",
+      "type": "asset",
+      "description": "Proposed ~EUR 1.4B Albania resort; Kushner and the Al-Khayyats are partners."
+    },
+    {
+      "id": "us-dfc",
+      "name": "US International Development Finance Corporation",
+      "type": "government",
+      "description": "Reported mid-teens (10-20%) equity stake in the Boehly consortium vehicle."
+    },
+    {
+      "id": "ben-black",
+      "name": "Ben Black",
+      "type": "person",
+      "description": "CEO of the DFC."
+    },
+    {
+      "id": "ofac",
+      "name": "Office of Foreign Assets Control",
+      "type": "government",
+      "description": "Treasury sanctions office issuing the GL 131 series negotiation licences for Lukoil International."
+    },
+    {
+      "id": "us-treasury",
+      "name": "US Treasury",
+      "type": "government",
+      "description": "Publicly blocked Gunvor; rejected the Xtellus bid; must licence any sale."
+    },
+    {
+      "id": "gunvor",
+      "name": "Gunvor Group",
+      "type": "company",
+      "description": "Geneva commodity trader whose ~$22B Lukoil deal Treasury killed in Nov 2025."
+    },
+    {
+      "id": "torbjorn-tornqvist",
+      "name": "Torbjorn Tornqvist",
+      "type": "person",
+      "description": "Gunvor co-founder and majority owner."
+    },
+    {
+      "id": "gennady-timchenko",
+      "name": "Gennady Timchenko",
+      "type": "person",
+      "description": "Sanctioned Russian billionaire; Gunvor co-founder who sold his stake in 2014."
+    },
+    {
+      "id": "carlyle-group",
+      "name": "Carlyle Group",
+      "type": "fund",
+      "description": "US private-equity firm; conditional Lukoil deal of Jan 2026 lapsed without OFAC approval."
+    },
+    {
+      "id": "xtellus-partners",
+      "name": "Xtellus Partners",
+      "type": "company",
+      "description": "New York bank formed from VTB Capital's US arm (2018 MBO); fronted the rejected Boehly/Allied swap bid in Dec 2025."
+    },
+    {
+      "id": "vtb-capital",
+      "name": "VTB Capital",
+      "type": "company",
+      "description": "Investment arm of the sanctioned Russian state bank VTB; former parent of Xtellus's business."
+    },
+    {
+      "id": "bryan-lanza",
+      "name": "Bryan Lanza",
+      "type": "person",
+      "description": "Former Trump 2024 campaign senior adviser; consultant to Lukoil International (Politico)."
+    },
+    {
+      "id": "mercury-public-affairs",
+      "name": "Mercury Public Affairs",
+      "type": "company",
+      "description": "Lobbying/PR firm through which Lanza advised Lukoil."
+    },
+    {
+      "id": "capital-group",
+      "name": "Capital Group",
+      "type": "fund",
+      "description": "Western fund holding frozen Lukoil securities that would be used in the swap (Reuters)."
+    },
+    {
+      "id": "maga-inc",
+      "name": "MAGA Inc.",
+      "type": "fund",
+      "description": "Pro-Trump super PAC; Boehly is a $1M+ donor."
+    },
+    {
+      "id": "vladimir-putin",
+      "name": "Vladimir Putin",
+      "type": "person",
+      "description": "Russian president; reportedly raised the Lukoil sale with Witkoff and Kushner on 5 Sep 2026."
+    },
+    {
+      "id": "kirill-dmitriev",
+      "name": "Kirill Dmitriev",
+      "type": "person",
+      "description": "RDIF CEO and Putin envoy; met Witkoff and Kushner on energy; publicly defended Kushner."
+    },
+    {
+      "id": "steve-witkoff",
+      "name": "Steve Witkoff",
+      "type": "person",
+      "description": "US special envoy; reportedly helped negotiate the DFC terms; denies any stake."
+    },
+    {
+      "id": "jared-kushner",
+      "name": "Jared Kushner",
+      "type": "person",
+      "description": "Trump son-in-law and envoy; reportedly helped negotiate the DFC terms; Sazan partner of the Al-Khayyats."
+    },
+    {
+      "id": "ivanka-trump",
+      "name": "Ivanka Trump",
+      "type": "person",
+      "description": "Kushner's wife; associated with the Sazan project."
+    },
+    {
+      "id": "tom-barrack",
+      "name": "Tom Barrack",
+      "type": "person",
+      "description": "US ambassador to Turkey and Syria envoy; present at UCC's Syria power deal."
+    },
+    {
+      "id": "world-liberty-financial",
+      "name": "World Liberty Financial",
+      "type": "company",
+      "description": "Trump/Witkoff-family crypto venture; 49% sold to Tahnoon-linked Aryam."
+    },
+    {
+      "id": "affinity-partners",
+      "name": "Affinity Partners",
+      "type": "fund",
+      "description": "Kushner's fund; Lunate is an investor."
+    },
+    {
+      "id": "lunate",
+      "name": "Lunate",
+      "type": "fund",
+      "description": "Tahnoon-overseen Abu Dhabi investor in Affinity Partners."
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "US president; recipient of Boehly's donations; his administration must licence the sale."
+    },
+    {
+      "id": "russia",
+      "name": "Russia",
+      "type": "country",
+      "description": "Kremlin approval is required; confirmed on 21 Oct 2026 that it is discussing Lukoil assets with the US."
+    },
+    {
+      "id": "uae",
+      "name": "United Arab Emirates",
+      "type": "country",
+      "description": "Home of IHC, Allied Investment Partners and Al Hail Holding."
+    },
+    {
+      "id": "qatar",
+      "name": "Qatar",
+      "type": "country",
+      "description": "Base of the Al-Khayyat brothers' businesses."
+    },
+    {
+      "id": "new-york-times",
+      "name": "New York Times",
+      "type": "media",
+      "description": "Reported the Putin-Witkoff-Kushner discussion and the DFC terms (3 Oct 2026)."
+    },
+    {
+      "id": "financial-times",
+      "name": "Financial Times",
+      "type": "media",
+      "description": "Reported the consortium membership and the DFC stake (Sep 2026)."
+    },
+    {
+      "id": "reuters",
+      "name": "Reuters",
+      "type": "media",
+      "description": "Reported the Xtellus bid and rejection, and the Nov 2026 swap plan."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "lukoil",
+      "target": "lukoil-international-gmbh",
+      "label": "owns; selling under US sanctions",
+      "type": "ownership",
+      "date": "2025-10",
+      "amount_usd": 22000000000
+    },
+    {
+      "source": "gunvor",
+      "target": "lukoil-international-gmbh",
+      "label": "agreed ~$22B purchase, withdrawn after Treasury rebuke",
+      "type": "commercial",
+      "date": "2025-11-06",
+      "amount_usd": 22000000000
+    },
+    {
+      "source": "us-treasury",
+      "target": "gunvor",
+      "label": "publicly called it 'the Kremlin's puppet' and vowed no licence",
+      "type": "regulatory",
+      "date": "2025-11-06"
+    },
+    {
+      "source": "torbjorn-tornqvist",
+      "target": "gunvor",
+      "label": "majority owner",
+      "type": "ownership"
+    },
+    {
+      "source": "gennady-timchenko",
+      "target": "gunvor",
+      "label": "co-founder; sold stake 2014",
+      "type": "ownership",
+      "date": "2014"
+    },
+    {
+      "source": "xtellus-partners",
+      "target": "todd-boehly",
+      "label": "advised on cashless swap bid (Reuters)",
+      "type": "advisory",
+      "date": "2025-12"
+    },
+    {
+      "source": "xtellus-partners",
+      "target": "allied-investment-partners",
+      "label": "advised on cashless swap bid (Reuters)",
+      "type": "advisory",
+      "date": "2025-12"
+    },
+    {
+      "source": "vtb-capital",
+      "target": "xtellus-partners",
+      "label": "former parent of business (2018 management buyout)",
+      "type": "ownership",
+      "date": "2018"
+    },
+    {
+      "source": "us-treasury",
+      "target": "xtellus-partners",
+      "label": "rejected Lukoil bid (Reuters, four sources)",
+      "type": "regulatory",
+      "date": "2025-12"
+    },
+    {
+      "source": "bryan-lanza",
+      "target": "lukoil-international-gmbh",
+      "label": "consultant on asset sale; helped win Treasury extension (Politico, single-source)",
+      "type": "advisory",
+      "date": "2025-12"
+    },
+    {
+      "source": "bryan-lanza",
+      "target": "mercury-public-affairs",
+      "label": "works through",
+      "type": "commercial"
+    },
+    {
+      "source": "bryan-lanza",
+      "target": "donald-trump",
+      "label": "former senior adviser to 2024 campaign",
+      "type": "political",
+      "date": "2024"
+    },
+    {
+      "source": "carlyle-group",
+      "target": "lukoil-international-gmbh",
+      "label": "conditional purchase agreement, lapsed without OFAC approval",
+      "type": "commercial",
+      "date": "2026-01-29"
+    },
+    {
+      "source": "todd-boehly",
+      "target": "lukoil-international-gmbh",
+      "label": "leads consortium bidding via escrowed share swap (no price disclosed; anonymous-source reporting)",
+      "type": "commercial",
+      "date": "2026-09",
+      "amount_usd": null
+    },
+    {
+      "source": "todd-boehly",
+      "target": "eldridge-industries",
+      "label": "co-founder/CEO",
+      "type": "ownership"
+    },
+    {
+      "source": "international-holding-company",
+      "target": "lukoil-international-gmbh",
+      "label": "reported consortium co-lead; declared interest Nov 2025",
+      "type": "commercial",
+      "date": "2026-09"
+    },
+    {
+      "source": "allied-investment-partners",
+      "target": "lukoil-international-gmbh",
+      "label": "reported consortium co-lead",
+      "type": "commercial",
+      "date": "2026-09"
+    },
+    {
+      "source": "al-hail-holding",
+      "target": "lukoil-international-gmbh",
+      "label": "reported consortium member",
+      "type": "commercial",
+      "date": "2026-11"
+    },
+    {
+      "source": "al-khayyat-brothers",
+      "target": "lukoil-international-gmbh",
+      "label": "reported consortium members",
+      "type": "commercial",
+      "date": "2026-09"
+    },
+    {
+      "source": "us-dfc",
+      "target": "lukoil-international-gmbh",
+      "label": "reported mid-teens equity stake in buyer vehicle; board control with Boehly",
+      "type": "money",
+      "date": "2026-09"
+    },
+    {
+      "source": "ben-black",
+      "target": "us-dfc",
+      "label": "CEO",
+      "type": "ownership"
+    },
+    {
+      "source": "tahnoon-bin-zayed",
+      "target": "international-holding-company",
+      "label": "chairs",
+      "type": "ownership"
+    },
+    {
+      "source": "tahnoon-bin-zayed",
+      "target": "world-liberty-financial",
+      "label": "linked vehicle Aryam bought 49% (C57)",
+      "type": "money",
+      "date": "2025-01"
+    },
+    {
+      "source": "lunate",
+      "target": "affinity-partners",
+      "label": "investor (C57)",
+      "type": "money"
+    },
+    {
+      "source": "tahnoon-bin-zayed",
+      "target": "lunate",
+      "label": "oversees majority owner",
+      "type": "ownership"
+    },
+    {
+      "source": "al-khayyat-brothers",
+      "target": "jared-kushner",
+      "label": "partners in Sazan resort (confirmed to NYT/CBS; registry filings)",
+      "type": "commercial",
+      "date": "2024-12"
+    },
+    {
+      "source": "al-khayyat-brothers",
+      "target": "ivanka-trump",
+      "label": "reported joint-venture partners in Sazan resort",
+      "type": "commercial"
+    },
+    {
+      "source": "al-khayyat-brothers",
+      "target": "sazan-island-resort",
+      "label": "beneficial owners of Qatari partner company (OCCRP)",
+      "type": "ownership",
+      "date": "2026-03"
+    },
+    {
+      "source": "al-khayyat-brothers",
+      "target": "ucc-holding",
+      "label": "controlling family",
+      "type": "ownership"
+    },
+    {
+      "source": "tom-barrack",
+      "target": "ucc-holding",
+      "label": "attended ~$7B Syria power MoU signing as US envoy (C73)",
+      "type": "political",
+      "date": "2025-05-29",
+      "amount_usd": 7000000000
+    },
+    {
+      "source": "todd-boehly",
+      "target": "maga-inc",
+      "label": "$1M+ donor (NBC/FEC)",
+      "type": "political",
+      "date": "2025"
+    },
+    {
+      "source": "eldridge-industries",
+      "target": "donald-trump",
+      "label": "$1M to inaugural committee",
+      "type": "political",
+      "date": "2025-01",
+      "amount_usd": 1000000
+    },
+    {
+      "source": "todd-boehly",
+      "target": "donald-trump",
+      "label": "donated $1M-$2M to Trump causes (amount disputed)",
+      "type": "political"
+    },
+    {
+      "source": "vladimir-putin",
+      "target": "steve-witkoff",
+      "label": "raised Lukoil sale at Kremlin meeting (NYT, single-source)",
+      "type": "political",
+      "date": "2026-09-05"
+    },
+    {
+      "source": "vladimir-putin",
+      "target": "jared-kushner",
+      "label": "raised Lukoil sale at Kremlin meeting (NYT, single-source)",
+      "type": "political",
+      "date": "2026-09-05"
+    },
+    {
+      "source": "steve-witkoff",
+      "target": "us-dfc",
+      "label": "helped negotiate terms of federal stake (senior official to NYT, single-source)",
+      "type": "political",
+      "date": "2026-10"
+    },
+    {
+      "source": "jared-kushner",
+      "target": "us-dfc",
+      "label": "helped negotiate terms of federal stake (senior official to NYT, single-source)",
+      "type": "political",
+      "date": "2026-10"
+    },
+    {
+      "source": "kirill-dmitriev",
+      "target": "jared-kushner",
+      "label": "met on Russian energy; publicly defended him as 'peacemaker'",
+      "type": "political",
+      "date": "2026-03-12"
+    },
+    {
+      "source": "ofac",
+      "target": "lukoil-international-gmbh",
+      "label": "GL 131 series: negotiations only, to 21 Nov 2026; transfer needs separate licence",
+      "type": "regulatory",
+      "date": "2026-10-21"
+    },
+    {
+      "source": "russia",
+      "target": "lukoil-international-gmbh",
+      "label": "Kremlin approval required; confirmed discussions with US",
+      "type": "political",
+      "date": "2026-10-21"
+    },
+    {
+      "source": "capital-group",
+      "target": "lukoil",
+      "label": "holds frozen Lukoil securities to be used in swap (Reuters)",
+      "type": "money",
+      "date": "2026-11"
+    }
+  ],
+  "leads": [
+    {
+      "title": "Xtellus Partners: the former VTB Capital US unit behind the first Boehly swap bid",
+      "why_connected": "A bank with a sanctioned-Russian-bank lineage designed the swap structure that the Boehly consortium revived; its current role and the identity of the 'unnamed foreign bank' buying Lukoil paper are unreported.",
+      "entities": [
+        "xtellus-partners",
+        "vtb-capital",
+        "todd-boehly",
+        "allied-investment-partners"
+      ],
+      "source_url": "https://uk.marketscreener.com/news/u-s-treasury-rejects-xtellus-led-bid-for-lukoil-assets-sources-say-ce7d50d9dc8af222"
+    },
+    {
+      "title": "Bryan Lanza's Lukoil consultancy and FARA/LDA exemption",
+      "why_connected": "A former Trump campaign adviser lobbied Treasury for the seller under a commercial-transaction exemption; worth checking for later disclosure filings.",
+      "entities": [
+        "bryan-lanza",
+        "mercury-public-affairs",
+        "lukoil-international-gmbh",
+        "us-treasury"
+      ],
+      "source_url": "https://www.pravda.com.ua/eng/news/2025/12/12/8011596/"
+    },
+    {
+      "title": "Al Hail Holding's ownership",
+      "why_connected": "A reported consortium member whose beneficial owners we could not establish; it may tie to Abu Dhabi royals already in the project.",
+      "entities": [
+        "al-hail-holding",
+        "international-holding-company"
+      ],
+      "source_url": "https://brazilenergyinsight.com/2026/11/04/us-billionaire-leads-swap-plan-to-buy-lukoils-overseas-assets-sources-say/"
+    },
+    {
+      "title": "Allied Investment Partners: who is behind it",
+      "why_connected": "Boehly's UAE partner since Dec 2025 and reported co-lead of the consortium; its owners and any ties to Tahnoon or other Trump-family counterparties are unexamined.",
+      "entities": [
+        "allied-investment-partners",
+        "todd-boehly"
+      ],
+      "source_url": "https://www.oilandgas360.com/exclusive-us-bank-floats-plan-to-repay-us-investors-via-lukoil-asset-sale-sources-say/"
+    },
+    {
+      "title": "Outcome of the 21 Nov 2026 OFAC deadline and any DFC board approval",
+      "why_connected": "The decisive regulatory events for the deal fell after this research; a DFC equity commitment would require board action and public disclosure.",
+      "entities": [
+        "ofac",
+        "us-dfc",
+        "lukoil-international-gmbh"
+      ],
+      "source_url": "https://interfax.com/newsroom/top-stories/119637/"
+    },
+    {
+      "title": "Iraq's nationalisation of West Qurna-2 and US majors' bids",
+      "why_connected": "A carve-out of Lukoil's largest foreign asset changes what the consortium is buying and involves Exxon and Chevron approaches to Baghdad.",
+      "entities": [
+        "lukoil",
+        "lukoil-international-gmbh"
+      ],
+      "source_url": "https://www.thenationalnews.com/business/energy/2025/12/01/iraq-invites-us-companies-to-bid-on-west-qurna-2-oilfield"
+    }
+  ],
+  "audit": {
+    "checked": [
+      "Boehly consortium membership (IHC, Allied, Al Hail, the Al-Khayyat brothers, the DFC at a mid-teens stake) and the escrowed swap structure",
+      "Al-Khayyat brothers as Kushner's partners in the Albania Sazan project",
+      "NYT (3 Oct 2026): Putin raised the Lukoil sale with Witkoff and Kushner on 5 Sep 2026",
+      "Status through Nov 2026: whether a sale was signed or the OFAC licence extended"
+    ],
+    "result": "upheld",
+    "changes": [
+      "Relationship todd-boehly -> lukoil-international-gmbh carried amount_usd 22B, which was Gunvor's 2025 price, not a Boehly bid; removed the amount and noted no price has been disclosed.",
+      "Consortium: noted that FT and Reuters both rest on anonymous sources and that the structure is unsettled; added IHC's no-comment.",
+      "OFAC: added GL 131K's no-prior-benefit condition and resale review requirement. No signed deal or extension beyond 21 Nov 2026 found as of 14 Nov 2026.",
+      "Al-Khayyat-Kushner: re-confirmed as documented (NYT 19 Apr 2026 via Balkanweb; CBS; OCCRP). C76's grade updated to match.",
+      "NYT/Putin item stays single-source (three people briefed); Witkoff's denial and the NYT's no-personal-profit finding are recorded."
+    ],
+    "new_sources": [
+      {
+        "title": "OFAC GL 131K: One More Month for the Lukoil Deal, No New Conditions",
+        "publisher": "FesenkoLaw",
+        "url": "https://fesenkolaw.com/blog/ofac-gl-131k-one-more-month-for-the-lukoil-deal/",
+        "date": "2026-10"
+      },
+      {
+        "title": "US billionaire leads swap plan to buy Lukoil's overseas assets, sources say",
+        "publisher": "Reuters via AJOT",
+        "url": "https://www.ajot.com/news/exclusive-us-billionaire-leads-swap-plan-to-buy-lukoils-overseas-assets-sources-say",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "US-Russia talks on Ukraine involve multi-billion dollar oil deal, NYT reports",
+        "publisher": "Cyprus Mail (Reuters)",
+        "url": "https://cyprus-mail.com/2026/10/03/us-russia-talks-on-ukraine-involve-multi-billion-dollar-oil-deal-nyt-reports",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "Kushner-Linked Albania Project Backed by Qatari Billionaires",
+        "publisher": "Politis",
+        "url": "https://en.politis.com.cy/news/world/1014327/kushner-linked-albania-project-backed-by-qatari-billionaires",
+        "date": "2026"
+      }
+    ]
+  }
+}

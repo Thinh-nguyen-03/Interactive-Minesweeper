@@ -1,0 +1,1200 @@
+{
+ "id": "C49",
+ "title": "The pardon-lobbying market and post-pardon SEC dismissals",
+ "verdict": "mostly-accurate",
+ "confidence": "medium",
+ "summary": "A paid clemency-lobbying market is well documented. The WSJ (Dec 2025) reported a $1M going rate and success-fee offers of up to $5-6M. NOTUS counted more than $2.1M in 2025 lobbying disclosures that name pardons. NBC reported Fred Daibes paid Keith Schiller's firm $1M, and 60 Minutes filmed Burkman and Wohl pitching a $300K pardon. The SEC dropped its civil cases against Milton, Watson, Ozy and Archer after clemency, and Liz Oyer was fired and replaced by Ed Martin. Several details in the claim need correcting: Watson is not a documented donor, the House Democrats' estimate is now about $1.7B, Stone's $600K from Ver was disclosed as exit-tax lobbying, and Martin left the post in Aug 2026. No grant has been shown to be bought, and the White House denies any pay-to-play.",
+ "sub_claims": [
+  {
+   "statement": "A paid pardon-lobbying industry has grown around Trump's second term.",
+   "verdict": "confirmed",
+   "finding": "NOTUS: federal lobbyists disclosed more than $2.1M in 2025 from clients seeking a 'pardon' or 'clemency', likely an undercount because many pardon lawyers do not register. NBC (Jun 2025) and NPR/NOTUS (Jul 19, 2026) describe a growing business that runs on access to White House aides rather than the DOJ Pardon Office. Paying for advocacy is legal.",
+   "sources": [
+    "https://www.notus.org/money/pardon-lobbyists-president-donald-trump",
+    "https://www.nbcnews.com/politics/donald-trump/trump-pardons-drive-big-burgeoning-business-lobbyists-rcna209801",
+    "https://www.npr.org/transcripts/nx-s1-5896394",
+    "https://www.nbcnews.com/politics/trump-administration/white-house-clemency-process-trump-pardons-rcna239549"
+   ]
+  },
+  {
+   "statement": "Asking prices of $1M or more were reported.",
+   "verdict": "confirmed",
+   "finding": "Bloomberg Law (May 2025) found lawyers quoting $1M fees. The WSJ (about Dec 23, 2025; read secondhand) reported $1M as the lobbyists' standard rate, with success fees of up to $6M offered, and said Binance offered up to $5M. NBC: Fred Daibes, convicted of bribing Sen. Bob Menendez, paid $1M to Keith Schiller's Javelin Advisors for 'executive relief' (Q1 2025). He got no pardon and dropped the firm in Jun 2025. The House Judiciary Democrats' Aug 2026 report says intermediaries charged up to $2M per engagement. These are reported fees, not audited prices, and many came from anonymous sources.",
+   "sources": [
+    "https://news.bloomberglaw.com/us-law-week/lawyers-are-quoting-1-million-in-fees-to-get-pardons-to-trump",
+    "https://boingboing.net/2025/12/27/trump-pardons-start-at-1m-reports-wsj.html",
+    "https://politicalwire.com/2025/12/23/inside-the-new-fast-track-to-a-presidential-pardon/",
+    "https://www.rawstory.com/trump-pardons-money-ceo",
+    "https://www.nbcnews.com/politics/politics-news/new-jersey-businessman-paid-1m-lobbying-firm-try-get-pardon-trump-rcna239278"
+   ]
+  },
+  {
+   "statement": "Roger Stone, Ches McDowell/Checkmate and Teresa Goody Guillén charged large fees to seek clemency.",
+   "verdict": "partly-accurate",
+   "finding": "McDowell/Checkmate ($450K) and Goody Guillén (about $290K) for Binance's CZ pardon are confirmed (see C36). Stone's $600K from Roger Ver was disclosed as lobbying on the exit tax, so NOTUS left it out of its pardon total. Ver dropped Stone in Dec 2025, and Stone denies lobbying the executive branch on the case. No other named Checkmate pardon client was confirmed. Other documented players: Jack Burkman and Jacob Wohl, paid just under $1M by Joseph Schwartz (Washington Post, via the Daily Beast) and $600K by Boosie BadAzz, who has filed for arbitration to recover $300K; and Keith Schiller (Daibes).",
+   "sources": [
+    "https://www.notus.org/money/pardon-lobbyists-president-donald-trump",
+    "https://www.notus.org/money/donald-trump-pardons-clemency-lobbyists-roger-stone-boosie-badazz",
+    "https://decrypt.co/316387/bitcoin-jesus-pays-trump-ally-roger-stone-600000-to-lobby-against-exit-tax",
+    "https://www.floridabulldog.org/2026/02/fired-couldnt-deliver-pardon-roger-stone-hired-aid-nigeria-christians/",
+    "https://www.thedailybeast.com/nursing-home-fraudster-joseph-schwartz-paid-fraudster-lobbyists-for-donald-trump-pardon",
+    "https://www.wafb.com/2026/09/14/boosie-takes-600k-pardon-fight-60-minutes-after-failed-trump-clemency-push/",
+    "https://cbsnews.com/news/trump-pardon-lobbyists-60-minutes"
+   ]
+  },
+  {
+   "statement": "Trump pardoned donors or their relatives: Paul Walczak, Trevor Milton and Changpeng Zhao.",
+   "verdict": "mostly-accurate",
+   "finding": "Milton and his wife gave more than $1.8M in Oct 2024, and he was pardoned Mar 28, 2025. Walczak was pardoned Apr 23, 2025, weeks after his mother Elizabeth Fago attended a $1M-per-head Mar-a-Lago dinner (NYT, May 2025). His application cited her fundraising, and the pardon voided about $4.4M in restitution; whether she paid the $1M is unclear. Zhao was pardoned Oct 2025. He is not a documented personal donor: the link runs through Binance's lobbying and its business ties to WLF (see C09).",
+   "sources": [
+    "https://www.thedailybeast.com/trump-pardoned-tax-cheat-after-mom-attended-1m-mar-a-lago-dinner",
+    "https://www.mediaite.com/media/news/tax-evader-pardoned-by-trump-after-mom-attended-1m-per-plate-mar-a-lago-dinner-report",
+    "https://gizmodo.com/trump-pardoned-him-now-he-wont-have-to-pay-back-660-million-2000661542"
+   ]
+  },
+  {
+   "statement": "Carlos Watson's commutation belongs among donor-linked grants.",
+   "verdict": "misleading",
+   "finding": "Trump commuted Watson's roughly 116-month sentence on Mar 28, 2025, hours before he was due to report, which voided about $36M in restitution and about $60M in forfeiture. Watson credited pardon czar Alice Marie Johnson and advocate Glenn Martin. No donation by Watson was found, and the White House gave no justification.",
+   "sources": [
+    "https://www.axios.com/2025/03/28/trump-ozy-media-carlos-watson-commute",
+    "https://www.nbcnews.com/business/business-news/trump-commutes-sentence-ozy-media-founder-carlos-watson-rcna198667",
+    "https://www.thewrap.com/carlos-watson-prison-sentence-commuted-trump"
+   ]
+  },
+  {
+   "statement": "The SEC dropped civil cases after criminal pardons.",
+   "verdict": "confirmed",
+   "finding": "The SEC dismissed its civil cases against Milton (Sep 2025), Carlos Watson and Ozy Media (filed about Sep 18-19, 2025) and Devon Archer after clemency, though a pardon does not legally erase civil liability. It later waived penalties for ex-Ozy executives Samir Rao and Suzee Han, citing cooperation. Bloomberg Law (Apr 9, 2026) counts $176M in restitution and fines that pardoned securities-fraud defendants were originally due to pay. The SEC declined comment. Milton's spokesperson, quoted by Bloomberg Law, said the SEC itself initiated contact with defence counsel to dismiss the Milton case, in which Milton was represented by Brad Bondi, brother of then-AG Pam Bondi; that article was paywalled and read only through excerpts.",
+   "sources": [
+    "https://news.bloomberglaw.com/securities-law/trumps-criminal-pardons-have-sec-enforcers-following-suit",
+    "https://www.bloomberg.com/news/articles/2025-09-19/sec-drops-carlos-watson-fraud-case-after-trump-axed-prison-term",
+    "https://www.law360.com/bankruptcy-authority/articles/2387230"
+   ]
+  },
+  {
+   "statement": "Pardon attorney Liz Oyer was fired, and Ed Martin became pardon attorney.",
+   "verdict": "confirmed",
+   "finding": "Then-Deputy AG Todd Blanche fired Oyer on Mar 7, 2025, the morning after she declined to recommend restoring Mel Gibson's gun rights. Then-AG Pam Bondi restored those rights in Apr 2025. Oyer sued in federal court in Washington on Sep 3, 2026 for reinstatement and back pay, alleging due-process, First Amendment and civil-service violations; the allegations are untested. Blanche, confirmed by the Senate 50-49 on Aug 8, 2026 and sworn in as Attorney General on Aug 10, 2026 after Trump removed Bondi in April 2026, says he knew nothing of the Gibson matter. Trump named Ed Martin pardon attorney on May 8, 2025, after Martin's DC US Attorney nomination collapsed. Martin posted 'No MAGA left behind' after the Scott Jenkins pardon. He lost the Weaponization Working Group in Feb 2026, and Trump announced on Aug 21, 2026 that he was leaving to fight election 'Legal Battles'. No successor was found.",
+   "sources": [
+    "https://www.goodmorningamerica.com/news/story/doj-pardon-attorney-removed-after-dispute-mel-gibsons-119677857",
+    "https://abcnews.com/Politics/wireStory/justice-department-pardon-lawyer-fired-dispute-mel-gibsons-136185902",
+    "https://www.govexec.com/workforce/2026/09/former-pardon-atty-calls-mspb-dead-end-sues-reinstatement/415817/",
+    "https://news.bloomberglaw.com/us-law-week/ed-martin-takes-doj-pardon-job-as-trump-upends-clemency-process",
+    "https://www.rawstory.com/no-maga-left-behind-outrage-as-trump-pardon-chief-issues-new-vow/",
+    "https://www.nbcnews.com/politics/justice-department/ed-martin-dojs-weaponization-czar-sources-say-rcna257093",
+    "https://www.local10.com/news/politics/2026/08/21/trump-loyalist-ed-martin-is-leaving-the-justice-department-to-focus-on-election-legal-battles/"
+   ]
+  },
+  {
+   "statement": "House Judiciary Democrats estimate total restitution wiped out at about $1.3B or more.",
+   "verdict": "mostly-accurate",
+   "finding": "A Jun 17, 2025 staff memo under Ranking Member Raskin put fines and restitution erased at about $1.3B, roughly $680M of it tied to Milton, whose restitution had not been set. Its caveats: some sums may already have been paid, and collectability is unknown. The Aug 21, 2026 'Pardons, Inc.' report raised the figure to about $1.7B, now including forfeitures. Both are partisan estimates. The White House (Harrison Fields) dismissed the 2025 memo.",
+   "sources": [
+    "https://democrats-judiciary.house.gov/media-center/press-releases/new-judiciary-democrats-analysis-reveals-trump-s-corrupt-pardon-spree-cheated-crime-victims-of-13-billion",
+    "https://www.axios.com/2025/06/17/trump-pardons-cost-democrats-report",
+    "https://www.cbsnews.com/news/trumps-pardons-cost-victims-and-taxpayers-1-3-billion-house-judiciary-committee-democrats-review",
+    "https://kvia.com/news/2025/06/17/trumps-pardons-could-have-erased-more-than-1-3-billion-in-fines-and-restitution-democrats-say/",
+    "https://democrats-judiciary.house.gov/media-center/press-releases/new-judiciary-democrats-report-exposes-maga-s-cash-for-clemency-racket-which-gives-unrepentant-criminals-a-new-lease-on-life-and-leaves-victims-in-the-dust",
+    "https://democrats-judiciary.house.gov/sites/evo-subsites/democrats-judiciary.house.gov/files/evo-media-document/2026-08-hjc-dems-staff-report-pardons-inc.pdf",
+    "https://newrepublic.com/post/214599/trump-pardons-fraudsters-cost-victims-billions"
+   ]
+  },
+  {
+   "statement": "Official justifications given for the grants and the process.",
+   "verdict": "confirmed",
+   "finding": "The White House says the president acts on his constitutional authority after vetting by the White House Counsel and the DOJ. Leavitt says Trump 'finds it detestable that anyone would even attempt to profit off pardons'. The line 'anyone spending money to lobby for pardons is foolishly wasting their money' is attributed to a spokesperson, variously Lauren Bis or Leavitt. For Schwartz, the White House cited his $5M restitution paid, his poor health and a harsh sentence. For Milton, Trump said he was targeted for supporting him. No justification was given for Watson or Walczak.",
+   "sources": [
+    "https://cbsnews.com/news/trump-pardon-lobbyists-60-minutes",
+    "https://www.foxnews.com/media/white-house-denies-trump-influenced-pardon-brokers-after-60-minutes-investigation",
+    "https://www.nbcnews.com/politics/trump-administration/white-house-clemency-process-trump-pardons-rcna239549"
+   ]
+  },
+  {
+   "statement": "Implied: pardons were bought with fees or donations.",
+   "verdict": "unverified",
+   "finding": "Money flows to lobbyists and donations ahead of grants are documented, but no evidence shows Trump granted clemency in exchange for payment. Several big spenders (Daibes, Boosie, Ver on clemency) got nothing. Democrats Rep. Dave Min and Sen. Peter Welch opened a probe on May 7, 2026 with letters to 17 recipients, including David Gentile (commuted; about $15.5M restitution), and escalated on Jun 15, 2026. They lack subpoena power.",
+   "sources": [
+    "https://www.welch.senate.gov/welch-min-launch-bicameral-oversight-investigation-into-trump-pardons-amid-corruption-concerns/",
+    "https://keyt.com/news/crime/2026/05/07/bicameral-congressional-investigation-launched-over-multiple-trump-administration-pardons",
+    "https://min.house.gov/media/press-releases/representative-dave-min-and-senator-peter-welch-escalate-oversight",
+    "https://www.nbcnews.com/politics/politics-news/new-jersey-businessman-paid-1m-lobbying-firm-try-get-pardon-trump-rcna239278"
+   ]
+  }
+ ],
+ "corrections": [
+  "The claim lists Carlos Watson among donor-linked grants; no Watson donation was found. His case ran through Alice Marie Johnson and reform advocates.",
+  "The House Judiciary Democrats' $1.3B figure (Jun 2025) was raised to about $1.7B in their Aug 21, 2026 'Pardons, Inc.' report, which also counts forfeitures.",
+  "Roger Stone's $600K from Roger Ver was disclosed as exit-tax lobbying, not a pardon, and Ver received a DOJ deferred prosecution deal, not clemency (C36).",
+  "Ed Martin is no longer pardon attorney: Trump announced his departure on Aug 21, 2026.",
+  "Changpeng Zhao is not a documented personal donor; his link is the Binance lobbying fees and the WLF/USD1 business ties (C09).",
+  "Todd Blanche, who fired Oyer as Deputy AG, is now Attorney General; Pam Bondi is described as the former AG."
+ ],
+ "denials_and_context": [
+  "White House: clemency is vetted by the White House Counsel and the DOJ and decided by the president. It calls profiting off pardons 'detestable' and says lobbying money is 'foolishly' wasted.",
+  "Trump rejected nearly 6,000 clemency applications (Reason, Jul 26, 2026), which argues against a simple pay-for-pardon market.",
+  "Paid pardon advocacy is legal and has long existed; the new elements are the scale, the fees and the bypassing of the DOJ Pardon Office.",
+  "Many large payments bought no clemency (Daibes $1M, Boosie $600K), and Boosie says he was scammed.",
+  "Burkman and Wohl deny wrongdoing. Stone denies lobbying the executive branch on Ver's case. Blanche denies the Gibson link to Oyer's firing.",
+  "The restitution totals are partisan estimates with acknowledged caveats (some sums already paid, unclear collectability), and Milton's restitution was never set.",
+  "The SEC gave no public rationale for the post-pardon dismissals; critics such as Richard Painter call them political."
+ ],
+ "sources": [
+  {
+   "title": "Lawyers Are Quoting $1 Million Fees to Get Pardons to Trump",
+   "publisher": "Bloomberg Law",
+   "url": "https://news.bloomberglaw.com/us-law-week/lawyers-are-quoting-1-million-in-fees-to-get-pardons-to-trump",
+   "date": "2025-05"
+  },
+  {
+   "title": "Trump pardons \"start at $1m,\" reports WSJ",
+   "publisher": "Boing Boing (summarizing WSJ)",
+   "url": "https://boingboing.net/2025/12/27/trump-pardons-start-at-1m-reports-wsj.html",
+   "date": "2025-12-27"
+  },
+  {
+   "title": "Inside the new fast track to a presidential pardon",
+   "publisher": "Political Wire (summarizing WSJ)",
+   "url": "https://politicalwire.com/2025/12/23/inside-the-new-fast-track-to-a-presidential-pardon/",
+   "date": "2025-12-23"
+  },
+  {
+   "title": "$6 million bounties on the table for securing a Trump pardon",
+   "publisher": "Raw Story",
+   "url": "https://www.rawstory.com/trump-pardons-money-ceo",
+   "date": "2025-12"
+  },
+  {
+   "title": "Lobbyists Make Millions in Pursuit of Trump Pardons",
+   "publisher": "NOTUS",
+   "url": "https://www.notus.org/money/pardon-lobbyists-president-donald-trump",
+   "date": "2026"
+  },
+  {
+   "title": "Pardon lobbyists: Roger Stone, Boosie BadAzz",
+   "publisher": "NOTUS",
+   "url": "https://www.notus.org/money/donald-trump-pardons-clemency-lobbyists-roger-stone-boosie-badazz",
+   "date": "2026"
+  },
+  {
+   "title": "New Jersey businessman paid $1M to a lobbying firm to try to get a pardon from Trump",
+   "publisher": "NBC News",
+   "url": "https://www.nbcnews.com/politics/politics-news/new-jersey-businessman-paid-1m-lobbying-firm-try-get-pardon-trump-rcna239278",
+   "date": "2025"
+  },
+  {
+   "title": "Trump pardons drive big, burgeoning business for lobbyists",
+   "publisher": "NBC News",
+   "url": "https://www.nbcnews.com/politics/donald-trump/trump-pardons-drive-big-burgeoning-business-lobbyists-rcna209801",
+   "date": "2025-06"
+  },
+  {
+   "title": "White House clemency process",
+   "publisher": "NBC News",
+   "url": "https://www.nbcnews.com/politics/trump-administration/white-house-clemency-process-trump-pardons-rcna239549",
+   "date": "2025"
+  },
+  {
+   "title": "'Bitcoin Jesus' pays Trump ally Roger Stone $600,000 to lobby against exit tax",
+   "publisher": "Decrypt",
+   "url": "https://decrypt.co/316387/bitcoin-jesus-pays-trump-ally-roger-stone-600000-to-lobby-against-exit-tax",
+   "date": "2025"
+  },
+  {
+   "title": "Fired after he couldn't deliver a pardon, Roger Stone...",
+   "publisher": "Florida Bulldog",
+   "url": "https://www.floridabulldog.org/2026/02/fired-couldnt-deliver-pardon-roger-stone-hired-aid-nigeria-christians/",
+   "date": "2026-02"
+  },
+  {
+   "title": "Nursing home fraudster Joseph Schwartz paid fraudster lobbyists for Trump pardon",
+   "publisher": "Daily Beast",
+   "url": "https://www.thedailybeast.com/nursing-home-fraudster-joseph-schwartz-paid-fraudster-lobbyists-for-donald-trump-pardon",
+   "date": "2025-11"
+  },
+  {
+   "title": "Trump grants pardon to former Monsey nursing-home executive",
+   "publisher": "VIN News",
+   "url": "https://vinnews.com/2025/11/15/trump-grants-pardon-to-former-monsey-nursing%E2%80%91home-executive/",
+   "date": "2025-11-15"
+  },
+  {
+   "title": "Trump pardon lobbyists (60 Minutes, 'The Pardon Economy')",
+   "publisher": "CBS News",
+   "url": "https://cbsnews.com/news/trump-pardon-lobbyists-60-minutes",
+   "date": "2026-09"
+  },
+  {
+   "title": "White House denies Trump influenced by pardon brokers after 60 Minutes investigation",
+   "publisher": "Fox News",
+   "url": "https://www.foxnews.com/media/white-house-denies-trump-influenced-pardon-brokers-after-60-minutes-investigation",
+   "date": "2026-09"
+  },
+  {
+   "title": "Boosie takes $600K pardon fight to 60 Minutes",
+   "publisher": "WAFB",
+   "url": "https://www.wafb.com/2026/09/14/boosie-takes-600k-pardon-fight-60-minutes-after-failed-trump-clemency-push/",
+   "date": "2026-09-14"
+  },
+  {
+   "title": "$600,000 for a presidential pardon: inside the growing industry of clemency lobbying",
+   "publisher": "NPR",
+   "url": "https://www.npr.org/transcripts/nx-s1-5896394",
+   "date": "2026-07-19"
+  },
+  {
+   "title": "Trump pardoned tax cheat after mom attended $1M Mar-a-Lago dinner",
+   "publisher": "Daily Beast (summarizing NYT)",
+   "url": "https://www.thedailybeast.com/trump-pardoned-tax-cheat-after-mom-attended-1m-mar-a-lago-dinner",
+   "date": "2025-05-27"
+  },
+  {
+   "title": "Tax evader pardoned by Trump after mom attended $1M-per-plate dinner",
+   "publisher": "Mediaite",
+   "url": "https://www.mediaite.com/media/news/tax-evader-pardoned-by-trump-after-mom-attended-1m-per-plate-mar-a-lago-dinner-report",
+   "date": "2025-05-27"
+  },
+  {
+   "title": "Trump commutes sentence for convicted Ozy Media founder",
+   "publisher": "Axios",
+   "url": "https://www.axios.com/2025/03/28/trump-ozy-media-carlos-watson-commute",
+   "date": "2025-03-28"
+  },
+  {
+   "title": "Trump commutes sentence of Ozy Media founder Carlos Watson",
+   "publisher": "NBC News",
+   "url": "https://www.nbcnews.com/business/business-news/trump-commutes-sentence-ozy-media-founder-carlos-watson-rcna198667",
+   "date": "2025-03-28"
+  },
+  {
+   "title": "Carlos Watson's nearly 10-year sentence commuted by Trump",
+   "publisher": "TheWrap",
+   "url": "https://www.thewrap.com/carlos-watson-prison-sentence-commuted-trump",
+   "date": "2025-03-28"
+  },
+  {
+   "title": "SEC Enforcers Ease Up on Fraudsters After Trump Criminal Pardons",
+   "publisher": "Bloomberg Law",
+   "url": "https://news.bloomberglaw.com/securities-law/trumps-criminal-pardons-have-sec-enforcers-following-suit",
+   "date": "2026-04-09"
+  },
+  {
+   "title": "SEC Drops Carlos Watson Fraud Case After Trump Axed Prison Term",
+   "publisher": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2025-09-19/sec-drops-carlos-watson-fraud-case-after-trump-axed-prison-term",
+   "date": "2025-09-19"
+  },
+  {
+   "title": "SEC Drops Suit Against Nikola Founder After Trump's Pardon",
+   "publisher": "Law360",
+   "url": "https://www.law360.com/bankruptcy-authority/articles/2387230",
+   "date": "2025-09"
+  },
+  {
+   "title": "Trump pardoned him; now he won't have to pay back $660 million",
+   "publisher": "Gizmodo",
+   "url": "https://gizmodo.com/trump-pardoned-him-now-he-wont-have-to-pay-back-660-million-2000661542",
+   "date": "2025"
+  },
+  {
+   "title": "DOJ pardon attorney removed after dispute over Mel Gibson's gun rights",
+   "publisher": "ABC News / GMA",
+   "url": "https://www.goodmorningamerica.com/news/story/doj-pardon-attorney-removed-after-dispute-mel-gibsons-119677857",
+   "date": "2025-03-11"
+  },
+  {
+   "title": "Justice Department pardon lawyer who says she was fired in dispute over Mel Gibson's gun rights sues",
+   "publisher": "AP via ABC News",
+   "url": "https://abcnews.com/Politics/wireStory/justice-department-pardon-lawyer-fired-dispute-mel-gibsons-136185902",
+   "date": "2026-09-03"
+  },
+  {
+   "title": "Former pardon attorney calls MSPB a dead end, sues for reinstatement",
+   "publisher": "Government Executive",
+   "url": "https://www.govexec.com/workforce/2026/09/former-pardon-atty-calls-mspb-dead-end-sues-reinstatement/415817/",
+   "date": "2026-09"
+  },
+  {
+   "title": "Ed Martin takes DOJ pardon job as Trump upends clemency process",
+   "publisher": "Bloomberg Law",
+   "url": "https://news.bloomberglaw.com/us-law-week/ed-martin-takes-doj-pardon-job-as-trump-upends-clemency-process",
+   "date": "2025-05"
+  },
+  {
+   "title": "'No MAGA left behind': outrage as Trump pardon chief issues new vow",
+   "publisher": "Raw Story",
+   "url": "https://www.rawstory.com/no-maga-left-behind-outrage-as-trump-pardon-chief-issues-new-vow/",
+   "date": "2025-05"
+  },
+  {
+   "title": "Ed Martin out as leader of DOJ's 'weaponization' group",
+   "publisher": "NBC News",
+   "url": "https://www.nbcnews.com/politics/justice-department/ed-martin-dojs-weaponization-czar-sources-say-rcna257093",
+   "date": "2026-02"
+  },
+  {
+   "title": "Ed Martin stays as DOJ pardon attorney after reports of demotion",
+   "publisher": "Bloomberg Law",
+   "url": "https://news.bloomberglaw.com/us-law-week/ed-martin-stays-as-doj-pardon-attorney-after-reports-of-demotion",
+   "date": "2026-02"
+  },
+  {
+   "title": "Trump loyalist Ed Martin is leaving the Justice Department",
+   "publisher": "AP via Local10",
+   "url": "https://www.local10.com/news/politics/2026/08/21/trump-loyalist-ed-martin-is-leaving-the-justice-department-to-focus-on-election-legal-battles/",
+   "date": "2026-08-21"
+  },
+  {
+   "title": "Judiciary Democrats analysis: Trump pardon spree cheated crime victims of $1.3 billion",
+   "publisher": "House Judiciary Committee Democrats",
+   "url": "https://democrats-judiciary.house.gov/media-center/press-releases/new-judiciary-democrats-analysis-reveals-trump-s-corrupt-pardon-spree-cheated-crime-victims-of-13-billion",
+   "date": "2025-06-17"
+  },
+  {
+   "title": "Trump's pardons cost the U.S. $1.3 billion, per House Dem report",
+   "publisher": "Axios",
+   "url": "https://www.axios.com/2025/06/17/trump-pardons-cost-democrats-report",
+   "date": "2025-06-17"
+  },
+  {
+   "title": "Trump's pardons cost victims and taxpayers $1.3 billion",
+   "publisher": "CBS News",
+   "url": "https://www.cbsnews.com/news/trumps-pardons-cost-victims-and-taxpayers-1-3-billion-house-judiciary-committee-democrats-review",
+   "date": "2025-06-17"
+  },
+  {
+   "title": "Trump's pardons could have erased more than $1.3 billion, Democrats say",
+   "publisher": "CNN via KVIA",
+   "url": "https://kvia.com/news/2025/06/17/trumps-pardons-could-have-erased-more-than-1-3-billion-in-fines-and-restitution-democrats-say/",
+   "date": "2025-06-17"
+  },
+  {
+   "title": "Judiciary Democrats report exposes MAGA's cash-for-clemency racket",
+   "publisher": "House Judiciary Committee Democrats",
+   "url": "https://democrats-judiciary.house.gov/media-center/press-releases/new-judiciary-democrats-report-exposes-maga-s-cash-for-clemency-racket-which-gives-unrepentant-criminals-a-new-lease-on-life-and-leaves-victims-in-the-dust",
+   "date": "2026-08-21"
+  },
+  {
+   "title": "Pardons, Inc. (staff report PDF)",
+   "publisher": "House Judiciary Committee Democrats",
+   "url": "https://democrats-judiciary.house.gov/sites/evo-subsites/democrats-judiciary.house.gov/files/evo-media-document/2026-08-hjc-dems-staff-report-pardons-inc.pdf",
+   "date": "2026-08"
+  },
+  {
+   "title": "Trump pardons of fraudsters cost victims nearly $2 billion",
+   "publisher": "The New Republic",
+   "url": "https://newrepublic.com/post/214599/trump-pardons-fraudsters-cost-victims-billions",
+   "date": "2026-08"
+  },
+  {
+   "title": "Welch, Min launch bicameral oversight investigation into Trump pardons",
+   "publisher": "Sen. Peter Welch",
+   "url": "https://www.welch.senate.gov/welch-min-launch-bicameral-oversight-investigation-into-trump-pardons-amid-corruption-concerns/",
+   "date": "2026-05-07"
+  },
+  {
+   "title": "Bicameral congressional investigation launched over multiple Trump pardons",
+   "publisher": "KEYT (CBS)",
+   "url": "https://keyt.com/news/crime/2026/05/07/bicameral-congressional-investigation-launched-over-multiple-trump-administration-pardons",
+   "date": "2026-05-07"
+  },
+  {
+   "title": "Min and Welch escalate oversight",
+   "publisher": "Rep. Dave Min",
+   "url": "https://min.house.gov/media/press-releases/representative-dave-min-and-senator-peter-welch-escalate-oversight",
+   "date": "2026-06-15"
+  },
+  {
+   "title": "Trump says he believes in giving people a second chance. For 6,000 people, the answer was no",
+   "publisher": "Reason",
+   "url": "https://reason.com/2026/07/26/trump-says-he-believes-in-giving-people-a-second-chance-for-6000-people-the-answer-was-no/",
+   "date": "2026-07-26"
+  },
+  {
+   "title": "Senate confirms Todd Blanche as attorney general",
+   "publisher": "Axios",
+   "url": "https://www.axios.com/2026/08/08/todd-blanche-trump-attorney-general-confirmed",
+   "date": "2026-08-08"
+  }
+ ],
+ "entities": [
+  {
+   "id": "donald-trump",
+   "name": "Donald Trump",
+   "type": "person",
+   "description": "President; grants all clemency"
+  },
+  {
+   "id": "donald-trump-jr",
+   "name": "Donald Trump Jr.",
+   "type": "person",
+   "description": "Friend of lobbyist Ches McDowell"
+  },
+  {
+   "id": "changpeng-zhao",
+   "name": "Changpeng Zhao",
+   "type": "person",
+   "description": "Binance founder, pardoned Oct 2025"
+  },
+  {
+   "id": "binance",
+   "name": "Binance",
+   "type": "company",
+   "description": "Paid lobbyists for CZ's pardon; offered up to $5M success fees (WSJ)"
+  },
+  {
+   "id": "cz-pardon",
+   "name": "CZ pardon",
+   "type": "event",
+   "description": "Trump's Oct 2025 pardon of Changpeng Zhao"
+  },
+  {
+   "id": "world-liberty-financial",
+   "name": "World Liberty Financial",
+   "type": "company",
+   "description": "Trump-family crypto venture; Goody Guillén is also its counsel"
+  },
+  {
+   "id": "roger-stone",
+   "name": "Roger Stone",
+   "type": "person",
+   "description": "Pardoned Trump ally; paid $600K by Roger Ver"
+  },
+  {
+   "id": "roger-ver",
+   "name": "Roger Ver",
+   "type": "person",
+   "description": "Hired and later fired Stone; got a DOJ deferred prosecution deal"
+  },
+  {
+   "id": "ches-mcdowell",
+   "name": "Ches McDowell",
+   "type": "person",
+   "description": "Checkmate Government Relations lobbyist; Trump Jr. friend"
+  },
+  {
+   "id": "checkmate-government-relations",
+   "name": "Checkmate Government Relations",
+   "type": "company",
+   "description": "Lobbying firm paid $450K by Binance for 'executive relief'"
+  },
+  {
+   "id": "teresa-goody-guillen",
+   "name": "Teresa Goody Guillén",
+   "type": "person",
+   "description": "BakerHostetler lawyer-lobbyist for Binance; WLF counsel"
+  },
+  {
+   "id": "bakerhostetler",
+   "name": "BakerHostetler",
+   "type": "company",
+   "description": "Law firm of Goody Guillén"
+  },
+  {
+   "id": "trevor-milton",
+   "name": "Trevor Milton",
+   "type": "person",
+   "description": "Nikola founder; $1.8M+ donor; pardoned Mar 28, 2025"
+  },
+  {
+   "id": "nikola",
+   "name": "Nikola",
+   "type": "company",
+   "description": "EV maker Milton founded"
+  },
+  {
+   "id": "paul-walczak",
+   "name": "Paul Walczak",
+   "type": "person",
+   "description": "Nursing-home executive pardoned Apr 2025 for tax crimes"
+  },
+  {
+   "id": "elizabeth-fago",
+   "name": "Elizabeth Fago",
+   "type": "person",
+   "description": "Walczak's mother; GOP fundraiser; attended $1M dinner"
+  },
+  {
+   "id": "maga-inc",
+   "name": "MAGA Inc.",
+   "type": "fund",
+   "description": "Pro-Trump super PAC; host of the $1M-per-head dinner"
+  },
+  {
+   "id": "carlos-watson",
+   "name": "Carlos Watson",
+   "type": "person",
+   "description": "Ozy Media founder; sentence commuted Mar 28, 2025"
+  },
+  {
+   "id": "ozy-media",
+   "name": "Ozy Media",
+   "type": "company",
+   "description": "Media startup convicted of fraud; SEC claims dropped"
+  },
+  {
+   "id": "devon-archer",
+   "name": "Devon Archer",
+   "type": "person",
+   "description": "Pardoned ex-Hunter Biden associate; SEC case dropped"
+  },
+  {
+   "id": "david-gentile",
+   "name": "David Gentile",
+   "type": "person",
+   "description": "GPB Capital executive; commuted; about $15.5M restitution voided"
+  },
+  {
+   "id": "joseph-schwartz",
+   "name": "Joseph Schwartz",
+   "type": "person",
+   "description": "Nursing-home owner pardoned Nov 2025 for $38M payroll-tax fraud"
+  },
+  {
+   "id": "fred-daibes",
+   "name": "Fred Daibes",
+   "type": "person",
+   "description": "Menendez briber; paid $1M for clemency lobbying; not pardoned"
+  },
+  {
+   "id": "keith-schiller",
+   "name": "Keith Schiller",
+   "type": "person",
+   "description": "Ex-Trump bodyguard; Javelin Advisors lobbyist"
+  },
+  {
+   "id": "javelin-advisors",
+   "name": "Javelin Advisors",
+   "type": "company",
+   "description": "Schiller's firm; disclosed $1M from Daibes"
+  },
+  {
+   "id": "jack-burkman",
+   "name": "Jack Burkman",
+   "type": "person",
+   "description": "Pardon lobbyist (with Wohl); filmed in 60 Minutes sting"
+  },
+  {
+   "id": "jacob-wohl",
+   "name": "Jacob Wohl",
+   "type": "person",
+   "description": "Pardon lobbyist (with Burkman)"
+  },
+  {
+   "id": "boosie-badazz",
+   "name": "Boosie BadAzz",
+   "type": "person",
+   "description": "Rapper; paid $600K, got no pardon, filed for arbitration"
+  },
+  {
+   "id": "scott-jenkins",
+   "name": "Scott Jenkins",
+   "type": "person",
+   "description": "Ex-Virginia sheriff pardoned after a bribery conviction"
+  },
+  {
+   "id": "liz-oyer",
+   "name": "Liz Oyer",
+   "type": "person",
+   "description": "Fired DOJ pardon attorney; sued Sep 2026"
+  },
+  {
+   "id": "ed-martin",
+   "name": "Ed Martin",
+   "type": "person",
+   "description": "DOJ pardon attorney May 2025 to Aug 2026"
+  },
+  {
+   "id": "alice-marie-johnson",
+   "name": "Alice Marie Johnson",
+   "type": "person",
+   "description": "White House 'pardon czar' since Feb 2025"
+  },
+  {
+   "id": "mel-gibson",
+   "name": "Mel Gibson",
+   "type": "person",
+   "description": "Actor whose gun-rights restoration Oyer opposed"
+  },
+  {
+   "id": "todd-blanche",
+   "name": "Todd Blanche",
+   "type": "person",
+   "description": "Deputy AG who fired Oyer; now Attorney General"
+  },
+  {
+   "id": "pam-bondi",
+   "name": "Pam Bondi",
+   "type": "person",
+   "description": "Former Attorney General; restored Gibson's gun rights"
+  },
+  {
+   "id": "doj",
+   "name": "US Department of Justice",
+   "type": "government",
+   "description": "Houses the Office of the Pardon Attorney"
+  },
+  {
+   "id": "office-of-the-pardon-attorney",
+   "name": "Office of the Pardon Attorney",
+   "type": "government",
+   "description": "DOJ clemency office, largely bypassed"
+  },
+  {
+   "id": "sec",
+   "name": "SEC",
+   "type": "government",
+   "description": "Dropped civil cases after clemency"
+  },
+  {
+   "id": "white-house",
+   "name": "White House",
+   "type": "government",
+   "description": "Runs clemency review through the Counsel's office"
+  },
+  {
+   "id": "karoline-leavitt",
+   "name": "Karoline Leavitt",
+   "type": "person",
+   "description": "White House press secretary"
+  },
+  {
+   "id": "house-judiciary-democrats",
+   "name": "House Judiciary Committee Democrats",
+   "type": "government",
+   "description": "Minority staff; $1.3B (2025) and $1.7B (2026) estimates"
+  },
+  {
+   "id": "jamie-raskin",
+   "name": "Jamie Raskin",
+   "type": "person",
+   "description": "House Judiciary ranking member"
+  },
+  {
+   "id": "dave-min",
+   "name": "Dave Min",
+   "type": "person",
+   "description": "House Democrat co-leading pardon probe"
+  },
+  {
+   "id": "peter-welch",
+   "name": "Peter Welch",
+   "type": "person",
+   "description": "Senate Democrat co-leading pardon probe"
+  },
+  {
+   "id": "us-congress",
+   "name": "US Congress",
+   "type": "government",
+   "description": "Home of the Democratic oversight probes"
+  },
+  {
+   "id": "wall-street-journal",
+   "name": "Wall Street Journal",
+   "type": "media",
+   "description": "Reported the $1M going rate (Dec 2025)"
+  },
+  {
+   "id": "new-york-times",
+   "name": "New York Times",
+   "type": "media",
+   "description": "Broke the Walczak dinner story"
+  },
+  {
+   "id": "notus",
+   "name": "NOTUS",
+   "type": "media",
+   "description": "Tracked clemency lobbying disclosures"
+  },
+  {
+   "id": "bloomberg-law",
+   "name": "Bloomberg Law",
+   "type": "media",
+   "description": "Reported $1M quotes and the post-pardon SEC dismissals"
+  },
+  {
+   "id": "cbs-60-minutes",
+   "name": "CBS 60 Minutes",
+   "type": "media",
+   "description": "'The Pardon Economy' hidden-camera segment, Sep 2026"
+  },
+  {
+   "id": "nbc-news",
+   "name": "NBC News",
+   "type": "media",
+   "description": "Reported the Daibes-Schiller payment"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "binance",
+   "target": "checkmate-government-relations",
+   "label": "paid for 'executive relief' lobbying",
+   "type": "money",
+   "date": "2025-09",
+   "amount_usd": 450000
+  },
+  {
+   "source": "binance",
+   "target": "teresa-goody-guillen",
+   "label": "paid for pardon lobbying",
+   "type": "money",
+   "date": "2025",
+   "amount_usd": 290000
+  },
+  {
+   "source": "ches-mcdowell",
+   "target": "checkmate-government-relations",
+   "label": "leads",
+   "type": "ownership",
+   "date": "2025"
+  },
+  {
+   "source": "ches-mcdowell",
+   "target": "donald-trump-jr",
+   "label": "friend of",
+   "type": "political",
+   "date": "2025"
+  },
+  {
+   "source": "teresa-goody-guillen",
+   "target": "bakerhostetler",
+   "label": "partner at",
+   "type": "commercial",
+   "date": "2025"
+  },
+  {
+   "source": "teresa-goody-guillen",
+   "target": "world-liberty-financial",
+   "label": "counsel to",
+   "type": "legal",
+   "date": "2025"
+  },
+  {
+   "source": "donald-trump",
+   "target": "changpeng-zhao",
+   "label": "pardoned",
+   "type": "legal",
+   "date": "2025-10"
+  },
+  {
+   "source": "changpeng-zhao",
+   "target": "cz-pardon",
+   "label": "recipient of",
+   "type": "legal",
+   "date": "2025-10"
+  },
+  {
+   "source": "roger-ver",
+   "target": "roger-stone",
+   "label": "paid to lobby on exit tax",
+   "type": "money",
+   "date": "2025",
+   "amount_usd": 600000
+  },
+  {
+   "source": "trevor-milton",
+   "target": "donald-trump",
+   "label": "donated (with wife) to Trump-aligned committees",
+   "type": "money",
+   "date": "2024-10",
+   "amount_usd": 1800000
+  },
+  {
+   "source": "donald-trump",
+   "target": "trevor-milton",
+   "label": "pardoned",
+   "type": "legal",
+   "date": "2025-03-28"
+  },
+  {
+   "source": "trevor-milton",
+   "target": "nikola",
+   "label": "founder of",
+   "type": "ownership",
+   "date": "2014"
+  },
+  {
+   "source": "sec",
+   "target": "trevor-milton",
+   "label": "dismissed civil case after pardon",
+   "type": "regulatory",
+   "date": "2025-09"
+  },
+  {
+   "source": "elizabeth-fago",
+   "target": "maga-inc",
+   "label": "attended $1M-per-head dinner",
+   "type": "political",
+   "date": "2025-04"
+  },
+  {
+   "source": "elizabeth-fago",
+   "target": "paul-walczak",
+   "label": "mother of",
+   "type": "family"
+  },
+  {
+   "source": "donald-trump",
+   "target": "paul-walczak",
+   "label": "pardoned (voiding ~$4.4M restitution)",
+   "type": "legal",
+   "date": "2025-04-23",
+   "amount_usd": 4400000
+  },
+  {
+   "source": "donald-trump",
+   "target": "carlos-watson",
+   "label": "commuted sentence (voiding ~$36M restitution, ~$60M forfeiture)",
+   "type": "legal",
+   "date": "2025-03-28",
+   "amount_usd": 96000000
+  },
+  {
+   "source": "carlos-watson",
+   "target": "ozy-media",
+   "label": "founder of",
+   "type": "ownership"
+  },
+  {
+   "source": "alice-marie-johnson",
+   "target": "carlos-watson",
+   "label": "handled clemency case",
+   "type": "advisory",
+   "date": "2025-03"
+  },
+  {
+   "source": "sec",
+   "target": "carlos-watson",
+   "label": "dismissed civil claims after commutation",
+   "type": "regulatory",
+   "date": "2025-09"
+  },
+  {
+   "source": "sec",
+   "target": "ozy-media",
+   "label": "moved to dismiss civil claims",
+   "type": "regulatory",
+   "date": "2025-09"
+  },
+  {
+   "source": "sec",
+   "target": "devon-archer",
+   "label": "dismissed civil case after pardon",
+   "type": "regulatory",
+   "date": "2025-09"
+  },
+  {
+   "source": "donald-trump",
+   "target": "devon-archer",
+   "label": "pardoned",
+   "type": "legal",
+   "date": "2025-03"
+  },
+  {
+   "source": "donald-trump",
+   "target": "david-gentile",
+   "label": "commuted sentence (~$15.5M restitution voided)",
+   "type": "legal",
+   "amount_usd": 15500000
+  },
+  {
+   "source": "fred-daibes",
+   "target": "javelin-advisors",
+   "label": "paid for clemency lobbying",
+   "type": "money",
+   "date": "2025-Q1",
+   "amount_usd": 1000000
+  },
+  {
+   "source": "keith-schiller",
+   "target": "javelin-advisors",
+   "label": "runs",
+   "type": "ownership"
+  },
+  {
+   "source": "keith-schiller",
+   "target": "donald-trump",
+   "label": "former bodyguard / Oval Office operations director",
+   "type": "political"
+  },
+  {
+   "source": "joseph-schwartz",
+   "target": "jack-burkman",
+   "label": "paid (with Wohl) just under $1M for pardon lobbying",
+   "type": "money",
+   "date": "2025"
+  },
+  {
+   "source": "jack-burkman",
+   "target": "jacob-wohl",
+   "label": "lobbying partner of",
+   "type": "commercial"
+  },
+  {
+   "source": "donald-trump",
+   "target": "joseph-schwartz",
+   "label": "pardoned",
+   "type": "legal",
+   "date": "2025-11-14"
+  },
+  {
+   "source": "boosie-badazz",
+   "target": "jack-burkman",
+   "label": "paid for pardon lobbying; seeks $300K back",
+   "type": "money",
+   "amount_usd": 600000
+  },
+  {
+   "source": "todd-blanche",
+   "target": "liz-oyer",
+   "label": "fired",
+   "type": "legal",
+   "date": "2025-03-07"
+  },
+  {
+   "source": "liz-oyer",
+   "target": "mel-gibson",
+   "label": "opposed gun-rights restoration for",
+   "type": "legal",
+   "date": "2025-03"
+  },
+  {
+   "source": "pam-bondi",
+   "target": "mel-gibson",
+   "label": "restored gun rights",
+   "type": "legal",
+   "date": "2025-04"
+  },
+  {
+   "source": "liz-oyer",
+   "target": "doj",
+   "label": "sued for reinstatement",
+   "type": "legal",
+   "date": "2026-09-03"
+  },
+  {
+   "source": "donald-trump",
+   "target": "ed-martin",
+   "label": "named pardon attorney",
+   "type": "political",
+   "date": "2025-05-08"
+  },
+  {
+   "source": "ed-martin",
+   "target": "office-of-the-pardon-attorney",
+   "label": "headed (May 2025-Aug 2026)",
+   "type": "political",
+   "date": "2025-05"
+  },
+  {
+   "source": "ed-martin",
+   "target": "scott-jenkins",
+   "label": "hailed pardon of ('No MAGA left behind')",
+   "type": "political",
+   "date": "2025-05"
+  },
+  {
+   "source": "office-of-the-pardon-attorney",
+   "target": "doj",
+   "label": "office within",
+   "type": "ownership"
+  },
+  {
+   "source": "donald-trump",
+   "target": "alice-marie-johnson",
+   "label": "named pardon czar",
+   "type": "political",
+   "date": "2025-02-20"
+  },
+  {
+   "source": "house-judiciary-democrats",
+   "target": "donald-trump",
+   "label": "estimated pardons erased $1.3B (2025), then $1.7B (2026)",
+   "type": "political",
+   "date": "2026-08-21",
+   "amount_usd": 1700000000
+  },
+  {
+   "source": "jamie-raskin",
+   "target": "house-judiciary-democrats",
+   "label": "ranking member of",
+   "type": "political"
+  },
+  {
+   "source": "dave-min",
+   "target": "donald-trump",
+   "label": "co-leads pay-to-play pardon probe",
+   "type": "political",
+   "date": "2026-05-07"
+  },
+  {
+   "source": "peter-welch",
+   "target": "donald-trump",
+   "label": "co-leads pay-to-play pardon probe",
+   "type": "political",
+   "date": "2026-05-07"
+  },
+  {
+   "source": "karoline-leavitt",
+   "target": "white-house",
+   "label": "press secretary; denies pardon profiteering",
+   "type": "political"
+  },
+  {
+   "source": "wall-street-journal",
+   "target": "binance",
+   "label": "reported up to $5M success-fee offers",
+   "type": "media",
+   "date": "2025-12"
+  },
+  {
+   "source": "cbs-60-minutes",
+   "target": "jack-burkman",
+   "label": "filmed $300K pardon pitch",
+   "type": "media",
+   "date": "2026-09"
+  },
+  {
+   "source": "nbc-news",
+   "target": "fred-daibes",
+   "label": "reported $1M lobbying payment",
+   "type": "media",
+   "date": "2025"
+  },
+  {
+   "source": "notus",
+   "target": "roger-stone",
+   "label": "reported clemency lobbying disclosures",
+   "type": "media",
+   "date": "2026"
+  },
+  {
+   "source": "bloomberg-law",
+   "target": "sec",
+   "label": "reported post-pardon dismissals",
+   "type": "media",
+   "date": "2026-04-09"
+  },
+  {
+   "source": "new-york-times",
+   "target": "paul-walczak",
+   "label": "broke the dinner-pardon story",
+   "type": "media",
+   "date": "2025-05-27"
+  }
+ ],
+ "leads": [
+  {
+   "title": "David Gentile (GPB Capital) commutation: $1.6B Ponzi case and $15.5M restitution voided",
+   "why_connected": "One of the 17 grants under the Min-Welch pay-to-play probe; it adds to the restitution totals.",
+   "entities": [
+    "david-gentile",
+    "donald-trump",
+    "dave-min",
+    "peter-welch"
+   ],
+   "source_url": "https://keyt.com/news/crime/2026/05/07/bicameral-congressional-investigation-launched-over-multiple-trump-administration-pardons"
+  },
+  {
+   "title": "60 Minutes 'Pardon Economy' sting and Boosie BadAzz arbitration against Burkman and Wohl",
+   "why_connected": "The first known fee-recovery claim against Trump-era pardon lobbyists; it tests whether the brokers' claimed access is real.",
+   "entities": [
+    "jack-burkman",
+    "jacob-wohl",
+    "boosie-badazz",
+    "cbs-60-minutes"
+   ],
+   "source_url": "https://www.wafb.com/2026/09/14/boosie-takes-600k-pardon-fight-60-minutes-after-failed-trump-clemency-push/"
+  },
+  {
+   "title": "SEC waiver of penalties for ex-Ozy executives Samir Rao and Suzee Han",
+   "why_connected": "The SEC's softening extended beyond pardoned defendants to co-defendants in the Watson case.",
+   "entities": [
+    "sec",
+    "ozy-media",
+    "carlos-watson"
+   ],
+   "source_url": "https://news.bloomberglaw.com/securities-law/trumps-criminal-pardons-have-sec-enforcers-following-suit"
+  },
+  {
+   "title": "Joseph Schwartz pardon and the unpaid $19M wrongful-death award to a resident's family",
+   "why_connected": "A Burkman/Wohl-lobbied pardon; ProPublica reported the victims' family got nothing; Arkansas state sentence continues.",
+   "entities": [
+    "joseph-schwartz",
+    "jack-burkman",
+    "jacob-wohl"
+   ],
+   "source_url": "https://bsky.app/profile/propublica.org/post/3mrbuhksdhm25"
+  }
+ ],
+ "audit": {
+  "checked": [
+   "Todd Blanche is now Attorney General",
+   "Ed Martin left the pardon attorney post in Aug 2026",
+   "Liz Oyer's Sep 3, 2026 reinstatement lawsuit",
+   "House Judiciary Democrats' Aug 21, 2026 'Pardons, Inc.' estimate of about $1.7B (up from $1.3B)",
+   "SEC dismissal of the Milton civil case after his pardon",
+   "Blanche's confirmation vs swearing-in dates (cross-file consistency)"
+  ],
+  "result": "upheld",
+  "changes": [
+   "Blanche confirmed: the Senate confirmed him 50-49 on Aug 8, 2026 and he was sworn in on Aug 10, 2026 (AP via WTOP/Federal News Network; Euronews; Boston Globe), after Trump removed Bondi in April 2026 and Blanche served as acting AG. Added the date to the Oyer sub-claim.",
+   "Martin confirmed: Trump announced on Aug 21, 2026 that Martin was leaving DOJ to fight election 'legal battles' (AP via Local10; CBS; Good Morning America); AG Blanche thanked him.",
+   "Oyer suit, the $1.7B report and the Sep 2025 Milton SEC dismissal confirmed (AP via ABC/Local10, ABA Journal, GovExec; committee release; Law360, Bloomberg Law).",
+   "Clarified that the 'SEC initiated contact' quote came from Milton's own spokesperson, not the SEC, and noted that Milton's SEC counsel was Brad Bondi. Added the claims in Oyer's complaint. Updated .md.",
+   "Replaces the earlier wording-only audit (no fresh searches).",
+   "AG succession reconciled across C49, C61, C64 and C65: Bondi out Apr 2, 2026; Blanche acting AG from Apr 2, confirmed by the Senate 50-49 in a pre-dawn Saturday vote on Aug 8, 2026 (Axios), sworn in at the White House on Monday Aug 10, 2026 (AP via WTOP, PBS). C49 already had the Aug 10 swearing-in; added the Aug 8 confirmation date so the two are not conflated."
+  ],
+  "new_sources": [
+   {
+    "title": "Todd Blanche is sworn in as attorney general after bruising confirmation fight",
+    "publisher": "WTOP (AP)",
+    "url": "https://wtop.com/government/2026/08/todd-blanche-is-sworn-in-as-attorney-general-after-bruising-confirmation-fight/",
+    "date": "2026-08-10"
+   },
+   {
+    "title": "Todd Blanche sworn in as US attorney general after bruising confirmation fight",
+    "publisher": "Euronews",
+    "url": "https://www.euronews.com/2026/08/10/todd-blanche-sworn-in-as-us-attorney-general-after-bruising-confirmation-fight",
+    "date": "2026-08-10"
+   },
+   {
+    "title": "Trump loyalist Ed Martin is leaving the Justice Department to focus on election 'legal battles'",
+    "publisher": "Local10 (AP)",
+    "url": "https://www.local10.com/news/politics/2026/08/21/trump-loyalist-ed-martin-is-leaving-the-justice-department-to-focus-on-election-legal-battles/",
+    "date": "2026-08-21"
+   },
+   {
+    "title": "Ed Martin leaving Trump administration DOJ",
+    "publisher": "CBS News",
+    "url": "https://www.cbsnews.com/news/ed-martin-leaving-trump-administration-doj/",
+    "date": "2026-08-21"
+   },
+   {
+    "title": "Justice Department pardon lawyer who says she was fired in dispute over Mel Gibson's gun rights sues",
+    "publisher": "ABC News (AP)",
+    "url": "https://abcnews.com/Politics/wireStory/justice-department-pardon-lawyer-fired-dispute-mel-gibsons-136185902",
+    "date": "2026-09-03"
+   },
+   {
+    "title": "New Judiciary Democrats report exposes MAGA's cash-for-clemency racket",
+    "publisher": "House Judiciary Committee Democrats",
+    "url": "https://democrats-judiciary.house.gov/media-center/press-releases/new-judiciary-democrats-report-exposes-maga-s-cash-for-clemency-racket-which-gives-unrepentant-criminals-a-new-lease-on-life-and-leaves-victims-in-the-dust",
+    "date": "2026-08-21"
+   },
+   {
+    "title": "SEC Drops Suit Against Nikola Founder After Trump's Pardon",
+    "publisher": "Law360",
+    "url": "https://www.law360.com/bankruptcy-authority/articles/2387230",
+    "date": "2025-09-11"
+   },
+   {
+    "title": "Senate confirms Todd Blanche as attorney general",
+    "publisher": "Axios",
+    "url": "https://www.axios.com/2026/08/08/todd-blanche-trump-attorney-general-confirmed",
+    "date": "2026-08-08"
+   }
+  ]
+ }
+}

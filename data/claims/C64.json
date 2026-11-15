@@ -1,0 +1,1645 @@
+{
+ "id": "C64",
+ "title": "Lobbyists and fixers: who gets paid to reach the White House",
+ "verdict": "mostly-accurate",
+ "confidence": "medium",
+ "summary": "The access layer is well documented. Pam Bondi (AG until Apr 2, 2026) lobbied for Qatar at Ballard before her office cleared the Qatari jet; Patel consulted for Qatar's embassy, got a March 2025 waiver for Qatar matters, and signed security deals with Qatar as FBI director after his one-year recusal pledge had lapsed; Ballard, Miller Strategies and Checkmate represent crypto firms, Kalshi, the Saudi embassy, most corporate ballroom donors, and Binance in its pardon push; and Pakistan paid three Trump-tied firms (Seiden, Schiller/Sorial's Javelin, Checkmate) in the same weeks WLF signed its Pakistan deal. No source shows a payment buying an outcome, Ballard was reportedly frozen out of the White House after the XRP post, and the WLF-lobbyist and Saudi-decision overlaps are our own inference. No client in this project was found for Lewandowski, Arthur Schwartz or Mercury in 2025.",
+ "sub_claims": [
+  {
+   "statement": "Pam Bondi lobbied for Qatar at Ballard Partners, then as AG signed the memo clearing the Qatari 747 gift.",
+   "verdict": "confirmed",
+   "finding": "Evidence: documented. Ballard registered under FARA for Qatar in 2019 with Bondi named on the contract; the firm (not Bondi personally) was paid $115,000/month. Bondi left Ballard in Nov 2019, returned Mar 2020 and resumed the Qatar work; Quincy says she was registered for Qatar's embassy until 2021. In May 2025 Bondi reportedly signed the DOJ memo finding acceptance 'legally permissible', premised on transfer to the Trump library foundation; American Oversight sued for it in Jul 2025. No recusal found. Shows a prior paid relationship with the donor government; does not show the memo was improper. Exact memo date not re-verified (not checked further).",
+   "sources": [
+    "https://readsludge.com/2025/05/12/former-qatar-lobbyist-pam-bondi-approves-jet-deal/",
+    "https://www.yahoo.com/news/fact-check-pam-bondi-used-175300308.html",
+    "https://accountable.us/2025-05-14-research-on-bondi-qatar-lobbying-jet",
+    "https://americanoversight.org/doj-sued-for-withholding-legal-memo-on-trump-administrations-400-million-jet-gifted-by-qatar/",
+    "https://quincyinst.org/research/soft-power-hard-influence-how-qatar-became-a-giant-in-washington/"
+   ]
+  },
+  {
+   "statement": "Kash Patel was a paid consultant to Qatar's embassy, then as FBI director signed security agreements with Qatar.",
+   "verdict": "confirmed",
+   "finding": "Evidence: documented. Patel's financial disclosure (public 2025-02-01, after his hearing) listed the Qatari embassy as a client of Trishul LLC (about $2.1M total firm income; Qatar portion only reported as >$5,000). He did not register under FARA. A later disclosure shows an ethics waiver dated Mar 4 for a 'particular matter related to Qatar'. Audit correction: his one-year recusal from Qatar matters was a Nov 2024 pledge, and per Jewish Insider it had expired the month before he signed two bilateral security MOUs with his Qatari counterpart in Doha in Dec 2025 (neither the trip nor the agreements were announced by the FBI); the March 2025 waiver had already let him work on Qatar matters. He has said Trishul is dormant. Public Citizen asked OGE to rescind the waiver; its FARA complaint is unresolved (C73). The nature of the Qatar work remains undisclosed.",
+   "sources": [
+    "https://responsiblestatecraft.org/kash-patel-qatar/",
+    "https://practice.motherjones.com/politics/2025/05/kash-patel-qatar-fbi-trump",
+    "https://jewishinsider.com/2025/12/fbi-kash-patel-qatar-security-deals-lobbying-disclosure/",
+    "https://www.citizen.org/article/letter-to-senate-judiciary-committee-kash-patels-undisclosed-consulting-services-for-qatar-require-immediate-examination/"
+   ]
+  },
+  {
+   "statement": "Susie Wiles came from Ballard and Mercury, both of which have represented Qatar.",
+   "verdict": "partly-accurate",
+   "finding": "Evidence: employment documented; Wiles-Qatar link single-source. Wiles lobbied at Ballard (2011-2019 per Public Citizen; later end date per OpenSecrets) and co-chaired Mercury's Florida/DC offices from Feb 2022 to 2024. Mercury's documented Qatar embassy contracts (2015, $930K/6 months; 2019, $360K/year) predate her arrival; only Il Foglio says she 'led' Mercury while it represented Qatar. Her documented foreign clients include Nigeria's PDP and Globovision. After Nov 2024 Ballard signed at least 15 foreign principals and Mercury at least 7 (Washington Examiner). No 2025 Mercury contract with Qatar, UAE, Binance or Justin Sun found.",
+   "sources": [
+    "https://readsludge.com/2024/11/08/trump-selects-corporate-lobbyist-susie-wiles-as-chief-of-staff/",
+    "https://www.coloradopolitics.com/2025/03/06/america-first-adjacent-lobbyists-line-up-to-sell-influence-to-foreigners-e22a2e53-b625-5917-bff9-bdd2b33e178f/",
+    "https://www.odwyerpr.com/story/public/3852/2015-01-13/qatar-buttresses-dc-coverage.html",
+    "https://www.odwyerpr.com/story/public/13519/2019-12-12/mercury-pa-targets-ngos-for-qatar.html",
+    "https://www.ilfoglio.it/esteri/2025/05/15/news/i-legami-trumpiani-col-qatar-e-la-folle-apertura-alliran-non-esistono-nemici-permanenti--117660"
+   ]
+  },
+  {
+   "statement": "Ballard's crypto clients (Kraken, Blockchain.com, Ripple) and the March 2025 XRP Truth Social post.",
+   "verdict": "mostly-accurate",
+   "finding": "Evidence: hires documented; White House freeze single-source (Politico, anonymous). Kraken and Blockchain.com hired Ballard in Dec 2024 ($60K combined; C52); SEC dismissed Kraken 2025-03-27 (C23). Politico: a Ballard employee pressed Trump at a Mar-a-Lago event in early Mar 2025 to promote a crypto reserve; Trump's post then named XRP (Ripple is a Ballard client); Sacks complained to Wiles; staff were told not to meet Ballard ('He is not welcome in anything anymore'); Ballard then dropped Politico's parent as a client. SEC-Ripple cross-appeals were dropped 2025-08-07 with the $125M penalty intact (C23). Shows access that preceded a market-moving presidential post and then backfired.",
+   "sources": [
+    "https://finance.yahoo.com/news/kraken-blockchain-com-join-crowd-182830298.html",
+    "https://www.rawstory.com/trump-2671918956",
+    "https://cryptopotato.com/trumps-ripple-xrp-post-fallout-how-the-white-house-sidelined-lobbyist-report/",
+    "https://floridapolitics.com/archives/738108-ballard-partners-dumps-politicos-parent-company-after-report-firm-was-iced-out-of-white-house",
+    "https://www.yahoo.com/news/trump-whisperer-west-wing-pariah-085500000.html"
+   ]
+  },
+  {
+   "statement": "Ballard Partners represents the Saudi embassy.",
+   "verdict": "confirmed",
+   "finding": "Evidence: documented (FARA via Sludge and Washington Examiner/Denver Gazette). Contract signed 2025-03-31 at $60,000/month ($720K/year) for communications, events and outreach. Sludge (Feb 2026) also lists DRC, Japan, South Korea (Korea Zinc), Uzbekistan and an Albanian client; Ballard set a record $88.1M 2025 revenue. Any link to Saudi decisions in this project (PIF money in Affinity, C15; F-35 sale; MNNA status) is inferred from co-occurrence; no source asserts it.",
+   "sources": [
+    "https://readsludge.com/2026/02/05/foreign-interests-are-paying-millions-to-a-trump-linked-lobbying-firm/",
+    "https://www.coloradopolitics.com/2025/05/22/saudi-cash-buys-meetings-with-senators-and-prime-media-coverage-8b3969b0-686c-5fdb-8e16-d48edba59452/",
+    "https://readsludge.com/2026/02/13/k-streets-trump-boom/"
+   ]
+  },
+  {
+   "statement": "Most corporate ballroom donors are clients of Ballard, Miller Strategies or Michael Best Strategies.",
+   "verdict": "confirmed",
+   "finding": "Evidence: documented (Public Citizen, Nov 2025; CBS). 17 of 26 known corporate donors were clients of the three firms: Ballard 11 (incl. Ripple, Palantir, Amazon), Miller 6 (incl. Tether, Apple, Palantir), Priebus's firm 5. Ballard and Jeff Miller attended a White House ballroom fundraising dinner. Sens. Blumenthal, Warren and Schiff sent questions to Ballard, Miller, Priebus and Meredith O'Rourke; all declined comment to CBS. Tether's other project ties: Cantor/Lutnick (C35, C50).",
+   "sources": [
+    "https://www.citizen.org/news/three-of-d-c-s-biggest-lobbyists-represent-two-thirds-of-the-corporate-donors-to-trumps-white-house-ballroom/",
+    "https://www.cbsnews.com/news/corporate-trump-ballroom-donors-represented-by-3-lobbying-firms"
+   ]
+  },
+  {
+   "statement": "Jeff Miller's Miller Strategies works for a cluster of crypto and prediction-market firms, including Kalshi, where Donald Trump Jr. is an adviser.",
+   "verdict": "mostly-accurate",
+   "finding": "Evidence: each hire documented; the pattern and any coordination inferred. Miller (finance chair of Trump's inaugural festivities) represents Crypto.com (SEC probe closed 2025-03-27; C43/C52), Gemini (CFTC vacatur bid denied Oct 2026; C52), Tether (ballroom donor) and Kalshi, which paid Miller Strategies $240K in H1 2026, its largest outside firm (Stateline, Oct 2026). Trump Jr. is a strategic adviser to Kalshi and an investor in and adviser to Polymarket (C25). Polymarket's first federal lobbyist (registered Jul 2025) was ex-Trump campaign adviser David Urban. No source says Miller and Trump Jr. coordinated.",
+   "sources": [
+    "https://stateline.org/2026/10/01/prediction-markets-spending-millions-to-influence-state-federal-governments/",
+    "https://casinobeats.com/2025/08/27/donald-trump-jr-now-serves-as-advisor-to-prediction-market-rivals-polymarket-kalshi/",
+    "https://finance.yahoo.com/news/kraken-blockchain-com-join-crowd-182830298.html"
+   ]
+  },
+  {
+   "statement": "Checkmate / Ches McDowell: Binance, Pakistan, Panama and a partnership with Ballard.",
+   "verdict": "confirmed",
+   "finding": "Evidence: documented. Binance paid Checkmate $450K for Sept 2025 'executive relief' lobbying before the CZ pardon (C36); McDowell says Trump Jr. did not help. Checkmate reported >$22M 2025 federal revenue (Bloomberg Government). Clients also include the Sports Betting Alliance, the Panama Maritime Authority ($195K/month) and Pakistan via Dubai-based Greystone Investment & Management ($100K Phase 1 from 2025-05-15, with an option to expand; amounts vary by outlet). Ballard and Checkmate announced a strategic partnership (Florida Politics; date not established).",
+   "sources": [
+    "https://cointelegraph.com/news/cz-pardon-binance-lobbying-trump-washington",
+    "https://news.bloomberglaw.com/ip-law/trump-linked-lobbyists-land-big-money-foreign-client-contracts",
+    "https://www.odwyerpr.com/story/public/23166/2025-06-18/checkmate-checks-for-pakistan.html",
+    "https://www.odwyerpr.com/story/public/23048/2025-05-23/panama-maritime-authority-calls-checkmate.html",
+    "https://floridapolitics.com/archives/742763-ballard-partners-checkmate-government-relations-announce-strategic-partnership",
+    "https://nukta.com/pakistans-multi-million-dollar-lobbying-push-to-reset-its-image-in-the-us"
+   ]
+  },
+  {
+   "statement": "Pakistan paid three Trump-tied firms (Seiden Law, Javelin Advisors, Checkmate) in Apr-May 2025 while WLF signed its Pakistan deal.",
+   "verdict": "mostly-accurate",
+   "finding": "Evidence: each element documented; the lobbying-WLF overlap inferred. Seiden Law signed 2025-04-08 at $200K/month for six months (FARA 7570, via Nukta). Javelin Advisors (Keith Schiller, George Sorial) registered 2025-04-24/25 (FARA 7579) as Seiden's subcontractor at about $50K/month (one outlet says $125K). Checkmate from 2025-05-15. On 2025-04-26 WLF's Zach Witkoff, Zak Folkman and Chase Herro signed a letter of intent with the Pakistan Crypto Council in Islamabad. Council CEO Bilal Bin Saqib became an unpaid WLF adviser in Apr 2025, and CZ had been named a Council adviser earlier that month. Trump hosted Gen. Asim Munir on 2025-06-18 with Steve Witkoff present; a Jul 2025 trade deal set a 19% tariff; in Jan 2026 WLF affiliate SC Financial signed an MOU on USD1. Bloomberg (2026-03-29) credits Bin Saqib's crypto outreach. No source found says the paid lobbyists arranged the WLF deal or the lunch; Dawn's insiders cite 'unconventional means' without names.",
+   "sources": [
+    "https://nukta.com/pakistans-multi-million-dollar-lobbying-push-to-reset-its-image-in-the-us",
+    "https://www.dawn.com/news/1907874",
+    "https://sundayguardianlive.com/world/in-trumps-washington-pak-quietly-erects-its-largest-ever-influence-network-133161/",
+    "https://efile.fara.gov/docs/7579-Registration-Statement-20250425-1.pdf",
+    "https://propakistani.pk/2025/04/26/pakistan-crypto-council-partners-with-trump-backed-wlf-to-boost-crypto-adoption/",
+    "https://cointelegraph.com/news/trump-world-liberty-financial-partners-with-pakistan-crypto-council",
+    "https://decrypt.co/322221/pakistan-world-liberty-financial-advisor-government-role-crypto?amp=1",
+    "https://decrypt.co/354567/pakistan-to-explore-stablecoin-remittances-via-affiliate-of-trump-linked-world-liberty-financial",
+    "https://www.bloomberg.com/news/features/2026-03-29/how-a-35-year-old-crypto-bro-from-pakistan-won-over-trump",
+    "https://www.aljazeera.com/news/2026/7/3/500m-for-trump-access-for-pakistan-how-a-crypto-diplomatic-bet-paid-off",
+    "https://www.dawn.com/news/1918044/army-chief-joins-trump-for-historic-white-house-lunch",
+    "https://www.dawn.com/news/1918057/trump-coas-meeting-secured-via-unconventional-means-say-insiders"
+   ]
+  },
+  {
+   "statement": "Jason Miller's SHW Partners is paid $1.8M a year by India's embassy.",
+   "verdict": "confirmed",
+   "finding": "Evidence: documented (FARA, as reported by ThePrint, Business Today and Dawn). Hired 2025-04-24 at $150K/month ($1.8M/year), the same day-range as Pakistan's Javelin registration; renewed 2026-04-24 through 2027-04-23. Filings show requests for calls with trade and White House officials, and three meetings with Ambassador Sergio Gor in Nov-Dec 2025. India is not otherwise a project entity. No Kash Patel foreign client beyond Qatar was found in this search.",
+   "sources": [
+    "https://theprint.in/diplomacy/india-renews-1-8-mn-contract-with-trump-ally-jason-millers-lobbying-firm-for-another-year/2979822/",
+    "https://www.businesstoday.in/india/story/india-renews-lobbying-deal-with-trump-ally-jason-miller-for-rs-17-crore-542123-2026-07-09",
+    "https://www.dawn.com/news/1965551"
+   ]
+  },
+  {
+   "statement": "Brad Bondi, brother of then-Attorney General Pam Bondi, was Trevor Milton's defense lawyer.",
+   "verdict": "confirmed",
+   "finding": "Evidence: documented. Brad Bondi was lead counsel in Milton's 2021-22 criminal fraud defence while at Cahill Gordon & Reindel (Business Wire, Law.com); C36 also describes him as Milton's SEC lawyer, which this audit did not re-check. He joined Paul Hastings in Nov 2024. Milton, a $1.8M+ donor, was pardoned 2025-03-28 and the SEC dropped its case in Sep 2025 (C36, C49). Shows a family tie inside the pardon/enforcement chain; does not show that Pam Bondi intervened.",
+   "sources": [
+    "https://www.law360.com/bankruptcy-authority/articles/2387230"
+   ]
+  },
+  {
+   "statement": "Roger Stone and Keith Schiller acted as paid pardon intermediaries.",
+   "verdict": "confirmed",
+   "finding": "Evidence: documented (C36, C49). Roger Ver paid Stone $600K, disclosed as exit-tax lobbying; Ver fired him in Dec 2025, and Stone was later hired for Nigerian Christians advocacy. Fred Daibes paid Schiller's Javelin Advisors $1M in Q1 2025 and got no pardon. Javelin is the common node between the pardon market (C49) and Pakistan (above). Stone denies lobbying the executive branch for Ver.",
+   "sources": [
+    "https://decrypt.co/316387/bitcoin-jesus-pays-trump-ally-roger-stone-600000-to-lobby-against-exit-tax",
+    "https://www.floridabulldog.org/2026/02/fired-couldnt-deliver-pardon-roger-stone-hired-aid-nigeria-christians/",
+    "https://www.nbcnews.com/politics/politics-news/new-jersey-businessman-paid-1m-lobbying-firm-try-get-pardon-trump-rcna239278"
+   ]
+  },
+  {
+   "statement": "Continental Strategy (Carlos Trujillo) works for Albania.",
+   "verdict": "partly-accurate",
+   "finding": "Evidence: contract documented; Kushner link not connected. In late Apr 2025 Sali Berisha's opposition Democratic Party signed a reported $250K/month, two-year contract with Continental, paid by a third party; Albania opened a probe of a $6M DP contract. Continental also registered Vima World SL, and its revenue rose about 2,800% in Q1 2025. Kushner's Albania projects are with Rama's government (C45), the other side, so no connection was found. Ballard represented Rama's Socialist Party in 2017 at $20K/month; a 2025-26 Ballard Albania client listed by Sludge is unidentified.",
+   "sources": [
+    "https://www.ksat.com/news/world/2025/05/08/chris-lacivita-paul-manafort-are-among-ex-trump-aides-working-to-make-albania-grandiose-again/",
+    "https://www.intellinews.com/albania-probes-democratic-party-s-6mn-us-lobbying-contract-378453",
+    "https://floridapolitics.com/archives/236352-ballard-partners-latest-federal-signing-ruling-party-albania",
+    "https://legis1.com/news/cuba-sanctions-lobbying-continental-strategy",
+    "https://readsludge.com/2026/02/05/foreign-interests-are-paying-millions-to-a-trump-linked-lobbying-firm/"
+   ]
+  },
+  {
+   "statement": "Lewandowski, Arthur Schwartz and Mercury have clients in this project.",
+   "verdict": "unverified",
+   "finding": "Evidence: none found. Lewandowski is a DHS special government employee under House Oversight inquiry (Rep. Garcia) and an American Oversight FOIA suit over his status and any private clients; no client in this project was found. Arthur Schwartz appears only as 1789 Capital's spokesman (C51). No 2025 Mercury client in this project was found.",
+   "sources": [
+    "https://www.axios.com/2025/09/05/corey-lewandowksi-trump-aide-probe-expands",
+    "https://www.axios.com/2026/01/23/corey-lewandowski-kristi-noem-homeland-security"
+   ]
+  }
+ ],
+ "corrections": [
+  "Bondi did not personally earn $115K/month; that was Ballard's Qatar fee.",
+  "The claim that Wiles 'led' Mercury's Qatar work is single-source (Il Foglio), and Mercury's documented Qatar contracts (2015, 2019) predate her arrival in 2022.",
+  "2025 Albanian lobbying by Trump-world operatives (Continental, LaCivita, Manafort) is for Berisha's opposition, not Rama's government, Kushner's partner.",
+  "Ballard's access is contested: Politico reports he was frozen out after the Mar 2025 XRP post.",
+  "Audit: Patel's one-year Qatar recusal was pledged in Nov 2024 and had expired before he signed the Dec 2025 Doha agreements; it was not a pledge made at the signing.",
+  "Audit: Bondi is former AG (left Apr 2, 2026); Todd Blanche is AG (acting from Apr 2, confirmed 50-49 on Aug 8, sworn in Aug 10, 2026)."
+ ],
+ "denials_and_context": [
+  "Ballard declined to comment to Sludge; Ballard, Miller and Priebus declined comment to CBS on the ballroom.",
+  "Patel says Trishul is dormant and that he recused from Qatar matters for one year.",
+  "WLF says Bin Saqib was unpaid and left the adviser role on entering government; the White House says there are no conflicts of interest.",
+  "McDowell says Trump Jr. did not help Binance; Stone denies lobbying the executive branch for Ver.",
+  "Lobbying and FARA work are legal and disclosed; these records show access and timing, not a bought outcome.",
+  "Not connected in the coverage we found (inferred, no source asserts): Javelin's Pakistan registration (2025-04-25) and WLF's Pakistan LOI (2025-04-26); Checkmate's work for both Binance and Pakistan, whose Crypto Council named CZ an adviser; Ballard's Saudi contract and Saudi F-35/MNNA decisions or PIF money in Affinity; Miller working for Kalshi while Trump Jr. advises it; Tether (Miller client and ballroom donor) and Lutnick's decisions; influence via Bondi's and Wiles's Ballard past; Bondi's Qatar work and the Qatari Diar golf deal."
+ ],
+ "sources": [
+  {
+   "title": "Former Qatar lobbyist Pam Bondi approves jet deal",
+   "publisher": "Sludge",
+   "url": "https://readsludge.com/2025/05/12/former-qatar-lobbyist-pam-bondi-approves-jet-deal/",
+   "date": "2025-05-12"
+  },
+  {
+   "title": "Fact Check: Pam Bondi used to lobby for Qatar — but no proof she personally made $115K per month",
+   "publisher": "Yahoo News",
+   "url": "https://www.yahoo.com/news/fact-check-pam-bondi-used-175300308.html",
+   "date": ""
+  },
+  {
+   "title": "Research on Bondi Qatar lobbying and jet",
+   "publisher": "Accountable.US",
+   "url": "https://accountable.us/2025-05-14-research-on-bondi-qatar-lobbying-jet",
+   "date": "2025-05-14"
+  },
+  {
+   "title": "DOJ sued for withholding legal memo on Qatar jet",
+   "publisher": "American Oversight",
+   "url": "https://americanoversight.org/doj-sued-for-withholding-legal-memo-on-trump-administrations-400-million-jet-gifted-by-qatar/",
+   "date": "2025-07"
+  },
+  {
+   "title": "Soft power, hard influence: how Qatar became a giant in Washington",
+   "publisher": "Quincy Institute",
+   "url": "https://quincyinst.org/research/soft-power-hard-influence-how-qatar-became-a-giant-in-washington/",
+   "date": "2025-09"
+  },
+  {
+   "title": "Kash Patel and Qatar",
+   "publisher": "Responsible Statecraft",
+   "url": "https://responsiblestatecraft.org/kash-patel-qatar/",
+   "date": "2025"
+  },
+  {
+   "title": "We still don't know what Kash Patel did as a consultant for Qatar",
+   "publisher": "Mother Jones",
+   "url": "https://practice.motherjones.com/politics/2025/05/kash-patel-qatar-fbi-trump",
+   "date": "2025-05"
+  },
+  {
+   "title": "FBI Director Patel signs security deals with Qatar, his former lobbying client",
+   "publisher": "Jewish Insider",
+   "url": "https://jewishinsider.com/2025/12/fbi-kash-patel-qatar-security-deals-lobbying-disclosure/",
+   "date": "2025-12"
+  },
+  {
+   "title": "Letter on Kash Patel's undisclosed consulting for Qatar",
+   "publisher": "Public Citizen",
+   "url": "https://www.citizen.org/article/letter-to-senate-judiciary-committee-kash-patels-undisclosed-consulting-services-for-qatar-require-immediate-examination/",
+   "date": "2025-02"
+  },
+  {
+   "title": "Trump selects corporate lobbyist Susie Wiles as chief of staff",
+   "publisher": "Sludge",
+   "url": "https://readsludge.com/2024/11/08/trump-selects-corporate-lobbyist-susie-wiles-as-chief-of-staff/",
+   "date": "2024-11-08"
+  },
+  {
+   "title": "'America First'-adjacent lobbyists line up to sell influence to foreigners",
+   "publisher": "Washington Examiner / Colorado Politics",
+   "url": "https://www.coloradopolitics.com/2025/03/06/america-first-adjacent-lobbyists-line-up-to-sell-influence-to-foreigners-e22a2e53-b625-5917-bff9-bdd2b33e178f/",
+   "date": "2025-03-06"
+  },
+  {
+   "title": "Qatar buttresses DC coverage",
+   "publisher": "O'Dwyer's",
+   "url": "https://www.odwyerpr.com/story/public/3852/2015-01-13/qatar-buttresses-dc-coverage.html",
+   "date": "2015-01-13"
+  },
+  {
+   "title": "Mercury PA targets NGOs for Qatar",
+   "publisher": "O'Dwyer's",
+   "url": "https://www.odwyerpr.com/story/public/13519/2019-12-12/mercury-pa-targets-ngos-for-qatar.html",
+   "date": "2019-12-12"
+  },
+  {
+   "title": "I legami trumpiani col Qatar",
+   "publisher": "Il Foglio",
+   "url": "https://www.ilfoglio.it/esteri/2025/05/15/news/i-legami-trumpiani-col-qatar-e-la-folle-apertura-alliran-non-esistono-nemici-permanenti--117660",
+   "date": "2025-05-15"
+  },
+  {
+   "title": "Trump freezes out well-connected MAGA lobbyist (summarizing Politico)",
+   "publisher": "Raw Story",
+   "url": "https://www.rawstory.com/trump-2671918956",
+   "date": "2025"
+  },
+  {
+   "title": "Trump's Ripple (XRP) post fallout",
+   "publisher": "CryptoPotato",
+   "url": "https://cryptopotato.com/trumps-ripple-xrp-post-fallout-how-the-white-house-sidelined-lobbyist-report/",
+   "date": "2025"
+  },
+  {
+   "title": "Ballard Partners dumps POLITICO's parent company",
+   "publisher": "Florida Politics",
+   "url": "https://floridapolitics.com/archives/738108-ballard-partners-dumps-politicos-parent-company-after-report-firm-was-iced-out-of-white-house",
+   "date": "2025"
+  },
+  {
+   "title": "From Trump whisperer to West Wing pariah",
+   "publisher": "Politico via Yahoo",
+   "url": "https://www.yahoo.com/news/trump-whisperer-west-wing-pariah-085500000.html",
+   "date": "2025"
+  },
+  {
+   "title": "Foreign interests are paying millions to a Trump-linked lobbying firm",
+   "publisher": "Sludge",
+   "url": "https://readsludge.com/2026/02/05/foreign-interests-are-paying-millions-to-a-trump-linked-lobbying-firm/",
+   "date": "2026-02-05"
+  },
+  {
+   "title": "K Street's Trump boom",
+   "publisher": "Sludge",
+   "url": "https://readsludge.com/2026/02/13/k-streets-trump-boom/",
+   "date": "2026-02-13"
+  },
+  {
+   "title": "Saudi cash buys meetings with senators and prime media coverage",
+   "publisher": "Washington Examiner / Colorado Politics",
+   "url": "https://www.coloradopolitics.com/2025/05/22/saudi-cash-buys-meetings-with-senators-and-prime-media-coverage-8b3969b0-686c-5fdb-8e16-d48edba59452/",
+   "date": "2025-05-22"
+  },
+  {
+   "title": "Three of D.C.'s biggest lobbyists represent two-thirds of ballroom corporate donors",
+   "publisher": "Public Citizen",
+   "url": "https://www.citizen.org/news/three-of-d-c-s-biggest-lobbyists-represent-two-thirds-of-the-corporate-donors-to-trumps-white-house-ballroom/",
+   "date": "2025-11"
+  },
+  {
+   "title": "Corporate Trump ballroom donors represented by 3 lobbying firms",
+   "publisher": "CBS News",
+   "url": "https://www.cbsnews.com/news/corporate-trump-ballroom-donors-represented-by-3-lobbying-firms",
+   "date": "2025-11"
+  },
+  {
+   "title": "Prediction markets spend millions to influence state, federal governments",
+   "publisher": "Stateline",
+   "url": "https://stateline.org/2026/10/01/prediction-markets-spending-millions-to-influence-state-federal-governments/",
+   "date": "2026-10-01"
+  },
+  {
+   "title": "Donald Trump Jr. now serves as advisor to Polymarket and Kalshi",
+   "publisher": "CasinoBeats",
+   "url": "https://casinobeats.com/2025/08/27/donald-trump-jr-now-serves-as-advisor-to-prediction-market-rivals-polymarket-kalshi/",
+   "date": "2025-08-27"
+  },
+  {
+   "title": "Trump-Linked Lobbyists Land Big Money, Foreign Client Contracts",
+   "publisher": "Bloomberg Law",
+   "url": "https://news.bloomberglaw.com/ip-law/trump-linked-lobbyists-land-big-money-foreign-client-contracts",
+   "date": "2026"
+  },
+  {
+   "title": "Checkmate checks for Pakistan",
+   "publisher": "O'Dwyer's",
+   "url": "https://www.odwyerpr.com/story/public/23166/2025-06-18/checkmate-checks-for-pakistan.html",
+   "date": "2025-06-18"
+  },
+  {
+   "title": "Panama Maritime Authority calls Checkmate",
+   "publisher": "O'Dwyer's",
+   "url": "https://www.odwyerpr.com/story/public/23048/2025-05-23/panama-maritime-authority-calls-checkmate.html",
+   "date": "2025-05-23"
+  },
+  {
+   "title": "Ballard Partners and Checkmate announce strategic partnership",
+   "publisher": "Florida Politics",
+   "url": "https://floridapolitics.com/archives/742763-ballard-partners-checkmate-government-relations-announce-strategic-partnership",
+   "date": ""
+  },
+  {
+   "title": "Pakistan's multi-million dollar lobbying push",
+   "publisher": "Nukta",
+   "url": "https://nukta.com/pakistans-multi-million-dollar-lobbying-push-to-reset-its-image-in-the-us",
+   "date": "2025"
+  },
+  {
+   "title": "Pakistan and India hire lobbyists",
+   "publisher": "Dawn",
+   "url": "https://www.dawn.com/news/1907874",
+   "date": "2025"
+  },
+  {
+   "title": "In Trump's Washington, Pak quietly erects its largest ever influence network",
+   "publisher": "Sunday Guardian",
+   "url": "https://sundayguardianlive.com/world/in-trumps-washington-pak-quietly-erects-its-largest-ever-influence-network-133161/",
+   "date": "2025"
+  },
+  {
+   "title": "Javelin Advisors FARA registration statement No. 7579",
+   "publisher": "US DOJ FARA eFile",
+   "url": "https://efile.fara.gov/docs/7579-Registration-Statement-20250425-1.pdf",
+   "date": "2025-04-25"
+  },
+  {
+   "title": "Former Trump advisors launch Javelin Advisors",
+   "publisher": "PR Newswire",
+   "url": "https://prnewswire.com/news-releases/former-trump-advisors-launch-government-relations-and-consulting-firm-javelin-advisors-llc-302335226.html",
+   "date": "2025"
+  },
+  {
+   "title": "Pakistan Crypto Council partners with Trump-backed WLF",
+   "publisher": "ProPakistani",
+   "url": "https://propakistani.pk/2025/04/26/pakistan-crypto-council-partners-with-trump-backed-wlf-to-boost-crypto-adoption/",
+   "date": "2025-04-26"
+  },
+  {
+   "title": "Trump's World Liberty Financial partners with Pakistan Crypto Council",
+   "publisher": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/trump-world-liberty-financial-partners-with-pakistan-crypto-council",
+   "date": "2025-04"
+  },
+  {
+   "title": "Pakistan appoints World Liberty Financial advisor to key government role",
+   "publisher": "Decrypt",
+   "url": "https://decrypt.co/322221/pakistan-world-liberty-financial-advisor-government-role-crypto?amp=1",
+   "date": "2025"
+  },
+  {
+   "title": "Pakistan to explore stablecoin remittances via WLF affiliate",
+   "publisher": "Decrypt",
+   "url": "https://decrypt.co/354567/pakistan-to-explore-stablecoin-remittances-via-affiliate-of-trump-linked-world-liberty-financial",
+   "date": "2026-01"
+  },
+  {
+   "title": "A 35-Year-Old Crypto Bro Helped Pakistan Win Over Trump World",
+   "publisher": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/features/2026-03-29/how-a-35-year-old-crypto-bro-from-pakistan-won-over-trump",
+   "date": "2026-03-29"
+  },
+  {
+   "title": "$500m for Trump, access for Pakistan: how a crypto-diplomatic bet paid off",
+   "publisher": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/7/3/500m-for-trump-access-for-pakistan-how-a-crypto-diplomatic-bet-paid-off",
+   "date": "2026-07-03"
+  },
+  {
+   "title": "Army chief joins Trump for historic White House lunch",
+   "publisher": "Dawn",
+   "url": "https://www.dawn.com/news/1918044/army-chief-joins-trump-for-historic-white-house-lunch",
+   "date": "2025-06-19"
+  },
+  {
+   "title": "Trump-COAS meeting secured via unconventional means, say insiders",
+   "publisher": "Dawn",
+   "url": "https://www.dawn.com/news/1918057/trump-coas-meeting-secured-via-unconventional-means-say-insiders",
+   "date": "2025-06"
+  },
+  {
+   "title": "India renews $1.8M contract with Jason Miller's lobbying firm",
+   "publisher": "ThePrint",
+   "url": "https://theprint.in/diplomacy/india-renews-1-8-mn-contract-with-trump-ally-jason-millers-lobbying-firm-for-another-year/2979822/",
+   "date": "2026-07"
+  },
+  {
+   "title": "India renews lobbying deal with Trump ally Jason Miller",
+   "publisher": "Business Today",
+   "url": "https://www.businesstoday.in/india/story/india-renews-lobbying-deal-with-trump-ally-jason-miller-for-rs-17-crore-542123-2026-07-09",
+   "date": "2026-07-09"
+  },
+  {
+   "title": "SHW Partners billing for India's embassy",
+   "publisher": "Dawn",
+   "url": "https://www.dawn.com/news/1965551",
+   "date": "2025"
+  },
+  {
+   "title": "Ex-Trump aides working to make Albania 'grandiose' again",
+   "publisher": "AP via KSAT",
+   "url": "https://www.ksat.com/news/world/2025/05/08/chris-lacivita-paul-manafort-are-among-ex-trump-aides-working-to-make-albania-grandiose-again/",
+   "date": "2025-05-08"
+  },
+  {
+   "title": "Albania probes Democratic Party's $6M US lobbying contract",
+   "publisher": "intellinews",
+   "url": "https://www.intellinews.com/albania-probes-democratic-party-s-6mn-us-lobbying-contract-378453",
+   "date": "2025"
+  },
+  {
+   "title": "Ballard Partners latest federal signing: the ruling party of Albania",
+   "publisher": "Florida Politics",
+   "url": "https://floridapolitics.com/archives/236352-ballard-partners-latest-federal-signing-ruling-party-albania",
+   "date": "2017"
+  },
+  {
+   "title": "Continental Strategy and Cuba sanctions lobbying",
+   "publisher": "Legis1",
+   "url": "https://legis1.com/news/cuba-sanctions-lobbying-continental-strategy",
+   "date": "2025"
+  },
+  {
+   "title": "Oversight Committee Democrat expands inquiry into Corey Lewandowski",
+   "publisher": "Axios",
+   "url": "https://www.axios.com/2025/09/05/corey-lewandowksi-trump-aide-probe-expands",
+   "date": "2025-09-05"
+  },
+  {
+   "title": "Lewandowski back for another year as DHS's part-time power broker",
+   "publisher": "Axios",
+   "url": "https://www.axios.com/2026/01/23/corey-lewandowski-kristi-noem-homeland-security",
+   "date": "2026-01-23"
+  },
+  {
+   "title": "Qatar hires pardoned Trump ally as new U.S. lobbyist",
+   "publisher": "Shomrim",
+   "url": "https://www.shomrim.news/eng/qatar-new-lobbyist",
+   "date": "2025-04"
+  },
+  {
+   "title": "TRON DAO federal lobbying",
+   "publisher": "Legis1",
+   "url": "https://legis1.com/news/tron-dao-federal-lobbying",
+   "date": "2026"
+  },
+  {
+   "title": "Kraken, Blockchain.com join crowd signing with Trump-tied lobbyists",
+   "publisher": "Reuters via Yahoo Finance",
+   "url": "https://finance.yahoo.com/news/kraken-blockchain-com-join-crowd-182830298.html",
+   "date": "2025-01-24"
+  },
+  {
+   "title": "CZ pardon followed Binance lobbying push",
+   "publisher": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/cz-pardon-binance-lobbying-trump-washington",
+   "date": "2025-10"
+  },
+  {
+   "title": "New Jersey businessman paid $1M to lobbying firm to try to get pardon",
+   "publisher": "NBC News",
+   "url": "https://www.nbcnews.com/politics/politics-news/new-jersey-businessman-paid-1m-lobbying-firm-try-get-pardon-trump-rcna239278",
+   "date": "2025"
+  },
+  {
+   "title": "'Bitcoin Jesus' pays Trump ally Roger Stone $600,000",
+   "publisher": "Decrypt",
+   "url": "https://decrypt.co/316387/bitcoin-jesus-pays-trump-ally-roger-stone-600000-to-lobby-against-exit-tax",
+   "date": "2025-04"
+  },
+  {
+   "title": "Fired after he couldn't deliver a pardon, Roger Stone hired to aid Nigeria Christians",
+   "publisher": "Florida Bulldog",
+   "url": "https://www.floridabulldog.org/2026/02/fired-couldnt-deliver-pardon-roger-stone-hired-aid-nigeria-christians/",
+   "date": "2026-02"
+  },
+  {
+   "title": "SEC drops Milton suit",
+   "publisher": "Law360",
+   "url": "https://www.law360.com/bankruptcy-authority/articles/2387230",
+   "date": "2025-09"
+  },
+  {
+   "title": "Senate confirms Todd Blanche as attorney general",
+   "publisher": "Axios",
+   "url": "https://www.axios.com/2026/08/08/todd-blanche-trump-attorney-general-confirmed",
+   "date": "2026-08-08"
+  },
+  {
+   "title": "Todd Blanche is sworn in as attorney general after bruising confirmation fight",
+   "publisher": "WTOP (AP)",
+   "url": "https://wtop.com/government/2026/08/todd-blanche-is-sworn-in-as-attorney-general-after-bruising-confirmation-fight/",
+   "date": "2026-08-10"
+  }
+ ],
+ "entities": [
+  {
+   "id": "ballard-partners",
+   "name": "Ballard Partners",
+   "type": "company",
+   "description": "Trump-tied lobbying firm; record $88.1M 2025 revenue; former employer of Bondi and Wiles"
+  },
+  {
+   "id": "brian-ballard",
+   "name": "Brian Ballard",
+   "type": "person",
+   "description": "Founder of Ballard Partners; major Trump fundraiser"
+  },
+  {
+   "id": "pam-bondi",
+   "name": "Pam Bondi",
+   "type": "person",
+   "description": "Attorney General Feb 2025 - Apr 2, 2026; former Ballard lobbyist on the Qatar account"
+  },
+  {
+   "id": "brad-bondi",
+   "name": "Brad Bondi",
+   "type": "person",
+   "description": "Paul Hastings partner (from Nov 2024); Pam Bondi's brother; Trevor Milton's lead defence counsel"
+  },
+  {
+   "id": "susie-wiles",
+   "name": "Susie Wiles",
+   "type": "person",
+   "description": "White House chief of staff; ex-Ballard and Mercury lobbyist"
+  },
+  {
+   "id": "mercury-public-affairs",
+   "name": "Mercury Public Affairs",
+   "type": "company",
+   "description": "Lobbying/PR firm; Wiles co-chaired its FL/DC offices 2022-2024; past Qatar contracts"
+  },
+  {
+   "id": "kash-patel",
+   "name": "Kash Patel",
+   "type": "person",
+   "description": "FBI director; consulted for Qatar's embassy via Trishul LLC"
+  },
+  {
+   "id": "trishul-llc",
+   "name": "Trishul LLC",
+   "type": "company",
+   "description": "Patel's consulting firm; listed Qatari embassy as client"
+  },
+  {
+   "id": "miller-strategies",
+   "name": "Miller Strategies",
+   "type": "company",
+   "description": "Jeff Miller's lobbying firm"
+  },
+  {
+   "id": "jeff-miller",
+   "name": "Jeff Miller",
+   "type": "person",
+   "description": "GOP fundraiser; Trump inaugural finance chair; lobbyist"
+  },
+  {
+   "id": "checkmate-government-relations",
+   "name": "Checkmate Government Relations",
+   "type": "company",
+   "description": "Ches McDowell's lobbying firm; >$22M 2025 revenue"
+  },
+  {
+   "id": "ches-mcdowell",
+   "name": "Ches McDowell",
+   "type": "person",
+   "description": "Checkmate managing partner; friend of Donald Trump Jr."
+  },
+  {
+   "id": "javelin-advisors",
+   "name": "Javelin Advisors",
+   "type": "company",
+   "description": "Lobbying firm of Keith Schiller and George Sorial"
+  },
+  {
+   "id": "keith-schiller",
+   "name": "Keith Schiller",
+   "type": "person",
+   "description": "Trump's former bodyguard and Oval Office operations director; Javelin co-founder"
+  },
+  {
+   "id": "george-sorial",
+   "name": "George Sorial",
+   "type": "person",
+   "description": "Former Trump Organization counsel; Javelin co-founder"
+  },
+  {
+   "id": "seiden-law",
+   "name": "Seiden Law LLP",
+   "type": "company",
+   "description": "Law firm hired by Pakistan at $200K/month in Apr 2025"
+  },
+  {
+   "id": "greystone-investment-management",
+   "name": "Greystone Investment & Management LLC",
+   "type": "company",
+   "description": "Dubai-based firm contracting Checkmate for Pakistan"
+  },
+  {
+   "id": "shw-partners",
+   "name": "SHW Partners",
+   "type": "company",
+   "description": "Jason Miller's firm; India embassy FARA client"
+  },
+  {
+   "id": "jason-miller",
+   "name": "Jason Miller",
+   "type": "person",
+   "description": "Former Trump campaign adviser; head of SHW Partners"
+  },
+  {
+   "id": "continental-strategy",
+   "name": "Continental Strategy",
+   "type": "company",
+   "description": "Carlos Trujillo's lobbying firm"
+  },
+  {
+   "id": "carlos-trujillo",
+   "name": "Carlos Trujillo",
+   "type": "person",
+   "description": "Former US ambassador to the OAS; Continental Strategy founder"
+  },
+  {
+   "id": "albanian-democratic-party",
+   "name": "Democratic Party of Albania",
+   "type": "company",
+   "description": "Berisha-led opposition party; Continental Strategy client"
+  },
+  {
+   "id": "albanian-socialist-party",
+   "name": "Socialist Party of Albania",
+   "type": "company",
+   "description": "Rama's ruling party; Ballard client in 2017"
+  },
+  {
+   "id": "roger-stone",
+   "name": "Roger Stone",
+   "type": "person",
+   "description": "Trump ally; paid by Roger Ver"
+  },
+  {
+   "id": "roger-ver",
+   "name": "Roger Ver",
+   "type": "person",
+   "description": "Bitcoin investor; paid Stone $600K"
+  },
+  {
+   "id": "fred-daibes",
+   "name": "Fred Daibes",
+   "type": "person",
+   "description": "Menendez briber; paid Javelin $1M for a pardon push"
+  },
+  {
+   "id": "corey-lewandowski",
+   "name": "Corey Lewandowski",
+   "type": "person",
+   "description": "DHS special government employee under oversight inquiry"
+  },
+  {
+   "id": "arthur-schwartz",
+   "name": "Arthur Schwartz",
+   "type": "person",
+   "description": "1789 Capital spokesman; Trump Jr. adviser"
+  },
+  {
+   "id": "david-urban",
+   "name": "David Urban",
+   "type": "person",
+   "description": "Former Trump campaign adviser; Polymarket's first federal lobbyist"
+  },
+  {
+   "id": "bernard-kerik",
+   "name": "Bernard Kerik",
+   "type": "person",
+   "description": "Pardoned Trump ally reportedly hired by Qatar in Apr 2025"
+  },
+  {
+   "id": "bilal-bin-saqib",
+   "name": "Bilal Bin Saqib",
+   "type": "person",
+   "description": "Pakistan Crypto Council CEO; WLF adviser from Apr 2025"
+  },
+  {
+   "id": "pakistan",
+   "name": "Pakistan",
+   "type": "country",
+   "description": "Hired several Trump-tied firms in 2025"
+  },
+  {
+   "id": "pakistan-crypto-council",
+   "name": "Pakistan Crypto Council",
+   "type": "government",
+   "description": "Signed WLF letter of intent on 2025-04-26"
+  },
+  {
+   "id": "asim-munir",
+   "name": "Asim Munir",
+   "type": "person",
+   "description": "Pakistan army chief; White House lunch 2025-06-18"
+  },
+  {
+   "id": "sc-financial-technologies",
+   "name": "SC Financial Technologies",
+   "type": "company",
+   "description": "WLF affiliate; Jan 2026 USD1 MOU with Pakistan"
+  },
+  {
+   "id": "india",
+   "name": "India",
+   "type": "country",
+   "description": "Hired SHW Partners in 2025"
+  },
+  {
+   "id": "sergio-gor",
+   "name": "Sergio Gor",
+   "type": "person",
+   "description": "US ambassador to India"
+  },
+  {
+   "id": "ripple",
+   "name": "Ripple",
+   "type": "company",
+   "description": "Crypto firm; Ballard client and ballroom donor"
+  },
+  {
+   "id": "tether",
+   "name": "Tether",
+   "type": "company",
+   "description": "Stablecoin issuer; Miller Strategies client and ballroom donor"
+  },
+  {
+   "id": "trevor-milton",
+   "name": "Trevor Milton",
+   "type": "person",
+   "description": "Nikola founder; donor; pardoned 2025-03-28"
+  },
+  {
+   "id": "white-house-ballroom",
+   "name": "White House ballroom",
+   "type": "event",
+   "description": "Privately funded East Wing ballroom project"
+  },
+  {
+   "id": "michael-best-strategies",
+   "name": "Michael Best Strategies",
+   "type": "company",
+   "description": "Reince Priebus's lobbying firm"
+  },
+  {
+   "id": "tron-dao",
+   "name": "TRON DAO",
+   "type": "company",
+   "description": "Justin Sun-linked organization; registered lobbying"
+  },
+  {
+   "id": "justin-sun",
+   "name": "Justin Sun",
+   "type": "person",
+   "description": "Tron founder; WLF investor"
+  },
+  {
+   "id": "pam-bondi-jet-memo",
+   "name": "DOJ memo on the Qatari jet",
+   "type": "event",
+   "description": "May 2025 memo finding acceptance of the Qatari 747 legally permissible"
+  },
+  {
+   "id": "donald-trump",
+   "name": "Donald Trump",
+   "type": "person",
+   "description": "President"
+  },
+  {
+   "id": "donald-trump-jr",
+   "name": "Donald Trump Jr.",
+   "type": "person",
+   "description": "President's son; Kalshi and Polymarket adviser"
+  },
+  {
+   "id": "steve-witkoff",
+   "name": "Steve Witkoff",
+   "type": "person",
+   "description": "Special envoy; at the Munir lunch"
+  },
+  {
+   "id": "zach-witkoff",
+   "name": "Zach Witkoff",
+   "type": "person",
+   "description": "WLF co-founder; signed the Pakistan letter of intent"
+  },
+  {
+   "id": "chase-herro",
+   "name": "Chase Herro",
+   "type": "person",
+   "description": "WLF co-founder"
+  },
+  {
+   "id": "world-liberty-financial",
+   "name": "World Liberty Financial",
+   "type": "company",
+   "description": "Trump-family crypto venture"
+  },
+  {
+   "id": "usd1",
+   "name": "USD1",
+   "type": "asset",
+   "description": "WLF stablecoin"
+  },
+  {
+   "id": "changpeng-zhao",
+   "name": "Changpeng Zhao",
+   "type": "person",
+   "description": "Binance founder; Pakistan Crypto Council adviser"
+  },
+  {
+   "id": "binance",
+   "name": "Binance",
+   "type": "company",
+   "description": "Crypto exchange; Checkmate client"
+  },
+  {
+   "id": "kraken",
+   "name": "Kraken (Payward)",
+   "type": "company",
+   "description": "Crypto exchange; Ballard client"
+  },
+  {
+   "id": "blockchain-com",
+   "name": "Blockchain.com",
+   "type": "company",
+   "description": "Crypto firm; Ballard client"
+  },
+  {
+   "id": "crypto-com",
+   "name": "Crypto.com",
+   "type": "company",
+   "description": "Crypto exchange; Miller client"
+  },
+  {
+   "id": "gemini",
+   "name": "Gemini",
+   "type": "company",
+   "description": "Crypto exchange; Miller client"
+  },
+  {
+   "id": "kalshi",
+   "name": "Kalshi",
+   "type": "company",
+   "description": "Prediction market; Miller client"
+  },
+  {
+   "id": "polymarket",
+   "name": "Polymarket",
+   "type": "company",
+   "description": "Prediction market"
+  },
+  {
+   "id": "qatar",
+   "name": "Qatar",
+   "type": "country",
+   "description": "Gulf state; donor of the 747"
+  },
+  {
+   "id": "qatar-jet",
+   "name": "Qatari Boeing 747-8 (Air Force One)",
+   "type": "asset",
+   "description": "Jet gifted May 2025"
+  },
+  {
+   "id": "saudi-arabia",
+   "name": "Saudi Arabia",
+   "type": "country",
+   "description": "Ballard FARA client via embassy"
+  },
+  {
+   "id": "saudi-pif",
+   "name": "Public Investment Fund (Saudi Arabia)",
+   "type": "fund",
+   "description": "Saudi sovereign fund"
+  },
+  {
+   "id": "white-house",
+   "name": "White House",
+   "type": "government",
+   "description": "Executive Office"
+  },
+  {
+   "id": "sec",
+   "name": "SEC",
+   "type": "government",
+   "description": "Securities regulator"
+  },
+  {
+   "id": "david-sacks",
+   "name": "David Sacks",
+   "type": "person",
+   "description": "White House crypto czar"
+  },
+  {
+   "id": "jared-kushner",
+   "name": "Jared Kushner",
+   "type": "person",
+   "description": "Affinity Partners founder; Albania projects"
+  },
+  {
+   "id": "albania",
+   "name": "Albania",
+   "type": "country",
+   "description": "Site of Kushner projects; lobbying client"
+  },
+  {
+   "id": "fbi",
+   "name": "FBI",
+   "type": "government",
+   "description": "Federal Bureau of Investigation"
+  },
+  {
+   "id": "us-department-of-justice",
+   "name": "US Department of Justice",
+   "type": "government",
+   "description": "DOJ"
+  },
+  {
+   "id": "dhs",
+   "name": "Department of Homeland Security",
+   "type": "government",
+   "description": "DHS"
+  },
+  {
+   "id": "1789-capital",
+   "name": "1789 Capital",
+   "type": "fund",
+   "description": "Trump Jr.-linked VC fund"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "pam-bondi",
+   "target": "ballard-partners",
+   "label": "former lobbyist at",
+   "type": "advisory",
+   "date": "2011-2024"
+  },
+  {
+   "source": "ballard-partners",
+   "target": "qatar",
+   "label": "FARA-registered agent for ($115K/month firm fee)",
+   "type": "money",
+   "date": "2019",
+   "amount_usd": 115000
+  },
+  {
+   "source": "pam-bondi",
+   "target": "qatar",
+   "label": "lobbied for (via Ballard; FARA)",
+   "type": "advisory",
+   "date": "2019-2021"
+  },
+  {
+   "source": "pam-bondi",
+   "target": "pam-bondi-jet-memo",
+   "label": "reportedly signed",
+   "type": "legal",
+   "date": "2025-05"
+  },
+  {
+   "source": "pam-bondi-jet-memo",
+   "target": "qatar-jet",
+   "label": "found acceptance legally permissible",
+   "type": "legal",
+   "date": "2025-05"
+  },
+  {
+   "source": "pam-bondi",
+   "target": "us-department-of-justice",
+   "label": "headed (Attorney General, Feb 2025 - Apr 2, 2026)",
+   "type": "political",
+   "date": "2025-02"
+  },
+  {
+   "source": "brad-bondi",
+   "target": "pam-bondi",
+   "label": "brother of",
+   "type": "family"
+  },
+  {
+   "source": "brad-bondi",
+   "target": "trevor-milton",
+   "label": "lead defence counsel for (criminal case; SEC counsel per C36)",
+   "type": "legal"
+  },
+  {
+   "source": "donald-trump",
+   "target": "trevor-milton",
+   "label": "pardoned",
+   "type": "legal",
+   "date": "2025-03-28"
+  },
+  {
+   "source": "kash-patel",
+   "target": "trishul-llc",
+   "label": "owns",
+   "type": "ownership"
+  },
+  {
+   "source": "trishul-llc",
+   "target": "qatar",
+   "label": "consultant to Qatari embassy",
+   "type": "money",
+   "date": "2024"
+  },
+  {
+   "source": "kash-patel",
+   "target": "fbi",
+   "label": "director of",
+   "type": "political",
+   "date": "2025-02"
+  },
+  {
+   "source": "kash-patel",
+   "target": "qatar",
+   "label": "signed bilateral security agreements with (as FBI director)",
+   "type": "regulatory",
+   "date": "2025-12"
+  },
+  {
+   "source": "susie-wiles",
+   "target": "ballard-partners",
+   "label": "former lobbyist at",
+   "type": "advisory",
+   "date": "2011-2019"
+  },
+  {
+   "source": "susie-wiles",
+   "target": "mercury-public-affairs",
+   "label": "co-chair FL/DC offices",
+   "type": "advisory",
+   "date": "2022-02"
+  },
+  {
+   "source": "mercury-public-affairs",
+   "target": "qatar",
+   "label": "FARA consulting contracts ($930K/6 months; $360K/year)",
+   "type": "money",
+   "date": "2015/2019",
+   "amount_usd": 930000
+  },
+  {
+   "source": "susie-wiles",
+   "target": "white-house",
+   "label": "chief of staff",
+   "type": "political",
+   "date": "2025-01"
+  },
+  {
+   "source": "brian-ballard",
+   "target": "ballard-partners",
+   "label": "founder",
+   "type": "ownership"
+  },
+  {
+   "source": "brian-ballard",
+   "target": "donald-trump",
+   "label": "fundraiser for (>$50M reported, 2024)",
+   "type": "political",
+   "date": "2024"
+  },
+  {
+   "source": "kraken",
+   "target": "ballard-partners",
+   "label": "hired (with Blockchain.com, $60K combined)",
+   "type": "money",
+   "date": "2024-12",
+   "amount_usd": 60000
+  },
+  {
+   "source": "blockchain-com",
+   "target": "ballard-partners",
+   "label": "hired",
+   "type": "money",
+   "date": "2024-12"
+  },
+  {
+   "source": "ripple",
+   "target": "ballard-partners",
+   "label": "lobbying client of",
+   "type": "commercial"
+  },
+  {
+   "source": "ballard-partners",
+   "target": "donald-trump",
+   "label": "employee pressed for crypto-reserve post; XRP named (Politico, anonymous sources)",
+   "type": "political",
+   "date": "2025-03"
+  },
+  {
+   "source": "white-house",
+   "target": "brian-ballard",
+   "label": "staff told not to meet (Politico, anonymous)",
+   "type": "political",
+   "date": "2025-03"
+  },
+  {
+   "source": "david-sacks",
+   "target": "susie-wiles",
+   "label": "complained about Ballard-pushed XRP post",
+   "type": "political",
+   "date": "2025-03"
+  },
+  {
+   "source": "saudi-arabia",
+   "target": "ballard-partners",
+   "label": "embassy contract $60K/month ($720K/year)",
+   "type": "money",
+   "date": "2025-03-31",
+   "amount_usd": 720000
+  },
+  {
+   "source": "ballard-partners",
+   "target": "white-house-ballroom",
+   "label": "represents 11 corporate donors",
+   "type": "commercial",
+   "date": "2025-11"
+  },
+  {
+   "source": "miller-strategies",
+   "target": "white-house-ballroom",
+   "label": "represents 6 corporate donors incl. Tether",
+   "type": "commercial",
+   "date": "2025-11"
+  },
+  {
+   "source": "michael-best-strategies",
+   "target": "white-house-ballroom",
+   "label": "represents 5 corporate donors",
+   "type": "commercial",
+   "date": "2025-11"
+  },
+  {
+   "source": "ripple",
+   "target": "white-house-ballroom",
+   "label": "donor",
+   "type": "money",
+   "date": "2025-10"
+  },
+  {
+   "source": "tether",
+   "target": "white-house-ballroom",
+   "label": "donor (Tether America)",
+   "type": "money",
+   "date": "2025-10"
+  },
+  {
+   "source": "tether",
+   "target": "miller-strategies",
+   "label": "lobbying client of",
+   "type": "commercial"
+  },
+  {
+   "source": "jeff-miller",
+   "target": "miller-strategies",
+   "label": "founder",
+   "type": "ownership"
+  },
+  {
+   "source": "jeff-miller",
+   "target": "donald-trump",
+   "label": "inaugural festivities finance chair",
+   "type": "political",
+   "date": "2025-01"
+  },
+  {
+   "source": "crypto-com",
+   "target": "miller-strategies",
+   "label": "hired",
+   "type": "money",
+   "date": "2024"
+  },
+  {
+   "source": "gemini",
+   "target": "miller-strategies",
+   "label": "hired",
+   "type": "money",
+   "date": "2025"
+  },
+  {
+   "source": "kalshi",
+   "target": "miller-strategies",
+   "label": "paid $240K (H1 2026)",
+   "type": "money",
+   "date": "2026-06",
+   "amount_usd": 240000
+  },
+  {
+   "source": "donald-trump-jr",
+   "target": "kalshi",
+   "label": "strategic adviser",
+   "type": "advisory",
+   "date": "2025-01"
+  },
+  {
+   "source": "donald-trump-jr",
+   "target": "polymarket",
+   "label": "adviser and investor (via 1789 Capital)",
+   "type": "advisory",
+   "date": "2025-08"
+  },
+  {
+   "source": "polymarket",
+   "target": "david-urban",
+   "label": "first federal lobbyist",
+   "type": "money",
+   "date": "2025-07"
+  },
+  {
+   "source": "ches-mcdowell",
+   "target": "checkmate-government-relations",
+   "label": "managing partner",
+   "type": "ownership"
+  },
+  {
+   "source": "ches-mcdowell",
+   "target": "donald-trump-jr",
+   "label": "friend of",
+   "type": "political"
+  },
+  {
+   "source": "binance",
+   "target": "checkmate-government-relations",
+   "label": "paid $450K for executive-relief lobbying",
+   "type": "money",
+   "date": "2025-09",
+   "amount_usd": 450000
+  },
+  {
+   "source": "ballard-partners",
+   "target": "checkmate-government-relations",
+   "label": "strategic partnership",
+   "type": "commercial"
+  },
+  {
+   "source": "greystone-investment-management",
+   "target": "checkmate-government-relations",
+   "label": "$100K Phase 1 contract for Pakistan",
+   "type": "money",
+   "date": "2025-05-15",
+   "amount_usd": 100000
+  },
+  {
+   "source": "pakistan",
+   "target": "greystone-investment-management",
+   "label": "Checkmate engagement on behalf of",
+   "type": "commercial",
+   "date": "2025-05"
+  },
+  {
+   "source": "pakistan",
+   "target": "seiden-law",
+   "label": "$200K/month six-month contract",
+   "type": "money",
+   "date": "2025-04-08",
+   "amount_usd": 1200000
+  },
+  {
+   "source": "seiden-law",
+   "target": "javelin-advisors",
+   "label": "subcontract (~$50K/month)",
+   "type": "money",
+   "date": "2025-04-24",
+   "amount_usd": 50000
+  },
+  {
+   "source": "javelin-advisors",
+   "target": "pakistan",
+   "label": "FARA-registered agent (No. 7579)",
+   "type": "advisory",
+   "date": "2025-04-25"
+  },
+  {
+   "source": "keith-schiller",
+   "target": "javelin-advisors",
+   "label": "co-founder",
+   "type": "ownership"
+  },
+  {
+   "source": "george-sorial",
+   "target": "javelin-advisors",
+   "label": "co-founder",
+   "type": "ownership"
+  },
+  {
+   "source": "keith-schiller",
+   "target": "donald-trump",
+   "label": "former bodyguard and Oval Office operations director",
+   "type": "political",
+   "date": "2017"
+  },
+  {
+   "source": "fred-daibes",
+   "target": "javelin-advisors",
+   "label": "paid $1M for pardon push",
+   "type": "money",
+   "date": "2025-Q1",
+   "amount_usd": 1000000
+  },
+  {
+   "source": "world-liberty-financial",
+   "target": "pakistan-crypto-council",
+   "label": "signed letter of intent",
+   "type": "commercial",
+   "date": "2025-04-26"
+  },
+  {
+   "source": "zach-witkoff",
+   "target": "pakistan-crypto-council",
+   "label": "signed WLF letter of intent with",
+   "type": "commercial",
+   "date": "2025-04-26"
+  },
+  {
+   "source": "chase-herro",
+   "target": "pakistan-crypto-council",
+   "label": "signed WLF letter of intent with",
+   "type": "commercial",
+   "date": "2025-04-26"
+  },
+  {
+   "source": "bilal-bin-saqib",
+   "target": "world-liberty-financial",
+   "label": "adviser (unpaid, per WLF)",
+   "type": "advisory",
+   "date": "2025-04"
+  },
+  {
+   "source": "bilal-bin-saqib",
+   "target": "pakistan-crypto-council",
+   "label": "CEO",
+   "type": "political"
+  },
+  {
+   "source": "changpeng-zhao",
+   "target": "pakistan-crypto-council",
+   "label": "strategic adviser",
+   "type": "advisory",
+   "date": "2025-04"
+  },
+  {
+   "source": "donald-trump",
+   "target": "asim-munir",
+   "label": "hosted White House lunch",
+   "type": "political",
+   "date": "2025-06-18"
+  },
+  {
+   "source": "steve-witkoff",
+   "target": "asim-munir",
+   "label": "attended White House lunch with",
+   "type": "political",
+   "date": "2025-06-18"
+  },
+  {
+   "source": "sc-financial-technologies",
+   "target": "pakistan",
+   "label": "MOU to integrate USD1",
+   "type": "commercial",
+   "date": "2026-01"
+  },
+  {
+   "source": "sc-financial-technologies",
+   "target": "world-liberty-financial",
+   "label": "affiliate of",
+   "type": "ownership"
+  },
+  {
+   "source": "sc-financial-technologies",
+   "target": "usd1",
+   "label": "to integrate",
+   "type": "commercial",
+   "date": "2026-01"
+  },
+  {
+   "source": "india",
+   "target": "shw-partners",
+   "label": "$1.8M/year embassy contract",
+   "type": "money",
+   "date": "2025-04-24",
+   "amount_usd": 1800000
+  },
+  {
+   "source": "jason-miller",
+   "target": "shw-partners",
+   "label": "heads",
+   "type": "ownership"
+  },
+  {
+   "source": "jason-miller",
+   "target": "sergio-gor",
+   "label": "met three times",
+   "type": "advisory",
+   "date": "2025-11"
+  },
+  {
+   "source": "carlos-trujillo",
+   "target": "continental-strategy",
+   "label": "founder",
+   "type": "ownership"
+  },
+  {
+   "source": "albanian-democratic-party",
+   "target": "continental-strategy",
+   "label": "reported $250K/month contract (third-party paid)",
+   "type": "money",
+   "date": "2025-04",
+   "amount_usd": 250000
+  },
+  {
+   "source": "albanian-socialist-party",
+   "target": "ballard-partners",
+   "label": "hired at $20K/month",
+   "type": "money",
+   "date": "2017-04",
+   "amount_usd": 20000
+  },
+  {
+   "source": "jared-kushner",
+   "target": "albania",
+   "label": "resort projects with Rama government (C45)",
+   "type": "commercial",
+   "date": "2024-12"
+  },
+  {
+   "source": "roger-ver",
+   "target": "roger-stone",
+   "label": "paid $600K (disclosed as exit-tax lobbying)",
+   "type": "money",
+   "date": "2025",
+   "amount_usd": 600000
+  },
+  {
+   "source": "corey-lewandowski",
+   "target": "dhs",
+   "label": "special government employee",
+   "type": "political",
+   "date": "2025"
+  },
+  {
+   "source": "arthur-schwartz",
+   "target": "1789-capital",
+   "label": "spokesman",
+   "type": "media"
+  },
+  {
+   "source": "qatar",
+   "target": "bernard-kerik",
+   "label": "reportedly hired as lobbyist (single source)",
+   "type": "money",
+   "date": "2025-04"
+  },
+  {
+   "source": "tron-dao",
+   "target": "sec",
+   "label": "lobbying via Kelley Drye/Digital Sovereignty Alliance ($370K; single source)",
+   "type": "money",
+   "date": "2025",
+   "amount_usd": 370000
+  }
+ ],
+ "leads": [
+  {
+   "title": "Bernard Kerik hired by Qatar's embassy in Apr 2025",
+   "why_connected": "Pardoned Trump ally retained by Qatar weeks before the 747 gift (single source).",
+   "entities": [
+    "bernard-kerik",
+    "qatar",
+    "qatar-jet"
+   ],
+   "source_url": "https://www.shomrim.news/eng/qatar-new-lobbyist"
+  },
+  {
+   "title": "TRON DAO's federal lobbying",
+   "why_connected": "Justin Sun-linked organization paid outside firms ~$370K, then moved lobbying in-house in Dec 2025 while the SEC case against Sun was resolved.",
+   "entities": [
+    "tron-dao",
+    "justin-sun",
+    "sec"
+   ],
+   "source_url": "https://legis1.com/news/tron-dao-federal-lobbying"
+  },
+  {
+   "title": "Lewandowski's DHS SGE status and private clients",
+   "why_connected": "Trump's former campaign manager holds a DHS role while his outside clients are undisclosed.",
+   "entities": [
+    "corey-lewandowski",
+    "dhs"
+   ],
+   "source_url": "https://www.axios.com/2025/09/05/corey-lewandowksi-trump-aide-probe-expands"
+  },
+  {
+   "title": "Pakistan's crypto and minerals diplomacy",
+   "why_connected": "Pakistan's lobbying push (Seiden, Javelin, Checkmate) ran alongside WLF deals and a US-Pakistan rare-earths agreement.",
+   "entities": [
+    "pakistan",
+    "world-liberty-financial",
+    "seiden-law",
+    "javelin-advisors"
+   ],
+   "source_url": "https://www.aljazeera.com/news/2026/7/3/500m-for-trump-access-for-pakistan-how-a-crypto-diplomatic-bet-paid-off"
+  }
+ ],
+ "audit": {
+  "checked": [
+   "Kash Patel's Qatar recusal and the Dec 2025 FBI-Qatar agreements",
+   "Pakistan's Seiden Law and Javelin Advisors (Schiller/Sorial) FARA contracts, Apr 2025",
+   "Kalshi's $240K to Miller Strategies in H1 2026",
+   "Ballard's $60K/month Saudi embassy contract",
+   "Brad Bondi's role for Trevor Milton; Bondi's AG status",
+   "Blanche's confirmation vs swearing-in dates (cross-file consistency)"
+  ],
+  "result": "corrected",
+  "changes": [
+   "Patel: corrected the recusal framing (Nov 2024 one-year pledge expired before the Dec 2025 signing; March 2025 waiver), reconciled with C73, in the finding and summary.",
+   "Bondi: summary and entity now say she was AG until Apr 2, 2026 (Blanche acting AG, then confirmed Aug 8, 2026).",
+   "Brad Bondi: documented role is lead criminal defence counsel while at Cahill; the 'SEC counsel' description is from C36 and was not re-checked, so the statement and relationship label were adjusted.",
+   "Upheld: Seiden Law Apr 8, 2025 at $200K/month (some outlets say $125K) and Javelin's Apr 25, 2025 FARA registration, which lists Sorial, Schiller and Robert Seiden as co-owners; Kalshi-Miller $240K (OpenSecrets via Stateline); Ballard-Saudi $60K/month from Mar 31, 2025, still listed in a Mar 2026 FARA supplemental. Verdict and confidence unchanged.",
+   "Relationship labels resting on anonymous or single-outlet reporting now name that sourcing: ballard-partners -> donald-trump.",
+   "AG succession reconciled across C49, C61, C64 and C65: Bondi out Apr 2, 2026; Blanche acting AG from Apr 2, confirmed by the Senate 50-49 in a pre-dawn Saturday vote on Aug 8, 2026 (Axios), sworn in at the White House on Monday Aug 10, 2026 (AP via WTOP, PBS). C64: added the 50-49 vote and Aug 10 swearing-in to the correction; the pam-bondi -> us-department-of-justice label said she 'heads' DOJ and now reads 'headed (Attorney General, Feb 2025 - Apr 2, 2026)'."
+  ],
+  "new_sources": [
+   {
+    "title": "FBI Director Patel signs security deals with Qatar, his former lobbying client",
+    "publisher": "Jewish Insider",
+    "url": "https://jewishinsider.com/2025/12/fbi-kash-patel-qatar-security-deals-lobbying-disclosure/",
+    "date": "2025-12"
+   },
+   {
+    "title": "Public Citizen complaint to OGE regarding ethics waiver for Patel",
+    "publisher": "Public Citizen",
+    "url": "https://www.citizen.org/article/public-citizen-complaint-to-oge-regarding-ethics-waiver-for-patel/",
+    "date": "2025-12"
+   },
+   {
+    "title": "Javelin Advisors FARA registration statement (7579)",
+    "publisher": "DOJ FARA eFile",
+    "url": "https://efile.fara.gov/docs/7579-Registration-Statement-20250425-1.pdf",
+    "date": "2025-04-25"
+   },
+   {
+    "title": "Pakistan's multi-million dollar lobbying push to reset its image in the US",
+    "publisher": "Nukta",
+    "url": "https://nukta.com/pakistans-multi-million-dollar-lobbying-push-to-reset-its-image-in-the-us",
+    "date": "2025"
+   },
+   {
+    "title": "Prediction markets spend millions to influence state, federal governments",
+    "publisher": "Stateline via Indiana Capital Chronicle",
+    "url": "https://indianacapitalchronicle.com/2026/10/05/repub/prediction-markets-spend-millions-to-influence-state-federal-governments/",
+    "date": "2026-10-05"
+   },
+   {
+    "title": "Foreign interests are paying millions to a Trump-linked lobbying firm",
+    "publisher": "Sludge",
+    "url": "https://readsludge.com/2026/02/05/foreign-interests-are-paying-millions-to-a-trump-linked-lobbying-firm/",
+    "date": "2026-02-05"
+   },
+   {
+    "title": "Ballard Partners FARA supplemental statement (7070)",
+    "publisher": "DOJ FARA eFile",
+    "url": "https://efile.fara.gov/docs/7070-Supplemental-Statement-20260302-9.pdf",
+    "date": "2026-03-02"
+   },
+   {
+    "title": "Trump says Pam Bondi out as his attorney general, Blanche will serve as acting AG",
+    "publisher": "AP via National Newswatch",
+    "url": "https://nationalnewswatch.com/2026/04/02/the-latest-trump-says-pam-bondi-out-as-his-attorney-general-blanche-will-serve-as-acting-ag",
+    "date": "2026-04-02"
+   },
+   {
+    "title": "Senate confirms Todd Blanche as attorney general",
+    "publisher": "Axios",
+    "url": "https://www.axios.com/2026/08/08/todd-blanche-trump-attorney-general-confirmed",
+    "date": "2026-08-08"
+   },
+   {
+    "title": "Todd Blanche is sworn in as attorney general after bruising confirmation fight",
+    "publisher": "WTOP (AP)",
+    "url": "https://wtop.com/government/2026/08/todd-blanche-is-sworn-in-as-attorney-general-after-bruising-confirmation-fight/",
+    "date": "2026-08-10"
+   }
+  ]
+ }
+}

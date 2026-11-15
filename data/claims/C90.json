@@ -1,0 +1,1260 @@
+{
+ "id": "C90",
+ "title": "World Liberty's token-swap pitch and partners with sanctions or fraud links",
+ "verdict": "mostly-accurate",
+ "confidence": "medium",
+ "summary": "Blockworks' report that WLF pitched crypto teams a swap ($10M+ WLFI at a $1.5B FDV plus a 10% fee, with WLF buying their token) is documented, and WLF did buy the tokens of most of its partners (TRX, MOVE, ENA, ONDO, SEI, AVAX, MNT, SUI reserve). A matching WLFI purchase within days is documented only for Tron (TRON DAO's $45M) and MOVE (via its market maker Web3Port's $10M), and both parties deny a swap. The AB partnership, struck four weeks after the US-UK Prince Group sanctions hit its resort principals, the Accountable.US A7A5 finding, Reuters' Nobitex-on-Tron/BNB report and the USD1-on-Tron deal are each documented, but none shows illicit money reaching WLF. WLF's claim that all 85,000+ buyers passed KYC is its own; the record shows repeated vetting gaps but no regulatory finding.",
+ "sub_claims": [
+  {
+   "statement": "Connection 1: WLF pitched crypto teams a token swap. A team buys at least $10M of WLFI plus a 10% fee, and WLF buys the same amount of the team's token.",
+   "verdict": "confirmed",
+   "finding": "Evidence grade: DOCUMENTED as reporting. The underlying messages are SINGLE-SOURCE (Blockworks, about 2025-02-03). Blockworks saw a WLF representative's message offering unlaunched WLFI at a $1.5B fully diluted valuation, first come, first served. Deals were to close on a video call with co-founder Zak Folkman, who with Herro did not reply to Blockworks. CoinDesk, The Block and crypto.news relayed the report. WLF said it was 'not selling tokens' and was 'reallocating assets for ordinary business purposes'. TRON and Movement denied any swap agreement. Our own arithmetic, which no source makes: a $1.5B FDV on 100B WLFI is $0.015 a token. That equals the first public tranche, while the second public tranche then on sale was $0.05. If the message is accurate, swap partners were offered WLFI at about 30% of the public price, or about 33% after the 10% fee. No source names any team that accepted.",
+   "sources": [
+    "https://blockworks.co/news/trump-backed-project-token-swaps",
+    "https://dev.coindesk.com/markets/2025/02/04/tron-move-deny-token-swap-deal-for-world-liberty-fi-inclusion",
+    "https://www.theblock.co/post/338563/trump-world-liberty-financial-disputes-token-swap-allegations",
+    "https://crypto.news/trump-backed-world-liberty-financial-offers-token-swaps-to-crypto-firms-report/"
+   ]
+  },
+  {
+   "statement": "Connection 2: WLF bought TRX while Justin Sun's TRON DAO bought WLFI (TRX to WLFI).",
+   "verdict": "partly-accurate",
+   "finding": "Purchases DOCUMENTED; the swap link is INFERRED and denied. Sun posted on 2025-01-19 that TRON DAO was adding $45M of WLFI, bringing his total to $75M (C05/C67). Arkham and Spot On Chain data show WLF bought about $4.7M of TRX (about 19.3M TRX) in its 2025-01-20 inauguration-day buying, as part of roughly $4.7M each of AAVE, LINK, TRX and ENA. On 2025-01-23 CoinDesk reported WLF would buy about $2.65M more TRX. That puts at least $7M of TRX buying within 1-4 days of a $45M WLFI purchase by the chain's own DAO. TRON stated on 2025-02-04 that 'there is no token swap agreement'. Separately, Sun's April 2026 lawsuit alleges WLF later pressured him to buy 'hundreds of millions' of USD1 and promote it on Tron (sub-claim 9). No source calls the January 2025 trades a swap. Audit: The Block confirms the inauguration-day basket ($4.7M each of AAVE, LINK, TRX and ENA), and CoinDesk/Yahoo report the follow-up ~$2.6M (about 10.8M TRX) buy, taking WLF's TRX holdings to about $7.5M. The ~$7M+ total is the sum of reported buys (our arithmetic).",
+   "sources": [
+    "https://cryptopotato.com/justin-sun-raises-stake-in-world-liberty-financial-to-75m/",
+    "https://www.theblock.co/post/335960/world-liberty-financial-buys-112-8-million-in-crypto-on-trumps-first-day-in-office",
+    "https://hotfix.coindesk.com/business/2025/01/23/trump-linked-world-liberty-financial-to-buy-more-trx-after-usd10m-wbtc-purchase",
+    "https://www.theblock.co/amp/post/335779/trumps-world-liberty-buys-25-million-of-tokens-including-link-tron-aave-and-ethena",
+    "https://dev.coindesk.com/markets/2025/02/04/tron-move-deny-token-swap-deal-for-world-liberty-fi-inclusion"
+   ]
+  },
+  {
+   "statement": "Connection 3: WLF bought MOVE a day after MOVE's market maker Web3Port bought $10M of WLFI (MOVE to WLFI).",
+   "verdict": "partly-accurate",
+   "finding": "Covered in C71 and not repeated here. In short, both purchases are DOCUMENTED and the link is INFERRED. Web3Port announced a $10M WLFI buy on 2025-01-27. Arkham recorded WLF buying about $1.85M of MOVE on 2025-01-28, with more in February and March 2025. Web3Port's $10M matches the swap minimum exactly. Movement told Blockworks and CoinDesk that it had bought no WLFI and that WLF's MOVE buys were open-market purchases. Under the NYT's August 2026 account, Web3Port later became Aqua 1, which is tied to Bobby Zhou (C71). So the swap template, if it was used with MOVE, ran through a market maker rather than the project itself.",
+   "sources": [
+    "https://info.arkm.com/research/wlf-purchases-1-85m-move",
+    "https://dev.coindesk.com/markets/2025/02/04/tron-move-deny-token-swap-deal-for-world-liberty-fi-inclusion",
+    "https://blockworks.co/news/trump-backed-project-token-swaps"
+   ]
+  },
+  {
+   "statement": "Connection 4: WLF bought ENA and ONDO around the time it announced partnerships with Ethena (Dec 2024) and Ondo (Feb 2025).",
+   "verdict": "partly-accurate",
+   "finding": "DOCUMENTED timing; no reciprocal WLFI purchase found. ENA: Arkham shows WLF buying about $500K-600K of ENA around 2024-12-09/12, then about $250K more. Ethena proposed sUSDe as the first new collateral on WLF's Aave market on 2024-12-18. Herro said the purchase was 'not directly connected to the collaboration'. ONDO: WLF bought about $250K in December 2024 and about $470K (about 342,000 ONDO) on 2025-02-06, the day Ondo launched its chain. The partnership to explore holding OUSG and USDY in WLF's reserve was reported 2025-02-11/12. Ondo's first announcement post was reportedly deleted, then the partnership was confirmed. We found no source showing Ethena Labs or Ondo buying WLFI. The pattern of buying a partner's token around its partnership date is documented. A swap is not.",
+   "sources": [
+    "https://info.arkm.com/research/wlf-bidding-defi",
+    "https://www.theblock.co/post/331436/trump-backed-world-liberty-financial-and-ethena-eye-collaboration-starting-with-susde-implementation",
+    "https://forklog.com/en/trump-linked-firm-wlfi-partners-with-ethena/",
+    "https://dev.coindesk.com/markets/2025/02/06/trump-backed-world-liberty-financial-buys-usd470k-ondo-tokens",
+    "https://www.theblock.co/post/340003/trump-world-liberty-ondo-finance-partner-expand-tokenized-rwa-adoption",
+    "https://en.bloomingbit.io/feed/news/83126"
+   ]
+  },
+  {
+   "statement": "Connection 5: WLF bought SEI, AVAX and MNT and added SUI to its reserve. Did those projects buy WLFI?",
+   "verdict": "unverified",
+   "finding": "WLF's purchases are DOCUMENTED; we found no reciprocal purchase. SEI: about $100K on 2025-03-13 (Arkham), then about $775K on 2025-04-12 (crypto.news, Benzinga). AVAX and MNT: about $2M each on 2025-03-16 (Lookonchain: 103,911 AVAX at about $19.25; about 2.45M MNT at about $0.81). Sui: on 2025-03-06 Sui announced that SUI would join WLF's 'Macro Strategy' reserve, but no sized purchase was reported. The WLFI token sale closed at $550M on 2025-03-17, the day after the AVAX/MNT buys. Arkham described WLF's buys as including 'projects which have a partnership with World Liberty Financial'. No source shows Sei, Avalanche, Mantle or Sui entities buying WLFI. The anonymous address 0x848 that bought exactly $10M of WLFI on 2025-01-31 (Arkham) is unidentified. Its size matches the swap minimum, but that is our own observation (INFERRED); no source links it to any project.",
+   "sources": [
+    "https://info.arkm.com/research/world-liberty-fi-buys-100k-sei",
+    "https://crypto.news/wlfis-775k-sei-purchase-lifts-sei-price-20-before-stalling-at-resistance",
+    "https://dailyhodl.com/2025/03/17/president-trumps-world-liberty-financial-purchases-more-crypto-as-total-losses-hits-118000000-on-chain-data",
+    "https://cryptobriefing.com/trump-backed-crypto-venture-buys-tokens",
+    "https://blog.sui.io/world-liberty-financial-strategic-token-reserve/",
+    "https://www.theblock.co/amp/post/344952/trump-backed-world-liberty-financial-attracts-another-crypto-collaborator-sui-foundation",
+    "https://info.arkm.com/research/anonymous-address-purchases-10m-wlf-tokens",
+    "https://info.arkm.com/research/world-liberty-fi-purchases-21-5m-of-crypto"
+   ]
+  },
+  {
+   "statement": "Connection 6: WLF's USD1 partner AB (AB DAO / AB Chain) had a planned Timor-Leste resort run by people sanctioned in the US-UK Prince Group action.",
+   "verdict": "mostly-accurate",
+   "finding": "DOCUMENTED by several independent investigations: The Times (London, 2026-04-06), Guardian Australia/OCCRP (April 2026) and the WSJ (2026-04-28, Kowsmann and Steinhauser), relayed by Decrypt and others. On 2025-10-14 Treasury and the UK sanctioned Prince Group, Chen Zhi and 146 targets, including people linked to a Prince-affiliated resort in Palau. Per the WSJ, Yang Jian (controlling shareholder of AB's planned resort company, AB Digital Technology Resort) and Yang Yanming (its general manager) were among those sanctioned. OCCRP adds Shih Ting-yu. The Times reports that a co-owner, Chen Zhao, is married to sanctioned Prince executive Hu Xiaowei (SINGLE-SOURCE). We did not check the SDN list entries ourselves. Timing: the sanctions (2025-10-14) came about four weeks before WLF and AB announced USD1 on AB Chain (2025-11-12/13). AB says the three were dismissed after the sanctions (Yang Yanming says on 2025-10-16) and that it was unaware of any Prince ties. AB's Lin Xiaofan denies any Prince connection, and Prince Group denies any link to AB. WLF's lawyers say it did due diligence and learned of the resort link only in January 2026, about two months after the deal. No source alleges Prince Group money reached AB or WLF. Audit: Yang Jian's lawyers say he was not affiliated with Prince Group, and he was removed as a shareholder after being sanctioned; Yang Yanming says he never had business dealings with Prince Group (WSJ, via relays). Treasury sanctioned the two Yangs for work on a different, Prince-founder-controlled resort in Palau, not for the Timor-Leste project. Reports differ on Yang Jian's stake (controlling shareholder vs. 60% of AB Digital Technology Resort LDA). The resort's preliminary agreement was later terminated.",
+   "sources": [
+    "https://www.itiger.com/news/2631587318",
+    "https://decrypt.co/363617/partner-trump-backed-world-liberty-sanctioned-cambodian-scam-company",
+    "https://cryptopotato.com/report-trump-linked-wlfi-partnered-with-project-linked-to-alleged-fraud-syndicate/",
+    "https://whale-alert.io/stories/8aa80144b5deb8/World-Liberty-Financials-partnership-with-AB-DAO-quest",
+    "https://www.theblock.co/press-releases/wlfi-partners-with-ab-to-deploy-the-usd1-stablecoin-on-ab-chain-378790",
+    "https://home.treasury.gov/news/press-releases/sb0278",
+    "https://rfa.org/english/cambodia/2025/10/14/sanctions-scam-prince-group/"
+   ]
+  },
+  {
+   "statement": "Connection 7: Senators Warren and Reed asked Treasury and DOJ (May 2026) to investigate WLF's AB tie as part of a pattern of failed vetting.",
+   "verdict": "confirmed",
+   "finding": "DOCUMENTED (Senate Banking minority press release 2026-05-14; the letter is dated 2026-05-13 and addressed to Scott Bessent and Acting AG Todd Blanche). It was issued ahead of the committee's market-structure (CLARITY) markup and cites the press investigations. It is the third of four letters on WLF counterparties: 2025-11-17/18 (illicit wallets), 2026-02-13 (Aryam/CFIUS, C71), 2026-05-13 (AB) and 2026-09-15 (Aqua 1/OKX, C71). We found no public reply from Treasury or DOJ and no opened inquiry. The letters are partisan minority requests, not findings.",
+   "sources": [
+    "https://www.banking.senate.gov/newsroom/minority/ahead-of-committee-crypto-market-structure-markup-warren-and-reed-call-for-investigation-into-world-liberty-financials-latest-apparent-failure-to-detect-ties-to-sanctioned-criminals",
+    "https://www.banking.senate.gov/download/20260513-letter-to-bessent-blanche-on-wlf&download=1",
+    "https://www.banking.senate.gov/newsroom/minority/as-congress-considers-potential-market-structure-legislation-warren-and-reed-press-doj-and-treasury-on-national-security-risks-posed-by-trump-affiliated-crypto-ventures-sale-of-tokens-to-illicit-actors",
+    "https://www.banking.senate.gov/imo/media/doc/20260915lettertobessentandblancheonaqua1.pdf"
+   ]
+  },
+  {
+   "statement": "Connection 8: WLFI was sold to a wallet that also transacted in A7A5, the ruble stablecoin whose issuer is sanctioned.",
+   "verdict": "partly-accurate",
+   "finding": "SINGLE-SOURCE (Accountable.US 'American Sell-Out', September 2025), repeated in the Warren/Reed letter of 2025-11-17. Per the letter, a buyer identified as '0x9009' received more than 10,000 WLFI and also transacted in A7A5. One secondary write-up attaches the A7A5 use to 'Shryder.eth' instead, the account the letter ties to the debunked Lazarus link, so outlets disagree on which account it is. On 2025-08-14 OFAC designated A7A5's Kyrgyz issuer Old Vector, the A7/A71/A7 Agent entities and the Garantex successor Grinex. Calling A7A5 'sanctioned' is common shorthand: the designations target its issuer and network. Three caveats: (a) no source we found says whether the A7A5 activity came before or after the WLFI purchase or the designation; (b) 10,000 WLFI is worth about $150-500 at the $0.015-0.05 sale prices (our arithmetic), a trivial amount; (c) researchers Nick Bax and Taylor Monahan rebutted parts of the same report's on-chain analysis (the Lazarus 'Dream Cash' airdrop, C71). The A7A5 item itself was not specifically rebutted in what we found. WLF says it applies 'rigorous AML/KYC checks'.",
+   "sources": [
+    "https://www.banking.senate.gov/newsroom/minority/as-congress-considers-potential-market-structure-legislation-warren-and-reed-press-doj-and-treasury-on-national-security-risks-posed-by-trump-affiliated-crypto-ventures-sale-of-tokens-to-illicit-actors",
+    "https://www.banking.senate.gov/imo/media/doc/letter_to_bessent_and_bondi_on_wlfi_token_sales.pdf",
+    "https://news.bitcoin.com/american-sell-out-trump-family-linked-world-liberty-accused-of-deals-with-us-adversaries",
+    "https://cointelegraph.com/news/senators-trump-linked-wlfi-national-security-threat",
+    "https://content.govdelivery.com/accounts/USTREAS/bulletins/3eddd45",
+    "https://ofac.treasury.gov/recent-actions/20250814",
+    "https://www.elliptic.co/blog/ofac-targets-use-of-stablecoins-for-russian-sanctions-evasion"
+   ]
+  },
+  {
+   "statement": "Connection 9: Reuters found Iran's Nobitex moved at least $2.3B over Tron and BNB Chain, rails built by WLF backers Justin Sun and CZ/Binance. OFAC then sanctioned Nobitex.",
+   "verdict": "confirmed",
+   "finding": "DOCUMENTED: a Reuters investigation by Tom Wilson and Gavin Finch, May 2026 (syndicated copies dated 2026-05-18; C71's lead gave 2026-05-01, which we could not confirm). Nobitex processed at least $2.3B since 2023: more than $2B on Tron and about $317M on BNB Chain. Its users included Iran's central bank and the IRGC. Four analysts reviewed the calculation and called it sound. Reuters says there is no suggestion the Trump family knew, and that it is unclear whether Tron or BNB Chain knew. WLF says it has 'no relationship with Nobitex', follows US law and does not control Tron. Binance says BNB Chain is independent. The White House called the links 'totally laughable'. Reuters also cites Arkham data that Binance holds about $3.8B of USD1. On 2026-06-02 OFAC designated Nobitex (E.O. 13224), three other Iranian exchanges and Nobitex executives under the 'Economic Fury' campaign, about two weeks after the Reuters piece. Treasury did not mention WLF. The link to WLF is shared infrastructure and shared backers, not a transaction.",
+   "sources": [
+    "https://finance.yahoo.com/markets/crypto/articles/exclusive-trumps-crypto-venture-irans-080805071.html",
+    "https://thenextweb.com/news/trump-world-liberty-financial-iran-nobitex-reuters",
+    "https://www.marketscreener.com/news/how-trump-s-crypto-venture-and-iran-s-top-exchange-tapped-into-the-same-industry-networks-ce7f5adad880f324",
+    "https://www.theblock.co/news/regulation/2026-06-02-us-sanctions-nobitex-iranian-crypto-exchanges-economic-fury-campaign-403436",
+    "https://home.treasury.gov/news/press-releases/sb0519",
+    "https://www.elliptic.co/blog/ofac-sanctions-nobitex-and-three-other-iranian-cryptoasset-exchanges"
+   ]
+  },
+  {
+   "statement": "Connection 10: USD1 was issued natively on Tron through a deal with Justin Sun. Sun later alleged WLF tried to extort him into buying USD1 and promoting it on Tron.",
+   "verdict": "confirmed",
+   "finding": "DOCUMENTED. The plan was announced at TOKEN2049 Dubai in May 2025 by Sun, Eric Trump and Zach Witkoff. The first USD1 was minted on Tron on 2025-06-10/11 (Sun's post; press release 2025-06-13). TRONSCAN showed more than 25M USD1 on Tron by 2025-08-26. On 2026-04-21 Sun and his companies sued WLF in San Francisco federal court. He alleges WLF pressed him to buy hundreds of millions of dollars of USD1 and promote it on Tron, and to invest equity in the WLF holding company. He says that when he did not, WLF froze his WLFI (C42) and threatened to report him to authorities, which he calls criminal extortion. These are allegations in a complaint. WLF (Zach Witkoff) calls the suit 'a desperate attempt to deflect attention from Sun's own misconduct' and countersued for defamation in early May 2026. We found no source showing Nobitex used USD1 specifically; see 'Not connected'.",
+   "sources": [
+    "https://cointelegraph.com/press-releases/usd1-stablecoin-begins-minting-on-tron",
+    "https://yellow.com/news/trx-surges-6-as-trump-linked-stablecoin-usd1-launches-on-tron-network",
+    "https://en.bloomingbit.io/feed/news/90215",
+    "https://www.bloomberg.com/news/articles/2026-04-22/crypto-billionaire-sues-trump-linked-project-alleging-extortion",
+    "https://www.cbsnews.com/news/justin-sun-sues-trump-world-liberty-crypto-tokens/",
+    "https://dlnews.com/articles/regulation/world-liberty-financial-slams-justin-sun-lawsuit/"
+   ]
+  },
+  {
+   "statement": "Connection 11: WLF says all buyers passed KYC. The record shows several counterparties it did not catch or flag.",
+   "verdict": "partly-accurate",
+   "finding": "The claim is DOCUMENTED; doubts about its effectiveness are documented and partly INFERRED. WLF's 2025-03-17 release says more than 85,000 participants underwent KYC to determine eligibility. Blockworks (October 2024) described the process: country of residence, a linked wallet, ID proof and a liveness check. WLF says it applies 'rigorous AML/KYC' and later burned and reallocated about 166.7M WLFI from frozen wallets to holders who passed new KYC (The Block, November 2025; C42). Against that, the record shows (a) a USD1 partner whose resort principals had been sanctioned four weeks earlier (sub-claim 6), (b) buyers with A7A5, Nobitex or Tornado Cash exposure (sub-claim 8, watchdog-sourced), and (c) Aqua 1/Zhou and the OKX-funded $100M (C71). Note the timing: most WLFI was sold before A7A5's issuer (August 2025) and Nobitex (June 2026) were designated. KYC of the buyer's identity is also not the same as screening a wallet's history. That distinction is our own observation. No regulator has made a finding on WLF's KYC.",
+   "sources": [
+    "https://www.businesswire.com/news/home/20250317855322/en/Trump-Inspired-World-Liberty-Financial-Closes-$550-Million-Across-Token-Sales",
+    "https://www.nbcsandiego.com/news/business/money-report/trumps-world-liberty-financial-crypto-project-says-it-sold-550-million-in-tokens/3781088/",
+    "https://blockworks.co/news/world-liberty-financial-kyc-starts",
+    "https://theblock.co/post/379561/trump-backed-world-liberty-financial-reallocates-funds-following-third-party-security-lapses",
+    "https://www.banking.senate.gov/newsroom/minority/ahead-of-committee-crypto-market-structure-markup-warren-and-reed-call-for-investigation-into-world-liberty-financials-latest-apparent-failure-to-detect-ties-to-sanctioned-criminals"
+   ]
+  }
+ ],
+ "corrections": [
+  "The claim calls A7A5 'the sanctioned ruble stablecoin'. OFAC's 2025-08-14 action designated its issuer Old Vector, the A7 entities and Grinex. The token itself is not an SDN entity, though it is widely called sanctioned.",
+  "C71's lead dates the Reuters Nobitex report to 2026-05-01. Syndicated copies are dated 2026-05-18, and one aggregator put it in April. We record it as May 2026.",
+  "Secondary reports disagree on which account used A7A5: the Senate letter names '0x9009', while one write-up names 'Shryder.eth'. We follow the letter.",
+  "Some outlets date the Prince Group sanctions to October 2024. They were imposed on 2025-10-14, about four weeks before the AB-WLF USD1 deal of 2025-11-12/13.",
+  "The swap pitch is sometimes described as executed deals. Blockworks reported an offer, and no team is documented as having accepted it."
+ ],
+ "denials_and_context": [
+  "WLF says it was 'not selling tokens' but 'reallocating assets for ordinary business purposes'. TRON said there was 'no token swap agreement'. Movement says it bought no WLFI and did not deal with WLF. Herro said WLF's ENA purchase was 'not directly connected' to the Ethena collaboration.",
+  "AB says it was unaware of the three individuals' Prince ties and dismissed them. Lin Xiaofan denies any Prince connection. Prince Group denies any link to AB or Timor-Leste. WLF's lawyers call claims linking WLF to sanctioned people 'unfounded and untrue', and say WLF did due diligence and learned of the resort link only in January 2026. No source alleges illicit funds reached AB or WLF. Yang Jian's lawyers say he was not affiliated with Prince Group; Yang Yanming says he never had business dealings with it.",
+  "WLF says it has no relationship with Nobitex and does not control Tron. Binance says BNB Chain is independent. The White House called the Reuters links 'totally laughable'. Reuters says there is no suggestion the Trump family knew.",
+  "The Accountable.US wallet findings are a watchdog's analysis. Part of it (the Lazarus link) was shown to be an airdrop artefact, and one falsely flagged user had WLFI frozen.",
+  "Sun's extortion claims are untested allegations. WLF denies them and has countersued for defamation.",
+  "Treasury and DOJ have not publicly answered any of the Warren/Reed letters. The letters come from the Democratic minority."
+ ],
+ "sources": [
+  {
+   "title": "Trump-backed World Liberty Financial courts crypto teams for token swaps",
+   "publisher": "Blockworks",
+   "url": "https://blockworks.co/news/trump-backed-project-token-swaps",
+   "date": "2025-02-03"
+  },
+  {
+   "title": "TRON, Movement Labs deny 'token swap' deal for World Liberty Financial inclusion",
+   "publisher": "CoinDesk",
+   "url": "https://dev.coindesk.com/markets/2025/02/04/tron-move-deny-token-swap-deal-for-world-liberty-fi-inclusion",
+   "date": "2025-02-04"
+  },
+  {
+   "title": "Trump-backed World Liberty Financial disputes allegations of 'selling tokens' to crypto teams",
+   "publisher": "The Block",
+   "url": "https://www.theblock.co/post/338563/trump-world-liberty-financial-disputes-token-swap-allegations",
+   "date": "2025-02-04"
+  },
+  {
+   "title": "Trump-backed World Liberty Financial offers token swaps to crypto firms: report",
+   "publisher": "crypto.news",
+   "url": "https://crypto.news/trump-backed-world-liberty-financial-offers-token-swaps-to-crypto-firms-report/",
+   "date": "2025-02-04"
+  },
+  {
+   "title": "Justin Sun raises stake in World Liberty Financial to $75M",
+   "publisher": "CryptoPotato",
+   "url": "https://cryptopotato.com/justin-sun-raises-stake-in-world-liberty-financial-to-75m/",
+   "date": "2025-01-20"
+  },
+  {
+   "title": "World Liberty Financial buys $112.8 million in crypto on Trump's first day in office",
+   "publisher": "The Block",
+   "url": "https://www.theblock.co/post/335960/world-liberty-financial-buys-112-8-million-in-crypto-on-trumps-first-day-in-office",
+   "date": "2025-01-21"
+  },
+  {
+   "title": "Trump-linked World Liberty Financial to buy more TRX after $10M WBTC purchase",
+   "publisher": "CoinDesk",
+   "url": "https://hotfix.coindesk.com/business/2025/01/23/trump-linked-world-liberty-financial-to-buy-more-trx-after-usd10m-wbtc-purchase",
+   "date": "2025-01-23"
+  },
+  {
+   "title": "Trump's World Liberty buys $25 million of tokens, including Link, Tron, Aave and Ethena",
+   "publisher": "The Block",
+   "url": "https://www.theblock.co/amp/post/335779/trumps-world-liberty-buys-25-million-of-tokens-including-link-tron-aave-and-ethena",
+   "date": "2025-01-20"
+  },
+  {
+   "title": "WLF purchases $1.85M MOVE",
+   "publisher": "Arkham Intelligence",
+   "url": "https://info.arkm.com/research/wlf-purchases-1-85m-move",
+   "date": "2025-01-28"
+  },
+  {
+   "title": "WLF bidding DeFi",
+   "publisher": "Arkham Intelligence",
+   "url": "https://info.arkm.com/research/wlf-bidding-defi",
+   "date": "2024-12-13"
+  },
+  {
+   "title": "World Liberty Financial and Ethena eye collaboration starting with sUSDe",
+   "publisher": "The Block",
+   "url": "https://www.theblock.co/post/331436/trump-backed-world-liberty-financial-and-ethena-eye-collaboration-starting-with-susde-implementation",
+   "date": "2024-12-18"
+  },
+  {
+   "title": "Trump-linked firm WLFI partners with Ethena",
+   "publisher": "ForkLog",
+   "url": "https://forklog.com/en/trump-linked-firm-wlfi-partners-with-ethena/",
+   "date": "2024-12-19"
+  },
+  {
+   "title": "Trump-backed World Liberty Financial buys $470K ONDO tokens",
+   "publisher": "CoinDesk",
+   "url": "https://dev.coindesk.com/markets/2025/02/06/trump-backed-world-liberty-financial-buys-usd470k-ondo-tokens",
+   "date": "2025-02-06"
+  },
+  {
+   "title": "World Liberty and Ondo Finance partner to expand tokenized RWA adoption",
+   "publisher": "The Block",
+   "url": "https://www.theblock.co/post/340003/trump-world-liberty-ondo-finance-partner-expand-tokenized-rwa-adoption",
+   "date": "2025-02-12"
+  },
+  {
+   "title": "Ondo Finance announces partnership with World Liberty Financial, then deletes",
+   "publisher": "Bloomingbit",
+   "url": "https://en.bloomingbit.io/feed/news/83126",
+   "date": "2025-02-11"
+  },
+  {
+   "title": "World Liberty Financial and Sui ink strategic reserve deal",
+   "publisher": "Sui (blog)",
+   "url": "https://blog.sui.io/world-liberty-financial-strategic-token-reserve/",
+   "date": "2025-03-06"
+  },
+  {
+   "title": "World Liberty Financial attracts another crypto collaborator: Sui Foundation",
+   "publisher": "The Block",
+   "url": "https://www.theblock.co/amp/post/344952/trump-backed-world-liberty-financial-attracts-another-crypto-collaborator-sui-foundation",
+   "date": "2025-03-06"
+  },
+  {
+   "title": "World Liberty Fi buys $100K SEI",
+   "publisher": "Arkham Intelligence",
+   "url": "https://info.arkm.com/research/world-liberty-fi-buys-100k-sei",
+   "date": "2025-03-13"
+  },
+  {
+   "title": "WLFI's $775K Sei purchase lifts SEI price 20%",
+   "publisher": "crypto.news",
+   "url": "https://crypto.news/wlfis-775k-sei-purchase-lifts-sei-price-20-before-stalling-at-resistance",
+   "date": "2025-04-12"
+  },
+  {
+   "title": "World Liberty Financial purchases more crypto as total losses hit $118M",
+   "publisher": "The Daily Hodl",
+   "url": "https://dailyhodl.com/2025/03/17/president-trumps-world-liberty-financial-purchases-more-crypto-as-total-losses-hits-118000000-on-chain-data",
+   "date": "2025-03-17"
+  },
+  {
+   "title": "World Liberty Financial buys AVAX and MNT for $4M",
+   "publisher": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/trump-backed-crypto-venture-buys-tokens",
+   "date": "2025-03-16"
+  },
+  {
+   "title": "Anonymous address purchases $10M WLF tokens",
+   "publisher": "Arkham Intelligence",
+   "url": "https://info.arkm.com/research/anonymous-address-purchases-10m-wlf-tokens",
+   "date": "2025-01-31"
+  },
+  {
+   "title": "World Liberty Fi purchases $21.5M of crypto",
+   "publisher": "Arkham Intelligence",
+   "url": "https://info.arkm.com/research/world-liberty-fi-purchases-21-5m-of-crypto",
+   "date": "2025-03-06"
+  },
+  {
+   "title": "WLFI partners with AB to deploy the USD1 stablecoin on AB Chain (press release)",
+   "publisher": "The Block / PR Newswire",
+   "url": "https://www.theblock.co/press-releases/wlfi-partners-with-ab-to-deploy-the-usd1-stablecoin-on-ab-chain-378790",
+   "date": "2025-11-13"
+  },
+  {
+   "title": "Partner of Trump-backed World Liberty linked to sanctioned Cambodian scam company: report",
+   "publisher": "Decrypt",
+   "url": "https://decrypt.co/363617/partner-trump-backed-world-liberty-sanctioned-cambodian-scam-company",
+   "date": "2026-04-06"
+  },
+  {
+   "title": "Crypto venture linked to men sanctioned in scam-ring probe partnered with Trump firm (WSJ, syndicated)",
+   "publisher": "Wall Street Journal via Tiger Brokers",
+   "url": "https://www.itiger.com/news/2631587318",
+   "date": "2026-04-28"
+  },
+  {
+   "title": "Report: Trump-linked WLFI partnered with project linked to alleged fraud syndicate",
+   "publisher": "CryptoPotato",
+   "url": "https://cryptopotato.com/report-trump-linked-wlfi-partnered-with-project-linked-to-alleged-fraud-syndicate/",
+   "date": "2026-04"
+  },
+  {
+   "title": "World Liberty Financial's partnership with AB DAO questioned",
+   "publisher": "Whale Alert",
+   "url": "https://whale-alert.io/stories/8aa80144b5deb8/World-Liberty-Financials-partnership-with-AB-DAO-quest",
+   "date": "2026-04"
+  },
+  {
+   "title": "Scammers in Timor-Leste go straight back to work after being busted, police say",
+   "publisher": "OCCRP",
+   "url": "https://occrp.org/en/news/scammers-timor-leste-go-straight-back-to-work",
+   "date": "2026"
+  },
+  {
+   "title": "Warren and Reed call for investigation into World Liberty Financial's latest apparent failure to detect ties to sanctioned criminals",
+   "publisher": "Senate Banking Committee (minority)",
+   "url": "https://www.banking.senate.gov/newsroom/minority/ahead-of-committee-crypto-market-structure-markup-warren-and-reed-call-for-investigation-into-world-liberty-financials-latest-apparent-failure-to-detect-ties-to-sanctioned-criminals",
+   "date": "2026-05-14"
+  },
+  {
+   "title": "Letter to Bessent and Blanche on WLF",
+   "publisher": "Senate Banking Committee (minority)",
+   "url": "https://www.banking.senate.gov/download/20260513-letter-to-bessent-blanche-on-wlf&download=1",
+   "date": "2026-05-13"
+  },
+  {
+   "title": "U.S. and UK take largest action ever targeting cybercriminal networks in Southeast Asia (Prince Group)",
+   "publisher": "US Treasury",
+   "url": "https://home.treasury.gov/news/press-releases/sb0278",
+   "date": "2025-10-14"
+  },
+  {
+   "title": "US, UK sanction Cambodian conglomerate, alleging role in scam networks",
+   "publisher": "Radio Free Asia",
+   "url": "https://rfa.org/english/cambodia/2025/10/14/sanctions-scam-prince-group/",
+   "date": "2025-10-14"
+  },
+  {
+   "title": "Warren and Reed press DOJ and Treasury on sale of tokens to illicit actors",
+   "publisher": "Senate Banking Committee (minority)",
+   "url": "https://www.banking.senate.gov/newsroom/minority/as-congress-considers-potential-market-structure-legislation-warren-and-reed-press-doj-and-treasury-on-national-security-risks-posed-by-trump-affiliated-crypto-ventures-sale-of-tokens-to-illicit-actors",
+   "date": "2025-11-18"
+  },
+  {
+   "title": "Letter to Bessent and Bondi on WLFI token sales",
+   "publisher": "Senate Banking Committee (minority)",
+   "url": "https://www.banking.senate.gov/imo/media/doc/letter_to_bessent_and_bondi_on_wlfi_token_sales.pdf",
+   "date": "2025-11-17"
+  },
+  {
+   "title": "American Sell-Out: Trump family-linked World Liberty accused of deals with US adversaries",
+   "publisher": "Bitcoin.com News",
+   "url": "https://news.bitcoin.com/american-sell-out-trump-family-linked-world-liberty-accused-of-deals-with-us-adversaries",
+   "date": "2025-09"
+  },
+  {
+   "title": "Senators: Trump-linked WLFI a national security threat",
+   "publisher": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/senators-trump-linked-wlfi-national-security-threat",
+   "date": "2025-11-18"
+  },
+  {
+   "title": "Treasury sanctions cryptocurrency exchange and network enabling sanctions evasion and cyber criminals",
+   "publisher": "US Treasury",
+   "url": "https://content.govdelivery.com/accounts/USTREAS/bulletins/3eddd45",
+   "date": "2025-08-14"
+  },
+  {
+   "title": "OFAC recent actions 08/14/2025",
+   "publisher": "OFAC",
+   "url": "https://ofac.treasury.gov/recent-actions/20250814",
+   "date": "2025-08-14"
+  },
+  {
+   "title": "OFAC targets use of stablecoins for Russian sanctions evasion",
+   "publisher": "Elliptic",
+   "url": "https://www.elliptic.co/blog/ofac-targets-use-of-stablecoins-for-russian-sanctions-evasion",
+   "date": "2025-08-14"
+  },
+  {
+   "title": "Exclusive: How Trump's crypto venture and Iran's top exchange tapped into the same industry networks",
+   "publisher": "Reuters via Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/crypto/articles/exclusive-trumps-crypto-venture-irans-080805071.html",
+   "date": "2026-05-18"
+  },
+  {
+   "title": "Two crypto billionaires sit behind both the Trump family token and Iran's sanctions-evasion engine",
+   "publisher": "The Next Web",
+   "url": "https://thenextweb.com/news/trump-world-liberty-financial-iran-nobitex-reuters",
+   "date": "2026-05"
+  },
+  {
+   "title": "How Trump's crypto venture and Iran's top exchange tapped into the same industry networks",
+   "publisher": "Reuters via MarketScreener",
+   "url": "https://www.marketscreener.com/news/how-trump-s-crypto-venture-and-iran-s-top-exchange-tapped-into-the-same-industry-networks-ce7f5adad880f324",
+   "date": "2026-05-18"
+  },
+  {
+   "title": "US sanctions Nobitex and other Iranian crypto exchanges under 'Economic Fury' campaign",
+   "publisher": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-06-02-us-sanctions-nobitex-iranian-crypto-exchanges-economic-fury-campaign-403436",
+   "date": "2026-06-02"
+  },
+  {
+   "title": "Economic Fury targets Iran's largest digital asset exchange (press release sb0519)",
+   "publisher": "US Treasury",
+   "url": "https://home.treasury.gov/news/press-releases/sb0519",
+   "date": "2026-06-02"
+  },
+  {
+   "title": "OFAC sanctions Nobitex and three other Iranian cryptoasset exchanges",
+   "publisher": "Elliptic",
+   "url": "https://www.elliptic.co/blog/ofac-sanctions-nobitex-and-three-other-iranian-cryptoasset-exchanges",
+   "date": "2026-06-02"
+  },
+  {
+   "title": "USD1 stablecoin begins minting on TRON",
+   "publisher": "Cointelegraph (press release)",
+   "url": "https://cointelegraph.com/press-releases/usd1-stablecoin-begins-minting-on-tron",
+   "date": "2025-06-13"
+  },
+  {
+   "title": "TRX surges 6% as Trump-linked stablecoin USD1 launches on Tron network",
+   "publisher": "Yellow",
+   "url": "https://yellow.com/news/trx-surges-6-as-trump-linked-stablecoin-usd1-launches-on-tron-network",
+   "date": "2025-06-11"
+  },
+  {
+   "title": "Official debut of USD1 on the Tron network",
+   "publisher": "Bloomingbit",
+   "url": "https://en.bloomingbit.io/feed/news/90215",
+   "date": "2025-06-11"
+  },
+  {
+   "title": "Crypto billionaire sues Trump-linked project alleging extortion",
+   "publisher": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-04-22/crypto-billionaire-sues-trump-linked-project-alleging-extortion",
+   "date": "2026-04-22"
+  },
+  {
+   "title": "Justin Sun sues Trump's World Liberty over crypto tokens",
+   "publisher": "CBS News",
+   "url": "https://www.cbsnews.com/news/justin-sun-sues-trump-world-liberty-crypto-tokens/",
+   "date": "2026-04-22"
+  },
+  {
+   "title": "World Liberty Financial slams Justin Sun lawsuit",
+   "publisher": "DL News",
+   "url": "https://dlnews.com/articles/regulation/world-liberty-financial-slams-justin-sun-lawsuit/",
+   "date": "2026-04"
+  },
+  {
+   "title": "Trump Inspired World Liberty Financial closes $550 million across token sales",
+   "publisher": "Business Wire",
+   "url": "https://www.businesswire.com/news/home/20250317855322/en/Trump-Inspired-World-Liberty-Financial-Closes-$550-Million-Across-Token-Sales",
+   "date": "2025-03-17"
+  },
+  {
+   "title": "Trump's World Liberty Financial crypto project says it sold $550 million in tokens",
+   "publisher": "NBC / CNBC",
+   "url": "https://www.nbcsandiego.com/news/business/money-report/trumps-world-liberty-financial-crypto-project-says-it-sold-550-million-in-tokens/3781088/",
+   "date": "2025-03-18"
+  },
+  {
+   "title": "Trump announces start of KYC process for World Liberty Financial",
+   "publisher": "Blockworks",
+   "url": "https://blockworks.co/news/world-liberty-financial-kyc-starts",
+   "date": "2024-10"
+  },
+  {
+   "title": "World Liberty Financial reallocates funds following 'third-party security lapses'",
+   "publisher": "The Block",
+   "url": "https://theblock.co/post/379561/trump-backed-world-liberty-financial-reallocates-funds-following-third-party-security-lapses",
+   "date": "2025-11"
+  },
+  {
+   "title": "Letter to Bessent and Blanche on Aqua 1",
+   "publisher": "Senate Banking Committee (minority)",
+   "url": "https://www.banking.senate.gov/imo/media/doc/20260915lettertobessentandblancheonaqua1.pdf",
+   "date": "2026-09-15"
+  }
+ ],
+ "entities": [
+  {
+   "id": "world-liberty-financial",
+   "name": "World Liberty Financial",
+   "type": "company",
+   "description": "Trump-family-linked DeFi venture issuing WLFI and USD1"
+  },
+  {
+   "id": "wlfi-token",
+   "name": "WLFI",
+   "type": "asset",
+   "description": "WLF governance token; presale at $0.015 and $0.05"
+  },
+  {
+   "id": "usd1",
+   "name": "USD1",
+   "type": "asset",
+   "description": "WLF's dollar stablecoin, live on Tron and AB Chain among others"
+  },
+  {
+   "id": "donald-trump",
+   "name": "Donald Trump",
+   "type": "person",
+   "description": "US president; his family entity DT Marks DEFI takes 75% of WLF net revenue"
+  },
+  {
+   "id": "eric-trump",
+   "name": "Eric Trump",
+   "type": "person",
+   "description": "WLF co-founder; announced USD1-on-Tron with Sun"
+  },
+  {
+   "id": "zach-witkoff",
+   "name": "Zach Witkoff",
+   "type": "person",
+   "description": "WLF co-founder/CEO"
+  },
+  {
+   "id": "zak-folkman",
+   "name": "Zak Folkman",
+   "type": "person",
+   "description": "WLF co-founder named as the closer of swap deals in the Blockworks message"
+  },
+  {
+   "id": "chase-herro",
+   "name": "Chase Herro",
+   "type": "person",
+   "description": "WLF co-founder"
+  },
+  {
+   "id": "dt-marks-defi-llc",
+   "name": "DT Marks DEFI LLC",
+   "type": "company",
+   "description": "Trump-family entity entitled to 75% of WLF net revenues"
+  },
+  {
+   "id": "justin-sun",
+   "name": "Justin Sun",
+   "type": "person",
+   "description": "Tron founder; $75M WLFI buyer; sued WLF in April 2026"
+  },
+  {
+   "id": "tron",
+   "name": "Tron",
+   "type": "product",
+   "description": "Blockchain founded by Sun; hosts USD1 and most Nobitex flows"
+  },
+  {
+   "id": "tron-dao",
+   "name": "TRON DAO",
+   "type": "fund",
+   "description": "Sun-linked entity that bought $45M WLFI in January 2025"
+  },
+  {
+   "id": "movement-labs",
+   "name": "Movement Labs",
+   "type": "company",
+   "description": "Issuer of MOVE; denied any swap with WLF"
+  },
+  {
+   "id": "web3port",
+   "name": "Web3Port",
+   "type": "company",
+   "description": "MOVE market maker; $10M WLFI buyer; later Aqua 1 per NYT"
+  },
+  {
+   "id": "ethena-labs",
+   "name": "Ethena Labs",
+   "type": "company",
+   "description": "Issuer of USDe/ENA; WLF partner from December 2024"
+  },
+  {
+   "id": "ondo-finance",
+   "name": "Ondo Finance",
+   "type": "company",
+   "description": "Tokenized-treasury issuer; WLF partner from February 2025"
+  },
+  {
+   "id": "sui-foundation",
+   "name": "Sui Foundation",
+   "type": "company",
+   "description": "Sui blockchain body; SUI added to WLF reserve in March 2025"
+  },
+  {
+   "id": "sei-network",
+   "name": "Sei Network",
+   "type": "product",
+   "description": "Layer-1 whose SEI token WLF bought in March and April 2025"
+  },
+  {
+   "id": "avalanche",
+   "name": "Avalanche (AVAX)",
+   "type": "product",
+   "description": "Layer-1; WLF bought about $2M AVAX on 2025-03-16"
+  },
+  {
+   "id": "mantle",
+   "name": "Mantle (MNT)",
+   "type": "product",
+   "description": "Layer-2; WLF bought about $2M MNT on 2025-03-16"
+  },
+  {
+   "id": "anonymous-0x848",
+   "name": "Anonymous address 0x848",
+   "type": "fund",
+   "description": "Unidentified buyer of $10M WLFI on 2025-01-31"
+  },
+  {
+   "id": "ab-network",
+   "name": "AB (AB DAO / AB Chain)",
+   "type": "company",
+   "description": "Crypto network that deployed USD1 in November 2025; promoted a Timor-Leste resort"
+  },
+  {
+   "id": "ab-digital-technology-resort",
+   "name": "AB Digital Technology Resort",
+   "type": "company",
+   "description": "Planned AB 'blockchain theme resort' company near Dili, Timor-Leste"
+  },
+  {
+   "id": "yang-jian",
+   "name": "Yang Jian",
+   "type": "person",
+   "description": "Controlling shareholder of AB's resort company; sanctioned 2025-10-14 in the Prince Group action (per WSJ)"
+  },
+  {
+   "id": "yang-yanming",
+   "name": "Yang Yanming",
+   "type": "person",
+   "description": "AB resort general manager; sanctioned October 2025; says dismissed 2025-10-16"
+  },
+  {
+   "id": "shih-ting-yu",
+   "name": "Shih Ting-yu",
+   "type": "person",
+   "description": "Worked on the Timor-Leste project; sanctioned over Palau (OCCRP)"
+  },
+  {
+   "id": "lin-xiaofan",
+   "name": "Lin Xiaofan (Frank Lin)",
+   "type": "person",
+   "description": "AB figure who led the Timor-Leste resort; denies Prince ties"
+  },
+  {
+   "id": "prince-group",
+   "name": "Prince Group",
+   "type": "company",
+   "description": "Cambodian conglomerate sanctioned by the US and UK as a scam TCO"
+  },
+  {
+   "id": "chen-zhi",
+   "name": "Chen Zhi",
+   "type": "person",
+   "description": "Prince Group founder; indicted in EDNY on 2025-10-14"
+  },
+  {
+   "id": "a7a5",
+   "name": "A7A5",
+   "type": "asset",
+   "description": "Ruble-pegged stablecoin; issuer Old Vector designated by OFAC on 2025-08-14"
+  },
+  {
+   "id": "old-vector",
+   "name": "Old Vector LLC",
+   "type": "company",
+   "description": "Kyrgyz issuer of A7A5, OFAC-designated"
+  },
+  {
+   "id": "grinex",
+   "name": "Grinex",
+   "type": "company",
+   "description": "Garantex successor exchange, OFAC-designated on 2025-08-14"
+  },
+  {
+   "id": "accountable-us",
+   "name": "Accountable.US",
+   "type": "media",
+   "description": "Watchdog whose September 2025 report traced WLFI to risky wallets"
+  },
+  {
+   "id": "nobitex",
+   "name": "Nobitex",
+   "type": "company",
+   "description": "Iran's largest crypto exchange; OFAC-designated 2026-06-02"
+  },
+  {
+   "id": "bnb-chain",
+   "name": "BNB Chain",
+   "type": "product",
+   "description": "Binance-developed blockchain; about $317M of Nobitex flows"
+  },
+  {
+   "id": "binance",
+   "name": "Binance",
+   "type": "company",
+   "description": "Exchange; holds about $3.8B USD1 per Arkham via Reuters"
+  },
+  {
+   "id": "changpeng-zhao",
+   "name": "Changpeng Zhao",
+   "type": "person",
+   "description": "Binance founder; pardoned; WLF backer"
+  },
+  {
+   "id": "elizabeth-warren",
+   "name": "Elizabeth Warren",
+   "type": "person",
+   "description": "Senate Banking ranking member; co-wrote WLF letters"
+  },
+  {
+   "id": "jack-reed",
+   "name": "Jack Reed",
+   "type": "person",
+   "description": "Senator; co-wrote WLF letters"
+  },
+  {
+   "id": "scott-bessent",
+   "name": "Scott Bessent",
+   "type": "person",
+   "description": "Treasury Secretary; letter recipient"
+  },
+  {
+   "id": "todd-blanche",
+   "name": "Todd Blanche",
+   "type": "person",
+   "description": "Acting Attorney General; letter recipient (May 2026)"
+  },
+  {
+   "id": "us-treasury",
+   "name": "US Treasury",
+   "type": "government",
+   "description": "Imposed the Prince Group, A7A5 and Nobitex sanctions"
+  },
+  {
+   "id": "ofac",
+   "name": "OFAC",
+   "type": "government",
+   "description": "Treasury sanctions office"
+  },
+  {
+   "id": "us-congress",
+   "name": "US Congress",
+   "type": "government",
+   "description": "Senate Banking minority letters"
+  },
+  {
+   "id": "white-house",
+   "name": "White House",
+   "type": "government",
+   "description": "Called the Reuters Nobitex link 'laughable'"
+  },
+  {
+   "id": "blockworks",
+   "name": "Blockworks",
+   "type": "media",
+   "description": "Broke the token-swap pitch story"
+  },
+  {
+   "id": "reuters",
+   "name": "Reuters",
+   "type": "media",
+   "description": "Nobitex/Tron/BNB investigation, May 2026"
+  },
+  {
+   "id": "wall-street-journal",
+   "name": "Wall Street Journal",
+   "type": "media",
+   "description": "AB/Prince report, 2026-04-28"
+  },
+  {
+   "id": "times-of-london",
+   "name": "The Times (London)",
+   "type": "media",
+   "description": "AB DAO/Prince report, 2026-04-06"
+  },
+  {
+   "id": "occrp",
+   "name": "OCCRP",
+   "type": "media",
+   "description": "Timor-Leste resort investigation with Guardian Australia"
+  },
+  {
+   "id": "arkham-intelligence",
+   "name": "Arkham Intelligence",
+   "type": "company",
+   "description": "On-chain analytics source for WLF purchases"
+  },
+  {
+   "id": "lookonchain",
+   "name": "Lookonchain",
+   "type": "company",
+   "description": "On-chain analytics; AVAX/MNT buys"
+  },
+  {
+   "id": "guren-bobby-zhou",
+   "name": "Guren 'Bobby' Zhou",
+   "type": "person",
+   "description": "Per NYT, controls Web3Port/Aqua 1 (C71)"
+  },
+  {
+   "id": "genius-act",
+   "name": "GENIUS Act",
+   "type": "law",
+   "description": "Stablecoin law relevant to USD1"
+  },
+  {
+   "id": "clarity-act",
+   "name": "CLARITY Act",
+   "type": "law",
+   "description": "Market-structure bill; May 2026 letter timed to its markup"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "world-liberty-financial",
+   "target": "wlfi-token",
+   "label": "offered at $1.5B FDV plus 10% fee in exchange for partners' tokens (Blockworks)",
+   "type": "commercial",
+   "date": "2025-02",
+   "amount_usd": 10000000
+  },
+  {
+   "source": "zak-folkman",
+   "target": "world-liberty-financial",
+   "label": "named as closer of token-swap deals",
+   "type": "advisory",
+   "date": "2025-02"
+  },
+  {
+   "source": "tron-dao",
+   "target": "wlfi-token",
+   "label": "bought $45M WLFI",
+   "type": "money",
+   "date": "2025-01-19",
+   "amount_usd": 45000000
+  },
+  {
+   "source": "world-liberty-financial",
+   "target": "tron",
+   "label": "bought about $4.7M TRX, plus about $2.65M more reported",
+   "type": "money",
+   "date": "2025-01-20",
+   "amount_usd": 7350000
+  },
+  {
+   "source": "web3port",
+   "target": "wlfi-token",
+   "label": "bought 200M WLFI",
+   "type": "money",
+   "date": "2025-01-27",
+   "amount_usd": 10000000
+  },
+  {
+   "source": "world-liberty-financial",
+   "target": "movement-labs",
+   "label": "bought about $1.85M MOVE (open market, per Movement)",
+   "type": "money",
+   "date": "2025-01-28",
+   "amount_usd": 1850000
+  },
+  {
+   "source": "world-liberty-financial",
+   "target": "ethena-labs",
+   "label": "bought about $500-600K ENA; sUSDe collaboration",
+   "type": "commercial",
+   "date": "2024-12",
+   "amount_usd": 600000
+  },
+  {
+   "source": "world-liberty-financial",
+   "target": "ondo-finance",
+   "label": "bought about $470K ONDO; RWA partnership",
+   "type": "commercial",
+   "date": "2025-02-06",
+   "amount_usd": 470000
+  },
+  {
+   "source": "world-liberty-financial",
+   "target": "sui-foundation",
+   "label": "added SUI to Macro Strategy reserve",
+   "type": "commercial",
+   "date": "2025-03-06"
+  },
+  {
+   "source": "world-liberty-financial",
+   "target": "sei-network",
+   "label": "bought SEI (about $100K, then about $775K)",
+   "type": "money",
+   "date": "2025-04-12",
+   "amount_usd": 875000
+  },
+  {
+   "source": "world-liberty-financial",
+   "target": "avalanche",
+   "label": "bought about $2M AVAX",
+   "type": "money",
+   "date": "2025-03-16",
+   "amount_usd": 2000000
+  },
+  {
+   "source": "world-liberty-financial",
+   "target": "mantle",
+   "label": "bought about $2M MNT",
+   "type": "money",
+   "date": "2025-03-16",
+   "amount_usd": 2000000
+  },
+  {
+   "source": "anonymous-0x848",
+   "target": "wlfi-token",
+   "label": "bought $10M WLFI (unidentified)",
+   "type": "money",
+   "date": "2025-01-31",
+   "amount_usd": 10000000
+  },
+  {
+   "source": "world-liberty-financial",
+   "target": "ab-network",
+   "label": "partnership deploying USD1 on AB Chain",
+   "type": "commercial",
+   "date": "2025-11-12"
+  },
+  {
+   "source": "ab-network",
+   "target": "ab-digital-technology-resort",
+   "label": "promoted planned Timor-Leste blockchain resort",
+   "type": "ownership",
+   "date": "2024"
+  },
+  {
+   "source": "yang-jian",
+   "target": "ab-digital-technology-resort",
+   "label": "controlling shareholder (WSJ)",
+   "type": "ownership",
+   "date": "2025"
+  },
+  {
+   "source": "yang-yanming",
+   "target": "ab-digital-technology-resort",
+   "label": "general manager until 2025-10-16",
+   "type": "commercial",
+   "date": "2025-10-16"
+  },
+  {
+   "source": "shih-ting-yu",
+   "target": "ab-digital-technology-resort",
+   "label": "worked on project (OCCRP)",
+   "type": "commercial",
+   "date": "2025"
+  },
+  {
+   "source": "lin-xiaofan",
+   "target": "ab-network",
+   "label": "AB figure who led resort project",
+   "type": "commercial",
+   "date": "2024"
+  },
+  {
+   "source": "us-treasury",
+   "target": "prince-group",
+   "label": "sanctioned with Chen Zhi and 146 targets",
+   "type": "regulatory",
+   "date": "2025-10-14"
+  },
+  {
+   "source": "us-treasury",
+   "target": "yang-jian",
+   "label": "sanctioned in Prince Group/Palau action (per WSJ)",
+   "type": "regulatory",
+   "date": "2025-10-14"
+  },
+  {
+   "source": "us-treasury",
+   "target": "yang-yanming",
+   "label": "sanctioned in Prince Group/Palau action",
+   "type": "regulatory",
+   "date": "2025-10-14"
+  },
+  {
+   "source": "chen-zhi",
+   "target": "prince-group",
+   "label": "founder and chairman",
+   "type": "ownership",
+   "date": "2025"
+  },
+  {
+   "source": "elizabeth-warren",
+   "target": "scott-bessent",
+   "label": "May 2026 letter seeking investigation of WLF-AB tie",
+   "type": "political",
+   "date": "2026-05-13"
+  },
+  {
+   "source": "jack-reed",
+   "target": "todd-blanche",
+   "label": "May 2026 letter seeking investigation of WLF-AB tie",
+   "type": "political",
+   "date": "2026-05-13"
+  },
+  {
+   "source": "elizabeth-warren",
+   "target": "world-liberty-financial",
+   "label": "Nov 2025 letter on WLFI sales to illicit-linked wallets",
+   "type": "political",
+   "date": "2025-11-17"
+  },
+  {
+   "source": "accountable-us",
+   "target": "world-liberty-financial",
+   "label": "reported WLFI sales to A7A5/Nobitex/Tornado-exposed wallets",
+   "type": "media",
+   "date": "2025-09"
+  },
+  {
+   "source": "ofac",
+   "target": "old-vector",
+   "label": "designated A7A5 issuer",
+   "type": "regulatory",
+   "date": "2025-08-14"
+  },
+  {
+   "source": "old-vector",
+   "target": "a7a5",
+   "label": "issues",
+   "type": "ownership",
+   "date": "2025"
+  },
+  {
+   "source": "ofac",
+   "target": "grinex",
+   "label": "designated Garantex successor",
+   "type": "regulatory",
+   "date": "2025-08-14"
+  },
+  {
+   "source": "nobitex",
+   "target": "tron",
+   "label": "moved more than $2B since 2023 (Reuters)",
+   "type": "money",
+   "date": "2026-05",
+   "amount_usd": 2000000000
+  },
+  {
+   "source": "nobitex",
+   "target": "bnb-chain",
+   "label": "moved about $317M since 2023 (Reuters)",
+   "type": "money",
+   "date": "2026-05",
+   "amount_usd": 317000000
+  },
+  {
+   "source": "justin-sun",
+   "target": "tron",
+   "label": "founder",
+   "type": "ownership",
+   "date": "2017"
+  },
+  {
+   "source": "changpeng-zhao",
+   "target": "bnb-chain",
+   "label": "founder of developer Binance",
+   "type": "ownership",
+   "date": "2020"
+  },
+  {
+   "source": "ofac",
+   "target": "nobitex",
+   "label": "designated under E.O. 13224 (Economic Fury)",
+   "type": "regulatory",
+   "date": "2026-06-02"
+  },
+  {
+   "source": "reuters",
+   "target": "world-liberty-financial",
+   "label": "reported shared Tron/BNB networks with Nobitex",
+   "type": "media",
+   "date": "2026-05-18"
+  },
+  {
+   "source": "usd1",
+   "target": "tron",
+   "label": "native issuance on Tron",
+   "type": "commercial",
+   "date": "2025-06-11"
+  },
+  {
+   "source": "eric-trump",
+   "target": "justin-sun",
+   "label": "jointly announced USD1 on Tron at TOKEN2049 Dubai",
+   "type": "commercial",
+   "date": "2025-05"
+  },
+  {
+   "source": "justin-sun",
+   "target": "world-liberty-financial",
+   "label": "sued alleging extortion over USD1/Tron and equity demands",
+   "type": "legal",
+   "date": "2026-04-21"
+  },
+  {
+   "source": "world-liberty-financial",
+   "target": "justin-sun",
+   "label": "countersued for defamation",
+   "type": "legal",
+   "date": "2026-05"
+  },
+  {
+   "source": "binance",
+   "target": "usd1",
+   "label": "holds about $3.8B USD1 (Arkham via Reuters)",
+   "type": "money",
+   "date": "2026-05",
+   "amount_usd": 3800000000
+  },
+  {
+   "source": "dt-marks-defi-llc",
+   "target": "world-liberty-financial",
+   "label": "entitled to 75% of net token-sale revenue (that this would include any swap-partner WLFI purchases is our inference)",
+   "type": "ownership",
+   "date": "2024-10"
+  },
+  {
+   "source": "donald-trump",
+   "target": "dt-marks-defi-llc",
+   "label": "family-controlled entity",
+   "type": "family",
+   "date": "2024-10"
+  },
+  {
+   "source": "web3port",
+   "target": "guren-bobby-zhou",
+   "label": "controlled by, per NYT (C71)",
+   "type": "ownership",
+   "date": "2026-08-09"
+  },
+  {
+   "source": "white-house",
+   "target": "reuters",
+   "label": "called Nobitex link 'totally laughable'",
+   "type": "political",
+   "date": "2026-05"
+  }
+ ],
+ "leads": [
+  {
+   "title": "Did WLF keep the AB partnership after learning of the sanctioned resort principals in January 2026?",
+   "why_connected": "WLF says it learned of the link two months after the deal. Whether USD1 remains on AB Chain, and on what terms, is the open question behind the May 2026 Senate letter.",
+   "entities": [
+    "world-liberty-financial",
+    "ab-network",
+    "usd1"
+   ],
+   "source_url": "https://www.itiger.com/news/2631587318"
+  },
+  {
+   "title": "Sun v. World Liberty: discovery on USD1 and equity demands",
+   "why_connected": "Sun's complaint alleges WLF tied his frozen WLFI to buying USD1 and investing in the holdco. Filings could show whether other token buyers faced similar reciprocal demands (the swap template).",
+   "entities": [
+    "justin-sun",
+    "world-liberty-financial",
+    "usd1"
+   ],
+   "source_url": "https://www.bloomberg.com/news/articles/2026-04-22/crypto-billionaire-sues-trump-linked-project-alleging-extortion"
+  },
+  {
+   "title": "Identity of anonymous $10M WLFI buyer 0x848 (2025-01-31)",
+   "why_connected": "Its size matches the swap-pitch minimum and it bought days after the TRON DAO and Web3Port purchases. It is unidentified.",
+   "entities": [
+    "anonymous-0x848",
+    "wlfi-token"
+   ],
+   "source_url": "https://info.arkm.com/research/anonymous-address-purchases-10m-wlf-tokens"
+  },
+  {
+   "title": "Nobitex designation and USD1 exposure on Tron",
+   "why_connected": "OFAC designated Nobitex two weeks after Reuters' report. Whether any USD1 moved through Nobitex addresses, which would put it within WLF's issuer controls under the GENIUS Act, is unreported.",
+   "entities": [
+    "nobitex",
+    "usd1",
+    "tron",
+    "ofac"
+   ],
+   "source_url": "https://www.theblock.co/news/regulation/2026-06-02-us-sanctions-nobitex-iranian-crypto-exchanges-economic-fury-campaign-403436"
+  },
+  {
+   "title": "Timor-Leste scam infrastructure after the Prince sanctions",
+   "why_connected": "OCCRP reports scam operators resumed work in Timor-Leste. That context bears on AB's resort project and on vetting of Asian USD1 partners.",
+   "entities": [
+    "ab-network",
+    "prince-group"
+   ],
+   "source_url": "https://occrp.org/en/news/scammers-timor-leste-go-straight-back-to-work"
+  }
+ ],
+ "audit": {
+  "checked": [
+   "TRON DAO's $45M WLFI purchase (19 Jan 2025) and WLF's TRX buys of ~$4.7M (20 Jan) plus ~$2.6M (22-23 Jan)",
+   "AB's planned Timor-Leste resort principals (Yang Jian, Yang Yanming, Shih Ting-yu) sanctioned in the 14 Oct 2025 Prince Group action, four weeks before the WLF-AB USD1 deal",
+   "Reuters' finding that Nobitex moved at least $2.3B over Tron and BNB Chain"
+  ],
+  "result": "upheld",
+  "changes": [
+   "TRX: confirmed the purchase figures (The Block, CoinDesk); labelled the ~$7M+ total as our sum of reported buys.",
+   "AB/Prince: confirmed via WSJ relays (Decrypt, iTiger); added Yang Jian's lawyers' denial of any Prince affiliation, that the US designations concerned a Palau resort, and the stake discrepancy (controlling vs. 60%).",
+   "Relationship dt-marks-defi-llc -> WLF: marked the 'including swap-partner purchases' element as our inference.",
+   "Nobitex: the $2.3B ($2B Tron, $317M BNB) figures and the 'no suggestion the Trump family knew' caveat are confirmed by syndicated copies; no contradicting reporting found."
+  ],
+  "new_sources": [
+   {
+    "title": "World Liberty Financial buys $112.8 million in crypto on Trump's first day in office",
+    "publisher": "The Block",
+    "url": "https://www.theblock.co/post/335960/world-liberty-financial-buys-112-8-million-in-crypto-on-trumps-first-day-in-office",
+    "date": "2025-01-20"
+   },
+   {
+    "title": "Trump-Linked World Liberty Financial Buys $2.6M TRX and $10M WBTC",
+    "publisher": "CoinDesk via Yahoo Finance",
+    "url": "https://sg.finance.yahoo.com/news/trump-linked-world-liberty-financial-134035322.html",
+    "date": "2025-01-23"
+   },
+   {
+    "title": "Crypto Venture Linked to Men Sanctioned in Scam-Ring Probe Partnered With Trump Firm -- WSJ",
+    "publisher": "WSJ via iTiger",
+    "url": "https://www.itiger.com/news/2631587318",
+    "date": "2026-04-28"
+   },
+   {
+    "title": "Exclusive: Trump's crypto venture and Iran's largest exchange share same blockchain networks",
+    "publisher": "Reuters via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/exclusive-trumps-crypto-venture-irans-080805071.html",
+    "date": "2026-05"
+   }
+  ]
+ }
+}

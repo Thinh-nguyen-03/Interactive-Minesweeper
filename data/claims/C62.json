@@ -1,0 +1,1628 @@
+{
+ "id": "C62",
+ "title": "The financiers, custodians and underwriters behind the vehicles",
+ "verdict": "mostly-accurate",
+ "confidence": "medium",
+ "summary": "A small set of intermediaries recurs across Trump-family vehicles, and several obtained favorable federal decisions in the same period. Documented: Cantor Fitzgerald (Lutnick family) was financial adviser on TMTG's $2.44B bitcoin raise; Yorkville is TMTG's equity-line buyer, placement agent, ETF adviser and SPAC partner; and Kevin McGurn ran the Yorkville SPAC and, until he resigned on Aug 5, 2026, the Dominari-underwritten Trump-sons SPAC (Dominari's Kyle Wool, chairman since Feb 2026, then became CEO), while serving as TMTG adviser and then interim CEO. The custodians of TMTG and USD1 (Anchorage, Crypto.com, BitGo) each won OCC relief under Comptroller Gould, and DRW and Crypto.com got SEC closures on the same day before their TMTG roles. Every individual link is sourced. The pattern across them is our own cross-referencing; no source shows any regulatory decision was traded for financing, and the OCC and SEC actions were also extended to non-Trump-linked firms.",
+ "sub_claims": [
+  {
+   "statement": "Cantor Fitzgerald, the firm Commerce Secretary Howard Lutnick ran until 2025 and his sons now run, was financial adviser on Trump Media's ~$2.44B bitcoin-treasury raise.",
+   "verdict": "confirmed",
+   "finding": "Evidence grade: documented (company press release, syndicated). Trump Media's May 30, 2025 closing release says Cantor Fitzgerald & Co. 'acted as financial advisor' on the private placement: 55,857,181 shares at $25.72 (~$1.44B) plus $1.0B of convertible senior secured notes, sold to about 50 institutions. The deal closed two weeks after Lutnick's divestiture of his Cantor interests took effect (May 16, 2025, see C35), with his sons Brandon and Kyle running the firm. Sludge reported that Cantor also bought TMTG stock for its own book in Q2 2025. A separate search-indexed report said Cantor had declined to advise TMTG over conflict concerns. I could not trace it to a named outlet, and it contradicts the company's release, so it is unverified. The fee was not disclosed. Cantor's role is a documented commercial link between the President's company and the Commerce Secretary's family firm. It does not show any government action taken for TMTG. The globenewswire.com page was not read directly, so the wording was confirmed through syndicated copies.",
+   "sources": [
+    "https://www.globenewswire.com/news-release/2025/05/30/3091176/0/en/Trump-Media-Closes-Bitcoin-Treasury-Deal.html",
+    "https://www.streetinsider.com/Globe+Newswire/Trump+Media+Closes+Bitcoin+Treasury+Deal/24875453.html",
+    "https://readsludge.com/2025/08/18/lutnick-family-firm-invests-in-bitcoin-and-stocks-boosted-by-trump-wh-policies/"
+   ]
+  },
+  {
+   "statement": "The same TMTG bitcoin raise was placed by Yorkville Securities and Clear Street, with BTIG and Cohen & Company as co-agents. Its bitcoin is held by Crypto.com and Anchorage Digital.",
+   "verdict": "confirmed",
+   "finding": "Evidence grade: documented (TMTG announcement and closing release, multiple outlets). Yorkville Securities and Clear Street were co-lead placement agents, and BTIG and Cohen & Company Capital Markets were co-placement agents. Crypto.com and Anchorage Digital are the custodians. In December 2025, citing the FT, Cointelegraph reported that Clear Street, 'one of the most active underwriters in the crypto-treasury boom', was preparing a $10-12B IPO. I could not confirm whether it priced. I found no Trump-era regulatory decision involving Clear Street, BTIG or Cohen.",
+   "sources": [
+    "https://www.globenewswire.com/news-release/2025/05/30/3091176/0/en/Trump-Media-Closes-Bitcoin-Treasury-Deal.html",
+    "https://seekingalpha.com/pr/20116658-trump-media-announces-approximately-2_5-billion-bitcoin-treasury-deal",
+    "https://www.theblock.co/post/355829/trump-media-establishes-corporate-bitcoin-treasury-with-2-5-billion-offering",
+    "https://cointelegraph.com/news/clear-street-prepares-10b-ipo-as-crypto-treasury-boom-falters"
+   ]
+  },
+  {
+   "statement": "Jane Street took a 6% stake in TMTG through the May 2025 PIPE, then largely exited.",
+   "verdict": "confirmed",
+   "finding": "Evidence grade: documented (SEC Schedule 13G and 13G/A). Jane Street Group's 13G reported 16,572,099 shares (6.0%) acquired in the May 29, 2025 PIPE. The count likely includes note-conversion shares; the filing does not split it. An amendment showed 15.09M shares (5.4%) at June 30, 2025, and about 10.2M (3.7%) by Sept 30, 2025. A 13F aggregator shows roughly 10,000 shares in Q1 2026 and 111,117 in Q2 2026, which points to a near-total exit. The widely repeated '$375M' figure traces to the FT via CoinGape and was not independently confirmed. I found no SEC, CFTC or OCC decision benefiting Jane Street in the period. This looks like a trading firm's position, with no documented link to a regulatory outcome.",
+   "sources": [
+    "https://www.sec.gov/Archives/edgar/data/0001849635/000159588825000101/primary_doc.xml",
+    "https://www.sec.gov/Archives/edgar/data/0001849635/000159588825000144/primary_doc.xml",
+    "https://www.holdingsintel.com/filers/0001595888/positions/DJT",
+    "https://coingape.com/trump-media-secures-100m-investment-from-drw-to-fund-its-2-5-billion-bitcoin-bet"
+   ]
+  },
+  {
+   "statement": "Two firms whose federal cases closed on the same day, March 27, 2025, became participants in TMTG's bitcoin treasury two months later: DRW/Cumberland as a buyer and Crypto.com as custodian.",
+   "verdict": "confirmed",
+   "finding": "Evidence grade: the individual facts are documented; the pairing is inferred. On March 27, 2025 the SEC filed the stipulation dismissing Cumberland DRW with prejudice (LR-26276), formally dismissed Kraken, and closed its Crypto.com investigation with no action (see C19, C22, C23). Three days earlier, on March 24, TMTG had announced its first Crypto.com partnership (Truth.Fi ETFs). In the late-May raise, DRW Investments bought about 4M TMTG shares (~$100M, per FT-cited filings) and Crypto.com became co-custodian. No source asserts that the closures and the later TMTG roles are connected, and DRW and Crypto.com deny any quid pro quo. The co-occurrence is our observation. The Cumberland dismissal was agreed in principle on Feb 20, 2025, before the TMTG deal was public.",
+   "sources": [
+    "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26276",
+    "https://www.theblock.co/post/348606/sec-formally-dismisses-enforcement-action-against-kraken-consensys-cumberland-drw",
+    "https://www.theblock.co/post/348558/crypto-com-says-secs-investigation-has-been-shut-with-no-plan-to-pursue-charges",
+    "https://coingape.com/trump-media-secures-100m-investment-from-drw-to-fund-its-2-5-billion-bitcoin-bet",
+    "https://www.globenewswire.com/news-release/2025/05/30/3091176/0/en/Trump-Media-Closes-Bitcoin-Treasury-Deal.html"
+   ]
+  },
+  {
+   "statement": "Yorkville Advisors (Mark Angelo, Mountainside NJ) is TMTG's most persistent financier: equity-line buyer, placement agent, ETF adviser and sponsor, and CRO-SPAC partner.",
+   "verdict": "confirmed",
+   "finding": "Evidence grade: documented (TMTG filings and multiple outlets). The layers: (1) In July 2024 a standby equity purchase agreement let TMTG sell up to $2.5B of stock to the Yorkville vehicle YA II PN at 97.25% of market. TMTG sold Yorkville about 20M shares for about $450M, which Fortune said in February 2025 was more than half of TMTG's cash. (2) Yorkville Securities co-led the May 2025 bitcoin raise. (3) Yorkville America Equities is registered investment adviser and sponsor of the Truth Social ETFs (five launched Dec 30, 2025, with Tuttle Capital as subadviser). By 2026 the lineup reportedly had seven funds and about $110M, and Yorkville agreed to absorb the MAGA and YALL ETFs. (4) Yorkville America Digital sponsors the Truth Social Bitcoin ETF and the Bitcoin & Ethereum ETF filings. The SEC acknowledged the 19b-4 in July 2025, and I found no final SEC decision. (5) Yorkville Acquisition Corp (MCGA) was the SPAC for the ~$6.4B Trump Media Group CRO Strategy with Crypto.com, including a $5B Yorkville-affiliate equity line, which was mutually terminated on Aug 7, 2026 (C41). This is a commercial web, not proof of favoritism.",
+   "sources": [
+    "https://fortune.com/2025/02/19/more-than-half-of-trump-medias-cash-on-hand-came-from-selling-450-million-worth-of-shares-to-a-small-new-jersey-financial-firm/",
+    "https://www.bnnbloomberg.ca/business/company-news/2024/07/16/trump-media-slides-as-yorkville-deal-may-add-to-share-dilution/",
+    "https://www.wealthmanagement.com/ria-news/nj-based-yorkville-advisors-affiliate-tapped-ria-trump-media-s-truthfi",
+    "https://www.itiger.com/news/2612288203",
+    "https://etfdb.com/news/2025/12/30/5-truth-social-etfs-launch-anti-dei-screening/",
+    "https://thedefiant.io/news/regulation/trump-backed-truth-social-files-sec-spot-bitcoin-ethereum-etf-bt-c0d973e3",
+    "https://cointelegraph.com/news/truth-social-dual-crypto-etf-filing-acknowledged-by-sec",
+    "https://axios.com/2026/08/07/trump-media-crypto-treasury-deals"
+   ]
+  },
+  {
+   "statement": "Yorkville's own federal enforcement history: the SEC's 2012 fraud case against Yorkville and Mark Angelo ended in a with-prejudice dismissal in 2018, during Trump's first term.",
+   "verdict": "confirmed",
+   "finding": "Evidence grade: documented (SEC releases). In October 2012 the SEC charged Yorkville Advisors, founder Mark Angelo and CFO Edward Schinik with inflating fund valuations to collect at least $10M in excess fees. After a partial summary-judgment loss for the SEC in March 2018, the parties stipulated to dismissal with prejudice of the remaining claims (LR-24326, Oct 29, 2018). I found no record of a penalty or admission. This predates the TMTG relationship, and no source ties the dismissal to Trump. It is context on a recurring financier, not a quid pro quo.",
+   "sources": [
+    "https://www.sec.gov/litigation/litreleases/2018/lr24326.htm",
+    "https://www.sec.gov/news/press/2012/2012-209.htm"
+   ]
+  },
+  {
+   "statement": "Kevin McGurn ties the Yorkville and Dominari webs together: CEO of Yorkville Acquisition Corp, chairman/CEO/CFO and sponsor of the Trump sons' New America Acquisition I (until Aug 5, 2026), TMTG adviser and then interim CEO.",
+   "verdict": "mostly-accurate",
+   "finding": "Evidence grade: the core roles are documented; fee and sponsor details are single-source. The Yorkville Acquisition 424B4 says McGurn has been its CEO and a director since Mar 31, 2025. He is quoted as Yorkville Acquisition CEO in the December 2025 CRO-Strategy release. New America Acquisition I, the Trump sons' $345M SPAC underwritten by Dominari Securities and D. Boral Capital, named him chairman, CEO and CFO (C27). A Form 4 lists him as a 10% owner, and an independent outlet says he is the sole member of New America Sponsor I LLC (single-source). He has advised TMTG since December 2024 and became interim CEO in April 2026 after Devin Nunes left (C21/C41). A January 2026 AI-generated brief reports $15,000-a-month advisory fees from Yorkville Acquisition, and newstracs reports similar fees from related SPACs including Texas Ventures Acquisition III, whose directors include Trump Organization and TMTG executives. Both are single-source. Audit update (documented, NWAX 8-Ks and releases; see C78): Dominari's Kyle Wool became NAA I chairman on Feb 6, 2026, and McGurn resigned as CEO and director effective Aug 5, 2026 ('not the result of any disagreement'); Wool became CEO and the board went from six to five. So from Dec 2025 to Aug 5, 2026 one executive sat on the TMTG-Yorkville side and the Trump-sons-Dominari side at once; since then control of the sons' SPAC has sat with the Dominari executive. The dual role is documented; any coordinated purpose is not.",
+   "sources": [
+    "https://www.sec.gov/Archives/edgar/data/2064658/000121390025059356/ea0237939-05.htm",
+    "https://www.barchart.com/story/news/36345446/yorkville-acquisition-corp-mcga-announces-ceo-and-cfo-appointments-for-trump-media-group-cro-strategy",
+    "https://www.itiger.com/news/2600701362",
+    "https://ground.news/article/trump-media-appoints-media-veteran-kevin-mcgurn-as-interim-chief",
+    "https://newstracs.com/trump-org-and-trump-media-execs-are-directors-of-texas-ventures-acquisition-iii-corp/2026/01/16/",
+    "https://digitalmedianet.com/new-america-acquisition-i-corp-appoints-kyle-wool-as-chairman-and-adds-stefan-passantino-as-independent-director/amp/"
+   ]
+  },
+  {
+   "statement": "Dominari Securities is the Trump sons' house underwriter across American Bitcoin, New America Acquisition I and Tron Inc., and it faces no federal enforcement.",
+   "verdict": "confirmed",
+   "finding": "Evidence grade: documented (filings, WSJ, Bloomberg; see C39 and C47). Per the WSJ, Dominari was lead underwriter on about $220M of American Bitcoin raises and was due about 1.1M shares on closing. It co-led NAA I's $345M IPO, was exclusive placement agent on the SRM/Tron Inc. TRX treasury deal for Justin Sun, and runs American Ventures. The brothers each own roughly 6% of Dominari. On the regulatory side, no SEC or FINRA action against Dominari has been found. The House China Select Committee sent letters on Mar 8, 2026, and FINRA fined Kyle Wool's former firm Revere $800K in Oct 2026 without naming him. The absence of SEC/FINRA action under Trump appointees is a fact; that it reflects forbearance is not shown.",
+   "sources": [
+    "https://www.itiger.com/news/2560137003"
+   ]
+  },
+  {
+   "statement": "BitGo is USD1's custodian, has a 7.8% holder in David Sacks's Craft Ventures, and won an OCC national trust charter conversion under Trump's Comptroller.",
+   "verdict": "confirmed",
+   "finding": "Evidence grade: documented (multiple outlets, OCC). BitGo became custodian and mint/burn infrastructure for World Liberty's USD1 on Mar 25, 2025. Its S-1 (Sept 2025) lists Trump-connection risk factors, and per the NYT (C34) Craft held 7.8% of BitGo at filing. On Dec 12, 2025 the OCC under Jonathan Gould conditionally approved BitGo Bank & Trust's conversion to a national trust bank, alongside Paxos, Fidelity Digital Assets and new charters for Circle and Ripple. BitGo priced its IPO at $18 on Jan 21, 2026, raising about $213M. The approval came in a batch of five, which cuts against a USD1-specific favor. No source alleges Sacks or the White House intervened.",
+   "sources": [
+    "https://blockworks.co/news/bitgo-to-custody-wlfi-usd1",
+    "https://www.trendingtopics.eu/bitgo-ipo-trump-risk-factor/",
+    "https://dlnews.com/articles/markets/bitgo-raises-213-million-in-ipo/",
+    "https://www.axios.com/2025/12/12/banks-crypto-occ-charters",
+    "https://www.steptoe.com/en/news-publications/occ-conditionally-approves-five-national-trust-bank-charter-applications.html"
+   ]
+  },
+  {
+   "statement": "Anchorage Digital sits at the junction of TMTG, Tether and Cantor, and had its OCC enforcement order lifted under the Trump OCC.",
+   "verdict": "confirmed",
+   "finding": "Evidence grade: documented (OCC action, company releases, multiple outlets). Anchorage is co-custodian of TMTG's bitcoin (May 2025). On Aug 21, 2025 the OCC announced it had terminated (order signed Aug 18, per PYMNTS) Anchorage's April 2022 BSA/AML consent order, saying the deficiencies had been remedied. That was about six weeks after Gould's July 10, 2025 confirmation, though the OCC gave no detail on what changed. Anchorage became issuer of Tether's U.S. stablecoin USAT, launched Jan 27, 2026, with Cantor as reserve custodian and ex-White House crypto director Bo Hines as CEO (C35, C54). Tether bought a $100M equity stake in Anchorage at a $4.2B valuation (Feb 5, 2026), and Anchorage is custodian and collateral manager for Cantor's bitcoin-financing business. The chain runs TMTG custody, Anchorage, Tether (5%-convertible holder Cantor), and the Lutnick family. Each link is documented. No source says the consent-order termination was connected to any of these relationships.",
+   "sources": [
+    "https://www.globenewswire.com/news-release/2025/05/30/3091176/0/en/Trump-Media-Closes-Bitcoin-Treasury-Deal.html",
+    "https://www.americanbanker.com/news/occ-terminates-consent-order-against-anchorage-digital",
+    "https://www.complianceweek.com/regulatory-enforcement/occ-lifts-aml-consent-order-on-anchorage-digital/36178.article",
+    "https://www.anchorage.com/insights/anchorage-digital-announces-100-million-strategic-investment-from-tether-first-ever-employee-tender-offer-4-2-billion-valuation",
+    "https://www.bloomberg.com/news/articles/2026-02-05/tether-invests-100-million-in-crypto-bank-anchorage-digital",
+    "https://www.anchorage.com/insights/cantor-fitzgerald-selects-anchorage-digital-as-custodian-collateral-manager",
+    "https://decrypt.co/356045/tether-launches-us-regulated-stablecoin-issued-anchorage-digital"
+   ]
+  },
+  {
+   "statement": "Crypto.com accumulated the most federal relief of any Trump-vehicle partner: an SEC closure, a CFTC amicus and an OCC conditional charter, while it served as TMTG custodian, ETF partner and CRO-SPAC co-founder.",
+   "verdict": "confirmed",
+   "finding": "Evidence grade: documented (see C22 and C41 for primary sources). The record: an SEC probe closed with no action on Mar 27, 2025; the CFTC under Selig filed an amicus in Crypto.com's Ninth Circuit case on Feb 17, 2026; and the OCC conditionally approved Foris DAX National Trust Bank on Feb 23, 2026. The commercial side: Truth.Fi ETF partner (Mar 24, 2025), TMTG bitcoin co-custodian (May 2025), custodian for the Truth Social Bitcoin ETF filings, $50M TMTG share purchaser and CRO SPAC co-founder (Aug 2025, terminated Aug 2026), and about $36M in political giving. Crypto.com denies any link, and no quid pro quo is documented.",
+   "sources": [
+    "https://www.theblock.co/post/348558/crypto-com-says-secs-investigation-has-been-shut-with-no-plan-to-pursue-charges",
+    "https://www.americanbanker.com/payments/news/crypto-com-gets-conditional-approval-for-occ-trust-charter",
+    "https://thedefiant.io/news/regulation/trump-backed-truth-social-files-sec-spot-bitcoin-ethereum-etf-bt-c0d973e3",
+    "https://axios.com/2026/08/07/trump-media-crypto-treasury-deals"
+   ]
+  },
+  {
+   "statement": "Kraken hired Trump-tied Ballard Partners and gave $1M to the inauguration, then received an SEC dismissal and the first-ever crypto Fed master account. No financing role in a Trump vehicle was found.",
+   "verdict": "partly-accurate",
+   "finding": "Evidence grade: documented for each event. Kraken (Payward) hired Ballard in December 2024 and gave $1M to the inaugural committee. The SEC dismissed its case with prejudice on Mar 27, 2025, and the Kansas City Fed approved a limited 'skinny' master account for Kraken Financial on Mar 4, 2026. The Kansas City Fed is a regional reserve bank, not a Trump appointee, and the Bank Policy Institute and Rep. Waters objected. Kraken is in the claim as an intermediary, but I found no Kraken role financing, custodying or underwriting a Trump-family vehicle. On this record it belongs to the 'regulatory relief for donors' pattern (C43), not the financier map.",
+   "sources": [
+    "https://theblock.co/news/business/2026-03-04-kraken-wins-fed-master-account-approval-a-first-for-the-crypto-industry-392190",
+    "https://www.streetinsider.com/Reuters/Kraken%2C+Blockchain.com+join+crowd+signing+with+Trump-tied+lobbyists/24245649.html",
+    "https://www.theblock.co/post/348606/sec-formally-dismisses-enforcement-action-against-kraken-consensys-cumberland-drw"
+   ]
+  },
+  {
+   "statement": "DWF Labs and Web3Port were early large WLFI buyers. DWF also committed liquidity and reserves to USD1.",
+   "verdict": "mostly-accurate",
+   "finding": "Evidence grade: the purchases are documented (company releases, multiple outlets); details are single-source or on-chain. DWF Labs (Dubai) announced a $25M private WLFI purchase on Apr 16, 2025, together with a New York office and a pledge to provide USD1 liquidity. On-chain analysis cited by CoinMarketCap put the price at $0.10 for about 250M tokens (unverified). DWF's Andrei Grachev posted in September 2025 that DWF would move $250M of reserves into USD1 (single-source). Web3Port announced a $10M WLFI investment and has faced market-manipulation accusations involving other tokens. A separate $100M buyer, Aqua 1 Foundation, denied reported ties to Web3Port (The Block). I found no U.S. regulatory decision involving DWF or Web3Port in the period.",
+   "sources": [
+    "https://www.theblock.co/press-releases/350990/dwf-labs-announces-u-s-expansion-with-new-office-as-part-of-growth-strategy-unveils-25m-strategic-world-liberty-financial-wlfi-token-purchase",
+    "https://coinmarketcap.com/academy/article/dwf-labs-secures-dollar25-million-wlfi-token-purchase-from-world-liberty-fi",
+    "https://www.theblock.co/news/business/2025-07-15-aqua1-web3port-world-liberty-362612"
+   ]
+  },
+  {
+   "statement": "Jump Trading appears on both sides: a reported Truth API subscriber at TMTG and the apparent recipient of 250M WLFI from World Liberty wallets.",
+   "verdict": "unverified",
+   "finding": "Evidence grade: single-source / inferred. Reuters (Oct 28, 2026, anonymous sources; C41) named Jump Trading, with Bloomberg LP and Susquehanna, as paying subscribers to TMTG's Truth API feed. Separately, on-chain analysts reported that World Liberty wallets sent 250M WLFI (about $40M) to wallets labelled as Jump, and inferred that Jump is a WLFI market maker. Neither Jump nor WLF confirmed this. I found no Trump-era regulatory relief for Jump. The dual role is our cross-reference of two thinly sourced items.",
+   "sources": [
+    "https://www.thestandard.com.hk/world/article/346854/Bloomberg-two-trading-firms-agree-to-pay-Trumps-Truth-Social-for-faster-access-to-presidents-posts-sources-say",
+    "https://www.cryptopolitan.com/world-liberty-250m-wlfi-to-jump-trading/",
+    "https://coingape.com/trump-backed-wlfi-token-slips-as-jump-crypto-begins-profit-booking"
+   ]
+  },
+  {
+   "statement": "Tuttle Capital sought to list leveraged TRUMP and MELANIA memecoin ETFs and is subadviser to Trump Media's Truth Social ETFs.",
+   "verdict": "confirmed",
+   "finding": "Evidence grade: each fact is documented; the conjunction is inferred. In January 2025, three days into the new administration, Tuttle filed for ten 2x crypto ETFs including TRUMP and MELANIA. It is subadviser (to Yorkville America Equities) on the five Truth Social ETFs launched Dec 30, 2025. I did not confirm whether the TRUMP and MELANIA leveraged funds ever launched. A single manager thus sought to package the President's memecoin and also manages the President's media company's funds. No source draws that link.",
+   "sources": [
+    "https://mta-sts.theblock.co/post/337280/tuttle-capital-10-leveraged-crypto-etfs-trump-melania-memecoins",
+    "https://etfdb.com/news/2025/12/30/5-truth-social-etfs-launch-anti-dei-screening/"
+   ]
+  },
+  {
+   "statement": "A.G.P./Alliance Global Partners was sole placement agent on ALT5 Sigma's $1.5B WLFI-treasury raise. Hut 8 contributed miners for 80% of American Bitcoin.",
+   "verdict": "confirmed",
+   "finding": "Evidence grade: documented (company releases; C13, C18). A.G.P. was sole placement agent on ALT5's Aug 11-12, 2025 $1.5B offering, in which WLF paid for its shares in WLFI tokens and Zach Witkoff and Eric Trump joined the board. Hut 8 contributed about 61,000 ASICs for 80% of American Bitcoin (Mar 31, 2025), with Dominari handling the financing. I found no federal regulatory decision benefiting A.G.P. or Hut 8.",
+   "sources": [
+    "https://www.businesswire.com/news/home/20250811959222/en/ALT5-Sigma-Corporation-Announces-$1.5-Billion-Registered-Direct-Offering-and-Concurrent-Private-Placement-to-Initiate-World-Liberty-Financial-$WLFI-Treasury-Strategy",
+    "https://www.fintechfutures.com/press-releases/hut-8-and-eric-trump-launch-american-bitcoin-to-set-a-new-standard-in-bitcoin-mining"
+   ]
+  },
+  {
+   "statement": "Pattern: the custodians of Trump-family vehicles (BitGo for USD1; Anchorage and Crypto.com for TMTG) and WLF itself all received favorable OCC actions under Comptroller Gould between Aug 2025 and Aug 2026.",
+   "verdict": "mostly-accurate",
+   "finding": "Evidence grade: each action is documented (OCC decisions and multiple outlets); the pattern is inferred. The actions were: Anchorage's consent order terminated (Aug 21, 2025); BitGo's conversion conditionally approved (Dec 12, 2025); Foris DAX/Crypto.com conditionally approved (Feb 23, 2026); and WLTC/World Liberty Trust preliminarily conditionally approved (Aug 14, 2026, CD 1385). The same OCC also approved non-Trump-linked applicants (Circle, Paxos, Fidelity, Ripple), and the policy shift was industry-wide. That cuts against a targeted-favor reading. No source asserts Gould acted on Trump ties. His prior role as Bitfury chief legal officer (C54) and the lack of a public recusal list remain open questions.",
+   "sources": [
+    "https://www.americanbanker.com/news/occ-terminates-consent-order-against-anchorage-digital",
+    "https://www.axios.com/2025/12/12/banks-crypto-occ-charters",
+    "https://www.americanbanker.com/payments/news/crypto-com-gets-conditional-approval-for-occ-trust-charter",
+    "https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/cd1385.pdf"
+   ]
+  },
+  {
+   "statement": "Galaxy Digital was a financier of a Trump-family vehicle.",
+   "verdict": "unverified",
+   "finding": "Evidence grade: not found. Searches turned up no Galaxy role in WLF, USD1, TMTG, American Bitcoin or the SPACs. I am not asserting a connection.",
+   "sources": []
+  }
+ ],
+ "corrections": [
+  "The claim lists Galaxy, Kraken, DWF Labs and Web3Port as intermediaries behind Trump vehicles. I found no Galaxy role at all, and Kraken's link is donations, lobbying and regulatory relief rather than financing. DWF and Web3Port are WLFI token buyers, not financiers of TMTG or the sons' vehicles.",
+  "The '$375M Jane Street' figure is FT-via-CoinGape. The 13G documents 16.57M shares (6.0%), and Jane Street had largely exited by 2026.",
+  "A search-indexed report that Cantor 'declined to advise' TMTG conflicts with TMTG's own closing release naming Cantor as financial adviser. The release is treated as authoritative.",
+  "Audit: McGurn resigned from New America Acquisition I effective Aug 5, 2026; Kyle Wool (chairman since Feb 6, 2026) became CEO. The Wool chairmanship is documented in an 8-K, not single-source."
+ ],
+ "denials_and_context": [
+  "The White House says Trump's assets are in a trust managed by his children and that there are no conflicts of interest.",
+  "DRW/Cumberland and Crypto.com deny any link between their SEC outcomes and TMTG dealings. The Cumberland dismissal was agreed in principle on Feb 20, 2025.",
+  "The OCC says career staff reviewed charter applications. The Dec 2025 batch also included Circle, Ripple, Paxos and Fidelity, and Anchorage's order was lifted on stated remediation.",
+  "Lutnick divested his Cantor interests to his children's trusts effective May 16, 2025, and says he follows Commerce ethics guidance.",
+  "The Kraken master account came from the Kansas City Fed, a regional reserve bank, not a presidential appointee.",
+  "No SEC or FINRA action against Dominari exists. Absence of enforcement is not evidence of forbearance."
+ ],
+ "sources": [
+  {
+   "title": "Trump Media Closes Bitcoin Treasury Deal (press release)",
+   "publisher": "GlobeNewswire / Trump Media",
+   "url": "https://www.globenewswire.com/news-release/2025/05/30/3091176/0/en/Trump-Media-Closes-Bitcoin-Treasury-Deal.html",
+   "date": "2025-05-30"
+  },
+  {
+   "title": "Trump Media Closes Bitcoin Treasury Deal (syndicated release)",
+   "publisher": "StreetInsider",
+   "url": "https://www.streetinsider.com/Globe+Newswire/Trump+Media+Closes+Bitcoin+Treasury+Deal/24875453.html",
+   "date": "2025-05-30"
+  },
+  {
+   "title": "Trump Media Announces Approximately $2.5 Billion Bitcoin Treasury Deal",
+   "publisher": "Seeking Alpha (press release)",
+   "url": "https://seekingalpha.com/pr/20116658-trump-media-announces-approximately-2_5-billion-bitcoin-treasury-deal",
+   "date": "2025-05-27"
+  },
+  {
+   "title": "Trump Media establishes corporate bitcoin treasury with $2.5 billion offering",
+   "publisher": "The Block",
+   "url": "https://www.theblock.co/post/355829/trump-media-establishes-corporate-bitcoin-treasury-with-2-5-billion-offering",
+   "date": "2025-05-27"
+  },
+  {
+   "title": "Jane Street Group Schedule 13G on Trump Media & Technology Group",
+   "publisher": "SEC EDGAR",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001849635/000159588825000101/primary_doc.xml",
+   "date": "2025-06"
+  },
+  {
+   "title": "Jane Street Group Schedule 13G/A on Trump Media & Technology Group",
+   "publisher": "SEC EDGAR",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001849635/000159588825000144/primary_doc.xml",
+   "date": "2025"
+  },
+  {
+   "title": "Jane Street Group DJT position history (13F aggregator)",
+   "publisher": "HoldingsIntel",
+   "url": "https://www.holdingsintel.com/filers/0001595888/positions/DJT",
+   "date": "2026"
+  },
+  {
+   "title": "Trump Media secures $100M investment from DRW",
+   "publisher": "CoinGape",
+   "url": "https://coingape.com/trump-media-secures-100m-investment-from-drw-to-fund-its-2-5-billion-bitcoin-bet",
+   "date": "2025-06"
+  },
+  {
+   "title": "SEC Litigation Release LR-26276 (Cumberland DRW dismissal)",
+   "publisher": "SEC",
+   "url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26276",
+   "date": "2025-03-27"
+  },
+  {
+   "title": "SEC formally dismisses enforcement action against Kraken, Consensys, Cumberland DRW",
+   "publisher": "The Block",
+   "url": "https://www.theblock.co/post/348606/sec-formally-dismisses-enforcement-action-against-kraken-consensys-cumberland-drw",
+   "date": "2025-03-27"
+  },
+  {
+   "title": "Crypto.com says SEC's investigation has been shut with no plan to pursue charges",
+   "publisher": "The Block",
+   "url": "https://www.theblock.co/post/348558/crypto-com-says-secs-investigation-has-been-shut-with-no-plan-to-pursue-charges",
+   "date": "2025-03-27"
+  },
+  {
+   "title": "More than half of Trump Media's cash on hand came from selling $450 million worth of shares to a small New Jersey financial firm",
+   "publisher": "Fortune",
+   "url": "https://fortune.com/2025/02/19/more-than-half-of-trump-medias-cash-on-hand-came-from-selling-450-million-worth-of-shares-to-a-small-new-jersey-financial-firm/",
+   "date": "2025-02-19"
+  },
+  {
+   "title": "Trump Media slides as Yorkville deal may add to share dilution",
+   "publisher": "BNN Bloomberg",
+   "url": "https://www.bnnbloomberg.ca/business/company-news/2024/07/16/trump-media-slides-as-yorkville-deal-may-add-to-share-dilution/",
+   "date": "2024-07-16"
+  },
+  {
+   "title": "N.J.-Based Yorkville Advisors affiliate tapped as RIA for Trump Media's Truth.Fi",
+   "publisher": "WealthManagement.com",
+   "url": "https://www.wealthmanagement.com/ria-news/nj-based-yorkville-advisors-affiliate-tapped-ria-trump-media-s-truthfi",
+   "date": "2025"
+  },
+  {
+   "title": "Yorkville to acquire Point Bridge MAGA ETF for Truth Social funds",
+   "publisher": "iTiger (newswire)",
+   "url": "https://www.itiger.com/news/2612288203",
+   "date": "2026"
+  },
+  {
+   "title": "SEC v. Yorkville Advisors, Mark Angelo and Edward Schinik (LR-24326, dismissal)",
+   "publisher": "SEC",
+   "url": "https://www.sec.gov/litigation/litreleases/2018/lr24326.htm",
+   "date": "2018-10-29"
+  },
+  {
+   "title": "SEC charges Yorkville Advisors (press release 2012-209)",
+   "publisher": "SEC",
+   "url": "https://www.sec.gov/news/press/2012/2012-209.htm",
+   "date": "2012-10-17"
+  },
+  {
+   "title": "Trump-backed Truth Social files for spot bitcoin-ethereum ETF",
+   "publisher": "The Defiant",
+   "url": "https://thedefiant.io/news/regulation/trump-backed-truth-social-files-sec-spot-bitcoin-ethereum-etf-bt-c0d973e3",
+   "date": "2025-06-16"
+  },
+  {
+   "title": "Truth Social dual crypto ETF filing acknowledged by SEC",
+   "publisher": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/truth-social-dual-crypto-etf-filing-acknowledged-by-sec",
+   "date": "2025-07"
+  },
+  {
+   "title": "Yorkville Acquisition Corp. Form 424B4 prospectus",
+   "publisher": "SEC EDGAR",
+   "url": "https://www.sec.gov/Archives/edgar/data/2064658/000121390025059356/ea0237939-05.htm",
+   "date": "2025"
+  },
+  {
+   "title": "Yorkville Acquisition Corp. 'MCGA' announces CEO and CFO appointments for Trump Media Group CRO Strategy",
+   "publisher": "Barchart / GlobeNewswire",
+   "url": "https://www.barchart.com/story/news/36345446/yorkville-acquisition-corp-mcga-announces-ceo-and-cfo-appointments-for-trump-media-group-cro-strategy",
+   "date": "2025-12-01"
+  },
+  {
+   "title": "Yorkville Acquisition Corp. approves $15,000 monthly advisory fee for CEO",
+   "publisher": "iTiger (AI-generated brief)",
+   "url": "https://www.itiger.com/news/2600701362",
+   "date": "2026-01"
+  },
+  {
+   "title": "Trump Media appoints media veteran Kevin McGurn as interim chief executive",
+   "publisher": "Ground News (aggregating)",
+   "url": "https://ground.news/article/trump-media-appoints-media-veteran-kevin-mcgurn-as-interim-chief",
+   "date": "2026-04"
+  },
+  {
+   "title": "Trump Org and Trump Media execs are directors of Texas Ventures Acquisition III Corp",
+   "publisher": "newstracs.com",
+   "url": "https://newstracs.com/trump-org-and-trump-media-execs-are-directors-of-texas-ventures-acquisition-iii-corp/2026/01/16/",
+   "date": "2026-01-16"
+  },
+  {
+   "title": "New America Acquisition I Corp appoints Kyle Wool as chairman and adds Stefan Passantino as independent director",
+   "publisher": "DigitalMediaNet",
+   "url": "https://digitalmedianet.com/new-america-acquisition-i-corp-appoints-kyle-wool-as-chairman-and-adds-stefan-passantino-as-independent-director/amp/",
+   "date": "2026"
+  },
+  {
+   "title": "Trump Media & Technology Group terminates CRO treasury deal",
+   "publisher": "Axios",
+   "url": "https://axios.com/2026/08/07/trump-media-crypto-treasury-deals",
+   "date": "2026-08-07"
+  },
+  {
+   "title": "How an obscure firm bet on the Trumps and became their go-to dealmaker (WSJ)",
+   "publisher": "iTiger (WSJ syndication)",
+   "url": "https://www.itiger.com/news/2560137003",
+   "date": "2025"
+  },
+  {
+   "title": "Clear Street prepares $10B IPO as crypto treasury boom falters",
+   "publisher": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/clear-street-prepares-10b-ipo-as-crypto-treasury-boom-falters",
+   "date": "2025-12"
+  },
+  {
+   "title": "ALT5 Sigma announces $1.5 billion registered direct offering and concurrent private placement",
+   "publisher": "Business Wire",
+   "url": "https://www.businesswire.com/news/home/20250811959222/en/ALT5-Sigma-Corporation-Announces-$1.5-Billion-Registered-Direct-Offering-and-Concurrent-Private-Placement-to-Initiate-World-Liberty-Financial-$WLFI-Treasury-Strategy",
+   "date": "2025-08-11"
+  },
+  {
+   "title": "BitGo to custody reserves of World Liberty Financial's USD1",
+   "publisher": "Blockworks",
+   "url": "https://blockworks.co/news/bitgo-to-custody-wlfi-usd1",
+   "date": "2025-03-25"
+  },
+  {
+   "title": "BitGo IPO filing lists Trump risk factor",
+   "publisher": "Trending Topics",
+   "url": "https://www.trendingtopics.eu/bitgo-ipo-trump-risk-factor/",
+   "date": "2025-09"
+  },
+  {
+   "title": "BitGo raises $213 million in IPO",
+   "publisher": "DL News",
+   "url": "https://dlnews.com/articles/markets/bitgo-raises-213-million-in-ipo/",
+   "date": "2026-01-22"
+  },
+  {
+   "title": "OCC conditionally approves 5 crypto firms for national trust bank charters",
+   "publisher": "Axios",
+   "url": "https://www.axios.com/2025/12/12/banks-crypto-occ-charters",
+   "date": "2025-12-12"
+  },
+  {
+   "title": "OCC conditionally approves five national trust bank charter applications",
+   "publisher": "Steptoe",
+   "url": "https://www.steptoe.com/en/news-publications/occ-conditionally-approves-five-national-trust-bank-charter-applications.html",
+   "date": "2025-12"
+  },
+  {
+   "title": "OCC terminates consent order against Anchorage Digital",
+   "publisher": "American Banker",
+   "url": "https://www.americanbanker.com/news/occ-terminates-consent-order-against-anchorage-digital",
+   "date": "2025-08-21"
+  },
+  {
+   "title": "OCC lifts AML consent order on Anchorage Digital",
+   "publisher": "Compliance Week",
+   "url": "https://www.complianceweek.com/regulatory-enforcement/occ-lifts-aml-consent-order-on-anchorage-digital/36178.article",
+   "date": "2025-08-25"
+  },
+  {
+   "title": "Anchorage Digital announces $100 million strategic investment from Tether at $4.2 billion valuation",
+   "publisher": "Anchorage Digital",
+   "url": "https://www.anchorage.com/insights/anchorage-digital-announces-100-million-strategic-investment-from-tether-first-ever-employee-tender-offer-4-2-billion-valuation",
+   "date": "2026-02-05"
+  },
+  {
+   "title": "Tether invests $100 million in crypto bank Anchorage Digital",
+   "publisher": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-02-05/tether-invests-100-million-in-crypto-bank-anchorage-digital",
+   "date": "2026-02-05"
+  },
+  {
+   "title": "Cantor Fitzgerald selects Anchorage Digital as custodian, collateral manager",
+   "publisher": "Anchorage Digital",
+   "url": "https://www.anchorage.com/insights/cantor-fitzgerald-selects-anchorage-digital-as-custodian-collateral-manager",
+   "date": "2025"
+  },
+  {
+   "title": "Tether launches US-regulated stablecoin issued by Anchorage Digital",
+   "publisher": "Decrypt",
+   "url": "https://decrypt.co/356045/tether-launches-us-regulated-stablecoin-issued-anchorage-digital",
+   "date": "2026-01-27"
+  },
+  {
+   "title": "Crypto.com gets conditional approval for OCC trust charter",
+   "publisher": "American Banker",
+   "url": "https://www.americanbanker.com/payments/news/crypto-com-gets-conditional-approval-for-occ-trust-charter",
+   "date": "2026-02-23"
+  },
+  {
+   "title": "OCC Corporate Decision 1385 (WLTC Holdings / World Liberty Trust)",
+   "publisher": "OCC",
+   "url": "https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/cd1385.pdf",
+   "date": "2026-08-14"
+  },
+  {
+   "title": "Kraken wins Fed master account approval, a first for the crypto industry",
+   "publisher": "The Block",
+   "url": "https://theblock.co/news/business/2026-03-04-kraken-wins-fed-master-account-approval-a-first-for-the-crypto-industry-392190",
+   "date": "2026-03-04"
+  },
+  {
+   "title": "Kraken, Blockchain.com join crowd signing with Trump-tied lobbyists (Reuters)",
+   "publisher": "StreetInsider",
+   "url": "https://www.streetinsider.com/Reuters/Kraken%2C+Blockchain.com+join+crowd+signing+with+Trump-tied+lobbyists/24245649.html",
+   "date": "2025-01-24"
+  },
+  {
+   "title": "DWF Labs announces U.S. expansion, unveils $25M strategic WLFI token purchase",
+   "publisher": "The Block (press release)",
+   "url": "https://www.theblock.co/press-releases/350990/dwf-labs-announces-u-s-expansion-with-new-office-as-part-of-growth-strategy-unveils-25m-strategic-world-liberty-financial-wlfi-token-purchase",
+   "date": "2025-04-16"
+  },
+  {
+   "title": "DWF Labs secures $25 million WLFI token purchase from World Liberty Fi",
+   "publisher": "CoinMarketCap Academy",
+   "url": "https://coinmarketcap.com/academy/article/dwf-labs-secures-dollar25-million-wlfi-token-purchase-from-world-liberty-fi",
+   "date": "2025-04"
+  },
+  {
+   "title": "World Liberty Financial's $100 million investor Aqua 1 denies connection to Web3Port",
+   "publisher": "The Block",
+   "url": "https://www.theblock.co/news/business/2025-07-15-aqua1-web3port-world-liberty-362612",
+   "date": "2025-07-15"
+  },
+  {
+   "title": "World Liberty sends 250M WLFI to Jump Trading",
+   "publisher": "Cryptopolitan",
+   "url": "https://www.cryptopolitan.com/world-liberty-250m-wlfi-to-jump-trading/",
+   "date": "2025"
+  },
+  {
+   "title": "Trump-backed WLFI token slips as Jump Crypto begins profit booking",
+   "publisher": "CoinGape",
+   "url": "https://coingape.com/trump-backed-wlfi-token-slips-as-jump-crypto-begins-profit-booking",
+   "date": "2025"
+  },
+  {
+   "title": "Bloomberg, two trading firms agree to pay Trump's Truth Social for faster access to president's posts (Reuters)",
+   "publisher": "The Standard (HK)",
+   "url": "https://www.thestandard.com.hk/world/article/346854/Bloomberg-two-trading-firms-agree-to-pay-Trumps-Truth-Social-for-faster-access-to-presidents-posts-sources-say",
+   "date": "2026-10-28"
+  },
+  {
+   "title": "Tuttle Capital files for 10 leveraged crypto ETFs, including TRUMP and MELANIA memecoins",
+   "publisher": "The Block",
+   "url": "https://mta-sts.theblock.co/post/337280/tuttle-capital-10-leveraged-crypto-etfs-trump-melania-memecoins",
+   "date": "2025-01"
+  },
+  {
+   "title": "5 Truth Social ETFs launch with anti-DEI screening",
+   "publisher": "ETFdb",
+   "url": "https://etfdb.com/news/2025/12/30/5-truth-social-etfs-launch-anti-dei-screening/",
+   "date": "2025-12-30"
+  },
+  {
+   "title": "Lutnick's Cantor Fitzgerald negotiated a 5% ownership stake in Tether (WSJ)",
+   "publisher": "The Block",
+   "url": "https://www.theblock.co/post/327961/lutnick-cantor-fitzgerald-negotiated-a-5-ownership-stake-in-tether-wsj",
+   "date": "2024-11"
+  },
+  {
+   "title": "Lutnick family firm invests in bitcoin and stocks boosted by Trump WH policies",
+   "publisher": "Sludge",
+   "url": "https://readsludge.com/2025/08/18/lutnick-family-firm-invests-in-bitcoin-and-stocks-boosted-by-trump-wh-policies/",
+   "date": "2025-08-18"
+  },
+  {
+   "title": "Hut 8 and Eric Trump launch American Bitcoin",
+   "publisher": "FinTech Futures (press release)",
+   "url": "https://www.fintechfutures.com/press-releases/hut-8-and-eric-trump-launch-american-bitcoin-to-set-a-new-standard-in-bitcoin-mining",
+   "date": "2025-03-31"
+  }
+ ],
+ "entities": [
+  {
+   "id": "donald-trump",
+   "name": "Donald Trump",
+   "type": "person",
+   "description": "President; majority owner of TMTG via trust"
+  },
+  {
+   "id": "eric-trump",
+   "name": "Eric Trump",
+   "type": "person",
+   "description": "Dominari adviser/shareholder; American Bitcoin co-founder; ALT5 director"
+  },
+  {
+   "id": "donald-trump-jr",
+   "name": "Donald Trump Jr.",
+   "type": "person",
+   "description": "Dominari adviser/shareholder; New America Acquisition I adviser"
+  },
+  {
+   "id": "trump-media-technology-group",
+   "name": "Trump Media & Technology Group",
+   "type": "company",
+   "description": "Truth Social parent; bitcoin-treasury company"
+  },
+  {
+   "id": "truth-social-etfs",
+   "name": "Truth Social ETFs",
+   "type": "product",
+   "description": "Truth.Fi-branded ETFs advised by Yorkville America Equities"
+  },
+  {
+   "id": "trump-media-group-cro-strategy",
+   "name": "Trump Media Group CRO Strategy",
+   "type": "company",
+   "description": "Planned CRO treasury vehicle; terminated Aug 2026"
+  },
+  {
+   "id": "world-liberty-financial",
+   "name": "World Liberty Financial",
+   "type": "company",
+   "description": "Trump-family crypto venture"
+  },
+  {
+   "id": "wlfi-token",
+   "name": "WLFI token",
+   "type": "asset",
+   "description": "World Liberty governance token"
+  },
+  {
+   "id": "usd1",
+   "name": "USD1",
+   "type": "asset",
+   "description": "World Liberty stablecoin"
+  },
+  {
+   "id": "wltc-holdings",
+   "name": "WLTC Holdings",
+   "type": "company",
+   "description": "World Liberty trust-bank applicant"
+  },
+  {
+   "id": "american-bitcoin",
+   "name": "American Bitcoin",
+   "type": "company",
+   "description": "Bitcoin miner co-founded by Trump sons"
+  },
+  {
+   "id": "alt5-sigma",
+   "name": "ALT5 Sigma",
+   "type": "company",
+   "description": "WLFI treasury company"
+  },
+  {
+   "id": "new-america-acquisition-i",
+   "name": "New America Acquisition I Corp",
+   "type": "company",
+   "description": "Trump sons-advised $345M SPAC"
+  },
+  {
+   "id": "texas-ventures-acquisition-iii",
+   "name": "Texas Ventures Acquisition III Corp",
+   "type": "company",
+   "description": "SPAC with Trump Org/TMTG executives as directors (single-source); McGurn was CEO until resigning effective Apr 22, 2026 (8-K, C78)"
+  },
+  {
+   "id": "yorkville-advisors",
+   "name": "Yorkville Advisors",
+   "type": "fund",
+   "description": "Mountainside NJ investment manager (Mark Angelo); TMTG equity-line buyer via YA II PN"
+  },
+  {
+   "id": "yorkville-america-equities",
+   "name": "Yorkville America Equities",
+   "type": "company",
+   "description": "Adviser/sponsor of Truth Social ETFs"
+  },
+  {
+   "id": "yorkville-america-digital",
+   "name": "Yorkville America Digital",
+   "type": "company",
+   "description": "Sponsor of Truth Social crypto ETF filings"
+  },
+  {
+   "id": "yorkville-acquisition-corp",
+   "name": "Yorkville Acquisition Corp (MCGA)",
+   "type": "company",
+   "description": "SPAC for TMTG/Crypto.com CRO treasury deal"
+  },
+  {
+   "id": "mark-angelo",
+   "name": "Mark Angelo",
+   "type": "person",
+   "description": "Yorkville Advisors founder"
+  },
+  {
+   "id": "kevin-mcgurn",
+   "name": "Kevin McGurn",
+   "type": "person",
+   "description": "CEO Yorkville Acquisition; chair/CEO/CFO of New America Acquisition I until Aug 5, 2026; TMTG interim CEO"
+  },
+  {
+   "id": "kyle-wool",
+   "name": "Kyle Wool",
+   "type": "person",
+   "description": "Dominari Securities president/CEO; New America Acquisition I chairman (Feb 2026) and CEO (Aug 2026)"
+  },
+  {
+   "id": "dominari-holdings",
+   "name": "Dominari Holdings / Dominari Securities",
+   "type": "company",
+   "description": "Trump Tower broker-dealer; Trump sons' underwriter"
+  },
+  {
+   "id": "d-boral-capital",
+   "name": "D. Boral Capital",
+   "type": "company",
+   "description": "Co-underwriter of New America Acquisition I"
+  },
+  {
+   "id": "clear-street",
+   "name": "Clear Street",
+   "type": "company",
+   "description": "NY brokerage; co-lead agent on TMTG bitcoin raise"
+  },
+  {
+   "id": "btig",
+   "name": "BTIG",
+   "type": "company",
+   "description": "Co-placement agent on TMTG bitcoin raise"
+  },
+  {
+   "id": "cohen-and-company-capital-markets",
+   "name": "Cohen & Company Capital Markets",
+   "type": "company",
+   "description": "Co-placement agent on TMTG bitcoin raise"
+  },
+  {
+   "id": "agp-alliance-global-partners",
+   "name": "A.G.P./Alliance Global Partners",
+   "type": "company",
+   "description": "Sole placement agent for ALT5 $1.5B raise"
+  },
+  {
+   "id": "cantor-fitzgerald",
+   "name": "Cantor Fitzgerald",
+   "type": "company",
+   "description": "Lutnick-family firm; TMTG bitcoin-raise financial adviser; Tether custodian"
+  },
+  {
+   "id": "howard-lutnick",
+   "name": "Howard Lutnick",
+   "type": "person",
+   "description": "Commerce Secretary; former Cantor chairman/CEO"
+  },
+  {
+   "id": "brandon-lutnick",
+   "name": "Brandon Lutnick",
+   "type": "person",
+   "description": "Cantor chairman/CEO"
+  },
+  {
+   "id": "tether",
+   "name": "Tether",
+   "type": "company",
+   "description": "USDT issuer; Cantor-custodied; Anchorage investor"
+  },
+  {
+   "id": "usat",
+   "name": "USAT",
+   "type": "asset",
+   "description": "Tether US stablecoin issued by Anchorage"
+  },
+  {
+   "id": "bo-hines",
+   "name": "Bo Hines",
+   "type": "person",
+   "description": "Ex-White House crypto council director; USAT CEO"
+  },
+  {
+   "id": "anchorage-digital",
+   "name": "Anchorage Digital",
+   "type": "company",
+   "description": "OCC-chartered crypto bank; TMTG bitcoin custodian; USAT issuer"
+  },
+  {
+   "id": "bitgo",
+   "name": "BitGo",
+   "type": "company",
+   "description": "USD1 reserve custodian; OCC charter conversion Dec 2025"
+  },
+  {
+   "id": "craft-ventures",
+   "name": "Craft Ventures",
+   "type": "fund",
+   "description": "David Sacks's VC firm; 7.8% BitGo holder at IPO filing"
+  },
+  {
+   "id": "david-sacks",
+   "name": "David Sacks",
+   "type": "person",
+   "description": "White House AI & crypto czar"
+  },
+  {
+   "id": "crypto-com",
+   "name": "Crypto.com",
+   "type": "company",
+   "description": "TMTG custodian, ETF and CRO partner"
+  },
+  {
+   "id": "foris-dax-national-trust-bank",
+   "name": "Foris DAX National Trust Bank",
+   "type": "company",
+   "description": "Crypto.com OCC trust-bank applicant"
+  },
+  {
+   "id": "cumberland-drw",
+   "name": "Cumberland DRW",
+   "type": "company",
+   "description": "DRW crypto trading arm; SEC case dismissed"
+  },
+  {
+   "id": "drw-investments",
+   "name": "DRW Investments",
+   "type": "fund",
+   "description": "Don Wilson's firm; ~$100M TMTG buyer"
+  },
+  {
+   "id": "don-wilson",
+   "name": "Don Wilson",
+   "type": "person",
+   "description": "DRW founder"
+  },
+  {
+   "id": "jane-street",
+   "name": "Jane Street",
+   "type": "company",
+   "description": "Trading firm; 6.0% TMTG holder via PIPE"
+  },
+  {
+   "id": "jump-trading",
+   "name": "Jump Trading",
+   "type": "company",
+   "description": "Trading firm; reported Truth API subscriber; reported WLFI recipient"
+  },
+  {
+   "id": "dwf-labs",
+   "name": "DWF Labs",
+   "type": "company",
+   "description": "Dubai market maker; $25M WLFI buyer"
+  },
+  {
+   "id": "andrei-grachev",
+   "name": "Andrei Grachev",
+   "type": "person",
+   "description": "DWF Labs managing partner"
+  },
+  {
+   "id": "web3port",
+   "name": "Web3Port",
+   "type": "company",
+   "description": "Crypto investment platform; $10M WLFI buyer"
+  },
+  {
+   "id": "aqua-1-foundation",
+   "name": "Aqua 1 Foundation",
+   "type": "fund",
+   "description": "$100M WLFI buyer; denies Web3Port ties"
+  },
+  {
+   "id": "kraken",
+   "name": "Kraken",
+   "type": "company",
+   "description": "Crypto exchange (Payward)"
+  },
+  {
+   "id": "kraken-financial",
+   "name": "Kraken Financial",
+   "type": "company",
+   "description": "Kraken's Wyoming bank; Fed master account Mar 2026"
+  },
+  {
+   "id": "federal-reserve-bank-of-kansas-city",
+   "name": "Federal Reserve Bank of Kansas City",
+   "type": "government",
+   "description": "Approved Kraken master account"
+  },
+  {
+   "id": "ballard-partners",
+   "name": "Ballard Partners",
+   "type": "company",
+   "description": "Trump-tied lobbying firm"
+  },
+  {
+   "id": "tuttle-capital-management",
+   "name": "Tuttle Capital Management",
+   "type": "company",
+   "description": "Truth Social ETF subadviser; TRUMP/MELANIA ETF filer"
+  },
+  {
+   "id": "trump-coin",
+   "name": "$TRUMP",
+   "type": "asset",
+   "description": "Trump memecoin"
+  },
+  {
+   "id": "melania-coin",
+   "name": "$MELANIA",
+   "type": "asset",
+   "description": "Melania memecoin"
+  },
+  {
+   "id": "hut-8",
+   "name": "Hut 8",
+   "type": "company",
+   "description": "80% owner of American Bitcoin"
+  },
+  {
+   "id": "ripple",
+   "name": "Ripple",
+   "type": "company",
+   "description": "SEC appeals dropped; OCC conditional charter"
+  },
+  {
+   "id": "circle",
+   "name": "Circle",
+   "type": "company",
+   "description": "OCC conditional charter Dec 2025"
+  },
+  {
+   "id": "paxos",
+   "name": "Paxos",
+   "type": "company",
+   "description": "OCC conversion approval Dec 2025"
+  },
+  {
+   "id": "fidelity-digital-assets",
+   "name": "Fidelity Digital Assets",
+   "type": "company",
+   "description": "OCC conversion approval Dec 2025"
+  },
+  {
+   "id": "occ",
+   "name": "OCC",
+   "type": "government",
+   "description": "Office of the Comptroller of the Currency"
+  },
+  {
+   "id": "jonathan-gould",
+   "name": "Jonathan Gould",
+   "type": "person",
+   "description": "Comptroller of the Currency from Jul 2025"
+  },
+  {
+   "id": "sec",
+   "name": "SEC",
+   "type": "government",
+   "description": "Securities and Exchange Commission"
+  },
+  {
+   "id": "cftc",
+   "name": "CFTC",
+   "type": "government",
+   "description": "Commodity Futures Trading Commission"
+  },
+  {
+   "id": "mike-selig",
+   "name": "Mike Selig",
+   "type": "person",
+   "description": "CFTC chair from Dec 2025"
+  },
+  {
+   "id": "us-congress",
+   "name": "US Congress",
+   "type": "government",
+   "description": "Incl. House China Select Committee"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "cantor-fitzgerald",
+   "target": "trump-media-technology-group",
+   "label": "financial adviser on bitcoin-treasury raise",
+   "type": "commercial",
+   "date": "2025-05"
+  },
+  {
+   "source": "cantor-fitzgerald",
+   "target": "trump-media-technology-group",
+   "label": "bought TMTG shares for own book (per Sludge)",
+   "type": "money",
+   "date": "2025-Q2"
+  },
+  {
+   "source": "howard-lutnick",
+   "target": "cantor-fitzgerald",
+   "label": "divested interests to children's trusts",
+   "type": "family",
+   "date": "2025-05-16"
+  },
+  {
+   "source": "brandon-lutnick",
+   "target": "cantor-fitzgerald",
+   "label": "chairman/CEO",
+   "type": "ownership",
+   "date": "2025"
+  },
+  {
+   "source": "yorkville-advisors",
+   "target": "trump-media-technology-group",
+   "label": "bought ~20M shares under $2.5B SEPA",
+   "type": "money",
+   "date": "2024",
+   "amount_usd": 450000000
+  },
+  {
+   "source": "yorkville-advisors",
+   "target": "trump-media-technology-group",
+   "label": "co-lead placement agent (Yorkville Securities)",
+   "type": "commercial",
+   "date": "2025-05"
+  },
+  {
+   "source": "clear-street",
+   "target": "trump-media-technology-group",
+   "label": "co-lead placement agent on bitcoin raise",
+   "type": "commercial",
+   "date": "2025-05"
+  },
+  {
+   "source": "btig",
+   "target": "trump-media-technology-group",
+   "label": "co-placement agent",
+   "type": "commercial",
+   "date": "2025-05"
+  },
+  {
+   "source": "cohen-and-company-capital-markets",
+   "target": "trump-media-technology-group",
+   "label": "co-placement agent",
+   "type": "commercial",
+   "date": "2025-05"
+  },
+  {
+   "source": "crypto-com",
+   "target": "trump-media-technology-group",
+   "label": "bitcoin co-custodian",
+   "type": "commercial",
+   "date": "2025-05"
+  },
+  {
+   "source": "anchorage-digital",
+   "target": "trump-media-technology-group",
+   "label": "bitcoin co-custodian",
+   "type": "commercial",
+   "date": "2025-05"
+  },
+  {
+   "source": "jane-street",
+   "target": "trump-media-technology-group",
+   "label": "acquired 6.0% via PIPE",
+   "type": "money",
+   "date": "2025-05-29"
+  },
+  {
+   "source": "drw-investments",
+   "target": "trump-media-technology-group",
+   "label": "bought ~4M shares",
+   "type": "money",
+   "date": "2025-05",
+   "amount_usd": 100000000
+  },
+  {
+   "source": "don-wilson",
+   "target": "drw-investments",
+   "label": "founder/controller",
+   "type": "ownership",
+   "date": ""
+  },
+  {
+   "source": "sec",
+   "target": "cumberland-drw",
+   "label": "dismissed case with prejudice",
+   "type": "regulatory",
+   "date": "2025-03-27"
+  },
+  {
+   "source": "sec",
+   "target": "kraken",
+   "label": "dismissed case with prejudice",
+   "type": "regulatory",
+   "date": "2025-03-27"
+  },
+  {
+   "source": "sec",
+   "target": "crypto-com",
+   "label": "closed investigation, no action",
+   "type": "regulatory",
+   "date": "2025-03-27"
+  },
+  {
+   "source": "sec",
+   "target": "yorkville-advisors",
+   "label": "fraud case dismissed with prejudice",
+   "type": "regulatory",
+   "date": "2018-10-29"
+  },
+  {
+   "source": "mark-angelo",
+   "target": "yorkville-advisors",
+   "label": "founder",
+   "type": "ownership",
+   "date": ""
+  },
+  {
+   "source": "yorkville-advisors",
+   "target": "yorkville-america-equities",
+   "label": "affiliate",
+   "type": "ownership",
+   "date": ""
+  },
+  {
+   "source": "yorkville-advisors",
+   "target": "yorkville-america-digital",
+   "label": "affiliate",
+   "type": "ownership",
+   "date": ""
+  },
+  {
+   "source": "yorkville-america-equities",
+   "target": "truth-social-etfs",
+   "label": "adviser/sponsor",
+   "type": "commercial",
+   "date": "2025-12-30"
+  },
+  {
+   "source": "tuttle-capital-management",
+   "target": "truth-social-etfs",
+   "label": "subadviser",
+   "type": "commercial",
+   "date": "2025-12-30"
+  },
+  {
+   "source": "tuttle-capital-management",
+   "target": "trump-coin",
+   "label": "filed 2x leveraged ETF",
+   "type": "commercial",
+   "date": "2025-01"
+  },
+  {
+   "source": "tuttle-capital-management",
+   "target": "melania-coin",
+   "label": "filed 2x leveraged ETF",
+   "type": "commercial",
+   "date": "2025-01"
+  },
+  {
+   "source": "yorkville-america-digital",
+   "target": "trump-media-technology-group",
+   "label": "sponsor of Truth Social crypto ETF filings",
+   "type": "commercial",
+   "date": "2025-06"
+  },
+  {
+   "source": "sec",
+   "target": "yorkville-america-digital",
+   "label": "acknowledged 19b-4 for Truth Social BTC/ETH ETF",
+   "type": "regulatory",
+   "date": "2025-07"
+  },
+  {
+   "source": "yorkville-acquisition-corp",
+   "target": "trump-media-group-cro-strategy",
+   "label": "SPAC merger partner (terminated)",
+   "type": "commercial",
+   "date": "2025-08-25"
+  },
+  {
+   "source": "crypto-com",
+   "target": "trump-media-group-cro-strategy",
+   "label": "co-founder (terminated)",
+   "type": "commercial",
+   "date": "2025-08-26"
+  },
+  {
+   "source": "kevin-mcgurn",
+   "target": "yorkville-acquisition-corp",
+   "label": "CEO and director",
+   "type": "advisory",
+   "date": "2025-03-31"
+  },
+  {
+   "source": "kevin-mcgurn",
+   "target": "new-america-acquisition-i",
+   "label": "chairman/CEO/CFO, then CEO; sponsor member (resigned Aug 5, 2026)",
+   "type": "ownership",
+   "date": "2025-07"
+  },
+  {
+   "source": "kevin-mcgurn",
+   "target": "trump-media-technology-group",
+   "label": "adviser, then interim CEO",
+   "type": "advisory",
+   "date": "2024-12"
+  },
+  {
+   "source": "kevin-mcgurn",
+   "target": "texas-ventures-acquisition-iii",
+   "label": "led as CEO (single-source); resigned as CEO effective Apr 22, 2026 (8-K, C78)",
+   "type": "advisory",
+   "date": "2026-01/2026-04-22"
+  },
+  {
+   "source": "dominari-holdings",
+   "target": "new-america-acquisition-i",
+   "label": "co-lead underwriter",
+   "type": "commercial",
+   "date": "2025-12",
+   "amount_usd": 345000000
+  },
+  {
+   "source": "d-boral-capital",
+   "target": "new-america-acquisition-i",
+   "label": "co-lead underwriter",
+   "type": "commercial",
+   "date": "2025-12"
+  },
+  {
+   "source": "kyle-wool",
+   "target": "new-america-acquisition-i",
+   "label": "chairman from Feb 6, 2026; CEO from Aug 5, 2026",
+   "type": "advisory",
+   "date": "2026-02-06"
+  },
+  {
+   "source": "kyle-wool",
+   "target": "dominari-holdings",
+   "label": "president/CEO of Dominari Securities",
+   "type": "ownership",
+   "date": "2023-03"
+  },
+  {
+   "source": "dominari-holdings",
+   "target": "american-bitcoin",
+   "label": "lead underwriter on raises",
+   "type": "commercial",
+   "date": "2025",
+   "amount_usd": 220000000
+  },
+  {
+   "source": "eric-trump",
+   "target": "dominari-holdings",
+   "label": "adviser and ~6% holder",
+   "type": "ownership",
+   "date": "2025-02"
+  },
+  {
+   "source": "donald-trump-jr",
+   "target": "dominari-holdings",
+   "label": "adviser and ~6% holder",
+   "type": "ownership",
+   "date": "2025-02"
+  },
+  {
+   "source": "donald-trump-jr",
+   "target": "new-america-acquisition-i",
+   "label": "adviser",
+   "type": "advisory",
+   "date": "2025"
+  },
+  {
+   "source": "hut-8",
+   "target": "american-bitcoin",
+   "label": "80% owner via miner contribution",
+   "type": "ownership",
+   "date": "2025-03-31"
+  },
+  {
+   "source": "agp-alliance-global-partners",
+   "target": "alt5-sigma",
+   "label": "sole placement agent, $1.5B raise",
+   "type": "commercial",
+   "date": "2025-08-11",
+   "amount_usd": 1500000000
+  },
+  {
+   "source": "world-liberty-financial",
+   "target": "alt5-sigma",
+   "label": "lead investor paid in WLFI",
+   "type": "money",
+   "date": "2025-08"
+  },
+  {
+   "source": "bitgo",
+   "target": "usd1",
+   "label": "reserve custodian and mint/burn infrastructure",
+   "type": "commercial",
+   "date": "2025-03-25"
+  },
+  {
+   "source": "craft-ventures",
+   "target": "bitgo",
+   "label": "7.8% holder at IPO filing (NYT)",
+   "type": "ownership",
+   "date": "2025-09"
+  },
+  {
+   "source": "david-sacks",
+   "target": "craft-ventures",
+   "label": "co-founder",
+   "type": "ownership",
+   "date": ""
+  },
+  {
+   "source": "occ",
+   "target": "bitgo",
+   "label": "conditionally approved national trust conversion",
+   "type": "regulatory",
+   "date": "2025-12-12"
+  },
+  {
+   "source": "occ",
+   "target": "anchorage-digital",
+   "label": "terminated 2022 AML consent order",
+   "type": "regulatory",
+   "date": "2025-08-21"
+  },
+  {
+   "source": "occ",
+   "target": "foris-dax-national-trust-bank",
+   "label": "conditional trust charter",
+   "type": "regulatory",
+   "date": "2026-02-23"
+  },
+  {
+   "source": "occ",
+   "target": "wltc-holdings",
+   "label": "preliminary conditional approval",
+   "type": "regulatory",
+   "date": "2026-08-14"
+  },
+  {
+   "source": "occ",
+   "target": "ripple",
+   "label": "conditional trust charter",
+   "type": "regulatory",
+   "date": "2025-12-12"
+  },
+  {
+   "source": "occ",
+   "target": "circle",
+   "label": "conditional trust charter",
+   "type": "regulatory",
+   "date": "2025-12-12"
+  },
+  {
+   "source": "occ",
+   "target": "paxos",
+   "label": "conditional conversion",
+   "type": "regulatory",
+   "date": "2025-12-12"
+  },
+  {
+   "source": "occ",
+   "target": "fidelity-digital-assets",
+   "label": "conditional conversion",
+   "type": "regulatory",
+   "date": "2025-12-12"
+  },
+  {
+   "source": "jonathan-gould",
+   "target": "occ",
+   "label": "Comptroller",
+   "type": "regulatory",
+   "date": "2025-07-10"
+  },
+  {
+   "source": "crypto-com",
+   "target": "foris-dax-national-trust-bank",
+   "label": "parent",
+   "type": "ownership",
+   "date": ""
+  },
+  {
+   "source": "world-liberty-financial",
+   "target": "wltc-holdings",
+   "label": "trust-bank applicant affiliate",
+   "type": "ownership",
+   "date": "2026-01"
+  },
+  {
+   "source": "cftc",
+   "target": "crypto-com",
+   "label": "amicus brief in Ninth Circuit",
+   "type": "regulatory",
+   "date": "2026-02-17"
+  },
+  {
+   "source": "mike-selig",
+   "target": "cftc",
+   "label": "chair",
+   "type": "regulatory",
+   "date": "2025-12-18"
+  },
+  {
+   "source": "tether",
+   "target": "anchorage-digital",
+   "label": "$100M equity investment",
+   "type": "money",
+   "date": "2026-02-05",
+   "amount_usd": 100000000
+  },
+  {
+   "source": "anchorage-digital",
+   "target": "usat",
+   "label": "issuer",
+   "type": "commercial",
+   "date": "2026-01-27"
+  },
+  {
+   "source": "cantor-fitzgerald",
+   "target": "usat",
+   "label": "reserve custodian",
+   "type": "commercial",
+   "date": "2026-01-27"
+  },
+  {
+   "source": "cantor-fitzgerald",
+   "target": "tether",
+   "label": "reserve custodian; ~5% convertible holder",
+   "type": "ownership",
+   "date": "2024"
+  },
+  {
+   "source": "anchorage-digital",
+   "target": "cantor-fitzgerald",
+   "label": "custodian/collateral manager for bitcoin financing",
+   "type": "commercial",
+   "date": "2025"
+  },
+  {
+   "source": "bo-hines",
+   "target": "usat",
+   "label": "CEO",
+   "type": "advisory",
+   "date": "2025-09-12"
+  },
+  {
+   "source": "dwf-labs",
+   "target": "wlfi-token",
+   "label": "bought $25M",
+   "type": "money",
+   "date": "2025-04-16",
+   "amount_usd": 25000000
+  },
+  {
+   "source": "dwf-labs",
+   "target": "usd1",
+   "label": "committed liquidity / reserves",
+   "type": "commercial",
+   "date": "2025"
+  },
+  {
+   "source": "andrei-grachev",
+   "target": "dwf-labs",
+   "label": "managing partner",
+   "type": "ownership",
+   "date": ""
+  },
+  {
+   "source": "web3port",
+   "target": "wlfi-token",
+   "label": "announced $10M purchase",
+   "type": "money",
+   "date": "2025",
+   "amount_usd": 10000000
+  },
+  {
+   "source": "aqua-1-foundation",
+   "target": "wlfi-token",
+   "label": "bought $100M; denies Web3Port ties",
+   "type": "money",
+   "date": "2025",
+   "amount_usd": 100000000
+  },
+  {
+   "source": "world-liberty-financial",
+   "target": "jump-trading",
+   "label": "sent ~250M WLFI to Jump-labelled wallets (on-chain, unconfirmed)",
+   "type": "money",
+   "date": "2025"
+  },
+  {
+   "source": "jump-trading",
+   "target": "trump-media-technology-group",
+   "label": "reported Truth API subscriber (anonymous sources)",
+   "type": "commercial",
+   "date": "2026-10"
+  },
+  {
+   "source": "kraken",
+   "target": "ballard-partners",
+   "label": "hired for lobbying",
+   "type": "political",
+   "date": "2024-12"
+  },
+  {
+   "source": "federal-reserve-bank-of-kansas-city",
+   "target": "kraken-financial",
+   "label": "approved limited master account",
+   "type": "regulatory",
+   "date": "2026-03-04"
+  },
+  {
+   "source": "kraken",
+   "target": "kraken-financial",
+   "label": "parent",
+   "type": "ownership",
+   "date": ""
+  },
+  {
+   "source": "us-congress",
+   "target": "dominari-holdings",
+   "label": "House China Select Committee information request",
+   "type": "regulatory",
+   "date": "2026-03-08"
+  },
+  {
+   "source": "donald-trump",
+   "target": "trump-media-technology-group",
+   "label": "majority shareholder",
+   "type": "ownership",
+   "date": ""
+  },
+  {
+   "source": "eric-trump",
+   "target": "world-liberty-financial",
+   "label": "co-founder",
+   "type": "family",
+   "date": ""
+  },
+  {
+   "source": "eric-trump",
+   "target": "alt5-sigma",
+   "label": "director",
+   "type": "advisory",
+   "date": "2025-08"
+  },
+  {
+   "source": "eric-trump",
+   "target": "american-bitcoin",
+   "label": "co-founder",
+   "type": "ownership",
+   "date": "2025-03-31"
+  }
+ ],
+ "leads": [
+  {
+   "title": "Clear Street's role across crypto-treasury companies and its IPO",
+   "why_connected": "Co-lead agent on TMTG's $2.44B bitcoin raise and, per the FT, one of the most active treasury-company underwriters. Its other Trump-adjacent deals and the regulatory review of its IPO have not been mapped.",
+   "entities": [
+    "clear-street",
+    "trump-media-technology-group"
+   ],
+   "source_url": "https://cointelegraph.com/news/clear-street-prepares-10b-ipo-as-crypto-treasury-boom-falters"
+  },
+  {
+   "title": "Texas Ventures Acquisition III: another McGurn SPAC with Trump Org and TMTG directors",
+   "why_connected": "Same executive as Yorkville Acquisition and New America Acquisition I. Reported directors include Trump Organization and TMTG executives. Underwriter and target are unknown.",
+   "entities": [
+    "kevin-mcgurn",
+    "texas-ventures-acquisition-iii",
+    "trump-organization",
+    "trump-media-technology-group"
+   ],
+   "source_url": "https://newstracs.com/trump-org-and-trump-media-execs-are-directors-of-texas-ventures-acquisition-iii-corp/2026/01/16/"
+  },
+  {
+   "title": "SEC disposition of the Truth Social Bitcoin and Bitcoin & Ethereum ETFs",
+   "why_connected": "Sponsored by Yorkville America Digital with Crypto.com as custodian. The 19b-4 was acknowledged in July 2025 with a final deadline around January 2026, and no decision was found.",
+   "entities": [
+    "yorkville-america-digital",
+    "crypto-com",
+    "sec",
+    "trump-media-technology-group"
+   ],
+   "source_url": "https://cointelegraph.com/news/truth-social-dual-crypto-etf-filing-acknowledged-by-sec"
+  },
+  {
+   "title": "Cantor's fee and own-book TMTG position during Lutnick's tenure",
+   "why_connected": "Cantor advised TMTG's bitcoin raise and bought TMTG stock in Q2 2025. Fee size and any ethics review are undisclosed.",
+   "entities": [
+    "cantor-fitzgerald",
+    "howard-lutnick",
+    "trump-media-technology-group"
+   ],
+   "source_url": "https://readsludge.com/2025/08/18/lutnick-family-firm-invests-in-bitcoin-and-stocks-boosted-by-trump-wh-policies/"
+  },
+  {
+   "title": "Jump Trading as WLFI market maker",
+   "why_connected": "On-chain transfers of ~250M WLFI to Jump-labelled wallets, alongside a reported TMTG Truth API subscription. No confirmation from either side.",
+   "entities": [
+    "jump-trading",
+    "world-liberty-financial",
+    "wlfi-token"
+   ],
+   "source_url": "https://www.cryptopolitan.com/world-liberty-250m-wlfi-to-jump-trading/"
+  }
+ ],
+ "audit": {
+  "checked": [
+   "Cantor Fitzgerald as financial adviser and Yorkville/Clear Street/BTIG/Cohen roles on TMTG's May 2025 raise",
+   "Kevin McGurn's and Kyle Wool's roles at New America Acquisition I",
+   "Anchorage consent-order termination date",
+   "BitGo's OCC conditional approval on Dec 12, 2025 alongside four others"
+  ],
+  "result": "corrected",
+  "changes": [
+   "McGurn sub-claim, summary, entity descriptions and NAA I relationships updated: Wool became chairman Feb 6, 2026 (8-K, so documented, not single-source); McGurn resigned as CEO/director Aug 5, 2026 and Wool became CEO (reconciled with C78).",
+   "Anchorage: OCC termination order signed Aug 18 and announced Aug 21, 2025.",
+   "Upheld: Cantor as financial adviser (company release; Nelson Mullins company counsel, Reed Smith agents' counsel); placement-agent syndicate and custodians; BitGo approval in a batch of five (Circle, Ripple, Paxos, Fidelity). Verdict and confidence unchanged.",
+   "Cross-file consistency: the kevin-mcgurn -> texas-ventures-acquisition-iii edge read 'leads SPAC' with no end date; per the 8-K recorded in C78 he resigned as CEO effective Apr 22, 2026 (the day after becoming TMTG interim CEO on Apr 21). Label, date and the SPAC's entity description updated."
+  ],
+  "new_sources": [
+   {
+    "title": "New America Acquisition I Corp. Form 8-K (leadership transition)",
+    "publisher": "SEC EDGAR",
+    "url": "https://www.sec.gov/Archives/edgar/data/0002074878/000149315226036181/form8-k.htm",
+    "date": "2026-08"
+   },
+   {
+    "title": "New America Acquisition I Corp announces leadership transition; Kyle Wool appointed Chief Executive Officer",
+    "publisher": "Finviz (company release)",
+    "url": "https://finviz.com/news/377913/new-america-acquisition-i-corp-announces-leadership-transition-kyle-wool-appointed-chief-executive-officer",
+    "date": "2026-08"
+   },
+   {
+    "title": "Trump Media Closes Bitcoin Treasury Deal",
+    "publisher": "StreetInsider (GlobeNewswire)",
+    "url": "https://www.streetinsider.com/Globe+Newswire/Trump+Media+Closes+Bitcoin+Treasury+Deal/24875453.html",
+    "date": "2025-05-30"
+   },
+   {
+    "title": "OCC terminates consent order against Anchorage Digital",
+    "publisher": "American Banker",
+    "url": "https://www.americanbanker.com/news/occ-terminates-consent-order-against-anchorage-digital",
+    "date": "2025-08-21"
+   },
+   {
+    "title": "OCC Clears Anchorage Digital After Crypto Scrutiny",
+    "publisher": "PYMNTS",
+    "url": "https://www.pymnts.com/?p=2952712",
+    "date": "2025-08"
+   },
+   {
+    "title": "OCC conditionally approves 5 crypto firms for national trust bank charters",
+    "publisher": "Axios",
+    "url": "https://www.axios.com/2025/12/12/banks-crypto-occ-charters",
+    "date": "2025-12-12"
+   }
+  ]
+ }
+}

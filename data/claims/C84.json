@@ -1,0 +1,946 @@
+{
+  "id": "C84",
+  "title": "Heritage Advisors and Sheikh Sultan bin Jassim: one Qatari fund across three stories",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "The fund's three documented roles hold up. Heritage Advisors / Sheikh Sultan bin Jassim paid EPA chief Lee Zeldin's consultancy in 2023, holds ~19.7M Newsmax shares through a disclosed SEC ownership chain (about 15% and ~$1.6B at the March 2025 listing price, both our arithmetic, against ~$50M invested), and paid $45M for a quarter of Fred Daibes's Edgewater holdings in the Menendez case. The new layers are a Daily Beast report that the Heritage-Daibes entity controls co-defendant Wael Hana's IS EG Halal site, and a single anonymous-sourced Free Beacon claim tying Sheikh Sultan to Hamad bin Jassim, reported prior owner of the Qatari Air Force One jet. No source shows coordination among the threads or any US government benefit: we found no EPA matter involving Qatar, Newsmax is suing Trump's FCC rather than benefiting from it, and Daibes's Javelin pardon bid (reportedly $1M, per NBC's unnamed sources) failed.",
+  "sub_claims": [
+    {
+      "statement": "Heritage Advisors is Sheikh Sultan bin Jassim Al Thani's vehicle, and its Newsmax stake sits in a disclosed US ownership chain (Naples Investment Holdco LLC -> Heritage Investments LP -> Heritage GP -> a trust of which he is sole beneficiary).",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED (SEC filing as relayed by filing aggregators; sec.gov itself could not be read directly). A Form 3 filed around 1 May 2025, after Newsmax's 31 March 2025 NYSE listing, shows Naples Investment Holdco LLC holding 19,737,553 Class B shares. Heritage Investments LP is Holdco's sole member, and Sheikh Sultan is sole beneficiary of the Heritage Trust at the top of the chain. ICIJ/WaPo (March 2024) reported the stake had earlier been moved into a Cayman Islands structure. Measured against Ruddy's 39.24M shares (about 30.4%), Holdco's block is roughly 15% of outstanding shares. That is our arithmetic, and it matches a Forbes-based 15% figure relayed by a low-authority ownership site. At the first-day close of $83.51 the block was worth about $1.65B, against the roughly $50M paid in 2019-20; this is also our arithmetic. The stock fell sharply afterwards, and we did not establish the current value or any sale after the 29 September 2025 lockup expiry.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1391405/0000897069-25-000688-index.html",
+        "https://quantisnow.com/insight/new-insider-naples-investment-holdco-llc-claimed-ownership-of-19737553-6013846",
+        "https://www.icij.org/inside-icij/2024/03/qatari-royal-invested-about-50-million-in-pro-trump-network-newsmax/",
+        "https://www.bloomberg.com/news/articles/2025-03-31/newsmax-founder-ruddy-ex-ny-post-journalist-is-now-billionaire",
+        "https://www.tipranks.com/news/newsmax-explodes-735-in-ipo-debut-as-trump-era-fuels-investor-frenzy",
+        "https://www.marketbeat.com/instant-alerts/newsmax-incs-nysenmax-lock-up-period-will-end-on-september-29th-2025-09-22"
+      ]
+    },
+    {
+      "statement": "The same fund was the 'Qatari Investment Company' in the Menendez case, closing a $45M deal for a quarter stake in Daibes's Edgewater properties, and the joint entity controls the base of Wael Hana's IS EG Halal.",
+      "verdict": "mostly-accurate",
+      "finding": "DOCUMENTED for the deal; the IS EG overlap is SINGLE-SOURCE. The superseding indictment (January 2024) alleges Menendez introduced Daibes to a royal principal of a Qatari investment company, which signed a letter of intent and in 2023 formed a joint venture with a Daibes company to invest tens of millions in a New Jersey project. Trial documents and press identify the fund as Heritage Advisors (NYT, Real Deal, FDD). FDD, citing property records, says Heritage finalized a $45M deal with Daibes in December 2022. The Daily Beast reports that this bought a one-quarter stake in Daibes's Edgewater properties through a joint entity, Hudson Edgewater Associates. According to the Daily Beast, that entity controls the site that serves as IS EG Halal's base of operations; IS EG Halal is co-defendant Wael Hana's company in the Egypt strand of the same case. Heritage's lawyers say Sheikh Sultan had no relationship with IS EG and did not know about the overlap until the outlet asked. Neither Sheikh Sultan nor Qatar was charged.",
+      "sources": [
+        "https://therealdeal.com/new-york/tristate/2024/01/03/updated-menendez-indictment-links-nj-developer-to-qatar",
+        "https://www.pbs.org/newshour/politics/prosecutors-say-sen-menendez-cashed-in-by-linking-qatari-royal-family-member-with-new-jersey-businessman",
+        "https://newjerseyglobe.com/congress/new-menendez-indictment-alleges-corrupt-involvement-with-qatari-government/",
+        "https://www.fdd.org/analysis/op-eds/2025/03/10/qatari-cash-may-be-coming-soon-to-a-town-near-you/",
+        "https://www.thedailybeast.com/big-qatari-payday-for-senator-bob-menendezs-pal-fred-daibes-linked-to-probe"
+      ]
+    },
+    {
+      "statement": "A former Biden aide arranged the 2021 meeting between Menendez, Sheikh Sultan and Qatari official Ali Al Thawadi.",
+      "verdict": "confirmed",
+      "finding": "SINGLE-SOURCE investigative reporting (ICIJ, July 2024), based on an email to a Menendez staffer. The aide, identified as Doyle, told ICIJ he set up one meeting as a favour to a friend, was not paid, and disclosed his role to law enforcement. OpenSecrets data cited by ICIJ show he gave Menendez $2,900 about six weeks later. The meeting was in 2021, before Trump's second term. This layer shows the fund's access-seeking was bipartisan; it is not a Trump link.",
+      "sources": [
+        "https://www.icij.org/news/2024/07/former-biden-aide-set-up-meeting-between-qatari-royal-and-us-senator-accused-of-corruption/"
+      ]
+    },
+    {
+      "statement": "Sheikh Sultan is a confidant and business partner of Hamad bin Jassim (HBJ), the former Qatari PM reported to be the prior owner of the 747-8 (P4-HBJ) that Trump accepted as Air Force One.",
+      "verdict": "unverified",
+      "finding": "SINGLE-SOURCE (Washington Free Beacon, May 2025; anonymous 'source familiar'). From flight records and social media, the Free Beacon ties the tail numbers P4-HBJ and A7-HJJ to HBJ and says P4-HBJ is the jet slated for Trump. It identifies Sheikh Sultan as an HBJ confidant and business partner. The NYT, as relayed by the Free Beacon, reported that P4-HBJ was registered with charter firm Global Jet Isle of Man, whose official would not name the current owner. This is the only source we found that joins the Heritage/Menendez thread to the jet. The Sultan-HBJ partnership is not documented in any filing we saw. C73 had only the headline.",
+      "sources": [
+        "https://freebeacon.com/national-security/owner-of-trumps-qatari-air-force-one-linked-to-bob-menendez-corruption-scandal/"
+      ]
+    },
+    {
+      "statement": "Lee Zeldin was paid by Heritage Advisors in 2023, before joining the administration, and divested his consulting firm under his ethics agreement.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED (OGE 278e; Jewish Insider; The Intercept). Heritage Advisors (London) is listed as a client of Zeldin Strategies, with compensation above $5,000 for April-December 2023. Zeldin said the work required no FARA registration and that he never lobbied or did media work for the firm. E&E News reports he drew $775,000 in salary from Zeldin Strategies overall. His 2025 ethics agreement commits him to divest the firm and to recuse from EPA matters involving his wife Diana Zeldin's clients, since she works there; this is per search excerpts, as OGE PDFs could not be read directly. Whether Heritage stayed a client after his confirmation is not established. His 2026 annual 278e (signed 13 May 2026) exists, but we could not read its entries. Per Quincy, the Heritage engagement began shortly after a 2023 Newsweek op-ed in which Zeldin criticised Qatari influence.",
+      "sources": [
+        "https://jewishinsider.com/2025/02/lee-zeldin-epa-administrator-qatar-financial-disclosures/",
+        "https://theintercept.com/2025/02/11/trump-qatar-ethics-patel-zeldin-bondi/",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/B4586F4FD7718EA485258C0F00336FAE/%24FILE/Zeldin%2C Lee  final278.pdf",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/D3877B196637270685258C0F0033721F/$FILE/Zeldin%2C%20Lee%20%20finalEA.pdf",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/A9F88F6167796EF985258E04002DDA12/$FILE/Lee-Zeldin-2026-278ANNU.pdf",
+        "https://eenews.net/articles/zeldin-raked-in-consulting-and-op-ed-fees-and-won-big-at-casinos",
+        "https://quincyinst.org/research/soft-power-hard-influence-how-qatar-became-a-giant-in-washington/"
+      ]
+    },
+    {
+      "statement": "Any EPA matter involving Qatari interests during Zeldin's tenure.",
+      "verdict": "unverified",
+      "finding": "NOT FOUND. Searches of Qatari state media (QNA, The Peninsula) and US coverage turned up no Zeldin trip to Qatar, no meeting with Qatar's environment ministry, no LNG-related EPA action naming Qatar, and no Zeldin role in the May 2025 Doha visit. No source alleges any EPA action benefiting Heritage or Qatar.",
+      "sources": [
+        "https://jewishinsider.com/2025/02/lee-zeldin-epa-administrator-qatar-financial-disclosures/"
+      ]
+    },
+    {
+      "statement": "Newsmax's dealings with the administration: favourable treatment?",
+      "verdict": "misleading",
+      "finding": "DOCUMENTED, and it cuts against a capture narrative. (a) FCC: in March 2026 Newsmax joined DirecTV, cable groups and public-interest groups in suing to block the FCC Media Bureau's 19 March 2026 approval of the Nexstar-Tegna merger. The challengers cited Trump's February Truth Social endorsement and Chair Carr's support. In July 2026 the D.C. Circuit dismissed the challenge for lack of jurisdiction over a bureau-level order, not on the merits. (b) Pentagon: Newsmax got Pentagon workspace in Hegseth's February 2025 rotation, but in October 2025 it refused his new press rules and turned in its badges, and in December 2025 it was among outlets denied briefing access. (c) The defamation settlements were private: Smartmatic $40M (Axios, March 2025) and Dominion $67M (AP, August 2025). Neither involved the government. (d) Commercial: Trump Media's Truth+ carries Newsmax (C21). The documented relationship is commercial carriage plus Ruddy's personal closeness to Trump. We found no FCC or other federal benefit to Newsmax.",
+      "sources": [
+        "https://www.tvtechnology.com/regulatory-legal/newsmax-pay-tv-groups-sue-fcc-to-block-nexstar-tegna-merger",
+        "https://barrettmedia.com/2026/03/22/newsmax-joins-directv-challenge-of-nexstar-media-group-merger-with-tegna/",
+        "https://thedesk.net/2026/07/appeals-court-tosses-challenge-to-fccs-approval-of-nexstar-tegna-deal/",
+        "https://www.foxcarolina.com/2025/10/16/journalists-turn-access-badges-exit-pentagon-rather-than-agree-new-reporting-rules/",
+        "https://www.click2houston.com/news/politics/2025/12/01/outlets-that-reach-millions-denied-access-to-rare-pentagon-news-briefings-this-week/",
+        "https://www.axios.com/2025/03/14/newsmax-smartmatic-defamation-lawsuit-40-million-settle",
+        "https://m.washingtontimes.com/news/2025/aug/18/newsmax-agrees-pay-67m-settlement-defamation-case-2020-election/",
+        "https://www.thestar.com.my/tech/tech-news/2025/07/07/trump-media-launches-tv-streaming-platform-with-newsmax-channel-globally"
+      ]
+    },
+    {
+      "statement": "Heritage Advisors' other investments: Fort Partners (Miami), The News Movement, Indy Eleven.",
+      "verdict": "mostly-accurate",
+      "finding": "Fort Partners is DOCUMENTED: Sidley Austin announced on 29 June 2023 that it advised Heritage Advisors, 'led by HE Sheikh Sultan bin Jassim Al Thani', on an add-on investment in the privately held Miami real-estate firm; no amount was given. The News Movement is SINGLE-SOURCE (ICIJ, March 2024): Heritage invested in it, a Gen Z news startup co-founded by Will Lewis, who became Washington Post publisher in January 2024. Newsmax's spokesman pointed to this when the Post reported the Newsmax stake. Indy Eleven is SINGLE-SOURCE plus a database entry: ICIJ cites a 'professional soccer team in Indiana', and PitchBook lists Heritage Advisors (UK) as a minority investor in Indy Eleven. Club announcements name a different 'Heritage' (Jeff Laborsky's Heritage Group), so this needs checking. ICIJ also lists a Miami developer, consistent with Fort Partners. We found no Heritage investment with a Trump-family business.",
+      "sources": [
+        "https://www.sidley.com/en/newslanding/newsannouncements/2023/06/sidley-represents-heritage-advisors-in-investment-in-fort-partners",
+        "https://www.icij.org/inside-icij/2024/03/qatari-royal-invested-about-50-million-in-pro-trump-network-newsmax/",
+        "https://www.thewrap.com/newsmax-50-million-qatari-royal-investment",
+        "https://www.thenationalnews.com/opinion/uk/2023/11/07/will-lewis-turns-back-on-telegraph-takeover-for-lure-of-american-news",
+        "https://pitchbook.com/profiles/company/363789-19"
+      ]
+    },
+    {
+      "statement": "Daibes paid Javelin Advisors (Keith Schiller) $1M for a pardon bid, and Menendez himself sought a Trump pardon; neither got clemency.",
+      "verdict": "mostly-accurate",
+      "finding": "DOCUMENTED for the engagement (LDA filings listing 'executive relief', reported by NBC and NOTUS); the $1M amount is SINGLE-SOURCE (NBC, citing three unnamed sources; audit re-search found no independent confirmation, consistent with C83). Daibes reportedly paid $1M in Q1 2025 to Schiller and Javelin for 'executive relief' from his seven-year sentence (sentenced January 2025). His lawyer said the engagement ended in June 2025. Menendez lobbied publicly for a Trump pardon before reporting to prison in June 2025. NYT (January 2026, via New Jersey Globe) reported Trump was not considering it. We found no clemency for Menendez, Daibes or Hana through November 2026. No source says Heritage or Sheikh Sultan had any role in Daibes's pardon effort.",
+      "sources": [
+        "https://www.nbcnews.com/politics/politics-news/new-jersey-businessman-paid-1m-lobbying-firm-try-get-pardon-trump-rcna239278",
+        "https://www.nbcnewyork.com/news/local/crime-and-courts/fred-daibes-hired-lobbying-firm-clemency-trump/6408580/?amp=1",
+        "https://www.nbcnews.com/politics/congress/former-democratic-sen-bob-menendez-still-pushing-trump-pardon-reportin-rcna209982",
+        "https://newjerseyglobe.com/congress/trump-isnt-considering-pardon-of-menendez-nyt-report/"
+      ]
+    },
+    {
+      "statement": "Any source connecting the Zeldin, Newsmax and Menendez/Javelin threads to each other.",
+      "verdict": "unverified",
+      "finding": "PARTLY. Accountable.US and FDD/Courage.Media place Zeldin's client and the Menendez-case fund side by side as the same entity, which is a documented identity. The Free Beacon alone adds the HBJ/jet layer. No outlet alleges that Heritage's payment to Zeldin, its Newsmax stake, or its Daibes deal were coordinated, or that any of them produced a US government action. The three-story chain remains our cross-referencing.",
+      "sources": [
+        "https://www.fdd.org/analysis/op-eds/2025/03/10/qatari-cash-may-be-coming-soon-to-a-town-near-you/",
+        "https://freebeacon.com/national-security/owner-of-trumps-qatari-air-force-one-linked-to-bob-menendez-corruption-scandal/",
+        "https://jewishinsider.com/2025/02/lee-zeldin-epa-administrator-qatar-financial-disclosures/"
+      ]
+    }
+  ],
+  "corrections": [
+    "C73 gives the Newsmax stake only as the ~$50M invested in 2019-20. SEC filings show 19,737,553 Class B shares, about 15% (our arithmetic), worth roughly $1.65B at the first-day close.",
+    "The claim's phrase 'Newsmax's dealings with the administration' implies favourable treatment. The documented record shows Newsmax opposing the FCC's Nexstar-Tegna approval and leaving the Pentagon under Hegseth's rules; its defamation settlements were private disputes.",
+    "Heritage's deal with Daibes was finalized in December 2022 for $45M for a quarter stake (FDD, Daily Beast). The indictment's 2023 joint-venture language refers to the same relationship.",
+    "C73 could not read the Free Beacon jet article. Its claim is that Sheikh Sultan is an HBJ confidant and business partner, from an anonymous source; it does not say Heritage owns the jet.",
+    "Audit: the Daibes '$1M' was graded documented here but single-source in C83; it rests on NBC's three unnamed sources (the LDA filings document the engagement). Sub-claim 9 is now mostly-accurate and labels say so."
+  ],
+  "denials_and_context": [
+    "Heritage says it operates independently of any government, invests only for value, and has no editorial or management control over media holdings. Its lawyers say Sheikh Sultan bought the Newsmax stake for profit and not on behalf of Qatar.",
+    "Heritage's lawyers say Sheikh Sultan had no relationship with IS EG Halal and did not know of the property overlap.",
+    "Neither Sheikh Sultan nor Qatar was charged in the Menendez case. Doyle says he was unpaid and cooperated with law enforcement.",
+    "Newsmax denied softening its coverage of Qatar.",
+    "Zeldin's spokesperson declined to comment. A Senate Republican aide said he disclosed all that was required. Zeldin says the work required no FARA registration and involved no lobbying.",
+    "Daibes's lawyer says he ended the Javelin engagement in June 2025. The White House said the President alone decides pardons.",
+    "Source note: icij.org, sec.gov and oge.gov could not be read directly; findings rest on search-result text across several outlets."
+  ],
+  "sources": [
+    {
+      "title": "Sidley represents Heritage Advisors in investment in Fort Partners",
+      "publisher": "Sidley Austin",
+      "url": "https://www.sidley.com/en/newslanding/newsannouncements/2023/06/sidley-represents-heritage-advisors-in-investment-in-fort-partners",
+      "date": "2023-06-29"
+    },
+    {
+      "title": "Qatari royal invested about $50 million in pro-Trump network Newsmax",
+      "publisher": "ICIJ / Washington Post",
+      "url": "https://www.icij.org/inside-icij/2024/03/qatari-royal-invested-about-50-million-in-pro-trump-network-newsmax/",
+      "date": "2024-03-27"
+    },
+    {
+      "title": "Newsmax $50 million Qatari royal investment",
+      "publisher": "TheWrap",
+      "url": "https://www.thewrap.com/newsmax-50-million-qatari-royal-investment",
+      "date": "2024-03"
+    },
+    {
+      "title": "Newsmax leaders urged staff to 'soften' coverage of Qatar",
+      "publisher": "Mediaite",
+      "url": "https://www.mediaite.com/media/news/newsmax-leaders-urged-staff-to-soften-coverage-of-qatar-after-gulf-royal-invested-50-million-in-network-report/",
+      "date": "2024-03"
+    },
+    {
+      "title": "Former Biden aide set up meeting between Qatari royal and US senator accused of corruption",
+      "publisher": "ICIJ",
+      "url": "https://www.icij.org/news/2024/07/former-biden-aide-set-up-meeting-between-qatari-royal-and-us-senator-accused-of-corruption/",
+      "date": "2024-07"
+    },
+    {
+      "title": "Big Qatari payday for Senator Bob Menendez's pal Fred Daibes linked to probe",
+      "publisher": "The Daily Beast",
+      "url": "https://www.thedailybeast.com/big-qatari-payday-for-senator-bob-menendezs-pal-fred-daibes-linked-to-probe",
+      "date": ""
+    },
+    {
+      "title": "Qatari cash may be coming soon to a town near you",
+      "publisher": "FDD (Courage.Media)",
+      "url": "https://www.fdd.org/analysis/op-eds/2025/03/10/qatari-cash-may-be-coming-soon-to-a-town-near-you/",
+      "date": "2025-03-10"
+    },
+    {
+      "title": "Updated Menendez indictment links NJ developer to Qatar",
+      "publisher": "The Real Deal",
+      "url": "https://therealdeal.com/new-york/tristate/2024/01/03/updated-menendez-indictment-links-nj-developer-to-qatar",
+      "date": "2024-01-03"
+    },
+    {
+      "title": "Prosecutors say Sen. Menendez cashed in by linking Qatari royal family member with NJ businessman",
+      "publisher": "PBS NewsHour (AP)",
+      "url": "https://www.pbs.org/newshour/politics/prosecutors-say-sen-menendez-cashed-in-by-linking-qatari-royal-family-member-with-new-jersey-businessman",
+      "date": "2024-01"
+    },
+    {
+      "title": "New Menendez indictment alleges corrupt involvement with Qatari government",
+      "publisher": "New Jersey Globe",
+      "url": "https://newjerseyglobe.com/congress/new-menendez-indictment-alleges-corrupt-involvement-with-qatari-government/",
+      "date": "2024-01-02"
+    },
+    {
+      "title": "Owner of Trump's Qatari Air Force One linked to Bob Menendez corruption scandal",
+      "publisher": "Washington Free Beacon",
+      "url": "https://freebeacon.com/national-security/owner-of-trumps-qatari-air-force-one-linked-to-bob-menendez-corruption-scandal/",
+      "date": "2025-05"
+    },
+    {
+      "title": "Form 3, Naples Investment Holdco LLC (Newsmax)",
+      "publisher": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/1391405/0000897069-25-000688-index.html",
+      "date": "2025-05"
+    },
+    {
+      "title": "Naples Investment Holdco claimed ownership of 19,737,553 units",
+      "publisher": "Quantisnow",
+      "url": "https://quantisnow.com/insight/new-insider-naples-investment-holdco-llc-claimed-ownership-of-19737553-6013846",
+      "date": "2025-05"
+    },
+    {
+      "title": "Newsmax founder Ruddy is now a billionaire",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-03-31/newsmax-founder-ruddy-ex-ny-post-journalist-is-now-billionaire",
+      "date": "2025-03-31"
+    },
+    {
+      "title": "Newsmax explodes 735% in IPO debut",
+      "publisher": "TipRanks",
+      "url": "https://www.tipranks.com/news/newsmax-explodes-735-in-ipo-debut-as-trump-era-fuels-investor-frenzy",
+      "date": "2025-03-31"
+    },
+    {
+      "title": "Newsmax lock-up period will end on September 29th",
+      "publisher": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/newsmax-incs-nysenmax-lock-up-period-will-end-on-september-29th-2025-09-22",
+      "date": "2025-09-22"
+    },
+    {
+      "title": "Indy Eleven overview",
+      "publisher": "PitchBook",
+      "url": "https://pitchbook.com/profiles/company/363789-19",
+      "date": ""
+    },
+    {
+      "title": "Will Lewis turns back on Telegraph takeover for lure of American news",
+      "publisher": "The National",
+      "url": "https://www.thenationalnews.com/opinion/uk/2023/11/07/will-lewis-turns-back-on-telegraph-takeover-for-lure-of-american-news",
+      "date": "2023-11-07"
+    },
+    {
+      "title": "Lee Zeldin reveals Qatar ties in financial disclosures",
+      "publisher": "Jewish Insider",
+      "url": "https://jewishinsider.com/2025/02/lee-zeldin-epa-administrator-qatar-financial-disclosures/",
+      "date": "2025-02"
+    },
+    {
+      "title": "Trump nominees' Qatar ties (Patel, Zeldin, Bondi)",
+      "publisher": "The Intercept",
+      "url": "https://theintercept.com/2025/02/11/trump-qatar-ethics-patel-zeldin-bondi/",
+      "date": "2025-02-11"
+    },
+    {
+      "title": "Lee Zeldin OGE 278e nominee report",
+      "publisher": "OGE",
+      "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/B4586F4FD7718EA485258C0F00336FAE/%24FILE/Zeldin%2C Lee  final278.pdf",
+      "date": "2025-01"
+    },
+    {
+      "title": "Lee Zeldin ethics agreement",
+      "publisher": "OGE",
+      "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/D3877B196637270685258C0F0033721F/$FILE/Zeldin%2C%20Lee%20%20finalEA.pdf",
+      "date": "2025-01"
+    },
+    {
+      "title": "Lee Zeldin 2026 annual OGE 278e",
+      "publisher": "OGE",
+      "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/A9F88F6167796EF985258E04002DDA12/$FILE/Lee-Zeldin-2026-278ANNU.pdf",
+      "date": "2026-05-22"
+    },
+    {
+      "title": "Zeldin raked in consulting and op-ed fees",
+      "publisher": "E&E News",
+      "url": "https://eenews.net/articles/zeldin-raked-in-consulting-and-op-ed-fees-and-won-big-at-casinos",
+      "date": "2025-01"
+    },
+    {
+      "title": "Soft power, hard influence: how Qatar became a giant in Washington",
+      "publisher": "Quincy Institute",
+      "url": "https://quincyinst.org/research/soft-power-hard-influence-how-qatar-became-a-giant-in-washington/",
+      "date": "2025-09"
+    },
+    {
+      "title": "New Jersey businessman paid $1M to a lobbying firm to try to get a pardon from Trump",
+      "publisher": "NBC News",
+      "url": "https://www.nbcnews.com/politics/politics-news/new-jersey-businessman-paid-1m-lobbying-firm-try-get-pardon-trump-rcna239278",
+      "date": "2025-10"
+    },
+    {
+      "title": "Fred Daibes hired lobbying firm for clemency",
+      "publisher": "NBC New York",
+      "url": "https://www.nbcnewyork.com/news/local/crime-and-courts/fred-daibes-hired-lobbying-firm-clemency-trump/6408580/?amp=1",
+      "date": "2025-10"
+    },
+    {
+      "title": "Former Sen. Bob Menendez still pushing for Trump pardon",
+      "publisher": "NBC News",
+      "url": "https://www.nbcnews.com/politics/congress/former-democratic-sen-bob-menendez-still-pushing-trump-pardon-reportin-rcna209982",
+      "date": "2025-06"
+    },
+    {
+      "title": "Trump isn't considering pardon of Menendez: NYT report",
+      "publisher": "New Jersey Globe",
+      "url": "https://newjerseyglobe.com/congress/trump-isnt-considering-pardon-of-menendez-nyt-report/",
+      "date": "2026-01"
+    },
+    {
+      "title": "Newsmax, pay TV groups sue FCC to block Nexstar/Tegna merger",
+      "publisher": "TV Tech",
+      "url": "https://www.tvtechnology.com/regulatory-legal/newsmax-pay-tv-groups-sue-fcc-to-block-nexstar-tegna-merger",
+      "date": "2026-03"
+    },
+    {
+      "title": "Newsmax joins DirecTV challenge of Nexstar-Tegna merger",
+      "publisher": "Barrett Media",
+      "url": "https://barrettmedia.com/2026/03/22/newsmax-joins-directv-challenge-of-nexstar-media-group-merger-with-tegna/",
+      "date": "2026-03-22"
+    },
+    {
+      "title": "Appeals court tosses challenge to FCC's approval of Nexstar-Tegna deal",
+      "publisher": "The Desk",
+      "url": "https://thedesk.net/2026/07/appeals-court-tosses-challenge-to-fccs-approval-of-nexstar-tegna-deal/",
+      "date": "2026-07"
+    },
+    {
+      "title": "Fox News, Newsmax among journalists to turn in access badges",
+      "publisher": "Fox Carolina (AP)",
+      "url": "https://www.foxcarolina.com/2025/10/16/journalists-turn-access-badges-exit-pentagon-rather-than-agree-new-reporting-rules/",
+      "date": "2025-10-16"
+    },
+    {
+      "title": "Outlets that reach millions denied access to rare Pentagon news briefings",
+      "publisher": "Click2Houston (AP)",
+      "url": "https://www.click2houston.com/news/politics/2025/12/01/outlets-that-reach-millions-denied-access-to-rare-pentagon-news-briefings-this-week/",
+      "date": "2025-12-01"
+    },
+    {
+      "title": "Newsmax to pay Smartmatic $40M to settle defamation suit",
+      "publisher": "Axios",
+      "url": "https://www.axios.com/2025/03/14/newsmax-smartmatic-defamation-lawsuit-40-million-settle",
+      "date": "2025-03-14"
+    },
+    {
+      "title": "Newsmax agrees to pay $67M to settle defamation case",
+      "publisher": "Washington Times (AP)",
+      "url": "https://m.washingtontimes.com/news/2025/aug/18/newsmax-agrees-pay-67m-settlement-defamation-case-2020-election/",
+      "date": "2025-08-18"
+    },
+    {
+      "title": "Trump Media launches TV streaming platform with Newsmax channel",
+      "publisher": "The Star (Reuters)",
+      "url": "https://www.thestar.com.my/tech/tech-news/2025/07/07/trump-media-launches-tv-streaming-platform-with-newsmax-channel-globally",
+      "date": "2025-07-07"
+    }
+  ],
+  "entities": [
+    {
+      "id": "heritage-advisors",
+      "name": "Heritage Advisors",
+      "type": "fund",
+      "description": "London venture/investment firm of Sheikh Sultan bin Jassim Al Thani"
+    },
+    {
+      "id": "sultan-bin-jassim-al-thani",
+      "name": "Sheikh Sultan bin Jassim Al Thani",
+      "type": "person",
+      "description": "Qatari royal, ex-government official; Newsmax ~15% holder; Menendez-case investor"
+    },
+    {
+      "id": "naples-investment-holdco",
+      "name": "Naples Investment Holdco LLC",
+      "type": "company",
+      "description": "Holds 19.74M Newsmax Class B shares for Heritage"
+    },
+    {
+      "id": "heritage-investments-lp",
+      "name": "Heritage Investments LP",
+      "type": "fund",
+      "description": "Sole member of Naples Investment Holdco"
+    },
+    {
+      "id": "newsmax",
+      "name": "Newsmax",
+      "type": "media",
+      "description": "Pro-Trump network; NYSE-listed March 2025"
+    },
+    {
+      "id": "christopher-ruddy",
+      "name": "Christopher Ruddy",
+      "type": "person",
+      "description": "Newsmax founder/CEO, ~30% holder, Trump friend"
+    },
+    {
+      "id": "lee-zeldin",
+      "name": "Lee Zeldin",
+      "type": "person",
+      "description": "EPA Administrator; Heritage Advisors consulting client in 2023"
+    },
+    {
+      "id": "zeldin-strategies",
+      "name": "Zeldin Strategies",
+      "type": "company",
+      "description": "Zeldin's consulting firm; divested under ethics agreement"
+    },
+    {
+      "id": "epa",
+      "name": "Environmental Protection Agency",
+      "type": "government",
+      "description": "US EPA"
+    },
+    {
+      "id": "fred-daibes",
+      "name": "Fred Daibes",
+      "type": "person",
+      "description": "NJ developer; Menendez co-defendant; paid Javelin $1M"
+    },
+    {
+      "id": "hudson-edgewater-associates",
+      "name": "Hudson Edgewater Associates",
+      "type": "company",
+      "description": "Heritage-Daibes joint entity in Edgewater, NJ (Daily Beast)"
+    },
+    {
+      "id": "wael-hana",
+      "name": "Wael Hana",
+      "type": "person",
+      "description": "Menendez co-defendant; IS EG Halal owner"
+    },
+    {
+      "id": "is-eg-halal",
+      "name": "IS EG Halal",
+      "type": "company",
+      "description": "Hana's halal-certification monopoly firm for Egypt exports"
+    },
+    {
+      "id": "bob-menendez",
+      "name": "Bob Menendez",
+      "type": "person",
+      "description": "Ex-senator serving 11 years for bribery incl. Qatar scheme"
+    },
+    {
+      "id": "ali-al-thawadi",
+      "name": "Ali Al Thawadi",
+      "type": "person",
+      "description": "Qatari official at 2021 Menendez-Sultan meeting (ICIJ)"
+    },
+    {
+      "id": "doyle-former-biden-aide",
+      "name": "Doyle (former Biden aide)",
+      "type": "person",
+      "description": "Arranged the 2021 Menendez-Sultan meeting per ICIJ; first name not confirmed here"
+    },
+    {
+      "id": "javelin-advisors",
+      "name": "Javelin Advisors",
+      "type": "company",
+      "description": "Keith Schiller/George Sorial firm; pardon and Pakistan work"
+    },
+    {
+      "id": "keith-schiller",
+      "name": "Keith Schiller",
+      "type": "person",
+      "description": "Trump's former bodyguard; Javelin principal"
+    },
+    {
+      "id": "hamad-bin-jassim",
+      "name": "Hamad bin Jassim Al Thani",
+      "type": "person",
+      "description": "Ex-Qatari PM; reported prior owner of P4-HBJ"
+    },
+    {
+      "id": "qatar-jet",
+      "name": "Qatari Boeing 747-8",
+      "type": "asset",
+      "description": "Accepted 2025-05-21 for Air Force One use"
+    },
+    {
+      "id": "global-jet-isle-of-man",
+      "name": "Global Jet Isle of Man",
+      "type": "company",
+      "description": "Charter firm with which P4-HBJ was registered (NYT via Free Beacon)"
+    },
+    {
+      "id": "fort-partners",
+      "name": "Fort Partners",
+      "type": "company",
+      "description": "Miami real-estate firm; Heritage add-on investment 2023"
+    },
+    {
+      "id": "the-news-movement",
+      "name": "The News Movement",
+      "type": "media",
+      "description": "Gen Z news startup co-founded by Will Lewis"
+    },
+    {
+      "id": "will-lewis",
+      "name": "Will Lewis",
+      "type": "person",
+      "description": "Washington Post publisher from Jan 2024; News Movement co-founder"
+    },
+    {
+      "id": "washington-post",
+      "name": "Washington Post",
+      "type": "media",
+      "description": "Reported the Newsmax stake with ICIJ (March 2024)"
+    },
+    {
+      "id": "indy-eleven",
+      "name": "Indy Eleven",
+      "type": "company",
+      "description": "Indianapolis soccer club; PitchBook lists Heritage Advisors (UK) as investor"
+    },
+    {
+      "id": "fcc",
+      "name": "Federal Communications Commission",
+      "type": "government",
+      "description": "US broadcast regulator"
+    },
+    {
+      "id": "nexstar-tegna-merger",
+      "name": "Nexstar-Tegna merger",
+      "type": "event",
+      "description": "Approved by FCC Media Bureau 2026-03-19; Newsmax challenged it"
+    },
+    {
+      "id": "pentagon",
+      "name": "Pentagon",
+      "type": "government",
+      "description": "US Department of Defense"
+    },
+    {
+      "id": "dominion-voting-systems",
+      "name": "Dominion Voting Systems",
+      "type": "company",
+      "description": "Settled with Newsmax for $67M (2025)"
+    },
+    {
+      "id": "smartmatic",
+      "name": "Smartmatic",
+      "type": "company",
+      "description": "Settled with Newsmax for $40M"
+    },
+    {
+      "id": "truth-plus",
+      "name": "Truth+",
+      "type": "product",
+      "description": "Trump Media streaming service carrying Newsmax"
+    },
+    {
+      "id": "trump-media-technology-group",
+      "name": "Trump Media & Technology Group",
+      "type": "company",
+      "description": "Operator of Truth Social/Truth+"
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "US President"
+    },
+    {
+      "id": "qatar",
+      "name": "Qatar",
+      "type": "country",
+      "description": "Gulf state"
+    },
+    {
+      "id": "washington-free-beacon",
+      "name": "Washington Free Beacon",
+      "type": "media",
+      "description": "Reported Sultan-HBJ link and jet ownership"
+    },
+    {
+      "id": "icij",
+      "name": "International Consortium of Investigative Journalists",
+      "type": "media",
+      "description": "Co-reported the Newsmax stake; reported the Doyle meeting"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "sultan-bin-jassim-al-thani",
+      "target": "heritage-advisors",
+      "label": "founded and leads",
+      "type": "ownership",
+      "date": "2019"
+    },
+    {
+      "source": "sultan-bin-jassim-al-thani",
+      "target": "heritage-investments-lp",
+      "label": "sole beneficiary of trust atop",
+      "type": "ownership",
+      "date": "2025-05"
+    },
+    {
+      "source": "heritage-investments-lp",
+      "target": "naples-investment-holdco",
+      "label": "sole member of",
+      "type": "ownership",
+      "date": "2025-05"
+    },
+    {
+      "source": "naples-investment-holdco",
+      "target": "newsmax",
+      "label": "holds 19,737,553 Class B shares (~15%, our arithmetic) of",
+      "type": "ownership",
+      "date": "2025-05"
+    },
+    {
+      "source": "heritage-advisors",
+      "target": "newsmax",
+      "label": "invested ~$50M in",
+      "type": "money",
+      "date": "2019-2020",
+      "amount_usd": 50000000
+    },
+    {
+      "source": "christopher-ruddy",
+      "target": "newsmax",
+      "label": "founder; ~30% holder of",
+      "type": "ownership",
+      "date": "2025-03"
+    },
+    {
+      "source": "heritage-advisors",
+      "target": "zeldin-strategies",
+      "label": "paid consulting fees (>$5K) to",
+      "type": "money",
+      "date": "2023-04"
+    },
+    {
+      "source": "lee-zeldin",
+      "target": "zeldin-strategies",
+      "label": "owned (divested on confirmation)",
+      "type": "ownership",
+      "date": "2025"
+    },
+    {
+      "source": "lee-zeldin",
+      "target": "epa",
+      "label": "Administrator of",
+      "type": "political",
+      "date": "2025-01"
+    },
+    {
+      "source": "heritage-advisors",
+      "target": "hudson-edgewater-associates",
+      "label": "$45M for 25% stake via",
+      "type": "money",
+      "date": "2022-12",
+      "amount_usd": 45000000
+    },
+    {
+      "source": "fred-daibes",
+      "target": "hudson-edgewater-associates",
+      "label": "partner in",
+      "type": "ownership",
+      "date": "2022-12"
+    },
+    {
+      "source": "hudson-edgewater-associates",
+      "target": "is-eg-halal",
+      "label": "controls site of (Daily Beast)",
+      "type": "commercial",
+      "date": "2023"
+    },
+    {
+      "source": "wael-hana",
+      "target": "is-eg-halal",
+      "label": "owns",
+      "type": "ownership",
+      "date": "2019"
+    },
+    {
+      "source": "bob-menendez",
+      "target": "heritage-advisors",
+      "label": "introduced Daibes to principal of (alleged)",
+      "type": "legal",
+      "date": "2021"
+    },
+    {
+      "source": "doyle-former-biden-aide",
+      "target": "bob-menendez",
+      "label": "arranged meeting with Sultan for",
+      "type": "political",
+      "date": "2021"
+    },
+    {
+      "source": "ali-al-thawadi",
+      "target": "bob-menendez",
+      "label": "attended 2021 meeting with",
+      "type": "political",
+      "date": "2021"
+    },
+    {
+      "source": "fred-daibes",
+      "target": "javelin-advisors",
+      "label": "paid reportedly $1M for pardon bid (NBC, unnamed sources)",
+      "type": "money",
+      "date": "2025-Q1",
+      "amount_usd": 1000000
+    },
+    {
+      "source": "keith-schiller",
+      "target": "javelin-advisors",
+      "label": "principal of",
+      "type": "ownership",
+      "date": "2025"
+    },
+    {
+      "source": "javelin-advisors",
+      "target": "donald-trump",
+      "label": "sought clemency from (unsuccessful)",
+      "type": "political",
+      "date": "2025"
+    },
+    {
+      "source": "bob-menendez",
+      "target": "donald-trump",
+      "label": "sought pardon from (not granted)",
+      "type": "political",
+      "date": "2025"
+    },
+    {
+      "source": "sultan-bin-jassim-al-thani",
+      "target": "hamad-bin-jassim",
+      "label": "confidant and business partner of (single-source)",
+      "type": "commercial",
+      "date": "2025-05"
+    },
+    {
+      "source": "hamad-bin-jassim",
+      "target": "qatar-jet",
+      "label": "reported prior owner of (P4-HBJ; current legal ownership undisclosed)",
+      "type": "ownership",
+      "date": "2025-05"
+    },
+    {
+      "source": "global-jet-isle-of-man",
+      "target": "qatar-jet",
+      "label": "registered operator of",
+      "type": "commercial",
+      "date": "2025-05"
+    },
+    {
+      "source": "qatar-jet",
+      "target": "donald-trump",
+      "label": "accepted for Air Force One use by",
+      "type": "political",
+      "date": "2025-05-21"
+    },
+    {
+      "source": "heritage-advisors",
+      "target": "fort-partners",
+      "label": "add-on investment in",
+      "type": "money",
+      "date": "2023-06"
+    },
+    {
+      "source": "heritage-advisors",
+      "target": "the-news-movement",
+      "label": "investor in",
+      "type": "money",
+      "date": ""
+    },
+    {
+      "source": "will-lewis",
+      "target": "the-news-movement",
+      "label": "co-founded",
+      "type": "ownership",
+      "date": "2020"
+    },
+    {
+      "source": "will-lewis",
+      "target": "washington-post",
+      "label": "publisher of",
+      "type": "media",
+      "date": "2024-01"
+    },
+    {
+      "source": "heritage-advisors",
+      "target": "indy-eleven",
+      "label": "minority investor in (PitchBook)",
+      "type": "money",
+      "date": ""
+    },
+    {
+      "source": "newsmax",
+      "target": "nexstar-tegna-merger",
+      "label": "sued to block FCC approval of",
+      "type": "legal",
+      "date": "2026-03"
+    },
+    {
+      "source": "fcc",
+      "target": "nexstar-tegna-merger",
+      "label": "approved (Media Bureau)",
+      "type": "regulatory",
+      "date": "2026-03-19"
+    },
+    {
+      "source": "donald-trump",
+      "target": "nexstar-tegna-merger",
+      "label": "endorsed on Truth Social",
+      "type": "political",
+      "date": "2026-02"
+    },
+    {
+      "source": "newsmax",
+      "target": "pentagon",
+      "label": "refused press rules; surrendered badges",
+      "type": "media",
+      "date": "2025-10"
+    },
+    {
+      "source": "newsmax",
+      "target": "dominion-voting-systems",
+      "label": "paid $67M settlement to",
+      "type": "legal",
+      "date": "2025-08",
+      "amount_usd": 67000000
+    },
+    {
+      "source": "newsmax",
+      "target": "smartmatic",
+      "label": "paid $40M settlement to",
+      "type": "legal",
+      "date": "2025",
+      "amount_usd": 40000000
+    },
+    {
+      "source": "truth-plus",
+      "target": "newsmax",
+      "label": "carries channel of",
+      "type": "commercial",
+      "date": "2025-07"
+    },
+    {
+      "source": "trump-media-technology-group",
+      "target": "truth-plus",
+      "label": "operates",
+      "type": "ownership",
+      "date": "2025"
+    },
+    {
+      "source": "sultan-bin-jassim-al-thani",
+      "target": "qatar",
+      "label": "member of royal family; ex-official of",
+      "type": "family",
+      "date": ""
+    }
+  ],
+  "leads": [
+    {
+      "title": "Hamad bin Jassim / Sheikh Sultan business partnership and the P4-HBJ jet",
+      "why_connected": "The Free Beacon (anonymous source) calls Sheikh Sultan an HBJ confidant and partner. That would join the Heritage/Menendez/Newsmax/Zeldin cluster to the Air Force One jet and the 666 Fifth episode (C66). Corporate records of shared vehicles would settle it.",
+      "entities": [
+        "sultan-bin-jassim-al-thani",
+        "hamad-bin-jassim",
+        "qatar-jet",
+        "heritage-advisors"
+      ],
+      "source_url": "https://freebeacon.com/national-security/owner-of-trumps-qatari-air-force-one-linked-to-bob-menendez-corruption-scandal/"
+    },
+    {
+      "title": "Heritage's Newsmax stake after the lockup: sales, value and Cayman structure",
+      "why_connected": "A ~15% block in a pro-Trump network worth ~$1.6B at listing. SEC Form 4/13D history would show whether a Qatari royal still holds it and how it voted.",
+      "entities": [
+        "naples-investment-holdco",
+        "newsmax",
+        "sultan-bin-jassim-al-thani"
+      ],
+      "source_url": "https://quantisnow.com/insight/new-insider-naples-investment-holdco-llc-claimed-ownership-of-19737553-6013846"
+    },
+    {
+      "title": "Hudson Edgewater Associates after Daibes's conviction",
+      "why_connected": "Heritage owns a quarter of Daibes's Edgewater holdings, including the IS EG Halal site. Forfeiture, sale or restructuring of the venture is unreported.",
+      "entities": [
+        "hudson-edgewater-associates",
+        "heritage-advisors",
+        "fred-daibes",
+        "is-eg-halal"
+      ],
+      "source_url": "https://www.thedailybeast.com/big-qatari-payday-for-senator-bob-menendezs-pal-fred-daibes-linked-to-probe"
+    },
+    {
+      "title": "Newsmax v. FCC over Nexstar-Tegna at the full Commission",
+      "why_connected": "A Qatari-royal-backed network is litigating against a Trump-endorsed merger approval by Carr's FCC. The full-Commission ruling was expected by end of 2026.",
+      "entities": [
+        "newsmax",
+        "fcc",
+        "nexstar-tegna-merger",
+        "donald-trump"
+      ],
+      "source_url": "https://thedesk.net/2026/07/appeals-court-tosses-challenge-to-fccs-approval-of-nexstar-tegna-deal/"
+    },
+    {
+      "title": "Zeldin's 2026 annual disclosure and ethics-agreement compliance",
+      "why_connected": "The 2026 278e exists but its client and recusal entries were not readable here. It would show whether Heritage or other foreign clients persist through Diana Zeldin's work.",
+      "entities": [
+        "lee-zeldin",
+        "zeldin-strategies",
+        "heritage-advisors"
+      ],
+      "source_url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/A9F88F6167796EF985258E04002DDA12/$FILE/Lee-Zeldin-2026-278ANNU.pdf"
+    }
+  ],
+  "audit": {
+    "checked": [
+      "Heritage/Naples Investment Holdco's ~19.7M Newsmax shares and the ~15% / ~$1.6B figures",
+      "The single-source Free Beacon claim tying Sheikh Sultan to Hamad bin Jassim and the Qatari 747 (P4-HBJ)",
+      "Daibes's $1M payment to Javelin and the grading of that figure"
+    ],
+    "result": "corrected",
+    "changes": [
+      "Newsmax stake: fresh searches found the ~15% and ~$1.6B figures only in secondary outlets (one notes the stake's current status is not clarified in public disclosures); our share-count arithmetic stands. Summary and the Naples->Newsmax relationship label now say the 15% and $1.6B are our arithmetic.",
+      "Jet link: still single-source. Re-search found only the Free Beacon (anonymous 'source familiar') joining Heritage/Sultan to HBJ; reference sources say the jet's owner was undisclosed, with conflicting descriptions (privately owned per NYT vs a Qatar Amiri Flight aircraft). Relationship label now notes ownership is undisclosed. Upheld as unverified.",
+      "Daibes $1M: changed sub-claim 9 from confirmed to mostly-accurate and relabelled the amount as single-source (NBC, three unnamed sources), matching C83; the engagement and its 'executive relief' purpose remain documented. Summary and relationship label updated.",
+      "No newer reporting found of any sale of the Newsmax block, an EPA matter involving Qatar, or clemency for Daibes or Menendez."
+    ],
+    "new_sources": [
+      {
+        "title": "Owner of Trump's Qatari Air Force One Linked to Bob Menendez Corruption Scandal (re-checked)",
+        "publisher": "Washington Free Beacon",
+        "url": "https://freebeacon.com/national-security/owner-of-trumps-qatari-air-force-one-linked-to-bob-menendez-corruption-scandal/",
+        "date": "2025-05"
+      },
+      {
+        "title": "P4-HBJ",
+        "publisher": "Wikiwand (Wikipedia mirror)",
+        "url": "https://www.wikiwand.com/en/articles/P4-HBJ",
+        "date": ""
+      },
+      {
+        "title": "Who owns Newsmax: the complete ownership 2026",
+        "publisher": "whoistheownerof.com (low-authority)",
+        "url": "https://whoistheownerof.com/who-owns-newsmax-the-complete-ownership-2026/",
+        "date": "2026"
+      }
+    ]
+  }
+}
