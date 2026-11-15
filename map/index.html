@@ -47,35 +47,35 @@
   <section id="mapview" class="mapview" aria-label="Map of every check, name and connection" hidden>
     <div class="map-bar">
       <div class="seg" role="group" aria-label="View">
-        <button type="button" data-view="network" aria-pressed="true">Network</button>
+        <button type="button" data-view="network" aria-pressed="true"><span class="wide">Network</span><span class="narrow">Map</span></button>
+        <button type="button" data-view="list" class="only-narrow" aria-pressed="false">List</button>
         <button type="button" data-view="matrix" aria-pressed="false">Matrix</button>
       </div>
-      <div class="seg lab" id="detail-sw" role="group" aria-labelledby="lab-detail">
-        <span class="seg-lab" id="lab-detail">Detail</span>
+      <div class="opt" id="detail-sw" role="group" aria-labelledby="lab-detail">
+        <span class="opt-lab" id="lab-detail">Show</span>
         <button type="button" data-level="0" aria-pressed="true">Key Names</button>
         <button type="button" data-level="1" aria-pressed="false">More</button>
         <button type="button" data-level="2" aria-pressed="false">Everything</button>
       </div>
-      <div class="seg" id="matrix-sw" role="group" aria-label="Matrix columns" hidden>
-        <button type="button" data-mx="names" aria-pressed="true">Names by Name</button>
-        <button type="button" data-mx="topics" aria-pressed="false">Names by Topic</button>
+      <div class="opt" id="matrix-sw" role="group" aria-labelledby="lab-cols" hidden>
+        <span class="opt-lab" id="lab-cols">Columns</span>
+        <button type="button" data-mx="names" aria-pressed="true">Names</button>
+        <button type="button" data-mx="topics" aria-pressed="false">Topics</button>
       </div>
       <button type="button" class="btn barbtn" id="tools-toggle" aria-expanded="false" aria-controls="tools-body">
         <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="M2 4h12M4.5 8h7M7 12h2"></path></svg>
         <span>Filters</span><span class="count" id="filter-count" hidden></span>
       </button>
-      <div class="chips" id="topic-chips" role="group" aria-label="Topics"></div>
       <form class="tools-body" id="tools-body" aria-label="Filters" hidden></form>
     </div>
 
     <div class="map-stage" id="map-stage">
-      <canvas id="graph" tabindex="0" role="img" aria-label="Network of the people and organisations in the checks. The checks sit on a ring, grouped by topic, and every name sits near the topics that mention it. Drag to move, scroll or pinch to zoom, arrow keys to move, plus and minus to zoom, zero to fit. The Checks and People and Organisations pages give the same content as text."></canvas>
+      <canvas id="graph" tabindex="0" role="img" aria-label="Network of the people and organisations in the checks. Donald Trump is at the centre and distance from the centre is the number of documented steps from him. The checks sit on the outer ring, grouped by topic, and every name leans towards the topics that mention it. Drag to move, scroll or pinch to zoom, arrow keys to move, plus and minus to zoom, zero to fit. The list view and the Checks and People and Organisations pages give the same content as text."></canvas>
       <p class="map-loading" id="map-loading">Drawing the map</p>
       <div class="map-banner" id="banner" role="status" hidden></div>
       <div class="tip" id="tip" hidden></div>
-      <p class="map-hint" id="map-hint"></p>
       <p class="map-hint" id="focus-note" hidden></p>
-      <ul class="map-legend" id="legend" aria-label="Key to the marks"></ul>
+      <button type="button" class="map-key" id="key-toggle" aria-expanded="false" aria-controls="legend">Key</button>
       <div class="map-zoom" id="map-zoom" role="group" aria-label="Map controls">
         <button type="button" id="zoom-in" aria-label="Zoom in" title="Zoom In">+</button>
         <button type="button" id="zoom-out" aria-label="Zoom out" title="Zoom Out">&minus;</button>
@@ -83,18 +83,31 @@
           <svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M1 5V1h4M9 1h4v4M13 9v4H9M5 13H1V9"></path></svg>
         </button>
       </div>
-      <aside class="map-panel" id="panel" aria-label="Selected item" hidden></aside>
+      <aside class="map-panel" id="panel" aria-label="About the map" hidden></aside>
     </div>
+    <div class="chips" id="topic-chips" role="group" aria-label="Topics"></div>
+    <ul class="map-legend" id="legend" aria-label="Key to the marks"></ul>
+    <div class="map-list" id="map-list" hidden></div>
 
     <div class="matrix" id="matrix" hidden>
       <div class="mx-main">
-        <div class="mx-top"><p class="mx-read" id="mx-read" role="status"></p><p class="mx-key" id="mx-key"></p></div>
+        <div class="mx-top">
+          <div class="mx-head"><h2 class="mx-title" id="mx-title">Who Is Linked to Whom</h2><p class="mx-key" id="mx-key"></p></div>
+          <div class="mx-sub"><p class="mx-read" id="mx-read" role="status"></p>
+            <div class="opt" id="matrix-order" role="group" aria-labelledby="lab-order">
+              <span class="opt-lab" id="lab-order">Order</span>
+              <button type="button" data-mxo="group" aria-pressed="true">By Group</button>
+              <button type="button" data-mxo="connected" aria-pressed="false">Most Connected</button>
+              <button type="button" data-mxo="alpha" aria-pressed="false">A to Z</button>
+            </div>
+          </div>
+        </div>
         <div class="mx-scroll" id="mx-scroll" tabindex="0" aria-label="Matrix of connections"></div>
       </div>
       <aside class="mx-side" id="mx-side" aria-label="Selected pair"></aside>
     </div>
 
-    <p class="map-note" id="map-note"><strong>Everyone named denies wrongdoing.</strong> <span class="wide">Nothing here is an accusation of a crime. A line is a documented link between two names, not proof that one caused the other.</span><span class="narrow">A line is a documented link, not an accusation.</span></p>
+    <p class="map-note" id="map-note"><span class="note-hint" id="note-hint"></span><strong>Everyone named denies wrongdoing.</strong> <span class="wide">Nothing here is an accusation of a crime. A line is a documented link between two names, not proof that one caused the other.</span><span class="narrow">A line is a documented link, not an accusation.</span></p>
   </section>
 </main>
 
