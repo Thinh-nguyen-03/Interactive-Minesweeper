@@ -241,3 +241,21 @@ Decisions:
 - Round 5: (a) globe more spacious, with a real light-mode rendering; (b) matrix light-mode rendering; (c) fonts, icons and layout of the whole UI redone to match the workspace; (d) an automated text-contrast audit in both themes, then fixes.
 - Further user words (15 Nov, during round 5): "Use better font family to fit the vibe as well instead of these generic fonts". Relayed to the UI builder: choose typefaces with character (newsroom grotesque, condensed data face, editorial headline face), compare two or three pairings in stills before choosing.
 - Further user words (15 Nov, during round 5, after seeing the r05 globe): "Can they be even more spacious and the lines connecting them be designed in a better way that it doesn't take away the focus of the nodes?" Relayed to the globe builder: more air, links as quiet curved or bundled texture that fades mid-length and stops at node edges, strongest cross-topic links only at rest, crisp on hover.
+
+## Round 05
+
+Time: 15 Nov, about 02:30 to 04:20
+Focus: user feedback after round 4 and during this round (more spacious network; links that do not compete with nodes; real light mode; fonts, icons and layout that do not look generated; text colours tested in all modes).
+
+Changes:
+- Globe: retuned layout (lobes per topic, air between nodes), mention lines off at rest, 16 labels at rest, light-mode rendering, then a second pass: links thin, near-surface tone, curved and bundled between lobes, faded mid-length, stopped at node edges; strongest links only at rest; crisp coloured links on hover or selection; dead wheel code removed.
+- Matrix: theme-aware (light ramp), 36 names at 14px pitch, clean labels, contrast fixes, phone ordering.
+- UI system (`map/ui.css`, new; must be on the publish file list with `matrix.js` and `matrix.css`): Schibsted Grotesk, Bricolage Grotesque headlines, Barlow Condensed data; one 1.5px icon set and new logo; compact themed header; home with the whole graph as hero and three lead tables; check pages as case files; profiles and lists restyled; tokens for both themes.
+
+Stills: `cook/stills/r05/` (S01-S12, G-light-*, G-dark-*, mx-*-light|dark, X01-X22, F-* font candidates)
+Scores: critics not run; the user is steering round by round.
+Measured: `shots.js 05` no console errors, no overflow; `contrast.js` 60 page states, 0 text elements under AA (DOM only; canvas labels computed from palette: names about 16:1, weakest topic caption 4.8:1); `globefunc.js` 26 of 26; ink coverage at rest 26.8% (r04) to 10.9% dark and 8.8% light; frame interval while turning 16.7 ms median in software rendering. Not measured: real GPU, pixel-sampled canvas contrast.
+
+Known weak points: topic-selected view is a dense mesh; hovering a very large hub is busy; phone core tight; two topic captions adjacent; small condensed type in dense panel metadata; old rules left in style.css under ui.css.
+
+Stop check: stills approved no -> stills sent; waiting on the user. Live site not republished.
