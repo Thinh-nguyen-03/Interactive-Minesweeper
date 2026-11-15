@@ -374,6 +374,12 @@
   function plainSentence(r) {
     return flows(r.label) ? shortName(r.S) + ' ' + r.label + ' ' + shortName(r.T) : shortName(r.S) + ' and ' + shortName(r.T) + ': ' + r.label;
   }
+  /* The same line with the names in full; a label that is a role ("father of", "reporter at") is set off with a comma. */
+  var ROLEISH = /^(father|mother|son|daughter|brother|sister|wife|husband|spouse|reporter|ceo|chair|chairman|founder|co-founder|president|member|director|owner|co-owner|adviser|advisor|lawyer|partner|parent|subsidiary|head|issuer|envoy|minister|secretary|author|editor|investor|client|employee|executive|officer|counsel|attorney|lobbyist|donor|ally|friend|nephew|uncle|cousin|son-in-law|father-in-law|brother-in-law|ruler|crown|deputy|former|senior|chief|general|special|managing|vice|board|part|unit|arm|affiliate|shareholder|backer|sponsor)\b/i;
+  function checkSentence(r) {
+    if (!flows(r.label)) return r.S.name + ' and ' + r.T.name + ': ' + r.label;
+    return r.S.name + (ROLEISH.test(r.label) ? ', ' : ' ') + r.label + ' ' + r.T.name;
+  }
   function relMeta(r) {
     var bits = [];
     if (r.date) bits.push('<span class="when">' + esc(fdate(r.date)) + '</span>');
@@ -567,7 +573,7 @@
     var h = '<p class="crumb"><a href="#topics">All Checks</a>' + (topic && topic.id !== 'other' ? ' <span aria-hidden="true">/</span> <a href="' + topicHref(topic) + '">' + esc(topic.name) + '</a>' : '') + (c.ctype === 'connection' ? ' <span aria-hidden="true">/</span> Connection Check' : '') + '</p><article class="article"><div class="lead">' +
       '<h1 tabindex="-1">' + esc(c.title) + '</h1>' +
       '<p class="vstrip v-' + g + '">' + mark(c.verdict) + '<b>' + esc(VLABEL[c.verdict]) + '</b>' + (tot ? '<span>' + esc(tallyText(c)) + '</span>' : '') + '</p>' +
-      '<p class="dateline prov"><span>' + [plural(nsrc, 'source'), plural(tot, 'point') + ' checked', CONF[c.confidence] ? CONF[c.confidence] + ' confidence' : '', c.single_source ? 'One source for the central allegation' : '',
+      '<p class="dateline prov"><span>' + [plural(nsrc, 'source'), plural(tot, 'point'), CONF[c.confidence] ? CONF[c.confidence] + ' confidence' : '', c.single_source ? 'One source' : '',
         c.audit && AUDIT[c.audit.result] ? 'Second review ' + AUDIT[c.audit.result].toLowerCase() : c.audit ? 'Independent second review' : 'No second review yet'].filter(Boolean).join(' · ') + '</span>' +
       '<a class="maplink" href="' + mapHref(c) + '">' + MAPICON + 'Show on Map</a></p>';
     if (isUnv(c)) h += '<p class="flagbox"><strong>' + esc(unvText(c)) + '.</strong> The central allegation ' + (c.single_source ? 'rests on one source and ' : '') + 'has not been corroborated. Everyone named denies it. Read this page as a record of what has been alleged and what is known about the allegation, not as a finding that it happened.</p>';
@@ -577,7 +583,7 @@
     /* The two columns share the width by how much each has to say, so that they end near the same line. */
     var claimLen = cp.join(' ').length + (cp.length > 2 ? 30 * cp.length : 0), findLen = finding.length, split = 0.5, best = Infinity;
     for (var a = 0.32; a <= 0.66; a += 0.02) {
-      var hc = Math.ceil(claimLen / (a * 82)), hv = Math.ceil(findLen / ((1 - a) * 82 - 3)) + 1.5, d = Math.abs(hc - hv);
+      var hc = claimLen / ((a * 740 - 28) / 9.3), hv = findLen / (((1 - a) * 740 - 27) / 9.1) + 1.6, d = Math.abs(hc - hv);
       if (d < best - 0.01) { best = d; split = a; }
     }
     h += '<div class="cv cv-' + g + '" style="--cv-split:' + Math.round(split * 100) + '%"><div class="cv-claim"><h2 class="lab">The Claim</h2>' +
@@ -658,7 +664,7 @@
         var mine = crels.filter(function (r) { return r.S === e || r.T === e; }), r = mine.length ? strongest(mine) : null;
         var allA = mine.length && mine.every(function (x) { return x.alleged; });
         return '<tr' + (i >= 8 ? ' hidden data-fold' : '') + (allA ? ' class="alleged"' : '') + '><th scope="row">' + entLink(e) + '</th><td class="kind">' + esc(TLABEL[e.type]) + '</td><td class="numc">' + (deg.get(e) || 0) + '</td>' +
-          '<td>' + (r ? esc(cap(plainSentence(r))) + (r.date ? ' <span class="when">' + esc(fdate(r.date)) + '</span>' : '') + (allA ? ' ' + allegedFlag() : '') : '<span class="muted">' + (e.role ? rich(trunc(e.role, 110)) : 'Named in the check') + '</span>') + '</td></tr>';
+          '<td>' + (r ? esc(cap(checkSentence(r))) + (r.date ? ' <span class="when">' + esc(fdate(r.date)) + '</span>' : '') + (allA ? ' ' + allegedFlag() : '') : '<span class="muted">' + (e.role ? rich(trunc(e.role, 110)) : 'Named in the check') + '</span>') + '</td></tr>';
       }).join('') + '</tbody>' +
       (ents.length > 8 ? '<tfoot><tr><td colspan="4"><button class="more" type="button" data-unfold>' + (ents.length - 8) + ' More</button></td></tr></tfoot>' : '') + '</table></div>' +
       '<div id="figblock"><h3 class="minor">How the Main Names Connect</h3></div></section>';
@@ -977,7 +983,7 @@
     var cs = getComputedStyle($('mapview') || root);   // some map tokens are set on the map view itself
     function tok(name, alt) { return cs.getPropertyValue(name).trim() || alt || '#888'; }
     C = { bg: tok('--map-bg'), edge: tok('--map-edge'), ring: tok('--map-ring'), label: tok('--map-ink', tok('--ink')), labelDim: tok('--map-ink2', tok('--ink2')), accent: tok('--link'), card: tok('--card'),
-      edgeA: parseFloat(tok('--map-edge-a')) || 0.5, dotA: parseFloat(tok('--map-dot-a')) || 0.6, plateA: parseFloat(tok('--map-plate-a', '0.84')) || 0.84, shade: tok('--map-shade', '#000'), disc: tok('--map-disc', '#fff'),
+      edgeA: parseFloat(tok('--map-edge-a')) || 0.5, dotA: parseFloat(tok('--map-dot-a')) || 0.6, plateA: parseFloat(tok('--map-plate-a', '0.84')) || 0.84, shade: tok('--map-shade', '#000'), disc: tok('--map-disc', '#fff'), wedgeA: parseFloat(tok('--map-wedge-a', '0.06')) || 0.06,
       g: { person: tok('--k-person'), org: tok('--k-org'), gov: tok('--k-gov'), other: tok('--k-other') },
       v: { hold: tok('--hold'), part: tok('--part'), unp: tok('--unp'), wrong: tok('--wrong') },
       t: [1, 2, 3, 4, 5, 6, 7, 8, 9].map(function (i) { return tok('--t' + i); }) };
@@ -996,6 +1002,12 @@
     var ns = new Set(); t.list.forEach(function (c) { c.ents.forEach(function (e) { ns.add(e); }); });
     t.nNames = ns.size;
   });
+  /* Each topic owns a sector of the circle: from the middle of the gap before its arc to the middle of the gap after it. */
+  ARCS.forEach(function (t, i) {
+    var nx = ARCS[(i + 1) % ARCS.length], b = (t.a1 + nx.a0 + (i === ARCS.length - 1 ? 2 * Math.PI : 0)) / 2;
+    t.s1 = b; nx.s0 = i === ARCS.length - 1 ? b - 2 * Math.PI : b;
+  });
+  ARCS.forEach(function (t) { if (ARCS.length < 2) { t.s0 = t.a0; t.s1 = t.a1; } t.mid = (t.s0 + t.s1) / 2; });
   (function () {
     var isArc = new Set(ARCS);
     entities.concat(themes).forEach(function (e) {
@@ -1031,9 +1043,11 @@
     entities.forEach(function (e) { e.orbit = e.step === 0 ? 0 : Math.min(3, e.step); e.hubw = hub && e.adj.get(hub.key) ? e.adj.get(hub.key).w : 0; });
     map.hub = hub;
   })();
-  var ORBITS = [null, { key: [0.17, 0.5], dot: 0.575, guide: 0.6, cap: '1 step from Donald Trump', short: '1 step' },
-    { key: [0.655, 0.8], dot: 0.872, guide: 0.895, cap: '2 steps', short: '2 steps' },
-    { key: [0.918, 0.93], dot: 0.972, guide: 0, cap: '3 or more steps', short: '3+' }];
+  var ORBITS = [null, { key: [0.19, 0.555], dot: 0.628, guide: 0.655, edge: 0.655, cap: '1 step', short: '1 step' },
+    { key: [0.7, 0.79], dot: 0.882, guide: 0.905, edge: 0.905, cap: '2 steps', short: '2 steps' },
+    { key: [0.925, 0.935], dot: 0.972, guide: 0, edge: 1, cap: '3 or more steps', short: '3+ steps' }];
+  function coreR(n) { return (n.rank === 0 ? 22 : n.rank < 6 ? 11 : n.rank < 20 ? 8.5 : n.rank < 50 ? 6.5 : 4.6) * (narrow.matches ? 0.72 : 1); }   // four clear steps of size
+  function capFont() { return '500 ' + (narrow.matches ? 10 : 11.5) + 'px ' + FONT; }
   function mapLayout() {
     if (!W) return;
     var ph = narrow.matches, kc = keyCount();
@@ -1042,9 +1056,8 @@
       entities.forEach(function (e) { e.core = e.rank < kc; });
       return;
     }
-    var aw = restWidth(), ah = H, side = ph ? 10 : 140, top = ph ? 10 : 50;
-    var rx = Math.max(80, aw / 2 - side), ry = Math.max(80, ah / 2 - top);
-    if (ph) ry = Math.min(ry, rx * 1.45); else { rx = Math.min(rx, ry * 1.5); ry = Math.min(ry, rx * 1.05); }
+    var aw = restWidth(), ah = H, side = ph ? 24 : 36, top = side;   // a true circle, sized to the square that is free, with room for the topic names set along it
+    var rx = Math.max(80, Math.min(aw / 2 - side, ah / 2 - top)), ry = rx;
     var key = [Math.round(rx / 10), Math.round(ry / 10), kc, ph ? 1 : 0].join('.');
     if (LAY && LAY.key === key) return;
     var pitch = ph ? 4.2 : 5.4, i, j, bands = [];
@@ -1055,7 +1068,9 @@
       ARCS.forEach(function (tp) {
         var mem = entities.filter(function (e) { return !e.core && e.orbit === ob && e.top === tp; }); if (!mem.length) return;
         mem.sort(function (a, b) { return GROUPS.indexOf(a.group) - GROUPS.indexOf(b.group) || a.rank - b.rank; });
-        var erx = rx * O.dot, ery = ry * O.dot, a0 = tp.a0 + 0.01, a1 = tp.a1 - 0.01, S = 24, cum = [0];
+        // the rows keep clear of the sector's edges, and of the orbit captions on the axis at the top
+        var erx = rx * O.dot, ery = ry * O.dot, capM = (textW(ctx, capFont(), ph ? O.short : O.cap) / 2 + 9) / erx, edgeM = (ph ? 5 : 7) / erx;
+        var a0 = tp.s0 + (Math.abs(tp.s0 + Math.PI / 2) < 0.02 ? capM : edgeM), a1 = tp.s1 - (Math.abs(tp.s1 - 1.5 * Math.PI) < 0.02 ? capM : edgeM), S = 24, cum = [0];
         for (j = 1; j <= S; j++) { var am = a0 + (a1 - a0) * (j - 0.5) / S; cum.push(cum[j - 1] + Math.hypot(erx * Math.sin(am), ery * Math.cos(am)) * (a1 - a0) / S); }
         var len = cum[S], fit = Math.max(1, Math.floor(len / pitch)), rows = Math.min(maxRows, Math.max(1, Math.ceil(mem.length / fit))), ncols = Math.ceil(mem.length / rows);
         var step = Math.min(pitch, len / ncols), start = (len - step * ncols) / 2, q = 0;
@@ -1072,10 +1087,14 @@
     claims.forEach(function (n) { var a = Math.atan2(n.y, n.x); n.px = rx * Math.cos(a); n.py = ry * Math.sin(a); });
 
     // the key names: angle from their topics, radius from their orbit and the strength of the tie, then eased apart so labels have room
-    var labN = ph ? 8 : map.level ? 44 : 34, lfont = '600 ' + (ph ? 11.5 : 12.5) + 'px ' + FONT, perOrbit = [[], [], [], []];
+    var labN = ph ? 10 : map.level ? 60 : 99, lfont = '600 ' + (ph ? 11.5 : 12.5) + 'px ' + FONT, perOrbit = [[], [], [], []];
     var P = ranked.filter(function (e) { return e.core; }).map(function (e, n) {
-      var lab = n < labN, tw = lab ? Math.min(128, textW(ctx, lfont, wrapLines(mapLabel(e), 20)[0])) : 0, small = ph ? 8 : map.level ? 11 : 15;
-      var p = { e: e, ob: e.orbit, th: Math.atan2(e.ay, e.ax) + (Math.hypot(e.ax, e.ay) < 0.05 ? n * 2.4 : 0), hw: lab ? tw / 2 + (ph ? 9 : 17) : small, hh: lab ? (ph ? 15 : 21) : small, hub: e.orbit === 0 };
+      var lab = n < labN, ls = lab ? wrapLines(mapLabel(e), 20) : [], tw = 0, r = coreR(e);
+      ls.forEach(function (t) { tw = Math.max(tw, textW(ctx, e.rank === 0 ? lfont.replace(/[\d.]+px/, ph ? '13px' : '15px').replace('600', '700') : lfont, t)); });
+      if (!lab) r = Math.min(r, ph ? 3 : 4);
+      // room is kept for the mark and for its label underneath
+      var up = r + 4, down = r + 4 + (lab ? ls.length * 14 + 5 : 0);
+      var p = { e: e, ob: e.orbit, th: Math.atan2(e.ay, e.ax) + (Math.hypot(e.ax, e.ay) < 0.05 ? n * 2.4 : 0), hw: Math.max(tw / 2, r) + 6, hh: (up + down) / 2, co: (down - up) / 2, hub: e.orbit === 0, fix: e.orbit === 0 };
       perOrbit[p.ob].push(p); return p;
     });
     perOrbit.forEach(function (list, ob) {
@@ -1087,17 +1106,22 @@
       });
     });
     P.forEach(function (p) { if (p.hub) { p.x = p.y = 0; p.lo = p.hi = 0; } else { p.x = rx * p.f * Math.cos(p.th); p.y = ry * p.f * Math.sin(p.th); } p.hx = p.x; p.hy = p.y; });
-    for (var tick = 0; tick < 320; tick++) {
-      for (i = 0; i < P.length; i++) for (j = i + 1; j < P.length; j++) {
-        var p = P[i], o = P[j], ddx = p.x - o.x, ddy = p.y - o.y, sx = p.hw + o.hw, sy = p.hh + o.hh, d = Math.hypot(ddx / sx, ddy / sy);
-        if (d >= 1) continue;
-        if (d < 0.01) { ddx = Math.cos(i * 2.4); ddy = Math.sin(i * 2.4); d = 0.01; }
-        var push = (1 - d) / d * 0.5, wp = p.hub ? 0 : o.hub ? 1 : 0.5;
-        p.x += ddx * push * wp; p.y += ddy * push * wp; o.x -= ddx * push * (1 - wp); o.y -= ddy * push * (1 - wp);
+    var Q = P.slice();
+    [1, 2, 3].forEach(function (ob) {   // the orbit captions hold their places on the axis at the top
+      var O = ORBITS[ob]; Q.push({ fix: true, x: 0, y: -ry * O.edge + 10, hw: textW(ctx, capFont(), ph ? O.short : O.cap) / 2 + 8, hh: 10, co: 0 });
+    });
+    for (var tick = 0; tick < 360; tick++) {
+      for (i = 0; i < Q.length; i++) for (j = i + 1; j < Q.length; j++) {
+        var p = Q[i], o = Q[j]; if (p.fix && o.fix) continue;
+        var ddx = p.x - o.x, ddy = (p.y + p.co) - (o.y + o.co), ox = p.hw + o.hw - Math.abs(ddx), oy = p.hh + o.hh - Math.abs(ddy);
+        if (ox <= 0 || oy <= 0) continue;
+        var wp = p.fix ? 0 : o.fix ? 1 : 0.5, sx = ddx < 0 ? -1 : ddx > 0 ? 1 : (i % 2 ? 1 : -1), sy = ddy < 0 ? -1 : 1;
+        var mx2 = ox < oy * 1.6 ? ox * 0.5 : ox * 0.08, my2 = ox < oy * 1.6 ? oy * 0.08 : oy * 0.5;
+        p.x += sx * mx2 * wp; p.y += sy * my2 * wp; o.x -= sx * mx2 * (1 - wp); o.y -= sy * my2 * (1 - wp);
       }
       P.forEach(function (p) {
         if (p.hub) { p.x = 0; p.y = 0; return; }
-        p.x += (p.hx - p.x) * 0.012; p.y += (p.hy - p.y) * 0.012;
+        p.x += (p.hx - p.x) * 0.01; p.y += (p.hy - p.y) * 0.01;
         var s = Math.hypot(p.x / rx, p.y / ry) || 0.001, c = Math.max(p.lo, Math.min(p.hi, s));   // a name never leaves its orbit
         if (c !== s) { p.x *= c / s; p.y *= c / s; }
       });
@@ -1105,19 +1129,26 @@
     P.forEach(function (p) { p.e.px = p.x; p.e.py = p.y; });
     themes.forEach(function (n, q) { var a = Math.atan2(n.ay, n.ax) + q * 0.09; n.px = rx * 0.615 * Math.cos(a); n.py = ry * 0.615 * Math.sin(a); });
     links.forEach(function (l) {   // links between key names curve in towards the centre, so those that run the same way gather
-      l.bow = false;
+      l.bow = false; l.strong = false; l.spoke = false;
       if (l.kind !== 'rel' || !l.source.core || !l.target.core) return;
+      if (l.source === map.hub || l.target === map.hub) { l.spoke = true; return; }   // his own links run straight out, as spokes
       var mx = (l.source.px + l.target.px) / 2, my = (l.source.py + l.target.py) / 2, far = Math.hypot((l.target.px - l.source.px) / rx, (l.target.py - l.source.py) / ry);
       var md = Math.hypot(mx, my) || 1, len = Math.hypot(l.target.px - l.source.px, l.target.py - l.source.py), off = Math.min(md * Math.min(0.4, 0.1 + 0.2 * far), len * 0.2);
       l.bow = true; l.cx = mx - mx / md * off; l.cy = my - my / md * off;
     });
-    LAY = { key: key, rx: rx, ry: ry, side: side, top: top, bands: bands };
+    // at rest only the strongest links between the other key names are drawn
+    var cc = links.filter(function (l) { return l.bow; }).sort(function (a, b) { return b.w - a.w || (a.unv ? 1 : 0) - (b.unv ? 1 : 0) || (a.source.rank + a.target.rank) - (b.source.rank + b.target.rank); });
+    cc.slice(0, ph ? 10 : 20).forEach(function (l) { l.strong = true; });
+    LAY = { key: key, rx: rx, ry: ry, side: side, top: top, bands: bands, best: cc[0] && cc[0].w > 2 ? cc[0] : null };
     restCache = null;
   }
 
   function activeFilters() { return (FKEYS.length - F.kind.size) + (presentVerdicts.length - F.verdict.size) + (F.topic ? 1 : 0); }
-  function keyCount() { return map.level === 0 ? (narrow.matches ? 22 : 50) : (narrow.matches ? 60 : 150); }
+  function keyCount() { return map.level === 0 ? (narrow.matches ? 18 : 40) : (narrow.matches ? 60 : 150); }
   function shown(n) { return n.vis && (n.kind !== 'theme' || map.level > 0 || !!map.iso || n === map.sel || (map.path && map.path.set && map.path.set.has(n))); }
+  function claimOn(n) {   // the checks sit on their topic's arc; at rest they wait until their topic, or a name they mention, is brought forward
+    return map.level > 0 || !!map.iso || (F.topic && n.topicRef && n.topicRef.id === F.topic) || n === map.sel || n === map.hover || (map.hover && map.hover.adj.has(n.key)) || !!(map.path && map.path.set && map.path.set.has(n));
+  }
   function focusMode() { return !!(map.sel && !map.iso && !map.path && !map.pathFrom); }
   function reach(start, depth) {
     var seen = new Map([[start, 0]]), q = [start];
@@ -1150,12 +1181,13 @@
   function restLinks() {   // the lines drawn when nothing is in focus, by level of detail
     var ck = map.level + '|' + (LAY ? LAY.key : '');
     if (restCache && restCache.ck === ck) return restCache;
-    var out = { ck: ck, solid: [[], [], [], []], dashed: [], faint: [] };
+    var out = { ck: ck, spokes: [], strong: [], thin: [], dashed: [], faint: [] };
     links.forEach(function (l) {
       if (!l.vis) return;
       if (l.kind === 'rel') {
-        // the name linked to nearly everyone is an anchor; its lines appear on request
-        if (l.bow && (map.level === 2 || (l.source.rank !== 0 && l.target.rank !== 0))) { if (l.unv) out.dashed.push(l); else out.solid[l.w >= 5 ? 3 : l.w >= 3 ? 2 : l.w >= 2 ? 1 : 0].push(l); }
+        if (l.spoke) out.spokes.push(l);
+        else if (l.bow && l.strong) out.strong.push(l);
+        else if (l.bow && map.level > 0) { if (l.unv) out.dashed.push(l); else out.thin.push(l); }
         else if (map.level === 2) out.faint.push(l);
       } else if (map.level === 2 && l.kind === 'claim') out.faint.push(l);
     });
@@ -1224,22 +1256,20 @@
     moveTo(a.x + a.w / 2 - T.k * n.px, a.y + a.h / 2 - T.k * n.py, T.k, true);
   }
   function zf(k) { return Math.max(0.8, Math.min(1.9, Math.pow(k / (map.k0 || k), 0.34))); }
-  function rs(n, k) {   // on-screen radius
+  function rs(n, k, full) {   // on-screen radius
     var z = zf(k), ph = narrow.matches;
     if (n.kind === 'claim') return (ph ? 2.9 : 3.6) * Math.min(1.7, z) * (F.topic && n.topicRef && n.topicRef.id === F.topic ? 1.35 : 1);
     if (n.kind === 'theme') return (ph ? 3.4 : 4.2) * z;
-    if (n.core) return (n.rank === 0 ? 15 : n.rank < 6 ? 10.5 : n.rank < 20 ? 8 : n.rank < 50 ? 6 : 4.4) * z * (ph ? 0.72 : 1);   // four clear steps of size
+    if (n.core) return (full || !map.restLab || map.restLab.has(n) ? coreR(n) : Math.min(coreR(n), ph ? 2.6 : 3.4)) * (n.rank === 0 ? Math.min(z, 1.3) : z);   // a key name is drawn large only where its label fits
     return (ph ? 1.2 : 1.7) * z;
   }
   function ringGeom(t) { return { cx: t.x, cy: t.y, rx: (LAY ? LAY.rx : RING) * t.k, ry: (LAY ? LAY.ry : RING) * t.k }; }
   function topicAt(px, py) {   // the topic whose arc or caption is under the pointer
     if (!ARCS.length || !LAY || focusMode() || map.iso) return null;
-    var i, cb = map.capBoxes || [];
-    for (i = 0; i < cb.length; i++) if (cb[i][4] && px >= cb[i][0] && px <= cb[i][2] && py >= cb[i][1] && py <= cb[i][3]) return cb[i][4];
-    var g = ringGeom(T), nx = (px - g.cx) / g.rx, ny = (py - g.cy) / g.ry, d = (Math.hypot(nx, ny) - 1) * Math.min(g.rx, g.ry);
-    if (d < -8 || d > 12) return null;
+    var i, g = ringGeom(T), nx = (px - g.cx) / g.rx, ny = (py - g.cy) / g.ry, d = (Math.hypot(nx, ny) - 1) * Math.min(g.rx, g.ry);
+    if (d < -9 || d > 26) return null;   // the arc and the name set along it
     var a = Math.atan2(ny, nx); if (a < -Math.PI / 2) a += 2 * Math.PI;
-    for (i = 0; i < ARCS.length; i++) if (a >= ARCS[i].a0 - 0.03 && a <= ARCS[i].a1 + 0.03) return ARCS[i];
+    for (i = 0; i < ARCS.length; i++) if (a >= ARCS[i].s0 && a <= ARCS[i].s1) return ARCS[i];
     return null;
   }
   function hit(px, py, slack) {
@@ -1255,7 +1285,7 @@
       return best;
     }
     for (i = 0; i < nodes.length; i++) {
-      n = nodes[i]; if (!shown(n)) continue;
+      n = nodes[i]; if (!shown(n) || (n.kind === 'claim' && !claimOn(n))) continue;
       d = Math.hypot(n.px * T.k + T.x - px, n.py * T.k + T.y - py); r = rs(n, T.k);
       var big = n.kind !== 'entity' || n.core;
       if (d <= r + slack + (big ? 3 : 0)) { var sc = d - r - (big ? 5 : 0); if (sc < bd) { bd = sc; best = n; } }
@@ -1372,11 +1402,11 @@
   function mapPlace(c, placed, marks, segs, x, y, r, lines, font, lh, w, h, ok, self, maxCross) {
     var tw = 0, i, j; for (i = 0; i < lines.length; i++) tw = Math.max(tw, textW(c, font, lines[i]));
     var th = lines.length * lh, d = r * 0.72 + 3;
-    var opts = [[x + r + 6 + tw / 2, y, 'l'], [x - r - 6 - tw / 2, y, 'r'], [x, y + r + 4 + th / 2, 'c'], [x, y - r - 4 - th / 2, 'c'],
+    var opts = [[x, y + r + 5 + th / 2, 'c'], [x + r + 6 + tw / 2, y, 'l'], [x - r - 6 - tw / 2, y, 'r'], [x, y - r - 5 - th / 2, 'c'],
       [x + d + tw / 2, y + d + th / 2, 'l'], [x + d + tw / 2, y - d - th / 2, 'l'], [x - d - tw / 2, y + d + th / 2, 'r'], [x - d - tw / 2, y - d - th / 2, 'r']];
     var best = null, bc = Infinity;
     for (i = 0; i < opts.length; i++) {
-      var o = opts[i], b = [o[0] - tw / 2 - 4, o[1] - th / 2 - 2, o[0] + tw / 2 + 4, o[1] + th / 2 + 2];
+      var o = opts[i], b = [o[0] - tw / 2 - 3, o[1] - th / 2 - 1, o[0] + tw / 2 + 3, o[1] + th / 2 + 1];
       if (b[0] < 3 || b[2] > w - 3 || b[1] < 3 || b[3] > h - 3 || overlaps(placed, b[0], b[1], b[2], b[3])) continue;
       var clash = false;
       for (j = 0; j < marks.length; j++) { var m = marks[j]; if (m[4] !== self && b[0] < m[2] && b[2] > m[0] && b[1] < m[3] && b[3] > m[1]) { clash = true; break; } }
@@ -1387,14 +1417,13 @@
     }
     return best && bc <= maxCross ? best : null;
   }
-  function mapLabelDraw(c, p, lines, font, lh, color, alpha) {   // a pale plate keeps any line behind a label from running through it
-    c.globalAlpha = C.plateA * alpha; c.fillStyle = C.bg; c.beginPath(); rrect(c, p.box[0] + 1, p.box[1] + 1, p.box[2] - p.box[0] - 2, p.box[3] - p.box[1] - 2, 3); c.fill();
+  function mapLabelDraw(c, p, lines, font, lh, color, alpha) {   // no plate: a halo in the ground's colour keeps a line behind a label from running through it
     c.font = font; c.textBaseline = 'middle'; c.lineJoin = 'round'; c.globalAlpha = alpha;
     c.textAlign = p.align === 'l' ? 'left' : p.align === 'r' ? 'right' : 'center';
     var ax = p.align === 'l' ? p.x - p.tw / 2 : p.align === 'r' ? p.x + p.tw / 2 : p.x;
     lines.forEach(function (t, i) {
       var y = p.y - p.th / 2 + lh / 2 + i * lh;
-      c.lineWidth = 3; c.strokeStyle = C.bg; c.strokeText(t, ax, y); c.fillStyle = color; c.fillText(t, ax, y);
+      c.lineWidth = 4; c.strokeStyle = map.iso ? C.bg : C.disc; c.strokeText(t, ax, y); c.fillStyle = color; c.fillText(t, ax, y);
     });
     c.globalAlpha = 1;
   }
@@ -1411,42 +1440,49 @@
   var DIM = 0.13;   // how far everything else steps back when one thing is in focus
   function drawRing(c, t, em, capBoxes) {
     if (!ARCS.length || !LAY) return;
-    var g = ringGeom(t), picked = F.topic, ph = narrow.matches, a = visibleArea(), hovT = map.hoverTopic;
-    var nf = '600 ' + (ph ? 11.5 : 12.5) + 'px ' + FONT, sf = '400 ' + (ph ? 11 : 11.5) + 'px ' + FONT;
-    // faint guide circles: the edge of each orbit, with a plain caption in the gap at the top
-    var gf = '400 ' + (ph ? 10.5 : 11.5) + 'px ' + FONT;
-    [2, 1].forEach(function (ob) {   // the two inner orbits are paler discs, one on the other, which gives the middle a little depth
-      var O = ORBITS[ob];
-      c.globalAlpha = ob === 2 ? 0.45 : 0.7; c.fillStyle = C.disc; c.beginPath(); c.ellipse(g.cx, g.cy, g.rx * O.guide, g.ry * O.guide, 0, 0, 6.2832); c.fill();
-      c.globalAlpha = 1; c.lineWidth = 1; c.strokeStyle = C.ring; c.stroke();
+    var g = ringGeom(t), R = g.rx, picked = F.topic, ph = narrow.matches, hovT = map.hoverTopic, O1 = ORBITS[1].guide, O2 = ORBITS[2].guide, TAU = 6.2832;
+    var nf = (ph ? 10.5 : 12.5) + 'px ' + FONT, gf = capFont();
+    // the ground: one pale disc; each topic tints its sector from the first orbit outward; the first orbit stays clear
+    c.globalAlpha = 0.6; c.fillStyle = C.disc; c.beginPath(); c.arc(g.cx, g.cy, R, 0, TAU); c.fill();
+    ARCS.forEach(function (tp) {
+      var lit = picked === tp.id || (hovT === tp && !picked);
+      c.globalAlpha = lit ? C.wedgeA * 2.6 : picked ? C.wedgeA * 0.5 : C.wedgeA; c.fillStyle = C.t[tp.ci];
+      c.beginPath(); c.arc(g.cx, g.cy, R, tp.s0, tp.s1); c.arc(g.cx, g.cy, R * O1, tp.s1, tp.s0, true); c.closePath(); c.fill();
     });
+    c.globalAlpha = 1; c.fillStyle = C.disc; c.beginPath(); c.arc(g.cx, g.cy, R * O1, 0, TAU); c.fill();
+    c.lineWidth = 1; c.strokeStyle = C.ring;
+    [O1, O2].forEach(function (f) { c.beginPath(); c.arc(g.cx, g.cy, R * f, 0, TAU); c.stroke(); });
+    // hairlines between the sectors; the one at the top is the axis that carries the orbit captions, so it stops short of each
+    c.beginPath();
+    ARCS.forEach(function (tp) {
+      var cs = Math.cos(tp.s0), sn = Math.sin(tp.s0), axis = Math.abs(tp.s0 + Math.PI / 2) < 0.02;
+      (axis ? [[O1, O2 - 20 / R], [O2, 1 - 20 / R]] : [[O1, 1]]).forEach(function (q) { if (q[1] > q[0]) { c.moveTo(g.cx + R * q[0] * cs, g.cy + R * q[0] * sn); c.lineTo(g.cx + R * q[1] * cs, g.cy + R * q[1] * sn); } });
+    });
+    c.stroke();
+    c.globalAlpha = 0.55; c.beginPath();
+    ARCS.forEach(function (tp) {
+      var cs = Math.cos(tp.s0), sn = Math.sin(tp.s0), axis = Math.abs(tp.s0 + Math.PI / 2) < 0.02;
+      c.moveTo(g.cx + R * 0.14 * cs, g.cy + R * 0.14 * sn); c.lineTo(g.cx + (R * O1 - (axis ? 20 : 0)) * cs, g.cy + (R * O1 - (axis ? 20 : 0)) * sn);
+    });
+    c.stroke(); c.globalAlpha = 1;
     map.guides = ORBITS.map(function (O) {
       if (!O) return null;
-      var text = ph ? O.short : O.cap, gw = textW(c, gf, text), gy = g.cy - g.ry * (O.guide || 0.945);
-      capBoxes.push([g.cx - gw / 2 - 6, gy - 9, g.cx + gw / 2 + 6, gy + 9, null]);
-      return { text: text, x: g.cx, y: gy, w: gw, font: gf, disc: !!O.guide };
+      var text = ph ? O.short : O.cap, gw = textW(c, gf, text), gy = g.cy - R * O.edge + (O.guide ? 10 : 11);
+      capBoxes.push([g.cx - gw / 2 - 5, gy - 8, g.cx + gw / 2 + 5, gy + 8, null]);
+      return { text: text, x: g.cx, y: gy, w: gw, font: gf };
     }).filter(Boolean);
+    // the outer arc of each sector, solid, in the topic's colour, with the topic's name set along it
+    var gap = 1.2 / R;
     ARCS.forEach(function (tp) {
-      var on = !picked || picked === tp.id, col = C.t[tp.ci], mid = tp.mid;
-      c.globalAlpha = on ? 1 : DIM * 2; c.beginPath(); c.ellipse(g.cx, g.cy, g.rx, g.ry, 0, tp.a0, tp.a1);
-      c.lineWidth = picked === tp.id ? 4 : 2.5; c.strokeStyle = col; c.lineCap = 'round'; c.stroke(); c.lineCap = 'butt';
-      if (ph) return;   // on a phone the row of topics under the map names them
-      // the topic's name and counts, set level just outside its arc
-      var lines = wrapLines(tp.name, 19), sub = plural(tp.list.length, 'check') + ' · ' + plural(tp.nNames, 'name'), tw = textW(c, sf, sub), i;
-      for (i = 0; i < lines.length; i++) tw = Math.max(tw, textW(c, nf, lines[i]));
-      var th = lines.length * 15 + 15, cs = Math.cos(mid), sn = Math.sin(mid), ax = g.cx + (g.rx + 13) * cs, ay = g.cy + (g.ry + 13) * sn;
-      var al = cs > 0.3 ? 'left' : cs < -0.3 ? 'right' : 'center', x0 = al === 'left' ? ax : al === 'right' ? ax - tw : ax - tw / 2;
-      var y0 = sn < -0.45 ? ay - th + 2 : sn > 0.45 ? ay - 2 : ay - th / 2;
-      if (T.k <= (map.k0 || T.k) * 1.02) { x0 = Math.max(a.x + 6, Math.min(a.x + a.w - tw - 6, x0)); y0 = Math.max(a.y + 4, Math.min(a.y + a.h - th - 2, y0)); }
-      var tx = al === 'left' ? x0 : al === 'right' ? x0 + tw : x0 + tw / 2;
-      c.textAlign = al; c.textBaseline = 'middle'; c.globalAlpha = on ? 1 : 0.42;
-      c.font = picked === tp.id || hovT === tp ? nf.replace('600', '700') : nf; c.fillStyle = hovT === tp && picked !== tp.id ? C.accent : C.label;
-      lines.forEach(function (s, j) { c.fillText(s, tx, y0 + 8 + j * 15); });
-      c.font = sf; c.fillStyle = C.labelDim; c.fillText(sub, tx, y0 + 8 + lines.length * 15);
-      capBoxes.push([x0 - 4, y0 - 2, x0 + tw + 4, y0 + th + 2, tp]);
+      var on = !picked || picked === tp.id, lit = picked === tp.id || hovT === tp, col = C.t[tp.ci];
+      c.globalAlpha = on ? 1 : 0.32; c.beginPath(); c.arc(g.cx, g.cy, R, tp.s0 + gap, tp.s1 - gap);
+      c.lineWidth = (lit ? 5 : 3) * (ph ? 0.85 : 1); c.strokeStyle = col; c.stroke();
+      var lower = Math.sin(tp.mid) > 0.02, fs = ph ? 10.5 : 12.5, rad = R + (ph ? 6 : 8) + (lower ? fs * 0.74 : 0), font = (lit ? '700 ' : '600 ') + nf;
+      var text = ph ? tp.short : tp.name; if (textW(c, font, text) > (tp.s1 - tp.s0) * rad - 10) text = tp.short;
+      arcText(c, text, g.cx, g.cy, rad, rad, tp.mid, font, hovT === tp && picked !== tp.id ? C.accent : C.label, on ? 1 : 0.45);
     });
     claims.forEach(function (n) {
-      if (!n.vis) return;
+      if (!n.vis || !claimOn(n)) return;
       var x = n.px * t.k + t.x, y = n.py * t.k + t.y, dim = (em && !em.nodes.has(n)) || (!em && F.topic && n.topicRef && n.topicRef.id !== F.topic);
       drawCheck(c, n, x, y, rs(n, t.k) * (em && em.lead === n ? 1.4 : 1), dim ? (em && em.kind === 'topic' ? DIM * 2 : 0.3) : 1);
     });
@@ -1466,33 +1502,49 @@
     function line(l) { c.moveTo(X(l.source), Y(l.source)); c.lineTo(X(l.target), Y(l.target)); }
     // lines at rest: wider and stronger where more documented links join the two names, always paler than a name
     if (!iso && !tk) {
-      var rest = restLinks(), fade = em ? 0.28 : 1, busy = map.level ? 0.72 : 1;
+      var rest = restLinks(), fade = em ? 0.3 : 1;
       c.strokeStyle = C.edge; c.lineCap = 'round';
       if (rest.faint.length) { c.globalAlpha = C.edgeA * 0.2 * fade; c.lineWidth = 0.5; c.beginPath(); rest.faint.forEach(line); c.stroke(); }
-      [[0.7, 0.5], [1.1, 0.78], [1.6, 1.05], [2.3, 1.3]].forEach(function (s, j) {
-        if (!rest.solid[j].length) return;
-        c.globalAlpha = Math.min(0.8, C.edgeA * s[1] * (j ? 1 : busy)) * fade; c.lineWidth = s[0] * (ph ? 0.7 : 1); c.beginPath(); rest.solid[j].forEach(function (l) { bow(l, !em && j > 0); }); c.stroke();   // hairlines do not count against a label
+      if (rest.thin.length) { c.globalAlpha = C.edgeA * 0.45 * fade; c.lineWidth = 0.7; c.beginPath(); rest.thin.forEach(function (l) { bow(l, false); }); c.stroke(); }
+      // his direct links: thin spokes, a little heavier where there are many records
+      [[0.75, 0.8], [1.1, 0.95], [1.6, 1.1]].forEach(function (s, j) {
+        c.globalAlpha = Math.min(0.8, C.edgeA * s[1]) * fade; c.lineWidth = s[0] * (ph ? 0.8 : 1); c.beginPath();
+        rest.spokes.forEach(function (l) { if ((l.w >= 8 ? 2 : l.w >= 3 ? 1 : 0) === j) line(l); }); c.stroke();
       });
-      if (rest.dashed.length) { c.globalAlpha = Math.min(0.9, C.edgeA * 1.5) * fade; c.lineWidth = 1; c.strokeStyle = C.v.unp; c.setLineDash([3, 3]); c.beginPath(); rest.dashed.forEach(function (l) { bow(l, !em); }); c.stroke(); c.setLineDash([]); }
+      // the strongest links between the other key names, as wide as the number of records
+      rest.strong.forEach(function (l) {
+        if (map.level === 0 && map.restLab && !(map.restLab.has(l.source) && map.restLab.has(l.target))) return;   // a heavy line never ends on an unnamed mark
+        c.globalAlpha = Math.min(0.9, C.edgeA * 1.55) * fade; c.lineWidth = Math.min(5, 1.2 + 0.36 * (l.w - 1)) * (ph ? 0.7 : 1);
+        c.strokeStyle = l.unv ? C.v.unp : C.edge; c.setLineDash(l.unv ? [3, 3] : []); c.beginPath(); bow(l, !em); c.stroke();
+      });
+      c.setLineDash([]); c.strokeStyle = C.edge;
+      if (rest.dashed.length) { c.globalAlpha = Math.min(0.9, C.edgeA * 1.2) * fade; c.lineWidth = 0.9; c.strokeStyle = C.v.unp; c.setLineDash([3, 3]); c.beginPath(); rest.dashed.forEach(function (l) { bow(l, false); }); c.stroke(); c.setLineDash([]); }
       c.lineCap = 'butt';
     }
-    // every other name: a small dot in its topic's block
-    var byG = { person: [[], [], []], org: [[], [], []], gov: [[], [], []], other: [[], [], []] }, strong = [];
+    // every other name: a fine dot in its sector, in the sector's colour
+    var dots = ARCS.map(function () { return [[], [], []]; }).concat([[[], [], []]]), strong = [], litT = !em && !F.topic ? map.hoverTopic : null;
     for (i = 0; i < entities.length; i++) {
       n = entities[i]; if (!n.vis) continue;
       var x = X(n), y = Y(n);
       if (x < -20 || y < -20 || x > w + 20 || y > h + 20) continue;
       if (n.core || (em && !tk && em.nodes.has(n))) strong.push(n);
-      else byG[n.group][!em ? 0 : tk && (em.nodes.has(n) || n.top === em.topic) ? 1 : 2].push(n);
+      else dots[n.top && n.top.ci != null && ARCS[ARCS.indexOf(n.top)] ? ARCS.indexOf(n.top) : ARCS.length][!em ? (litT && n.top === litT ? 1 : 0) : tk && (em.nodes.has(n) || n.top === em.topic) ? 1 : 2].push(n);
     }
-    GROUPS.forEach(function (g) {
-      byG[g].forEach(function (list, cls) {
+    function drawDots(skip) {   // a dot under a label is left out, so the label stands on clear ground
+     dots.forEach(function (set, ti) {
+      set.forEach(function (list, cls) {
         if (!list.length) return;
-        c.globalAlpha = cls === 1 ? 0.95 : cls === 2 ? C.dotA * (tk ? 0.3 : 0.55) : C.dotA; c.fillStyle = C.g[g]; c.beginPath();
-        list.forEach(function (n) { var x = X(n), y = Y(n), r = rs(n, k) * (cls === 1 ? 1.2 : 1); if (g === 'person') { c.moveTo(x + r, y); c.arc(x, y, r, 0, 6.2832); } else c.rect(x - r * 0.9, y - r * 0.9, r * 1.8, r * 1.8); });
+        c.globalAlpha = cls === 1 ? 0.95 : cls === 2 ? C.dotA * (tk ? 0.3 : 0.5) : C.dotA; c.fillStyle = ARCS[ti] ? C.t[ARCS[ti].ci] : C.g.other; c.beginPath();
+        list.forEach(function (n) {
+          var x = X(n), y = Y(n), r = rs(n, k) * (cls === 1 ? 1.15 : 1);
+          for (var q = 0; q < skip.length; q++) if (x > skip[q][0] - 1 && x < skip[q][2] + 1 && y > skip[q][1] - 1 && y < skip[q][3] + 1) return;
+          c.moveTo(x + r, y); c.arc(x, y, r, 0, 6.2832);
+        });
         c.fill();
       });
-    });
+     });
+     c.globalAlpha = 1;
+    }
     // lines in focus
     if (tk) {   // one topic: a single line to each key name, as wide as the number of the topic's checks that mention it
       var tp = em.topic, ax = LAY.rx * 0.985 * Math.cos(tp.mid) * k + tx, ay = LAY.ry * 0.985 * Math.sin(tp.mid) * k + ty;
@@ -1515,24 +1567,18 @@
       });
       c.setLineDash([]);
     }
-    if (!map.iso && map.guides) map.guides.forEach(function (q) {   // the orbit captions sit over the lines
-      c.globalAlpha = 1; c.fillStyle = q.disc ? C.disc : C.bg; c.fillRect(q.x - q.w / 2 - 6, q.y - 8, q.w + 12, 16);
-      c.globalAlpha = F.topic ? 0.6 : 1; c.font = q.font; c.textAlign = 'center'; c.textBaseline = 'middle'; c.fillStyle = C.labelDim; c.fillText(q.text, q.x, q.y);
-    });
     c.globalAlpha = 1;
-    // the names that matter most, and those in focus
-    var placed = map.obst.concat(capBoxes), marks = [], boxes = [];
+    // the names that matter most, and those in focus: their places first, then the labels that fit, then the marks
+    var placed = map.obst.concat(capBoxes), marks = [], boxes = [], rad = new Map();
     strong.sort(function (a, b) { return b.rank - a.rank; });
     strong.forEach(function (n) {
-      var inEm = !em || em.nodes.has(n), r = rs(n, k); if (em && inEm && !n.core) r = Math.max(r, 2.9);
-      var x = X(n), y = Y(n);
-      mapEnt(c, n, x, y, r, inEm ? 1 : DIM + 0.05);
-      if (r > 2.5 && (inEm || !tk)) marks.push([x - r - 1, y - r - 1, x + r + 1, y + r + 1, n]);
+      var inEm = !em || em.nodes.has(n), r = rs(n, k, !em || (inEm && n.core)); if (em && inEm && !n.core) r = Math.max(r, 2.9);
+      var x = X(n), y = Y(n), m = r + (n === map.hub ? 6 : 1);
+      rad.set(n, r);
+      if (r > 2.5 && (inEm || !tk)) marks.push([x - m, y - m, x + m, y + m, n]);
     });
-    themes.forEach(function (n) { if (!shown(n) || (em && (em.kind === 'hover' || tk) && !em.nodes.has(n))) return; var r = rs(n, k); drawTheme(c, X(n), Y(n), r, em && !em.nodes.has(n) ? 0.3 : 1); marks.push([X(n) - r, Y(n) - r, X(n) + r, Y(n) + r, n]); });
-    if (map.iso) claims.forEach(function (n) { if (n.vis) { drawCheck(c, n, X(n), Y(n), rs(n, k) * 1.2, 1); marks.push([X(n) - 6, Y(n) - 6, X(n) + 6, Y(n) + 6, n]); } });
-    [map.sel, map.hover, map.pathFrom].forEach(function (n, j) { if (n && shown(n) && (j || !focusMode())) halo(c, X(n), Y(n), rs(n, k) * (em && em.lead === n && n.kind === 'claim' ? 1.4 : 1), j === 2 && n !== map.sel); });
-    c.globalAlpha = 1;
+    themes.forEach(function (n) { if (!shown(n) || (em && (em.kind === 'hover' || tk) && !em.nodes.has(n))) return; var r = rs(n, k); marks.push([X(n) - r, Y(n) - r, X(n) + r, Y(n) + r, n]); });
+    if (map.iso) claims.forEach(function (n) { if (n.vis) marks.push([X(n) - 6, Y(n) - 6, X(n) + 6, Y(n) + 6, n]); });
     // labels: the names in focus, or as many of the best-connected names as fit without crowding
     var g = ARCS.length && LAY && !map.iso ? ringGeom(t) : null;
     function inside(x0, y0, x1, y1) {   // a label stays inside the ring and clear of the rows of fine dots
@@ -1540,8 +1586,7 @@
       var xs = [x0, (x0 + x1) / 2, x1], ys = [y0, (y0 + y1) / 2, y1];
       for (var a = 0; a < 3; a++) for (var b = 0; b < 3; b++) {
         var f = Math.hypot((xs[a] - g.cx) / g.rx, (ys[b] - g.cy) / g.ry);
-        if (f > 0.975) return false;
-        for (var q = 0; q < LAY.bands.length; q++) if (f > LAY.bands[q][0] && f < LAY.bands[q][1]) return false;
+        if (f > 0.972) return false;
       }
       return true;
     }
@@ -1556,25 +1601,55 @@
       cand.sort(function (a, b) { return (b === lead) - (a === lead) || wOf(b) - wOf(a) || (a.rank == null ? -1 : a.rank) - (b.rank == null ? -1 : b.rank); });
       cand = cand.slice(0, em.kind === 'hover' ? (ph ? 7 : 16) : 70);
     } else {
-      var cap = Math.round((ph ? 8 : map.level ? 48 : 42) * Math.pow(Math.max(1, zr), 1.5));
+      var cap = Math.round((ph ? 10 : map.level ? 60 : 44) * Math.pow(Math.max(1, zr), 1.5));
       for (i = 0; i < ranked.length && cand.length < cap; i++) if (ranked[i].vis && ranked[i].core) cand.push(ranked[i]);
       if (zr > 2.2) for (i = 0; i < ranked.length && cand.length < cap + 120; i++) if (ranked[i].vis && !ranked[i].core) cand.push(ranked[i]);
       themes.forEach(function (n) { if (shown(n) && zr > 1.6) cand.push(n); });
     }
-    var seen = {};
+    var seen = {}, labs = [], got = new Set();
     cand.forEach(function (n) {
       var x = X(n), y = Y(n); if (x < -40 || y < -20 || x > w + 40 || y > h + 20) return;
-      var text = n.kind === 'entity' ? mapLabel(n) : n.name, isLead = em && (n === lead || em.kind === 'path');
+      var text = n.kind === 'entity' ? mapLabel(n) : n.name, isLead = em && (n === lead || em.kind === 'path'), isHub = n === map.hub && !em;
       if (seen[text]) return;
       var top = isLead || (n.rank != null && n.rank < 12);
-      var font = (isLead ? '700 ' + (ph ? 12 : 13) : top ? '600 ' + (ph ? 11.5 : 12.5) : '500 ' + (ph ? 11 : 12)) + 'px ' + FONT;
-      var lines = wrapLines(text, n.kind === 'claim' ? 26 : 20), r = rs(n, k) * (n.kind === 'entity' && n.group !== 'person' ? 0.95 : 1);
-      var must = isLead || (!em && n.rank < 3);
-      var p = mapPlace(c, placed, marks, segs, x, y, Math.max(r, 2.5), lines, font, 14, w, h, n.core ? inside : null, n, must ? 99 : top || em ? 9 : 5);
+      var font = (isHub ? '700 ' + (ph ? 13 : 15) : isLead ? '700 ' + (ph ? 12 : 13) : top ? '600 ' + (ph ? 11.5 : 12.5) : '500 ' + (ph ? 11 : 12)) + 'px ' + FONT;
+      var lines = wrapLines(text, n.kind === 'claim' ? 26 : 20), r = (rad.get(n) || rs(n, k)) * (n.kind === 'entity' && n.group !== 'person' ? 0.95 : 1) + (isHub ? 5 : 0);
+      var must = isLead || (!em && n.rank < 3), lh = isHub ? 17 : 14;
+      var p = mapPlace(c, placed, marks, segs, x, y, Math.max(r, 2.5), lines, font, lh, w, h, n.core ? inside : null, n, must || (!em && map.level === 0 && n.core) ? 99 : top || em ? 9 : 6);
       if (!p) return;
-      seen[text] = 1; placed.push(p.box); boxes.push(p.box.concat([n]));
-      mapLabelDraw(c, p, lines, font, 14, C.label, 1);
+      seen[text] = 1; placed.push(p.box); boxes.push(p.box.concat([n])); got.add(n);
+      labs.push([p, lines, font, lh]);
     });
+    if (!em) { var was = map.restLab; map.restLab = got; if (!was || was.size !== got.size) requestDraw(); }
+    drawDots(boxes.concat(map.iso ? [] : capBoxes));
+    // the marks: a key name is large only where its label is shown
+    strong.forEach(function (n) {
+      var inEm = !em || em.nodes.has(n), r = rad.get(n), x = X(n), y = Y(n);
+      if (!em && !got.has(n)) r = rs(n, k);
+      mapEnt(c, n, x, y, r, inEm ? 1 : DIM + 0.05);
+      if (n === map.hub && r > 8) { c.globalAlpha = inEm ? 0.9 : DIM; c.beginPath(); c.arc(x, y, r + 4.5, 0, 6.2832); c.lineWidth = 1.5; c.strokeStyle = C.g[n.group]; c.stroke(); c.globalAlpha = 1; }
+    });
+    themes.forEach(function (n) { if (!shown(n) || (em && (em.kind === 'hover' || tk) && !em.nodes.has(n))) return; drawTheme(c, X(n), Y(n), rs(n, k), em && !em.nodes.has(n) ? 0.3 : 1); });
+    if (map.iso) claims.forEach(function (n) { if (n.vis) drawCheck(c, n, X(n), Y(n), rs(n, k) * 1.2, 1); });
+    [map.sel, map.hover, map.pathFrom].forEach(function (n, j) { if (n && shown(n) && (j || !focusMode())) halo(c, X(n), Y(n), (rad.get(n) || rs(n, k)) * (em && em.lead === n && n.kind === 'claim' ? 1.4 : 1) + (n === map.hub ? 5 : 0), j === 2 && n !== map.sel); });
+    c.globalAlpha = 1;
+    if (!map.iso && map.guides) map.guides.forEach(function (q) {   // the orbit captions, on the axis at the top
+      c.font = q.font; c.textAlign = 'center'; c.textBaseline = 'middle'; c.lineJoin = 'round';
+      c.globalAlpha = 1; c.lineWidth = 4; c.strokeStyle = C.disc; c.strokeText(q.text, q.x, q.y);
+      c.globalAlpha = F.topic ? 0.6 : 1; c.fillStyle = C.labelDim; c.fillText(q.text, q.x, q.y);
+    });
+    c.globalAlpha = 1;
+    labs.forEach(function (q) { mapLabelDraw(c, q[0], q[1], q[2], q[3], C.label, 1); });
+    // one note on the figure: the pair of names, other than the centre, that the records link most often
+    var bl = !em && !ph && map.level === 0 && zr < 1.25 && LAY && LAY.best;
+    if (bl && bl.vis && got.has(bl.source) && got.has(bl.target)) {
+      var mx = 0.25 * X(bl.source) + 0.5 * (bl.cx * k + tx) + 0.25 * X(bl.target), my = 0.25 * Y(bl.source) + 0.5 * (bl.cy * k + ty) + 0.25 * Y(bl.target);
+      var nl = ['Most-linked pair', bl.w + ' documented links'], nfnt = '500 11.5px ' + FONT, np = mapPlace(c, placed, marks, [], mx, my, 4, nl, nfnt, 13.5, w, h, inside, null, 99);
+      if (np) {
+        c.beginPath(); c.arc(mx, my, 3.2, 0, 6.2832); c.fillStyle = C.disc; c.fill(); c.lineWidth = 1.4; c.strokeStyle = C.labelDim; c.stroke();
+        placed.push(np.box); mapLabelDraw(c, np, nl, nfnt, 13.5, C.labelDim, 1);
+      }
+    }
     map.boxes = boxes;
   }
 
@@ -1777,7 +1852,7 @@
     var font = '600 12.5px ' + FONT, LH = 15, pageBg = getComputedStyle(document.documentElement).getPropertyValue('--bg').trim() || C.bg;
     c.font = font;
     td.nodes.forEach(function (d) {
-      d.r = 5 + 7 * Math.sqrt(d.e.imp / IMPMAX); d.lines = wrapLines(mapLabel(d.e), 15);
+      d.r = 5 + 7 * Math.sqrt(d.e.imp / IMPMAX); d.lines = wrapLines(mapLabel(d.e), 17);
       d.tw = Math.max.apply(null, d.lines.map(function (t) { return c.measureText(t).width; })); d.th = d.lines.length * LH;
     });
     var x0 = Infinity, x1 = -Infinity, y0 = Infinity, y1 = -Infinity;
@@ -1910,7 +1985,7 @@
       if (narrow.matches || map.mode !== 'network') { p.hidden = true; root.classList.remove('has-panel'); p.classList.remove('rest'); return; }
       var kc = entities.filter(function (e) { return e.core; }).length || keyCount();
       h = '<div class="panel-head"><h2>How to Read the Map</h2></div>' +
-        '<div class="panel-body"><p class="prole">' + (map.hub ? esc(mapLabel(map.hub)) + ' is at the centre. Distance from him is the number of documented steps; direction is the topic that mentions a name most.' : 'Each name sits towards the topic that mentions it most.') + ' The ' + num(kc) + ' best-connected names are drawn large, the other ' + num(entities.length - kc) + ' as fine dots.</p>' +
+        '<div class="panel-body"><p class="prole">' + (map.hub ? esc(mapLabel(map.hub)) + ' is at the centre. Each ring is one more documented step from him. Each coloured sector is a topic, and a name sits in the sector of the topic that mentions it most.' : 'Each name sits in the sector of the topic that mentions it most.') + ' The ' + num(kc) + ' best-connected names are labelled; the other ' + num(entities.length - kc) + ' are the fine dots. Lines at rest are his direct links and the strongest links between the others.</p>' +
         (map.hinted ? '' : '<p class="phint" id="panel-hint">' + mapHint() + '</p>') +
         '<h3>Most Connected Names <span class="cnt">documented connections</span></h3>' + fold(mapRankRows(40), 4, 'Names', 'ol', 'pchecks prank') +
         '<h3>Topics</h3><ul class="pchecks ptopics">' + mapTopicRows().join('') + '</ul></div><div class="pfade" aria-hidden="true"></div>';
@@ -2021,11 +2096,6 @@
     function dot(cls, body) { return '<svg class="lmark ' + cls + '" width="12" height="12" viewBox="0 0 12 12" aria-hidden="true">' + body + '</svg>'; }
     $('legend').innerHTML =
       '<li>' + kmark({ group: 'person' }) + 'People</li><li>' + kmark({ group: 'org' }) + 'Companies &amp; Funds</li><li>' + kmark({ group: 'gov' }) + 'Governments</li><li>' + kmark({ group: 'other' }) + 'Other</li>' +
-      '<li><svg class="lmark ldots" width="19" height="12" viewBox="0 0 19 12" aria-hidden="true"><circle cx="2.5" cy="3" r="1.7"/><circle cx="8" cy="3" r="1.7"/><circle cx="13.5" cy="3" r="1.7"/><circle cx="2.5" cy="9" r="1.7"/><circle cx="8" cy="9" r="1.7"/><circle cx="13.5" cy="9" r="1.7"/></svg>Fine Dots, All Other Names</li>' +
-      '<li class="gap lab">Checks on the Ring</li>' +
-      '<li>' + dot('v-hold', '<circle cx="6" cy="6" r="4.2" fill="currentColor"/>') + 'Holds Up</li>' +
-      '<li>' + dot('v-part', '<circle cx="6" cy="6" r="4.2" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M6 1.8a4.2 4.2 0 0 0 0 8.4z" fill="currentColor"/>') + 'Partly Accurate</li>' +
-      '<li>' + dot('v-unp', '<circle cx="6" cy="6" r="4.2" fill="none" stroke="currentColor" stroke-width="1.5" stroke-dasharray="2.2 1.9"/>') + 'Unverified</li>' +
       '<li class="gap"><svg class="lmark lline" width="26" height="12" viewBox="0 0 26 12" aria-hidden="true"><path d="M1 3.5h24" stroke-width="1"/><path d="M1 8.5h24" stroke-width="2.8"/></svg>Wider Line, More Links</li>' +
       '<li><span class="dashkey" aria-hidden="true"></span>Unverified Link</li>';
   }
@@ -2292,7 +2362,7 @@
       '<th class="bh"><span>' + (byT ? 'All Checks' : 'All Links') + '</span></th></tr>';
     if (grouped && !byT) {
       h += '<tr class="cgs"><th class="corner"></th>';
-      for (var j0 = 0; j0 < cols.length;) { var j1 = j0; while (j1 < cols.length && cols[j1].mxg === cols[j0].mxg) j1++; h += gut(j0, 'th') + '<th class="cg" colspan="' + (j1 - j0) + '" scope="colgroup"><span>' + esc(MXG[cols[j0].mxg]).replace(' &amp; ', ' &amp;<br>') + '</span></th>'; j0 = j1; }
+      for (var j0 = 0; j0 < cols.length;) { var j1 = j0; while (j1 < cols.length && cols[j1].mxg === cols[j0].mxg) j1++; h += gut(j0, 'th') + '<th class="cg' + (j1 - j0 < 2 ? ' tiny' : '') + '" colspan="' + (j1 - j0) + '" scope="colgroup" title="' + esc(MXG[cols[j0].mxg]) + '" style="z-index:' + (40 - j0) + '"><span>' + esc(MXG[cols[j0].mxg]).replace(' &amp; ', ' &amp;<br>') + '</span></th>'; j0 = j1; }
       h += '<th></th></tr>';
     }
     h += '</thead><tbody>';
@@ -2306,7 +2376,9 @@
     });
     h += '</tbody></table><div class="mx-band row" id="mx-brow" hidden></div><div class="mx-band col" id="mx-bcol" hidden></div>';
     sc.innerHTML = h; sc.scrollTop = 0;
-    sc.style.setProperty('--cw', cw + 'px'); sc.style.setProperty('--hh', (byT ? 62 : 136) + 'px');
+    var hh = 0; sc.querySelectorAll('.ch span').forEach(function (s) { hh = Math.max(hh, s.offsetHeight); });   // the header is as tall as its longest label
+    sc.style.setProperty('--cw', cw + 'px'); sc.style.setProperty('--hh', (hh + (byT ? 26 : 18)) + 'px');
+    var kun = $('mx-key').querySelector('.kun'); if (kun) kun.hidden = !sc.querySelector('td.cu');   // the key lists only what the grid shows
     mxRead(null); mxSide();
   }
   /* On a phone the square grid gives way to one name at a time: choose a name and read its links down a list. */
@@ -2321,7 +2393,7 @@
     sc.innerHTML = '<div class="mxf"><label class="topicf"><span class="flab">Name</span><select id="mxf-name">' + all.map(function (e, q) { return '<option value="' + q + '"' + (q === MX.focus ? ' selected' : '') + '>' + esc(mapLabel(e)) + '</option>'; }).join('') + '</select></label>' +
       '<p class="mxf-sum">' + (byT ? 'Named in checks in ' + plural(rows.length, 'topic') + '.' : 'Linked to ' + rows.length + ' of the other ' + (all.length - 1) + ' names here.') + ' Select a row to read more.</p><ul class="mxf-list">' +
       rows.map(function (r) {
-        var cls = r[1] ? 'c' + (byT ? (r[1] >= 6 ? 3 : r[1] >= 3 ? 2 : 1) : mxStep(r[1])) : 'cu';
+        var cls = r[1] ? 'c' + (byT ? mxTStep(r[1]) : mxStep(r[1])) : 'cu';
         return '<li><button type="button" data-pair="' + i + ',' + r[0] + '">' + r[4] + '<span class="nm">' + esc(r[3]) + '</span><span class="what">' + (r[1] ? plural(r[1], byT ? 'check' : 'link') : 'Unverified only') + '</span><i class="' + cls + '">' + (r[1] || '') + '</i></button></li>';
       }).join('') + '</ul></div>';
   }
@@ -2353,8 +2425,17 @@
       var pairs = [];
       D.names.forEach(function (a, i) { D.names.forEach(function (b, j) { if (j > i && D.cnt(a, b)) pairs.push([i, j, D.cnt(a, b)]); }); });
       pairs.sort(function (a, b) { return b[2] - a[2]; });
-      h = '<div class="panel-head"><h2>Reading the Matrix</h2></div><div class="panel-body"><p class="prole">The ' + D.names.length + ' names with the most documented connections to one another' + (D.grouped ? ', in ' + word(new Set(D.names.map(function (e) { return e.mxg; })).size) + ' groups. Inside a group, names with similar connections sit together' : '') + '. The bar at the end of a row is that name\'s total across the whole site.</p>' +
-        '<h3>Strongest Pairs <span class="cnt">documented links</span></h3><ol class="pchecks prank pairs">' + pairs.slice(0, 10).map(function (p) { return '<li><button type="button" class="namebtn" data-pair="' + p[0] + ',' + p[1] + '">' + esc(mapLabel(D.names[p[0]])) + ' <span class="amp">and</span> ' + esc(mapLabel(D.names[p[1]])) + '</button><span class="cnt">' + p[2] + '</span></li>'; }).join('') + '</ol></div>';
+      var top = D.names.slice().sort(function (a, b) { return b.mxn - a.mxn || b.mxt - a.mxt; }).slice(0, 8), nmax = top.length ? top[0].mxn || 1 : 1;
+      h = '<div class="panel-head"><h2>Reading the Matrix</h2></div><div class="panel-body"><p class="prole">' + (MX.mode === 'topics' ? 'Rows are the ' + D.names.length + ' best-connected names, columns are the topics. A filled square counts the checks in that topic that mention the name.' : 'Rows and columns list the same ' + D.names.length + ' names. A filled square is a pair with at least one documented link, and darker means more.') + '</p>' +
+        '<p class="pnote">' + (MX.mode === 'topics' ? 'Select a square to list those checks.' : 'A blank square means no direct link was found in the checks. Select a square to read the links behind it.') + '</p>' +
+        (MX.mode === 'topics' ? (function () {
+          var tn = D.names.slice().sort(function (a, b) { return b.cl.length - a.cl.length; }).slice(0, 8), cm = tn.length ? tn[0].cl.length || 1 : 1;
+          var tt = D.topics.map(function (t) { return [t, D.names.filter(function (e) { return D.inTopic(e, t).length; }).length]; }).sort(function (a, b) { return b[1] - a[1]; });
+          return '<h3>Named in the Most Checks <span class="cnt">Checks</span></h3><ol class="pchecks prank">' + tn.map(function (e) { return '<li>' + kmark(e) + '<a class="namebtn" href="' + entHref(e) + '">' + esc(mapLabel(e)) + '</a><span class="pbar"><i style="width:' + Math.round(100 * e.cl.length / cm) + '%"></i></span><span class="cnt">' + e.cl.length + '</span></li>'; }).join('') + '</ol>' +
+            '<h3>Topics by Reach <span class="cnt">Of ' + D.names.length + ' names</span></h3><ol class="pchecks prank">' + tt.map(function (r) { return '<li><span class="tsw" style="background:var(--t' + ((r[0].ci || 0) + 1) + ')" aria-hidden="true"></span><span class="tname">' + esc(r[0].name) + '</span><span class="pbar"><i style="width:' + Math.round(100 * r[1] / D.names.length) + '%"></i></span><span class="cnt">' + r[1] + '</span></li>'; }).join('') + '</ol></div>';
+        })() :
+        '<h3>Strongest Pairs <span class="cnt">Documented links</span></h3><ol class="pchecks prank pairs">' + pairs.slice(0, 8).map(function (p) { return '<li><button type="button" class="namebtn" data-pair="' + p[0] + ',' + p[1] + '">' + esc(mapLabel(D.names[p[0]])) + ' <span class="amp">and</span> ' + esc(mapLabel(D.names[p[1]])) + '</button><span class="cnt">' + p[2] + '</span></li>'; }).join('') + '</ol>' +
+        '<h3>Most Linked in This View <span class="cnt">Of ' + (D.names.length - 1) + ' other names</span></h3><ol class="pchecks prank">' + top.map(function (e) { return '<li>' + kmark(e) + '<a class="namebtn" href="' + entHref(e) + '">' + esc(mapLabel(e)) + '</a><span class="pbar"><i style="width:' + Math.round(100 * e.mxn / nmax) + '%"></i></span><span class="cnt">' + e.mxn + '</span></li>'; }).join('') + '</ol></div>');
       el.innerHTML = h; return;
     }
     var p = mxPair(s[0], s[1]), td = $('mx-scroll').querySelector('td[data-i="' + s[0] + '"][data-j="' + s[1] + '"]');
@@ -2368,14 +2449,15 @@
     } else {
       var l = p[0].adj.get(p[1].key), rr = l && l.kind === 'rel' ? l.rels.slice().sort(function (a, b) { return (a.alleged ? 1 : 0) - (b.alleged ? 1 : 0) || String(a.date || '9').localeCompare(String(b.date || '9')); }) : [];
       h = '<div class="panel-head"><h2>' + esc(shortName(p[0])) + ' <span class="amp">and</span> ' + esc(shortName(p[1])) + '</h2>' + close + '</div>' +
-        '<p class="panel-meta">' + plural(rr.length, 'documented relationship') + '</p>' +
+        '<p class="psum"><b>' + rr.filter(function (r) { return !r.alleged; }).length + '</b><span>' + (rr.filter(function (r) { return !r.alleged; }).length === 1 ? 'documented link' : 'documented links') + '</span>' + (rr.some(function (r) { return r.alleged; }) ? '<span class="unv">' + rr.filter(function (r) { return r.alleged; }).length + ' alleged, unverified</span>' : '') + '</p>' +
+        '<p class="pnames">' + [p[0], p[1]].map(function (e) { return '<span>' + kmark(e) + '<a class="namebtn" href="' + entHref(e) + '">' + esc(e.name) + '</a></span>'; }).join('') + '</p>' +
         '<div class="panel-actions"><button type="button" class="btn primary" data-mxact="show">Show on Network</button></div><div class="panel-body"><ul class="plist">' +
         rr.map(function (r) {
           var fig = ''; if (typeof r.amount_usd === 'number') fig += '<b>' + esc(money(r.amount_usd)) + '</b>'; if (r.date) fig += '<span>' + esc(fdate(r.date)) + '</span>';
           var cl = r.claims.map(function (id) { return byKey.get(id); }).filter(Boolean);
           return '<li class="prow nomark' + (r.alleged ? ' alleged' : '') + '"><p class="p2">' + esc(cap(plainSentence(r))) + '</p>' + (fig ? '<p class="pfig">' + fig + '</p>' : '') + '<p class="p3">' + evMark(r.alleged) + '<span class="rtype">' + esc(RLABEL[r.type] || cap(r.type)) + '</span>' +
             (cl.length ? '<span class="from">From ' + cl.slice(0, 2).map(function (c) { return '<a class="namebtn" href="' + claimHref(c) + '">' + esc(c.title) + '</a>'; }).join('; ') + (cl.length > 2 ? '; and ' + (cl.length - 2) + ' more' : '') + '</span>' : '') + '</p></li>';
-        }).join('') + '</ul><p class="pprof">Profiles: <a class="namebtn" href="' + entHref(p[0]) + '">' + esc(shortName(p[0])) + '</a>, <a class="namebtn" href="' + entHref(p[1]) + '">' + esc(shortName(p[1])) + '</a></p></div><div class="pfade" aria-hidden="true"></div>';
+        }).join('') + '</ul></div><div class="pfade" aria-hidden="true"></div>';
     }
     el.innerHTML = h; el.scrollTop = 0;
   }
