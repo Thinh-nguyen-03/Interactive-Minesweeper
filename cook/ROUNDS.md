@@ -215,3 +215,20 @@ Decisions:
 - The map workspace uses a dark analysis canvas in both themes.
 - Further user words (15 Nov, during round 4): "The current network looks like a bunch of circles with line between, not a network with nodes, connections and links". Relayed to the globe builder: no rings, orbits or sector scaffolding; only nodes and the web of links, structure from the layout itself.
 - Further user words (15 Nov): "I want that vibe but combine with the vibe of an investigative analysis and journalism tool". Relayed to both builders: graph as centrepiece, surrounded by a case-file dossier, evidence-graded links with citations, chain-of-evidence path tracing, leads as entry points, editorial typography.
+
+## Round 04
+
+Time: 15 Nov, about 01:00 to 01:45
+Focus: user feedback after round 3 (network must be a globe of nodes and links like Obsidian or a brain scan, combined with an investigative journalism tool; matrix rethought, not edited).
+
+Changes:
+- Network: sector wheel replaced by a 3D globe of all 1,332 names, 94 checks, 2,402 links and 3,512 mentions on a dark canvas; hand-written seeded 3D force layout; no drawn scaffolding; drag, inertia, zoom, auto-rotation; hover and select light a neighbourhood; links solid (documented) or dashed (unverified), coloured by kind when lit; dossier panel with evidence lines, grades and citations; Trace a Path as numbered chain of evidence; "Where to Start" leads; Colour By Topic or Kind.
+- Matrix: rebuilt from a blank page in `map/matrix.js` and `map/matrix.css` (must be added to the publish file list): names rail, canvas heatmap of 48 names in cluster order with marginal bars, case-file panel, Names or Topics, phone version.
+
+Stills: `cook/stills/r04/` (S01-S12, G-*, mx-*)
+Scores: critics not run yet; stills sent to the user first because they are steering directly.
+Measured: `shots.js 04` 12 stills, no console errors, no overflow; `globefunc.js` 26 of 26; frame interval while rotating 16.7 ms median in headless software rendering (with adaptive fallback); layout about 0.4 to 0.5 s on first load. Not measured: real GPU, cached load.
+
+Known weak points: bright crowded core at rest; weak lobes for smaller topics; light toolbar above dark workspace in light theme; matrix column labels dense at 1x; about 700 lines of dead wheel code still in app.js; "Single-Source" grade inferred from checks.
+
+Stop check: bar not scored | stills approved no -> waiting on the user's read of the new direction; live site not republished.
