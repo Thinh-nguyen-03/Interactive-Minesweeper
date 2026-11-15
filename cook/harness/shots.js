@@ -16,6 +16,8 @@ const SHOTS=[
  {id:'S08',hash:'#home',vp:P,scheme:'light'},
  {id:'S09',hash:'#map',vp:P,scheme:'light'},
  {id:'S10',hash:'#C06',vp:P,scheme:'light'},
+ {id:'S11',hash:'#map-matrix',vp:D,scheme:'light'},
+ {id:'S12',hash:'#map-topic-gulf-money',vp:D,scheme:'light'},
 ];
 (async()=>{
   const port=8700+Math.floor(Math.random()*200); const s=await serve(port);

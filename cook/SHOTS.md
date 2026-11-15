@@ -14,5 +14,7 @@ No reference images. Each shot is one screen state at a fixed viewport, rendered
 | S08 | Home, top | 400x860 | light | Phone layout |
 | S09 | Map | 400x860 | light | Phone map and controls |
 | S10 | Check page (`#C06`) | 400x860 | light | Phone reading layout |
+| S11 | Matrix view (`#map-matrix`) | 1440x900 | light | The matrix of connections: legible, grouped, analytical |
+| S12 | Map with a topic selected (`#map-topic-gulf-money`) | 1440x900 | light | Topic state: its arc, checks and names brought forward, titles in the panel |
 
 Character to hit: clean, sleek, intuitive; a mix of intelligence analysis and investigative journalism; never machine-generated-looking.

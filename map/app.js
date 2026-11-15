@@ -914,7 +914,7 @@
   function world() { nodes.forEach(function (n) { n.px = n.x; n.py = n.y * AY; }); }
 
   function activeFilters() { return (FKEYS.length - F.kind.size) + (presentVerdicts.length - F.verdict.size) + (F.topic ? 1 : 0); }
-  function keyCount() { return map.level === 0 ? 50 : 150; }
+  function keyCount() { return map.level === 0 ? (narrow.matches ? 28 : 50) : 150; }
   function shown(n) { return n.vis && (n.kind !== 'theme' || map.level > 0 || !!map.iso || n === map.sel || (map.path && map.path.set && map.path.set.has(n))); }
   function focusMode() { return !!(map.sel && !map.iso && !map.path && !map.pathFrom); }
   function reach(start, depth) {
@@ -967,7 +967,7 @@
     var changed = Math.abs(box.width - W) > 1 || Math.abs(box.height - H) > 1;
     W = box.width; H = box.height; dpr = Math.min(window.devicePixelRatio || 1, 2);
     canvas.width = Math.round(W * dpr); canvas.height = Math.round(H * dpr);
-    var ay = narrow.matches && RING ? Math.max(1, Math.min(1.5, (H - 150) / (W - 60))) : 1;
+    var ay = narrow.matches && RING ? Math.max(1, Math.min(1.5, (H - 130) / (W - 60))) : 1;
     if (ay !== AY) { AY = ay; world(); }
     obstacles();
     if (!fitted || changed) {
@@ -1009,11 +1009,13 @@
   function fit(animate) {   // the whole ring, with room for the topic names around it
     if (!W) return;
     if (map.iso) { frameNodes(nodes.filter(function (n) { return n.vis; }), 1.4, animate, 40); return; }
-    var a = visibleArea(), m = narrow.matches ? 30 : 42, ext = RING || 1500;
-    var k = Math.max(0.03, Math.min((a.w - 2 * m) / (2 * ext), (a.h - 2 * m - (narrow.matches ? 34 : 0)) / (2 * ext * AY)));
+    var a = visibleArea(), m = narrow.matches ? 30 : 40, ext = RING || 1500, lg = $('legend').getBoundingClientRect();
+    var foot = lg.height && (!narrow.matches || $('panel').hidden) ? lg.height + 10 : 0;   // the key sits under the ring, never on it
+    var head = narrow.matches && !$('map-hint').hidden ? 24 : 0;
+    var k = Math.max(0.03, Math.min((a.w - 2 * m) / (2 * ext), (a.h - 2 * m - foot - head) / (2 * ext * AY)));
     if (a.w === W && a.h === H) map.k0 = k;
     if (!map.k0) map.k0 = k;
-    moveTo(a.x + a.w / 2, a.y + a.h / 2 - (narrow.matches ? 14 : 0), k, animate);
+    moveTo(a.x + a.w / 2, a.y + head + (a.h - foot - head) / 2, k, animate);
   }
   function centerIfHidden(n) {
     if (!W || !n.vis) return;
@@ -1124,7 +1126,8 @@
   /* Find room for a label beside its mark: below, above, right, then left. Returns the box, or null if every place is taken. */
   function placeLabel(c, placed, x, y, r, lines, font, lh, w, h, ok, force) {
     var tw = 0, i; for (i = 0; i < lines.length; i++) tw = Math.max(tw, textW(c, font, lines[i]));
-    var th = lines.length * lh, opts = [[x, y + r + 4 + th / 2, 'c'], [x, y - r - 4 - th / 2, 'c'], [x + r + 6 + tw / 2, y, 'l'], [x - r - 6 - tw / 2, y, 'r']];
+    var th = lines.length * lh, d = r * 0.7 + 4, opts = [[x, y + r + 4 + th / 2, 'c'], [x, y - r - 4 - th / 2, 'c'], [x + r + 6 + tw / 2, y, 'l'], [x - r - 6 - tw / 2, y, 'r'],
+      [x + d + tw / 2, y + d + th / 2, 'l'], [x + d + tw / 2, y - d - th / 2, 'l'], [x - d - tw / 2, y + d + th / 2, 'r'], [x - d - tw / 2, y - d - th / 2, 'r']];
     for (i = 0; i < opts.length; i++) {
       var o = opts[i], x0 = o[0] - tw / 2 - 3, x1 = o[0] + tw / 2 + 3, y0 = o[1] - th / 2 - 1, y1 = o[1] + th / 2 + 1;
       var fits = x0 >= 3 && x1 <= w - 3 && y0 >= 3 && y1 <= h - 3 && !overlaps(placed, x0, y0, x1, y1) && (!ok || ok(x0, y0, x1, y1));
@@ -1169,8 +1172,9 @@
       c.globalAlpha = on ? 1 : 0.4; c.beginPath(); c.ellipse(g.cx, g.cy, g.rx, g.ry, 0, tp.a0, tp.a1);
       c.lineWidth = picked === tp.id ? 4.5 : 3; c.strokeStyle = col; c.lineCap = 'round'; c.stroke(); c.lineCap = 'butt';
       var len = (tp.a1 - tp.a0) * Math.hypot(g.rx * Math.sin(mid), g.ry * Math.cos(mid));
-      var font = (picked === tp.id ? '700 ' : '600 ') + px + 'px ' + FONT, text = tp.name;
-      if (textW(c, font, text) > len * 1.12) text = tp.short;
+      var font = (picked === tp.id ? '700 ' : '600 ') + px + 'px ' + FONT, text = tp.name, words = tp.name.split(' ');
+      if (tp.name.indexOf(',') >= 0 && textW(c, font, text) > len * 1.1) { text = tp.short; words = [text]; }
+      while (textW(c, font, text) > len * 1.1 && words.length > 1) { words.pop(); if (/^(&|and)$/.test(words[words.length - 1])) words.pop(); text = words.join(' ').replace(/,$/, ''); }
       if (textW(c, font, text) > len * 1.3) font = '600 ' + (px - 1.5) + 'px ' + FONT;
       var lower = Math.sin(mid) > 0.02, off = (lower ? 11 + px * 0.74 : 11);
       arcText(c, text, g.cx, g.cy, g.rx + off, g.ry + off, mid, font, on ? C.label : C.labelDim, on ? 1 : 0.55);
@@ -1227,7 +1231,7 @@
       var inEm = !em || em.nodes.has(n), r = rs(n, k); if (em && inEm && n.rank >= kc) r = Math.max(r, 2.9);
       var x = X(n), y = Y(n);
       drawEnt(c, n, x, y, r, inEm ? 1 : 0.22);
-      if (r > 3) placed.push([x - r, y - r, x + r, y + r]);
+      if (r > 3.4) placed.push([x - r, y - r, x + r, y + r]);
     });
     themes.forEach(function (n) { if (!shown(n) || (em && em.kind === 'hover' && !em.nodes.has(n))) return; var r = rs(n, k); drawTheme(c, X(n), Y(n), r, em && !em.nodes.has(n) ? 0.3 : 1); placed.push([X(n) - r, Y(n) - r, X(n) + r, Y(n) + r]); });
     if (map.iso) claims.forEach(function (n) { if (n.vis) { drawCheck(c, n, X(n), Y(n), rs(n, k) * 1.2, 1); placed.push([X(n) - 6, Y(n) - 6, X(n) + 6, Y(n) + 6]); } });
@@ -1260,7 +1264,7 @@
       var top = isLead || (n.rank != null && n.rank < 12);
       var font = (isLead ? '700 ' + (ph ? 12 : 13) : top ? '600 ' + (ph ? 11.5 : 12.5) : '500 ' + (ph ? 11 : 12)) + 'px ' + FONT;
       var lines = wrapLines(text, n.kind === 'claim' ? 26 : 20), r = rs(n, k) * (n.kind === 'entity' && n.group !== 'person' ? 0.95 : 1);
-      var p = placeLabel(c, placed, x, y, Math.max(r, 2.5), lines, font, 14, w, h, n.kind === 'claim' ? null : inside, isLead);
+      var p = placeLabel(c, placed, x, y, Math.max(r, 2.5), lines, font, 14, w, h, n.kind === 'claim' ? null : inside, isLead || (!em && n.rank < 3));
       if (!p) return;
       seen[text] = 1; placed.push(p.box); boxes.push(p.box.concat([n]));
       drawLabel(c, p, lines, font, 14, top || em ? C.label : C.labelDim, 1);
@@ -1307,7 +1311,8 @@
     var rowH = ph ? 15 : 17, lfont = '500 ' + (ph ? 11.5 : 12.5) + 'px ' + FONT;
     var room = ph ? Math.max(96, a.w * 0.28) : Math.min(250, Math.max(150, a.w * 0.2));
     var R = Math.max(ph ? 70 : 150, Math.min((a.h - (ph ? 34 : 70)) / 2, (a.w - 2 * room - 20) / 2, 330));
-    var maxRows = Math.max(4, Math.floor(2 * R * 0.96 / rowH)), maxChars = Math.max(12, Math.floor((room - 12) / (ph ? 6.1 : 6.6)));
+    var Ry = Math.max(R, Math.min((a.h - (ph ? 40 : 70)) / 2, R * 2.1));   // on a tall, narrow screen the names run down two long sides
+    var maxRows = Math.max(4, Math.floor(2 * Ry * 0.96 / rowH)), maxChars = Math.max(12, Math.floor((room - 12) / (ph ? 6.1 : 6.6)));
     var groups = [];
     nb.order.forEach(function (g) {
       var items = nb.outer.filter(function (it) { return it.group === g; });
@@ -1339,7 +1344,7 @@
     function side(list, sgn) {
       var rows = list.reduce(function (s, e) { return s + e.rows; }, 0), row = 0;
       list.forEach(function (e) {
-        var y = (row + (e.rows - 1) / 2 - (rows - 1) / 2) * rowH, x = sgn * Math.sqrt(Math.max(R * R * 0.04, R * R - y * y)); row += e.rows;
+        var y = (row + (e.rows - 1) / 2 - (rows - 1) / 2) * rowH, x = sgn * R * Math.sqrt(Math.max(0.05, 1 - (y / Ry) * (y / Ry))); row += e.rows;
         if (e.cap) caps.push({ x: x, y: y, sgn: sgn, text: e.cap.label + '  ' + e.cap.total });
         else { e.it.x = x; e.it.y = y; e.it.sgn = sgn; e.it.r = e.it.n.kind === 'entity' ? 3 + 4.5 * Math.sqrt(e.it.n.imp / IMPMAX) : 4.4; outer.push(e.it); }
       });
@@ -1360,7 +1365,7 @@
     var note = $('focus-note'), bits = [];
     if (hiddenN) bits.push('The ' + outer.length + ' strongest of ' + nb.outer.length + ' connections are drawn');
     if (nb.inner.length - idx > 0) bits.push((hiddenN ? '' : 'The ring shows ') + idx + ' of ' + nb.inner.length + ' checks');
-    note.textContent = bits.length ? bits.join(', ') + '. The panel lists them all.' : ''; note.hidden = !bits.length;
+    note.textContent = bits.length ? bits.join(', ') + '. The panel lists them all.' : ''; note.hidden = !bits.length || ph;
   }
   function frameFocus(animate) {
     var a = visibleArea();
@@ -1411,7 +1416,9 @@
     c.globalAlpha = 1;
     var cfont = '600 ' + (ph ? 10.5 : 11.5) + 'px ' + FONT;
     fo.caps.forEach(function (cp) {
-      var x = cp.x * k + tx + cp.sgn * 10, y = cp.y * k + ty, tw = textW(c, cfont, cp.text), x0 = cp.sgn > 0 ? x : x - tw;
+      var x = cp.x * k + tx + cp.sgn * 10, y = cp.y * k + ty, tw = textW(c, cfont, cp.text);
+      if (cp.sgn < 0 && x - tw < 4) x = tw + 4; if (cp.sgn > 0 && x + tw > w - 4) x = w - 4 - tw;
+      var x0 = cp.sgn > 0 ? x : x - tw;
       if (overlaps(placed, x0, y - 6, x0 + tw, y + 6)) return;
       placed.push([x0, y - 7, x0 + tw, y + 7]);
       c.font = cfont; c.textAlign = cp.sgn > 0 ? 'left' : 'right'; c.fillStyle = C.labelDim; c.fillText(cp.text, x, y);
@@ -1450,8 +1457,8 @@
     var ls = [];
     links.forEach(function (l) { if (l.kind === 'rel' && at.has(l.source) && at.has(l.target)) ls.push({ source: at.get(l.source), target: at.get(l.target), w: l.w, unv: l.unv }); });
     if (d3) {
-      var sim = d3.forceSimulation(ns).force('link', d3.forceLink(ls).distance(70).strength(function (l) { return 0.08 + 0.04 * Math.min(l.w, 4); }))
-        .force('charge', d3.forceManyBody().strength(-520)).force('collide', d3.forceCollide(34)).force('x', d3.forceX(0).strength(0.06)).force('y', d3.forceY(0).strength(0.09)).stop();
+      var sim = d3.forceSimulation(ns).force('link', d3.forceLink(ls).distance(120).strength(function (l) { return 0.04 + 0.02 * Math.min(l.w, 4); }))
+        .force('charge', d3.forceManyBody().strength(-900)).force('collide', d3.forceCollide(58)).force('x', d3.forceX(0).strength(0.06)).force('y', d3.forceY(0).strength(0.09)).stop();
       for (var i = 0; i < 320; i++) sim.tick();
     }
     return (teaser = { nodes: ns, links: ls });
@@ -1466,11 +1473,11 @@
     c.setTransform(r, 0, 0, r, 0, 0); c.clearRect(0, 0, w, h);
     var x0 = Infinity, x1 = -Infinity, y0 = Infinity, y1 = -Infinity;
     td.nodes.forEach(function (d) { x0 = Math.min(x0, d.x); x1 = Math.max(x1, d.x); y0 = Math.min(y0, d.y); y1 = Math.max(y1, d.y); });
-    var mx = Math.min(74, w * 0.17), my = 34, kx = (w - 2 * mx) / (x1 - x0 || 1), ky = (h - 2 * my - 14) / (y1 - y0 || 1);
+    var mx = Math.min(64, w * 0.15), my = 36, kx = (w - 2 * mx) / (x1 - x0 || 1), ky = (h - 2 * my - 14) / (y1 - y0 || 1);
     function X(d) { return mx + (d.x - x0) * kx; } function Y(d) { return my + (d.y - y0) * ky; }
     c.strokeStyle = C.edge;
     td.links.forEach(function (l) {
-      c.globalAlpha = Math.min(0.9, C.edgeA + 0.12 * l.w); c.lineWidth = Math.min(2.6, 0.7 + 0.4 * l.w); c.setLineDash(l.unv ? [3, 3] : []);
+      c.globalAlpha = Math.min(0.6, C.edgeA + 0.05 * l.w); c.lineWidth = Math.min(2, 0.7 + 0.22 * l.w); c.setLineDash(l.unv ? [3, 3] : []);
       c.beginPath(); c.moveTo(X(l.source), Y(l.source)); c.lineTo(X(l.target), Y(l.target)); c.stroke();
     });
     c.setLineDash([]);
@@ -1517,7 +1524,7 @@
     return { from: a, to: b, list: list, steps: ls, set: new Set(list), links: new Set(ls) };
   }
   function linkWord(l) { return l.kind === 'rel' ? l.rels[0].label : l.kind === 'parent' ? 'builds on' : l.kind === 'theme' ? 'grouped under' : 'named in'; }
-  function nodeBtn(n, text) { return '<button type="button" class="namebtn" data-sel="' + esc(n.key) + '">' + esc(text || (n.kind === 'entity' ? shortName(n) : n.name)) + '</button>'; }
+  function nodeBtn(n, text) { return '<a class="namebtn" href="' + esc(mapHref(n)) + '" data-sel="' + esc(n.key) + '">' + esc(text || (n.kind === 'entity' ? shortName(n) : n.name)) + '</a>'; }
   function renderBanner() {
     var b = $('banner'), h = '';
     if (map.pathFrom) h = '<span><strong>Trace a path.</strong> From ' + esc(shortName(map.pathFrom)) + '. Select a second mark on the map, or find one with the search.</span><button type="button" class="linkbtn" data-act="path-clear">Cancel</button>';
@@ -1648,8 +1655,8 @@
   function renderLegend() {
     function dot(cls, body) { return '<svg class="lmark ' + cls + '" width="12" height="12" viewBox="0 0 12 12" aria-hidden="true">' + body + '</svg>'; }
     $('legend').innerHTML =
-      '<li>' + kmark({ group: 'person' }) + 'People</li><li>' + kmark({ group: 'org' }) + 'Companies<span class="wide"> & Funds</span></li><li>' + kmark({ group: 'gov' }) + 'Governments<span class="wide"> & Countries</span></li><li>' + kmark({ group: 'other' }) + 'Other<span class="wide"> Names</span></li>' +
-      '<li class="gap">' + dot('v-hold', '<circle cx="6" cy="6" r="4.2" fill="currentColor"/>') + 'Check<span class="wide"> That Holds Up</span></li>' +
+      '<li>' + kmark({ group: 'person' }) + 'People</li><li>' + kmark({ group: 'org' }) + '<span>Companies<span class="wide"> & Funds</span></span></li><li>' + kmark({ group: 'gov' }) + '<span>Governments<span class="wide"> & Countries</span></span></li><li>' + kmark({ group: 'other' }) + '<span>Other<span class="wide"> Names</span></span></li>' +
+      '<li class="gap">' + dot('v-hold', '<circle cx="6" cy="6" r="4.2" fill="currentColor"/>') + '<span>Check<span class="wide"> That Holds Up</span></span></li>' +
       '<li>' + dot('v-part', '<circle cx="6" cy="6" r="4.2" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M6 1.8a4.2 4.2 0 0 0 0 8.4z" fill="currentColor"/>') + 'Partly Accurate</li>' +
       '<li>' + dot('v-unp', '<circle cx="6" cy="6" r="4.2" fill="none" stroke="currentColor" stroke-width="1.5" stroke-dasharray="2.2 1.9"/>') + 'Unverified</li>' +
       '<li class="gap"><span class="dashkey" aria-hidden="true"></span>Unverified Link</li>';
@@ -1766,7 +1773,7 @@
       var b = e.target.closest('[data-act],[data-sel],[data-level],[data-view],[data-topic],[data-mx]'); if (!b) return;
       var act = b.getAttribute('data-act');
       hintOff();
-      if (b.hasAttribute('data-sel')) { var n = byKey.get(b.getAttribute('data-sel')); if (n) mapSelect(n, {}); }
+      if (b.hasAttribute('data-sel')) { var n = byKey.get(b.getAttribute('data-sel')); if (n) { e.preventDefault(); mapSelect(n, {}); } }
       else if (b.hasAttribute('data-level')) setLevel(+b.getAttribute('data-level'));
       else if (b.hasAttribute('data-view')) { var v = b.getAttribute('data-view'); setHash(v === 'matrix' ? 'map-matrix' : 'map'); if (v === 'network' && map.sel) mapDeselect(true); setMode(v); }
       else if (b.hasAttribute('data-mx')) { setHash(b.getAttribute('data-mx') === 'topics' ? 'map-matrix-topics' : 'map-matrix'); MX.mode = b.getAttribute('data-mx'); MX.sel = null; renderMatrix(); }
@@ -1798,8 +1805,9 @@
     $('mapview').hidden = false; page.hidden = true; $('foot').hidden = true;
     window.scrollTo(0, 0);
     initMap();
+    if (id) hintOff();   // arriving at a selection: the first-visit hint is not needed
     var low = String(id || '').toLowerCase(), n = null, tm = /^topic-(.+)$/.exec(low);
-    if (low === 'matrix' || low === 'matrix-topics') { setMode('matrix', low === 'matrix-topics' ? 'topics' : 'names'); return; }
+    if (low === 'matrix' || low === 'matrix-topics') { if (map.sel) { map.sel = null; map.focus = null; renderPanel(); } setMode('matrix', low === 'matrix-topics' ? 'topics' : 'names'); return; }
     if (map.mode !== 'network') setMode('network');
     resize();
     if (tm && topicById.has(tm[1]) && !byKey.get('e:' + id)) { setTopic(tm[1]); return; }
@@ -1835,7 +1843,7 @@
     var pool = ranked.filter(function (e) { return okType[e.type] && e !== hub && !e.unverified_only; }).slice(0, 90), inPool = new Set(pool);
     function partners(e, set) { var c = 0; e.adj.forEach(function (l, k) { if (l.kind === 'rel' && set.has(byKey.get(k))) c++; }); return c; }
     pool.sort(function (a, b) { return partners(b, inPool) - partners(a, inPool) || a.rank - b.rank; });
-    var names = pool.slice(0, 40), N = names.length, idx = new Map();
+    var names = pool.filter(function (e) { return mapLabel(e).length <= 26; }).slice(0, MX.size || 40), N = names.length, idx = new Map();
     function cnt(a, b) { var l = a.adj.get(b.key); return l && l.kind === 'rel' ? l.rels.filter(function (r) { return !r.alleged; }).length : 0; }
     function alg(a, b) { var l = a.adj.get(b.key); return l && l.kind === 'rel' ? l.rels.filter(function (r) { return r.alleged; }).length : 0; }
     names.forEach(function (e) { e.mxg = mxGroup(e, hub); });
@@ -1854,28 +1862,29 @@
   }
   function mxStep(v) { return v >= 3 ? 3 : v; }
   function renderMatrix() {
-    var D = mxData(), byT = MX.mode === 'topics', cols = byT ? D.topics : D.names, h, ph = narrow.matches;
+    var ph = narrow.matches, sc = $('mx-scroll'), byT = MX.mode === 'topics';
+    var size = ph ? 40 : Math.max(24, Math.min(40, Math.floor((sc.clientHeight - (byT ? 150 : 158) - 78) / 14)));   // as many names as the screen shows without scrolling
+    if (size !== MX.size) { MX.size = size; MX.data = null; MX.sel = null; }
+    var D = mxData(), cols = byT ? D.topics : D.names, h;
     document.querySelectorAll('[data-mx]').forEach(function (b) { b.setAttribute('aria-pressed', String(b.getAttribute('data-mx') === MX.mode)); });
-    function colHead(c, j, prev) { return '<th scope="col" class="ch' + (!byT && prev && prev.mxg !== c.mxg ? ' gb' : '') + '" data-j="' + j + '"><span>' + esc(byT ? c.name : mapLabel(c)) + '</span></th>'; }
-    function cell(i, j, a, b, hubRow) {
+    function gbc(j) { return !byT && j && cols[j - 1].mxg !== cols[j].mxg ? ' gb' : ''; }
+    function cell(i, j, a, b) {
       var v, u = 0, cls;
       if (byT) { v = D.inTopic(a, b).length; cls = 'c' + (v >= 6 ? 3 : v >= 3 ? 2 : v ? 1 : 0); }
-      else if (a === b) return '<td class="cd' + (j && cols[j - 1].mxg !== b.mxg ? ' gb' : '') + '"></td>';
-      else { v = D.cnt(a, b); u = D.alg(a, b); cls = v ? 'c' + mxStep(v) + (u ? ' cm' : '') : u ? 'cu' : 'c0'; }
-      var gb = !byT && j && cols[j - 1].mxg !== b.mxg ? ' gb' : '';
-      return '<td class="' + cls + gb + '" data-i="' + (hubRow ? -1 : i) + '" data-j="' + j + '"' + (v || u ? ' tabindex="-1"' : '') + '>' + (byT && v ? v : '') + '</td>';
+      else if (a === b) return '<td class="cd ig' + gbc(j) + '"></td>';
+      else { v = D.cnt(a, b); u = D.alg(a, b); cls = (v ? 'c' + mxStep(v) + (u ? ' cm' : '') : u ? 'cu' : 'c0') + (i >= 0 && a.mxg === b.mxg ? ' ig' : ''); }
+      return '<td class="' + cls + gbc(j) + '" data-i="' + i + '" data-j="' + j + '"' + (v || u ? ' tabindex="-1"' : '') + '>' + (byT && v ? v : '') + '</td>';
     }
-    h = '<table class="mx' + (byT ? ' bytopic' : '') + '" id="mx-table"><thead><tr><th class="corner"></th>' + cols.map(function (c, j) { return colHead(c, j, cols[j - 1]); }).join('') + '</tr></thead><tbody>';
-    if (D.hub) h += '<tr class="hub"><th scope="row" class="rh" data-i="-1">' + kmark(D.hub) + '<span>' + (byT ? esc(mapLabel(D.hub)) : 'Linked to ' + esc(mapLabel(D.hub))) + '</span></th>' + cols.map(function (c, j) { return cell(-1, j, D.hub, c, true); }).join('') + '</tr>';
+    h = '<table class="mx' + (byT ? ' bytopic' : '') + '" id="mx-table"><thead><tr><th class="corner" colspan="2"></th>' + cols.map(function (c, j) { return '<th scope="col" class="ch' + gbc(j) + '" data-j="' + j + '"><span>' + esc(byT ? c.name : mapLabel(c)) + '</span></th>'; }).join('') + '</tr></thead><tbody>';
+    if (D.hub) h += '<tr class="hub"><th scope="row" class="rh" colspan="2" data-i="-1">' + kmark(D.hub) + '<span>' + (byT ? esc(mapLabel(D.hub)) : 'Linked to ' + esc(mapLabel(D.hub))) + '</span></th>' + cols.map(function (c, j) { return cell(-1, j, D.hub, c); }).join('') + '</tr>';
     D.names.forEach(function (a, i) {
-      var first = !i || D.names[i - 1].mxg !== a.mxg;
-      if (first) h += '<tr class="grow"><th scope="rowgroup" class="gh"><span>' + esc(MXG[a.mxg]) + '</span></th><td colspan="' + cols.length + '"></td></tr>';
-      h += '<tr><th scope="row" class="rh" data-i="' + i + '">' + kmark(a) + '<span>' + esc(mapLabel(a)) + '</span></th>' + cols.map(function (c, j) { return cell(i, j, a, c); }).join('') + '</tr>';
+      var first = !i || D.names[i - 1].mxg !== a.mxg, span = 0;
+      if (first) { D.names.forEach(function (o) { if (o.mxg === a.mxg) span++; }); h += '<tr class="gap"><td colspan="' + (cols.length + 2) + '"></td></tr>'; }
+      h += '<tr>' + (first ? '<th scope="rowgroup" class="gh" rowspan="' + span + '"><span>' + esc(MXG[a.mxg]).replace(' &amp; ', ' &amp;<br>') + '</span></th>' : '') + '<th scope="row" class="rh" data-i="' + i + '">' + kmark(a) + '<span>' + esc(mapLabel(a)) + '</span></th>' + cols.map(function (c, j) { return cell(i, j, a, c); }).join('') + '</tr>';
     });
     h += '</tbody></table><div class="mx-band row" id="mx-brow" hidden></div><div class="mx-band col" id="mx-bcol" hidden></div>';
     var sc = $('mx-scroll'); sc.innerHTML = h;
-    var avail = sc.clientHeight - (byT ? 150 : 138) - 6 * 14, rows = D.names.length + 1;
-    var cs = ph ? 22 : Math.max(14, Math.min(19, Math.floor(avail / rows)));
+    var cs = ph ? 22 : Math.max(14, Math.min(19, Math.floor((sc.clientHeight - (byT ? 150 : 158) - 60) / (D.names.length + 1.4))));
     sc.style.setProperty('--c', cs + 'px'); sc.style.setProperty('--cw', (byT ? (ph ? 44 : 72) : cs) + 'px');
     $('mx-key').innerHTML = byT ? '<span class="lab">Checks in the topic that name them</span><span><i class="c1"></i>1 to 2</span><span><i class="c2"></i>3 to 5</span><span><i class="c3"></i>6 or more</span>'
       : '<span class="lab">Documented links between the pair</span><span><i class="c1"></i>1</span><span><i class="c2"></i>2</span><span><i class="c3"></i>3 or more</span><span><i class="cu"></i>Unverified only</span>';
@@ -1891,10 +1900,10 @@
       return;
     }
     var i = +td.getAttribute('data-i'), j = +td.getAttribute('data-j'), p = mxPair(i, j), D = mxData(), tr = td.parentNode, colTh = sc.querySelector('th.ch[data-j="' + j + '"]');
-    tr.querySelector('th').classList.add('hl'); if (colTh) colTh.classList.add('hl');
+    tr.querySelector('th.rh').classList.add('hl'); if (colTh) colTh.classList.add('hl');
     br.hidden = bc.hidden = false;
     br.style.top = tr.offsetTop + 'px'; br.style.height = tr.offsetHeight + 'px'; br.style.width = $('mx-table').offsetWidth + 'px';
-    bc.style.left = td.offsetLeft + 'px'; bc.style.width = td.offsetWidth + 'px'; bc.style.height = $('mx-table').offsetHeight + 'px';
+    bc.style.left = ($('mx-table').offsetLeft + td.offsetLeft) + 'px'; bc.style.width = td.offsetWidth + 'px'; bc.style.height = $('mx-table').offsetHeight + 'px';
     if (MX.mode === 'topics') { var n = D.inTopic(p[0], p[1]).length; el.innerHTML = '<b>' + esc(mapLabel(p[0])) + '</b> in <b>' + esc(p[1].name) + '</b><span class="n">' + (n ? plural(n, 'check') : 'No checks') + '</span>'; }
     else if (p[0] === p[1]) el.innerHTML = '<b>' + esc(mapLabel(p[0])) + '</b>';
     else { var v = D.cnt(p[0], p[1]), u = D.alg(p[0], p[1]); el.innerHTML = '<b>' + esc(mapLabel(p[0])) + '</b> and <b>' + esc(mapLabel(p[1])) + '</b><span class="n">' + (v + u ? plural(v, 'documented link') + (u ? ', ' + u + ' alleged and unverified' : '') : 'No documented link') + '</span>'; }
@@ -1928,7 +1937,7 @@
           var bits = [RLABEL[r.type] || cap(r.type)]; if (r.date) bits.push(fdate(r.date)); if (typeof r.amount_usd === 'number') bits.push(money(r.amount_usd));
           var cl = r.claims.map(function (id) { return byKey.get(id); }).filter(Boolean);
           return '<li class="prow' + (r.alleged ? ' alleged' : '') + '"><p class="p2 lead">' + esc(cap(plainSentence(r))) + '</p><p class="p1"><span class="pm">' + esc(bits.join(' · ')) + '</span></p><p class="p3">' + evMark(r.alleged) +
-            (cl.length ? '<span class="from">From ' + cl.map(function (c) { return '<a class="namebtn" href="' + claimHref(c) + '">' + esc(c.title) + '</a>'; }).join('; ') + '</span>' : '') + '</p></li>';
+            (cl.length ? '<span class="from">From ' + cl.slice(0, 2).map(function (c) { return '<a class="namebtn" href="' + claimHref(c) + '">' + esc(c.title) + '</a>'; }).join('; ') + (cl.length > 2 ? '; and ' + (cl.length - 2) + ' more' : '') + '</span>' : '') + '</p></li>';
         }).join('') + '</ul><p class="pprof">Profiles: <a class="namebtn" href="' + entHref(p[0]) + '">' + esc(shortName(p[0])) + '</a>, <a class="namebtn" href="' + entHref(p[1]) + '">' + esc(shortName(p[1])) + '</a></p></div>';
     }
     el.innerHTML = h; el.scrollTop = 0;
@@ -1937,9 +1946,11 @@
     var sc = $('mx-scroll'), side = $('mx-side');
     function cellOf(e) { var td = e.target.closest && e.target.closest('td[data-i]'); return td && sc.contains(td) ? td : null; }
     function pick(td) { if (!td || !td.hasAttribute('tabindex')) return; MX.sel = [+td.getAttribute('data-i'), +td.getAttribute('data-j')]; mxSide(); mxRead(td); }
-    sc.addEventListener('mouseover', function (e) { var td = cellOf(e); if (td) mxRead(td); });
-    sc.addEventListener('mouseleave', function () { var s = MX.sel && sc.querySelector('td.sel'); mxRead(s || null); });
-    sc.addEventListener('focusin', function (e) { var td = cellOf(e); if (td) mxRead(td); });
+    var touch = false;   // a touch should not move the grid under the finger before the tap lands
+    sc.addEventListener('pointerdown', function (e) { touch = e.pointerType !== 'mouse'; }, true);
+    sc.addEventListener('mouseover', function (e) { var td = cellOf(e); if (td && !touch) mxRead(td); });
+    sc.addEventListener('mouseleave', function () { if (touch) return; var s = MX.sel && sc.querySelector('td.sel'); mxRead(s || null); });
+    sc.addEventListener('focusin', function (e) { var td = cellOf(e); if (td && !touch) mxRead(td); });
     sc.addEventListener('click', function (e) { var td = cellOf(e); if (td) { td.focus({ preventScroll: true }); pick(td); } });
     sc.addEventListener('keydown', function (e) {
       var td = cellOf(e); if (!td) return;
