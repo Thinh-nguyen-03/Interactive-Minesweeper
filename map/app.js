@@ -455,7 +455,7 @@
   function srcCheck(list) {
     var cs = arr(list).map(function (id) { return byKey.get(id); }).filter(Boolean);
     if (!cs.length) return '';
-    return claimLink(cs[0], esc(cs[0].title)) + (cs.length > 1 ? ' <span class="plus">and ' + (cs.length - 1) + ' more</span>' : '');
+    return '<span class="srcline">' + claimLink(cs[0], esc(cs[0].title)) + (cs.length > 1 ? '<span class="plus">+' + (cs.length - 1) + ' more</span>' : '') + '</span>';
   }
   function home() {
     var p = META.points || { hold: 0, correct: 0, unproven: 0, total: 0 };
@@ -468,7 +468,7 @@
     var h = '<div class="hero"><div class="hero-text">' +
       '<h1 tabindex="-1">Look into the Money, the Deals &amp; the Connections Around the President</h1>' +
       '<p class="lede">This site tests claims about the business, financial and political dealings of Donald Trump, his family and his administration against the public record. Every name has a profile, and every documented link is on the map.</p>' +
-      '<p class="dateline">Checks last reviewed ' + REVIEWED + (META.generated ? '<span class="wide"> · Data built ' + esc(fdate(META.generated)) + '</span>' : '') + ' · <a href="#method">How We Checked</a></p>' +
+      '<p class="dateline">' + (META.generated ? 'Data built ' + esc(fdate(META.generated)) + ' · ' : '') + '<a href="#method">How We Checked</a></p>' +
       '<div class="bigsearch" role="search"><svg width="20" height="20" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><circle cx="7" cy="7" r="4.6"></circle><path d="M10.5 10.5 14 14"></path></svg>' +
       '<label class="sr" for="home-search">Search a person, a company or a topic</label>' +
       '<input id="home-search" type="search" placeholder="' + (narrow.matches ? 'Search a name or a topic' : 'Search a person, a company or a topic') + '" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="home-results" aria-autocomplete="list">' +
@@ -476,23 +476,22 @@
       (examples.length ? '<p class="try">Try ' + listParts(examples.map(function (e) { return entLink(e, true); })).replace(' and ', ' or ') + '.</p>' : '') +
       '</div>' +
       '<figure class="heromap"><a class="heromap-img" href="#map" aria-label="Open the full map of ' + num(entities.length) + ' names and ' + nc + ' checks"><canvas id="preview" aria-hidden="true"></canvas></a>' +
-      '<figcaption>The fifteen best-connected names and the documented links between them. <a href="#map">Open the full map of all ' + num(entities.length) + '</a></figcaption></figure>' +
+      '<figcaption>' + cap(word(teaserCount())) + ' of the best-connected names and the documented links between them. <a href="#map">Open the full map of all ' + num(entities.length) + '</a></figcaption></figure>' +
       '</div>';
 
-    h += figRow([[num(nc), 'Checks'], [num(entities.length), 'People &amp; Organisations'], [num(rels.length), 'Documented Links'],
-      [num(holds), 'Checks Confirmed or Mostly Accurate', 'split'], part ? [num(part), 'Checks Partly Accurate'] : null,
-      unvItems.length ? [num(unvItems.length), 'Checks Unverified, Single Source'] : null], 'homefigs');
+    h += figRow([[num(nc), 'Checks'], [num(p.total), 'Points Tested'], [num(META.sources), 'Sources Cited'],
+      [num(entities.length), '<span class="wide">People &amp; Organisations</span><span class="narrow">Names</span>'], [num(rels.length), 'Documented Links']], 'homefigs');
     h += '<p class="standing">Everyone named denies wrongdoing, and nothing here is an accusation of a crime. A link is a documented relationship, not proof that one thing caused another.</p>';
 
-    var segs = [['hold', p.hold, 'Hold Up'], ['part', p.correct, 'Needed Correcting'], ['unp', p.unproven, 'Unproven']];
+    var segs = [['hold', p.hold, 'Hold Up', num(p.hold) + ' of ' + num(p.total) + ' points are confirmed or mostly accurate, about ' + share + ' in 10 of everything tested. ' + num(holds) + ' of the ' + nc + ' checks hold up overall.'],
+      ['part', p.correct, 'Needed Correcting', num(p.correct) + ' points are partly right, misleading or wrong, and ' + num(META.corrections) + ' specific corrections are listed.' + (part ? ' ' + cap(word(part)) + ' ' + (part === 1 ? 'check is' : 'checks are') + ' rated partly accurate overall.' : '')],
+      ['unp', p.unproven, 'Unproven', num(p.unproven) + ' points lack proof' + (unvItems.length ? ', and ' + word(unvItems.length) + ' ' + (unvItems.length === 1 ? 'check rests' : 'checks rest') + ' on a single unverified source' : '') + '. No check shows that a payment bought an official act.']];
     h += '<section class="sec answer" aria-labelledby="found-h"><div class="sechead"><h2 id="found-h">What the Checks Found</h2><p class="secnote">Each check was split into separate points. This is how all ' + num(p.total) + ' came out.</p></div>' +
       '<div class="strip" role="img" aria-label="' + num(p.hold) + ' of ' + num(p.total) + ' points hold up, ' + num(p.correct) + ' needed correcting and ' + num(p.unproven) + ' are unproven">' +
-      segs.map(function (s) { return s[1] ? '<span class="s-' + s[0] + '" style="flex:' + s[1] + '"><b>' + num(s[1]) + '</b><em>' + s[2] + '</em></span>' : ''; }).join('') + '</div>' +
-      '<div class="answer-cols">' +
-      '<div><h3 class="v-hold">' + mark('hold') + 'What Holds Up</h3><p>' + num(p.hold) + ' of ' + num(p.total) + ' points are confirmed or mostly accurate, about ' + share + ' in 10 of everything tested.</p></div>' +
-      '<div><h3 class="v-part">' + mark('part') + 'What Needed Correcting</h3><p>' + num(p.correct) + ' points are partly right, misleading or wrong, and ' + num(META.corrections) + ' specific corrections are listed.</p></div>' +
-      '<div><h3 class="v-unp">' + mark('unp') + 'What Is Unproven</h3><p>' + num(p.unproven) + ' points lack proof. Above all, no check shows that a payment bought an official act.</p></div>' +
-      '</div></section>';
+      segs.map(function (s) { return s[1] ? '<span class="s-' + s[0] + '" style="flex:' + s[1] + '"></span>' : ''; }).join('') + '</div>' +
+      '<div class="answer-cols">' + segs.map(function (s) {
+        return '<div><h3><i class="sw s-' + s[0] + '" aria-hidden="true"></i><b>' + num(s[1]) + '</b> ' + s[2] + '</h3><p>' + s[3] + '</p></div>';
+      }).join('') + '</div></section>';
 
     // who is involved: a few names per group, from build.py
     var who = arr(META.who).map(function (g) { return { title: g.title, total: g.total, list: arr(g.names).map(function (id) { return byKey.get('e:' + id); }).filter(Boolean) }; }).filter(function (g) { return g.list.length; });
@@ -500,9 +499,8 @@
     h += '<section class="sec" id="who"><div class="sechead"><h2>Who Is Involved</h2><a class="seclink" href="#names">Browse All ' + num(entities.length) + ' People &amp; Organisations</a></div>' +
       '<p class="intro">The names in the most checks, by group, with the number of checks that name them.</p>' +
       '<div class="whohome">' + who.map(function (g) {
-        var mixed = g.list.some(function (e) { return e.type !== g.list[0].type; });   // a mark only where the kinds differ
         return '<div class="whocol"><h3>' + esc(g.title) + '</h3><ul>' + g.list.map(function (e) {
-          return '<li>' + (mixed ? kmark(e) : '') + '<span class="nm">' + entLink(e, true) + '</span><span class="cnt">' + e.cl.length + '<span class="sr"> checks</span></span></li>';
+          return '<li>' + kmark(e) + '<span class="nm">' + entLink(e, true) + '</span><span class="cnt">' + e.cl.length + '<span class="sr"> checks</span></span></li>';
         }).join('') + '</ul></div>';
       }).join('') + '</div></section>';
 
