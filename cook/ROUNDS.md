@@ -265,3 +265,18 @@ Stop check: stills approved no -> stills sent; waiting on the user. Live site no
 Quoting the four weak points (topic-selected mesh, busy hub hover, tight phone core, adjacent topic captions): "These are correct, keep going"
 
 Decision: round 6 fixes those four in the globe.
+
+## Round 06
+
+Time: 15 Nov, about 05:30 to 06:10
+Focus: the four weak points the user confirmed.
+
+Changes (globe only): topic view uses the rest link language (topic's names lit and labelled, strong bridges only, mention lines only for a hovered check, lobe turned to face the reader, caption outside the graph); large hubs get stepped emphasis (15 strongest neighbours labelled, rest as dots on hairlines, no mention lines on hover) and a tooltip that avoids the lit names; phone core spread at draw time with a bigger ball and fewer links; topic captions placed on the rim with a collision pass.
+
+Stills: `cook/stills/r06/`
+Scores: critics not run.
+Measured: `shots.js 06` no console errors or overflow; `globefunc.js` 26 of 26; topic-view ink 11.5% to 5.8% (dark); names written with Trump selected 44 to 16; phone near-side spacing 10th percentile 1.5 to 1.9 px (target 3 px not reached); frame interval 16.7 ms median in software rendering.
+
+Still weak: phone spacing target missed and phone captions sit over the rim dots; captions can slide far from small lobes; far-side lobes unnamed; HUD "links lit" count includes undrawn mention lines; desktop ball slightly smaller.
+
+Stop check: stills approved no -> stills sent; live site not republished.
