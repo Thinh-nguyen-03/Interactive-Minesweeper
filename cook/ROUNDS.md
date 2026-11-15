@@ -15,8 +15,8 @@ Made without asking, one line each.
 - 19:30 Hard cap 3h rather than the skill's 8h floor: this is a site polish, not a 3D or film build.
 - 19:30 "Showing the matrix of connections" read as: the network map must make who-connects-to-whom clear; in addition, add a compact connection-matrix view (names by topic or name by name) if it helps, as a second view on the map page.
 - 19:30 The user's earlier dislike of an "intelligence-esque" dark dashboard and their new wish for "a mix of intelligence and investigative analysis" are reconciled as: light, precise, evidence-led and calm, with analyst-grade tools, not a dark control room.
-- 20:40 Network access opened by the user; captured ten real reference screens (ProPublica, Full Fact, OpenSanctions, Kumu, Cambridge Intelligence, Bostock matrix). From round 1 scoring onward, critics get side-by-side images: reference left, our render right, per the pairing in cook/refs/REFERENCES.md.
-- 20:40 The references use sentence case and a kicker line; the user's Title Case with "&" stays, and no eyebrow/kicker labels are added (brief ban list).
+- 19:55 Network access opened by the user; captured ten real reference screens (ProPublica, Full Fact, OpenSanctions, Kumu, Cambridge Intelligence, Bostock matrix). From round 1 scoring onward, critics get side-by-side images: reference left, our render right, per the pairing in cook/refs/REFERENCES.md.
+- 19:55 The references use sentence case and a kicker line; the user's Title Case with "&" stays, and no eyebrow/kicker labels are added (brief ban list).
 
 ## User feedback inbox
 
@@ -67,7 +67,7 @@ Next focus: round 1 — rebuild the map's default, selected, dark and phone stat
 
 ## Round 01
 
-Time: 19:45 to 21:20 | total elapsed 1.8h
+Time: 19:45 to 20:05 | total elapsed 0.6h
 Usage: not readable
 Focus: the map (lowest baseline scores), plus site-wide typographic tells.
 
@@ -109,8 +109,8 @@ Top gaps from critics (both agree):
 4. Reading pages: statistics buried in a paragraph on home; no figure rows on home and profile; verdict not a proper block; no date or provenance under titles; profile star diagram says little; repeated grey disclaimer; three pill buttons and a boxed teaser card look templated; phone header crowded.
 
 Decisions:
-- 21:20 Critics want the outer name clouds removed. The user said the full set of nodes is what makes the map interesting, so they stay, but quieter and explained (a count per topic, clearer grouping), with the full web at "Everything". This is the one point to raise with the user at the checkpoint.
-- 21:20 Round 2 runs two builders in parallel with separate ownership (map and matrix / reading pages and header) to stay inside the 3h cap.
+- 20:05 Critics want the outer name clouds removed. The user said the full set of nodes is what makes the map interesting, so they stay, but quieter and explained (a count per topic, clearer grouping), with the full web at "Everything". This is the one point to raise with the user at the checkpoint.
+- 20:05 Round 2 runs two builders in parallel with separate ownership (map and matrix / reading pages and header) to stay inside the 3h cap.
 
-Stop check: bar no | cap not reached (1.8h of 3h) | stills approved no -> next round
+Stop check: bar no | cap not reached (0.6h of 3h) | stills approved no -> next round
 Next focus: round 2 — map and matrix legibility; editorial structure of home, check and profile pages; phone header.
