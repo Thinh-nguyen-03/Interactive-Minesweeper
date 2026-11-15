@@ -26,6 +26,8 @@ Exact words. Close an item only when a still proves it.
 - 19:25 "Make sure the map is clean and easy to use, showing the matrix of connections" | round 1 | open
 - 19:50 "Spawn some sub agents to look at similar tools for inspirations" | round 2 onward | open: three research agents writing `cook/refs/inspiration-*.md`
 - 19:50 "Try about 2-3 iterative before coming back to me for checkup" | gate | open: send stills after round 3 (or round 2 if the bar is met), not after every round
+- 20:20 "don't like the design of the circle network, it's missing something" (on round 1 stills) | round 2 | open: recompose around Trump with orbits by closeness, curved weighted links, depth
+- 20:20 "the matrix is just straight up bad, it looks cheaply built" (on round 1 stills) | round 2 | open: rebuild as a crafted figure (scale, group headers, counts in cells, marginal bars, real header)
 
 ---
 
