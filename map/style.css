@@ -9,8 +9,7 @@
   --map-bg: #f7f9fb; --map-edge: #5d6c82; --map-edge-a: .34; --map-dot-a: .5; --map-ring: #d5dce6; --card: #ffffff; --shadow: rgba(21, 28, 40, .12);
   --t1: #5f7fae; --t2: #4f9a8f; --t3: #8d8a45; --t4: #b98538; --t5: #b56a52; --t6: #a8627f; --t7: #7d6aa6; --t8: #5d8f6c; --t9: #6f7d8c;
   --mx1: #b9cdf0; --mx2: #6d95dc; --mx3: #1b4fa6; --mx-tint: #f3f5f8;
-  --serif: "Source Serif 4", "Bitstream Charter", Charter, Georgia, "Times New Roman", serif;
-  --sans: "Public Sans", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  --serif: var(--font-head); --sans: var(--font-ui);   /* the faces are set in ui.css */
   --gutter: 28px; --measure: 740px;
   color-scheme: light;
 }

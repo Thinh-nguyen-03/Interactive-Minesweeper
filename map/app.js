@@ -1311,6 +1311,8 @@
     if (ink && contrast(ink, p.bg1) >= 7) p.ink = ink;
     if (muted && contrast(muted, p.bg1) >= 4.6) p.ink2 = muted;
     p.tx = p.t.map(function (c) { return legible(c, p.light ? p.bg1 : p.bg0, p.ink); });   // topic names as text
+    p.lkn = p.light ? '#8f9aac' : '#7f91b3'; p.lk = p.t.map(function (c) { return mixHex(c, p.lkn, 0.5); });   // links at rest: a tone near the surface, with a little of the topic's colour
+    p.kn = mixHex(p.bg0, p.bg1, 0.35);   // the gap kept clear round each mark
     p.to = p.t.concat([p.ink2, p.g.person, p.g.org, p.g.gov, p.g.other, p.check]).map(function (c) { return mixHex(c, p.light ? '#0b1320' : '#000000', 0.38); });   // the fine outline of each mark
     var sig = want + '|' + p.bg1 + '|' + p.ink + '|' + p.ink2 + '|' + font, changed = gl.themeSig !== sig;
     GC = p; GFONT = font || FONT; gl.themeSig = sig;
@@ -1354,9 +1356,9 @@
     }
     function ball() { var x, y, z, l; do { x = rnd() * 2 - 1; y = rnd() * 2 - 1; z = rnd() * 2 - 1; l = x * x + y * y + z * z; } while (l > 1 || l < 0.01); l = Math.sqrt(l); return [x / l, y / l, z / l]; }
     /* The finished positions are kept in the browser, where that is allowed, so a later visit does not run the simulation again. */
-    var CK = 'tcm-globe-5', sig = nodes.length + '|' + links.length + '|' + (META.generated || ''), cached = null;
+    var CK = 'tcm-globe-6', sig = nodes.length + '|' + links.length + '|' + (META.generated || ''), cached = null;
     /* The measures of the layout. Lengths are in the simulation's own units; the finished ball is scaled to fit the canvas. */
-    var LP = { ticks: 150, decay: 0.97, push: 0.1, mass: 0.07, hubMass: 26, relLen: 1.5, relDeg: 0.3, hubLen: 7, claimLen: 2.2, lobe: 18, even: 0.15, cross: 2.6, crossK: 0.25, pull: 0.05, hubLeaf: 6.5, leaf: 0.8, leafC: 1, leafK: 0.14, leafS: 0.3, cap0: 0.5, cap1: 0.2 };
+    var LP = { ticks: 150, decay: 0.97, push: 0.2, mass: 0.07, hubMass: 26, relLen: 2.2, relDeg: 0.4, hubLen: 9, claimLen: 3, lobe: 24, even: 0.2, cross: 2.6, crossK: 0.25, pull: 0.05, hubLeaf: 9, leaf: 1.3, leafC: 1.5, leafK: 0.22, leafS: 0.45, cap0: 0.6, cap1: 0.22 };
     if (window.__LP) { for (var lpk in window.__LP) LP[lpk] = window.__LP[lpk]; sig += '|' + JSON.stringify(window.__LP); }   // tests only
     try { var raw = JSON.parse(window.localStorage.getItem(CK) || 'null'); if (raw && raw.sig === sig && raw.p.length === nodes.length * 3) cached = raw.p; } catch (e) { cached = null; }
     if (cached) nodes.forEach(function (n, q) { n.g3 = [cached[q * 3] / 1000, cached[q * 3 + 1] / 1000, cached[q * 3 + 2] / 1000]; });
@@ -1464,7 +1466,7 @@
     nodes.forEach(function (n, q) {
       var p = n.g3, l = Math.hypot(p[0], p[1], p[2]) * sc, c = l > 1 ? (1 + (l - 1) * 0.15) / l : 1;
       n.gi = q; gl.P[q * 3] = p[0] * sc * c; gl.P[q * 3 + 1] = p[1] * sc * c; gl.P[q * 3 + 2] = p[2] * sc * c;
-      n.gr = n.kind === 'entity' ? (n === hub ? 8.5 : Math.min(7, 0.75 + 0.5 * Math.sqrt(n.adj.size))) : n.kind === 'claim' ? 2.3 : 2.2;   // a name with one link is a fine point; size grows with links
+      n.gr = n.kind === 'entity' ? (n === hub ? 10.5 : Math.min(9, 0.5 + 0.62 * Math.sqrt(n.adj.size))) : n.kind === 'claim' ? 2.3 : 2.2;   // a name with one link is a fine point; size grows with links
       n.gc = n.kind === 'claim' ? (n.topicRef && n.topicRef.gi != null ? n.topicRef.gi % 9 : 9) : n.kind === 'entity' && n.top ? n.top.gi % 9 : 9;
       n.gk = n.kind === 'entity' ? 10 + GROUPS.indexOf(n.group) : n.kind === 'claim' ? 14 : 9;
     });
@@ -1489,6 +1491,24 @@
       if (l.kind === 'rel') { var cnt = {}, best = null; l.rels.forEach(function (r) { var kk = RKIND[r.type] || 'own'; cnt[kk] = (cnt[kk] || 0) + 1; if (!best || cnt[kk] > cnt[best]) best = kk; }); l.rk = best; }
     });
     gl.cs.push(gl.E);
+    /* How a link is drawn at rest. A link inside a topic bows a little towards the middle of its topic; a link between two topics
+       bows towards the middle of the pair, so the links between two lobes gather into one soft strand; the hub's links run straight.
+       Links between topics, and the hub's own, are ranked by the number of records behind them: at rest only the strongest show. */
+    var tcen = ARCS.map(function () { return [0, 0, 0, 0]; });
+    nodes.forEach(function (n) { var t = n.kind === 'claim' ? n.topicRef : n.top; if (!t || t.gi == null || !tcen[t.gi]) return; var c = tcen[t.gi]; c[0] += gl.P[n.gi * 3]; c[1] += gl.P[n.gi * 3 + 1]; c[2] += gl.P[n.gi * 3 + 2]; c[3]++; });
+    tcen.forEach(function (c) { if (c[3]) { c[0] /= c[3]; c[1] /= c[3]; c[2] /= c[3]; } });
+    gl.LQ = new Float32Array(gl.E * 3); gl.lq = new Uint8Array(gl.E); gl.lr = new Uint16Array(gl.E); gl.qx = new Float32Array(gl.E); gl.qy = new Float32Array(gl.E); gl.qd = new Float32Array(gl.E);
+    var xs = [], hs = [];
+    gl.L.forEach(function (l, q) {
+      if (l.kind !== 'rel') return;
+      var a = l.source.gi * 3, b = l.target.gi * 3, m = [(gl.P[a] + gl.P[b]) / 2, (gl.P[a + 1] + gl.P[b + 1]) / 2, (gl.P[a + 2] + gl.P[b + 2]) / 2], ta = l.source.top, tb = l.target.top, c, w;
+      if (gl.lc[q] === 21) { hs.push(l); return; }
+      if (gl.lc[q] === 9) { xs.push(l); var ca = ta && tcen[ta.gi], cb = tb && tcen[tb.gi]; if (!ca || !cb) return; c = [(ca[0] + cb[0]) * 0.55, (ca[1] + cb[1]) * 0.55, (ca[2] + cb[2]) * 0.55]; w = 0.85; }
+      else { c = ta && tcen[ta.gi]; if (!c) return; w = 0.35; }
+      gl.lq[q] = 1; gl.LQ[q * 3] = m[0] + (c[0] - m[0]) * w; gl.LQ[q * 3 + 1] = m[1] + (c[1] - m[1]) * w; gl.LQ[q * 3 + 2] = m[2] + (c[2] - m[2]) * w;
+    });
+    function byWeight(p, q) { return q.w - p.w || (p.unv ? 1 : 0) - (q.unv ? 1 : 0) || (p.source.rank + p.target.rank) - (q.source.rank + q.target.rank); }
+    xs.sort(byWeight).forEach(function (l, q) { gl.lr[l.gi] = Math.min(65535, q); }); hs.sort(byWeight).forEach(function (l, q) { gl.lr[l.gi] = Math.min(65535, q); });
     var hubs = ranked.slice(0, 26); gl.hubs = hubs;
     // the fixed first view: the middle of the best-connected names, after the hub, faces the reader
     // of the views that keep those names on the near side, the one in which the topics' lobes stand furthest apart on the screen
@@ -1552,10 +1572,10 @@
   function glFrame() {   // where the ball sits on the canvas: the middle of the part not covered by the panel
     /* The ball fills the free area: it is drawn a little wider than tall on a wide canvas, and taller than wide on a phone,
        inside a margin, and it is moved and sized so that it stays clear of the read-out, the key and the buttons. */
-    var a = visibleArea(), ph = narrow.matches, mg = ph ? 12 : 26, persp = gl.D / Math.sqrt(gl.D * gl.D - 1), i, q, o;
+    var a = visibleArea(), ph = narrow.matches, mg = ph ? 8 : 14, persp = gl.D / Math.sqrt(gl.D * gl.D - 1), i, q, o;
     obstacles(); gl.aw = a.w;
     var hw = Math.max(40, a.w / 2 - mg), hh = Math.max(40, a.h / 2 - (ph ? 16 : mg)), cy = a.y + a.h / 2, cx0 = a.x + a.w / 2;
-    var RX = Math.min(hw, hh * 1.3), RY = Math.min(hh, hw * (ph ? 1.4 : 1.22)), best = null;
+    var RX = Math.min(hw, hh * 1.42), RY = Math.min(hh, hw * (ph ? 1.5 : 1.22)), best = null;
     for (i = 0; i <= 6; i++) for (q = -1; q <= 1; q += 2) {   // try the middle first, then a little to either side; keep the place that allows the largest ball
       var dx = i * 14 * q, rx = Math.min(RX, hw - Math.abs(dx)), sc = 1;
       if (i && rx < RX * 0.8) continue;
@@ -1641,7 +1661,7 @@
     c.globalAlpha = alpha; c.fillStyle = col; c.fillText(text, x0, y0 + 7.5);
   }
   var NA_D = [0.1, 0.16, 0.24, 0.3, 0.5, 0.74, 0.96, 1], NA_L = [0.2, 0.28, 0.38, 0.3, 0.5, 0.74, 0.95, 1];   // strength of a mark: three steps when dimmed, four by depth at rest, then lit
-  var GLA_D = [0.03, 0.055, 0.1, 0.17, 0.27, 0.4], GLA_L = [0.035, 0.06, 0.1, 0.17, 0.27, 0.4];   // strength of a link by depth: the far side recedes
+  var GLA_D = [0.1, 0.18, 0.3, 0.46, 0.64, 0.82], GLA_L = [0.1, 0.17, 0.27, 0.4, 0.55, 0.7];   // strength of a link by depth: the far side recedes
   function glDraw() {
     var c = ctx, t0 = performance.now(), N = gl.N, E = gl.E, P = gl.P, sx = gl.sx, sy = gl.sy, sz = gl.sz, ss = gl.ss, i, k, q, b, f, r, n, l;
     var qq = gl.q, qw = qq[0], qx = qq[1], qy = qq[2], qz = qq[3];
@@ -1652,37 +1672,56 @@
       sx[i] = cx + (r0 * X + r1 * Y + r2 * Z) * s * radx; sy[i] = cy - (r3 * X + r4 * Y + r5 * Z) * s * rady; sz[i] = zz; ss[i] = s;
     }
     c.globalCompositeOperation = 'source-over'; c.globalAlpha = 1; c.fillStyle = gl.bgGrad || GC.bg1; c.fillRect(0, 0, W, H);
-    var em = glEm(), emN = gl.emN, emL = gl.emL, dim = em ? (em.kind === 'link' ? 0.6 : em.kind === 'hover' ? 0.4 : lite ? 0.42 : 0.24) : 1, la = gl.la, lb = gl.lb, lz = gl.lz, lc = gl.lc, L = gl.L, byKind = gl.colorBy === 'kind';
+    var em = glEm(), emN = gl.emN, emL = gl.emL, dim = em ? (em.kind === 'link' ? 0.6 : em.kind === 'hover' ? 0.32 : lite ? 0.3 : 0.16) : 1, la = gl.la, lb = gl.lb, lz = gl.lz, lc = gl.lc, L = gl.L, byKind = gl.colorBy === 'kind';
     // every documented link, hair-thin: one path for each colour and each band of depth. On dark they add light; on paper they are ink.
     // The lines from a check to the names it mentions are not drawn at rest (there are more of them than links): they show when lit, or when asked for.
-    var mentionsOn = gl.mentions || map.level === 2;
+    var mentionsOn = gl.mentions || map.level === 2, xlim = map.level === 0 ? (ph ? 50 : 110) : map.level === 1 ? 480 : 1e9, hlim = map.level === 0 ? (ph ? 24 : 48) : 1e9;
     for (i = 0; i < E; i++) {
       l = L[i];
       if (!glLinkOn(l)) { lz[i] = 255; continue; }
       if (emL[i]) { lz[i] = 254; continue; }
       if (l.kind !== 'rel' && !mentionsOn) { lz[i] = 252; continue; }
+      if ((lc[i] === 9 && gl.lr[i] >= xlim) || (lc[i] === 21 && gl.lr[i] >= hlim)) { lz[i] = 251; continue; }   // a weaker link between topics waits until it is lit or asked for
       if (l.unv) { lz[i] = 253; continue; }
       f = ((sz[la[i]] + sz[lb[i]]) * 0.5 + 1.05) / 2.1; lz[i] = f <= 0 ? 0 : f >= 1 ? 5 : (f * 6) | 0;
+      if (gl.lq[i]) {   // where its bow passes, on the screen
+        k = i * 3; X = gl.LQ[k]; Y = gl.LQ[k + 1]; Z = gl.LQ[k + 2]; zz = r6 * X + r7 * Y + r8 * Z; s = D / (D - zz);
+        gl.qx[i] = cx + (r0 * X + r1 * Y + r2 * Z) * s * radx; gl.qy[i] = cy - (r3 * X + r4 * Y + r5 * Z) * s * rady;
+        gl.qd[i] = 0.5 * Math.hypot(gl.qx[i] - (sx[la[i]] + sx[lb[i]]) / 2, gl.qy[i] - (sy[la[i]] + sy[lb[i]]) / 2);
+      } else { gl.qx[i] = (sx[la[i]] + sx[lb[i]]) / 2; gl.qy[i] = (sy[la[i]] + sy[lb[i]]) / 2; gl.qd[i] = 0; }
     }
-    var cheap = lite || (gl.moving && gl.lowq >= 1) || (gl.dbg & 1);
-    c.globalCompositeOperation = cheap ? 'source-over' : 'lighter'; c.lineWidth = lite ? (ph ? 0.6 : 0.7) : (ph ? 0.7 : 0.8); c.lineCap = 'butt';
-    var zk = Math.min(1.6, 0.8 + 0.2 * gl.zoom) * (ph ? 0.7 : 1) * (lite ? 1.15 : cheap ? 1.3 : 1);   // on a small screen the same links are packed closer, so each is fainter
+    /* The links at rest are a quiet texture under the names: hair-thin, in a tone near the surface with a little of the topic's
+       colour, bowed, and strongest at their two ends: the middle of a long link is drawn at a third of the strength, so a link
+       that crosses the globe nearly vanishes on the way. While the globe is moving on a slow machine they are plain lines. */
+    var cheap = (gl.moving && gl.lowq >= 1) || (gl.dbg & 1), qx = gl.qx, qy = gl.qy, x0, y0, x1, y1, ex, ey, len, u, v, pass;
+    c.globalCompositeOperation = 'source-over'; c.lineWidth = (ph ? 0.5 : lite ? 0.6 : 0.7) * Math.min(1.5, 0.85 + 0.15 * gl.zoom); c.lineCap = 'butt';
+    var zk = Math.min(1.5, 0.85 + 0.15 * gl.zoom) * (ph ? 0.8 : 1);
     var GLA = lite ? GLA_L : GLA_D;
     for (q = 0; q < gl.cs.length - 1; q++) {
-      var a0 = gl.cs[q], a1 = gl.cs[q + 1], cls = lc[a0], fac = (cls < 9 ? 1 : cls === 9 ? 0.8 : cls < 20 ? 0.36 : cls === 21 ? 0.3 : 0.4) * dim * zk;
-      c.strokeStyle = byKind || cls === 9 || cls >= 19 ? GC.line : GC.t[cls % 10];
-      for (b = 0; b < 6; b++) {
+      var a0 = gl.cs[q], a1 = gl.cs[q + 1], cls = lc[a0], fac = (cls < 9 ? 1 : cls === 9 ? 0.9 : cls < 20 ? 0.4 : cls === 21 ? 0.75 : 0.4) * dim * zk;
+      c.strokeStyle = byKind || cls >= 9 ? GC.lkn : GC.lk[cls];
+      for (b = 0; b < 6; b++) for (pass = 0; pass < (cheap ? 1 : 2); pass++) {
         var any = false; c.beginPath();
-        for (i = a0; i < a1; i++) if (lz[i] === b) { any = true; c.moveTo(sx[la[i]], sy[la[i]]); c.lineTo(sx[lb[i]], sy[lb[i]]); }
-        if (any) { c.globalAlpha = Math.min(1, GLA[b] * fac); c.stroke(); }
+        for (i = a0; i < a1; i++) if (lz[i] === b) {
+          x0 = sx[la[i]]; y0 = sy[la[i]]; x1 = sx[lb[i]]; y1 = sy[lb[i]];
+          if (cheap) { any = true; c.moveTo(x0, y0); c.lineTo(x1, y1); continue; }
+          ex = qx[i]; ey = qy[i]; len = Math.abs(x1 - x0) + Math.abs(y1 - y0);
+          if (!pass) { if (len >= 56) { any = true; c.moveTo(x0, y0); c.quadraticCurveTo(ex, ey, x1, y1); } continue; }   // the whole link, faint
+          any = true;
+          if (len < 56) { c.moveTo(x0, y0); c.quadraticCurveTo(ex, ey, x1, y1); continue; }   // a short link is drawn whole
+          u = Math.max(0.14, 22 / len); v = 1 - u;   // the two ends, at full strength
+          c.moveTo(x0, y0); c.quadraticCurveTo(x0 + (ex - x0) * u, y0 + (ey - y0) * u, v * v * x0 + 2 * u * v * ex + u * u * x1, v * v * y0 + 2 * u * v * ey + u * u * y1);
+          c.moveTo(u * u * x0 + 2 * u * v * ex + v * v * x1, u * u * y0 + 2 * u * v * ey + v * v * y1); c.quadraticCurveTo(ex + (x1 - ex) * v, ey + (y1 - ey) * v, x1, y1);
+        }
+        if (any) { c.globalAlpha = Math.min(1, GLA[b] * fac * (cheap ? 0.6 : pass ? 1 : 0.3)); c.stroke(); }
       }
     }
     // links that rest only on an unverified allegation are dashed
-    c.setLineDash([3, 3]); c.strokeStyle = GC.line; c.lineWidth = 0.8;
+    c.setLineDash([2, 3]); c.strokeStyle = GC.lkn;
     for (b = 0; b < 6; b++) {
       any = false; c.beginPath();
       for (i = 0; i < E; i++) if (lz[i] === 253) { f = ((sz[la[i]] + sz[lb[i]]) * 0.5 + 1.05) / 2.1; if (((f <= 0 ? 0 : f >= 1 ? 5 : (f * 6) | 0)) === b) { any = true; c.moveTo(sx[la[i]], sy[la[i]]); c.lineTo(sx[lb[i]], sy[lb[i]]); } }
-      if (any) { c.globalAlpha = Math.min(1, GLA[b] * 1.5 * dim); c.stroke(); }
+      if (any) { c.globalAlpha = Math.min(1, GLA[b] * 0.9 * dim * zk); c.stroke(); }
     }
     c.setLineDash([]);
     // the lit links: by kind of relationship for a selection, in the topic's colour for a topic, in the accent for a path
@@ -1712,6 +1751,14 @@
     }
     c.globalCompositeOperation = 'source-over';
     var NA = lite ? NA_L : NA_D;
+    // a link stops at the edge of a mark: each mark on the near side stands in a small gap of the surface's own colour
+    c.fillStyle = GC.kn; c.globalAlpha = 0.92; c.beginPath();
+    for (i = 0; i < N; i++) {
+      if (nk[i] === 255 || (nk[i] & 7) < 4) continue; n = nodes[i];
+      r = n.gr * zr * ss[i] * ss[i] * 0.72 * (emN[i] && em.kind !== 'topic' ? 1.25 : 1); if (r < 1.1) continue;
+      r += r > 3 ? 2 : 1.4; c.moveTo(sx[i] + r, sy[i]); c.arc(sx[i], sy[i], r, 0, 6.2832);
+    }
+    c.fill();
     c.lineWidth = 0.7;
     for (q = 0; q < 120; q++) {
       if (!used[q]) continue;
@@ -1828,7 +1875,7 @@
     if (!gl.ok) return null;
     var best = null, bd = 4.5, i, x0, y0, x1, y1, dx, dy, t, d, lit = false;
     for (i = 0; i < gl.E; i++) {
-      var z = gl.lz[i]; if (z === 255 || (z < 3 && z !== 254)) continue;
+      var z = gl.lz[i]; if (z === 255 || (z !== 254 && (z < 3 || z > 5 || gl.qd[i] > 4))) continue;   // a link at rest is picked only where it is drawn, and close to straight
       if (z !== 254 && (lit || gl.L[i].kind !== 'rel')) continue;
       x0 = gl.sx[gl.la[i]]; y0 = gl.sy[gl.la[i]]; x1 = gl.sx[gl.lb[i]]; y1 = gl.sy[gl.lb[i]]; dx = x1 - x0; dy = y1 - y0;
       t = ((px - x0) * dx + (py - y0) * dy) / (dx * dx + dy * dy || 1); if (t < 0.04 || t > 0.96) continue;
