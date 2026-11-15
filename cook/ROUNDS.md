@@ -232,3 +232,10 @@ Measured: `shots.js 04` 12 stills, no console errors, no overflow; `globefunc.js
 Known weak points: bright crowded core at rest; weak lobes for smaller topics; light toolbar above dark workspace in light theme; matrix column labels dense at 1x; about 700 lines of dead wheel code still in app.js; "Single-Source" grade inferred from checks.
 
 Stop check: bar not scored | stills approved no -> waiting on the user's read of the new direction; live site not republished.
+
+## User feedback after round 04 (exact words, 15 Nov)
+
+"Ok we going in the right direction, the network just look a little too busy and cramped, can we make it a bit more spacious. Another big problem is the fonts, the icons, the layout of the rest of the UI just look too ai-generated, can we make it better, improve it, aim for clean and professional look, fitting the new look of the network. Also, the network should be changed as well in light mode, not just keeping it the same and change the outside layout only. Make sure to also test the text colors on all modes, no dimmed and faded color on dark mode, no too bright color on beight mode, etc"
+
+Decisions:
+- Round 5: (a) globe more spacious, with a real light-mode rendering; (b) matrix light-mode rendering; (c) fonts, icons and layout of the whole UI redone to match the workspace; (d) an automated text-contrast audit in both themes, then fixes.
