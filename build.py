@@ -1582,6 +1582,9 @@ def slim(graph):
 _MONTHS = ("Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec")
 _ISO_DAY = re.compile(r"(?<![\w/.-])((?:19|20)\d{2})-(0[1-9]|1[0-2])-(0[1-9]|[12]\d|3[01])(?![\w/-])")
 _ISO_MONTH = re.compile(r"(?<![\w/.-])((?:19|20)\d{2})-(0[1-9]|1[0-2])(?![\w/-]|\.\d)")
+_ISO_DAY_PAIR = re.compile(r"(?<![\w/.-])((?:19|20)\d{2})-(0[1-9]|1[0-2])-(0[1-9]|[12]\d|3[01])/(0?[1-9]|[12]\d|3[01])(?![\w/-])")
+_ISO_MONTH_SPAN = re.compile(r"(?<![\w/.-])((?:19|20)\d{2})-(0[1-9]|1[0-2])/((?:19|20)\d{2})(?:-(0[1-9]|1[0-2]))?(?![\w/-])")
+_ISO_MONTH_PAIR = re.compile(r"(?<![\w/.-])((?:19|20)\d{2})-(0[1-9]|1[0-2])/(0[1-9]|1[0-2])(?![\w/-])")
 _ISO_QUARTER = re.compile(r"(?<![\w/.-])((?:19|20)\d{2})-Q([1-4])(?![\w/-])")
 _URL = re.compile(r"(https?://[^\s)>\]]+)")
 _MACHINE_KEYS = {"date", "dates", "url", "source_url", "sources", "generated", "key", "id", "hash", "s", "t", "claims",
@@ -1601,6 +1604,10 @@ def human_dates(text):
     parts = _URL.split(text)
     for i in range(0, len(parts), 2):
         t = parts[i]
+        t = _ISO_DAY_PAIR.sub(lambda m: f"{int(m.group(3))}/{int(m.group(4))} {_MONTHS[int(m.group(2)) - 1]} {m.group(1)}", t)
+        t = _ISO_MONTH_SPAN.sub(lambda m: f"{_MONTHS[int(m.group(2)) - 1]} {m.group(1)} to "
+                                + (f"{_MONTHS[int(m.group(4)) - 1]} " if m.group(4) else "") + m.group(3), t)
+        t = _ISO_MONTH_PAIR.sub(lambda m: f"{_MONTHS[int(m.group(2)) - 1]}/{_MONTHS[int(m.group(3)) - 1]} {m.group(1)}", t)
         t = _ISO_DAY.sub(lambda m: f"{int(m.group(3))} {_MONTHS[int(m.group(2)) - 1]} {m.group(1)}", t)
         t = _ISO_QUARTER.sub(lambda m: f"Q{m.group(2)} {m.group(1)}", t)
         t = _ISO_MONTH.sub(_month_date, t)
