@@ -64,3 +64,53 @@ Critics also asked for sentence-case headings; not adopted, because the user exp
 
 Stop check: bar no | cap not reached | stills approved no -> next round
 Next focus: round 1 — rebuild the map's default, selected, dark and phone states; add the connection matrix view; fix digits, dates and link noise site-wide.
+
+## Round 01
+
+Time: 19:45 to 21:20 | total elapsed 1.8h
+Usage: not readable
+Focus: the map (lowest baseline scores), plus site-wide typographic tells.
+
+Changes:
+- Map: layout recomputed so names cluster by topic; top ~50 names larger and labelled with collision avoidance; only key links at rest (Donald Trump's links not drawn at rest); Detail control (Key Names / More / Everything); topic arcs tinted with names on the arc; selection re-laid out radially by relationship type; side card with grouped connections; slim legend, Filters popover; own dark palette; phone ellipse, chips and bottom sheets.
+- Matrix view added (direct links, top names, Trump pinned as a strip, six group bands, three-step ramp, hollow unverified cells, cross-hair hover, cell panel, "Show on Network", "Names by Topic").
+- Home teaser redrawn as a 15-name mini-network.
+- Type: Public Sans for text and UI, Source Serif 4 for headlines; no monospace. Dates formatted "1 Feb 2026". Names in lists are ink-coloured with hover underline; no ellipsis truncation; one callout style.
+
+Stills: `cook/stills/r01/` (12) | Side by side: `cook/compare/r01/` (8, reference left)
+
+Scores, eyeballed: critic median, raw (2 critics: same model and Opus; side-by-sides with references R01-R09)
+
+| Shot | Layout | Type | Colour | Clarity | Polish | Not generated | Map | vs r00 |
+|---|---|---|---|---|---|---|---|---|
+| S01 home | 7.25 | 7.75 | 7.5 | 7.5 | 7.25 | 6.75 | | up ~0.7 |
+| S02 home list | 7.25 | 8 | 7.25 | 8.25 | 7.5 | 7.5 | | up ~1.3 |
+| S03 check | 7.75 | 8 | 7.75 | 8.25 | 7.5 | 7.5 | | up ~0.6 |
+| S04 profile | 7 | 7.75 | 7.25 | 7.5 | 7 | 7 | | up ~0.7 |
+| S05 map light | 6.5 | 6.5 | 7 | 5.75 | 6.5 | 7.25 | 5.5 | up ~1.3 (map +1.75) |
+| S06 map selected | 7.25 | 7 | 7.5 | 7.25 | 7 | 8 | 7.25 | up ~1.5 (map +2.25) |
+| S07 map dark | 6.5 | 6.5 | 7 | 5.75 | 6.5 | 7.25 | 5.5 | up ~1.1 (map +2) |
+| S08 home phone | 7 | 7.5 | 7.75 | 7.25 | 7 | 7 | | up ~0.7 |
+| S09 map phone | 6.75 | 7 | 7.25 | 6.25 | 6.75 | 7.25 | 6 | up ~2 (map +3) |
+| S10 check phone | 7.75 | 8 | 7.75 | 8.25 | 7.5 | 7.5 | | up ~0.6 |
+| S11 matrix | 6.5 | 6.5 | 6.75 | 6.5 | 6.75 | 7.75 | 6.25 | new |
+| S12 map topic | 6.5 | 6.75 | 6.75 | 5.75 | 6.25 | 7.25 | 5.5 | new |
+
+Own score (logged, never decides): map default 7, selected 7.5, matrix 6.5, reading pages 7.5.
+
+Measured: `node cook/harness/shots.js 01` — 12 stills, no console errors, no horizontal overflow.
+
+Not checked this round: fonts in the published frame; pinch-zoom on a real phone.
+
+Top gaps from critics (both agree):
+1. Map default: labels still collide in the core and sit on lines; all links one weight; core fills only half the canvas; the outer dot clouds read as confetti and the arc beads are unexplained; rotated topic labels; dark-theme links nearly invisible; toolbar "Detail" label unclear and the black hint looks like a stuck tooltip.
+2. Topic-selected state: hundreds of lines fan into a haze; the topic's own names are a heap; non-members not dimmed enough; map not re-fitted when the panel opens.
+3. Matrix: cells too small with unused width; three blues too close; unverified outline invisible; no column group headers; Trump strip not clearly separate; "Names by Name" wording.
+4. Reading pages: statistics buried in a paragraph on home; no figure rows on home and profile; verdict not a proper block; no date or provenance under titles; profile star diagram says little; repeated grey disclaimer; three pill buttons and a boxed teaser card look templated; phone header crowded.
+
+Decisions:
+- 21:20 Critics want the outer name clouds removed. The user said the full set of nodes is what makes the map interesting, so they stay, but quieter and explained (a count per topic, clearer grouping), with the full web at "Everything". This is the one point to raise with the user at the checkpoint.
+- 21:20 Round 2 runs two builders in parallel with separate ownership (map and matrix / reading pages and header) to stay inside the 3h cap.
+
+Stop check: bar no | cap not reached (1.8h of 3h) | stills approved no -> next round
+Next focus: round 2 — map and matrix legibility; editorial structure of home, check and profile pages; phone header.
