@@ -1611,8 +1611,14 @@ def human_dates(text):
 def reader_dates(obj, key=None):
     """Rewrite machine dates inside every reader-facing string of the website copy."""
     if isinstance(obj, dict):
-        return {k: (v if k in _MACHINE_KEYS and k != "sources" or (k == "sources" and v and isinstance(v[0], str))
-                    else reader_dates(v, k)) for k, v in obj.items()}
+        out = {}
+        for k, v in obj.items():
+            if k == "sources":              # a list of addresses stays as it is; a list of cited sources is walked
+                keep = not isinstance(v, list) or all(isinstance(u, str) for u in v)
+            else:
+                keep = k in _MACHINE_KEYS
+            out[k] = v if keep else reader_dates(v, k)
+        return out
     if isinstance(obj, list):
         return [reader_dates(v, key) for v in obj]
     if isinstance(obj, str):
