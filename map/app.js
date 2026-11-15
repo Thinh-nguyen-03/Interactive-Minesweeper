@@ -1896,7 +1896,7 @@
   var RKLABEL = { money: 'Money', own: 'Ownership & Business', role: 'Advice & Roles', gov: 'Government & Law', family: 'Family', media: 'Reporting' };
   var gl = { ok: false, N: 0, P: null, sx: null, sy: null, sz: null, ss: null, q: [1, 0, 0, 0], q0: [1, 0, 0, 0], R: new Float32Array(9), zoom: 1, cx: 0, cy: 0, rad: 100, D: 3.1,
     wx: 0, wy: 0, drag: null, pinch: null, anim: null, raf: 0, last: 0, idleAt: 0, over: false, colorBy: 'topic', still: !!window.__STILL__, hovLink: null, tdir: [], tcap: [],
-    stamp: 0, em: null, emSt: null, emN: null, emL: null, ms: 0, frames: 0, bgGrad: null, sprites: {}, dragged: false };
+    stamp: 0, lowq: 0, moving: false, em: null, emSt: null, emN: null, emL: null, ms: 0, frames: 0, bgGrad: null, sprites: {}, dragged: false };
   function glRand(seed) { var s = seed >>> 0; return function () { s = (s + 0x6D2B79F5) | 0; var t = Math.imul(s ^ (s >>> 15), 1 | s); t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t; return ((t ^ (t >>> 14)) >>> 0) / 4294967296; }; }
   function qmul(a, b) { return [a[0] * b[0] - a[1] * b[1] - a[2] * b[2] - a[3] * b[3], a[0] * b[1] + a[1] * b[0] + a[2] * b[3] - a[3] * b[2], a[0] * b[2] - a[1] * b[3] + a[2] * b[0] + a[3] * b[1], a[0] * b[3] + a[1] * b[2] - a[2] * b[1] + a[3] * b[0]]; }
   function qaxis(x, y, z, ang) { var l = Math.hypot(x, y, z) || 1, s = Math.sin(ang / 2) / l; return [Math.cos(ang / 2), x * s, y * s, z * s]; }
@@ -1937,9 +1937,7 @@
       if (n.kind === 'claim' || (n.kind === 'entity' && (others >= 2 || n.cl.length >= 2 || n === hub))) { n.gs = S.length; S.push(n); }
     });
     var M = S.length, x = new Float64Array(M), y = new Float64Array(M), z = new Float64Array(M), vx = new Float64Array(M), vy = new Float64Array(M), vz = new Float64Array(M),
-      m = new Float64Array(M), gx = new Float64Array(M), ax = new Float64Array(M), ay = new Float64Array(M), az = new Float64Array(M), ak = new Float64Array(M), deg = new Float64Array(M);
-    window.__layoutM = M;
-    var SL = links.filter(function (l) { return l.source.gs >= 0 && l.target.gs >= 0; }), E = SL.length;
+      m = new Float64Array(M), gx = new Float64Array(M), ax = new Float64Array(M), ay = new Float64Array(M), az = new Float64Array(M), ak = new Float64Array(M), deg = new Float64Array(M);    var SL = links.filter(function (l) { return l.source.gs >= 0 && l.target.gs >= 0; }), E = SL.length;
     var ls = new Int32Array(E), lt = new Int32Array(E), ld = new Float32Array(E), lk = new Float32Array(E), lb = new Float32Array(E);
     SL.forEach(function (l, q) { ls[q] = l.source.gs; lt[q] = l.target.gs; deg[ls[q]]++; deg[lt[q]]++; });
     SL.forEach(function (l, q) {
@@ -2376,7 +2374,7 @@
       var u = Math.min(1, (t - a.t0) / a.dur), e = u < 0.5 ? 4 * u * u * u : 1 - Math.pow(-2 * u + 2, 3) / 2;
       gl.q = qslerp(a.q0, a.q1, e); gl.zoom = a.z0 + (a.z1 - a.z0) * e;
       if (u >= 1) gl.anim = null; more = true;
-    } else if (gl.drag) more = false;
+    } else if (gl.drag) { more = !!gl.drag.live; gl.drag.live = false; }
     else if (Math.abs(gl.wx) + Math.abs(gl.wy) > 0.00003) {
       var ang = Math.hypot(gl.wx, gl.wy) * dt; glSpin(gl.wx, gl.wy, ang);
       var k = Math.pow(0.93, dt / 16); gl.wx *= k; gl.wy *= k; more = true;
@@ -2595,7 +2593,7 @@
           return '<li data-hov="' + esc(o.key) + '"><span class="when">' + esc(fdate(String(r.date).split('/')[0])) + '</span><span class="sumsay">' + esc(cap(plainSentence(r))) + '</span>' + cites(r.claims.slice(0, 1)) + '</li>';
         }), 5, 'Dated Links', 'ol', 'pchecks ptl');
         if (n.cl.length) body += '<h3>Checks That Mention ' + (n.group === 'person' ? 'Them' : 'It') + ' <span class="cnt">' + n.cl.length + '</span></h3>' + fold(n.cl.map(function (c) { return '<li data-hov="' + esc(c.key) + '">' + kmark(c) + nodeBtn(c, c.title) + '<a class="cite" href="' + claimHref(c) + '" title="Open the check">' + esc(c.id) + '</a></li>'; }), 6, 'Checks', 'ul', 'pchecks');
-        h = panelShell(kmark(n) + esc(TLABEL[n.type]) + (n.top ? ' · <span class="tsw" style="background:var(--t' + (n.top.ci + 1) + ')" aria-hidden="true"></span>' + esc(n.top.name) : ''), esc(n.name), body, acts);
+        h = panelShell(kmark(n) + esc(TLABEL[n.type]) + (n.top && n !== map.hub ? ' · <span class="tsw" style="background:var(--t' + (n.top.ci + 1) + ')" aria-hidden="true"></span>' + esc(n.top.name) : ''), esc(n.name), body, acts);
       } else if (n.kind === 'claim') {
         body = (isUnv(n) ? '<p class="pflag">' + mark('unverified') + 'Denied by everyone named and not corroborated</p>' : '') + '<p class="prole">' + rich(firstSentence(n.bottom_line)) + '</p>' +
           '<p class="ptally">' + bar(n.tally || [], 'mini') + esc(tallyText(n)) + '</p>';
@@ -2797,7 +2795,7 @@
         if (!gl.dragged) { gl.dragged = true; canvas.classList.add('grabbing'); if (map.hover || gl.hovLink) { map.hover = null; gl.hovLink = null; showTip(null); } hintOff(); }
         glSpin(dy, dx, Math.hypot(dx, dy) / R);
         gl.wx = gl.wx * 0.4 + 0.6 * dy / R / dt; gl.wy = gl.wy * 0.4 + 0.6 * dx / R / dt;
-        requestDraw(); return;
+        gl.drag.live = true; glWake(); return;
       }
       if (e.pointerType !== 'mouse') return;
       gl.over = true;
