@@ -1133,16 +1133,6 @@
     f.adj.forEach(function (l, k) { if (l.vis && shown(byKey.get(k))) { set.add(byKey.get(k)); hl.add(l); } });
     return { nodes: set, links: hl };
   }
-  function emphasis() {   // what stands out on the full map: the mark under the pointer, a path, an isolated network or a topic
-    if (map.hover && map.hover.vis) { var fs = focusSet(map.hover); return { kind: 'hover', lead: map.hover, nodes: fs.nodes, links: fs.links }; }
-    if (map.path && map.path.set) return { kind: 'path', nodes: map.path.set, links: map.path.links };
-    if (map.iso) {
-      var ns = new Set(nodes.filter(function (n) { return n.vis; })), ls = new Set(links.filter(function (l) { return l.vis; }));
-      return { kind: 'iso', lead: map.iso.node, nodes: ns, links: ls };
-    }
-    if (map.topicSet) return { kind: 'topic', nodes: map.topicSet.nodes, links: map.topicSet.links, topic: map.topicSet.topic, w: map.topicSet.w };
-    return null;
-  }
 
   // ---- drawing
   function rrect(c, x, y, w, h, q) { c.moveTo(x + q, y); c.arcTo(x + w, y, x + w, y + h, q); c.arcTo(x + w, y + h, x, y + h, q); c.arcTo(x, y + h, x, y, q); c.arcTo(x, y, x + w, y, q); c.closePath(); }
@@ -1204,20 +1194,6 @@
       var y = p.y - p.th / 2 + lh / 2 + i * lh;
       c.lineWidth = 3.4; c.strokeStyle = C.bg; c.strokeText(t, ax, y); c.fillStyle = color; c.fillText(t, ax, y);
     });
-    c.globalAlpha = 1;
-  }
-  /* Text set along an arc of the ring, upright on both halves. */
-  function arcText(c, text, cx, cy, rx, ry, mid, font, color, alpha) {
-    var lower = Math.sin(mid) > 0.02, dir = lower ? -1 : 1, i;
-    function speed(a) { return Math.hypot(rx * Math.sin(a), ry * Math.cos(a)) || 1; }
-    c.font = font; c.fillStyle = color; c.globalAlpha = alpha; c.textAlign = 'center'; c.textBaseline = 'alphabetic';
-    var total = textW(c, font, text), a = mid - dir * (total / 2) / speed(mid);
-    for (i = 0; i < text.length; i++) {
-      var ch = text[i], cw = textW(c, font, ch), am = a + dir * (cw / 2) / speed(a);
-      var x = cx + rx * Math.cos(am), y = cy + ry * Math.sin(am), tx = -rx * Math.sin(am) * dir, ty = ry * Math.cos(am) * dir;
-      c.save(); c.translate(x, y); c.rotate(Math.atan2(ty, tx)); c.fillText(ch, 0, 0); c.restore();
-      a += dir * cw / speed(am);
-    }
     c.globalAlpha = 1;
   }
   function requestDraw() { if (!drawQueued) { drawQueued = true; requestAnimationFrame(function () { drawQueued = false; draw(); }); } }
