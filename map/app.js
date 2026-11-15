@@ -1207,7 +1207,7 @@
     var box = canvas.parentElement.getBoundingClientRect();
     if (box.width < 2 || box.height < 2) return;
     var changed = Math.abs(box.width - W) > 1 || Math.abs(box.height - H) > 1;
-    W = box.width; H = box.height; dpr = Math.min(window.devicePixelRatio || 1, 2);
+    W = box.width; H = box.height; dpr = Math.min(window.devicePixelRatio || 1, gl.lowq >= 2 ? 1 : 2);
     canvas.width = Math.round(W * dpr); canvas.height = Math.round(H * dpr);
     obstacles(); glFrame(); fitted = true;
     draw(); if (changed) glWake();
@@ -2009,7 +2009,8 @@
       var even = Math.pow((q + 0.5) / byR.length, 0.38) * rmax, k = (0.25 * Math.min(l, rmax * 1.1) + 0.75 * even) / l;
       n.g3 = [p[0] * k, p[1] * k, p[2] * k];
     });
-    try { var flat = []; nodes.forEach(function (n) { flat.push(Math.round(n.g3[0] * 1000), Math.round(n.g3[1] * 1000), Math.round(n.g3[2] * 1000)); }); window.localStorage.setItem(CK, JSON.stringify({ sig: sig, p: flat })); } catch (e) { /* optional */ }
+    var flat = []; nodes.forEach(function (n) { for (var q = 0; q < 3; q++) { flat.push(Math.round(n.g3[q] * 1000)); n.g3[q] = flat[flat.length - 1] / 1000; } });
+    try { window.localStorage.setItem(CK, JSON.stringify({ sig: sig, p: flat })); } catch (e) { /* optional */ }
     })();
     var rr = nodes.map(function (n) { return Math.hypot(n.g3[0], n.g3[1], n.g3[2]); }).sort(function (p, q) { return p - q; }), sc = 1 / (rr[Math.floor(rr.length * 0.985)] || 1);
     gl.N = nodes.length; gl.P = new Float32Array(gl.N * 3); gl.sx = new Float32Array(gl.N); gl.sy = new Float32Array(gl.N); gl.sz = new Float32Array(gl.N); gl.ss = new Float32Array(gl.N);
@@ -2370,7 +2371,7 @@
   function glTick(t) {
     gl.raf = 0;
     if (state.view !== 'map' || map.mode !== 'network' || !gl.ok || !W) return;
-    var dt = gl.last ? Math.min(48, t - gl.last) : 16, more = false; gl.last = t;
+    var raw = gl.last ? t - gl.last : 16, dt = Math.min(48, raw), more = false; gl.last = t;
     if (gl.anim) {
       var a = gl.anim; if (!a.t0) a.t0 = t;
       var u = Math.min(1, (t - a.t0) / a.dur), e = u < 0.5 ? 4 * u * u * u : 1 - Math.pow(-2 * u + 2, 3) / 2;
@@ -2381,7 +2382,13 @@
       var ang = Math.hypot(gl.wx, gl.wy) * dt; glSpin(gl.wx, gl.wy, ang);
       var k = Math.pow(0.93, dt / 16); gl.wx *= k; gl.wy *= k; more = true;
     } else if (glAuto()) { glSpin(0, 1, 0.00005 * dt); more = true; }
-    draw();
+    /* If frames come slowly while the globe is moving, it is drawn more cheaply while it moves: first without added light,
+       then at one canvas pixel per screen pixel. The picture at rest is always drawn in full. */
+    if (more && raw < 400) {
+      gl.fema = gl.fema ? gl.fema * 0.9 + raw * 0.1 : raw; gl.fn = (gl.fn || 0) + 1;
+      if (gl.fn > 24 && gl.fema > 26 && gl.lowq < 2 && !gl.still) { gl.lowq++; gl.fn = 0; gl.fema = 0; if (gl.lowq === 2 && dpr > 1) { fitted = false; W = 0; resize(); } }
+    }
+    gl.moving = more; draw();
     if (more) gl.raf = requestAnimationFrame(glTick);
   }
   window.__mapProbe = function (key) {   // for tests: where a mark is on the canvas now, and how long a frame takes
