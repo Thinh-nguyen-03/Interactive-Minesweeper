@@ -1,15 +1,16 @@
 <title>Trump Claims Map</title>
 <meta name="claude:viewport-fit-sides" content="cover">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600;700&family=Bricolage+Grotesque:opsz,wdth,wght@12..96,75..100,500..800&family=Schibsted+Grotesk:ital,wght@0,400..800;1,400..600&display=swap">
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" href="matrix.css">
+<link rel="stylesheet" href="ui.css">
 
 <a class="skip" href="#app">Skip to the Content</a>
 
 <header class="top">
   <div class="wrap top-in">
     <a class="site" href="#home" id="site-name">
-      <svg width="26" height="18" viewBox="0 0 26 18" aria-hidden="true"><path d="M6 9h14" stroke="currentColor" stroke-width="1.6" fill="none"/><circle cx="6" cy="9" r="4.4" fill="var(--k-person)"/><path d="M20 3.2l5.8 5.8-5.8 5.8-5.8-5.8z" fill="var(--hold)"/></svg>
+      <svg class="logo" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 14.5 18.5 5.5M9 14.5l10.5 4.25M9 14.5 3.75 5" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/><circle cx="9" cy="14.5" r="4.5" fill="currentColor"/><circle class="lit" cx="18.5" cy="5.5" r="2.75"/><circle cx="19.5" cy="18.75" r="2" fill="currentColor"/><circle cx="3.75" cy="5" r="1.75" fill="currentColor"/></svg>
       <span>Trump Claims Map</span>
     </a>
     <nav class="nav" aria-label="Main">
@@ -19,23 +20,23 @@
       <a href="#method" data-nav="method">How We Checked</a>
     </nav>
     <button type="button" class="iconbtn" id="search-toggle" aria-label="Search names and checks" aria-expanded="false" aria-controls="search">
-      <svg width="18" height="18" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><circle cx="7" cy="7" r="4.6"></circle><path d="M10.5 10.5 14 14"></path></svg>
+      <svg class="ic" viewBox="0 0 16 16" aria-hidden="true"><circle cx="7" cy="7" r="4.25"/><path d="M10.2 10.2 13.5 13.5"/></svg>
     </button>
     <div class="search" role="search">
-      <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><circle cx="7" cy="7" r="4.6"></circle><path d="M10.5 10.5 14 14"></path></svg>
+      <svg class="ic" viewBox="0 0 16 16" aria-hidden="true"><circle cx="7" cy="7" r="4.25"/><path d="M10.2 10.2 13.5 13.5"/></svg>
       <label class="sr" for="search">Search names and checks</label>
       <input id="search" type="search" placeholder="Search names and checks" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="search-results" aria-autocomplete="list">
       <ul class="results" id="search-results" role="listbox" hidden></ul>
     </div>
     <div class="themesw" id="theme" role="group" aria-label="Theme">
       <button type="button" data-theme-opt="light" data-tip="Light" aria-label="Light theme" aria-pressed="false">
-        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" aria-hidden="true"><circle cx="8" cy="8" r="3"/><path d="M8 1.2v1.6M8 13.2v1.6M1.2 8h1.6M13.2 8h1.6M3.2 3.2l1.1 1.1M11.7 11.7l1.1 1.1M3.2 12.8l1.1-1.1M11.7 4.3l1.1-1.1"/></svg>
+        <svg class="ic" viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="2.75"/><path d="M8 1.75v1.5M8 12.75v1.5M1.75 8h1.5M12.75 8h1.5M3.6 3.6l1.05 1.05M11.35 11.35l1.05 1.05M3.6 12.4l1.05-1.05M11.35 4.65l1.05-1.05"/></svg>
       </button>
       <button type="button" data-theme-opt="dark" data-tip="Dark" aria-label="Dark theme" aria-pressed="false">
-        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round" aria-hidden="true"><path d="M13.6 9.6A6 6 0 0 1 6.4 2.4a6 6 0 1 0 7.2 7.2z"/></svg>
+        <svg class="ic" viewBox="0 0 16 16" aria-hidden="true"><path d="M13.25 9.4A5.75 5.75 0 0 1 6.6 2.75a5.75 5.75 0 1 0 6.65 6.65z"/></svg>
       </button>
       <button type="button" data-theme-opt="system" data-tip="System" aria-label="System theme" aria-pressed="true">
-        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="1.6" y="2.4" width="12.8" height="8.6" rx="1.4"/><path d="M5.6 13.8h4.8M8 11v2.8"/></svg>
+        <svg class="ic" viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="5.75"/><path class="f" d="M8 2.25a5.75 5.75 0 0 1 0 11.5z"/></svg>
       </button>
     </div>
     <button type="button" class="iconbtn" id="theme-cycle"></button>
@@ -75,7 +76,7 @@
         <button type="button" data-mxo="alpha" aria-pressed="false">A to Z</button>
       </div>
       <button type="button" class="btn barbtn" id="tools-toggle" aria-expanded="false" aria-controls="tools-body">
-        <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="M2 4h12M4.5 8h7M7 12h2"></path></svg>
+        <svg class="ic" viewBox="0 0 16 16" aria-hidden="true"><path d="M2.5 4.25h11M4.5 8h7M6.5 11.75h3"/></svg>
         <span>Filters</span><span class="count" id="filter-count" hidden></span>
       </button>
       <form class="tools-body" id="tools-body" aria-label="Filters" hidden></form>
@@ -91,10 +92,10 @@
       <p class="map-hint" id="focus-note" hidden></p>
       <button type="button" class="map-key" id="key-toggle" aria-expanded="false" aria-controls="legend">Key</button>
       <div class="map-zoom" id="map-zoom" role="group" aria-label="Map controls">
-        <button type="button" id="zoom-in" aria-label="Zoom in" title="Zoom In">+</button>
-        <button type="button" id="zoom-out" aria-label="Zoom out" title="Zoom Out">&minus;</button>
+        <button type="button" id="zoom-in" aria-label="Zoom in" title="Zoom In"><svg class="ic" viewBox="0 0 16 16" aria-hidden="true"><path d="M8 3.25v9.5M3.25 8h9.5"/></svg></button>
+        <button type="button" id="zoom-out" aria-label="Zoom out" title="Zoom Out"><svg class="ic" viewBox="0 0 16 16" aria-hidden="true"><path d="M3.25 8h9.5"/></svg></button>
         <button type="button" id="zoom-fit" aria-label="Show the whole map" title="Show the Whole Map">
-          <svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M1 5V1h4M9 1h4v4M13 9v4H9M5 13H1V9"></path></svg>
+          <svg class="ic" viewBox="0 0 16 16" aria-hidden="true"><path d="M2.75 6V2.75H6M10 2.75h3.25V6M13.25 10v3.25H10M6 13.25H2.75V10"/></svg>
         </button>
       </div>
       <aside class="map-panel" id="panel" aria-label="About the map" hidden></aside>

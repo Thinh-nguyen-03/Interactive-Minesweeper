@@ -545,14 +545,12 @@ summary { cursor: pointer; color: var(--link); font-size: 14.5px; font-weight: 6
     --map-on: #3d4047; --map-on-ink: #f3f4f6;
     --mx0: #2a2c30; --mx1: #2e4573; --mx2: #4f7bcf; --mx3: #b7cdff; --mx-on3: #10151f; --mx-bar: #6d737d;
   }
-  :root:not([data-theme="light"]) .mapview { --bg: #1a1b1e; --card: #242528; --band: #2b2d31; --rule: #393b40; --ink: #eceef1; --ink2: #a6abb3; }
 }
 :root[data-theme="dark"] {
   --map-bg: #1d1e21; --map-edge: #cfd3da; --map-edge-a: .36; --map-dot-a: .5; --map-ring: #34373c; --map-ink: #eceef1; --map-ink2: #a6abb3; --map-plate-a: .82; --map-shade: #000000; --map-disc: #26282c;
   --map-on: #3d4047; --map-on-ink: #f3f4f6;
   --mx0: #2a2c30; --mx1: #2e4573; --mx2: #4f7bcf; --mx3: #b7cdff; --mx-on3: #10151f; --mx-bar: #6d737d;
 }
-:root[data-theme="dark"] .mapview { --bg: #1a1b1e; --card: #242528; --band: #2b2d31; --rule: #393b40; --ink: #eceef1; --ink2: #a6abb3; }
 
 html.is-map { height: 100%; box-sizing: border-box; overflow: hidden; }
 .is-map body { height: 100%; display: flex; flex-direction: column; overflow: hidden; }
@@ -595,11 +593,7 @@ html.is-map { height: 100%; box-sizing: border-box; overflow: hidden; }
 .tools-body .btn { align-self: flex-start; font-size: 14.5px; padding: 5px 12px; }
 
 /* The network workspace: a dark analysis canvas in both themes, with the dossier panel, the read-out and the key in the same palette. */
-.map-stage { position: relative; flex: 1; min-height: 0; overflow: hidden; background: #0a0f17; color: var(--ink); color-scheme: dark;
-  --bg: #0d131c; --card: #0f1620; --band: #18212e; --rule: #243041; --ink: #edf1f7; --ink2: #97a4b8; --link: #9cc0ff; --visited: #9cc0ff; --shadow: rgba(0, 0, 0, .55);
-  --hold: #63c193; --part: #dfa955; --unp: #b9a4ea; --wrong: #ee8f86; --hold-bg: #16301f; --part-bg: #33260f; --unp-bg: #262040;
-  --k-person: #7fb0ff; --k-org: #43c8d6; --k-gov: #eab552; --k-other: #9aa6b8; --mx-bar: #5d6c84; --map-on: #e9eef6; --map-on-ink: #0d131c; --lit: #ffd98a;
-  --t1: #6fa8ff; --t2: #35cfc4; --t3: #cfcf6a; --t4: #f2a84b; --t5: #f27e5e; --t6: #ea7aa9; --t7: #a890f5; --t8: #7ed48b; --t9: #a3b6cd; }
+.map-stage { position: relative; flex: 1; min-height: 0; overflow: hidden; background: var(--cv-bg); color: var(--ink); }
 #graph { position: absolute; inset: 0; width: 100%; height: 100%; display: block; touch-action: none; cursor: grab; }
 #graph.over { cursor: pointer; } #graph.grabbing { cursor: grabbing; }
 /* the read-out on the canvas: what is drawn, and what is lit */

@@ -41,7 +41,8 @@ const {chromium}=require('playwright'); const serve=require('./serve.js');
   await ok('topic from panel',async()=>url(p)==='map-topic-gulf-money'&&/13 Checks/.test(await txt(p,'#panel'))&&/Gulf Money/.test(await txt(p,'#hud'))||url(p));
   await p.click('.pback'); await p.waitForTimeout(400);
   await ok('All Topics goes back',async()=>url(p)==='map'&&/Where to Start/.test(await txt(p,'#panel h2'))||url(p));
-  await p.click('#legend a[data-topic="crypto-ventures"]').catch(()=>{}); await p.waitForTimeout(400);
+  if(await p.locator('#legend [data-act="key"][aria-expanded="false"]').count()){ await p.click('#legend [data-act="key"]'); await p.waitForTimeout(250); }   // the key is folded to one line until asked for
+  await p.click('#legend a[data-topic="crypto-ventures"]',{timeout:4000}).catch(()=>{}); await p.waitForTimeout(400);
   await ok('topic from the key',async()=>/^map-topic-/.test(url(p))||url(p)); await p.keyboard.press('Escape'); await p.goto('http://localhost:'+port+'/#map'); await p.waitForTimeout(500);
   await p.click('#tools-toggle'); await p.waitForTimeout(200); await p.click('.chk >> nth=1'); await p.waitForTimeout(300);
   await ok('filter: count shown and fewer names',async()=>(await txt(p,'#filter-count'))==='1'&&!/Names1,332/.test(await txt(p,'#hud'))||await txt(p,'#hud'));
@@ -55,8 +56,10 @@ const {chromium}=require('playwright'); const serve=require('./serve.js');
   await ctx.close();
   // motion: turns by itself at rest; not with reduced motion
   for(const rm of ['no-preference','reduce']){ ctx=await b.newContext({viewport:{width:1200,height:800},reducedMotion:rm}); p=await ctx.newPage(); watch(p,'motion');
-    await p.goto('http://localhost:'+port+'/#map'); await p.waitForTimeout(2600); const a=await probe(p,'e:sec'); await p.waitForTimeout(1500); const c=await probe(p,'e:sec');
-    const moved=Math.hypot(a.x-c.x,a.y-c.y)>1.5; await ok(rm==='reduce'?'reduced motion: no turning by itself':'turns slowly by itself at rest',async()=>(rm==='reduce'?!moved:moved)||JSON.stringify([a,c])); await ctx.close(); }
+    // three names are watched: one that happens to sit on the turning axis, or to be moving along the line of sight, hardly moves on the screen
+    const keys=['e:sec','e:world-liberty-financial','e:trump-media'], at=async()=>{ const o=[]; for(const k of keys) o.push(await probe(p,k)); return o; };
+    await p.goto('http://localhost:'+port+'/#map'); await p.waitForTimeout(2600); const a=await at(); await p.waitForTimeout(1500); const c=await at();
+    const moved=Math.max(...a.map((q,i)=>q&&c[i]?Math.hypot(q.x-c[i].x,q.y-c[i].y):0))>1.5; await ok(rm==='reduce'?'reduced motion: no turning by itself':'turns slowly by itself at rest',async()=>(rm==='reduce'?!moved:moved)||JSON.stringify([a,c])); await ctx.close(); }
   // phone
   ctx=await b.newContext({viewport:{width:400,height:860},hasTouch:true,isMobile:true}); await ctx.addInitScript(()=>{window.__STILL__=true;}); p=await ctx.newPage(); watch(p,'phone');
   await p.goto('http://localhost:'+port+'/#map'); await p.waitForTimeout(1500);

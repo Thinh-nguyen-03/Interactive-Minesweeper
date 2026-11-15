@@ -209,6 +209,19 @@
   function isUnv(c) { return c.verdict === 'unverified'; }
   function unvText(c) { return c.single_source ? 'Unverified, Single Source' : 'Unverified Allegation'; }
 
+  // ------------------------------------------------------------------ icons
+  /* One set: a 16 px grid, a 1.5 px stroke with round caps and joins (set in ui.css on .ic), nothing filled except where marked. */
+  var ICO = {
+    search: '<circle cx="7" cy="7" r="4.25"/><path d="M10.2 10.2 13.5 13.5"/>',
+    close: '<path d="M3.75 3.75l8.5 8.5M12.25 3.75l-8.5 8.5"/>',
+    back: '<path d="M9.75 3.5 5.25 8l4.5 4.5"/>',
+    go: '<path d="M3 8h9.5M8.75 4.25 12.5 8l-3.75 3.75"/>',
+    map: '<circle cx="3.75" cy="4.25" r="1.75"/><circle cx="12.25" cy="6" r="1.75"/><circle cx="6.75" cy="12.25" r="1.75"/><path d="M5.45 4.65l5.1 1M4.5 5.85l1.65 4.75M11.1 7.3 7.9 10.95"/>',
+    path: '<circle cx="3.5" cy="12.5" r="1.75"/><circle cx="12.5" cy="3.5" r="1.75"/><path d="M5.25 12.5H8v-9h2.75"/>',
+    isolate: '<circle cx="8" cy="8" r="2"/><circle cx="8" cy="8" r="5.75" stroke-dasharray="2.2 2.3"/>'
+  };
+  function ico(name) { return '<svg class="ic" viewBox="0 0 16 16" aria-hidden="true">' + ICO[name] + '</svg>'; }
+
   // ------------------------------------------------------------------ marks
   /* Each verdict has its own shape, so the meaning never rests on colour alone. */
   function mark(v, cls) {
@@ -344,7 +357,7 @@
     var unv = isUnv(c), meta = tallyText(c), fixes = arr(c.corrections).length;
     if (fixes) meta += (meta ? ' · ' : '') + plural(fixes, 'correction');
     if (c.ctype === 'connection' && !opts.kind) meta = 'Connection Check' + (meta ? ' · ' + meta : '');
-    return '<li class="row' + (unv ? ' unv' : '') + (opts.short ? ' short' : '') + '">' +
+    return '<li class="row' + (unv ? ' unv' : '') + (opts.short ? ' short' : '') + '"><span class="cid">' + esc(c.id) + '</span>' +
       (opts.kind ? '<span class="n kind">' + esc(opts.kind === 'topic' ? originText(c) : claimLabel(c)) + '</span>' : '') +
       '<a class="t" href="' + claimHref(c) + '">' + esc(c.title) + '</a>' +
       '<span class="vd">' + (unv ? flag(c) : verdict(c.verdict)) + '</span>' +
@@ -469,23 +482,35 @@
     var unvItems = arr(META.unverified).map(function (id) { return byKey.get(id); }).filter(Boolean);
     var examples = ['jared-kushner', 'world-liberty-financial', 'qatar', 'sec'].map(function (id) { return byKey.get('e:' + id); }).filter(Boolean);
 
-    var h = '<div class="hero"><div class="hero-text">' +
-      '<h1 tabindex="-1">Look into the Money, the Deals &amp; the Connections Around the President</h1>' +
-      '<p class="lede">This site tests claims about the business, financial and political dealings of Donald Trump, his family and his administration against the public record. Every name has a profile, and every documented link is on the map.</p>' +
-      '<p class="dateline">' + (META.generated ? 'Data built ' + esc(fdate(META.generated)) + ' · ' : '') + '<a href="#method">How We Checked</a></p>' +
-      '<div class="bigsearch" role="search"><svg width="20" height="20" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><circle cx="7" cy="7" r="4.6"></circle><path d="M10.5 10.5 14 14"></path></svg>' +
+    var h = '<div class="front"><div class="front-text">' +
+      '<h1 tabindex="-1">The Money, the Deals &amp; the Connections Around the President</h1>' +
+      '<p class="lede">' + nc + ' claims about the business, financial and political dealings of Donald Trump, his family and his administration, each tested against the public record. Every name has a profile, and every documented link is on the map.</p>' +
+      '<div class="bigsearch" role="search">' + ico('search') +
       '<label class="sr" for="home-search">Search a person, a company or a topic</label>' +
       '<input id="home-search" type="search" placeholder="' + (narrow.matches ? 'Search a name or a topic' : 'Search a person, a company or a topic') + '" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="home-results" aria-autocomplete="list">' +
       '<ul class="results" id="home-results" role="listbox" hidden></ul></div>' +
-      (examples.length ? '<p class="try">Try ' + listParts(examples.map(function (e) { return entLink(e, true); })).replace(' and ', ' or ') + '.</p>' : '') +
+      (examples.length ? '<p class="try">Start with ' + listParts(examples.map(function (e) { return entLink(e, true); })).replace(' and ', ' or ') + '.</p>' : '') +
+      '<p class="ledger">' + [[nc, 'checks'], [p.total, 'points tested'], [META.sources, 'sources cited'], [entities.length, 'names'], [rels.length, 'documented links']].map(function (x) { return '<span><b>' + num(x[0]) + '</b> ' + x[1] + '</span>'; }).join('') + '</p>' +
+      '<p class="standing"><strong>Everyone named denies wrongdoing,</strong> and nothing here is an accusation of a crime. A link is a documented relationship, not proof that one thing caused another.' +
+      (META.generated ? ' Data built ' + esc(fdate(META.generated)) + '.' : '') + ' <a href="#method">How We Checked</a></p>' +
       '</div>' +
-      '<figure class="heromap"><a class="heromap-img" href="#map" aria-label="Open the full map of ' + num(entities.length) + ' names and ' + nc + ' checks"><canvas id="preview" aria-hidden="true"></canvas></a>' +
-      '<figcaption>' + cap(word(teaserCount())) + ' of the best-connected names and the documented links between them. <a href="#map">Open the full map of all ' + num(entities.length) + '</a></figcaption></figure>' +
+      '<figure class="frontmap"><a href="#map" aria-label="Open the map of ' + num(entities.length) + ' names and ' + nc + ' checks"><canvas id="preview" aria-hidden="true"></canvas><span class="open">Open the Map' + ico('go') + '</span></a>' +
+      '<figcaption><span>Every name and every check, placed by the documented links between them. Colour is topic.</span><span id="front-key"></span></figcaption></figure>' +
       '</div>';
 
-    h += figRow([[num(nc), 'Checks'], [num(p.total), 'Points Tested'], [num(META.sources), 'Sources Cited'],
-      [num(entities.length), '<span class="wide">People &amp; Organisations</span><span class="narrow">Names</span>'], [num(rels.length), 'Documented Links']], 'homefigs');
-    h += '<p class="standing">Everyone named denies wrongdoing, and nothing here is an accusation of a crime. A link is a documented relationship, not proof that one thing caused another.</p>';
+    // the leads: three ways in, as plain tables
+    var topN = ranked.filter(function (e) { return e.lines.length && e.type !== 'media'; }).slice(0, 8), topMax = topN.length ? topN[0].lines.length : 1;
+    var keyChecks = claims.slice().sort(function (a, b) { return arr(b.sources).length - arr(a.sources).length || cmpClaim(a, b); }).slice(0, 7);
+    h += '<section class="sec" id="leads" aria-labelledby="leads-h"><div class="sechead"><h2 id="leads-h">Where to Start</h2><p class="secnote">Three ways into the record: by name, by sum and by check.</p></div><div class="leadgrid">' +
+      '<table class="lead-t"><caption>Most Connected Names<span>By documented links to other names</span></caption><thead><tr><th colspan="2">Name</th><th class="numc">Links</th><th class="numc">Checks</th></tr></thead><tbody>' +
+      topN.map(function (e, i) { return '<tr><td class="rk">' + (i + 1) + '</td><th scope="row">' + kmark(e) + entLink(e, true) + '</th><td class="numc"><span class="lbar" aria-hidden="true"><i style="width:' + Math.max(4, Math.round(100 * e.lines.length / topMax)) + '%"></i></span>' + num(e.lines.length) + '</td><td class="numc">' + e.cl.length + '</td></tr>'; }).join('') +
+      '</tbody></table>' +
+      '<table class="lead-t"><caption>Largest Sums on the Record<span>As the sources state them, one per pair of names</span></caption><thead><tr><th>Sum</th><th>Between</th><th class="numc">Check</th></tr></thead><tbody>' +
+      leadSums().slice(0, 8).map(function (r) { var c = byKey.get(r.claims[0]); return '<tr><td class="amt">' + esc(money(r.amount_usd)) + '</td><th scope="row">' + entLink(r.S, true) + ' <span class="and">and</span> ' + entLink(r.T, true) + '</th><td class="numc">' + (c ? '<a class="cite" href="' + claimHref(c) + '" title="' + esc(c.title) + '">' + esc(c.id) + '</a>' : '') + '</td></tr>'; }).join('') +
+      '</tbody></table>' +
+      '<table class="lead-t"><caption>Most-Sourced Checks<span>The checks that rest on the most sources</span></caption><thead><tr><th>Check</th><th>Verdict</th><th class="numc">Sources</th></tr></thead><tbody>' +
+      keyChecks.map(function (c) { return '<tr><th scope="row">' + claimLink(c) + '</th><td class="vd">' + (isUnv(c) ? flag(c) : verdict(c.verdict)) + '</td><td class="numc">' + arr(c.sources).length + '</td></tr>'; }).join('') +
+      '</tbody></table></div></section>';
 
     var segs = [['hold', p.hold, 'Hold Up', num(p.hold) + ' of ' + num(p.total) + ' points are confirmed or mostly accurate, about ' + share + ' in 10 of everything tested. ' + num(holds) + ' of the ' + nc + ' checks hold up overall.'],
       ['part', p.correct, 'Needed Correcting', num(p.correct) + ' points are partly right, misleading or wrong, and ' + num(META.corrections) + ' specific corrections are listed.' + (part ? ' ' + cap(word(part)) + ' ' + (part === 1 ? 'check is' : 'checks are') + ' rated partly accurate overall.' : '')],
@@ -493,9 +518,9 @@
     h += '<section class="sec answer" aria-labelledby="found-h"><div class="sechead"><h2 id="found-h">What the Checks Found</h2><p class="secnote">Each check was split into separate points. This is how all ' + num(p.total) + ' came out.</p></div>' +
       '<div class="strip" role="img" aria-label="' + num(p.hold) + ' of ' + num(p.total) + ' points hold up, ' + num(p.correct) + ' needed correcting and ' + num(p.unproven) + ' are unproven">' +
       segs.map(function (s) { return s[1] ? '<span class="s-' + s[0] + '" style="flex:' + s[1] + '"></span>' : ''; }).join('') + '</div>' +
-      '<div class="answer-cols">' + segs.map(function (s) {
-        return '<div><h3><i class="sw s-' + s[0] + '" aria-hidden="true"></i><b>' + num(s[1]) + '</b> ' + s[2] + '</h3><p>' + s[3] + '</p></div>';
-      }).join('') + '</div></section>';
+      '<table class="found"><thead><tr><th>Result</th><th class="numc">Points</th><th class="share numc">Share</th><th>What It Means</th></tr></thead><tbody>' + segs.map(function (s) {
+        return '<tr><th scope="row"><i class="sw s-' + s[0] + '" aria-hidden="true"></i>' + s[2] + '</th><td class="numc">' + num(s[1]) + '</td><td class="share numc">' + (p.total ? Math.round(100 * s[1] / p.total) : 0) + '%</td><td>' + s[3] + '</td></tr>';
+      }).join('') + '</tbody></table></section>';
 
     // who is involved: a few names per group, from build.py
     var who = arr(META.who).map(function (g) { return { title: g.title, total: g.total, list: arr(g.names).map(function (id) { return byKey.get('e:' + id); }).filter(Boolean) }; }).filter(function (g) { return g.list.length; });
@@ -570,9 +595,8 @@
   function claimPage(c) {
     var subs = arr(c.sub_claims), t = c.tally || [0, 0, 0], tot = t[0] + t[1] + t[2], topic = c.topicRef, g = VGROUP[c.verdict];
     var nsrc = arr(c.sources).length, fixesN = arr(c.corrections).length;
-    var h = '<p class="crumb"><a href="#topics">All Checks</a>' + (topic && topic.id !== 'other' ? ' <span aria-hidden="true">/</span> <a href="' + topicHref(topic) + '">' + esc(topic.name) + '</a>' : '') + (c.ctype === 'connection' ? ' <span aria-hidden="true">/</span> Connection Check' : '') + '</p><article class="article"><div class="lead">' +
+    var h = '<p class="crumb"><a href="#topics">All Checks</a>' + (topic && topic.id !== 'other' ? ' <span aria-hidden="true">/</span> <a href="' + topicHref(topic) + '">' + esc(topic.name) + '</a>' : '') + ' <span aria-hidden="true">/</span> <b>' + (c.ctype === 'connection' ? 'Connection Check ' : 'Check ') + esc(c.id) + '</b></p><article class="article"><div class="lead">' +
       '<h1 tabindex="-1">' + esc(c.title) + '</h1>' +
-      '<p class="vstrip v-' + g + '">' + mark(c.verdict) + '<b>' + esc(VLABEL[c.verdict]) + '</b>' + (tot ? '<span>' + esc(tallyText(c)) + '</span>' : '') + '</p>' +
       '<p class="dateline prov"><span>' + [plural(nsrc, 'source'), plural(tot, 'point'), CONF[c.confidence] ? CONF[c.confidence] + ' confidence' : '', c.single_source ? 'One source' : '',
         c.audit && AUDIT[c.audit.result] ? 'Second review ' + AUDIT[c.audit.result].toLowerCase() : c.audit ? 'Independent second review' : 'No second review yet'].filter(Boolean).join(' · ') + '</span>' +
       '<a class="maplink" href="' + mapHref(c) + '">' + MAPICON + 'Show on Map</a></p>';
@@ -580,19 +604,12 @@
     var cp = arr(c.question_points).map(cap);
     if (!cp.length) cp = [c.title];
     var finding = firstSentence(c.bottom_line), restLine = String(c.bottom_line || '').slice(finding.length).trim();
-    /* The two columns share the width by how much each has to say, so that they end near the same line. */
-    var claimLen = cp.join(' ').length + (cp.length > 2 ? 30 * cp.length : 0), findLen = finding.length, split = 0.5, best = Infinity;
-    for (var a = 0.32; a <= 0.66; a += 0.02) {
-      var hc = claimLen / ((a * 740 - 28) / 9.3), hv = findLen / (((1 - a) * 740 - 27) / 9.1) + 1.6, d = Math.abs(hc - hv);
-      if (d < best - 0.01) { best = d; split = a; }
-    }
-    h += '<div class="cv cv-' + g + '" style="--cv-split:' + Math.round(split * 100) + '%"><div class="cv-claim"><h2 class="lab">The Claim</h2>' +
-      (cp.length > 2 ? '<ul>' + cp.map(function (x) { return '<li>' + rich(x) + '</li>'; }).join('') + '</ul>' : '<p>' + rich(cp.join(' ')) + '</p>') + '</div>' +
-      '<div class="cv-verdict"><h2 class="lab">The Verdict</h2>' +
-      '<p class="cv-word"><span class="v-' + g + '">' + esc(VLABEL[c.verdict]) + '</span></p>' +
-      '<p class="cv-finding">' + rich(finding) + '</p>' +
-      '</div></div>';
-    if (restLine) h += '<p class="bottom">' + rich(restLine) + '</p>';
+    /* The head of the case file: what was claimed, the verdict, and the finding, as three ruled rows. */
+    h += '<dl class="casefile"><div><dt>Claim</dt><dd>' +
+      (cp.length > 2 ? '<ul>' + cp.map(function (x) { return '<li>' + rich(x) + '</li>'; }).join('') + '</ul>' : '<p>' + rich(cp.join(' ')) + '</p>') + '</dd></div>' +
+      '<div><dt>Verdict</dt><dd><p class="cv-word v-' + g + '">' + mark(c.verdict) + esc(VLABEL[c.verdict]) + '</p>' +
+      (tot ? '<p class="cf-tally">' + bar(t) + esc(tallyText(c)) + '</p>' : '') + '</dd></div>' +
+      '<div><dt>Finding</dt><dd><p class="cf-find">' + rich(finding) + '</p>' + (restLine ? '<p>' + rich(restLine) + '</p>' : '') + '</dd></div></dl>';
     if (arr(c.bottom_parts).length) h += '<ul class="plain">' + c.bottom_parts.map(function (x) { return '<li>' + rich(x) + '</li>'; }).join('') + '</ul>';
     if (arr(c.summary_points).length) h += '<ul class="plain more-points">' + c.summary_points.map(function (x) { return '<li>' + rich(x) + '</li>'; }).join('') + '</ul>';
     h += '</div>';
@@ -718,7 +735,7 @@
     if (box) box.addEventListener('toggle', function () { var b = $('report-body'); if (box.open && !b.firstChild) b.innerHTML = markdown(c.report); });
     spy();
   }
-  var MAPICON = '<svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M4 4.5l7 1.5M4.5 5l2.5 6.5M11.5 6.5L7.5 12"/><circle cx="3.5" cy="4" r="2" fill="currentColor" stroke="none"/><circle cx="12" cy="6" r="2" fill="currentColor" stroke="none"/><circle cx="7" cy="12.2" r="2" fill="currentColor" stroke="none"/></svg>';
+  var MAPICON = ico('map');
   /* Marks the section being read in "On This Page". */
   function spy() {
     var btns = page.querySelectorAll('.toc [data-jump]'); if (!btns.length) return;
@@ -970,7 +987,7 @@
   var reduced = window.matchMedia('(prefers-reduced-motion: reduce)');
   var canvas = $('graph'), ctx = canvas.getContext('2d');
   var W = 0, H = 0, dpr = 1, T = { k: 1, x: 0, y: 0 }, C = {}, zoom = null, fitted = false, drawQueued = false, AY = 1;
-  var FONT = '"Public Sans", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif';
+  var FONT = getComputedStyle(root).getPropertyValue('--font-ui').trim() || '"Helvetica Neue", Helvetica, Arial, sans-serif';   // the canvases use the interface's own face
   var RING = META.ring || 0;
   var ARCS = TOPICS.filter(function (t) { return typeof t.a0 === 'number' && typeof t.a1 === 'number'; });
   if (!ARCS.length) RING = 0;
@@ -987,6 +1004,7 @@
       g: { person: tok('--k-person'), org: tok('--k-org'), gov: tok('--k-gov'), other: tok('--k-other') },
       v: { hold: tok('--hold'), part: tok('--part'), unp: tok('--unp'), wrong: tok('--wrong') },
       t: [1, 2, 3, 4, 5, 6, 7, 8, 9].map(function (i) { return tok('--t' + i); }) };
+    glTheme();   // the globe's own palette follows the theme as well
   }
   /* Used only if build.py did not supply positions. */
   function fallbackLayout() {
@@ -1029,13 +1047,7 @@
     });
   })();
 
-  /* The layout is worked out here, for the shape of the screen. Donald Trump is fixed at the centre.
-     Distance from the centre is the number of documented steps from him: one step, two steps, three or more.
-     Direction is topic: a name leans towards the arcs of the topics whose checks mention it, and the checks sit on the outer ring.
-     Inside each orbit the best-connected names are drawn large; every other name is a fine dot on the orbit's edge, in its topic's sector. */
-  var LAY = null;
-  function restWidth() { return narrow.matches ? W : Math.max(320, W - ($('panel').hidden ? 0 : $('panel').offsetWidth)); }
-  (function () {   // steps from the anchor, over documented relationships
+  (function () {   // steps from the anchor, over documented relationships; the anchor is the globe's hub
     var hub = ranked[0] && ranked[0].type === 'person' ? ranked[0] : null, q = hub ? [hub] : [];
     entities.forEach(function (e) { e.step = 9; });
     if (hub) hub.step = 0;
@@ -1043,114 +1055,8 @@
     entities.forEach(function (e) { e.orbit = e.step === 0 ? 0 : Math.min(3, e.step); e.hubw = hub && e.adj.get(hub.key) ? e.adj.get(hub.key).w : 0; });
     map.hub = hub;
   })();
-  var ORBITS = [null, { key: [0.19, 0.555], dot: 0.628, guide: 0.655, edge: 0.655, cap: '1 step', short: '1 step' },
-    { key: [0.7, 0.79], dot: 0.882, guide: 0.905, edge: 0.905, cap: '2 steps', short: '2 steps' },
-    { key: [0.925, 0.935], dot: 0.972, guide: 0, edge: 1, cap: '3 or more steps', short: '3+ steps' }];
-  function coreR(n) { return (n.rank === 0 ? 22 : n.rank < 6 ? 11 : n.rank < 20 ? 8.5 : n.rank < 50 ? 6.5 : 4.6) * (narrow.matches ? 0.72 : 1); }   // four clear steps of size
-  function capFont() { return '500 ' + (narrow.matches ? 10 : 11.5) + 'px ' + FONT; }
-  function mapLayout() {
-    if (!W) return;
-    var ph = narrow.matches, kc = keyCount();
-    if (!ARCS.length) {
-      if (!LAY) { LAY = { key: 'plain', rx: 1500, ry: 1500, side: 0, top: 0, depth: 0, bands: [] }; nodes.forEach(function (n) { n.px = n.x; n.py = n.y; }); }
-      entities.forEach(function (e) { e.core = e.rank < kc; });
-      return;
-    }
-    var aw = restWidth(), ah = H, side = ph ? 24 : 36, top = side;   // a true circle, sized to the square that is free, with room for the topic names set along it
-    var rx = Math.max(80, Math.min(aw / 2 - side, ah / 2 - top)), ry = rx;
-    var key = [Math.round(rx / 10), Math.round(ry / 10), kc, ph ? 1 : 0].join('.');
-    if (LAY && LAY.key === key) return;
-    var pitch = ph ? 4.2 : 5.4, i, j, bands = [];
-    entities.forEach(function (e) { e.core = e.rank < kc; });
-    // the fine dots: for each orbit and each topic sector, a block of rows just inside the orbit's edge
-    [1, 2, 3].forEach(function (ob) {
-      var O = ORBITS[ob], maxRows = ob === 3 ? 3 : ob === 2 ? 5 : 4, deep = 0;
-      ARCS.forEach(function (tp) {
-        var mem = entities.filter(function (e) { return !e.core && e.orbit === ob && e.top === tp; }); if (!mem.length) return;
-        mem.sort(function (a, b) { return GROUPS.indexOf(a.group) - GROUPS.indexOf(b.group) || a.rank - b.rank; });
-        // the rows keep clear of the sector's edges, and of the orbit captions on the axis at the top
-        var erx = rx * O.dot, ery = ry * O.dot, capM = (textW(ctx, capFont(), ph ? O.short : O.cap) / 2 + 9) / erx, edgeM = (ph ? 5 : 7) / erx;
-        var a0 = tp.s0 + (Math.abs(tp.s0 + Math.PI / 2) < 0.02 ? capM : edgeM), a1 = tp.s1 - (Math.abs(tp.s1 - 1.5 * Math.PI) < 0.02 ? capM : edgeM), S = 24, cum = [0];
-        for (j = 1; j <= S; j++) { var am = a0 + (a1 - a0) * (j - 0.5) / S; cum.push(cum[j - 1] + Math.hypot(erx * Math.sin(am), ery * Math.cos(am)) * (a1 - a0) / S); }
-        var len = cum[S], fit = Math.max(1, Math.floor(len / pitch)), rows = Math.min(maxRows, Math.max(1, Math.ceil(mem.length / fit))), ncols = Math.ceil(mem.length / rows);
-        var step = Math.min(pitch, len / ncols), start = (len - step * ncols) / 2, q = 0;
-        mem.forEach(function (e, m) {
-          var col = Math.floor(m / rows), row = m % rows, s = start + (col + 0.5) * step;
-          while (q < S - 1 && cum[q + 1] < s) q++;
-          var f = (s - cum[q]) / ((cum[q + 1] - cum[q]) || 1), ang = a0 + (a1 - a0) * (q + f) / S;
-          e.px = (erx - row * pitch) * Math.cos(ang); e.py = (ery - row * pitch) * Math.sin(ang);
-        });
-        deep = Math.max(deep, rows);
-      });
-      bands.push([O.dot - (deep - 0.3) * pitch / Math.min(rx, ry), O.dot + 0.6 * pitch / Math.min(rx, ry)]);
-    });
-    claims.forEach(function (n) { var a = Math.atan2(n.y, n.x); n.px = rx * Math.cos(a); n.py = ry * Math.sin(a); });
-
-    // the key names: angle from their topics, radius from their orbit and the strength of the tie, then eased apart so labels have room
-    var labN = ph ? 10 : map.level ? 60 : 99, lfont = '600 ' + (ph ? 11.5 : 12.5) + 'px ' + FONT, perOrbit = [[], [], [], []];
-    var P = ranked.filter(function (e) { return e.core; }).map(function (e, n) {
-      var lab = n < labN, ls = lab ? wrapLines(mapLabel(e), 20) : [], tw = 0, r = coreR(e);
-      ls.forEach(function (t) { tw = Math.max(tw, textW(ctx, e.rank === 0 ? lfont.replace(/[\d.]+px/, ph ? '13px' : '15px').replace('600', '700') : lfont, t)); });
-      if (!lab) r = Math.min(r, ph ? 3 : 4);
-      // room is kept for the mark and for its label underneath
-      var up = r + 4, down = r + 4 + (lab ? ls.length * 14 + 5 : 0);
-      var p = { e: e, ob: e.orbit, th: Math.atan2(e.ay, e.ax) + (Math.hypot(e.ax, e.ay) < 0.05 ? n * 2.4 : 0), hw: Math.max(tw / 2, r) + 6, hh: (up + down) / 2, co: (down - up) / 2, hub: e.orbit === 0, fix: e.orbit === 0 };
-      perOrbit[p.ob].push(p); return p;
-    });
-    perOrbit.forEach(function (list, ob) {
-      if (!ob) return;
-      var O = ORBITS[ob], lo = O.key[0], hi = O.key[1];
-      list.forEach(function (p, q) {
-        var s = ob === 1 ? 1 - Math.min(1, Math.log(1 + p.e.hubw) / Math.log(13)) : list.length > 1 ? q / (list.length - 1) : 0.5;
-        p.lo = lo; p.hi = hi; p.f = lo + (hi - lo) * (0.08 + 0.84 * s);
-      });
-    });
-    P.forEach(function (p) { if (p.hub) { p.x = p.y = 0; p.lo = p.hi = 0; } else { p.x = rx * p.f * Math.cos(p.th); p.y = ry * p.f * Math.sin(p.th); } p.hx = p.x; p.hy = p.y; });
-    var Q = P.slice();
-    [1, 2, 3].forEach(function (ob) {   // the orbit captions hold their places on the axis at the top
-      var O = ORBITS[ob]; Q.push({ fix: true, x: 0, y: -ry * O.edge + 10, hw: textW(ctx, capFont(), ph ? O.short : O.cap) / 2 + 8, hh: 10, co: 0 });
-    });
-    for (var tick = 0; tick < 360; tick++) {
-      for (i = 0; i < Q.length; i++) for (j = i + 1; j < Q.length; j++) {
-        var p = Q[i], o = Q[j]; if (p.fix && o.fix) continue;
-        var ddx = p.x - o.x, ddy = (p.y + p.co) - (o.y + o.co), ox = p.hw + o.hw - Math.abs(ddx), oy = p.hh + o.hh - Math.abs(ddy);
-        if (ox <= 0 || oy <= 0) continue;
-        var wp = p.fix ? 0 : o.fix ? 1 : 0.5, sx = ddx < 0 ? -1 : ddx > 0 ? 1 : (i % 2 ? 1 : -1), sy = ddy < 0 ? -1 : 1;
-        var mx2 = ox < oy * 1.6 ? ox * 0.5 : ox * 0.08, my2 = ox < oy * 1.6 ? oy * 0.08 : oy * 0.5;
-        p.x += sx * mx2 * wp; p.y += sy * my2 * wp; o.x -= sx * mx2 * (1 - wp); o.y -= sy * my2 * (1 - wp);
-      }
-      P.forEach(function (p) {
-        if (p.hub) { p.x = 0; p.y = 0; return; }
-        p.x += (p.hx - p.x) * 0.01; p.y += (p.hy - p.y) * 0.01;
-        var s = Math.hypot(p.x / rx, p.y / ry) || 0.001, c = Math.max(p.lo, Math.min(p.hi, s));   // a name never leaves its orbit
-        if (c !== s) { p.x *= c / s; p.y *= c / s; }
-      });
-    }
-    P.forEach(function (p) { p.e.px = p.x; p.e.py = p.y; });
-    themes.forEach(function (n, q) { var a = Math.atan2(n.ay, n.ax) + q * 0.09; n.px = rx * 0.615 * Math.cos(a); n.py = ry * 0.615 * Math.sin(a); });
-    links.forEach(function (l) {   // links between key names curve in towards the centre, so those that run the same way gather
-      l.bow = false; l.strong = false; l.spoke = false;
-      if (l.kind !== 'rel' || !l.source.core || !l.target.core) return;
-      if (l.source === map.hub || l.target === map.hub) { l.spoke = true; return; }   // his own links run straight out, as spokes
-      var mx = (l.source.px + l.target.px) / 2, my = (l.source.py + l.target.py) / 2, far = Math.hypot((l.target.px - l.source.px) / rx, (l.target.py - l.source.py) / ry);
-      var md = Math.hypot(mx, my) || 1, len = Math.hypot(l.target.px - l.source.px, l.target.py - l.source.py), off = Math.min(md * Math.min(0.4, 0.1 + 0.2 * far), len * 0.2);
-      l.bow = true; l.cx = mx - mx / md * off; l.cy = my - my / md * off;
-    });
-    // at rest only the strongest links between the other key names are drawn
-    var cc = links.filter(function (l) { return l.bow; }).sort(function (a, b) { return b.w - a.w || (a.unv ? 1 : 0) - (b.unv ? 1 : 0) || (a.source.rank + a.target.rank) - (b.source.rank + b.target.rank); });
-    entities.forEach(function (e) { e.sEnd = false; });
-    cc.slice(0, ph ? 10 : 20).forEach(function (l) { l.strong = true; l.source.sEnd = l.target.sEnd = true; });
-    LAY = { key: key, rx: rx, ry: ry, side: side, top: top, bands: bands, best: cc[0] && cc[0].w > 2 ? cc[0] : null };
-    restCache = null;
-  }
-
   function activeFilters() { return (FKEYS.length - F.kind.size) + (presentVerdicts.length - F.verdict.size) + (F.topic ? 1 : 0); }
-  function keyCount() { return map.level === 0 ? (narrow.matches ? 18 : 40) : (narrow.matches ? 60 : 150); }
   function shown(n) { return n.vis && (n.kind !== 'theme' || map.level > 0 || !!map.iso || n === map.sel || (map.path && map.path.set && map.path.set.has(n))); }
-  function claimOn(n) {   // the checks sit on their topic's arc; at rest they wait until their topic, or a name they mention, is brought forward
-    return map.level > 0 || !!map.iso || (F.topic && n.topicRef && n.topicRef.id === F.topic) || n === map.sel || n === map.hover || (map.hover && map.hover.adj.has(n.key)) || !!(map.path && map.path.set && map.path.set.has(n));
-  }
-  function focusMode() { return false; }   // a selection is read on the globe itself, with its neighbours lit
   function reach(start, depth) {
     var seen = new Map([[start, 0]]), q = [start];
     while (q.length) {
@@ -1180,28 +1086,7 @@
     fc.hidden = !af; fc.textContent = af ? String(af) : '';
     renderBanner(); syncChips(); requestDraw();
   }
-  function restLinks() {   // the lines drawn when nothing is in focus, by level of detail
-    var ck = map.level + '|' + (LAY ? LAY.key : '');
-    if (restCache && restCache.ck === ck) return restCache;
-    var out = { ck: ck, spokes: [], strong: [], thin: [], dashed: [], faint: [] };
-    links.forEach(function (l) {
-      if (!l.vis) return;
-      if (l.kind === 'rel') {
-        if (l.spoke) out.spokes.push(l);
-        else if (l.bow && l.strong) out.strong.push(l);
-        else if (l.bow && map.level > 0) { if (l.unv) out.dashed.push(l); else out.thin.push(l); }
-        else if (map.level === 2) out.faint.push(l);
-      } else if (map.level === 2 && l.kind === 'claim') out.faint.push(l);
-    });
-    return (restCache = out);
-  }
-
   // ---- geometry
-  function refit(animate) {
-    if (focusMode()) { buildFocus(); frameFocus(animate); }
-    else if (map.iso || (map.path && map.path.list)) frameNodes(map.path && map.path.list ? map.path.list : nodes.filter(function (n) { return n.vis; }), 1.4, animate, 40);
-    else fit(animate);
-  }
   function resize() {
     if (map.mode !== 'network') return;
     var box = canvas.parentElement.getBoundingClientRect();
@@ -1242,45 +1127,7 @@
     glTo(q || (gl.anim ? gl.anim.q1 : null), 1, animate);
   }
   function centerIfHidden(n) { if (W && n.vis) { glFrame(); glFace([n], true); } }
-  function zf(k) { return Math.max(0.8, Math.min(1.9, Math.pow(k / (map.k0 || k), 0.34))); }
-  function rs(n, k, full) {   // on-screen radius
-    var z = zf(k), ph = narrow.matches;
-    if (n.kind === 'claim') return (ph ? 2.9 : 3.6) * Math.min(1.7, z) * (F.topic && n.topicRef && n.topicRef.id === F.topic ? 1.35 : 1);
-    if (n.kind === 'theme') return (ph ? 3.4 : 4.2) * z;
-    if (n.core) return (full || !map.restLab || map.restLab.has(n) ? coreR(n) : Math.min(coreR(n), ph ? 2.6 : 3.4)) * (n.rank === 0 ? Math.min(z, 1.3) : z);   // a key name is drawn large only where its label fits
-    return (ph ? 1.2 : 1.7) * z;
-  }
-  function ringGeom(t) { return { cx: t.x, cy: t.y, rx: (LAY ? LAY.rx : RING) * t.k, ry: (LAY ? LAY.ry : RING) * t.k }; }
-  function topicAt(px, py) {   // the topic whose arc or caption is under the pointer
-    if (!ARCS.length || !LAY || focusMode() || map.iso) return null;
-    var i, g = ringGeom(T), nx = (px - g.cx) / g.rx, ny = (py - g.cy) / g.ry, d = (Math.hypot(nx, ny) - 1) * Math.min(g.rx, g.ry);
-    if (d < -9 || d > 26) return null;   // the arc and the name set along it
-    var a = Math.atan2(ny, nx); if (a < -Math.PI / 2) a += 2 * Math.PI;
-    for (i = 0; i < ARCS.length; i++) if (a >= ARCS[i].s0 && a <= ARCS[i].s1) return ARCS[i];
-    return null;
-  }
-  function hit(px, py, slack) {
-    slack = slack || 4;
-    if (gl.ok) return glHit(px, py, slack);
-    var best = null, bd = Infinity, i, n, d, r;
-    if (focusMode() && map.focus) {
-      var fo = map.focus, k = T.k;
-      fo.all.forEach(function (it) {
-        var x = it.x * k + T.x, y = it.y * k + T.y; d = Math.hypot(x - px, y - py);
-        if (d <= it.r + slack + 3 && d - it.r < bd) { bd = d - it.r; best = it.n; }
-      });
-      if (!best) for (i = 0; i < map.boxes.length; i++) { var b = map.boxes[i]; if (px >= b[0] && px <= b[2] && py >= b[1] && py <= b[3]) return b[4]; }
-      return best;
-    }
-    for (i = 0; i < nodes.length; i++) {
-      n = nodes[i]; if (!shown(n) || (n.kind === 'claim' && !claimOn(n))) continue;
-      d = Math.hypot(n.px * T.k + T.x - px, n.py * T.k + T.y - py); r = rs(n, T.k);
-      var big = n.kind !== 'entity' || n.core;
-      if (d <= r + slack + (big ? 3 : 0)) { var sc = d - r - (big ? 5 : 0); if (sc < bd) { bd = sc; best = n; } }
-    }
-    if (!best) for (i = 0; i < map.boxes.length; i++) { var bx = map.boxes[i]; if (px >= bx[0] && px <= bx[2] && py >= bx[1] && py <= bx[3]) return bx[4]; }
-    return best;
-  }
+  function hit(px, py, slack) { return gl.ok ? glHit(px, py, slack || 4) : null; }   // the mark under the pointer
   function focusSet(f) {
     var set = new Set([f]), hl = new Set();
     f.adj.forEach(function (l, k) { if (l.vis && shown(byKey.get(k))) { set.add(byKey.get(k)); hl.add(l); } });
@@ -1375,496 +1222,78 @@
   }
   function requestDraw() { if (!drawQueued) { drawQueued = true; requestAnimationFrame(function () { drawQueued = false; draw(); }); } }
 
-  /* Labels on the map. A label takes the first free place beside its mark that touches no other label and no other mark,
-     and of those the place fewest lines pass through. If there is no such place the label is left out. */
-  function segHits(x0, y0, x1, y1, b) {
-    if ((x0 < b[0] && x1 < b[0]) || (x0 > b[2] && x1 > b[2]) || (y0 < b[1] && y1 < b[1]) || (y0 > b[3] && y1 > b[3])) return false;
-    var t0 = 0, t1 = 1, dx = x1 - x0, dy = y1 - y0, p = [-dx, dx, -dy, dy], q = [x0 - b[0], b[2] - x0, y0 - b[1], b[3] - y0];
-    for (var i = 0; i < 4; i++) {
-      if (!p[i]) { if (q[i] < 0) return false; continue; }
-      var r = q[i] / p[i];
-      if (p[i] < 0) { if (r > t1) return false; if (r > t0) t0 = r; } else { if (r < t0) return false; if (r < t1) t1 = r; }
-    }
-    return true;
-  }
-  function mapPlace(c, placed, marks, segs, x, y, r, lines, font, lh, w, h, ok, self, maxCross) {
-    var tw = 0, i, j; for (i = 0; i < lines.length; i++) tw = Math.max(tw, textW(c, font, lines[i]));
-    var th = lines.length * lh, d = r * 0.72 + 3;
-    var opts = [[x, y + r + 5 + th / 2, 'c'], [x + r + 6 + tw / 2, y, 'l'], [x - r - 6 - tw / 2, y, 'r'], [x, y - r - 5 - th / 2, 'c'],
-      [x + d + tw / 2, y + d + th / 2, 'l'], [x + d + tw / 2, y - d - th / 2, 'l'], [x - d - tw / 2, y + d + th / 2, 'r'], [x - d - tw / 2, y - d - th / 2, 'r']];
-    var best = null, bc = Infinity;
-    for (i = 0; i < opts.length; i++) {
-      var o = opts[i], b = [o[0] - tw / 2 - 3, o[1] - th / 2 - 1, o[0] + tw / 2 + 3, o[1] + th / 2 + 1];
-      if (b[0] < 3 || b[2] > w - 3 || b[1] < 3 || b[3] > h - 3 || overlaps(placed, b[0], b[1], b[2], b[3])) continue;
-      var clash = false;
-      for (j = 0; j < marks.length; j++) { var m = marks[j]; if (m[4] !== self && b[0] < m[2] && b[2] > m[0] && b[1] < m[3] && b[3] > m[1]) { clash = true; break; } }
-      if (clash || (ok && !ok(b[0], b[1], b[2], b[3]))) continue;
-      var cross = 0;
-      for (j = 0; j < segs.length && cross < bc; j += 4) if (segHits(segs[j], segs[j + 1], segs[j + 2], segs[j + 3], b)) cross++;
-      if (cross < bc) { bc = cross; best = { x: o[0], y: o[1], tw: tw, th: th, box: b, align: o[2] }; if (!cross) break; }
-    }
-    return best && bc <= maxCross ? best : null;
-  }
-  function mapLabelDraw(c, p, lines, font, lh, color, alpha) {   // no plate: a halo in the ground's colour keeps a line behind a label from running through it
-    c.font = font; c.textBaseline = 'middle'; c.lineJoin = 'round'; c.globalAlpha = alpha;
-    c.textAlign = p.align === 'l' ? 'left' : p.align === 'r' ? 'right' : 'center';
-    var ax = p.align === 'l' ? p.x - p.tw / 2 : p.align === 'r' ? p.x + p.tw / 2 : p.x;
-    lines.forEach(function (t, i) {
-      var y = p.y - p.th / 2 + lh / 2 + i * lh;
-      c.lineWidth = 4; c.strokeStyle = map.iso ? C.bg : C.disc; c.strokeText(t, ax, y); c.fillStyle = color; c.fillText(t, ax, y);
-    });
-    c.globalAlpha = 1;
-  }
-
-  function mapEnt(c, n, x, y, r, alpha) {   // a key name: its mark, with a slightly darker ring of its own colour
-    if (n.unverified_only || r < 4) { drawEnt(c, n, x, y, r, alpha); return; }
-    var col = C.g[n.group]; c.globalAlpha = alpha; c.beginPath();
-    if (n.group === 'person') c.arc(x, y, r + 1.6, 0, 6.2832); else rrect(c, x - r * 0.9 - 1.6, y - r * 0.9 - 1.6, r * 1.8 + 3.2, r * 1.8 + 3.2, Math.min(r * 0.3, 2.6) + 1);
-    c.fillStyle = C.bg; c.fill();
-    c.beginPath(); if (n.group === 'person') c.arc(x, y, r, 0, 6.2832); else rrect(c, x - r * 0.9, y - r * 0.9, r * 1.8, r * 1.8, Math.min(r * 0.3, 2.6));
-    c.fillStyle = col; c.fill();
-    c.lineWidth = r > 9 ? 2 : 1.5; c.strokeStyle = C.shade; c.globalAlpha = alpha * 0.34; c.stroke(); c.globalAlpha = alpha;
-  }
-  var DIM = 0.13;   // how far everything else steps back when one thing is in focus
-  function drawRing(c, t, em, capBoxes) {
-    if (!ARCS.length || !LAY) return;
-    var g = ringGeom(t), R = g.rx, picked = F.topic, ph = narrow.matches, hovT = map.hoverTopic, O1 = ORBITS[1].guide, O2 = ORBITS[2].guide, TAU = 6.2832;
-    var nf = (ph ? 10.5 : 12.5) + 'px ' + FONT, gf = capFont();
-    // the ground: one pale disc; each topic tints its sector from the first orbit outward; the first orbit stays clear
-    c.globalAlpha = 0.6; c.fillStyle = C.disc; c.beginPath(); c.arc(g.cx, g.cy, R, 0, TAU); c.fill();
-    ARCS.forEach(function (tp) {
-      var lit = picked === tp.id || (hovT === tp && !picked);
-      c.globalAlpha = lit ? C.wedgeA * 2 : picked ? C.wedgeA * 0.5 : C.wedgeA; c.fillStyle = C.t[tp.ci];
-      c.beginPath(); c.arc(g.cx, g.cy, R, tp.s0, tp.s1); c.arc(g.cx, g.cy, R * O1, tp.s1, tp.s0, true); c.closePath(); c.fill();
-    });
-    c.globalAlpha = 1; c.fillStyle = C.disc; c.beginPath(); c.arc(g.cx, g.cy, R * O1, 0, TAU); c.fill();
-    c.lineWidth = 1; c.strokeStyle = C.ring;
-    [O1, O2].forEach(function (f) { c.beginPath(); c.arc(g.cx, g.cy, R * f, 0, TAU); c.stroke(); });
-    // hairlines between the sectors; the one at the top is the axis that carries the orbit captions, so it stops short of each
-    c.beginPath();
-    ARCS.forEach(function (tp) {
-      var cs = Math.cos(tp.s0), sn = Math.sin(tp.s0), axis = Math.abs(tp.s0 + Math.PI / 2) < 0.02;
-      (axis ? [[O1, O2 - 20 / R], [O2, 1 - 20 / R]] : [[O1, 1]]).forEach(function (q) { if (q[1] > q[0]) { c.moveTo(g.cx + R * q[0] * cs, g.cy + R * q[0] * sn); c.lineTo(g.cx + R * q[1] * cs, g.cy + R * q[1] * sn); } });
-    });
-    c.stroke();
-    c.globalAlpha = 0.55; c.beginPath();
-    ARCS.forEach(function (tp) {
-      var cs = Math.cos(tp.s0), sn = Math.sin(tp.s0), axis = Math.abs(tp.s0 + Math.PI / 2) < 0.02;
-      c.moveTo(g.cx + R * 0.14 * cs, g.cy + R * 0.14 * sn); c.lineTo(g.cx + (R * O1 - (axis ? 20 : 0)) * cs, g.cy + (R * O1 - (axis ? 20 : 0)) * sn);
-    });
-    c.stroke(); c.globalAlpha = 1;
-    map.guides = ORBITS.map(function (O) {
-      if (!O) return null;
-      var text = ph ? O.short : O.cap, gw = textW(c, gf, text), gy = g.cy - R * O.edge + (O.guide ? 10 : 11);
-      capBoxes.push([g.cx - gw / 2 - 5, gy - 8, g.cx + gw / 2 + 5, gy + 8, null]);
-      return { text: text, x: g.cx, y: gy, w: gw, font: gf };
-    }).filter(Boolean);
-    // the outer arc of each sector, solid, in the topic's colour, with the topic's name set along it
-    var gap = 1.2 / R;
-    ARCS.forEach(function (tp) {
-      var on = !picked || picked === tp.id, lit = picked === tp.id || hovT === tp, col = C.t[tp.ci];
-      c.globalAlpha = on ? 1 : 0.32; c.beginPath(); c.arc(g.cx, g.cy, R, tp.s0 + gap, tp.s1 - gap);
-      c.lineWidth = (lit ? 5 : 3) * (ph ? 0.85 : 1); c.strokeStyle = col; c.stroke();
-      var lower = Math.sin(tp.mid) > 0.02, fs = ph ? 10.5 : 12.5, rad = R + (ph ? 6 : 8) + (lower ? fs * 0.74 : 0), font = (lit ? '700 ' : '600 ') + nf;
-      var text = ph ? tp.short : tp.name; if (textW(c, font, text) > (tp.s1 - tp.s0) * rad - 10) text = tp.short;
-      arcText(c, text, g.cx, g.cy, rad, rad, tp.mid, font, hovT === tp && picked !== tp.id ? C.accent : C.label, on ? 1 : 0.45);
-    });
-    claims.forEach(function (n) {
-      if (!n.vis || !claimOn(n)) return;
-      var x = n.px * t.k + t.x, y = n.py * t.k + t.y, dim = (em && !em.nodes.has(n)) || (!em && F.topic && n.topicRef && n.topicRef.id !== F.topic);
-      drawCheck(c, n, x, y, rs(n, t.k) * (em && em.lead === n ? 1.4 : 1), dim ? (em && em.kind === 'topic' ? DIM * 2 : 0.3) : 1);
-    });
-    c.globalAlpha = 1;
-  }
-  function paint(c, w, h, t) {
-    var k = t.k, tx = t.x, ty = t.y, i, n, em = emphasis(), ph = narrow.matches;
-    function X(n) { return n.px * k + tx; } function Y(n) { return n.py * k + ty; }
-    var tk = em && em.kind === 'topic', iso = em && em.kind === 'iso', capBoxes = [], segs = [];
-    if (!map.iso) drawRing(c, t, em, capBoxes);
-    map.capBoxes = capBoxes;
-    function bow(l, keep) {
-      var x0 = X(l.source), y0 = Y(l.source), x1 = X(l.target), y1 = Y(l.target), cx = l.cx * k + tx, cy = l.cy * k + ty;
-      c.moveTo(x0, y0); c.quadraticCurveTo(cx, cy, x1, y1);
-      if (keep) for (var s = 0, px = x0, py = y0; s < 4; s++) { var u = (s + 1) / 4, v = 1 - u, qx = v * v * x0 + 2 * v * u * cx + u * u * x1, qy = v * v * y0 + 2 * v * u * cy + u * u * y1; segs.push(px, py, qx, qy); px = qx; py = qy; }
-    }
-    function line(l) { c.moveTo(X(l.source), Y(l.source)); c.lineTo(X(l.target), Y(l.target)); }
-    // lines at rest: wider and stronger where more documented links join the two names, always paler than a name
-    if (!iso && !tk) {
-      var rest = restLinks(), fade = em ? 0.3 : 1;
-      c.strokeStyle = C.edge; c.lineCap = 'round';
-      if (rest.faint.length) { c.globalAlpha = C.edgeA * 0.2 * fade; c.lineWidth = 0.5; c.beginPath(); rest.faint.forEach(line); c.stroke(); }
-      if (rest.thin.length) { c.globalAlpha = C.edgeA * 0.45 * fade; c.lineWidth = 0.7; c.beginPath(); rest.thin.forEach(function (l) { bow(l, false); }); c.stroke(); }
-      // his direct links: thin spokes, a little heavier where there are many records
-      [[0.75, 0.8], [1.1, 0.95], [1.6, 1.1]].forEach(function (s, j) {
-        c.globalAlpha = Math.min(0.8, C.edgeA * s[1]) * fade; c.lineWidth = s[0] * (ph ? 0.8 : 1); c.beginPath();
-        rest.spokes.forEach(function (l) { if ((l.w >= 8 ? 2 : l.w >= 3 ? 1 : 0) === j) line(l); }); c.stroke();
-      });
-      // the strongest links between the other key names, as wide as the number of records
-      rest.strong.forEach(function (l) {
-        if (ph && map.restLab && !(map.restLab.has(l.source) && map.restLab.has(l.target))) return;   // on a small screen, only between names that are shown
-        c.globalAlpha = Math.min(0.9, C.edgeA * 1.55) * fade; c.lineWidth = Math.min(5, 1.2 + 0.36 * (l.w - 1)) * (ph ? 0.7 : 1);
-        c.strokeStyle = l.unv ? C.v.unp : C.edge; c.setLineDash(l.unv ? [3, 3] : []); c.beginPath(); bow(l, !em); c.stroke();
-      });
-      c.setLineDash([]); c.strokeStyle = C.edge;
-      if (rest.dashed.length) { c.globalAlpha = Math.min(0.9, C.edgeA * 1.2) * fade; c.lineWidth = 0.9; c.strokeStyle = C.v.unp; c.setLineDash([3, 3]); c.beginPath(); rest.dashed.forEach(function (l) { bow(l, false); }); c.stroke(); c.setLineDash([]); }
-      c.lineCap = 'butt';
-    }
-    // every other name: a fine dot in its sector, in the sector's colour
-    var dots = ARCS.map(function () { return [[], [], []]; }).concat([[[], [], []]]), strong = [], litT = !em && !F.topic ? map.hoverTopic : null;
-    for (i = 0; i < entities.length; i++) {
-      n = entities[i]; if (!n.vis) continue;
-      var x = X(n), y = Y(n);
-      if (x < -20 || y < -20 || x > w + 20 || y > h + 20) continue;
-      if (n.core || (em && !tk && em.nodes.has(n))) strong.push(n);
-      else dots[n.top && n.top.ci != null && ARCS[ARCS.indexOf(n.top)] ? ARCS.indexOf(n.top) : ARCS.length][!em ? (litT && n.top === litT ? 1 : 0) : tk && (em.nodes.has(n) || n.top === em.topic) ? 1 : 2].push(n);
-    }
-    function drawDots(skip) {   // a dot under a label is left out, so the label stands on clear ground
-     dots.forEach(function (set, ti) {
-      set.forEach(function (list, cls) {
-        if (!list.length) return;
-        c.globalAlpha = cls === 1 ? 0.95 : cls === 2 ? C.dotA * (tk ? 0.3 : 0.5) : C.dotA; c.fillStyle = ARCS[ti] ? C.t[ARCS[ti].ci] : C.g.other; c.beginPath();
-        list.forEach(function (n) {
-          var x = X(n), y = Y(n), r = rs(n, k) * (cls === 1 ? 1.15 : 1);
-          for (var q = 0; q < skip.length; q++) if (x > skip[q][0] - 1 && x < skip[q][2] + 1 && y > skip[q][1] - 1 && y < skip[q][3] + 1) return;
-          c.moveTo(x + r, y); c.arc(x, y, r, 0, 6.2832);
-        });
-        c.fill();
-      });
-     });
-     c.globalAlpha = 1;
-    }
-    // lines in focus
-    if (tk) {   // one topic: a single line to each key name, as wide as the number of the topic's checks that mention it
-      var tp = em.topic, ax = LAY.rx * 0.985 * Math.cos(tp.mid) * k + tx, ay = LAY.ry * 0.985 * Math.sin(tp.mid) * k + ty;
-      c.strokeStyle = C.t[tp.ci]; c.lineCap = 'round';
-      em.w.forEach(function (cnt, e) {
-        if (!e.core) return;
-        var ex = X(e), ey = Y(e), mx = (ax + ex) / 2, my = (ay + ey) / 2, qx = mx + (tx - mx) * 0.22, qy = my + (ty - my) * 0.22;
-        c.globalAlpha = Math.min(0.8, 0.42 + 0.07 * cnt); c.lineWidth = Math.min(3.4, 0.9 + 0.42 * (cnt - 1));
-        c.beginPath(); c.moveTo(ax, ay); c.quadraticCurveTo(qx, qy, ex, ey); c.stroke();
-        for (var s = 0, px = ax, py = ay; s < 4; s++) { var u = (s + 1) / 4, v = 1 - u, sx = v * v * ax + 2 * v * u * qx + u * u * ex, sy = v * v * ay + 2 * v * u * qy + u * u * ey; segs.push(px, py, sx, sy); px = sx; py = sy; }
-      });
-      c.lineCap = 'butt';
-    } else if (em) {
-      c.strokeStyle = C.accent;
-      em.links.forEach(function (l) {
-        c.globalAlpha = iso ? (l.kind === 'rel' ? 0.3 : 0.1) : em.kind === 'path' ? 0.95 : l.kind === 'rel' ? 0.78 : 0.4;
-        c.lineWidth = em.kind === 'path' ? 2.2 : l.kind === 'rel' ? Math.min(2.8, 0.9 + 0.34 * (l.w - 1)) : 0.8;
-        c.setLineDash(l.kind === 'parent' ? [6, 4] : (l.unv || l.inferred) ? [3, 3] : []);
-        c.beginPath(); if (l.bow && !iso) bow(l, true); else { line(l); if (!iso) segs.push(X(l.source), Y(l.source), X(l.target), Y(l.target)); } c.stroke();
-      });
-      c.setLineDash([]);
-    }
-    c.globalAlpha = 1;
-    // the names that matter most, and those in focus: their places first, then the labels that fit, then the marks
-    var placed = map.obst.concat(capBoxes), marks = [], boxes = [], rad = new Map();
-    strong.sort(function (a, b) { return b.rank - a.rank; });
-    strong.forEach(function (n) {
-      var inEm = !em || em.nodes.has(n), r = rs(n, k, !em || (inEm && n.core)); if (em && inEm && !n.core) r = Math.max(r, 2.9);
-      var x = X(n), y = Y(n), m = r + (n === map.hub ? 6 : 1);
-      rad.set(n, r);
-      if (r > 2.5 && (inEm || !tk)) marks.push([x - m, y - m, x + m, y + m, n]);
-    });
-    themes.forEach(function (n) { if (!shown(n) || (em && (em.kind === 'hover' || tk) && !em.nodes.has(n))) return; var r = rs(n, k); marks.push([X(n) - r, Y(n) - r, X(n) + r, Y(n) + r, n]); });
-    if (map.iso) claims.forEach(function (n) { if (n.vis) marks.push([X(n) - 6, Y(n) - 6, X(n) + 6, Y(n) + 6, n]); });
-    // labels: the names in focus, or as many of the best-connected names as fit without crowding
-    var g = ARCS.length && LAY && !map.iso ? ringGeom(t) : null;
-    function inside(x0, y0, x1, y1) {   // a label stays inside the ring and clear of the rows of fine dots
-      if (!g) return true;
-      var xs = [x0, (x0 + x1) / 2, x1], ys = [y0, (y0 + y1) / 2, y1];
-      for (var a = 0; a < 3; a++) for (var b = 0; b < 3; b++) {
-        var f = Math.hypot((xs[a] - g.cx) / g.rx, (ys[b] - g.cy) / g.ry);
-        if (f > 0.972) return false;
-      }
-      return true;
-    }
-    var cand = [], zr = k / (map.k0 || k), lead = em && em.lead;
-    if (tk) {
-      em.w.forEach(function (cnt, e) { if (e.core) cand.push(e); });
-      cand.sort(function (a, b) { return em.w.get(b) - em.w.get(a) || a.rank - b.rank; });
-      cand = cand.slice(0, ph ? 8 : 26);
-    } else if (em) {
-      var wOf = function (n) { var l = lead && lead.adj.get(n.key); return l ? l.w : 0; };
-      em.nodes.forEach(function (n) { if (n.kind !== 'claim' && shown(n)) cand.push(n); else if (n.kind === 'claim' && (em.kind === 'path' || (iso && n === lead))) cand.push(n); });
-      cand.sort(function (a, b) { return (b === lead) - (a === lead) || wOf(b) - wOf(a) || (a.rank == null ? -1 : a.rank) - (b.rank == null ? -1 : b.rank); });
-      cand = cand.slice(0, em.kind === 'hover' ? (ph ? 7 : 16) : 70);
-    } else {
-      var cap = Math.round((ph ? 10 : map.level ? 60 : 44) * Math.pow(Math.max(1, zr), 1.5));
-      for (i = 0; i < ranked.length && cand.length < cap; i++) if (ranked[i].vis && ranked[i].core) cand.push(ranked[i]);
-      cand.sort(function (a, b) { return (a.rank < 3 ? 0 : a.sEnd ? 1 : 2) - (b.rank < 3 ? 0 : b.sEnd ? 1 : 2) || a.rank - b.rank; });   // the ends of the heavy lines are named first
-      if (zr > 2.2) for (i = 0; i < ranked.length && cand.length < cap + 120; i++) if (ranked[i].vis && !ranked[i].core) cand.push(ranked[i]);
-      themes.forEach(function (n) { if (shown(n) && zr > 1.6) cand.push(n); });
-    }
-    var seen = {}, labs = [], got = new Set();
-    cand.forEach(function (n) {
-      var x = X(n), y = Y(n); if (x < -40 || y < -20 || x > w + 40 || y > h + 20) return;
-      var text = n.kind === 'entity' ? mapLabel(n) : n.name, isLead = em && (n === lead || em.kind === 'path'), isHub = n === map.hub && !em;
-      if (seen[text]) return;
-      var top = isLead || (n.rank != null && n.rank < 12);
-      var font = (isHub ? '700 ' + (ph ? 13 : 15) : isLead ? '700 ' + (ph ? 12 : 13) : top ? '600 ' + (ph ? 11.5 : 12.5) : '500 ' + (ph ? 11 : 12)) + 'px ' + FONT;
-      var lines = wrapLines(text, n.kind === 'claim' ? 26 : 20), r = (rad.get(n) || rs(n, k)) * (n.kind === 'entity' && n.group !== 'person' ? 0.95 : 1) + (isHub ? 5 : 0);
-      var must = isLead || (!em && n.rank < 3), lh = isHub ? 17 : 14;
-      var p = mapPlace(c, placed, marks, segs, x, y, Math.max(r, 2.5), lines, font, lh, w, h, n.core ? inside : null, n, must || (!em && map.level === 0 && n.core) ? 99 : top || em ? 9 : 6);
-      if (!p) return;
-      seen[text] = 1; placed.push(p.box); boxes.push(p.box.concat([n])); got.add(n);
-      labs.push([p, lines, font, lh]);
-    });
-    if (!em) { if (map.level === 0 && !ph) strong.forEach(function (n) { if (n.sEnd) got.add(n); }); var was = map.restLab; map.restLab = got; if (ph && (!was || was.size !== got.size)) requestDraw(); }   // a heavy line never ends on a shrunken mark
-    drawDots(boxes.concat(map.iso ? [] : capBoxes));
-    // the marks: a key name is large only where its label is shown
-    strong.forEach(function (n) {
-      var inEm = !em || em.nodes.has(n), r = rad.get(n), x = X(n), y = Y(n);
-      if (!em && !got.has(n)) r = rs(n, k);
-      mapEnt(c, n, x, y, r, inEm ? 1 : DIM + 0.05);
-      if (n === map.hub && r > 8) { c.globalAlpha = inEm ? 0.9 : DIM; c.beginPath(); c.arc(x, y, r + 4.5, 0, 6.2832); c.lineWidth = 1.5; c.strokeStyle = C.g[n.group]; c.stroke(); c.globalAlpha = 1; }
-    });
-    themes.forEach(function (n) { if (!shown(n) || (em && (em.kind === 'hover' || tk) && !em.nodes.has(n))) return; drawTheme(c, X(n), Y(n), rs(n, k), em && !em.nodes.has(n) ? 0.3 : 1); });
-    if (map.iso) claims.forEach(function (n) { if (n.vis) drawCheck(c, n, X(n), Y(n), rs(n, k) * 1.2, 1); });
-    [map.sel, map.hover, map.pathFrom].forEach(function (n, j) { if (n && shown(n) && (j || !focusMode())) halo(c, X(n), Y(n), (rad.get(n) || rs(n, k)) * (em && em.lead === n && n.kind === 'claim' ? 1.4 : 1) + (n === map.hub ? 5 : 0), j === 2 && n !== map.sel); });
-    c.globalAlpha = 1;
-    if (!map.iso && map.guides) map.guides.forEach(function (q) {   // the orbit captions, on the axis at the top
-      c.font = q.font; c.textAlign = 'center'; c.textBaseline = 'middle'; c.lineJoin = 'round';
-      c.globalAlpha = 1; c.lineWidth = 4; c.strokeStyle = C.disc; c.strokeText(q.text, q.x, q.y);
-      c.globalAlpha = F.topic ? 0.6 : 1; c.fillStyle = C.labelDim; c.fillText(q.text, q.x, q.y);
-    });
-    c.globalAlpha = 1;
-    labs.forEach(function (q) { mapLabelDraw(c, q[0], q[1], q[2], q[3], C.label, 1); });
-    map.boxes = boxes;
-  }
-
-  // ---- a selected mark: its neighbourhood, laid out around it
-  /* The selection sits in the middle. Its connections are listed in two columns, grouped by kind of relationship.
-     One trunk runs from the selection to each group and ends in a bracket that holds the group's names, so a group can be followed by eye. */
-  function neighbourhood(n) {
-    var outer = [], order, label;
-    if (n.kind === 'entity') {
-      n.adj.forEach(function (l, key) {
-        if (!l.vis0) return; var o = byKey.get(key);
-        if (o.kind === 'entity' && l.kind === 'rel') {
-          var cnt = {}; l.rels.forEach(function (r) { cnt[r.type] = (cnt[r.type] || 0) + 1; });
-          var best = Object.keys(cnt).sort(function (a, b) { return cnt[b] - cnt[a] || RTYPES.indexOf(a) - RTYPES.indexOf(b); })[0];
-          outer.push({ n: o, w: l.w, group: best, link: l });
-        }
-      });
-      order = RTYPES.concat(outer.map(function (it) { return it.group; }).filter(function (g, i, all) { return RTYPES.indexOf(g) < 0 && all.indexOf(g) === i; }));
-      label = function (g) { return RLABEL[g] || cap(g); };
-    } else if (n.kind === 'claim') {
-      var mine = rels.filter(function (r) { return r.claims.indexOf(n.id) >= 0; }), deg = new Map();
-      mine.forEach(function (r) { deg.set(r.S, (deg.get(r.S) || 0) + 1); deg.set(r.T, (deg.get(r.T) || 0) + 1); });
-      n.adj.forEach(function (l, key) {
-        if (!l.vis0) return; var o = byKey.get(key);
-        if (o.kind === 'entity') outer.push({ n: o, w: 1 + (deg.get(o) || 0), group: o.group, link: l });
-        else outer.push({ n: o, w: 1, group: 'related', link: l });
-      });
-      order = GROUPS.concat(['related']); label = function (g) { return g === 'related' ? 'Related Checks & Themes' : GLABEL[g]; };
-    } else {
-      n.adj.forEach(function (l, key) { var o = byKey.get(key); if (l.vis0 && o.kind === 'claim') outer.push({ n: o, w: 1, group: 'checks', link: l }); });
-      order = ['checks']; label = function () { return 'Checks'; };
-    }
-    outer.sort(function (a, b) { return b.w - a.w || (a.n.rank || 0) - (b.n.rank || 0) || a.n.name.localeCompare(b.n.name); });
-    return { outer: outer, order: order, label: label };
-  }
-  function buildFocus() {
-    var n = map.sel; if (!n || !W) { map.focus = null; return; }
-    var a = visibleArea(), nb = neighbourhood(n), ph = narrow.matches;
-    var rowH = ph ? 15 : 17, headH = ph ? 19 : 23, gapH = ph ? 7 : 12;
-    var lfont = '500 ' + (ph ? 11.5 : 12.5) + 'px ' + FONT, hfont = '700 ' + (ph ? 11.5 : 12.5) + 'px ' + FONT;
-    var room = ph ? Math.max(104, a.w / 2 - 50) : Math.min(236, Math.max(150, a.w * 0.21));
-    var R = Math.max(ph ? 36 : 150, Math.min(a.w / 2 - room - 12, ph ? 46 : 290));
-    var availH = Math.max(120, a.h - (ph ? 14 : 40)), maxChars = Math.max(12, Math.floor((room - 18) / (ph ? 6.1 : 6.7)));
-    var groups = [];
-    nb.order.forEach(function (g) {
-      var items = nb.outer.filter(function (it) { return it.group === g; });
-      if (!items.length) return;
-      items.forEach(function (it) { it.lines = wrapLines(it.n.kind === 'entity' ? mapLabel(it.n) : it.n.name, maxChars).slice(0, 2); it.rows = it.lines.length; });
-      groups.push({ id: g, label: nb.label(g), items: items, total: items.length, more: 0 });
-    });
-    function gh(g) { return headH + g.items.reduce(function (q, it) { return q + it.rows; }, 0) * rowH + (g.more ? rowH : 0); }
-    function sh(list) { return list.reduce(function (s, g) { return s + gh(g); }, 0) + Math.max(0, list.length - 1) * gapH; }
-    // each group stays whole on one side; the split is the one that balances the two columns best
-    var cut = 0, bd = Infinity, i;
-    for (i = 0; i <= groups.length; i++) { var d = Math.abs(sh(groups.slice(0, i)) - sh(groups.slice(i))); if (d < bd) { bd = d; cut = i; } }
-    var sides = [groups.slice(0, cut), groups.slice(cut)], hiddenN = 0;
-    sides.forEach(function (list) {   // a column that is too tall keeps each group's strongest links, in proportion
-      var guard = 0;
-      while (sh(list) > availH && guard++ < 400) {
-        var big = null; list.forEach(function (g) { if (g.items.length > 2 && (!big || g.items.length > big.items.length)) big = g; });
-        if (!big) break;
-        big.items.pop(); big.more++; hiddenN++;
-      }
-    });
-    var outer = [], shown2 = [];
-    sides.forEach(function (list, si) {
-      var sgn = si ? -1 : 1, y = -sh(list) / 2;
-      list.forEach(function (g) {
-        g.sgn = sgn; g.x = sgn * R; g.xb = sgn * (R - (ph ? 10 : 15)); g.yh = y + headH / 2 - 2; y += headH;
-        g.wsum = 0; g.unv = true;
-        g.items.forEach(function (it, j) {
-          it.x = g.x; it.y = y + it.rows * rowH / 2; it.sgn = sgn; it.g = g; y += it.rows * rowH;
-          it.r = it.n.kind === 'entity' ? Math.min(6.5, 2.8 + 4.2 * Math.sqrt(it.n.imp / IMPMAX)) : 4.2;
-          if (!j) g.y0 = it.y; g.y1 = it.y; g.wsum += it.w; if (!(it.link && it.link.unv)) g.unv = false;
-          outer.push(it);
-        });
-        if (g.more) { g.ym2 = y + rowH / 2; y += rowH; }
-        g.ym = (g.y0 + g.y1) / 2; y += gapH; shown2.push(g);
-      });
-    });
-    var cl = wrapLines(n.kind === 'entity' ? mapLabel(n) : n.name, n.kind === 'entity' ? 18 : 24);
-    var sub = n.kind === 'entity' ? plural(n.lines.length, 'connection') + ' · in ' + plural(n.cl.length, 'check') : n.kind === 'claim' ? plural(n.ents.length, 'name') : plural(nb.outer.length, 'check');
-    var centre = { n: n, x: 0, y: 0, r: ph ? 9 : 12, centre: true };
-    var pos = new Map(); outer.forEach(function (it) { pos.set(it.n, it); });
-    map.focus = { node: n, R: R, room: room, groups: shown2, outer: outer, inner: [], centre: centre, all: [centre].concat(outer), pos: pos, lfont: lfont, hfont: hfont, rowH: rowH, cl: ph ? null : cl, sub: sub, hiddenN: hiddenN, totalOuter: nb.outer.length };
-    var note = $('focus-note');
-    note.textContent = hiddenN ? 'The ' + outer.length + ' strongest of ' + nb.outer.length + ' connections are drawn. The panel lists them all.' : ''; note.hidden = !hiddenN || ph;
-  }
-  function frameFocus(animate) {
-    var a = visibleArea();
-    moveTo(a.x + a.w / 2, a.y + a.h / 2, 1, animate);
-  }
-  function paintFocus(c, w, h, t) {
-    var fo = map.focus, k = t.k, tx = t.x, ty = t.y, hov = map.hover, ph = narrow.matches;
-    function X(it) { return it.x * k + tx; } function Y(it) { return it.y * k + ty; }
-    var hovIt = hov && fo.pos.get(hov), lh = Math.min(fo.rowH - 2, 15), placed = map.obst.slice(), boxes = [];
-    var ruleLen = Math.min(fo.room - 14, 196) * Math.min(1, k);
-    c.lineCap = 'round'; c.lineJoin = 'round'; c.textBaseline = 'middle';
-    fo.groups.forEach(function (g) {
-      var gx = g.xb * k + tx, y0 = g.y0 * k + ty, y1 = g.y1 * k + ty, ym = g.ym * k + ty, inG = hovIt && hovIt.g === g, sgn = g.sgn;
-      // the trunk to the group, and the bracket that holds its names
-      c.setLineDash(g.unv ? [3, 3] : []);
-      c.strokeStyle = inG ? C.accent : g.unv ? C.v.unp : C.edge; c.globalAlpha = hovIt ? (inG ? 0.95 : 0.22) : 0.62;
-      c.lineWidth = fo.node.kind === 'entity' ? Math.min(3.4, 1.1 + 0.1 * g.wsum) : 1.3;
-      var sx = tx + sgn * (fo.centre.r + 4);
-      c.beginPath(); c.moveTo(sx, ty); c.bezierCurveTo(sx + (gx - sx) * 0.62, ty, sx + (gx - sx) * 0.38, ym, gx, ym); c.stroke();
-      c.setLineDash([]);
-      c.strokeStyle = C.edge; c.globalAlpha = hovIt ? (inG ? 0.8 : 0.22) : 0.62; c.lineWidth = 1.2;
-      c.beginPath(); c.moveTo(gx, y0); c.lineTo(gx, y1); c.stroke();
-      g.items.forEach(function (it) {
-        var on = hov === it.n, unv = it.link && it.link.unv, y = Y(it);
-        c.globalAlpha = on ? 1 : hovIt ? 0.22 : 0.7; c.strokeStyle = on ? C.accent : unv ? C.v.unp : C.edge;
-        c.lineWidth = (fo.node.kind === 'entity' ? Math.min(2.8, 0.9 + 0.36 * (it.w - 1)) : 0.9) + (on ? 0.6 : 0);
-        c.setLineDash(unv ? [3, 3] : []); c.beginPath(); c.moveTo(gx, y); c.lineTo(X(it), y); c.stroke();
-      });
-      c.setLineDash([]);
-      // the group's heading: heavier than its names, over a thin rule, with the number of names at the far end
-      var lx = g.x * k + tx + sgn * 11, hy = g.yh * k + ty, ex = gx + sgn * Math.max(ruleLen, textW(c, fo.hfont, g.label) + 26 + textW(c, fo.lfont, String(g.total)));
-      c.globalAlpha = hovIt && !inG ? 0.5 : 1;
-      c.font = fo.hfont; c.fillStyle = C.label; c.textAlign = sgn > 0 ? 'left' : 'right'; c.fillText(g.label, lx, hy);
-      c.font = fo.lfont; c.fillStyle = C.labelDim; c.textAlign = sgn > 0 ? 'right' : 'left'; c.fillText(String(g.total), ex, hy);
-      c.strokeStyle = C.labelDim; c.globalAlpha = (hovIt && !inG ? 0.5 : 1) * 0.55; c.lineWidth = 1;
-      c.beginPath(); c.moveTo(gx, hy + 10.5); c.lineTo(ex, hy + 10.5); c.stroke();
-      if (g.more) { c.globalAlpha = 1; c.font = fo.lfont; c.fillStyle = C.labelDim; c.textAlign = sgn > 0 ? 'left' : 'right'; c.fillText(ph ? '+ ' + g.more + ' more' : 'and ' + g.more + ' more in the panel', lx, g.ym2 * k + ty); }
-    });
-    c.globalAlpha = 1;
-    // marks
-    fo.outer.forEach(function (it) { drawMark(c, it.n, X(it), Y(it), it.r, hovIt && hovIt !== it ? 0.55 : 1); if (hov === it.n) halo(c, X(it), Y(it), it.r); });
-    drawMark(c, fo.node, tx, ty, fo.centre.r, 1); halo(c, tx, ty, fo.centre.r);
-    c.globalAlpha = 1;
-    // names, one row each
-    fo.outer.forEach(function (it) {
-      var x = X(it) + it.sgn * 11, y = Y(it), tw = 0, on = hov === it.n, font = on ? fo.lfont.replace('500', '700') : fo.lfont;
-      it.lines.forEach(function (s) { tw = Math.max(tw, textW(c, font, s)); });
-      var x0 = it.sgn > 0 ? x : x - tw, th = it.lines.length * lh, box = [x0 - 2, y - th / 2, x0 + tw + 2, y + th / 2];
-      if (!on && overlaps(placed, box[0], box[1] + 1, box[2], box[3] - 1)) return;
-      placed.push(box); boxes.push(box.concat([it.n]));
-      c.font = font; c.textAlign = it.sgn > 0 ? 'left' : 'right'; c.fillStyle = on ? C.accent : C.label; c.globalAlpha = hovIt && !on ? 0.5 : 1;
-      it.lines.forEach(function (s, j) { c.fillText(s, x, y - th / 2 + lh / 2 + j * lh); });
-    });
-    c.globalAlpha = 1;
-    var by = ty + fo.centre.r + 8;
-    if (fo.cl) {
-      var nf = '700 ' + (ph ? 12.5 : 14) + 'px ' + FONT, tw = 0; fo.cl.forEach(function (s) { tw = Math.max(tw, textW(c, nf, s)); });
-      var p = { x: tx, y: by + fo.cl.length * 8, tw: tw, th: fo.cl.length * 16, align: 'c', box: [tx - tw / 2 - 6, by - 2, tx + tw / 2 + 6, by + fo.cl.length * 16 + 2] };
-      mapLabelDraw(c, p, fo.cl, nf, 16, C.label, 1); by += fo.cl.length * 16 + 3;
-      if (!ph) {
-        var sf = '400 11.5px ' + FONT, sw = textW(c, sf, fo.sub);
-        mapLabelDraw(c, { x: tx, y: by + 7, tw: sw, th: 14, align: 'c', box: [tx - sw / 2 - 6, by - 1, tx + sw / 2 + 6, by + 15] }, [fo.sub], sf, 14, C.labelDim, 1); by += 18;
-      }
-    }
-    // what the one line under the pointer says
-    if (hovIt && hovIt.link && hovIt.link.kind === 'rel' && !ph) {
-      var rr = hovIt.link.rels, text = rr[0].label + (rr.length > 1 ? ', and ' + (rr.length - 1) + ' more' : ''), ef = 'italic 500 12px ' + FONT, el = wrapLines(text, 30), ew = 0;
-      el.forEach(function (s) { ew = Math.max(ew, textW(c, ef, s)); });
-      var mx = tx, my = by + 14 + el.length * 7.5;
-      c.globalAlpha = 0.96; c.fillStyle = C.card; c.beginPath(); rrect(c, mx - ew / 2 - 8, my - el.length * 7.5 - 5, ew + 16, el.length * 15 + 10, 5); c.fill();
-      c.globalAlpha = 1; c.lineWidth = 1; c.strokeStyle = C.accent; c.stroke();
-      c.font = ef; c.textAlign = 'center'; c.fillStyle = C.label;
-      el.forEach(function (s, j) { c.fillText(s, mx, my - el.length * 7.5 + 7.5 + j * 15); });
-    }
-    c.lineCap = 'butt';
-    map.boxes = boxes;
-  }
   function draw() {
     if (!W || state.view !== 'map' || !map.ready || map.mode !== 'network') return;
     ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
     if (gl.ok) glDraw();
   }
-  /* The home page shows a small, legible network of the best-connected names, in the map's own visual language. */
-  var teaser = {};
-  function teaserCount() { return narrow.matches ? 6 : 10; }
-  function teaserData() {
-    var count = teaserCount();
-    if (teaser[count]) return teaser[count];
-    var pick = [], seen = {};
-    ranked.forEach(function (e) { var t = mapLabel(e); if (pick.length < count && e.type !== 'media' && !e.unverified_only && !seen[t]) { seen[t] = 1; pick.push(e); } });
-    var ns = pick.map(function (e, i) { var a = i * 2.399963, r = 26 * Math.sqrt(i); return { e: e, x: r * Math.cos(a), y: r * Math.sin(a) }; }), at = new Map();
-    ns.forEach(function (d) { at.set(d.e, d); });
-    var ls = [];
-    links.forEach(function (l) { if (l.kind === 'rel' && at.has(l.source) && at.has(l.target)) ls.push({ source: at.get(l.source), target: at.get(l.target), w: l.w, unv: l.unv }); });
-    if (d3) {
-      var sim = d3.forceSimulation(ns).force('link', d3.forceLink(ls).distance(150).strength(function (l) { return 0.03 + 0.015 * Math.min(l.w, 4); }))
-        .force('charge', d3.forceManyBody().strength(-1400)).force('collide', d3.forceCollide(78)).force('x', d3.forceX(0).strength(0.05)).force('y', d3.forceY(0).strength(0.1)).stop();
-      for (var i = 0; i < 400; i++) sim.tick();
-    }
-    return (teaser[count] = { nodes: ns, links: ls });
-  }
-  /* The teaser places its own labels: each name tries the sides of its mark in turn and takes the first spot that is
-     inside the picture and clear of every mark and every label already placed. */
+  /* The home page's figure: a still of the whole graph, from the same layout and palette as the Network view. Every name and
+     check is a dot, every documented link a hairline; the best-connected names are labelled where a label has a clear spot. */
   function drawPreview() {
     var cv = $('preview'); if (!cv) return;
     var box = cv.getBoundingClientRect(); if (box.width < 2) return;
-    var r = Math.min(window.devicePixelRatio || 1, 2), w = box.width, h = box.height, td = teaserData();
-    cv.width = Math.round(w * r); cv.height = Math.round(h * r);
-    var c = cv.getContext('2d');
-    if (!C.bg) readTokens();
-    c.setTransform(r, 0, 0, r, 0, 0); c.clearRect(0, 0, w, h);
-    var font = '600 12.5px ' + FONT, LH = 15, pageBg = getComputedStyle(document.documentElement).getPropertyValue('--bg').trim() || C.bg;
-    c.font = font;
-    td.nodes.forEach(function (d) {
-      d.r = 5 + 7 * Math.sqrt(d.e.imp / IMPMAX); d.lines = wrapLines(mapLabel(d.e), 17);
-      d.tw = Math.max.apply(null, d.lines.map(function (t) { return c.measureText(t).width; })); d.th = d.lines.length * LH;
-    });
-    var x0 = Infinity, x1 = -Infinity, y0 = Infinity, y1 = -Infinity;
-    td.nodes.forEach(function (d) { x0 = Math.min(x0, d.x); x1 = Math.max(x1, d.x); y0 = Math.min(y0, d.y); y1 = Math.max(y1, d.y); });
-    var mx = Math.min(74, w * 0.17), my = 34, kx = (w - 2 * mx) / (x1 - x0 || 1), ky = (h - 2 * my) / (y1 - y0 || 1);
-    function X(d) { return mx + (d.x - x0) * kx; } function Y(d) { return my + (d.y - y0) * ky; }
-    c.strokeStyle = C.edge; c.lineCap = 'round';
-    td.links.forEach(function (l) {
-      c.globalAlpha = Math.min(0.5, C.edgeA * 0.8 + 0.04 * l.w); c.lineWidth = Math.min(2, 0.8 + 0.2 * l.w); c.setLineDash(l.unv ? [3, 3] : []);
-      c.beginPath(); c.moveTo(X(l.source), Y(l.source)); c.lineTo(X(l.target), Y(l.target)); c.stroke();
-    });
-    c.setLineDash([]); c.globalAlpha = 1;
-    var placed = [];
-    td.nodes.forEach(function (d) { placed.push([X(d) - d.r - 2, Y(d) - d.r - 2, X(d) + d.r + 2, Y(d) + d.r + 2]); });
-    td.nodes.forEach(function (d) { drawEnt(c, d.e, X(d), Y(d), d.r, 1); });
-    function clear(b) { return b[0] >= 2 && b[1] >= 2 && b[2] <= w - 2 && b[3] <= h - 2 && !placed.some(function (q) { return b[0] < q[2] && b[2] > q[0] && b[1] < q[3] && b[3] > q[1]; }); }
-    td.nodes.forEach(function (d) {
-      var x = X(d), y = Y(d), g = d.r + 6, tw = d.tw, th = d.th, cxm = w / 2;
-      var right = [x + g, y - th / 2, 'left'], left = [x - g - tw, y - th / 2, 'right'], below = [x - tw / 2, y + g - 1, 'center'], above = [x - tw / 2, y - g - th + 1, 'center'];
-      var cand = (x >= cxm ? [right, below, above, left] : [left, below, above, right]).concat([
-        [x + g - 2, y + 2, 'left'], [x - g + 2 - tw, y + 2, 'right'], [x + g - 2, y - th - 2, 'left'], [x - g + 2 - tw, y - th - 2, 'right']]);
-      var spot = null;
-      for (var i = 0; i < cand.length && !spot; i++) { var q = cand[i], b = [q[0] - 2, q[1] - 1, q[0] + tw + 2, q[1] + th + 1]; if (clear(b)) spot = { x: q[0], y: q[1], align: q[2], box: b }; }
-      if (!spot) return;   // a name with no clear spot is left unlabelled, never drawn over another
-      placed.push(spot.box);
-      c.font = font; c.textBaseline = 'middle'; c.textAlign = spot.align; c.lineJoin = 'round';
-      var tx = spot.align === 'left' ? spot.x : spot.align === 'right' ? spot.x + tw : spot.x + tw / 2;
-      d.lines.forEach(function (t, i) {
-        var ty = spot.y + LH * (i + 0.5);
-        c.lineWidth = 4; c.strokeStyle = pageBg; c.strokeText(t, tx, ty);
-        c.fillStyle = C.label; c.fillText(t, tx, ty);
+    if (!gl.ok) { try { glLayout(); } catch (e) { return; } }
+    glTheme();
+    var dp = Math.min(window.devicePixelRatio || 1, 2), w = box.width, h = box.height, c = cv.getContext('2d'), i, n;
+    cv.width = Math.round(w * dp); cv.height = Math.round(h * dp);
+    c.setTransform(dp, 0, 0, dp, 0, 0);
+    var cs = getComputedStyle(root), bg = cs.getPropertyValue('--cv-bg').trim() || GC.bg1, ink = cs.getPropertyValue('--cv-ink').trim() || GC.ink, line = cs.getPropertyValue('--cv-line').trim() || GC.line;
+    var uiFont = cs.getPropertyValue('--font-ui').trim() || FONT, light = !!GC.light;
+    c.fillStyle = bg; c.fillRect(0, 0, w, h);
+    // the fixed first view of the globe, a little perspective, fitted to the figure
+    var N = gl.N, P = gl.P, sx = new Float32Array(N), sy = new Float32Array(N), sz = new Float32Array(N);
+    var rad = Math.min(w * 0.46, h * 0.47), cx = w / 2, cy = h / 2, D = 3.4, keepQ = gl.q;
+    gl.q = gl.q0;
+    for (i = 0; i < N; i++) {
+      var v = glRot([P[i * 3], P[i * 3 + 1], P[i * 3 + 2]]), s = D / (D - v[2]);
+      sx[i] = cx + v[0] * rad * s * (w > h * 1.25 ? 1.18 : 1); sy[i] = cy - v[1] * rad * s; sz[i] = v[2];
+    }
+    gl.q = keepQ;
+    // links: far ones fainter, in two passes so that each pass is a single path
+    c.lineWidth = light ? 0.55 : 0.6; c.strokeStyle = line;
+    [[-9, 0, light ? 0.1 : 0.08], [0, 9, light ? 0.2 : 0.17]].forEach(function (pass) {
+      c.globalAlpha = pass[2]; c.beginPath();
+      links.forEach(function (l) {
+        if (l.kind !== 'rel' && l.kind !== 'claim') return;
+        var a = l.source.gi, b = l.target.gi, zm = (sz[a] + sz[b]) / 2;
+        if (zm < pass[0] || zm >= pass[1]) return;
+        c.moveTo(sx[a], sy[a]); c.lineTo(sx[b], sy[b]);
       });
+      c.stroke();
     });
-    c.textAlign = 'left'; c.textBaseline = 'alphabetic';
+    // marks, far to near
+    var order = nodes.slice().sort(function (a, b) { return sz[a.gi] - sz[b.gi]; }), k = Math.max(0.62, Math.min(1.15, w / 760));
+    order.forEach(function (m) {
+      var j = m.gi, r = Math.max(0.9, m.gr * k * (0.72 + 0.28 * (sz[j] + 1) / 2));
+      c.globalAlpha = 0.5 + 0.5 * (sz[j] + 1) / 2;
+      c.fillStyle = m.kind === 'claim' ? GC.check : m.gc < 9 ? GC.t[m.gc] : GC.ink2;
+      c.beginPath();
+      if (m.kind === 'claim') { c.moveTo(sx[j], sy[j] - r * 1.25); c.lineTo(sx[j] + r * 1.25, sy[j]); c.lineTo(sx[j], sy[j] + r * 1.25); c.lineTo(sx[j] - r * 1.25, sy[j]); c.closePath(); }
+      else c.arc(sx[j], sy[j], r, 0, 6.2832);
+      c.fill();
+      if (m.kind === 'entity' && r > 3) { c.globalAlpha = 1; c.lineWidth = 1; c.strokeStyle = bg; c.stroke(); }
+    });
+    c.globalAlpha = 1;
+    // labels: the best-connected names, each in the first clear spot beside its mark
+    var want = w < 520 ? 9 : 18, placed = [], seen = {}, done = 0;
+    function clear(b) { return b[0] >= 4 && b[1] >= 4 && b[2] <= w - 4 && b[3] <= h - 38 && !placed.some(function (p) { return b[0] < p[2] && b[2] > p[0] && b[1] < p[3] && b[3] > p[1]; }); }
+    for (i = 0; i < ranked.length && done < want && i < 60; i++) {
+      n = ranked[i]; if (n.type === 'media' || n.unverified_only) continue;
+      var t = mapLabel(n); if (seen[t]) continue; seen[t] = 1;
+      var px = sx[n.gi], py = sy[n.gi], r0 = n.gr * k + 5, fs = i === 0 ? 14.5 : i < 6 ? 13 : 12;
+      c.font = (i < 6 ? '650 ' : '550 ') + fs + 'px ' + uiFont;
+      var tw = c.measureText(t).width, th = fs + 3;
+      var cand = [[px + r0, py - th / 2], [px - r0 - tw, py - th / 2], [px - tw / 2, py + r0 - 2], [px - tw / 2, py - r0 - th + 2], [px + r0 - 2, py + 3], [px - r0 + 2 - tw, py + 3], [px + r0 - 2, py - th - 3], [px - r0 + 2 - tw, py - th - 3]], spot = null;
+      for (var u = 0; u < cand.length && !spot; u++) { var b = [cand[u][0] - 3, cand[u][1] - 1, cand[u][0] + tw + 3, cand[u][1] + th + 1]; if (clear(b)) spot = b; }
+      if (!spot) continue;
+      placed.push(spot); done++;
+      c.textBaseline = 'middle'; c.textAlign = 'left'; c.lineJoin = 'round';
+      c.lineWidth = 3.5; c.strokeStyle = bg; c.strokeText(t, spot[0] + 3, spot[1] + 1 + th / 2);
+      c.fillStyle = ink; c.fillText(t, spot[0] + 3, spot[1] + 1 + th / 2);
+    }
+    c.textBaseline = 'alphabetic';
+    var key = $('front-key');
+    if (key) key.innerHTML = ARCS.map(function (tp, ti) { return '<span class="tk"><i style="background:' + GC.t[ti % 9] + '" aria-hidden="true"></i>' + esc(tp.short) + '</span>'; }).join('');
   }
 
   function showTip(n) {
@@ -1886,15 +1315,48 @@
   // ------------------------------------------------------------------ the globe
   /* The Network view. Every name and every check is a point in a ball. Position comes only from a force layout run in three
      dimensions over the documented links, so the clusters, the bridges between them and the hubs are the data's own; no guide
-     shapes are drawn. The canvas is dark in both themes, so its colours are fixed here. */
-  var GC = { bg0: '#131b28', bg1: '#090d14', ink: '#edf1f7', ink2: '#97a4b8', halo: '#0a0f17', accent: '#ffd98a', line: '#8ea4c4', check: '#e3e9f2',
-    t: ['#6fa8ff', '#35cfc4', '#cfcf6a', '#f2a84b', '#f27e5e', '#ea7aa9', '#a890f5', '#7ed48b', '#a3b6cd'],
-    g: { person: '#7fb0ff', org: '#43c8d6', gov: '#eab552', other: '#9aa6b8' },
-    rk: { money: '#f2b450', own: '#43c8d6', role: '#8fb4ff', gov: '#ef8a72', family: '#86d792', media: '#b3bccb' } };
+     shapes are drawn. The globe has two renderings. On a dark surface it is luminous: links add light, the best-connected names
+     glow. On a light surface it is ink on paper: links are dark hairlines that fade towards the paper with depth, names are
+     mid-tone discs with a fine darker outline, and weight is carried by size, not by glow. Each has its own palette. */
+  var GCS = {
+    dark: { light: false, bg0: '#121a27', bg1: '#090d14', ink: '#f1f4f9', ink2: '#b4bfd0', lead: '#ffffff', halo: '#0a0f17', accent: '#ffd98a', line: '#8ea4c4', check: '#e3e9f2',
+      t: ['#6fa8ff', '#35cfc4', '#d2d26c', '#f2a84b', '#f58567', '#ee82b0', '#b09bf8', '#7ed48b', '#aebed2'],
+      g: { person: '#7fb0ff', org: '#43c8d6', gov: '#eab552', other: '#a3aebf' },
+      rk: { money: '#f2b450', own: '#43c8d6', role: '#8fb4ff', gov: '#ef8a72', family: '#86d792', media: '#b3bccb' } },
+    light: { light: true, bg0: '#f8fafc', bg1: '#e8edf3', ink: '#131a26', ink2: '#3d4859', lead: '#070b12', halo: '#f4f7fa', accent: '#b4500a', line: '#2b3850', check: '#2c3545',
+      t: ['#2463cf', '#07807a', '#7d7a0c', '#b8650a', '#cf4526', '#c6337d', '#6f4fd8', '#22853a', '#56667e'],
+      g: { person: '#2463cf', org: '#07828e', gov: '#b06c05', other: '#5f6d82' },
+      rk: { money: '#a86200', own: '#07828e', role: '#3b63d6', gov: '#cb4429', family: '#22853a', media: '#5c697d' } } };
+  var GC = GCS.dark, GFONT = '';
+  function hexRgb(h) { h = String(h || '').trim(); var m = /^#([0-9a-f]{3}|[0-9a-f]{6})$/i.exec(h); if (!m) { m = /^rgba?\(\s*([\d.]+)[,\s]+([\d.]+)[,\s]+([\d.]+)/.exec(h); return m ? [+m[1], +m[2], +m[3]] : null; } h = m[1]; if (h.length === 3) h = h[0] + h[0] + h[1] + h[1] + h[2] + h[2]; return [parseInt(h.slice(0, 2), 16), parseInt(h.slice(2, 4), 16), parseInt(h.slice(4, 6), 16)]; }
+  function rgbHex(c) { return '#' + c.map(function (v) { v = Math.max(0, Math.min(255, Math.round(v))); return (v < 16 ? '0' : '') + v.toString(16); }).join(''); }
+  function mixHex(a, b, t) { var p = hexRgb(a), q = hexRgb(b); return p && q ? rgbHex([p[0] + (q[0] - p[0]) * t, p[1] + (q[1] - p[1]) * t, p[2] + (q[2] - p[2]) * t]) : a; }
+  function relLum(h) { var c = hexRgb(h); if (!c) return 0; c = c.map(function (v) { v /= 255; return v <= 0.03928 ? v / 12.92 : Math.pow((v + 0.055) / 1.055, 2.4); }); return 0.2126 * c[0] + 0.7152 * c[1] + 0.0722 * c[2]; }
+  function contrast(a, b) { var x = relLum(a), y = relLum(b); return (Math.max(x, y) + 0.05) / (Math.min(x, y) + 0.05); }
+  /* Text of a colour must stand at 4.5 to 1 against the surface; a colour that falls short is moved towards the ink until it does. */
+  function legible(col, bg, ink) { for (var q = 0; q < 12 && contrast(col, bg) < 4.6; q++) col = mixHex(col, ink, 0.12); return col; }
+  /* The theme is the document's: data-theme on the root when the reader chose one, else the system's. The surface, the ink and the
+     font come from the page's tokens where they are set (--cv-bg, --cv-ink, --cv-muted, --font-ui); the rendering follows the surface. */
+  function glTheme() {
+    var cs = getComputedStyle(root), th = root.getAttribute('data-theme'), want = th === 'light' || th === 'dark' ? th : (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    function tok(name) { var v = cs.getPropertyValue(name).trim(); return hexRgb(v) ? rgbHex(hexRgb(v)) : ''; }
+    var bg = tok('--cv-bg'), ink = tok('--cv-ink'), muted = tok('--cv-muted'), font = cs.getPropertyValue('--font-ui').trim();
+    if (bg) want = relLum(bg) > 0.35 ? 'light' : 'dark';
+    var base = GCS[want], p = {}, k; for (k in base) p[k] = base[k];
+    if (bg) { p.bg1 = bg; p.bg0 = mixHex(bg, p.light ? '#ffffff' : '#1b2740', p.light ? 0.5 : 0.35); p.halo = p.light ? mixHex(bg, '#ffffff', 0.4) : mixHex(bg, '#000000', 0.15); }
+    if (ink && contrast(ink, p.bg1) >= 7) p.ink = ink;
+    if (muted && contrast(muted, p.bg1) >= 4.6) p.ink2 = muted;
+    p.tx = p.t.map(function (c) { return legible(c, p.light ? p.bg1 : p.bg0, p.ink); });   // topic names as text
+    p.to = p.t.concat([p.ink2, p.g.person, p.g.org, p.g.gov, p.g.other, p.check]).map(function (c) { return mixHex(c, p.light ? '#0b1320' : '#000000', 0.38); });   // the fine outline of each mark
+    var sig = want + '|' + p.bg1 + '|' + p.ink + '|' + p.ink2 + '|' + font, changed = gl.themeSig !== sig;
+    GC = p; GFONT = font || FONT; gl.themeSig = sig;
+    if (changed) { gl.sprites = {}; gl.wstamp = (gl.wstamp || 0) + 1; gl.bgGrad = null; if (map.ready) { if (W) glFrame(); renderLegend(); if (map.mode === 'network') renderPanel(); } }
+    return changed;
+  }
   var RKIND = { money: 'money', ownership: 'own', commercial: 'own', advisory: 'role', regulatory: 'gov', legal: 'gov', political: 'gov', family: 'family', media: 'media' };
   var RKORDER = ['money', 'own', 'role', 'gov', 'family', 'media'];
   var RKLABEL = { money: 'Money', own: 'Ownership & Business', role: 'Advice & Roles', gov: 'Government & Law', family: 'Family', media: 'Reporting' };
-  var gl = { ok: false, N: 0, P: null, sx: null, sy: null, sz: null, ss: null, q: [1, 0, 0, 0], q0: [1, 0, 0, 0], R: new Float32Array(9), zoom: 1, cx: 0, cy: 0, rad: 100, D: 3.1,
+  var gl = { ok: false, N: 0, P: null, sx: null, sy: null, sz: null, ss: null, q: [1, 0, 0, 0], q0: [1, 0, 0, 0], R: new Float32Array(9), zoom: 1, cx: 0, cy: 0, rad: 100, kx: 1, ky: 1, mentions: false, D: 3.1,
     wx: 0, wy: 0, drag: null, pinch: null, anim: null, raf: 0, last: 0, idleAt: 0, over: false, colorBy: 'topic', still: !!window.__STILL__, hovLink: null, tdir: [], tcap: [],
     stamp: 0, lowq: 0, moving: false, em: null, emSt: null, emN: null, emL: null, ms: 0, frames: 0, bgGrad: null, sprites: {}, dragged: false };
   function glRand(seed) { var s = seed >>> 0; return function () { s = (s + 0x6D2B79F5) | 0; var t = Math.imul(s ^ (s >>> 15), 1 | s); t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t; return ((t ^ (t >>> 14)) >>> 0) / 4294967296; }; }
@@ -1922,11 +1384,16 @@
       if (n.kind === 'claim') { d = n.topicRef && n.topicRef.gi != null ? gl.tdir[n.topicRef.gi] : null; return d ? [d[0], d[1], d[2]] : [0, 0, 0]; }
       var cnt = n.tcnt && n.tcnt.size ? n.tcnt : n.tcnt2;
       if (cnt) cnt.forEach(function (v, t) { d = gl.tdir[t.gi]; if (d) { x += d[0] * v; y += d[1] * v; z += d[2] * v; } });
-      var l = Math.hypot(x, y, z); return l ? [x / l, y / l, z / l] : [0, 0, 0];
+      var l = Math.hypot(x, y, z), tot = 0; if (cnt) cnt.forEach(function (v) { tot += v; });
+      n.gpure = tot ? l / tot : 0;   // 1 for a name that belongs to one topic; less for a name that sits between several
+      return l ? [x / l, y / l, z / l] : [0, 0, 0];
     }
     function ball() { var x, y, z, l; do { x = rnd() * 2 - 1; y = rnd() * 2 - 1; z = rnd() * 2 - 1; l = x * x + y * y + z * z; } while (l > 1 || l < 0.01); l = Math.sqrt(l); return [x / l, y / l, z / l]; }
     /* The finished positions are kept in the browser, where that is allowed, so a later visit does not run the simulation again. */
-    var CK = 'tcm-globe-4', sig = nodes.length + '|' + links.length + '|' + (META.generated || ''), cached = null;
+    var CK = 'tcm-globe-5', sig = nodes.length + '|' + links.length + '|' + (META.generated || ''), cached = null;
+    /* The measures of the layout. Lengths are in the simulation's own units; the finished ball is scaled to fit the canvas. */
+    var LP = { ticks: 150, decay: 0.97, push: 0.1, mass: 0.07, hubMass: 26, relLen: 1.5, relDeg: 0.3, hubLen: 7, claimLen: 2.2, lobe: 18, even: 0.15, cross: 2.6, crossK: 0.25, pull: 0.05, hubLeaf: 6.5, leaf: 0.8, leafC: 1, leafK: 0.14, leafS: 0.3, cap0: 0.5, cap1: 0.2 };
+    if (window.__LP) { for (var lpk in window.__LP) LP[lpk] = window.__LP[lpk]; sig += '|' + JSON.stringify(window.__LP); }   // tests only
     try { var raw = JSON.parse(window.localStorage.getItem(CK) || 'null'); if (raw && raw.sig === sig && raw.p.length === nodes.length * 3) cached = raw.p; } catch (e) { cached = null; }
     if (cached) nodes.forEach(function (n, q) { n.g3 = [cached[q * 3] / 1000, cached[q * 3 + 1] / 1000, cached[q * 3 + 2] / 1000]; });
     else (function () {
@@ -1942,20 +1409,24 @@
     SL.forEach(function (l, q) { ls[q] = l.source.gs; lt[q] = l.target.gs; deg[ls[q]]++; deg[lt[q]]++; });
     SL.forEach(function (l, q) {
       var a = ls[q], b = lt[q], viaHub = l.source === hub || l.target === hub;
-      ld[q] = l.kind === 'rel' ? (viaHub ? 3.4 : 1) : 1.5;
-      lk[q] = (l.kind === 'rel' ? (viaHub ? 0.25 : 0.8 + 0.1 * Math.min(4, l.w)) : 0.5) / Math.min(deg[a], deg[b]);
+      // a link inside one topic is short and firm; a link between two topics is longer and looser, so the topics stand apart and such links read as bridges
+      var ta = l.source.kind === 'claim' ? l.source.topicRef : l.source.top, tb = l.target.kind === 'claim' ? l.target.topicRef : l.target.top, cross = !viaHub && ta && tb && ta !== tb;
+      ld[q] = (l.kind === 'rel' ? (viaHub ? LP.hubLen : LP.relLen + LP.relDeg * Math.log(Math.min(deg[a], deg[b]))) : LP.claimLen) * (cross ? LP.cross : 1);
+      lk[q] = (l.kind === 'rel' ? (viaHub ? 0.2 : 0.8 + 0.1 * Math.min(4, l.w)) : 0.5) / Math.min(deg[a], deg[b]) * (cross ? LP.crossK : 1);
       lb[q] = deg[a] / (deg[a] + deg[b]);
     });
     S.forEach(function (n, q) {
-      var d = lean(n), R0 = n.kind === 'claim' ? 10 : 3 + 7 / (1 + 0.1 * n.adj.size), jt = ball(), jr = 2.5 * rnd();
+      var d = lean(n), R0 = n.kind === 'claim' ? LP.lobe : LP.lobe * (0.35 + 0.6 * (n.gpure || 0)), jt = ball(), jr = 3 * rnd(), ar;
       x[q] = d[0] * R0 + jt[0] * jr; y[q] = d[1] * R0 + jt[1] * jr; z[q] = d[2] * R0 + jt[2] * jr;
-      m[q] = 1 + 0.22 * Math.sqrt(n.adj.size);
-      gx[q] = 0.012 + 0.03 * Math.min(1, n.adj.size / 60);
-      if (n.kind === 'claim') { ak[q] = 0.05; ax[q] = d[0] * 10.5; ay[q] = d[1] * 10.5; az[q] = d[2] * 10.5; } else if (d[0] || d[1] || d[2]) { ak[q] = 0.012; ax[q] = d[0] * 8; ay[q] = d[1] * 8; az[q] = d[2] * 8; }
+      m[q] = n === hub ? LP.hubMass : 1 + LP.mass * n.adj.size;   // a name with many links pushes harder, so its neighbours stand off it
+      gx[q] = 0.006 + 0.01 * Math.min(1, n.adj.size / 60);
+      // a check is drawn towards its topic's side; a name towards the middle of its topics, so a name shared by several sits between their lobes
+      if (n.kind === 'claim') { ak[q] = 0.06; ax[q] = d[0] * LP.lobe; ay[q] = d[1] * LP.lobe; az[q] = d[2] * LP.lobe; }
+      else if (d[0] || d[1] || d[2]) { ar = LP.lobe * (0.25 + 0.7 * n.gpure * n.gpure); ak[q] = LP.pull * (0.3 + 0.7 * n.gpure); ax[q] = d[0] * ar; ay[q] = d[1] * ar; az[q] = d[2] * ar; }
     });
     var alpha = 1, hi = hub ? hub.gs : -1, dx, dy, dz, d2, f, w, a, b, xi, yi, zi, mi, fx, fy, fz, wj, g;
-    for (var tick = 0; tick < 110; tick++) {
-      alpha *= 0.96;
+    for (var tick = 0; tick < LP.ticks; tick++) {
+      alpha *= LP.decay;
       for (k = 0; k < E; k++) {
         a = ls[k]; b = lt[k];
         dx = x[b] + vx[b] - x[a] - vx[a]; dy = y[b] + vy[b] - y[a] - vy[a]; dz = z[b] + vz[b] - z[a] - vz[a];
@@ -1963,11 +1434,11 @@
         dx *= f; dy *= f; dz *= f; w = lb[k];
         vx[b] -= dx * w; vy[b] -= dy * w; vz[b] -= dz * w; w = 1 - w; vx[a] += dx * w; vy[a] += dy * w; vz[a] += dz * w;
       }
-      var ca = alpha * 0.05;
+      var ca = alpha * LP.push;
       for (i = 0; i < M; i++) {
         xi = x[i]; yi = y[i]; zi = z[i]; mi = m[i]; fx = fy = fz = 0;
         for (j = i + 1; j < M; j++) {
-          dx = xi - x[j]; dy = yi - y[j]; dz = zi - z[j]; d2 = dx * dx + dy * dy + dz * dz + 0.03; w = ca / d2;
+          dx = xi - x[j]; dy = yi - y[j]; dz = zi - z[j]; d2 = dx * dx + dy * dy + dz * dz + 0.05; w = ca / d2;
           wj = w * m[j]; fx += dx * wj; fy += dy * wj; fz += dz * wj; w *= mi; vx[j] -= dx * w; vy[j] -= dy * w; vz[j] -= dz * w;
         }
         vx[i] += fx; vy[i] += fy; vz[i] += fz;
@@ -1981,18 +1452,31 @@
     }
     S.forEach(function (n, q) { n.g3 = [x[q], y[q], z[q]]; });
     // names with one link sit beside what they are linked to, on its outward side; names with none sit at the edge of their topic
+    // its leaves are spread evenly over a cap of a shell on that side: the more leaves, the wider the cap and the larger the shell,
+    // so the leaves of a busy name fan out round it and do not pile up
     var kids = new Map();
     nodes.forEach(function (n) {
       if (n.gs >= 0 || n.kind !== 'entity') return;
       var par = null; n.adj.forEach(function (l, key) { var o = byKey.get(key); if (o.gs >= 0 && (!par || (par.kind === 'claim' && o.kind === 'entity' && o !== hub) || (par === hub && o.kind === 'entity'))) par = o; });
-      var d = lean(n), r = ball(), p, l, len;
-      if (!par) { n.g3 = [d[0] * 11 + r[0] * 2.5, d[1] * 11 + r[1] * 2.5, d[2] * 11 + r[2] * 2.5]; return; }
-      kids.set(par, (kids.get(par) || 0) + 1);
-      p = par.g3; l = Math.hypot(p[0], p[1], p[2]);
-      if (par === hub || l < 0.5) { len = 3.2 + 2.2 * rnd(); r = [d[0] * 0.9 + r[0], d[1] * 0.9 + r[1], d[2] * 0.9 + r[2]]; }
-      else { len = (par.kind === 'claim' ? 0.7 : 0.45) + 0.8 * rnd() + 0.05 * Math.sqrt(kids.get(par)); r = [p[0] / l * 0.8 + r[0], p[1] / l * 0.8 + r[1], p[2] / l * 0.8 + r[2]]; }
-      l = Math.hypot(r[0], r[1], r[2]) || 1;
-      n.g3 = [p[0] + r[0] / l * len, p[1] + r[1] / l * len, p[2] + r[2] / l * len];
+      var d = lean(n), r = ball();
+      if (!par) { n.g3 = [d[0] * LP.lobe * 1.15 + r[0] * 3, d[1] * LP.lobe * 1.15 + r[1] * 3, d[2] * LP.lobe * 1.15 + r[2] * 3]; return; }
+      if (!kids.has(par)) kids.set(par, []); kids.get(par).push(n);
+    });
+    kids.forEach(function (list, par) {
+      var p = par.g3, pl = Math.hypot(p[0], p[1], p[2]), K = list.length, isHub = par === hub || pl < 0.5;
+      list.forEach(function (n, j) {
+        var d = lean(n), a = isHub ? (d[0] || d[1] || d[2] ? d : ball()) : [p[0] / pl, p[1] / pl, p[2] / pl], r;
+        if (isHub) {   // the hub's own leaves stand well off him, each on its topic's side
+          r = ball(); r = [a[0] * 1.6 + r[0], a[1] * 1.6 + r[1], a[2] * 1.6 + r[2]];
+          var rl = Math.hypot(r[0], r[1], r[2]) || 1, len0 = LP.hubLeaf * (0.8 + 0.5 * rnd());
+          n.g3 = [p[0] + r[0] / rl * len0, p[1] + r[1] / rl * len0, p[2] + r[2] / rl * len0]; return;
+        }
+        var cmax = Math.cos(Math.min(2.5, LP.cap0 + LP.cap1 * Math.sqrt(K))), ct = 1 - (1 - cmax) * (j + 0.5) / K, st = Math.sqrt(Math.max(0, 1 - ct * ct)), phi = j * 2.399963 + par.gs;
+        var u = Math.abs(a[1]) < 0.9 ? [0, 1, 0] : [1, 0, 0], ux = u[1] * a[2] - u[2] * a[1], uy = u[2] * a[0] - u[0] * a[2], uz = u[0] * a[1] - u[1] * a[0], ul = Math.hypot(ux, uy, uz) || 1;
+        ux /= ul; uy /= ul; uz /= ul; var wx = a[1] * uz - a[2] * uy, wy = a[2] * ux - a[0] * uz, wz = a[0] * uy - a[1] * ux, cp = Math.cos(phi) * st, sp = Math.sin(phi) * st;
+        var len = (par.kind === 'claim' ? LP.leafC : LP.leaf) + LP.leafK * Math.sqrt(K) + LP.leafS * (j % 3);
+        n.g3 = [p[0] + (a[0] * ct + ux * cp + wx * sp) * len, p[1] + (a[1] * ct + uy * cp + wy * sp) * len, p[2] + (a[2] * ct + uz * cp + wz * sp) * len];
+      });
     });
     themes.forEach(function (n) {
       var sx = 0, sy = 0, sz = 0, c = 0; n.adj.forEach(function (l, key) { var o = byKey.get(key); if (o.g3) { sx += o.g3[0]; sy += o.g3[1]; sz += o.g3[2]; c++; } });
@@ -2004,7 +1488,7 @@
     var byR = nodes.slice().sort(function (p, q) { return Math.hypot(p.g3[0], p.g3[1], p.g3[2]) - Math.hypot(q.g3[0], q.g3[1], q.g3[2]); }), rmax = Math.hypot.apply(null, byR[Math.floor(byR.length * 0.985)].g3) || 1;
     byR.forEach(function (n, q) {
       var p = n.g3, l = Math.hypot(p[0], p[1], p[2]); if (l < 1e-6) return;
-      var even = Math.pow((q + 0.5) / byR.length, 0.38) * rmax, k = (0.25 * Math.min(l, rmax * 1.1) + 0.75 * even) / l;
+      var even = Math.pow((q + 0.5) / byR.length, 0.38) * rmax, k = ((1 - LP.even) * Math.min(l, rmax * 1.1) + LP.even * even) / l;
       n.g3 = [p[0] * k, p[1] * k, p[2] * k];
     });
     var flat = []; nodes.forEach(function (n) { for (var q = 0; q < 3; q++) { flat.push(Math.round(n.g3[q] * 1000)); n.g3[q] = flat[flat.length - 1] / 1000; } });
@@ -2016,7 +1500,7 @@
     nodes.forEach(function (n, q) {
       var p = n.g3, l = Math.hypot(p[0], p[1], p[2]) * sc, c = l > 1 ? (1 + (l - 1) * 0.15) / l : 1;
       n.gi = q; gl.P[q * 3] = p[0] * sc * c; gl.P[q * 3 + 1] = p[1] * sc * c; gl.P[q * 3 + 2] = p[2] * sc * c;
-      n.gr = n.kind === 'entity' ? (n === hub ? 8.5 : Math.min(7, 1.05 + 0.5 * Math.sqrt(n.adj.size))) : n.kind === 'claim' ? 2.5 : 2.2;
+      n.gr = n.kind === 'entity' ? (n === hub ? 8.5 : Math.min(7, 0.75 + 0.5 * Math.sqrt(n.adj.size))) : n.kind === 'claim' ? 2.3 : 2.2;   // a name with one link is a fine point; size grows with links
       n.gc = n.kind === 'claim' ? (n.topicRef && n.topicRef.gi != null ? n.topicRef.gi % 9 : 9) : n.kind === 'entity' && n.top ? n.top.gi % 9 : 9;
       n.gk = n.kind === 'entity' ? 10 + GROUPS.indexOf(n.group) : n.kind === 'claim' ? 14 : 9;
     });
@@ -2043,8 +1527,18 @@
     gl.cs.push(gl.E);
     var hubs = ranked.slice(0, 26); gl.hubs = hubs;
     // the fixed first view: the middle of the best-connected names, after the hub, faces the reader
+    // of the views that keep those names on the near side, the one in which the topics' lobes stand furthest apart on the screen
     var fx0 = 0, fy0 = 0, fz0 = 0; ranked.slice(1, 9).forEach(function (e) { fx0 += gl.P[e.gi * 3]; fy0 += gl.P[e.gi * 3 + 1]; fz0 += gl.P[e.gi * 3 + 2]; });
-    gl.q = [1, 0, 0, 0]; gl.q = glFaceQ([fx0, fy0, fz0]) || [1, 0, 0, 0]; gl.q0 = gl.q.slice();
+    var fl = Math.hypot(fx0, fy0, fz0) || 1, bestQ = null, bestE = Infinity; fx0 /= fl; fy0 /= fl; fz0 /= fl;
+    for (i = 0; i < 600; i++) {
+      var vy = 1 - 2 * (i + 0.5) / 600, vr = Math.sqrt(1 - vy * vy), va = i * 2.399963, vd = [vr * Math.cos(va), vy, vr * Math.sin(va)];
+      if (vd[0] * fx0 + vd[1] * fy0 + vd[2] * fz0 < 0.45) continue;
+      gl.q = [1, 0, 0, 0]; var cq = glFaceQ(vd); if (!cq) continue; gl.q = cq;
+      var pts = gl.tcap.map(function (v) { var r = glRot(v), s = gl.D / (gl.D - r[2]); return [r[0] * s * 1.25, r[1] * s]; }), en = 0;
+      for (j = 0; j < pts.length; j++) for (k = j + 1; k < pts.length; k++) en += 1 / (Math.pow(pts[j][0] - pts[k][0], 2) + Math.pow(pts[j][1] - pts[k][1], 2) + 0.03);
+      if (en < bestE) { bestE = en; bestQ = cq; }
+    }
+    gl.q = [1, 0, 0, 0]; gl.q = bestQ || glFaceQ([fx0, fy0, fz0]) || [1, 0, 0, 0]; gl.q0 = gl.q.slice();
     gl.ok = true; gl.layoutMs = performance.now() - tStart; window.__layoutMs = gl.layoutMs;
   }
   function glRot(v) {   // a point of the layout, turned to the present view: x to the right, y up, z towards the reader
@@ -2068,13 +1562,49 @@
   function glFace(list, animate) {   // turn so that these marks, taken together, face the reader
     if (!gl.ok || !list.length) return;
     var x = 0, y = 0, z = 0; list.forEach(function (n) { x += gl.P[n.gi * 3]; y += gl.P[n.gi * 3 + 1]; z += gl.P[n.gi * 3 + 2]; });
-    glTo(glFaceQ([x, y, z]), null, animate);
+    var fan = list.length === 1 ? glFanDir(list[0]) : null;
+    glTo(glFaceQ(fan || [x, y, z]), null, animate);
+  }
+  /* The direction to look from so that the neighbours of a mark are spread widest on the screen and do not stack along the line
+     of sight: the direction in which they vary least (the weakest axis of their spread), leaned towards the mark's own side so it
+     still faces the reader. */
+  function glFanDir(n) {
+    var P = gl.P, k = n.gi * 3, px = P[k], py = P[k + 1], pz = P[k + 2], xx = 0, xy = 0, xz = 0, yy = 0, yz = 0, zz = 0, cnt = 0;
+    n.adj.forEach(function (l, key) {
+      var o = byKey.get(key); if (!l.vis || !shown(o) || (n.kind === 'entity' && o.kind !== 'entity')) return;
+      var j = o.gi * 3, dx = P[j] - px, dy = P[j + 1] - py, dz = P[j + 2] - pz, d = Math.hypot(dx, dy, dz); if (d < 1e-5) return;
+      dx /= d; dy /= d; dz /= d; xx += dx * dx; xy += dx * dy; xz += dx * dz; yy += dy * dy; yz += dy * dz; zz += dz * dz; cnt++;
+    });
+    if (cnt < 3) return null;
+    var tr = xx + yy + zz, v = [0.37, 0.51, 0.77], i, a, b, c, l;
+    for (i = 0; i < 80; i++) {   // power iteration on (trace - C): its strongest axis is C's weakest
+      a = (tr - xx) * v[0] - xy * v[1] - xz * v[2]; b = -xy * v[0] + (tr - yy) * v[1] - yz * v[2]; c = -xz * v[0] - yz * v[1] + (tr - zz) * v[2];
+      l = Math.hypot(a, b, c) || 1; v = [a / l, b / l, c / l];
+    }
+    var pl = Math.hypot(px, py, pz), sgn = v[0] * px + v[1] * py + v[2] * pz < 0 ? -1 : 1, w = pl > 1e-4 ? 0.5 * Math.min(1, pl / 0.4) / pl : 0;
+    if (pl <= 1e-4) { var cur = glRot(v); sgn = cur[2] < 0 ? -1 : 1; }   // the hub is in the middle: take the nearer of the two views
+    return [v[0] * sgn + px * w, v[1] * sgn + py * w, v[2] * sgn + pz * w];
   }
   function glFrame() {   // where the ball sits on the canvas: the middle of the part not covered by the panel
-    var a = visibleArea(), ph = narrow.matches;
+    /* The ball fills the free area: it is drawn a little wider than tall on a wide canvas, and taller than wide on a phone,
+       inside a margin, and it is moved and sized so that it stays clear of the read-out, the key and the buttons. */
+    var a = visibleArea(), ph = narrow.matches, mg = ph ? 12 : 26, persp = gl.D / Math.sqrt(gl.D * gl.D - 1), i, q, o;
     obstacles(); gl.aw = a.w;
-    gl.cx = a.x + a.w / 2; gl.cy = (ph ? 0 : a.y * 0.5) + (ph ? a.y + a.h : H) / 2 + (ph ? 0 : 6);
-    gl.rad = Math.max(60, Math.min(a.w * (ph ? 0.47 : 0.46), (ph ? a.h : H) * (ph ? 0.46 : 0.455)));
+    var hw = Math.max(40, a.w / 2 - mg), hh = Math.max(40, a.h / 2 - (ph ? 16 : mg)), cy = a.y + a.h / 2, cx0 = a.x + a.w / 2;
+    var RX = Math.min(hw, hh * 1.3), RY = Math.min(hh, hw * (ph ? 1.4 : 1.22)), best = null;
+    for (i = 0; i <= 6; i++) for (q = -1; q <= 1; q += 2) {   // try the middle first, then a little to either side; keep the place that allows the largest ball
+      var dx = i * 14 * q, rx = Math.min(RX, hw - Math.abs(dx)), sc = 1;
+      if (i && rx < RX * 0.8) continue;
+      for (o = 0; o < map.obst.length; o++) {
+        var b = map.obst[o], px = Math.max(b[0], Math.min(b[2], cx0 + dx)), py = Math.max(b[1], Math.min(b[3], cy)), e = Math.pow((px - cx0 - dx) / rx, 2) + Math.pow((py - cy) / RY, 2);
+        if (e < 0.9) sc = Math.min(sc, Math.sqrt(e / 0.9));   // the corners of the ball's box are nearly empty, so a slight overlap there is allowed
+      }
+      sc = Math.max(sc, 0.72); var area = rx * sc * RY * sc - i * 40;
+      if (!best || area > best.area + 1) best = { area: area, cx: cx0 + dx, rx: rx * sc, ry: RY * sc };
+      if (!i) break;
+    }
+    gl.cx = best.cx; gl.cy = cy;
+    gl.rad = Math.max(60, Math.min(best.rx, best.ry) / persp); gl.kx = Math.max(1, best.rx / persp / gl.rad); gl.ky = Math.max(1, best.ry / persp / gl.rad);
     var g = ctx.createRadialGradient(gl.cx, gl.cy, 0, gl.cx, gl.cy, Math.max(W, H) * 0.75); g.addColorStop(0, GC.bg0); g.addColorStop(1, GC.bg1); gl.bgGrad = g;
   }
   function glSprite(col) {   // a soft halo, used only under the best-connected names
@@ -2086,7 +1616,7 @@
   }
   function glPal(k) { return k < 9 ? GC.t[k] : k === 9 ? GC.ink2 : k === 10 ? GC.g.person : k === 11 ? GC.g.org : k === 12 ? GC.g.gov : k === 13 ? GC.g.other : GC.check; }
   function glCol(n) { return gl.colorBy === 'kind' ? n.gk : n.gc; }
-  function glLabelN() { var b = narrow.matches ? [9, 22, 60] : [25, 70, 220]; return Math.round(b[map.level] * Math.min(6, gl.zoom * gl.zoom)); }
+  function glLabelN() { var b = narrow.matches ? [7, 18, 60] : [16, 48, 200]; return Math.round(b[map.level] * Math.min(8, Math.max(1, gl.zoom * gl.zoom))); }
   function glLinkOn(l) { return l.vis && (l.kind === 'rel' || l.kind === 'claim' || map.level === 2) && shown(l.source) && shown(l.target); }
 
   /* What is lit: a traced path, a selection and its neighbours, or a topic; the mark under the pointer and its neighbours are added. */
@@ -2123,54 +1653,59 @@
     return (gl.em = em);
   }
   function glText(n) { return n.gt || (n.gt = n.kind === 'entity' ? mapLabel(n) : n.kind === 'claim' ? trunc(n.title || n.name, 38) : n.name); }
-  var GLF = ['600 12px ', '700 14px ', '500 11.5px ', '600 11.5px '];
+  var GLF = ['500 12px ', '700 14px ', '500 11.5px ', '600 12.5px '];   // a name; the lead; a check; one of the few best-connected names
   function glTextW(n, fi) {
     if (!n.gw || n.gwS !== gl.wstamp) { n.gw = [0, 0, 0, 0]; n.gwS = gl.wstamp; }
-    if (!n.gw[fi]) { ctx.font = GLF[fi] + FONT; n.gw[fi] = ctx.measureText(glText(n)).width; }
+    if (!n.gw[fi]) { ctx.font = GLF[fi] + GFONT; n.gw[fi] = ctx.measureText(glText(n)).width; }
     return n.gw[fi];
   }
   /* A label takes the first free place beside its mark: right, left, below, above. If none is free it is left out, unless it must be shown. */
-  var glBox = [0, 0, 0, 0];
+  var glBox = [0, 0, 0, 0], glPad = [3, 1];   // the room kept clear round a label: more at rest, so the names stand well apart
   function glPlace(placed, x, y, r, tw, must) {
-    var th = 15, g = r + 5, q, x0, y0;
-    for (q = 0; q < 4; q++) {
-      x0 = q === 0 ? x + g : q === 1 ? x - g - tw : x - tw / 2; y0 = q < 2 ? y - th / 2 : q === 2 ? y + g - 1 : y - g - th + 1;
+    var th = 15, g = r + 5, q, x0, y0, px = glPad[0], py = glPad[1], left = x < gl.cx - gl.rad * 0.15;
+    for (q = 0; q < 4; q++) {   // a name on the left half is written to the left of its mark first, so the names open outwards
+      x0 = q === (left ? 1 : 0) ? x + g : q === (left ? 0 : 1) ? x - g - tw : x - tw / 2; y0 = q < 2 ? y - th / 2 : q === 2 ? y + g - 1 : y - g - th + 1;
       if (x0 < 4 || x0 + tw > W - 4 || y0 < 4 || y0 + th > H - 4) continue;
-      if (!overlaps(placed, x0 - 3, y0 - 1, x0 + tw + 3, y0 + th + 1)) { glBox[0] = x0; glBox[1] = y0; return true; }
+      if (!overlaps(placed, x0 - px, y0 - py, x0 + tw + px, y0 + th + py)) { glBox[0] = x0; glBox[1] = y0; return true; }
     }
     if (must) { glBox[0] = Math.max(4, Math.min(W - tw - 4, x + g)); glBox[1] = Math.max(4, Math.min(H - th - 4, y - th / 2)); return true; }
     return false;
   }
   function glWrite(c, text, fi, x0, y0, tw, col, alpha) {
-    c.font = GLF[fi] + FONT; c.textAlign = 'left'; c.textBaseline = 'middle'; c.lineJoin = 'round';
-    c.globalAlpha = alpha * 0.9; c.lineWidth = 3.2; c.strokeStyle = GC.halo; c.strokeText(text, x0, y0 + 7.5);
+    c.font = GLF[fi] + GFONT; c.textAlign = 'left'; c.textBaseline = 'middle'; c.lineJoin = 'round';
+    c.globalAlpha = Math.min(1, alpha * 0.95); c.lineWidth = GC.light ? 3.6 : 3.2; c.strokeStyle = GC.halo; c.strokeText(text, x0, y0 + 7.5);
     c.globalAlpha = alpha; c.fillStyle = col; c.fillText(text, x0, y0 + 7.5);
   }
-  var GLA = [0.07, 0.11, 0.16, 0.24, 0.33, 0.44];
+  var NA_D = [0.1, 0.16, 0.24, 0.3, 0.5, 0.74, 0.96, 1], NA_L = [0.12, 0.18, 0.26, 0.3, 0.5, 0.74, 0.95, 1];   // strength of a mark: three steps when dimmed, four by depth at rest, then lit
+  var GLA_D = [0.03, 0.055, 0.1, 0.17, 0.27, 0.4], GLA_L = [0.035, 0.06, 0.1, 0.17, 0.27, 0.4];   // strength of a link by depth: the far side recedes
   function glDraw() {
     var c = ctx, t0 = performance.now(), N = gl.N, E = gl.E, P = gl.P, sx = gl.sx, sy = gl.sy, sz = gl.sz, ss = gl.ss, i, k, q, b, f, r, n, l;
     var qq = gl.q, qw = qq[0], qx = qq[1], qy = qq[2], qz = qq[3];
     var r0 = 1 - 2 * (qy * qy + qz * qz), r1 = 2 * (qx * qy - qw * qz), r2 = 2 * (qx * qz + qw * qy), r3 = 2 * (qx * qy + qw * qz), r4 = 1 - 2 * (qx * qx + qz * qz), r5 = 2 * (qy * qz - qw * qx), r6 = 2 * (qx * qz - qw * qy), r7 = 2 * (qy * qz + qw * qx), r8 = 1 - 2 * (qx * qx + qy * qy);
-    var D = gl.D, cx = gl.cx, cy = gl.cy, rad = gl.rad * gl.zoom, X, Y, Z, zz, s, ph = narrow.matches;
+    var D = gl.D, cx = gl.cx, cy = gl.cy, rad = gl.rad * gl.zoom, radx = rad * gl.kx, rady = rad * gl.ky, X, Y, Z, zz, s, ph = narrow.matches, lite = GC.light;
     for (i = 0, k = 0; i < N; i++, k += 3) {
       X = P[k]; Y = P[k + 1]; Z = P[k + 2]; zz = r6 * X + r7 * Y + r8 * Z; s = D / (D - zz);
-      sx[i] = cx + (r0 * X + r1 * Y + r2 * Z) * s * rad; sy[i] = cy - (r3 * X + r4 * Y + r5 * Z) * s * rad; sz[i] = zz; ss[i] = s;
+      sx[i] = cx + (r0 * X + r1 * Y + r2 * Z) * s * radx; sy[i] = cy - (r3 * X + r4 * Y + r5 * Z) * s * rady; sz[i] = zz; ss[i] = s;
     }
     c.globalCompositeOperation = 'source-over'; c.globalAlpha = 1; c.fillStyle = gl.bgGrad || GC.bg1; c.fillRect(0, 0, W, H);
-    var em = glEm(), emN = gl.emN, emL = gl.emL, dim = em ? (em.kind === 'link' ? 0.6 : em.kind === 'hover' ? 0.34 : 0.2) : 1, la = gl.la, lb = gl.lb, lz = gl.lz, lc = gl.lc, L = gl.L, byKind = gl.colorBy === 'kind';
-    // every link, hair-thin, added light on dark: one path for each colour and each band of depth
+    var em = glEm(), emN = gl.emN, emL = gl.emL, dim = em ? (em.kind === 'link' ? 0.6 : em.kind === 'hover' ? 0.4 : 0.22) : 1, la = gl.la, lb = gl.lb, lz = gl.lz, lc = gl.lc, L = gl.L, byKind = gl.colorBy === 'kind';
+    // every documented link, hair-thin: one path for each colour and each band of depth. On dark they add light; on paper they are ink.
+    // The lines from a check to the names it mentions are not drawn at rest (there are more of them than links): they show when lit, or when asked for.
+    var mentionsOn = gl.mentions || map.level === 2;
     for (i = 0; i < E; i++) {
       l = L[i];
       if (!glLinkOn(l)) { lz[i] = 255; continue; }
       if (emL[i]) { lz[i] = 254; continue; }
+      if (l.kind !== 'rel' && !mentionsOn) { lz[i] = 252; continue; }
       if (l.unv) { lz[i] = 253; continue; }
       f = ((sz[la[i]] + sz[lb[i]]) * 0.5 + 1.05) / 2.1; lz[i] = f <= 0 ? 0 : f >= 1 ? 5 : (f * 6) | 0;
     }
-    var cheap = (gl.moving && gl.lowq >= 1) || (gl.dbg & 1);
-    c.globalCompositeOperation = cheap ? 'source-over' : 'lighter'; c.lineWidth = ph ? 0.7 : 0.8; c.lineCap = 'butt';
-    var zk = Math.min(1.5, 0.85 + 0.15 * gl.zoom) * (ph ? 0.62 : 1) * (cheap ? 1.3 : 1);   // on a small screen the same links are packed closer, so each is fainter
+    var cheap = lite || (gl.moving && gl.lowq >= 1) || (gl.dbg & 1);
+    c.globalCompositeOperation = cheap ? 'source-over' : 'lighter'; c.lineWidth = lite ? (ph ? 0.6 : 0.7) : (ph ? 0.7 : 0.8); c.lineCap = 'butt';
+    var zk = Math.min(1.6, 0.8 + 0.2 * gl.zoom) * (ph ? 0.7 : 1) * (lite ? 1.15 : cheap ? 1.3 : 1);   // on a small screen the same links are packed closer, so each is fainter
+    var GLA = lite ? GLA_L : GLA_D;
     for (q = 0; q < gl.cs.length - 1; q++) {
-      var a0 = gl.cs[q], a1 = gl.cs[q + 1], cls = lc[a0], fac = (cls < 10 ? 1 : cls < 20 ? 0.5 : cls === 21 ? 0.42 : 0.4) * dim * zk;
+      var a0 = gl.cs[q], a1 = gl.cs[q + 1], cls = lc[a0], fac = (cls < 9 ? 1 : cls === 9 ? 0.8 : cls < 20 ? 0.36 : cls === 21 ? 0.3 : 0.4) * dim * zk;
       c.strokeStyle = byKind || cls === 9 || cls >= 19 ? GC.line : GC.t[cls % 10];
       for (b = 0; b < 6; b++) {
         var any = false; c.beginPath();
@@ -2202,7 +1737,7 @@
       }
     }
     // the points: one path for each colour and each step of brightness; depth sets size and brightness
-    var nk = gl.nk, zr = Math.pow(gl.zoom, 0.45) * (ph ? 0.82 : 1), used = gl.used || (gl.used = new Uint8Array(256));
+    var nk = gl.nk, zr = Math.pow(gl.zoom, 0.45) * (ph ? 0.68 : 1), used = gl.used || (gl.used = new Uint8Array(256));
     used.fill(0);
     for (i = 0; i < N; i++) {
       n = nodes[i];
@@ -2212,7 +1747,8 @@
       nk[i] = glCol(n) * 8 + b; used[nk[i]] = 1;
     }
     c.globalCompositeOperation = 'source-over';
-    var NA = [0.1, 0.16, 0.24, 0.34, 0.52, 0.74, 0.96, 1];
+    var NA = lite ? NA_L : NA_D;
+    c.lineWidth = 0.7;
     for (q = 0; q < 120; q++) {
       if (!used[q]) continue;
       c.fillStyle = glPal(q >> 3); c.globalAlpha = NA[q & 7]; c.beginPath();
@@ -2224,20 +1760,32 @@
         else { c.moveTo(X + r, Y); c.arc(X, Y, r, 0, 6.2832); }
       }
       c.fill();
+      if (lite && (q & 7) >= 3) { c.strokeStyle = GC.to[q >> 3]; c.globalAlpha = NA[q & 7] * 0.9; c.stroke(); }   // on paper each mark has a fine darker outline
     }
-    // a soft halo under the best-connected names only, and a bright centre so they read as light, not as discs
-    c.globalCompositeOperation = 'lighter';
-    for (q = 0; q < gl.hubs.length; q++) {
-      n = gl.hubs[q]; i = n.gi; if (nk[i] === 255 || (em && !emN[i])) continue;
-      f = (sz[i] + 1.05) / 2.1; r = n.gr * zr * ss[i] * ss[i] * 0.72;
-      var gr = r * (q ? 3.4 : 3.8);
-      c.globalAlpha = (q ? 0.3 : 0.5) * (0.3 + 0.7 * f); c.drawImage(glSprite(glPal(glCol(n))), sx[i] - gr, sy[i] - gr, gr * 2, gr * 2);
-    }
-    c.globalCompositeOperation = 'source-over';
-    for (q = 0; q < gl.hubs.length; q++) {
-      n = gl.hubs[q]; i = n.gi; if (nk[i] === 255 || (em && !emN[i])) continue;
-      f = (sz[i] + 1.05) / 2.1; r = n.gr * zr * ss[i] * ss[i] * 0.72;
-      c.globalAlpha = 0.55 * f; c.fillStyle = '#ffffff'; c.beginPath(); c.arc(sx[i], sy[i], r * 0.42, 0, 6.2832); c.fill();
+    if (lite) {
+      // on paper the best-connected names are set off by a ring of paper and a firmer outline: weight, not glow
+      for (q = gl.hubs.length - 1; q >= 0; q--) {
+        n = gl.hubs[q]; i = n.gi; if (nk[i] === 255 || (em && !emN[i])) continue;
+        f = (sz[i] + 1.05) / 2.1; if (f < 0.35) continue; r = n.gr * zr * ss[i] * ss[i] * 0.72 * (em && em.kind !== 'topic' ? 1.25 : 1);
+        c.globalAlpha = 1; c.beginPath(); c.arc(sx[i], sy[i], r + 1.6, 0, 6.2832); c.fillStyle = GC.halo; c.fill();
+        c.beginPath(); c.arc(sx[i], sy[i], r, 0, 6.2832); c.fillStyle = glPal(glCol(n)); c.fill();
+        c.lineWidth = q ? 1.1 : 1.6; c.strokeStyle = GC.to[glCol(n)]; c.stroke();
+      }
+    } else {
+      // a soft halo under the best-connected names only, kept close to the mark, and a bright centre so they read as light, not as discs
+      c.globalCompositeOperation = 'lighter';
+      for (q = 0; q < gl.hubs.length; q++) {
+        n = gl.hubs[q]; i = n.gi; if (nk[i] === 255 || (em && !emN[i])) continue;
+        f = (sz[i] + 1.05) / 2.1; r = n.gr * zr * ss[i] * ss[i] * 0.72;
+        var gr = r * (q ? 2.3 : 2.7);
+        c.globalAlpha = (q ? 0.3 : 0.45) * (0.25 + 0.75 * f); c.drawImage(glSprite(glPal(glCol(n))), sx[i] - gr, sy[i] - gr, gr * 2, gr * 2);
+      }
+      c.globalCompositeOperation = 'source-over';
+      for (q = 0; q < gl.hubs.length; q++) {
+        n = gl.hubs[q]; i = n.gi; if (nk[i] === 255 || (em && !emN[i])) continue;
+        f = (sz[i] + 1.05) / 2.1; r = n.gr * zr * ss[i] * ss[i] * 0.72;
+        c.globalAlpha = 0.55 * f; c.fillStyle = '#ffffff'; c.beginPath(); c.arc(sx[i], sy[i], r * 0.42, 0, 6.2832); c.fill();
+      }
     }
     // the selection, and the mark under the pointer, each get a fine ring
     function ring(m, col, dash) {
@@ -2259,19 +1807,21 @@
       var bx = [glBox[0] - 3, glBox[1] - 1, glBox[0] + tw + 3, glBox[1] + 16, m];
       placed.push(bx); boxes.push(bx); glWrite(c, glText(m), fi, glBox[0], glBox[1], tw, col, alpha); return true;
     }
-    var nowT = F.topic, tfont = '600 12px ' + FONT;
+    var nowT = F.topic, tfont = '600 12px ' + GFONT;
+    glPad[0] = em ? 3 : 9; glPad[1] = em ? 1 : 5;
     if (!map.iso && (!em || em.kind === 'topic' || em.kind === 'hover' || em.kind === 'link')) for (q = 0; q < ARCS.length; q++) {
       var tp = ARCS[q], v = gl.tcap[q]; if (nowT && tp.id !== nowT) continue;
-      zz = r6 * v[0] + r7 * v[1] + r8 * v[2]; if (zz < -0.3 || zz > 0.78 * Math.hypot(v[0], v[1], v[2])) continue;   // a topic's name is written only while its lobe is on the globe's edge, outside the points
-      s = D / (D - zz); X = cx + (r0 * v[0] + r1 * v[1] + r2 * v[2]) * s * rad; Y = cy - (r3 * v[0] + r4 * v[1] + r5 * v[2]) * s * rad;
+      zz = r6 * v[0] + r7 * v[1] + r8 * v[2]; if (zz < -0.2) continue;   // a topic's name is written while its lobe is on the near side: beside the lobe at the globe's edge, above it when it faces the reader
+      s = D / (D - zz); X = cx + (r0 * v[0] + r1 * v[1] + r2 * v[2]) * s * radx; Y = cy - (r3 * v[0] + r4 * v[1] + r5 * v[2]) * s * rady;
+      if (zz > 0.78 * Math.hypot(v[0], v[1], v[2])) Y -= (nowT ? 0.3 : 0.17) * rady;
       var txt = ph ? tp.short : tp.name, tw2 = tp.gw && tp.gwS === gl.wstamp && tp.gwP === ph ? tp.gw : (c.font = tfont, tp.gwS = gl.wstamp, tp.gwP = ph, tp.gw = c.measureText(txt).width);
-      var side = (X - cx) / (rad || 1), x0 = Math.max(6, Math.min(gl.aw - tw2 - 10, X - tw2 * (side < -0.25 ? 1 : side > 0.25 ? 0 : 0.5))), y0 = Math.max(6, Math.min(H - 22, Y - 8));
+      var side = (X - cx) / (radx || 1), x0 = Math.max(6, Math.min(gl.aw - tw2 - 10, X - tw2 * (side < -0.25 ? 1 : side > 0.25 ? 0 : 0.5))), y0 = Math.max(6, Math.min(H - 22, Y - 8));
       if (overlaps(placed, x0 - 4, y0 - 2, x0 + tw2 + 4, y0 + 17)) continue;
       var tb = [x0 - 4, y0 - 2, x0 + tw2 + 4, y0 + 17, tp]; placed.push(tb); boxes.push(tb);
       c.font = tfont; c.textAlign = 'left'; c.textBaseline = 'middle'; c.lineJoin = 'round';
-      var ta = (nowT ? 1 : Math.min(1, 0.35 + 0.65 * (zz + 0.25) / 0.9)) * (em && em.kind !== 'topic' ? 0.5 : 1) * (map.hoverTopic === tp ? 1 : 0.92);
-      c.globalAlpha = ta * 0.9; c.lineWidth = 3.2; c.strokeStyle = GC.halo; c.strokeText(txt, x0, y0 + 7.5);
-      c.globalAlpha = ta; c.fillStyle = GC.t[q % 9]; c.fillText(txt, x0, y0 + 7.5);
+      var ta = 1;   // a topic's name is never faded: it is written in full or not at all
+      c.globalAlpha = 0.95; c.lineWidth = lite ? 3.6 : 3.2; c.strokeStyle = GC.halo; c.strokeText(txt, x0, y0 + 7.5);
+      c.globalAlpha = ta; c.fillStyle = GC.tx[q % 9]; c.fillText(txt, x0, y0 + 7.5);
       if (map.hoverTopic === tp || nowT) { c.globalAlpha = ta; c.fillRect(x0, y0 + 16, tw2, 1); }
     }
     var cap = 0, lim;
@@ -2281,22 +1831,22 @@
         n = em.order[q]; i = n.gi; if (nk[i] === 255) continue;
         var lead = n === em.lead || n === em.hov || em.kind === 'path' || em.kind === 'link';
         if (!lead && n.kind !== 'entity' && !(em.lead && em.lead.kind !== 'entity')) continue;   // beside a name, only names are written; its checks are in the panel
-        if (label(n, lead ? 1 : n.kind === 'claim' ? 2 : 0, lead ? '#ffffff' : n.kind === 'claim' ? GC.ink2 : GC.ink, lead ? 1 : 0.55 + 0.45 * Math.min(1, (sz[i] + 1) / 1.6), lead)) cap++;
+        if (label(n, lead ? 1 : n.kind === 'claim' ? 2 : 0, lead ? GC.lead : n.kind === 'claim' ? GC.ink2 : GC.ink, lead ? 1 : 0.86 + 0.14 * Math.min(1, (sz[i] + 1) / 1.6), lead)) cap++;
       }
     } else {
+      // at rest: the best-connected names that face the reader, written in full strength and kept well apart; more come with zoom
       lim = glLabelN();
-      for (q = 0; q < ranked.length && q < lim * 3 && cap < lim; q++) {
+      for (q = 0; q < ranked.length && q < lim * 4 && cap < lim; q++) {
         n = ranked[q]; i = n.gi; if (nk[i] === 255) continue;
-        if (sz[i] < -0.3 && q) continue;
-        f = q ? Math.min(1, (sz[i] + 0.3) / 0.5) : 1;
-        if (label(n, q ? 0 : 1, q ? GC.ink : '#ffffff', q ? 0.45 + 0.55 * f : 1, !q)) cap++;
+        if (sz[i] < -0.12 && q) continue;
+        if (label(n, q ? (q < 6 ? 3 : 0) : 1, q ? GC.ink : GC.lead, 1, !q)) cap++;
       }
-      if (map.iso && map.iso.node.vis) label(map.iso.node, 1, '#ffffff', 1, true);
+      if (map.iso && map.iso.node.vis) label(map.iso.node, 1, GC.lead, 1, true);
     }
     c.globalAlpha = 1;
     gl.ms += (performance.now() - t0 - gl.ms) * 0.1; gl.frames++;
   }
-  function glR(n) { return n.gr * Math.pow(gl.zoom, 0.45) * (narrow.matches ? 0.82 : 1) * gl.ss[n.gi] * gl.ss[n.gi] * 0.72; }
+  function glR(n) { return n.gr * Math.pow(gl.zoom, 0.45) * (narrow.matches ? 0.68 : 1) * gl.ss[n.gi] * gl.ss[n.gi] * 0.72; }
   function glHit(px, py, slack) {
     if (!gl.ok) return null;
     var best = null, bd = Infinity, i, n, d, r, em = gl.em, b;
@@ -2392,6 +1942,25 @@
     if (!gl.ok) return null;
     if (key === 'ms') return { ms: gl.ms, frames: gl.frames };
     if (key === 'spin') { gl.still = false; gl.idleAt = 0; gl.over = false; glWake(); return true; }
+    if (key === 'stats') {   // what the picture measures about itself: size, names written, spacing between marks, and how much of the ball's box carries ink
+      ctx.setTransform(dpr, 0, 0, dpr, 0, 0); glDraw();
+      var st = { theme: GC.light ? 'light' : 'dark', rx: Math.round(gl.rad * gl.kx * gl.zoom), ry: Math.round(gl.rad * gl.ky * gl.zoom), cx: Math.round(gl.cx), cy: Math.round(gl.cy), canvas: Math.round(W) + 'x' + Math.round(H) }, names = 0, caps = 0, q, j, dd = [], front = [];
+      map.boxes.forEach(function (bx) { if (bx[4].key) names++; else caps++; });
+      st.names = names; st.topicNames = caps;
+      for (q = 0; q < gl.N; q++) if (gl.nk[q] !== 255 && gl.sz[q] > 0) front.push(q);
+      front.forEach(function (a) { var m = Infinity; for (j = 0; j < front.length; j++) if (front[j] !== a) { var d = Math.hypot(gl.sx[a] - gl.sx[front[j]], gl.sy[a] - gl.sy[front[j]]); if (d < m) m = d; } dd.push(m); });
+      dd.sort(function (a, b) { return a - b; }); st.nearMedianPx = dd.length ? +dd[dd.length >> 1].toFixed(1) : 0; st.nearP10Px = dd.length ? +dd[Math.floor(dd.length * 0.1)].toFixed(1) : 0;
+      var x0 = Math.max(0, Math.floor(gl.cx - gl.rad * gl.kx * 1.06)), x1 = Math.min(W, Math.ceil(gl.cx + gl.rad * gl.kx * 1.06)), y0 = Math.max(0, Math.floor(gl.cy - gl.rad * gl.ky * 1.06)), y1 = Math.min(H, Math.ceil(gl.cy + gl.rad * gl.ky * 1.06));
+      var im = ctx.getImageData(Math.round(x0 * dpr), Math.round(y0 * dpr), Math.round((x1 - x0) * dpr), Math.round((y1 - y0) * dpr)), dta = im.data, c0 = hexRgb(GC.bg0), c1 = hexRgb(GC.bg1), ink = 0, tot = 0, mx = Math.max(W, H) * 0.75, xx, yy;
+      for (yy = 0; yy < im.height; yy += 2) for (xx = 0; xx < im.width; xx += 2) {
+        var u = Math.min(1, Math.hypot(x0 + xx / dpr - gl.cx, y0 + yy / dpr - gl.cy) / mx), o = (yy * im.width + xx) * 4;
+        var df = Math.abs(dta[o] - (c0[0] + (c1[0] - c0[0]) * u)) + Math.abs(dta[o + 1] - (c0[1] + (c1[1] - c0[1]) * u)) + Math.abs(dta[o + 2] - (c0[2] + (c1[2] - c0[2]) * u));
+        tot++; if (df > 36) ink++;
+      }
+      st.inkPct = +(100 * ink / tot).toFixed(1);
+      st.textContrast = 'name ' + contrast(GC.ink, GC.light ? GC.bg1 : GC.bg0).toFixed(1) + ' check ' + contrast(GC.ink2, GC.light ? GC.bg1 : GC.bg0).toFixed(1) + ' topic(min) ' + Math.min.apply(null, GC.tx.map(function (t) { return contrast(t, GC.light ? GC.bg1 : GC.bg0); })).toFixed(1);
+      return st;
+    }
     if (/^dbg/.test(key)) { gl.dbg = +key.slice(3); return gl.dbg; }
     if (key === 'bench') {   // twenty frames drawn and flushed, one after another: the whole cost of a frame, raster included
       var t0 = performance.now(); for (var f = 0; f < 20; f++) { glSpin(0, 1, 0.01); ctx.setTransform(dpr, 0, 0, dpr, 0, 0); glDraw(); ctx.getImageData(0, 0, 1, 1); }
@@ -2445,8 +2014,7 @@
 
   // ---- the panel: never empty. At rest it says what the map shows and lists the best-connected names and the topics;
   //      with a selection it holds that selection's connections by kind and the checks that mention it.
-  var XICON = '<svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="M3.5 3.5l9 9M12.5 3.5l-9 9"></path></svg>';
-  var BACKICON = '<svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9.5 3.5 5 8l4.5 4.5"></path></svg>';
+  var XICON = ico('close'), BACKICON = ico('back');
   function evMark(alleged) { return alleged ? '<span class="ev unv"><i class="evline dashed" aria-hidden="true"></i>Alleged, Unverified</span>' : '<span class="ev" title="Documented"><i class="evline" aria-hidden="true"></i><span class="sr">Documented</span></span>'; }
   function relFrom(r) {
     var cs = r.claims.map(function (id) { return byKey.get(id); }).filter(Boolean);
@@ -2568,7 +2136,7 @@
         '<a class="btn primary" href="' + topicHref(tp) + '">Open Topic</a>', '<button type="button" class="pback" data-act="topic-clear">' + BACKICON + 'All Topics</button>');
     } else {
       acts = (n.kind !== 'theme' ? '<a class="btn primary" href="' + pageHref(n) + '">Open Page</a>' : '') +
-        '<button type="button" class="linkbtn" data-act="iso">Isolate</button><button type="button" class="linkbtn" data-act="path">Trace a Path</button>';
+        '<button type="button" class="linkbtn" data-act="iso">' + ico('isolate') + 'Isolate</button><button type="button" class="linkbtn" data-act="path">' + ico('path') + 'Trace a Path</button>';
       if (n.kind === 'entity') {
         var others = new Set(); n.lines.forEach(function (r) { others.add(r.S === n ? r.T : r.S); });
         var sums = arr(n.sums).map(function (i) { return relAt[i]; }).filter(function (r) { return r && r.S && typeof r.amount_usd === 'number'; }).sort(function (a, b) { return b.amount_usd - a.amount_usd; });
@@ -2674,13 +2242,20 @@
   function renderLegend() {
     function sw(col, text, cls) { return '<li><i class="lsw' + (cls ? ' ' + cls : '') + '" style="background:' + col + '" aria-hidden="true"></i>' + text + '</li>'; }
     var lit = !!(map.sel && map.sel.kind === 'entity' && !(map.path && map.path.list)), h;
+    var mb = '<button type="button" class="namebtn lmention" data-act="mentions" aria-pressed="' + !!gl.mentions + '" title="Lines from each check to the names it mentions. They always show for a name or check you point at or select.">Mentions: ' + (gl.mentions ? 'On' : 'Off') + '</button>';
     if (lit) h = '<p class="lhead">Lit Links, by Kind</p><ul class="lcols two">' + RKORDER.map(function (k) { return sw(GC.rk[k], RKLABEL[k].replace('&', '&amp;'), 'bar'); }).join('') + '</ul>';
     else if (gl.colorBy === 'kind') h = '<p class="lhead">Colour, by Kind of Name</p><ul class="lcols two">' + GROUPS.map(function (g) { return sw(GC.g[g], GLABEL[g].replace('&', '&amp;')); }).join('') + '</ul>';
     else h = '<p class="lhead">Colour, by Topic</p><ul class="lcols">' + ARCS.map(function (t, i) { return '<li><i class="lsw" style="background:' + GC.t[i % 9] + '" aria-hidden="true"></i><a class="namebtn" href="#map-topic-' + esc(t.id) + '" data-topic="' + esc(t.id) + '">' + esc(t.short) + '</a></li>'; }).join('') + '</ul>';
     h += '<ul class="lrow"><li><svg width="24" height="10" viewBox="0 0 24 10" aria-hidden="true"><circle cx="3" cy="5" r="1.4"/><circle cx="10" cy="5" r="2.6"/><circle cx="19.5" cy="5" r="4"/></svg>Name, Sized by Links</li>' +
       '<li><svg width="10" height="10" viewBox="0 0 10 10" aria-hidden="true"><path d="M5 .8 9.2 5 5 9.2.8 5z"/></svg>Check</li></ul>' +
-      '<ul class="lrow"><li><i class="lline" aria-hidden="true"></i>Documented Link</li><li><i class="lline dashed" aria-hidden="true"></i>Unverified</li></ul>';
-    $('legend').innerHTML = h;
+      '<ul class="lrow"><li><i class="lline" aria-hidden="true"></i>Documented Link</li><li><i class="lline dashed" aria-hidden="true"></i>Unverified</li>' +
+      '<li>' + mb + '</li></ul>';
+    /* On a wide screen the key is folded to one line until it is asked for, so it does not take room from the globe: the
+       topics are also named beside their lobes, in their colours. On a phone it opens whole from its own button. */
+    var el = $('legend'), open = narrow.matches || !!gl.keyOpen, cut = h.indexOf('</p>'), was = el.getAttribute('data-open');
+    if (!narrow.matches) h = h.slice(0, cut) + ' <button type="button" class="namebtn lkey" data-act="key" aria-expanded="' + open + '" title="' + (open ? 'Hide the key' : 'Show the whole key') + '">' + (open ? '&minus; Hide Key' : '+ Key') + '</button>' + (open ? '' : ' &nbsp; ' + mb) + '</p>' + (open ? h.slice(cut + 4) : '');
+    el.innerHTML = h; el.style.width = open ? '' : 'auto'; el.setAttribute('data-open', String(open));
+    if (was !== String(open) && W && gl.ok) { glFrame(); requestDraw(); }
   }
   function renderTools() {
     var counts = {};
@@ -2851,6 +2426,8 @@
       else if (act === 'close') { if (map.sel) mapDeselect(); else { setHash('map'); setTopic(''); } }
       else if (act === 'topic-clear') { setHash('map'); setTopic(''); }
       else if (act === 'tools-close') setTools(false);
+      else if (act === 'mentions') { gl.mentions = !gl.mentions; renderLegend(); requestDraw(); }
+      else if (act === 'key') { gl.keyOpen = !gl.keyOpen; renderLegend(); }
       else if (act === 'iso' && map.sel) isolate(map.sel);
       else if (act === 'path' && map.sel) { map.pathFrom = map.sel; map.path = null; map.iso = null; applyFilters(); if (narrow.matches) { map.sel = null; renderPanel(); } glHud(); requestDraw(); }
       else if (act === 'path-clear') { map.path = null; map.pathFrom = null; applyFilters(); renderPanel(); renderLegend(); fit(true); }
@@ -2861,7 +2438,7 @@
     document.addEventListener('keydown', function (e) { if (e.key === 'Escape') { if (!$('tools-body').hidden) setTools(false); setKey(false); } });
     if (window.ResizeObserver) new ResizeObserver(resize).observe(canvas.parentElement);
     window.addEventListener('resize', resize);
-    if (narrow.addEventListener) narrow.addEventListener('change', function () { if (state.view === 'map' && map.mode === 'network') { renderPanel(); resize(); } });
+    if (narrow.addEventListener) narrow.addEventListener('change', function () { if (state.view === 'map' && map.mode === 'network') { renderPanel(); renderLegend(); resize(); } });
     if (document.fonts && document.fonts.ready) document.fonts.ready.then(function () { widths.clear(); gl.wstamp = (gl.wstamp || 0) + 1; requestDraw(); drawPreview(); });
     glTouch(1200);
   }
