@@ -280,3 +280,9 @@ Measured: `shots.js 06` no console errors or overflow; `globefunc.js` 26 of 26; 
 Still weak: phone spacing target missed and phone captions sit over the rim dots; captions can slide far from small lobes; far-side lobes unnamed; HUD "links lit" count includes undrawn mention lines; desktop ball slightly smaller.
 
 Stop check: stills approved no -> stills sent; live site not republished.
+
+## User feedback after round 06 (exact words, 15 Nov)
+
+Quoting the four remaining points (captions sliding far and stacking; far-side clusters uncaptioned; "links lit" counter counting undrawn lines; smaller desktop globe): "True, fix these and also adjust the font family, the current one is not good enough, it looks all over the place, especially the ones being used for the network, it doesn't fit the vibe"
+
+Decision: round 7 fixes those four plus the phone zoom, and replaces the three-family type system with one coherent family used everywhere, including canvas labels; candidates rendered and compared first.
