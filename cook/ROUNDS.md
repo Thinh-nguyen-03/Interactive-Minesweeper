@@ -286,3 +286,20 @@ Stop check: stills approved no -> stills sent; live site not republished.
 Quoting the four remaining points (captions sliding far and stacking; far-side clusters uncaptioned; "links lit" counter counting undrawn lines; smaller desktop globe): "True, fix these and also adjust the font family, the current one is not good enough, it looks all over the place, especially the ones being used for the network, it doesn't fit the vibe"
 
 Decision: round 7 fixes those four plus the phone zoom, and replaces the three-family type system with one coherent family used everywhere, including canvas labels; candidates rendered and compared first.
+
+## Round 07
+
+Time: 15 Nov, about 06:30 to 07:20
+Focus: user feedback after round 6 (four globe points, fonts "all over the place").
+
+Changes:
+- Globe: captions anchored at each lobe's outer edge with limited slide, short names and leader lines; far-side lobes captioned in a quieter tone (nine of nine named); counter counts drawn lit links only; desktop footprint back to 466 x 353 half-axes; phone camera 1.55x closer; canvas text from --font-ui, two weights, three sizes, one halo width.
+- Type system: one family, IBM Plex Sans everywhere, with Plex Sans Condensed only for dense metadata; no stretching; hierarchy by size and weight. Candidates rendered: Plex, Archivo, Instrument Sans (runner-up), Geist (`cook/stills/r07/F-*`). Home ledger, topic key, names list fixed.
+
+Stills: `cook/stills/r07/`
+Scores: critics not run.
+Measured: see command output of this round (shots, globe, contrast); `globefunc.js` 26 of 26; phone near-side spacing 10th percentile 2.3 px (target 3 not reached).
+
+Still weak: phone spacing and phone captions (five of nine fit); far-side captions sit among dimmed dots; names page has an empty right third at 1440.
+
+Stop check: stills approved no -> stills sent; live site not republished.
