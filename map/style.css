@@ -609,8 +609,8 @@ html.is-map { height: 100%; box-sizing: border-box; overflow: hidden; }
 .map-key { display: none; }
 /* the network figure: how strongly a topic tints its sector, and the strength of lines and fine dots */
 .mapview { --map-wedge-a: .075; --map-dot-a: .62; --map-edge-a: .42; }
-@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .mapview { --map-wedge-a: .11; --map-dot-a: .7; --map-edge-a: .46; } }
-:root[data-theme="dark"] .mapview { --map-wedge-a: .11; --map-dot-a: .7; --map-edge-a: .46; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .mapview { --map-wedge-a: .065; --map-dot-a: .7; --map-edge-a: .46; } }
+:root[data-theme="dark"] .mapview { --map-wedge-a: .065; --map-dot-a: .7; --map-edge-a: .46; }
 /* the key: one quiet row under the map */
 .map-legend { flex: none; margin: 0; padding: 7px max(16px, env(safe-area-inset-right, 0px)) 7px max(16px, env(safe-area-inset-left, 0px)); list-style: none; display: flex; flex-wrap: wrap; align-items: center; gap: 3px 15px; background: var(--bg); border-top: 1px solid var(--rule); font-size: 12.5px; line-height: 1.4; color: var(--ink2); }
 .map-legend li { display: inline-flex; align-items: center; gap: 6px; white-space: nowrap; }

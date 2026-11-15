@@ -1446,7 +1446,7 @@
     c.globalAlpha = 0.6; c.fillStyle = C.disc; c.beginPath(); c.arc(g.cx, g.cy, R, 0, TAU); c.fill();
     ARCS.forEach(function (tp) {
       var lit = picked === tp.id || (hovT === tp && !picked);
-      c.globalAlpha = lit ? C.wedgeA * 2.6 : picked ? C.wedgeA * 0.5 : C.wedgeA; c.fillStyle = C.t[tp.ci];
+      c.globalAlpha = lit ? C.wedgeA * 2 : picked ? C.wedgeA * 0.5 : C.wedgeA; c.fillStyle = C.t[tp.ci];
       c.beginPath(); c.arc(g.cx, g.cy, R, tp.s0, tp.s1); c.arc(g.cx, g.cy, R * O1, tp.s1, tp.s0, true); c.closePath(); c.fill();
     });
     c.globalAlpha = 1; c.fillStyle = C.disc; c.beginPath(); c.arc(g.cx, g.cy, R * O1, 0, TAU); c.fill();
@@ -1643,7 +1643,8 @@
     // one note on the figure: the pair of names, other than the centre, that the records link most often
     var bl = !em && !ph && map.level === 0 && zr < 1.25 && LAY && LAY.best;
     if (bl && bl.vis && got.has(bl.source) && got.has(bl.target)) {
-      var mx = 0.25 * X(bl.source) + 0.5 * (bl.cx * k + tx) + 0.25 * X(bl.target), my = 0.25 * Y(bl.source) + 0.5 * (bl.cy * k + ty) + 0.25 * Y(bl.target);
+      var far = Math.hypot(bl.source.px, bl.source.py) > Math.hypot(bl.target.px, bl.target.py), u = far ? 0.27 : 0.73, v = 1 - u;   // nearer the outer end, where there is room
+      var mx = v * v * X(bl.source) + 2 * u * v * (bl.cx * k + tx) + u * u * X(bl.target), my = v * v * Y(bl.source) + 2 * u * v * (bl.cy * k + ty) + u * u * Y(bl.target);
       var nl = ['Most-linked pair', bl.w + ' documented links'], nfnt = '500 11.5px ' + FONT, np = mapPlace(c, placed, marks, [], mx, my, 4, nl, nfnt, 13.5, w, h, inside, null, 99);
       if (np) {
         c.beginPath(); c.arc(mx, my, 3.2, 0, 6.2832); c.fillStyle = C.disc; c.fill(); c.lineWidth = 1.4; c.strokeStyle = C.labelDim; c.stroke();
