@@ -1,7 +1,7 @@
 // Extra stills for round 5: dark theme and phone width on the reading pages and the map. Usage: node cook/harness/extra05.js [id-prefix]
 const {chromium}=require('playwright'),path=require('path'),fs=require('fs');
 const serve=require('./serve.js');
-const out=path.resolve(__dirname,'..','stills','r05'); fs.mkdirSync(out,{recursive:true});
+const out=path.resolve(__dirname,'..','stills','r07'); fs.mkdirSync(out,{recursive:true});
 const D={width:1440,height:900}, P={width:400,height:860};
 const SHOTS=[
  {id:'X01-home-dark',hash:'#home',vp:D,scheme:'dark'},

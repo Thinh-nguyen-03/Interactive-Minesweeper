@@ -490,7 +490,7 @@
       '<input id="home-search" type="search" placeholder="' + (narrow.matches ? 'Search a name or a topic' : 'Search a person, a company or a topic') + '" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="home-results" aria-autocomplete="list">' +
       '<ul class="results" id="home-results" role="listbox" hidden></ul></div>' +
       (examples.length ? '<p class="try">Start with ' + listParts(examples.map(function (e) { return entLink(e, true); })).replace(' and ', ' or ') + '.</p>' : '') +
-      '<p class="ledger">' + [[nc, 'checks'], [p.total, 'points tested'], [META.sources, 'sources'], [entities.length, 'names'], [rels.length, 'links']].map(function (x) { return '<span><b>' + num(x[0]) + '</b> ' + x[1] + '</span>'; }).join('') + '</p>' +
+      '<p class="ledger">' + [[nc, 'checks'], [p.total, 'points'], [META.sources, 'sources'], [entities.length, 'names'], [rels.length, 'links']].map(function (x) { return '<span><b>' + num(x[0]) + '</b> ' + x[1] + '</span>'; }).join('') + '</p>' +
       '<p class="standing"><strong>Everyone named denies wrongdoing,</strong> and nothing here is an accusation of a crime. A link is a documented relationship, not proof that one thing caused another.' +
       (META.generated ? ' Data built ' + esc(fdate(META.generated)) + '.' : '') + ' <a href="#method">How We Checked</a></p>' +
       '</div>' +
@@ -1267,7 +1267,7 @@
       n = ranked[i]; if (n.type === 'media' || n.unverified_only) continue;
       var t = mapLabel(n); if (seen[t]) continue; seen[t] = 1;
       var px = sx[n.gi], py = sy[n.gi], r0 = n.gr * k + 5, fs = i === 0 ? 14.5 : i < 6 ? 13 : 12;
-      c.font = (i < 6 ? '650 ' : '550 ') + fs + 'px ' + uiFont;
+      c.font = (i < 6 ? '600 ' : '500 ') + fs + 'px ' + uiFont;
       var tw = c.measureText(t).width, th = fs + 3;
       var cand = [[px + r0, py - th / 2], [px - r0 - tw, py - th / 2], [px - tw / 2, py + r0 - 2], [px - tw / 2, py - r0 - th + 2], [px + r0 - 2, py + 3], [px - r0 + 2 - tw, py + 3], [px + r0 - 2, py - th - 3], [px - r0 + 2 - tw, py - th - 3]], spot = null;
       for (var u = 0; u < cand.length && !spot; u++) { var b = [cand[u][0] - 3, cand[u][1] - 1, cand[u][0] + tw + 3, cand[u][1] + th + 1]; if (clear(b)) spot = b; }
@@ -1326,7 +1326,10 @@
     p.kn = mixHex(p.bg0, p.bg1, 0.35);   // the gap kept clear round each mark
     p.to = p.t.concat([p.ink2, p.g.person, p.g.org, p.g.gov, p.g.other, p.check]).map(function (c) { return mixHex(c, p.light ? '#0b1320' : '#000000', 0.38); });   // the fine outline of each mark
     var sig = want + '|' + p.bg1 + '|' + p.ink + '|' + p.ink2 + '|' + font, changed = gl.themeSig !== sig;
-    GC = p; GFONT = font || FONT; gl.themeSig = sig;
+    if (!font) font = getComputedStyle(document.body).fontFamily || 'sans-serif';   // no family is named here: the canvas is set in the page's own
+    p.txd = p.tx.map(function (c) { return legible(mixHex(c, p.light ? p.bg1 : p.bg0, 0.42), p.light ? p.bg1 : p.bg0, p.ink); });   // the name of a lobe on the far side: quieter, still legible
+    GC = p; GFONT = font; gl.themeSig = sig;
+    if (changed && document.fonts && document.fonts.load) ['500 12px ', '600 13px ', '600 15px '].forEach(function (f) { try { document.fonts.load(f + font).then(function () { gl.wstamp = (gl.wstamp || 0) + 1; requestDraw(); }, function () {}); } catch (e) { /* optional */ } });   // a face used only on the canvas is fetched for it
     if (changed) { gl.sprites = {}; gl.wstamp = (gl.wstamp || 0) + 1; gl.bgGrad = null; if (map.ready) { if (W) glFrame(); renderLegend(); if (map.mode === 'network') renderPanel(); } }
     return changed;
   }
@@ -1505,8 +1508,8 @@
     /* How a link is drawn at rest. A link inside a topic bows a little towards the middle of its topic; a link between two topics
        bows towards the middle of the pair, so the links between two lobes gather into one soft strand; the hub's links run straight.
        Links between topics, and the hub's own, are ranked by the number of records behind them: at rest only the strongest show. */
-    var tcen = ARCS.map(function () { return [0, 0, 0, 0]; });
-    nodes.forEach(function (n) { var t = n.kind === 'claim' ? n.topicRef : n.top; if (!t || t.gi == null || !tcen[t.gi]) return; var c = tcen[t.gi]; c[0] += gl.P[n.gi * 3]; c[1] += gl.P[n.gi * 3 + 1]; c[2] += gl.P[n.gi * 3 + 2]; c[3]++; });
+    var tcen = ARCS.map(function () { return [0, 0, 0, 0]; }); gl.tmem = ARCS.map(function () { return []; });
+    nodes.forEach(function (n) { var t = n.kind === 'claim' ? n.topicRef : n.top; if (!t || t.gi == null || !tcen[t.gi] || n.kind === 'theme') return; var c = tcen[t.gi]; gl.tmem[t.gi].push(n.gi); c[0] += gl.P[n.gi * 3]; c[1] += gl.P[n.gi * 3 + 1]; c[2] += gl.P[n.gi * 3 + 2]; c[3]++; });
     tcen.forEach(function (c) { if (c[3]) { c[0] /= c[3]; c[1] /= c[3]; c[2] /= c[3]; } }); gl.tcen = tcen;
     gl.LQ = new Float32Array(gl.E * 3); gl.lq = new Uint8Array(gl.E); gl.lr = new Uint16Array(gl.E); gl.qx = new Float32Array(gl.E); gl.qy = new Float32Array(gl.E); gl.qd = new Float32Array(gl.E);
     var xs = [], hs = [];
@@ -1585,9 +1588,9 @@
        inside a margin, and it is moved and sized so that it stays clear of the read-out, the key and the buttons. */
     var a = visibleArea(), ph = narrow.matches, mg = ph ? 8 : 14, persp = gl.D / Math.sqrt(gl.D * gl.D - 1), i, q, o;
     obstacles(); gl.aw = a.w; gl.av = [a.x, a.y, a.x + a.w, a.y + a.h];
-    var hw = Math.max(40, a.w / 2 - mg - (ph ? 18 : 64)), hh = Math.max(40, a.h / 2 - (ph ? 30 : mg + 16)),   // room is kept round the ball for the topics' names
+    var hw = Math.max(40, a.w / 2 - mg), hh = Math.max(40, a.h / 2 - (ph ? 12 : mg)),   // the topics' names are written in what margin there is, and over empty space: they adapt to the ball
  cy = a.y + a.h / 2, cx0 = a.x + a.w / 2;
-    var RX = Math.min(hw, hh * 1.42), RY = Math.min(hh, hw * (ph ? 1.8 : 1.22)), best = null;
+    var RX = Math.min(hw, hh * 1.42), RY = Math.min(hh, hw * (ph ? 1.12 : 1.22)), best = null;
     for (i = 0; i <= 6; i++) for (q = -1; q <= 1; q += 2) {   // try the middle first, then a little to either side; keep the place that allows the largest ball
       var dx = i * 14 * q, rx = Math.min(RX, hw - Math.abs(dx)), sc = 1;
       if (i && rx < RX * 0.8) continue;
@@ -1601,7 +1604,7 @@
     }
     gl.cx = best.cx; gl.cy = cy;
     gl.rad = Math.max(60, Math.min(best.rx, best.ry) / persp); gl.kx = Math.max(1, best.rx / persp / gl.rad); gl.ky = Math.max(1, best.ry / persp / gl.rad);
-    if (ph) gl.rad *= 1.2;   // on a phone the camera stands closer: the ball's rim runs a little past the sides, and turning the ball brings the rest round
+    if (ph) gl.rad *= 1.55;   // on a phone the camera stands closer: the ball's rim runs a little past the sides, and turning the ball brings the rest round
     var g = ctx.createRadialGradient(gl.cx, gl.cy, 0, gl.cx, gl.cy, Math.max(W, H) * 0.75); g.addColorStop(0, GC.bg0); g.addColorStop(1, GC.bg1); gl.bgGrad = g;
   }
   function glSprite(col) {   // a soft halo, used only under the best-connected names
@@ -1666,7 +1669,9 @@
     return (gl.em = em);
   }
   function glText(n) { return n.gt || (n.gt = n.kind === 'entity' ? mapLabel(n) : n.kind === 'claim' ? trunc(n.title || n.name, 38) : n.name); }
-  var GLF = ['500 12px ', '700 14px ', '500 11.5px ', '600 12.5px '];   // a name; the lead; a check; one of the few best-connected names
+  /* The type on the canvas: one family (the page's own, from --font-ui), two weights, three sizes. A name and a check are 12px
+     medium; one of the few best-connected names is 13px semibold; the lead is 15px semibold. A topic's name is 12px medium in its colour. */
+  var GLF = ['500 12px ', '600 15px ', '500 12px ', '600 13px '];
   function glTextW(n, fi) {
     if (!n.gw || n.gwS !== gl.wstamp) { n.gw = [0, 0, 0, 0]; n.gwS = gl.wstamp; }
     if (!n.gw[fi]) { ctx.font = GLF[fi] + GFONT; n.gw[fi] = ctx.measureText(glText(n)).width; }
@@ -1686,7 +1691,7 @@
   }
   function glWrite(c, text, fi, x0, y0, tw, col, alpha) {
     c.font = GLF[fi] + GFONT; c.textAlign = 'left'; c.textBaseline = 'middle'; c.lineJoin = 'round';
-    c.globalAlpha = Math.min(1, alpha * 0.95); c.lineWidth = GC.light ? 3.6 : 3.2; c.strokeStyle = GC.halo; c.strokeText(text, x0, y0 + 7.5);
+    c.globalAlpha = Math.min(1, alpha * 0.95); c.lineWidth = 3.4; c.strokeStyle = GC.halo; c.strokeText(text, x0, y0 + 7.5);
     c.globalAlpha = alpha; c.fillStyle = col; c.fillText(text, x0, y0 + 7.5);
   }
   var NA_D = [0.1, 0.16, 0.24, 0.3, 0.5, 0.74, 0.96, 1], NA_L = [0.2, 0.28, 0.38, 0.3, 0.5, 0.74, 0.95, 1];   // strength of a mark: three steps when dimmed, four by depth at rest, then lit
@@ -1868,40 +1873,53 @@
       var bx = [glBox[0] - 3, glBox[1] - 1, glBox[0] + tw + 3, glBox[1] + 16, m];
       placed.push(bx); boxes.push(bx); glWrite(c, glText(m), fi, glBox[0], glBox[1], tw, col, alpha); return true;
     }
-    var nowT = F.topic, tfont = '600 12px ' + GFONT;
+    var nowT = F.topic, tfont = '500 12px ' + GFONT;
     glPad[0] = em ? 3 : 9; glPad[1] = em ? 1 : 5;
     /* A topic's name is written outside the ball, never among the points: on the rim, in the direction of its lobe from the
        middle. The names are placed in order round the rim; one that would touch another name, the read-out or the key is moved
        along the rim until it is clear, and all are kept inside the stage. A lobe that faces the reader is named at the nearest
        edge, with a short tick towards it. Each is written in full or not at all. */
     if (!map.iso && (!em || em.kind === 'topic' || em.kind === 'hover' || em.kind === 'link')) {
-      var caps = [], pers = D / Math.sqrt(D * D - 1), eRx = radx * pers * 1.03 + (ph ? 2 : 10), eRy = rady * pers * 1.03 + (ph ? 4 : 10), av = gl.av || [0, 0, W, H], tr, aa, ca, sa, x0c, y0c, okc;
+      var caps = [], av = gl.av || [0, 0, W, H], gcw = Math.ceil(W / 12) + 1, gch = Math.ceil(H / 12) + 1, occ = gl.occ && gl.occ.length >= gcw * gch ? gl.occ : (gl.occ = new Uint8Array(gcw * gch)), tr, x0c, y0c, okc, j, m, cnt, mem;
+      // where the points are, on a coarse grid, with the lobe each belongs to: a name may not be written over another lobe's points
+      occ.fill(0);
+      for (i = 0; i < N; i++) { if (nk[i] === 255 || sz[i] < -0.2 || (em && !emN[i])) continue; X = sx[i]; Y = sy[i]; if (X >= 0 && Y >= 0 && X < W && Y < H) occ[((Y / 12) | 0) * gcw + ((X / 12) | 0)] = 1 + nodes[i].gc; }
+      var busy = function (bx0, by0, bx1, by1, own) { var gx, gy, o; for (gy = Math.max(0, (by0 / 12) | 0); gy <= Math.min(gch - 1, (by1 / 12) | 0); gy++) for (gx = Math.max(0, (bx0 / 12) | 0); gx <= Math.min(gcw - 1, (bx1 / 12) | 0); gx++) { o = occ[gy * gcw + gx]; if (o && o !== own + 1) return true; } return false; };
       for (q = 0; q < ARCS.length; q++) {
-        var tp = ARCS[q], v = gl.tcen[q]; if (!v || !v[3] || (nowT && tp.id !== nowT)) continue;
-        zz = r6 * v[0] + r7 * v[1] + r8 * v[2]; if (zz < -0.3 * Math.hypot(v[0], v[1], v[2]) && !nowT) continue;
-        s = D / (D - zz); X = cx + (r0 * v[0] + r1 * v[1] + r2 * v[2]) * s * radx; Y = cy - (r3 * v[0] + r4 * v[1] + r5 * v[2]) * s * rady;
-        if (gam < 0.999) { warp(X, Y); X = wx; Y = wy; }
-        var ndx = (X - cx) / radx, ndy = (Y - cy) / rady, front = Math.hypot(ndx, ndy) < 0.3 || !!nowT;
-        caps.push({ tp: tp, q: q, X: X, Y: Y, front: front, a: nowT ? -1.5708 : front ? (Math.abs(ndx) > Math.abs(ndy) * 1.3 ? (ndx > 0 ? 0 : 3.1416) : (ndy > 0 ? 1.5708 : -1.5708)) : Math.atan2(ndy, ndx) });
+        var tp = ARCS[q], v = gl.tcen[q]; mem = gl.tmem[q]; if (!v || !v[3] || !mem.length || (nowT && tp.id !== nowT)) continue;
+        var far = r6 * v[0] + r7 * v[1] + r8 * v[2] < -0.25 * Math.hypot(v[0], v[1], v[2]), sX = 0, sY = 0, lim0 = far ? -9 : -0.3;
+        for (j = 0, cnt = 0; j < mem.length; j++) { m = mem[j]; if (nk[m] !== 255 && sz[m] >= lim0) { sX += sx[m]; sY += sy[m]; cnt++; } }
+        if (cnt < 3) { lim0 = -9; for (j = 0, cnt = 0, sX = 0, sY = 0; j < mem.length; j++) { m = mem[j]; if (nk[m] !== 255) { sX += sx[m]; sY += sy[m]; cnt++; } } if (!cnt) continue; }
+        sX /= cnt; sY /= cnt;
+        var ddx = sX - cx, ddy = sY - cy, dl = Math.hypot(ddx, ddy), front = dl < 0.2 * Math.min(radx, rady) || !!nowT, s1 = 0, s2 = 0, pr;
+        if (front) { ddx = 0; ddy = -1; } else { ddx /= dl; ddy /= dl; }
+        for (j = 0; j < mem.length; j++) { m = mem[j]; if (nk[m] !== 255 && sz[m] >= lim0) { pr = (sx[m] - sX) * ddx + (sy[m] - sY) * ddy; s1 += pr; s2 += pr * pr; } }
+        pr = 1.7 * Math.sqrt(Math.max(0, s2 / cnt - (s1 / cnt) * (s1 / cnt)));   // how far the lobe reaches, outwards from its middle
+        if (nowT) { caps.push({ tp: tp, q: q, far: false, dx: 0, dy: -1, ex: cx, ey: av[1] + 34 }); continue; }   // the topic in focus fills the stage: its name stands at the top, clear of it
+        caps.push({ tp: tp, q: q, far: far, dx: ddx, dy: ddy, ex: sX + ddx * pr, ey: sY + ddy * pr });
       }
-      caps.sort(function (p, q2) { return (p.front ? 1 : 0) - (q2.front ? 1 : 0) || p.a - q2.a; });   // the lobes at the rim first; one that faces the reader takes what is left
+      caps.sort(function (p, q2) { return (p.far ? 1 : 0) - (q2.far ? 1 : 0); });   // the lobes on the near side take their places first
       c.font = tfont; c.textAlign = 'left'; c.textBaseline = 'middle'; c.lineJoin = 'round';
+      var SL = [0, 14, -14, 28, -28, 40, -40], SL2 = [0, 40, -40, 70, -70, 100, -100, 130, -130];
       for (q = 0; q < caps.length; q++) {
-        var cp = caps[q], txt = ph ? cp.tp.short : cp.tp.name, tw2 = cp.tp.gw && cp.tp.gwS === gl.wstamp && cp.tp.gwP === ph ? cp.tp.gw : (cp.tp.gwS = gl.wstamp, cp.tp.gwP = ph, cp.tp.gw = c.measureText(txt).width);
-        for (tr = 0, okc = false; tr < 21 && !okc; tr++) {
-          aa = cp.a + (tr % 2 ? 1 : -1) * Math.ceil(tr / 2) * 0.085; ca = Math.cos(aa); sa = Math.sin(aa);
-          x0c = cx + ca * eRx - (ca > 0.3 ? 0 : ca < -0.3 ? tw2 : tw2 / 2); y0c = cy + sa * eRy - 8 + sa * 7;
+        var cp = caps[q], txt = '', tw2 = 0, ni, ro, si, pxc, pyc, ledc = false;
+        var tryAt = function (name, radial, slide, strict) {
+          txt = name; tw2 = c.measureText(txt).width; pxc = cp.ex + cp.dx * (12 + radial) - cp.dy * slide; pyc = cp.ey + cp.dy * (12 + radial) + cp.dx * slide;
+          x0c = pxc - (cp.dx > 0.35 ? 0 : cp.dx < -0.35 ? tw2 : tw2 / 2); y0c = pyc - 8 + cp.dy * 8;
           x0c = Math.max(av[0] + 8, Math.min(av[2] - tw2 - 8, x0c)); y0c = Math.max(av[1] + 6, Math.min(av[3] - 22, y0c));
-          okc = !overlaps(placed, x0c - 8, y0c - 5, x0c + tw2 + 8, y0c + 20);
-        }
-        if (!okc) continue;
-        var tb = [x0c - 4, y0c - 2, x0c + tw2 + 4, y0c + 17, cp.tp]; placed.push(tb); boxes.push(tb);
-        c.globalAlpha = 0.95; c.lineWidth = lite ? 3.6 : 3.2; c.strokeStyle = GC.halo; c.strokeText(txt, x0c, y0c + 7.5);
-        c.globalAlpha = 1; c.fillStyle = GC.tx[cp.q % 9]; c.fillText(txt, x0c, y0c + 7.5);
+          return !overlaps(placed, x0c - 8, y0c - 5, x0c + tw2 + 8, y0c + 20) && (!strict || !busy(x0c - 2, y0c, x0c + tw2 + 2, y0c + 15, cp.q % 9));
+        };
+        // beside its lobe, sliding a little; then the short name; then a step further out with a line back; last, anywhere near that is free of other names
+        for (ni = ph ? 1 : 0, okc = false; ni < 2 && !okc; ni++) for (ro = 0; ro <= (ni ? 36 : 0) && !okc; ro += 18) for (si = 0; si < SL.length && !okc; si++) { okc = tryAt(ni ? cp.tp.short : cp.tp.name, ro, SL[si], true); ledc = ro > 0; }
+        if (!okc && !ph) for (si = 0; si < SL2.length && !okc; si++) { okc = tryAt(cp.tp.short, 30, SL2[si], false); ledc = true; }
+        if (!okc) continue;   // on a phone a lobe with no clear ground beside it is named on the row of topics under the map
+        var tb = [x0c - 4, y0c - 2, x0c + tw2 + 4, y0c + 17, cp.tp], colc = cp.far ? GC.txd[cp.q % 9] : GC.tx[cp.q % 9]; placed.push(tb); boxes.push(tb);
+        c.globalAlpha = 0.95; c.lineWidth = 3.4; c.strokeStyle = GC.halo; c.strokeText(txt, x0c, y0c + 7.5);
+        c.globalAlpha = 1; c.fillStyle = colc; c.fillText(txt, x0c, y0c + 7.5);
         if (map.hoverTopic === cp.tp || nowT) c.fillRect(x0c, y0c + 16, tw2, 1);
-        if (cp.front && !nowT) {   // the tick from the name towards its lobe
-          var mxc = x0c + tw2 / 2, myc = y0c + (cp.Y > y0c ? 19 : -4), dl = Math.hypot(cp.X - mxc, cp.Y - myc) || 1, tl2 = Math.min(16, dl * 0.3);
-          c.strokeStyle = GC.tx[cp.q % 9]; c.lineWidth = 1; c.globalAlpha = 0.85; c.beginPath(); c.moveTo(mxc, myc); c.lineTo(mxc + (cp.X - mxc) / dl * tl2, myc + (cp.Y - myc) / dl * tl2); c.stroke();
+        if (ledc) {   // the line from the name back to its lobe
+          var mxc = Math.max(x0c, Math.min(x0c + tw2, cp.ex)), myc = cp.ey > y0c + 8 ? y0c + 18 : y0c - 3;
+          c.strokeStyle = colc; c.lineWidth = 1; c.globalAlpha = 0.8; c.beginPath(); c.moveTo(mxc, myc); c.lineTo(cp.ex, cp.ey); c.stroke();
         }
       }
     }
@@ -1926,6 +1944,7 @@
       if (map.iso && map.iso.node.vis) label(map.iso.node, 1, GC.lead, 1, true);
     }
     c.globalAlpha = 1;
+    if (gl.hudFor !== em) glHud();   // the read-out follows what is lit
     gl.ms += (performance.now() - t0 - gl.ms) * 0.1; gl.frames++;
   }
   function glR(n) { return n.gr * Math.pow(gl.zoom, 0.45) * (narrow.matches ? 0.6 : 1) * gl.ss[n.gi] * gl.ss[n.gi] * 0.72; }
@@ -2007,11 +2026,19 @@
     var ne = 0, nc = 0, nl = 0, nm = 0, i, l;
     for (i = 0; i < nodes.length; i++) if (shown(nodes[i])) { if (nodes[i].kind === 'entity') ne++; else if (nodes[i].kind === 'claim') nc++; }
     for (i = 0; i < links.length; i++) { l = links[i]; if (glLinkOn(l)) { if (l.kind === 'rel') nl++; else if (l.kind === 'claim') nm++; } }
-    var sel = 'Nothing selected', em;
+    /* The line under the figures says what is lit now, counted from what is drawn as lit: the names, the links between names,
+       and, only where they are drawn, the lines from checks to the names they mention, as a figure of their own. */
+    var sel = 'Nothing selected', em = glEm(), lit = '', ln = 0, lk = 0, lm = 0, who = map.sel || (em && em.kind === 'hover' ? em.lead : null);
+    if (em) {
+      em.nodes.forEach(function (n) { if (n.kind === 'entity' && n !== em.lead) ln++; });
+      em.links.forEach(function (x) { if (x.kind === 'rel') lk++; else if (x.kind === 'claim') lm++; });
+      lit = (ln ? ' · ' + plural(ln, 'name') : '') + (lk ? ' · ' + plural(lk, 'link') + ' lit' : '') + (lm ? ' · ' + plural(lm, 'mention') : '');
+    }
     if (map.path && map.path.list) sel = 'Path · ' + shortName(map.path.list[0]) + ' to ' + shortName(map.path.list[map.path.list.length - 1]) + ' · ' + plural(map.path.steps.length, 'step');
     else if (map.pathFrom) sel = 'Tracing from ' + shortName(map.pathFrom);
-    else if (map.sel) { em = focusSet(map.sel); sel = (map.sel.kind === 'entity' ? mapLabel(map.sel) : map.sel.kind === 'claim' ? 'Check ' + map.sel.id : map.sel.name) + ' · ' + plural(em.links.size, 'link') + ' lit' + (map.iso ? ' · isolated' : ''); }
-    else if (map.topicSet) sel = map.topicSet.topic.name + ' · ' + plural(map.topicSet.w.size, 'name');
+    else if (who) sel = (who.kind === 'entity' ? mapLabel(who) : who.kind === 'claim' ? 'Check ' + who.id : who.name) + lit + (map.iso ? ' · isolated' : '');
+    else if (map.topicSet) sel = map.topicSet.topic.name + lit;
+    gl.hudFor = em;
     el.innerHTML = '<dl><div><dt>Names</dt><dd>' + num(ne) + '</dd></div><div><dt>Links</dt><dd>' + num(nl) + '</dd></div><div><dt>Checks</dt><dd>' + num(nc) + '</dd></div><div class="wide"><dt>Mentions</dt><dd>' + num(nm) + '</dd></div></dl><p class="hud-sel' + (sel === 'Nothing selected' ? '' : ' on') + '">' + esc(sel) + '</p>';
   }
   function glTouch(ms) { gl.idleAt = performance.now() + (ms || 6000); clearTimeout(gl.idleTimer); gl.idleTimer = setTimeout(glWake, (ms || 6000) + 60); }
@@ -2516,7 +2543,7 @@
     if (window.ResizeObserver) new ResizeObserver(resize).observe(canvas.parentElement);
     window.addEventListener('resize', resize);
     if (narrow.addEventListener) narrow.addEventListener('change', function () { if (state.view === 'map' && map.mode === 'network') { renderPanel(); renderLegend(); resize(); } });
-    if (document.fonts && document.fonts.ready) document.fonts.ready.then(function () { widths.clear(); gl.wstamp = (gl.wstamp || 0) + 1; requestDraw(); drawPreview(); });
+    if (document.fonts && document.fonts.ready) document.fonts.ready.then(function () { widths.clear(); glTheme(); gl.wstamp = (gl.wstamp || 0) + 1; requestDraw(); drawPreview(); });
     glTouch(1200);
   }
   function setTopic(id) {   // bring one topic forward: its checks and every name they mention
