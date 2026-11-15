@@ -490,7 +490,7 @@
       '<input id="home-search" type="search" placeholder="' + (narrow.matches ? 'Search a name or a topic' : 'Search a person, a company or a topic') + '" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="home-results" aria-autocomplete="list">' +
       '<ul class="results" id="home-results" role="listbox" hidden></ul></div>' +
       (examples.length ? '<p class="try">Start with ' + listParts(examples.map(function (e) { return entLink(e, true); })).replace(' and ', ' or ') + '.</p>' : '') +
-      '<p class="ledger">' + [[nc, 'checks'], [p.total, 'points tested'], [META.sources, 'sources cited'], [entities.length, 'names'], [rels.length, 'documented links']].map(function (x) { return '<span><b>' + num(x[0]) + '</b> ' + x[1] + '</span>'; }).join('') + '</p>' +
+      '<p class="ledger">' + [[nc, 'checks'], [p.total, 'points tested'], [META.sources, 'sources'], [entities.length, 'names'], [rels.length, 'links']].map(function (x) { return '<span><b>' + num(x[0]) + '</b> ' + x[1] + '</span>'; }).join('') + '</p>' +
       '<p class="standing"><strong>Everyone named denies wrongdoing,</strong> and nothing here is an accusation of a crime. A link is a documented relationship, not proof that one thing caused another.' +
       (META.generated ? ' Data built ' + esc(fdate(META.generated)) + '.' : '') + ' <a href="#method">How We Checked</a></p>' +
       '</div>' +
@@ -986,7 +986,7 @@
   var narrow = window.matchMedia('(max-width: 760px)');
   var reduced = window.matchMedia('(prefers-reduced-motion: reduce)');
   var canvas = $('graph'), ctx = canvas.getContext('2d');
-  var W = 0, H = 0, dpr = 1, T = { k: 1, x: 0, y: 0 }, C = {}, zoom = null, fitted = false, drawQueued = false, AY = 1;
+  var W = 0, H = 0, dpr = 1, C = {}, fitted = false, drawQueued = false;
   var FONT = getComputedStyle(root).getPropertyValue('--font-ui').trim() || '"Helvetica Neue", Helvetica, Arial, sans-serif';   // the canvases use the interface's own face
   var RING = META.ring || 0;
   var ARCS = TOPICS.filter(function (t) { return typeof t.a0 === 'number' && typeof t.a1 === 'number'; });
@@ -1066,7 +1066,6 @@
     }
     return seen;
   }
-  var restCache = null;
   function applyFilters() {
     nodes.forEach(function (n) { n.vis0 = F.kind.has(fkey(n)) && (n.kind !== 'claim' || F.verdict.has(n.verdict)); });
     links.forEach(function (l) { l.vis0 = l.source.vis0 && l.target.vis0; });
@@ -1081,7 +1080,7 @@
       var tl = new Set(); links.forEach(function (l) { if (l.vis && ns.has(l.source) && ns.has(l.target) && (l.source !== map.hub && l.target !== map.hub)) tl.add(l); });
       map.topicSet = { nodes: ns, links: tl, topic: tp, w: wt };
     }
-    restCache = null; gl.stamp++; glHud();
+    gl.stamp++; glHud();
     var fc = $('filter-count'), af = activeFilters() - (F.topic ? 1 : 0);
     fc.hidden = !af; fc.textContent = af ? String(af) : '';
     renderBanner(); syncChips(); requestDraw();
@@ -1218,7 +1217,7 @@
     c.fillStyle = bg; c.fillRect(0, 0, w, h);
     // the fixed first view of the globe, a little perspective, fitted to the figure
     var N = gl.N, P = gl.P, sx = new Float32Array(N), sy = new Float32Array(N), sz = new Float32Array(N);
-    var rad = Math.min(w * 0.46, h * 0.47), cx = w / 2, cy = h / 2, D = 3.4, keepQ = gl.q;
+    var rad = Math.min(w * 0.4, h * 0.43), cx = w / 2, cy = h / 2, D = 3.4, keepQ = gl.q;
     gl.q = gl.q0;
     for (i = 0; i < N; i++) {
       var v = glRot([P[i * 3], P[i * 3 + 1], P[i * 3 + 2]]), s = D / (D - v[2]);
@@ -1274,18 +1273,7 @@
 
   function showTip(n) {
     var tip = $('tip');
-    if (gl.ok) { glTip(n, null); return; }
-    if (!n) { tip.hidden = true; return; }
-    var fo = focusMode() && map.focus, it = fo && (fo.pos.get(n) || (n === fo.node ? fo.centre : null));
-    if (fo && it && !it.inner) { tip.hidden = true; return; }   // its label is already beside it
-    var sub = n.kind === 'claim' ? (isUnv(n) ? unvText(n) : VLABEL[n.verdict]) + ' · ' + originText(n)
-      : n.kind === 'theme' ? 'Recurring theme · ' + plural(arr(n.claims).length, 'check')
-        : TLABEL[n.type] + ' · ' + plural(n.lines.length, 'connection') + ' · in ' + plural(n.cl.length, 'check') + (n.unverified_only ? ' · named only in an unverified check' : '');
-    tip.innerHTML = '<b>' + esc(n.name) + '</b><span>' + esc(sub) + '</span>';
-    tip.hidden = false;
-    var x = (it ? it.x : n.px) * T.k + T.x, y = (it ? it.y : n.py) * T.k + T.y, r = (it ? it.r : rs(n, T.k)) + 10, tw = tip.offsetWidth, th = tip.offsetHeight;
-    tip.style.left = Math.max(6, Math.min(W - tw - 6, x + r)) + 'px';
-    tip.style.top = Math.max(6, Math.min(H - th - 6, y - th - 6 < 6 ? y + r : y - th - 6)) + 'px';
+    if (gl.ok) glTip(n, null); else tip.hidden = true;
   }
 
   // ------------------------------------------------------------------ the globe
@@ -1652,7 +1640,7 @@
     c.globalAlpha = Math.min(1, alpha * 0.95); c.lineWidth = GC.light ? 3.6 : 3.2; c.strokeStyle = GC.halo; c.strokeText(text, x0, y0 + 7.5);
     c.globalAlpha = alpha; c.fillStyle = col; c.fillText(text, x0, y0 + 7.5);
   }
-  var NA_D = [0.1, 0.16, 0.24, 0.3, 0.5, 0.74, 0.96, 1], NA_L = [0.12, 0.18, 0.26, 0.3, 0.5, 0.74, 0.95, 1];   // strength of a mark: three steps when dimmed, four by depth at rest, then lit
+  var NA_D = [0.1, 0.16, 0.24, 0.3, 0.5, 0.74, 0.96, 1], NA_L = [0.2, 0.28, 0.38, 0.3, 0.5, 0.74, 0.95, 1];   // strength of a mark: three steps when dimmed, four by depth at rest, then lit
   var GLA_D = [0.03, 0.055, 0.1, 0.17, 0.27, 0.4], GLA_L = [0.035, 0.06, 0.1, 0.17, 0.27, 0.4];   // strength of a link by depth: the far side recedes
   function glDraw() {
     var c = ctx, t0 = performance.now(), N = gl.N, E = gl.E, P = gl.P, sx = gl.sx, sy = gl.sy, sz = gl.sz, ss = gl.ss, i, k, q, b, f, r, n, l;
@@ -1664,7 +1652,7 @@
       sx[i] = cx + (r0 * X + r1 * Y + r2 * Z) * s * radx; sy[i] = cy - (r3 * X + r4 * Y + r5 * Z) * s * rady; sz[i] = zz; ss[i] = s;
     }
     c.globalCompositeOperation = 'source-over'; c.globalAlpha = 1; c.fillStyle = gl.bgGrad || GC.bg1; c.fillRect(0, 0, W, H);
-    var em = glEm(), emN = gl.emN, emL = gl.emL, dim = em ? (em.kind === 'link' ? 0.6 : em.kind === 'hover' ? 0.4 : 0.22) : 1, la = gl.la, lb = gl.lb, lz = gl.lz, lc = gl.lc, L = gl.L, byKind = gl.colorBy === 'kind';
+    var em = glEm(), emN = gl.emN, emL = gl.emL, dim = em ? (em.kind === 'link' ? 0.6 : em.kind === 'hover' ? 0.4 : lite ? 0.42 : 0.24) : 1, la = gl.la, lb = gl.lb, lz = gl.lz, lc = gl.lc, L = gl.L, byKind = gl.colorBy === 'kind';
     // every documented link, hair-thin: one path for each colour and each band of depth. On dark they add light; on paper they are ink.
     // The lines from a check to the names it mentions are not drawn at rest (there are more of them than links): they show when lit, or when asked for.
     var mentionsOn = gl.mentions || map.level === 2;
@@ -1705,7 +1693,7 @@
         f = ((sz[la[i]] + sz[lb[i]]) * 0.5 + 1.05) / 2.1; f = f < 0 ? 0 : f > 1 ? 1 : f;
         var strong = emL[i] === 2 || l === gl.hovLink || em.kind === 'path';
         c.strokeStyle = em.kind === 'path' || l === gl.hovLink ? GC.accent : em.kind === 'topic' && emL[i] !== 2 ? GC.t[em.topic.gi % 9] : l.kind === 'rel' ? GC.rk[l.rk] : GC.line;
-        c.globalAlpha = (strong ? 0.55 : em.kind === 'topic' ? 0.16 : l.kind === 'rel' ? 0.34 : 0.2) + (strong ? 0.45 : em.kind === 'topic' ? 0.3 : 0.5) * f;
+        c.globalAlpha = (strong ? 0.55 : em.kind === 'topic' ? 0.1 : l.kind === 'rel' ? 0.34 : 0.16) + (strong ? 0.45 : em.kind === 'topic' ? 0.26 : l.kind === 'rel' ? 0.5 : 0.34) * f;
         c.lineWidth = strong ? (em.kind === 'path' ? 2.2 : 1.7) : em.kind === 'topic' ? 0.8 : l.kind === 'rel' ? Math.min(2.2, 0.9 + 0.22 * l.w) : 0.8;
         if (l.unv) c.setLineDash([4, 3.5]);
         c.beginPath(); c.moveTo(sx[la[i]], sy[la[i]]); c.lineTo(sx[lb[i]], sy[lb[i]]); c.stroke();
@@ -1789,7 +1777,7 @@
       var tp = ARCS[q], v = gl.tcap[q]; if (nowT && tp.id !== nowT) continue;
       zz = r6 * v[0] + r7 * v[1] + r8 * v[2]; if (zz < -0.2) continue;   // a topic's name is written while its lobe is on the near side: beside the lobe at the globe's edge, above it when it faces the reader
       s = D / (D - zz); X = cx + (r0 * v[0] + r1 * v[1] + r2 * v[2]) * s * radx; Y = cy - (r3 * v[0] + r4 * v[1] + r5 * v[2]) * s * rady;
-      if (zz > 0.78 * Math.hypot(v[0], v[1], v[2])) Y -= (nowT ? 0.3 : 0.17) * rady;
+      if (zz > 0.78 * Math.hypot(v[0], v[1], v[2])) { if (nowT) continue; Y -= 0.17 * rady; }   // the topic in focus is named in the read-out and the panel
       var txt = ph ? tp.short : tp.name, tw2 = tp.gw && tp.gwS === gl.wstamp && tp.gwP === ph ? tp.gw : (c.font = tfont, tp.gwS = gl.wstamp, tp.gwP = ph, tp.gw = c.measureText(txt).width);
       var side = (X - cx) / (radx || 1), x0 = Math.max(6, Math.min(gl.aw - tw2 - 10, X - tw2 * (side < -0.25 ? 1 : side > 0.25 ? 0 : 0.5))), y0 = Math.max(6, Math.min(H - 22, Y - 8));
       if (overlaps(placed, x0 - 4, y0 - 2, x0 + tw2 + 4, y0 + 17)) continue;
@@ -1992,23 +1980,9 @@
   //      with a selection it holds that selection's connections by kind and the checks that mention it.
   var XICON = ico('close'), BACKICON = ico('back');
   function evMark(alleged) { return alleged ? '<span class="ev unv"><i class="evline dashed" aria-hidden="true"></i>Alleged, Unverified</span>' : '<span class="ev" title="Documented"><i class="evline" aria-hidden="true"></i><span class="sr">Documented</span></span>'; }
-  function relFrom(r) {
-    var cs = r.claims.map(function (id) { return byKey.get(id); }).filter(Boolean);
-    return cs.length ? '<span class="from">From ' + cs.slice(0, 2).map(function (c) { return nodeBtn(c, c.title); }).join('; ') + (cs.length > 2 ? '; and ' + (cs.length - 2) + ' more' : '') + '</span>' : '';
-  }
   function mapRef(n) {   // how a sentence refers back to the selection: a surname where that is clear, else the short name
     var w = n.name.replace(/,? (Jr\.?|Sr\.?|II|III|IV)$/, '').split(' ');
     return n.type === 'person' && w.length > 1 && !/^Trump$/.test(w[w.length - 1]) && /^[A-Z][a-z]+$/.test(w[w.length - 1]) ? w[w.length - 1] : shortName(n);
-  }
-  function panelRel(r, n) {
-    var o = r.S === n ? r.T : r.S, say, fig = '';
-    if (!n) say = esc(cap(plainSentence(r)));
-    else if (r.S === n) say = flows(r.label) ? esc(cap(r.label)) + ' ' + nodeBtn(o) : nodeBtn(o) + ': ' + esc(r.label);
-    else say = flows(r.label) ? nodeBtn(o) + ' ' + esc(r.label) + ' ' + esc(mapRef(n)) : nodeBtn(o) + ': ' + esc(r.label);
-    if (typeof r.amount_usd === 'number') fig += '<b>' + esc(money(r.amount_usd)) + '</b>';
-    if (r.date) fig += '<span>' + esc(fdate(r.date)) + '</span>';
-    return '<li class="prow' + (r.alleged ? ' alleged' : '') + '" data-hov="' + esc(o.key) + '">' + kmark(o) + '<p class="p2">' + say + '</p>' + (fig ? '<p class="pfig">' + fig + '</p>' : '') +
-      '<p class="p3">' + evMark(r.alleged) + relFrom(r) + '</p></li>';
   }
   function panelShell(meta, title, body, actions, back) {
     return (back || '') + '<div class="panel-head"><h2>' + title + '</h2><button type="button" class="iconbtn" data-act="close" aria-label="Close">' + XICON + '</button></div>' +
@@ -2172,25 +2146,13 @@
     if (!n.vis0) { F.kind = new Set(FKEYS); F.verdict = new Set(presentVerdicts); renderTools(); }
     if (F.topic && !traced) F.topic = '';
     applyFilters();
-    var wasFocus = !!map.focus;
     map.sel = n; map.hover = null; map.hoverTopic = null; gl.hovLink = null; showTip(null);
     renderPanel(); renderLegend();
     if (!opts.fromHash) setHash('map-' + mapId(n));
-    if (focusMode()) {
-      if (!wasFocus && fitted) map.savedT = { k: T.k, x: T.x, y: T.y };
-      buildFocus(); frameFocus(wasFocus && opts.animate !== false);
-    } else {
-      map.focus = null; $('focus-note').hidden = true;
-      if (traced && map.path.list) frameNodes(map.path.list, 1.2, true, 60);
-      else if (opts.center !== false) centerIfHidden(n);
-    }
+    map.focus = null; $('focus-note').hidden = true;   // a selection is read on the globe itself, with its neighbours lit
+    if (traced && map.path.list) frameNodes(map.path.list, 1.2, true, 60);
+    else if (opts.center !== false) centerIfHidden(n);
     hintOff(); requestDraw();
-  }
-  function leaveFocus() {
-    if (!map.focus) return;
-    map.focus = null; $('focus-note').hidden = true;
-    var s = map.savedT; map.savedT = null;
-    if (s && !map.iso && !narrow.matches) moveTo(s.x, s.y, s.k, false); else fit(false);
   }
   function mapDeselect(keepHash) {
     map.sel = null; renderPanel(); renderLegend(); if (W) glFrame(); glTouch(4000);
@@ -2205,7 +2167,7 @@
     setLevel(narrow.matches ? 0 : map.level); fit(true);
   }
   function setLevel(l) {
-    map.level = l; restCache = null;
+    map.level = l;
     document.querySelectorAll('[data-level]').forEach(function (b) { b.setAttribute('aria-pressed', String(+b.getAttribute('data-level') === l)); });
     gl.stamp++; glHud(); requestDraw();
   }
@@ -2298,7 +2260,7 @@
     if (map.ready) return;
     map.ready = true;
     if (narrow.matches) map.level = 0;
-    readTokens(); glLayout(); renderTools(); renderLegend(); renderChips(); setTools(false); setLevel(map.level);
+    readTokens(); if (!gl.ok) glLayout(); renderTools(); renderLegend(); renderChips(); setTools(false); setLevel(map.level);
     $('note-hint').textContent = mapHint() + ' ';
     $('map-loading').hidden = true;
 
@@ -2383,7 +2345,6 @@
     });
     $('tools-body').addEventListener('submit', function (e) { e.preventDefault(); });
     $('panel').addEventListener('mouseover', function (e) {
-      if (focusMode() && map.focus) { var li0 = e.target.closest('[data-hov]'), n0 = li0 ? byKey.get(li0.getAttribute('data-hov')) : null; if (n0 && !map.focus.pos.get(n0)) n0 = null; if (n0 !== map.hover) { map.hover = n0; requestDraw(); } return; }
       var li = e.target.closest('[data-hov]'), n = li ? byKey.get(li.getAttribute('data-hov')) : null;
       if (n !== map.hover) { map.hover = n; requestDraw(); }
     });

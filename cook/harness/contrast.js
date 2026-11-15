@@ -73,7 +73,8 @@ function audit(){
   }
   els.forEach(el=>{ if(!visible(el)||el.closest('script,style,noscript,option')) return;
     let text=''; el.childNodes.forEach(n=>{ if(n.nodeType===3) text+=n.nodeValue; });
-    test(el,getComputedStyle(el).color,text); });
+    const cs=getComputedStyle(el), svg=el instanceof SVGElement;   // text in an inline figure is painted with its fill
+    test(el,svg&&parse(cs.fill)?cs.fill:cs.color,text); });
   document.querySelectorAll('input[placeholder]').forEach(el=>{ if(visible(el)&&!el.value) test(el,getComputedStyle(el,'::placeholder').color,el.getAttribute('placeholder'),'placeholder: '); });
   return {checked,fails};
 }

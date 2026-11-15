@@ -457,3 +457,8 @@ summary { font-size: 14px; font-family: var(--font-ui); }
   .map-zoom button { width: 36px; height: 34px; }
 }
 .casefile + ul.plain { margin-top: 18px; }
+.casefile dd > p, .casefile dd li { font-size: 17px; line-height: 1.5; }
+.casefile dd > p.cf-tally { font-size: 14.5px; }
+.field select, .topicf select { appearance: none; -webkit-appearance: none; padding-right: 30px; cursor: pointer; background-image: linear-gradient(45deg, transparent 50%, var(--ink2) 50%), linear-gradient(135deg, var(--ink2) 50%, transparent 50%); background-position: calc(100% - 15px) 50%, calc(100% - 10px) 50%; background-size: 5px 5px; background-repeat: no-repeat; }
+.mark { stroke-width: 1.5; }
+@media (max-width: 760px) { .casefile dd > p, .casefile dd li { font-size: 16px; } }
