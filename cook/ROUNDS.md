@@ -15,6 +15,8 @@ Made without asking, one line each.
 - 19:30 Hard cap 3h rather than the skill's 8h floor: this is a site polish, not a 3D or film build.
 - 19:30 "Showing the matrix of connections" read as: the network map must make who-connects-to-whom clear; in addition, add a compact connection-matrix view (names by topic or name by name) if it helps, as a second view on the map page.
 - 19:30 The user's earlier dislike of an "intelligence-esque" dark dashboard and their new wish for "a mix of intelligence and investigative analysis" are reconciled as: light, precise, evidence-led and calm, with analyst-grade tools, not a dark control room.
+- 20:40 Network access opened by the user; captured ten real reference screens (ProPublica, Full Fact, OpenSanctions, Kumu, Cambridge Intelligence, Bostock matrix). From round 1 scoring onward, critics get side-by-side images: reference left, our render right, per the pairing in cook/refs/REFERENCES.md.
+- 20:40 The references use sentence case and a kicker line; the user's Title Case with "&" stays, and no eyebrow/kicker labels are added (brief ban list).
 
 ## User feedback inbox
 

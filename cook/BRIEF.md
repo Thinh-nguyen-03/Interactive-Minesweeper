@@ -1,7 +1,7 @@
 # Brief: Trump Claims Map — site design
 
 Target: the visual design of the existing site in `map/` (home, check page, profile, map). Stack: static HTML/CSS/JS, d3 on canvas, data from `build.py`.
-References: no references. The bar rests on the rubric, zero-context critics and the user's reactions; the first stills the user approves become the reference for later rounds.
+References: cook/refs/R01 to R10 (captured 14 Nov after network access was opened; described in cook/refs/REFERENCES.md, with the shot pairing). Match their quality and character in our own style; never copy an element 1:1. They are third-party screenshots for local scoring only and are not committed or published.
 Bar (critic median, 1-10): layout and spacing 9, typography and components 9, colour 9, clarity and intuitiveness 9, map legibility and usability 9, polish 9, and "does not look machine-generated" 9.
 Calibration offset: none yet.
 Rules: keep everything already agreed — no mention of the video or its creator; Title Case labels with "&"; sentence case for running text; Light / Dark / System theme switch; neutral wording (no "fishy", "corrupt", "scheme" in the site's own voice); standing note that everyone named denies wrongdoing; C37 and C46 marked as unverified single-source allegations; all functions kept (search, topics, profiles, map with isolate, trace path, filters, deep links); artifact publishing constraints (content-only index.html, d3 7.9.0 from cdnjs only, Google Fonts only, plain hash routes, colour tokens with light/dark, works at 400px and 1440px). Bans: eyebrow labels, monospace uppercase text, random serif fonts, purple gradients, beige, 01/02/03 counters, glowing orbs, decorative particles, pill clusters, boxes inside boxes, em dashes in UI copy, emoji.
