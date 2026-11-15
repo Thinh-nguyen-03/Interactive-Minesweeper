@@ -2168,10 +2168,9 @@
       if (l.unv) { lz[i] = 253; continue; }
       f = ((sz[la[i]] + sz[lb[i]]) * 0.5 + 1.05) / 2.1; lz[i] = f <= 0 ? 0 : f >= 1 ? 5 : (f * 6) | 0;
     }
-    c.globalCompositeOperation = gl.dbg & 1 ? 'source-over' : 'lighter'; c.lineWidth = ph ? 0.7 : 0.8; c.lineCap = 'butt';
-    if (gl.dbg & 2) for (i = 0; i < E; i++) lz[i] = 255;
-    if (gl.dbg & 4) c.lineWidth = 1;
-    var zk = Math.min(1.5, 0.85 + 0.15 * gl.zoom) * (ph ? 0.62 : 1);   // on a small screen the same links are packed closer, so each is fainter
+    var cheap = (gl.moving && gl.lowq >= 1) || (gl.dbg & 1);
+    c.globalCompositeOperation = cheap ? 'source-over' : 'lighter'; c.lineWidth = ph ? 0.7 : 0.8; c.lineCap = 'butt';
+    var zk = Math.min(1.5, 0.85 + 0.15 * gl.zoom) * (ph ? 0.62 : 1) * (cheap ? 1.3 : 1);   // on a small screen the same links are packed closer, so each is fainter
     for (q = 0; q < gl.cs.length - 1; q++) {
       var a0 = gl.cs[q], a1 = gl.cs[q + 1], cls = lc[a0], fac = (cls < 10 ? 1 : cls < 20 ? 0.5 : cls === 21 ? 0.42 : 0.4) * dim * zk;
       c.strokeStyle = byKind || cls === 9 || cls >= 19 ? GC.line : GC.t[cls % 10];
