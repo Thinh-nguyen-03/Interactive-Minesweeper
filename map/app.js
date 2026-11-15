@@ -978,7 +978,7 @@
     var cs = getComputedStyle($('mapview') || root);   // some map tokens are set on the map view itself
     function tok(name, alt) { return cs.getPropertyValue(name).trim() || alt || '#888'; }
     C = { bg: tok('--map-bg'), edge: tok('--map-edge'), ring: tok('--map-ring'), label: tok('--map-ink', tok('--ink')), labelDim: tok('--map-ink2', tok('--ink2')), accent: tok('--link'), card: tok('--card'),
-      edgeA: parseFloat(tok('--map-edge-a')) || 0.5, dotA: parseFloat(tok('--map-dot-a')) || 0.6, plateA: parseFloat(tok('--map-plate-a', '0.84')) || 0.84, shade: tok('--map-shade', '#000'),
+      edgeA: parseFloat(tok('--map-edge-a')) || 0.5, dotA: parseFloat(tok('--map-dot-a')) || 0.6, plateA: parseFloat(tok('--map-plate-a', '0.84')) || 0.84, shade: tok('--map-shade', '#000'), disc: tok('--map-disc', '#fff'),
       g: { person: tok('--k-person'), org: tok('--k-org'), gov: tok('--k-gov'), other: tok('--k-other') },
       v: { hold: tok('--hold'), part: tok('--part'), unp: tok('--unp'), wrong: tok('--wrong') },
       t: [1, 2, 3, 4, 5, 6, 7, 8, 9].map(function (i) { return tok('--t' + i); }) };
@@ -1109,8 +1109,8 @@
       l.bow = false;
       if (l.kind !== 'rel' || !l.source.core || !l.target.core) return;
       var mx = (l.source.px + l.target.px) / 2, my = (l.source.py + l.target.py) / 2, far = Math.hypot((l.target.px - l.source.px) / rx, (l.target.py - l.source.py) / ry);
-      var pull = Math.min(0.62, 0.18 + 0.3 * far);
-      l.bow = true; l.cx = mx * (1 - pull); l.cy = my * (1 - pull);
+      var md = Math.hypot(mx, my) || 1, len = Math.hypot(l.target.px - l.source.px, l.target.py - l.source.py), off = Math.min(md * Math.min(0.4, 0.1 + 0.2 * far), len * 0.2);
+      l.bow = true; l.cx = mx - mx / md * off; l.cy = my - my / md * off;
     });
     LAY = { key: key, rx: rx, ry: ry, side: side, top: top, bands: bands };
     restCache = null;
@@ -1416,15 +1416,17 @@
     var nf = '600 ' + (ph ? 11.5 : 12.5) + 'px ' + FONT, sf = '400 ' + (ph ? 11 : 11.5) + 'px ' + FONT;
     // faint guide circles: the edge of each orbit, with a plain caption in the gap at the top
     var gf = '400 ' + (ph ? 10.5 : 11.5) + 'px ' + FONT;
-    ORBITS.forEach(function (O, ob) {
-      if (!O) return;
-      c.globalAlpha = picked ? 0.5 : 1;
-      if (O.guide) { c.beginPath(); c.ellipse(g.cx, g.cy, g.rx * O.guide, g.ry * O.guide, 0, 0, 6.2832); c.lineWidth = 1; c.strokeStyle = C.ring; c.stroke(); }
-      var text = ph ? O.short : O.cap, gw = textW(c, gf, text), gy = g.cy - g.ry * (O.guide || 0.945);
-      c.globalAlpha = 1; c.fillStyle = C.bg; c.fillRect(g.cx - gw / 2 - 6, gy - 8, gw + 12, 16);
-      c.globalAlpha = picked ? 0.5 : 1; c.font = gf; c.textAlign = 'center'; c.textBaseline = 'middle'; c.fillStyle = C.labelDim; c.fillText(text, g.cx, gy);
-      capBoxes.push([g.cx - gw / 2 - 6, gy - 9, g.cx + gw / 2 + 6, gy + 9, null]);
+    [2, 1].forEach(function (ob) {   // the two inner orbits are paler discs, one on the other, which gives the middle a little depth
+      var O = ORBITS[ob];
+      c.globalAlpha = ob === 2 ? 0.45 : 0.7; c.fillStyle = C.disc; c.beginPath(); c.ellipse(g.cx, g.cy, g.rx * O.guide, g.ry * O.guide, 0, 0, 6.2832); c.fill();
+      c.globalAlpha = 1; c.lineWidth = 1; c.strokeStyle = C.ring; c.stroke();
     });
+    map.guides = ORBITS.map(function (O) {
+      if (!O) return null;
+      var text = ph ? O.short : O.cap, gw = textW(c, gf, text), gy = g.cy - g.ry * (O.guide || 0.945);
+      capBoxes.push([g.cx - gw / 2 - 6, gy - 9, g.cx + gw / 2 + 6, gy + 9, null]);
+      return { text: text, x: g.cx, y: gy, w: gw, font: gf, disc: !!O.guide };
+    }).filter(Boolean);
     ARCS.forEach(function (tp) {
       var on = !picked || picked === tp.id, col = C.t[tp.ci], mid = tp.mid;
       c.globalAlpha = on ? 1 : DIM * 2; c.beginPath(); c.ellipse(g.cx, g.cy, g.rx, g.ry, 0, tp.a0, tp.a1);
@@ -1468,9 +1470,9 @@
       var rest = restLinks(), fade = em ? 0.28 : 1, busy = map.level ? 0.72 : 1;
       c.strokeStyle = C.edge; c.lineCap = 'round';
       if (rest.faint.length) { c.globalAlpha = C.edgeA * 0.2 * fade; c.lineWidth = 0.5; c.beginPath(); rest.faint.forEach(line); c.stroke(); }
-      [[0.75, 0.62], [1.2, 0.95], [1.9, 1.3], [2.8, 1.65]].forEach(function (s, j) {
+      [[0.7, 0.5], [1.1, 0.78], [1.6, 1.05], [2.3, 1.3]].forEach(function (s, j) {
         if (!rest.solid[j].length) return;
-        c.globalAlpha = Math.min(0.8, C.edgeA * s[1] * (j ? 1 : busy)) * fade; c.lineWidth = s[0] * (ph ? 0.8 : 1); c.beginPath(); rest.solid[j].forEach(function (l) { bow(l, !em); }); c.stroke();
+        c.globalAlpha = Math.min(0.8, C.edgeA * s[1] * (j ? 1 : busy)) * fade; c.lineWidth = s[0] * (ph ? 0.7 : 1); c.beginPath(); rest.solid[j].forEach(function (l) { bow(l, !em && j > 0); }); c.stroke();   // hairlines do not count against a label
       });
       if (rest.dashed.length) { c.globalAlpha = Math.min(0.9, C.edgeA * 1.5) * fade; c.lineWidth = 1; c.strokeStyle = C.v.unp; c.setLineDash([3, 3]); c.beginPath(); rest.dashed.forEach(function (l) { bow(l, !em); }); c.stroke(); c.setLineDash([]); }
       c.lineCap = 'butt';
@@ -1499,7 +1501,7 @@
       em.w.forEach(function (cnt, e) {
         if (!e.core) return;
         var ex = X(e), ey = Y(e), mx = (ax + ex) / 2, my = (ay + ey) / 2, qx = mx + (tx - mx) * 0.22, qy = my + (ty - my) * 0.22;
-        c.globalAlpha = Math.min(0.85, 0.4 + 0.08 * cnt); c.lineWidth = Math.min(4.2, 0.9 + 0.55 * (cnt - 1));
+        c.globalAlpha = Math.min(0.8, 0.42 + 0.07 * cnt); c.lineWidth = Math.min(3.4, 0.9 + 0.42 * (cnt - 1));
         c.beginPath(); c.moveTo(ax, ay); c.quadraticCurveTo(qx, qy, ex, ey); c.stroke();
         for (var s = 0, px = ax, py = ay; s < 4; s++) { var u = (s + 1) / 4, v = 1 - u, sx = v * v * ax + 2 * v * u * qx + u * u * ex, sy = v * v * ay + 2 * v * u * qy + u * u * ey; segs.push(px, py, sx, sy); px = sx; py = sy; }
       });
@@ -1507,13 +1509,18 @@
     } else if (em) {
       c.strokeStyle = C.accent;
       em.links.forEach(function (l) {
-        c.globalAlpha = iso ? (l.kind === 'rel' ? 0.5 : 0.22) : em.kind === 'path' ? 0.95 : l.kind === 'rel' ? 0.78 : 0.4;
+        c.globalAlpha = iso ? (l.kind === 'rel' ? 0.3 : 0.1) : em.kind === 'path' ? 0.95 : l.kind === 'rel' ? 0.78 : 0.4;
         c.lineWidth = em.kind === 'path' ? 2.2 : l.kind === 'rel' ? Math.min(2.8, 0.9 + 0.34 * (l.w - 1)) : 0.8;
         c.setLineDash(l.kind === 'parent' ? [6, 4] : (l.unv || l.inferred) ? [3, 3] : []);
         c.beginPath(); if (l.bow && !iso) bow(l, true); else { line(l); if (!iso) segs.push(X(l.source), Y(l.source), X(l.target), Y(l.target)); } c.stroke();
       });
       c.setLineDash([]);
     }
+    if (!map.iso && map.guides) map.guides.forEach(function (q) {   // the orbit captions sit over the lines
+      c.globalAlpha = 1; c.fillStyle = q.disc ? C.disc : C.bg; c.fillRect(q.x - q.w / 2 - 6, q.y - 8, q.w + 12, 16);
+      c.globalAlpha = F.topic ? 0.6 : 1; c.font = q.font; c.textAlign = 'center'; c.textBaseline = 'middle'; c.fillStyle = C.labelDim; c.fillText(q.text, q.x, q.y);
+    });
+    c.globalAlpha = 1;
     // the names that matter most, and those in focus
     var placed = map.obst.concat(capBoxes), marks = [], boxes = [];
     strong.sort(function (a, b) { return b.rank - a.rank; });
@@ -1550,7 +1557,7 @@
       cand.sort(function (a, b) { return (b === lead) - (a === lead) || wOf(b) - wOf(a) || (a.rank == null ? -1 : a.rank) - (b.rank == null ? -1 : b.rank); });
       cand = cand.slice(0, em.kind === 'hover' ? (ph ? 7 : 16) : 70);
     } else {
-      var cap = Math.round((ph ? 7 : map.level ? 40 : 30) * Math.pow(Math.max(1, zr), 1.5));
+      var cap = Math.round((ph ? 8 : map.level ? 48 : 42) * Math.pow(Math.max(1, zr), 1.5));
       for (i = 0; i < ranked.length && cand.length < cap; i++) if (ranked[i].vis && ranked[i].core) cand.push(ranked[i]);
       if (zr > 2.2) for (i = 0; i < ranked.length && cand.length < cap + 120; i++) if (ranked[i].vis && !ranked[i].core) cand.push(ranked[i]);
       themes.forEach(function (n) { if (shown(n) && zr > 1.6) cand.push(n); });
@@ -1564,7 +1571,7 @@
       var font = (isLead ? '700 ' + (ph ? 12 : 13) : top ? '600 ' + (ph ? 11.5 : 12.5) : '500 ' + (ph ? 11 : 12)) + 'px ' + FONT;
       var lines = wrapLines(text, n.kind === 'claim' ? 26 : 20), r = rs(n, k) * (n.kind === 'entity' && n.group !== 'person' ? 0.95 : 1);
       var must = isLead || (!em && n.rank < 3);
-      var p = mapPlace(c, placed, marks, segs, x, y, Math.max(r, 2.5), lines, font, 14, w, h, n.core ? inside : null, n, must ? 99 : top || em ? 3 : 1);
+      var p = mapPlace(c, placed, marks, segs, x, y, Math.max(r, 2.5), lines, font, 14, w, h, n.core ? inside : null, n, must ? 99 : top || em ? 9 : 5);
       if (!p) return;
       seen[text] = 1; placed.push(p.box); boxes.push(p.box.concat([n]));
       mapLabelDraw(c, p, lines, font, 14, C.label, 1);
@@ -1609,8 +1616,8 @@
     var a = visibleArea(), nb = neighbourhood(n), ph = narrow.matches;
     var rowH = ph ? 15 : 17, headH = ph ? 19 : 23, gapH = ph ? 7 : 12;
     var lfont = '500 ' + (ph ? 11.5 : 12.5) + 'px ' + FONT, hfont = '700 ' + (ph ? 11.5 : 12.5) + 'px ' + FONT;
-    var room = ph ? Math.max(104, a.w * 0.31) : Math.min(236, Math.max(150, a.w * 0.21));
-    var R = Math.max(ph ? 40 : 150, Math.min(a.w / 2 - room - 12, ph ? 90 : 290));
+    var room = ph ? Math.max(104, a.w / 2 - 50) : Math.min(236, Math.max(150, a.w * 0.21));
+    var R = Math.max(ph ? 36 : 150, Math.min(a.w / 2 - room - 12, ph ? 46 : 290));
     var availH = Math.max(120, a.h - (ph ? 14 : 40)), maxChars = Math.max(12, Math.floor((room - 18) / (ph ? 6.1 : 6.7)));
     var groups = [];
     nb.order.forEach(function (g) {
@@ -1653,7 +1660,7 @@
     var sub = n.kind === 'entity' ? plural(n.lines.length, 'connection') + ' · in ' + plural(n.cl.length, 'check') : n.kind === 'claim' ? plural(n.ents.length, 'name') : plural(nb.outer.length, 'check');
     var centre = { n: n, x: 0, y: 0, r: ph ? 9 : 12, centre: true };
     var pos = new Map(); outer.forEach(function (it) { pos.set(it.n, it); });
-    map.focus = { node: n, R: R, room: room, groups: shown2, outer: outer, inner: [], centre: centre, all: [centre].concat(outer), pos: pos, lfont: lfont, hfont: hfont, rowH: rowH, cl: ph && cl.length > 2 ? null : cl, sub: sub, hiddenN: hiddenN, totalOuter: nb.outer.length };
+    map.focus = { node: n, R: R, room: room, groups: shown2, outer: outer, inner: [], centre: centre, all: [centre].concat(outer), pos: pos, lfont: lfont, hfont: hfont, rowH: rowH, cl: ph ? null : cl, sub: sub, hiddenN: hiddenN, totalOuter: nb.outer.length };
     var note = $('focus-note');
     note.textContent = hiddenN ? 'The ' + outer.length + ' strongest of ' + nb.outer.length + ' connections are drawn. The panel lists them all.' : ''; note.hidden = !hiddenN || ph;
   }
@@ -1686,13 +1693,13 @@
       });
       c.setLineDash([]);
       // the group's heading: heavier than its names, over a thin rule, with the number of names at the far end
-      var lx = g.x * k + tx + sgn * 11, hy = g.yh * k + ty, ex = gx + sgn * ruleLen;
+      var lx = g.x * k + tx + sgn * 11, hy = g.yh * k + ty, ex = gx + sgn * Math.max(ruleLen, textW(c, fo.hfont, g.label) + 26 + textW(c, fo.lfont, String(g.total)));
       c.globalAlpha = hovIt && !inG ? 0.5 : 1;
       c.font = fo.hfont; c.fillStyle = C.label; c.textAlign = sgn > 0 ? 'left' : 'right'; c.fillText(g.label, lx, hy);
       c.font = fo.lfont; c.fillStyle = C.labelDim; c.textAlign = sgn > 0 ? 'right' : 'left'; c.fillText(String(g.total), ex, hy);
       c.strokeStyle = C.labelDim; c.globalAlpha = (hovIt && !inG ? 0.5 : 1) * 0.55; c.lineWidth = 1;
       c.beginPath(); c.moveTo(gx, hy + 10.5); c.lineTo(ex, hy + 10.5); c.stroke();
-      if (g.more) { c.globalAlpha = 1; c.font = fo.lfont; c.fillStyle = C.labelDim; c.textAlign = sgn > 0 ? 'left' : 'right'; c.fillText('and ' + g.more + ' more in the panel', lx, g.ym2 * k + ty); }
+      if (g.more) { c.globalAlpha = 1; c.font = fo.lfont; c.fillStyle = C.labelDim; c.textAlign = sgn > 0 ? 'left' : 'right'; c.fillText(ph ? '+ ' + g.more + ' more' : 'and ' + g.more + ' more in the panel', lx, g.ym2 * k + ty); }
     });
     c.globalAlpha = 1;
     // marks
@@ -1800,7 +1807,7 @@
 
   // ---- isolate and trace path
   function isolate(n) {
-    map.iso = { node: n, depth: 1 }; map.path = null; map.pathFrom = null; map.focus = null; F.topic = '';
+    map.iso = { node: n, depth: 1 }; map.path = null; map.pathFrom = null; map.focus = null; F.topic = ''; $('focus-note').hidden = true;
     applyFilters();
     if (map.sel !== n) mapSelect(n, { center: false }); else renderPanel();
     fit(true);
@@ -1872,16 +1879,16 @@
       return '<li><span class="tsw" style="background:var(--t' + (t.ci + 1) + ')" aria-hidden="true"></span><a class="namebtn" href="#map-topic-' + esc(t.id) + '" data-topic="' + esc(t.id) + '">' + esc(t.name) + '</a><span class="cnt">' + plural(t.list.length, 'check') + '</span></li>';
     });
   }
-  function mapHint() { return narrow.matches ? 'Tap a name or a topic to see its connections.' : 'Point at a name to see its links. Select a name or a topic to read its connections.'; }
+  function mapHint() { return narrow.matches ? 'Tap a name or a topic to see its connections.' : 'Point at a name to see its links. Select it to read them.'; }
   function renderPanel() {
     var p = $('panel'), n = map.sel, h = '', body = '', acts, topic = map.topicSet && map.mode === 'network';
     if (!n && !topic) {
       if (narrow.matches || map.mode !== 'network') { p.hidden = true; root.classList.remove('has-panel'); p.classList.remove('rest'); return; }
       var kc = entities.filter(function (e) { return e.core; }).length || keyCount();
       h = '<div class="panel-head"><h2>How to Read the Map</h2></div>' +
-        '<div class="panel-body"><p class="prole">The ' + num(claims.length) + ' checks sit on the ring, in ' + word(ARCS.length) + ' topics. The ' + num(kc) + ' best-connected names are in the middle, joined by their documented links; the other ' + num(entities.length - kc) + ' are the small dots beside the topic that mentions them most.</p>' +
+        '<div class="panel-body"><p class="prole">' + (map.hub ? esc(mapLabel(map.hub)) + ' is at the centre. Distance from him is the number of documented steps; direction is the topic that mentions a name most.' : 'Each name sits towards the topic that mentions it most.') + ' The ' + num(kc) + ' best-connected names are drawn large, the other ' + num(entities.length - kc) + ' as fine dots.</p>' +
         (map.hinted ? '' : '<p class="phint" id="panel-hint">' + mapHint() + '</p>') +
-        '<h3>Most Connected Names <span class="cnt">documented connections</span></h3>' + fold(mapRankRows(40), 8, 'Names', 'ol', 'pchecks prank') +
+        '<h3>Most Connected Names <span class="cnt">documented connections</span></h3>' + fold(mapRankRows(40), 4, 'Names', 'ol', 'pchecks prank') +
         '<h3>Topics</h3><ul class="pchecks ptopics">' + mapTopicRows().join('') + '</ul></div><div class="pfade" aria-hidden="true"></div>';
       p.innerHTML = h; p.hidden = false; p.scrollTop = 0; p.classList.add('rest'); root.classList.add('has-panel');
       p.setAttribute('aria-label', 'About the map');
@@ -1990,8 +1997,8 @@
     function dot(cls, body) { return '<svg class="lmark ' + cls + '" width="12" height="12" viewBox="0 0 12 12" aria-hidden="true">' + body + '</svg>'; }
     $('legend').innerHTML =
       '<li>' + kmark({ group: 'person' }) + 'People</li><li>' + kmark({ group: 'org' }) + 'Companies &amp; Funds</li><li>' + kmark({ group: 'gov' }) + 'Governments</li><li>' + kmark({ group: 'other' }) + 'Other</li>' +
-      '<li><svg class="lmark ldots" width="19" height="12" viewBox="0 0 19 12" aria-hidden="true"><circle cx="2.5" cy="3" r="1.7"/><circle cx="8" cy="3" r="1.7"/><circle cx="13.5" cy="3" r="1.7"/><circle cx="2.5" cy="9" r="1.7"/><circle cx="8" cy="9" r="1.7"/><circle cx="13.5" cy="9" r="1.7"/></svg>Small Dots, Every Other Name</li>' +
-      '<li class="gap lab">Marks on the Ring Are Checks</li>' +
+      '<li><svg class="lmark ldots" width="19" height="12" viewBox="0 0 19 12" aria-hidden="true"><circle cx="2.5" cy="3" r="1.7"/><circle cx="8" cy="3" r="1.7"/><circle cx="13.5" cy="3" r="1.7"/><circle cx="2.5" cy="9" r="1.7"/><circle cx="8" cy="9" r="1.7"/><circle cx="13.5" cy="9" r="1.7"/></svg>Fine Dots, All Other Names</li>' +
+      '<li class="gap lab">Checks on the Ring</li>' +
       '<li>' + dot('v-hold', '<circle cx="6" cy="6" r="4.2" fill="currentColor"/>') + 'Holds Up</li>' +
       '<li>' + dot('v-part', '<circle cx="6" cy="6" r="4.2" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M6 1.8a4.2 4.2 0 0 0 0 8.4z" fill="currentColor"/>') + 'Partly Accurate</li>' +
       '<li>' + dot('v-unp', '<circle cx="6" cy="6" r="4.2" fill="none" stroke="currentColor" stroke-width="1.5" stroke-dasharray="2.2 1.9"/>') + 'Unverified</li>' +
@@ -2024,7 +2031,9 @@
     if (open && narrow.matches && map.sel) mapDeselect();
   }
   function setKey(open) {   // on a phone the key to the marks opens from a button
-    $('mapview').classList.toggle('key-open', open); $('key-toggle').setAttribute('aria-expanded', String(open));
+    var mv = $('mapview'), kb = $('key-toggle');
+    mv.classList.toggle('key-open', open); kb.setAttribute('aria-expanded', String(open));
+    $('legend').style.bottom = open && narrow.matches ? Math.round(mv.getBoundingClientRect().bottom - kb.getBoundingClientRect().top + 8) + 'px' : '';
   }
   function renderChips() {
     $('topic-chips').innerHTML = '<div class="chips-in"><button type="button" data-topic="" aria-pressed="true">All Topics</button>' + ARCS.map(function (t) {
@@ -2202,7 +2211,7 @@
     var pool = ranked.filter(function (e) { return okType[e.type] && e !== hub && !e.unverified_only; }).slice(0, 90), inPool = new Set(pool);
     function partners(e, set) { var c = 0; e.adj.forEach(function (l, k) { if (l.kind === 'rel' && set.has(byKey.get(k))) c++; }); return c; }
     pool.sort(function (a, b) { return partners(b, inPool) - partners(a, inPool) || a.rank - b.rank; });
-    var names = pool.filter(function (e) { return mapLabel(e).length <= 22; }).slice(0, MX.size || 40), N = names.length, inSet = new Set(names);
+    var names = pool.filter(function (e) { return mapLabel(e).length <= 20; }).slice(0, MX.size || 40), N = names.length, inSet = new Set(names);
     function cnt(a, b) { var l = a.adj.get(b.key); return l && l.kind === 'rel' ? l.rels.filter(function (r) { return !r.alleged; }).length : 0; }
     function alg(a, b) { var l = a.adj.get(b.key); return l && l.kind === 'rel' ? l.rels.filter(function (r) { return r.alleged; }).length : 0; }
     names.forEach(function (e) { e.mxg = mxGroup(e, hub); e.mxn = partners(e, inSet); e.mxt = e.lines.filter(function (r) { return !r.alleged; }).length; });
@@ -2233,12 +2242,13 @@
     $('mx-key').innerHTML = mxKeyHtml(byT);
     if (ph) { mxFocusList(); mxRead(null); mxSide(); return; }
     // as many names as fit without scrolling, at a comfortable cell size
-    var headH = byT ? 150 : 112, fixed = headH + (grouped && !byT ? 26 : 0) + 56 + (grouped ? 44 : 0) + 10;
+    var headH = byT ? 150 : 104, fixed = headH + (grouped && !byT ? 34 : 0) + 52 + (grouped ? 40 : 0) + 8;
     var size = Math.max(14, Math.min(40, Math.floor((sc.clientHeight - fixed) / 20)));
+    if (MX.refit) size = MX.refit;
     if (size !== MX.size) { MX.size = size; MX.data = null; MX.sel = null; }
     var D = mxData(), cols = byT ? D.topics : D.names, N = D.names.length, h;
-    var wAvail = sc.clientWidth - (grouped ? 112 : 0) - 178 - 104 - (grouped && !byT ? 48 : 0) - (byT ? 70 : 96);
-    var cs = Math.max(15, Math.min(22, Math.floor((sc.clientHeight - fixed) / N), byT ? 22 : Math.floor(wAvail / N)));
+    var wAvail = sc.clientWidth - (grouped ? 140 : 0) - 178 - 104 - (grouped && !byT ? 48 : 0) - (byT ? 70 : 96);
+    var cs = Math.max(15, Math.min(20, Math.floor((sc.clientHeight - fixed) / N), byT ? 20 : Math.floor(wAvail / N)));
     var cw = byT ? Math.max(44, Math.min(74, Math.floor(wAvail / cols.length))) : cs, tmax = 1;
     D.names.forEach(function (e) { tmax = Math.max(tmax, byT ? e.cl.length : e.mxt); });
     function gbc(j) { return grouped && !byT && j && cols[j - 1].mxg !== cols[j].mxg ? ' gb' : ''; }
@@ -2259,16 +2269,19 @@
     }
     h += '</thead><tbody>';
     if (D.hub) h += '<tr class="hub"><th scope="row" class="rh" colspan="' + lead + '" data-i="-1"><span>' + (byT ? esc(mapLabel(D.hub)) : 'Linked to ' + esc(mapLabel(D.hub))) + '</span>' + kmark(D.hub) + '</th>' + cols.map(function (c, j) { return cell(-1, j, D.hub, c); }).join('') + '<td class="bar"></td></tr>' +
-      '<tr class="hubcap"><th colspan="' + lead + '">' + (byT ? 'Checks in each topic that mention him' : 'His own links with each name, kept apart from the grid') + '</th><td colspan="' + (cols.length + 1) + '"></td></tr><tr class="gap first"><td colspan="' + (cols.length + lead + 1) + '"></td></tr>';
+      '<tr class="hubcap"><th colspan="' + lead + '">' + (byT ? 'Checks in each topic that mention him' : 'His own links, kept apart from the grid') + '</th><td colspan="' + (cols.length + 1) + '"></td></tr><tr class="gap first"><td colspan="' + (cols.length + lead + 1) + '"></td></tr>';
     D.names.forEach(function (a, i) {
       var first = grouped && (!i || D.names[i - 1].mxg !== a.mxg), span = 0, tot = byT ? a.cl.length : a.mxt;
       if (first) { D.names.forEach(function (o) { if (o.mxg === a.mxg) span++; }); if (i) h += '<tr class="gap"><td colspan="' + (cols.length + lead + 1) + '"></td></tr>'; }
-      h += '<tr>' + (first ? '<th scope="rowgroup" class="gh" rowspan="' + span + '"><span>' + esc(MXG[a.mxg]).replace(' &amp; ', ' &amp;<br>') + '</span></th>' : '') + '<th scope="row" class="rh" data-i="' + i + '"><span>' + esc(mapLabel(a)) + '</span>' + kmark(a) + '</th>' + cols.map(function (c, j) { return cell(i, j, a, c); }).join('') +
+      h += '<tr>' + (first ? '<th scope="rowgroup" class="gh" rowspan="' + span + '"><span>' + esc(MXG[a.mxg]) + '</span></th>' : '') + '<th scope="row" class="rh" data-i="' + i + '"><span>' + esc(mapLabel(a)) + '</span>' + kmark(a) + '</th>' + cols.map(function (c, j) { return cell(i, j, a, c); }).join('') +
         '<td class="bar"><i style="width:' + Math.max(2, Math.round(64 * tot / tmax)) + 'px"></i><b>' + tot + '</b></td></tr>';
     });
     h += '</tbody></table><div class="mx-band row" id="mx-brow" hidden></div><div class="mx-band col" id="mx-bcol" hidden></div>';
     sc.innerHTML = h;
     sc.style.setProperty('--c', cs + 'px'); sc.style.setProperty('--cw', cw + 'px'); sc.style.setProperty('--hh', headH + 'px');
+    var over = $('mx-table').offsetHeight - sc.clientHeight + 10;   // never taller than the screen: drop the last few names instead
+    if (over > 0 && MX.size > 12 && (MX.tries || 0) < 5) { MX.tries = (MX.tries || 0) + 1; MX.refit = Math.max(12, D.names.length - Math.max(1, Math.floor(over / (cs + 1)))); renderMatrix(); return; }
+    MX.tries = 0; MX.refit = 0;
     mxRead(null); mxSide();
   }
   /* On a phone the square grid gives way to one name at a time: choose a name and read its links down a list. */
@@ -2294,7 +2307,7 @@
     if (!td) {
       if (br) br.hidden = bc.hidden = true;
       el.innerHTML = narrow.matches ? (MX.mode === 'topics' ? 'One name at a time: the topics whose checks mention it.' : 'One name at a time: the other names it is linked to.')
-        : MX.mode === 'topics' ? 'Each square counts the checks in a topic that mention the name. Select a square to list them.' : 'Each square is a pair of names; a darker square means more documented links. Select a square to read them.';
+        : MX.mode === 'topics' ? 'Each square counts the checks in a topic that mention the name.' : 'Each square is a pair of names. Darker means more documented links.';
       return;
     }
     var i = +td.getAttribute('data-i'), j = +td.getAttribute('data-j'), p = mxPair(i, j), D = mxData(), tr = td.parentNode, colTh = sc.querySelector('th.ch[data-j="' + j + '"]'), tb = $('mx-table');
