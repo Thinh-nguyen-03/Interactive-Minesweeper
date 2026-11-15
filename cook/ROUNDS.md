@@ -22,6 +22,8 @@ Exact words. Close an item only when a still proves it.
 - 19:25 "I want something that looks clean, sleek, intuitive like a mix of intelligence and investigative analysis" | round 1 | open
 - 19:25 "The design should not look like AI slop with the generative AI design" | round 1 | open
 - 19:25 "Make sure the map is clean and easy to use, showing the matrix of connections" | round 1 | open
+- 19:50 "Spawn some sub agents to look at similar tools for inspirations" | round 2 onward | open: three research agents writing `cook/refs/inspiration-*.md`
+- 19:50 "Try about 2-3 iterative before coming back to me for checkup" | gate | open: send stills after round 3 (or round 2 if the bar is met), not after every round
 
 ---
 
