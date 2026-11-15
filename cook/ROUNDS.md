@@ -161,3 +161,47 @@ Top gaps (both agree):
 
 Stop check: bar no | cap not reached (1.25h of 3h) | stills approved no -> next round
 Next focus: round 3 — network default and matrix (user's complaints), phone map, then the reading fixes. After round 3: checkpoint with the user, as they asked.
+
+## Round 03
+
+Time: 20:45 to 21:40, interrupted by the usage limit, resumed 00:22 to 00:55 (15 Nov) | working time about 2.8h of the 3h cap
+Usage: 5-hour limit hit at about 21:40; resumed by the scheduled wake-up.
+Focus: the user's two complaints (network, matrix), phone map, reading-page gaps from round 2.
+
+Changes:
+- Network: nine topic sectors with tint, dividers and a coloured outer arc with the topic name set along it; true circle; ring captions on one axis; Donald Trump node 44px and ringed; large marks only where a label fits; halo labels with collision pass; at rest only his spokes plus the 20 strongest links; legend cut to six items plus one stated finding (most-linked pair).
+- Matrix: blank empty cells in a hairline grid, five-step ramp, one 24px cell pitch, vertical headers, 30 names, sticky headers, cross-hair hover, pair detail panel, "Most Linked in This View", Trump band, Topics columns as a heat table.
+- Reading: teaser with 10 names and placed labels, five-stat row, results strip with ink labels, plain "At a Glance" counts, balanced claim and verdict, provenance line with "Show on Map", ranked "Who Is Involved" table on checks, profile header simplified, aligned dates, neutral dark palette, constant review date removed.
+
+Stills: `cook/stills/r03/` (12 plus extras mx-*, X01-X12) | Side by side: `cook/compare/r03/` (8)
+
+Scores, eyeballed: critic median, raw (2 critics: same model and Opus)
+
+| Shot | Layout | Type | Colour | Clarity | Polish | Not generated | Map | vs r02 |
+|---|---|---|---|---|---|---|---|---|
+| S01 home | 8 | 8 | 7 | 8 | 7.5 | 6.5 | | up ~0.8 |
+| S02 home list | 8 | 8 | 7 | 8 | 7.5 | 7 | | up ~0.4 |
+| S03 check | 7.5 | 8 | 7.5 | 8 | 7.5 | 7.5 | | up ~0.4 |
+| S04 profile | 7.5 | 7.5 | 6.5 | 7.5 | 6.5 | 6.5 | | flat |
+| S05 map light | 7 | 6.5 | 7 | 5.5 | 5.5 | 6 | 5.5 | map up 0.5 |
+| S06 map selected | 7.5 | 7 | 7 | 8 | 7 | 7.5 | 8 | flat |
+| S07 map dark | 7 | 6.5 | 7 | 5.5 | 5.5 | 6 | 5.5 | map up 0.5 |
+| S08 home phone | 7.5 | 8 | 7 | 7.5 | 6.5 | 6.5 | | up ~1 |
+| S09 map phone | 6 | 6.5 | 7 | 5.5 | 6 | 6 | 5.5 | map up 1.5 |
+| S10 check phone | 8 | 8 | 7.5 | 8 | 8 | 8 | | up ~0.4 |
+| S11 matrix | 6.5 | 6.5 | 6 | 6.5 | 6 | 5.5 | 6 | up ~0.5 |
+| S12 map topic | 7 | 6.5 | 7 | 6 | 6 | 6 | 5.5 | map down 1.5 |
+
+Measured: `node cook/harness/shots.js 03` — 12 stills, no console errors, no horizontal overflow. `mapfunc.js` 24 of 25 (trace-a-path check clicks a fixed pixel that moved; trace works from a fresh click).
+
+Critics on the user's complaints: network still "partly" earns "missing something" (structure is there; the lines at rest carry no reading order; dot rows read as texture; a few label collisions). Matrix: one critic says no longer cheap but not premium, the other says still cheap (outlined empty cells look like a form grid; ramp steps too close; rows clipped at the fold).
+
+Top gaps:
+1. Network at rest: heavy straight grey links through the hub; remaining label collisions and unlabelled marks; fine-dot rows as texture; topic-selected view converges into one rim point.
+2. Matrix: empty-cell outlines, ramp contrast, header size, clipped last row, ragged totals column.
+3. Profile: truncated source titles, no visual anchor. Check: verdict could be more prominent; meta line reads as a run-on. Phone map: dead bands, spokes only.
+
+Decisions:
+- 00:55 Three rounds done and the cap is nearly reached. Per the user's instruction ("2-3 iterative before coming back to me for checkup"), stop here and send the stills. Bar (9) not met; reported plainly.
+
+Stop check: bar no | cap reached | stills approved no -> checkpoint with the user; live site not republished.
