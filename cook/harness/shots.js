@@ -24,6 +24,7 @@ const SHOTS=[
   const b=await chromium.launch(); const errors=[];
   for(const sh of SHOTS){
     const ctx=await b.newContext({viewport:sh.vp,deviceScaleFactor:1,colorScheme:sh.scheme});
+    await ctx.addInitScript(()=>{window.__STILL__=true;});   // the globe starts from its fixed view and does not turn by itself
     const p=await ctx.newPage();
     p.on('console',m=>{if(m.type()==='error')errors.push(sh.id+': '+m.text());});
     p.on('pageerror',e=>errors.push(sh.id+': '+e.message));

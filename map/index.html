@@ -2,6 +2,7 @@
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&display=swap">
 <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="matrix.css">
 
 <a class="skip" href="#app">Skip to the Content</a>
 
@@ -52,15 +53,26 @@
         <button type="button" data-view="matrix" aria-pressed="false">Matrix</button>
       </div>
       <div class="opt" id="detail-sw" role="group" aria-labelledby="lab-detail">
-        <span class="opt-lab" id="lab-detail">Show</span>
+        <span class="opt-lab" id="lab-detail">Labels</span>
         <button type="button" data-level="0" aria-pressed="true">Key Names</button>
         <button type="button" data-level="1" aria-pressed="false">More</button>
         <button type="button" data-level="2" aria-pressed="false">Everything</button>
+      </div>
+      <div class="opt" id="color-sw" role="group" aria-labelledby="lab-color">
+        <span class="opt-lab" id="lab-color">Colour By</span>
+        <button type="button" data-color="topic" aria-pressed="true">Topic</button>
+        <button type="button" data-color="kind" aria-pressed="false">Kind</button>
       </div>
       <div class="opt" id="matrix-sw" role="group" aria-labelledby="lab-cols" hidden>
         <span class="opt-lab" id="lab-cols">Columns</span>
         <button type="button" data-mx="names" aria-pressed="true">Names</button>
         <button type="button" data-mx="topics" aria-pressed="false">Topics</button>
+      </div>
+      <div class="opt" id="matrix-order" role="group" aria-labelledby="lab-order" hidden>
+        <span class="opt-lab" id="lab-order">Order</span>
+        <button type="button" data-mxo="group" aria-pressed="true">Cluster</button>
+        <button type="button" data-mxo="connected" aria-pressed="false">Most Connected</button>
+        <button type="button" data-mxo="alpha" aria-pressed="false">A to Z</button>
       </div>
       <button type="button" class="btn barbtn" id="tools-toggle" aria-expanded="false" aria-controls="tools-body">
         <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="M2 4h12M4.5 8h7M7 12h2"></path></svg>
@@ -70,8 +82,10 @@
     </div>
 
     <div class="map-stage" id="map-stage">
-      <canvas id="graph" tabindex="0" role="img" aria-label="Network of the people and organisations in the checks. Donald Trump is at the centre and distance from the centre is the number of documented steps from him. The checks sit on the outer ring, grouped by topic, and every name leans towards the topics that mention it. Drag to move, scroll or pinch to zoom, arrow keys to move, plus and minus to zoom, zero to fit. The list view and the Checks and People and Organisations pages give the same content as text."></canvas>
+      <canvas id="graph" tabindex="0" role="img" aria-label="Globe of every name and check, placed by the documented links between them. Names that share many links sit together and the most connected sit towards the middle, with Donald Trump at the core. Drag to turn the globe, scroll or pinch to zoom, arrow keys to turn, plus and minus to zoom, zero to reset. Select a name to light its links and read them in the panel. The list view and the Checks and People and Organisations pages give the same content as text."></canvas>
       <p class="map-loading" id="map-loading">Drawing the map</p>
+      <div class="hud" id="hud" aria-label="What the globe shows now"></div>
+      <div class="map-legend" id="legend" aria-label="Key to the marks"></div>
       <div class="map-banner" id="banner" role="status" hidden></div>
       <div class="tip" id="tip" hidden></div>
       <p class="map-hint" id="focus-note" hidden></p>
@@ -86,25 +100,23 @@
       <aside class="map-panel" id="panel" aria-label="About the map" hidden></aside>
     </div>
     <div class="chips" id="topic-chips" role="group" aria-label="Topics"></div>
-    <ul class="map-legend" id="legend" aria-label="Key to the marks"></ul>
     <div class="map-list" id="map-list" hidden></div>
 
     <div class="matrix" id="matrix" hidden>
-      <div class="mx-main">
-        <div class="mx-top">
-          <div class="mx-head"><h2 class="mx-title" id="mx-title">Who Is Linked to Whom</h2><p class="mx-key" id="mx-key"></p></div>
-          <div class="mx-sub"><p class="mx-read" id="mx-read" role="status"></p>
-            <div class="opt" id="matrix-order" role="group" aria-labelledby="lab-order">
-              <span class="opt-lab" id="lab-order">Order</span>
-              <button type="button" data-mxo="group" aria-pressed="true">By Group</button>
-              <button type="button" data-mxo="connected" aria-pressed="false">Most Connected</button>
-              <button type="button" data-mxo="alpha" aria-pressed="false">A to Z</button>
-            </div>
-          </div>
+      <div class="mx-rail" id="mx-rail">
+        <div class="mx-railtop">
+          <label class="sr" for="mx-filter">Find a name in the view</label>
+          <input type="search" id="mx-filter" placeholder="Find a name in the view" autocomplete="off" spellcheck="false">
+          <div class="mx-groups" id="mx-groups" role="group" aria-label="Groups shown"></div>
         </div>
-        <div class="mx-scroll" id="mx-scroll" tabindex="0" aria-label="Matrix of connections"></div>
+        <div class="mx-rows" id="mx-rows" role="group" aria-label="Names in the view"></div>
       </div>
-      <aside class="mx-side" id="mx-side" aria-label="Selected pair"></aside>
+      <div class="mx-main">
+        <div class="mx-plot" id="mx-plot"><canvas id="mx-canvas" tabindex="0" role="img"></canvas></div>
+        <div class="mx-phone" id="mx-phone"></div>
+      </div>
+      <aside class="mx-side" id="mx-side" aria-label="Case file"></aside>
+      <div class="mx-strip"><p class="mx-read" id="mx-read" role="status"></p><p class="mx-key" id="mx-key"></p></div>
     </div>
 
     <p class="map-note" id="map-note"><span class="note-hint" id="note-hint"></span><strong>Everyone named denies wrongdoing.</strong> <span class="wide">Nothing here is an accusation of a crime. A line is a documented link between two names, not proof that one caused the other.</span><span class="narrow">A line is a documented link, not an accusation.</span></p>
@@ -120,4 +132,5 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
 <script src="graph-data.js"></script>
+<script src="matrix.js"></script>
 <script src="app.js"></script>

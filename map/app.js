@@ -1150,7 +1150,7 @@
   function claimOn(n) {   // the checks sit on their topic's arc; at rest they wait until their topic, or a name they mention, is brought forward
     return map.level > 0 || !!map.iso || (F.topic && n.topicRef && n.topicRef.id === F.topic) || n === map.sel || n === map.hover || (map.hover && map.hover.adj.has(n.key)) || !!(map.path && map.path.set && map.path.set.has(n));
   }
-  function focusMode() { return !!(map.sel && !map.iso && !map.path && !map.pathFrom); }
+  function focusMode() { return false; }   // a selection is read on the globe itself, with its neighbours lit
   function reach(start, depth) {
     var seen = new Map([[start, 0]]), q = [start];
     while (q.length) {
@@ -1172,9 +1172,10 @@
     if (tp) {   // one topic: its checks and the names they mention, each name weighted by the number of those checks
       var ns = new Set(), wt = new Map();
       tp.list.forEach(function (c) { if (!c.vis) return; ns.add(c); c.ents.forEach(function (o) { if (o.vis) { ns.add(o); wt.set(o, (wt.get(o) || 0) + 1); } }); });
-      map.topicSet = { nodes: ns, links: new Set(), topic: tp, w: wt };
+      var tl = new Set(); links.forEach(function (l) { if (l.vis && ns.has(l.source) && ns.has(l.target) && (l.source !== map.hub && l.target !== map.hub)) tl.add(l); });
+      map.topicSet = { nodes: ns, links: tl, topic: tp, w: wt };
     }
-    restCache = null;
+    restCache = null; gl.stamp++; glHud();
     var fc = $('filter-count'), af = activeFilters() - (F.topic ? 1 : 0);
     fc.hidden = !af; fc.textContent = af ? String(af) : '';
     renderBanner(); syncChips(); requestDraw();
@@ -1208,14 +1209,12 @@
     var changed = Math.abs(box.width - W) > 1 || Math.abs(box.height - H) > 1;
     W = box.width; H = box.height; dpr = Math.min(window.devicePixelRatio || 1, 2);
     canvas.width = Math.round(W * dpr); canvas.height = Math.round(H * dpr);
-    var before = LAY && LAY.key; mapLayout();
-    obstacles();
-    if (!fitted || changed || (LAY && LAY.key !== before)) { fitted = true; map.savedT = null; refit(false); }
-    draw();
+    obstacles(); glFrame(); fitted = true;
+    draw(); if (changed) glWake();
   }
   function obstacles() {   // parts of the canvas covered by buttons
     var b0 = canvas.getBoundingClientRect();
-    map.obst = ['map-zoom', 'key-toggle'].map(function (id) {
+    map.obst = ['map-zoom', 'key-toggle', 'hud', 'legend', 'banner'].map(function (id) {
       var el = $(id); if (!el || el.hidden) return null;
       var b = el.getBoundingClientRect(); if (!b.width) return null;
       return [b.left - b0.left - 6, b.top - b0.top - 6, b.right - b0.left + 6, b.bottom - b0.top + 6];
@@ -1230,32 +1229,19 @@
     if (!banner.hidden) { var top = banner.getBoundingClientRect().bottom - canvas.getBoundingClientRect().top; if (top > 0 && a.h - top > 150) { a.y = top; a.h -= top; } }
     return a;
   }
-  function moveTo(x, y, k, animate) {
-    if (!zoom) { T = { k: k, x: x, y: y }; requestDraw(); return; }
-    var s = d3.select(canvas), t = d3.zoomIdentity.translate(x, y).scale(k);
-    if (animate && !reduced.matches) s.transition().duration(320).call(zoom.transform, t); else s.call(zoom.transform, t);
+  function frameNodes(list, maxK, animate) { if (W) { glFrame(); glFace(list, animate); } }   // turn the globe so these marks face the reader
+  function fit(animate) {   // the whole globe at its resting size; whatever is in focus is turned to the front
+    if (!W || !gl.ok) return;
+    glFrame();
+    var q = null;
+    if (map.path && map.path.list) { glFace(map.path.list, animate); }
+    else if (map.iso && map.iso.node.vis) glFace([map.iso.node], animate);
+    else if (map.sel && map.sel.vis) glFace([map.sel], animate);
+    else if (map.topicSet) { var t = map.topicSet.topic; q = glFaceQ(gl.tcap[t.gi] || [0, 0, 1]); }
+    else if (!map.pathFrom) q = gl.q0.slice();
+    glTo(q || (gl.anim ? gl.anim.q1 : null), 1, animate);
   }
-  function frameNodes(list, maxK, animate, pad) {
-    if (!list.length || !W) return;
-    var x0 = Infinity, x1 = -Infinity, y0 = Infinity, y1 = -Infinity; pad = pad || 0;
-    list.forEach(function (n) { x0 = Math.min(x0, n.px); x1 = Math.max(x1, n.px); y0 = Math.min(y0, n.py); y1 = Math.max(y1, n.py); });
-    var a = visibleArea(), m = narrow.matches ? 36 : 70;
-    var k = Math.max(0.05, Math.min((a.w - m * 2) / Math.max(1, x1 - x0 + pad), (a.h - m * 2) / Math.max(1, y1 - y0 + pad), maxK));
-    moveTo(a.x + a.w / 2 - k * (x0 + x1) / 2, a.y + a.h / 2 - k * (y0 + y1) / 2, k, animate);
-  }
-  function fit(animate) {   // the whole ring, with room for the topic names around it
-    if (!W || !LAY) return;
-    if (map.iso) { frameNodes(nodes.filter(function (n) { return n.vis; }), 1.4, animate, 40); return; }
-    var a = visibleArea(), k = Math.max(0.03, Math.min(a.w / (2 * (LAY.rx + LAY.side)), a.h / (2 * (LAY.ry + LAY.top))));
-    if (!narrow.matches || $('panel').hidden || !map.k0) map.k0 = k;
-    moveTo(a.x + a.w / 2, a.y + a.h / 2, k, animate);
-  }
-  function centerIfHidden(n) {
-    if (!W || !n.vis) return;
-    var a = visibleArea(), sx = n.px * T.k + T.x, sy = n.py * T.k + T.y;
-    if (sx > a.x + 30 && sx < a.x + a.w - 30 && sy > a.y + 30 && sy < a.y + a.h - 40) return;
-    moveTo(a.x + a.w / 2 - T.k * n.px, a.y + a.h / 2 - T.k * n.py, T.k, true);
-  }
+  function centerIfHidden(n) { if (W && n.vis) { glFrame(); glFace([n], true); } }
   function zf(k) { return Math.max(0.8, Math.min(1.9, Math.pow(k / (map.k0 || k), 0.34))); }
   function rs(n, k, full) {   // on-screen radius
     var z = zf(k), ph = narrow.matches;
@@ -1275,6 +1261,7 @@
   }
   function hit(px, py, slack) {
     slack = slack || 4;
+    if (gl.ok) return glHit(px, py, slack);
     var best = null, bd = Infinity, i, n, d, r;
     if (focusMode() && map.focus) {
       var fo = map.focus, k = T.k;
@@ -1809,8 +1796,7 @@
   function draw() {
     if (!W || state.view !== 'map' || !map.ready || map.mode !== 'network') return;
     ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
-    ctx.clearRect(0, 0, W, H);
-    if (focusMode() && map.focus) paintFocus(ctx, W, H, T); else paint(ctx, W, H, T);
+    if (gl.ok) glDraw();
   }
   /* The home page shows a small, legible network of the best-connected names, in the map's own visual language. */
   var teaser = {};
@@ -1883,6 +1869,7 @@
 
   function showTip(n) {
     var tip = $('tip');
+    if (gl.ok) { glTip(n, null); return; }
     if (!n) { tip.hidden = true; return; }
     var fo = focusMode() && map.focus, it = fo && (fo.pos.get(n) || (n === fo.node ? fo.centre : null));
     if (fo && it && !it.inner) { tip.hidden = true; return; }   // its label is already beside it
@@ -1896,6 +1883,525 @@
     tip.style.top = Math.max(6, Math.min(H - th - 6, y - th - 6 < 6 ? y + r : y - th - 6)) + 'px';
   }
 
+  // ------------------------------------------------------------------ the globe
+  /* The Network view. Every name and every check is a point in a ball. Position comes only from a force layout run in three
+     dimensions over the documented links, so the clusters, the bridges between them and the hubs are the data's own; no guide
+     shapes are drawn. The canvas is dark in both themes, so its colours are fixed here. */
+  var GC = { bg0: '#131b28', bg1: '#090d14', ink: '#edf1f7', ink2: '#97a4b8', halo: '#0a0f17', accent: '#ffd98a', line: '#8ea4c4', check: '#e3e9f2',
+    t: ['#6fa8ff', '#35cfc4', '#cfcf6a', '#f2a84b', '#f27e5e', '#ea7aa9', '#a890f5', '#7ed48b', '#a3b6cd'],
+    g: { person: '#7fb0ff', org: '#43c8d6', gov: '#eab552', other: '#9aa6b8' },
+    rk: { money: '#f2b450', own: '#43c8d6', role: '#8fb4ff', gov: '#ef8a72', family: '#86d792', media: '#b3bccb' } };
+  var RKIND = { money: 'money', ownership: 'own', commercial: 'own', advisory: 'role', regulatory: 'gov', legal: 'gov', political: 'gov', family: 'family', media: 'media' };
+  var RKORDER = ['money', 'own', 'role', 'gov', 'family', 'media'];
+  var RKLABEL = { money: 'Money', own: 'Ownership & Business', role: 'Advice & Roles', gov: 'Government & Law', family: 'Family', media: 'Reporting' };
+  var gl = { ok: false, N: 0, P: null, sx: null, sy: null, sz: null, ss: null, q: [1, 0, 0, 0], q0: [1, 0, 0, 0], R: new Float32Array(9), zoom: 1, cx: 0, cy: 0, rad: 100, D: 3.1,
+    wx: 0, wy: 0, drag: null, pinch: null, anim: null, raf: 0, last: 0, idleAt: 0, over: false, colorBy: 'topic', still: !!window.__STILL__, hovLink: null, tdir: [], tcap: [],
+    stamp: 0, em: null, emSt: null, emN: null, emL: null, ms: 0, frames: 0, bgGrad: null, sprites: {}, dragged: false };
+  function glRand(seed) { var s = seed >>> 0; return function () { s = (s + 0x6D2B79F5) | 0; var t = Math.imul(s ^ (s >>> 15), 1 | s); t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t; return ((t ^ (t >>> 14)) >>> 0) / 4294967296; }; }
+  function qmul(a, b) { return [a[0] * b[0] - a[1] * b[1] - a[2] * b[2] - a[3] * b[3], a[0] * b[1] + a[1] * b[0] + a[2] * b[3] - a[3] * b[2], a[0] * b[2] - a[1] * b[3] + a[2] * b[0] + a[3] * b[1], a[0] * b[3] + a[1] * b[2] - a[2] * b[1] + a[3] * b[0]]; }
+  function qaxis(x, y, z, ang) { var l = Math.hypot(x, y, z) || 1, s = Math.sin(ang / 2) / l; return [Math.cos(ang / 2), x * s, y * s, z * s]; }
+  function qnorm(q) { var l = Math.hypot(q[0], q[1], q[2], q[3]) || 1; q[0] /= l; q[1] /= l; q[2] /= l; q[3] /= l; return q; }
+  function qslerp(a, b, t) {
+    var d = a[0] * b[0] + a[1] * b[1] + a[2] * b[2] + a[3] * b[3], s = d < 0 ? -1 : 1; d = Math.abs(d);
+    var wa = 1 - t, wb = t;
+    if (d < 0.9995) { var th = Math.acos(d), sn = Math.sin(th); wa = Math.sin((1 - t) * th) / sn; wb = Math.sin(t * th) / sn; }
+    wb *= s;
+    return qnorm([a[0] * wa + b[0] * wb, a[1] * wa + b[1] * wb, a[2] * wa + b[2] * wb, a[3] * wa + b[3] * wb]);
+  }
+  function glSpin(ax, ay, ang) { if (ang) gl.q = qnorm(qmul(qaxis(ax, ay, 0, ang), gl.q)); }
+
+  /* The layout: a force simulation in three dimensions, run once. Links pull, every point pushes every other away, a weak pull
+     to the middle keeps it a ball, and each check leans towards its topic's side so the topics form lobes. Donald Trump is held
+     at the middle. A name with a single link is set beside the name or check it is linked to. The result is the same every time. */
+  function glLayout() {
+    var tStart = performance.now(), rnd = glRand(20261115), K = ARCS.length || 1, i, j, k, hub = map.hub;
+    ARCS.forEach(function (t, q) { t.gi = q; });
+    gl.tdir = ARCS.map(function (t, q) { var y = 1 - 2 * (q + 0.5) / K, r = Math.sqrt(1 - y * y), a = q * 2.399963 + 0.6; return [r * Math.cos(a), y, r * Math.sin(a)]; });
+    function lean(n) {
+      var x = 0, y = 0, z = 0, d;
+      if (n.kind === 'claim') { d = n.topicRef && n.topicRef.gi != null ? gl.tdir[n.topicRef.gi] : null; return d ? [d[0], d[1], d[2]] : [0, 0, 0]; }
+      var cnt = n.tcnt && n.tcnt.size ? n.tcnt : n.tcnt2;
+      if (cnt) cnt.forEach(function (v, t) { d = gl.tdir[t.gi]; if (d) { x += d[0] * v; y += d[1] * v; z += d[2] * v; } });
+      var l = Math.hypot(x, y, z); return l ? [x / l, y / l, z / l] : [0, 0, 0];
+    }
+    function ball() { var x, y, z, l; do { x = rnd() * 2 - 1; y = rnd() * 2 - 1; z = rnd() * 2 - 1; l = x * x + y * y + z * z; } while (l > 1 || l < 0.01); l = Math.sqrt(l); return [x / l, y / l, z / l]; }
+    /* The finished positions are kept in the browser, where that is allowed, so a later visit does not run the simulation again. */
+    var CK = 'tcm-globe-4', sig = nodes.length + '|' + links.length + '|' + (META.generated || ''), cached = null;
+    try { var raw = JSON.parse(window.localStorage.getItem(CK) || 'null'); if (raw && raw.sig === sig && raw.p.length === nodes.length * 3) cached = raw.p; } catch (e) { cached = null; }
+    if (cached) nodes.forEach(function (n, q) { n.g3 = [cached[q * 3] / 1000, cached[q * 3 + 1] / 1000, cached[q * 3 + 2] / 1000]; });
+    else (function () {
+    var S = [];
+    nodes.forEach(function (n) {   // the simulation holds the checks and every name linked to two other names or named in two checks; the rest are placed after it
+      n.gs = -1;
+      var others = 0; if (n.kind === 'entity') n.adj.forEach(function (l) { if (l.kind === 'rel') others++; });
+      if (n.kind === 'claim' || (n.kind === 'entity' && (others >= 2 || n.cl.length >= 2 || n === hub))) { n.gs = S.length; S.push(n); }
+    });
+    var M = S.length, x = new Float64Array(M), y = new Float64Array(M), z = new Float64Array(M), vx = new Float64Array(M), vy = new Float64Array(M), vz = new Float64Array(M),
+      m = new Float64Array(M), gx = new Float64Array(M), ax = new Float64Array(M), ay = new Float64Array(M), az = new Float64Array(M), ak = new Float64Array(M), deg = new Float64Array(M);
+    window.__layoutM = M;
+    var SL = links.filter(function (l) { return l.source.gs >= 0 && l.target.gs >= 0; }), E = SL.length;
+    var ls = new Int32Array(E), lt = new Int32Array(E), ld = new Float32Array(E), lk = new Float32Array(E), lb = new Float32Array(E);
+    SL.forEach(function (l, q) { ls[q] = l.source.gs; lt[q] = l.target.gs; deg[ls[q]]++; deg[lt[q]]++; });
+    SL.forEach(function (l, q) {
+      var a = ls[q], b = lt[q], viaHub = l.source === hub || l.target === hub;
+      ld[q] = l.kind === 'rel' ? (viaHub ? 3.4 : 1) : 1.5;
+      lk[q] = (l.kind === 'rel' ? (viaHub ? 0.25 : 0.8 + 0.1 * Math.min(4, l.w)) : 0.5) / Math.min(deg[a], deg[b]);
+      lb[q] = deg[a] / (deg[a] + deg[b]);
+    });
+    S.forEach(function (n, q) {
+      var d = lean(n), R0 = n.kind === 'claim' ? 10 : 3 + 7 / (1 + 0.1 * n.adj.size), jt = ball(), jr = 2.5 * rnd();
+      x[q] = d[0] * R0 + jt[0] * jr; y[q] = d[1] * R0 + jt[1] * jr; z[q] = d[2] * R0 + jt[2] * jr;
+      m[q] = 1 + 0.22 * Math.sqrt(n.adj.size);
+      gx[q] = 0.012 + 0.03 * Math.min(1, n.adj.size / 60);
+      if (n.kind === 'claim') { ak[q] = 0.05; ax[q] = d[0] * 10.5; ay[q] = d[1] * 10.5; az[q] = d[2] * 10.5; } else if (d[0] || d[1] || d[2]) { ak[q] = 0.012; ax[q] = d[0] * 8; ay[q] = d[1] * 8; az[q] = d[2] * 8; }
+    });
+    var alpha = 1, hi = hub ? hub.gs : -1, dx, dy, dz, d2, f, w, a, b, xi, yi, zi, mi, fx, fy, fz, wj, g;
+    for (var tick = 0; tick < 110; tick++) {
+      alpha *= 0.96;
+      for (k = 0; k < E; k++) {
+        a = ls[k]; b = lt[k];
+        dx = x[b] + vx[b] - x[a] - vx[a]; dy = y[b] + vy[b] - y[a] - vy[a]; dz = z[b] + vz[b] - z[a] - vz[a];
+        d2 = Math.sqrt(dx * dx + dy * dy + dz * dz) || 1e-6; f = (d2 - ld[k]) / d2 * alpha * lk[k];
+        dx *= f; dy *= f; dz *= f; w = lb[k];
+        vx[b] -= dx * w; vy[b] -= dy * w; vz[b] -= dz * w; w = 1 - w; vx[a] += dx * w; vy[a] += dy * w; vz[a] += dz * w;
+      }
+      var ca = alpha * 0.05;
+      for (i = 0; i < M; i++) {
+        xi = x[i]; yi = y[i]; zi = z[i]; mi = m[i]; fx = fy = fz = 0;
+        for (j = i + 1; j < M; j++) {
+          dx = xi - x[j]; dy = yi - y[j]; dz = zi - z[j]; d2 = dx * dx + dy * dy + dz * dz + 0.03; w = ca / d2;
+          wj = w * m[j]; fx += dx * wj; fy += dy * wj; fz += dz * wj; w *= mi; vx[j] -= dx * w; vy[j] -= dy * w; vz[j] -= dz * w;
+        }
+        vx[i] += fx; vy[i] += fy; vz[i] += fz;
+      }
+      for (i = 0; i < M; i++) {
+        g = alpha * gx[i]; vx[i] -= x[i] * g; vy[i] -= y[i] * g; vz[i] -= z[i] * g;
+        if (ak[i]) { g = alpha * ak[i]; vx[i] += (ax[i] - x[i]) * g; vy[i] += (ay[i] - y[i]) * g; vz[i] += (az[i] - z[i]) * g; }
+        vx[i] *= 0.6; vy[i] *= 0.6; vz[i] *= 0.6; x[i] += vx[i]; y[i] += vy[i]; z[i] += vz[i];
+      }
+      if (hi >= 0) { x[hi] = y[hi] = z[hi] = 0; vx[hi] = vy[hi] = vz[hi] = 0; }
+    }
+    S.forEach(function (n, q) { n.g3 = [x[q], y[q], z[q]]; });
+    // names with one link sit beside what they are linked to, on its outward side; names with none sit at the edge of their topic
+    var kids = new Map();
+    nodes.forEach(function (n) {
+      if (n.gs >= 0 || n.kind !== 'entity') return;
+      var par = null; n.adj.forEach(function (l, key) { var o = byKey.get(key); if (o.gs >= 0 && (!par || (par.kind === 'claim' && o.kind === 'entity' && o !== hub) || (par === hub && o.kind === 'entity'))) par = o; });
+      var d = lean(n), r = ball(), p, l, len;
+      if (!par) { n.g3 = [d[0] * 11 + r[0] * 2.5, d[1] * 11 + r[1] * 2.5, d[2] * 11 + r[2] * 2.5]; return; }
+      kids.set(par, (kids.get(par) || 0) + 1);
+      p = par.g3; l = Math.hypot(p[0], p[1], p[2]);
+      if (par === hub || l < 0.5) { len = 3.2 + 2.2 * rnd(); r = [d[0] * 0.9 + r[0], d[1] * 0.9 + r[1], d[2] * 0.9 + r[2]]; }
+      else { len = (par.kind === 'claim' ? 0.7 : 0.45) + 0.8 * rnd() + 0.05 * Math.sqrt(kids.get(par)); r = [p[0] / l * 0.8 + r[0], p[1] / l * 0.8 + r[1], p[2] / l * 0.8 + r[2]]; }
+      l = Math.hypot(r[0], r[1], r[2]) || 1;
+      n.g3 = [p[0] + r[0] / l * len, p[1] + r[1] / l * len, p[2] + r[2] / l * len];
+    });
+    themes.forEach(function (n) {
+      var sx = 0, sy = 0, sz = 0, c = 0; n.adj.forEach(function (l, key) { var o = byKey.get(key); if (o.g3) { sx += o.g3[0]; sy += o.g3[1]; sz += o.g3[2]; c++; } });
+      var r = ball(); n.g3 = c ? [sx / c * 0.8 + r[0], sy / c * 0.8 + r[1], sz / c * 0.8 + r[2]] : [r[0] * 9, r[1] * 9, r[2] * 9];
+    });
+    // scale to a unit ball; the few points beyond it are drawn in to the surface
+    // the simulation packs the middle far more tightly than the edge; distance from the middle is eased towards an even filling
+    // of the ball, keeping every direction and the order of distances, so the links have room to be read
+    var byR = nodes.slice().sort(function (p, q) { return Math.hypot(p.g3[0], p.g3[1], p.g3[2]) - Math.hypot(q.g3[0], q.g3[1], q.g3[2]); }), rmax = Math.hypot.apply(null, byR[Math.floor(byR.length * 0.985)].g3) || 1;
+    byR.forEach(function (n, q) {
+      var p = n.g3, l = Math.hypot(p[0], p[1], p[2]); if (l < 1e-6) return;
+      var even = Math.pow((q + 0.5) / byR.length, 0.38) * rmax, k = (0.25 * Math.min(l, rmax * 1.1) + 0.75 * even) / l;
+      n.g3 = [p[0] * k, p[1] * k, p[2] * k];
+    });
+    try { var flat = []; nodes.forEach(function (n) { flat.push(Math.round(n.g3[0] * 1000), Math.round(n.g3[1] * 1000), Math.round(n.g3[2] * 1000)); }); window.localStorage.setItem(CK, JSON.stringify({ sig: sig, p: flat })); } catch (e) { /* optional */ }
+    })();
+    var rr = nodes.map(function (n) { return Math.hypot(n.g3[0], n.g3[1], n.g3[2]); }).sort(function (p, q) { return p - q; }), sc = 1 / (rr[Math.floor(rr.length * 0.985)] || 1);
+    gl.N = nodes.length; gl.P = new Float32Array(gl.N * 3); gl.sx = new Float32Array(gl.N); gl.sy = new Float32Array(gl.N); gl.sz = new Float32Array(gl.N); gl.ss = new Float32Array(gl.N);
+    gl.nk = new Uint8Array(gl.N); gl.emN = new Uint8Array(gl.N);
+    nodes.forEach(function (n, q) {
+      var p = n.g3, l = Math.hypot(p[0], p[1], p[2]) * sc, c = l > 1 ? (1 + (l - 1) * 0.15) / l : 1;
+      n.gi = q; gl.P[q * 3] = p[0] * sc * c; gl.P[q * 3 + 1] = p[1] * sc * c; gl.P[q * 3 + 2] = p[2] * sc * c;
+      n.gr = n.kind === 'entity' ? (n === hub ? 8.5 : Math.min(7, 1.05 + 0.5 * Math.sqrt(n.adj.size))) : n.kind === 'claim' ? 2.5 : 2.2;
+      n.gc = n.kind === 'claim' ? (n.topicRef && n.topicRef.gi != null ? n.topicRef.gi % 9 : 9) : n.kind === 'entity' && n.top ? n.top.gi % 9 : 9;
+      n.gk = n.kind === 'entity' ? 10 + GROUPS.indexOf(n.group) : n.kind === 'claim' ? 14 : 9;
+    });
+    // where each topic's name is written: just outside the middle of its checks
+    gl.tcap = ARCS.map(function (t) {
+      var sx = 0, sy = 0, sz = 0; t.list.forEach(function (c) { sx += gl.P[c.gi * 3]; sy += gl.P[c.gi * 3 + 1]; sz += gl.P[c.gi * 3 + 2]; });
+      var l = Math.hypot(sx, sy, sz) || 1, far = 0.6;
+      t.list.forEach(function (c) { far = Math.max(far, (gl.P[c.gi * 3] * sx + gl.P[c.gi * 3 + 1] * sy + gl.P[c.gi * 3 + 2] * sz) / l); });
+      far = Math.min(1.12, far + 0.15); return [sx / l * far, sy / l * far, sz / l * far];
+    });
+    // the links, in drawing order: grouped by colour class so each class and depth is one path
+    function lclass(l) {
+      if (l.kind === 'rel') return l.source === hub || l.target === hub ? 21 : l.source.top && l.source.top === l.target.top ? l.source.gc : 9;
+      if (l.kind === 'claim') { var c = l.source.kind === 'claim' ? l.source : l.target; return 10 + c.gc; }
+      return 20;   // 21: the hub's own links; he is linked to so many names that they are drawn fainter, so the rest can be read
+    }
+    gl.L = links.slice().sort(function (p, q) { return lclass(p) - lclass(q); });
+    gl.E = gl.L.length; gl.la = new Int32Array(gl.E); gl.lb = new Int32Array(gl.E); gl.lc = new Uint8Array(gl.E); gl.lz = new Uint8Array(gl.E); gl.emL = new Uint8Array(gl.E); gl.cs = [];
+    gl.L.forEach(function (l, q) {
+      l.gi = q; gl.la[q] = l.source.gi; gl.lb[q] = l.target.gi; gl.lc[q] = lclass(l);
+      if (!q || gl.lc[q] !== gl.lc[q - 1]) gl.cs.push(q);
+      if (l.kind === 'rel') { var cnt = {}, best = null; l.rels.forEach(function (r) { var kk = RKIND[r.type] || 'own'; cnt[kk] = (cnt[kk] || 0) + 1; if (!best || cnt[kk] > cnt[best]) best = kk; }); l.rk = best; }
+    });
+    gl.cs.push(gl.E);
+    var hubs = ranked.slice(0, 26); gl.hubs = hubs;
+    // the fixed first view: the middle of the best-connected names, after the hub, faces the reader
+    var fx0 = 0, fy0 = 0, fz0 = 0; ranked.slice(1, 9).forEach(function (e) { fx0 += gl.P[e.gi * 3]; fy0 += gl.P[e.gi * 3 + 1]; fz0 += gl.P[e.gi * 3 + 2]; });
+    gl.q = [1, 0, 0, 0]; gl.q = glFaceQ([fx0, fy0, fz0]) || [1, 0, 0, 0]; gl.q0 = gl.q.slice();
+    gl.ok = true; gl.layoutMs = performance.now() - tStart; window.__layoutMs = gl.layoutMs;
+  }
+  function glRot(v) {   // a point of the layout, turned to the present view: x to the right, y up, z towards the reader
+    var q = gl.q, w = q[0], x = q[1], y = q[2], z = q[3];
+    return [(1 - 2 * (y * y + z * z)) * v[0] + 2 * (x * y - w * z) * v[1] + 2 * (x * z + w * y) * v[2], 2 * (x * y + w * z) * v[0] + (1 - 2 * (x * x + z * z)) * v[1] + 2 * (y * z - w * x) * v[2], 2 * (x * z - w * y) * v[0] + 2 * (y * z + w * x) * v[1] + (1 - 2 * (x * x + y * y)) * v[2]];
+  }
+  function glFaceQ(v) {   // the view that brings a direction to the front, a little above the middle
+    var c = glRot(v), l = Math.hypot(c[0], c[1], c[2]); if (l < 1e-4) return null;
+    c = [c[0] / l, c[1] / l, c[2] / l];
+    var f = [0, 0.12, 0.9928], d = c[0] * f[0] + c[1] * f[1] + c[2] * f[2], ax = [c[1] * f[2] - c[2] * f[1], c[2] * f[0] - c[0] * f[2], c[0] * f[1] - c[1] * f[0]];
+    if (d > 0.99999) return gl.q.slice();
+    if (Math.hypot(ax[0], ax[1], ax[2]) < 1e-5) ax = [0, 1, 0];
+    return qnorm(qmul(qaxis(ax[0], ax[1], ax[2], Math.acos(Math.max(-1, Math.min(1, d)))), gl.q));
+  }
+  function glTo(q1, z1, animate) {
+    if (!q1) q1 = gl.q.slice(); if (z1 == null) z1 = gl.zoom;
+    gl.wx = gl.wy = 0;
+    if (!animate || reduced.matches || gl.still) { gl.q = q1; gl.zoom = z1; gl.anim = null; requestDraw(); return; }
+    gl.anim = { q0: gl.q.slice(), q1: q1, z0: gl.zoom, z1: z1, t0: 0, dur: 620 }; glWake();
+  }
+  function glFace(list, animate) {   // turn so that these marks, taken together, face the reader
+    if (!gl.ok || !list.length) return;
+    var x = 0, y = 0, z = 0; list.forEach(function (n) { x += gl.P[n.gi * 3]; y += gl.P[n.gi * 3 + 1]; z += gl.P[n.gi * 3 + 2]; });
+    glTo(glFaceQ([x, y, z]), null, animate);
+  }
+  function glFrame() {   // where the ball sits on the canvas: the middle of the part not covered by the panel
+    var a = visibleArea(), ph = narrow.matches;
+    obstacles(); gl.aw = a.w;
+    gl.cx = a.x + a.w / 2; gl.cy = (ph ? 0 : a.y * 0.5) + (ph ? a.y + a.h : H) / 2 + (ph ? 0 : 6);
+    gl.rad = Math.max(60, Math.min(a.w * (ph ? 0.47 : 0.46), (ph ? a.h : H) * (ph ? 0.46 : 0.455)));
+    var g = ctx.createRadialGradient(gl.cx, gl.cy, 0, gl.cx, gl.cy, Math.max(W, H) * 0.75); g.addColorStop(0, GC.bg0); g.addColorStop(1, GC.bg1); gl.bgGrad = g;
+  }
+  function glSprite(col) {   // a soft halo, used only under the best-connected names
+    if (gl.sprites[col]) return gl.sprites[col];
+    var cv = document.createElement('canvas'), c; cv.width = cv.height = 64; c = cv.getContext('2d');
+    var g = c.createRadialGradient(32, 32, 0, 32, 32, 32); g.addColorStop(0, col); g.addColorStop(0.25, col); g.addColorStop(1, 'rgba(0,0,0,0)');
+    c.globalAlpha = 0.9; c.fillStyle = g; c.fillRect(0, 0, 64, 64);
+    return (gl.sprites[col] = cv);
+  }
+  function glPal(k) { return k < 9 ? GC.t[k] : k === 9 ? GC.ink2 : k === 10 ? GC.g.person : k === 11 ? GC.g.org : k === 12 ? GC.g.gov : k === 13 ? GC.g.other : GC.check; }
+  function glCol(n) { return gl.colorBy === 'kind' ? n.gk : n.gc; }
+  function glLabelN() { var b = narrow.matches ? [9, 22, 60] : [25, 70, 220]; return Math.round(b[map.level] * Math.min(6, gl.zoom * gl.zoom)); }
+  function glLinkOn(l) { return l.vis && (l.kind === 'rel' || l.kind === 'claim' || map.level === 2) && shown(l.source) && shown(l.target); }
+
+  /* What is lit: a traced path, a selection and its neighbours, or a topic; the mark under the pointer and its neighbours are added. */
+  function glEm() {
+    var st = gl.emSt;
+    if (st && st[0] === map.hover && st[1] === map.sel && st[2] === map.path && st[3] === map.iso && st[4] === map.topicSet && st[5] === gl.stamp && st[6] === gl.hovLink && st[7] === map.level) return gl.em;
+    gl.emSt = [map.hover, map.sel, map.path, map.iso, map.topicSet, gl.stamp, gl.hovLink, map.level];
+    var em = null, hov = map.hover && map.hover.vis && shown(map.hover) ? map.hover : null, fs;
+    if (map.path && map.path.set) em = { kind: 'path', nodes: new Set(map.path.set), links: new Set(map.path.links), lead: null };
+    else if (map.sel && map.sel.vis) { fs = focusSet(map.sel); em = { kind: 'sel', lead: map.sel, nodes: fs.nodes, links: fs.links }; }
+    else if (map.topicSet) em = { kind: 'topic', nodes: new Set(map.topicSet.nodes), links: new Set(map.topicSet.links), topic: map.topicSet.topic, lead: null };
+    if (hov && !(em && em.kind === 'sel' && em.lead === hov)) {
+      fs = focusSet(hov);
+      if (!em) em = { kind: 'hover', lead: hov, nodes: fs.nodes, links: fs.links };
+      else { em.hov = hov; em.hovLinks = fs.links; if (em.kind !== 'topic') { fs.nodes.forEach(function (n) { em.nodes.add(n); }); fs.links.forEach(function (l) { em.links.add(l); }); } else em.nodes.add(hov); }
+    }
+    if (gl.hovLink && gl.hovLink.vis) {
+      if (!em) em = { kind: 'link', nodes: new Set(), links: new Set(), lead: null };
+      em.nodes.add(gl.hovLink.source); em.nodes.add(gl.hovLink.target); em.links.add(gl.hovLink);
+    }
+    gl.emN.fill(0); gl.emL.fill(0);
+    if (em) {
+      em.nodes.forEach(function (n) { gl.emN[n.gi] = 1; });
+      em.links.forEach(function (l) { gl.emL[l.gi] = 1; });
+      if (em.hovLinks) em.hovLinks.forEach(function (l) { gl.emL[l.gi] = 2; });
+      // the names written beside the lit marks: the lead, then the rest by weight
+      var order = Array.from(em.nodes).filter(function (n) { return n !== em.lead && n !== em.hov; }), wt = em.kind === 'topic' && map.topicSet ? map.topicSet.w : null;
+      order.sort(function (p, q) {
+        if (wt) return (q.kind === 'entity' ? wt.get(q) || 0 : -1) - (p.kind === 'entity' ? wt.get(p) || 0 : -1) || (p.rank || 0) - (q.rank || 0);
+        return (p.kind === 'entity' ? 0 : 1) - (q.kind === 'entity' ? 0 : 1) || (p.rank || 0) - (q.rank || 0);
+      });
+      em.order = (em.lead ? [em.lead] : []).concat(em.hov ? [em.hov] : [], order);
+    }
+    return (gl.em = em);
+  }
+  function glText(n) { return n.gt || (n.gt = n.kind === 'entity' ? mapLabel(n) : n.kind === 'claim' ? trunc(n.title || n.name, 38) : n.name); }
+  var GLF = ['600 12px ', '700 14px ', '500 11.5px ', '600 11.5px '];
+  function glTextW(n, fi) {
+    if (!n.gw || n.gwS !== gl.wstamp) { n.gw = [0, 0, 0, 0]; n.gwS = gl.wstamp; }
+    if (!n.gw[fi]) { ctx.font = GLF[fi] + FONT; n.gw[fi] = ctx.measureText(glText(n)).width; }
+    return n.gw[fi];
+  }
+  /* A label takes the first free place beside its mark: right, left, below, above. If none is free it is left out, unless it must be shown. */
+  var glBox = [0, 0, 0, 0];
+  function glPlace(placed, x, y, r, tw, must) {
+    var th = 15, g = r + 5, q, x0, y0;
+    for (q = 0; q < 4; q++) {
+      x0 = q === 0 ? x + g : q === 1 ? x - g - tw : x - tw / 2; y0 = q < 2 ? y - th / 2 : q === 2 ? y + g - 1 : y - g - th + 1;
+      if (x0 < 4 || x0 + tw > W - 4 || y0 < 4 || y0 + th > H - 4) continue;
+      if (!overlaps(placed, x0 - 3, y0 - 1, x0 + tw + 3, y0 + th + 1)) { glBox[0] = x0; glBox[1] = y0; return true; }
+    }
+    if (must) { glBox[0] = Math.max(4, Math.min(W - tw - 4, x + g)); glBox[1] = Math.max(4, Math.min(H - th - 4, y - th / 2)); return true; }
+    return false;
+  }
+  function glWrite(c, text, fi, x0, y0, tw, col, alpha) {
+    c.font = GLF[fi] + FONT; c.textAlign = 'left'; c.textBaseline = 'middle'; c.lineJoin = 'round';
+    c.globalAlpha = alpha * 0.9; c.lineWidth = 3.2; c.strokeStyle = GC.halo; c.strokeText(text, x0, y0 + 7.5);
+    c.globalAlpha = alpha; c.fillStyle = col; c.fillText(text, x0, y0 + 7.5);
+  }
+  var GLA = [0.07, 0.11, 0.16, 0.24, 0.33, 0.44];
+  function glDraw() {
+    var c = ctx, t0 = performance.now(), N = gl.N, E = gl.E, P = gl.P, sx = gl.sx, sy = gl.sy, sz = gl.sz, ss = gl.ss, i, k, q, b, f, r, n, l;
+    var qq = gl.q, qw = qq[0], qx = qq[1], qy = qq[2], qz = qq[3];
+    var r0 = 1 - 2 * (qy * qy + qz * qz), r1 = 2 * (qx * qy - qw * qz), r2 = 2 * (qx * qz + qw * qy), r3 = 2 * (qx * qy + qw * qz), r4 = 1 - 2 * (qx * qx + qz * qz), r5 = 2 * (qy * qz - qw * qx), r6 = 2 * (qx * qz - qw * qy), r7 = 2 * (qy * qz + qw * qx), r8 = 1 - 2 * (qx * qx + qy * qy);
+    var D = gl.D, cx = gl.cx, cy = gl.cy, rad = gl.rad * gl.zoom, X, Y, Z, zz, s, ph = narrow.matches;
+    for (i = 0, k = 0; i < N; i++, k += 3) {
+      X = P[k]; Y = P[k + 1]; Z = P[k + 2]; zz = r6 * X + r7 * Y + r8 * Z; s = D / (D - zz);
+      sx[i] = cx + (r0 * X + r1 * Y + r2 * Z) * s * rad; sy[i] = cy - (r3 * X + r4 * Y + r5 * Z) * s * rad; sz[i] = zz; ss[i] = s;
+    }
+    c.globalCompositeOperation = 'source-over'; c.globalAlpha = 1; c.fillStyle = gl.bgGrad || GC.bg1; c.fillRect(0, 0, W, H);
+    var em = glEm(), emN = gl.emN, emL = gl.emL, dim = em ? (em.kind === 'link' ? 0.6 : em.kind === 'hover' ? 0.34 : 0.2) : 1, la = gl.la, lb = gl.lb, lz = gl.lz, lc = gl.lc, L = gl.L, byKind = gl.colorBy === 'kind';
+    // every link, hair-thin, added light on dark: one path for each colour and each band of depth
+    for (i = 0; i < E; i++) {
+      l = L[i];
+      if (!glLinkOn(l)) { lz[i] = 255; continue; }
+      if (emL[i]) { lz[i] = 254; continue; }
+      if (l.unv) { lz[i] = 253; continue; }
+      f = ((sz[la[i]] + sz[lb[i]]) * 0.5 + 1.05) / 2.1; lz[i] = f <= 0 ? 0 : f >= 1 ? 5 : (f * 6) | 0;
+    }
+    c.globalCompositeOperation = gl.dbg & 1 ? 'source-over' : 'lighter'; c.lineWidth = ph ? 0.7 : 0.8; c.lineCap = 'butt';
+    if (gl.dbg & 2) for (i = 0; i < E; i++) lz[i] = 255;
+    if (gl.dbg & 4) c.lineWidth = 1;
+    var zk = Math.min(1.5, 0.85 + 0.15 * gl.zoom) * (ph ? 0.62 : 1);   // on a small screen the same links are packed closer, so each is fainter
+    for (q = 0; q < gl.cs.length - 1; q++) {
+      var a0 = gl.cs[q], a1 = gl.cs[q + 1], cls = lc[a0], fac = (cls < 10 ? 1 : cls < 20 ? 0.5 : cls === 21 ? 0.42 : 0.4) * dim * zk;
+      c.strokeStyle = byKind || cls === 9 || cls >= 19 ? GC.line : GC.t[cls % 10];
+      for (b = 0; b < 6; b++) {
+        var any = false; c.beginPath();
+        for (i = a0; i < a1; i++) if (lz[i] === b) { any = true; c.moveTo(sx[la[i]], sy[la[i]]); c.lineTo(sx[lb[i]], sy[lb[i]]); }
+        if (any) { c.globalAlpha = Math.min(1, GLA[b] * fac); c.stroke(); }
+      }
+    }
+    // links that rest only on an unverified allegation are dashed
+    c.setLineDash([3, 3]); c.strokeStyle = GC.line; c.lineWidth = 0.8;
+    for (b = 0; b < 6; b++) {
+      any = false; c.beginPath();
+      for (i = 0; i < E; i++) if (lz[i] === 253) { f = ((sz[la[i]] + sz[lb[i]]) * 0.5 + 1.05) / 2.1; if (((f <= 0 ? 0 : f >= 1 ? 5 : (f * 6) | 0)) === b) { any = true; c.moveTo(sx[la[i]], sy[la[i]]); c.lineTo(sx[lb[i]], sy[lb[i]]); } }
+      if (any) { c.globalAlpha = Math.min(1, GLA[b] * 1.5 * dim); c.stroke(); }
+    }
+    c.setLineDash([]);
+    // the lit links: by kind of relationship for a selection, in the topic's colour for a topic, in the accent for a path
+    if (em) {
+      c.globalCompositeOperation = 'source-over'; c.lineCap = 'round';
+      for (i = 0; i < E; i++) {
+        if (lz[i] !== 254) continue; l = L[i];
+        f = ((sz[la[i]] + sz[lb[i]]) * 0.5 + 1.05) / 2.1; f = f < 0 ? 0 : f > 1 ? 1 : f;
+        var strong = emL[i] === 2 || l === gl.hovLink || em.kind === 'path';
+        c.strokeStyle = em.kind === 'path' || l === gl.hovLink ? GC.accent : em.kind === 'topic' && emL[i] !== 2 ? GC.t[em.topic.gi % 9] : l.kind === 'rel' ? GC.rk[l.rk] : GC.line;
+        c.globalAlpha = (strong ? 0.55 : em.kind === 'topic' ? 0.16 : l.kind === 'rel' ? 0.34 : 0.2) + (strong ? 0.45 : em.kind === 'topic' ? 0.3 : 0.5) * f;
+        c.lineWidth = strong ? (em.kind === 'path' ? 2.2 : 1.7) : em.kind === 'topic' ? 0.8 : l.kind === 'rel' ? Math.min(2.2, 0.9 + 0.22 * l.w) : 0.8;
+        if (l.unv) c.setLineDash([4, 3.5]);
+        c.beginPath(); c.moveTo(sx[la[i]], sy[la[i]]); c.lineTo(sx[lb[i]], sy[lb[i]]); c.stroke();
+        if (l.unv) c.setLineDash([]);
+      }
+    }
+    // the points: one path for each colour and each step of brightness; depth sets size and brightness
+    var nk = gl.nk, zr = Math.pow(gl.zoom, 0.45) * (ph ? 0.82 : 1), used = gl.used || (gl.used = new Uint8Array(256));
+    used.fill(0);
+    for (i = 0; i < N; i++) {
+      n = nodes[i];
+      if (!shown(n)) { nk[i] = 255; continue; }
+      f = (sz[i] + 1.05) / 2.1; f = f < 0 ? 0 : f > 1 ? 1 : f;
+      b = emN[i] ? 7 : em ? (f * 2.99) | 0 : 3 + ((f * 3.99) | 0);
+      nk[i] = glCol(n) * 8 + b; used[nk[i]] = 1;
+    }
+    c.globalCompositeOperation = 'source-over';
+    var NA = [0.1, 0.16, 0.24, 0.34, 0.52, 0.74, 0.96, 1];
+    for (q = 0; q < 120; q++) {
+      if (!used[q]) continue;
+      c.fillStyle = glPal(q >> 3); c.globalAlpha = NA[q & 7]; c.beginPath();
+      for (i = 0; i < N; i++) {
+        if (nk[i] !== q) continue; n = nodes[i];
+        r = n.gr * zr * ss[i] * ss[i] * 0.72 * (emN[i] && em.kind !== 'topic' ? 1.25 : 1); if (r < 0.6) r = 0.6;
+        X = sx[i]; Y = sy[i];
+        if (n.kind === 'claim') { r *= 1.25; c.moveTo(X, Y - r); c.lineTo(X + r, Y); c.lineTo(X, Y + r); c.lineTo(X - r, Y); c.closePath(); }
+        else { c.moveTo(X + r, Y); c.arc(X, Y, r, 0, 6.2832); }
+      }
+      c.fill();
+    }
+    // a soft halo under the best-connected names only, and a bright centre so they read as light, not as discs
+    c.globalCompositeOperation = 'lighter';
+    for (q = 0; q < gl.hubs.length; q++) {
+      n = gl.hubs[q]; i = n.gi; if (nk[i] === 255 || (em && !emN[i])) continue;
+      f = (sz[i] + 1.05) / 2.1; r = n.gr * zr * ss[i] * ss[i] * 0.72;
+      var gr = r * (q ? 3.4 : 3.8);
+      c.globalAlpha = (q ? 0.3 : 0.5) * (0.3 + 0.7 * f); c.drawImage(glSprite(glPal(glCol(n))), sx[i] - gr, sy[i] - gr, gr * 2, gr * 2);
+    }
+    c.globalCompositeOperation = 'source-over';
+    for (q = 0; q < gl.hubs.length; q++) {
+      n = gl.hubs[q]; i = n.gi; if (nk[i] === 255 || (em && !emN[i])) continue;
+      f = (sz[i] + 1.05) / 2.1; r = n.gr * zr * ss[i] * ss[i] * 0.72;
+      c.globalAlpha = 0.55 * f; c.fillStyle = '#ffffff'; c.beginPath(); c.arc(sx[i], sy[i], r * 0.42, 0, 6.2832); c.fill();
+    }
+    // the selection, and the mark under the pointer, each get a fine ring
+    function ring(m, col, dash) {
+      if (!m || nk[m.gi] === 255) return;
+      var rr = m.gr * zr * ss[m.gi] * ss[m.gi] * 0.72 * 1.25 + 4.5;
+      c.globalAlpha = 1; c.lineWidth = 1.3; c.strokeStyle = col; if (dash) c.setLineDash([3, 3]); c.beginPath(); c.arc(sx[m.gi], sy[m.gi], rr, 0, 6.2832); c.stroke(); c.setLineDash([]);
+    }
+    ring(map.sel, GC.accent); ring(map.iso && map.iso.node !== map.sel ? map.iso.node : null, GC.accent); ring(map.pathFrom, GC.accent, true);
+    if (map.hover && map.hover !== map.sel) ring(map.hover, GC.ink);
+    if (map.path && map.path.list) { ring(map.path.list[0], GC.accent); ring(map.path.list[map.path.list.length - 1], GC.accent); }
+
+    // names: topic names beside their lobes, then the lit names, then the best-connected names that face the reader
+    var placed = gl.placed || (gl.placed = []), boxes = map.boxes; placed.length = 0; boxes.length = 0;
+    for (q = 0; q < map.obst.length; q++) placed.push(map.obst[q]);
+    function label(m, fi, col, alpha, must) {
+      var j = m.gi, tw = glTextW(m, fi), rr = m.gr * zr * ss[j] * ss[j] * 0.72 * (emN[j] ? 1.25 : 1);
+      if (sx[j] < -20 || sx[j] > W + 20 || sy[j] < -20 || sy[j] > H + 20) return false;
+      if (!glPlace(placed, sx[j], sy[j], Math.max(rr, 2), tw, must)) return false;
+      var bx = [glBox[0] - 3, glBox[1] - 1, glBox[0] + tw + 3, glBox[1] + 16, m];
+      placed.push(bx); boxes.push(bx); glWrite(c, glText(m), fi, glBox[0], glBox[1], tw, col, alpha); return true;
+    }
+    var nowT = F.topic, tfont = '600 12px ' + FONT;
+    if (!map.iso && (!em || em.kind === 'topic' || em.kind === 'hover' || em.kind === 'link')) for (q = 0; q < ARCS.length; q++) {
+      var tp = ARCS[q], v = gl.tcap[q]; if (nowT && tp.id !== nowT) continue;
+      zz = r6 * v[0] + r7 * v[1] + r8 * v[2]; if (zz < -0.3 || zz > 0.78 * Math.hypot(v[0], v[1], v[2])) continue;   // a topic's name is written only while its lobe is on the globe's edge, outside the points
+      s = D / (D - zz); X = cx + (r0 * v[0] + r1 * v[1] + r2 * v[2]) * s * rad; Y = cy - (r3 * v[0] + r4 * v[1] + r5 * v[2]) * s * rad;
+      var txt = ph ? tp.short : tp.name, tw2 = tp.gw && tp.gwS === gl.wstamp && tp.gwP === ph ? tp.gw : (c.font = tfont, tp.gwS = gl.wstamp, tp.gwP = ph, tp.gw = c.measureText(txt).width);
+      var side = (X - cx) / (rad || 1), x0 = Math.max(6, Math.min(gl.aw - tw2 - 10, X - tw2 * (side < -0.25 ? 1 : side > 0.25 ? 0 : 0.5))), y0 = Math.max(6, Math.min(H - 22, Y - 8));
+      if (overlaps(placed, x0 - 4, y0 - 2, x0 + tw2 + 4, y0 + 17)) continue;
+      var tb = [x0 - 4, y0 - 2, x0 + tw2 + 4, y0 + 17, tp]; placed.push(tb); boxes.push(tb);
+      c.font = tfont; c.textAlign = 'left'; c.textBaseline = 'middle'; c.lineJoin = 'round';
+      var ta = (nowT ? 1 : Math.min(1, 0.35 + 0.65 * (zz + 0.25) / 0.9)) * (em && em.kind !== 'topic' ? 0.5 : 1) * (map.hoverTopic === tp ? 1 : 0.92);
+      c.globalAlpha = ta * 0.9; c.lineWidth = 3.2; c.strokeStyle = GC.halo; c.strokeText(txt, x0, y0 + 7.5);
+      c.globalAlpha = ta; c.fillStyle = GC.t[q % 9]; c.fillText(txt, x0, y0 + 7.5);
+      if (map.hoverTopic === tp || nowT) { c.globalAlpha = ta; c.fillRect(x0, y0 + 16, tw2, 1); }
+    }
+    var cap = 0, lim;
+    if (em) {
+      lim = em.kind === 'topic' ? (ph ? 10 : 26) : em.kind === 'path' ? 40 : (ph ? 14 : 44);
+      for (q = 0; q < em.order.length && cap < lim; q++) {
+        n = em.order[q]; i = n.gi; if (nk[i] === 255) continue;
+        var lead = n === em.lead || n === em.hov || em.kind === 'path' || em.kind === 'link';
+        if (!lead && n.kind !== 'entity' && !(em.lead && em.lead.kind !== 'entity')) continue;   // beside a name, only names are written; its checks are in the panel
+        if (label(n, lead ? 1 : n.kind === 'claim' ? 2 : 0, lead ? '#ffffff' : n.kind === 'claim' ? GC.ink2 : GC.ink, lead ? 1 : 0.55 + 0.45 * Math.min(1, (sz[i] + 1) / 1.6), lead)) cap++;
+      }
+    } else {
+      lim = glLabelN();
+      for (q = 0; q < ranked.length && q < lim * 3 && cap < lim; q++) {
+        n = ranked[q]; i = n.gi; if (nk[i] === 255) continue;
+        if (sz[i] < -0.3 && q) continue;
+        f = q ? Math.min(1, (sz[i] + 0.3) / 0.5) : 1;
+        if (label(n, q ? 0 : 1, q ? GC.ink : '#ffffff', q ? 0.45 + 0.55 * f : 1, !q)) cap++;
+      }
+      if (map.iso && map.iso.node.vis) label(map.iso.node, 1, '#ffffff', 1, true);
+    }
+    c.globalAlpha = 1;
+    gl.ms += (performance.now() - t0 - gl.ms) * 0.1; gl.frames++;
+  }
+  function glR(n) { return n.gr * Math.pow(gl.zoom, 0.45) * (narrow.matches ? 0.82 : 1) * gl.ss[n.gi] * gl.ss[n.gi] * 0.72; }
+  function glHit(px, py, slack) {
+    if (!gl.ok) return null;
+    var best = null, bd = Infinity, i, n, d, r, em = gl.em, b;
+    for (i = 0; i < gl.N; i++) {
+      if (gl.nk[i] === 255) continue;
+      if (gl.sz[i] < -0.2 && !(em && gl.emN[i])) continue;   // the far side is not picked through the near side
+      d = Math.hypot(gl.sx[i] - px, gl.sy[i] - py); n = nodes[i]; r = glR(n);
+      if (d <= r + slack + 2) { d = d - r - (em && gl.emN[i] ? 6 : 0) - gl.sz[i] * 2; if (d < bd) { bd = d; best = n; } }
+    }
+    if (!best) for (i = 0; i < map.boxes.length; i++) { b = map.boxes[i]; if (px >= b[0] && px <= b[2] && py >= b[1] && py <= b[3] && b[4].key) return b[4]; }
+    return best;
+  }
+  function glTopicAt(px, py) { for (var i = 0; i < map.boxes.length; i++) { var b = map.boxes[i]; if (!b[4].key && px >= b[0] && px <= b[2] && py >= b[1] && py <= b[3]) return b[4]; } return null; }
+  function glLinkAt(px, py) {   // the link under the pointer: a lit one first, else one on the near side
+    if (!gl.ok) return null;
+    var best = null, bd = 4.5, i, x0, y0, x1, y1, dx, dy, t, d, lit = false;
+    for (i = 0; i < gl.E; i++) {
+      var z = gl.lz[i]; if (z === 255 || (z < 3 && z !== 254)) continue;
+      if (z !== 254 && (lit || gl.L[i].kind !== 'rel')) continue;
+      x0 = gl.sx[gl.la[i]]; y0 = gl.sy[gl.la[i]]; x1 = gl.sx[gl.lb[i]]; y1 = gl.sy[gl.lb[i]]; dx = x1 - x0; dy = y1 - y0;
+      t = ((px - x0) * dx + (py - y0) * dy) / (dx * dx + dy * dy || 1); if (t < 0.04 || t > 0.96) continue;
+      d = Math.hypot(x0 + dx * t - px, y0 + dy * t - py) - (z === 254 ? 1.5 : 0);
+      if (d < bd) { bd = d; best = gl.L[i]; if (z === 254) lit = true; }
+    }
+    return best;
+  }
+  function linkSentence(l) {   // one plain sentence for a link, with the number of checks it rests on
+    if (l.kind === 'rel') {
+      var r = strongest(l.rels), cs = new Set(); l.rels.forEach(function (x) { x.claims.forEach(function (id) { cs.add(id); }); });
+      return { main: cap(plainSentence(r)) + '.', sub: (l.unv ? 'Alleged, unverified' : 'Documented') + ' · ' + (RLABEL[r.type] || cap(r.type)) + (l.rels.length > 1 ? ' · ' + plural(l.rels.length, 'recorded link') : '') + ' · ' + plural(cs.size, 'source check') };
+    }
+    var c = l.source.kind === 'claim' ? l.source : l.target, o = c === l.source ? l.target : l.source;
+    if (l.kind === 'claim') return { main: shortName(o) + ' is named in the check ' + c.id + '.', sub: trunc(c.title, 70) };
+    return { main: (o.name || '') + ' and ' + (c.name || '') + ' are grouped together.', sub: l.kind === 'parent' ? 'One check builds on the other' : 'Recurring theme' };
+  }
+  function glTip(n, l, px, py) {
+    var tip = $('tip');
+    if (!n && !l) { tip.hidden = true; return; }
+    var x, y, r = 12;
+    if (n) {
+      var sub = n.kind === 'claim' ? (isUnv(n) ? unvText(n) : VLABEL[n.verdict]) + ' · ' + originText(n)
+        : n.kind === 'theme' ? 'Recurring theme · ' + plural(arr(n.claims).length, 'check')
+          : TLABEL[n.type] + ' · ' + plural(n.lines.length, 'connection') + ' · in ' + plural(n.cl.length, 'check') + (n.unverified_only ? ' · named only in an unverified check' : '');
+      tip.innerHTML = '<b>' + esc(n.name) + '</b><span>' + esc(sub) + '</span>';
+      x = gl.sx[n.gi]; y = gl.sy[n.gi]; r = glR(n) + 12;
+    } else { var s = linkSentence(l); tip.innerHTML = '<b class="tsent">' + esc(s.main) + '</b><span>' + esc(s.sub) + '</span>'; x = px; y = py; }
+    tip.hidden = false;
+    var tw = tip.offsetWidth, th = tip.offsetHeight;
+    tip.style.left = Math.max(6, Math.min(W - tw - 6, x + r)) + 'px';
+    tip.style.top = Math.max(6, Math.min(H - th - 6, y - th - 8 < 6 ? y + r : y - th - 8)) + 'px';
+  }
+  function glHud() {   // the read-out on the canvas: what is drawn now, and what is lit
+    var el = $('hud'); if (!el || !gl.ok) return;
+    var ne = 0, nc = 0, nl = 0, nm = 0, i, l;
+    for (i = 0; i < nodes.length; i++) if (shown(nodes[i])) { if (nodes[i].kind === 'entity') ne++; else if (nodes[i].kind === 'claim') nc++; }
+    for (i = 0; i < links.length; i++) { l = links[i]; if (glLinkOn(l)) { if (l.kind === 'rel') nl++; else if (l.kind === 'claim') nm++; } }
+    var sel = 'Nothing selected', em;
+    if (map.path && map.path.list) sel = 'Path · ' + shortName(map.path.list[0]) + ' to ' + shortName(map.path.list[map.path.list.length - 1]) + ' · ' + plural(map.path.steps.length, 'step');
+    else if (map.pathFrom) sel = 'Tracing from ' + shortName(map.pathFrom);
+    else if (map.sel) { em = focusSet(map.sel); sel = (map.sel.kind === 'entity' ? mapLabel(map.sel) : map.sel.kind === 'claim' ? 'Check ' + map.sel.id : map.sel.name) + ' · ' + plural(em.links.size, 'link') + ' lit' + (map.iso ? ' · isolated' : ''); }
+    else if (map.topicSet) sel = map.topicSet.topic.name + ' · ' + plural(map.topicSet.w.size, 'name');
+    el.innerHTML = '<dl><div><dt>Names</dt><dd>' + num(ne) + '</dd></div><div><dt>Links</dt><dd>' + num(nl) + '</dd></div><div><dt>Checks</dt><dd>' + num(nc) + '</dd></div><div class="wide"><dt>Mentions</dt><dd>' + num(nm) + '</dd></div></dl><p class="hud-sel' + (sel === 'Nothing selected' ? '' : ' on') + '">' + esc(sel) + '</p>';
+  }
+  function glTouch(ms) { gl.idleAt = performance.now() + (ms || 6000); clearTimeout(gl.idleTimer); gl.idleTimer = setTimeout(glWake, (ms || 6000) + 60); }
+  function glAuto() {
+    return !gl.still && !reduced.matches && !gl.over && !gl.drag && !map.sel && !map.hover && !map.iso && !map.path && !map.pathFrom && !F.topic && $('tools-body').hidden && performance.now() >= gl.idleAt;
+  }
+  function glWake() { if (!gl.raf && gl.ok) { gl.last = 0; gl.raf = requestAnimationFrame(glTick); } }
+  function glTick(t) {
+    gl.raf = 0;
+    if (state.view !== 'map' || map.mode !== 'network' || !gl.ok || !W) return;
+    var dt = gl.last ? Math.min(48, t - gl.last) : 16, more = false; gl.last = t;
+    if (gl.anim) {
+      var a = gl.anim; if (!a.t0) a.t0 = t;
+      var u = Math.min(1, (t - a.t0) / a.dur), e = u < 0.5 ? 4 * u * u * u : 1 - Math.pow(-2 * u + 2, 3) / 2;
+      gl.q = qslerp(a.q0, a.q1, e); gl.zoom = a.z0 + (a.z1 - a.z0) * e;
+      if (u >= 1) gl.anim = null; more = true;
+    } else if (gl.drag) more = false;
+    else if (Math.abs(gl.wx) + Math.abs(gl.wy) > 0.00003) {
+      var ang = Math.hypot(gl.wx, gl.wy) * dt; glSpin(gl.wx, gl.wy, ang);
+      var k = Math.pow(0.93, dt / 16); gl.wx *= k; gl.wy *= k; more = true;
+    } else if (glAuto()) { glSpin(0, 1, 0.00005 * dt); more = true; }
+    draw();
+    if (more) gl.raf = requestAnimationFrame(glTick);
+  }
+  window.__mapProbe = function (key) {   // for tests: where a mark is on the canvas now, and how long a frame takes
+    if (!gl.ok) return null;
+    if (key === 'ms') return { ms: gl.ms, frames: gl.frames };
+    if (key === 'spin') { gl.still = false; gl.idleAt = 0; gl.over = false; glWake(); return true; }
+    if (/^dbg/.test(key)) { gl.dbg = +key.slice(3); return gl.dbg; }
+    if (key === 'bench') {   // twenty frames drawn and flushed, one after another: the whole cost of a frame, raster included
+      var t0 = performance.now(); for (var f = 0; f < 20; f++) { glSpin(0, 1, 0.01); ctx.setTransform(dpr, 0, 0, dpr, 0, 0); glDraw(); ctx.getImageData(0, 0, 1, 1); }
+      return (performance.now() - t0) / 20;
+    }
+    if (key === 'litlink') {   // a point on a lit link that is clear of every mark and label
+      var bb = canvas.getBoundingClientRect();
+      for (var i = 0; i < gl.E; i++) if (gl.emL[i] && gl.L[i].kind === 'rel') { var mx = (gl.sx[gl.la[i]] * 0.45 + gl.sx[gl.lb[i]] * 0.55), my = (gl.sy[gl.la[i]] * 0.45 + gl.sy[gl.lb[i]] * 0.55); if (!glHit(mx, my, 6) && !glTopicAt(mx, my) && glLinkAt(mx, my) === gl.L[i]) return { x: bb.left + mx, y: bb.top + my }; }
+      return null;
+    }
+    var n = byKey.get(key) || byKey.get('e:' + key); if (!n) return null;
+    var b = canvas.getBoundingClientRect(); return { x: b.left + gl.sx[n.gi], y: b.top + gl.sy[n.gi], z: gl.sz[n.gi], r: glR(n) };
+  };
+
   // ---- isolate and trace path
   function isolate(n) {
     map.iso = { node: n, depth: 1 }; map.path = null; map.pathFrom = null; map.focus = null; F.topic = ''; $('focus-note').hidden = true;
@@ -1903,13 +2409,17 @@
     if (map.sel !== n) mapSelect(n, { center: false }); else renderPanel();
     fit(true);
   }
-  function findPath(a, b) {
+  function findPath(a, b, relOnly) {
     var prev = new Map([[a, null]]), q = [a];
     while (q.length) {
       var n = q.shift(); if (n === b) break;
-      n.adj.forEach(function (l, k) { var o = byKey.get(k); if (l.vis0 && !prev.has(o)) { prev.set(o, { n: n, l: l }); q.push(o); } });
+      n.adj.forEach(function (l, k) { var o = byKey.get(k); if (l.vis0 && (!relOnly || l.kind === 'rel') && !prev.has(o)) { prev.set(o, { n: n, l: l }); q.push(o); } });
     }
     if (!prev.has(b)) return { from: a, to: b };
+    if (!relOnly && a.kind === 'entity' && b.kind === 'entity') {   // a chain of documented links between names is preferred to one that runs through a shared check, unless it is much longer
+      var viaRels = findPath(a, b, true), n0 = 0, c0 = b; while (prev.get(c0)) { c0 = prev.get(c0).n; n0++; }
+      if (viaRels.list && viaRels.steps.length <= n0 + 2) return viaRels;
+    }
     var list = [b], ls = [], cur = b;
     while (prev.get(cur)) { var p = prev.get(cur); ls.unshift(p.l); list.unshift(p.n); cur = p.n; }
     return { from: a, to: b, list: list, steps: ls, set: new Set(list), links: new Set(ls) };
@@ -1919,11 +2429,8 @@
   function renderBanner() {
     var b = $('banner'), h = '';
     if (map.pathFrom) h = '<span><strong>Trace a path.</strong> From ' + esc(shortName(map.pathFrom)) + '. Select a second mark on the map, or find one with the search.</span><button type="button" class="linkbtn" data-act="path-clear">Cancel</button>';
-    else if (map.path && map.path.list) {
-      h = '<span class="chain"><strong>Path, ' + plural(map.path.steps.length, 'step') + '.</strong> ';
-      map.path.list.forEach(function (n, i) { if (i) h += ' <span class="via' + (map.path.steps[i - 1].kind === 'rel' && map.path.steps[i - 1].rels[0].S === n ? ' rev' : '') + '">' + esc(linkWord(map.path.steps[i - 1])) + (map.path.steps[i - 1].unv ? ' (alleged, unverified)' : '') + '</span> '; h += nodeBtn(n); });
-      h += '</span><button type="button" class="linkbtn" data-act="path-clear">Clear the Path</button>';
-    } else if (map.path) h = '<span><strong>No path.</strong> Nothing connects ' + esc(shortName(map.path.from)) + ' and ' + esc(shortName(map.path.to)) + ' with the current filters.</span><button type="button" class="linkbtn" data-act="path-clear">Clear</button>';
+    else if (map.path && map.path.list) h = '';   // a found path is read in the panel, step by step
+    else if (map.path) h = '<span><strong>No path.</strong> Nothing connects ' + esc(shortName(map.path.from)) + ' and ' + esc(shortName(map.path.to)) + ' with the current filters.</span><button type="button" class="linkbtn" data-act="path-clear">Clear</button>';
     else if (map.iso) {
       var cnt = nodes.filter(function (n) { return n.vis; }).length - 1;
       h = '<span><strong>Isolated.</strong> ' + esc(shortName(map.iso.node)) + ' and ' + plural(cnt, 'mark') + ' within ' + plural(map.iso.depth, 'step') + '.</span>' +
@@ -1971,16 +2478,76 @@
     });
   }
   function mapHint() { return narrow.matches ? 'Tap a name or a topic to see its connections.' : 'Point at a name to see its links. Select it to read them.'; }
+  /* The panel is a case file. Each link is one line of evidence: what it says, the sum and the date where the record has them,
+     how well it is supported, and the checks it comes from, cited by number. */
+  function cites(list) {
+    var cs = arr(list).map(function (id) { return byKey.get(id); }).filter(Boolean);
+    if (!cs.length) return '';
+    return '<span class="cites">' + cs.slice(0, 4).map(function (c) { return '<a class="cite" href="' + claimHref(c) + '" title="' + esc(c.title) + '">' + esc(c.id) + '</a>'; }).join('') + (cs.length > 4 ? '<span class="citemore">+' + (cs.length - 4) + '</span>' : '') + '</span>';
+  }
+  function evGrade(r) {
+    var cs = r.claims.map(function (id) { return byKey.get(id); }).filter(Boolean);
+    if (r.alleged) return '<span class="ev unv"><i class="evline dashed" aria-hidden="true"></i>Alleged, Unverified</span>';
+    if (cs.length && cs.every(function (c) { return c.single_source; })) return '<span class="ev one"><i class="evline dotted" aria-hidden="true"></i>Single-Source</span>';
+    return '<span class="ev"><i class="evline" aria-hidden="true"></i>Documented</span>';
+  }
+  function rkSw(type) { return '<i class="rksw" style="background:' + GC.rk[RKIND[type] || 'own'] + '" aria-hidden="true"></i>'; }
+  function evRow(r, n, kind) {
+    var o = r.S === n ? r.T : r.S, say, fig = '';
+    if (!n) say = esc(cap(plainSentence(r)));
+    else if (r.S === n) say = flows(r.label) ? esc(cap(r.label)) + ' ' + nodeBtn(o) : nodeBtn(o) + ': ' + esc(r.label);
+    else say = flows(r.label) ? nodeBtn(o) + ' ' + esc(r.label) + ' ' + esc(mapRef(n)) : nodeBtn(o) + ': ' + esc(r.label);
+    if (typeof r.amount_usd === 'number') fig += '<b>' + esc(money(r.amount_usd)) + '</b>';
+    if (r.date) fig += '<span>' + esc(fdate(r.date)) + '</span>';
+    return '<li class="prow evrow' + (n ? '' : ' nomark') + (r.alleged ? ' alleged' : '') + '"' + (n ? ' data-hov="' + esc(o.key) + '"' : '') + '>' + (n ? kmark(o) : '') + '<p class="p2">' + say + '</p>' + (fig ? '<p class="pfig">' + fig + '</p>' : '') +
+      '<p class="p3">' + evGrade(r) + (kind ? '<span class="rtype">' + rkSw(r.type) + esc(RLABEL[r.type] || cap(r.type)) + '</span>' : '') + cites(r.claims) + '</p></li>';
+  }
+  var topSums = null;
+  function leadSums() {   // the largest sums on record, one per pair of names, as places to start
+    if (topSums) return topSums;
+    var seen = {}, out = [];
+    rels.filter(function (r) { return typeof r.amount_usd === 'number' && !r.alleged; }).sort(function (a, b) { return b.amount_usd - a.amount_usd; }).forEach(function (r) {
+      var k = r.s < r.t ? r.s + '|' + r.t : r.t + '|' + r.s; if (seen[k] || out.length >= 12) return; seen[k] = 1; out.push(r);
+    });
+    return (topSums = out);
+  }
+  function pathPanel() {   // a traced path, read as a chain of evidence: one numbered step for each link
+    var P = map.path, a = P.list[0], b = P.list[P.list.length - 1], unvN = P.steps.filter(function (l) { return l.unv; }).length;
+    var body = '<p class="prole">The shortest chain of recorded links between the two. Each step is one link, with what the record says and the checks it comes from. A chain shows that the names are connected on the record, not that one acted for another.</p><ol class="steps">';
+    P.steps.forEach(function (l, i) {
+      var from = P.list[i], to = P.list[i + 1], say, meta;
+      if (l.kind === 'rel') {
+        var r = strongest(l.rels), fig = (typeof r.amount_usd === 'number' ? '<b>' + esc(money(r.amount_usd)) + '</b> ' : '') + (r.date ? esc(fdate(r.date)) : '');
+        say = esc(cap(plainSentence(r))) + '.' + (l.rels.length > 1 ? ' <span class="cnt">And ' + plural(l.rels.length - 1, 'more recorded link') + ' between them.</span>' : '');
+        meta = evGrade(r) + '<span class="rtype">' + rkSw(r.type) + esc(RLABEL[r.type] || cap(r.type)) + '</span>' + (fig ? '<span class="sfig">' + fig + '</span>' : '') + cites(r.claims);
+      } else {
+        var c = from.kind === 'claim' ? from : to.kind === 'claim' ? to : null, o = c === from ? to : from;
+        say = l.kind === 'claim' && c ? esc(shortName(o)) + ' is named in the check “' + esc(c.title) + '”.' : esc(from.name) + ' ' + esc(linkWord(l)) + ' ' + esc(to.name) + '.';
+        meta = (l.unv ? '<span class="ev unv"><i class="evline dashed" aria-hidden="true"></i>Unverified Check</span>' : '<span class="ev"><i class="evline" aria-hidden="true"></i>Named in a Check</span>') + (c ? cites([c.id]) : '');
+      }
+      body += '<li data-hov="' + esc(to.key) + '"><p class="snames">' + nodeBtn(from, from.kind === 'entity' ? mapLabel(from) : from.id || from.name) + '<span class="sarrow" aria-hidden="true">→</span>' + nodeBtn(to, to.kind === 'entity' ? mapLabel(to) : to.id || to.name) + '</p><p class="ssay">' + say + '</p><p class="p3">' + meta + '</p></li>';
+    });
+    body += '</ol>';
+    return panelShell('Chain of evidence · ' + plural(P.steps.length, 'step') + (unvN ? ' · ' + unvN + ' unverified' : ''), esc(shortName(a)) + ' <span class="amp">to</span> ' + esc(shortName(b)), body,
+      '<button type="button" class="btn" data-act="path-clear">Clear the Path</button>');
+  }
   function renderPanel() {
     var p = $('panel'), n = map.sel, h = '', body = '', acts, topic = map.topicSet && map.mode === 'network';
+    glHud();
+    if (map.path && map.path.list && map.mode === 'network') {
+      p.innerHTML = pathPanel(); p.hidden = false; p.scrollTop = 0; p.classList.remove('rest'); root.classList.add('has-panel'); p.setAttribute('aria-label', 'Traced path');
+      return;
+    }
     if (!n && !topic) {
       if (narrow.matches || map.mode !== 'network') { p.hidden = true; root.classList.remove('has-panel'); p.classList.remove('rest'); return; }
-      var kc = entities.filter(function (e) { return e.core; }).length || keyCount();
-      h = '<div class="panel-head"><h2>How to Read the Map</h2></div>' +
-        '<div class="panel-body"><p class="prole">' + (map.hub ? esc(mapLabel(map.hub)) + ' is at the centre. Each ring is one more documented step from him. Each coloured sector is a topic, and a name sits in the sector of the topic that mentions it most.' : 'Each name sits in the sector of the topic that mentions it most.') + ' The ' + num(kc) + ' best-connected names are drawn as marks and labelled where there is room; the other ' + num(entities.length - kc) + ' are the fine dots. Lines at rest are his direct links and the strongest links between the others.</p>' +
+      h = '<div class="panel-head"><h2>Where to Start</h2></div>' +
+        '<div class="panel-body"><p class="prole">' + num(entities.length) + ' names and ' + num(claims.length) + ' checks, placed only by the links the record documents. Names that share many links sit together; the most connected sit towards the middle. Drag to turn the globe.</p>' +
         (map.hinted ? '' : '<p class="phint" id="panel-hint">' + mapHint() + '</p>') +
-        '<h3>Most Connected Names <span class="cnt">documented connections</span></h3>' + fold(mapRankRows(40), 4, 'Names', 'ol', 'pchecks prank') +
-        '<h3>Topics</h3><ul class="pchecks ptopics">' + mapTopicRows().join('') + '</ul></div><div class="pfade" aria-hidden="true"></div>';
+        '<h3>Most Connected <span class="cnt">documented links</span></h3>' + fold(mapRankRows(40), 5, 'Names', 'ol', 'pchecks prank') +
+        '<h3>Largest Sums <span class="cnt">on the record</span></h3>' + fold(leadSums().map(function (r) {
+          return '<li data-hov="' + esc(r.S.key) + '"><span class="amt">' + esc(money(r.amount_usd)) + '</span><span class="sumsay">' + nodeBtn(r.S, mapLabel(r.S)) + ' <span class="cnt">and</span> ' + nodeBtn(r.T, mapLabel(r.T)) + '</span>' + cites(r.claims.slice(0, 1)) + '</li>';
+        }), 4, 'Sums', 'ul', 'pchecks psums') +
+        '<h3>Topics <span class="cnt">checks</span></h3><ul class="pchecks ptopics">' + mapTopicRows().join('') + '</ul></div><div class="pfade" aria-hidden="true"></div>';
       p.innerHTML = h; p.hidden = false; p.scrollTop = 0; p.classList.add('rest'); root.classList.add('has-panel');
       p.setAttribute('aria-label', 'About the map');
       return;
@@ -1999,16 +2566,30 @@
       acts = (n.kind !== 'theme' ? '<a class="btn primary" href="' + pageHref(n) + '">Open Page</a>' : '') +
         '<button type="button" class="linkbtn" data-act="iso">Isolate</button><button type="button" class="linkbtn" data-act="path">Trace a Path</button>';
       if (n.kind === 'entity') {
-        body = (n.unverified_only ? '<p class="pflag">' + mark('unverified') + 'Named only in an unverified check</p>' : '') + (n.role ? '<p class="prole">' + rich(n.role) + '</p>' : '');
+        var others = new Set(); n.lines.forEach(function (r) { others.add(r.S === n ? r.T : r.S); });
+        var sums = arr(n.sums).map(function (i) { return relAt[i]; }).filter(function (r) { return r && r.S && typeof r.amount_usd === 'number'; }).sort(function (a, b) { return b.amount_usd - a.amount_usd; });
+        var tline = arr(n.timeline).map(function (i) { return relAt[i]; }).filter(function (r) { return r && r.S; });
+        var unvN = n.lines.filter(function (r) { return r.alleged; }).length;
+        body = (n.unverified_only ? '<p class="pflag">' + mark('unverified') + 'Named only in an unverified check</p>' : '') + (n.role ? '<p class="prole">' + rich(cap(n.role)) + '</p>' : '') +
+          '<dl class="dfigs"><div><dt>Links</dt><dd>' + num(n.lines.length) + '</dd></div><div><dt>Names</dt><dd>' + num(others.size) + '</dd></div><div><dt>Checks</dt><dd>' + num(n.cl.length) + '</dd></div>' +
+          (sums.length ? '<div><dt>Largest Sum</dt><dd>' + esc(money(sums[0].amount_usd)) + '</dd></div>' : unvN ? '<div><dt>Unverified</dt><dd>' + unvN + '</dd></div>' : '') + '</dl>';
         var types = RTYPES.concat(Array.from(new Set(n.lines.map(function (r) { return r.type; }))).filter(function (t) { return RTYPES.indexOf(t) < 0; }));
-        if (n.lines.length) body += '<h3>Connections <span class="cnt">' + num(n.lines.length) + '</span></h3>';
+        if (n.lines.length) body += '<h3>Documented Links <span class="cnt">by kind, as lit on the globe</span></h3>';
         types.forEach(function (t) {
           var grp = n.lines.filter(function (r) { return r.type === t; }); if (!grp.length) return;
           grp.sort(function (a, b) { return (a.alleged ? 1 : 0) - (b.alleged ? 1 : 0) || b.claims.length - a.claims.length || String(a.date || '9').localeCompare(String(b.date || '9')); });
-          body += '<h4>' + esc(RLABEL[t] || cap(t)) + ' <span class="cnt">' + grp.length + '</span></h4>' + fold(grp.map(function (r) { return panelRel(r, n); }), 4, esc(RLABEL[t] || cap(t)) + ' Connections', 'ul', 'plist');
+          body += '<h4>' + rkSw(t) + esc(RLABEL[t] || cap(t)) + ' <span class="cnt">' + grp.length + '</span></h4>' + fold(grp.map(function (r) { return evRow(r, n); }), 3, esc(RLABEL[t] || cap(t)) + ' Links', 'ul', 'plist');
         });
-        if (n.cl.length) body += '<h3>Checks That Mention ' + (n.group === 'person' ? 'Them' : 'It') + ' <span class="cnt">' + n.cl.length + '</span></h3>' + fold(n.cl.map(function (c) { return '<li data-hov="' + esc(c.key) + '">' + kmark(c) + nodeBtn(c, c.title) + '</li>'; }), 8, 'Checks', 'ul', 'pchecks');
-        h = panelShell(kmark(n) + esc(TLABEL[n.type]) + ' · ' + plural(n.lines.length, 'connection') + ' · in ' + plural(n.cl.length, 'check'), esc(n.name), body, acts);
+        if (sums.length) body += '<h3>Largest Sums <span class="cnt">as the record states them</span></h3><ul class="pchecks psums">' + sums.slice(0, 4).map(function (r) {
+          var o = r.S === n ? r.T : r.S;
+          return '<li data-hov="' + esc(o.key) + '"><span class="amt">' + esc(money(r.amount_usd)) + '</span><span class="sumsay">' + nodeBtn(o, mapLabel(o)) + ' <span class="cnt">' + briefFrom(r, n, true) + (r.date ? ', ' + esc(fdate(r.date)) : '') + '</span></span>' + cites(r.claims.slice(0, 1)) + '</li>';
+        }).join('') + '</ul>';
+        if (tline.length) body += '<h3>Timeline <span class="cnt">' + plural(tline.length, 'dated link') + '</span></h3>' + fold(tline.map(function (r) {
+          var o = r.S === n ? r.T : r.S;
+          return '<li data-hov="' + esc(o.key) + '"><span class="when">' + esc(fdate(String(r.date).split('/')[0])) + '</span><span class="sumsay">' + esc(cap(plainSentence(r))) + '</span>' + cites(r.claims.slice(0, 1)) + '</li>';
+        }), 5, 'Dated Links', 'ol', 'pchecks ptl');
+        if (n.cl.length) body += '<h3>Checks That Mention ' + (n.group === 'person' ? 'Them' : 'It') + ' <span class="cnt">' + n.cl.length + '</span></h3>' + fold(n.cl.map(function (c) { return '<li data-hov="' + esc(c.key) + '">' + kmark(c) + nodeBtn(c, c.title) + '<a class="cite" href="' + claimHref(c) + '" title="Open the check">' + esc(c.id) + '</a></li>'; }), 6, 'Checks', 'ul', 'pchecks');
+        h = panelShell(kmark(n) + esc(TLABEL[n.type]) + (n.top ? ' · <span class="tsw" style="background:var(--t' + (n.top.ci + 1) + ')" aria-hidden="true"></span>' + esc(n.top.name) : ''), esc(n.name), body, acts);
       } else if (n.kind === 'claim') {
         body = (isUnv(n) ? '<p class="pflag">' + mark('unverified') + 'Denied by everyone named and not corroborated</p>' : '') + '<p class="prole">' + rich(firstSentence(n.bottom_line)) + '</p>' +
           '<p class="ptally">' + bar(n.tally || [], 'mini') + esc(tallyText(n)) + '</p>';
@@ -2044,8 +2625,8 @@
     if (F.topic && !traced) F.topic = '';
     applyFilters();
     var wasFocus = !!map.focus;
-    map.sel = n; map.hover = null; map.hoverTopic = null; showTip(null);
-    renderPanel();
+    map.sel = n; map.hover = null; map.hoverTopic = null; gl.hovLink = null; showTip(null);
+    renderPanel(); renderLegend();
     if (!opts.fromHash) setHash('map-' + mapId(n));
     if (focusMode()) {
       if (!wasFocus && fitted) map.savedT = { k: T.k, x: T.x, y: T.y };
@@ -2064,7 +2645,7 @@
     if (s && !map.iso && !narrow.matches) moveTo(s.x, s.y, s.k, false); else fit(false);
   }
   function mapDeselect(keepHash) {
-    map.sel = null; renderPanel(); leaveFocus();
+    map.sel = null; renderPanel(); renderLegend(); if (W) glFrame(); glTouch(4000);
     if (!keepHash) setHash(F.topic ? 'map-topic-' + F.topic : 'map');
     requestDraw();
   }
@@ -2078,22 +2659,24 @@
   function setLevel(l) {
     map.level = l; restCache = null;
     document.querySelectorAll('[data-level]').forEach(function (b) { b.setAttribute('aria-pressed', String(+b.getAttribute('data-level') === l)); });
-    if (W && map.mode === 'network') {
-      var before = LAY && LAY.key; mapLayout();
-      if (LAY && LAY.key !== before) { map.savedT = null; if (!focusMode()) fit(false); renderLegend(); if (!map.sel && !map.topicSet) renderPanel(); }
-    }
-    requestDraw();
+    gl.stamp++; glHud(); requestDraw();
   }
+  function setColorBy(v) {
+    gl.colorBy = v === 'kind' ? 'kind' : 'topic';
+    document.querySelectorAll('[data-color]').forEach(function (b) { b.setAttribute('aria-pressed', String(b.getAttribute('data-color') === gl.colorBy)); });
+    renderLegend(); requestDraw();
+  }
+  /* The key sits on the canvas: what colour means now, what the marks and lines are, and, with a selection, what the colour of a lit link means. */
   function renderLegend() {
-    function dot(cls, body) { return '<svg class="lmark ' + cls + '" width="12" height="12" viewBox="0 0 12 12" aria-hidden="true">' + body + '</svg>'; }
-    $('legend').innerHTML =
-      '<li>' + kmark({ group: 'person' }) + 'People</li><li>' + kmark({ group: 'org' }) + 'Companies &amp; Funds</li><li>' + kmark({ group: 'gov' }) + 'Governments</li><li>' + kmark({ group: 'other' }) + 'Other</li>' +
-      '<li class="gap"><svg class="lmark lline" width="26" height="12" viewBox="0 0 26 12" aria-hidden="true"><path d="M1 3.5h24" stroke-width="1"/><path d="M1 8.5h24" stroke-width="2.8"/></svg>Wider Line, More Links</li>' +
-      '<li><span class="dashkey" aria-hidden="true"></span>Unverified Link</li>';
-    // one finding, stated plainly: the two names, other than the centre, that the records link most often
-    var best = null;
-    links.forEach(function (l) { if (l.kind === 'rel' && !l.unv && l.source !== map.hub && l.target !== map.hub && l.source.kind === 'entity' && l.target.kind === 'entity' && (!best || l.w > best.w)) best = l; });
-    if (best && best.w > 2) $('legend').innerHTML += '<li class="lnote"><span>Most-linked pair: ' + nodeBtn(best.source, mapLabel(best.source)) + ' and ' + nodeBtn(best.target, mapLabel(best.target)) + ', ' + best.w + ' documented links</span></li>';
+    function sw(col, text, cls) { return '<li><i class="lsw' + (cls ? ' ' + cls : '') + '" style="background:' + col + '" aria-hidden="true"></i>' + text + '</li>'; }
+    var lit = !!(map.sel && map.sel.kind === 'entity' && !(map.path && map.path.list)), h;
+    if (lit) h = '<p class="lhead">Lit Links, by Kind</p><ul class="lcols two">' + RKORDER.map(function (k) { return sw(GC.rk[k], RKLABEL[k].replace('&', '&amp;'), 'bar'); }).join('') + '</ul>';
+    else if (gl.colorBy === 'kind') h = '<p class="lhead">Colour, by Kind of Name</p><ul class="lcols two">' + GROUPS.map(function (g) { return sw(GC.g[g], GLABEL[g].replace('&', '&amp;')); }).join('') + '</ul>';
+    else h = '<p class="lhead">Colour, by Topic</p><ul class="lcols">' + ARCS.map(function (t, i) { return '<li><i class="lsw" style="background:' + GC.t[i % 9] + '" aria-hidden="true"></i><a class="namebtn" href="#map-topic-' + esc(t.id) + '" data-topic="' + esc(t.id) + '">' + esc(t.short) + '</a></li>'; }).join('') + '</ul>';
+    h += '<ul class="lrow"><li><svg width="24" height="10" viewBox="0 0 24 10" aria-hidden="true"><circle cx="3" cy="5" r="1.4"/><circle cx="10" cy="5" r="2.6"/><circle cx="19.5" cy="5" r="4"/></svg>Name, Sized by Links</li>' +
+      '<li><svg width="10" height="10" viewBox="0 0 10 10" aria-hidden="true"><path d="M5 .8 9.2 5 5 9.2.8 5z"/></svg>Check</li></ul>' +
+      '<ul class="lrow"><li><i class="lline" aria-hidden="true"></i>Documented Link</li><li><i class="lline dashed" aria-hidden="true"></i>Unverified</li></ul>';
+    $('legend').innerHTML = h;
   }
   function renderTools() {
     var counts = {};
@@ -2103,7 +2686,8 @@
     }
     var realTopics = TOPICS.filter(function (t) { return t.id !== 'other'; });
     $('tools-body').innerHTML = '<div class="tools-head"><h2>Filters</h2><button type="button" class="iconbtn" data-act="tools-close" aria-label="Close filters">' + XICON + '</button></div>' +
-      '<div class="detailf"><span class="flab" id="lab-detail2">Show</span><div class="seg" role="group" aria-labelledby="lab-detail2">' + ['Key Names', 'More', 'Everything'].map(function (t, i) { return '<button type="button" data-level="' + i + '" aria-pressed="' + (map.level === i) + '">' + t + '</button>'; }).join('') + '</div></div>' +
+      '<div class="detailf"><span class="flab" id="lab-detail2">Labels</span><div class="seg" role="group" aria-labelledby="lab-detail2">' + ['Key Names', 'More', 'Everything'].map(function (t, i) { return '<button type="button" data-level="' + i + '" aria-pressed="' + (map.level === i) + '">' + t + '</button>'; }).join('') + '</div></div>' +
+      '<div class="detailf"><span class="flab" id="lab-color2">Colour By</span><div class="seg" role="group" aria-labelledby="lab-color2">' + [['topic', 'Topic'], ['kind', 'Kind']].map(function (t) { return '<button type="button" data-color="' + t[0] + '" aria-pressed="' + (gl.colorBy === t[0]) + '">' + t[1] + '</button>'; }).join('') + '</div></div>' +
       (realTopics.length > 1 ? '<label class="topicf"><span class="flab">Topic</span><select id="f-topic" data-group="topic"><option value="">All ' + cap(word(realTopics.length)) + ' Topics</option>' +
       realTopics.map(function (t) { return '<option value="' + esc(t.id) + '"' + (F.topic === t.id ? ' selected' : '') + '>' + esc(t.name) + ' (' + t.list.length + ')</option>'; }).join('') + '</select></label>' : '') +
       '<fieldset><legend class="flab">Kinds of Mark</legend>' +
@@ -2123,7 +2707,6 @@
   function setKey(open) {   // on a phone the key to the marks opens from a button
     var mv = $('mapview'), kb = $('key-toggle');
     mv.classList.toggle('key-open', open); kb.setAttribute('aria-expanded', String(open));
-    $('legend').style.bottom = open && narrow.matches ? Math.round(mv.getBoundingClientRect().bottom - kb.getBoundingClientRect().top + 8) + 'px' : '';
   }
   function renderChips() {
     $('topic-chips').innerHTML = '<div class="chips-in"><button type="button" data-topic="" aria-pressed="true">All Topics</button>' + ARCS.map(function (t) {
@@ -2158,63 +2741,90 @@
 
   function initMap() {
     if (map.ready) return;
-    fallbackLayout();
     map.ready = true;
     if (narrow.matches) map.level = 0;
-    readTokens(); renderTools(); renderLegend(); renderChips(); setTools(false); setLevel(map.level);
+    readTokens(); glLayout(); renderTools(); renderLegend(); renderChips(); setTools(false); setLevel(map.level);
     $('note-hint').textContent = mapHint() + ' ';
     $('map-loading').hidden = true;
-    var sel = d3 ? d3.select(canvas) : null;
-    if (d3) {
-      zoom = d3.zoom().scaleExtent([0.03, 10]).on('zoom', function (e) { T = e.transform; showTip(null); if (e.sourceEvent) hintOff(); draw(); });
-      sel.call(zoom).on('dblclick.zoom', null);
-    } else { $('banner').hidden = false; $('banner').textContent = 'Zooming and moving the map need a library that did not load. You can still select marks, and every page has the same content as text.'; }
 
+    /* The globe is turned by dragging, with a little momentum; the wheel or a pinch changes its size. It turns slowly by itself
+       when nothing is in focus and nobody is touching it, unless the reader has asked for reduced motion. */
     function pt(e) { var b = canvas.getBoundingClientRect(); return [e.clientX - b.left, e.clientY - b.top]; }
-    var coarse = false;
-    canvas.addEventListener('pointerdown', function (e) { coarse = e.pointerType !== 'mouse'; });
+    function zoomTo(z, animate) { z = Math.max(0.55, Math.min(7, z)); if (animate) glTo(gl.anim ? gl.anim.q1 : null, z, true); else { gl.zoom = z; requestDraw(); } glHudZoom(); }
+    function glHudZoom() { glTouch(); showTip(null); }
+    var coarse = false, pts = new Map();
+    canvas.addEventListener('pointerdown', function (e) {
+      coarse = e.pointerType !== 'mouse';
+      var p = pt(e); pts.set(e.pointerId, p);
+      try { canvas.setPointerCapture(e.pointerId); } catch (err) { /* optional */ }
+      gl.anim = null; gl.wx = gl.wy = 0; gl.dragged = false; glTouch();
+      if (pts.size === 1) gl.drag = { x: p[0], y: p[1], moved: 0, t: performance.now() };
+      else if (pts.size === 2) { var a = Array.from(pts.values()); gl.pinch = { d: Math.hypot(a[0][0] - a[1][0], a[0][1] - a[1][1]) || 1, z: gl.zoom }; gl.dragged = true; }
+    });
+    function dragEnd(e) {
+      if (!pts.has(e.pointerId)) return;
+      pts.delete(e.pointerId);
+      if (pts.size < 2) gl.pinch = null;
+      if (pts.size) { var q = pts.values().next().value; if (gl.drag) { gl.drag.x = q[0]; gl.drag.y = q[1]; } gl.wx = gl.wy = 0; return; }
+      if (gl.drag && (performance.now() - gl.drag.t > 90 || reduced.matches)) gl.wx = gl.wy = 0;
+      gl.drag = null; canvas.classList.remove('grabbing'); glTouch(); glWake();
+    }
+    canvas.addEventListener('pointerup', dragEnd); canvas.addEventListener('pointercancel', dragEnd);
     canvas.addEventListener('click', function (e) {
+      if (gl.dragged) { gl.dragged = false; return; }
       var p = pt(e), n = hit(p[0], p[1], coarse ? 13 : 5), tp;
       setKey(false);
-      if (n) mapSelect(n, { keep: true });
-      else if ((tp = topicAt(p[0], p[1]))) { setHash(F.topic === tp.id ? 'map' : 'map-topic-' + tp.id); setTopic(F.topic === tp.id ? '' : tp.id); }
-      else if (map.sel && !map.pathFrom) mapDeselect();
+      if (n) mapSelect(n, { keep: !(map.path && !map.pathFrom) });
+      else if ((tp = glTopicAt(p[0], p[1]))) { setHash(F.topic === tp.id ? 'map' : 'map-topic-' + tp.id); setTopic(F.topic === tp.id ? '' : tp.id); }
+      else if (map.sel && !map.pathFrom && !(map.path && map.path.list)) mapDeselect();
       else if (F.topic && !map.pathFrom) { setHash('map'); setTopic(''); }
     });
     canvas.addEventListener('dblclick', function (e) { var p = pt(e), n = hit(p[0], p[1], 5); if (n) isolate(n); });
     canvas.addEventListener('pointermove', function (e) {
+      var p = pt(e);
+      if (pts.has(e.pointerId) && gl.drag) {
+        var was = pts.get(e.pointerId); pts.set(e.pointerId, p);
+        if (gl.pinch && pts.size >= 2) { var a = Array.from(pts.values()); zoomTo(gl.pinch.z * Math.hypot(a[0][0] - a[1][0], a[0][1] - a[1][1]) / gl.pinch.d); return; }
+        var dx = p[0] - was[0], dy = p[1] - was[1], now = performance.now(), dt = Math.max(4, now - gl.drag.t), R = gl.rad * gl.zoom;
+        gl.drag.moved += Math.abs(dx) + Math.abs(dy); gl.drag.t = now;
+        if (gl.drag.moved < 4) return;
+        if (!gl.dragged) { gl.dragged = true; canvas.classList.add('grabbing'); if (map.hover || gl.hovLink) { map.hover = null; gl.hovLink = null; showTip(null); } hintOff(); }
+        glSpin(dy, dx, Math.hypot(dx, dy) / R);
+        gl.wx = gl.wx * 0.4 + 0.6 * dy / R / dt; gl.wy = gl.wy * 0.4 + 0.6 * dx / R / dt;
+        requestDraw(); return;
+      }
       if (e.pointerType !== 'mouse') return;
-      var p = pt(e), n = e.buttons ? map.hover : hit(p[0], p[1], 4);
-      if (n && focusMode() && map.focus && n === map.focus.node) n = null;
-      var tp = !n && !e.buttons ? topicAt(p[0], p[1]) : null;
+      gl.over = true;
+      var n = hit(p[0], p[1], 4), tp = !n ? glTopicAt(p[0], p[1]) : null, l = !n && !tp ? glLinkAt(p[0], p[1]) : null;
       canvas.classList.toggle('over', !!n || !!tp);
-      if (n !== map.hover || tp !== map.hoverTopic) { map.hover = n; map.hoverTopic = tp; showTip(n); requestDraw(); }
+      if (n !== map.hover || tp !== map.hoverTopic || l !== gl.hovLink) { map.hover = n; map.hoverTopic = tp; gl.hovLink = l; if (l) glTip(null, l, p[0], p[1]); else showTip(n); requestDraw(); }
+      else if (l) glTip(null, l, p[0], p[1]);
     });
-    canvas.addEventListener('pointerleave', function () { if (map.hover || map.hoverTopic) { map.hover = null; map.hoverTopic = null; canvas.classList.remove('over'); showTip(null); requestDraw(); } });
+    canvas.addEventListener('pointerleave', function () { gl.over = false; glTouch(2500); if (map.hover || map.hoverTopic || gl.hovLink) { map.hover = null; map.hoverTopic = null; gl.hovLink = null; canvas.classList.remove('over'); showTip(null); requestDraw(); } });
+    canvas.addEventListener('wheel', function (e) { e.preventDefault(); zoomTo(gl.zoom * Math.exp(-e.deltaY * (e.deltaMode ? 0.05 : 0.0016))); hintOff(); }, { passive: false });
     canvas.addEventListener('keydown', function (e) {
-      if (!zoom) return;
-      var step = 60;
-      if (e.key === 'ArrowLeft') zoom.translateBy(sel, step / T.k, 0);
-      else if (e.key === 'ArrowRight') zoom.translateBy(sel, -step / T.k, 0);
-      else if (e.key === 'ArrowUp') zoom.translateBy(sel, 0, step / T.k);
-      else if (e.key === 'ArrowDown') zoom.translateBy(sel, 0, -step / T.k);
-      else if (e.key === '+' || e.key === '=') zoom.scaleBy(sel, 1.3);
-      else if (e.key === '-' || e.key === '_') zoom.scaleBy(sel, 1 / 1.3);
-      else if (e.key === '0') { if (focusMode()) frameFocus(true); else fit(true); }
-      else if (e.key === 'Escape') { if (map.pathFrom) { map.pathFrom = null; renderBanner(); requestDraw(); } else if (map.sel) mapDeselect(); }
+      var step = 0.14;
+      if (e.key === 'ArrowLeft') glSpin(0, 1, -step);
+      else if (e.key === 'ArrowRight') glSpin(0, 1, step);
+      else if (e.key === 'ArrowUp') glSpin(1, 0, -step);
+      else if (e.key === 'ArrowDown') glSpin(1, 0, step);
+      else if (e.key === '+' || e.key === '=') zoomTo(gl.zoom * 1.3, true);
+      else if (e.key === '-' || e.key === '_') zoomTo(gl.zoom / 1.3, true);
+      else if (e.key === '0') fit(true);
+      else if (e.key === 'Escape') { if (map.pathFrom) { map.pathFrom = null; renderBanner(); glHud(); requestDraw(); } else if (map.sel) mapDeselect(); }
       else return;
-      hintOff(); e.preventDefault();
+      glTouch(); requestDraw(); hintOff(); e.preventDefault();
     });
-    $('zoom-in').addEventListener('click', function () { if (zoom) zoom.scaleBy(sel, 1.4); hintOff(); });
-    $('zoom-out').addEventListener('click', function () { if (zoom) zoom.scaleBy(sel, 1 / 1.4); hintOff(); });
-    $('zoom-fit').addEventListener('click', function () { if (focusMode()) frameFocus(true); else fit(true); hintOff(); });
+    $('zoom-in').addEventListener('click', function () { zoomTo((gl.anim ? gl.anim.z1 : gl.zoom) * 1.45, true); hintOff(); });
+    $('zoom-out').addEventListener('click', function () { zoomTo((gl.anim ? gl.anim.z1 : gl.zoom) / 1.45, true); hintOff(); });
+    $('zoom-fit').addEventListener('click', function () { fit(true); glTouch(); hintOff(); });
     $('tools-toggle').addEventListener('click', function () { setTools($('tools-body').hidden); hintOff(); });
     $('key-toggle').addEventListener('click', function () { setKey(!$('mapview').classList.contains('key-open')); });
     $('tools-body').addEventListener('change', function (e) {
       var t = e.target, grp = t.getAttribute('data-group'); if (!grp) return;
       if (grp === 'topic') { if (narrow.matches) setTools(false); setHash(t.value ? 'map-topic-' + t.value : 'map'); setTopic(t.value); return; }
       var set = F[grp]; if (t.checked) set.add(t.value); else set.delete(t.value);
-      applyFilters(); if (focusMode()) { buildFocus(); requestDraw(); }
+      applyFilters();
     });
     $('tools-body').addEventListener('submit', function (e) { e.preventDefault(); });
     $('panel').addEventListener('mouseover', function (e) {
@@ -2224,10 +2834,11 @@
     });
     $('panel').addEventListener('mouseleave', function () { if (map.hover) { map.hover = null; requestDraw(); } });
     $('mapview').addEventListener('click', function (e) {
-      var b = e.target.closest('[data-act],[data-sel],[data-level],[data-view],[data-topic],[data-mx],[data-mxo]'); if (!b) return;
+      var b = e.target.closest('[data-act],[data-sel],[data-level],[data-view],[data-topic],[data-mx],[data-mxo],[data-color]'); if (!b) return;
       var act = b.getAttribute('data-act');
       hintOff();
-      if (b.hasAttribute('data-sel')) { var n = byKey.get(b.getAttribute('data-sel')); if (n) { e.preventDefault(); mapSelect(n, {}); } }
+      if (b.hasAttribute('data-color')) setColorBy(b.getAttribute('data-color'));
+      else if (b.hasAttribute('data-sel')) { var n = byKey.get(b.getAttribute('data-sel')); if (n) { e.preventDefault(); mapSelect(n, {}); } }
       else if (b.hasAttribute('data-level')) setLevel(+b.getAttribute('data-level'));
       else if (b.hasAttribute('data-view')) { var v = b.getAttribute('data-view'); setHash(v === 'matrix' ? 'map-matrix' : v === 'list' ? 'map-list' : 'map'); if (v !== 'matrix' && map.sel) mapDeselect(true); setMode(v); }
       else if (b.hasAttribute('data-mx')) { setHash(b.getAttribute('data-mx') === 'topics' ? 'map-matrix-topics' : 'map-matrix'); MX.mode = b.getAttribute('data-mx'); MX.sel = null; renderMatrix(); }
@@ -2237,30 +2848,31 @@
       else if (act === 'topic-clear') { setHash('map'); setTopic(''); }
       else if (act === 'tools-close') setTools(false);
       else if (act === 'iso' && map.sel) isolate(map.sel);
-      else if (act === 'path' && map.sel) { map.pathFrom = map.sel; map.path = null; map.iso = null; applyFilters(); leaveFocus(); if (narrow.matches) { map.sel = null; renderPanel(); } requestDraw(); }
-      else if (act === 'path-clear') { map.path = null; map.pathFrom = null; applyFilters(); if (focusMode()) { buildFocus(); frameFocus(false); } else fit(true); }
-      else if (act === 'iso-more' && map.iso) { map.iso.depth++; applyFilters(); fit(true); }
-      else if (act === 'iso-clear') { map.iso = null; applyFilters(); if (focusMode()) { buildFocus(); frameFocus(false); } else fit(true); }
+      else if (act === 'path' && map.sel) { map.pathFrom = map.sel; map.path = null; map.iso = null; applyFilters(); if (narrow.matches) { map.sel = null; renderPanel(); } glHud(); requestDraw(); }
+      else if (act === 'path-clear') { map.path = null; map.pathFrom = null; applyFilters(); renderPanel(); renderLegend(); fit(true); }
+      else if (act === 'iso-more' && map.iso) { map.iso.depth++; applyFilters(); glHud(); fit(true); }
+      else if (act === 'iso-clear') { map.iso = null; applyFilters(); glHud(); fit(true); }
       else if (act === 'reset') resetMap();
     });
     document.addEventListener('keydown', function (e) { if (e.key === 'Escape') { if (!$('tools-body').hidden) setTools(false); setKey(false); } });
     if (window.ResizeObserver) new ResizeObserver(resize).observe(canvas.parentElement);
     window.addEventListener('resize', resize);
     if (narrow.addEventListener) narrow.addEventListener('change', function () { if (state.view === 'map' && map.mode === 'network') { renderPanel(); resize(); } });
-    if (document.fonts && document.fonts.ready) document.fonts.ready.then(function () { widths.clear(); if (LAY) { LAY = null; mapLayout(); } if (focusMode()) buildFocus(); requestDraw(); drawPreview(); });
+    if (document.fonts && document.fonts.ready) document.fonts.ready.then(function () { widths.clear(); gl.wstamp = (gl.wstamp || 0) + 1; requestDraw(); drawPreview(); });
+    glTouch(1200);
   }
   function setTopic(id) {   // bring one topic forward: its checks and every name they mention
     F.topic = topicById.has(id) && id !== 'other' ? id : '';
     map.iso = null; map.path = null; map.pathFrom = null; map.hoverTopic = null;
-    if (map.sel) { map.sel = null; leaveFocus(); }
-    applyFilters(); renderPanel();
-    fit(true);
+    map.sel = null;
+    applyFilters(); renderPanel(); renderLegend();
+    fit(true); glTouch(3000);
   }
   function showMap(id) {
     root.classList.add('is-map');
     $('mapview').hidden = false; page.hidden = true; $('foot').hidden = true;
     window.scrollTo(0, 0);
-    initMap();
+    initMap(); glTouch(1500);
     if (id) hintOff();   // arriving at a selection: the first-visit hint is not needed
     var low = String(id || '').toLowerCase(), n = null, tm = /^topic-(.+)$/.exec(low);
     if (low === 'matrix' || low === 'matrix-topics') { if (map.sel) { map.sel = null; map.focus = null; renderPanel(); } setMode('matrix', low === 'matrix-topics' ? 'topics' : 'names'); return; }
@@ -2274,230 +2886,23 @@
   }
 
   // ------------------------------------------------------------------ the matrix
-  /* The same connections as a figure: the best-connected names against one another (or against the topics).
-     Only direct relationships count. Donald Trump is linked to nearly everyone, so his links are a band of their own above the grid.
-     Each row ends in a bar: the number of documented links that name has in all. */
-  var MX = { mode: 'names', sel: null, data: null, order: 'group', focus: 0 };
-  var MXG = ['Family', 'Officials & Agencies', 'Companies & Ventures', 'Funds & Investors', 'Foreign States', 'Media'];
-  function mxGroup(e, hub) {
-    var role = e.role || '', text = e.name + ' ' + role;
-    if (e.type === 'media') return 5;
-    if (e.type === 'country') return 4;
-    if (e.type === 'person') {
-      var fam = hub && e.adj.get(hub.key); if ((fam && fam.kind === 'rel' && fam.rels.some(function (r) { return r.type === 'family'; })) || /\bTrump\b/.test(e.name)) return 0;
-      if (/\b(secretary|attorney general|envoy|chair(man)? of|sec chair|commissioner|czar|senator|sen\.|representative|rep\.|nominee|comptroller|ambassador|adviser to the president|white house)\b/i.test(role)) return 1;
-      if (/\b(sheikh|emir|crown prince|minister|king)\b/i.test(text)) return 4;
-      return /\b(invest|fund|financier|billionaire|backer|venture|capital)\w*/i.test(role) ? 3 : 2;
-    }
-    var foreign = /\b(uae|emirat\w+|abu dhabi|dubai|saudi\w*|qatar\w*|kuwait\w*|pakistan\w*|sovereign)\b/i.test(text);
-    if (e.type === 'government') return foreign ? 4 : 1;
-    if (e.type === 'fund') return foreign ? 4 : 3;
-    return 2;
-  }
-  function mxData() {
-    if (MX.data) return MX.data;
-    var hub = ranked[0] && ranked[0].type === 'person' ? ranked[0] : null;
-    var okType = { person: 1, company: 1, fund: 1, government: 1, media: 1, country: 1 };
-    var pool = ranked.filter(function (e) { return okType[e.type] && e !== hub && !e.unverified_only; }).slice(0, 90), inPool = new Set(pool);
-    function partners(e, set) { var c = 0; e.adj.forEach(function (l, k) { if (l.kind === 'rel' && set.has(byKey.get(k))) c++; }); return c; }
-    pool.sort(function (a, b) { return partners(b, inPool) - partners(a, inPool) || a.rank - b.rank; });
-    var names = pool.filter(function (e) { return mapLabel(e).length <= 20; }).slice(0, MX.size || 40), N = names.length, inSet = new Set(names);
-    function cnt(a, b) { var l = a.adj.get(b.key); return l && l.kind === 'rel' ? l.rels.filter(function (r) { return !r.alleged; }).length : 0; }
-    function alg(a, b) { var l = a.adj.get(b.key); return l && l.kind === 'rel' ? l.rels.filter(function (r) { return r.alleged; }).length : 0; }
-    names.forEach(function (e) { e.mxg = mxGroup(e, hub); e.mxn = partners(e, inSet); e.mxt = e.lines.filter(function (r) { return !r.alleged; }).length; });
-    function vec(e) { return names.map(function (o) { return o === e ? 0 : cnt(e, o) + alg(e, o); }); }
-    function sim(a, b) { var va = vec(a), vb = vec(b), d = 0, na = 0, nb = 0; for (var i = 0; i < N; i++) { d += va[i] * vb[i]; na += va[i] * va[i]; nb += vb[i] * vb[i]; } return (na && nb ? d / Math.sqrt(na * nb) : 0) + (cnt(a, b) + alg(a, b) ? 0.6 : 0); }
-    var order = [];
-    if (MX.order === 'connected') order = names.slice().sort(function (a, b) { return b.mxn - a.mxn || b.mxt - a.mxt || a.rank - b.rank; });
-    else if (MX.order === 'alpha') order = names.slice().sort(function (a, b) { return mapLabel(a).localeCompare(mapLabel(b)); });
-    else MXG.forEach(function (g, gi) {   // inside a group, names with similar connections sit together
-      var grp = names.filter(function (e) { return e.mxg === gi; }); if (!grp.length) return;
-      var cur = grp.shift(); order.push(cur);
-      while (grp.length) { var bi = 0, bs = -1; grp.forEach(function (e, i) { var s = sim(cur, e); if (s > bs) { bs = s; bi = i; } }); cur = grp.splice(bi, 1)[0]; order.push(cur); }
-    });
-    var tops = TOPICS.filter(function (t) { return t.id !== 'other'; });
-    return (MX.data = { names: order, hub: hub, cnt: cnt, alg: alg, topics: tops, grouped: MX.order === 'group',
-      inTopic: function (e, t) { return e.cl.filter(function (c) { return c.topicRef === t; }); } });
-  }
-  function mxStep(v) { return v >= 5 ? 5 : v; }
-  function mxTStep(v) { return v >= 8 ? 5 : v >= 5 ? 4 : v >= 3 ? 3 : v; }
-  function mxKeyHtml(byT) {
-    var labs = byT ? ['1', '2', '3 to 4', '5 to 7', '8 or more'] : ['1', '2', '3', '4', '5 or more'];
-    return '<span class="klab">' + (byT ? 'Checks that mention the name' : 'Documented links') + '</span>' + labs.map(function (t, q) { return '<span><i class="c' + (q + 1) + '"></i>' + t + '</span>'; }).join('') +
-      (byT ? '' : '<span class="kun"><i class="cu"></i>Unverified only</span>');
-  }
-  /* One figure: square cells of one size, a fixed gutter between groups, labels that stay in view while the grid scrolls. */
-  function renderMatrix() {
-    var ph = narrow.matches, sc = $('mx-scroll'), byT = MX.mode === 'topics', grouped = MX.order === 'group';
-    document.querySelectorAll('[data-mx]').forEach(function (b) { b.setAttribute('aria-pressed', String(b.getAttribute('data-mx') === MX.mode)); });
-    document.querySelectorAll('[data-mxo]').forEach(function (b) { b.setAttribute('aria-pressed', String(b.getAttribute('data-mxo') === MX.order)); });
-    $('mx-title').textContent = byT ? 'Which Names Appear in Which Topics' : 'Who Is Linked to Whom';
-    $('mx-key').innerHTML = mxKeyHtml(byT);
-    if (ph) { mxFocusList(); mxRead(null); mxSide(); return; }
-    var CS = 24, GUT = 8, RH = 172, BAR = 80, room = sc.clientWidth - 24 - RH - BAR;
-    var size = Math.max(14, Math.min(36, Math.floor((room - 5 * GUT) / CS)));   // as many names as the width holds
-    if (size !== MX.size) { MX.size = size; MX.data = null; MX.sel = null; }
-    var D = mxData(), cols = byT ? D.topics : D.names, h, tmax = 1, guts = 0;
-    var cw = byT ? Math.max(58, Math.min(84, Math.floor(room / cols.length))) : CS;
-    D.names.forEach(function (e) { tmax = Math.max(tmax, byT ? e.cl.length : e.mxt); });
-    function gb(j) { return grouped && !byT && j && cols[j - 1].mxg !== cols[j].mxg; }
-    function gut(j, tag) { return gb(j) ? '<' + tag + ' class="gut"></' + tag + '>' : ''; }
-    cols.forEach(function (c, j) { if (gb(j)) guts++; });
-    var span = cols.length + guts + 1;
-    function cell(i, j, a, b) {
-      var v, u = 0, cls;
-      if (byT) { v = D.inTopic(a, b).length; cls = 'c' + mxTStep(v); }
-      else if (a === b) return gut(j, 'td') + '<td class="cd"></td>';
-      else { v = D.cnt(a, b); u = D.alg(a, b); cls = v ? 'c' + mxStep(v) : u ? 'cu' : 'c0'; }
-      return gut(j, 'td') + '<td class="' + cls + '" data-i="' + i + '" data-j="' + j + '"' + (v || u ? ' tabindex="-1"' : '') + '>' + (v >= 2 ? v : '') + '</td>';
-    }
-    function bar(tot, plain) { return '<td class="bar">' + (plain ? '' : '<i style="width:' + Math.max(2, Math.round(40 * tot / tmax)) + 'px"></i>') + '<b>' + tot + '</b></td>'; }
-    function grow(label, note, cls) { return '<tr class="grow' + (cls || '') + '"><th class="gl" scope="rowgroup"><span>' + label + '</span></th><td colspan="' + span + '">' + (note ? '<span>' + note + '</span>' : '') + '</td></tr>'; }
-    h = '<table class="mx' + (byT ? ' bytopic' : '') + '" id="mx-table"><thead><tr class="labs"><th class="corner"></th>' +
-      cols.map(function (c, j) { return gut(j, 'th') + '<th scope="col" class="ch" data-j="' + j + '"><span>' + esc(byT ? c.name : mapLabel(c)) + '</span>' + (byT ? '<i style="background:var(--t' + ((c.ci || 0) + 1) + ')"></i>' : '') + '</th>'; }).join('') +
-      '<th class="bh"><span>' + (byT ? 'All Checks' : 'All Links') + '</span></th></tr>';
-    if (grouped && !byT) {
-      h += '<tr class="cgs"><th class="corner"></th>';
-      for (var j0 = 0; j0 < cols.length;) { var j1 = j0; while (j1 < cols.length && cols[j1].mxg === cols[j0].mxg) j1++; h += gut(j0, 'th') + '<th class="cg' + (j1 - j0 < 2 ? ' tiny' : '') + '" colspan="' + (j1 - j0) + '" scope="colgroup" title="' + esc(MXG[cols[j0].mxg]) + '" style="z-index:' + (40 - j0) + '"><span>' + esc(MXG[cols[j0].mxg]).replace(' &amp; ', ' &amp;<br>') + '</span></th>'; j0 = j1; }
-      h += '<th></th></tr>';
-    }
-    h += '</thead><tbody>';
-    if (D.hub) h += grow('Linked to ' + esc(mapLabel(D.hub)), byT ? 'Checks in each topic that mention him' : 'His own links, kept apart because he is linked to most names here', ' hubh') +
-      '<tr class="hub"><th scope="row" class="rh" data-i="-1"><span>' + esc(mapLabel(D.hub)) + '</span>' + kmark(D.hub) + '</th>' + cols.map(function (c, j) { return cell(-1, j, D.hub, c); }).join('') +
-      bar(byT ? D.hub.cl.length : D.hub.lines.filter(function (r) { return !r.alleged; }).length, true) + '</tr>';
-    if (!grouped) h += grow(MX.order === 'alpha' ? 'Names, A to Z' : 'Names, Most Connected First', '', ' first');
-    D.names.forEach(function (a, i) {
-      if (grouped && (!i || D.names[i - 1].mxg !== a.mxg)) h += grow(esc(MXG[a.mxg]), '', i ? '' : ' first');
-      h += '<tr><th scope="row" class="rh" data-i="' + i + '"><span>' + esc(mapLabel(a)) + '</span>' + kmark(a) + '</th>' + cols.map(function (c, j) { return cell(i, j, a, c); }).join('') + bar(byT ? a.cl.length : a.mxt) + '</tr>';
-    });
-    h += '</tbody></table><div class="mx-band row" id="mx-brow" hidden></div><div class="mx-band col" id="mx-bcol" hidden></div>';
-    sc.innerHTML = h; sc.scrollTop = 0;
-    var hh = 0; sc.querySelectorAll('.ch span').forEach(function (s) { hh = Math.max(hh, s.offsetHeight); });   // the header is as tall as its longest label
-    sc.style.setProperty('--cw', cw + 'px'); sc.style.setProperty('--hh', (hh + (byT ? 26 : 18)) + 'px');
-    var kun = $('mx-key').querySelector('.kun'); if (kun) kun.hidden = !sc.querySelector('td.cu');   // the key lists only what the grid shows
-    mxRead(null); mxSide();
-  }
-  /* On a phone the square grid gives way to one name at a time: choose a name and read its links down a list. */
-  function mxFocusList() {
-    MX.size = 40; if (MX.data && MX.data.names.length < 30) MX.data = null;
-    var D = mxData(), byT = MX.mode === 'topics', sc = $('mx-scroll'), all = (D.hub ? [D.hub] : []).concat(D.names), off = D.hub ? 1 : 0;
-    if (MX.focus >= all.length) MX.focus = 0;
-    var a = all[MX.focus], i = MX.focus - off, rows = [];
-    if (byT) D.topics.forEach(function (t, j) { var v = D.inTopic(a, t).length; if (v) rows.push([j, v, 0, t.name, '<span class="tsw" style="background:var(--t' + ((t.ci || 0) + 1) + ')" aria-hidden="true"></span>']); });
-    else D.names.forEach(function (b, j) { if (b === a) return; var v = D.cnt(a, b), u = D.alg(a, b); if (v || u) rows.push([j, v, u, mapLabel(b), kmark(b)]); });
-    rows.sort(function (x, y) { return y[1] - x[1] || y[2] - x[2] || x[3].localeCompare(y[3]); });
-    sc.innerHTML = '<div class="mxf"><label class="topicf"><span class="flab">Name</span><select id="mxf-name">' + all.map(function (e, q) { return '<option value="' + q + '"' + (q === MX.focus ? ' selected' : '') + '>' + esc(mapLabel(e)) + '</option>'; }).join('') + '</select></label>' +
-      '<p class="mxf-sum">' + (byT ? 'Named in checks in ' + plural(rows.length, 'topic') + '.' : 'Linked to ' + rows.length + ' of the other ' + (all.length - 1) + ' names here.') + ' Select a row to read more.</p><ul class="mxf-list">' +
-      rows.map(function (r) {
-        var cls = r[1] ? 'c' + (byT ? mxTStep(r[1]) : mxStep(r[1])) : 'cu';
-        return '<li><button type="button" data-pair="' + i + ',' + r[0] + '">' + r[4] + '<span class="nm">' + esc(r[3]) + '</span><span class="what">' + (r[1] ? plural(r[1], byT ? 'check' : 'link') : 'Unverified only') + '</span><i class="' + cls + '">' + (r[1] || '') + '</i></button></li>';
-      }).join('') + '</ul></div>';
-  }
-  function mxPair(i, j) { var D = mxData(); return [i < 0 ? D.hub : D.names[i], MX.mode === 'topics' ? D.topics[j] : D.names[j]]; }
-  function mxRead(td) {
-    var el = $('mx-read'), br = $('mx-brow'), bc = $('mx-bcol'), sc = $('mx-scroll');
-    sc.querySelectorAll('.hl').forEach(function (x) { x.classList.remove('hl'); });
-    if (!td) {
-      if (br) br.hidden = bc.hidden = true;
-      el.innerHTML = narrow.matches ? (MX.mode === 'topics' ? 'One name at a time: the topics whose checks mention it.' : 'One name at a time: the other names it is linked to.')
-        : MX.mode === 'topics' ? 'Each square counts the checks in a topic that mention the name.' : 'Each square is a pair of names. Darker means more documented links.';
-      return;
-    }
-    var i = +td.getAttribute('data-i'), j = +td.getAttribute('data-j'), p = mxPair(i, j), D = mxData(), tr = td.parentNode, colTh = sc.querySelector('th.ch[data-j="' + j + '"]'), tb = $('mx-table');
-    tr.querySelector('th.rh').classList.add('hl'); if (colTh) colTh.classList.add('hl');
-    br.hidden = bc.hidden = false;
-    var rh = tr.querySelector('th.rh'), body = tb.tBodies[0];
-    br.style.top = (tb.offsetTop + tr.offsetTop) + 'px'; br.style.height = tr.offsetHeight + 'px'; br.style.left = (tb.offsetLeft + rh.offsetLeft) + 'px'; br.style.width = (tb.offsetWidth - rh.offsetLeft) + 'px';
-    bc.style.left = (tb.offsetLeft + td.offsetLeft) + 'px'; bc.style.width = td.offsetWidth + 'px'; bc.style.top = (tb.offsetTop + body.offsetTop) + 'px'; bc.style.height = body.offsetHeight + 'px';
-    if (MX.mode === 'topics') { var n = D.inTopic(p[0], p[1]).length; el.innerHTML = '<b>' + esc(mapLabel(p[0])) + '</b> in <b>' + esc(p[1].name) + '</b><span class="n">' + (n ? plural(n, 'check') : 'No checks') + '</span>'; }
-    else if (p[0] === p[1]) el.innerHTML = '<b>' + esc(mapLabel(p[0])) + '</b>';
-    else { var v = D.cnt(p[0], p[1]), u = D.alg(p[0], p[1]); el.innerHTML = '<b>' + esc(mapLabel(p[0])) + '</b> and <b>' + esc(mapLabel(p[1])) + '</b><span class="n">' + (v + u ? plural(v, 'documented link') + (u ? ', ' + u + ' alleged and unverified' : '') : 'No documented link') + '</span>'; }
-  }
-  function mxSide() {
-    var D = mxData(), el = $('mx-side'), s = MX.sel, h;
-    $('matrix').classList.toggle('has-sel', !!s);
-    $('mx-scroll').querySelectorAll('.sel').forEach(function (x) { x.classList.remove('sel'); });
-    if (!s) {
-      var pairs = [];
-      D.names.forEach(function (a, i) { D.names.forEach(function (b, j) { if (j > i && D.cnt(a, b)) pairs.push([i, j, D.cnt(a, b)]); }); });
-      pairs.sort(function (a, b) { return b[2] - a[2]; });
-      var top = D.names.slice().sort(function (a, b) { return b.mxn - a.mxn || b.mxt - a.mxt; }).slice(0, 8), nmax = top.length ? top[0].mxn || 1 : 1;
-      h = '<div class="panel-head"><h2>Reading the Matrix</h2></div><div class="panel-body"><p class="prole">' + (MX.mode === 'topics' ? 'Rows are the ' + D.names.length + ' best-connected names, columns are the topics. A filled square counts the checks in that topic that mention the name.' : 'Rows and columns list the same ' + D.names.length + ' names. A filled square is a pair with at least one documented link, and darker means more.') + '</p>' +
-        '<p class="pnote">' + (MX.mode === 'topics' ? 'Select a square to list those checks.' : 'A blank square means no direct link was found in the checks. Select a square to read the links behind it.') + '</p>' +
-        (MX.mode === 'topics' ? (function () {
-          var tn = D.names.slice().sort(function (a, b) { return b.cl.length - a.cl.length; }).slice(0, 8), cm = tn.length ? tn[0].cl.length || 1 : 1;
-          var tt = D.topics.map(function (t) { return [t, D.names.filter(function (e) { return D.inTopic(e, t).length; }).length]; }).sort(function (a, b) { return b[1] - a[1]; });
-          return '<h3>Named in the Most Checks <span class="cnt">Checks</span></h3><ol class="pchecks prank">' + tn.map(function (e) { return '<li>' + kmark(e) + '<a class="namebtn" href="' + entHref(e) + '">' + esc(mapLabel(e)) + '</a><span class="pbar"><i style="width:' + Math.round(100 * e.cl.length / cm) + '%"></i></span><span class="cnt">' + e.cl.length + '</span></li>'; }).join('') + '</ol>' +
-            '<h3>Topics by Reach <span class="cnt">Of ' + D.names.length + ' names</span></h3><ol class="pchecks prank">' + tt.map(function (r) { return '<li><span class="tsw" style="background:var(--t' + ((r[0].ci || 0) + 1) + ')" aria-hidden="true"></span><span class="tname">' + esc(r[0].name) + '</span><span class="pbar"><i style="width:' + Math.round(100 * r[1] / D.names.length) + '%"></i></span><span class="cnt">' + r[1] + '</span></li>'; }).join('') + '</ol></div>';
-        })() :
-        '<h3>Strongest Pairs <span class="cnt">Documented links</span></h3><ol class="pchecks prank pairs">' + pairs.slice(0, 8).map(function (p) { return '<li><button type="button" class="namebtn" data-pair="' + p[0] + ',' + p[1] + '">' + esc(mapLabel(D.names[p[0]])) + ' <span class="amp">and</span> ' + esc(mapLabel(D.names[p[1]])) + '</button><span class="cnt">' + p[2] + '</span></li>'; }).join('') + '</ol>' +
-        '<h3>Most Linked in This View <span class="cnt">Of ' + (D.names.length - 1) + ' other names</span></h3><ol class="pchecks prank">' + top.map(function (e) { return '<li>' + kmark(e) + '<a class="namebtn" href="' + entHref(e) + '">' + esc(mapLabel(e)) + '</a><span class="pbar"><i style="width:' + Math.round(100 * e.mxn / nmax) + '%"></i></span><span class="cnt">' + e.mxn + '</span></li>'; }).join('') + '</ol></div>');
-      el.innerHTML = h; return;
-    }
-    var p = mxPair(s[0], s[1]), td = $('mx-scroll').querySelector('td[data-i="' + s[0] + '"][data-j="' + s[1] + '"]');
-    if (td) td.classList.add('sel');
-    var close = '<button type="button" class="iconbtn" data-mxact="clear" aria-label="Close">' + XICON + '</button>';
-    if (MX.mode === 'topics') {
-      var cs = D.inTopic(p[0], p[1]);
-      h = '<div class="panel-head"><h2>' + esc(p[0].name) + '</h2>' + close + '</div><p class="panel-meta">' + kmark(p[0]) + 'In ' + esc(p[1].name) + ' · ' + plural(cs.length, 'check') + '</p>' +
-        '<div class="panel-actions"><button type="button" class="btn primary" data-mxact="show">Show on Network</button><a class="linkbtn" href="' + entHref(p[0]) + '">Open Profile</a></div>' +
-        '<div class="panel-body"><ul class="pchecks">' + cs.map(function (c) { return '<li>' + kmark(c) + '<a class="namebtn" href="' + claimHref(c) + '">' + esc(c.title) + '</a></li>'; }).join('') + '</ul></div><div class="pfade" aria-hidden="true"></div>';
-    } else {
-      var l = p[0].adj.get(p[1].key), rr = l && l.kind === 'rel' ? l.rels.slice().sort(function (a, b) { return (a.alleged ? 1 : 0) - (b.alleged ? 1 : 0) || String(a.date || '9').localeCompare(String(b.date || '9')); }) : [];
-      h = '<div class="panel-head"><h2>' + esc(shortName(p[0])) + ' <span class="amp">and</span> ' + esc(shortName(p[1])) + '</h2>' + close + '</div>' +
-        '<p class="psum"><b>' + rr.filter(function (r) { return !r.alleged; }).length + '</b><span>' + (rr.filter(function (r) { return !r.alleged; }).length === 1 ? 'documented link' : 'documented links') + '</span>' + (rr.some(function (r) { return r.alleged; }) ? '<span class="unv">' + rr.filter(function (r) { return r.alleged; }).length + ' alleged, unverified</span>' : '') + '</p>' +
-        '<p class="pnames">' + [p[0], p[1]].map(function (e) { return '<span>' + kmark(e) + '<a class="namebtn" href="' + entHref(e) + '">' + esc(e.name) + '</a></span>'; }).join('') + '</p>' +
-        '<div class="panel-actions"><button type="button" class="btn primary" data-mxact="show">Show on Network</button></div><div class="panel-body"><ul class="plist">' +
-        rr.map(function (r) {
-          var fig = ''; if (typeof r.amount_usd === 'number') fig += '<b>' + esc(money(r.amount_usd)) + '</b>'; if (r.date) fig += '<span>' + esc(fdate(r.date)) + '</span>';
-          var cl = r.claims.map(function (id) { return byKey.get(id); }).filter(Boolean);
-          return '<li class="prow nomark' + (r.alleged ? ' alleged' : '') + '"><p class="p2">' + esc(cap(plainSentence(r))) + '</p>' + (fig ? '<p class="pfig">' + fig + '</p>' : '') + '<p class="p3">' + evMark(r.alleged) + '<span class="rtype">' + esc(RLABEL[r.type] || cap(r.type)) + '</span>' +
-            (cl.length ? '<span class="from">From ' + cl.slice(0, 2).map(function (c) { return '<a class="namebtn" href="' + claimHref(c) + '">' + esc(c.title) + '</a>'; }).join('; ') + (cl.length > 2 ? '; and ' + (cl.length - 2) + ' more' : '') + '</span>' : '') + '</p></li>';
-        }).join('') + '</ul></div><div class="pfade" aria-hidden="true"></div>';
-    }
-    el.innerHTML = h; el.scrollTop = 0;
-  }
-  (function () {
-    var sc = $('mx-scroll'), side = $('mx-side');
-    function cellOf(e) { var td = e.target.closest && e.target.closest('td[data-i]'); return td && sc.contains(td) ? td : null; }
-    function pick(td) { if (!td || !td.hasAttribute('tabindex')) return; MX.sel = [+td.getAttribute('data-i'), +td.getAttribute('data-j')]; mxSide(); mxRead(td); }
-    var touch = false;   // a touch should not move the grid under the finger before the tap lands
-    sc.addEventListener('pointerdown', function (e) { touch = e.pointerType !== 'mouse'; }, true);
-    sc.addEventListener('mouseover', function (e) { var td = cellOf(e); if (td && !touch) mxRead(td); });
-    sc.addEventListener('mouseleave', function () { if (touch) return; var s = MX.sel && sc.querySelector('td.sel'); mxRead(s || null); });
-    sc.addEventListener('focusin', function (e) { var td = cellOf(e); if (td && !touch) mxRead(td); });
-    sc.addEventListener('click', function (e) {
-      var td = cellOf(e); if (td) { td.focus({ preventScroll: true }); pick(td); return; }
-      var b = e.target.closest('[data-pair]'); if (b) { var q = b.getAttribute('data-pair').split(','); MX.sel = [+q[0], +q[1]]; mxSide(); }
-    });
-    sc.addEventListener('change', function (e) { if (e.target.id === 'mxf-name') { MX.focus = +e.target.value; MX.sel = null; mxFocusList(); mxSide(); } });
-    sc.addEventListener('keydown', function (e) {
-      var td = cellOf(e); if (!td) return;
-      if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); pick(td); return; }
-      var d = { ArrowLeft: [0, -1], ArrowRight: [0, 1], ArrowUp: [-1, 0], ArrowDown: [1, 0] }[e.key]; if (!d) return;
-      e.preventDefault();
-      var all = Array.prototype.slice.call(sc.querySelectorAll('td[tabindex]')), i = +td.getAttribute('data-i'), j = +td.getAttribute('data-j'), best = null, bd = Infinity;
-      all.forEach(function (o) {
-        var di = +o.getAttribute('data-i') - i, dj = +o.getAttribute('data-j') - j, along = d[0] ? di * d[0] : dj * d[1], across = Math.abs(d[0] ? dj : di);
-        if (along > 0 && along + across * 3 < bd) { bd = along + across * 3; best = o; }
-      });
-      if (best) best.focus();
-    });
-    side.addEventListener('click', function (e) {
-      var b = e.target.closest('[data-mxact],[data-pair]'); if (!b) return;
-      if (b.hasAttribute('data-pair')) { var q = b.getAttribute('data-pair').split(','); var td = sc.querySelector('td[data-i="' + q[0] + '"][data-j="' + q[1] + '"]'); if (td) { pick(td); td.scrollIntoView({ block: 'nearest', inline: 'nearest' }); } return; }
-      if (b.getAttribute('data-mxact') === 'clear') { MX.sel = null; mxSide(); mxRead(sc.querySelector('td.sel')); return; }
-      var p = mxPair(MX.sel[0], MX.sel[1]), byT = MX.mode === 'topics';
-      setMode('network'); resize();
-      if (byT) { mapSelect(p[0], {}); return; }
+  /* The Matrix workspace is drawn by matrix.js. It gets the data and the helpers it needs from here, and asks for the network through two calls. */
+  var MXAPI = window.TCMMatrix || { state: {}, init: function () {}, render: function () {} };
+  var MX = MXAPI.state;
+  function renderMatrix() { MXAPI.render(); }
+  function mxToNetwork(a, b) {
+    setMode('network'); resize();
+    if (!b) { mapSelect(a, {}); return; }
+    try {
       map.sel = null; map.focus = null; map.iso = null; map.pathFrom = null; F.topic = ''; renderPanel();
-      map.path = findPath(p[0], p[1]); applyFilters(); setHash('map');
-      if (map.path.list) frameNodes(map.path.list, 1.1, false, 400);
+      map.path = findPath(a, b); applyFilters(); setHash('map');
+      if (map.path && map.path.list) frameNodes(map.path.list, 1.1, false, 400);
       requestDraw();
-    });
-    var mxTimer = null;
-    window.addEventListener('resize', function () { if (map.mode !== 'matrix' || state.view !== 'map') return; clearTimeout(mxTimer); mxTimer = setTimeout(renderMatrix, 150); });
-  })();
+    } catch (err) { mapSelect(a, {}); }
+  }
+  MXAPI.init({ esc: esc, byKey: byKey, ranked: ranked, topics: TOPICS, mapLabel: mapLabel, shortName: shortName, entHref: entHref, claimHref: claimHref, money: money, fdate: fdate, plural: plural, cap: cap,
+    plainSentence: plainSentence, RLABEL: RLABEL, narrow: narrow, kmark: kmark, XICON: XICON,
+    showPair: function (a, b) { mxToNetwork(a, b); }, showName: function (a) { mxToNetwork(a, null); } });
 
   // ------------------------------------------------------------------ routing
   function setSearchOpen(open) {
