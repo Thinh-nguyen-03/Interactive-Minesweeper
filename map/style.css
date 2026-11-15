@@ -131,12 +131,12 @@ span.grade { margin: 0; font-size: inherit; }
 /* Sizes used on the reading pages: 14.5 (labels, datelines), 15.5 (tables, secondary), 17 (text), 19 (standfirst), then the serif headings. */
 .dateline { margin-top: 12px; font-size: 14.5px; line-height: 1.45; color: var(--ink2); }
 .dateline a { color: inherit; }
-.when { color: var(--ink2); font-size: 14.5px; white-space: nowrap; font-variant-numeric: lining-nums tabular-nums; }
+.when { color: var(--ink2); font-size: 14.5px; white-space: nowrap; }
 /* A row of plain figures over small labels, divided by thin rules. */
 .figrow { display: flex; margin: 28px 0 0; padding: 18px 0; border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule); }
 .figrow > div { display: flex; flex-direction: column-reverse; justify-content: flex-end; gap: 4px; min-width: 0; padding: 0 28px; border-left: 1px solid var(--rule); }
 .figrow > div:first-child { padding-left: 0; border-left: 0; }
-.figrow dd { margin: 0; font: 600 30px/1.1 var(--sans); letter-spacing: -.015em; font-variant-numeric: lining-nums tabular-nums; white-space: nowrap; }
+.figrow dd { margin: 0; font: 600 30px/1.1 var(--sans); letter-spacing: -.03em; font-variant-numeric: lining-nums tabular-nums; white-space: nowrap; }
 .figrow dt { font-size: 14.5px; line-height: 1.3; color: var(--ink2); }
 .homefigs > div, .methodfigs > div { flex: 1 1 0; padding: 0 20px; }
 .figrow > .split { border-left-color: var(--ink2); }
@@ -171,8 +171,7 @@ span.grade { margin: 0; font-size: inherit; }
 .answer-cols h3 { font: 700 17px/1.3 var(--sans); display: flex; align-items: center; gap: .45em; }
 .answer-cols p { margin-top: 4px; font-size: 16px; line-height: 1.5; }
 .whohome { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 0 36px; margin-top: 22px; }
-.whocol h3 { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; font: 700 16px/1.3 var(--sans); padding: 10px 0 9px; border-top: 2px solid var(--ink); white-space: nowrap; }
-.whocol .colh { font-weight: 400; font-size: 13.5px; color: var(--ink2); }
+.whocol h3 { font: 700 16px/1.3 var(--sans); padding: 10px 0 9px; border-top: 2px solid var(--ink); white-space: nowrap; }
 .whocol ul { list-style: none; margin: 0; padding: 0; }
 .whocol li { display: flex; gap: 9px; align-items: center; height: 40px; border-top: 1px solid var(--rule); font-size: 16px; line-height: 1.2; white-space: nowrap; }
 .whocol .nm { min-width: 0; }
@@ -264,6 +263,8 @@ summary { cursor: pointer; color: var(--link); font-size: 14.5px; font-weight: 6
 .srcs { margin-top: 7px; font-size: 14.5px; line-height: 1.5; color: var(--ink2); }
 .srcs b { font-weight: 600; margin-right: 8px; }
 .srcs span + span::before { content: " · "; }
+.srcs a { color: inherit; }
+.srcs a:hover { color: var(--ink); }
 .srcs .linkbtn { margin-left: 8px; font-weight: 600; }
 .pt a, .item a, .md a, .pub a { overflow-wrap: anywhere; }
 .item { padding: 13px 0; border-bottom: 1px solid var(--rule); }
@@ -476,7 +477,9 @@ summary { cursor: pointer; color: var(--link); font-size: 14.5px; font-weight: 6
   .cv .lab { font-size: 16px; }
   .cv-claim { padding: 14px 0 16px; }
   .cv-verdict { margin: 0 0 18px; padding-left: 14px; }
-  .cv-word { font-size: 24px; }
+  .cv-verdict { display: flex; flex-direction: column; }
+  .cv-word { order: 5; margin-top: 14px; } .cv-word > span { display: none; }
+  .cv-finding { margin-top: 0; }
   .bottom { font-size: 17.5px; }
   .body > section, .pbody > section { margin-top: 38px; } .body h2, .pbody h2 { font-size: 21px; flex-wrap: wrap; }
   .points { padding-left: 1.5em; }

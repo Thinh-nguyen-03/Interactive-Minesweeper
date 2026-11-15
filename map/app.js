@@ -468,7 +468,7 @@
     var h = '<div class="hero"><div class="hero-text">' +
       '<h1 tabindex="-1">Look into the Money, the Deals &amp; the Connections Around the President</h1>' +
       '<p class="lede">This site tests claims about the business, financial and political dealings of Donald Trump, his family and his administration against the public record. Every person and organisation named has a profile, and every documented link between them is on the map.</p>' +
-      '<p class="dateline">Checks last reviewed ' + REVIEWED + (META.generated ? ' · Data built ' + esc(fdate(META.generated)) : '') + ' · <a href="#method">How We Checked</a></p>' +
+      '<p class="dateline">Checks last reviewed ' + REVIEWED + (META.generated ? '<span class="wide"> · Data built ' + esc(fdate(META.generated)) + '</span>' : '') + ' · <a href="#method">How We Checked</a></p>' +
       '<div class="bigsearch" role="search"><svg width="20" height="20" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><circle cx="7" cy="7" r="4.6"></circle><path d="M10.5 10.5 14 14"></path></svg>' +
       '<label class="sr" for="home-search">Search a person, a company or a topic</label>' +
       '<input id="home-search" type="search" placeholder="' + (narrow.matches ? 'Search a name or a topic' : 'Search a person, a company or a topic') + '" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="home-results" aria-autocomplete="list">' +
@@ -486,7 +486,7 @@
 
     var segs = [['hold', p.hold, 'Hold Up'], ['part', p.correct, 'Needed Correcting'], ['unp', p.unproven, 'Unproven']];
     h += '<section class="sec answer" aria-labelledby="found-h"><h2 id="found-h">What the Checks Found</h2>' +
-      '<p class="intro">Each check was split into separate points and tested against reports, filings and records. This is how all ' + num(p.total) + ' points came out.</p>' +
+      '<p class="intro">Each check was split into separate points. This is how all ' + num(p.total) + ' of them came out.</p>' +
       '<div class="strip" role="img" aria-label="' + num(p.hold) + ' of ' + num(p.total) + ' points hold up, ' + num(p.correct) + ' needed correcting and ' + num(p.unproven) + ' are unproven">' +
       segs.map(function (s) { return s[1] ? '<span class="s-' + s[0] + '" style="flex:' + s[1] + '"><b>' + num(s[1]) + '</b><em>' + s[2] + '</em></span>' : ''; }).join('') + '</div>' +
       '<div class="answer-cols">' +
@@ -499,17 +499,17 @@
     var who = arr(META.who).map(function (g) { return { title: g.title, total: g.total, list: arr(g.names).map(function (id) { return byKey.get('e:' + id); }).filter(Boolean) }; }).filter(function (g) { return g.list.length; });
     if (!who.length) who = [{ title: 'Named Most Often', list: entities.filter(function (e) { return e.type !== 'media'; }).sort(function (a, b) { return b.cl.length - a.cl.length; }).slice(0, 8) }];
     h += '<section class="sec" id="who"><div class="sechead"><h2>Who Is Involved</h2><a class="seclink" href="#names">Browse All ' + num(entities.length) + ' People &amp; Organisations</a></div>' +
-      '<p class="intro">The names that appear in the most checks, by group. Each opens a profile.</p>' +
+      '<p class="intro">The names in the most checks, by group, with the number of checks that name them.</p>' +
       '<div class="whohome">' + who.map(function (g) {
         var mixed = g.list.some(function (e) { return e.type !== g.list[0].type; });   // a mark only where the kinds differ
-        return '<div class="whocol"><h3><span>' + esc(g.title) + '</span><span class="colh">Checks</span></h3><ul>' + g.list.map(function (e) {
+        return '<div class="whocol"><h3>' + esc(g.title) + '</h3><ul>' + g.list.map(function (e) {
           return '<li>' + (mixed ? kmark(e) : '') + '<span class="nm">' + entLink(e, true) + '</span><span class="cnt">' + e.cl.length + '<span class="sr"> checks</span></span></li>';
         }).join('') + '</ul></div>';
       }).join('') + '</div></section>';
 
     // the checks, by topic
     h += '<section class="sec" id="topics"><h2>' + nc + ' Checks in ' + cap(word(TOPICS.length)) + ' Topics</h2>' +
-      '<p class="intro">Each check tests one claim and opens a page with the finding, the corrections, the other side and the sources.</p>' +
+      '<p class="intro">Each check tests one claim against the record and opens a page with the finding and its sources.</p>' +
       (unvItems.length ? '<p class="callout"><strong>' + cap(word(unvItems.length)) + ' ' + (unvItems.length === 1 ? 'check is an unverified allegation' : 'checks are unverified allegations') + ' from a single source,</strong> denied by everyone named: ' + listParts(unvItems.map(function (c) { return claimLink(c); })) + '. Read them as a record of what has been alleged, not as findings.</p>' : '') +
       '<div class="topicwrap"><nav class="topicnav" aria-label="Topics"><p class="lab">Jump to a Topic</p><ul>' +
       TOPICS.map(function (t) { return '<li><a href="' + topicHref(t) + '"><span>' + esc(t.name) + '</span><span class="cnt">' + t.list.length + '</span></a></li>'; }).join('') + '</ul></nav><div class="topiclist">';
@@ -572,7 +572,7 @@
     var h = '<p class="crumb"><a href="#topics">All Checks</a>' + (topic && topic.id !== 'other' ? ' <span aria-hidden="true">/</span> <a href="' + topicHref(topic) + '">' + esc(topic.name) + '</a>' : '') + (c.ctype === 'connection' ? ' <span aria-hidden="true">/</span> Connection Check' : '') + '</p><article class="article"><div class="lead">' +
       '<h1 tabindex="-1">' + esc(c.title) + '</h1>' +
       '<p class="vstrip v-' + g + '">' + mark(c.verdict) + '<b>' + esc(VLABEL[c.verdict]) + '</b>' + (tot ? '<span>' + esc(tallyText(c)) + '</span>' : '') + '</p>' +
-      '<p class="dateline">Last reviewed ' + REVIEWED + ' · ' + plural(nsrc, 'source') + ' · ' + plural(tot, 'point') + ' checked · ' + (c.audit ? 'Independent second review done' : 'No second review yet') + '</p>';
+      '<p class="dateline">Last reviewed ' + REVIEWED + ' · ' + plural(nsrc, 'source') + ' · ' + plural(tot, 'point') + ' checked · ' + (c.audit ? 'Independent second review' : 'No second review yet') + '</p>';
     if (isUnv(c)) h += '<p class="flagbox"><strong>' + esc(unvText(c)) + '.</strong> The central allegation ' + (c.single_source ? 'rests on one source and ' : '') + 'has not been corroborated. Everyone named denies it. Read this page as a record of what has been alleged and what is known about the allegation, not as a finding that it happened.</p>';
     var cp = arr(c.question_points).map(cap);
     if (!cp.length) cp = [c.title];
@@ -599,7 +599,7 @@
     // the rail: figures first, then the sections that exist on this page
     var mixed = (t[0] ? 1 : 0) + (t[1] ? 1 : 0) + (t[2] ? 1 : 0) > 1;
     var gl = [];
-    if (t[0]) gl.push(['hold', t[0] === tot ? 'Points, All Holding Up' : 'Points That Hold Up', t[0] === tot ? tot : t[0] + ' of ' + tot]);
+    if (t[0]) gl.push(['hold', t[0] === tot ? (tot === 1 ? 'The One Point Holds Up' : 'All Points Hold Up') : 'Points That Hold Up', t[0] === tot ? tot : t[0] + ' of ' + tot]);
     if (t[1]) gl.push(['part', 'Points That Needed Correcting', t[1]]);
     if (t[2]) gl.push(['unp', 'Points Left Unproven', t[2]]);
     if (fixesN) gl.push(['', fixesN === 1 ? 'Detail of the Claim Corrected' : 'Details of the Claim Corrected', fixesN]);
@@ -728,7 +728,7 @@
   function briefFrom(r, e) {
     var o = r.S === e ? r.T : r.S;
     if (!flows(r.label)) return esc(cap(r.label));
-    return r.S === e ? esc(cap(r.label)) + ' ' + esc(shortName(o)) : esc(cap(r.label)) + ' ' + esc(shortName(e));
+    return esc(cap(r.label)) + ' ' + (r.S === e ? esc(shortName(o)) : e.group === 'person' ? 'them' : 'it');
   }
   function recRow(when, main, src, cls) {
     return '<li class="rec' + (cls ? ' ' + cls : '') + '"><span class="when">' + when + '</span><div class="what">' + main + '</div><span class="src">' + src + '</span></li>';
@@ -780,7 +780,7 @@
       '<p class="sub">Amounts recorded on these connections. A sum is what the record states, not a judgement about it.</p><ul class="recs sums">' +
       sums.map(function (r) {
         var o = r.S === e ? r.T : r.S;
-        return recRow('<b>' + esc(money(r.amount_usd)) + '</b>', '<p>' + entLink(o) + (r.date ? ' <span class="when">' + esc(fdate(r.date)) + '</span>' : '') + '</p><p class="sec2">' + esc(cap(r.label)) + (r.alleged ? ' ' + allegedFlag() : '') + '</p>', srcCheck(r.claims), r.alleged ? 'alleged' : '');
+        return recRow('<b>' + esc(money(r.amount_usd)) + '</b>', '<p>' + entLink(o) + (r.date ? ' <span class="when">' + esc(fdate(r.date)) + '</span>' : '') + '</p><p class="sec2">' + briefFrom(r, e) + (r.alleged ? ' ' + allegedFlag() : '') + '</p>', srcCheck(r.claims), r.alleged ? 'alleged' : '');
       }).join('') + '</ul></section>';
 
     // in date order
