@@ -35,7 +35,7 @@ This check asks for administration officials whose decisions benefited entities 
 - **DOJ response:** "the Attorney General had no role in them."
 
 ### 3. Bondi's Trump Media stock (documented)
-- Bondi's periodic transaction report, disclosed May 14, 2025, shows a sale of $1M-$5M of DJT stock plus $250K-$500K of warrants on April 2, 2025 ("Liberation Day").
+- Bondi's periodic transaction report, disclosed May 14, 2025, shows a sale of $1M-$5M of DJT stock plus $250K-$500K of warrants on April 2, 2025 ("Liberation Day"). Together that is $1.25M-$5.5M; Bloomberg Law rounds the combined figure to $1M-$5.5M. ProPublica (read in full in the 16 Nov 2026 audit) confirms both ranges and notes the form gives no time of day.
 - Her ethics agreement required her to sell the stake within 90 days of confirmation, so the sale itself was mandated; the issue is its timing.
 - Rep. Raskin referred the sale to the DOJ IG.
 - This is a holding in the president's company, not a decision.
@@ -241,3 +241,7 @@ New sources:
 - Hughes Hubbard, CEPT closing: https://www.hugheshubbard.com/news-insights/news/cantor-equity-partners-ii-inc-completes-business-combination-with-securitize
 - ProPublica via WRAL, Vulcan (2026-05-28): https://www.wral.com/news/ap/white-house-intervened-to-get-620-million-deal-for-company-tied-to-donald-trump-jr-vulcan-elements-propublica-may-2026/
 - Reuters via AJOT, Barrack (2026-10): https://www.ajot.com/news/trump-envoy-kept-financial-ties-to-firm-behind-15-billion-hormuz-bypass-oil-pipeline-plan
+
+### Further audit (16 Nov 2026, applied from the review of C101-C103)
+
+- **Correction:** Bondi's 2 April 2025 sale ($1M-$5M of shares plus $250K-$500K of warrants) adds to $1.25M-$5.5M. Bloomberg Law's $1M-$5.5M combined figure rounds down the lower bound. Confirmed by ProPublica (read in full): https://www.propublica.org/article/pam-bondi-trump-media-stock-tariffs. No change of substance.
