@@ -1,0 +1,393 @@
+[
+  {
+    "id": "C99-01",
+    "recipient": "melania-trump",
+    "recipient_name": "Melania Trump",
+    "venture": "amazon-mgm-studios",
+    "category": "media",
+    "kind": "reported-income",
+    "amount_low_usd": 10710000,
+    "amount_high_usd": 10710000,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "Net proceeds from a licence agreement with Designers Manager for the film 'Melania', reported via MKT World LLC in Part 5 (spouse income) of the President's 2025 OGE report.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "https://au.variety.com/2026/film/news/trump-fee-payment-amazon-melania-documentary-38206/"
+    ],
+    "notes": "The same sum may be counted as Trump-family media income in C98 or C44; do not add it twice. It is part of a reported $40M Amazon deal (row C99-04), so do not add that row to this one. Amazon denies impropriety; her office has not commented on amounts."
+  },
+  {
+    "id": "C99-02",
+    "recipient": "melania-trump",
+    "recipient_name": "Melania Trump",
+    "venture": "mkt-world-llc",
+    "category": "crypto",
+    "kind": "reported-income",
+    "amount_low_usd": 6011259,
+    "amount_high_usd": 6011259,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "Net proceeds from a Designers Manager licence for the sale of NFTs and other digital collectibles, per Part 5 of the President's 2025 OGE report.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "https://www.americanprogress.org/wp-content/uploads/sites/2/2026/07/2026-07-16-Memo-on-Understanding-Trumps-Crypto-Wealth-Updated-Google-Docs.pdf"
+    ],
+    "notes": "OVERLAP WITH C97: the same $6,011,259 is CAP's '$MELANIA' line and will appear in the C97 crypto rows; count it once. The filing lists NFT/collectible income, not meme-coin proceeds."
+  },
+  {
+    "id": "C99-03",
+    "recipient": "melania-trump",
+    "recipient_name": "Melania Trump",
+    "venture": "Skyhorse memoir 'Melania'",
+    "category": "media",
+    "kind": "reported-income",
+    "amount_low_usd": 521161,
+    "amount_high_usd": 521161,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "Net proceeds from the memoir 'Melania' (Skyhorse) under a Designers Manager licence, per Part 5 of the President's 2025 OGE report.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
+    ],
+    "notes": "The memoir was published in Oct 2024, before the term; these are 2025 receipts, not income earned because of the presidency."
+  },
+  {
+    "id": "C99-04",
+    "recipient": "melania-trump",
+    "recipient_name": "Melania Trump",
+    "venture": "amazon-mgm-studios",
+    "category": "media",
+    "kind": "estimate",
+    "amount_low_usd": 28000000,
+    "amount_high_usd": 40000000,
+    "period": "2025-01 to 2026-11",
+    "as_of": "2025-01-07",
+    "basis": "Puck and the WSJ reported a $40M licence fee for the film and docuseries; the WSJ said more than 70% (about $28M) goes to Melania Trump. Amazon confirmed the deal but not the price.",
+    "grade": "single-source",
+    "sources": [
+      "https://salon.com/2025/01/07/paid-40-million-for-the-rights-to-a-melania-documentary-directed-by-an-alleged-abuser"
+    ],
+    "notes": "OVERLAPS row C99-01: the $10.71M disclosed for 2025 is part of this total. Only $10.71M is documented as received; the remainder is unconfirmed. The more-than-70% share rests on the WSJ alone."
+  },
+  {
+    "id": "C99-05",
+    "recipient": "melania-trump",
+    "recipient_name": "Melania Trump",
+    "venture": "MBWT LLC (Ljubljana real estate)",
+    "category": "property",
+    "kind": "reported-income",
+    "amount_low_usd": 100001,
+    "amount_high_usd": 1000000,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "Capital gains reported in a value band for MBWT LLC (residential real estate and bank account, Ljubljana) in Part 5 of the President's 2025 OGE report.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
+    ],
+    "notes": "OGE value band, not an exact figure. Unrelated to any government decision."
+  },
+  {
+    "id": "C99-06",
+    "recipient": "trump-family-members-dt-marks",
+    "recipient_name": "Unnamed Trump family members (30% holders)",
+    "venture": "world-liberty-financial",
+    "category": "crypto",
+    "kind": "estimate",
+    "amount_low_usd": 237000000,
+    "amount_high_usd": 338000000,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "Our own arithmetic: the President's 2025 OGE report shows 'Trump Family Members' owning 30% of DT Marks Defi and DT Marks SC, which reported about $789M of 2025 WLF token, equity-sale and Stablecoin Holdco proceeds; 30% of that is about $237M if the amounts are entity totals, or about $338M if they are the President's 69-70% share.",
+    "grade": "inferred",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "https://www.americanprogress.org/wp-content/uploads/sites/2/2026/07/2026-07-16-Memo-on-Understanding-Trumps-Crypto-Wealth-Updated-Google-Docs.pdf"
+    ],
+    "notes": "OVERLAP WITH C97: this is a slice of the same WLF/USD1 money counted in C97; do not add. No source names the members or their split; the amounts may be accrued, not distributed. Rows C99-07 (Barron) and any per-son WLF figure fall inside this one."
+  },
+  {
+    "id": "C99-07",
+    "recipient": "barron-trump",
+    "recipient_name": "Barron Trump",
+    "venture": "world-liberty-financial",
+    "category": "crypto",
+    "kind": "estimate",
+    "amount_low_usd": 25000000,
+    "amount_high_usd": 40000000,
+    "period": "2025-01 to 2025-06",
+    "as_of": "2025-06",
+    "basis": "Forbes estimated about $40M of WLF token-sale proceeds to Barron Trump (about $25M after tax), assuming a stake of about 7.5-10%.",
+    "grade": "single-source",
+    "sources": [
+      "https://www.benzinga.com/markets/25/06/46017024/trump-financial-disclosures-reveal-barron-trumps-potential-40-million-windfall-from-crypto-project"
+    ],
+    "notes": "OVERLAP WITH C97 and row C99-06: this is a Forbes apportionment of the family's WLF proceeds, not a disclosed payment. Barron's stake is undisclosed."
+  },
+  {
+    "id": "C99-08",
+    "recipient": "barron-trump",
+    "recipient_name": "Barron Trump",
+    "venture": "world-liberty-financial",
+    "category": "crypto",
+    "kind": "estimate",
+    "amount_low_usd": 150000000,
+    "amount_high_usd": 150000000,
+    "period": "2024-11 to 2025-10",
+    "as_of": "2025-10-06",
+    "basis": "Forbes net-worth estimate of about $150M, mostly an assumed 10% share of the WLF value attributed to the family, with locked tokens heavily discounted.",
+    "grade": "single-source",
+    "sources": [
+      "https://www.forbes.com/sites/danalexander/2025/09/22/heres-how-much-the-trump-kids-have-made-because-of-the-presidency/",
+      "https://revistamercado.do/criptomonedas/barron-trump-fortuna-150-millones/"
+    ],
+    "notes": "Net worth, not income; it includes row C99-07 and must not be added to it. No newer figure was found, and WLFI has fallen since."
+  },
+  {
+    "id": "C99-09",
+    "recipient": "eric-trump",
+    "recipient_name": "Eric Trump",
+    "venture": "american-bitcoin",
+    "category": "crypto",
+    "kind": "paper-value",
+    "amount_low_usd": 20000000,
+    "amount_high_usd": 25000000,
+    "period": "2025-03 to 2026-11",
+    "as_of": "2026-11-13",
+    "basis": "Our arithmetic: 68,432,664 pre-split shares per the 13D/A and April 2026 proxy, divided by 15 for the July 2026 reverse split (about 4.56M shares), times the $5.07 close on 13 Nov 2026, is about $23M.",
+    "grade": "inferred",
+    "sources": [
+      "https://www.sec.gov/Archives/edgar/data/0001755953/000119312526178754/abtc-20260424.htm",
+      "https://stockanalysis.com/stocks/abtc/",
+      "https://www.theblock.co/post/406941/trump-backed-american-bitcoin-1-for-15-reverse-stock-split-maintain-nasdaq-listing"
+    ],
+    "notes": "OVERLAP WITH C97 if C97 lists American Bitcoin stakes. The same stake was worth $600M+ near the Sept 2025 peak (Bloomberg: loss of more than $600M). No sale is documented; Eric says he holds all his shares. Advisory role reportedly unpaid (single-source)."
+  },
+  {
+    "id": "C99-10",
+    "recipient": "eric-trump",
+    "recipient_name": "Eric Trump",
+    "venture": "dominari-holdings",
+    "category": "other",
+    "kind": "paper-value",
+    "amount_low_usd": 4500000,
+    "amount_high_usd": 4800000,
+    "period": "2025-02 to 2025-12",
+    "as_of": "2025-12-31",
+    "basis": "Our arithmetic: 966,138 shares (13G, Feb 2025; 250,000 advisory grant plus about $1M of placement shares at $3.47) at the end-2025 price of just under $5.",
+    "grade": "inferred",
+    "sources": [
+      "https://www.bloomberg.com/news/articles/2025-05-19/how-donald-trump-jr-eric-trump-could-make-millions-from-dominari-shares"
+    ],
+    "notes": "Excludes 432,276 warrant shares. A cash cost of about $1M is embedded in this value. No sale is documented. The current share count and price were not verified for Nov 2026."
+  },
+  {
+    "id": "C99-11",
+    "recipient": "donald-trump-jr",
+    "recipient_name": "Donald Trump Jr.",
+    "venture": "dominari-holdings",
+    "category": "other",
+    "kind": "paper-value",
+    "amount_low_usd": 4500000,
+    "amount_high_usd": 4800000,
+    "period": "2025-02 to 2025-12",
+    "as_of": "2025-12-31",
+    "basis": "Our arithmetic: 966,138 shares (13G, Feb 2025) at the end-2025 price of just under $5.",
+    "grade": "inferred",
+    "sources": [
+      "https://www.bloomberg.com/news/articles/2025-05-19/how-donald-trump-jr-eric-trump-could-make-millions-from-dominari-shares",
+      "https://www.webull.com.au/news-detail/14846258248377344"
+    ],
+    "notes": "A reported sale of 1,504,322 shares is a misreading of the S-3 resale table (MarketWatch corrected it). A search summary cites a 5.23% 13G as of May 2026 (not read). A cash cost of about $1M is embedded."
+  },
+  {
+    "id": "C99-12",
+    "recipient": "eric-trump",
+    "recipient_name": "Eric Trump",
+    "venture": "new-america-acquisition-i",
+    "category": "other",
+    "kind": "paper-value",
+    "amount_low_usd": 0,
+    "amount_high_usd": 30000000,
+    "period": "2025-08 to 2026-11",
+    "as_of": "2025-12-05",
+    "basis": "Per Reuters and AP, 3M founder shares, worth about $30M at the $10 IPO price if a merger closes.",
+    "grade": "documented",
+    "sources": [
+      "https://finance.yahoo.com/news/eric-trump-jr-backed-manufacturing-152853627.html",
+      "https://www.capitalbrief.com/briefing/trump-sons-take-advisory-roles-in-us-blank-cheque-spac-tied-to-federal-incentives-6b65035f-7ae7-4ede-b0d7-ba20ea514ccb/"
+    ],
+    "notes": "Contingent: worth roughly nothing if no business combination closes (none announced by Nov 2026)."
+  },
+  {
+    "id": "C99-13",
+    "recipient": "donald-trump-jr",
+    "recipient_name": "Donald Trump Jr.",
+    "venture": "new-america-acquisition-i",
+    "category": "other",
+    "kind": "paper-value",
+    "amount_low_usd": 0,
+    "amount_high_usd": 20000000,
+    "period": "2025-08 to 2026-11",
+    "as_of": "2025-12-05",
+    "basis": "Per Reuters and AP, 2M founder shares, worth about $20M at the $10 IPO price if a merger closes.",
+    "grade": "documented",
+    "sources": [
+      "https://finance.yahoo.com/news/eric-trump-jr-backed-manufacturing-152853627.html",
+      "https://www.capitalbrief.com/briefing/trump-sons-take-advisory-roles-in-us-blank-cheque-spac-tied-to-federal-incentives-6b65035f-7ae7-4ede-b0d7-ba20ea514ccb/"
+    ],
+    "notes": "Contingent on a merger, as above."
+  },
+  {
+    "id": "C99-14",
+    "recipient": "donald-trump-jr",
+    "recipient_name": "Donald Trump Jr.",
+    "venture": "grabagun",
+    "category": "other",
+    "kind": "paper-value",
+    "amount_low_usd": 3000000,
+    "amount_high_usd": 4000000,
+    "period": "2025-07 to 2025-07",
+    "as_of": "2025-07-16",
+    "basis": "Bloomberg valued his 300,000 GrabAGun shares (granted per an SEC filing) at about $4M after the stock's debut slide.",
+    "grade": "documented",
+    "sources": [
+      "https://www.bloomberg.com/news/articles/2025-07-16/donald-trump-jr-s-grabagun-stake-worth-4-million-even-after-25-drop",
+      "https://www-web.itiger.com/news/2567827731"
+    ],
+    "notes": "Value is dated (July 2025) and has not been updated. One summary describes the shares as consulting pay (single-source)."
+  },
+  {
+    "id": "C99-15",
+    "recipient": "donald-trump-jr",
+    "recipient_name": "Donald Trump Jr.",
+    "venture": "unusual-machines",
+    "category": "other",
+    "kind": "paper-value",
+    "amount_low_usd": 4000000,
+    "amount_high_usd": 4000000,
+    "period": "2024-11 to 2025-10",
+    "as_of": "2025-10",
+    "basis": "The FT valued his 331,580 shares (200,000 advisory grant plus 131,580 bought at $1.52) at about $4M in Oct 2025.",
+    "grade": "documented",
+    "sources": [
+      "https://www.tipranks.com/news/the-fly/trump-jr-backed-unusual-machines-wins-dod-contract-ft-reports-thefly"
+    ],
+    "notes": "The role and grant date from Nov 2024, before the term. The stock has since been volatile. No sale is reported."
+  },
+  {
+    "id": "C99-16",
+    "recipient": "donald-trump-jr",
+    "recipient_name": "Donald Trump Jr.",
+    "venture": "kalshi",
+    "category": "other",
+    "kind": "paper-value",
+    "amount_low_usd": 300000,
+    "amount_high_usd": 6000000,
+    "period": "2025-01 to 2026-06",
+    "as_of": "2026-06-30",
+    "basis": "More than $300,000 of Kalshi shares at grant in Jan 2025 (FT, NYT); one June 2026 report estimates about $6M on paper after valuation growth, while the FT says the stake was heavily diluted.",
+    "grade": "single-source",
+    "sources": [
+      "https://covers.com/industry/kalshi-facing-scrutiny-over-trump-jr-300k-share-gift-june-30-2026",
+      "https://finance.yahoo.com/markets/options/articles/donald-trump-jr-got-kalshi-220055638.html"
+    ],
+    "notes": "Kalshi reportedly ended his advisory contract around 12 Nov 2026 (unconfirmed). Private-company value; no cash. A spokesperson says he advises on marketing only."
+  },
+  {
+    "id": "C99-17",
+    "recipient": "donald-trump-jr",
+    "recipient_name": "Donald Trump Jr.",
+    "venture": "psq-holdings",
+    "category": "other",
+    "kind": "paper-value",
+    "amount_low_usd": 0,
+    "amount_high_usd": 450000,
+    "period": "2025-01 to 2026-07",
+    "as_of": "2026",
+    "basis": "A proxy summary describes PSQ director pay as $300,000 of initial RSUs and $150,000 a year; his own grants were not confirmed from the filing.",
+    "grade": "single-source",
+    "sources": [
+      "https://quartr.com/events/psq-holdings-inc-psqh-proxy-filing_F9y6ymLY"
+    ],
+    "notes": "Upper bound only; grant-date values, not market value."
+  },
+  {
+    "id": "C99-18",
+    "recipient": "donald-trump-jr",
+    "recipient_name": "Donald Trump Jr.",
+    "venture": "forbes net worth",
+    "category": "other",
+    "kind": "estimate",
+    "amount_low_usd": 300000000,
+    "amount_high_usd": 300000000,
+    "period": "2024-11 to 2025-12",
+    "as_of": "2025-12-08",
+    "basis": "Forbes net-worth estimate (public stakes at market, private stakes at estimated value, after-tax token proceeds), up from about $50M in Nov 2024.",
+    "grade": "single-source",
+    "sources": [
+      "https://www.forbes.com/sites/kylemullins/2025/12/08/how-donald-trump-jrs-fortune-jumped-six-fold-in-a-year/"
+    ],
+    "notes": "Net worth, not income; it includes the paper-value rows above. Predates the 2026 fall in American Bitcoin and WLFI."
+  },
+  {
+    "id": "C99-19",
+    "recipient": "eric-trump",
+    "recipient_name": "Eric Trump",
+    "venture": "forbes net worth",
+    "category": "other",
+    "kind": "estimate",
+    "amount_low_usd": 280000000,
+    "amount_high_usd": 400000000,
+    "period": "2024-11 to 2026-04",
+    "as_of": "2026-04-28",
+    "basis": "Forbes estimated about $400M (4 Dec 2025) and about $280M (28 Apr 2026, seen as an excerpt only).",
+    "grade": "single-source",
+    "sources": [
+      "https://www.forbes.com/sites/kylemullins/2025/12/04/eric-trump-has-gotten-10-times-richer-since-dads-election/",
+      "https://www.forbes.com/sites/danalexander/2026/04/28/how-eric-trump-got-rich-from-bitcoin-while-losing-investors-a-fortune/"
+    ],
+    "notes": "Net worth, not income. Eric disputed the Dec 2025 figure without offering one."
+  },
+  {
+    "id": "C99-20",
+    "recipient": "jared-kushner",
+    "recipient_name": "Jared Kushner",
+    "venture": "affinity-partners",
+    "category": "fund-fees",
+    "kind": "estimate",
+    "amount_low_usd": 70000000,
+    "amount_high_usd": 80000000,
+    "period": "2025-01 to 2026-08",
+    "as_of": "2024-09-24",
+    "basis": "The Senate Finance Committee said Affinity was 'guaranteed to collect an additional $90 million' in management fees from foreign investors from Sept 2024 to Aug 2026 ($50M from PIF); our pro-rata share for Jan 2025-Aug 2026 is about $70-80M.",
+    "grade": "inferred",
+    "sources": [
+      "https://www.finance.senate.gov/imo/media/doc/chairman_wyden_to_affinity_partnerspdf.pdf"
+    ],
+    "notes": "Firm revenue that covers operating costs, not Kushner's personal income; actual receipts are unpublished. The fee schedule itself is documented, while the in-term share is our arithmetic. Kushner and Affinity say the arrangements are lawful and standard."
+  },
+  {
+    "id": "C99-21",
+    "recipient": "jared-kushner",
+    "recipient_name": "Jared Kushner",
+    "venture": "forbes net worth",
+    "category": "other",
+    "kind": "estimate",
+    "amount_low_usd": 1000000000,
+    "amount_high_usd": 1000000000,
+    "period": "2024-10 to 2025-09",
+    "as_of": "2025-09",
+    "basis": "Forbes put Kushner above $1B in Sept 2025 (from about $900M), valuing the Affinity management company at about $215M; the breakdown was seen only through secondary relays.",
+    "grade": "single-source",
+    "sources": [
+      "https://www.newser.com/story/375340/jared-kushner-is-now-a-billionaire.html",
+      "https://www.noonpost.com/en/363543/"
+    ],
+    "notes": "Net worth, not income. Overlaps the fee row through the value placed on the management company."
+  }
+]
