@@ -16,7 +16,7 @@
       "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
       "https://au.variety.com/2026/film/news/trump-fee-payment-amazon-melania-documentary-38206/"
     ],
-    "notes": "The same sum may be counted as Trump-family media income in C98 or C44; do not add it twice. It is part of a reported $40M Amazon deal (row C99-04), so do not add that row to this one. Amazon denies impropriety; her office has not commented on amounts."
+    "notes": "OVERLAP: the same sum is in C96-32 ($17,242,420 spouse total) and is cited in C44; C98 does not count it. It is part of a reported $40M Amazon deal (row C99-04), so do not add that row to this one. Amazon and Jeff Bezos deny impropriety; her office has not commented on amounts."
   },
   {
     "id": "C99-02",
@@ -35,7 +35,7 @@
       "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
       "https://www.americanprogress.org/wp-content/uploads/sites/2/2026/07/2026-07-16-Memo-on-Understanding-Trumps-Crypto-Wealth-Updated-Google-Docs.pdf"
     ],
-    "notes": "OVERLAP WITH C97: the same $6,011,259 is CAP's '$MELANIA' line and will appear in the C97 crypto rows; count it once. The filing lists NFT/collectible income, not meme-coin proceeds."
+    "notes": "OVERLAP WITH C97-11 and C96-32: the same $6,011,259 appears there; count it once. The filing lists NFT/collectible income, not meme-coin proceeds; CAP's link to $MELANIA is its own inference."
   },
   {
     "id": "C99-03",
@@ -53,7 +53,7 @@
     "sources": [
       "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
     ],
-    "notes": "The memoir was published in Oct 2024, before the term; these are 2025 receipts, not income earned because of the presidency."
+    "notes": "OVERLAP with C96-32 (spouse total). The memoir was published in Oct 2024, before the term; these are 2025 receipts, not income earned because of the presidency."
   },
   {
     "id": "C99-04",
@@ -108,7 +108,7 @@
       "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
       "https://www.americanprogress.org/wp-content/uploads/sites/2/2026/07/2026-07-16-Memo-on-Understanding-Trumps-Crypto-Wealth-Updated-Google-Docs.pdf"
     ],
-    "notes": "OVERLAP WITH C97: this is a slice of the same WLF/USD1 money counted in C97; do not add. No source names the members or their split; the amounts may be accrued, not distributed. Rows C99-07 (Barron) and any per-son WLF figure fall inside this one."
+    "notes": "OVERLAP WITH C97-15 (same 30% slice, recorded there under donald-trump-jr) and with C96-01 to C96-03 / C97-01 to C97-03; do not add. No source names the members or their split; the amounts may be accrued, not distributed. Rows C99-07 (Barron) and any per-son WLF figure fall inside this one."
   },
   {
     "id": "C99-07",
@@ -126,7 +126,7 @@
     "sources": [
       "https://www.benzinga.com/markets/25/06/46017024/trump-financial-disclosures-reveal-barron-trumps-potential-40-million-windfall-from-crypto-project"
     ],
-    "notes": "OVERLAP WITH C97 and row C99-06: this is a Forbes apportionment of the family's WLF proceeds, not a disclosed payment. Barron's stake is undisclosed."
+    "notes": "OVERLAP WITH C97 and row C99-06: this is a Forbes apportionment of the family's WLF proceeds, not a disclosed payment. Barron's stake is undisclosed. Forbes (Dec 2025) later worked on about 7% per co-founder son, roughly $80M after tax each; also an apportionment."
   },
   {
     "id": "C99-08",
@@ -158,14 +158,13 @@
     "amount_high_usd": 25000000,
     "period": "2025-03 to 2026-11",
     "as_of": "2026-11-13",
-    "basis": "Our arithmetic: 68,432,664 pre-split shares per the 13D/A and April 2026 proxy, divided by 15 for the July 2026 reverse split (about 4.56M shares), times the $5.07 close on 13 Nov 2026, is about $23M.",
-    "grade": "inferred",
+    "basis": "Our arithmetic: 68,432,664 pre-split shares (13D/A, Dec 2025, 7.4%), divided by 15 for the 6 July 2026 reverse split (about 4.56M shares), times the $5.07 close on 13 Nov 2026, is about $23M.",
+    "grade": "documented",
     "sources": [
-      "https://www.sec.gov/Archives/edgar/data/0001755953/000119312526178754/abtc-20260424.htm",
-      "https://stockanalysis.com/stocks/abtc/",
-      "https://www.theblock.co/post/406941/trump-backed-american-bitcoin-1-for-15-reverse-stock-split-maintain-nasdaq-listing"
+      "https://www.sec.gov/Archives/edgar/data/0001755953/000121390025124157/primary_doc.xml",
+      "https://stockanalysis.com/stocks/abtc/history/"
     ],
-    "notes": "OVERLAP WITH C97 if C97 lists American Bitcoin stakes. The same stake was worth $600M+ near the Sept 2025 peak (Bloomberg: loss of more than $600M). No sale is documented; Eric says he holds all his shares. Advisory role reportedly unpaid (single-source)."
+    "notes": "OVERLAP: identical to C97-19; count once. By the same arithmetic the stake was about $637M at the 9 Sept 2025 high close, $116M at end-2025 and $80M at end-April 2026. No sale is documented; Eric says he holds all his shares. Advisory role reportedly unpaid (single-source)."
   },
   {
     "id": "C99-10",
@@ -174,16 +173,16 @@
     "venture": "dominari-holdings",
     "category": "other",
     "kind": "paper-value",
-    "amount_low_usd": 4500000,
-    "amount_high_usd": 4800000,
+    "amount_low_usd": 4780000,
+    "amount_high_usd": 4790000,
     "period": "2025-02 to 2025-12",
     "as_of": "2025-12-31",
-    "basis": "Our arithmetic: 966,138 shares (13G, Feb 2025; 250,000 advisory grant plus about $1M of placement shares at $3.47) at the end-2025 price of just under $5.",
+    "basis": "Our arithmetic: 966,138 shares (13G, Feb 2025; 250,000 advisory grant plus placement shares at $3.47) at the $4.95 close on 31 Dec 2025.",
     "grade": "inferred",
     "sources": [
       "https://www.bloomberg.com/news/articles/2025-05-19/how-donald-trump-jr-eric-trump-could-make-millions-from-dominari-shares"
     ],
-    "notes": "Excludes 432,276 warrant shares. A cash cost of about $1M is embedded in this value. No sale is documented. The current share count and price were not verified for Nov 2026."
+    "notes": "Excludes 432,276 warrant shares. A cash cost of about $1M is embedded. No sale is documented. A ticker-tracking site lists Eric at 5.77% in Sept 2026 (single-source). At the $0.78 close on 13 Nov 2026, 966,138 shares would be about $0.75M."
   },
   {
     "id": "C99-11",
@@ -192,17 +191,18 @@
     "venture": "dominari-holdings",
     "category": "other",
     "kind": "paper-value",
-    "amount_low_usd": 4500000,
-    "amount_high_usd": 4800000,
-    "period": "2025-02 to 2025-12",
-    "as_of": "2025-12-31",
-    "basis": "Our arithmetic: 966,138 shares (13G, Feb 2025) at the end-2025 price of just under $5.",
+    "amount_low_usd": 1090000,
+    "amount_high_usd": 4790000,
+    "period": "2025-02 to 2026-11",
+    "as_of": "2026-11-13",
+    "basis": "Our arithmetic: 966,138 shares (13G, Feb 2025) at the $4.95 end-2025 close is about $4.8M; 1,398,414 shares (13G filed Sept 2026, 5.77%, after a warrant exercise) at the $0.78 close on 13 Nov 2026 is about $1.1M.",
     "grade": "inferred",
     "sources": [
-      "https://www.bloomberg.com/news/articles/2025-05-19/how-donald-trump-jr-eric-trump-could-make-millions-from-dominari-shares",
-      "https://www.webull.com.au/news-detail/14846258248377344"
+      "https://www.webull.com.au/news-detail/14846258248377344",
+      "https://www.sec.gov/Archives/edgar/data/0000012239/000121390026100325/primary_doc.xml",
+      "https://stockanalysis.com/stocks/domh/history/"
     ],
-    "notes": "A reported sale of 1,504,322 shares is a misreading of the S-3 resale table (MarketWatch corrected it). A search summary cites a 5.23% 13G as of May 2026 (not read). A cash cost of about $1M is embedded."
+    "notes": "Two dates for the same holding; the range is not additive. 2026 13G filings were seen as search excerpts. The reported 'sale of 1,504,322 shares' misreads the S-3 resale table (MarketWatch corrected it); no sale is documented. A cash cost of about $1M plus the warrant exercise price is embedded."
   },
   {
     "id": "C99-12",
@@ -249,17 +249,17 @@
     "venture": "grabagun",
     "category": "other",
     "kind": "paper-value",
-    "amount_low_usd": 3000000,
+    "amount_low_usd": 450000,
     "amount_high_usd": 4000000,
-    "period": "2025-07 to 2025-07",
-    "as_of": "2025-07-16",
-    "basis": "Bloomberg valued his 300,000 GrabAGun shares (granted per an SEC filing) at about $4M after the stock's debut slide.",
+    "period": "2025-07 to 2026-11",
+    "as_of": "2026-11-13",
+    "basis": "Bloomberg valued his 300,000 GrabAGun shares at about $4M after the July 2025 debut; at the $1.46 close on 13 Nov 2026, 311,433 shares (after a reported Form 4 option conversion) would be about $0.45M (our arithmetic).",
     "grade": "documented",
     "sources": [
       "https://www.bloomberg.com/news/articles/2025-07-16/donald-trump-jr-s-grabagun-stake-worth-4-million-even-after-25-drop",
       "https://www-web.itiger.com/news/2567827731"
     ],
-    "notes": "Value is dated (July 2025) and has not been updated. One summary describes the shares as consulting pay (single-source)."
+    "notes": "Two dates; not additive. Whether he still holds every share is not confirmed; no sale is reported. One summary describes the shares as consulting pay (single-source)."
   },
   {
     "id": "C99-15",
@@ -268,11 +268,11 @@
     "venture": "unusual-machines",
     "category": "other",
     "kind": "paper-value",
-    "amount_low_usd": 4000000,
+    "amount_low_usd": 3700000,
     "amount_high_usd": 4000000,
-    "period": "2024-11 to 2025-10",
-    "as_of": "2025-10",
-    "basis": "The FT valued his 331,580 shares (200,000 advisory grant plus 131,580 bought at $1.52) at about $4M in Oct 2025.",
+    "period": "2024-11 to 2026-11",
+    "as_of": "2026-11-13",
+    "basis": "The FT valued his 331,580 shares at about $4M in Oct 2025; at the $11.28 close on 13 Nov 2026 they would be about $3.7M (our arithmetic).",
     "grade": "documented",
     "sources": [
       "https://www.tipranks.com/news/the-fly/trump-jr-backed-unusual-machines-wins-dod-contract-ft-reports-thefly"
@@ -294,9 +294,10 @@
     "grade": "single-source",
     "sources": [
       "https://covers.com/industry/kalshi-facing-scrutiny-over-trump-jr-300k-share-gift-june-30-2026",
-      "https://finance.yahoo.com/markets/options/articles/donald-trump-jr-got-kalshi-220055638.html"
+      "https://finance.yahoo.com/markets/options/articles/donald-trump-jr-got-kalshi-220055638.html",
+      "https://unchainedcrypto.com/donald-trump-jr-leaves-kalshi-keeps-polymarket-role-a-week-after-democrats-win-congress/"
     ],
-    "notes": "Kalshi reportedly ended his advisory contract around 12 Nov 2026 (unconfirmed). Private-company value; no cash. A spokesperson says he advises on marketing only."
+    "notes": "Kalshi ended his advisory role by mutual agreement on 12 Nov 2026, citing 1789 Capital's Polymarket investment (Kalshi spokesperson, via Unchained and AOL); Kalshi did not say what happens to his equity. Private-company value; no cash. Kalshi says politics played no part."
   },
   {
     "id": "C99-17",
@@ -324,15 +325,15 @@
     "category": "other",
     "kind": "estimate",
     "amount_low_usd": 300000000,
-    "amount_high_usd": 300000000,
+    "amount_high_usd": 500000000,
     "period": "2024-11 to 2025-12",
     "as_of": "2025-12-08",
-    "basis": "Forbes net-worth estimate (public stakes at market, private stakes at estimated value, after-tax token proceeds), up from about $50M in Nov 2024.",
+    "basis": "Forbes net-worth estimates: about $500M (Sept 2025) and about $300M (8 Dec 2025), up from about $50M in Nov 2024; the Dec article was read in full.",
     "grade": "single-source",
     "sources": [
       "https://www.forbes.com/sites/kylemullins/2025/12/08/how-donald-trump-jrs-fortune-jumped-six-fold-in-a-year/"
     ],
-    "notes": "Net worth, not income; it includes the paper-value rows above. Predates the 2026 fall in American Bitcoin and WLFI."
+    "notes": "Net worth, not income; it includes the paper-value rows above. Predates the 2026 falls in American Bitcoin, Dominari and WLFI."
   },
   {
     "id": "C99-19",
@@ -345,7 +346,7 @@
     "amount_high_usd": 400000000,
     "period": "2024-11 to 2026-04",
     "as_of": "2026-04-28",
-    "basis": "Forbes estimated about $400M (4 Dec 2025) and about $280M (28 Apr 2026, seen as an excerpt only).",
+    "basis": "Forbes estimated about $400M (4 Dec 2025) and about $280M (28 Apr 2026; read in full).",
     "grade": "single-source",
     "sources": [
       "https://www.forbes.com/sites/kylemullins/2025/12/04/eric-trump-has-gotten-10-times-richer-since-dads-election/",
@@ -389,5 +390,23 @@
       "https://www.noonpost.com/en/363543/"
     ],
     "notes": "Net worth, not income. Overlaps the fee row through the value placed on the management company."
+  },
+  {
+    "id": "C99-22",
+    "recipient": "trump-family-members-dt-marks",
+    "recipient_name": "Unnamed 'Trump Family Members' (20% limited partners in licensing LLCs)",
+    "venture": "trump-organization (foreign licensing)",
+    "category": "licensing",
+    "kind": "estimate",
+    "amount_low_usd": 0,
+    "amount_high_usd": 10900000,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "Our arithmetic: twelve licensing LLCs owned 79% by DTTM Operations (or DJT Holdings), 20% by 'Trump Family Members' and 1% by a member corporation reported $54,492,808 of 2025 fees on the President's OGE report; 20% is about $10.9M.",
+    "grade": "inferred",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
+    ],
+    "notes": "OVERLAP: these fees are already in C98-11 to C98-13 and C96-06 to C96-14; do not add. The ownership split is documented, but whether the form's amounts are entity totals and whether anything was distributed is not stated; low end 0. No family member is named. Forbes separately estimated about $3.2M of 2024 licensing income for Donald Trump Jr."
   }
 ]

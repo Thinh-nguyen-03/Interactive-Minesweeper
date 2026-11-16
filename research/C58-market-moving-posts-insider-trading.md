@@ -13,7 +13,9 @@ Most of the pattern described in the claim is on the record:
 - **Lawsuit.** The Intercept and the Freedom of the Press Foundation (FPF) sued over the paid Truth API. The case is pending.
 - **Rogan podcast.** On the Joe Rogan Experience, guest Shane Gillis called the Truth API "literally insider trading."
 
-What is **not** established: no public evidence, investigation finding or charge ties Trump, his family or any named official to any of these trades. The Intel and Fed "well-timed trades" threads are thin. The best-documented "pardon bet" was on Biden's pardons, not Trump's.
+What is **not** established: no public evidence, investigation finding or charge ties Trump, his family or any named official to the anonymous trades described here. Separately, Trump's own 2025 annual disclosure lists 327 stock purchases in one of his accounts on 8 April 2025, the day before the pause. The filing does not show who directed them, and the White House says independent managers run his accounts (see C102). The Intel and Fed "well-timed trades" threads are thin. The best-documented "pardon bet" was on Biden's pardons, not Trump's.
+
+Episodes this check does not cover are in C101: the 2 March 2025 crypto-reserve trade, the 10 October 2025 Hyperliquid short, the June 2025 Iran-strike bets and a university study of oil-related posts. Trades by officials and members of Congress are in C102, and probes and outcomes in C103.
 
 This builds on C20 (stock posts), C21 and C41 (Truth API, the Warren-Schiff letter to the SEC, the Intercept lead), C25 (Don Jr.'s Kalshi and Polymarket roles) and C30 (Rogan).
 
@@ -47,6 +49,7 @@ This builds on C20 (stock posts), C21 and C41 (Truth API, the Warren-Schiff lett
   - The CFTC sought "Tag 50" trader identities from the exchanges.
   - Estimates of the size conflict: about $2.6B (ABC) versus about $7B (Reuters).
   - CFTC Chair Selig vowed to pursue insider trading but did not comment on the specific case.
+  - The WSJ (May 2026) reported that CFTC documents name Qube Research & Technologies (about $5M gain), Totsa, TotalEnergies' trading arm (about $200K), and Forza Fund (about $10M) among the 23 March traders. None has been accused of wrongdoing, and Qube says its trading is model-driven. The WSJ also reported that some of those trades followed a Semafor article published about 33 minutes before Trump's post (see C101) [33].
   - Audit update: Bloomberg reported on 2026-10-13 (anonymous sources) that Selig adviser Mel Gunewardena had a supervisor retract a staff referral to enforcement over the 23 March bets; a source later said enforcement is still examining the trades. No charges as of mid-Nov 2026.
 - **Intel (thin).** A trading-platform blog pointed to unusual Intel options activity before the 22 August 2025 government-stake news [32]. Rep. Tim Moore bought Intel shares on 29 July 2025. Neither shows insider trading, and I found no probe.
 - **Fed (thin).** Kevin Warsh's odds on Polymarket and Kalshi rose before his nomination [31]. The moves tracked press reports, and I found no investigation.
@@ -55,6 +58,7 @@ This builds on C20 (stock posts), C21 and C41 (Truth API, the Warren-Schiff lett
 - **Maduro raid.**
   - A new Polymarket account turned about $34K into about $410K hours before Maduro's capture on 3 January 2026 [13].
   - SDNY unsealed an indictment of Army Master Sgt. Gannon Ken Van Dyke on 23 April 2026. The charges are three Commodity Exchange Act counts, wire fraud and an unlawful monetary transaction. Prosecutors say he helped plan the raid [14][15].
+  - He pleaded not guilty on 28 April 2026. Trial is set for 7 December 2026. His motion to dismiss was opposed by prosecutors in August 2026, and no ruling was found [34][35].
   - The CFTC brought a parallel civil case, its first insider-trading case on event contracts.
   - Polymarket says it flagged the trades to DOJ.
 - **Iran strikes.**
@@ -94,11 +98,14 @@ This builds on C20 (stock posts), C21 and C41 (Truth API, the Warren-Schiff lett
 - The $2.5B and $900M figures are Trump's own claims about paper gains.
 - Estimates of the oil-futures bets conflict ($2.6B vs $7B).
 - The "$70M options trade" is not confirmed by Reuters.
+- 16 Nov 2026 (audit of C101-C103): the 23 March 2026 oil trades were described only as trades by unknown traders. The WSJ later named three firms among them; none is accused, and some trades followed a Semafor article published before the post.
+- 16 Nov 2026: the JSON listed the Van Dyke charges as "money-laundering-type" counts. The indictment has five counts (three under the Commodity Exchange Act, wire fraud and an unlawful monetary transaction). He pleaded not guilty; trial is set for 7 December 2026.
+- 16 Nov 2026: "no evidence ties Trump to these trades" now applies only to the anonymous traders. Trump's OGE annual report lists 327 purchases in one of his accounts on 8 April 2025 ($3.6M-$12.8M by range), disclosed on 30 June 2026 with late fees paid (C102).
 
 ## Denials and context
 - The White House, Ingle and Cornyn deny any manipulation or insider trading by officials.
 - TMTG and DOJ defend the Truth API as faster delivery of public data.
-- No one tied to the administration has been publicly identified as a trader. The only person charged is a soldier.
+- No one tied to the administration has been publicly identified as a trader in these anonymous episodes. The only person charged is a soldier. The three firms the WSJ named among the 23 March oil traders are not accused. Trump's own 8 April 2025 purchases are disclosed portfolio trades (C102).
 - Fast markets, press leaks and informed speculation can explain some price moves.
 - **Limits of this check.** The research ended before I could check post-mid-2026 updates on the CFTC oil probe or the SEC's handling of the April 2025 letters. The original pages at CourtListener, Inner City Press and Mediaite were not read directly, so the Intercept docket status rests on search snippets.
 
@@ -135,6 +142,10 @@ This builds on C20 (stock posts), C21 and C41 (Truth API, the Warren-Schiff lett
 30. Fortune, Truth API and insider trading, 2026-08-12. https://fortune.com/2026/08/12/trump-media-truth-api-insider-trading/
 31. The Block, Warsh odds, 2026-01-30. https://www.theblock.co/news/regulation/2026-01-30-kevin-warsh-polymarket-odds-fed-chair-387788
 32. Deriv blog, Intel stock surge, 2025-08. https://blog.deriv.com/blog/intel-stock-price-surge-2025-trump-semiconductor-policy
+33. Hedgeweek relaying the WSJ, CFTC probes $800M oil trading spike, 2026-05. https://www.hedgeweek.com/cftc-probes-800m-oil-trading-spike/
+34. CFTC, complaint against U.S. service member (Van Dyke), 2026-04-23. https://www.cftc.gov/PressRoom/PressReleases/9217-26
+35. ABC News, prosecutors oppose motion to dismiss, 2026-08-20. https://www.goodmorningamerica.com/news/story/soldier-charged-polymarket-trades-seeks-dismissal-135797525
+36. OGE Form 278e annual report for 2025, Donald J. Trump, received 2026-06-29. https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf
 
 ## Audit (second review, Nov 2026)
 
@@ -144,3 +155,12 @@ Result: **strengthened** (verdict and confidence unchanged).
 - **SEC reply:** none found. House FSC Democrats, 2026-02-24: no substantive response to the April 2025 request. https://democrats-financialservices.house.gov/uploadedfiles/02.24.2026_ltr_req_iti.pdf
 - The 11 April 2025 Senate letter (Warren, Schumer, Wyden, Kelly, Gallego, Schiff and others) was re-confirmed.
 - Not re-checked: Maduro/Polymarket case, Truth API suit status, Rogan/Gillis.
+
+### Further audit (16 Nov 2026, applied from the review of C101-C103)
+
+Result now: **corrected** (verdict and confidence unchanged).
+
+- **Iran oil trades:** added the three firms the WSJ named among the 23 March 2026 traders (none accused) and the Semafor article that came before the post.
+- **Van Dyke:** five counts made exact in the JSON; not-guilty plea, motion to dismiss and the 7 December 2026 trial date added.
+- **Trump's own accounts:** the statement that no evidence ties Trump to trades is narrowed to the anonymous traders. The 327 purchases on 8 April 2025, verified in his OGE report, are noted (C102).
+- **Episodes this check lacks:** pointed to C101 rather than duplicated.
