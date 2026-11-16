@@ -5,7 +5,7 @@
 <link rel="stylesheet" href="matrix.css">
 <link rel="stylesheet" href="ui.css">
 
-<a class="skip" href="#app">Skip to the Content</a>
+<a class="skip" href="#app">Skip to Content</a>
 
 <header class="top">
   <div class="wrap top-in">
@@ -46,7 +46,7 @@
 <main id="app" tabindex="-1">
   <div id="page" class="wrap"></div>
 
-  <section id="mapview" class="mapview" aria-label="Map of every check, name and connection" hidden>
+  <section id="mapview" class="mapview" aria-label="Map" hidden>
     <div class="map-bar">
       <div class="seg" role="group" aria-label="View">
         <button type="button" data-view="network" aria-pressed="true"><span class="wide">Network</span><span class="narrow">Map</span></button>
@@ -83,10 +83,10 @@
     </div>
 
     <div class="map-stage" id="map-stage">
-      <canvas id="graph" tabindex="0" role="img" aria-label="Globe of every name and check, placed by the documented links between them. Names that share many links sit together and the most connected sit towards the middle, with Donald Trump at the core. Drag to turn the globe, scroll or pinch to zoom, arrow keys to turn, plus and minus to zoom, zero to reset. Select a name to light its links and read them in the panel. The list view and the Checks and People and Organisations pages give the same content as text."></canvas>
-      <p class="map-loading" id="map-loading">Drawing the map</p>
-      <div class="hud" id="hud" aria-label="What the globe shows now"></div>
-      <div class="map-legend" id="legend" aria-label="Key to the marks"></div>
+      <canvas id="graph" tabindex="0" role="img" aria-label="Globe of names and checks, placed by documented links. Drag or use the arrow keys to turn, scroll or use plus and minus to zoom, zero to reset. The list view and the Checks and People &amp; Organisations pages give the same content as text."></canvas>
+      <p class="map-loading" id="map-loading">Loading map</p>
+      <div class="hud" id="hud" aria-label="Current view"></div>
+      <div class="map-legend" id="legend" aria-label="Key"></div>
       <div class="map-banner" id="banner" role="status" hidden></div>
       <div class="tip" id="tip" hidden></div>
       <p class="map-hint" id="focus-note" hidden></p>
@@ -94,11 +94,11 @@
       <div class="map-zoom" id="map-zoom" role="group" aria-label="Map controls">
         <button type="button" id="zoom-in" aria-label="Zoom in" title="Zoom In"><svg class="ic" viewBox="0 0 16 16" aria-hidden="true"><path d="M8 3.25v9.5M3.25 8h9.5"/></svg></button>
         <button type="button" id="zoom-out" aria-label="Zoom out" title="Zoom Out"><svg class="ic" viewBox="0 0 16 16" aria-hidden="true"><path d="M3.25 8h9.5"/></svg></button>
-        <button type="button" id="zoom-fit" aria-label="Show the whole map" title="Show the Whole Map">
+        <button type="button" id="zoom-fit" aria-label="Fit to view" title="Fit to View">
           <svg class="ic" viewBox="0 0 16 16" aria-hidden="true"><path d="M2.75 6V2.75H6M10 2.75h3.25V6M13.25 10v3.25H10M6 13.25H2.75V10"/></svg>
         </button>
       </div>
-      <aside class="map-panel" id="panel" aria-label="About the map" hidden></aside>
+      <aside class="map-panel" id="panel" aria-label="Where to start" hidden></aside>
     </div>
     <div class="chips" id="topic-chips" role="group" aria-label="Topics"></div>
     <div class="map-list" id="map-list" hidden></div>
@@ -106,28 +106,28 @@
     <div class="matrix" id="matrix" hidden>
       <div class="mx-rail" id="mx-rail">
         <div class="mx-railtop">
-          <label class="sr" for="mx-filter">Find a name in the view</label>
-          <input type="search" id="mx-filter" placeholder="Find a name in the view" autocomplete="off" spellcheck="false">
+          <label class="sr" for="mx-filter">Find a name</label>
+          <input type="search" id="mx-filter" placeholder="Find a name" autocomplete="off" spellcheck="false">
           <div class="mx-groups" id="mx-groups" role="group" aria-label="Groups shown"></div>
         </div>
-        <div class="mx-rows" id="mx-rows" role="group" aria-label="Names in the view"></div>
+        <div class="mx-rows" id="mx-rows" role="group" aria-label="Names"></div>
       </div>
       <div class="mx-main">
         <div class="mx-plot" id="mx-plot"><canvas id="mx-canvas" tabindex="0" role="img"></canvas></div>
         <div class="mx-phone" id="mx-phone"></div>
       </div>
-      <aside class="mx-side" id="mx-side" aria-label="Case file"></aside>
+      <aside class="mx-side" id="mx-side" aria-label="Details"></aside>
       <div class="mx-strip"><p class="mx-read" id="mx-read" role="status"></p><p class="mx-key" id="mx-key"></p></div>
     </div>
 
-    <p class="map-note" id="map-note"><span class="note-hint" id="note-hint"></span><strong>Everyone named denies wrongdoing.</strong> <span class="wide">Nothing here is an accusation of a crime. A line is a documented link between two names, not proof that one caused the other.</span><span class="narrow">A line is a documented link, not an accusation.</span></p>
+    <p class="map-note" id="map-note"><span id="map-note-text"></span><span class="note-date" id="map-note-date"></span></p>
   </section>
 </main>
 
 <footer class="foot" id="foot">
   <div class="wrap">
-    <p class="foot-note">Everyone named denies wrongdoing, and nothing here is an accusation of a crime. A link between two names means a documented relationship, or that both appear in the same check. It does not show that one caused the other.</p>
-    <p id="foot-meta"></p>
+    <p class="foot-note">Everyone named denies wrongdoing. A link is a documented relationship, not proof of cause.</p>
+    <p class="foot-date" id="foot-meta"></p>
   </div>
 </footer>
 

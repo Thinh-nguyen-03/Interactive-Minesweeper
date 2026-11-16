@@ -81,9 +81,9 @@
   }
   /* Evidence grade of one link: alleged and unverified, resting only on single-source checks, or documented. */
   function grade(r) {
-    if (r.alleged) return ['unv', 'Unverified'];
+    if (r.alleged) return ['unv', 'Alleged, Unverified'];
     var cl = r.claims.map(function (id) { return A.byKey.get(id); }).filter(Boolean);
-    return cl.length && cl.every(function (c) { return c.single_source; }) ? ['single', 'Single-source'] : ['doc', 'Documented'];
+    return cl.length && cl.every(function (c) { return c.single_source; }) ? ['single', 'Single-Source'] : ['doc', 'Documented'];
   }
 
   function data() {
@@ -292,7 +292,7 @@
     var fs = Math.max(10, Math.min(12.5, L.ch - 0.5));
     el.style.fontSize = fs + 'px';
     el.innerHTML = D.names.map(function (e, i) {
-      return '<button type="button" class="mx-row' + (!i && D.hub ? ' hub' : '') + '" data-n="' + i + '" style="top:' + (L.y0 + L.R.pos[i]) + 'px;height:' + L.ch + 'px" title="' + A.esc(e.name) + ', ' + A.plural(e.mxt, 'documented link') + ' in all">' +
+      return '<button type="button" class="mx-row' + (!i && D.hub ? ' hub' : '') + '" data-n="' + i + '" style="top:' + (L.y0 + L.R.pos[i]) + 'px;height:' + L.ch + 'px" title="' + A.esc(e.name) + ' · ' + A.plural(e.mxt, 'documented link') + '">' +
         '<span>' + A.esc(lab(e)) + '</span><i><b style="width:' + Math.max(4, Math.round(100 * Math.min(1, e.mxt / tmax))) + '%"></b></i></button>';
     }).join('');
     S.rowEls = Array.prototype.slice.call(el.children);
@@ -311,8 +311,8 @@
   // ------------------------------------------------------------------ readout and key
   function keyHtml() {
     var byT = S.mode === 'topics', labs = byT ? ['1', '2', '3 to 4', '5 to 7', '8 or more'] : ['1', '2', '3', '4', '5 or more'];
-    return '<span class="kl">' + (byT ? 'Checks that mention the name' : 'Documented links') + '</span>' + labs.map(function (t, q) { return '<span><i style="background:' + rv(q + 1) + '"></i>' + t + '</span>'; }).join('') +
-      (byT ? '' : (hasUnv(true) ? '<span class="ku"><i class="m"></i>Also unverified links</span>' : '') + (hasUnv() ? '<span class="ku"><i class="u"></i>Unverified only</span>' : ''));
+    return '<span class="kl">' + (byT ? 'Checks' : 'Documented links') + '</span>' + labs.map(function (t, q) { return '<span><i style="background:' + rv(q + 1) + '"></i>' + t + '</span>'; }).join('') +
+      (byT ? '' : (hasUnv(true) ? '<span class="ku"><i class="m"></i>Plus unverified</span>' : '') + (hasUnv() ? '<span class="ku"><i class="u"></i>Unverified only</span>' : ''));
   }
   /* A violet corner marks a pair that also has alleged, unverified links; a hollow violet cell is a pair with nothing else. The key lists each only when the view holds a pair whose every link is alleged and unverified. */
   function hasUnv(mixed) { var D = S.data; return !!D && D.names.some(function (e, i) { return D.U[i].some(function (u, j) { return u && !D.C[i][j] === !mixed; }); }); }
@@ -320,19 +320,19 @@
     var el = $('mx-read'), D = S.data, h = S.hover, byT = S.mode === 'topics';
     if (!D) return;
     if (!h || h.i < 0 && h.j < 0) {
-      el.innerHTML = A.narrow.matches ? '' : byT ? 'Hover a cell to read it. Select it to list the checks.' : 'Hover a cell to read the pair. Select it to open the evidence.';
+      el.innerHTML = A.narrow.matches ? '' : byT ? 'Hover a cell to read it. Select it for the checks.' : 'Hover a cell to read it. Select it for the evidence.';
       return;
     }
     var a = D.names[h.i >= 0 ? h.i : h.j], t = '';
     if (h.i < 0 || h.j < 0 || (!byT && h.i === h.j)) {
-      if (byT && h.i < 0) { var tp = D.topics[h.j]; t = '<b>' + A.esc(tp.name) + '</b><span>' + A.plural(tp.list.length, 'check') + ', ' + S.L.csum[h.j] + ' of the ' + D.names.length + ' names here appear in them</span>'; }
-      else t = '<b>' + A.esc(lab(a)) + '</b><span>' + (a.mxg >= 0 ? A.esc(GROUPS[a.mxg]) + ', ' : '') + A.plural(a.mxt, 'documented link') + ' in all, ' + a.mxs + ' with ' + A.plural(a.mxn, 'name') + ' in this view</span>';
+      if (byT && h.i < 0) { var tp = D.topics[h.j]; t = '<b>' + A.esc(tp.name) + '</b><span>' + A.plural(tp.list.length, 'check') + ' · ' + S.L.csum[h.j] + ' of ' + D.names.length + ' names</span>'; }
+      else t = '<b>' + A.esc(lab(a)) + '</b><span>' + (a.mxg >= 0 ? A.esc(GROUPS[a.mxg]) + ' · ' : '') + A.plural(a.mxt, 'documented link') + ' · ' + a.mxs + ' with ' + A.plural(a.mxn, 'name') + ' in this view</span>';
     } else if (byT) {
       var n = inTopic(a, D.topics[h.j]).length;
       t = '<b>' + A.esc(lab(a)) + '</b><em>in</em><b>' + A.esc(D.topics[h.j].name) + '</b><span>' + (n ? A.plural(n, 'check') : 'No checks') + '</span>';
     } else {
       var b = D.names[h.j], v = D.C[h.i][h.j], u = D.U[h.i][h.j], yr = years(relsOf(a, b).filter(function (r) { return !r.alleged; }));
-      t = '<b>' + A.esc(lab(a)) + '</b><em>×</em><b>' + A.esc(lab(b)) + '</b><span>' + (v ? A.plural(v, 'documented link') + (yr ? ', ' + yr : '') : u ? 'No documented link' : 'No documented link') + (u ? ', ' + u + ' alleged and unverified' : '') + '</span>';
+      t = '<b>' + A.esc(lab(a)) + '</b><em>×</em><b>' + A.esc(lab(b)) + '</b><span>' + (v ? A.plural(v, 'documented link') + (yr ? ', ' + yr : '') : 'No documented link') + (u ? ' · ' + u + ' alleged, unverified' : '') + '</span>';
     }
     el.innerHTML = t;
   }
@@ -347,8 +347,8 @@
     return cl.length ? '<span class="cite">' + cl.map(function (c) { return '<a href="' + A.claimHref(c) + '" title="' + A.esc(c.title) + '">' + A.esc(c.id) + '</a>'; }).join(' ') + '</span>' : '';
   }
   function gradeHtml(r) {
-    var g = grade(r), bars = g[0] === 'doc' ? 3 : g[0] === 'single' ? 1 : 0;
-    return '<span class="gr g-' + g[0] + '"><i>' + [0, 1, 2].map(function (q) { return '<b' + (q < bars ? ' class="f"' : '') + '></b>'; }).join('') + '</i>' + g[1] + '</span>';
+    var g = grade(r);   // the same line styles as the map: solid, dotted, dashed
+    return '<span class="gr g-' + g[0] + '"><i class="evline' + (g[0] === 'single' ? ' dotted' : g[0] === 'unv' ? ' dashed' : '') + '"></i>' + g[1] + '</span>';
   }
   function evidence(rr) {
     rr = rr.slice().sort(function (a, b) { return (a.alleged ? 1 : 0) - (b.alleged ? 1 : 0) || String(a.date || '9999').localeCompare(String(b.date || '9999')); });
@@ -367,33 +367,33 @@
     var rows = []; D.topics.forEach(function (t) { var v = inTopic(e, t).length; if (v && t !== skip) rows.push([t, v]); });
     rows.sort(function (x, y) { return y[1] - x[1]; }); if (!rows.length) return '';
     var mx = Math.max(rows[0][1], skip ? inTopic(e, skip).length : 0);
-    return '<h3>' + (skip ? 'Other Topics for This Name' : 'Topics') + ' <span>Checks that mention the name</span></h3><ul class="mxd-rank">' + rows.map(function (r) {
+    return '<h3>' + (skip ? 'Other Topics' : 'Topics') + ' <span>Checks</span></h3><ul class="mxd-rank">' + rows.map(function (r) {
       return '<li><i class="gsw" style="background:' + tv(D.topics.indexOf(r[0])) + '"></i><button type="button" class="mxd-link" data-pa="' + A.esc(e.key) + '" data-tp="' + A.esc(r[0].id) + '">' + A.esc(r[0].name) + '</button><span class="bar"><i style="width:' + Math.round(100 * r[1] / mx) + '%;background:' + rv(tstep(r[1])) + '"></i></span><span class="n">' + r[1] + '</span></li>';
     }).join('') + '</ul>';
   }
-  function closeBtn() { return '<button type="button" class="mxd-x" data-act="clear" aria-label="Close and return to the leads">' + A.XICON + '</button>'; }
+  function closeBtn() { return '<button type="button" class="mxd-x" data-act="clear" aria-label="Close">' + A.XICON + '</button>'; }
   function side() {
     var D = data(), el = $('mx-side'), byT = S.mode === 'topics', h = '';
     $('matrix').classList.toggle('has-sel', !!(S.sel || S.name));
     if (S.sel && byT) {
       var e = S.sel.a, tp = S.sel.b, cs = inTopic(e, tp);
       h = '<header class="mxd-head"><div><h2>' + A.esc(A.shortName(e)) + ' <span class="amp">in</span> ' + A.esc(tp.name) + '</h2></div>' + closeBtn() + '</header>' +
-        '<p class="mxd-sum"><b>' + cs.length + '</b> ' + (cs.length === 1 ? 'check in this topic mentions the name' : 'checks in this topic mention the name') + '</p>' +
-        '<div class="mxd-acts"><button type="button" class="mxd-btn" data-act="show">Show on Network</button><a href="' + A.entHref(e) + '">Open profile</a></div>' +
-        (cs.length ? '<h3>Checks</h3><ul class="mxd-checks">' + cs.map(function (c) { return '<li>' + A.kmark(c) + '<a href="' + A.claimHref(c) + '">' + A.esc(c.title) + '</a><span class="id">' + A.esc(c.id) + '</span></li>'; }).join('') + '</ul>' : '<p class="mxd-note">No check in this topic mentions the name.</p>') + topicRows(e, D, tp);
+        '<p class="mxd-sum"><b>' + cs.length + '</b> ' + (cs.length === 1 ? 'check in this topic' : 'checks in this topic') + '</p>' +
+        '<div class="mxd-acts"><button type="button" class="mxd-btn" data-act="show">Show on Network</button><a href="' + A.entHref(e) + '">Open Profile</a></div>' +
+        (cs.length ? '<h3>Checks</h3><ul class="mxd-checks">' + cs.map(function (c) { return '<li>' + A.kmark(c) + '<a href="' + A.claimHref(c) + '">' + A.esc(c.title) + '</a><span class="id">' + A.esc(c.id) + '</span></li>'; }).join('') + '</ul>' : '<p class="mxd-note">No checks in this topic.</p>') + topicRows(e, D, tp);
     } else if (S.sel) {
       var a = S.sel.a, b = S.sel.b, rr = relsOf(a, b), doc = rr.filter(function (r) { return !r.alleged; }), un = rr.length - doc.length, yr = years(doc);
       var big = doc.filter(function (r) { return typeof r.amount_usd === 'number'; }).sort(function (x, y) { return y.amount_usd - x.amount_usd; })[0];
       h = '<header class="mxd-head"><div><h2>' + A.esc(A.shortName(a)) + ' <span class="amp">and</span> ' + A.esc(A.shortName(b)) + '</h2></div>' + closeBtn() + '</header>' +
-        '<dl class="mxd-stats"><div><dt>Documented links</dt><dd>' + doc.length + '</dd></div><div><dt>Period</dt><dd>' + (yr || 'Undated') + '</dd></div><div><dt>Largest stated sum</dt><dd>' + (big ? A.esc(A.money(big.amount_usd)) : 'None stated') + '</dd></div></dl>' +
-        (un ? '<p class="mxd-flag">' + un + (un === 1 ? ' further link is' : ' further links are') + ' alleged and unverified. ' + (un === 1 ? 'It is' : 'They are') + ' listed last and marked.</p>' : '') +
+        '<dl class="mxd-stats"><div><dt>Documented Links</dt><dd>' + doc.length + '</dd></div><div><dt>Period</dt><dd>' + (yr || 'Undated') + '</dd></div><div><dt>Largest Sum</dt><dd>' + (big ? A.esc(A.money(big.amount_usd)) : 'None') + '</dd></div></dl>' +
+        (un ? '<p class="mxd-flag">' + A.mark('unverified') + '<span>' + un + (un === 1 ? ' further link is' : ' further links are') + ' alleged and unverified, listed last.</span></p>' : '') +
         '<ul class="mxd-who">' + [a, b].map(function (x) { return '<li>' + gsw(x) + '<a href="' + A.entHref(x) + '">' + A.esc(x.name) + '</a><span>' + (x.mxg >= 0 ? A.esc(GROUPS[x.mxg]) : 'Subject of the checks') + '</span></li>'; }).join('') + '</ul>' +
         '<div class="mxd-acts"><button type="button" class="mxd-btn" data-act="show">Show on Network</button>' + (doc.length ? '<p class="mxd-kinds">' + kinds(rr) + '</p>' : '') + '</div>';
-      if (rr.length) h += '<h3>Evidence <span>Oldest first, with the checks that cite each link</span></h3>' + evidence(rr);
+      if (rr.length) h += '<h3>Evidence <span>Oldest first</span></h3>' + evidence(rr);
       else {
         var both = D.names.filter(function (x) { return x !== a && x !== b && x !== D.hub && cnt(a, x) && cnt(b, x); }).sort(function (x, y) { return cnt(a, y) + cnt(b, y) - cnt(a, x) - cnt(b, x); });
-        h += '<p class="mxd-note">No direct documented link between these two names was found in the checks.</p>' +
-          (both.length ? '<h3>Names Linked to Both <span>' + both.length + ' in this view</span></h3><ul class="mxd-rank">' + both.slice(0, 10).map(function (x) { return '<li>' + gsw(x) + nameBtn(x) + '<span class="n">' + cnt(a, x) + ' and ' + cnt(b, x) + '</span></li>'; }).join('') + '</ul>' : '');
+        h += '<p class="mxd-note">No documented link between these two.</p>' +
+          (both.length ? '<h3>Names Linked to Both <span>' + both.length + '</span></h3><ul class="mxd-rank">' + both.slice(0, 10).map(function (x) { return '<li>' + gsw(x) + nameBtn(x) + '<span class="n">' + cnt(a, x) + ' and ' + cnt(b, x) + '</span></li>'; }).join('') + '</ul>' : '');
       }
     } else if (S.name) {
       var e2 = S.name, rows = [];
@@ -404,19 +404,19 @@
       var bigs = docs.filter(function (r) { return typeof r.amount_usd === 'number'; }).sort(function (x, y) { return y.amount_usd - x.amount_usd; })[0];
       h = '<header class="mxd-head"><div><h2>' + A.esc(e2.name) + '</h2></div>' + closeBtn() + '</header>' +
         (e2.role ? '<p class="mxd-role">' + A.esc(String(e2.role).length > 170 ? String(e2.role).slice(0, 168).replace(/\s+\S*$/, '') + '…' : e2.role) + '</p>' : '') +
-        '<dl class="mxd-stats"><div><dt>Documented links</dt><dd>' + docs.length + '</dd></div><div><dt>Names here linked</dt><dd>' + e2.mxn + ' <small>of ' + (D.names.length - 1) + '</small></dd></div><div><dt>Checks</dt><dd>' + e2.cl.length + '</dd></div></dl>' +
-        '<div class="mxd-acts"><button type="button" class="mxd-btn" data-act="show">Show on Network</button><a href="' + A.entHref(e2) + '">Open profile</a></div>' +
-        (byT ? '<h3>Topics <span>Checks that mention the name</span></h3><ul class="mxd-rank">' + rows.map(function (r) { return '<li><i class="gsw" style="background:' + tv(D.topics.indexOf(r[0])) + '"></i><button type="button" class="mxd-link" data-tp="' + A.esc(r[0].id) + '">' + A.esc(r[0].name) + '</button><span class="bar"><i style="width:' + Math.round(100 * r[1] / mx) + '%;background:' + rv(tstep(r[1])) + '"></i></span><span class="n">' + r[1] + '</span></li>'; }).join('') + '</ul>'
-          : '<h3>Strongest Pairs <span>Documented links with names in this view</span></h3>' + (rows.length ? '<ul class="mxd-rank">' + rows.map(function (r) {
+        '<dl class="mxd-stats"><div><dt>Documented Links</dt><dd>' + docs.length + '</dd></div><div><dt>Names Linked</dt><dd>' + e2.mxn + ' <small>of ' + (D.names.length - 1) + '</small></dd></div><div><dt>Checks</dt><dd>' + e2.cl.length + '</dd></div></dl>' +
+        '<div class="mxd-acts"><button type="button" class="mxd-btn" data-act="show">Show on Network</button><a href="' + A.entHref(e2) + '">Open Profile</a></div>' +
+        (byT ? '<h3>Topics <span>Checks</span></h3><ul class="mxd-rank">' + rows.map(function (r) { return '<li><i class="gsw" style="background:' + tv(D.topics.indexOf(r[0])) + '"></i><button type="button" class="mxd-link" data-tp="' + A.esc(r[0].id) + '">' + A.esc(r[0].name) + '</button><span class="bar"><i style="width:' + Math.round(100 * r[1] / mx) + '%;background:' + rv(tstep(r[1])) + '"></i></span><span class="n">' + r[1] + '</span></li>'; }).join('') + '</ul>'
+          : '<h3>Strongest Pairs <span>Documented Links</span></h3>' + (rows.length ? '<ul class="mxd-rank">' + rows.map(function (r) {
             return '<li' + (r[1] ? '' : ' class="unv"') + '>' + gsw(r[0]) + '<button type="button" class="mxd-link" data-pa="' + A.esc(e2.key) + '" data-pb="' + A.esc(r[0].key) + '">' + A.esc(lab(r[0])) + '</button>' +
               (r[1] ? '<span class="bar"><i style="width:' + Math.round(100 * r[1] / mx) + '%;background:' + rv(step(r[1])) + '"></i></span><span class="n">' + r[1] + '</span>' : '<span class="n u">Unverified only</span>') + '</li>';
-          }).join('') + '</ul>' : '<p class="mxd-note">No documented link with another name in this view.</p>') +
-          (bigs ? '<h3>Largest Stated Sum</h3><p class="mxd-lead"><b>' + A.esc(A.money(bigs.amount_usd)) + '</b> ' + A.esc(A.cap(A.plainSentence(bigs))) + (bigs.date ? ', ' + A.esc(A.fdate(bigs.date)) : '') + '. ' + cites(bigs) + '</p>' : ''));
+          }).join('') + '</ul>' : '<p class="mxd-note">No documented link in this view.</p>') +
+          (bigs ? '<h3>Largest Sum</h3><p class="mxd-lead"><b>' + A.esc(A.money(bigs.amount_usd)) + '</b> ' + A.esc(A.cap(A.plainSentence(bigs))) + (bigs.date ? ', ' + A.esc(A.fdate(bigs.date)) : '') + '. ' + cites(bigs) + '</p>' : ''));
     } else if (byT) {
       var tn = D.names.slice().sort(function (x, y) { return y.cl.length - x.cl.length; }).slice(0, 8), cm = tn.length ? tn[0].cl.length || 1 : 1;
       var tt = D.topics.map(function (t, j) { return [t, D.names.filter(function (x) { return inTopic(x, t).length; }).length]; }).sort(function (x, y) { return y[1] - x[1]; });
       h = '<header class="mxd-head"><div><h2>Where the Names Appear</h2></div></header>' +
-        '<p class="mxd-how">Each row is a name and each column a topic. A cell counts the checks in that topic that mention the name, and brighter means more.</p>' +
+        '<p class="mxd-how">Rows are names, columns are topics. Brighter means more checks.</p>' +
         '<h3>Named in the Most Checks <span>Checks</span></h3><ul class="mxd-rank">' + tn.map(function (x) { return '<li>' + gsw(x) + nameBtn(x) + '<span class="bar"><i style="width:' + Math.round(100 * x.cl.length / cm) + '%"></i></span><span class="n">' + x.cl.length + '</span></li>'; }).join('') + '</ul>' +
         '<h3>Topics by Reach <span>Of ' + D.names.length + ' names</span></h3><ul class="mxd-rank">' + tt.map(function (r) { return '<li><i class="gsw" style="background:' + tv(D.topics.indexOf(r[0])) + '"></i><span class="t">' + A.esc(r[0].name) + '</span><span class="bar"><i style="width:' + Math.round(100 * r[1] / D.names.length) + '%"></i></span><span class="n">' + r[1] + '</span></li>'; }).join('') + '</ul>';
     } else {
@@ -434,13 +434,11 @@
         dens.push([gi, lk, m * (m - 1) / 2, m]);
       });
       dens.sort(function (x, y) { return y[1] / y[2] - x[1] / x[2]; });
-      var linked = 0; for (i = i0; i < n; i++) for (j = i + 1; j < n; j++) if (D.C[i][j]) linked++;
       h = '<header class="mxd-head"><div><h2>Leads in This View</h2></div></header>' +
-        '<p class="mxd-how">Rows and columns list the same ' + n + ' names. A lit cell is a pair with at least one documented link, and brighter means more.</p>' +
-        '<p class="mxd-how sub">' + linked + ' pairs are linked' + (D.hub ? ', not counting ' + A.esc(lab(D.hub)) + '. He is the subject of the checks, so his row and column are set apart at the top and left' : '') + '.</p>' +
-        '<h3>Strongest Pairs <span>Documented links</span></h3><ul class="mxd-rank">' + pairs.slice(0, 5).map(function (p) { return '<li>' + swatch(p[2]) + pairBtn(p[0], p[1]) + '<span class="n">' + p[2] + '</span></li>'; }).join('') + '</ul>' +
-        (sums.length ? '<h3>Largest Sums <span>Stated in a documented link</span></h3><ul class="mxd-rank sums">' + sums.map(function (r) { return '<li><span class="mxa">' + A.esc(A.money(r.amount_usd)) + '</span>' + pairBtn(r.S, r.T) + '<span class="n">' + (years([r]) || '') + '</span></li>'; }).join('') + '</ul>' : '') +
-        (dens.length ? '<h3>Densest Clusters <span>Pairs linked inside a group</span></h3><ul class="mxd-rank dens">' + dens.map(function (d) { return '<li><i class="gsw" style="background:' + gv(d[0]) + '"></i><span class="t">' + A.esc(GROUPS[d[0]]) + '</span><span class="bar"><i style="width:' + Math.round(100 * d[1] / d[2]) + '%"></i></span><span class="n">' + d[1] + ' of ' + d[2] + '</span></li>'; }).join('') + '</ul>' : '');
+        '<p class="mxd-how">A lit cell is a pair with a documented link. Brighter means more.</p>' +
+        '<h3>Strongest Pairs <span>Documented Links</span></h3><ul class="mxd-rank">' + pairs.slice(0, 5).map(function (p) { return '<li>' + swatch(p[2]) + pairBtn(p[0], p[1]) + '<span class="n">' + p[2] + '</span></li>'; }).join('') + '</ul>' +
+        (sums.length ? '<h3>Largest Sums <span>Year</span></h3><ul class="mxd-rank sums">' + sums.map(function (r) { return '<li><span class="mxa">' + A.esc(A.money(r.amount_usd)) + '</span>' + pairBtn(r.S, r.T) + '<span class="n">' + (years([r]) || '') + '</span></li>'; }).join('') + '</ul>' : '') +
+        (dens.length ? '<h3>Densest Clusters <span>Linked Pairs</span></h3><ul class="mxd-rank dens">' + dens.map(function (d) { return '<li><i class="gsw" style="background:' + gv(d[0]) + '"></i><span class="t">' + A.esc(GROUPS[d[0]]) + '</span><span class="bar"><i style="width:' + Math.round(100 * d[1] / d[2]) + '%"></i></span><span class="n">' + d[1] + ' of ' + d[2] + '</span></li>'; }).join('') + '</ul>' : '');
     }
     el.innerHTML = h; el.scrollTop = 0;
   }
@@ -456,7 +454,7 @@
     var mx = rows.length ? rows[0][1] || 1 : 1;
     el.innerHTML = '<label for="mxp-name">Name</label><select id="mxp-name">' + D.names.map(function (e, q) { return '<option value="' + q + '"' + (q === fq ? ' selected' : '') + '>' + A.esc(lab(e)) + '</option>'; }).join('') + '</select>' +
       '<div class="mxp-ord" role="group" aria-label="Order of the names in the list"><span>Order</span>' + [['group', 'Cluster'], ['connected', 'Most Connected'], ['alpha', 'A to Z']].map(function (o) { return '<button type="button" data-mxo="' + o[0] + '" aria-pressed="' + (S.order === o[0]) + '">' + o[1] + '</button>'; }).join('') + '</div>' +
-      '<p class="mxp-sum"><b>' + rows.length + '</b> ' + (byT ? (rows.length === 1 ? 'topic has' : 'topics have') + ' checks that mention this name.' : 'of the other ' + (D.names.length - 1) + ' names here ' + (rows.length === 1 ? 'has' : 'have') + ' a link with this name.') + ' Select a row to read the evidence.</p>' +
+      '<p class="mxp-sum"><b>' + rows.length + '</b> ' + (byT ? (rows.length === 1 ? 'topic mentions' : 'topics mention') + ' this name.' : 'of ' + (D.names.length - 1) + ' names linked.') + ' Select a row for the evidence.</p>' +
       '<p class="mx-key">' + keyHtml() + '</p>' +
       '<ul class="mxp-list">' + rows.map(function (r) {
         var nm = byT ? r[0].name : lab(r[0]), attr = byT ? 'data-pa="' + A.esc(a.key) + '" data-tp="' + A.esc(r[0].id) + '"' : 'data-pa="' + A.esc(a.key) + '" data-pb="' + A.esc(r[0].key) + '"';
@@ -480,7 +478,7 @@
     if (size !== S.size) { S.size = size; S.data = null; }
     data(); layout(); railTop(); railRows(); draw();
     $('mx-key').innerHTML = keyHtml(); readout(); side();
-    canvas.setAttribute('aria-label', S.mode === 'topics' ? 'Heat table of ' + S.data.names.length + ' names against the topics. The case file beside it lists the same content as text.' : 'Heatmap of documented links between ' + S.data.names.length + ' names. The case file beside it lists the strongest pairs as text, and each name in the list opens its links.');
+    canvas.setAttribute('aria-label', S.mode === 'topics' ? 'Heat table of ' + S.data.names.length + ' names by topic. The panel lists the same content as text.' : 'Heatmap of documented links between ' + S.data.names.length + ' names. The panel lists the strongest pairs as text.');
   }
   function cellAt(e) {
     var L = S.L; if (!L) return null;

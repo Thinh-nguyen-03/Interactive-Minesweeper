@@ -67,12 +67,11 @@
 .mxd-head h2 { font: 700 22px/1.2 var(--mxh); color: var(--ink); text-wrap: balance; }
 .mxd-head h2 .amp { font: italic 400 19px/1 var(--mxh); color: var(--ink2); }
 .mxd-x { flex: none; margin: -2px -6px 0 0; padding: 5px; border: 0; border-radius: 4px; background: none; color: var(--ink2); cursor: pointer; } .mxd-x:hover { background: var(--band); color: var(--ink); }
-.mxd-how { margin-top: 10px; color: var(--ink); } .mxd-how.sub { margin-top: 8px; color: var(--ink2); font-size: 13px; }
+.mxd-how { margin-top: 8px; color: var(--ink2); font-size: 13.5px; }
 .mxd-role { margin-top: 8px; color: var(--ink2); }
 .mxd-sum { margin-top: 8px; color: var(--ink2); } .mxd-sum b { color: var(--ink); font-size: 17px; font-weight: 600; }
 .mxd-stats { display: grid; grid-template-columns: repeat(3, auto); justify-content: space-between; gap: 12px; margin: 16px 0 0; padding: 12px 0 13px; border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule); }
 .mxd-stats dt { font-size: 12px; color: var(--ink2); } .mxd-stats dd { margin: 2px 0 0; font-size: 17px; font-weight: 600; color: var(--ink); white-space: nowrap; } .mxd-stats small { font-size: 12.5px; font-weight: 400; color: var(--ink2); }
-.mxd-flag { margin-top: 14px; padding-left: 10px; border-left: 2px solid var(--unp); color: var(--unp); font-size: 13px; }
 .mxd-who { list-style: none; margin: 14px 0 0; padding: 0; } .mxd-who li { display: flex; align-items: baseline; gap: 8px; padding: 2px 0; }
 .mxd-who a { color: var(--ink); font-weight: 600; text-decoration: none; } .mxd-who a:hover, .mxd-checks a:hover, .cite a:hover { text-decoration: underline; }
 .mxd-who span { margin-left: auto; color: var(--ink2); font-size: 12.5px; white-space: nowrap; }
@@ -89,8 +88,8 @@
 .mxd-ev .what { color: var(--ink); }
 .mxd-ev .meta { display: flex; flex-wrap: wrap; align-items: center; gap: 3px 11px; margin-top: 5px; font-size: 12.5px; color: var(--ink2); }
 .mxd-ev .kind { color: var(--ink2); font-weight: 600; } .mxd-ev .mxa { color: var(--ink); font-weight: 600; }
-.gr { display: inline-flex; align-items: center; gap: 5px; } .gr i { display: inline-flex; gap: 1.5px; } .gr b { width: 3px; height: 9px; box-shadow: inset 0 0 0 1px var(--ink2); } .gr b.f { background: var(--ink2); box-shadow: none; }
-.gr.g-unv { color: var(--unp); font-weight: 600; } .gr.g-unv b { box-shadow: inset 0 0 0 1px var(--unp); }
+.gr { display: inline-flex; align-items: center; gap: 6px; } .gr .evline { width: 16px; transform: none; }
+.gr.g-unv { color: var(--unp); font-weight: 600; } .gr.g-single { color: var(--part); }
 .cite { display: inline-flex; flex-wrap: wrap; gap: 0 7px; } .cite a { color: var(--link); text-decoration: none; font-variant-numeric: proportional-nums; }
 .mxd-ev li.unv { padding-left: 10px; box-shadow: inset 2px 0 0 var(--unp); }
 .mxd-rank li { display: flex; align-items: center; gap: 9px; min-height: 32px; padding: 4px 0; border-bottom: 1px solid var(--mx-soft); }
@@ -100,7 +99,6 @@
 .mxd-rank .n { flex: none; margin-left: auto; min-width: 22px; text-align: right; color: var(--ink); font-size: 13px; white-space: nowrap; } .mxd-rank .bar + .n { margin-left: 0; } .mxd-rank .n.u { color: var(--unp); }
 .mxd-rank.dens .n { min-width: 62px; }
 .mxd-rank.sums .mxa { flex: none; width: 96px; color: var(--ink); font-weight: 600; }
-.mxd-note { margin-top: 16px; color: var(--ink2); }
 .mxd-lead { margin-top: 10px; color: var(--ink); } .mxd-lead b { font-weight: 600; }
 .mxd-checks li { display: flex; align-items: baseline; gap: 8px; padding: 9px 0; border-bottom: 1px solid var(--mx-soft); }
 .mxd-checks a { color: var(--ink); text-decoration: none; } .mxd-checks .id { margin-left: auto; color: var(--ink2); font-size: 12.5px; } .mxd-checks .kmark-v { flex: none; align-self: flex-start; margin-top: 2px; }

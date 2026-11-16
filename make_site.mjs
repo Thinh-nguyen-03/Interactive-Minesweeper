@@ -26,8 +26,9 @@ const SRC = path.join(ROOT, 'map'), OUT = path.join(ROOT, 'site'), STATIC = path
 const BASE = ('/' + String(process.env.SITE_BASE || '/').replace(/^\/+|\/+$/g, '') + '/').replace(/\/+/g, '/');
 const ORIGIN = String(process.env.SITE_URL || process.env.RENDER_EXTERNAL_URL || '').trim().replace(/\/+$/, '');
 const SITE_NAME = 'The Trump Connection';
-const DESCRIPTION = 'Checks of claims about the business, financial and political dealings of Donald Trump, his family and his administration, with a profile for every name and a map of the documented links between them.';
-const STANDING = '<p class="pre-note"><strong>Everyone named denies wrongdoing, and nothing here is an accusation of a crime.</strong> A link between two names means a documented relationship, or that both appear in the same check. It does not show that one caused the other.</p>';
+const DESCRIPTION = 'Claims about the business, financial and political dealings of Donald Trump, his family and his administration, tested against the public record.';
+const DENIAL = 'Everyone named denies wrongdoing. A link is a documented relationship, not proof of cause.';   // once per page, in the footer
+const ISSUES = 'https://github.com/Thinh-nguyen-03/trump-connection/issues';
 
 const read = f => fs.readFileSync(path.join(SRC, f), 'utf8');
 const arr = v => Array.isArray(v) ? v : [];
@@ -45,21 +46,23 @@ const META = G.meta || {};
 /* Wording rules live in app.js; the few the static pages need are read from it, so the two cannot drift. */
 const rx = name => { const m = new RegExp('var ' + name + ' = (/.+/[a-z]*);').exec(appSrc); if (!m) throw new Error('app.js: ' + name + ' not found'); return new Function('return ' + m[1])(); };
 const FLOWS = rx('FLOWS'), VERBISH = rx('VERBISH'), ROLEISH = rx('ROLEISH');
+/* The method steps are written once, in app.js. */
+const STEPS = (() => { const m = /var STEPS = (\[\[[\s\S]*?\]\]);/.exec(appSrc); if (!m) throw new Error('app.js: STEPS not found'); return new Function('return ' + m[1])(); })();
 const flows = l => FLOWS.test(l) || VERBISH.test(l);
 
 const VLABEL = { 'confirmed': 'Confirmed', 'mostly-accurate': 'Mostly Accurate', 'partly-accurate': 'Partly Accurate', 'misleading': 'Misleading', 'unverified': 'Unverified', 'false': 'False', 'pending': 'Not Yet Checked' };
 const VMEANS = [
-  ['confirmed', 'The record supports the claim as stated.'],
-  ['mostly-accurate', 'The core facts hold. Specific figures, dates or framings needed correcting, and the corrections are listed.'],
-  ['partly-accurate', 'Some parts hold up and others do not.'],
-  ['misleading', 'The underlying facts exist, but the framing gives a wrong impression.'],
-  ['unverified', 'An allegation that could not be independently corroborated. It is neither confirmed nor refuted.'],
-  ['false', 'The record contradicts the claim.']];
+  ['confirmed', 'Supported as stated.'],
+  ['mostly-accurate', 'Core facts hold, details corrected.'],
+  ['partly-accurate', 'Some parts hold, others do not.'],
+  ['misleading', 'The facts exist, the framing misleads.'],
+  ['unverified', 'Could not be corroborated. Neither confirmed nor refuted.'],
+  ['false', 'Contradicted by the record.']];
 const TLABEL = { person: 'Person', company: 'Company', government: 'Government Body', fund: 'Fund', asset: 'Asset or Token', country: 'Country', law: 'Law or Policy', media: 'News Outlet', event: 'Event', product: 'Product' };
 const GROUPS = ['person', 'org', 'gov', 'other'];
 const GROUP_OF = { person: 'person', company: 'org', fund: 'org', government: 'gov', country: 'gov' };
 const GLABEL = { person: 'People', org: 'Companies & Funds', gov: 'Governments & Countries', other: 'Other Names' };
-const AUDIT = { upheld: 'upheld the findings', corrected: 'corrected some details', weakened: 'weakened some findings', strengthened: 'strengthened the findings' };
+const AUDIT = { upheld: 'findings upheld', corrected: 'details corrected', weakened: 'findings weakened', strengthened: 'findings strengthened' };
 
 const byKey = new Map();
 const nodes = G.nodes.filter(n => n && n.key);
@@ -107,6 +110,7 @@ function fdate1(d) {
   return d;
 }
 const fdate = d => String(d || '').split('/').map(fdate1).join(' to ');
+const ASOF = META.generated ? 'Data as of ' + fdate(META.generated) : '';
 function firstSentence(s) {
   s = String(s || ''); const m = /^(.+?[.!?])(\s+[A-Z'"(]|$)/.exec(s); if (!m) return s;
   if (m[1].length >= 45) return m[1];
@@ -122,7 +126,7 @@ const verdictText = c => isUnv(c) ? unvText(c) : VLABEL[c.verdict];
 function tallyText(c) {
   const t = c.tally || [0, 0, 0], tot = t[0] + t[1] + t[2], p = [];
   if (!tot) return '';
-  if (t[0] === tot) p.push(tot === 1 ? 'The one point checked holds up' : 'All ' + tot + ' points checked hold up');
+  if (t[0] === tot) p.push(tot === 1 ? 'The one point holds up' : 'All ' + tot + ' points hold up');
   else { p.push(t[0] + ' of ' + tot + ' points hold up'); if (t[1]) p.push(t[1] + ' needed correcting'); if (t[2]) p.push(t[2] + ' unproven'); }
   return p.join(', ');
 }
@@ -145,8 +149,7 @@ const nameLink = e => '<a href="' + U.name(e) + '">' + esc(e.name) + '</a>';
 const rich = text => esc(text).replace(/\bC(\d{2})\b/g, m => { const c = byKey.get(m); return c && c.kind === 'claim' ? checkLink(c, '“' + esc(c.title) + '”') : 'another check'; });
 const checkLine = c => '<li>' + checkLink(c) + ' <span class="pre-v">' + esc(verdictText(c)) + '</span><span class="pre-meta"> ' + (c.ctype === 'connection' ? 'Connection Check ' : 'Check ') + esc(c.id) + '</span>' +
   '<br><span class="pre-meta">' + rich(firstSentence(c.bottom_line)) + '</span></li>';
-const unvCallout = () => UNV.size ? '<p class="callout"><strong>' + (UNV.size === 1 ? 'One check is an unverified allegation' : cap(String(UNV.size === 2 ? 'two' : UNV.size)) + ' checks are unverified allegations') + ' from a single source,</strong> denied by everyone named: ' +
-  listParts(claims.filter(isUnv).map(c => checkLink(c))) + '. Read them as a record of what has been alleged, not as findings.</p>' : '';
+const unvCallout = () => UNV.size ? '<p class="inote unv"><span><strong>Unverified, Single Source.</strong> ' + listParts(claims.filter(isUnv).map(c => checkLink(c))) + (UNV.size === 1 ? ' rests on one book and is' : ' each rest on one book and are') + ' denied by everyone named.</span></p>' : '';
 
 // ---------------------------------------------------------------------------------------------- pages
 function pageHome() {
@@ -154,11 +157,11 @@ function pageHome() {
   return {
     path: '', title: SITE_NAME, description: DESCRIPTION,
     html: '<h1>The Money, the Deals &amp; the Connections Around the President</h1>' +
-      '<p class="lede">' + claims.length + ' claims about the business, financial and political dealings of Donald Trump, his family and his administration, each tested against the public record. Every name has a profile, and every documented link is on the map.</p>' +
+      '<p class="lede">' + claims.length + ' claims about the business, financial and political dealings of Donald Trump, his family and his administration, each tested against the public record.</p>' +
       '<p class="pre-meta">' + [[claims.length, 'checks'], [p.total, 'points'], [META.sources, 'sources'], [entities.length, 'names'], [rels.length, 'links']].map(x => '<b>' + num(x[0]) + '</b> ' + x[1]).join(' · ') +
-      (META.generated ? ' · Data built ' + esc(fdate(META.generated)) : '') + '</p>' + STANDING +
+      '</p>' +
       '<p><a href="' + U.checks() + '">All Checks</a> · <a href="' + U.names() + '">People &amp; Organisations</a> · <a href="' + U.map() + '">Map</a> · <a href="' + U.method() + '">How We Checked</a></p>' +
-      (p.total ? '<h2>What the Checks Found</h2><p>Each check was split into separate points. ' + num(p.hold) + ' of ' + num(p.total) + ' points are confirmed or mostly accurate, ' + num(p.correct) + ' needed correcting and ' + num(p.unproven) + ' are unproven. No check shows that a payment bought an official act.</p>' : '') +
+      (p.total ? '<h2>What the Checks Found</h2><p>Of ' + num(p.total) + ' points, ' + num(p.hold) + ' hold up, ' + num(p.correct) + ' needed correcting and ' + num(p.unproven) + ' are unproven. No check shows that a payment bought an official act.</p>' : '') +
       (who.length ? '<h2>Who Is Involved</h2>' + who.map(g => '<h3>' + esc(g.title) + '</h3><ul class="pre-cols">' + g.list.map(e => '<li>' + nameLink(e) + '</li>').join('') + '</ul>').join('') : '') +
       '<h2>' + claims.length + ' Checks in ' + TOPICS_ALL.length + ' Topics</h2>' + unvCallout() +
       TOPICS_ALL.map(t => '<h3 id="topic-' + esc(t.id) + '">' + esc(t.name) + '</h3>' + (t.description ? '<p class="pre-meta">' + esc(t.description) + '</p>' : '') +
@@ -168,10 +171,10 @@ function pageHome() {
 function pageChecks() {
   return {
     path: 'checks/', title: 'All Checks · ' + SITE_NAME,
-    description: 'All ' + claims.length + ' checks, grouped under ' + TOPICS_ALL.length + ' topics, each with its verdict and what the record shows.',
-    html: '<h1>' + claims.length + ' Checks in ' + TOPICS_ALL.length + ' Topics</h1><p class="lede">Each check tests one claim against the record and lists the sources it rests on.</p>' + STANDING + unvCallout() +
+    description: claims.length + ' checks in ' + TOPICS_ALL.length + ' topics, each with its verdict and finding.',
+    html: '<h1>' + claims.length + ' Checks in ' + TOPICS_ALL.length + ' Topics</h1>' + unvCallout() +
       TOPICS_ALL.map(t => '<h2 id="topic-' + esc(t.id) + '">' + esc(t.name) + '</h2>' + (t.description ? '<p>' + esc(t.description) + '</p>' : '') +
-        (t.id !== 'other' ? '<p class="pre-meta">' + plural(t.list.length, 'check') + '. <a href="' + U.mapTopic(t) + '">Show This Topic on the Map</a></p>' : '') +
+        (t.id !== 'other' ? '<p class="pre-meta">' + plural(t.list.length, 'check') + ' · <a href="' + U.mapTopic(t) + '">Show on Map</a></p>' : '') +
         '<ul class="pre-rows">' + t.list.map(checkLine).join('') + '</ul>').join('')
   };
 }
@@ -192,20 +195,20 @@ function pageCheck(c) {
     path: 'checks/' + c.id + '/', title: c.title + ' · ' + SITE_NAME, description: trunc(lead, 220), type: 'article', detail: c.df,
     html: '<p class="crumb"><a href="' + U.checks() + '">All Checks</a>' + (t && t.id !== 'other' ? ' <span aria-hidden="true">/</span> <a href="' + U.topic(t) + '">' + esc(t.name) + '</a>' : '') + ' <span aria-hidden="true">/</span> <b>' + kind + ' ' + esc(c.id) + '</b></p>' +
       '<h1>' + esc(c.title) + '</h1>' +
-      (isUnv(c) ? '<p class="flagbox"><strong>' + esc(unvText(c)) + '.</strong> The central allegation ' + (c.single_source ? 'rests on one source and ' : '') + 'has not been corroborated. Everyone named denies it. Read this page as a record of what has been alleged and what is known about the allegation, not as a finding that it happened.</p>' : '') +
+      (isUnv(c) ? '<p class="inote unv"><span><strong>' + esc(unvText(c)) + '.</strong> The allegation ' + (c.single_source ? 'rests on one source and ' : '') + 'has not been corroborated. Everyone named denies it. This page records an allegation, not a finding.</span></p>' : '') +
       '<h2>The Claim</h2>' + (q.length > 1 ? '<ul>' + q.map(x => '<li>' + rich(x) + '</li>').join('') + '</ul>' : '<p>' + rich(q[0] || c.title) + '</p>') +
       '<h2>Verdict</h2><p><span class="pre-v">' + esc(verdictText(c)) + '.</span> ' + esc(tallyText(c)) + (tallyText(c) ? '.' : '') + '</p>' +
-      '<p class="pre-meta">' + [plural(arr(c.sources).length, 'source'), c.audit ? 'Second review ' + (AUDIT[c.audit.result] || 'done') : 'No second review yet'].join(' · ') + ' · <a href="' + BASE + 'map/#' + esc(c.id) + '">Show on Map</a></p>' +
+      '<p class="pre-meta">' + [plural(arr(c.sources).length, 'source'), c.audit ? 'Second review' + (AUDIT[c.audit.result] ? ': ' + AUDIT[c.audit.result] : ' done') : 'No second review yet'].join(' · ') + ' · <a href="' + BASE + 'map/#' + esc(c.id) + '">Show on Map</a></p>' +
       '<h2>Finding</h2><p>' + rich(c.bottom_line) + '</p>' +
       (arr(c.bottom_parts).length + arr(c.summary_points).length ? '<ul>' + arr(c.bottom_parts).concat(arr(c.summary_points)).map(x => '<li>' + rich(x) + '</li>').join('') + '</ul>' : '') +
       (subs.length ? '<h2>The Points Checked</h2><ol>' + subs.map(sub).join('') + '</ol>' : '') +
       (arr(c.corrections).length ? '<h2>What Needs Correcting</h2><ul>' + c.corrections.map((x, k) => { const pr = arr(c.correction_pairs)[k]; return '<li>' + (pr ? '<b>Claimed:</b> ' + rich(pr.said) + ' <b>The record shows:</b> ' + rich(cap(pr.record)) : rich(x)) + '</li>'; }).join('') + '</ul>' : '') +
-      (arr(c.denial_points).length ? '<h2>The Other Side</h2><p class="pre-meta">What the people and organisations named say, and context that cuts the other way.</p><ul>' + c.denial_points.map(pts => '<li>' + arr(pts).map(rich).join(' ') + '</li>').join('') + '</ul>' : '') +
+      (arr(c.denial_points).length ? '<h2>The Other Side</h2><p class="pre-meta">Responses from those named, and context that cuts the other way.</p><ul>' + c.denial_points.map(pts => '<li>' + arr(pts).map(rich).join(' ') + '</li>').join('') + '</ul>' : '') +
       (ents.length ? '<h2>Who Is Involved</h2><ul class="pre-cols">' + ents.map(e => '<li>' + nameLink(e) + '</li>').join('') + '</ul>' : '') +
       '<h2>Sources</h2>' + (arr(c.sources).length ? '<ol class="pre-src">' + c.sources.map(s => '<li>' + (safeUrl(s.url) ? '<a href="' + esc(s.url) + '" rel="noopener">' + esc(s.title || s.url) + '</a>' : esc(s.title || 'Untitled')) +
-        (s.publisher ? ', ' + esc(s.publisher) : '') + (s.date ? ', ' + esc(fdate(s.date)) : '') + '</li>').join('') + '</ol>' : '<p>No sources are recorded for this check.</p>') +
+        (s.publisher ? ', ' + esc(s.publisher) : '') + (s.date ? ', ' + esc(fdate(s.date)) : '') + '</li>').join('') + '</ol>' : '<p>No sources recorded.</p>') +
       (par.length || c.kids.length ? '<h2>Related Checks</h2><ul>' + par.concat(c.kids).map(x => '<li>' + checkLink(x) + ' <span class="pre-v">' + esc(verdictText(x)) + '</span></li>').join('') + '</ul>' : '') +
-      (pv || nx ? '<p class="pre-meta">' + (pv ? 'Previous: ' + checkLink(pv) : '') + (pv && nx ? ' · ' : '') + (nx ? 'Next: ' + checkLink(nx) : '') + '</p>' : '') + STANDING
+      (pv || nx ? '<p class="pre-meta">' + (pv ? 'Previous: ' + checkLink(pv) : '') + (pv && nx ? ' · ' : '') + (nx ? 'Next: ' + checkLink(nx) : '') + '</p>' : '')
   };
 }
 function pageName(e) {
@@ -215,7 +218,7 @@ function pageName(e) {
   const top = e.lines.filter(r => !r.alleged && typeof r.amount_usd === 'number').sort((a, b) => b.amount_usd - a.amount_usd)[0];
   const unv = arr(e.unverified_in).map(id => byKey.get(id)).filter(Boolean), it = e.group === 'person' ? 'Them' : 'It';
   const also = arr(e.aliases).slice(0, 4), SHOW = 15;
-  const figs = [plural(e.cl.length, 'check') + ' ' + (e.cl.length === 1 ? 'names' : 'name') + ' ' + it.toLowerCase(), plural(e.lines.length, 'documented connection'), by.size ? plural(by.size, 'connected name') : '', top ? 'largest sum on record ' + money(top.amount_usd) : ''].filter(Boolean);
+  const figs = [plural(e.cl.length, 'check'), plural(e.lines.length, 'documented link'), by.size ? plural(by.size, 'connected name') : '', top ? 'largest sum ' + money(top.amount_usd) : ''].filter(Boolean);
   const desc = trunc(e.name + (e.role ? ': ' + e.role.replace(/\.$/, '') : '') + '. ' + cap(figs.slice(0, 2).join(', ')) + '.', 230);
   return {
     path: 'names/' + e.id + '/', title: e.name + ' · ' + SITE_NAME, description: desc, type: e.group === 'person' ? 'profile' : 'website',
@@ -223,22 +226,21 @@ function pageName(e) {
       (e.role ? '<p class="lede">' + rich(cap(e.role)) + '</p>' : '') +
       '<p class="pre-meta">' + esc(TLABEL[e.type]) + (also.length ? ' · Also written as ' + esc(also.join(', ')) : '') + ' · <a href="' + BASE + 'map/#' + esc(e.id) + '">Show on Map</a></p>' +
       '<p>' + esc(cap(figs.join(' · '))) + '</p>' +
-      '<p class="pre-meta">Each connection comes from a check and its sources. It records a relationship, not an accusation.</p>' +
-      (unv.length ? '<p class="flagbox"><strong>' + (e.unverified_only ? 'Named only in an unverified check.' : 'Also named in an unverified check.') + '</strong> ' + listParts(unv.map(c => checkLink(c))) + (unv.length === 1 ? ' is an allegation' : ' are allegations') +
-        ' from a single source, denied by everyone named. Lines that rest only on ' + (unv.length === 1 ? 'it' : 'them') + ' are marked “Alleged, Unverified”.</p>' : '') +
-      (near.length ? '<h2>Strongest Connections</h2><ul>' + near.slice(0, SHOW).map(o => {
+      (unv.length ? '<p class="inote unv"><span><strong>' + (e.unverified_only ? 'Named only in' : 'Also named in') + (unv.length === 1 ? ' an unverified, single-source check.' : ' unverified, single-source checks.') + '</strong> ' + listParts(unv.map(c => checkLink(c))) + (unv.length === 1 ? ' is' : ' are') +
+        ' denied by everyone named. Links that rest only on ' + (unv.length === 1 ? 'it' : 'them') + ' are marked.</span></p>' : '') +
+      (near.length ? '<h2>Closest Connections</h2><ul>' + near.slice(0, SHOW).map(o => {
         const ls = by.get(o), r = strongest(ls), allA = ls.every(x => x.alleged);
         return '<li>' + nameLink(o) + '<span class="pre-meta"> ' + esc(TLABEL[o.type]) + ', ' + plural(ls.length, 'link') + '</span><br>' + esc(cap(relSentence(r))) + (r.date ? ' <span class="pre-meta">' + esc(fdate(r.date)) + '</span>' : '') +
           (allA ? ' <span class="pre-v">Alleged, Unverified</span>' : '') + (r.claims.length ? ' <span class="pre-meta">' + r.claims.slice(0, 3).map(id => byKey.get(id)).filter(Boolean).map(c => checkLink(c, esc(c.id))).join(' ') + '</span>' : '') + '</li>';
-      }).join('') + '</ul>' + (near.length > SHOW ? '<p class="pre-meta">And ' + plural(near.length - SHOW, 'more connected name') + '.</p>' : '') : '') +
-      '<h2>Checks That Name ' + it + '</h2>' + (e.cl.length ? '<ul class="pre-rows">' + e.cl.map(checkLine).join('') + '</ul>' : '<p>No check names this directly. It appears only through a connection.</p>') + STANDING
+      }).join('') + '</ul>' + (near.length > SHOW ? '<p class="pre-meta">+' + plural(near.length - SHOW, 'more connected name') + '</p>' : '') : '') +
+      '<h2>Checks That Name ' + it + '</h2>' + (e.cl.length ? '<ul class="pre-rows">' + e.cl.map(checkLine).join('') + '</ul>' : '<p>No check names this directly.</p>')
   };
 }
 function pageNames() {
   return {
     path: 'names/', title: 'People & Organisations · ' + SITE_NAME,
-    description: num(entities.length) + ' people, companies, funds, governments and other names that appear in the checks, each with a profile of its documented connections.',
-    html: '<h1>People &amp; Organisations</h1><p class="lede">' + num(entities.length) + ' names appear in the checks. Each has a profile with its connections, a timeline and the checks that mention it.</p>' + STANDING +
+    description: num(entities.length) + ' people, companies, funds and governments named in the checks, each with a profile.',
+    html: '<h1>People &amp; Organisations</h1><p class="lede">Every name in the checks, each with a profile.</p>' +
       GROUPS.map(g => {
         const list = ranked.filter(e => e.group === g).sort((a, b) => a.name.localeCompare(b.name));
         return list.length ? '<h2>' + esc(GLABEL[g]) + ' <span class="pre-meta">' + num(list.length) + '</span></h2><ul class="pre-cols">' + list.map(e => '<li>' + nameLink(e) + (e.unverified_only ? ' <span class="pre-v">Unverified Check Only</span>' : '') + '</li>').join('') + '</ul>' : '';
@@ -246,37 +248,33 @@ function pageNames() {
   };
 }
 function pageMethod() {
-  const t = META.tally || {}, nCheck = claims.filter(c => c.ctype !== 'connection').length, unv = claims.filter(isUnv);
+  const t = META.tally || {}, unv = claims.filter(isUnv);
+  const figs = [[claims.length, 'checks'], [(META.points || {}).total, 'points'], [META.sources, 'sources'], [entities.length, 'names'], [TOPICS_ALL.length, 'topics']];
   return {
     path: 'method/', title: 'How We Checked · ' + SITE_NAME,
-    description: 'How the checks were done: the method, what each verdict and evidence grade means, and the limits of the research.',
-    html: '<h1>How We Checked</h1><p class="lede">This is a verification project, not an accusation. It takes claims about the business, financial and political dealings of Donald Trump, his family and his administration, and tests each one against the public record.</p>' +
-      '<p class="pre-meta">' + [plural(nCheck, 'check') + ' of claims', plural(claims.length - nCheck, 'connection check'), plural(TOPICS_ALL.length, 'topic'), num((META.points || {}).total) + ' points checked', num(META.sources) + ' sources cited', num(entities.length) + ' names mapped'].join(' · ') +
-      (META.generated ? ' · Data built ' + esc(fdate(META.generated)) : '') + '</p>' + STANDING +
-      '<h2>The Method</h2><ol>' +
-      '<li><strong>We started from claims in public circulation.</strong> These are widely repeated statements about the Trump family’s business dealings: the crypto ventures, the Gulf investments, Trump Media, the pardons and the dropped enforcement cases. Each was written down as a specific claim that can be tested.</li>' +
-      '<li><strong>Each claim was checked on its own.</strong> It was split into separate points. Every figure, date and name was compared with news reporting, company and court filings and official releases, and what the people named say in reply was recorded.</li>' +
-      '<li><strong>Open questions became further checks.</strong> Where a check turned up a related story or an unanswered question, that was researched the same way and given its own page.</li>' +
-      '<li><strong>Connection checks cross-referenced the finished files.</strong> They looked for the same lawyers, lobbyists, financiers, shell entities, investors and foreign partners recurring in checks that had been researched separately, then searched outward to confirm and date each link.</li>' +
-      '<li><strong>A second reviewer re-checked the key assertions.</strong> ' + num(META.second_reviewed || 0) + ' of the ' + claims.length + ' checks have had this independent review, with fresh searches, and the files were corrected where needed.</li></ol>' +
-      '<h2>What the Verdicts Mean</h2><ul>' + VMEANS.map(([v, text]) => '<li><span class="pre-v">' + VLABEL[v] + '.</span> ' + text + ' <span class="pre-meta">' + (t[v] ? plural(t[v], 'check') : 'None') + '</span></li>').join('') + '</ul>' +
-      '<h2>Evidence Grades for Connections</h2><ul><li><span class="pre-v">Documented.</span> Filings, official records or several outlets.</li><li><span class="pre-v">Single-Source.</span> One outlet, or anonymous sourcing.</li>' +
-      '<li><span class="pre-v">Inferred.</span> Our own observation from timing or co-occurrence. No source asserts it.</li></ul><p>An inferred link is never presented as fact.</p>' +
-      '<h2>Limits You Should Know About</h2><ul>' +
-      '<li><strong>Most original pages could not be opened.</strong> Findings rest on search-result excerpts that agree across several outlets, not on reading the original articles, filings or court dockets in full. This is why most checks are rated medium confidence.</li>' +
-      (unv.length ? '<li><strong>' + (unv.length === 1 ? 'One check is a single-source allegation.' : 'Some checks are single-source allegations.') + '</strong> ' + listParts(unv.map(c => checkLink(c))) + (unv.length === 1 ? ' comes from one book and is' : ' come from one book and are') + ' denied by everyone named. They are marked unverified wherever they appear.</li>' : '') +
-      '<li><strong>No payment is shown to have bought an official act.</strong> That inference is not established in any check. Where a claim implies it, the point is marked unverified.</li>' +
-      '<li><strong>A link is not a cause.</strong> A line between two names means a documented relationship: a payment, a stake, a job, a family tie, a legal action. It does not show that one thing led to another.</li>' +
-      '<li><strong>The research has a date.</strong> ' + (META.generated ? 'The data was built on ' + esc(fdate(META.generated)) + '. ' : '') + 'Later developments are not reflected.</li></ul>'
+    description: 'The method, the verdicts, the evidence grades and the limits of the research.',
+    html: '<h1>How We Checked</h1><p class="lede">' + claims.length + ' claims about the business, financial and political dealings of Donald Trump, his family and his administration, each tested against the public record.</p>' +
+      '<p class="pre-meta">' + figs.map(x => '<b>' + num(x[0]) + '</b> ' + x[1]).join(' · ') + '</p>' +
+      '<h2>Method</h2><ol>' + STEPS.map(x => '<li><strong>' + x[0] + '.</strong> ' + x[1] + '</li>').join('') + '</ol>' +
+      '<h2>Verdicts</h2><ul>' + VMEANS.map(([v, text]) => '<li><span class="pre-v">' + VLABEL[v] + '.</span> ' + text + ' <span class="pre-meta">' + plural(t[v] || 0, 'check') + '</span></li>').join('') + '</ul>' +
+      '<h2>Evidence Grades</h2><ul><li><span class="pre-v">Documented.</span> Filings, official records or several outlets.</li><li><span class="pre-v">Single-Source.</span> One outlet or anonymous sourcing.</li>' +
+      '<li><span class="pre-v">Inferred.</span> Our own observation from timing or co-occurrence. Never presented as fact.</li></ul>' +
+      '<h2>Limits</h2><ul>' +
+      '<li><strong>Sources.</strong> Findings rest on reporting corroborated across outlets, not on full reading of original filings. Most checks are rated medium confidence.</li>' +
+      '<li><strong>Research.</strong> Carried out by AI research agents with an independent second pass. Check the cited sources before relying on a finding.</li>' +
+      (unv.length ? '<li><strong>Single-Source Allegations.</strong> ' + listParts(unv.map(c => checkLink(c))) + (unv.length === 1 ? ' rests on one book and is' : ' rest on one book and are') + ' denied by everyone named. ' + (unv.length === 1 ? 'It is' : 'They are') + ' marked unverified throughout.</li>' : '') +
+      '<li><strong>Cause.</strong> No check shows that a payment bought an official act.</li>' +
+      (ASOF ? '<li><strong>Date.</strong> ' + esc(ASOF) + '. Later developments are not reflected.</li>' : '') + '</ul>' +
+      '<h2>Corrections</h2><p>Found an error? <a href="' + ISSUES + '" target="_blank" rel="noopener">Send a source</a>.</p>'
   };
 }
 const topNames = (n, list) => '<ol class="pre-cols">' + (list || ranked.filter(e => e.lines.length && e.type !== 'media')).slice(0, n).map(e => '<li>' + nameLink(e) + ' <span class="pre-meta">' + plural(e.lines.length, 'link') + '</span></li>').join('') + '</ol>';
 function pageMap() {
   return {
     path: 'map/', title: 'Map · ' + SITE_NAME,
-    description: 'An interactive map of ' + num(entities.length) + ' names and ' + claims.length + ' checks, placed by the ' + num(rels.length) + ' documented links between them.',
-    html: '<h1>Map of Every Check, Name &amp; Connection</h1><p class="lede">' + num(entities.length) + ' names and ' + claims.length + ' checks, placed by the ' + num(rels.length) + ' documented links between them. Select a name to light its links and read them, or pick a topic to see only its checks and the names they mention.</p>' +
-      STANDING + '<p>The interactive map needs JavaScript. The same content is available as text on the <a href="' + U.checks() + '">Checks</a> and <a href="' + U.names() + '">People &amp; Organisations</a> pages. Other views: <a href="' + U.matrix() + '">Matrix</a>.</p>' +
+    description: num(entities.length) + ' names and ' + claims.length + ' checks, placed by ' + num(rels.length) + ' documented links.',
+    html: '<h1>Map of Checks, Names &amp; Links</h1><p class="lede">' + num(entities.length) + ' names and ' + claims.length + ' checks, placed by ' + num(rels.length) + ' documented links.</p>' +
+      '<p class="pre-meta">The map needs JavaScript. The same content is on the <a href="' + U.checks() + '">Checks</a> and <a href="' + U.names() + '">People &amp; Organisations</a> pages. See also the <a href="' + U.matrix() + '">Matrix</a>.</p>' +
       '<h2>Topics on the Map</h2><ul>' + TOPICS.filter(t => t.list.length).map(t => '<li><a href="' + U.mapTopic(t) + '">' + esc(t.name) + '</a> <span class="pre-meta">' + plural(t.list.length, 'check') + '</span></li>').join('') + '</ul>' +
       '<h2>Most Connected Names</h2>' + topNames(30)
   };
@@ -284,9 +282,9 @@ function pageMap() {
 function pageMatrix() {
   return {
     path: 'map/matrix/', title: 'Matrix · ' + SITE_NAME,
-    description: 'A matrix of the most connected names: which pairs have a documented link, how many checks record it and the sums involved.',
-    html: '<h1>Matrix of the Most Connected Names</h1><p class="lede">Each cell is a pair of names. A filled cell means the checks record a documented link between them. Select a cell to read the links and the checks they come from.</p>' +
-      STANDING + '<p>The matrix needs JavaScript. The same links are written out on each profile. Back to the <a href="' + U.map() + '">Map</a>.</p><h2>Names in the Matrix</h2>' + topNames(40)
+    description: 'The most connected names as a matrix: which pairs have documented links, and how many.',
+    html: '<h1>Matrix of the Most Connected Names</h1><p class="lede">Each cell is a pair of names. A filled cell is a documented link.</p>' +
+      '<p class="pre-meta">The matrix needs JavaScript. The same links are on each profile. Back to the <a href="' + U.map() + '">Map</a>.</p><h2>Names in the Matrix</h2>' + topNames(40)
   };
 }
 function pageMapTopic(t) {
@@ -295,17 +293,17 @@ function pageMapTopic(t) {
   const mem = [...w.entries()].sort((a, b) => b[1] - a[1] || b[0].imp - a[0].imp);
   return {
     path: 'map/topic/' + t.id + '/', title: t.name + ' on the Map · ' + SITE_NAME,
-    description: trunc(t.name + ' on the map: ' + plural(t.list.length, 'check') + ' and the ' + num(mem.length) + ' names they mention. ' + (t.description || ''), 230),
-    html: '<p class="crumb"><a href="' + U.map() + '">Map</a></p><h1>' + esc(t.name) + ' on the Map</h1>' + (t.description ? '<p class="lede">' + esc(t.description) + '</p>' : '') + STANDING +
+    description: trunc(t.name + ' on the map: ' + plural(t.list.length, 'check') + ' and ' + plural(mem.length, 'name') + '. ' + (t.description || ''), 230),
+    html: '<p class="crumb"><a href="' + U.map() + '">Map</a></p><h1>' + esc(t.name) + ' on the Map</h1>' + (t.description ? '<p class="lede">' + esc(t.description) + '</p>' : '') +
       '<h2>' + plural(t.list.length, 'Check') + '</h2><ul class="pre-rows">' + t.list.map(checkLine).join('') + '</ul>' +
-      '<h2>Names These Checks Mention Most</h2><ol class="pre-cols">' + mem.slice(0, 40).map(([e, n]) => '<li>' + nameLink(e) + ' <span class="pre-meta">' + plural(n, 'check') + '</span></li>').join('') + '</ol>'
+      '<h2>Most-Named in These Checks</h2><ol class="pre-cols">' + mem.slice(0, 40).map(([e, n]) => '<li>' + nameLink(e) + ' <span class="pre-meta">' + plural(n, 'check') + '</span></li>').join('') + '</ol>'
   };
 }
 function pageMissing() {
   return {
-    path: '404.html', title: 'Page Not Found · ' + SITE_NAME, description: 'That page is not here. Search the names and checks, or start from one of the main pages.', noindex: true,
-    html: '<h1>That Page Is Not Here</h1><p class="lede">Nothing is published at this address. Use the search at the top of the page, or start from one of these.</p>' +
-      '<ul><li><a href="' + U.home() + '">Home</a></li><li><a href="' + U.checks() + '">All ' + claims.length + ' Checks</a></li><li><a href="' + U.names() + '">People &amp; Organisations</a></li><li><a href="' + U.map() + '">Map</a></li><li><a href="' + U.method() + '">How We Checked</a></li></ul>' + STANDING
+    path: '404.html', title: 'Page Not Found · ' + SITE_NAME, description: 'Nothing is published at this address.', noindex: true,
+    html: '<h1>Page Not Found</h1><p class="inote"><span>Nothing is published at this address.</span></p>' +
+      '<ul><li><a href="' + U.home() + '">Home</a></li><li><a href="' + U.checks() + '">Checks</a></li><li><a href="' + U.names() + '">People &amp; Organisations</a></li><li><a href="' + U.map() + '">Map</a></li><li><a href="' + U.method() + '">How We Checked</a></li></ul>'
   };
 }
 
@@ -391,6 +389,9 @@ for (const [from, to] of [['#home', U.home()], ['#claims', U.checks()], ['#names
 }
 const left = shell.match(/href="#(?!app")[^"]*"/g);
 if (left) throw new Error('map/index.html has links this script does not know how to rewrite: ' + left.join(' '));
+const FOOT = '<p class="foot-date" id="foot-meta"></p>';
+if (!shell.includes(FOOT) || !shell.includes(DENIAL)) throw new Error('map/index.html: the footer line was not found');
+shell = shell.replace(FOOT, '<p class="foot-date" id="foot-meta">' + esc(ASOF ? ASOF + '.' : '') + '</p>');
 const SLOT = '<div id="page" class="wrap"></div>';
 if (!shell.includes(SLOT)) throw new Error('map/index.html: the page container was not found');
 
@@ -429,7 +430,7 @@ function writePage(p) {
     '<script defer src="' + APP + '"></script>'
   ].filter(Boolean).map(l => l.split('\n').map(x => '  ' + x).join('\n')).join('\n');
   const body = shell.replace(SLOT, '<div id="page" class="wrap"><div class="pre">' + p.html +
-    '<noscript><p class="pre-note">This page is readable without JavaScript. The search, the interactive map and the full reports need it.</p></noscript></div></div>');
+    '<noscript><p class="pre-note">Search, the map and the full reports need JavaScript.</p></noscript></div></div>');
   put(p.path.endsWith('.html') ? p.path : p.path + 'index.html', '<!doctype html>\n<html lang="en">\n<head>\n' + head + '\n</head>\n<body>\n' + body + '\n</body>\n</html>\n');
   pages.push(p);
 }

@@ -120,7 +120,6 @@ a:hover { text-decoration-color: currentColor; text-decoration-thickness: 1px; }
 .seclink { font-size: var(--fs-ui); }
 .secnote { font-size: var(--fs-ui); }
 .lede { font-size: var(--fs-lede); line-height: 1.5; color: var(--ink); }
-.callout, .flagbox { margin-top: 18px; padding: 10px 0 10px 14px; border-top: 0; border-left: 2px solid var(--unp); font-size: 15px; }
 .flag { font-family: var(--font-ui); }
 /* figures: a compact strip, the same on profiles, the method page and in the map's dossier */
 .figrow { margin: 22px 0 0; padding: 0; border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule); }
@@ -150,7 +149,6 @@ thead th.numc, .ctable thead th.numc { font-size: 14.5px; }
 .ledger span { padding-right: 14px; margin-right: 14px; border-right: 1px solid var(--rule); white-space: nowrap; }
 .ledger span:last-child { border: 0; margin: 0; padding: 0; }
 .ledger b { font-weight: 600; font-size: 17px; color: var(--ink); margin-right: 3px; }
-.standing { margin-top: 12px; font-size: 13.5px; line-height: 1.45; color: var(--ink2); }
 .frontmap { margin: 0; min-width: 0; }
 .frontmap a { display: block; position: relative; background: var(--cv-bg); border: 1px solid var(--rule); border-radius: 2px; overflow: hidden; }
 .frontmap canvas { display: block; width: 100%; aspect-ratio: 7 / 5; }
@@ -286,7 +284,6 @@ summary { font-size: 14px; font-family: var(--font-ui); }
 .profile { margin-top: 8px; }
 .role { font-size: var(--fs-lede); line-height: 1.45; }
 .facts { margin-top: 8px; font-size: 14.5px; }
-.pnote { font-size: 13.5px; }
 .rec { font-size: 15px; } .rec > .when { font-size: 14.5px; } .tl .rec > .when { font-weight: 600; }
 .sums .amt { font: 600 17px/1.4 var(--font-ui); }
 .rec .sec2 { font-size: 14px; } .rec .src { font-size: 14px; }
@@ -300,9 +297,6 @@ summary { font-size: 14px; font-family: var(--font-ui); }
 .field input, .field select { border: 1px solid var(--rule2); border-radius: 3px; background: var(--card); padding: 6px 10px; font-size: var(--fs-ui); }
 
 /* ---------- method ---------- */
-.steps li::marker { font-family: var(--font-ui); }
-.defs .n { font-size: 14px; }
-.defs li, .limits li { font-size: 15.5px; }
 
 /* ---------- footer ---------- */
 .foot { margin-top: 72px; padding: 16px 0 30px; border-top: 1px solid var(--rule); font-size: 14px; color: var(--ink2); }
@@ -352,7 +346,6 @@ summary { font-size: 14px; font-family: var(--font-ui); }
 .panel-actions .linkbtn:hover { text-decoration: underline; }
 .pback { font: 600 var(--fs-small) var(--font-ui); }
 .map-panel .prole { font-size: 15px; }
-.phint, .ptally { font-size: var(--fs-small); }
 .map-panel h3, .map-list h3 { margin-top: 22px; padding-top: 0; padding-bottom: 6px; border-top: 0; border-bottom: 1px solid var(--rule2); font: 600 14.5px/1.3 var(--font-ui); }
 .map-panel h4 { font: 500 13px/1.3 var(--font-ui); color: var(--ink2); border-bottom: 0; padding-bottom: 0; margin-top: 14px; }
 .map-panel .cnt, .map-list .cnt { font-size: 13.5px; color: var(--ink2); font-weight: 400; }
@@ -530,3 +523,68 @@ thead th, .ctable thead th, .ctable thead .srcc, thead th.numc, .ctable thead th
 .leadgrid { grid-template-columns: minmax(0, 1.05fr) minmax(0, 1.3fr) minmax(0, 1.5fr); }
 @media (max-width: 1180px) { .leadgrid { grid-template-columns: 1fr 1fr; } }
 @media (max-width: 760px) { .leadgrid { grid-template-columns: 1fr; } }
+
+/* ---------- notes, captions, footer and the method page ---------- */
+/* One note style for every flag, caveat and state (unverified, loading, empty, error): a mark where there is one, then a short sentence. */
+.inote { display: flex; align-items: baseline; gap: 8px; margin: 14px 0 0; max-width: var(--measure); font: 400 14.5px/1.45 var(--font-ui); color: var(--ink2); }
+.inote .mark { flex: none; width: 15px; height: 15px; transform: translateY(2.5px); }
+.inote.unv, .inote.err { color: var(--ink); }
+.inote.unv .mark, .inote.unv strong { color: var(--unp); } .inote.err .mark, .inote.err strong { color: var(--wrong); }
+.inote a { color: var(--link); } .inote .linkbtn { margin-left: 6px; }
+.topiclist > .inote { margin: 0 0 26px; max-width: none; }
+.ptally { font-size: var(--fs-small); }
+.pflag, .mxd-flag, .mxd-note { display: flex; align-items: baseline; gap: 7px; margin: 0 0 8px; padding: 0; border: 0; font: 400 13.5px/1.45 var(--font-ui); color: var(--ink2); }
+.pflag, .mxd-flag { color: var(--unp); font-weight: 500; } .pflag .mark, .mxd-flag .mark { flex: none; transform: translateY(2px); }
+.mxd-flag, .mxd-note { margin: 14px 0 0; }
+.missnav { display: flex; flex-wrap: wrap; gap: 6px 24px; margin-top: 18px; font-size: 15px; } .missnav a { color: var(--link); }
+
+/* One caption style under a heading: small, secondary ink, the same distance below the heading everywhere. */
+.secnote, .sec > .intro, .body .sub, .pbody .sub, .lead-t caption span, .frontmap figcaption, .topic-h .small { font: 400 13.5px/1.45 var(--font-ui); color: var(--ink2); }
+.secnote, .sec > .intro, .body .sub, .pbody .sub, .topic-h .small { margin-top: 4px; }
+.sechead .secnote { flex-basis: 100%; order: 3; margin-top: 2px; }
+.lead-t caption span { margin-top: 2px; }
+.body .sub strong, .pbody .sub strong { color: var(--ink); }
+
+/* The footer: one quiet line under a hairline, the note on the left and the data date on the right. */
+.foot { margin-top: 64px; padding: 14px 0 28px; border-top: 1px solid var(--rule); font: 400 13.5px/1.45 var(--font-ui); color: var(--ink2); }
+.foot .wrap { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 2px 32px; }
+.foot p, .foot p + p { margin: 0; } .foot-date { white-space: nowrap; }
+.map-note { display: flex; align-items: baseline; justify-content: space-between; gap: 0 24px; padding-top: 5px; padding-bottom: 5px; text-align: left; font: 400 13px/1.4 var(--font-ui); color: var(--ink2); }
+.map-note .note-date { flex: none; white-space: nowrap; }
+
+/* The method page: a reference sheet. Figures, then a section index beside ruled lists and tables. */
+.method .dateline { margin-top: 10px; }
+.mgrid { display: grid; grid-template-columns: 176px minmax(0, 780px); gap: 0 72px; align-items: start; margin-top: 44px; }
+.mindex { position: sticky; top: 24px; }
+.mindex h2 { margin: 0; padding-bottom: 6px; border-bottom: 1px solid var(--rule2); font: 500 13px/1.3 var(--font-ui); letter-spacing: 0; color: var(--ink2); }
+.mbody section + section { margin-top: 44px; }
+.mbody h2 { padding-bottom: 8px; border-bottom: 1px solid var(--rule2); font-size: calc(22px * var(--head-scale)); scroll-margin-top: 20px; }
+.msteps { list-style: none; margin: 0; padding: 0; counter-reset: ms; }
+.msteps li { counter-increment: ms; display: grid; grid-template-columns: 22px 158px minmax(0, 1fr); gap: 0 14px; align-items: baseline; padding: 10px 0; border-bottom: 1px solid var(--rule); font-size: 15px; line-height: 1.45; }
+.msteps li::before { content: counter(ms); font: 500 13.5px/1 var(--font-data); font-variant-numeric: lining-nums tabular-nums; color: var(--ink2); }
+.msteps b, .mlimits dt { font-weight: 600; }
+.mtable { width: 100%; border-collapse: collapse; font-size: 15px; line-height: 1.45; }
+.mtable th, .mtable td { padding: 9px 14px 9px 0; border-bottom: 1px solid var(--rule); text-align: left; vertical-align: baseline; font-weight: 400; }
+.mtable thead th { padding: 8px 14px 6px 0; font: 500 13px/1.3 var(--font-data); color: var(--ink2); }
+.mtable tbody th { width: 208px; white-space: nowrap; }
+.mtable .numc { width: 118px; padding-right: 0; text-align: right; white-space: nowrap; font-variant-numeric: lining-nums tabular-nums; }
+.mbar { display: inline-block; width: 56px; height: 3px; margin-right: 10px; background: var(--band); vertical-align: middle; } .mbar i { display: block; height: 100%; background: var(--mx-bar); }
+.mgrade { display: inline-flex; align-items: baseline; gap: 9px; font-weight: 600; } .mgrade .evline { width: 22px; transform: translateY(-4px); }
+.mlimits { margin: 0; }
+.mlimits > div { display: grid; grid-template-columns: 208px minmax(0, 1fr); gap: 0 0; align-items: baseline; padding: 10px 0; border-bottom: 1px solid var(--rule); font-size: 15px; line-height: 1.45; }
+.mlimits dd { margin: 0; } .mlimits a { color: var(--link); }
+.mcorr { display: flex; align-items: center; gap: 8px; margin: 12px 0 0; font-size: 15px; } .mcorr .ic { flex: none; width: 16px; height: 16px; color: var(--ink2); } .mcorr a { color: var(--link); }
+@media (max-width: 1020px) { .mgrid { grid-template-columns: minmax(0, 1fr); margin-top: 36px; } .mindex { display: none; } }
+@media (max-width: 760px) {
+  .foot { margin-top: 48px; padding-bottom: 22px; } .foot .wrap { display: block; } .foot-date { margin-top: 2px; }
+  .map-note { display: block; font-size: 12.5px; text-wrap: balance; } .map-note .note-date { margin-left: 5px; }
+  .mgrid { margin-top: 28px; } .mbody section + section { margin-top: 34px; } .mbody h2 { font-size: calc(20px * var(--head-scale)); }
+  .msteps li { grid-template-columns: 18px minmax(0, 1fr); gap: 1px 10px; } .msteps li span { grid-column: 2; }
+  .mtable thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+  .mtable tr { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 1px 12px; padding: 9px 0; border-bottom: 1px solid var(--rule); }
+  .mtable th, .mtable td { padding: 0; border: 0; } .mtable tbody th { width: auto; } .mtable .numc { width: auto; grid-row: 1; grid-column: 2; }
+  .mtable td:not(.numc) { grid-column: 1 / -1; color: var(--ink2); } .mbar { width: 40px; }
+  .mlimits > div { grid-template-columns: minmax(0, 1fr); gap: 1px 0; } .mlimits dd { color: var(--ink2); }
+}
+
+.map-panel.rest .prole, .map-panel .prole:has(+ .steps) { font-size: 13.5px; line-height: 1.45; color: var(--ink2); }
