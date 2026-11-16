@@ -68,7 +68,13 @@ An inferred link is never presented as fact. A documented relationship is not pr
 | `research/Cxx-*.md` | The long-form report for each check |
 | `data/base-graph.json` | Shared entities, relationships and recurring themes |
 | `build.py` | Merges everything into the map data and the Obsidian vault |
-| `map/` | The interactive website |
+| `map/` | The interactive website as one page with hash addresses: the artifact build |
+| `make_site.mjs` | Builds `site/`, the deployable static site, from `map/` (Node, no dependencies) |
+| `static/og.png` | The link-preview image, drawn once by `tools/make_og.js` and copied into the site |
+| `render.yaml`, `.node-version` | The Render blueprint for the static site, and the Node version it builds with |
+| `tools/` | Checks for the built site: a local static server, a crawl test and a link check |
+| `cook/harness/` | Checks for the artifact build: stills, map behaviour, contrast |
+| `site/` | Build output. Not committed |
 | `vault/` | The same graph as an Obsidian vault, one note per check, name and theme |
 | `SCHEMA.md` | The data contract and the instructions the research agents followed |
 | `QUEUE.md` | Working notes on what remains |
@@ -77,18 +83,52 @@ Other files in the root are working material and are not read by the build.
 
 ## Using it
 
-**The website.** Open the live link, or serve the `map/` folder locally:
+**The website.** Open the live link, or build the site and serve it locally:
 
 ```
-python3 build.py
-cd map && python3 -m http.server 8000
+python3 build.py          # only after editing data/ or research/; its output is committed
+node make_site.mjs        # writes site/
+node tools/serve_site.js  # http://localhost:8080/
 ```
 
 The site has four areas. The home page says what the tool covers and how the checks came out, introduces the people involved (the Trump family, administration officials, business partners and investors, foreign governments and funds), and lists every check under its topic, with a topic list for jumping between them. Each check page runs in a fixed order: the claim, verdict, bottom line, what holds up, what needs correcting, what is unproven, the other side, who is involved, sources, second review and the full report. People and organisations have profiles with their closest connections, a timeline, the largest sums and every relationship written out with the checks it comes from. The map shows every name and connection, with the checks arranged around a ring in nine topic arcs: select a mark for a summary, double-click to isolate its network, pick a topic to see only its checks and the names they mention, and use "Trace a path" to find the shortest connection between two names.
 
 **Obsidian.** Open the `vault/` folder as a vault and use the graph view. Notes link to each other with wikilinks.
 
-**Rebuilding.** After editing anything under `data/` or `research/`, run `python3 build.py`. It rewrites `map/graph-data.js` and regenerates `vault/`. It needs only the Python standard library. Checks, sub-claims, entities and relationships flagged `"hidden": true` are left out of everything. The map layout is computed in the build (about ten seconds) and cached in `.layout-cache.json`; it is recomputed only when names, connections or topics change. The build ends with a wording check: it lists any text of our own in the output that still refers to where a claim was first collected from rather than to the claim itself, so that it can be reworded. Publishers' headlines and URLs are not checked.
+**Rebuilding.** After editing anything under `data/` or `research/`, run `python3 build.py`. It rewrites `map/graph-data.js` and regenerates `vault/`. Then run `node make_site.mjs` if you want the site locally; the host runs it on every deploy. It needs only the Python standard library. Checks, sub-claims, entities and relationships flagged `"hidden": true` are left out of everything. The map layout is computed in the build (about ten seconds) and cached in `.layout-cache.json`; it is recomputed only when names, connections or topics change. The build ends with a wording check: it lists any text of our own in the output that still refers to where a claim was first collected from rather than to the claim itself, so that it can be reworded. Publishers' headlines and URLs are not checked.
+
+## Two builds from one source
+
+`map/` is the product: `index.html` (body content only), the stylesheets, `matrix.js`, `app.js` and the generated `graph-data.js`. It is published in two forms, and `app.js` serves both.
+
+| | Artifact build | Site build |
+|---|---|---|
+| What is published | `map/` as it stands | `site/`, written by `node make_site.mjs` |
+| Addresses | Hashes on one page: `#C06`, `#name-jared-kushner`, `#map-topic-gulf-money` | Real paths, one pre-built page each: `/checks/C06/`, `/names/jared-kushner/`, `/map/topic/gulf-money/` |
+| Data | All of `graph-data.js` on every visit (about 1.3 MB gzipped) | A core file for the lists, search, map and matrix (about 260 KB gzipped), plus one detail file per check, fetched when its page is opened |
+| Content before JavaScript runs | None | Each page carries its text in the HTML: the check with its points, corrections, the other side and sources; the profile with its figures, strongest connections and checks |
+| Page head | Set by the artifact host | Its own title, description, canonical link, Open Graph and Twitter tags |
+| File names | Fixed | Content-hashed under `/assets/`, cacheable for a year |
+| Third-party script | d3 from cdnjs (`index.html` loads it; the code no longer calls it) | None |
+
+How `app.js` tells them apart: the site's pages load a small start-up file that sets `window.__SITE__ = { base: '/' }`. With it, every link is a path, moving between pages uses the History API, and an address from the hash-routed version (`/#C06`) is rewritten to its path. Without it nothing changes: hash routes, all data in memory. All links are made by one function, `U()`, at the top of `app.js`.
+
+Site addresses: `/`, `/checks/`, `/checks/<ID>/`, `/names/`, `/names/<slug>/`, `/method/`, `/map/`, `/map/matrix/`, `/map/topic/<slug>/`. A topic has no page of its own; it is a section of the checks list, `/checks/#topic-<slug>`. A selection on the map is `/map/#<slug or ID>`. Anything else answers with `404.html`.
+
+**Building the site.** `node make_site.mjs` needs Node 18 or later and nothing else. It reads `map/` and `static/og.png` and rewrites `site/` from scratch. Set `SITE_URL` to the public address (for example `SITE_URL=https://example.org node make_site.mjs`) to get canonical links, `og:url`, `og:image` and `sitemap.xml`; on Render the build falls back to `RENDER_EXTERNAL_URL`. Without either, those are left out. `SITE_BASE` sets a path prefix if the site is not served from the root.
+
+**Deploying.** `render.yaml` describes a Render static site: build command `node make_site.mjs`, publish directory `site/`, long-lived caching for `/assets/`, revalidation for pages, and a Content-Security-Policy that allows scripts and data from the site only and fonts from Google Fonts. It has no rewrite rules, so a wrong address is a real 404.
+
+**Checking it.**
+
+```
+node make_site.mjs
+node tools/check_links.js     # every internal link in every page resolves
+node tools/crawl_site.js      # Playwright: content in the raw HTML, the interface, navigation, old addresses, 404, sizes
+node cook/harness/shots.js 10 && node cook/harness/globefunc.js && node cook/harness/contrast.js   # the artifact build
+```
+
+`node tools/make_og.js` redraws `static/og.png` from the dark map. It needs Playwright; the site build does not.
 
 ## Corrections
 

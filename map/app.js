@@ -13,6 +13,61 @@
   function esc(s) { return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) { return ESC[c]; }); }
   function arr(v) { return Array.isArray(v) ? v : []; }
 
+  // ------------------------------------------------------------------ addresses
+  /* One set of route names ("home", "C06", "name-jared-kushner", "map-topic-gulf-money") and two ways to write them.
+     Inside the artifact they are hashes (#C06). The built site sets window.__SITE__ = { base: '/' } and gets real
+     paths (/checks/C06/), one pre-built page each. Every link in the interface is made by U(). */
+  var SITE = window.__SITE__ || null, BASE = SITE ? String(SITE.base || '/') : '';
+  function U(key) {
+    key = String(key || '');
+    if (!SITE) return '#' + key;
+    var low = key.toLowerCase(), m;
+    if (!low || low === 'home') return BASE;
+    if (low === 'claims' || low === 'topics') return BASE + 'checks/';
+    if (low === 'names') return BASE + 'names/';
+    if (low === 'method') return BASE + 'method/';
+    if (/^topic-./.test(low)) return BASE + 'checks/#' + low;
+    if ((m = /^name-(.+)$/.exec(low))) return BASE + 'names/' + encodeURIComponent(m[1]) + '/';
+    if (/^c\d+[a-z]?$/.test(low)) return BASE + 'checks/' + key.toUpperCase() + '/';
+    if (low === 'map') return BASE + 'map/';
+    if (low === 'map-list') return BASE + 'map/#list';
+    if (low === 'map-matrix') return BASE + 'map/matrix/';
+    if (low === 'map-matrix-topics') return BASE + 'map/matrix/#topics';
+    if ((m = /^map-topic-(.+)$/.exec(low))) return BASE + 'map/topic/' + encodeURIComponent(m[1]) + '/';
+    if ((m = /^map-(.+)$/.exec(key))) return BASE + 'map/#' + encodeURIComponent(m[1]);
+    return BASE + '#' + encodeURIComponent(key);   // a place on the home page (#who), or an address from an earlier version
+  }
+  /* The route name for the address in the bar. On the site, an address from the hash-routed version
+     (/#C06, /#name-x, /#map) is rewritten to its path first. */
+  function readKey() {
+    var hash = '';
+    try { hash = decodeURIComponent(location.hash.replace(/^#/, '')); } catch (e) { hash = ''; }
+    if (!SITE) return hash;
+    var p = location.pathname;
+    try { p = decodeURIComponent(p); } catch (e) { /* keep it as written */ }
+    if (p.indexOf(BASE) === 0) p = p.slice(BASE.length);
+    p = p.replace(/(^|\/)index\.html$/, '').replace(/^\/+|\/+$/g, '');
+    if (hash === 'app') hash = '';   // the skip link
+    var seg = p ? p.split('/') : [];
+    if (!seg.length) {
+      if (!hash) return 'home';
+      var to = U(hash);
+      if (to === BASE + '#' + encodeURIComponent(hash)) return hash;
+      try { history.replaceState(null, '', to); } catch (e) { return hash; }
+      return readKey();
+    }
+    if (seg[0] === 'checks' && seg.length === 1) return /^topic-./.test(hash) ? hash : 'claims';
+    if (seg[0] === 'checks' && seg.length === 2 && /^c\d+[a-z]?$/i.test(seg[1])) return seg[1].toUpperCase();
+    if (seg[0] === 'names' && seg.length === 1) return 'names';
+    if (seg[0] === 'names' && seg.length === 2) return 'name-' + seg[1];
+    if (seg[0] === 'method' && seg.length === 1) return 'method';
+    if (seg[0] === 'map' && seg.length === 1) return hash ? 'map-' + hash : 'map';
+    if (seg[0] === 'map' && seg[1] === 'matrix' && seg.length === 2) return hash === 'topics' ? 'map-matrix-topics' : 'map-matrix';
+    if (seg[0] === 'map' && seg[1] === 'topic' && seg.length === 3) return 'map-topic-' + seg[2];
+    return '/' + p;   // no such page
+  }
+  function here() { return SITE ? location.pathname + location.hash : location.hash; }
+
   var VERDICTS = ['confirmed', 'mostly-accurate', 'partly-accurate', 'misleading', 'unverified', 'false', 'pending'];
   var VLABEL = { 'confirmed': 'Confirmed', 'mostly-accurate': 'Mostly Accurate', 'partly-accurate': 'Partly Accurate',
     'misleading': 'Misleading', 'unverified': 'Unverified', 'false': 'False', 'pending': 'Not Yet Checked' };
@@ -167,11 +222,15 @@
   // names for items: the interface never shows the internal codes
   function claimLabel(c) { return c.ctype === 'connection' ? 'Connection Check' : 'Check'; }
   function originText(c) { return claimLabel(c) + (c.topicRef ? ' · ' + c.topicRef.name : ''); }
-  function claimHref(c) { return '#' + c.id; }
-  function entHref(e) { return '#name-' + e.id; }
+  function claimHref(c) { return U(c.id); }
+  function entHref(e) { return U('name-' + e.id); }
   function mapId(n) { return n.kind === 'theme' ? String(n.hash) : n.id; }
-  function mapHref(n) { return '#map-' + mapId(n); }
-  function topicHref(t) { return '#topic-' + t.id; }
+  function mapHref(n) { return U('map-' + mapId(n)); }
+  function topicHref(t) { return U('topic-' + t.id); }
+  function mapTopicHref(t) { return U('map-topic-' + t.id); }
+  /* Counts that the lists need. The built site keeps a check's long detail in its own file, so the core data carries the counts. */
+  function nSources(c) { return c.sources ? c.sources.length : c.ns || 0; }
+  function nFixes(c) { return c.corrections ? c.corrections.length : c.nc || 0; }
   function pageHref(n) { return n.kind === 'claim' ? claimHref(n) : n.kind === 'entity' ? entHref(n) : mapHref(n); }
   function entLink(e, short) { return '<a href="' + entHref(e) + '">' + esc(short ? shortName(e) : e.name) + '</a>'; }
   function claimLink(c, text) { return '<a href="' + claimHref(c) + '" title="' + esc(c.title) + '">' + (text || esc(c.title)) + '</a>'; }
@@ -354,7 +413,7 @@
   }
   function claimRow(c, opts) {
     opts = opts || {};
-    var unv = isUnv(c), meta = tallyText(c), fixes = arr(c.corrections).length;
+    var unv = isUnv(c), meta = tallyText(c), fixes = nFixes(c);
     if (fixes) meta += (meta ? ' · ' : '') + plural(fixes, 'correction');
     if (c.ctype === 'connection' && !opts.kind) meta = 'Connection Check' + (meta ? ' · ' + meta : '');
     return '<li class="row' + (unv ? ' unv' : '') + (opts.short ? ' short' : '') + '"><span class="cid">' + esc(c.id) + '</span>' +
@@ -492,15 +551,15 @@
       (examples.length ? '<p class="try">Start with ' + listParts(examples.map(function (e) { return entLink(e, true); })).replace(' and ', ' or ') + '.</p>' : '') +
       '<p class="ledger">' + [[nc, 'checks'], [p.total, 'points'], [META.sources, 'sources'], [entities.length, 'names'], [rels.length, 'links']].map(function (x) { return '<span><b>' + num(x[0]) + '</b> ' + x[1] + '</span>'; }).join('') + '</p>' +
       '<p class="standing"><strong>Everyone named denies wrongdoing,</strong> and nothing here is an accusation of a crime. A link is a documented relationship, not proof that one thing caused another.' +
-      (META.generated ? ' Data built ' + esc(fdate(META.generated)) + '.' : '') + ' <a href="#method">How We Checked</a></p>' +
+      (META.generated ? ' Data built ' + esc(fdate(META.generated)) + '.' : '') + ' <a href="' + U('method') + '">How We Checked</a></p>' +
       '</div>' +
-      '<figure class="frontmap"><a href="#map" aria-label="Open the map of ' + num(entities.length) + ' names and ' + nc + ' checks"><canvas id="preview" aria-hidden="true"></canvas><span class="open">Open the Map' + ico('go') + '</span></a>' +
+      '<figure class="frontmap"><a href="' + U('map') + '" aria-label="Open the map of ' + num(entities.length) + ' names and ' + nc + ' checks"><canvas id="preview" aria-hidden="true"></canvas><span class="open">Open the Map' + ico('go') + '</span></a>' +
       '<figcaption><span>Every name and every check, placed by the documented links between them. Colour is topic.</span><span id="front-key"></span></figcaption></figure>' +
       '</div>';
 
     // the leads: three ways in, as plain tables
     var topN = ranked.filter(function (e) { return e.lines.length && e.type !== 'media'; }).slice(0, 8), topMax = topN.length ? topN[0].lines.length : 1;
-    var keyChecks = claims.slice().sort(function (a, b) { return arr(b.sources).length - arr(a.sources).length || cmpClaim(a, b); }).slice(0, 8);
+    var keyChecks = claims.slice().sort(function (a, b) { return nSources(b) - nSources(a) || cmpClaim(a, b); }).slice(0, 8);
     h += '<section class="sec" id="leads" aria-labelledby="leads-h"><div class="sechead"><h2 id="leads-h">Where to Start</h2><p class="secnote">Three ways into the record: by name, by sum and by check.</p></div><div class="leadgrid">' +
       '<table class="lead-t"><colgroup><col style="width:24px"><col><col style="width:56px"><col style="width:60px"></colgroup><caption>Most Connected Names<span>By documented links to other names</span></caption><thead><tr><th colspan="2">Name</th><th class="numc">Links</th><th class="numc">Checks</th></tr></thead><tbody>' +
       topN.map(function (e, i) { return '<tr><td class="rk">' + (i + 1) + '</td><th scope="row">' + kmark(e) + entLink(e, true) + '</th><td class="numc"><span class="lbar" aria-hidden="true"><i style="width:' + Math.max(4, Math.round(100 * e.lines.length / topMax)) + '%"></i></span>' + num(e.lines.length) + '</td><td class="numc">' + e.cl.length + '</td></tr>'; }).join('') +
@@ -509,7 +568,7 @@
       leadSums().slice(0, 8).map(function (r) { var c = byKey.get(r.claims[0]); return '<tr><td class="amt">' + esc(money(r.amount_usd)) + '</td><th scope="row" title="' + esc(shortName(r.S) + ' and ' + shortName(r.T)) + '">' + entLink(r.S, true) + ' <span class="and">and</span> ' + entLink(r.T, true) + '</th><td class="numc">' + (c ? '<a class="cite" href="' + claimHref(c) + '" title="' + esc(c.title) + '">' + esc(c.id) + '</a>' : '') + '</td></tr>'; }).join('') +
       '</tbody></table>' +
       '<table class="lead-t"><colgroup><col><col style="width:148px"><col style="width:64px"></colgroup><caption>Most-Sourced Checks<span>The checks that rest on the most sources</span></caption><thead><tr><th>Check</th><th>Verdict</th><th class="numc">Sources</th></tr></thead><tbody>' +
-      keyChecks.map(function (c) { return '<tr><th scope="row">' + claimLink(c) + '</th><td class="vd">' + (isUnv(c) ? flag(c) : verdict(c.verdict)) + '</td><td class="numc">' + arr(c.sources).length + '</td></tr>'; }).join('') +
+      keyChecks.map(function (c) { return '<tr><th scope="row">' + claimLink(c) + '</th><td class="vd">' + (isUnv(c) ? flag(c) : verdict(c.verdict)) + '</td><td class="numc">' + nSources(c) + '</td></tr>'; }).join('') +
       '</tbody></table></div></section>';
 
     var segs = [['hold', p.hold, 'Hold Up', num(p.hold) + ' of ' + num(p.total) + ' points are confirmed or mostly accurate, about ' + share + ' in 10 of everything tested. ' + num(holds) + ' of the ' + nc + ' checks hold up overall.'],
@@ -525,7 +584,7 @@
     // who is involved: a few names per group, from build.py
     var who = arr(META.who).map(function (g) { return { title: g.title, total: g.total, list: arr(g.names).map(function (id) { return byKey.get('e:' + id); }).filter(Boolean) }; }).filter(function (g) { return g.list.length; });
     if (!who.length) who = [{ title: 'Named Most Often', list: entities.filter(function (e) { return e.type !== 'media'; }).sort(function (a, b) { return b.cl.length - a.cl.length; }).slice(0, 8) }];
-    h += '<section class="sec" id="who"><div class="sechead"><h2>Who Is Involved</h2><a class="seclink" href="#names">Browse All ' + num(entities.length) + ' People &amp; Organisations</a></div>' +
+    h += '<section class="sec" id="who"><div class="sechead"><h2>Who Is Involved</h2><a class="seclink" href="' + U('names') + '">Browse All ' + num(entities.length) + ' People &amp; Organisations</a></div>' +
       '<p class="intro">The names in the most checks, by group, with the number of checks that name them.</p>' +
       '<div class="whohome">' + who.map(function (g) {
         return '<div class="whocol"><h3>' + esc(g.title) + '</h3><ul>' + g.list.map(function (e) {
@@ -548,7 +607,7 @@
       h += '<section class="topic" id="topic-' + esc(t.id) + '" tabindex="-1"><div class="topic-h"><h3>' + esc(t.name) + '</h3>' +
         (t.description ? '<p class="desc">' + esc(t.description) + '</p>' : '') +
         '<p class="small muted">' + plural(t.list.length, 'check') + ': ' + sum.join(', ') + '.' +
-        (t.id !== 'other' ? ' <a href="#map-topic-' + esc(t.id) + '">Show this topic on the map</a>' : '') + '</p></div>' +
+        (t.id !== 'other' ? ' <a href="' + esc(mapTopicHref(t)) + '">Show this topic on the map</a>' : '') + '</p></div>' +
         (narrow.matches ? fold(t.list.map(function (c) { return claimRow(c); }), 5, 'Checks in This Topic', 'ul', 'rows') : '<ul class="rows">' + t.list.map(function (c) { return claimRow(c); }).join('') + '</ul>') + '</section>';
     });
     h += '</div></div></section>';
@@ -561,7 +620,7 @@
       var io = new IntersectionObserver(function (es) {
         es.forEach(function (en) { if (en.isIntersecting) seen.add(en.target.id); else seen.delete(en.target.id); });
         var cur = null;
-        TOPICS.forEach(function (t) { if (!cur && seen.has('topic-' + t.id)) cur = '#topic-' + t.id; });
+        TOPICS.forEach(function (t) { if (!cur && seen.has('topic-' + t.id)) cur = topicHref(t); });
         navLinks.forEach(function (a) { if (a.getAttribute('href') === cur) a.setAttribute('aria-current', 'true'); else a.removeAttribute('aria-current'); });
       }, { rootMargin: '-10% 0px -60% 0px' });
       page.querySelectorAll('.topic').forEach(function (el) { io.observe(el); });
@@ -595,7 +654,7 @@
   function claimPage(c) {
     var subs = arr(c.sub_claims), t = c.tally || [0, 0, 0], tot = t[0] + t[1] + t[2], topic = c.topicRef, g = VGROUP[c.verdict];
     var nsrc = arr(c.sources).length, fixesN = arr(c.corrections).length;
-    var h = '<p class="crumb"><a href="#topics">All Checks</a>' + (topic && topic.id !== 'other' ? ' <span aria-hidden="true">/</span> <a href="' + topicHref(topic) + '">' + esc(topic.name) + '</a>' : '') + ' <span aria-hidden="true">/</span> <b>' + (c.ctype === 'connection' ? 'Connection Check ' : 'Check ') + esc(c.id) + '</b></p><article class="article"><div class="lead">' +
+    var h = '<p class="crumb"><a href="' + U('topics') + '">All Checks</a>' + (topic && topic.id !== 'other' ? ' <span aria-hidden="true">/</span> <a href="' + topicHref(topic) + '">' + esc(topic.name) + '</a>' : '') + ' <span aria-hidden="true">/</span> <b>' + (c.ctype === 'connection' ? 'Connection Check ' : 'Check ') + esc(c.id) + '</b></p><article class="article"><div class="lead">' +
       '<h1 tabindex="-1">' + esc(c.title) + '</h1>' +
       '<p class="dateline prov"><span>' + [plural(nsrc, 'source'), plural(tot, 'point'), CONF[c.confidence] ? CONF[c.confidence] + ' confidence' : '', c.single_source ? 'One source' : '',
         c.audit && AUDIT[c.audit.result] ? 'Second review ' + AUDIT[c.audit.result].toLowerCase() : c.audit ? 'Independent second review' : 'No second review yet'].filter(Boolean).join(' · ') + '</span>' +
@@ -771,7 +830,7 @@
     var tl = arr(e.timeline).map(function (i) { return relAt[i]; }).filter(function (r) { return r && r.S; });
     var alleged = lines.filter(function (r) { return r.alleged; }).length;
 
-    var h = '<p class="crumb"><a href="#names">People &amp; Organisations</a></p><article class="profile"><header class="phead">' +
+    var h = '<p class="crumb"><a href="' + U('names') + '">People &amp; Organisations</a></p><article class="profile"><header class="phead">' +
       '<div class="titlebar"><h1 tabindex="-1">' + esc(e.name) + '</h1><a class="btn" href="' + mapHref(e) + '">' + MAPICON + 'Show on Map</a></div>' +
       (e.role ? '<p class="role">' + rich(cap(e.role)) + '</p>' : '') +
       '<p class="facts">' + kmark(e) + esc(TLABEL[e.type]) + (topicTag(e, true) ? ' · ' + topicTag(e, true) : '') + (also.length ? ' · Also written as ' + esc(also.join(', ')) : '') + '</p>' +
@@ -916,7 +975,7 @@
       '<section class="sec"><h2>Corrections</h2><p class="intro">If a finding is wrong or out of date, the fix belongs in the check’s data file and report, with a source, followed by a rebuild of the site.</p></section>';
   }
   function notFound(h) {
-    page.innerHTML = '<div class="pagehead"><h1 tabindex="-1">That Page Is Not Here</h1><p class="lede">Nothing matches “' + esc(h) + '”. Use the search at the top of the page, or start from <a href="#home">the checks</a>, <a href="#names">people and organisations</a> or <a href="#map">the map</a>.</p></div>';
+    page.innerHTML = '<div class="pagehead"><h1 tabindex="-1">That Page Is Not Here</h1><p class="lede">Nothing matches “' + esc(h) + '”. Use the search at the top of the page, or start from <a href="' + U('home') + '">the checks</a>, <a href="' + U('names') + '">people and organisations</a> or <a href="' + U('map') + '">the map</a>.</p></div>';
   }
 
   // ------------------------------------------------------------------ search
@@ -973,9 +1032,9 @@
     function pick(i) {
       var n = results[i]; if (!n) return;
       input.value = ''; close(); input.blur();
-      if (n.kind === 'topic') { if (state.view === 'map' && input.id === 'search') { setHash('map-topic-' + n.id); setTopic(n.id); } else location.hash = topicHref(n.topic); }
+      if (n.kind === 'topic') { if (state.view === 'map' && input.id === 'search') { setHash('map-topic-' + n.id); setTopic(n.id); } else go(topicHref(n.topic)); }
       else if (state.view === 'map' && input.id === 'search') mapSelect(n, { center: true });
-      else location.hash = pageHref(n);
+      else go(pageHref(n));
     }
     input.addEventListener('input', render);
     input.addEventListener('focus', function () { if (input.value.trim()) render(); });
@@ -2224,7 +2283,7 @@
   }
   function mapTopicRows() {
     return ARCS.map(function (t) {
-      return '<li><span class="tsw" style="background:var(--t' + (t.ci + 1) + ')" aria-hidden="true"></span><a class="namebtn" href="#map-topic-' + esc(t.id) + '" data-topic="' + esc(t.id) + '">' + esc(t.name) + '</a><span class="cnt">' + plural(t.list.length, 'check') + '</span></li>';
+      return '<li><span class="tsw" style="background:var(--t' + (t.ci + 1) + ')" aria-hidden="true"></span><a class="namebtn" href="' + esc(mapTopicHref(t)) + '" data-topic="' + esc(t.id) + '">' + esc(t.name) + '</a><span class="cnt">' + plural(t.list.length, 'check') + '</span></li>';
     });
   }
   function mapHint() { return narrow.matches ? 'Tap a name or a topic to see its connections.' : 'Point at a name to see its links. Select it to read them.'; }
@@ -2359,9 +2418,12 @@
     p.innerHTML = h; p.hidden = false; p.scrollTop = 0; p.classList.remove('rest'); root.classList.add('has-panel');
     p.setAttribute('aria-label', 'Selected item');
   }
-  function setHash(h) {
+  function setHash(h) {   // the address follows the map as it is used, without routing again
     state.lastHash = h;
-    try { if (decodeURIComponent(location.hash.replace(/^#/, '')) !== h) location.hash = h; } catch (e) { /* the address is a convenience only */ }
+    try {
+      if (SITE) { if (readKey() !== h) { history.pushState(null, '', U(h)); setTitle(h); } }
+      else if (decodeURIComponent(location.hash.replace(/^#/, '')) !== h) location.hash = h;
+    } catch (e) { /* the address is a convenience only */ }
   }
   function mapSelect(n, opts) {
     opts = opts || {};
@@ -2411,7 +2473,7 @@
     var mb = '<button type="button" class="namebtn lmention" data-act="mentions" aria-pressed="' + !!gl.mentions + '" title="Lines from each check to the names it mentions. They always show for a name or check you point at or select.">Mentions: ' + (gl.mentions ? 'On' : 'Off') + '</button>';
     if (lit) h = '<p class="lhead">Lit Links, by Kind</p><ul class="lcols two">' + RKORDER.map(function (k) { return sw(GC.rk[k], RKLABEL[k].replace('&', '&amp;'), 'bar'); }).join('') + '</ul>';
     else if (gl.colorBy === 'kind') h = '<p class="lhead">Colour, by Kind of Name</p><ul class="lcols two">' + GROUPS.map(function (g) { return sw(GC.g[g], GLABEL[g].replace('&', '&amp;')); }).join('') + '</ul>';
-    else h = '<p class="lhead">Colour, by Topic</p><ul class="lcols">' + ARCS.map(function (t, i) { return '<li><i class="lsw" style="background:' + GC.t[i % 9] + '" aria-hidden="true"></i><a class="namebtn" href="#map-topic-' + esc(t.id) + '" data-topic="' + esc(t.id) + '">' + esc(t.short) + '</a></li>'; }).join('') + '</ul>';
+    else h = '<p class="lhead">Colour, by Topic</p><ul class="lcols">' + ARCS.map(function (t, i) { return '<li><i class="lsw" style="background:' + GC.t[i % 9] + '" aria-hidden="true"></i><a class="namebtn" href="' + esc(mapTopicHref(t)) + '" data-topic="' + esc(t.id) + '">' + esc(t.short) + '</a></li>'; }).join('') + '</ul>';
     h += '<ul class="lrow"><li><svg width="24" height="10" viewBox="0 0 24 10" aria-hidden="true"><circle cx="3" cy="5" r="1.4"/><circle cx="10" cy="5" r="2.6"/><circle cx="19.5" cy="5" r="4"/></svg>Name, Sized by Links</li>' +
       '<li><svg width="10" height="10" viewBox="0 0 10 10" aria-hidden="true"><path d="M5 .8 9.2 5 5 9.2.8 5z"/></svg>Check</li></ul>' +
       '<ul class="lrow"><li><i class="lline" aria-hidden="true"></i>Documented Link</li><li><i class="lline dashed" aria-hidden="true"></i>Unverified</li>' +
@@ -2659,12 +2721,89 @@
   function setNav(name) {
     document.querySelectorAll('[data-nav]').forEach(function (a) { if (a.getAttribute('data-nav') === name) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current'); });
   }
+  /* Move to an address made by U(): a hash in the artifact, a path on the site. */
+  function go(href) {
+    if (!SITE) { location.hash = href; return; }
+    if (href !== here()) history.pushState(null, '', href);
+    route(false);
+  }
+  var TITLE = 'Trump Claims Map';
+  function setTitle(h) {   // the site gives every address its own title; the artifact keeps the one it was published with
+    if (!SITE) return;
+    var low = String(h || '').toLowerCase(), m, n, t = '';
+    if (low === 'claims' || low === 'topics') t = 'All Checks';
+    else if (/^topic-/.test(low) && topicById.has(low.slice(6))) t = topicById.get(low.slice(6)).name;
+    else if (low === 'names') t = 'People & Organisations';
+    else if (low === 'method') t = 'How We Checked';
+    else if (low === 'map' || low === 'map-list') t = 'Map';
+    else if (/^map-matrix/.test(low)) t = 'Matrix';
+    else if ((m = /^map-topic-(.+)$/.exec(low)) && topicById.has(m[1])) t = topicById.get(m[1]).name + ' on the Map';
+    else if ((m = /^map-(.+)$/.exec(low)) && (n = byKey.get('e:' + m[1]) || byKey.get(m[1].toUpperCase()) || byHash.get(m[1]))) t = (n.kind === 'entity' ? n.name : n.title || n.name) + ' on the Map';
+    else if ((m = /^name-(.+)$/.exec(low)) && (n = byKey.get('e:' + m[1]))) t = n.name;
+    else if ((n = byKey.get(low.toUpperCase())) && n.kind === 'claim') t = n.title;
+    else if (state.view === 'missing') t = 'Page Not Found';
+    document.title = t ? t + ' · ' + TITLE : TITLE;
+  }
+  /* A check's page needs its sub-claims, sources and report. In the artifact they are already in memory. On the site they
+     are one file per check, fetched when the page is opened; meanwhile the page shows what the core data has. */
+  var detail = { wait: new Map() };
+  function hasDetail(c) { return !c.df || !!c.sub_claims; }
+  function loadDetail(c) {
+    if (hasDetail(c)) return Promise.resolve(c);
+    var p = detail.wait.get(c.id);
+    if (!p) {
+      p = fetch((SITE && SITE.detail || '') + c.df, { credentials: 'same-origin' }).then(function (r) {
+        if (!r.ok) { var err = new Error('HTTP ' + r.status); err.status = r.status; throw err; }
+        return r.json();
+      }).then(function (d) {
+        Object.keys(d).forEach(function (k) { c[k] = d[k]; });
+        if (!c.sub_claims) c.sub_claims = [];
+        return c;
+      });
+      p.catch(function () { detail.wait.delete(c.id); });   // a failed load can be tried again
+      detail.wait.set(c.id, p);
+    }
+    return p;
+  }
+  function claimWaiting(c, failed) {
+    var topic = c.topicRef;
+    page.innerHTML = '<p class="crumb"><a href="' + U('topics') + '">All Checks</a>' + (topic && topic.id !== 'other' ? ' <span aria-hidden="true">/</span> <a href="' + topicHref(topic) + '">' + esc(topic.name) + '</a>' : '') + ' <span aria-hidden="true">/</span> <b>' + (c.ctype === 'connection' ? 'Connection Check ' : 'Check ') + esc(c.id) + '</b></p><article class="article"><div class="lead">' +
+      '<h1 tabindex="-1">' + esc(c.title) + '</h1>' +
+      '<dl class="casefile"><div><dt>Verdict</dt><dd><p class="cv-word v-' + VGROUP[c.verdict] + '">' + mark(c.verdict) + esc(isUnv(c) ? unvText(c) : VLABEL[c.verdict]) + '</p></dd></div>' +
+      '<div><dt>Finding</dt><dd><p class="cf-find">' + rich(firstSentence(c.bottom_line)) + '</p></dd></div></dl>' +
+      (failed ? '<p class="flagbox" role="alert"><strong>The rest of this check did not load.</strong> The connection may have dropped. <button type="button" class="linkbtn" id="detail-retry">Try Again</button></p>'
+        : '<p class="sub" role="status" aria-live="polite">Loading the points, sources and report</p>') +
+      '</div></article>';
+    var b = $('detail-retry');
+    if (b) b.addEventListener('click', function () { openClaim(c, false); });
+  }
+  function openClaim(c, keep) {
+    if (hasDetail(c)) { claimPage(c); return; }
+    var key = state.lastHash;
+    if (keep) page.setAttribute('aria-busy', 'true'); else claimWaiting(c, false);   // keep: the pre-built page for this check is already on screen
+    loadDetail(c).then(function () {
+      page.removeAttribute('aria-busy');
+      if (state.lastHash !== key || state.view !== 'claim') return;   // the reader has moved on
+      var top = keep ? window.scrollY : 0, lead = !keep && (document.activeElement === document.body || page.contains(document.activeElement));
+      claimPage(c);
+      if (top) window.scrollTo(0, top);
+      var h1 = page.querySelector('h1');
+      if (lead && h1) h1.focus({ preventScroll: true });
+    }, function (err) {
+      page.removeAttribute('aria-busy');
+      if (state.lastHash !== key || state.view !== 'claim') return;
+      /* A file that is gone means the site was rebuilt while this tab was open: load the page afresh, with the new file names. */
+      if (!keep && err && err.status === 404) { location.assign(claimHref(c)); return; }
+      claimWaiting(c, true);
+    });
+  }
   function route(initial) {
-    var h = '';
-    try { h = decodeURIComponent(location.hash.replace(/^#/, '')); } catch (e) { h = ''; }
+    var h = readKey();
     if (!initial && h === state.lastHash) return;   // our own update while moving around the map
     state.lastHash = h;
+    var prebuilt = !!(initial && SITE && SITE.prebuilt);   // the page came with its content already in the HTML
     var m, n, low = h.toLowerCase();
+    setTitle(h);
     if (low === 'map' || /^map-/.test(low)) { root.classList.remove('is-home'); setSearchOpen(false); state.view = 'map'; setNav('map'); showMap(h.slice(4)); return; }
     root.classList.remove('is-map', 'has-panel');
     $('mapview').hidden = true; page.hidden = false; $('foot').hidden = false;
@@ -2679,18 +2818,34 @@
     else if (low === 'names') { state.view = 'names'; setNav('names'); browsePage(); }
     else if (low === 'method') { state.view = 'method'; setNav('method'); methodPage(); }
     else if ((m = /^name-(.+)$/.exec(low)) && (n = byKey.get('e:' + m[1]))) { state.view = 'profile'; setNav('names'); profile(n); }
-    else if (/^c\d+[a-z]?$/.test(low) && (n = byKey.get(h.toUpperCase())) && n.kind === 'claim') { state.view = 'claim'; setNav('claims'); claimPage(n); }
+    else if (/^c\d+[a-z]?$/.test(low) && (n = byKey.get(h.toUpperCase())) && n.kind === 'claim') { state.view = 'claim'; setNav('claims'); openClaim(n, prebuilt); }
     else if ((n = byHash.get(low))) {   // addresses from the earlier version of the site
+      if (SITE) { try { history.replaceState(null, '', pageHref(n)); } catch (e) { /* the address is a convenience only */ } state.lastHash = readKey(); setTitle(state.lastHash); }
       if (n.kind === 'entity') { state.view = 'profile'; setNav('names'); profile(n); }
-      else if (n.kind === 'claim') { state.view = 'claim'; setNav('claims'); claimPage(n); }
-      else { state.view = 'map'; setNav('map'); showMap(h); return; }
-    } else { state.view = 'missing'; setNav(''); notFound(h); }
+      else if (n.kind === 'claim') { state.view = 'claim'; setNav('claims'); openClaim(n, false); }
+      else { state.view = 'map'; setNav('map'); showMap(SITE ? mapId(n) : h); return; }
+    } else { state.view = 'missing'; setNav(''); notFound(h); setTitle(h); }
     var t = anchor && $(anchor);
     if (t) { t.scrollIntoView(); if (!initial && t.hasAttribute('tabindex')) t.focus({ preventScroll: true }); } else window.scrollTo(0, 0);
     var h1 = page.querySelector('h1');
     if (h1 && !initial && !anchor) h1.focus({ preventScroll: true });
   }
   window.addEventListener('hashchange', function () { route(false); });
+  if (SITE) {
+    /* Real addresses: links inside the site are followed without a page load, and back and forward route again. */
+    window.addEventListener('popstate', function () { route(false); });
+    document.addEventListener('click', function (e) {
+      if (e.defaultPrevented || e.button || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+      var a = e.target.closest && e.target.closest('a[href]');
+      if (!a || a.target || a.hasAttribute('download')) return;
+      var u;
+      try { u = new URL(a.href, location.href); } catch (err) { return; }
+      if (u.origin !== location.origin || u.pathname.indexOf(BASE) !== 0 || /\.[a-z0-9]+$/i.test(u.pathname)) return;
+      if (u.pathname === location.pathname && (u.hash === '#app' || u.hash === '#')) return;   // the skip link
+      e.preventDefault();
+      go(u.pathname + u.hash);
+    });
+  }
   document.addEventListener('click', function (e) {
     var b = e.target.closest && e.target.closest('[data-unfold],[data-jump]'); if (!b) return;
     if (b.hasAttribute('data-unfold')) {
