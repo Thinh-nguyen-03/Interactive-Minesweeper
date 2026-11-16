@@ -500,15 +500,15 @@
 
     // the leads: three ways in, as plain tables
     var topN = ranked.filter(function (e) { return e.lines.length && e.type !== 'media'; }).slice(0, 8), topMax = topN.length ? topN[0].lines.length : 1;
-    var keyChecks = claims.slice().sort(function (a, b) { return arr(b.sources).length - arr(a.sources).length || cmpClaim(a, b); }).slice(0, 7);
+    var keyChecks = claims.slice().sort(function (a, b) { return arr(b.sources).length - arr(a.sources).length || cmpClaim(a, b); }).slice(0, 8);
     h += '<section class="sec" id="leads" aria-labelledby="leads-h"><div class="sechead"><h2 id="leads-h">Where to Start</h2><p class="secnote">Three ways into the record: by name, by sum and by check.</p></div><div class="leadgrid">' +
-      '<table class="lead-t"><caption>Most Connected Names<span>By documented links to other names</span></caption><thead><tr><th colspan="2">Name</th><th class="numc">Links</th><th class="numc">Checks</th></tr></thead><tbody>' +
+      '<table class="lead-t"><colgroup><col style="width:24px"><col><col style="width:96px"><col style="width:64px"></colgroup><caption>Most Connected Names<span>By documented links to other names</span></caption><thead><tr><th colspan="2">Name</th><th class="numc">Links</th><th class="numc">Checks</th></tr></thead><tbody>' +
       topN.map(function (e, i) { return '<tr><td class="rk">' + (i + 1) + '</td><th scope="row">' + kmark(e) + entLink(e, true) + '</th><td class="numc"><span class="lbar" aria-hidden="true"><i style="width:' + Math.max(4, Math.round(100 * e.lines.length / topMax)) + '%"></i></span>' + num(e.lines.length) + '</td><td class="numc">' + e.cl.length + '</td></tr>'; }).join('') +
       '</tbody></table>' +
-      '<table class="lead-t"><caption>Largest Sums on the Record<span>As the sources state them, one per pair of names</span></caption><thead><tr><th>Sum</th><th>Between</th><th class="numc">Check</th></tr></thead><tbody>' +
-      leadSums().slice(0, 8).map(function (r) { var c = byKey.get(r.claims[0]); return '<tr><td class="amt">' + esc(money(r.amount_usd)) + '</td><th scope="row">' + entLink(r.S, true) + ' <span class="and">and</span> ' + entLink(r.T, true) + '</th><td class="numc">' + (c ? '<a class="cite" href="' + claimHref(c) + '" title="' + esc(c.title) + '">' + esc(c.id) + '</a>' : '') + '</td></tr>'; }).join('') +
+      '<table class="lead-t"><colgroup><col style="width:108px"><col><col style="width:52px"></colgroup><caption>Largest Sums on the Record<span>As the sources state them, one per pair of names</span></caption><thead><tr><th>Sum</th><th>Between</th><th class="numc">Check</th></tr></thead><tbody>' +
+      leadSums().slice(0, 8).map(function (r) { var c = byKey.get(r.claims[0]); return '<tr><td class="amt">' + esc(money(r.amount_usd)) + '</td><th scope="row" title="' + esc(shortName(r.S) + ' and ' + shortName(r.T)) + '">' + entLink(r.S, true) + ' <span class="and">and</span> ' + entLink(r.T, true) + '</th><td class="numc">' + (c ? '<a class="cite" href="' + claimHref(c) + '" title="' + esc(c.title) + '">' + esc(c.id) + '</a>' : '') + '</td></tr>'; }).join('') +
       '</tbody></table>' +
-      '<table class="lead-t"><caption>Most-Sourced Checks<span>The checks that rest on the most sources</span></caption><thead><tr><th>Check</th><th>Verdict</th><th class="numc">Sources</th></tr></thead><tbody>' +
+      '<table class="lead-t"><colgroup><col><col style="width:148px"><col style="width:64px"></colgroup><caption>Most-Sourced Checks<span>The checks that rest on the most sources</span></caption><thead><tr><th>Check</th><th>Verdict</th><th class="numc">Sources</th></tr></thead><tbody>' +
       keyChecks.map(function (c) { return '<tr><th scope="row">' + claimLink(c) + '</th><td class="vd">' + (isUnv(c) ? flag(c) : verdict(c.verdict)) + '</td><td class="numc">' + arr(c.sources).length + '</td></tr>'; }).join('') +
       '</tbody></table></div></section>';
 
@@ -774,7 +774,7 @@
     var h = '<p class="crumb"><a href="#names">People &amp; Organisations</a></p><article class="profile"><header class="phead">' +
       '<div class="titlebar"><h1 tabindex="-1">' + esc(e.name) + '</h1><a class="btn" href="' + mapHref(e) + '">' + MAPICON + 'Show on Map</a></div>' +
       (e.role ? '<p class="role">' + rich(cap(e.role)) + '</p>' : '') +
-      '<p class="facts">' + kmark(e) + esc(TLABEL[e.type]) + (also.length ? ' · Also written as ' + esc(also.join(', ')) : '') + '</p>' +
+      '<p class="facts">' + kmark(e) + esc(TLABEL[e.type]) + (topicTag(e, true) ? ' · ' + topicTag(e, true) : '') + (also.length ? ' · Also written as ' + esc(also.join(', ')) : '') + '</p>' +
       figRow([[num(cls.length), 'Checks That Name ' + it], [num(lines.length), 'Documented Connections'], by.size ? [num(by.size), 'Connected Names'] : null,
         top ? [esc(money(top.amount_usd)), 'Largest Sum on Record'] : null], 'pfigs') +
       '<p class="pnote">Each connection comes from a check and its sources. It records a relationship, not an accusation.' +
@@ -829,6 +829,15 @@
   }
 
   // ------------------------------------------------------------------ browse page
+  /* The topic shown beside a name. A name spread over many topics is not given one: when its leading topic holds under 40% of
+     its checks, or it appears in six or more topics, the line says how many topics instead. full: the topic's whole name. */
+  function topicTag(e, full) {
+    var cnt = e.tcnt && e.tcnt.size ? e.tcnt : (e.tcnt2 || e.tcnt), tot = 0, max = 0;
+    if (cnt) cnt.forEach(function (v) { tot += v; if (v > max) max = v; });
+    if (!e.top || !tot) return '';
+    if (cnt.size > 1 && (max / tot < 0.4 || cnt.size >= 6)) return '<i class="tsw many" aria-hidden="true"></i>' + (cnt.size >= ARCS.length ? 'All Topics' : cnt.size + ' Topics');
+    return '<i class="tsw" style="background:var(--t' + (e.top.ci + 1) + ')" aria-hidden="true"></i>' + esc(full ? e.top.name : e.top.short || e.top.name);
+  }
   var browse = { group: 'person', q: '', sort: 'claims', shown: 60 };
   function browsePage() {
     var counts = {};
@@ -855,7 +864,7 @@
         var ts = topSum(e);
         return '<tr><th scope="row"><a class="t" href="' + entHref(e) + '">' + esc(e.name) + '</a>' + (e.unverified_only ? ' ' + '<span class="flag">Named Only in an Unverified Check</span>' : '') +
           (e.role ? '<p class="line">' + esc(e.role) + '</p>' : '') + '</th><td class="nk">' + kmark(e) + esc(TLABEL[e.type]) + '</td>' +
-          '<td class="nt">' + (e.top ? '<i class="tsw" style="background:var(--t' + (e.top.ci + 1) + ')" aria-hidden="true"></i>' + esc(e.top.short || e.top.name) : '') + '</td>' +
+          '<td class="nt">' + topicTag(e) + '</td>' +
           '<td class="numc" data-u="' + (e.cl.length === 1 ? 'check' : 'checks') + '">' + num(e.cl.length) + '</td><td class="numc" data-u="' + (e.lines.length === 1 ? 'link' : 'links') + '">' + num(e.lines.length) + '</td>' +
           '<td class="numc ns">' + (ts ? esc(money(ts)) : '') + '</td></tr>';
       }).join('') + '</tbody></table>' + (list.length > browse.shown ? '<button class="more" type="button" id="browse-more">' + num(Math.min(120, list.length - browse.shown)) + ' More of ' + num(list.length) + '</button>' : '') :
@@ -1137,7 +1146,7 @@
     else if (map.sel && map.sel.vis) glFace([map.sel], animate);
     else if (map.topicSet) {   // a topic: its lobe faces the reader, drawn large enough to fill the stage comfortably
       var t = map.topicSet.topic, tc = gl.tcen[t.gi], ds = [];
-      q = glFaceQ(tc && tc[3] ? tc : gl.tcap[t.gi] || [0, 0, 1]);
+      q = gl.layPh ? gl.q0.slice() : glFaceQ(tc && tc[3] ? tc : gl.tcap[t.gi] || [0, 0, 1]);   // on a phone every lobe already faces the reader
       if (tc && tc[3]) { nodes.forEach(function (n) { if ((n.kind === 'claim' ? n.topicRef : n.top) === t && n.vis) ds.push(Math.hypot(gl.P[n.gi * 3] - tc[0], gl.P[n.gi * 3 + 1] - tc[1], gl.P[n.gi * 3 + 2] - tc[2])); }); ds.sort(function (a, b) { return a - b; }); }
       zt = ds.length ? Math.max(1, Math.min(2.4, 0.62 / (ds[Math.floor(ds.length * 0.9)] * gl.D / (gl.D - Math.hypot(tc[0], tc[1], tc[2])) + 0.04))) : 1;
     }
@@ -1367,6 +1376,9 @@
     var tStart = performance.now(), rnd = glRand(20261115), K = ARCS.length || 1, i, j, k, hub = map.hub;
     ARCS.forEach(function (t, q) { t.gi = q; });
     gl.tdir = ARCS.map(function (t, q) { var y = 1 - 2 * (q + 0.5) / K, r = Math.sqrt(1 - y * y), a = q * 2.399963 + 0.6; return [r * Math.cos(a), y, r * Math.sin(a)]; });
+    /* On a phone the lobes are set round the hub in one shallow ring that faces the reader, not all round a ball: none stands
+       behind another in the first view, so each reads as its own cluster with dark ground between, and each has room for its name. */
+    if (narrow.matches) gl.tdir = ARCS.map(function (t, q) { var a = -1.5708 + q * 6.2832 / K, z = (q % 2 ? 0.22 : -0.22), r = Math.sqrt(1 - z * z); return [r * Math.cos(a), -r * Math.sin(a), z]; });
     function lean(n) {
       var x = 0, y = 0, z = 0, d;
       if (n.kind === 'claim') { d = n.topicRef && n.topicRef.gi != null ? gl.tdir[n.topicRef.gi] : null; return d ? [d[0], d[1], d[2]] : [0, 0, 0]; }
@@ -1385,7 +1397,7 @@
        evenly: lobes sit closer in, leaves stand on wider shells, and a last pass moves apart any two points that are still too
        close. It is drawn taller than wide, to the shape of the stage. */
     gl.layPh = narrow.matches;
-    if (gl.layPh) { CK = 'tcm-globe-8p'; var LPP = { push: 0.3, lobe: 20, even: 0.48, relLen: 2.5, claimLen: 3.2, hubLeaf: 8.5, leaf: 1.6, leafC: 1.8, leafK: 0.3, leafS: 0.6, cap0: 0.8, cap1: 0.28, gap: 0.145 }; for (var lpp in LPP) LP[lpp] = LPP[lpp]; }
+    if (gl.layPh) { CK = 'tcm-globe-9p'; var LPP = { push: 0.3, lobe: 30, even: 0.22, pull: 0.11, cross: 3.2, relLen: 2.5, claimLen: 3.2, hubLeaf: 8.5, leaf: 1.6, leafC: 1.8, leafK: 0.3, leafS: 0.6, cap0: 0.8, cap1: 0.28, gap: 0.14 }; for (var lpp in LPP) LP[lpp] = LPP[lpp]; }
     if (window.__LP) { for (var lpk in window.__LP) LP[lpk] = window.__LP[lpk]; sig += '|' + JSON.stringify(window.__LP); }   // tests only
     try { var raw = JSON.parse(window.localStorage.getItem(CK) || 'null'); if (raw && raw.sig === sig && raw.p.length === nodes.length * 3) cached = raw.p; } catch (e) { cached = null; }
     if (cached) nodes.forEach(function (n, q) { n.g3 = [cached[q * 3] / 1000, cached[q * 3 + 1] / 1000, cached[q * 3 + 2] / 1000]; });
@@ -1485,8 +1497,9 @@
       n.g3 = [p[0] * k, p[1] * k, p[2] * k];
     });
     if (LP.gap) {   // no two points nearer than a set gap: each close pair is eased apart, a little at a time; the hub stays where it is
-      var dmin = LP.gap * rmax, it, pa, pb, ddx, ddy, ddz, dd, mv, NN = nodes.length;
+      var dmin = LP.gap * rmax, it, pa, pb, ddx, ddy, ddz, dd, mv, NN = nodes.length, tix = nodes.map(function (n) { var t = n.kind === 'claim' ? n.topicRef : n.top; return n === hub ? -2 : t && t.gi != null ? t.gi : -1; });
       for (it = 0; it < 30; it++) for (i = 0; i < NN; i++) { pa = nodes[i].g3; for (j = i + 1; j < NN; j++) {
+        if (tix[i] !== tix[j]) continue;   // only inside a lobe: the space between two lobes is left dark
         pb = nodes[j].g3; ddx = pb[0] - pa[0]; if (ddx > dmin || ddx < -dmin) continue; ddy = pb[1] - pa[1]; if (ddy > dmin || ddy < -dmin) continue; ddz = pb[2] - pa[2];
         dd = Math.sqrt(ddx * ddx + ddy * ddy + ddz * ddz); if (dd >= dmin) continue; if (dd < 1e-6) { ddx = 0.001 * (1 + (i % 3)); ddy = 0.001 * (1 + (j % 3)); ddz = 0.001; dd = Math.hypot(ddx, ddy, ddz); }
         mv = (dmin - dd) / dd * 0.5; var wa = nodes[i] === hub ? 0 : nodes[j] === hub ? 1 : 0.5;
@@ -1558,7 +1571,7 @@
       for (j = 0; j < pts.length; j++) for (k = j + 1; k < pts.length; k++) en += 1 / (Math.pow(pts[j][0] - pts[k][0], 2) + Math.pow(pts[j][1] - pts[k][1], 2) + 0.03);
       if (en < bestE) { bestE = en; bestQ = cq; }
     }
-    gl.q = [1, 0, 0, 0]; gl.q = bestQ || glFaceQ([fx0, fy0, fz0]) || [1, 0, 0, 0]; gl.q0 = gl.q.slice();
+    gl.q = [1, 0, 0, 0]; gl.q = gl.layPh ? [1, 0, 0, 0] : bestQ || glFaceQ([fx0, fy0, fz0]) || [1, 0, 0, 0]; gl.q0 = gl.q.slice();   // the phone's ring of lobes is seen face on
     gl.ok = true; gl.layoutMs = performance.now() - tStart; window.__layoutMs = gl.layoutMs;
   }
   function glRot(v) {   // a point of the layout, turned to the present view: x to the right, y up, z towards the reader
@@ -1838,7 +1851,7 @@
     c.lineWidth = 0.7;
     for (q = 0; q < 120; q++) {
       if (!used[q]) continue;
-      c.fillStyle = glPal(q >> 3); c.globalAlpha = NA[q & 7]; c.beginPath();
+      c.fillStyle = glPal(q >> 3); c.globalAlpha = NA[q & 7] * (ph && (q & 7) === 3 ? 0.6 : ph && (q & 7) === 4 ? 0.85 : 1); c.beginPath();   // on a phone the far side steps well back, so the lobes in front read as clusters
       for (i = 0; i < N; i++) {
         if (nk[i] !== q) continue; n = nodes[i];
         r = n.gr * zr * ss[i] * ss[i] * 0.72 * (emN[i] && em.kind !== 'topic' ? 1.25 : 1); if (r < 0.6) r = 0.6;
@@ -1904,7 +1917,7 @@
       var caps = [], av = gl.av || [0, 0, W, H], gcw = Math.ceil(W / 12) + 1, gch = Math.ceil(H / 12) + 1, occ = gl.occ && gl.occ.length >= gcw * gch ? gl.occ : (gl.occ = new Uint8Array(gcw * gch)), tr, x0c, y0c, okc, j, m, cnt, mem;
       // where the points are, on a coarse grid, with the lobe each belongs to: a name may not be written over another lobe's points
       occ.fill(0);
-      for (i = 0; i < N; i++) { if (nk[i] === 255 || sz[i] < -0.2 || (em && !emN[i])) continue; X = sx[i]; Y = sy[i]; if (X >= 0 && Y >= 0 && X < W && Y < H) occ[((Y / 12) | 0) * gcw + ((X / 12) | 0)] = 1 + nodes[i].gc; }
+      for (i = 0; i < N; i++) { if (nk[i] === 255 || sz[i] < (ph ? 0.12 : -0.2) || (em && !emN[i])) continue;   /* on a phone the far side is drawn very faint and does not count */ X = sx[i]; Y = sy[i]; if (X >= 0 && Y >= 0 && X < W && Y < H) occ[((Y / 12) | 0) * gcw + ((X / 12) | 0)] = 1 + nodes[i].gc; }
       var busy = function (bx0, by0, bx1, by1, own) { var gx, gy, o; for (gy = Math.max(0, (by0 / 12) | 0); gy <= Math.min(gch - 1, (by1 / 12) | 0); gy++) for (gx = Math.max(0, (bx0 / 12) | 0); gx <= Math.min(gcw - 1, (bx1 / 12) | 0); gx++) { o = occ[gy * gcw + gx]; if (o && o !== own + 1) return true; } return false; };
       for (q = 0; q < ARCS.length; q++) {
         var tp = ARCS[q], v = gl.tcen[q]; mem = gl.tmem[q]; if (!v || !v[3] || !mem.length || (nowT && tp.id !== nowT)) continue;
@@ -1935,30 +1948,39 @@
            the rim of the whole ball, in the lobe's direction from the middle, with a fine line to the lobe. Two that want the same
            place are set one after the other along the rim. */
         okc = false;
-        if (cp.far) {
+        var rim = function () {
           var prs = D / Math.sqrt(D * D - 1), ang, cA, sA;
-          for (si = 0; si < 25 && !okc; si++) {
+          for (si = 0; si < (ph ? 80 : 25) && !okc; si++) {
             ang = cp.a + (si % 2 ? 1 : -1) * Math.ceil(si / 2) * 0.06; cA = Math.cos(ang); sA = Math.sin(ang);
             txt = ph || si > 8 ? cp.tp.short : cp.tp.name; tw2 = c.measureText(txt).width;
             x0c = cx + cA * (radx * prs + 8) - (cA > 0.3 ? 0 : cA < -0.3 ? tw2 : tw2 / 2); y0c = cy + sA * (rady * prs + 8) - 8 + sA * 8;
             x0c = Math.max(av[0] + 8, Math.min(av[2] - tw2 - 8, x0c)); y0c = Math.max(av[1] + 6, Math.min(av[3] - 22, y0c));
             okc = !overlaps(placed, x0c - 8, y0c - 5, x0c + tw2 + 8, y0c + 20) && !busy(x0c - 2, y0c, x0c + tw2 + 2, y0c + 15, -5);
           }
-          ledc = true; cp.ex = cp.lx; cp.ey = cp.ly;
-        }
+          ledc = true; cp.ex = cp.lx; cp.ey = cp.ly; cp.rim = true;
+        };
+        if (cp.far) rim();
         for (ni = ph ? 1 : 0; ni < 2 && !okc && !cp.far; ni++) for (ro = 0; ro <= (ni ? 36 : 0) && !okc; ro += 18) for (si = 0; si < SL.length && !okc; si++) { okc = tryAt(ni ? cp.tp.short : cp.tp.name, ro, SL[si], true); ledc = ro > 0; }
         if (!okc && !cp.far) for (si = 0; si < SL2.length && !okc; si++) { okc = tryAt(cp.tp.short, 30, SL2[si], ph); ledc = true; }   // on a phone a name is never written over points
         if (!okc && !cp.far && ph) for (ro = 54; ro <= 90 && !okc; ro += 18) for (si = 0; si < SL2.length && !okc; si++) { okc = tryAt(cp.tp.short, ro, SL2[si], true); ledc = true; }
-        if (!okc) continue;   // on a phone a lobe with no clear ground beside it is named on the row of topics under the map
+        if (!okc && ph) rim();   // on a phone a lobe with no clear ground beside it is named on the rim, like a lobe on the far side
+        if (!okc) continue;
         var tb = [x0c - 4, y0c - 2, x0c + tw2 + 4, y0c + 17, cp.tp], colc = cp.far ? GC.txd[cp.q % 9] : GC.tx[cp.q % 9]; placed.push(tb); boxes.push(tb);
         c.globalAlpha = 0.95; c.lineWidth = 3.4; c.strokeStyle = GC.halo; c.strokeText(txt, x0c, y0c + 7.5);
         c.globalAlpha = 1; c.fillStyle = colc; c.fillText(txt, x0c, y0c + 7.5);
         if (map.hoverTopic === cp.tp || nowT) c.fillRect(x0c, y0c + 16, tw2, 1);
         if (ledc) {   // the line from the name back to its lobe
           var mxc = Math.max(x0c, Math.min(x0c + tw2, cp.ex)), myc = cp.ey > y0c + 8 ? y0c + 18 : y0c - 3;
-          var lxe = cp.ex, lye = cp.ey, lde = Math.hypot(lxe - mxc, lye - myc) || 1, lmax = cp.far ? (ph ? 26 : 1e9) : 1e9;   // on a phone the line to a far lobe is cut to a short tick, so it does not cross the ball
-          if (lde > lmax) { lxe = mxc + (lxe - mxc) / lde * lmax; lye = myc + (lye - myc) / lde * lmax; }
-          c.strokeStyle = colc; c.lineWidth = cp.far ? 0.7 : 1; c.globalAlpha = cp.far ? 0.55 : 0.8; c.beginPath(); c.moveTo(mxc, myc); c.lineTo(lxe, lye); c.stroke();
+          var lxe = cp.ex, lye = cp.ey, lde = Math.hypot(lxe - mxc, lye - myc) || 1, lmax = cp.rim ? (ph ? 26 : 60) : 1e9, cut = lde > lmax;
+          /* A line from the rim never runs to the middle of the ball: it is at most a short stroke that fades out towards the
+             lobe, and a lobe that lies right behind the middle gets no line at all; its quieter tone says it is behind. */
+          if (cp.rim && lde > 0.8 * Math.min(radx, rady)) lmax = 0;
+          if (cut) { lxe = mxc + (lxe - mxc) / lde * lmax; lye = myc + (lye - myc) / lde * lmax; }
+          if (lmax > 0) {
+            var fxe = cut ? mxc + (lxe - mxc) * 0.6 : lxe, fye = cut ? myc + (lye - myc) * 0.6 : lye;
+            c.strokeStyle = colc; c.lineWidth = cp.rim ? 0.8 : 1; c.globalAlpha = cp.rim ? 0.6 : 0.8; c.beginPath(); c.moveTo(mxc, myc); c.lineTo(fxe, fye); c.stroke();
+            if (cut) { c.globalAlpha = 0.22; c.beginPath(); c.moveTo(fxe, fye); c.lineTo(lxe, lye); c.stroke(); }
+          }
         }
       }
     }
@@ -2317,7 +2339,7 @@
           return '<li data-hov="' + esc(o.key) + '"><span class="when">' + esc(fdate(String(r.date).split('/')[0])) + '</span><span class="sumsay">' + esc(cap(plainSentence(r))) + '</span>' + cites(r.claims.slice(0, 1)) + '</li>';
         }), 5, 'Dated Links', 'ol', 'pchecks ptl');
         if (n.cl.length) body += '<h3>Checks That Mention ' + (n.group === 'person' ? 'Them' : 'It') + ' <span class="cnt">' + n.cl.length + '</span></h3>' + fold(n.cl.map(function (c) { return '<li data-hov="' + esc(c.key) + '">' + kmark(c) + nodeBtn(c, c.title) + '<a class="cite" href="' + claimHref(c) + '" title="Open the check">' + esc(c.id) + '</a></li>'; }), 6, 'Checks', 'ul', 'pchecks');
-        h = panelShell(kmark(n) + esc(TLABEL[n.type]) + (n.top && n !== map.hub ? ' · <span class="tsw" style="background:var(--t' + (n.top.ci + 1) + ')" aria-hidden="true"></span>' + esc(n.top.name) : ''), esc(n.name), body, acts);
+        h = panelShell(kmark(n) + esc(TLABEL[n.type]) + (topicTag(n, true) ? ' · ' + topicTag(n, true) : ''), esc(n.name), body, acts);
       } else if (n.kind === 'claim') {
         body = (isUnv(n) ? '<p class="pflag">' + mark('unverified') + 'Denied by everyone named and not corroborated</p>' : '') + '<p class="prole">' + rich(firstSentence(n.bottom_line)) + '</p>' +
           '<p class="ptally">' + bar(n.tally || [], 'mini') + esc(tallyText(n)) + '</p>';

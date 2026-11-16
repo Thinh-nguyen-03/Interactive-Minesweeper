@@ -511,3 +511,18 @@ thead th, .ctable thead th, .ctable thead .srcc, thead th.numc, .ctable thead th
 .hud dt, .map-legend, .panel-meta, .prow .p3, .prow .pfig, .map-panel .cnt, .map-list .cnt, .map-panel h4, .ptl .when, .steps .p3, .mx-gt, .mx-side h3 span, .mxd-who span, .mxd-checks .id, .mxd-rank .n, .mxd-ev .when, .mxd-ev .meta, .mxd-kinds, .row .meta, .srcs, .tk, .pt-side .nsrc, .figkey, .mxd-stats dt, .mxd-stats small, .mxd-how.sub, .mxd-flag { font-size: 13.5px; }
 /* one table head style everywhere */
 .lead-t thead th, .found thead th, .ctable thead th, .ntable thead th, .lead-t thead th.numc, .found thead th.numc, .ctable thead th.numc, .ntable thead th.numc { font-size: 13px; font-weight: 500; letter-spacing: 0; color: var(--ink2); }
+/* a name spread over many topics gets a neutral mark, not one topic's colour */
+.tsw.many { background: repeating-linear-gradient(90deg, var(--rule2) 0 3px, transparent 3px 5px); }
+.facts .tsw { display: inline-block; margin-right: 7px; vertical-align: middle; }
+/* the leads tables: fixed columns, one line a row, so the three end together */
+.lead-t { table-layout: fixed; }
+.lead-t tbody th, .lead-t tbody td { height: 41px; padding-top: 0; padding-bottom: 0; vertical-align: middle; white-space: nowrap; }
+.lead-t tbody th { overflow: hidden; text-overflow: ellipsis; }
+.lead-t .vd .v, .lead-t .vd .flag { font-size: 13.5px; }
+@media (max-width: 760px) { .lead-t tbody th { white-space: normal; } .lead-t tbody th, .lead-t tbody td { height: auto; padding-top: 9px; padding-bottom: 9px; } }
+.leadgrid { grid-template-columns: minmax(0, 1.1fr) minmax(0, 1.15fr) minmax(0, 1.55fr); gap: 0 36px; }
+@media (max-width: 1180px) { .leadgrid { grid-template-columns: 1fr 1fr; gap: 32px 40px; } }
+@media (max-width: 760px) { .leadgrid { grid-template-columns: 1fr; gap: 30px; } }
+.leadgrid { grid-template-columns: minmax(0, .95fr) minmax(0, 1.35fr) minmax(0, 1.5fr); }
+@media (max-width: 1180px) { .leadgrid { grid-template-columns: 1fr 1fr; } }
+@media (max-width: 760px) { .leadgrid { grid-template-columns: 1fr; } .figrow > div, .methodfigs > div, .pfigs > div { border-right: 0; margin-right: 22px; padding-right: 0; } }
