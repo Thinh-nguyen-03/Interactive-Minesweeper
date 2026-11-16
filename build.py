@@ -1946,7 +1946,7 @@ def write_vault(graph, neigh, key_of):
     tl = m["tally"]
     holds = tl.get("confirmed", 0) + tl.get("mostly-accurate", 0)
     home = [frontmatter({"kind": "index", "tags": ["index"]}),
-            "# Trump Claims Map\n",
+            "# The Trump Connection\n",
             "A tool for looking into Donald Trump, his family, his cabinet and administration, and the business, "
             "financial and political connections around them.\n",
             f"It holds {m['claims']} checks of claims in public circulation, {m['entities']:,} people and organisations, "

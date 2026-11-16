@@ -4,7 +4,7 @@
 # into a core file and one detail file per check, and every asset named by its content hash.
 services:
   - type: web
-    name: trump-claims-map
+    name: trump-connection
     runtime: static
     buildCommand: node make_site.mjs
     staticPublishPath: ./site

@@ -3,7 +3,7 @@ kind: "index"
 tags:
   - "index"
 ---
-# Trump Claims Map
+# The Trump Connection
 
 A tool for looking into Donald Trump, his family, his cabinet and administration, and the business, financial and political connections around them.
 

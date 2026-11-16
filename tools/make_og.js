@@ -22,7 +22,7 @@ const OUT = path.resolve(__dirname, '..', 'static', 'og.png');
     const logo = document.querySelector('.site .logo').outerHTML, n = window.GRAPH.nodes;
     const names = n.filter(x => x.kind === 'entity').length, checks = n.filter(x => x.kind === 'claim').length;
     const d = document.createElement('div'); d.id = 'og';
-    d.innerHTML = '<div class="b">' + logo + '<span>Trump Claims Map</span></div><h1>The Money, the Deals &amp; the Connections</h1>' +
+    d.innerHTML = '<div class="b">' + logo + '<span>The Trump Connection</span></div><h1>The Money, the Deals &amp; the Connections</h1>' +
       '<p>' + checks + ' checks of public claims, ' + names.toLocaleString('en-US') + ' names and the documented links between them.</p>';
     document.body.appendChild(d);
     document.documentElement.classList.remove('has-panel');

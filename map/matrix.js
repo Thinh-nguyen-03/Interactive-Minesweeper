@@ -1,4 +1,4 @@
-/* Trump Claims Map: the Matrix workspace.
+/* The Trump Connection: the Matrix workspace.
    An adjacency heatmap for reading who is linked to whom. Three zones: the names in the view (left rail, which is also the row axis),
    the heatmap on canvas (centre), and a case file (right). app.js hands over its data and helpers through TCMMatrix.init(). */
 (function () {

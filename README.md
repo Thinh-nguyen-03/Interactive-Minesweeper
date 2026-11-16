@@ -1,4 +1,4 @@
-# Trump Claims Map
+# The Trump Connection
 
 A tool for looking deeper into Donald Trump, his family, his cabinet and administration, and the business, financial and political connections around them. It is presented as a website with a page for every check, a profile for every person and organisation, and an interactive map of how they connect.
 

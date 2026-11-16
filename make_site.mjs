@@ -25,7 +25,7 @@ const ROOT = path.dirname(fileURLToPath(import.meta.url));
 const SRC = path.join(ROOT, 'map'), OUT = path.join(ROOT, 'site'), STATIC = path.join(ROOT, 'static');
 const BASE = ('/' + String(process.env.SITE_BASE || '/').replace(/^\/+|\/+$/g, '') + '/').replace(/\/+/g, '/');
 const ORIGIN = String(process.env.SITE_URL || process.env.RENDER_EXTERNAL_URL || '').trim().replace(/\/+$/, '');
-const SITE_NAME = 'Trump Claims Map';
+const SITE_NAME = 'The Trump Connection';
 const DESCRIPTION = 'Checks of claims about the business, financial and political dealings of Donald Trump, his family and his administration, with a profile for every name and a map of the documented links between them.';
 const STANDING = '<p class="pre-note"><strong>Everyone named denies wrongdoing, and nothing here is an accusation of a crime.</strong> A link between two names means a documented relationship, or that both appear in the same check. It does not show that one caused the other.</p>';
 
@@ -374,7 +374,7 @@ const ogFile = path.join(STATIC, 'og.png');
 const OG = fs.existsSync(ogFile) ? asset('og', 'png', fs.readFileSync(ogFile)) : '';
 if (!OG) console.warn('warning: static/og.png is missing, so pages get no preview image. Run: node tools/make_og.js');
 const MANIFEST = asset('site', 'webmanifest', JSON.stringify({
-  name: SITE_NAME, short_name: 'Claims Map', description: DESCRIPTION, start_url: BASE, scope: BASE, display: 'minimal-ui',
+  name: SITE_NAME, short_name: 'Trump Connection', description: DESCRIPTION, start_url: BASE, scope: BASE, display: 'minimal-ui',
   background_color: '#0c1016', theme_color: '#0c1016', icons: [{ src: ICON, sizes: 'any', type: 'image/svg+xml', purpose: 'any' }]
 }, null, 1));
 /* Runs before the page is drawn: tells app.js it is on the site (paths, not hashes) and applies a saved theme.
@@ -409,7 +409,7 @@ function writePage(p) {
     '<meta property="og:title" content="' + esc(p.title.replace(' · ' + SITE_NAME, '')) + '">',
     '<meta property="og:description" content="' + esc(p.description) + '">',
     url && !p.noindex ? '<meta property="og:url" content="' + esc(url) + '">' : '',
-    img ? '<meta property="og:image" content="' + esc(img) + '">\n<meta property="og:image:width" content="1200">\n<meta property="og:image:height" content="630">\n<meta property="og:image:alt" content="A network of names joined by lines, with the words Trump Claims Map">' : '',
+    img ? '<meta property="og:image" content="' + esc(img) + '">\n<meta property="og:image:width" content="1200">\n<meta property="og:image:height" content="630">\n<meta property="og:image:alt" content="A network of names joined by lines, with the words The Trump Connection">' : '',
     '<meta name="twitter:card" content="' + (img ? 'summary_large_image' : 'summary') + '">',
     '<meta name="twitter:title" content="' + esc(p.title.replace(' · ' + SITE_NAME, '')) + '">',
     '<meta name="twitter:description" content="' + esc(p.description) + '">',
