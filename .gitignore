@@ -1,3 +1,9 @@
 __pycache__/
 cook/refs/raw/
 cook/refs/*.png
+
+# Third-party reference screenshots: local working reference only, never commit or publish
+cook/refs/raw/
+cook/refs/*.png
+cook/compare/
+site/

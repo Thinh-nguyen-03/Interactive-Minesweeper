@@ -1299,7 +1299,7 @@ def date_key(d):
 RING = 1600
 RING_GAP = 3.2          # empty slots between two topic arcs
 LAYOUT_CACHE = ROOT / ".layout-cache.json"
-LAYOUT_VERSION = 12
+LAYOUT_VERSION = 15
 
 
 def layout_pairs(graph):
@@ -1373,7 +1373,7 @@ def compute_layout(graph):
         mx = sum(targets[j][0] for j in cl) / len(cl) / RING
         my = sum(targets[j][1] for j in cl) / len(cl) / RING
         m = math.hypot(mx, my) or 1e-6
-        rho = 0.06 + 0.76 * m ** 1.25 - 0.16 * math.log(1 + deg[i]) / math.log(1 + max_deg) * m
+        rho = 0.10 + 0.82 * m ** 0.85 - 0.17 * math.log(1 + deg[i]) / math.log(1 + max_deg) * m
         if kind[i] == "theme":
             rho *= 0.7
         tx[i], ty[i] = mx / m * rho * RING, my / m * rho * RING
@@ -1406,19 +1406,20 @@ def compute_layout(graph):
     ranked = sorted((i for i in free if kind[i] == "entity"), key=lambda i: (-deg[i], nodes[i]["key"]))
     key_pad = {}
     for r, i in enumerate(ranked[:150]):
-        key_pad[i] = (250.0, 92.0) if r < 34 else (200.0, 74.0) if r < 70 else (110.0, 44.0)
+        key_pad[i] = (330.0, 120.0) if r < 36 else (230.0, 84.0) if r < 70 else (120.0, 46.0)
     keys = sorted(key_pad)
     pad = [0.0] * n
     for i in free:
         pad[i] = 13.0 + 1.6 * math.sqrt(deg[i])
     cell = 2 * max(pad[i] for i in free)
-    limit = RING - 190
+    limit = RING - 160
 
     for tick in range(170):
         pull = 0.10 if tick < 120 else 0.05
         for i in free:
-            x[i] += (tx[i] - x[i]) * pull
-            y[i] += (ty[i] - y[i]) * pull
+            f = pull * 0.22 if i in key_pad else pull     # labelled names give way to one another more readily
+            x[i] += (tx[i] - x[i]) * f
+            y[i] += (ty[i] - y[i]) * f
         grid = defaultdict(list)
         for i in free:
             grid[(int(x[i] // cell), int(y[i] // cell))].append(i)

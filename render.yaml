@@ -1,0 +1,58 @@
+# Render blueprint: a static site, no server and no database.
+# The data is built into map/graph-data.js by build.py and committed. The host runs make_site.mjs
+# (Node, standard library only), which writes site/: one pre-built page per address, the data split
+# into a core file and one detail file per check, and every asset named by its content hash.
+services:
+  - type: web
+    name: trump-claims-map
+    runtime: static
+    buildCommand: node make_site.mjs
+    staticPublishPath: ./site
+    envVars:
+      - key: NODE_VERSION          # also pinned in .node-version; make_site.mjs needs 18 or later
+        value: 22.12.0
+      # The public address, for canonical links, og:url, og:image and sitemap.xml. Without it the
+      # build uses RENDER_EXTERNAL_URL (the onrender.com address). Set it once a custom domain is live.
+      # - key: SITE_URL
+      #   value: https://example.org
+    # No rewrite rules on purpose: every address has its own index.html, and anything else must
+    # answer 404 with 404.html. A catch-all rewrite to /index.html would turn every miss into a 200.
+    headers:
+      - path: /*
+        name: X-Content-Type-Options
+        value: nosniff
+      - path: /*
+        name: Referrer-Policy
+        value: strict-origin-when-cross-origin
+      - path: /*
+        name: X-Frame-Options
+        value: DENY
+      # Scripts and data only from this site (no inline script: the start-up code is a file).
+      # Inline style attributes are used throughout the interface, and the fonts come from Google Fonts.
+      - path: /*
+        name: Content-Security-Policy
+        value: "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self'; manifest-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"
+      # Everything under /assets/ has its content hash in its name, so it can be kept for a year.
+      - path: /assets/*
+        name: Cache-Control
+        value: public, max-age=31536000, immutable
+      # Pages are always revalidated, so a new deploy (new hashed names) is picked up at once.
+      # These paths do not overlap with /assets/*.
+      - path: /
+        name: Cache-Control
+        value: public, max-age=0, must-revalidate
+      - path: /checks/*
+        name: Cache-Control
+        value: public, max-age=0, must-revalidate
+      - path: /names/*
+        name: Cache-Control
+        value: public, max-age=0, must-revalidate
+      - path: /method/*
+        name: Cache-Control
+        value: public, max-age=0, must-revalidate
+      - path: /map/*
+        name: Cache-Control
+        value: public, max-age=0, must-revalidate
+      - path: /404.html
+        name: Cache-Control
+        value: public, max-age=0, must-revalidate

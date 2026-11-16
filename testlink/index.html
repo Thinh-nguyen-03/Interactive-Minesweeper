@@ -1,0 +1,137 @@
+<title>Claims Map Test</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&family=IBM+Plex+Sans+Condensed:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="matrix.css">
+<link rel="stylesheet" href="ui.css">
+
+<a class="skip" href="#app">Skip to the Content</a>
+
+<header class="top">
+  <div class="wrap top-in">
+    <a class="site" href="#home" id="site-name">
+      <svg class="logo" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 14.5 18.5 5.5M9 14.5l10.5 4.25M9 14.5 3.75 5" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/><circle cx="9" cy="14.5" r="4.5" fill="currentColor"/><circle class="lit" cx="18.5" cy="5.5" r="2.75"/><circle cx="19.5" cy="18.75" r="2" fill="currentColor"/><circle cx="3.75" cy="5" r="1.75" fill="currentColor"/></svg>
+      <span>Trump Claims Map</span>
+    </a>
+    <nav class="nav" aria-label="Main">
+      <a href="#claims" data-nav="claims">Checks</a>
+      <a href="#names" data-nav="names" aria-label="People &amp; Organisations">People<span class="wide"> &amp; Organisations</span></a>
+      <a href="#map" data-nav="map">Map</a>
+      <a href="#method" data-nav="method">How We Checked</a>
+    </nav>
+    <button type="button" class="iconbtn" id="search-toggle" aria-label="Search names and checks" aria-expanded="false" aria-controls="search">
+      <svg class="ic" viewBox="0 0 16 16" aria-hidden="true"><circle cx="7" cy="7" r="4.25"/><path d="M10.2 10.2 13.5 13.5"/></svg>
+    </button>
+    <div class="search" role="search">
+      <svg class="ic" viewBox="0 0 16 16" aria-hidden="true"><circle cx="7" cy="7" r="4.25"/><path d="M10.2 10.2 13.5 13.5"/></svg>
+      <label class="sr" for="search">Search names and checks</label>
+      <input id="search" type="search" placeholder="Search names and checks" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="search-results" aria-autocomplete="list">
+      <ul class="results" id="search-results" role="listbox" hidden></ul>
+    </div>
+    <div class="themesw" id="theme" role="group" aria-label="Theme">
+      <button type="button" data-theme-opt="light" data-tip="Light" aria-label="Light theme" aria-pressed="false">
+        <svg class="ic" viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="2.75"/><path d="M8 1.75v1.5M8 12.75v1.5M1.75 8h1.5M12.75 8h1.5M3.6 3.6l1.05 1.05M11.35 11.35l1.05 1.05M3.6 12.4l1.05-1.05M11.35 4.65l1.05-1.05"/></svg>
+      </button>
+      <button type="button" data-theme-opt="dark" data-tip="Dark" aria-label="Dark theme" aria-pressed="false">
+        <svg class="ic" viewBox="0 0 16 16" aria-hidden="true"><path d="M13.25 9.4A5.75 5.75 0 0 1 6.6 2.75a5.75 5.75 0 1 0 6.65 6.65z"/></svg>
+      </button>
+      <button type="button" data-theme-opt="system" data-tip="System" aria-label="System theme" aria-pressed="true">
+        <svg class="ic" viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="5.75"/><path class="f" d="M8 2.25a5.75 5.75 0 0 1 0 11.5z"/></svg>
+      </button>
+    </div>
+    <button type="button" class="iconbtn" id="theme-cycle"></button>
+  </div>
+</header>
+
+<main id="app" tabindex="-1">
+  <div id="page" class="wrap"></div>
+
+  <section id="mapview" class="mapview" aria-label="Map of every check, name and connection" hidden>
+    <div class="map-bar">
+      <div class="seg" role="group" aria-label="View">
+        <button type="button" data-view="network" aria-pressed="true"><span class="wide">Network</span><span class="narrow">Map</span></button>
+        <button type="button" data-view="list" class="only-narrow" aria-pressed="false">List</button>
+        <button type="button" data-view="matrix" aria-pressed="false">Matrix</button>
+      </div>
+      <div class="opt" id="detail-sw" role="group" aria-labelledby="lab-detail">
+        <span class="opt-lab" id="lab-detail">Labels</span>
+        <button type="button" data-level="0" aria-pressed="true">Key Names</button>
+        <button type="button" data-level="1" aria-pressed="false">More</button>
+        <button type="button" data-level="2" aria-pressed="false">Everything</button>
+      </div>
+      <div class="opt" id="color-sw" role="group" aria-labelledby="lab-color">
+        <span class="opt-lab" id="lab-color">Colour By</span>
+        <button type="button" data-color="topic" aria-pressed="true">Topic</button>
+        <button type="button" data-color="kind" aria-pressed="false">Kind</button>
+      </div>
+      <div class="opt" id="matrix-sw" role="group" aria-labelledby="lab-cols" hidden>
+        <span class="opt-lab" id="lab-cols">Columns</span>
+        <button type="button" data-mx="names" aria-pressed="true">Names</button>
+        <button type="button" data-mx="topics" aria-pressed="false">Topics</button>
+      </div>
+      <div class="opt" id="matrix-order" role="group" aria-labelledby="lab-order" hidden>
+        <span class="opt-lab" id="lab-order">Order</span>
+        <button type="button" data-mxo="group" aria-pressed="true">Cluster</button>
+        <button type="button" data-mxo="connected" aria-pressed="false">Most Connected</button>
+        <button type="button" data-mxo="alpha" aria-pressed="false">A to Z</button>
+      </div>
+      <button type="button" class="btn barbtn" id="tools-toggle" aria-expanded="false" aria-controls="tools-body">
+        <svg class="ic" viewBox="0 0 16 16" aria-hidden="true"><path d="M2.5 4.25h11M4.5 8h7M6.5 11.75h3"/></svg>
+        <span>Filters</span><span class="count" id="filter-count" hidden></span>
+      </button>
+      <form class="tools-body" id="tools-body" aria-label="Filters" hidden></form>
+    </div>
+
+    <div class="map-stage" id="map-stage">
+      <canvas id="graph" tabindex="0" role="img" aria-label="Globe of every name and check, placed by the documented links between them. Names that share many links sit together and the most connected sit towards the middle, with Donald Trump at the core. Drag to turn the globe, scroll or pinch to zoom, arrow keys to turn, plus and minus to zoom, zero to reset. Select a name to light its links and read them in the panel. The list view and the Checks and People and Organisations pages give the same content as text."></canvas>
+      <p class="map-loading" id="map-loading">Drawing the map</p>
+      <div class="hud" id="hud" aria-label="What the globe shows now"></div>
+      <div class="map-legend" id="legend" aria-label="Key to the marks"></div>
+      <div class="map-banner" id="banner" role="status" hidden></div>
+      <div class="tip" id="tip" hidden></div>
+      <p class="map-hint" id="focus-note" hidden></p>
+      <button type="button" class="map-key" id="key-toggle" aria-expanded="false" aria-controls="legend">Key</button>
+      <div class="map-zoom" id="map-zoom" role="group" aria-label="Map controls">
+        <button type="button" id="zoom-in" aria-label="Zoom in" title="Zoom In"><svg class="ic" viewBox="0 0 16 16" aria-hidden="true"><path d="M8 3.25v9.5M3.25 8h9.5"/></svg></button>
+        <button type="button" id="zoom-out" aria-label="Zoom out" title="Zoom Out"><svg class="ic" viewBox="0 0 16 16" aria-hidden="true"><path d="M3.25 8h9.5"/></svg></button>
+        <button type="button" id="zoom-fit" aria-label="Show the whole map" title="Show the Whole Map">
+          <svg class="ic" viewBox="0 0 16 16" aria-hidden="true"><path d="M2.75 6V2.75H6M10 2.75h3.25V6M13.25 10v3.25H10M6 13.25H2.75V10"/></svg>
+        </button>
+      </div>
+      <aside class="map-panel" id="panel" aria-label="About the map" hidden></aside>
+    </div>
+    <div class="chips" id="topic-chips" role="group" aria-label="Topics"></div>
+    <div class="map-list" id="map-list" hidden></div>
+
+    <div class="matrix" id="matrix" hidden>
+      <div class="mx-rail" id="mx-rail">
+        <div class="mx-railtop">
+          <label class="sr" for="mx-filter">Find a name in the view</label>
+          <input type="search" id="mx-filter" placeholder="Find a name in the view" autocomplete="off" spellcheck="false">
+          <div class="mx-groups" id="mx-groups" role="group" aria-label="Groups shown"></div>
+        </div>
+        <div class="mx-rows" id="mx-rows" role="group" aria-label="Names in the view"></div>
+      </div>
+      <div class="mx-main">
+        <div class="mx-plot" id="mx-plot"><canvas id="mx-canvas" tabindex="0" role="img"></canvas></div>
+        <div class="mx-phone" id="mx-phone"></div>
+      </div>
+      <aside class="mx-side" id="mx-side" aria-label="Case file"></aside>
+      <div class="mx-strip"><p class="mx-read" id="mx-read" role="status"></p><p class="mx-key" id="mx-key"></p></div>
+    </div>
+
+    <p class="map-note" id="map-note"><span class="note-hint" id="note-hint"></span><strong>Everyone named denies wrongdoing.</strong> <span class="wide">Nothing here is an accusation of a crime. A line is a documented link between two names, not proof that one caused the other.</span><span class="narrow">A line is a documented link, not an accusation.</span></p>
+  </section>
+</main>
+
+<footer class="foot" id="foot">
+  <div class="wrap">
+    <p class="foot-note">Everyone named denies wrongdoing, and nothing here is an accusation of a crime. A link between two names means a documented relationship, or that both appear in the same check. It does not show that one caused the other.</p>
+    <p id="foot-meta"></p>
+  </div>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script src="graph-data.js"></script>
+<script src="matrix.js"></script>
+<script src="app.js"></script>
