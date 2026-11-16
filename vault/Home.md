@@ -7,7 +7,7 @@ tags:
 
 A tool for looking into Donald Trump, his family, his cabinet and administration, and the business, financial and political connections around them.
 
-It holds 103 checks of claims in public circulation, 1,391 people and organisations, and 3,121 documented relationships between them. Each check was tested against news reports, filings and official records. 88 of the 103 checks came out confirmed or mostly accurate. Open the graph view to explore.
+It holds 103 checks of claims in public circulation, 1,392 people and organisations, and 3,121 documented relationships between them. Each check was tested against news reports, filings and official records. 88 of the 103 checks came out confirmed or mostly accurate. Open the graph view to explore.
 
 Everyone named denies wrongdoing. Nothing here is an accusation of a crime. A link between two names is a documented relationship, not proof that one caused the other.
 
@@ -220,7 +220,7 @@ Technology and media companies that made payments, settlements or donations whil
 
 ## Most Connected
 
-- [[Donald Trump]] (101 checks, 328 connections)
+- [[Donald Trump]] (101 checks, 329 connections)
 - [[World Liberty Financial]] (50 checks, 128 connections)
 - [[White House Trump administration]] (66 checks, 113 connections)
 - [[Securities and Exchange Commission]] (37 checks, 105 connections)

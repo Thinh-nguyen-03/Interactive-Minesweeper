@@ -26,6 +26,7 @@
     if (low === 'claims' || low === 'topics') return BASE + 'checks/';
     if (low === 'names') return BASE + 'names/';
     if (low === 'method') return BASE + 'method/';
+    if (low === 'balance') return BASE + 'balance/';
     if (/^topic-./.test(low)) return BASE + 'checks/#' + low;
     if ((m = /^name-(.+)$/.exec(low))) return BASE + 'names/' + encodeURIComponent(m[1]) + '/';
     if (/^c\d+[a-z]?$/.test(low)) return BASE + 'checks/' + key.toUpperCase() + '/';
@@ -61,6 +62,7 @@
     if (seg[0] === 'names' && seg.length === 1) return 'names';
     if (seg[0] === 'names' && seg.length === 2) return 'name-' + seg[1];
     if (seg[0] === 'method' && seg.length === 1) return 'method';
+    if (seg[0] === 'balance' && seg.length === 1) return 'balance';
     if (seg[0] === 'map' && seg.length === 1) return hash ? 'map-' + hash : 'map';
     if (seg[0] === 'map' && seg[1] === 'matrix' && seg.length === 2) return hash === 'topics' ? 'map-matrix-topics' : 'map-matrix';
     if (seg[0] === 'map' && seg[1] === 'topic' && seg.length === 3) return 'map-topic-' + seg[2];
@@ -260,7 +262,7 @@
   }
   // running text from the research files: escape it, and turn item codes (C37) into named links
   function rich(text) {
-    return esc(text).replace(/\bC(\d{2})\b/g, function (m) {
+    return esc(text).replace(/\bC(\d{2,3})\b(?!-\d)/g, function (m) {
       var c = byKey.get(m);
       return c ? claimLink(c, '“' + esc(c.title) + '”') : 'another check';
     });
@@ -562,7 +564,7 @@
     // the leads: three ways in, as plain tables
     var topN = ranked.filter(function (e) { return e.lines.length && e.type !== 'media'; }).slice(0, 8), topMax = topN.length ? topN[0].lines.length : 1;
     var keyChecks = claims.slice().sort(function (a, b) { return nSources(b) - nSources(a) || cmpClaim(a, b); }).slice(0, 8);
-    h += '<section class="sec" id="leads" aria-labelledby="leads-h"><div class="sechead"><h2 id="leads-h">Where to Start</h2></div><div class="leadgrid">' +
+    h += '<section class="sec" id="leads" aria-labelledby="leads-h"><div class="sechead"><h2 id="leads-h">Where to Start</h2>' + (LEDGER_ON ? '<a class="seclink" href="' + U('balance') + '">See the Balance Sheet</a>' : '') + '</div><div class="leadgrid">' +
       '<table class="lead-t"><colgroup><col style="width:24px"><col><col style="width:56px"><col style="width:60px"></colgroup><caption>Most Connected Names<span>By documented links</span></caption><thead><tr><th colspan="2">Name</th><th class="numc">Links</th><th class="numc">Checks</th></tr></thead><tbody>' +
       topN.map(function (e, i) { return '<tr><td class="rk">' + (i + 1) + '</td><th scope="row">' + kmark(e) + entLink(e, true) + '</th><td class="numc"><span class="lbar" aria-hidden="true"><i style="width:' + Math.max(4, Math.round(100 * e.lines.length / topMax)) + '%"></i></span>' + num(e.lines.length) + '</td><td class="numc">' + e.cl.length + '</td></tr>'; }).join('') +
       '</tbody></table>' +
@@ -659,6 +661,7 @@
       '<p class="dateline prov"><span>' + [plural(nsrc, 'source'), plural(tot, 'point'), CONF[c.confidence] ? CONF[c.confidence] + ' confidence' : '', c.single_source ? 'One source' : '',
         c.audit && AUDIT[c.audit.result] ? 'Second review: ' + AUDIT[c.audit.result].toLowerCase() : c.audit ? 'Second review done' : 'No second review yet'].filter(Boolean).join(' · ') + '</span>' +
       '<a class="maplink" href="' + mapHref(c) + '">' + MAPICON + 'Show on Map</a></p>';
+    if (c.ledger_rows && LEDGER_ON) h += balanceNote(c);
     if (isUnv(c)) h += note('unv', '<strong>' + esc(unvText(c)) + '.</strong> The allegation ' + (c.single_source ? 'rests on one source and ' : '') + 'has not been corroborated. Everyone named denies it. This page records an allegation, not a finding.');
     var cp = arr(c.question_points).map(cap);
     if (!cp.length) cp = [c.title];
@@ -707,8 +710,8 @@
       h += '<section>' + secHead('fixes', 'part', 'v-part', 'What Needs Correcting', plural(fixes.length, 'Point'));
       var fx = fixes.filter(function (x) { return x.fix != null; }).map(function (x) {
         var pr = arr(c.correction_pairs)[x.fix], text = c.corrections[x.fix];
-        if (pr) return '<div class="fix"><p><span class="lab">Claimed</span>' + rich(pr.said) + '</p><p class="rec"><span class="lab">The Record Shows</span>' + rich(cap(pr.record)) + '</p></div>';
-        return '<div class="fix one"><p class="rec"><span class="lab">Correction</span>' + rich(text) + '</p></div>';
+        if (pr) return '<div class="fix"><p><span class="lab">Claimed</span><span>' + rich(pr.said) + '</span></p><p class="rec"><span class="lab">The Record Shows</span><span>' + rich(cap(pr.record)) + '</span></p></div>';
+        return '<div class="fix one"><p class="rec"><span class="lab">Correction</span><span>' + rich(text) + '</span></p></div>';
       });
       var fs = fixes.filter(function (x) { return x.sub != null; }).map(function (x) { return subItem(c, subs[x.sub], x.sub + 1); });
       if (fx.length) h += fold(fx, 12, 'Corrections', 'div');
@@ -975,9 +978,130 @@
       '</div></div></div>';
     spy();
   }
+  // ------------------------------------------------------------------ the balance sheet
+  /* The page is written in data/balance-sheet.json and resolved by build.py: every amount arrives already computed from
+     named ledger rows (G.ledger.sheet). This only lays it out. In the artifact the ledger is in memory; on the site it is
+     one file, fetched when the page is opened, and the pre-built page stays on screen until it arrives. */
+  var LEDGER_ON = !!(G.ledger || (SITE && SITE.ledger) || (META.ledger && META.ledger.rows));
+  var ledger = { wait: null };
+  function loadLedger() {
+    if (G.ledger && G.ledger.sheet) return Promise.resolve(G.ledger);
+    if (!ledger.wait) {
+      ledger.wait = fetch(SITE && SITE.ledger || '', { credentials: 'same-origin' }).then(function (r) {
+        if (!r.ok) { var err = new Error('HTTP ' + r.status); err.status = r.status; throw err; }
+        return r.json();
+      }).then(function (d) { G.ledger = d; return d; });
+      ledger.wait.catch(function () { ledger.wait = null; });
+    }
+    return ledger.wait;
+  }
+  function balanceNote(c) {
+    return note('', plural(c.ledger_rows, 'figure') + ' from this check ' + (c.ledger_rows === 1 ? 'is' : 'are') + ' set beside the presidential salary. <a href="' + U('balance') + '">See the Balance Sheet</a>');
+  }
+  var BLINE = { 'documented': '', 'single-source': ' dotted', 'inferred': ' dashed' };
+  function balGrade(k) {
+    var g = GRADE[k]; if (!g) return '';
+    return '<span class="bgrade g-' + k + '" title="' + esc(g[1]) + '"><i class="evline' + BLINE[k] + '" aria-hidden="true"></i>' + g[0] + '</span>';
+  }
+  function balCites(f) {
+    return arr(f.checks).map(function (id) { var c = byKey.get(id); return c ? '<a class="cite" href="' + claimHref(c) + '" title="' + esc(c.title) + '">' + esc(c.id) + '</a>' : ''; }).join('');
+  }
+  /* A figure carries the ledger rows it was computed from: in data-rows, and spelled out in its title. */
+  function balTrace(f) {
+    return ' data-rows="' + esc(arr(f.rows).join(' ')) + '" title="' + esc('Ledger ' + (arr(f.rows).length === 1 ? 'row ' : 'rows ') + arr(f.rows).join(', ') + ': ' + f.exact + (f.basis ? '. ' + f.basis : '')) + '"';
+  }
+  function balSrc(f) {   // the first source of the row itself, as a small outward link
+    var u = safeUrl(f.src);
+    return u ? '<a class="bsrc" href="' + esc(u) + '" target="_blank" rel="noopener" title="Source: ' + esc(host(u)) + '" aria-label="Source: ' + esc(host(u)) + '">' + ico('ext') + '</a>' : '';
+  }
+  function balTable(b) {
+    var cols = arr(b.cols), six = cols.length === 6, n = cols.length;
+    var row = function (f, cls) {
+      return '<tr' + (cls ? ' class="' + cls + '"' : '') + '><th scope="row"><span class="bl">' + esc(f.label) + (f.flag ? '<sup>' + esc(f.flag) + '</sup>' : '') + '</span>' +
+        (f.sub ? '<span class="bs">' + esc(f.sub) + '</span>' : '') + '</th>' +
+        (six ? '<td class="bx">' + esc(f.extra || '') + '</td>' : '') +
+        '<td class="numc"><span class="bamt"' + balTrace(f) + '>' + esc(f.amt) + '</span></td>' +
+        '<td class="bw">' + esc(f.when || '') + '</td><td class="bg">' + balGrade(f.grade) + '</td>' +
+        '<td class="bc">' + balCites(f) + (cls ? '' : balSrc(f)) + '</td></tr>';
+    };
+    return '<div class="tablewrap"><table class="btable' + (six ? ' six' : '') + '"><thead><tr>' + cols.map(function (c, i) {
+      return '<th' + (c === 'Amount' || c === 'Value' || c === 'Estimate' ? ' class="numc"' : '') + ' scope="col">' + esc(c) + '</th>';
+    }).join('') + '</tr></thead>' + arr(b.groups).map(function (g) {
+      return '<tbody>' + (g.name ? '<tr class="grp"><th colspan="' + n + '" scope="colgroup"><span class="gn">' + esc(g.name) + '</span>' + (g.note ? '<span class="gnote">' + esc(g.note) + '</span>' : '') + '</th></tr>' : '') +
+        arr(g.rows).map(function (f) { return row(f, ''); }).join('') + (g.total ? row(g.total, 'tot') : '') + '</tbody>';
+    }).join('') + '</table></div>' + arr(b.foot).map(function (t) { return '<p class="bfoot">' + esc(t) + '</p>'; }).join('');
+  }
+  function balBlock(b) {
+    if (b.type === 'table') return balTable(b);
+    if (b.type === 'facts') return '<dl class="mlimits bfacts">' + arr(b.items).map(function (x) {
+      return '<div' + (arr(x.rows).length ? ' data-rows="' + esc(x.rows.join(' ')) + '"' : '') + '><dt>' + esc(x.term) + '</dt><dd>' + esc(x.text) + (arr(x.checks).length ? ' <span class="bc">' + balCites(x) + '</span>' : '') + '</dd></div>';
+    }).join('') + '</dl>';
+    if (b.type === 'quotes') return '<h3 class="minor">Responses</h3><dl class="mlimits bfacts bquotes">' + arr(b.items).map(function (x) {
+      return '<div><dt>' + esc(x.who) + '<span class="bs">' + esc(x.when) + '</span></dt><dd>“' + esc(x.text) + '” <span class="bc">' + balCites(x) + '</span></dd></div>';
+    }).join('') + '</dl>';
+    if (b.type === 'note') return note('', esc(b.text));
+    return '';
+  }
+  function balChart(ch) {
+    var ticks = arr(ch.ticks);
+    return '<figure class="bchart" aria-labelledby="bchart-h"><figcaption><h2 id="bchart-h">' + esc(ch.title) + '</h2></figcaption>' +
+      '<div class="bplot" role="img" aria-label="' + esc(arr(ch.items).map(function (f) { return f.label + ': ' + f.amt; }).join('. ') + '. Logarithmic scale.') + '">' +
+      arr(ch.items).map(function (f) {
+        var w = Math.max(0, f.x1 - f.x0);
+        return '<div class="brow"><span class="bl">' + esc(f.label) + '</span><span class="btrack">' +
+          ticks.map(function (t) { return '<i class="bgl" style="left:' + t.x + '%"></i>'; }).join('') +
+          '<i class="bdot' + (w > 0.4 ? ' span' : '') + '" style="left:' + f.x0 + '%' + (w > 0.4 ? ';width:' + w + '%' : '') + '"' + balTrace(f) + '></i>' +
+          '<span class="bval' + (f.x1 > 70 ? ' left' : '') + '" style="' + (f.x1 > 70 ? 'right:' + (100 - f.x0) + '%' : 'left:' + f.x1 + '%') + '">' + esc(f.amt) + '</span></span></div>';
+      }).join('') +
+      '<div class="brow baxis" aria-hidden="true"><span class="bl"></span><span class="btrack">' + ticks.map(function (t, i) { return '<span class="btick' + (i === 0 ? ' first' : i === ticks.length - 1 ? ' last' : '') + '" style="left:' + t.x + '%">' + esc(t.label) + '</span>'; }).join('') + '</span></div>' +
+      '</div><p class="bnote">' + esc(ch.note) + '</p></figure>';
+  }
+  function balancePage() {
+    var S = G.ledger.sheet, secs = arr(S.sections);
+    page.innerHTML = '<div class="method bal"><div class="pagehead"><h1 tabindex="-1">' + esc(S.title) + '</h1>' +
+      '<p class="lede">' + esc(S.lede) + '</p>' + (ASOF ? '<p class="dateline">' + esc(ASOF) + '</p>' : '') + '</div>' +
+      '<dl class="balfigs">' + arr(S.strip).map(function (f) {
+        return '<div><dt>' + esc(f.label) + '</dt><dd' + balTrace(f) + '>' + esc(f.amt) + '</dd><dd class="bnote">' + esc(f.note || '') + ' <span class="bc">' + balCites(f) + '</span></dd></div>';
+      }).join('') + '</dl>' +
+      (S.chart ? balChart(S.chart) : '') +
+      '<div class="mgrid"><nav class="mindex" aria-label="On this page"><h2>On This Page</h2><ul class="toc">' + secs.map(function (x) { return '<li><button type="button" data-jump="b-' + esc(x.id) + '">' + esc(x.title) + '</button></li>'; }).join('') + '</ul></nav><div class="mbody">' +
+      secs.map(function (x) {
+        var cs = arr(x.checks).map(function (id) { return byKey.get(id); }).filter(Boolean);
+        return '<section><h2 id="b-' + esc(x.id) + '">' + esc(x.title) + '</h2>' +
+          arr(x.intro).map(function (t) { return '<p class="bintro">' + esc(t) + '</p>'; }).join('') +
+          arr(x.blocks).map(balBlock).join('') +
+          (cs.length ? '<p class="bfrom"><span>From</span>' + cs.map(function (c) { return '<a href="' + claimHref(c) + '">' + esc(c.title) + '</a>'; }).join('') + '</p>' : '') + '</section>';
+      }).join('') + '</div></div></div>';
+    spy();
+  }
+  function balanceWaiting(failed) {
+    page.innerHTML = '<div class="method bal"><div class="pagehead"><h1 tabindex="-1">The Balance Sheet</h1>' +
+      (failed ? note('err', '<strong>The figures did not load.</strong> <button type="button" class="linkbtn" id="ledger-retry">Try Again</button>', ' role="alert"')
+        : note('', 'Loading figures', ' role="status" aria-live="polite"')) + '</div></div>';
+    var b = $('ledger-retry');
+    if (b) b.addEventListener('click', function () { openBalance(false); });
+  }
+  function openBalance(keep) {
+    if (G.ledger && G.ledger.sheet) { balancePage(); return; }
+    var key = state.lastHash;
+    if (keep) page.setAttribute('aria-busy', 'true'); else balanceWaiting(false);
+    loadLedger().then(function () {
+      page.removeAttribute('aria-busy');
+      if (state.lastHash !== key || state.view !== 'balance') return;
+      var top = keep ? window.scrollY : 0;
+      balancePage();
+      if (top) window.scrollTo(0, top);
+    }, function (err) {
+      page.removeAttribute('aria-busy');
+      if (state.lastHash !== key || state.view !== 'balance') return;
+      if (!keep && err && err.status === 404) { location.assign(U('balance')); return; }
+      balanceWaiting(true);
+    });
+  }
+
   function notFound(h) {
     page.innerHTML = '<div class="pagehead"><h1 tabindex="-1">Page Not Found</h1>' + note('', 'Nothing is published at “' + esc(h) + '”.') +
-      '<p class="missnav"><a href="' + U('home') + '">Checks</a><a href="' + U('names') + '">People &amp; Organisations</a><a href="' + U('map') + '">Map</a><a href="' + U('method') + '">How We Checked</a></p></div>';
+      '<p class="missnav"><a href="' + U('home') + '">Checks</a>' + (LEDGER_ON ? '<a href="' + U('balance') + '">Balance Sheet</a>' : '') + '<a href="' + U('names') + '">People &amp; Organisations</a><a href="' + U('map') + '">Map</a><a href="' + U('method') + '">How We Checked</a></p></div>';
   }
 
   // ------------------------------------------------------------------ search
@@ -2734,6 +2858,7 @@
     else if (/^topic-/.test(low) && topicById.has(low.slice(6))) t = topicById.get(low.slice(6)).name;
     else if (low === 'names') t = 'People & Organisations';
     else if (low === 'method') t = 'How We Checked';
+    else if (low === 'balance') t = 'The Balance Sheet';
     else if (low === 'map' || low === 'map-list') t = 'Map';
     else if (/^map-matrix/.test(low)) t = 'Matrix';
     else if ((m = /^map-topic-(.+)$/.exec(low)) && topicById.has(m[1])) t = topicById.get(m[1]).name + ' on the Map';
@@ -2816,6 +2941,7 @@
     }
     else if (low === 'names') { state.view = 'names'; setNav('names'); browsePage(); }
     else if (low === 'method') { state.view = 'method'; setNav('method'); methodPage(); }
+    else if (low === 'balance' && LEDGER_ON) { state.view = 'balance'; setNav('balance'); openBalance(prebuilt); }
     else if ((m = /^name-(.+)$/.exec(low)) && (n = byKey.get('e:' + m[1]))) { state.view = 'profile'; setNav('names'); profile(n); }
     else if (/^c\d+[a-z]?$/.test(low) && (n = byKey.get(h.toUpperCase())) && n.kind === 'claim') { state.view = 'claim'; setNav('claims'); openClaim(n, prebuilt); }
     else if ((n = byHash.get(low))) {   // addresses from the earlier version of the site

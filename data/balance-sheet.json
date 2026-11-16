@@ -1,0 +1,252 @@
+{
+  "title": "The Balance Sheet",
+  "lede": "Donald Trump says he takes no presidential salary. This page sets that salary beside what he and his family are documented to have received during the term, with every figure traced to its source.",
+  "description": "The presidential salary Donald Trump says he does not take, set beside the income, paper value and settlements documented for him and his family during the term. Every figure is sourced.",
+  "overlaps": [
+    ["C96-01", "C97-01"], ["C96-02", "C97-02", "C97-04"], ["C96-03", "C97-03", "C97-04"], ["C96-04", "C97-07", "C97-08"],
+    ["C96-17", "C98-06", "C98-10"], ["C96-18", "C98-07", "C98-10"], ["C96-19", "C98-08", "C98-10"], ["C96-20", "C98-09", "C98-14"],
+    ["C96-06", "C98-12", "C98-14", "C98-15"], ["C96-07", "C98-11", "C98-12", "C98-14", "C98-15"], ["C96-08", "C98-11", "C98-12", "C98-14", "C98-15"], ["C96-09", "C98-11", "C98-12", "C98-14", "C98-15"],
+    ["C96-10", "C98-13", "C98-14", "C98-15"], ["C96-11", "C98-13", "C98-14", "C98-15"], ["C96-12", "C98-13", "C98-14", "C98-15"], ["C96-13", "C98-13", "C98-14", "C98-15"],
+    ["C96-14", "C98-13", "C98-14", "C98-15"], ["C96-15", "C98-13", "C98-14", "C98-15"], ["C96-16", "C98-13", "C98-14", "C98-15"],
+    ["C96-24", "C98-18"], ["C96-25", "C98-17"], ["C96-26", "C98-17"], ["C96-27", "C98-17"], ["C96-28", "C98-17"],
+    ["C96-30", "C98-19"], ["C96-23", "C98-16"],
+    ["C96-32", "C99-01"], ["C96-32", "C99-02", "C97-11"], ["C96-32", "C99-03"], ["C99-01", "C99-04"],
+    ["C97-19", "C99-09"], ["C97-15", "C99-06"], ["C99-07", "C99-08", "C99-06"],
+    ["C96-29", "C100-12"], ["C96-29b", "C100-10"], ["C96-29b", "C100-11"], ["C96-29b", "C100-13"], ["C96-29b", "C100-14"],
+    ["C98-01", "C98-02", "C98-03", "C98-04"], ["C95-01", "C95-02"]
+  ],
+  "strip": [
+    {"rows": ["C95-01"], "label": "Salary Accrued This Term", "note": "20 Jan 2025 to 16 Nov 2026, at the $400,000 a year set by law."},
+    {"rows": ["C95-02"], "label": "Salary Donations Documented", "note": "Nothing documented after Oct 2025."},
+    {"rows": ["C96-01", "C96-02", "C96-03", "C96-04"], "digits": 3, "label": "Reported Crypto Income, 2025", "note": "Four lines on his own disclosure. Three sit on entities 30% held by family members, and the form does not say whether they are entity totals or his share."},
+    {"rows": ["C96-17", "C96-18", "C96-19", "C96-20", "C96-06", "C96-07", "C96-08", "C96-09", "C96-10", "C96-11", "C96-12", "C96-13", "C96-14", "C96-15", "C96-16", "C96-24", "C96-25", "C96-26", "C96-27", "C96-28"], "label": "Other Reported Income, 2025", "note": "Golf and clubs, foreign licensing, royalties. Gross receipts, not profit."},
+    {"rows": ["C98-04"], "pick": "low", "label": "Trump Media Stake, Paper Change", "note": "17 Jan 2025 to 13 Nov 2026. Not cash: nothing was sold."}
+  ],
+  "chart": {
+    "title": "The Salary & Reported 2025 Income on One Scale",
+    "note": "Logarithmic scale: each step to the right is ten times the one before. The salary rows cover the term to 16 Nov 2026. The other rows are gross receipts reported for calendar 2025, not profit.",
+    "items": [
+      {"rows": ["C95-02"], "label": "Salary Donations Documented"},
+      {"rows": ["C95-01"], "label": "Salary Accrued This Term"},
+      {"rows": ["C96-24", "C96-25", "C96-26", "C96-27", "C96-28"], "label": "Royalties & Merchandise"},
+      {"rows": ["C96-06", "C96-07", "C96-08", "C96-09", "C96-10", "C96-11", "C96-12", "C96-13", "C96-14", "C96-15", "C96-16"], "label": "Foreign Licensing"},
+      {"rows": ["C96-17", "C96-18", "C96-19", "C96-20"], "label": "Golf & Clubs"},
+      {"rows": ["C96-01", "C96-02", "C96-03", "C96-04"], "digits": 3, "label": "Crypto, Four Lines"}
+    ]
+  },
+  "sections": [
+    {
+      "id": "salary", "title": "Salary", "checks": ["C95"],
+      "intro": ["The salary is set by law. What has been done with it is documented only in part."],
+      "blocks": [
+        {"type": "facts", "items": [
+          {"term": "What He Said", "checks": ["C95"], "text": "Trump has said repeatedly during the term that he does not keep the salary. On 29 Sep 2026 he said: 'I don't take my salary ... I decided not to, including in my first term.' These are his statements, not records of payment."},
+          {"term": "What Is Documented", "rows": ["C95-02"], "checks": ["C95"], "text": "One recipient: the White House Historical Association, a private nonprofit. Its statement of 27 Oct 2025 credits him with $66,000 of salary since January. About $306,800 had accrued by that date."},
+          {"term": "What Is Not Documented", "rows": ["C95-02"], "checks": ["C95"], "text": "No donation is documented for any period after Oct 2025. The White House has published no quarterly announcements, as it did from 2017 to 2020. A gap in announcements is not proof that no donation was made."},
+          {"term": "The Statute", "rows": ["C95-01"], "checks": ["C95"], "text": "3 U.S.C. 102 sets the salary at $400,000 a year, paid monthly, plus a $50,000 expense allowance for official duties. Any unused part of the allowance reverts to the Treasury. At that rate $725,000 to $730,000 of salary had accrued by 16 Nov 2026."},
+          {"term": "Tax", "rows": ["C95-02"], "checks": ["C95"], "text": "A donated salary can be claimed as a charitable deduction. No tax return for the second term is public, so whether one was claimed is unknown."}
+        ]}
+      ]
+    },
+    {
+      "id": "disclosure", "title": "What the Disclosure Reports", "checks": ["C96", "C97", "C98"],
+      "intro": ["Amounts as listed on Trump's own financial disclosure for calendar 2025 (OGE Form 278e, released 30 Jun 2026). They are gross receipts, not profit, and they cover the 19 days before the term began.", "A subtotal is given only where its rows do not overlap. There is no grand total."],
+      "blocks": [
+        {"type": "table", "exact": true, "cols": ["Line", "Amount", "Period", "Evidence", "Checks"],
+         "foot": ["† Listed on DT Marks DEFI or DT Marks SC, which the form shows as 70% Trump's and 30% 'Trump Family Members'. The form does not say whether the amount is the entity's total or his share."],
+         "groups": [
+          {"name": "Crypto", "rows": [
+            {"rows": ["C96-04"], "same": ["C97-07"], "label": "$TRUMP Coin Licence Royalties", "sub": "Line 21.6, CIC Digital, wholly his trust's. Licence income, not coin sales by Trump."},
+            {"rows": ["C96-01"], "same": ["C97-01"], "flag": "†", "label": "World Liberty Token-Sale Proceeds", "sub": "Lines 124.3 to 124.12, DT Marks DEFI. $236.25 million in cash, the rest in crypto as valued on the form."},
+            {"rows": ["C96-03"], "same": ["C97-03"], "flag": "†", "label": "Stablecoin Holdco Capital Contribution & Unit Sale", "sub": "Line 114, DT Marks SC. The USD1 stablecoin business. Buyer not named."},
+            {"rows": ["C96-02"], "same": ["C97-02"], "flag": "†", "label": "Sale of WLF Holdco Equity", "sub": "Line 124.2, DT Marks DEFI. Buyer not named on the form."},
+            {"rows": ["C96-05"], "label": "Staking Rewards, Interest & a Sublicence", "sub": "Five smaller lines on CIC Digital and DT Marks DEFI. Not in the subtotal."},
+            {"rows": ["C97-05"], "label": "Stablecoin Holdco Net Operating Income", "sub": "Line 204.1. Income of a company 38.25% held by DT Marks SC. The form does not call it a distribution. Not in the subtotal."}
+           ],
+           "total": {"rows": ["C96-01", "C96-02", "C96-03", "C96-04"], "label": "Subtotal, the Four Largest Lines"}},
+          {"name": "Golf & Clubs", "note": "Gross revenue. The US clubs reported about $350 million for 2024, before the term.", "rows": [
+            {"rows": ["C96-19"], "same": ["C98-08"], "label": "Eleven Other US Golf Clubs", "sub": "Sum of eleven lines. The addition is ours."},
+            {"rows": ["C96-18"], "same": ["C98-07"], "label": "Trump National Doral", "sub": "Line 293, golf and hotel revenue."},
+            {"rows": ["C96-17"], "same": ["C98-06"], "label": "Mar-a-Lago Club", "sub": "Line 180."},
+            {"rows": ["C96-20"], "same": ["C98-09"], "exact": false, "label": "Turnberry, Aberdeen & Doonbeg", "sub": "Reported in pounds and euros. The dollar range is our conversion."}
+           ],
+           "total": {"rows": ["C96-17", "C96-18", "C96-19", "C96-20"], "exact": false, "label": "Subtotal, Golf & Clubs"}},
+          {"name": "Foreign Licensing, by Country", "note": "Licence, development and management fees, grouped by country by us. Twelve of the licensing companies, with $54.5 million of these fees, are 20% held by unnamed 'Trump Family Members'. Press tallies of $59 million to $60 million count fewer lines.", "rows": [
+            {"rows": ["C96-06"], "same": ["C98-12"], "label": "United Arab Emirates", "sub": "Damac and Dar Al Arkan, five lines."},
+            {"rows": ["C96-10"], "same": ["C98-13"], "label": "India", "sub": "Seven lines. Licensees include Reliance 4IR Realty."},
+            {"rows": ["C96-07"], "same": ["C98-11"], "label": "Saudi Arabia", "sub": "DT Marks KSA. Licensee Dar Al Arkan."},
+            {"rows": ["C96-08"], "same": ["C98-11"], "label": "Qatar", "sub": "DT Marks Doha. Licensee Dar Global."},
+            {"rows": ["C96-11"], "same": ["C98-13"], "label": "Vietnam", "sub": "Licensee Hung Yen Hospitality Services."},
+            {"rows": ["C96-12"], "same": ["C98-13"], "label": "Romania", "sub": "DT Marks Bucharest. Licensee SDC Imobiliare."},
+            {"rows": ["C96-13"], "same": ["C98-13"], "label": "South Korea", "sub": "Development fee under a letter of intent with Base Co."},
+            {"rows": ["C96-14"], "same": ["C98-13"], "label": "Philippines", "sub": "Two lines."},
+            {"rows": ["C96-09"], "same": ["C98-11"], "label": "Oman", "sub": "DT Marks Oman. Licensee Dar Al Arkan."},
+            {"rows": ["C96-15"], "same": ["C98-13"], "label": "Turkey", "sub": "Trump Marks Istanbul II."},
+            {"rows": ["C96-16"], "same": ["C98-13"], "label": "Indonesia", "sub": "Lido golf management fees."}
+           ],
+           "total": {"rows": ["C96-06", "C96-07", "C96-08", "C96-09", "C96-10", "C96-11", "C96-12", "C96-13", "C96-14", "C96-15", "C96-16"], "label": "Subtotal, Foreign Licensing"}},
+          {"name": "Domestic Licensing", "note": "No subtotal: the first row may overlap management fees counted under Other.", "rows": [
+            {"rows": ["C98-16"], "label": "Domestic Licence & Management Fees", "sub": "Chicago, Sunny Isles, Hawaii and two management companies. The addition is ours."},
+            {"rows": ["C98-20"], "label": "Trump Mobile Licence", "sub": "DT Marks Mobile reported no 2025 income."}
+           ]},
+          {"name": "Royalties & Merchandise", "rows": [
+            {"rows": ["C96-26"], "same": ["C98-17"], "label": "Trump Watches", "sub": "Line 24.6."},
+            {"rows": ["C96-24"], "same": ["C98-18"], "label": "Book Royalties", "sub": "Three titles."},
+            {"rows": ["C96-25"], "same": ["C98-17"], "label": "God Bless the USA Bible", "sub": "Line 24.5."},
+            {"rows": ["C96-27"], "same": ["C98-17"], "label": "Sneakers & Fragrances", "sub": "Line 24.7."},
+            {"rows": ["C96-28"], "same": ["C98-17"], "label": "'45' Guitar", "sub": "Line 24.8."}
+           ],
+           "total": {"rows": ["C96-24", "C96-25", "C96-26", "C96-27", "C96-28"], "label": "Subtotal, Royalties & Merchandise"}},
+          {"name": "Other", "note": "No subtotal: these rows may overlap one another and the rows above.", "rows": [
+            {"rows": ["C96-23"], "label": "Other Operating Revenue", "sub": "Management, retail, restaurant and sales fees. It likely includes fees charged to his own hotels and clubs, so some money may appear twice."},
+            {"rows": ["C96-21"], "label": "Chicago & Las Vegas Hotels", "sub": "Hotel-related revenue, two lines."},
+            {"rows": ["C96-22"], "label": "Commercial & Residential Rents", "sub": "The lower bound of the form's brackets. Three lines read 'Over $5,000,000', with no ceiling."},
+            {"rows": ["C96-29"], "same": ["C100-12"], "label": "Settlement Income, X Corp.", "sub": "The one settlement reported as his own income. Whether he kept it is not documented. See Settlements."},
+            {"rows": ["C96-30"], "same": ["C98-19"], "label": "Speaking Fee", "sub": "For a Dec 2022 event, paid in May 2025."},
+            {"rows": ["C96-31"], "label": "Screen Actors' Pensions", "sub": "SAG and AFTRA."}
+           ]}
+         ]}
+      ]
+    },
+    {
+      "id": "paper", "title": "Paper Value", "checks": ["C97", "C98", "C99"],
+      "intro": ["Market value of holdings on stated dates. None of it is cash: no sale is reported for any holding below.", "Rows for one holding on different dates are the same shares or tokens and are never added together."],
+      "blocks": [
+        {"type": "table", "cols": ["Holding", "Value", "As Of", "Evidence", "Checks"],
+         "groups": [
+          {"name": "Trump Media & Technology Group", "note": "114.75 million shares held by the Donald J. Trump Revocable Trust. Not cash.", "rows": [
+            {"rows": ["C98-01"], "label": "At the Start of the Term", "sub": "At the closing prices of 17 Jan and 21 Jan 2025.", "when": "17 to 21 Jan 2025"},
+            {"rows": ["C98-02"], "label": "At the End of 2025", "sub": "At the $13.24 close.", "when": "31 Dec 2025"},
+            {"rows": ["C98-03"], "label": "Latest", "sub": "At the closing prices of 30 Oct and 13 Nov 2026.", "when": "30 Oct to 13 Nov 2026"},
+            {"rows": ["C98-04"], "label": "Change Over the Term", "sub": "A paper loss. Derived from the rows above, not additional to them.", "when": "17 Jan 2025 to 13 Nov 2026"},
+            {"rows": ["C98-05"], "label": "Cash Received from Trump Media", "sub": "No share sales, no dividends, and a royalty-free name licence, per SEC filings and his disclosure.", "when": "20 Jan 2025 to 13 Nov 2026"}
+           ]},
+          {"name": "Crypto Holdings", "note": "Not cash. Token prices have fallen sharply from their peaks.", "rows": [
+            {"rows": ["C97-18"], "label": "WLFI Tokens, 15.75 Billion", "sub": "Held by DTTM Operations, wholly his. Low: Forbes, discounted for the lock-up. High: undiscounted at the market price. About 86% below the Sep 2025 peak.", "when": "16 Nov 2026"},
+            {"rows": ["C97-09"], "label": "$TRUMP Team Wallets", "sub": "CIC Digital and Fight Fight Fight together. The split is unknown, and his form lists no $TRUMP tokens. About 99% below the Jan 2025 peak.", "when": "16 Nov 2026"},
+            {"rows": ["C97-14"], "prefix": "at least", "label": "Crypto Held at the End of 2025", "sub": "A lower bound from the form's value ranges. Largely the 2025 proceeds above kept as crypto, so not additional to them.", "when": "31 Dec 2025"},
+            {"rows": ["C97-13"], "label": "ALT5 Sigma Shares", "sub": "Held by World Liberty Financial, at company level. Valued at $750 million when received in Aug 2025.", "when": "13 Nov 2026"}
+           ]},
+          {"name": "American Bitcoin", "note": "Eric Trump's stake. Not cash: no sale is documented.", "rows": [
+            {"rows": ["C99-09"], "same": ["C97-19"], "label": "Eric Trump's Shares", "sub": "About $637 million at the 9 Sep 2025 high close and $116 million at the end of 2025, by the same arithmetic.", "when": "13 Nov 2026"}
+           ]}
+         ]}
+      ]
+    },
+    {
+      "id": "family", "title": "Family Members", "checks": ["C99"],
+      "intro": ["Only Melania Trump's income is itemised in a public filing. For the others the record is shareholdings at paper value and estimates by outsiders: the sons are private citizens and file no disclosure.", "No sale or cash distribution is documented for any holding below. Estimates include the paper values and are never added to them."],
+      "blocks": [
+        {"type": "table", "cols": ["Item", "Kind", "Amount", "Period", "Evidence", "Checks"],
+         "groups": [
+          {"name": "Melania Trump", "rows": [
+            {"rows": ["C99-01"], "same": ["C96-32"], "exact": true, "extra": "Reported Income", "label": "Film 'Melania'", "sub": "Net proceeds via MKT World LLC, on the spouse section of the disclosure."},
+            {"rows": ["C99-02"], "same": ["C97-11", "C96-32"], "exact": true, "extra": "Reported Income", "label": "NFTs & Collectibles", "sub": "The filing does not name the $MELANIA coin."},
+            {"rows": ["C99-03"], "same": ["C96-32"], "exact": true, "extra": "Reported Income", "label": "Memoir", "sub": "Published in Oct 2024, before the term."},
+            {"rows": ["C99-05"], "extra": "Reported Income", "label": "Capital Gains, Ljubljana Property", "sub": "A value band on the form, not an exact figure."},
+            {"rows": ["C99-04"], "extra": "Estimate", "label": "Reported Film & Series Deal", "sub": "Press reports of the whole deal. It includes the $10.71 million above. The rest is unconfirmed.", "when": "Reported Jan 2025"}
+           ],
+           "total": {"rows": ["C99-01", "C99-02", "C99-03"], "exact": true, "extra": "Reported Income", "label": "Subtotal, Spouse Section Lines"}},
+          {"name": "Eric Trump", "rows": [
+            {"rows": ["C99-09"], "same": ["C97-19"], "extra": "Paper Value", "label": "American Bitcoin Shares", "sub": "See Paper Value.", "when": "13 Nov 2026"},
+            {"rows": ["C99-10"], "pick": "low", "prefix": "about", "extra": "Paper Value", "label": "Dominari Holdings Shares", "sub": "About $0.75 million at the 13 Nov 2026 close. Includes about $1 million of his own cash.", "when": "31 Dec 2025"},
+            {"rows": ["C99-12"], "extra": "Paper Value", "label": "New America Acquisition I Founder Shares", "sub": "Worth roughly nothing unless a merger closes. None is announced.", "when": "At the $10 offer price"},
+            {"rows": ["C99-19"], "pick": "low", "extra": "Estimate", "label": "Net Worth, Forbes", "sub": "Down from about $400 million on 4 Dec 2025, a figure he disputed. Net worth, not income.", "when": "28 Apr 2026"}
+           ]},
+          {"name": "Donald Trump Jr.", "rows": [
+            {"rows": ["C99-11"], "extra": "Paper Value", "label": "Dominari Holdings Shares", "sub": "High: end of 2025. Low: 13 Nov 2026. One holding on two dates.", "when": "Dec 2025 to Nov 2026"},
+            {"rows": ["C99-13"], "extra": "Paper Value", "label": "New America Acquisition I Founder Shares", "sub": "Worth roughly nothing unless a merger closes.", "when": "At the $10 offer price"},
+            {"rows": ["C99-14"], "extra": "Paper Value", "label": "GrabAGun Shares", "sub": "High: after the Jul 2025 listing. Low: 13 Nov 2026.", "when": "Jul 2025 to Nov 2026"},
+            {"rows": ["C99-15"], "extra": "Paper Value", "label": "Unusual Machines Shares", "sub": "The role and the grant date from Nov 2024, before the term.", "when": "Oct 2025 to Nov 2026"},
+            {"rows": ["C99-16"], "extra": "Paper Value", "label": "Kalshi Shares", "sub": "Kalshi ended his advisory role on 12 Nov 2026 and calls the decision mutual. Private-company value.", "when": "Jan 2025 to Jun 2026"},
+            {"rows": ["C99-17"], "extra": "Paper Value", "label": "PSQ Holdings Director Pay", "sub": "An upper bound from a proxy summary. His own grants were not confirmed.", "when": "2025 to 2026"},
+            {"rows": ["C99-18"], "pick": "low", "extra": "Estimate", "label": "Net Worth, Forbes", "sub": "Down from about $500 million in Sep 2025. Net worth, not income.", "when": "8 Dec 2025"}
+           ]},
+          {"name": "Barron Trump", "rows": [
+            {"rows": ["C99-07"], "extra": "Estimate", "label": "Share of World Liberty Proceeds, Forbes", "sub": "Forbes's apportionment, not a disclosed payment. His stake is undisclosed.", "when": "Jun 2025"},
+            {"rows": ["C99-08"], "extra": "Estimate", "label": "Net Worth, Forbes", "sub": "Includes the row above. Net worth, not income.", "when": "6 Oct 2025"}
+           ]},
+          {"name": "Jared Kushner", "rows": [
+            {"rows": ["C99-20"], "extra": "Estimate", "label": "Affinity Partners Management Fees", "sub": "Firm revenue that covers its costs, not his personal income. Our pro-rata share of a fee schedule the Senate Finance Committee published.", "when": "Jan 2025 to Aug 2026"},
+            {"rows": ["C99-21"], "prefix": "above", "extra": "Estimate", "label": "Net Worth, Forbes", "sub": "Net worth, not income.", "when": "Sep 2025"}
+           ]},
+          {"name": "Unnamed 'Trump Family Members'", "note": "The form names no family member. It does not say whether the amounts on these entities' lines are entity totals or his share, or whether anything was distributed.", "rows": [
+            {"rows": ["C99-06"], "same": ["C97-15"], "extra": "Estimate", "label": "30% of DT Marks DEFI & DT Marks SC", "sub": "Our arithmetic. $237 million if the reported crypto lines are entity totals, in which case it is already inside them. $338 million if the lines are his 70% share."},
+            {"rows": ["C99-22"], "extra": "Estimate", "label": "20% of Twelve Licensing Companies", "sub": "Our arithmetic on $54.5 million of fees already listed under Foreign Licensing."}
+           ]}
+         ]}
+      ]
+    },
+    {
+      "id": "settlements", "title": "Settlements", "checks": ["C100", "C96"],
+      "intro": ["Five companies settled lawsuits brought by Trump. Four payments were directed to his presidential library foundation or to the Trust for the National Mall. They are not income to him.", "His disclosure reports only the X payment as his own income, and whether he kept it is not documented. No document links any settlement to a regulatory outcome, and the companies deny any link."],
+      "blocks": [
+        {"type": "table", "cols": ["Payer", "Destination", "Amount", "Date", "Evidence", "Checks"],
+         "groups": [
+          {"name": "", "rows": [
+            {"rows": ["C100-10"], "same": ["C96-29b"], "extra": "Presidential library foundation, held in escrow", "label": "ABC (Disney)", "sub": "$15 million plus $1 million in fees.", "when": "Dec 2024"},
+            {"rows": ["C100-11"], "same": ["C96-29b"], "extra": "Presidential library foundation", "label": "Meta", "sub": "Meta says $22 million. His disclosure lists $24.5 million.", "when": "Jan 2025"},
+            {"rows": ["C100-12"], "same": ["C96-29"], "extra": "Reported as his own income", "label": "X Corp.", "sub": "Whether he kept it is not documented.", "when": "Feb 2025"},
+            {"rows": ["C100-13"], "same": ["C96-29b"], "extra": "Presidential library foundation", "label": "Paramount (CBS)", "sub": "Paramount says Trump receives nothing directly or indirectly.", "when": "Jul 2025"},
+            {"rows": ["C100-14"], "same": ["C96-29b"], "extra": "Trust for the National Mall", "label": "YouTube (Alphabet)", "sub": "For the White House ballroom. A further $2.5 million went to co-plaintiffs.", "when": "Sep 2025"}
+           ],
+           "total": {"rows": ["C100-10", "C100-11", "C100-12", "C100-13", "C100-14"], "extra": "$8 million reported as his income", "label": "Paid by the Five Companies"}},
+          {"name": "Claims Against the Government", "rows": [
+            {"rows": ["C100-15"], "extra": "No payment", "label": "Justice Department & IRS Claims", "sub": "Claims of about $230 million were withdrawn. The settlement gave an apology and no money.", "when": "May 2026"}
+           ]}
+         ]},
+        {"type": "note", "text": "His family runs the library foundation, and he directs the ballroom project that the Trust is funding."}
+      ]
+    },
+    {
+      "id": "estimates", "title": "Estimates by Others", "checks": ["C100", "C97", "C55"],
+      "intro": ["Outside estimates measure different things: net worth on paper, money received, or gross income. They overlap one another and the rows above, and they cannot be added together."],
+      "blocks": [
+        {"type": "table", "cols": ["Source", "Estimate", "Date", "Evidence", "Checks"],
+         "groups": [
+          {"name": "Forbes: Donald Trump's Net Worth", "note": "Mostly paper value: property, a Trump Media stake and crypto.", "rows": [
+            {"rows": ["C100-01"], "label": "Forbes 400, 2024", "sub": "The baseline before the election.", "when": "Sep 2024"},
+            {"rows": ["C100-04"], "label": "Forbes 400, 2025", "sub": "A record. Crypto and cash about a third of it.", "when": "Sep 2025"},
+            {"rows": ["C100-07"], "label": "World's Billionaires, 2026", "sub": "After the fall in crypto prices.", "when": "Mar 2026"},
+            {"rows": ["C100-09"], "label": "Forbes 400, 2026", "sub": "Forbes: about $2.7 billion more than at the 2024 election, mainly from crypto and overseas deals.", "when": "Sep 2026"}
+           ]},
+          {"name": "Bloomberg Billionaires Index", "note": "Excludes locked tokens. Not comparable with Forbes.", "rows": [
+            {"rows": ["C100-02"], "label": "Donald Trump", "sub": "It swung by billions with Trump Media's share price.", "when": "Oct to Nov 2024"},
+            {"rows": ["C100-05"], "label": "The Family", "sub": "After $1.3 billion of crypto wealth was added within weeks.", "when": "Sep 2025"},
+            {"rows": ["C100-06"], "label": "The Family", "sub": "Roughly flat on the year. Crypto rose and Trump Media fell.", "when": "20 Jan 2026"},
+            {"rows": ["C100-08"], "label": "The Family", "sub": "Part of the rise is a change in method: a $630 million stablecoin stake was counted for the first time.", "when": "6 Jun 2026"}
+           ]},
+          {"name": "Money to the Family from Crypto Ventures", "note": "Each contains most of the crypto rows above.", "rows": [
+            {"rows": ["C97-20"], "pick": "low", "prefix": "at least", "label": "Reuters", "sub": "Four crypto ventures, Nov 2024 to Apr 2026. Pretax, and it includes more than $70 million at paper value. The companies disputed parts of it.", "when": "9 Jun 2026"},
+            {"rows": ["C97-20"], "pick": "high", "digits": 3, "label": "Center for American Progress", "sub": "Stake sales, token sales, stablecoin reserves and both meme coins.", "when": "16 Jul 2026"},
+            {"rows": ["C97-20"], "amt": "nearly $2.25 billion", "label": "House Oversight Committee Democratic Staff", "sub": "Described as profits. Up to $9.72 billion including paper wealth.", "when": "Jan 2026"},
+            {"rows": ["C97-17"], "prefix": "at least", "label": "Wall Street Journal", "sub": "Cash from World Liberty, plus about $2.25 billion of paper gains at the prices of the time. Relayed by other outlets.", "when": "Feb 2026"},
+            {"rows": ["C97-16"], "digits": 3, "label": "Reuters & Bloomberg, World Liberty Token Sales", "sub": "Entitlements at estimated sale prices, not payments shown in a filing. Includes sales before the term.", "when": "Jun 2026"}
+           ]},
+          {"name": "Foreign Revenue on the Disclosure", "rows": [
+            {"rows": ["C98-14"], "prefix": "at least", "label": "CREW", "sub": "Revenue from foreign business interests in 2025. It covers rows already listed under What the Disclosure Reports.", "when": "Jul 2026"}
+           ]}
+         ]}
+      ]
+    },
+    {
+      "id": "limits", "title": "What This Does Not Show", "checks": ["C96", "C97", "C98"],
+      "intro": [],
+      "blocks": [
+        {"type": "facts", "items": [
+          {"term": "Profit", "checks": ["C96"], "text": "The disclosure reports gross receipts. It states no costs, taxes or profit."},
+          {"term": "Entity Totals or His Share", "checks": ["C96", "C99"], "text": "Three crypto lines sit on entities 30% held by 'Trump Family Members', and twelve licensing companies are 20% held by them. The form does not say whether an amount is the entity's total or his share."},
+          {"term": "Income for 2026", "checks": ["C97"], "text": "Not yet disclosed. The report covering 2026 is due in May 2027."},
+          {"term": "Cause", "checks": ["C96", "C98"], "text": "Income received during the presidency is not shown to be income received because of it. The clubs, rents, books and pensions predate the term. Nothing on this page shows that money was received in exchange for an official act."},
+          {"term": "Cash", "checks": ["C98", "C97"], "text": "Paper value is not cash. Share and token values move daily, and no sale is reported for the holdings listed."},
+          {"term": "The Salary Donations", "checks": ["C95"], "text": "A gap in announcements is not proof that no donation was made, and a statement of intent is not proof that one was."}
+        ]},
+        {"type": "quotes", "items": [
+          {"who": "The White House", "when": "30 Jun 2026", "checks": ["C96"], "text": "Neither the President nor his family has ever engaged, or will ever engage, in conflicts of interest."},
+          {"who": "The Trump Organization", "when": "30 Jun 2026", "checks": ["C96"], "text": "At nearly 1,000 pages, it represents one of the most comprehensive financial disclosure reports ever submitted and demonstrates a level of financial transparency unmatched in presidential history."},
+          {"who": "Donald Trump", "when": "2 Jul 2026", "checks": ["C96"], "text": "Nothing illegal, there's nothing wrong with it."}
+        ]}
+      ]
+    }
+  ]
+}

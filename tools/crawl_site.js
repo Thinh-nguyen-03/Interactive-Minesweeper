@@ -11,7 +11,7 @@ const yaml = fs.readFileSync(path.join(ROOT, 'render.yaml'), 'utf8');
 const cspM = /name: Content-Security-Policy\s*\n\s*value: "([^"]+)"/.exec(yaml);
 const CSP = cspM ? cspM[1] : '';
 const NOTE = 'Everyone named denies wrongdoing. A link is a documented relationship, not proof of cause.';
-const CHECKS = ['C06', 'C37', 'C46', 'C01', 'C15', 'C22', 'C33', 'C58', 'C77', 'C94'];
+const CHECKS = ['C06', 'C37', 'C46', 'C01', 'C15', 'C22', 'C33', 'C58', 'C77', 'C94', 'C95', 'C101'];
 const NAMES = ['donald-trump', 'jared-kushner', 'world-liberty-financial', 'qatar', 'sec', 'eric-trump', 'steve-witkoff', 'binance', 'white-house', 'affinity-partners'];
 const TOPIC = 'gulf-money';
 
@@ -33,6 +33,7 @@ const pageSlot = html => { const i = html.indexOf('<div id="page"'), j = html.in
     ...CHECKS.map(id => ({ url: '/checks/' + id + '/', kind: 'check', id, ready: '.article .aside .glance', has: ['The Claim', 'Verdict', 'Finding', 'The Points Checked', 'Sources', 'Who Is Involved'] })),
     ...names.map(id => ({ url: '/names/' + id + '/', kind: 'name', id, ready: 'article.profile .pbody', has: ['Checks That Name', 'documented link'] })),
     { url: '/names/', kind: 'names', ready: '.tabs [role=tab]', has: ['People & Organisations', 'Donald Trump', 'Companies & Funds'] },
+    { url: '/balance/', kind: 'balance', ready: '.bal .btable', has: ['The Balance Sheet', 'Salary Accrued This Term', '$725,000 to $730,000', 'Salary Donations Documented', '$66,000', 'Nothing documented after Oct 2025', '$1.424 billion', 'What the Disclosure Reports', '$635,068,835', 'Subtotal, Foreign Licensing', '$63,057,251', 'Paper Value', 'Family Members', 'Settlements', 'Trust for the National Mall', 'Estimates by Others', 'cannot be added together', 'What This Does Not Show', 'Nothing on this page shows that money was received in exchange for an official act', 'conflicts of interest'] },
     { url: '/method/', kind: 'method', ready: 'ol.msteps', has: ['How We Checked', 'Method', 'Verdicts', 'Evidence Grades', 'Limits', 'Send a source'] },
     { url: '/map/', kind: 'map', ready: '#graph', has: ['Map of Checks, Names & Links', 'Most Connected Names'] },
     { url: '/map/matrix/', kind: 'matrix', ready: '#matrix', has: ['Matrix of the Most Connected Names'] },
@@ -60,6 +61,22 @@ const pageSlot = html => { const i = html.indexOf('<div id="page"'), j = html.in
       ok(tag + 'source list', (pageSlot(r.body).match(/<ol class="pre-src">[\s\S]*?<\/ol>/) || [''])[0].split('<li>').length - 1 === c.src, c.src);
       ok(tag + 'preloads only its own detail file', (r.body.match(/rel="preload" as="fetch"[^>]*href="[^"]*"/g) || []).length === 1 && new RegExp('/assets/d/' + pg.id + '\\.[0-9a-f]+\\.json').test(r.body));
       if (c.verdict === 'unverified') ok(tag + 'marked as an unverified single-source allegation', t.includes('Unverified, Single Source') && t.includes('rests on one source') && t.includes('Everyone named denies it') && /name="description" content="Unverified single-source allegation, denied by everyone named/.test(r.body));
+    }
+    if (pg.kind === 'balance') {
+      const slot = pageSlot(r.body), ids = new Set(JSON.parse(fs.readFileSync(path.join(ROOT, 'data', 'ledger', 'C96.json'), 'utf8')).map(x => x.id).concat(['C95-01', 'C95-02', 'C98-04', 'C99-06', 'C100-12']));
+      const used = (slot.match(/data-rows="[^"]+"/g) || []).flatMap(a => a.slice(11, -1).split(' '));
+      ok(tag + 'every amount names its ledger rows', used.length > 100 && !/<td class="pre-num">/.test(slot), used.length);
+      ok(tag + 'ledger row ids are real', ['C95-01', 'C95-02', 'C96-01', 'C96-04', 'C98-04', 'C99-06', 'C100-12'].every(id => used.includes(id) && ids.has(id)));
+      ok(tag + 'links to the six checks behind it', ['C95', 'C96', 'C97', 'C98', 'C99', 'C100'].every(id => slot.includes('href="/checks/' + id + '/"')));
+      ok(tag + 'preloads the ledger file only', (r.body.match(/rel="preload" as="fetch"[^>]*href="[^"]*"/g) || []).length === 1 && /\/assets\/ledger\.[0-9a-f]+\.json/.test(r.body));
+      ok(tag + 'neutral wording', !/\b(grift\w*|corrupt\w*|profiteer\w*|bribe\w*|kickback\w*|quid pro quo)\b/i.test(t) && !t.includes('—'), (t.match(/.{30}\b(grift|corrupt|profiteer|bribe)\w*.{30}/i) || [])[0]);
+      ok(tag + 'no mention of a video or its maker (YouTube appears only as the company that settled)', !/\b(video|youtuber|creator|channel|podcast|influencer|streamer)\b/i.test(t) && t.split('YouTube').length === 2 && t.includes('YouTube (Alphabet)'));
+      ok(tag + 'no grand total', !/grand total of|total income of|in total he received/i.test(t));
+    }
+    if (pg.kind === 'check' && (pg.id === 'C95' || pg.id === 'C101')) {
+      ok(tag + 'in the home list under its topic', new RegExp('<a href="/checks/' + pg.id + '/">').test((await raw(port, '/')).body));
+      if (pg.id === 'C95') ok(tag + 'links to the balance sheet', /href="\/balance\/">See the Balance Sheet<\/a>/.test(pageSlot(r.body)));
+      if (pg.id === 'C101') ok(tag + 'does not link to the balance sheet', !/href="\/balance\/"/.test(pageSlot(r.body)));
     }
     if (pg.kind === 'name') { const e = node('entity', pg.id); ok(tag + 'name, role and connections', t.includes(e.title) && (!e.role || t.includes(e.role.slice(0, 40))) && /Closest Connections/.test(t), e.title); }
   }
@@ -122,7 +139,14 @@ const pageSlot = html => { const i = html.indexOf('<div id="page"'), j = html.in
           const got = server.log.slice(before).map(l => l.url).filter(u => u.startsWith('/assets/d/'));
           ok(tag + 'fetches only its own detail file', got.length === 1 && got[0].startsWith('/assets/d/' + pg.id + '.'), got.join(' '));
           ok(tag + 'points, sources and report are drawn', await direct.evaluate(() => !!document.querySelector('#holds, #fixes, #unproven') && !!document.querySelector('#sources') && !!document.querySelector('#report-box') && document.querySelectorAll('ol.points > li').length > 0));
+          if (pg.id === 'C95') ok(tag + 'offers the balance sheet', await direct.evaluate(() => !!document.querySelector('.article .inote a[href="/balance/"]')));
           if (pg.id === 'C37' || pg.id === 'C46') ok(tag + 'flagged as unverified, single source', await direct.evaluate(() => /Unverified, Single Source/.test((document.querySelector('.inote.unv') || {}).textContent || '')));
+        }
+        if (pg.kind === 'balance') {
+          const got = server.log.slice(before).map(l => l.url).filter(u => /\/assets\/(ledger|d\/)/.test(u));
+          ok(tag + 'fetches the ledger file and no check detail', got.length === 1 && got[0].startsWith('/assets/ledger.'), got.join(' '));
+          ok(tag + 'strip, chart and tables are drawn, each amount with its rows', await direct.evaluate(() => document.querySelectorAll('.balfigs > div').length === 5 && document.querySelectorAll('.bplot .bdot').length === 6 && document.querySelectorAll('.btable').length >= 5 && Array.from(document.querySelectorAll('.bamt, .balfigs dd:not(.bnote), .bdot')).every(e => /^C\d+-\d+/.test(e.getAttribute('data-rows') || ''))));
+          ok(tag + 'the header marks the section', (await direct.getAttribute('[data-nav="balance"]', 'aria-current')) === 'page');
         }
         if (pg.kind === 'map' || pg.kind === 'maptopic') ok(tag + 'the map is drawn', await direct.evaluate(() => document.getElementById('map-loading').hidden && !document.getElementById('mapview').hidden && document.getElementById('graph').width > 100));
         if (pg.kind === 'maptopic') ok(tag + 'the topic is selected', /Gulf Money/.test(await direct.evaluate(() => document.getElementById('hud').textContent + document.getElementById('panel').textContent)));
@@ -210,7 +234,7 @@ const pageSlot = html => { const i = html.indexOf('<div id="page"'), j = html.in
   {
     const p = await open(1440); p.tag = 'old';
     const OLD = [['/#C06', '/checks/C06/'], ['/#name-jared-kushner', '/names/jared-kushner/'], ['/#map', '/map/'], ['/#map-matrix', '/map/matrix/'], ['/#map-topic-' + TOPIC, '/map/topic/' + TOPIC + '/'],
-      ['/#map-jared-kushner', '/map/#jared-kushner'], ['/#names', '/names/'], ['/#method', '/method/'], ['/#claims', '/checks/'], ['/#topic-' + TOPIC, '/checks/#topic-' + TOPIC], ['/#home', '/'], ['/#jared-kushner', '/names/jared-kushner/'], ['/#map-list', '/map/#list']];
+      ['/#map-jared-kushner', '/map/#jared-kushner'], ['/#names', '/names/'], ['/#method', '/method/'], ['/#balance', '/balance/'], ['/#claims', '/checks/'], ['/#topic-' + TOPIC, '/checks/#topic-' + TOPIC], ['/#home', '/'], ['/#jared-kushner', '/names/jared-kushner/'], ['/#map-list', '/map/#list']];
     for (const [from, to] of OLD) {
       await p.goto('about:blank'); await p.goto(origin + from, { waitUntil: 'load' }); await p.waitForTimeout(700);
       ok('old address ' + from + ' goes to ' + to, (await where(p)) === to, await where(p));
@@ -227,7 +251,7 @@ const pageSlot = html => { const i = html.indexOf('<div id="page"'), j = html.in
   // ---- 5. without JavaScript: readable, and no overflow
   for (const width of [1440, 400]) {
     const p = await open(width, { javaScriptEnabled: false }); p.tag = 'nojs' + width;
-    for (const u of ['/', '/checks/', '/checks/C37/', '/names/jared-kushner/', '/names/', '/method/', '/map/']) {
+    for (const u of ['/', '/checks/', '/checks/C37/', '/checks/C101/', '/balance/', '/names/jared-kushner/', '/names/', '/method/', '/map/']) {
       await p.goto(origin + u, { waitUntil: 'load' });
       const m = await p.locator('#page').evaluate(e => ({ wide: document.documentElement.scrollWidth > document.documentElement.clientWidth + 1, h1: !!e.querySelector('h1') && e.querySelector('h1').getBoundingClientRect().height > 10, links: e.querySelectorAll('a[href^="/"]').length }));
       ok('no JavaScript ' + width + ' ' + u + ': readable, with links, no overflow', !m.wide && m.h1 && m.links > 1, JSON.stringify(m));

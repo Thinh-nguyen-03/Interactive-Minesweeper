@@ -95,6 +95,10 @@ Besides the usual `data/claims/Cxx.json` and `research/Cxx-<slug>.md`, write `da
 
 Rules: never add paper value to cash; never present income earned during the presidency as income earned because of it; record the response of those named; flag overlaps between rows (the same money reported two ways) in `notes`; ranges, not false precision. Neutral wording; no mention of any video or creator.
 
+### The balance sheet page (`data/balance-sheet.json`)
+
+The page at `/balance/` is written in `data/balance-sheet.json` and resolved by `build.py`. Each figure names the ledger row ids it is computed from (`rows`); `same` lists rows recorded as the same money, which are cited but not counted. A subtotal is a `total` with its own explicit `rows` list. `overlaps` lists groups of rows that are the same money. The build warns when a sum mixes kinds, repeats a row, or contains two rows from one overlap group, and when a row id does not exist. `pick` ("low" or "high") shows one end of a row's range, `prefix` adds wording such as "at least", `exact` prints full dollars, and `amt` quotes a figure that appears only in a row's basis or notes. Ledger row ids must be unique across files; a row split after publication takes a suffix (`C96-29b`).
+
 ## Insider-trading checks (C101 to C103, 16 Nov)
 
 These concern allegations of crimes against named and unnamed people, so the evidence bar is strict. Separate four things in every point: (1) what market or filing data shows, (2) what an analyst or outlet infers from it, (3) who alleges wrongdoing, (4) whether any trader has been identified or any authority has made a finding. Well-timed volume is not proof that anyone traded on inside information; say so. An allegation without an identified trader or official finding is `unverified`. Name a person as having traded only where a filing or on-record reporting documents the trade, and record their response. Read primary documents where possible (OGE 278-T periodic transaction reports, congressional letters, SEC/CFTC statements, court filings, academic papers, exchange data write-ups) and mark sources `"read": "full"` or `"excerpt"`. No ledger file is needed.

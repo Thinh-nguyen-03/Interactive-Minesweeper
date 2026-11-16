@@ -53,6 +53,7 @@ All the named estimates exist and are traceable. They diverge because they measu
 - $1.4B crypto / $2.2B is Trump's personal gross income for calendar 2025, not a family total and not profit.
 - The Fight Fight Fight treasury was a reported fundraising plan; no raise has been confirmed.
 - 2026-11-16 (disclosure audit, C96/C97): Claimed: Reuters' $2.3B is earnings 'since the return to office'. The record shows: Reuters' estimate is pretax income from November 2024 to April 2026 and includes about $70M of paper value (Eric Trump's American Bitcoin stake), so it is not all cash. The disclosure's 'about $800M from WLF' is $789.3M on the World Liberty and stablecoin entity lines ($592.4M without Stablecoin Holdco), entities 30% owned by unnamed family members.
+- 2026-11-16: Claimed: the family fell to about $6.7B on Bloomberg's count. The record shows: Bloomberg's figure on 2026-01-20 was $6.8B, and on 2026-06-06 it was $7.8B. Part of the rise to $7.8B is a change in method, a $630M stablecoin stake counted for the first time, not new money. Forbes put Trump at about $7.0B in Sept 2026, against a 2024 baseline of $4.3B.
 
 ## In More Detail
 
@@ -86,23 +87,24 @@ All the named estimates exist and are traceable. They diverge because they measu
 **Confirmed**
 
 - Forbes tracks net worth, not cash.
-- It estimated Trump at $7.3B in Sept 2025 (+$3B in a year), with the family collectively at about $10B. By March 2026 it had Trump at $6.5B (+$1.4B year on year) after the crypto drawdown.
+- It estimated Trump at $7.3B in Sept 2025 (+$3B in a year), with the family collectively at about $10B. By March 2026 it had Trump at $6.5B (+$1.4B year on year) after the crypto drawdown, and at about $7.0B in Sept 2026, against a 2024 baseline of $4.3B (C100).
 - Its figures for the individual sons are in C29.
 - Amounts: $7.3B; $3B; about $10B; $6.5B; $1.4B
-- Dates: Sept 2025; March 2026
-- Sources: [9](https://www.newser.com/story/386272/forbes-has-a-new-estimate-of-trumps-net-worth.html) [10](https://www.forbes.com.au/?p=158228)
+- Dates: Sept 2025; March 2026; Sept 2026
+- Sources: [9](https://www.newser.com/story/386272/forbes-has-a-new-estimate-of-trumps-net-worth.html) [10](https://www.forbes.com.au/?p=158228) [29](https://www.forbes.com/sites/pr/2026/09/15/forbes-releases-its-45th-annual-forbes-400-ranking-of-richest-americans/) [30](https://www.forbes.com.au/news/billionaires/heres-how-much-donald-trump-is-worth/) [31](https://www.forbes.com.au/news/billionaires/how-donald-trump-climbed-back-onto-the-forbes-400/)
 
 ### 3. Bloomberg estimates of the gains.
 
 **Confirmed**
 
 - The Bloomberg Billionaires Index estimated that crypto had added about $620M by July 2025, then $1.3B in a few weeks, taking the family to $7.7B (Sept 2025).
-- The family then fell to about $6.7B as crypto sank.
+- On 2026-01-20 Bloomberg put the family at $6.8B, roughly flat on the year: crypto had added about $1.4B while Trump Media fell.
+- On 2026-06-06 it put the family at $7.8B; part of that rise is a change in method, because a $630M stablecoin stake was counted for the first time.
 - Locked tokens are excluded.
 - A 2026-05-12 revision added $660M from previously undisclosed WLFI token sales, putting family token-sale proceeds at about $1.55B.
-- Amounts: about $620M; $1.3B; $7.7B; about $6.7B; $660M
-- Dates: July 2025; Sept 2025; 2026-05-12
-- Sources: [11](https://www.theblock.co/news/business/2025-07-02-trump-family-saw-620-million-from-crypto-venture-proceeds-in-recent-months-report-360791) [12](https://www.bloomberg.com/news/articles/2025-09-07/trump-family-adds-1-3-billion-of-crypto-wealth-in-span-of-weeks) [24](https://www.bloomberg.com/news/articles/2026-05-12/quiet-token-sales-boosted-trump-crypto-wealth-by-660-million)
+- Amounts: about $620M; $1.3B; $7.7B; $6.8B; about $1.4B
+- Dates: July 2025; Sept 2025; 2026-01-20; 2026-06-06; 2026-05-12
+- Sources: [11](https://www.theblock.co/news/business/2025-07-02-trump-family-saw-620-million-from-crypto-venture-proceeds-in-recent-months-report-360791) [12](https://www.bloomberg.com/news/articles/2025-09-07/trump-family-adds-1-3-billion-of-crypto-wealth-in-span-of-weeks) [24](https://www.bloomberg.com/news/articles/2026-05-12/quiet-token-sales-boosted-trump-crypto-wealth-by-660-million) [26](https://www.bloomberg.com/news/features/2026-01-20/donald-trump-family-net-worth-increasingly-comes-from-crypto) [27](https://www.bloomberglinea.com/cripto/fortuna-de-us6800-millones-de-la-familia-trump-se-vincula-cada-vez-mas-al-negocio-cripto/) [28](https://www.spokesman.com/stories/2026/jun/06/trump-familys-stablecoin-wealth-fueled-by-binance-/)
 
 ### 4. Reuters/NYT disclosure tallies: $1.4B from crypto within $2.2B of income.
 
@@ -242,7 +244,7 @@ All the named estimates exist and are traceable. They diverge because they measu
   - WLF token sales that had not been disclosed, which bears on how transparent WLF's disclosures are
   - [[Bloomberg]] [[World Liberty Financial]] [[Donald Trump]] · [Source](https://www.bloomberg.com/news/articles/2026-05-12/quiet-token-sales-boosted-trump-crypto-wealth-by-660-million)
 
-## Sources (25)
+## Sources (31)
 
 1. ['$3.4 billion': Reporter Tells MSNBC Trump Family Turning Down 'No Opportunity' For Cash](https://www.mediaite.com/politics/trump/3-4-billion-reporter-tells-msnbc-trump-family-turning-down-no-opportunity-for-cash-since-taking-office) (Mediaite, 2025-08)
 2. [Kirkpatrick on CNN: Trump pocketing off the presidency, at least $3.4B](https://www.mediamatters.org/donald-trump/cnn-new-yorkers-david-kirkpatrick-discusses-his-reporting-trump-pocketing-presidency) (Media Matters, 2025-08)
@@ -269,6 +271,12 @@ All the named estimates exist and are traceable. They diverge because they measu
 23. [Trump reports more than $2 billion income from crypto](https://www.canberratimes.com.au/story/9302479/trump-reports-more-than-2-billion-income-from-crypto/) (Canberra Times (AAP/Reuters), 2026-07-01)
 24. [Quiet token sales boosted Trump crypto wealth by $660 million](https://www.bloomberg.com/news/articles/2026-05-12/quiet-token-sales-boosted-trump-crypto-wealth-by-660-million) (Bloomberg, 2026-05-12)
 25. [How the presidency is making Trump richer](https://www.npr.org/2026/02/08/nx-s1-5704312/how-the-presidency-is-making-trump-richer) (NPR, 2026-02-08)
+26. [Donald Trump Family Net Worth Increasingly Comes From Crypto](https://www.bloomberg.com/news/features/2026-01-20/donald-trump-family-net-worth-increasingly-comes-from-crypto) (Bloomberg, 2026-01-20)
+27. [Fortuna de US$6.800 millones de la familia Trump se vincula cada vez más al negocio cripto](https://www.bloomberglinea.com/cripto/fortuna-de-us6800-millones-de-la-familia-trump-se-vincula-cada-vez-mas-al-negocio-cripto/) (Bloomberg Línea, 2026-01-20)
+28. [Trump family's stablecoin wealth fueled by Binance relationship (Bloomberg)](https://www.spokesman.com/stories/2026/jun/06/trump-familys-stablecoin-wealth-fueled-by-binance-/) (Spokesman-Review (Bloomberg), 2026-06-06)
+29. [Forbes Releases Its 45th Annual Forbes 400 Ranking](https://www.forbes.com/sites/pr/2026/09/15/forbes-releases-its-45th-annual-forbes-400-ranking-of-richest-americans/) (Forbes, 2026-09-15)
+30. [Here's how much Donald Trump is worth (Forbes, republished)](https://www.forbes.com.au/news/billionaires/heres-how-much-donald-trump-is-worth/) (Forbes Australia (Dan Alexander, Forbes), 2026-09-21)
+31. [How Donald Trump climbed back onto The Forbes 400 (Forbes, republished)](https://www.forbes.com.au/news/billionaires/how-donald-trump-climbed-back-onto-the-forbes-400/) (Forbes Australia (Dan Alexander, Forbes), 2024-10-02)
 
 ## Full Report
 
@@ -291,7 +299,7 @@ Builds on: C29 (Forbes figures and the 2025 OGE disclosure), C01 (TRUMP coin roy
 | New Yorker, David Kirkpatrick, "The Number" | Aug 2025 (issue dated 2025-08-18) | Trump plus immediate family; presidency-related money, including some from the 2024 run-up | Cash in hand: money actually paid to the family. Deliberately conservative; excludes money he says the family would have made anyway | ~$3.4B, of which >$2.3B is crypto |
 | Kirkpatrick update | ~Jan 2026 (first-year anniversary) | Same | Same method | ~$4.0B (Salon: "at least $4.05B"); he said on air it could be ~$4.5B after a later deal |
 | Forbes net-worth tallies | Sept 2025; Mar 2026 | Trump alone (plus separate profiles of family members) | Change in estimated net worth: paper value, including locked tokens at a discount | Trump $7.3B (Sept 2025, +$3B in a year); $6.5B (Mar 2026); family about $10B (Sept 2025) |
-| Bloomberg Billionaires Index | Jul 2025; Sept 2025; May 2026 | Family | Net-worth effect; locked tokens excluded | Crypto added ~$620M (Jul 2025), then +$1.3B in weeks (Sept 2025, family at $7.7B), then fell to ~$6.7B; +$660M from undisclosed WLFI sales, with ~$1.55B token-sale proceeds (2026-05-12) |
+| Bloomberg Billionaires Index | Jul 2025; Sept 2025; May 2026 | Family | Net-worth effect; locked tokens excluded | Crypto added ~$620M (Jul 2025), then +$1.3B in weeks (Sept 2025, family at $7.7B), $6.8B on 2026-01-20; +$660M from undisclosed WLFI sales, with ~$1.55B token-sale proceeds (2026-05-12); $7.8B on 2026-06-06, part of the rise from a change in method (a $630M stablecoin stake counted for the first time) |
 | WSJ | Feb 2026 | Family, World Liberty only (~16 months) | Cash from WLF | At least $1.2B cash, plus ~$2.25B in paper gains |
 | Reuters investigation | 2026-06-09 | Family, four crypto ventures, Nov 2024 to Apr 2026 | Pretax earnings estimate; includes Eric Trump's American Bitcoin stake at paper value (more than $70M) | At least $2.3B, against ~$2.3B in investor losses (realized and unrealized, as of 2026-04-30) |
 | NYT / Reuters / AP reading of the 2025 OGE disclosure | 2026-06-30 / 07-01 | Trump only, calendar 2025 | Self-reported income, often in ranges; gross, not profit | At least $2.2B total; more than $1.4B crypto ($789.3M on WLF and stablecoin entity lines, $592.4M without Stablecoin Holdco, and $635.1M TRUMP royalties); AP ~$1.2B crypto; Forbes ~$2.4B |
@@ -305,8 +313,8 @@ Builds on: C29 (Forbes figures and the 2025 OGE disclosure), C01 (TRUMP coin roy
    - About $385M from TRUMP/MELANIA coin profit, although another summary says he excluded the meme coins.
 
    The total covers both terms in some descriptions and "his time in the White House" in others. He published an update to roughly $4B around January 2026. So the claim's "$3.4B cash, second term" is an outdated figure, and it is not strictly second-term only.
-2. **Forbes: confirmed, but it measures a different thing.** Forbes measures net worth, not cash taken. Trump was at $7.3B in September 2025 (up $3B in a year) and $6.5B in March 2026 (up $1.4B year on year, after the crypto drawdown). The family was at about $10B in September 2025. The family-member figures are covered in C29.
-3. **Bloomberg: confirmed.** Its tallies move with token prices, and it excludes locked tokens. The trajectory: ~$620M from crypto by mid-2025; $7.7B family worth in September 2025; ~$6.7B after the crash; a May 2026 revision adding $660M from previously undisclosed WLFI token sales.
+2. **Forbes: confirmed, but it measures a different thing.** Forbes measures net worth, not cash taken. Trump was at $7.3B in September 2025 (up $3B in a year) and $6.5B in March 2026 (up $1.4B year on year, after the crypto drawdown), then about $7.0B in September 2026, against a 2024 baseline of $4.3B (C100). The family was at about $10B in September 2025. The family-member figures are covered in C29.
+3. **Bloomberg: confirmed.** Its tallies move with token prices, and it excludes locked tokens. The trajectory: ~$620M from crypto by mid-2025; $7.7B family worth in September 2025; $6.8B on 20 Jan 2026, roughly flat on the year; a May 2026 revision adding $660M from previously undisclosed WLFI token sales; $7.8B on 6 June 2026, where part of the rise is a change in method (a $630M stablecoin stake counted for the first time), not new money.
 4. **Reuters/NYT disclosure tallies of $1.4B crypto and $2.2B income: confirmed (see C29).** This is gross income Trump reported himself for calendar 2025, and much of it is reported in value brackets. It is not profit, and it covers Trump personally, not his sons' ventures such as American Bitcoin. The separate Reuters investigation (2026-06-09) is a different number: at least $2.3B to the family from four crypto ventures, November 2024 to April 2026. It is described as pretax income and includes about $70M of paper value (Eric Trump's American Bitcoin stake), so it is not all cash. The disclosure's World Liberty lines belong to entities that are 30% owned by unnamed family members, and the form does not say whether they are entity totals or Trump's share.
 5. **CREW: foreign revenue and 24 foreign projects. Confirmed.** CREW counts more than $117M in foreign revenue in 2025 and 24 foreign Trump-branded projects in development, 13 of them announced since he became a 2022 candidate. That is revenue to Trump entities, not net profit. The secondhand "$59.5M licensing" figure matches CREW's ~$59M.
 6. **Fight Fight Fight's $200M-$1B TRUMP treasury: partly accurate.** Bloomberg reported on 2025-10-08 that Bill Zanker's Fight Fight Fight LLC was seeking at least $200M, with ambitions up to $1B, for a digital-asset treasury company that would buy and hold TRUMP. Later coverage calls it conceptual and in early stages. I found no report of a closing or launch through November 2026. It is a proposed vehicle for supporting the token, not money the family made.
@@ -318,6 +326,7 @@ Builds on: C29 (Forbes figures and the 2025 OGE disclosure), C01 (TRUMP coin roy
 - Kirkpatrick's total is not strictly "second-term". He says it includes some money from the 2024 run-up.
 - The $1.4B crypto / $2.2B income figures are Trump's personal gross income for calendar 2025, not a family total and not profit.
 - The Fight Fight Fight treasury was a proposal. No raise has been confirmed.
+- (16 Nov 2026) Bloomberg's family figure after the late-2025 crypto slide was $6.8B (20 Jan 2026), not about $6.7B. On 6 June 2026 Bloomberg put the family at $7.8B; part of that rise is a change in method (a $630M stablecoin stake counted for the first time). Forbes put Trump at about $7.0B in Sept 2026, against a 2024 baseline of $4.3B (C100).
 
 ### Denials and other side
 - Press secretary Karoline Leavitt called the New Yorker figure "absolutely absurd" and said the president "has lost hundreds of millions of dollars" by serving. She has made the "lost money" claim repeatedly. No records support it.
@@ -363,3 +372,10 @@ Result: **upheld** (no factual changes).
 **Corrected.**
 - Reuters' $2.3B covers November 2024 to April 2026, not just the period since the return to office. It is described as pretax income and includes Eric Trump's American Bitcoin stake at paper value (more than $70M), so it is not all cash.
 - The disclosure's "about $800M from WLF" is now given exactly: $789.3M on the World Liberty and stablecoin entity lines, or $592.4M without Stablecoin Holdco. Those entities are 30% owned by unnamed family members.
+
+### Audit addendum (16 Nov 2026, net-worth review)
+
+**Corrected.**
+- Bloomberg's family figure on 20 Jan 2026 was $6.8B, not about $6.7B. https://www.bloomberg.com/news/features/2026-01-20/donald-trump-family-net-worth-increasingly-comes-from-crypto
+- Bloomberg put the family at $7.8B on 6 June 2026. Part of the rise is a change in method: a $630M stablecoin stake was counted for the first time. https://www.spokesman.com/stories/2026/jun/06/trump-familys-stablecoin-wealth-fueled-by-binance-/
+- Forbes: about $7.0B for Trump in Sept 2026, against a 2024 baseline of $4.3B. https://www.forbes.com/sites/pr/2026/09/15/forbes-releases-its-45th-annual-forbes-400-ranking-of-richest-americans/ and https://www.forbes.com.au/news/billionaires/how-donald-trump-climbed-back-onto-the-forbes-400/

@@ -89,7 +89,7 @@
     {
       "statement": "Speaking, pensions, settlements and gifts appear as other income.",
       "verdict": "confirmed",
-      "finding": "The 2026 filing lists:\n- **Speaking:** $200,000, a balance from a 4 December 2022 fundraising event in Naples, Florida, paid in May 2025 and 'omitted from last year's filing'.\n- **Pensions:** SAG $77,808 and AFTRA $8,724.\n- **Legal settlements, $86.5M in total:** X Corp. $8M; ABC $16M, CBS $16M and Meta $24.5M, with net proceeds paid to the Trump presidential library foundation; Alphabet/YouTube $22M, paid to the Trust for the National Mall.\n- **Part 9 gifts:** $372,050, including a $250,000 sculpture from Sticker Mule's founder and event tickets from Rolex, FIFA's president, the PGA of America and others.\n\nThe Trump Organization LLC administrative office separately reports $30,200,775 of 'business income and legal settlements' with no breakdown. Part 4 (compensation over $5,000) is 'N/A'. The presidential salary is government income and is not a reportable item on the form.",
+      "finding": "The 2026 filing lists:\n- **Speaking:** $200,000, a balance from a 4 December 2022 fundraising event in Naples, Florida, paid in May 2025 and 'omitted from last year's filing'.\n- **Pensions:** SAG $77,808 and AFTRA $8,724.\n- **Legal settlements, $86.5M in total:** X Corp. $8M; ABC $16M, CBS $16M and Meta $24.5M, with net proceeds paid to the Trump presidential library foundation; Alphabet/YouTube $22M, paid to the Trust for the National Mall. Only the $8M from X is reported as Trump's own settlement income, and whether he kept it is not documented; the other $78.5M was directed to the foundation or the Trust and is not counted as his income (C100).\n- **Part 9 gifts:** $372,050, including a $250,000 sculpture from Sticker Mule's founder and event tickets from Rolex, FIFA's president, the PGA of America and others.\n\nThe Trump Organization LLC administrative office separately reports $30,200,775 of 'business income and legal settlements' with no breakdown. Part 4 (compensation over $5,000) is 'N/A'. The presidential salary is government income and is not a reportable item on the form.",
       "sources": [
         "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
         "https://www.pbs.org/newshour/politics/how-crypto-real-estate-and-watches-added-up-for-trump-last-year"
@@ -500,8 +500,8 @@
       "description": "Spouse's MKT World reports $10.71M net proceeds"
     },
     {
-      "id": "charles-schwab",
-      "name": "Charles Schwab",
+      "id": "charles-schwab-corp",
+      "name": "Charles Schwab Corporation",
       "type": "company",
       "description": "Lender of a pledged-asset line over $50M incurred in 2025"
     },
@@ -754,7 +754,7 @@
       "amount_usd": 10710000
     },
     {
-      "source": "charles-schwab",
+      "source": "charles-schwab-corp",
       "target": "donald-trump",
       "label": "pledged-asset line, over $50M",
       "type": "money",
@@ -884,7 +884,8 @@
       "Wallet line 124.4 relabelled 'Virtual USD Key' as on the form (was 'USD1'); combined total with staking and interest corrected to $1.427B.",
       "Added the exact WLFI token line (133.2, 15,750,000,000 under DTTM Operations, wholly Trump-owned) and the 2024 valuation of the same tokens ('$1,001 to $15,000', line 109.2); 22.5B is World Liberty's figure, not the form's.",
       "Confirmed unchanged: 2024 $57,355,532 on line 391 (World Liberty Financial, Inc., 'WLF Holdco LLC: 100%'); stakes 75% (line 390, 2025 report) and 38.25% (lines 124/405 and 204, 2026 report); OGE received 6/29/2026, ethics official note dated 6/30/26, 45-day extension, 'The filer paid late filing fees related to transactions not previously reported on 278-Ts'; 2024 report certified 2025-06-13 with a 30-day extension; Mar-a-Lago $77,482,488 (line 180), Doral $121,861,496 (line 293), 114,750,000 TMTG shares, settlements $86.5M (lines 431.1-431.5), Schwab pledged-asset line over $50M at 3.90%.",
-      "Fresh searches found no amended 2026 annual report and no reporting that contradicts these lines; Jurist independently reports the late-fee note."
+      "Fresh searches found no amended 2026 annual report and no reporting that contradicts these lines; Jurist independently reports the late-fee note.",
+      "2026-11-16 (balance-sheet integration): ledger row C96-29 split. C96-29 now holds only X's $8M, the one settlement reported as Trump's own income; the new row C96-29b holds the $78.5M directed to the library foundation or the Trust for the National Mall, recorded as settlement-paid and not as his income. The figures on the form are unchanged."
     ],
     "new_sources": [
       {

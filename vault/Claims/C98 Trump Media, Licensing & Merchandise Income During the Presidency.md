@@ -43,9 +43,12 @@ Outside crypto, Trump's own 2025 disclosure (filed 30 June 2026) shows large bus
 ## What Needs Correcting
 
 - The ethics arrangement keeps Trump away from the business and bars deals with foreign governments (partly accurate)
-- Claimed (C31, The National/IndexBox): about $21.9M from Dar Al Arkan in 2025, 'nearly identical' to 2024. The record shows: the three Dar Al Arkan licensee lines sum to $20.55M, and adding the $5.25M Doha fee from Dar Global Holdings gives $25.80M, the figure CNBC reports. The Gulf total of about $38.4M is correct.
-- Claimed (C31/C88, citing Eastern Herald): Damac's roughly $12.5M is an estimate because the form uses ranges. The record shows: all four Damac-linked fee lines are exact dollar amounts and sum to $12,589,884. Only asset values on those lines are ranges.
-- Claimed (C20 and some Forbes pieces): the trust holds about 52-53% of TMTG. The record shows: about 52% was correct from the Dec 2024 transfer until the end of May 2025 (220,657,014 shares outstanding at 31 Dec 2024). After the 29 May 2025 private placement of 55,857,181 shares the same 114.75M shares were 41.5% at Dec 2025 (13D/A) and about 41% at Nov 2026 (prospectus).
+- **Claimed:** About $21.9M from Dar Al Arkan in 2025, 'nearly identical' to 2024 (C31, The National/IndexBox)  
+  **The record shows:** The three Dar Al Arkan licensee lines sum to $20.55M, and adding the $5.25M Doha fee from Dar Global Holdings gives $25.80M, the figure CNBC reports. The Gulf total of about $38.4M is correct.
+- **Claimed:** Damac's roughly $12.5M is an estimate because the form uses ranges (C31/C88, citing Eastern Herald)  
+  **The record shows:** All four Damac-linked fee lines are exact dollar amounts and sum to $12,589,884. Only asset values on those lines are ranges.
+- **Claimed:** The trust holds about 52-53% of TMTG (C20 and some Forbes pieces)  
+  **The record shows:** About 52% was correct from the Dec 2024 transfer until the end of May 2025 (220,657,014 shares outstanding at 31 Dec 2024). After the 29 May 2025 private placement of 55,857,181 shares the same 114.75M shares were 41.5% at Dec 2025 (13D/A) and about 41% at Nov 2026 (prospectus).
 - Press figures for foreign licensing differ: CNN 'nearly $60M', CNBC $59.5M, CREW $59M of licensing and development fees, and our line-by-line sum of all foreign licensing, management and development lines $63.1M. The difference is definitional, not an error.
 - Front Office Sports attributes Bedminster's $37.6M to Lamington Family Holdings LLC. The record shows: the revenue is reported by Lamington Farm Club, LLC; Lamington Family Holdings holds a 10-acre lot.
 - C17's 2024 royalty figures (watches $2.8M, sneakers and fragrances $2.5M, Bible $1,306,035, NFTs about $1.16M) check out against the 2025 filing. In 2025, every line except watches fell sharply.

@@ -5,10 +5,11 @@
    site with a real address and a pre-built page for every check, name and view, and splits the data so that a
    visit downloads only what its page needs:
 
-     site/index.html, checks/, checks/C06/, names/<slug>/, method/, map/, map/matrix/, map/topic/<slug>/, 404.html
+     site/index.html, checks/, checks/C06/, balance/, names/<slug>/, method/, map/, map/matrix/, map/topic/<slug>/, 404.html
      site/assets/app.<hash>.js      matrix.js + app.js, unchanged (app.js reads window.__SITE__ and uses paths)
      site/assets/core.<hash>.js     what the home page, lists, search, map and matrix need
      site/assets/d/C06.<hash>.json  the long detail of one check, fetched when its page is opened
+     site/assets/ledger.<hash>.json the ledger rows and the balance sheet, fetched when that page is opened
      site/robots.txt, sitemap.xml (only when the public address is known)
 
    Node 18 or later, standard library only.  Usage: node make_site.mjs
@@ -43,6 +44,7 @@ const appSrc = read('app.js');
 const G = (() => { const w = {}; new Function('window', read('graph-data.js'))(w); return w.GRAPH; })();
 if (!G || !Array.isArray(G.nodes)) throw new Error('map/graph-data.js did not define window.GRAPH. Run python3 build.py first.');
 const META = G.meta || {};
+const LEDGER = G.ledger && G.ledger.sheet ? G.ledger : null;   // the balance sheet page, resolved by build.py from data/ledger/ and data/balance-sheet.json
 /* Wording rules live in app.js; the few the static pages need are read from it, so the two cannot drift. */
 const rx = name => { const m = new RegExp('var ' + name + ' = (/.+/[a-z]*);').exec(appSrc); if (!m) throw new Error('app.js: ' + name + ' not found'); return new Function('return ' + m[1])(); };
 const FLOWS = rx('FLOWS'), VERBISH = rx('VERBISH'), ROLEISH = rx('ROLEISH');
@@ -139,14 +141,14 @@ const strongest = list => list.slice().sort((a, b) => (a.alleged ? 1 : 0) - (b.a
 // ---------------------------------------------------------------------------------------------- addresses
 const U = {
   home: () => BASE, checks: () => BASE + 'checks/', check: c => BASE + 'checks/' + c.id + '/', topic: t => BASE + 'checks/#topic-' + t.id,
-  names: () => BASE + 'names/', name: e => BASE + 'names/' + e.id + '/', method: () => BASE + 'method/',
+  balance: () => BASE + 'balance/', names: () => BASE + 'names/', name: e => BASE + 'names/' + e.id + '/', method: () => BASE + 'method/',
   map: () => BASE + 'map/', matrix: () => BASE + 'map/matrix/', mapTopic: t => BASE + 'map/topic/' + t.id + '/'
 };
 const abs = p => ORIGIN ? ORIGIN + p : '';
 const checkLink = (c, text) => '<a href="' + U.check(c) + '">' + (text || esc(c.title)) + '</a>';
 const nameLink = e => '<a href="' + U.name(e) + '">' + esc(e.name) + '</a>';
 /* Running text from the research files: escaped, with check codes (C37) turned into named links. */
-const rich = text => esc(text).replace(/\bC(\d{2})\b/g, m => { const c = byKey.get(m); return c && c.kind === 'claim' ? checkLink(c, '“' + esc(c.title) + '”') : 'another check'; });
+const rich = text => esc(text).replace(/\bC(\d{2,3})\b(?!-\d)/g, m => { const c = byKey.get(m); return c && c.kind === 'claim' ? checkLink(c, '“' + esc(c.title) + '”') : 'another check'; });
 const checkLine = c => '<li>' + checkLink(c) + ' <span class="pre-v">' + esc(verdictText(c)) + '</span><span class="pre-meta"> ' + (c.ctype === 'connection' ? 'Connection Check ' : 'Check ') + esc(c.id) + '</span>' +
   '<br><span class="pre-meta">' + rich(firstSentence(c.bottom_line)) + '</span></li>';
 const unvCallout = () => UNV.size ? '<p class="inote unv"><span><strong>Unverified, Single Source.</strong> ' + listParts(claims.filter(isUnv).map(c => checkLink(c))) + (UNV.size === 1 ? ' rests on one book and is' : ' each rest on one book and are') + ' denied by everyone named.</span></p>' : '';
@@ -160,7 +162,7 @@ function pageHome() {
       '<p class="lede">' + claims.length + ' claims about the business, financial and political dealings of Donald Trump, his family and his administration, each tested against the public record.</p>' +
       '<p class="pre-meta">' + [[claims.length, 'checks'], [p.total, 'points'], [META.sources, 'sources'], [entities.length, 'names'], [rels.length, 'links']].map(x => '<b>' + num(x[0]) + '</b> ' + x[1]).join(' · ') +
       '</p>' +
-      '<p><a href="' + U.checks() + '">All Checks</a> · <a href="' + U.names() + '">People &amp; Organisations</a> · <a href="' + U.map() + '">Map</a> · <a href="' + U.method() + '">How We Checked</a></p>' +
+      '<p><a href="' + U.checks() + '">All Checks</a> · ' + (LEDGER ? '<a href="' + U.balance() + '">See the Balance Sheet</a> · ' : '') + '<a href="' + U.names() + '">People &amp; Organisations</a> · <a href="' + U.map() + '">Map</a> · <a href="' + U.method() + '">How We Checked</a></p>' +
       (p.total ? '<h2>What the Checks Found</h2><p>Of ' + num(p.total) + ' points, ' + num(p.hold) + ' hold up, ' + num(p.correct) + ' needed correcting and ' + num(p.unproven) + ' are unproven. No check shows that a payment bought an official act.</p>' : '') +
       (who.length ? '<h2>Who Is Involved</h2>' + who.map(g => '<h3>' + esc(g.title) + '</h3><ul class="pre-cols">' + g.list.map(e => '<li>' + nameLink(e) + '</li>').join('') + '</ul>').join('') : '') +
       '<h2>' + claims.length + ' Checks in ' + TOPICS_ALL.length + ' Topics</h2>' + unvCallout() +
@@ -196,6 +198,7 @@ function pageCheck(c) {
     html: '<p class="crumb"><a href="' + U.checks() + '">All Checks</a>' + (t && t.id !== 'other' ? ' <span aria-hidden="true">/</span> <a href="' + U.topic(t) + '">' + esc(t.name) + '</a>' : '') + ' <span aria-hidden="true">/</span> <b>' + kind + ' ' + esc(c.id) + '</b></p>' +
       '<h1>' + esc(c.title) + '</h1>' +
       (isUnv(c) ? '<p class="inote unv"><span><strong>' + esc(unvText(c)) + '.</strong> The allegation ' + (c.single_source ? 'rests on one source and ' : '') + 'has not been corroborated. Everyone named denies it. This page records an allegation, not a finding.</span></p>' : '') +
+      (c.ledger_rows && LEDGER ? '<p class="inote"><span>' + plural(c.ledger_rows, 'figure') + ' from this check ' + (c.ledger_rows === 1 ? 'is' : 'are') + ' set beside the presidential salary. <a href="' + U.balance() + '">See the Balance Sheet</a></span></p>' : '') +
       '<h2>The Claim</h2>' + (q.length > 1 ? '<ul>' + q.map(x => '<li>' + rich(x) + '</li>').join('') + '</ul>' : '<p>' + rich(q[0] || c.title) + '</p>') +
       '<h2>Verdict</h2><p><span class="pre-v">' + esc(verdictText(c)) + '.</span> ' + esc(tallyText(c)) + (tallyText(c) ? '.' : '') + '</p>' +
       '<p class="pre-meta">' + [plural(arr(c.sources).length, 'source'), c.audit ? 'Second review' + (AUDIT[c.audit.result] ? ': ' + AUDIT[c.audit.result] : ' done') : 'No second review yet'].join(' · ') + ' · <a href="' + BASE + 'map/#' + esc(c.id) + '">Show on Map</a></p>' +
@@ -234,6 +237,32 @@ function pageName(e) {
           (allA ? ' <span class="pre-v">Alleged, Unverified</span>' : '') + (r.claims.length ? ' <span class="pre-meta">' + r.claims.slice(0, 3).map(id => byKey.get(id)).filter(Boolean).map(c => checkLink(c, esc(c.id))).join(' ') + '</span>' : '') + '</li>';
       }).join('') + '</ul>' + (near.length > SHOW ? '<p class="pre-meta">+' + plural(near.length - SHOW, 'more connected name') + '</p>' : '') : '') +
       '<h2>Checks That Name ' + it + '</h2>' + (e.cl.length ? '<ul class="pre-rows">' + e.cl.map(checkLine).join('') + '</ul>' : '<p>No check names this directly.</p>')
+  };
+}
+/* The balance sheet, as plain HTML: the same model app.js lays out (G.ledger.sheet), so the two cannot disagree on a figure. */
+function pageBalance() {
+  const S = LEDGER.sheet, GR = { 'documented': 'Documented', 'single-source': 'Single-Source', 'inferred': 'Inferred' };
+  const cites = f => arr(f.checks).map(id => byKey.get(id)).filter(Boolean).map(c => checkLink(c, esc(c.id))).join(' ');
+  const trace = f => ' data-rows="' + esc(arr(f.rows).join(' ')) + '" title="' + esc('Ledger ' + (arr(f.rows).length === 1 ? 'row ' : 'rows ') + arr(f.rows).join(', ') + ': ' + f.exact) + '"';
+  const table = b => {
+    const cols = arr(b.cols), six = cols.length === 6;
+    const row = (f, tot) => '<tr><th scope="row">' + (tot ? '<b>' + esc(f.label) + '</b>' : esc(f.label) + (f.flag ? '<sup>' + esc(f.flag) + '</sup>' : '')) + (f.sub ? '<br><span class="pre-meta">' + esc(f.sub) + '</span>' : '') + '</th>' +
+      (six ? '<td>' + esc(f.extra || '') + '</td>' : '') + '<td class="pre-num"' + trace(f) + '>' + (tot ? '<b>' + esc(f.amt) + '</b>' : esc(f.amt)) + '</td><td>' + esc(f.when || '') + '</td><td>' + esc(GR[f.grade] || '') + '</td><td>' + cites(f) + '</td></tr>';
+    return '<div class="pre-scroll"><table class="pre-table"><thead><tr>' + cols.map(c => '<th scope="col">' + esc(c) + '</th>').join('') + '</tr></thead>' + arr(b.groups).map(g =>
+      '<tbody>' + (g.name ? '<tr><th colspan="' + cols.length + '" scope="colgroup"><b>' + esc(g.name) + '</b>' + (g.note ? '<br><span class="pre-meta">' + esc(g.note) + '</span>' : '') + '</th></tr>' : '') +
+      arr(g.rows).map(f => row(f, false)).join('') + (g.total ? row(g.total, true) : '') + '</tbody>').join('') + '</table></div>' + arr(b.foot).map(t => '<p class="pre-meta">' + esc(t) + '</p>').join('');
+  };
+  const block = b => b.type === 'table' ? table(b)
+    : b.type === 'facts' ? '<dl>' + arr(b.items).map(x => '<dt><b>' + esc(x.term) + '</b></dt><dd' + (arr(x.rows).length ? ' data-rows="' + esc(x.rows.join(' ')) + '"' : '') + '>' + esc(x.text) + ' <span class="pre-meta">' + cites(x) + '</span></dd>').join('') + '</dl>'
+    : b.type === 'quotes' ? '<h3>Responses</h3><ul>' + arr(b.items).map(x => '<li><b>' + esc(x.who) + '</b>, ' + esc(x.when) + ': “' + esc(x.text) + '” <span class="pre-meta">' + cites(x) + '</span></li>').join('') + '</ul>'
+    : b.type === 'note' ? '<p class="inote"><span>' + esc(b.text) + '</span></p>' : '';
+  return {
+    path: 'balance/', title: S.title + ' · ' + SITE_NAME, description: trunc(S.description || S.lede, 230), ledger: true,
+    html: '<h1>' + esc(S.title) + '</h1><p class="lede">' + esc(S.lede) + '</p>' + (ASOF ? '<p class="pre-meta">' + esc(ASOF) + '</p>' : '') +
+      '<dl>' + arr(S.strip).map(f => '<dt>' + esc(f.label) + '</dt><dd><b' + trace(f) + '>' + esc(f.amt) + '</b><br><span class="pre-meta">' + esc(f.note || '') + ' ' + cites(f) + '</span></dd>').join('') + '</dl>' +
+      (S.chart ? '<h2>' + esc(S.chart.title) + '</h2><ul>' + arr(S.chart.items).map(f => '<li>' + esc(f.label) + ': <b' + trace(f) + '>' + esc(f.amt) + '</b></li>').join('') + '</ul><p class="pre-meta">' + esc(S.chart.note.replace(/^Logarithmic scale:[^.]*\.\s*/, '')) + '</p>' : '') +
+      arr(S.sections).map(x => '<h2 id="b-' + esc(x.id) + '">' + esc(x.title) + '</h2>' + arr(x.intro).map(t => '<p>' + esc(t) + '</p>').join('') + arr(x.blocks).map(block).join('') +
+        (arr(x.checks).length ? '<p class="pre-meta">From: ' + arr(x.checks).map(id => byKey.get(id)).filter(Boolean).map(c => checkLink(c)).join(' · ') + '</p>' : '')).join('')
   };
 }
 function pageNames() {
@@ -303,7 +332,7 @@ function pageMissing() {
   return {
     path: '404.html', title: 'Page Not Found · ' + SITE_NAME, description: 'Nothing is published at this address.', noindex: true,
     html: '<h1>Page Not Found</h1><p class="inote"><span>Nothing is published at this address.</span></p>' +
-      '<ul><li><a href="' + U.home() + '">Home</a></li><li><a href="' + U.checks() + '">Checks</a></li><li><a href="' + U.names() + '">People &amp; Organisations</a></li><li><a href="' + U.map() + '">Map</a></li><li><a href="' + U.method() + '">How We Checked</a></li></ul>'
+      '<ul><li><a href="' + U.home() + '">Home</a></li><li><a href="' + U.checks() + '">Checks</a></li>' + (LEDGER ? '<li><a href="' + U.balance() + '">The Balance Sheet</a></li>' : '') + '<li><a href="' + U.names() + '">People &amp; Organisations</a></li><li><a href="' + U.map() + '">Map</a></li><li><a href="' + U.method() + '">How We Checked</a></li></ul>'
   };
 }
 
@@ -337,6 +366,7 @@ const coreNodes = nodes.map(n => {
   return o;
 });
 const coreRels = arr(G.rels).map(r => { const o = {}; for (const k of Object.keys(r)) if (k !== 'S' && k !== 'T') o[k] = r[k]; return o; });   // same order: timelines index into it
+const LEDGER_FILE = LEDGER ? asset('ledger', 'json', JSON.stringify(LEDGER)) : '';
 const CORE = asset('core', 'js', '/* Generated by make_site.mjs from map/graph-data.js. */\nwindow.GRAPH=' + JSON.stringify({ meta: G.meta, nodes: coreNodes, links: G.links, rels: coreRels }) + ';\n');
 
 const PRE_CSS = `
@@ -355,6 +385,11 @@ const PRE_CSS = `
 .pre .pre-rows { list-style: none; padding: 0; }
 .pre .pre-rows li { margin: 12px 0; }
 .pre .pre-src { font-size: 15px; }
+.pre .pre-scroll { overflow-x: auto; }
+.pre .pre-table { width: 100%; border-collapse: collapse; font-size: 15px; }
+.pre .pre-table th, .pre .pre-table td { padding: 7px 14px 7px 0; border-bottom: 1px solid var(--rule); text-align: left; vertical-align: top; font-weight: 400; }
+.pre .pre-table .pre-num { white-space: nowrap; text-align: right; font-variant-numeric: lining-nums tabular-nums; }
+.pre dt { margin-top: 12px; } .pre dd { margin: 2px 0 0; }
 `;
 const css = ['style.css', 'matrix.css', 'ui.css'].map(read).join('\n') + PRE_CSS;
 if (/@import|@charset/.test(css)) throw new Error('The stylesheets cannot be joined: one uses @import or @charset.');
@@ -377,13 +412,13 @@ const MANIFEST = asset('site', 'webmanifest', JSON.stringify({
 }, null, 1));
 /* Runs before the page is drawn: tells app.js it is on the site (paths, not hashes) and applies a saved theme.
    It is a file, not an inline script, so the Content-Security-Policy can refuse all inline script. */
-const BOOT = asset('boot', 'js', 'window.__SITE__=' + JSON.stringify({ base: BASE, detail: BASE + 'assets/d/', prebuilt: true }) +
+const BOOT = asset('boot', 'js', 'window.__SITE__=' + JSON.stringify(Object.assign({ base: BASE, detail: BASE + 'assets/d/', prebuilt: true }, LEDGER_FILE ? { ledger: LEDGER_FILE } : {})) +
   ';try{var t=localStorage.getItem("tcm-theme");if(t==="dark"||t==="light")document.documentElement.setAttribute("data-theme",t)}catch(e){}\n');
 
 /* The page shell is map/index.html: its header, map view and footer, with the links written as paths. */
 const fontLinks = (tpl.match(/<link\b[^>]*fonts\.googleapis\.com[^>]*>/g) || []);
 let shell = tpl.replace(/<title>[\s\S]*?<\/title>\s*/, '').replace(/<meta name="claude:[^>]*>\s*/g, '').replace(/<link\b[^>]*>\s*/g, '').replace(/<script\b[^>]*><\/script>\s*/g, '').trim();
-for (const [from, to] of [['#home', U.home()], ['#claims', U.checks()], ['#names', U.names()], ['#map', U.map()], ['#method', U.method()]]) {
+for (const [from, to] of [['#home', U.home()], ['#claims', U.checks()], ['#balance', U.balance()], ['#names', U.names()], ['#map', U.map()], ['#method', U.method()]]) {
   if (!shell.includes('href="' + from + '"')) throw new Error('map/index.html: the link ' + from + ' was not found');
   shell = shell.split('href="' + from + '"').join('href="' + to + '"');
 }
@@ -425,6 +460,7 @@ function writePage(p) {
     ...fontLinks,
     '<link rel="stylesheet" href="' + CSS + '">',
     p.detail ? '<link rel="preload" as="fetch" crossorigin href="' + BASE + 'assets/d/' + p.detail + '">' : '',
+    p.ledger && LEDGER_FILE ? '<link rel="preload" as="fetch" crossorigin href="' + LEDGER_FILE + '">' : '',
     '<script src="' + BOOT + '"></script>',
     '<script defer src="' + CORE + '"></script>',
     '<script defer src="' + APP + '"></script>'
@@ -434,7 +470,7 @@ function writePage(p) {
   put(p.path.endsWith('.html') ? p.path : p.path + 'index.html', '<!doctype html>\n<html lang="en">\n<head>\n' + head + '\n</head>\n<body>\n' + body + '\n</body>\n</html>\n');
   pages.push(p);
 }
-[pageHome(), pageChecks(), ...claims.slice().sort(cmpClaim).map(pageCheck), pageNames(), ...entities.map(pageName), pageMethod(), pageMap(), pageMatrix(),
+[pageHome(), pageChecks(), ...claims.slice().sort(cmpClaim).map(pageCheck), ...(LEDGER ? [pageBalance()] : []), pageNames(), ...entities.map(pageName), pageMethod(), pageMap(), pageMatrix(),
   ...TOPICS.filter(t => t.list.length).map(pageMapTopic), pageMissing()].forEach(writePage);
 
 put('robots.txt', 'User-agent: *\nAllow: /\n' + (ORIGIN ? 'Sitemap: ' + ORIGIN + BASE + 'sitemap.xml\n' : ''));

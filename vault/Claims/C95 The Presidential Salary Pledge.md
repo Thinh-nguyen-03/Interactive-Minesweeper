@@ -45,7 +45,8 @@ Trump has said repeatedly in his second term that he does not keep his $400,000 
 - Claimed: the second-term salary goes to federal agencies, as in the first term. The record shows that the only documented second-term recipient is a private nonprofit, not a government agency.
 - Claimed: Trump is the only president besides Washington to give up his pay. The record shows that Hoover and Kennedy also did, and that Washington accepted his salary.
 - Claimed: the second-term donations total $400,000 (one aggregator's figure for the first paycheck). The record shows that pay is monthly at about $33,333 gross, and the recipient itself reports $66,000 through late October 2025.
-- Claimed (Wall Street Journal, October 25, 2025, since corrected): Trump had contributed $50 million to the White House Historical Association since January. The record shows: the association's October 27, 2025 statement calls that untrue and credits him with $66,000 of salary.
+- **Claimed:** Trump had contributed $50 million to the White House Historical Association since January (Wall Street Journal, October 25, 2025, since corrected)  
+  **The record shows:** The association's October 27, 2025 statement calls that untrue and credits him with $66,000 of salary.
 
 ## What Is Unproven
 

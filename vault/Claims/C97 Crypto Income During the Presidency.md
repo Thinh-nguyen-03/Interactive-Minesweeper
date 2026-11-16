@@ -47,13 +47,20 @@ Trump's own disclosure for calendar 2025, filed with the Office of Government Et
 - The ALT5 Sigma (now AI Financial Corp.) treasury deal produced about $500M for the Trump family (partly accurate)
 - USD1: reserve income and the MGX-Binance settlement (partly accurate)
 - $MELANIA: Melania Trump's crypto income (partly accurate)
-- Claimed (C29, C42): Trump's 2025 World Liberty income is 'contested' at about $594M-$800M. The record shows: the filing itself resolves the dispute. Token sales are $526,810,321 (lines 124.3-124.12), the WLF Holdco stake sale is $65,625,000 (line 124.2) and the Stablecoin Holdco unit sale is $196,875,000 (line 114). $592.4M counts only DT Marks DEFI; $789.3M also counts DT Marks SC. C29's reconciliation is confirmed by the primary document, not just inferred.
-- Claimed (C42): Bloomberg and others report 'about $515-529M from token sales'. The record shows: the exact sum of the token-sale lines is $526.8M.
-- Claimed (C42): 'The 22.5B-token stake was valued at about $1.3B.' The record shows: that is CAP's valuation of World Liberty's 22.5B figure at $0.0594 (July 5, 2026), not a disclosed figure. Trump's filing lists 15.75B WLFI under DTTM Operations (wholly his), valued only as 'Over $50,000,000'. At $0.0468 on Nov. 16, 2026, the 15.75B would be worth about $737M and 22.5B about $1.05B before any lock-up discount; Forbes carries Trump's WLFI at about $78M.
-- Claimed (Reuters wording, repeated in C01): Trump reported $635M 'from the sale of his Trump meme coins'. The record shows: the filing lists $635,068,835 of royalties to CIC Digital under a license agreement with 'Celebration Coins', not token sales by Trump.
-- Claimed (C06): no reporting shows whether the second $250M of the Aryam deal was paid. The record shows: still not documented. CAP notes that the $262.5M of disclosed stake-sale proceeds equals 75% x 70% of the full $500M, which would fit full payment; this is an inference.
-- Claimed (C55): Reuters' $2.3B is 'from four crypto ventures'. The record shows: about $70M of it is the paper value of Eric Trump's American Bitcoin stake, so it is not purely cash; and ALT5's roughly $500M sits inside the World Liberty figure.
-- Claimed (House Oversight Democratic staff, January 2026): WLF sold at least $2.165B in tokens, including $1.45B from ALT5. The record shows: half of the ALT5 deal was WLFI exchanged for ALT5 shares, not tokens sold for cash. Reuters and CAP put ALT5's cash purchase of WLFI at $717M.
+- **Claimed:** Trump's 2025 World Liberty income is 'contested' at about $594M-$800M (C29, C42)  
+  **The record shows:** The filing itself resolves the dispute. Token sales are $526,810,321 (lines 124.3-124.12), the WLF Holdco stake sale is $65,625,000 (line 124.2) and the Stablecoin Holdco unit sale is $196,875,000 (line 114). $592.4M counts only DT Marks DEFI; $789.3M also counts DT Marks SC. C29's reconciliation is confirmed by the primary document, not just inferred.
+- **Claimed:** Bloomberg and others report 'about $515-529M from token sales' (C42)  
+  **The record shows:** The exact sum of the token-sale lines is $526.8M.
+- **Claimed:** 'The 22.5B-token stake was valued at about $1.3B.' (C42)  
+  **The record shows:** That is CAP's valuation of World Liberty's 22.5B figure at $0.0594 (July 5, 2026), not a disclosed figure. Trump's filing lists 15.75B WLFI under DTTM Operations (wholly his), valued only as 'Over $50,000,000'. At $0.0468 on Nov. 16, 2026, the 15.75B would be worth about $737M and 22.5B about $1.05B before any lock-up discount; Forbes carries Trump's WLFI at about $78M.
+- **Claimed:** Trump reported $635M 'from the sale of his Trump meme coins' (Reuters wording, repeated in C01)  
+  **The record shows:** The filing lists $635,068,835 of royalties to CIC Digital under a license agreement with 'Celebration Coins', not token sales by Trump.
+- **Claimed:** No reporting shows whether the second $250M of the Aryam deal was paid (C06)  
+  **The record shows:** Still not documented. CAP notes that the $262.5M of disclosed stake-sale proceeds equals 75% x 70% of the full $500M, which would fit full payment; this is an inference.
+- **Claimed:** Reuters' $2.3B is 'from four crypto ventures' (C55)  
+  **The record shows:** About $70M of it is the paper value of Eric Trump's American Bitcoin stake, so it is not purely cash; and ALT5's roughly $500M sits inside the World Liberty figure.
+- **Claimed:** WLF sold at least $2.165B in tokens, including $1.45B from ALT5 (House Oversight Democratic staff, January 2026)  
+  **The record shows:** Half of the ALT5 deal was WLFI exchanged for ALT5 shares, not tokens sold for cash. Reuters and CAP put ALT5's cash purchase of WLFI at $717M.
 - 2026-11-16 audit: this check earlier valued Trump's WLFI holding on the basis of 22.5B tokens 'held by DT Marks DEFI and family members'. The filing attributes 15.75B to DTTM Operations, not to DT Marks DEFI; the paper-value row for Trump now uses 15.75B ($78M-$737M), with 22.5B kept as the family-wide figure.
 - 2026-11-16 audit: the $1.44B total includes Stablecoin Holdco's $8.3M operating income (a company-level figure, not a distribution) and Melania Trump's $6.0M; the receipt lines for Trump's entities alone are $1.424B ($1.427B with staking and interest), matching C96.
 

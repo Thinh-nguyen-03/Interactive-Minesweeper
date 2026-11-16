@@ -37,7 +37,8 @@ Binance listed USD1 early (2025-05-22, after HTX, MEXC and KuCoin) and ran a cap
 
 ## What Needs Correcting
 
-- Claimed (by implication): Binance was among the very first to list USD1. The record shows: HTX, MEXC and KuCoin listed it before Binance's 2025-05-22 listing.
+- **Claimed:** Binance was among the very first to list USD1 (by implication)  
+  **The record shows:** HTX, MEXC and KuCoin listed it before Binance's 2025-05-22 listing.
 - **Claimed:** Customers were paid 20% annual yield  
   **The record shows:** A capped (~50,000 USD1/user per reports), roughly one-month promotional APR of 'up to' 20% (Dec 2025-Jan 2026).
 - **Claimed:** WLF makes $159M annually  

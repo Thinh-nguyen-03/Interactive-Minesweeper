@@ -1,11 +1,12 @@
 # The Trump Connection
 
-An interactive investigative map of the documented business, financial and political connections around Donald Trump, his family and his administration, with source-cited checks of 94 claims.
+An interactive investigative map of the documented business, financial and political connections around Donald Trump, his family and his administration, with source-cited checks of 103 claims.
 
-It is a static website with four parts:
+It is a static website with five parts:
 
 - **Checks.** Each claim is split into separate points, tested against the public record, and given a verdict, with corrections, the other side's response and every source listed.
-- **People & Organisations.** A profile for each of about 1,300 names, with its documented connections, largest sums, timeline and the checks that mention it.
+- **The Balance Sheet.** The presidential salary Donald Trump says he does not take, set beside the income, paper value and settlements documented for him and his family during the term. Every figure is one row of a sourced ledger, and rows that overlap are never added together.
+- **People & Organisations.** A profile for each of about 1,400 names, with its documented connections, largest sums, timeline and the checks that mention it.
 - **Network.** A 3D graph of every name and every documented link, which you can rotate, zoom, filter by topic and trace paths through.
 - **Matrix.** A clustered heatmap of who is linked to whom, with the evidence behind each pair.
 
@@ -15,15 +16,16 @@ This is a verification project, not an accusation. Everyone named denies wrongdo
 
 | | Count |
 |---|---|
-| Checks of claims and of the questions they raised | 60 |
+| Checks of claims and of the questions they raised | 69 |
 | Connection checks (cross-referencing across checks) | 34 |
 | Topics the checks are grouped under | 9 |
-| Individual points checked | 834 |
-| Sources cited | about 3,300 |
-| People, organisations and other names | 1,332 |
-| Documented links between them | 2,926 |
+| Individual points checked | 938 |
+| Sources cited | about 3,700 |
+| People, organisations and other names | 1,392 |
+| Documented links between them | 3,121 |
+| Ledger rows behind the balance sheet | 125 |
 
-Verdicts across the 94 checks: 2 confirmed, 79 mostly accurate, 11 partly accurate, 2 unverified. Of the 834 points, 589 hold up, 146 needed correcting and 99 are unproven. All 94 checks have had an independent second review. `python3 build.py` prints the current counts.
+Verdicts across the 103 checks: 3 confirmed, 85 mostly accurate, 13 partly accurate, 2 unverified. Of the 938 points, 658 hold up, 162 needed correcting and 118 are unproven. All 103 checks have had an independent second review. `python3 build.py` prints the current counts.
 
 "Mostly accurate" usually means the core facts hold and specific figures, dates or framings needed correcting. The corrections are listed on each check's page.
 
@@ -33,7 +35,7 @@ The nine topics are Family Ventures & Wealth; Crypto Ventures; Trump Media & Mar
 
 1. The starting point was a set of claims in public circulation about the Trump family's business dealings: the crypto ventures, the Gulf investments, Trump Media, the pardons and the dropped enforcement cases. Each was written down as a specific claim that can be tested (`data/claims-index.json`).
 2. Each claim was researched by its own AI research agent, which split it into separate points, checked every figure, date and name against news reporting, filings and official releases, and recorded what the people named say in reply.
-3. Related stories and open questions that surfaced along the way became further checks, each researched the same way.
+3. Related stories and open questions that surfaced along the way became further checks, each researched the same way. Six of them (C95 to C100) test the no-salary statement against the President's own disclosure filings, SEC filings and court records, and record every documented sum as a ledger row. Three (C101 to C103) cover allegations of trading ahead of announcements, under a stricter rule: well-timed volume is not proof, and an allegation without an identified trader or an official finding is unverified.
 4. Connection checks then cross-referenced the finished files for recurring lawyers, lobbyists, financiers, shell entities, investors and foreign partners, and searched outward to confirm and date each link.
 5. An independent second reviewer re-checked the most consequential assertions in each check with fresh searches and corrected the files where needed. Each check's file records the result in an `audit` field.
 
@@ -62,6 +64,7 @@ An inferred link is never presented as fact, and unverified links are drawn diff
 - Most findings rest on search-result excerpts that agree across several outlets, not on reading the original articles, filings or court dockets in full. This is why most checks are rated medium confidence.
 - Two checks (C37 and C46, about Jared Kushner) are single-source allegations from one book, denied by everyone named. They are marked unverified wherever they appear.
 - The inference that a payment bought an official act is not established in any check. Where a claim implies it, the point is marked unverified.
+- The balance sheet shows gross receipts as reported, paper values on stated dates and outside estimates. It does not show profit, and income received during the presidency is not shown to be income received because of it.
 - Research ran in November 2026. Later developments are not reflected.
 
 ## Running it locally
@@ -96,14 +99,14 @@ Any other static host works the same way: run `node make_site.mjs` and publish t
 
 `map/` is the source of the interface: `index.html`, the stylesheets, `app.js`, `matrix.js` and the generated `graph-data.js`. `make_site.mjs` turns it into the deployable site:
 
-- **One pre-built page per address**: `/`, `/checks/`, `/checks/<ID>/`, `/names/`, `/names/<slug>/`, `/method/`, `/map/`, `/map/matrix/`, `/map/topic/<slug>/`, plus `404.html`. Each has its own title, description and link-preview tags, and carries its text in the HTML, so it is readable before any script runs.
-- **Split data**: a core file for the lists, search, network and matrix (about 260 KB compressed), and one detail file per check, fetched when that check is opened.
+- **One pre-built page per address**: `/`, `/checks/`, `/checks/<ID>/`, `/balance/`, `/names/`, `/names/<slug>/`, `/method/`, `/map/`, `/map/matrix/`, `/map/topic/<slug>/`, plus `404.html`. Each has its own title, description and link-preview tags, and carries its text in the HTML, so it is readable before any script runs.
+- **Split data**: a core file for the lists, search, network and matrix (about 260 KB compressed), one detail file per check, fetched when that check is opened, and one ledger file, fetched when the balance sheet is opened.
 - **Hashed assets** under `/assets/`, cacheable for a year.
 - **Headers** set in `render.yaml`: a Content-Security-Policy that allows scripts and data from the site only and fonts from Google Fonts, and revalidation for pages so a new deploy is picked up at once.
 
 A topic has no page of its own; it is a section of the checks list (`/checks/#topic-<slug>`). A selection on the map is `/map/#<slug or ID>`.
 
-`map/` can also be opened as a single page with hash addresses (`#C06`, `#name-jared-kushner`, `#map`), which is how preview builds are published. `app.js` serves both forms: the site's pages set `window.__SITE__`, which switches links to real paths and navigation to the History API. All links are made by one function, `U()`, at the top of `app.js`.
+`map/` can also be opened as a single page with hash addresses (`#C06`, `#balance`, `#name-jared-kushner`, `#map`), which is how preview builds are published. `app.js` serves both forms: the site's pages set `window.__SITE__`, which switches links to real paths and navigation to the History API. All links are made by one function, `U()`, at the top of `app.js`.
 
 ### Checks
 
@@ -111,7 +114,7 @@ A topic has no page of its own; it is a section of the checks list (`/checks/#to
 node make_site.mjs
 node tools/check_links.js     # every internal link in every page resolves
 node tools/crawl_site.js      # Playwright: content in the raw HTML, the interface, navigation, old addresses, 404, sizes
-node cook/harness/shots.js 10 && node cook/harness/globefunc.js && node cook/harness/contrast.js   # single-page build: renders, network behaviour, text contrast
+node cook/harness/shots.js 12 && node cook/harness/globefunc.js && node cook/harness/contrast.js   # single-page build: renders, network behaviour, text contrast
 ```
 
 `node tools/make_og.js` redraws the link-preview image `static/og.png`. These checks need Playwright; the site build does not.
@@ -124,8 +127,10 @@ node cook/harness/shots.js 10 && node cook/harness/globefunc.js && node cook/har
 | `data/topics.json` | The nine topics, in display order, with a one-line description each |
 | `data/claims/Cxx.json` | Structured findings per check: verdict, sub-claims, corrections, denials, sources, entities, relationships, leads, audit |
 | `research/Cxx-*.md` | The long-form report for each check |
+| `data/ledger/Cxx.json` | Ledger rows for C95 to C100: one documented sum each, with recipient, kind, range, period, basis, grade, sources and overlap notes |
+| `data/balance-sheet.json` | The balance sheet page: which ledger rows appear where, the row ids behind each subtotal, and the groups of rows that are the same money |
 | `data/base-graph.json` | Shared entities, relationships and recurring themes |
-| `build.py` | Merges everything into `map/graph-data.js` and the Obsidian vault |
+| `build.py` | Merges everything into `map/graph-data.js` and the Obsidian vault; validates the ledger and computes every figure on the balance sheet |
 | `map/` | The interface source |
 | `make_site.mjs` | Builds `site/`, the deployable static site (Node, no dependencies) |
 | `render.yaml`, `.node-version` | The Render blueprint and the Node version it builds with |

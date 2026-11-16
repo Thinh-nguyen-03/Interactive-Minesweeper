@@ -47,14 +47,22 @@ Trump's annual OGE Form 278e for calendar 2025 (927 PDF pages, received 29 June 
 
 ## What Needs Correcting
 
-- Claimed (C42, C11): Trump 'disclosed about $57M from WLF' for 2024. The record shows: the $57,355,532 is booked on the line for World Liberty Financial, Inc. as that company's token-sale revenue (100% owned by WLF Holdco, then 75% owned by DT Marks DEFI). It is not a distribution to Trump; DT Marks DEFI's own line shows no 2024 income.
-- Claimed (C29, C42): The Block itemizes '$236.25M of token proceeds'. The record shows: $236,250,000 is only the cash line (124.3). The filing lists nine further crypto-wallet lines of token-sale proceeds distributed by WLF, for $526,810,321 in total.
-- Claimed (C42): DT Marks DEFI's stake in WLF Holdco was 'reported at about 60%, then 40%, then 38.25%'. The record shows: the filings give 75% at the end of 2024 (line 390, 2025 report) and 38.25% at the end of 2025 (line 405, 2026 report). Intermediate figures come from press and company statements, not from the forms.
-- Claimed (C42): 'The 22.5B-token stake was valued at about $1.3B.' The record shows: the forms list 15.75 billion WLFI governance tokens under DTTM Operations, valued only as 'Over $50,000,000'. 15.75B is 70% of the 22.5B allocation, consistent with the 30% family share of DT Marks DEFI (our arithmetic). The $1.3B is a press valuation, not a disclosed figure.
-- Claimed (C29): WLF component is 'about $594M' per Bloomberg. The record shows: $526.81M of token proceeds plus $65.63M from the equity sale is $592.44M; adding $1.82M of staking rewards gives about $594.3M. The Stablecoin Holdco figure is exactly $196,875,000, on the DT Marks SC line, not a WLF line.
-- Claimed (C11, C29, C42): the figures are described as income 'Trump' made. The record shows: the crypto receipts are listed on the lines of DT Marks DEFI and DT Marks SC, which are 70% owned through Trump's companies and 30% by unnamed 'Trump Family Members'. The form does not say whether the amounts are the entities' totals or Trump's share, so they are entity-line amounts, not a stated personal figure (2026-11-16 audit; this replaces an earlier wording that called them entity totals).
-- Claimed (some outlets, AP): Trump 'owes E. Jean Carroll $50 million'. The record shows: the form lists one Carroll judgment at 'Over $50,000,000' and another at $1,000,001 to $5,000,000; the exact amounts are not on the form.
-- Claimed (InvestmentNews): an 847-page report. The record shows: the PDF has 927 pages; the form proper is paginated '1 of 847', followed by a 23-page Schedule 1 and a trademark exhibit.
+- **Claimed:** Trump 'disclosed about $57M from WLF' for 2024 (C42, C11)  
+  **The record shows:** The $57,355,532 is booked on the line for World Liberty Financial, Inc. as that company's token-sale revenue (100% owned by WLF Holdco, then 75% owned by DT Marks DEFI). It is not a distribution to Trump; DT Marks DEFI's own line shows no 2024 income.
+- **Claimed:** The Block itemizes '$236.25M of token proceeds' (C29, C42)  
+  **The record shows:** $236,250,000 is only the cash line (124.3). The filing lists nine further crypto-wallet lines of token-sale proceeds distributed by WLF, for $526,810,321 in total.
+- **Claimed:** DT Marks DEFI's stake in WLF Holdco was 'reported at about 60%, then 40%, then 38.25%' (C42)  
+  **The record shows:** The filings give 75% at the end of 2024 (line 390, 2025 report) and 38.25% at the end of 2025 (line 405, 2026 report). Intermediate figures come from press and company statements, not from the forms.
+- **Claimed:** 'The 22.5B-token stake was valued at about $1.3B.' (C42)  
+  **The record shows:** The forms list 15.75 billion WLFI governance tokens under DTTM Operations, valued only as 'Over $50,000,000'. 15.75B is 70% of the 22.5B allocation, consistent with the 30% family share of DT Marks DEFI (our arithmetic). The $1.3B is a press valuation, not a disclosed figure.
+- **Claimed:** WLF component is 'about $594M' per Bloomberg (C29)  
+  **The record shows:** $526.81M of token proceeds plus $65.63M from the equity sale is $592.44M; adding $1.82M of staking rewards gives about $594.3M. The Stablecoin Holdco figure is exactly $196,875,000, on the DT Marks SC line, not a WLF line.
+- **Claimed:** The figures are described as income 'Trump' made (C11, C29, C42)  
+  **The record shows:** The crypto receipts are listed on the lines of DT Marks DEFI and DT Marks SC, which are 70% owned through Trump's companies and 30% by unnamed 'Trump Family Members'. The form does not say whether the amounts are the entities' totals or Trump's share, so they are entity-line amounts, not a stated personal figure (2026-11-16 audit; this replaces an earlier wording that called them entity totals).
+- **Claimed:** Trump 'owes E. Jean Carroll $50 million' (some outlets, AP)  
+  **The record shows:** The form lists one Carroll judgment at 'Over $50,000,000' and another at $1,000,001 to $5,000,000; the exact amounts are not on the form.
+- **Claimed:** An 847-page report (InvestmentNews)  
+  **The record shows:** The PDF has 927 pages; the form proper is paginated '1 of 847', followed by a 23-page Schedule 1 and a trademark exhibit.
 - 2026-11-16 audit: the $42,250,000 wallet line (124.4) is labelled 'Cryptocurrency Wallet Virtual USD Key' on the form, not USD1; the earlier text named it USD1. The combined crypto total with staking and interest is $1.427B, not $1.428B.
 
 ## In More Detail
@@ -192,7 +200,8 @@ Trump's annual OGE Form 278e for calendar 2025 (927 PDF pages, received 29 June 
 
 **Confirmed**
 
-- The 2026 filing lists: - **Speaking:** $200,000, a balance from a 4 December 2022 fundraising event in Naples, Florida, paid in May 2025 and 'omitted from last year's filing'. - **Pensions:** SAG $77,808 and AFTRA $8,724. - **Legal settlements, $86.5M in total:** X Corp. $8M; ABC $16M, CBS $16M and Meta $24.5M, with net proceeds paid to the Trump presidential library foundation; Alphabet/YouTube $22M, paid to the Trust for the National Mall. - **Part 9 gifts:** $372,050, including a $250,000 sculpture from Sticker Mule's founder and event tickets from Rolex, FIFA's president, the PGA of America and others.
+- The 2026 filing lists: - **Speaking:** $200,000, a balance from a 4 December 2022 fundraising event in Naples, Florida, paid in May 2025 and 'omitted from last year's filing'. - **Pensions:** SAG $77,808 and AFTRA $8,724. - **Legal settlements, $86.5M in total:** X Corp. $8M; ABC $16M, CBS $16M and Meta $24.5M, with net proceeds paid to the Trump presidential library foundation; Alphabet/YouTube $22M, paid to the Trust for the National Mall.
+- Only the $8M from X is reported as Trump's own settlement income, and whether he kept it is not documented; the other $78.5M was directed to the foundation or the Trust and is not counted as his income (C100). - **Part 9 gifts:** $372,050, including a $250,000 sculpture from Sticker Mule's founder and event tickets from Rolex, FIFA's president, the PGA of America and others.
 - The Trump Organization LLC administrative office separately reports $30,200,775 of 'business income and legal settlements' with no breakdown.
 - Part 4 (compensation over $5,000) is 'N/A'.
 - The presidential salary is government income and is not a reportable item on the form.
@@ -262,7 +271,7 @@ Trump's annual OGE Form 278e for calendar 2025 (927 PDF pages, received 29 June 
 - [[Anna Kelly]] · Person
 - [[Base Group (Base Co., Ltd.)]] · Company
 - [[Celebration Cards LLC]] · Company
-- [[Charles Schwab]] · Person
+- [[Charles Schwab Corporation]] · Company
 - [[CIC Digital LLC]] · Company
 - [[CIC Ventures LLC]] · Company
 - [[Citizens for Responsibility and Ethics in Washington]] · Company
@@ -304,7 +313,7 @@ Trump's annual OGE Form 278e for calendar 2025 (927 PDF pages, received 29 June 
 - [[Reliance Industries]] *Reliance 4IR Realty paid development fee (Mumbai)* [[Trump Organization]] · 2024 · $10M · [[C96 What Trump's Own Financial Disclosures Report|C96]]
 - [[Base Group (Base Co., Ltd.)]] *paid non-refundable development fee* [[Trump Organization]] · 2025 · $2M · [[C96 What Trump's Own Financial Disclosures Report|C96]]
 - [[Celebration Cards LLC]] *paid meme-coin royalties to (licensee named 'Celebration Coins' on form)* [[CIC Digital LLC]] · 2025 · $635.07M · [[C96 What Trump's Own Financial Disclosures Report|C96]]
-- [[Charles Schwab]] *pledged-asset line, over $50M* [[Donald Trump]] · 2025 · $50M · [[C96 What Trump's Own Financial Disclosures Report|C96]]
+- [[Charles Schwab Corporation]] *pledged-asset line, over $50M* [[Donald Trump]] · 2025 · $50M · [[C96 What Trump's Own Financial Disclosures Report|C96]]
 - [[CIC Ventures LLC]] *2025 book and merchandise royalties* [[Donald Trump]] · 2025 · $8.05M · [[C96 What Trump's Own Financial Disclosures Report|C96]]
 - [[Damac Properties]] *paid 2025 licence and golf-management fees* [[Trump Organization]] · 2025 · $12.59M · [[C96 What Trump's Own Financial Disclosures Report|C96]]
 - [[Dar Al Arkan]] *paid 2025 licence fees (Dubai DG, KSA, Oman)* [[Trump Organization]] · 2025 · $20.55M · [[C96 What Trump's Own Financial Disclosures Report|C96]]
@@ -543,7 +552,7 @@ Legacy book royalties, such as The Art of the Deal at $100,001 to $1,000,000, ar
 
 - **Speaking:** $200,000, the balance for a December 2022 fundraising event, paid in May 2025.
 - **Pensions:** SAG and AFTRA, $86,532 in total.
-- **Settlements:** $86.5M in total. Of that, $8M came from X Corp. ABC ($16M), CBS ($16M) and Meta ($24.5M) are listed with net proceeds paid to the presidential library foundation, and Alphabet/YouTube's $22M went to the Trust for the National Mall.
+- **Settlements:** $86.5M in total on the line. Of that, only the $8M from X Corp. is reported as Trump's own settlement income, and whether he kept it is not documented. ABC ($16M), CBS ($16M) and Meta ($24.5M) are listed with net proceeds paid to the presidential library foundation, and Alphabet/YouTube's $22M went to the Trust for the National Mall: that $78.5M is not counted as his income (ledger rows C96-29 and C96-29b; see C100).
 - **Unexplained line:** a separate Trump Organization LLC line of $30.2M is labelled "business income and legal settlements".
 - **Gifts (Part 9):** $372,050 in total, including a $250,000 sculpture from Sticker Mule's founder.
 - **Compensation:** Part 4 is "N/A". The presidential salary is not a reportable item on the form.

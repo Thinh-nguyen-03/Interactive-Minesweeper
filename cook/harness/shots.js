@@ -18,6 +18,11 @@ const SHOTS=[
  {id:'S10',hash:'#C06',vp:P,scheme:'light'},
  {id:'S11',hash:'#map-matrix',vp:D,scheme:'light'},
  {id:'S12',hash:'#map-topic-gulf-money',vp:D,scheme:'light'},
+ {id:'S13',hash:'#balance',vp:D,scheme:'light'},
+ {id:'S14',hash:'#balance',vp:D,scheme:'dark'},
+ {id:'S15',hash:'#balance',vp:P,scheme:'light'},
+ {id:'S16',hash:'#C101',vp:D,scheme:'light'},
+ {id:'S17',hash:'#C102',vp:P,scheme:'light'},
 ];
 (async()=>{
   const port=8700+Math.floor(Math.random()*200); const s=await serve(port);

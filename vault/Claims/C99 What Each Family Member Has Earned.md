@@ -50,10 +50,14 @@ Only one family member's 2025 income is itemised in a public filing: Melania Tru
 - Amazon paid about $40M for the Melania film, most of it to the First Lady (partly accurate)
 - Barron Trump has earned tens of millions from World Liberty and is worth about $150M (partly accurate)
 - Kushner gained from the EA buyout and the Paramount bid (partly accurate)
-- Claimed (C44): outlets split on whether the $10.71M film fee is Donald Trump's or Melania Trump's income. The record shows: the primary 2025 OGE report lists it in Part 5, 'Spouse's Employment Assets & Income', under MKT World LLC, alongside $6,011,259 of NFT proceeds and $521,161 from the memoir. It is her income reported on his form.
-- Claimed (C42, C04): DT Marks DEFI is a 'Trump-owned' entity. The record shows: the 2024 and 2025 OGE reports list it as 69% DTTM Operations (the President's trust structure), 1% DT Marks Defi Member Corp and 30% 'Trump Family Members'. DT Marks SC has the same split. So part of the World Liberty money accrues to unnamed relatives. CAP's memo describes the split as 70/30.
-- Claimed (C29): Forbes estimated Eric Trump at about $400M (Dec 2025). The record shows: that figure has been superseded. Forbes put him at about $280M on 28 Apr 2026.
-- Claimed (C29): Eric's American Bitcoin stake was worth about $160M (Dec 2025). The record shows: that was right for early December (about $166M at the 4 Dec 2025 close, our arithmetic). It fell to about $116M by the 31 Dec 2025 close and, on 68,432,664 pre-split shares after the July 2026 1-for-15 reverse split, to about $23M at the $5.07 close on 13 Nov 2026.
+- **Claimed:** Outlets split on whether the $10.71M film fee is Donald Trump's or Melania Trump's income (C44)  
+  **The record shows:** The primary 2025 OGE report lists it in Part 5, 'Spouse's Employment Assets & Income', under MKT World LLC, alongside $6,011,259 of NFT proceeds and $521,161 from the memoir. It is her income reported on his form.
+- **Claimed:** DT Marks DEFI is a 'Trump-owned' entity (C42, C04)  
+  **The record shows:** The 2024 and 2025 OGE reports list it as 69% DTTM Operations (the President's trust structure), 1% DT Marks Defi Member Corp and 30% 'Trump Family Members'. DT Marks SC has the same split. So part of the World Liberty money accrues to unnamed relatives. CAP's memo describes the split as 70/30.
+- **Claimed:** Forbes estimated Eric Trump at about $400M (Dec 2025) (C29)  
+  **The record shows:** That figure has been superseded. Forbes put him at about $280M on 28 Apr 2026.
+- **Claimed:** Eric's American Bitcoin stake was worth about $160M (Dec 2025) (C29)  
+  **The record shows:** That was right for early December (about $166M at the 4 Dec 2025 close, our arithmetic). It fell to about $116M by the 31 Dec 2025 close and, on 68,432,664 pre-split shares after the July 2026 1-for-15 reverse split, to about $23M at the $5.07 close on 13 Nov 2026.
 - A circulating claim that Don Jr. 'sold 1,504,322 Dominari shares' misreads the May 2025 S-3 resale table. No sale is documented, which matches C39.
 - **Claimed:** The brothers 'own' about 20% of American Bitcoin  
   **The record shows:** That was the combined Trump-linked holders' stake at launch. Only Eric's stake appears in the proxy, and Don Jr.'s is undisclosed.

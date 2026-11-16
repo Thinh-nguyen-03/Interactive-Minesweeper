@@ -49,7 +49,8 @@ Disclosure filings document many well-timed trades around tariff and policy news
 - Traders have been identified for prediction-market bets tied to government decisions (partly accurate)
 - **Claimed:** The Transportation Secretary sold stock shortly before the April 2025 tariff announcements  
   **The record shows:** Duffy's reported sales were on 11 and 13 February 2025, around the 13 February reciprocal-tariff plan, not in April.
-- Claimed (C58 summary, read broadly): no public evidence ties Trump to trades around the tariff pause. The record shows: that statement holds for the unidentified options traders, but one of Trump's own accounts made 327 purchases ($3.6M-$12.8M by range) on 8 April 2025, disclosed on 30 June 2026 (verified in the OGE report); the filing does not show who directed them. Applied to C58 on 2026-11-16.
+- **Claimed:** No public evidence ties Trump to trades around the tariff pause (C58 summary, read broadly)  
+  **The record shows:** That statement holds for the unidentified options traders, but one of Trump's own accounts made 327 purchases ($3.6M-$12.8M by range) on 8 April 2025, disclosed on 30 June 2026 (verified in the OGE report); the filing does not show who directed them. Applied to C58 on 2026-11-16.
 - C65 gives Bondi's sale as $1M-$5M of shares plus $250K-$500K of warrants (Bloomberg Law: $1M-$5.5M combined). The two ranges add to $1.25M-$5.5M; no change of substance.
 - Dates of Rep. Greene's purchases differ by outlet: most reports give 8-9 April 2025, others add 2 April or 3-4 April. The $21,021-$315,000 total is consistent.
 - C13 does not mention the reported unusual trading in ALT5 Sigma before the 11 Aug 2025 announcement; The Block reported it without accusing the company.

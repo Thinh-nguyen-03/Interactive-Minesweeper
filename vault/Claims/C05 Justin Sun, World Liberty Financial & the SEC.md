@@ -40,7 +40,8 @@ The core facts hold up. Sun put a total of $75M into WLF ($30M in Nov 2024 plus 
 
 ## What Needs Correcting
 
-- Claimed (by implication): a single $75M investment. The record shows: $30M (Nov 2024) plus $45M via TRON DAO (Jan 2025).
+- **Claimed:** A single $75M investment (by implication)  
+  **The record shows:** $30M (Nov 2024) plus $45M via TRON DAO (Jan 2025).
 - 'Charged with fraud' refers to a civil SEC complaint with antifraud and market-manipulation counts, not a criminal charge.
 - The dismissal was not immediate. The SEC sought a stay in Feb 2025 and filed the settlement and dismissal in Mar 2026. Rainberry paid $10M without admitting wrongdoing, and the claims against Sun personally were dropped.
 - Whether the court has formally entered the final judgment is unconfirmed: reports conflict.

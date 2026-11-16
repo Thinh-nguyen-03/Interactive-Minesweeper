@@ -19,7 +19,7 @@ In December 2024, Trump moved his whole TMTG (DJT) stake, 114,750,000 shares or 
 On April 10, 2026, Trump posted praise of Palantir's "war fighting capabilities" and included the ticker "(PLTR)". Outlets described this as the first time a sitting president had endorsed a stock by its ticker [3][4]. Palantir had been down as much as 6% intraday. It briefly rose about 3% after the post and then closed lower [4]. Calling this "pumping" is a characterization.
 
 ### 3. Disclosures show purchases made before posts about those companies: confirmed, with nuance
-Trump's Q1 2026 OGE Form 278-T runs 113 pages and lists about 3,642-3,711 transactions, with a total value between $220M and $750M. A 2025 disclosure reportedly listed more than 21,000 trades [5][6][7][8]. Taken together, the filings plausibly add up to "hundreds of pages." The filing shows Palantir purchases of $247k-$630k in Q1 2026, including at least seven buys in March, a few weeks before the April 10 ticker post [3][9]. CBS News reported that some trades came before administration actions or before the president's own public statements about the companies [5].
+Trump's Q1 2026 OGE Form 278-T runs 113 pages and lists about 3,642-3,711 transactions, with a total value between $220M and $750M. The annual disclosure for 2025, released on 30 June 2026, lists about 21,000 transactions in 2025 [5][6][7][8]. Among them are 327 purchases ($3.6M to $12.8M) in one investment account on 8 April 2025, the day before the tariff pause, and 273 purchases in the same account on 10 April. A reviewer's note on that filing says late fees were paid for transactions not previously reported. The White House and the Trump Organization say the accounts are fully discretionary and managed by independent third parties; the filing does not show who placed or directed any trade. See C102. Taken together, the filings plausibly add up to "hundreds of pages." The filing shows Palantir purchases of $247k-$630k in Q1 2026, including at least seven buys in March, a few weeks before the April 10 ticker post [3][9]. CBS News reported that some trades came before administration actions or before the president's own public statements about the companies [5].
 
 There is also context that cuts the other way:
 - The disclosures give only value ranges.
@@ -81,3 +81,8 @@ Result: **upheld**. Re-checked the Palantir '(PLTR)' post (2026-04-10) and the $
 
 ### Balance-sheet review (16 Nov 2026)
 - Result: corrected. The 52-53% stake figure held only until the end of May 2025. The FY2025 10-K gives 220,657,014 shares outstanding at 31 Dec 2024 (114.75M is 52.0%) and a 55,857,181-share private placement on 29 May 2025. The Dec 2025 Schedule 13D/A gives 114,750,000 shares, 41.5% of 276,497,911, and the Nov 2026 merger prospectus gives about 41%. The trust remains the largest shareholder.
+
+### Trading review (16 Nov 2026)
+
+- Added from the 2025 annual report (OGE Form 278e, released 30 June 2026; read for C102): 327 purchases ($3.6M to $12.8M) in one investment account on 8 April 2025 and 273 on 10 April, among about 21,000 transactions in 2025, with the reviewer's note that late fees were paid for transactions not previously reported. https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf
+- Response recorded: the White House and the Trump Organization say the accounts are fully discretionary and managed by third parties. The detail is in C102.

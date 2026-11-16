@@ -52,9 +52,12 @@ The settlement amounts and recipients are well documented:
 - Headline figures differ from what was earmarked: YouTube $22M of $24.5M went to the ballroom trust, and Paramount's $16M includes plaintiff fees. For Meta, press reports and Meta give ~$22M of $25M for the library, but Trump's 2025 disclosure lists $24.5M of net proceeds paid to the foundation.
 - No payment from ABC, Meta, Paramount or YouTube went to Trump personally; that money went to escrow, a library nonprofit or the Trust for the National Mall. X's $8M is the exception: Trump's disclosure reports it as his own settlement income. 'Personally linked' otherwise rests on Trump's control of the library foundation and ballroom project.
 - ABC's $15M reportedly remained in escrow at Trump's lawyer's firm as of 2026.
-- Claimed (this check, before 16 Nov 2026): Meta paid about $22M of its $25M to the library. The record shows: Trump's 2025 OGE Form 278e lists $24.5M of net proceeds from the Meta settlement paid to the library foundation; Meta told lawmakers $22M was designated, and the difference is unexplained (correction dated 2026-11-16).
-- Claimed (this check, before 16 Nov 2026): ABC paid $15M to the library. The record shows: the 2025 OGE Form 278e lists the ABC settlement at $16M with net proceeds paid to the library foundation, although ABC said in March 2026 that the $15M was still in escrow; the $1M difference is unexplained (correction dated 2026-11-16).
-- Claimed (this check, before 16 Nov 2026): no payment went to Trump personally. The record shows: the 2025 OGE Form 278e reports $8M from the X settlement as Trump's own settlement income with no pass-through noted; whether he kept it is not documented, and lawmakers have asked whether the library foundation received it (correction dated 2026-11-16).
+- **Claimed:** Meta paid about $22M of its $25M to the library (this check, before 16 Nov 2026)  
+  **The record shows:** Trump's 2025 OGE Form 278e lists $24.5M of net proceeds from the Meta settlement paid to the library foundation; Meta told lawmakers $22M was designated, and the difference is unexplained (correction dated 2026-11-16).
+- **Claimed:** ABC paid $15M to the library (this check, before 16 Nov 2026)  
+  **The record shows:** The 2025 OGE Form 278e lists the ABC settlement at $16M with net proceeds paid to the library foundation, although ABC said in March 2026 that the $15M was still in escrow; the $1M difference is unexplained (correction dated 2026-11-16).
+- **Claimed:** No payment went to Trump personally (this check, before 16 Nov 2026)  
+  **The record shows:** The 2025 OGE Form 278e reports $8M from the X settlement as Trump's own settlement income with no pass-through noted; whether he kept it is not documented, and lawmakers have asked whether the library foundation received it (correction dated 2026-11-16).
 
 ## In More Detail
 

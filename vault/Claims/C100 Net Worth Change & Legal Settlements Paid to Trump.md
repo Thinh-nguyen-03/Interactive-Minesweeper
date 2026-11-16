@@ -48,15 +48,24 @@ Forbes and Bloomberg both estimate Donald Trump's fortune at several billion dol
 ## What Needs Correcting
 
 - Settlement money directed to the library foundation is accounted for (partly accurate)
-- Claimed (C33): Meta paid about $22M of $25M to the library. The record shows: Trump's 2025 OGE disclosure lists $24.5M of net proceeds paid to the library foundation from the Meta settlement; Meta told lawmakers $22M was designated. The difference is unexplained. (Applied to C33 on 16 Nov 2026.)
-- Claimed (C33): ABC paid $15M to the library. The record shows: the disclosure lists the ABC settlement at $16M with net proceeds paid to the foundation, while ABC's own March 2026 letter says the $15M was still in escrow pending release. The $1M difference and the timing are unexplained. (Applied to C33.)
-- Claimed (C33): no payment went to Trump personally. The record shows: the disclosure reports $8M from X as Trump's own settlement income with no note that it went to the foundation; whether he kept it is not documented. The statement holds for ABC, Meta, Paramount and YouTube. (Applied to C33.)
-- Claimed (C33): X paid about $10M. The record shows: the press figure is unchanged, but the disclosure lists $8M; how the other roughly $2M was split (fees, other parties) is unknown.
-- Claimed (C55): Bloomberg put the family at about $6.7B after the crypto slide. The record shows: Bloomberg's 20 Jan 2026 feature gives $6.8B and a secondary report citing Bloomberg gives about $6.6B; C55 also predates Bloomberg's 6 June 2026 figure of $7.8B and the Forbes 400 figure of about $7.0B (15 Sept 2026).
-- Claimed in secondary coverage: Forbes's March 2026 list shows $8.4B of assets and $1.1B of liabilities. The record shows: those numbers net to $7.3B, the Sept 2025 total, not $6.5B, so the attribution appears wrong; treated as unverified.
-- Claimed in some coverage: Forbes put Trump at about $6.3B on election day 2024. The record shows: Forbes's 2024 Forbes 400 figure was $4.3B (as of 1 Sept 2024), and Forbes's Sept 2026 article says he is about $2.7B richer than when he won the election at about $7.0B, implying about $4.3B. The $6.3B figure matches Bloomberg-range numbers; treated as unverified for Forbes.
-- Claimed in this check's first draft: some coverage gives a 2024 Forbes 400 figure of $3.9B, and the Forbes component split for Sept 2026 was unverified. The record shows: Forbes's own Oct 2024 article gives $4.3B (No. 319), and Forbes's own Sept 2026 breakdown confirms meme coin $183M, World Liberty tokens $78M, stablecoin business $233M and licensing and management $655M.
-- Claimed in this check's first draft: YouTube's $24.5M is the amount directed to the Trust for the National Mall (ledger range $22M-$24.5M). The record shows: only $22M went to the Trust; $2.5M went to co-plaintiffs.
+- **Claimed:** Meta paid about $22M of $25M to the library (C33)  
+  **The record shows:** Trump's 2025 OGE disclosure lists $24.5M of net proceeds paid to the library foundation from the Meta settlement; Meta told lawmakers $22M was designated. The difference is unexplained. (Applied to C33 on 16 Nov 2026.)
+- **Claimed:** ABC paid $15M to the library (C33)  
+  **The record shows:** The disclosure lists the ABC settlement at $16M with net proceeds paid to the foundation, while ABC's own March 2026 letter says the $15M was still in escrow pending release. The $1M difference and the timing are unexplained. (Applied to C33.)
+- **Claimed:** No payment went to Trump personally (C33)  
+  **The record shows:** The disclosure reports $8M from X as Trump's own settlement income with no note that it went to the foundation; whether he kept it is not documented. The statement holds for ABC, Meta, Paramount and YouTube. (Applied to C33.)
+- **Claimed:** X paid about $10M (C33)  
+  **The record shows:** The press figure is unchanged, but the disclosure lists $8M; how the other roughly $2M was split (fees, other parties) is unknown.
+- **Claimed:** Bloomberg put the family at about $6.7B after the crypto slide (C55)  
+  **The record shows:** Bloomberg's 20 Jan 2026 feature gives $6.8B and a secondary report citing Bloomberg gives about $6.6B; C55 also predates Bloomberg's 6 June 2026 figure of $7.8B and the Forbes 400 figure of about $7.0B (15 Sept 2026).
+- **Claimed:** Forbes's March 2026 list shows $8.4B of assets and $1.1B of liabilities (in secondary coverage)  
+  **The record shows:** Those numbers net to $7.3B, the Sept 2025 total, not $6.5B, so the attribution appears wrong; treated as unverified.
+- **Claimed:** Forbes put Trump at about $6.3B on election day 2024 (in some coverage)  
+  **The record shows:** Forbes's 2024 Forbes 400 figure was $4.3B (as of 1 Sept 2024), and Forbes's Sept 2026 article says he is about $2.7B richer than when he won the election at about $7.0B, implying about $4.3B. The $6.3B figure matches Bloomberg-range numbers; treated as unverified for Forbes.
+- **Claimed:** Some coverage gives a 2024 Forbes 400 figure of $3.9B, and the Forbes component split for Sept 2026 was unverified (in this check's first draft)  
+  **The record shows:** Forbes's own Oct 2024 article gives $4.3B (No. 319), and Forbes's own Sept 2026 breakdown confirms meme coin $183M, World Liberty tokens $78M, stablecoin business $233M and licensing and management $655M.
+- **Claimed:** YouTube's $24.5M is the amount directed to the Trust for the National Mall (ledger range $22M-$24.5M) (in this check's first draft)  
+  **The record shows:** Only $22M went to the Trust; $2.5M went to co-plaintiffs.
 
 ## In More Detail
 
@@ -190,7 +199,7 @@ Forbes and Bloomberg both estimate Donald Trump's fortune at several billion dol
 
 **Confirmed**
 
-- Announced 1-2 Jul 2025. Paramount said the $16M includes plaintiffs' fees and costs, that the remainder goes to the future library, that Trump receives nothing directly or indirectly, that there is no apology, and that 60 Minutes will release transcripts of candidate interviews.
+- Announced 1-2 Jul 2025. Paramount said the $16M includes plaintiffs' fees and costs, that the remainder goes to the future library, that Trump receives nothing directly or indirectly, that there is no apology, and that 60 Minutes will publish the full text of candidate interviews.
 - Paramount denied Trump's claim of about $20M in additional PSAs.
 - Pending at the time: FCC review of the Skydance merger, approved 24 Jul 2025 (C33).
 - Paramount and FCC Chair Carr said the two were unrelated, while Sen. Wyden called it a bribe.
@@ -554,7 +563,7 @@ Sources: [24]-[38], [52].
 #### Paramount
 - Paramount denied Trump's claim of about $20M in additional PSAs.
 - It said there is no apology.
-- It said 60 Minutes will release transcripts of candidate interviews.
+- It said 60 Minutes will publish the full text of candidate interviews.
 
 #### YouTube
 - The filing says no liability is admitted.

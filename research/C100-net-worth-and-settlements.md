@@ -111,7 +111,7 @@ Sources: [24]-[38], [52].
 ### Paramount
 - Paramount denied Trump's claim of about $20M in additional PSAs.
 - It said there is no apology.
-- It said 60 Minutes will release transcripts of candidate interviews.
+- It said 60 Minutes will publish the full text of candidate interviews.
 
 ### YouTube
 - The filing says no liability is admitted.

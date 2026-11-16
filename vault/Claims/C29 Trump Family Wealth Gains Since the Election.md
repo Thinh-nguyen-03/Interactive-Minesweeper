@@ -46,6 +46,7 @@ Trump's 2025 OGE disclosure (released June 30, 2026) shows crypto as his largest
   **The record shows:** The loss data covers wallets worldwide and does not show nationality.
 - The World Liberty component was given as a contested $594M-$800M range. The filing resolves it (2026-11-16): $592.4M on DT Marks DEFI's lines ($526,810,321 token proceeds plus $65,625,000 WLF Holdco equity sale) and $789.3M including DT Marks SC's $196,875,000 from Stablecoin Holdco. The reconciliation earlier marked as our inference is confirmed by the primary document.
 - 2026-11-16 (disclosure audit, C96/C97): Claimed: the World Liberty and meme-coin amounts are income 'Trump' made. The record shows: the World Liberty and stablecoin amounts are on the lines of DT Marks DEFI and DT Marks SC, which are 70% Trump's and 30% unnamed family members'; the form does not say whether they are entity totals or his share. The $635.1M meme-coin royalties go to CIC Digital, wholly his trust's, and are licence income, not coin sales.
+- 2026-11-16: Claimed: Forbes puts Eric Trump at about $400M. The record shows: that was Forbes' estimate of 2025-12-04, and Forbes superseded it with about $280M on 2026-04-28. The about $160M value of his American Bitcoin stake is as of 2025-12-04; the same stake was about $116M at the end of 2025 and about $23M on 2026-11-13. Forbes' about $300M for Donald Trump Jr. (2025-12-08) was itself down from about $500M in September 2025, and Kalshi ended his advisory role on 2026-11-12 (Kalshi calls it mutual).
 
 ## What Is Unproven
 
@@ -56,7 +57,7 @@ Trump's 2025 OGE disclosure (released June 30, 2026) shows crypto as his largest
 - Reuters, the NYT and Bloomberg count more than $1.4B from crypto within at least $2.2B total; the AP counted about $1.2B, apparently before a Stablecoin Holdco (USD1) line of about $197M was added.
 - The filing itself resolves the apparent dispute over the World Liberty share: $592.4M on DT Marks DEFI's lines ($526.8M of token proceeds plus $65.6M from a WLF Holdco equity sale), or $789.3M including $196.9M to DT Marks SC from Stablecoin Holdco, the USD1 business; outlets' 'about $594M' and 'almost $800M' are these two classifications.
 - The lines belong to entities 30% owned by unnamed family members, and the form does not say whether the amounts are entity totals or Trump's share.
-- TRUMP coin licensing added about $635M. The Forbes figures are real but dated: Eric about $400M and 10x (Dec 2025), Don Jr. about $300M and 6x (Dec 2025), Barron about $150M (Oct 2025).
+- TRUMP coin licensing added about $635M. The Forbes figures are real but dated: Eric about $400M and 10x (Dec 2025), since cut to about $280M (2026-04-28); Don Jr. about $300M and 6x (2025-12-08), down from about $500M (Sept 2025); Barron about $150M (Oct 2025).
 - Most TRUMP coin, WLFI and ABTC buyers are underwater.
 - The filing shows revenue, not profit, so 'most profitable year' cannot be verified, and the loss data does not show investors were specifically American.
 
@@ -107,22 +108,23 @@ Trump's 2025 OGE disclosure (released June 30, 2026) shows crypto as his largest
 **Confirmed**
 
 - Forbes (2025-12-04) estimated Eric at about $400M, 10x his level before the election.
-- His American Bitcoin stake was worth about $160M at the time.
+- His American Bitcoin stake was worth about $160M at the time (as of 2025-12-04); the same stake was about $116M at the end of 2025 and about $23M on 2026-11-13 (C99).
 - Eric disputed the valuation without giving an alternative.
-- The figure predates ABTC's further 87-95% slide, so it is probably lower now.
-- Amounts: about $400M; about $160M; 87-95%
-- Dates: 2025-12-04
-- Sources: [8](https://www.forbes.com/sites/kylemullins/2025/12/04/eric-trump-has-gotten-10-times-richer-since-dads-election/)
+- Forbes has since superseded the figure: on 2026-04-28 it estimated him at about $280M.
+- Amounts: about $400M; about $160M; about $116M; about $23M; about $280M
+- Dates: 2025-12-04; 2026-11-13; 2026-04-28
+- Sources: [8](https://www.forbes.com/sites/kylemullins/2025/12/04/eric-trump-has-gotten-10-times-richer-since-dads-election/) [24](https://www.forbes.com/sites/danalexander/2026/04/28/how-eric-trump-got-rich-from-bitcoin-while-losing-investors-a-fortune/)
 
 ### 4. Per Forbes, Don Jr. has gotten six times richer.
 
 **Confirmed**
 
 - Forbes (2025-12-08) estimated about $300M, six times his November 2024 level.
-- He had been near $500M in September 2025, before ABTC fell.
+- He had been near $500M in September 2025, before ABTC fell, so the December figure was already a decline.
+- One of the roles behind his holdings has since ended: Kalshi ended his advisory role on 2026-11-12, a decision Kalshi describes as mutual (C99).
 - Amounts: about $300M; $500M
-- Dates: 2025-12-08; November 2024; September 2025
-- Sources: [9](https://www.forbes.com/sites/kylemullins/2025/12/08/how-donald-trump-jrs-fortune-jumped-six-fold-in-a-year/)
+- Dates: 2025-12-08; November 2024; September 2025; 2026-11-12
+- Sources: [9](https://www.forbes.com/sites/kylemullins/2025/12/08/how-donald-trump-jrs-fortune-jumped-six-fold-in-a-year/) [25](https://unchainedcrypto.com/donald-trump-jr-leaves-kalshi-keeps-polymarket-role-a-week-after-democrats-win-congress/)
 
 ### 5. Per Forbes, Barron Trump is worth about $150M.
 
@@ -254,7 +256,7 @@ Trump's 2025 OGE disclosure (released June 30, 2026) shows crypto as his largest
   - Shows where the crypto windfall went; ties to the presidential trading disclosures.
   - [[Donald Trump]] · [Source](https://www.hawaiitribune-herald.com/?p=372869)
 
-## Sources (23)
+## Sources (25)
 
 1. [Trump reports over $1.4 billion in income from crypto ventures (Reuters)](https://www.ksl.com/article/51583356/trump-reports-over-14-billion-in-income-from-crypto-ventures) (KSL / Reuters, 2026-07-01)
 2. [Trump reports over $1.4 billion in income from crypto ventures](https://www.thestar.com.my/news/world/2026/07/01/trump-reports-over-14-billion-in-income-from-crypto-ventures) (The Star / Reuters, 2026-07-01)
@@ -279,6 +281,8 @@ Trump's 2025 OGE disclosure (released June 30, 2026) shows crypto as his largest
 21. [Trump Reports at Least $1.4 Billion in 2025 Crypto Earnings (corrected from $1.2B)](https://news.bloombergtax.com/crypto/trump-reports-at-least-1-2-billion-in-2025-crypto-earnings-1) (Bloomberg Tax, 2026-06-30)
 22. [Trump reports over $1.4B in crypto earnings as Bitcoin nears yearly low](https://cryptobriefing.com/trump-reports-over-1-4b-in-crypto-earnings-as-bitcoin-nears-yearly-low/) (Crypto Briefing, 2026-07-01)
 23. [Trump Reports $580M in Crypto-Linked Income, Ten Times More Than Last Year (citing CNBC)](https://www.ibtimes.co.uk/trump-crypto-ventures-2025-earnings-1806107) (IBTimes UK, 2026-07-01)
+24. [How Eric Trump Got Rich From Bitcoin While Losing Investors A Fortune](https://www.forbes.com/sites/danalexander/2026/04/28/how-eric-trump-got-rich-from-bitcoin-while-losing-investors-a-fortune/) (Forbes, 2026-04-28)
+25. [Donald Trump Jr. leaves Kalshi, keeps Polymarket role](https://unchainedcrypto.com/donald-trump-jr-leaves-kalshi-keeps-polymarket-role-a-week-after-democrats-win-congress/) (Unchained, 2026-11)
 
 ## Full Report
 
@@ -317,13 +321,15 @@ Direct fetches of every primary outlet I tried failed in this environment: Bloom
 
 #### 3. Per Forbes, Eric Trump is about 10x richer since the election. **Confirmed (as of Dec 2025)**
 - Forbes (Kyle Mullins, **Dec 4, 2025**) ran the headline "Eric Trump has gotten 10 times richer since dad's election." It put him at about **$400M**.
-- His largest holding was his American Bitcoin stake, about $160M in early Dec 2025. The rest is mainly World Liberty tokens and USD1-related value.
+- His largest holding was his American Bitcoin stake, about $160M as of 4 Dec 2025. The same stake was about $116M at the end of 2025 and about $23M on 13 Nov 2026 (C99). The rest is mainly World Liberty tokens and USD1-related value.
+- Forbes has since superseded the figure: on 28 Apr 2026 it estimated him at about **$280M**.
 - Eric disputed parts of Forbes' valuation but offered no alternative figure.
 - The estimate is now dated. ABTC later fell 87-95% from its debut peak, so his current figure is probably lower.
 
 #### 4. Per Forbes, Don Jr. is about 6x richer. **Confirmed (as of Dec 2025)**
 - Forbes (Dec 8, 2025) ran the headline "How Donald Trump Jr.'s fortune jumped six-fold in a year." It put him at about **$300M**, six times his November 2024 level.
-- Forbes noted he had been near $500M in September 2025, before American Bitcoin's stock fell.
+- Forbes noted he had been near $500M in September 2025, before American Bitcoin's stock fell, so the 8 Dec 2025 figure was already a decline.
+- Kalshi ended his advisory role on 12 Nov 2026. Kalshi describes the decision as mutual (C99).
 
 #### 5. Per Forbes, Barron Trump is worth about $150M. **Confirmed (Forbes estimate, Sept/Oct 2025)**
 - Forbes' family tally (Sept 22, 2025) and the article "How 19-Year-Old Barron Trump Is Worth $150 Million" (Oct 6, 2025) both give this figure.
@@ -344,6 +350,7 @@ Direct fetches of every primary outlet I tried failed in this environment: Bloom
 - (16 Nov 2026) These amounts sit on the lines of entities that are 30% owned by unnamed family members. The form does not say whether they are entity totals or Trump's share. The $635.1M is licence royalties to CIC Digital, not coin sales.
 - The $2.2B is a minimum figure from the NYT tally. Forbes estimated about $2.4B.
 - The Forbes figures for the sons date from Dec 2025 (Eric and Don Jr.) and for Barron from Sept/Oct 2025. They predate ABTC's deeper slide, so current values are probably lower.
+- (16 Nov 2026) Forbes' about $400M for Eric Trump (4 Dec 2025) is superseded by about $280M (28 Apr 2026). The about $160M value of his American Bitcoin stake is as of 4 Dec 2025; the same stake was about $116M at the end of 2025 and about $23M on 13 Nov 2026. Forbes' about $300M for Donald Trump Jr. (8 Dec 2025) was itself down from about $500M in Sept 2025, and Kalshi ended his advisory role on 12 Nov 2026 (Kalshi calls it mutual).
 - The investor-loss data covers wallets worldwide, not specifically "American" investors.
 
 ### Denials / other side
@@ -390,3 +397,11 @@ Direct fetches of every primary outlet I tried failed in this environment: Bloom
 **Corrected.** The OGE PDF resolves the "$594M-$800M" range. DT Marks DEFI's lines show $526,810,321 of token proceeds and $65,625,000 from the WLF Holdco equity sale, $592.4M in total. Adding DT Marks SC's $196,875,000 from Stablecoin Holdco gives $789.3M.
 
 The ownership caveat has also been added: both entities are 70% Trump's and 30% unnamed family members', and the form does not say whether the amounts are entity totals or his share. The relationship amounts now use the exact figures.
+
+### Audit addendum (16 Nov 2026, family earnings review)
+
+**Corrected.**
+- Eric Trump: Forbes' estimate is about $280M (28 Apr 2026), superseding about $400M (4 Dec 2025). https://www.forbes.com/sites/danalexander/2026/04/28/how-eric-trump-got-rich-from-bitcoin-while-losing-investors-a-fortune/
+- The about $160M American Bitcoin value is as of 4 Dec 2025. By the same share count the stake was about $116M at the end of 2025 and about $23M on 13 Nov 2026 (C99).
+- Donald Trump Jr.: about $300M on 8 Dec 2025, down from about $500M in Sept 2025. Kalshi ended his advisory role on 12 Nov 2026 and calls the decision mutual. https://unchainedcrypto.com/donald-trump-jr-leaves-kalshi-keeps-polymarket-role-a-week-after-democrats-win-congress/
+- This report does not sum Trump's foreign licensing income, so the 20% family limited-partner stake in twelve licensing companies is not an issue here. It is recorded in C98 and C99.

@@ -5,7 +5,7 @@ type: "person"
 aliases:
   - "Donald J. Trump"
   - "Trump"
-connections: 328
+connections: 329
 claims: 101
 tags:
   - "entity"
@@ -21,7 +21,7 @@ US president; he and his family hold business interests in sectors where he sign
 |---|---|
 | Type | Person |
 | Appears in | 101 checks |
-| Connections | 328 |
+| Connections | 329 |
 | Also known as | Donald J. Trump; Trump |
 
 ## How Other Checks Describe It
@@ -153,7 +153,7 @@ US president; he and his family hold business interests in sectors where he sign
 - [[Sam Altman]] *inaugural fund donation* [[Donald Trump]] · 2024-12 · $1M · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Aryam Investment 1]] *about $187M of upfront payment to Trump-family entities* [[Donald Trump]] · 2025 · $187M · [[C14 Steve & Zach Witkoff A Middle East Envoy & World Liberty|C14]]
 - [[Base Group (Base Co., Ltd.)]] *paid non-refundable development fee in 2025* [[Donald Trump]] · 2025 · $2M · [[C98 Trump Media, Licensing & Merchandise Income During the Presidency|C98]]
-- [[Charles Schwab]] *pledged-asset line, over $50M* [[Donald Trump]] · 2025 · $50M · [[C96 What Trump's Own Financial Disclosures Report|C96]]
+- [[Charles Schwab Corporation]] *pledged-asset line, over $50M* [[Donald Trump]] · 2025 · $50M · [[C96 What Trump's Own Financial Disclosures Report|C96]]
 - [[CIC Digital LLC]] *paid 'Celebration Coins' royalties (2025 OGE)* [[Donald Trump]] · 2025 · $635.07M · [[C63 Shell Entities & Ownership Chains|C63]]
 - [[CIC Digital LLC]] *pays meme-coin royalties ($635M in 2025)* [[Donald Trump]] · 2025 · $635.07M · [[C40 Who Ran the $TRUMP & $MELANIA Launches|C40]]
 - [[CIC Digital LLC]] *reported 'Celebration Coins' royalties of $635,068,835 for 2025* [[Donald Trump]] · 2025 · $635.07M · [[C01 The $TRUMP Meme Coin & Who Profited|C01]]
