@@ -324,3 +324,9 @@ Measured: shots, globe, contrast and globefunc output of this round; phone near-
 Still weak: phone lobes softer than desktop, one phone caption missing; long leader when a lobe is directly behind the centre; "Main Topic" for Donald Trump reads "Regulators"; uneven row heights in home lead tables.
 
 Stop check: stills approved no -> stills sent; live site not republished.
+
+## User feedback after round 08 (exact words)
+
+"Sure fix those first, then create the public test link"
+
+Decision: round 9 fixes the four weak points (phone lobes and missing caption, long leader lines, Main Topic wording, home table rows), then the result is published as a separate test artifact; the existing live artifact is not touched.
