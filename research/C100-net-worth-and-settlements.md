@@ -5,7 +5,7 @@
 **Net worth.** Forbes and Bloomberg both put Donald Trump's fortune in the $6.5B-$7.8B range during the second term. Neither shows a straight-line rise.
 
 - **Forbes, Trump alone:**
-  - about $4.3B (2024 Forbes 400)
+  - $4.3B (2024 Forbes 400, as of 1 Sept 2024)
   - $7.3B, a record (Sept 2025)
   - $6.5B (March 2026)
   - about $7.0B (Sept 2026), which Forbes describes as about $2.7B more than at the 2024 election
@@ -16,15 +16,17 @@
 
 Most of the gain came from crypto and overseas licensing, not stock. Most of the fortune is paper value.
 
-**Settlements.** Five companies settled his suits for about $90.5M in headline terms. Trump's own 2025 disclosure shows:
+**Settlements.** Five companies settled his suits for about $90.5M in headline terms. Trump's own 2025 disclosure (OGE Form 278e, line 431, read in full) lists $86.5M:
 
-- $56.5M paid to his library foundation
-- $8M from X paid to him personally
-- YouTube's $22M directed to the White House ballroom
+- $56.5M of "net proceeds" paid to his library foundation (ABC $16M, CBS/Paramount $16M, Meta $24.5M)
+- $22M from YouTube "paid to The Trust for the National Mall" for the White House ballroom
+- $8M from X, with no note that it went to anyone else. It is reported as his own settlement income; whether he kept it or later gave it to the foundation is not documented.
+
+ABC's own letter shows its money was still in escrow in March 2026.
 
 **DOJ claims.** The roughly $230M he sought from the Justice Department was withdrawn in a May 2026 settlement that paid him nothing. A judge later found that settlement collusive.
 
-**Source limits.** No page could be opened directly in this session; the fetch hosts did not resolve. Every figure below comes from search-result excerpts, including the Forbes and Bloomberg articles, the Warren letters and ABC's response letter. Several component breakdowns rest on secondary summaries and are marked as such.
+**Source limits.** The original research could open no page. In the November 2026 second review the OGE 278e settlement lines, the lawmakers' 15 Jul 2026 letter, ABC's 23 Mar 2026 letter, Forbes's Oct 2024 and Sept 2026 Trump profiles (Forbes Australia republications), Bloomberg's Jan and June 2026 figures (syndicated copies) and several news items were read in full; see the source list. Forbes's Sept 2025 and March 2026 articles are paywalled and remain search excerpts.
 
 ## The claim
 
@@ -34,15 +36,15 @@ How much has Trump's estimated net worth changed since January 2025 according to
 
 | Date | Estimate | Notes |
 |---|---|---|
-| 2024 Forbes 400 (Oct 2024) | about $4.3B (some coverage: $3.9B) | Forbes's later articles use $4.3B as the 2024 baseline [1][7] |
+| 2024 Forbes 400 (as of 1 Sept 2024, published Oct 2024) | $4.3B (No. 319) | Forbes's own figure, read in full [48]; its later articles use it as the baseline |
 | World's Billionaires 2025 (about Apr 2025) | about $5.1B (implied) | Our arithmetic from Forbes saying the March 2026 figure was up $1.4B [2] |
 | Forbes 400, 9 Sep 2025 | $7.3B (No. 201) | Up $3B in a year. Crypto plus cash about $2.4B, including about $709M in meme-coin holdings; Trump Media about $2B [1] |
 | World's Billionaires, 10 Mar 2026 | $6.5B (No. 645) | Trump Media $1.2B (from $2.6B); crypto tokens about $570M; remaining 38% WLF equity about $240M (secondary summaries) [2][5] |
-| Forbes 400, 15 Sep 2026 | about $7.0B (No. 245) | Down $300M on lower $TRUMP and Trump Media prices [3][4] |
+| Forbes 400, 15 Sep 2026 | about $7.0B (No. 245) | Down $300M on lower $TRUMP and Trump Media prices. Forbes: "an estimated $2.7 billion richer than when he won the 2024 election" [3][4][49] |
 | Real-time, 15 Oct 2026 | about $6.8B | Single secondary source |
 
 - **Method.** Forbes values each asset (property, golf, licensing businesses, listed stakes, tokens, cash) and subtracts estimated debt. It treated the August 2025 voiding of the NY civil-fraud penalty as the removal of a large liability.
-- **Unverified component split.** An aggregator attributes this split to the Sept 2026 list: meme coin about $183M, WLFI about $78M, stablecoin about $233M, licensing about $655M. It is **unverified**.
+- **Sept 2026 components (Forbes's own breakdown, read in full [49]).** Cryptocurrency and liquid assets $2.4B (liquid assets $1.9B, meme-coin tokens $183M, World Liberty tokens $78M, stablecoin business $233M); golf clubs and resorts $1.8B; real estate investments $1.1B; Trump Media $1B; other assets $700M, including the licensing and management business at $655M; additional liabilities of about $140M, including legal liabilities of about $94M and a pledged asset line of about $50M. The aggregator split earlier marked unverified is confirmed.
 - **Misattributed assets and liabilities.** A secondary claim that Forbes's March 2026 list shows $8.4B of assets and $1.1B of liabilities nets to $7.3B, the Sept 2025 total. It is treated as misattributed.
 - **What drove the change.** Dan Alexander of Forbes said almost none of the $3B gain from fall 2024 to fall 2025 came from stock; crypto and overseas licensing deals drove it. On "60 Minutes" (Nov 2026), Trump credited the market ("you should've had stock"). PolitiFact rated that Mostly False on 9 Nov 2026. [7][8][9]
 
@@ -53,14 +55,15 @@ How much has Trump's estimated net worth changed since January 2025 according to
 - July 2025: crypto had added at least $620M.
 - 7 Sep 2025: $1.3B of crypto wealth added in weeks, taking the family to **$7.7B**. [13]
 - Later in 2025: after the crypto slide, a secondary report citing Bloomberg put the family at about $6.6B, below Bloomberg's top-500 cutoff. [18]
-- 20 Jan 2026 feature: family at **$6.8B**, roughly flat on the year. Crypto added about $1.4B, about a fifth of the fortune, while Trump Media fell about 66%. Locked WLF founder tokens, worth about $3.8B, are **excluded**. [14][15]
+- 20 Jan 2026 feature (read in full in Bloomberg Línea's Spanish edition [50]): family at **$6.8B**, roughly flat on the year. Crypto added about $1.4B, about a fifth of the fortune, while Trump Media fell about 66%. Locked WLF founder tokens, worth about $3.8B, are **excluded**. [14][15]
 - 12 May 2026: Bloomberg found previously undisclosed WLFI token sales. That added $660M and put family token-sale proceeds at about $1.55B. [16]
-- June 2026: Bloomberg began counting a $630M stake in WLF's stablecoin business. That put World Liberty holdings at $2.6B and the family at **$7.8B**. Part of this rise is a change in method, not new money. [17]
+- 6 June 2026 (read in full via the Spokesman-Review [17]): Bloomberg began counting a $630M stake in WLF's stablecoin business, which it valued at about $1.7B in all. That put World Liberty holdings at $2.6B, the family's largest asset, and the family at **$7.8B**. Part of this rise is a change in method, not new money.
 - No Bloomberg figure after June 2026 was found.
 
 ## 3. Liquid versus paper; family wealth
 
 - **Forbes, Sept 2025.** Crypto plus cash ($2.4B) was about a third of the $7.3B total.
+- **Forbes, Sept 2026.** Again $2.4B, about a third of $7.0B; $1.9B of it is liquid assets. [49]
 - **Forbes, March 2026.** A secondary summary gives "cryptocurrencies and liquid assets" of $2.1B, again about a third. That is single-source.
 - **The rest.** Real estate and golf, licensing businesses, and a Trump Media stake. The stake is listed, but it is held in trust and large relative to trading volume.
 - **Crypto.** Token values are volatile, and many tokens are locked; Bloomberg leaves locked tokens out entirely.
@@ -78,29 +81,31 @@ The one-third ratio is our own arithmetic.
 - No decision had been found as of autumn 2026.
 
 **E. Jean Carroll.** [22][23]
-- The $5M verdict is final: the Supreme Court denied review, and the funds were transferred to Carroll's lawyers in 2026.
+- The $5M verdict: the Supreme Court declined review in June 2026; a judge ordered about $5.8M (with interest) paid, and Carroll collected it in July 2026. Trump asked the Court to reconsider that denial (search excerpt; no ruling found). [51]
 - The $83.3M defamation award was upheld by the Second Circuit and is held in a court-controlled account.
-- Trump and the DOJ petitioned the Supreme Court on about 28 Jul 2026. Carroll opposed on 30 Oct 2026. No ruling had been found.
+- Trump and the DOJ petitioned the Supreme Court on 28 Jul 2026 [51]. Carroll's opposition brief was filed on 30 Oct 2026 [23]. No ruling had been found by mid-November 2026.
+- Forbes's Sept 2026 tally carries about $94M of legal liabilities for these judgments. [49]
 
 ## 5. Settlements paid since the 2024 election
 
-| Payer | Date | Headline | Stated destination | Per Trump's 2025 OGE disclosure (as summarized in the lawmakers' 15 Jul 2026 letter) |
+| Payer | Date | Headline | Stated destination | Trump's 2025 OGE Form 278e, line 431 (read in full) |
 |---|---|---|---|---|
-| ABC/Disney | 13-14 Dec 2024 (wired 19 Dec) | $15M + $1M fees | Presidential foundation, via escrow at Brito Law PLLC | $16M to the foundation |
-| Meta | 29 Jan 2025 | $25M | About $22M to the library; rest fees and co-plaintiffs | $24.5M to the foundation |
-| X Corp | Feb 2025 | About $10M (WSJ/NBC) | Not stated | $8M to Trump personally |
-| Paramount | 1-2 Jul 2025 | $16M including fees | Future library; "no payment to Trump directly or indirectly" | $16M to the foundation |
-| YouTube/Alphabet | 29 Sep 2025 (court filing) | $24.5M | $22M to the Trust for the National Mall for the White House ballroom; $2.5M to co-plaintiffs (ACU, Naomi Wolf and others) | Not in the foundation total |
+| ABC/Disney | 13-14 Dec 2024 (wired to escrow 19 Dec) | $15M + $1M fees | Presidential foundation, via escrow at Brito Law PLLC; still in escrow on 23 Mar 2026 | $16M, "net proceeds paid to" the foundation |
+| Meta | 29 Jan 2025 | $25M | About $22M to the library; rest fees and co-plaintiffs | $24.5M, "net proceeds paid to" the foundation |
+| X Corp | Feb 2025 | About $10M (WSJ/NBC) | Not stated | $8M settlement income, no destination noted |
+| Paramount/CBS | 1-2 Jul 2025 | $16M including fees | Future library; "no payment to Trump directly or indirectly" | $16M, "net proceeds paid to" the foundation |
+| YouTube/Alphabet | 29 Sep 2025 (court filing) | $24.5M | $22M to the Trust for the National Mall for the White House ballroom; $2.5M to co-plaintiffs (ACU, Naomi Wolf and others) | $22M, "proceeds paid to The Trust for the National Mall" |
+| **Total** | | **about $90.5M** | | **$86.5M** ($56.5M foundation, $22M Trust, $8M X) |
 
-Sources: [24]-[38].
+Sources: [24]-[38], [52].
 
 ### ABC/Disney
-- ABC's 23 Mar 2026 letter says release of the money from escrow required written notice of the foundation's 501(c)(3) recognition, which came on 20 Oct 2025 (C48).
-- ABC also said it will not treat the payment as a tax-deductible charitable contribution.
-- The $1M difference from the $15M headline is unexplained.
+- ABC's 23 Mar 2026 letter (read in full) says the release of the money from escrow required written notice that the recipient's 501(c)(3) status had been recognized. Trump's counsel gave that notice for the foundation on **19 Mar 2026**, and ABC said it was reviewing it and expected to authorize release. The money was therefore still in escrow in late March 2026, although the IRS had recognized the foundation earlier (C48).
+- ABC also said it will not treat the payment as a charitable contribution on its tax returns.
+- The 2025 disclosure nonetheless describes $16M of net proceeds paid to the foundation. The $1M difference from the $15M headline and the timing are unexplained; the lawmakers asked about the $16M on 15 Jul 2026.
 
 ### Meta
-- Meta designated $22M for the library, but the foundation shows $24.5M from Meta.
+- Meta designated $22M for the library, but Trump's disclosure shows $24.5M of net proceeds paid to the foundation.
 - This gap is also unexplained.
 
 ### Paramount
@@ -112,17 +117,18 @@ Sources: [24]-[38].
 - The filing says no liability is admitted.
 - The Trust for the National Mall keeps a 2-2.5% management allocation from each donation.
 - Its posted filings show more than $320M received in 2025.
-- Receipt of the $22M itself is not separately confirmed.
+- Trump's disclosure lists the $22M as paid to the Trust; no statement from the Trust confirming receipt was found.
 
 ### Destination and personal income
 - Money directed to a foundation or to the ballroom trust is **not personal income** to Trump.
 - Trump's family controls the foundation: Eric Trump is its president and a trustee.
 - The ballroom is a government building project that Trump directs.
-- Only X's $8M is documented as paid to Trump personally.
+- Only X's $8M is reported on the disclosure as Trump's own settlement income without a pass-through. The lawmakers' letter reads it the same way ("paid to the President by X"), notes reports that it was meant for the library, and asks the foundation whether it received it. No answer was found, so whether he kept it is not documented.
 
 ### Accounting dispute
-- The lawmakers (Warren, Blumenthal, Stansbury) compare the disclosure with the foundation's October 2025 Florida filing, which projected $50M of revenue and about $6M of spending.
-- On that basis they allege $6.5M-$14.5M missing and about $7M of unexplained spending.
+- The lawmakers (Warren, Blumenthal, Stansbury; letter of 15 Jul 2026, read in full) compare the disclosure with the foundation's 10 Oct 2025 Florida filing, which reports $50M of revenue and about $7M of spending: $400,000 officer compensation, $490,000 legal fees, $130,000 conferences, $15,000 travel, $50,000 insurance and about $6M listed as "other".
+- On that basis they allege that at least $6.5M and as much as $14.5M is unaccounted for, or $13.5M-$21.5M "missing or spent with no clear explanation" if X's $8M is counted. They asked for answers by 29 Jul 2026.
+- Our own observation, which no source makes: ABC's letter shows its $15M was still in escrow in March 2026, so the $50M reported in October 2025 could not have included ABC's money. That bears on the lawmakers' arithmetic.
 - A Substack analysis argues the Florida filing was a budget, not actual revenue.
 - The foundation told CBS it expected to file fiscal-2025 accounts by 15 Nov 2026; no filing was found.
 - The "missing money" figures remain an allegation.
@@ -140,10 +146,10 @@ Several payers later faced adverse federal action (C33, C92). The White House ha
 
 **The claims.** [39][40][41][42][43]
 - Per the NYT (Oct 2025), Trump filed two Federal Tort Claims Act administrative claims in 2023-24, over the Russia investigation and the Mar-a-Lago search, together seeking about $230M.
-- Trump said he "could be" seeking it and would give the money to charity. DOJ declined comment.
+- On 21 Oct 2025 Trump said he "could be" seeking it: "I'm not looking for money. I'd give it to charity or something." DOJ declined comment. (CNN, read in full)
 
 **The IRS settlement (18 May 2026).** Trump, his sons and the Trump Organization settled their $10B suit against the IRS over the tax-return leak. Under the deal:
-- they received a formal apology and no money;
+- DOJ said they would receive a formal apology but "no monetary payment or damages of any kind" (CBS News, read in full);
 - they withdrew both administrative claims;
 - DOJ announced a $1.776B "anti-weaponization fund" from the Judgment Fund for other claimants, for which Trump was not eligible;
 - reporting also mentions audit protections (single-source).
@@ -151,7 +157,7 @@ Several payers later faced adverse federal action (C33, C92). The White House ha
 **What happened next.**
 - July 2026: Judge Kathleen Williams (S.D. Fla.) found the suit collusive and brought in bad faith. She barred reliance on the settlement and sanctioned Trump's counsel, including Alejandro Brito.
 - Acting AG Todd Blanche told Congress the fund was "not moving forward, period."
-- The 11th Circuit declined to stay the sanctions; the appeal continues.
+- On about 29 Sept 2026 an 11th Circuit panel declined to stay the sanctions, saying Trump and his lawyers offered no evidence that the suit and settlement were not collusive. The underlying appeal is pending. [53]
 - **No payment to Trump is documented.**
 
 ## 7. Other suits; law-firm pledges (kept separate)
@@ -167,18 +173,19 @@ Several payers later faced adverse federal action (C33, C92). The White House ha
 
 ## Corrections to older checks
 
-**C33 (settlements):**
-- **Meta.** C33 records about $22M of $25M going to the library. The disclosure summary shows the foundation received **$24.5M** from Meta; Meta told lawmakers $22M was designated.
-- **ABC.** C33 records $15M. The disclosure summary shows **$16M** received from ABC. The cause (the fee line, interest or something else) is not established.
-- **"No payment went to Trump personally."** This holds for ABC, Meta, Paramount and YouTube but not for X: the disclosure lists **$8M paid to Trump personally** (already noted in C48).
-- **X.** The about $10M press figure stands; the disclosure shows $8M to Trump, and how the other roughly $2M was split is unknown.
+**C33 (settlements; corrections applied to C33 on 16 Nov 2026):**
+- **Meta.** C33 recorded about $22M of $25M going to the library. The disclosure shows **$24.5M** of net proceeds paid to the foundation; Meta told lawmakers $22M was designated.
+- **ABC.** C33 recorded $15M. The disclosure shows **$16M**, with net proceeds paid to the foundation. The cause (the fee line, interest or something else) is not established.
+- **"No payment went to Trump personally."** This holds for ABC, Meta, Paramount and YouTube but not for X: the disclosure reports **$8M from X as Trump's own settlement income**, with no pass-through noted (already noted in C48).
+- **X.** The about $10M press figure stands; the disclosure shows $8M, and how the other roughly $2M was split is unknown.
 
 **C55 (competing totals):**
 - **Bloomberg after the crypto slide.** C55 gives about $6.7B. Bloomberg's 20 Jan 2026 feature says **$6.8B**, and a secondary report gives about $6.6B.
 - **Later figures.** C55 predates Bloomberg's June 2026 figure ($7.8B) and the Forbes 400 2026 figure (about $7.0B, down $300M).
 
 **Coverage claims:**
-- **Forbes on election day.** Some coverage says Forbes put Trump at about $6.3B on election day. Forbes's own articles imply about $4.3B. The $6.3B figure matches Bloomberg's range and is treated as unverified for Forbes.
+- **Forbes on election day.** Some coverage says Forbes put Trump at about $6.3B on election day. Forbes's own figures ($4.3B in the 2024 list; $7.0B in Sept 2026 being "$2.7 billion richer than when he won") imply about $4.3B. The $6.3B figure matches Bloomberg's range and is treated as unverified for Forbes.
+- **Forbes March 2026 assets and liabilities.** The secondary "$8.4B assets, $1.1B liabilities" split still could not be verified.
 
 ## Denials and other side
 
@@ -190,12 +197,12 @@ Several payers later faced adverse federal action (C33, C92). The White House ha
   - YouTube admits no liability.
 - **The FCC chair** denied any link between the Paramount settlement and the merger review.
 - **DOJ** says it paid Trump nothing in the IRS settlement.
-- **The foundation** had not publicly answered the lawmakers' allegations in the sources found.
+- **The foundation** had not publicly answered the lawmakers' 15 Jul 2026 questions in the sources found.
 - **What the record does not show:** a link between any settlement and any regulatory decision.
 
 ## Sources
 
-All sources below were read as search excerpts; none could be fetched in full.
+Read in full in the November 2026 second review: [7], [23], [25], [26], [34], [37], [39], [41] and the added [48]-[52]. All others are search excerpts. The Daily Herald link formerly given for [17] no longer serves the story; the Bloomberg text was read via the Spokesman-Review.
 
 1. Forbes, "Trump Jumps 118 Spots On The Forbes 400", 2025-09-09. https://www.forbes.com/sites/danalexander/2025/09/09/presidency-boosts-trumps-net-worth-by-3-billion-in-a-year/
 2. Forbes, "Here's how much Donald Trump is worth", 2026-03-10. https://www.forbes.com/sites/luisakroll/2026/03/10/heres-how-much-donald-trump-is-worth/
@@ -213,7 +220,7 @@ All sources below were read as search excerpts; none could be fetched in full.
 14. Bloomberg, 2026-01-20. https://www.bloomberg.com/news/features/2026-01-20/donald-trump-family-net-worth-increasingly-comes-from-crypto
 15. The Block, 2026-01-20. https://www.theblock.co/post/386237/trumps-add-1-4-billion-usd-crypto-assets-to-family-fortune-since-inauguration
 16. Bloomberg, 2026-05-12. https://www.bloomberg.com/news/articles/2026-05-12/quiet-token-sales-boosted-trump-crypto-wealth-by-660-million
-17. Daily Herald (Bloomberg), 2026-06-06. https://www.dailyherald.com/20260606/nation-and-world-politics/trump-familys-stablecoin-wealth-fueled-by-binance-relationship/
+17. Spokesman-Review (Bloomberg), "Trump family's stablecoin wealth fueled by Binance relationship", 2026-06-06. https://www.spokesman.com/stories/2026/jun/06/trump-familys-stablecoin-wealth-fueled-by-binance-/
 18. Yahoo Finance (Coinspeaker), 2025. https://finance.yahoo.com/news/trump-family-takes-1b-hit-185251151.html
 19. CBS News, 2025-08-21. https://www.cbsnews.com/news/trump-civil-fraud-case-new-york-appeals/
 20. Courthouse News, 2026-04. https://courthousenews.com/trump-asks-new-yorks-top-court-to-toss-civil-fraud-judgment/
@@ -244,3 +251,19 @@ All sources below were read as search excerpts; none could be fetched in full.
 45. NBC News, 2026-11-11. https://nbcnews.com/politics/trump-administration/us-judge-says-trumps-10-billion-bbc-defamation-case-can-proceed-rcna608707
 46. CP24 (Reuters), 2026-09-10. https://www.cp24.com/news/money/2026/09/10/capital-one-and-jpmorgan-bet-that-fighting-trump-may-be-safer-than-settling/
 47. Bloomberg Law, 2025-04. https://news.bloomberglaw.com/payroll/a-o-shearmans-trump-work-to-exclude-tariffs-firm-leaders-say
+48. Forbes via Forbes Australia, "How Donald Trump climbed back onto The Forbes 400", 2024-10-02. https://www.forbes.com.au/news/billionaires/how-donald-trump-climbed-back-onto-the-forbes-400/
+49. Forbes via Forbes Australia, "Here's how much Donald Trump is worth" (Dan Alexander), 2026-09-21. https://www.forbes.com.au/news/billionaires/heres-how-much-donald-trump-is-worth/
+50. Bloomberg Línea, "Fortuna de US$6.800 millones de la familia Trump se vincula cada vez más al negocio cripto", 2026-01-20. https://www.bloomberglinea.com/cripto/fortuna-de-us6800-millones-de-la-familia-trump-se-vincula-cada-vez-mas-al-negocio-cripto/
+51. NBC New York (NBC News), "Trump asks Supreme Court to overturn $83.3 million award to E. Jean Carroll", 2026-07-28. https://www.nbcnewyork.com/news/national-international/trump-supreme-court-overturn-award-e-jean-carroll/6531556/
+52. US Office of Government Ethics, OGE Form 278e, Donald J. Trump, annual report for 2025 (received 2026-06-29, released 2026-06-30), Part 2 line 431. https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf
+53. CPA Practice Advisor (Bloomberg), "Trump Loses Bid to Halt Judge's Sanctions in IRS Case Fight", 2026-09-29 (search excerpt). https://www.cpapracticeadvisor.com/2026/09/29/trump-loses-bid-to-halt-judges-sanctions-in-irs-case-fight/190808/
+
+## Audit (second review, 16 Nov 2026)
+Result: **corrected** (the verdict, mostly accurate, stands).
+- **Disclosure reconciled.** OGE 278e line 431 lists $86.5M: X $8M; ABC $16M, CBS $16M and Meta $24.5M as net proceeds paid to the foundation ($56.5M); YouTube $22M paid to the Trust ($78.5M to the foundation or the Trust). The table now quotes the disclosure directly.
+- **X.** "Paid to Trump personally" was softened: the disclosure reports it as his settlement income with no pass-through noted, and the lawmakers read it that way, but whether he kept it or later passed it on is not documented.
+- **ABC.** ABC's letter shows the money was still in escrow on 23 Mar 2026; notice of the foundation's status was given on 19 Mar 2026. The earlier statement that release followed the October 2025 IRS recognition was corrected.
+- **Forbes.** The 2024 baseline is $4.3B (the $3.9B variant was removed). The "$2.7B richer since the election" figure is Forbes's own. The Sept 2026 component split is confirmed. The "$8.4B/$1.1B" split and a Forbes "$6.3B on election day" remain unverified.
+- **Bloomberg.** $6.8B (Jan 2026) and $7.8B (June 2026) are confirmed from full syndicated texts.
+- **Ledger.** The YouTube row is now $22M (the $2.5M went to co-plaintiffs); the Meta high end is the disclosed $24.5M; the Forbes rows are tightened; overlaps with C96-29 are flagged.
+- **Liabilities and claims.** No NY Court of Appeals decision found; Carroll collected about $5.8M on the $5M verdict in July 2026 and opposed the $83.3M petition on 30 Oct 2026; the withdrawal of the roughly $230M claims and the no-payment term are confirmed by DOJ's statement as reported by CBS.

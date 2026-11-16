@@ -55,7 +55,8 @@ C18 and C27 already established the American Bitcoin structure and the SPAC term
    - Bloomberg (Oct. 13, 2025) wrote that Wool "has helped Donald Jr. and Eric make more than half a billion dollars." Most of that is the paper value of the American Bitcoin stake at its peak, which C18 documents falling more than 90% [10].
    - In May 2025 Bloomberg reported the brothers could sell a combined $9.6M of stock awarded for about 10 weeks on the advisory board, under a resale registration. A Dominari spokesman, Brett Maas, said no advisers or investors had sold [4][11].
    - MarketWatch corrected a report that said Don Jr. had sold 1,504,322 shares; the filing only registered them for possible sale [12].
-   - I found no confirmed sale of their Dominari shares.
+   - No sale of Dominari shares by either brother is documented. Later filings point the other way: Schedule 13G filings for Donald Trump Jr. show 1,182,276 shares (5.23%) as of 22 May 2026 and 1,398,414 shares (5.77%) in a September 2026 filing that reports his exercise of 216,138 Series A warrants on 18 Aug 2026 (seen as search excerpts, not read in full).
+   - DOMH closed at $0.78 on 13 Nov 2026, against $3.47 in the Feb 2025 placement and just under $5 at end-2025. By our arithmetic, 1,398,414 shares were worth about $1.1M at that close; the May 2025 resale value of $9.6M has largely gone.
 
 7. **Dominari prospered after the sons joined: confirmed (context).**
    - Revenue rose 452% in Q2 2025, to $34M from $6.17M [13].
@@ -150,3 +151,7 @@ Result: **upheld**.
 - **Scrutiny.** The House CCP letters (8 Mar 2026) went to Dominari (11 of 29 IPOs), Revere (12 of 40) and D. Boral Capital (10 of 30+). Boral co-led the sons' SPAC IPO with Dominari (Caixin, 11 Mar 2026). Trade coverage dates the FINRA fine on Revere to early Oct 2026. Neither the letters nor the fine is an action against Dominari or the sons.
 - **Pay.** Bloomberg (27 Jan 2026) confirms about $34M for Hayes and about $32M for Wool. Much of it was non-cash stock compensation ($55M recorded firm-wide in 2025).
 - **New lead (unverified).** A third-party analysis site alleges the board granted Hayes and Wool 10M options on 10 Feb 2025, the day before the Trump announcement. This needs checking against the proxy.
+
+### Balance-sheet review (16 Nov 2026)
+
+Result: **upheld**. The wording stands: no sale of Dominari shares by Donald Trump Jr. or Eric Trump is documented. 2026 Schedule 13G filings (seen as search excerpts) show Don Jr.'s holding rising to 1,398,414 shares (5.77%) through warrant exercises. Sources: https://www.sec.gov/Archives/edgar/data/0000012239/000121390026063164/primary_doc.xml ; https://www.sec.gov/Archives/edgar/data/0000012239/000121390026100325/primary_doc.xml ; DOMH closing price $0.78 on 13 Nov 2026 (https://stockanalysis.com/stocks/domh/history/).

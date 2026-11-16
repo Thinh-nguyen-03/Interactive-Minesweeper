@@ -3,7 +3,7 @@
   "title": "Trading ahead of presidential announcements",
   "verdict": "mostly-accurate",
   "confidence": "medium",
-  "summary": "Market data, on-chain records and exchange data show well-timed, large trades shortly before at least six market-moving presidential announcements or actions since January 2025: leveraged crypto longs before the 2 March 2025 crypto-reserve post, same-day index calls in the minutes before the 9 April 2025 tariff pause, a roughly $1.1B crypto short before the 10 October 2025 China-tariff post, Polymarket bets before the Maduro raid and the February 2026 Iran strikes, and oil-futures selling minutes before Trump's Iran posts of 23 March and 7 April 2026. Whether any of this was trading on inside information is unverified in every case but one. The only trader charged is Army Master Sgt. Gannon Van Dyke, accused over the Maduro bets; he has pleaded not guilty and is not tied to the White House. A Hyperliquid wallet was attributed by on-chain analysts to Garrett Jin, who denies any Trump link. Three firms the WSJ found among the 23 March oil traders (Qube, Totsa, Forza) have not been accused of anything, and some of those trades followed a Semafor report published before the post. No authority has made a finding against any official, and the White House calls the insinuations baseless. No case of unusual trading was found before the 2 April 2025 'Liberation Day' announcement.",
+  "summary": "Market data, on-chain records and exchange data show well-timed, large trades shortly before at least six market-moving presidential announcements or actions since January 2025: leveraged crypto longs before the 2 March 2025 crypto-reserve post, same-day index calls in the minutes before the 9 April 2025 tariff pause, a roughly $1.1B crypto short built up over about 28 hours before the 10 October 2025 China-tariff post, with the last additions a minute before it, Polymarket bets before the Maduro raid and the February 2026 Iran strikes, and oil-futures selling minutes before Trump's Iran posts of 23 March and 7 April 2026. Whether any of this was trading on inside information is unverified in every case but one. The only trader charged is Army Master Sgt. Gannon Van Dyke, accused over the Maduro bets; he has pleaded not guilty and is not tied to the White House. A Hyperliquid wallet was attributed by on-chain analysts to Garrett Jin, who denies any Trump link. Three firms the WSJ found among the 23 March oil traders (Qube, Totsa, Forza) have not been accused of anything, and some of those trades followed a Semafor report published before the post. No authority has made a finding against any official, and the White House calls the insinuations baseless. No case of unusual market-wide trading was found before the 2 April 2025 'Liberation Day' announcement, though officials' own sales in the days before it are disclosed (C102). Separately, Trump's own accounts made 327 disclosed stock purchases on 8 April 2025, the day before the pause (C102); those are not the options trades examined here, and the filing does not show who directed them.",
   "sub_claims": [
     {
       "statement": "A trader opened large leveraged crypto longs shortly before Trump's 2 March 2025 Truth Social post announcing a US crypto strategic reserve.",
@@ -18,7 +18,7 @@
     {
       "statement": "Unusual trades were placed before the 2 April 2025 'Liberation Day' tariff announcement.",
       "verdict": "unverified",
-      "finding": "No market-data analysis was found that shows anomalous options, futures or crypto positioning just before the 2 April 2025 Rose Garden announcement. The event was pre-scheduled and held after the US stock-market close, and the coverage of 'well-timed' trades in that period concerns the 9 April pause instead. The only reported pre-2 April activity is a ProPublica account of a State Department official selling up to $50,000 of stock two days earlier and later buying back. That is a disclosure-filing matter covered by C102, and nobody has alleged it was based on nonpublic information.",
+      "finding": "No market-data analysis was found that shows anomalous options, futures or crypto positioning just before the 2 April 2025 Rose Garden announcement. The event was pre-scheduled and held after the US stock-market close, and the coverage of 'well-timed' trades in that period concerns the 9 April pause instead. Disclosure filings do show sales by officials in the days before 2 April: Attorney General Bondi's Trump Media sale dated 2 April, Dan Scavino's on 1 April (single-source), Sergio Gor's on 27 March (his own 278-T), a trade-office official's on 25 and 27 March, and State Department officials' on 19 and 31 March (ProPublica). These are disclosure-filing matters covered in C102. ProPublica states there is no evidence that any of them was informed by nonpublic information, and no authority has alleged that it was.",
       "sources": [
         "https://www.propublica.org/article/us-officials-stock-sales-trump-tariffs"
       ]
@@ -38,7 +38,7 @@
     {
       "statement": "A crypto whale opened a roughly $1.1B short shortly before Trump's 10 October 2025 post announcing 100% tariffs on China, and the trader has been identified.",
       "verdict": "partly-accurate",
-      "finding": "(1) The data: on-chain records show that a newly funded Hyperliquid account built about $1.1B of BTC and ETH perpetual shorts and closed them for a profit reported at about $150M-$200M. That day's crash liquidated about $19B of leveraged positions. Trump's 100%-tariff post is timed at about 20:50 UTC (4:50 p.m. ET). Reports of when the shorts were opened differ. Several crypto outlets say less than an hour before, and one widely shared X post says the last short was added at 20:49 UTC. Some summaries of the House Oversight letter say 'about 30 hours' before, while the letter itself says 'within minutes'. The difference was not resolved. An earlier Trump post the same day threatening a 'massive increase of tariffs' on China had already pushed bitcoin and stocks lower. That threat was public, so part of the move was foreseeable from public information. (2) Arkham Intelligence labelled the wallet a 'Trump insider whale', and on-chain sleuth 'Eye' linked it to Garrett Jin, a former BitForex CEO. Other analysts disputed the link. (3) No regulator has made an allegation. On 29 September 2026 House Oversight Chairman James Comer (R) wrote to Hyperliquid's Jeff Yan citing reports of a large short opened 'within minutes of a presidential announcement concerning a U.S. tariff policy in October 2025 that was not publicly known at the time'. He asked for KYC, surveillance and referral records by 13 October 2026. The letter does not name the trader or assert insider trading. (4) Identification rests only on contested on-chain attribution. Jin said on 13 October 2025 that he has 'no connection with the Trump family' or Donald Trump Jr., that this 'isn't insider trading', and that the funds belong to clients. Hyperliquid said it is reviewing Comer's request. No official finding has been made. Insider trading is unverified.",
+      "finding": "(1) The data: on-chain records show that a newly funded Hyperliquid account built about $1.1B of BTC and ETH perpetual shorts and closed them for a profit reported at about $150M-$200M. That day's crash liquidated about $19B of leveraged positions. Trump's 100%-tariff post is timed at about 20:50 UTC (4:50 p.m. ET). The reports of timing describe one build-up, not two conflicting events. An analysis by Charles-Henry Monchau of Bank Syz (21 October 2025, read in full; republished by Investing.com on 22 October and cited as the factual source in both the House Oversight letter and the committee's 13 November 2026 memo) says the account received about $80M at 16:39 UTC on 9 October and soon opened a bitcoin short of about $420M (citing Arkham), which grew over the following hours; ether shorts were added early on 10 October; a large short was in place by 15:30 UTC (citing Lookonchain; its figure of 6,200 BTC conflicts with other reports of about 3,600 BTC); and more was added in the last hour, the final 200 BTC about one minute before the 20:50 UTC post. The Block and Cointelegraph also put the last addition at 20:49 UTC. The same article's summary line says the position was 'opened 30 hours before Trump's post'. So the first shorts came roughly 28-30 hours before the post and the last additions within a minute of it: the letter's 'within minutes' describes the end of the build-up and '30 hours' its start. The 9 October start rests on that article's reading of on-chain data and was not independently re-derived here. Part of the position therefore predates even the earlier, public tariff threat of 10 October. An earlier Trump post the same day threatening a 'massive increase of tariffs' on China had already pushed bitcoin and stocks lower. That threat was public, so part of the move was foreseeable from public information. (2) Arkham Intelligence labelled the wallet a 'Trump insider whale', and on-chain sleuth 'Eye' linked it to Garrett Jin, a former BitForex CEO. Other analysts disputed the link. (3) No regulator has made an allegation. On 29 September 2026 House Oversight Chairman James Comer (R) wrote to Hyperliquid's Jeff Yan citing reports of a large short opened 'within minutes of a presidential announcement concerning a U.S. tariff policy in October 2025 that was not publicly known at the time'. He asked for KYC, surveillance and referral records by 13 October 2026. The letter calls the trade 'precisely timed to a nonpublic government decision' and says it 'mirrors a pattern of insider trading' the committee is investigating, but it names no trader, relies on a press article for the facts, and makes no finding. (4) Identification rests only on contested on-chain attribution. Jin said on 13 October 2025 that he has 'no connection with the Trump family' or Donald Trump Jr., that this 'isn't insider trading', and that the funds belong to clients. Hyperliquid said it is reviewing Comer's request. No official finding has been made. Insider trading is unverified.",
       "sources": [
         "https://www.theblock.co/post/374383/alleged-hyperliquid-whale-denies-trump-ties-thanks-cz-for-doxing-and-pitches-market-stabilization-fund",
         "https://cointelegraph.com/news/garrett-jin-whale-denies-allegations-shorting-bitcoin",
@@ -46,7 +46,8 @@
         "https://www.nysun.com/article/anonymous-crypto-trader-made-at-least-160-million-shorting-bitcoin-ethereum-in-moments-before-trumps-china-tariff-announcement",
         "https://coingape.com/bitcoin-falls-after-trump-threatens-massive-increase-in-tariffs-on-china",
         "https://oversight.house.gov/wp-content/uploads/2026/09/Hyperliquid-Letter-9.29.26.pdf",
-        "https://www.theblock.co/post/417192/comer-presses-crypto-com-hyperliquid-predictit-identity-checks-suspicious-trades"
+        "https://www.theblock.co/post/417192/comer-presses-crypto-com-hyperliquid-predictit-identity-checks-suspicious-trades",
+        "https://blog.syzgroup.com/slow-food-for-thought/the-1011-crypto-crash-and-the-mystery-of-the-1-billion-whale"
       ]
     },
     {
@@ -60,12 +61,14 @@
     {
       "statement": "A Polymarket bettor profited from the 3 January 2026 capture of Maduro and has been identified.",
       "verdict": "confirmed",
-      "finding": "This is the one identified case. According to DOJ (SDNY, unsealed 23 April 2026), Army Master Sgt. Gannon Ken Van Dyke, a Fort Bragg soldier who helped plan the raid, opened a Polymarket account around 26 December 2025. He placed about 13 bets from 27 December to 2 January, staking about $33,000, and made about $409,881. On 6 January he asked Polymarket to delete his account. The charges are unlawful use of confidential government information, theft of nonpublic government information, commodities fraud and wire fraud, and the CFTC filed a parallel civil case. He pleaded not guilty. A trial was reported as set for 7 December 2026, and his lawyer planned a motion to dismiss. Polymarket says it flagged the trades. The bets concerned a military operation, not a presidential post, and nothing ties the case to the White House or the Trump family. He is presumed innocent.",
+      "finding": "This is the one identified case. According to DOJ (SDNY, unsealed 23 April 2026), Army Master Sgt. Gannon Ken Van Dyke, a Fort Bragg soldier who helped plan the raid, opened a Polymarket account around 26 December 2025. He placed about 13 bets from 27 December to 2 January, staking about $33,000, and made about $409,881. On 6 January he asked Polymarket to delete his account. The indictment has five counts: unlawful use of confidential government information for personal gain, theft of nonpublic government information, commodities fraud, wire fraud and an unlawful monetary transaction. The CFTC's parallel civil complaint (read in full) dates the trading to 30 December 2025 to 2 January 2026 (more than 436,000 'Yes' shares) and puts the profit at more than $404,000. He pleaded not guilty on 28 April 2026. Trial was set for 7 December 2026. His motion to dismiss argues that the Polymarket contracts were event contracts rather than swaps; prosecutors opposed it in August 2026 (ABC News), and no ruling was found. Polymarket says it flagged the trades. The bets concerned a military operation, not a presidential post, and nothing ties the case to the White House or the Trump family. He is presumed innocent.",
       "sources": [
         "https://abc7ny.com/post/us-soldier-charged-using-intel-win-400k-maduro-raid-appear-court-nyc/18985601/",
         "https://decrypt.co/370571/december-trial-date-us-soldier-insider-trading-polymarket",
         "https://www.goodmorningamerica.com/news/story/doj-arrests-soldier-made-400000-betting-maduros-removal-132325426",
-        "https://www.npr.org/transcripts/nx-s1-5667232"
+        "https://www.npr.org/transcripts/nx-s1-5667232",
+        "https://www.cftc.gov/PressRoom/PressReleases/9217-26",
+        "https://www.goodmorningamerica.com/news/story/soldier-charged-polymarket-trades-seeks-dismissal-135797525"
       ]
     },
     {
@@ -99,20 +102,22 @@
     {
       "statement": "Anyone in the administration, or close to Trump, has been shown to have traded ahead of these announcements.",
       "verdict": "unverified",
-      "finding": "No filing, charge, court record or regulatory finding identifies an administration official, a Trump family member or a close associate as having placed any of the trades in these episodes. The traders who have been named publicly are a soldier who has been charged (Van Dyke), a crypto investor named only by contested on-chain attribution who denies any link (Jin), and three trading firms the WSJ named without any accusation (Qube, Totsa, Forza). Reuters (29 March 2026) and the WSJ (March 2026) both summarised the pattern and both stated that there is no evidence of leaks or of insiders trading in any of the incidents. White House spokesman Kush Desai called the insinuations 'baseless and irresponsible reporting' and said the White House does not tolerate officials profiting illegally from inside information. On 24 March 2026 the White House emailed staff warning against trading futures or prediction markets on nonpublic information (see C58).",
+      "finding": "No filing, charge, court record or regulatory finding identifies an administration official, a Trump family member or a close associate as having placed any of the trades in these episodes. Separately, Trump's own 2025 annual disclosure (read in full) lists 327 stock purchases in one of his investment accounts on 8 April 2025, the day before the pause (C102). Those are disclosed portfolio trades, not the options trades in this episode; the filing does not show who directed them, and the White House says independent managers run the accounts. Officials' sales in the days before 2 April are also disclosed (C102). The traders who have been named publicly are a soldier who has been charged (Van Dyke), a crypto investor named only by contested on-chain attribution who denies any link (Jin), and three trading firms the WSJ named without any accusation (Qube, Totsa, Forza). Reuters (29 March 2026) and the WSJ (March 2026) both summarised the pattern and both stated that there is no evidence of leaks or of insiders trading in any of the incidents. White House spokesman Kush Desai called the insinuations 'baseless and irresponsible reporting' and said the White House does not tolerate officials profiting illegally from inside information. On 24 March 2026 the White House emailed staff warning against trading futures or prediction markets on nonpublic information (see C58).",
       "sources": [
         "https://wkzo.com/2026/03/29/lucrative-bets-that-anticipated-trumps-policy-surprises-warrant-scrutiny-experts-say/",
         "https://www.tovima.com/wsj/the-well-timed-trades-made-moments-before-trumps-policy-surprises/",
         "https://finance.yahoo.com/markets/commodities/articles/oil-trades-surged-trumps-iran-194908361.html",
-        "https://harici.com.tr/en/half-billion-dollar-oil-trade-before-trump-iran-post-sparks-market-questions/?amp=1"
+        "https://harici.com.tr/en/half-billion-dollar-oil-trade-before-trump-iran-post-sparks-market-questions/?amp=1",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
       ]
     }
   ],
   "corrections": [
     "Claimed (C58): the 23 March 2026 oil trades are an unexplained bet by unknown traders. The record shows: the WSJ (May 2026) reported that CFTC documents name Qube Research & Technologies, Totsa and Forza Fund among the traders, with modest gains (about $5M, $200K and $10M) out of the roughly $800M traded, and that some trades followed a Semafor article published about 33 minutes before the post. None of the firms has been accused, and Qube says its trading is model-driven.",
-    "Claimed (C58): Van Dyke faces 'money-laundering-type' counts. Most reporting lists the charges as unlawful use of confidential government information, theft of nonpublic government information, commodities fraud and wire fraud, alongside an unlawful-monetary-transaction count in some summaries. He pleaded not guilty, and a trial was reported as set for 7 December 2026.",
-    "Claimed: the 10 October 2025 short was opened '30 hours' before the post. That figure appears in some summaries of the Comer letter. The letter itself says 'within minutes', and contemporaneous on-chain reporting says less than an hour before the 100% tariff post. An earlier, public tariff threat the same day had already moved markets.",
-    "Claimed: a $2.5M options position became $70M+ on 9 April 2025. This appears only on blogs. Reuters documented an SPY $509 call block going from about $624K to about $10M, and Unusual Whales' own write-up concerns a $504 call that went from $5.72 to $41.02."
+    "Claimed (C58): Van Dyke faces 'money-laundering-type' counts. The indictment has five counts: unlawful use of confidential government information for personal gain, theft of nonpublic government information and commodities fraud (all under the Commodity Exchange Act), wire fraud, and an unlawful monetary transaction (a money-laundering statute). He pleaded not guilty on 28 April 2026; trial is set for 7 December 2026, and a defence motion to dismiss was opposed by prosecutors in August 2026, with no ruling found.",
+    "Claimed (some summaries): the 10 October 2025 short was opened '30 hours' before the post. Claimed (House Oversight letter of 29 September 2026 and memo of 13 November 2026): it was established 'within minutes' of the announcement. The record shows: both describe parts of the same build-up. The article the committee cites says the account was funded at 16:39 UTC on 9 October and began shorting soon after (about 28-30 hours before the 20:50 UTC post), and that shorts were added until about 20:49 UTC. An earlier version of this check said the '30 hours' figure conflicted with the letter; it comes from the letter's own cited source.",
+    "Claimed: a $2.5M options position became $70M+ on 9 April 2025. This appears only on blogs. Reuters documented an SPY $509 call block going from about $624K to about $10M, and Unusual Whales' own write-up concerns a $504 call that went from $5.72 to $41.02.",
+    "2026-11-16 (audit): the earlier statement that the only reported pre-2 April 2025 activity was one State Department official's sale was incomplete; officials' disclosed sales from 19 March to 2 April 2025 are listed in C102."
   ],
   "denials_and_context": [
     "The White House (Kush Desai, March 2026) called suggestions that officials traded on inside information 'baseless and irresponsible reporting'. In April 2025 it said the 'great time to buy' post was meant to reassure markets.",
@@ -122,7 +127,8 @@
     "CFTC Chair Selig said in April 2026 that enforcement against threats to markets is 'a top priority'. The CFTC does not confirm or deny investigations. An agency official told Bloomberg that the referral was withdrawn so the review could be broadened internationally.",
     "Polymarket says it detected and reported the Maduro trades. Polymarket and Kalshi have tightened their insider-trading rules. Donald Trump Jr. advises Kalshi and, through 1789 Capital, invested in Polymarket (see C25). That ties the family to the platforms, not to any bet.",
     "Experts note that trades ahead of news can reflect hedging, momentum, reaction to earlier public posts or press reports (such as Semafor on 23 March 2026, or the morning tariff threat on 10 October 2025), or informed speculation. Insider-trading law for commodities and event contracts is complex, and proving the source of information is hard.",
-    "Well-timed trading is not proof that anyone traded on inside information. Except for the Van Dyke charges, which are unproven, no trader in these episodes has been charged and no official finding has been made."
+    "Well-timed trading is not proof that anyone traded on inside information. Except for the Van Dyke charges, which are unproven, no trader in these episodes has been charged and no official finding has been made.",
+    "Trump's own 8 April 2025 purchases (C102) are recorded in his annual disclosure; the White House says his assets are held in fully discretionary accounts managed by independent third-party institutions, and the filing does not show who directed the trades."
   ],
   "sources": [
     {
@@ -228,7 +234,7 @@
       "publisher": "House Committee on Oversight and Government Reform",
       "url": "https://oversight.house.gov/wp-content/uploads/2026/09/Hyperliquid-Letter-9.29.26.pdf",
       "date": "2026-09-29",
-      "read": "excerpt"
+      "read": "full"
     },
     {
       "title": "Comer presses Crypto.com, Hyperliquid and PredictIt on identity checks and suspicious trades",
@@ -404,6 +410,41 @@
       "url": "https://politicalwire.com/2026/10/13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades/",
       "date": "2026-10-13",
       "read": "excerpt"
+    },
+    {
+      "title": "The '1011' crypto crash and the mystery of the $1 billion whale (Charles-Henry Monchau; republished by Investing.com on 2025-10-22 and cited by House Oversight)",
+      "publisher": "Bank Syz",
+      "url": "https://blog.syzgroup.com/slow-food-for-thought/the-1011-crypto-crash-and-the-mystery-of-the-1-billion-whale",
+      "date": "2025-10-21",
+      "read": "full"
+    },
+    {
+      "title": "CFTC charges U.S. service member with insider trading in Nicolas Maduro-related event contracts",
+      "publisher": "CFTC",
+      "url": "https://www.cftc.gov/PressRoom/PressReleases/9217-26",
+      "date": "2026-04-23",
+      "read": "full"
+    },
+    {
+      "title": "Prosecutors urge judge to reject soldier's motion to dismiss Polymarket charges",
+      "publisher": "ABC News (Good Morning America)",
+      "url": "https://www.goodmorningamerica.com/news/story/soldier-charged-polymarket-trades-seeks-dismissal-135797525",
+      "date": "2026-08-20",
+      "read": "full"
+    },
+    {
+      "title": "OGE Form 278e annual report for 2025, Donald J. Trump (received by OGE 29 June 2026; Part 7 transactions and reviewer comments read in full)",
+      "publisher": "U.S. Office of Government Ethics",
+      "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "date": "2026-06-30",
+      "read": "full"
+    },
+    {
+      "title": "Committee memorandum on insider-trading risks in prediction markets",
+      "publisher": "House Committee on Oversight and Government Reform",
+      "url": "https://oversight.house.gov/wp-content/uploads/2026/11/Prediction-Markets-Memo-11132026.pdf",
+      "date": "2026-11-13",
+      "read": "full"
     }
   ],
   "entities": [
@@ -925,5 +966,53 @@
       ],
       "source_url": "https://decrypt.co/308424/trader-nets-6-8m-after-well-timed-bitcoin-ethereum-bets-ahead-of-trumps-reserve-announcement"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "Timing of the 10 October 2025 Hyperliquid short: 'within minutes' (Comer letter, memo) versus '30 hours' (cited article)",
+      "Van Dyke counts, plea, trial date and motion to dismiss",
+      "Officials' and Trump's disclosed trades around 2 and 9 April 2025, against C102 and the OGE annual report",
+      "23 March 2026 oil trades: firms named by the WSJ, no accusation, Semafor article before the post",
+      "Newer reporting through 16 Nov 2026 on charges in the oil, options or crypto episodes (none found)"
+    ],
+    "result": "corrected",
+    "changes": [
+      "Hyperliquid: replaced 'reports differ / not resolved' with the documented build-up from 16:39 UTC on 9 October to 20:49 UTC on 10 October, from the Bank Syz article that the House Oversight letter itself cites (read in full); both the letter (read in full) and the memo say 'within minutes' and cite that article, which also says 'opened 30 hours before'. The correction now reconciles the two and matches C103.",
+      "Comer letter: it does characterise the trade as 'precisely timed to a nonpublic government decision' and as mirroring a pattern of insider trading; the earlier text said it did not assert insider trading. It still names no trader and makes no finding.",
+      "Van Dyke: five counts listed exactly; plea date; CFTC complaint figures (30 Dec-2 Jan, >$404,000); motion to dismiss and prosecutors' August 2026 opposition; no ruling found.",
+      "2 April 2025: removed the claim that a single State Department sale was the only reported activity; pointed to the officials' sales documented in C102.",
+      "Added that Trump's own accounts made 327 purchases on 8 April 2025 (verified in the OGE report, C102), clearly separated from the anonymous options trades.",
+      "Upheld: 2 March 2025 reserve trade, 9 April options data, Maduro, Iran-strike bets, oil trades (firms named but not accused; Semafor before the post), and the overall verdict. No charge or finding in any episode was found through 16 Nov 2026."
+    ],
+    "new_sources": [
+      {
+        "title": "The '1011' crypto crash and the mystery of the $1 billion whale (Charles-Henry Monchau; republished by Investing.com on 2025-10-22 and cited by House Oversight)",
+        "publisher": "Bank Syz",
+        "url": "https://blog.syzgroup.com/slow-food-for-thought/the-1011-crypto-crash-and-the-mystery-of-the-1-billion-whale",
+        "date": "2025-10-21",
+        "read": "full"
+      },
+      {
+        "title": "CFTC charges U.S. service member with insider trading in Nicolas Maduro-related event contracts",
+        "publisher": "CFTC",
+        "url": "https://www.cftc.gov/PressRoom/PressReleases/9217-26",
+        "date": "2026-04-23",
+        "read": "full"
+      },
+      {
+        "title": "Prosecutors urge judge to reject soldier's motion to dismiss Polymarket charges",
+        "publisher": "ABC News (Good Morning America)",
+        "url": "https://www.goodmorningamerica.com/news/story/soldier-charged-polymarket-trades-seeks-dismissal-135797525",
+        "date": "2026-08-20",
+        "read": "full"
+      },
+      {
+        "title": "OGE Form 278e annual report for 2025, Donald J. Trump (received by OGE 29 June 2026; Part 7 transactions and reviewer comments read in full)",
+        "publisher": "U.S. Office of Government Ethics",
+        "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+        "date": "2026-06-30",
+        "read": "full"
+      }
+    ]
+  }
 }

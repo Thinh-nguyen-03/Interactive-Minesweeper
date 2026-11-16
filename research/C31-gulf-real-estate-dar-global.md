@@ -7,7 +7,7 @@ The pattern described in the claim is real and well documented. The Trump Organi
 - **Timing.** Several deals predate the 2024 election.
 - **The pledge.** The "no new foreign deals" pledge was a first-term policy. The January 2025 second-term policy explicitly allows deals with private foreign companies.
 
-No Abu Dhabi deal has been announced.
+No Abu Dhabi project has been announced, though two Damac-licensed Abu Dhabi entities received $5M each in 2025.
 
 *Method note:* the original pages at thenationalnews.com, citizensforethics.org, forbes.com, pbs.org and wikipedia.org were not read directly. The research ended before I could check the Diriyah landowner and the Oman land question further. Findings rely on search-result summaries across several outlets.
 
@@ -41,14 +41,14 @@ Status updates on the Dubai tower:
    - Oman (2022), Trump Tower Jeddah (July 2024) and the first Dubai announcement (July 2024) do not.
 2. **Dubai, Jeddah/Riyadh, Oman, Qatar, possibly others.** Verdict: *mostly-accurate*.
    - All five locations are confirmed.
-   - Abu Dhabi is unverified. Eric Trump said in December 2024 "We'll probably be in Abu Dhabi in the next year or so", and Gulf News reported "pretty serious" talks in 2025, but I found no deal.
+   - Abu Dhabi: no Dar Global deal and no launched project. Eric Trump said in December 2024 "We'll probably be in Abu Dhabi in the next year or so", and Gulf News reported "pretty serious" talks in 2025. The 2026 OGE filing does show two Abu Dhabi licence entities (DT Marks Abu Dhabi LLC and DT Marks Al Raha Beach LLC), each paid $5,000,000 by Damac subsidiaries in 2025 (see C88).
    - The "Dubai or Abu Dhabi" hotel in the claim is the Dubai tower.
 3. **Largely via Dar Global.** Verdict: *confirmed*. Dar Global is the developer or co-developer on every Gulf project above.
 4. **Values.** Verdict: *confirmed*, with a caveat. These are developer-stated headline figures, not money paid to the Trumps.
 5. **Fees to the Trumps.** Verdict: *mostly-accurate*.
-   - Trump's disclosure covering 2024 shows $21.9M from Dar Global/Dar Al Arkan for Dubai and Oman (Forbes, 16 Jun 2025), and more than $26-27M in total from that company (CREW, MPA).
-   - The disclosure covering 2025 reportedly shows about $38M in Gulf licensing fees (Oman, Qatar, Saudi Arabia, UAE), including about $21.9M from Dar Al Arkan (The National, 1 Jul 2026).
-   - Per-developer splits are estimates, because the forms use value ranges (Eastern Herald).
+   - Trump's disclosure covering 2024 shows $21.9M from Dar Al Arkan licensees: $5,000,000 (Dubai), $15,882,352.94 (DT Marks KSA) and $1,005,145 (Oman), read from the filing (Forbes reported the same total, 16 Jun 2025). CREW and MPA put the total from the company since 2021-23 at more than $26-27M.
+   - The disclosure covering 2025, read line by line, shows $38.39M of Gulf licence and management fees. Dar-linked fees are $25.80M: Dar Al Arkan licensees paid $10,361,458.68 (Dubai tower), $9,243,574.15 (Saudi Arabia) and $949,642 (Oman), and Dar Global Holdings paid $5,250,000 for Doha. CNBC reports the same $25.8M. The "$21.9M again" relayed by The National repeats the 2024 figure.
+   - Damac's 2025 fee lines are exact, not estimates: $12,589,884 in total (see C88). Only asset values on the form are ranges.
    - CREW's figure of more than $400M over the second term is a projection.
 6. **State-linked counterparties.** Verdict: *partly-accurate*.
    - Qatar: Qatari Diar is owned by the QIA sovereign fund.
@@ -63,7 +63,8 @@ Status updates on the Dubai tower:
 ## Corrections
 - Not all the deals are post-election: Oman (2022), Trump Tower Jeddah (Jul 2024) and the first Dubai announcement (Jul 2024) predate it.
 - The first-term pledge does not govern the second term. The current policy permits these deals.
-- The "Dubai or Abu Dhabi" hotel in the claim is Dubai. No Abu Dhabi deal exists yet.
+- The "Dubai or Abu Dhabi" hotel in the claim is Dubai. No Abu Dhabi project has been announced, though Damac paid two $5M Abu Dhabi licence fees in 2025.
+- Claimed: about $21.9M from Dar Al Arkan in 2025. The record shows: $21.9M was the 2024 total; the 2025 Dar-linked total is $25.80M including the $5.25M Doha fee. Damac's 2025 fees are an exact $12,589,884 (correction of 16 Nov 2026).
 - The Qatar $5.5B is the masterplan value.
 
 ## Denials and other side
@@ -117,3 +118,7 @@ Audit sources:
 - Trump Organization eyes real estate deal at Saudi government development: report. Middle East Eye, 2025-11. https://www.middleeasteye.net/news/trump-organization-eyes-real-estate-deal-saudi-government-development-report
 - 'Just a matter of time' before Trump family business seals Saudi deal. AlterNet, 2025-11. https://www.alternet.org/trump-saudi-arabia-2674366440
 - Eric Trump markets $10B in Saudi real estate projects. Semafor, 2026-01-12. https://www.semafor.com/article/01/12/2026/eric-trump-markets-10b-in-saudi-real-estate-projects
+
+### Balance-sheet review (16 Nov 2026)
+
+Result: **corrected** (verdicts unchanged). Both OGE filings were read line by line. The "$21.9M" Dar Al Arkan figure is the 2024 total. For 2025 the Dar-linked fees are $25.80M including Doha, the Gulf total is $38.39M, and Damac's fees are an exact $12,589,884. Two Damac-licensed Abu Dhabi entities received $5M each in 2025. Sources: https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf and https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump,%20Donald%20J.%202025%20Annual%20278.pdf (both read in full).

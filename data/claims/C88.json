@@ -8,7 +8,7 @@
     {
       "statement": "Damac paid about $10M in 2025 for two Abu Dhabi Trump licences, and as of Nov 2026 no Trump-branded Abu Dhabi project has been launched.",
       "verdict": "confirmed",
-      "finding": "Evidence grade: documented (Trump's 2026 OGE disclosure as read by CREW, CNBC and The National). This repeats C70/C82 only to bring it up to date. Two Damac subsidiaries paid $5M each to DT Marks Abu Dhabi LLC and DT Marks Al Raha Beach LLC. The National ties the money to 'an estate project at Abu Dhabi's Al Raha Beach'. CNBC (10 Aug 2026) says the Trump Organization has no active development there and puts Damac's 2025 total at $11.3M, against about $12.5M from CREW and The National. New since C82: searches through Nov 2026 found no Damac or Trump Organization launch in Abu Dhabi. One property-portal analysis expects a Damac Abu Dhabi villa community in 2026 but names no site and no Trump brand. Forbes (Oct 2025) estimated that Damac companies pay Trump about $6M a year on the older Dubai golf deals. CREW (Mar 2026) puts cumulative Damac payments across disclosures at 'at least $13 million, and possibly as much as $19 million'. Disclosure forms partly use value ranges, so all of these totals are estimates.",
+      "finding": "Evidence grade: documented (Trump's 2026 OGE disclosure as read by CREW, CNBC and The National). This repeats C70/C82 only to bring it up to date. Two Damac subsidiaries paid $5M each to DT Marks Abu Dhabi LLC and DT Marks Al Raha Beach LLC. The National ties the money to 'an estate project at Abu Dhabi's Al Raha Beach'. CNBC (10 Aug 2026) says the Trump Organization has no active development there and puts Damac's 2025 total at $11.3M, against about $12.5M from CREW and The National. New since C82: searches through Nov 2026 found no Damac or Trump Organization launch in Abu Dhabi. One property-portal analysis expects a Damac Abu Dhabi villa community in 2026 but names no site and no Trump brand. Forbes (Oct 2025) estimated that Damac companies pay Trump about $6M a year on the older Dubai golf deals. CREW (Mar 2026) puts cumulative Damac payments across disclosures at 'at least $13 million, and possibly as much as $19 million'. The 2025 figures are not estimates: the filing gives each fee as an exact amount, and only asset values are ranges. Read line by line, the 2026 OGE filing shows DT Marks Abu Dhabi LLC $5,000,000 (licensee DAMAC Sky View Real Estate LLC), DT Marks Al Raha Beach LLC $5,000,000 (licensee DAMAC Properties Investment LLC), DT Marks Dubai LLC $1,335,140 (licence fee, Damac Crescent Properties LLC) and DT Dubai Golf Manager LLC $1,254,744 (management fee, Damac Crescent Properties LLC). That totals $12,589,884. CNBC's $11.3M matches the three licence fees without the management fee ($11,335,140). The cumulative Forbes and CREW figures remain estimates.",
       "sources": [
         "https://www.citizensforethics.org/reports-investigations/crew-investigations/dubai-developer-paid-trump-12-5-million-while-bringing-data-centers-to-the-u-s/",
         "https://www.cnbc.com/2026/08/10/trump-foreign-real-estate-licensing-income-gulf-deals.html",
@@ -16,7 +16,8 @@
         "https://www.thenationalnews.com/business/2026/07/01/gulf-developers-bring-windfall-to-trump-family/",
         "https://www.forbes.com/sites/danalexander/2025/10/27/this-gulf-nation-is-powering-trumps-moneymaking-machine/",
         "https://www.citizensforethics.org/reports-investigations/crew-investigations/data-centers-are-spiking-ohio-utility-prices-one-developer-is-trumps-business-partner/",
-        "https://dubai-immo.com/en/damac-communaute-villas-abu-dhabi-2026/"
+        "https://dubai-immo.com/en/damac-communaute-villas-abu-dhabi-2026/",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
       ]
     },
     {
@@ -132,7 +133,8 @@
     "The claim lists 'New Year's Eve at Mar-a-Lago' as one event; the documented on-stage praise is NYE 2016. NYE 2024 attendance rests on Sajwani's own posts as relayed by Raw Story.",
     "Some crypto outlets call the crypto-accepting Trump Tower Dubai a Damac project; it is Dar Global's.",
     "Damac's US footprint (New Jersey; Edgerton, Kansas) includes states that were not among the eight announced on 7 Jan 2025.",
-    "One syndicated AP summary renders a disclosure figure as Sajwani 'contributing' $1-5M to Trump's 2016 campaign. That looks garbled (foreign nationals cannot donate), and it is not used here."
+    "One syndicated AP summary renders a disclosure figure as Sajwani 'contributing' $1-5M to Trump's 2016 campaign. That looks garbled (foreign nationals cannot donate), and it is not used here.",
+    "16 Nov 2026: Claimed: the 2025 Damac total (about $11.3-12.5M) is an estimate, and which subsidiary paid which Abu Dhabi entity is not specified. The record shows: the 2026 OGE filing lists four exact Damac-linked fee lines totalling $12,589,884, and names DAMAC Sky View Real Estate LLC as licensee of DT Marks Abu Dhabi LLC and DAMAC Properties Investment LLC as licensee of DT Marks Al Raha Beach LLC. The two payer-to-entity relationships have been corrected to match."
   ],
   "denials_and_context": [
     "Damac did not respond to CNBC (Aug 2026) and has not publicly addressed CREW's reports.",
@@ -419,19 +421,19 @@
       "id": "damac-properties",
       "name": "Damac Properties",
       "type": "company",
-      "description": "Dubai developer controlled by Sajwani; Trump golf licensee; paid ~$11-12.5M to Trump entities in 2025."
+      "description": "Dubai developer controlled by Sajwani; Trump golf licensee; its subsidiaries paid Trump entities $12,589,884 in 2025 per the OGE filing."
     },
     {
       "id": "damac-properties-investment-llc",
       "name": "Damac Properties Investment LLC",
       "type": "company",
-      "description": "Damac subsidiary; payer of a 2025 Abu Dhabi licence fee."
+      "description": "Damac subsidiary; licensee of DT Marks Al Raha Beach LLC, which reported a $5,000,000 licence fee for 2025."
     },
     {
       "id": "damac-sky-view-real-estate-llc",
       "name": "Damac Sky View Real Estate LLC",
       "type": "company",
-      "description": "Damac subsidiary; payer of a 2025 Abu Dhabi licence fee."
+      "description": "Damac subsidiary; licensee of DT Marks Abu Dhabi LLC, which reported a $5,000,000 licence fee for 2025."
     },
     {
       "id": "edgnex",
@@ -587,16 +589,16 @@
   "relationships": [
     {
       "source": "damac-properties-investment-llc",
-      "target": "dt-marks-abu-dhabi",
-      "label": "paid licence fee (one of two $5M fees; mapping not specified)",
+      "target": "dt-marks-al-raha-beach",
+      "label": "paid a $5,000,000 licence fee to (2025, per the OGE filing)",
       "type": "money",
       "date": "2025",
       "amount_usd": 5000000
     },
     {
       "source": "damac-sky-view-real-estate-llc",
-      "target": "dt-marks-al-raha-beach",
-      "label": "paid licence fee (one of two $5M fees; mapping not specified)",
+      "target": "dt-marks-abu-dhabi",
+      "label": "paid a $5,000,000 licence fee to (2025, per the OGE filing)",
       "type": "money",
       "date": "2025",
       "amount_usd": 5000000
@@ -618,10 +620,10 @@
     {
       "source": "damac-properties",
       "target": "trump-organization",
-      "label": "paid ~$11.3-12.5M licence/management fees (2025)",
+      "label": "paid $12,589,884 in licence and golf-management fees (2025, OGE filing)",
       "type": "money",
       "date": "2025",
-      "amount_usd": 12500000
+      "amount_usd": 12589884
     },
     {
       "source": "damac-properties",
@@ -835,13 +837,15 @@
     "checked": [
       "Damac's two $5M payments to DT Marks Abu Dhabi LLC and DT Marks Al Raha Beach LLC, and whether any Abu Dhabi project launched",
       "Damac Digital's US sites: $36.5M Canton, Ohio land and $860M Edgerton, Kansas conversion",
-      "Any federal (not local) approval for a Damac data-centre site"
+      "Any federal (not local) approval for a Damac data-centre site",
+      "Damac fee lines in the 2026 OGE filing, read line by line (16 Nov 2026 balance-sheet review)"
     ],
-    "result": "upheld",
+    "result": "corrected",
     "changes": [
       "Abu Dhabi fees: upheld ($5M per entity, CREW from Trump's OGE disclosure). CREW's own wording is that the entities 'appear to be related to unannounced developments in Abu Dhabi'; the summary now carries that qualifier. Fresh searches (Gulf News, The National Sept 2026 overview) found no Damac or Trump Organization Abu Dhabi launch through Nov 2026; Trump-branded Gulf launches found are Dar Global's.",
       "US sites: upheld. Trackers and CREW confirm DAMAC Digital Solution Ohio bought ~94 acres in SE Canton in Dec 2025; Ingram's and DCD confirm the $860M Edgerton conversion, the 3-2 planning-commission denial and the later go-ahead. Nothing operating.",
-      "Federal approvals: none found; upheld as unverified. DT Marks Al Raha Beach's same-day formation remains single-source (CREW) and its relationship label now says so."
+      "Federal approvals: none found; upheld as unverified. DT Marks Al Raha Beach's same-day formation remains single-source (CREW) and its relationship label now says so.",
+      "16 Nov 2026: replaced the '$11.3-12.5M estimate' with the exact $12,589,884 from four filing lines; explained CNBC's $11.3M as the licence fees without the $1,254,744 management fee; swapped the two Abu Dhabi payer-to-entity relationships to match the licensees named in the filing (Sky View pays DT Marks Abu Dhabi; Properties Investment pays DT Marks Al Raha Beach)."
     ],
     "new_sources": [
       {
@@ -861,6 +865,13 @@
         "publisher": "More Than Just Parks data-centre tracker",
         "url": "https://morethanjustparks.com/data-center-tracker/edgerton-data-center-damac-digital-ks--2b5543d3-376d-464a-830f-4ede025da8a6",
         "date": "2026"
+      },
+      {
+        "title": "Donald J. Trump, OGE Form 278e annual report for calendar 2025",
+        "publisher": "US Office of Government Ethics",
+        "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+        "date": "2026-06-30",
+        "read": "full"
       }
     ]
   }

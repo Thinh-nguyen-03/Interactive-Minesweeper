@@ -38,13 +38,15 @@ Figures from the 2026 report, Schedule 1:
   - a bitcoin wallet valued at "Over $50,000,000"
 - **DT Marks DEFI LLC:**
   - $65,625,000 of net proceeds from selling equity in WLF Holdco (line 124.2)
-  - token-sale proceeds "distributed by World Liberty Financial" (lines 124.3 to 124.12) of $526,810,321 in total: $236,250,000 in cash plus nine crypto-wallet lines (ETH $150.6M, USDC $56.0M, USD1 $42.25M, BTC $33.5M, and LINK, AAVE, ENA, MOVE and ONDO)
+  - token-sale proceeds "distributed by World Liberty Financial" (lines 124.3 to 124.12) of $526,810,321 in total: $236,250,000 in cash plus nine crypto-wallet lines (ETH $150.6M, USDC $56.0M, a wallet labelled "Virtual USD Key" $42.25M, BTC $33.5M, and LINK, AAVE, ENA, MOVE and ONDO)
   - $1,821,628 of staking rewards
 - **DT Marks SC LLC:** $196,875,000 of "net proceeds received from capital contribution from new member(s) of Stablecoin Holdco LLC and sale of Class C Units" (line 114). Stablecoin Holdco, the USD1 business, reports $8,326,828 of net operating income.
-- **Who owns the two crypto entities.** DT Marks DEFI and DT Marks SC are each owned 69% by DTTM Operations, 1% by a DTTM-owned member corporation and 30% by "Trump Family Members". At the end of 2025 each held 38.25% of its holding company. In the 2024 report, DT Marks DEFI held 75% of WLF Holdco.
-- **Token holdings.** DTTM Operations lists 15.75 billion WLFI governance tokens, valued "Over $50,000,000".
+- **Who owns the two crypto entities.** Line 124 (Schedule 1, page 8 of 23): "DT Marks Defi Member Corp: 1%, DTTM Operations LLC 69%, & Trump Family Members 30%". Line 114 (page 7 of 23): "DT Marks SC Member Corp: 1%, DTTM Operations LLC 69%, & Trump Family Members 30%". The member corporations and DTTM Operations trace to Trump's own holding companies, so his indirect stake is 70%.
+- **Stakes in the holding companies.** Line 405: WLF Holdco is "DT Marks Defi LLC: 38.25% & Third Parties: 61.75%", and "All Distributions from token and equity sales are reported on lines 124.2 through 124.12". Line 204: Stablecoin Holdco is "DT Marks SC LLC - Limited Partner - 38.25%; & Third Parties - 61.75%", with distributions from the equity sale "reported on line 114". In the 2024 report (line 390) WLF Holdco was "DT Marks Defi LLC: 75% & Third Parties: 25%".
+- **Entity totals or Trump's share? The form does not say.** The form lists these amounts on the lines of DT Marks DEFI LLC (line 124) and DT Marks SC LLC (line 114), each shown as owned 'DT Marks ... Member Corp: 1%, DTTM Operations LLC 69%, & Trump Family Members 30%'. It does not say whether the amounts are the LLCs' total receipts or only the part attributable to Trump's 70%, and it has no pro-rata note. If they are entity totals, Trump's indirect share of the $789.3M is about $552.5M; if they are his share, the two LLCs received about $1.13B and unnamed family members about $338M more that is not on his form (our arithmetic either way). Outlets read it both ways: the Senate Banking minority letter treats the DT Marks DEFI lines as the entity's receipts, while CAP treats the $262.5M stake-sale figure as Trump's 70% share.
+- **Token holdings.** Line 133.2 (page 9 of 23), under DTTM Operations LLC ("DJT Holdings LLC: 99% & DTTM Operations Managing Member Corp: 1%", so wholly Trump's): "15,750,000,000 Governance tokens - World Liberty Financial", valued "Over $50,000,000". The 22.5 billion figure in press reports is World Liberty's own ("DT Marks DEFI LLC along with certain family members"), not the form's; 15.75B is 70% of it (our arithmetic).
 
-These lines add up to about $1.425 billion. The outlets' figures map onto the filing as follows:
+The four receipt lines add up to $1,424,379,156; $1.425B with the JBCZ sublicence and $1.427B with staking rewards and interest. The outlets' figures map onto the filing as follows:
 
 - **Reuters:** "more than $1.4B" in total, with "almost $800M" from World Liberty. The filing gives $789.3M (526.8 + 65.6 + 196.9).
 - **PolitiFact:** about $791M from World Liberty, which also includes the staking rewards.
@@ -53,7 +55,7 @@ These lines add up to about $1.425 billion. The outlets' figures map onto the fi
 
 ### 2. 2024 crypto income was far smaller: confirmed
 
-- **World Liberty.** The 2025 report shows $57,355,532 of token sales (line 391). The line belongs to World Liberty Financial, Inc., which is owned by WLF Holdco, then 75% owned by DT Marks DEFI. It is the company's gross token revenue, not a payment to Trump; DT Marks DEFI's own line shows no 2024 income.
+- **World Liberty.** The 2025 report shows $57,355,532 of token sales (line 391). The line belongs to World Liberty Financial, Inc., which is owned by WLF Holdco, then 75% owned by DT Marks DEFI. It is the company's gross token revenue, not a payment to Trump; DT Marks DEFI's own line shows no 2024 income. Exact text (Schedule 1 page 23 of 26, PDF page 171): "World Liberty Financial, Inc. ... Token Sales $ 57,355,532 WLF Holdco LLC: 100%". DTTM Operations already listed the same 15,750,000,000 WLFI (line 109.2), then valued "$1,001 to $15,000".
 - **NFTs.** CIC Digital reported $1,157,490 from NFT INT LLC.
 
 ### 3. Golf, clubs and resorts: confirmed
@@ -162,7 +164,7 @@ Legacy book royalties, such as The Art of the Deal at $100,001 to $1,000,000, ar
 
 1. **Ranges.** Many amounts are brackets with no upper bound.
 2. **Revenue, not profit.** Business lines show gross revenue.
-3. **Family shares.** Income is reported at the entity level even where family members own 20-30%. Their separate ventures do not appear, and family members are not named.
+3. **Family shares.** Income is listed on the lines of entities in which unnamed family members own 20-30%, and the form does not say whether those amounts are entity totals or Trump's share. Their separate ventures do not appear, and family members are not named.
 4. **Unrealised value.** Gains or losses on shares, tokens and wallets are not income.
 5. **Salary.** The government salary is excluded.
 6. **Timing.** Calendar 2025 includes the three days of TRUMP meme-coin sales before the inauguration.
@@ -176,7 +178,8 @@ Revenue reported during the term is not the same as revenue earned because of th
 - Claimed (C42): DT Marks DEFI's stake in WLF Holdco was "about 60%, then 40%, then 38.25%". The record shows: the forms give 75% at the end of 2024 and 38.25% at the end of 2025.
 - Claimed (C42): "The 22.5B-token stake was valued at about $1.3B." The record shows: the forms list 15.75B WLFI under DTTM Operations, valued only as "Over $50,000,000". 15.75B is 70% of 22.5B, consistent with the 30% family share (our arithmetic). The $1.3B is a press valuation.
 - Claimed (C29): Bloomberg's "about $594M" for the WLF component. The record shows: 526.81 + 65.63 = $592.44M, or about $594.3M with staking rewards. The Stablecoin Holdco figure is exactly $196,875,000, on the DT Marks SC line.
-- Claimed (C11, C29, C42): the receipts are described as Trump's income. The record shows: they are entity totals of which Trump's indirect share is about 70%.
+- Claimed (C11, C29, C42): the receipts are described as Trump's income. The record shows: they are listed on the lines of DT Marks DEFI and DT Marks SC (70% Trump, 30% unnamed family members). The form does not say whether they are entity totals or Trump's share. (Audit, 16 Nov 2026: an earlier version called them entity totals.)
+- (Audit, 16 Nov 2026) The $42.25M wallet line is labelled "Virtual USD Key" on the form, not USD1; the crypto total with staking and interest is $1.427B, not $1.428B.
 - Claimed (AP and others): Trump "owes E. Jean Carroll $50 million". The record shows: the form gives "Over $50,000,000" and "$1,000,001 - $5,000,000"; exact amounts are not shown.
 - Claimed (InvestmentNews): an 847-page report. The record shows: the PDF has 927 pages; 847 is the pagination of the form proper.
 
@@ -196,6 +199,10 @@ Revenue reported during the term is not the same as revenue earned because of th
 - Who "Celebration Coins" is.
 - The Stablecoin Holdco capital contribution and the Aryam stake purchase. The move from 75% to 38.25% matches a 49% sale (75% × 51%), but that is our arithmetic.
 - The Part 9 gifts.
+
+## Audit (second review, 16 Nov 2026)
+
+**Result: corrected (minor).** Both PDFs were re-read line by line. Every crypto amount and total is confirmed: token proceeds $526,810,321 ($236,250,000 cash plus nine wallet lines totalling $290,560,321), DT Marks DEFI $592,435,321, with DT Marks SC $789,310,321, with meme-coin royalties $1,424,379,156. The 2024 figure of $57,355,532 sits on line 391, the line of World Liberty Financial, Inc. itself. The stakes are 75% (end of 2024, line 390) and 38.25% (end of 2025, lines 124, 204 and 405). The cover notes are confirmed: OGE received 6/29/2026, 45-day extension, "The filer paid late filing fees related to transactions not previously reported on 278-Ts. DJB 6/30/26". Changes: the ownership wording is now neutral, because the form does not say whether the crypto amounts are entity totals or Trump's share (this is now worded the same way in C97); the $42.25M wallet is labelled "Virtual USD Key" as on the form; the total with staking and interest is $1.427B; and the exact WLFI token line (15.75B under DTTM Operations, wholly Trump's) and its 2024 valuation were added. Spot-checks of Mar-a-Lago, Doral, TMTG, the settlements and the Schwab line match the form. No amended annual report or contradicting reporting was found.
 
 ## Sources
 

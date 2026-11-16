@@ -62,12 +62,14 @@
     {
       "statement": "The sons made large gains via Dominari-linked deals.",
       "verdict": "mostly-accurate",
-      "finding": "Bloomberg said Wool helped them make 'more than half a billion dollars,' mostly the peak paper value of American Bitcoin, which has since fallen more than 90%. In May 2025 they could sell a combined $9.6M of Dominari stock registered for resale. No sale of their Dominari shares is confirmed, and MarketWatch corrected an erroneous sale report.",
+      "finding": "Bloomberg said Wool helped them make 'more than half a billion dollars,' mostly the peak paper value of American Bitcoin, which has since fallen more than 90%. In May 2025 they could sell a combined $9.6M of Dominari stock registered for resale. No sale of Dominari shares by either brother is documented, and MarketWatch corrected an erroneous sale report. Later filings point the other way: Schedule 13G filings for Donald Trump Jr. show 1,182,276 shares (5.23%) as of 22 May 2026 and 1,398,414 shares (5.77%) in a September 2026 filing that reports his exercise of 216,138 Series A warrants on 18 Aug 2026 (filings seen as search excerpts, not read in full). The stock closed at $0.78 on 13 Nov 2026, against $3.47 in the Feb 2025 placement and just under $5 at end-2025, so the registered stock's $9.6M resale value of May 2025 has largely gone. By our arithmetic, 1,398,414 shares were worth about $1.1M at that close.",
       "sources": [
         "https://www.bloomberg.com/news/features/2025-10-13/the-banker-behind-the-trump-family-s-quick-wall-street-wins",
         "https://www.forbesargentina.com/millonarios/donald-trump-jr-eric-trump-preparados-vender-su-participacion-dominari-us-96-millones-n71319",
         "https://www.bloomberg.com/news/articles/2025-05-19/how-donald-trump-jr-eric-trump-could-make-millions-from-dominari-shares",
-        "https://www.webull.com.au/news-detail/14846258248377344"
+        "https://www.webull.com.au/news-detail/14846258248377344",
+        "https://www.sec.gov/Archives/edgar/data/0000012239/000121390026063164/primary_doc.xml",
+        "https://www.sec.gov/Archives/edgar/data/0000012239/000121390026100325/primary_doc.xml"
       ]
     },
     {
@@ -135,7 +137,8 @@
     "The claim says Thumzup and GrabAGun spiked after a Trump son arrived. Thumzup fell more than 14% on the stake disclosure, and GrabAGun fell about 30% in its first two days.",
     "GrabAGun/Colombier II is an Omeed Malik deal; no Dominari role was found.",
     "No SEC or FINRA scrutiny of Dominari or the sons is documented. The scrutiny is a congressional letter (March 2026) and a FINRA fine on Revere, Wool's former firm.",
-    "The 'half a billion dollars' gain is mostly paper value at American Bitcoin's peak, and that stock later fell more than 90%."
+    "The 'half a billion dollars' gain is mostly paper value at American Bitcoin's peak, and that stock later fell more than 90%.",
+    "16 Nov 2026: Wording confirmed: no sale of Dominari shares by Donald Trump Jr. or Eric Trump is documented. Schedule 13G filings in 2026 show Donald Trump Jr.'s holding rising through warrant exercises (1,182,276 shares in May 2026; 1,398,414 in a Sept 2026 filing), and the shares fell to $0.78 by 13 Nov 2026."
   ],
   "denials_and_context": [
     "Dominari: it had 'no reason to believe that any of these people breached any duty, whether legal or fiduciary' and did not know why investors bought before the announcement.",
@@ -949,13 +952,15 @@
       "The sons' 6.71% 13G stakes and the $3.47 private placement",
       "DOMH's pre-announcement run-up (529-580%) and volume figures",
       "House CCP committee letter and the FINRA fine on Revere",
-      "Hayes/Wool 2025 pay (~$66M)"
+      "Hayes/Wool 2025 pay (~$66M)",
+      "Whether any sale of Dominari shares by Donald Trump Jr. is documented, through Nov 2026 (16 Nov 2026 balance-sheet review)"
     ],
     "result": "upheld",
     "changes": [
       "Core figures re-confirmed (13G 966,138 shares/6.71%; $3.47 units; 529% per Barron's and ~580% per FT pre-announcement; Bloomberg $34M/$32M pay).",
       "Noted that volume figures differ by outlet (Forbes vs TipRanks), and that the 13Gs excluded 432,276 warrant shares as not exercisable, keeping each brother below 10%.",
-      "Dated the Revere FINRA fine to around early Oct 2026 (trade coverage) and added that the House CCP letters also went to D. Boral Capital, Dominari's co-lead on the sons' SPAC IPO. Verdict and confidence unchanged."
+      "Dated the Revere FINRA fine to around early Oct 2026 (trade coverage) and added that the House CCP letters also went to D. Boral Capital, Dominari's co-lead on the sons' SPAC IPO. Verdict and confidence unchanged.",
+      "16 Nov 2026: confirmed the 'no documented sale' wording and added the 2026 Schedule 13G figures for Donald Trump Jr. (5.23% in May 2026; 1,398,414 shares, 5.77%, in a Sept 2026 filing reporting a warrant exercise), seen as search excerpts, and the $0.78 close of 13 Nov 2026. Verdict unchanged."
     ],
     "new_sources": [
       {
@@ -981,6 +986,27 @@
         "publisher": "TipRanks",
         "url": "https://www.tipranks.com/news/trump-family-appointments-spark-suspicious-surge-in-2-stocks-before-news-breaks",
         "date": "2025-02"
+      },
+      {
+        "title": "Dominari Holdings Inc., Schedule 13G (Donald J. Trump Jr.), event date 22 May 2026",
+        "publisher": "SEC EDGAR",
+        "url": "https://www.sec.gov/Archives/edgar/data/0000012239/000121390026063164/primary_doc.xml",
+        "date": "2026-06",
+        "read": "excerpt"
+      },
+      {
+        "title": "Dominari Holdings Inc., Schedule 13G (Donald J. Trump Jr.), Sept 2026",
+        "publisher": "SEC EDGAR",
+        "url": "https://www.sec.gov/Archives/edgar/data/0000012239/000121390026100325/primary_doc.xml",
+        "date": "2026-09",
+        "read": "excerpt"
+      },
+      {
+        "title": "DOMH price history",
+        "publisher": "StockAnalysis",
+        "url": "https://stockanalysis.com/stocks/domh/history/",
+        "date": "2026-11-13",
+        "read": "full"
       }
     ]
   }

@@ -16,7 +16,7 @@
       "https://www.govinfo.gov/content/pkg/USCODE-2024-title3/html/USCODE-2024-title3-chap2-sec102.htm",
       "https://www.everycrsreport.com/reports/RS20115.html"
     ],
-    "notes": "This is the salary due by law, not money shown to have been kept. Row C95-02 is a part of this same money that was given away: do not add the two rows; subtract C95-02 from this row. Excludes the up-to-$50,000-a-year non-taxable expense allowance and the $100,000-a-year travel allowance, which are for official use; whether the expense allowance is drawn is not public. Trump says he donates the whole salary."
+    "notes": "This is the salary due by law, not money shown to have been kept. Row C95-02 is a part of this same money that was given away: do not add the two rows; subtract C95-02 from this row. Excludes the $50,000-a-year non-taxable expense allowance (unused amounts revert to the Treasury under the statute) and the $100,000-a-year travel allowance, which are for official use; whether the expense allowance is drawn is not public. Trump says he donates the whole salary."
   },
   {
     "id": "C95-02",
@@ -35,6 +35,6 @@
       "https://www.whitehousehistory.org/press-room/press-releases/statement-by-the-white-house-historical-association-on-october-27-2025",
       "https://www.breitbart.com/politics/2025/08/06/trump-donates-presidential-paycheck-to-white-house-historical-association/"
     ],
-    "notes": "The only documented second-term donation. It comes from the recipient's own statement, seen as a search excerpt only; the page could not be opened. No quarter-by-quarter breakdown is given. It is about two months of gross pay against about $306,800 accrued by October 27, 2025. Do not count the August 2025 'first paycheck' announcement separately: it is included here. No donation is documented for Q4 2025 or Q1-Q3 2026, and no rows are recorded for those quarters. The gift may be tax-deductible to Trump as a charitable contribution; no second-term return is public."
+    "notes": "The only documented second-term donation. It comes from the recipient's own statement, read in full in November 2026; the same statement calls a reported $50 million contribution from the president untrue. No quarter-by-quarter breakdown is given. It is about two months of gross pay against about $306,800 accrued by October 27, 2025. Do not count the August 2025 'first paycheck' announcement separately: it is included here. No donation is documented for Q4 2025 or Q1-Q3 2026 (rechecked to mid-November 2026), and no rows are recorded for those quarters. The gift may be tax-deductible to Trump as a charitable contribution; no second-term return is public."
   }
 ]

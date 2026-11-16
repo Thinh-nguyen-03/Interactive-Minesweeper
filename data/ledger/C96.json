@@ -10,13 +10,13 @@
     "amount_high_usd": 526810321,
     "period": "2025-01 to 2025-12",
     "as_of": "2026-06-30",
-    "basis": "Sum of lines 124.3-124.12 of the 2026 OGE 278e: token-sale proceeds distributed by World Liberty Financial to DT Marks DEFI ($236.25M cash plus nine crypto-wallet lines).",
+    "basis": "Sum of lines 124.3-124.12 of the 2026 OGE 278e: 'Proceeds from Token sales distributed by World Liberty Financial LLC' to DT Marks DEFI ($236,250,000 cash plus nine crypto-wallet lines totalling $290,560,321).",
     "grade": "documented",
     "sources": [
       "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
       "https://www.ksl.com/article/51583356/trump-reports-over-14-billion-in-income-from-crypto-ventures"
     ],
-    "notes": "Entity total. DT Marks DEFI/SC are 69% DTTM Operations, 1% DTTM member corp, 30% 'Trump Family Members', so Trump's indirect share is about 70%. Crypto lines are valued as reported; later price falls are not reflected. Same money appears in C29/C42 as '$515-529M' or 'more than $520M'."
+    "notes": "Listed on the DT Marks DEFI line, shown as 69% DTTM Operations, 1% member corp (both Trump's) and 30% 'Trump Family Members'. The form does not say whether this is the entity's total or Trump's 70% share; if a total, Trump's indirect share is 70% of it; if his share, family members received 3/7 as much again, unreported (our arithmetic). Crypto lines are valued as reported; later price falls are not reflected. Same money as C97-01 (do not add). C29/C42 quote it as '$515-529M' or 'more than $520M'."
   },
   {
     "id": "C96-02",
@@ -34,7 +34,7 @@
     "sources": [
       "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
     ],
-    "notes": "Entity total. DT Marks DEFI/SC are 69% DTTM Operations, 1% DTTM member corp, 30% 'Trump Family Members', so Trump's indirect share is about 70%. Buyer is not named on the form. AP and others link 2025 equity sales to the Aryam 49% purchase; that link is press reporting, not the form."
+    "notes": "Listed on the DT Marks DEFI line, shown as 69% DTTM Operations, 1% member corp (both Trump's) and 30% 'Trump Family Members'. The form does not say whether this is the entity's total or Trump's 70% share; if a total, Trump's indirect share is 70% of it; if his share, family members received 3/7 as much again, unreported (our arithmetic). Buyer is not named on the form. Same money as C97-02. AP and others link 2025 equity sales to the Aryam 49% purchase; that link is press reporting, not the form."
   },
   {
     "id": "C96-03",
@@ -54,7 +54,7 @@
       "https://news.bloomberglaw.com/crypto/trumps-1-4-billion-haul-makes-him-biggest-us-crypto-moneymaker",
       "https://www.pbs.org/newshour/politics/how-crypto-real-estate-and-watches-added-up-for-trump-last-year"
     ],
-    "notes": "Entity total. DT Marks DEFI/SC are 69% DTTM Operations, 1% DTTM member corp, 30% 'Trump Family Members', so Trump's indirect share is about 70%. Reuters counts this inside its 'almost $800M from World Liberty' and '$250M from sale of interests'; Bloomberg first left it out. Do not add again to any WLF total that already includes it."
+    "notes": "Listed on the DT Marks SC line, shown as 69% DTTM Operations, 1% member corp (both Trump's) and 30% 'Trump Family Members'. The form does not say whether this is the entity's total or Trump's 70% share; if a total, Trump's indirect share is 70% of it; if his share, family members received 3/7 as much again, unreported (our arithmetic). Reuters counts this inside its 'almost $800M from World Liberty'; Bloomberg first left it out. Same money as C97-03; do not add again to any WLF total that already includes it."
   },
   {
     "id": "C96-04",
@@ -74,7 +74,7 @@
       "https://www.ksl.com/article/51583356/trump-reports-over-14-billion-in-income-from-crypto-ventures",
       "https://www.pbs.org/newshour/politics/how-crypto-real-estate-and-watches-added-up-for-trump-last-year"
     ],
-    "notes": "Gross royalty to the Trump entity; it says nothing about buyer losses. Includes sales in the 3 days before the inauguration. Same figure as C29/C01."
+    "notes": "Gross royalty to the Trump entity (CIC Digital is 100% his trust's, so no family share applies); it says nothing about buyer losses. Includes sales in the 3 days before the inauguration. Same figure as C97-07, C29 and C01; licence income, not token sales by Trump."
   },
   {
     "id": "C96-05",
@@ -92,7 +92,7 @@
     "sources": [
       "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
     ],
-    "notes": "The $1.82M of staking on DT Marks DEFI is subject to the 30% family share."
+    "notes": "The $1.82M of staking and $6,995 of interest on DT Marks DEFI are subject to the same entity-or-share question as C96-01. C97-07 mentions the CIC Digital staking and interest but does not count them, so there is no overlap."
   },
   {
     "id": "C96-06",
@@ -612,7 +612,7 @@
     "sources": [
       "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
     ],
-    "notes": "Spouse's income, not the filer's. See C44 for the Amazon film deal; do not double count."
+    "notes": "Spouse's income, not the filer's. See C44 for the Amazon film deal; do not double count. The $6,011,259 NFT and collectibles line is also row C97-11 (same money)."
   },
   {
     "id": "C96-33",
@@ -625,13 +625,13 @@
     "amount_high_usd": 57355532,
     "period": "2024-01 to 2024-12",
     "as_of": "2025-06-13",
-    "basis": "Line 391 of the 2025 OGE 278e: World Liberty Financial, Inc. token sales.",
+    "basis": "Line 391 of the 2025 OGE 278e (Schedule 1 page 23 of 26): 'World Liberty Financial, Inc. ... Token Sales $ 57,355,532 WLF Holdco LLC: 100%'.",
     "grade": "documented",
     "sources": [
       "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump,%20Donald%20J.%202025%20Annual%20278.pdf",
       "https://www.thestar.com.my/tech/tech-news/2025/06/15/trump-reports-more-than-600-million-in-income-from-crypto-golf-licensing-fees"
     ],
-    "notes": "Booked at World Liberty Financial, Inc. (100% WLF Holdco, then 75% DT Marks DEFI), not a distribution to Trump; DT Marks DEFI shows no 2024 income. Mostly from before the term."
+    "notes": "Booked at World Liberty Financial, Inc. (100% WLF Holdco, then 75% DT Marks DEFI per line 390), not a distribution to Trump; DT Marks DEFI shows no 2024 income. Mostly from before the term. Mentioned, not counted, in C97."
   },
   {
     "id": "C96-34",

@@ -3,12 +3,12 @@
   "title": "The presidential salary pledge in the second term",
   "verdict": "partly-accurate",
   "confidence": "medium",
-  "summary": "Trump has said repeatedly in his second term that he does not keep his $400,000 presidential salary. On August 6, 2025 he said his first paycheck went to the White House Historical Association, a private nonprofit. That association's October 27, 2025 statement, seen here only as a search excerpt, credits him with $66,000 of salary since January 2025. About $307,000 of salary had accrued by then, and roughly $729,000 had accrued by mid-November 2026. No donation in any later quarter is documented in public: the White House has not published quarterly announcements as it did in 2017-2020, and no agency has announced receiving one. The claim that he gives his salary away is therefore documented only in part. His first-term record is much fuller: at least about $1.4M of $1.6M is documented, with the last two quarters of 2020 unaccounted for. His recurring statement that he is the only president besides George Washington to donate his salary is false, because Herbert Hoover and John F. Kennedy also did.",
+  "summary": "Trump has said repeatedly in his second term that he does not keep his $400,000 presidential salary. On August 6, 2025 he said his first paycheck went to the White House Historical Association, a private nonprofit. That association's October 27, 2025 statement, read in full here, credits him with $66,000 of salary since January 2025; the same statement says a Wall Street Journal report that he had given the association $50 million was untrue. About $307,000 of salary had accrued by then, and roughly $729,000 had accrued by mid-November 2026. No donation in any later quarter is documented in public through mid-November 2026: the White House has not published quarterly announcements as it did in 2017-2020, and no agency has announced receiving one. The claim that he gives his salary away is therefore documented only in part. His first-term record is much fuller: at least about $1.4M of $1.6M is documented, with the last two quarters of 2020 unaccounted for. His recurring statement that he is the only president besides George Washington to donate his salary is false, because Herbert Hoover and John F. Kennedy also did.",
   "sub_claims": [
     {
       "statement": "Trump has said he gives up his presidential salary in his second term.",
       "verdict": "confirmed",
-      "finding": "Before the term began, in the December 2024 Meet the Press interview, he said he would not accept the salary. On May 4, 2025, also on Meet the Press, he said he gives his entire salary back to the government. Asked whether he would also donate his crypto profits, he answered 'I never thought of that.' On August 6, 2025 he wrote on Truth Social that his first 'Paycheck' went to the White House Historical Association. In a May 2026 interview reported by the Washington Examiner, he said he gives 100% of the salary to White House preservation. At a Hispanic Heritage Month event at the White House on September 30, 2026 he said: 'In my first term, I donated it and I don't think I ever got a story about it ... But in my second term, I donated it, too.' He repeated the point in a post-election 60 Minutes interview in November 2026, as reported by FactCheck.org. These are his own statements, not records of payment.",
+      "finding": "Before the term began, in the December 2024 Meet the Press interview, he said he would not accept the salary. On May 4, 2025, also on Meet the Press, he said he gives his entire salary back to the government. Asked whether he would also donate his crypto profits, he answered 'I never thought of that.' On August 6, 2025 he wrote on Truth Social that his first 'Paycheck' went to the White House Historical Association (the American Presidency Project's digest of White House announcements records it on that date). In a May 2026 interview reported by the Washington Examiner, he said he gives 100% of the salary to White House preservation. At the launch of a government services website at the Andrew Mellon Auditorium on September 29, 2026 he said: 'I don't take my salary ... I decided not to, including in my first term. Do I get thanks for it? None.' At a Hispanic Heritage Month event in the East Room the next day, September 30, 2026, he said (wording from a search excerpt of MS NOW's report): 'In my first term, I donated it and I don't think I ever got a story about it ... But in my second term, I donated it, too.' He repeated the point in a post-election 60 Minutes interview, as reported by FactCheck.org on November 10, 2026 ('I don't take a salary'). These are his own statements, not records of payment.",
       "sources": [
         "https://www.breitbart.com/politics/2024/12/09/donald-trump-refuse-presidential-salary-again-i-didnt-accept-it-before-im-not-going-this-time-either/",
         "https://www.mediaite.com/news/youre-not-profiting-nbcs-kristen-welker-confronts-trump-about-whether-hes-cashing-in-on-his-meme-coin",
@@ -16,18 +16,22 @@
         "https://www.breitbart.com/politics/2025/08/06/trump-donates-presidential-paycheck-to-white-house-historical-association/",
         "https://www.washingtonexaminer.com/news/white-house/4562275/trump-continues-tradition-of-donating-white-house-salary/",
         "https://www.ms.now/rachel-maddow-show/maddowblog/trump-donate-salary-presidency-profit-white-house",
-        "https://www.factcheck.org/2026/11/factchecking-trumps-post-election-60-minutes-interview/"
+        "https://www.factcheck.org/2026/11/factchecking-trumps-post-election-60-minutes-interview/",
+        "https://www.presidency.ucsb.edu/node/384911",
+        "https://www.washingtonexaminer.com/news/white-house/3492611/trump-donates-first-paycheck-second-term-white-house-historical-association/",
+        "https://atlantablackstar.com/2026/10/04/trump-thinks-hes-a-selfless-president-for-giving-up-salary/"
       ]
     },
     {
       "statement": "Each quarter's salary in the second term has been donated, with documented recipients and dates.",
       "verdict": "unverified",
-      "finding": "Only one recipient is documented: the White House Historical Association (WHHA). It is a private 501(c)(3) nonprofit, not a federal agency. Trump's August 6, 2025 Truth Social post named it but gave no amount. The WHHA's October 27, 2025 statement, which mainly disputed a Wall Street Journal report about its role in the ballroom project, thanked the president for giving part of his salary to its work: $66,000 since January. That statement was seen only as a search excerpt and could not be opened. About $306,800 of gross salary had accrued between January 20 and October 27, 2025 (pro rata at $400,000 a year). The $66,000 is close to two months of gross pay ($66,667), but no source says which pay periods it covers, so that match is our own inference. No donation is documented for October 2025 onward, which covers Q4 2025 and Q1-Q3 2026. CNN's Daniel Dale reported in late September 2026 that Trump had not made public any evidence of donating his full second-term salary. Unlike 2017 to mid-2020, the White House has issued no quarterly donation announcements, and no agency has announced a gift.",
+      "finding": "Only one recipient is documented: the White House Historical Association (WHHA). It is a private 501(c)(3) nonprofit, not a federal agency. Trump's August 6, 2025 Truth Social post named it but gave no amount. The WHHA's October 27, 2025 statement, which mainly disputed a Wall Street Journal report about its role in the ballroom project, thanked the president for giving part of his salary to its work: $66,000 since January. The statement, read in full, also says the Wall Street Journal had reported that the president contributed $50 million to the association since January, that this was 'not true', and that the newspaper corrected the error. About $306,800 of gross salary had accrued between January 20 and October 27, 2025 (pro rata at $400,000 a year). The $66,000 is close to two months of gross pay ($66,667), but no source says which pay periods it covers, so that match is our own inference. No donation is documented for October 2025 onward, which covers Q4 2025 and Q1-Q3 2026. CNN's Daniel Dale reported in late September 2026 that Trump had not made public any evidence of donating his full second-term salary. Unlike 2017 to mid-2020, the White House has issued no quarterly donation announcements, and no agency has announced a gift. A second review in November 2026 again found none: searches for White House, agency and association announcements, and the association's press-release index (latest item 10 November 2026), show no further salary gift.",
       "sources": [
         "https://www.whitehousehistory.org/press-room/press-releases/statement-by-the-white-house-historical-association-on-october-27-2025",
         "https://www.breitbart.com/politics/2025/08/06/trump-donates-presidential-paycheck-to-white-house-historical-association/",
         "https://www.yahoo.com/news/politics/articles/trump-boasts-donating-presidential-salary-191408226.html",
-        "https://www.rawstory.com/trump-2677968710/"
+        "https://www.rawstory.com/trump-2677968710/",
+        "https://www.whitehousehistory.org/press-room/press-releases"
       ]
     },
     {
@@ -50,7 +54,7 @@
     {
       "statement": "By law the president is paid $400,000 a year plus allowances.",
       "verdict": "confirmed",
-      "finding": "3 U.S.C. 102 sets the salary at $400,000 a year, paid monthly, at about $33,333 gross a month. The rate has been in effect since January 20, 2001, after the 1999 increase from $200,000. The same section provides an expense allowance of up to $50,000 a year for official duties. CRS describes that allowance as non-taxable, with any unused part reverting to the Treasury. 3 U.S.C. 103 allows up to $100,000 a year for travel, spent at the president's discretion and accounted for by his own certificate. 3 U.S.C. 105 covers official entertainment and White House Office expenses, with amounts set in annual appropriations. A commonly cited $19,000 entertainment figure could not be confirmed. On leaving office, a president receives a pension equal to Executive Schedule Level I pay under the Former Presidents Act. Whether Trump draws the $50,000 expense allowance this term is not publicly documented. The statute text was not opened (govinfo and Cornell LII fetches failed); the figures come from search excerpts of the statute and the CRS report RS20115.",
+      "finding": "3 U.S.C. 102, read in full on govinfo, sets the salary at $400,000 a year, 'to be paid monthly' (about $33,333 gross a month), plus 'an expense allowance of $50,000' for official duties. The statute itself says any unused part of that allowance reverts to the Treasury and that none of it is included in the president's gross income (wording added in 2004). The $400,000 rate replaced $200,000 under a 1999 law that took effect at noon on January 20, 2001. 3 U.S.C. 103 allows up to $100,000 a year for travel, spent at the president's discretion and accounted for by his own certificate (search excerpt). 3 U.S.C. 105 covers official entertainment and White House Office expenses, with amounts set in annual appropriations. A commonly cited $19,000 entertainment figure could not be confirmed. On leaving office, a president receives a pension equal to Executive Schedule Level I pay under the Former Presidents Act (CRS RS20115, search excerpt). Whether Trump draws the $50,000 expense allowance this term is not publicly documented.",
       "sources": [
         "https://www.govinfo.gov/content/pkg/USCODE-2024-title3/html/USCODE-2024-title3-chap2-sec102.htm",
         "https://law.justia.com/codes/us/title-3/chapter-2/sec-103/",
@@ -85,87 +89,443 @@
     "Claimed: Trump donates his whole salary each quarter in his second term. The record shows one documented recipient (the White House Historical Association) and one documented total ($66,000 from January to October 27, 2025, according to the association). Nothing is documented for later quarters.",
     "Claimed: the second-term salary goes to federal agencies, as in the first term. The record shows that the only documented second-term recipient is a private nonprofit, not a government agency.",
     "Claimed: Trump is the only president besides Washington to give up his pay. The record shows that Hoover and Kennedy also did, and that Washington accepted his salary.",
-    "Claimed: the second-term donations total $400,000 (one aggregator's figure for the first paycheck). The record shows that pay is monthly at about $33,333 gross, and the recipient itself reports $66,000 through late October 2025."
+    "Claimed: the second-term donations total $400,000 (one aggregator's figure for the first paycheck). The record shows that pay is monthly at about $33,333 gross, and the recipient itself reports $66,000 through late October 2025.",
+    "Claimed (Wall Street Journal, October 25, 2025, since corrected): Trump had contributed $50 million to the White House Historical Association since January. The record shows: the association's October 27, 2025 statement calls that untrue and credits him with $66,000 of salary."
   ],
   "denials_and_context": [
     "Trump's position: he has said repeatedly (May 2025, August 2025, May 2026, September 2026, November 2026) that he donates his salary, and that he gets no credit for it.",
-    "White House Historical Association: in its October 27, 2025 statement it thanked the president for contributing part of his salary ($66,000 since January). It did not respond to press requests for comment in August 2025. In its statements on the ballroom it disputed parts of a Wall Street Journal report about its role.",
+    "White House Historical Association: in its October 27, 2025 statement it thanked the president for contributing part of his salary ($66,000 since January) and said a reported $50 million contribution from him was not true. It did not respond to press requests for comment in August 2025. In its statements on the ballroom it disputed parts of a Wall Street Journal report about its role.",
     "Critics: CNN's Daniel Dale said Trump has released no evidence of donating his full second-term salary. The Maddow Blog (MS NOW) and others argue that his disclosed 2025 income, at least about $2.2B by most counts (see C29), dwarfs the $400,000 salary. That is a comparison of scale, not evidence about the donations.",
     "Context: the WHHA is a private nonprofit that funds White House acquisitions and preservation. Its ties to Trump's White House renovations, including a separate $2.5M gift linked to East Wing documentation, have been the subject of Washington Post reporting. Trump himself linked his salary gift to the renovations.",
     "Context: in the first term, after declining at first in 2017, the White House published regular announcements and check photos. Even so, the final six months of first-term pay were never documented. A gap in announcements is not proof that no donation was made, and a statement of intent is not proof that one was."
   ],
   "sources": [
-    {"title": "Statement by The White House Historical Association on October 27, 2025", "publisher": "White House Historical Association", "url": "https://www.whitehousehistory.org/press-room/press-releases/statement-by-the-white-house-historical-association-on-october-27-2025", "date": "2025-10-27", "read": "excerpt"},
-    {"title": "Donald Trump Donates Presidential Paycheck to White House Historical Association", "publisher": "Breitbart", "url": "https://www.breitbart.com/politics/2025/08/06/trump-donates-presidential-paycheck-to-white-house-historical-association/", "date": "2025-08-06", "read": "excerpt"},
-    {"title": "Trump donates first paycheck of second term to White House Historical Association", "publisher": "Washington Examiner", "url": "https://www.washingtonexaminer.com/news/white-house/3492611/trump-donates-first-paycheck-second-term-white-house-historical-association/", "date": "2025-08-06", "read": "excerpt"},
-    {"title": "President Trump Donates Presidential Salary to White House Renovation Projects", "publisher": "NBC Palm Springs", "url": "https://www.nbcpalmsprings.com/2025/08/06/president-trump-donates-presidential-salary-to-white-house-renovation-projects", "date": "2025-08-06", "read": "excerpt"},
-    {"title": "Trump says he donated his first 'paycheck' to help with White House renovations", "publisher": "The National Desk (Sinclair)", "url": "https://thenationaldesk.com/news/americas-news-now/trump-says-he-donated-his-first-paycheck-to-help-with-white-house-renovations-money-salary-funds-donations-stem-department-of-education-national-park-service-make-america-great-again-maga", "date": "2025-08-06", "read": "excerpt"},
-    {"title": "Trump continues tradition of donating White House salary", "publisher": "Washington Examiner", "url": "https://www.washingtonexaminer.com/news/white-house/4562275/trump-continues-tradition-of-donating-white-house-salary/", "date": "2026-05-10", "read": "excerpt"},
-    {"title": "When Trump boasts about donating his presidential salary, be sure to read the fine print", "publisher": "MS NOW (Maddow Blog)", "url": "https://www.ms.now/rachel-maddow-show/maddowblog/trump-donate-salary-presidency-profit-white-house", "date": "2026-09-30", "read": "excerpt"},
-    {"title": "When Trump boasts about donating his presidential salary, be sure to read the fine print (syndicated)", "publisher": "Yahoo News", "url": "https://www.yahoo.com/news/politics/articles/trump-boasts-donating-presidential-salary-191408226.html", "date": "2026-09-30", "read": "excerpt"},
-    {"title": "CNN fact-checker blasts Trump's latest boast about his salary: 'It is not true'", "publisher": "Raw Story", "url": "https://www.rawstory.com/trump-2677968710/", "date": "2026-10", "read": "excerpt"},
-    {"title": "Trump thinks he's a selfless president for giving up salary", "publisher": "Atlanta Black Star", "url": "https://atlantablackstar.com/2026/10/04/trump-thinks-hes-a-selfless-president-for-giving-up-salary/", "date": "2026-10-04", "read": "excerpt"},
-    {"title": "FactChecking Trump's Post-Election '60 Minutes' Interview", "publisher": "FactCheck.org", "url": "https://www.factcheck.org/2026/11/factchecking-trumps-post-election-60-minutes-interview/", "date": "2026-11", "read": "excerpt"},
-    {"title": "'You're Not Profiting?' NBC's Kristen Welker Confronts Trump About Whether He's Cashing In On His Meme Coin", "publisher": "Mediaite", "url": "https://www.mediaite.com/news/youre-not-profiting-nbcs-kristen-welker-confronts-trump-about-whether-hes-cashing-in-on-his-meme-coin", "date": "2025-05-04", "read": "excerpt"},
-    {"title": "Trump Pledges to Donate Entire Salary Back to Government, Again", "publisher": "NTD", "url": "https://www.ntd.com/trump-pledges-to-donate-entire-salary-back-to-government-again_1064831.html", "date": "2025-05-05", "read": "excerpt"},
-    {"title": "Donald Trump to Refuse Presidential Salary Again", "publisher": "Breitbart", "url": "https://www.breitbart.com/politics/2024/12/09/donald-trump-refuse-presidential-salary-again-i-didnt-accept-it-before-im-not-going-this-time-either/", "date": "2024-12-09", "read": "excerpt"},
-    {"title": "3 U.S.C. 102 - Compensation of the President (2024 edition)", "publisher": "GovInfo (U.S. GPO)", "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title3/html/USCODE-2024-title3-chap2-sec102.htm", "date": "2024", "read": "excerpt"},
-    {"title": "3 U.S.C. 103 - Traveling expenses", "publisher": "Justia", "url": "https://law.justia.com/codes/us/title-3/chapter-2/sec-103/", "date": "2023", "read": "excerpt"},
-    {"title": "President of the United States: Compensation (RS20115)", "publisher": "Congressional Research Service via EveryCRSReport", "url": "https://www.everycrsreport.com/reports/RS20115.html", "date": "2012-10", "read": "excerpt"},
-    {"title": "Is Donald Trump The Only President Since George Washington To Donate His Salary?", "publisher": "Check Your Fact", "url": "https://checkyourfact.com/2019/12/04/fact-check-donald-trump-salary-hoover-kennedy-washington", "date": "2019-12-04", "read": "excerpt"},
-    {"title": "Trump Donates First Three Months of Salary to Federal Agency", "publisher": "Government Executive", "url": "https://govexec.com/pay-benefits/2017/04/trump-donates-first-three-months-salary-federal-agency/136681", "date": "2017-04-03", "read": "excerpt"},
-    {"title": "Donald Trump Just Donated $100,000 of His Salary to Betsy DeVos' Education Department", "publisher": "Fortune", "url": "https://fortune.com/2017/07/27/donald-trump-salary-donation-betsy-devos/", "date": "2017-07-27", "read": "excerpt"},
-    {"title": "After Pledging to Donate Salary, Trump Declines to Release Proof", "publisher": "NBC News", "url": "https://nbcnews.com/politics/donald-trump/after-pledging-donate-salary-trump-declines-release-proof-n732466", "date": "2017-03", "read": "excerpt"},
-    {"title": "Where Did President Trump Donate His Salary?", "publisher": "Snopes", "url": "https://www.snopes.com/news/2019/12/13/president-trump-salary-donation", "date": "2019-12-13", "read": "excerpt"},
-    {"title": "Trump donates salary to Surgeon General's office", "publisher": "CNN", "url": "https://amp.cnn.com/cnn/2019/08/16/politics/trump-donates-salary-surgeon-general", "date": "2019-08-16", "read": "excerpt"},
-    {"title": "Trump donates quarterly salary to combat coronavirus", "publisher": "Washington Times", "url": "https://m.washingtontimes.com/news/2020/mar/3/trump-donates-quarterly-salary-combat-coronavirus/", "date": "2020-03-03", "read": "excerpt"},
-    {"title": "Trump donates salary to HHS to develop treatments for coronavirus", "publisher": "Washington Times", "url": "https://m.washingtontimes.com/news/2020/may/22/trump-donates-salary-hhs-develop-treatments-corona/", "date": "2020-05-22", "read": "excerpt"},
-    {"title": "Trump donates quarterly salary to national parks", "publisher": "Washington Times", "url": "https://m.washingtontimes.com/news/2020/aug/14/trump-donates-quarterly-salary-to-national-parks/", "date": "2020-08-14", "read": "excerpt"},
-    {"title": "Did Trump donate the last six months of his presidential salary? A new report says it's a mystery", "publisher": "Audacy / WWJ (reporting Forbes)", "url": "https://www.audacy.com/wwjnewsradio/news/national/did-trump-donate-the-last-six-months-of-his-salary", "date": "2021-07", "read": "excerpt"},
-    {"title": "Did Trump donate presidential salary? What we can verify", "publisher": "VERIFY (KREM)", "url": "https://krem.com/article/news/verify/donald-trump/did-trump-donate-presidential-salary-what-we-can-verify/536-ec4fc2bd-3aca-40fb-990e-11c1f953c7d0", "date": "2023", "read": "excerpt"},
-    {"title": "Trump may snag a tax break for donating his salary to stop coronavirus", "publisher": "CNBC", "url": "https://www.cnbc.com/2020/03/05/trump-may-snag-a-tax-break-for-donating-his-salary-to-stop-coronavirus.html", "date": "2020-03-05", "read": "excerpt"},
-    {"title": "Did Trump donate his salary in 2020? Tax returns don't tell full story", "publisher": "CNBC", "url": "https://www.cnbc.com/2023/01/11/did-trump-donate-his-salary-in-2020-tax-returns-dont-tell-full-story.html", "date": "2023-01-11", "read": "excerpt"},
-    {"title": "Fact check: Trump donated portions of presidential salary to agencies, contrary to viral claim", "publisher": "USA Today via Yahoo News", "url": "https://news.yahoo.com/fact-check-trump-donated-portions-195735245.html", "date": "2020", "read": "excerpt"},
-    {"title": "How the White House Historical Association is trying to survive Trump", "publisher": "The Washington Post via Detroit News", "url": "https://www.detroitnews.com/story/news/nation/2026/10/16/how-white-house-historical-association-trying-survive-trump/92279497007/", "date": "2026-10-16", "read": "excerpt"}
+    {
+      "title": "Statement by The White House Historical Association on October 27, 2025",
+      "publisher": "White House Historical Association",
+      "url": "https://www.whitehousehistory.org/press-room/press-releases/statement-by-the-white-house-historical-association-on-october-27-2025",
+      "date": "2025-10-27",
+      "read": "full"
+    },
+    {
+      "title": "Donald Trump Donates Presidential Paycheck to White House Historical Association",
+      "publisher": "Breitbart",
+      "url": "https://www.breitbart.com/politics/2025/08/06/trump-donates-presidential-paycheck-to-white-house-historical-association/",
+      "date": "2025-08-06",
+      "read": "full"
+    },
+    {
+      "title": "Trump donates first paycheck of second term to White House Historical Association",
+      "publisher": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/news/white-house/3492611/trump-donates-first-paycheck-second-term-white-house-historical-association/",
+      "date": "2025-08-06",
+      "read": "full"
+    },
+    {
+      "title": "President Trump Donates Presidential Salary to White House Renovation Projects",
+      "publisher": "NBC Palm Springs",
+      "url": "https://www.nbcpalmsprings.com/2025/08/06/president-trump-donates-presidential-salary-to-white-house-renovation-projects",
+      "date": "2025-08-06",
+      "read": "excerpt"
+    },
+    {
+      "title": "Trump says he donated his first 'paycheck' to help with White House renovations",
+      "publisher": "The National Desk (Sinclair)",
+      "url": "https://thenationaldesk.com/news/americas-news-now/trump-says-he-donated-his-first-paycheck-to-help-with-white-house-renovations-money-salary-funds-donations-stem-department-of-education-national-park-service-make-america-great-again-maga",
+      "date": "2025-08-06",
+      "read": "excerpt"
+    },
+    {
+      "title": "Trump continues tradition of donating White House salary",
+      "publisher": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/news/white-house/4562275/trump-continues-tradition-of-donating-white-house-salary/",
+      "date": "2026-05-10",
+      "read": "full"
+    },
+    {
+      "title": "When Trump boasts about donating his presidential salary, be sure to read the fine print",
+      "publisher": "MS NOW (Maddow Blog)",
+      "url": "https://www.ms.now/rachel-maddow-show/maddowblog/trump-donate-salary-presidency-profit-white-house",
+      "date": "2026-09-30",
+      "read": "excerpt"
+    },
+    {
+      "title": "When Trump boasts about donating his presidential salary, be sure to read the fine print (syndicated)",
+      "publisher": "Yahoo News",
+      "url": "https://www.yahoo.com/news/politics/articles/trump-boasts-donating-presidential-salary-191408226.html",
+      "date": "2026-09-30",
+      "read": "excerpt"
+    },
+    {
+      "title": "CNN fact-checker blasts Trump's latest boast about his salary: 'It is not true'",
+      "publisher": "Raw Story",
+      "url": "https://www.rawstory.com/trump-2677968710/",
+      "date": "2026-10",
+      "read": "excerpt"
+    },
+    {
+      "title": "'Criminal': Trump Tries to Cast Himself as a Selfless President for Giving Up His Salary",
+      "publisher": "Atlanta Black Star",
+      "url": "https://atlantablackstar.com/2026/10/04/trump-thinks-hes-a-selfless-president-for-giving-up-salary/",
+      "date": "2026-10-04",
+      "read": "full"
+    },
+    {
+      "title": "FactChecking Trump's Post-Election '60 Minutes' Interview",
+      "publisher": "FactCheck.org",
+      "url": "https://www.factcheck.org/2026/11/factchecking-trumps-post-election-60-minutes-interview/",
+      "date": "2026-11-10",
+      "read": "full"
+    },
+    {
+      "title": "'You're Not Profiting?' NBC's Kristen Welker Confronts Trump About Whether He's Cashing In On His Meme Coin",
+      "publisher": "Mediaite",
+      "url": "https://www.mediaite.com/news/youre-not-profiting-nbcs-kristen-welker-confronts-trump-about-whether-hes-cashing-in-on-his-meme-coin",
+      "date": "2025-05-04",
+      "read": "excerpt"
+    },
+    {
+      "title": "Trump Pledges to Donate Entire Salary Back to Government, Again",
+      "publisher": "NTD",
+      "url": "https://www.ntd.com/trump-pledges-to-donate-entire-salary-back-to-government-again_1064831.html",
+      "date": "2025-05-05",
+      "read": "excerpt"
+    },
+    {
+      "title": "Donald Trump to Refuse Presidential Salary Again",
+      "publisher": "Breitbart",
+      "url": "https://www.breitbart.com/politics/2024/12/09/donald-trump-refuse-presidential-salary-again-i-didnt-accept-it-before-im-not-going-this-time-either/",
+      "date": "2024-12-09",
+      "read": "excerpt"
+    },
+    {
+      "title": "3 U.S.C. 102 - Compensation of the President (2024 edition)",
+      "publisher": "GovInfo (U.S. GPO)",
+      "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title3/html/USCODE-2024-title3-chap2-sec102.htm",
+      "date": "2024",
+      "read": "full"
+    },
+    {
+      "title": "3 U.S.C. 103 - Traveling expenses",
+      "publisher": "Justia",
+      "url": "https://law.justia.com/codes/us/title-3/chapter-2/sec-103/",
+      "date": "2023",
+      "read": "excerpt"
+    },
+    {
+      "title": "President of the United States: Compensation (RS20115)",
+      "publisher": "Congressional Research Service via EveryCRSReport",
+      "url": "https://www.everycrsreport.com/reports/RS20115.html",
+      "date": "2012-10",
+      "read": "excerpt"
+    },
+    {
+      "title": "Is Donald Trump The Only President Since George Washington To Donate His Salary?",
+      "publisher": "Check Your Fact",
+      "url": "https://checkyourfact.com/2019/12/04/fact-check-donald-trump-salary-hoover-kennedy-washington",
+      "date": "2019-12-04",
+      "read": "excerpt"
+    },
+    {
+      "title": "Trump Donates First Three Months of Salary to Federal Agency",
+      "publisher": "Government Executive",
+      "url": "https://govexec.com/pay-benefits/2017/04/trump-donates-first-three-months-salary-federal-agency/136681",
+      "date": "2017-04-03",
+      "read": "excerpt"
+    },
+    {
+      "title": "Donald Trump Just Donated $100,000 of His Salary to Betsy DeVos' Education Department",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/2017/07/27/donald-trump-salary-donation-betsy-devos/",
+      "date": "2017-07-27",
+      "read": "excerpt"
+    },
+    {
+      "title": "After Pledging to Donate Salary, Trump Declines to Release Proof",
+      "publisher": "NBC News",
+      "url": "https://nbcnews.com/politics/donald-trump/after-pledging-donate-salary-trump-declines-release-proof-n732466",
+      "date": "2017-03",
+      "read": "excerpt"
+    },
+    {
+      "title": "Where Did President Trump Donate His Salary?",
+      "publisher": "Snopes",
+      "url": "https://www.snopes.com/news/2019/12/13/president-trump-salary-donation",
+      "date": "2019-12-13",
+      "read": "excerpt"
+    },
+    {
+      "title": "Trump donates salary to Surgeon General's office",
+      "publisher": "CNN",
+      "url": "https://amp.cnn.com/cnn/2019/08/16/politics/trump-donates-salary-surgeon-general",
+      "date": "2019-08-16",
+      "read": "excerpt"
+    },
+    {
+      "title": "Trump donates quarterly salary to combat coronavirus",
+      "publisher": "Washington Times",
+      "url": "https://m.washingtontimes.com/news/2020/mar/3/trump-donates-quarterly-salary-combat-coronavirus/",
+      "date": "2020-03-03",
+      "read": "excerpt"
+    },
+    {
+      "title": "Trump donates salary to HHS to develop treatments for coronavirus",
+      "publisher": "Washington Times",
+      "url": "https://m.washingtontimes.com/news/2020/may/22/trump-donates-salary-hhs-develop-treatments-corona/",
+      "date": "2020-05-22",
+      "read": "excerpt"
+    },
+    {
+      "title": "Trump donates quarterly salary to national parks",
+      "publisher": "Washington Times",
+      "url": "https://m.washingtontimes.com/news/2020/aug/14/trump-donates-quarterly-salary-to-national-parks/",
+      "date": "2020-08-14",
+      "read": "excerpt"
+    },
+    {
+      "title": "Did Trump donate the last six months of his presidential salary? A new report says it's a mystery",
+      "publisher": "Audacy / WWJ (reporting Forbes)",
+      "url": "https://www.audacy.com/wwjnewsradio/news/national/did-trump-donate-the-last-six-months-of-his-salary",
+      "date": "2021-07",
+      "read": "excerpt"
+    },
+    {
+      "title": "Did Trump donate presidential salary? What we can verify",
+      "publisher": "VERIFY (KREM)",
+      "url": "https://krem.com/article/news/verify/donald-trump/did-trump-donate-presidential-salary-what-we-can-verify/536-ec4fc2bd-3aca-40fb-990e-11c1f953c7d0",
+      "date": "2023",
+      "read": "excerpt"
+    },
+    {
+      "title": "Trump may snag a tax break for donating his salary to stop coronavirus",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2020/03/05/trump-may-snag-a-tax-break-for-donating-his-salary-to-stop-coronavirus.html",
+      "date": "2020-03-05",
+      "read": "excerpt"
+    },
+    {
+      "title": "Did Trump donate his salary in 2020? Tax returns don't tell full story",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2023/01/11/did-trump-donate-his-salary-in-2020-tax-returns-dont-tell-full-story.html",
+      "date": "2023-01-11",
+      "read": "excerpt"
+    },
+    {
+      "title": "Fact check: Trump donated portions of presidential salary to agencies, contrary to viral claim",
+      "publisher": "USA Today via Yahoo News",
+      "url": "https://news.yahoo.com/fact-check-trump-donated-portions-195735245.html",
+      "date": "2020",
+      "read": "excerpt"
+    },
+    {
+      "title": "How the White House Historical Association is trying to survive Trump",
+      "publisher": "The Washington Post via Detroit News",
+      "url": "https://www.detroitnews.com/story/news/nation/2026/10/16/how-white-house-historical-association-trying-survive-trump/92279497007/",
+      "date": "2026-10-16",
+      "read": "excerpt"
+    },
+    {
+      "title": "Digest of Other White House Announcements, August 6, 2025",
+      "publisher": "The American Presidency Project (UC Santa Barbara)",
+      "url": "https://www.presidency.ucsb.edu/node/384911",
+      "date": "2025-08-06",
+      "read": "full"
+    },
+    {
+      "title": "Press Releases Index",
+      "publisher": "White House Historical Association",
+      "url": "https://www.whitehousehistory.org/press-room/press-releases",
+      "date": "2026-11-10",
+      "read": "full"
+    }
   ],
   "entities": [
-    {"id": "donald-trump", "name": "Donald Trump", "type": "person", "description": "47th US president; says he donates his $400,000 salary"},
-    {"id": "white-house-historical-association", "name": "White House Historical Association", "type": "company", "description": "Private 501(c)(3) nonprofit supporting White House preservation; the only documented recipient of second-term salary gifts"},
-    {"id": "presidential-salary", "name": "Presidential salary (3 U.S.C. 102)", "type": "law", "description": "$400,000 a year salary plus $50,000 expense allowance set by statute since 2001"},
-    {"id": "us-treasury", "name": "US Department of the Treasury", "type": "government", "description": "Pays federal salaries; unused presidential expense allowance reverts to it"},
-    {"id": "white-house", "name": "White House", "type": "government", "description": "Executive Office of the President"},
-    {"id": "white-house-ballroom", "name": "White House ballroom", "type": "product", "description": "Privately funded ballroom built after the October 2025 East Wing demolition"},
-    {"id": "national-park-service", "name": "National Park Service", "type": "government", "description": "Received Trump's first first-term salary gift (Q1 2017) and a 2020 gift"},
-    {"id": "department-of-health-and-human-services", "name": "Department of Health and Human Services", "type": "government", "description": "Received several first-term salary gifts (opioids, coronavirus)"},
-    {"id": "daniel-dale", "name": "Daniel Dale", "type": "person", "description": "CNN fact-checker who disputed Trump's 2026 salary statements"}  ],
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "47th US president; says he donates his $400,000 salary"
+    },
+    {
+      "id": "white-house-historical-association",
+      "name": "White House Historical Association",
+      "type": "company",
+      "description": "Private 501(c)(3) nonprofit supporting White House preservation; the only documented recipient of second-term salary gifts"
+    },
+    {
+      "id": "presidential-salary",
+      "name": "Presidential salary (3 U.S.C. 102)",
+      "type": "law",
+      "description": "$400,000 a year salary plus $50,000 expense allowance set by statute since 2001"
+    },
+    {
+      "id": "us-treasury",
+      "name": "US Department of the Treasury",
+      "type": "government",
+      "description": "Pays federal salaries; unused presidential expense allowance reverts to it"
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Executive Office of the President"
+    },
+    {
+      "id": "white-house-ballroom",
+      "name": "White House ballroom",
+      "type": "product",
+      "description": "Privately funded ballroom built after the October 2025 East Wing demolition"
+    },
+    {
+      "id": "national-park-service",
+      "name": "National Park Service",
+      "type": "government",
+      "description": "Received Trump's first first-term salary gift (Q1 2017) and a 2020 gift"
+    },
+    {
+      "id": "department-of-health-and-human-services",
+      "name": "Department of Health and Human Services",
+      "type": "government",
+      "description": "Received several first-term salary gifts (opioids, coronavirus)"
+    },
+    {
+      "id": "daniel-dale",
+      "name": "Daniel Dale",
+      "type": "person",
+      "description": "CNN fact-checker who disputed Trump's 2026 salary statements"
+    }
+  ],
   "relationships": [
-    {"source": "us-treasury", "target": "donald-trump", "label": "pays statutory salary of $400,000 a year to", "type": "money", "date": "2025-01-20", "amount_usd": 400000},
-    {"source": "donald-trump", "target": "white-house-historical-association", "label": "gave part of salary to ($66,000 Jan-Oct 2025, per the association)", "type": "money", "date": "2025-10-27", "amount_usd": 66000},
-    {"source": "donald-trump", "target": "white-house-ballroom", "label": "tied his salary gift to White House renovations including", "type": "political", "date": "2025-08-06"},
-    {"source": "white-house-historical-association", "target": "white-house", "label": "funds preservation and acquisitions at", "type": "commercial", "date": "2025"},
-    {"source": "donald-trump", "target": "national-park-service", "label": "donated first-term salary ($78,333 Q1 2017; $100,000 Q2 2020) to", "type": "money", "date": "2017-04-03", "amount_usd": 178333},
-    {"source": "donald-trump", "target": "department-of-health-and-human-services", "label": "donated several first-term quarterly salary checks to", "type": "money", "date": "2017-2020"},
-    {"source": "daniel-dale", "target": "donald-trump", "label": "fact-checked salary claims of", "type": "media", "date": "2026-09"},
-    {"source": "presidential-salary", "target": "donald-trump", "label": "sets compensation of", "type": "legal", "date": "2001-01-20"}
+    {
+      "source": "us-treasury",
+      "target": "donald-trump",
+      "label": "pays statutory salary of $400,000 a year to",
+      "type": "money",
+      "date": "2025-01-20",
+      "amount_usd": 400000
+    },
+    {
+      "source": "donald-trump",
+      "target": "white-house-historical-association",
+      "label": "gave part of salary to ($66,000 Jan-Oct 2025, per the association)",
+      "type": "money",
+      "date": "2025-10-27",
+      "amount_usd": 66000
+    },
+    {
+      "source": "donald-trump",
+      "target": "white-house-ballroom",
+      "label": "tied his salary gift to White House renovations including",
+      "type": "political",
+      "date": "2025-08-06"
+    },
+    {
+      "source": "white-house-historical-association",
+      "target": "white-house",
+      "label": "funds preservation and acquisitions at",
+      "type": "commercial",
+      "date": "2025"
+    },
+    {
+      "source": "donald-trump",
+      "target": "national-park-service",
+      "label": "donated first-term salary ($78,333 Q1 2017; $100,000 Q2 2020) to",
+      "type": "money",
+      "date": "2017-04-03",
+      "amount_usd": 178333
+    },
+    {
+      "source": "donald-trump",
+      "target": "department-of-health-and-human-services",
+      "label": "donated several first-term quarterly salary checks to",
+      "type": "money",
+      "date": "2017-2020"
+    },
+    {
+      "source": "daniel-dale",
+      "target": "donald-trump",
+      "label": "fact-checked salary claims of",
+      "type": "media",
+      "date": "2026-09"
+    },
+    {
+      "source": "presidential-salary",
+      "target": "donald-trump",
+      "label": "sets compensation of",
+      "type": "legal",
+      "date": "2001-01-20"
+    }
   ],
   "leads": [
     {
       "title": "Trump gave White House aides cash gifts in 2025",
       "why_connected": "White House financial disclosures reported by the Washington Post and Reuters (September 2026) show Trump personally gave aides including Natalie Harp, Margo Martin and Chamberlain Harris about $45,000 each, and Walt Nauta about $20,000. That raises questions under the statute barring federal employees from supplementing their salaries, and it is money flowing out of Trump's pocket alongside the salary question.",
-      "entities": ["donald-trump", "white-house"],
+      "entities": [
+        "donald-trump",
+        "white-house"
+      ],
       "source_url": "https://www.fox5dc.com/news/trump-white-house-aides-cash-gifts"
     },
     {
       "title": "White House Historical Association's donors and its role in the ballroom and East Wing project",
       "why_connected": "The association is the only documented recipient of Trump's second-term salary. The Washington Post (October 2026) reported that it took $2.5M from a donor who wanted the East Wing demolished and told staff not to discuss the gift. The association says none of that money went to the demolition or the ballroom.",
-      "entities": ["white-house-historical-association", "white-house-ballroom", "donald-trump"],
+      "entities": [
+        "white-house-historical-association",
+        "white-house-ballroom",
+        "donald-trump"
+      ],
       "source_url": "https://dnyuz.com/2026/10/16/white-house-preservation-group-took-2-5m-from-man-who-wanted-to-demolish-east-wing/"
     },
     {
       "title": "Whether the WHHA's 2025-2026 IRS Form 990 or annual report lists Trump's salary gifts",
       "why_connected": "A 990 Schedule B (donor amounts, names usually redacted in public copies) or an annual report could corroborate or update the $66,000 figure and show any 2026 gifts. Not yet checked.",
-      "entities": ["white-house-historical-association", "donald-trump"],
+      "entities": [
+        "white-house-historical-association",
+        "donald-trump"
+      ],
       "source_url": "https://www.whitehousehistory.org/press-room/press-releases/statement-by-the-white-house-historical-association-on-october-27-2025"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "That only $66,000 of second-term salary gifts is documented (WHHA statement of 27 Oct 2025) and nothing after October 2025",
+      "Trump's statements and their dates (Aug 6, 2025 Truth Social; May 2026; Sept 29-30, 2026; Nov 2026 60 Minutes)",
+      "The statutory salary and allowances in 3 U.S.C. 102",
+      "The first-term record and the 'only president' claim"
+    ],
+    "result": "corrected",
+    "changes": [
+      "Read the association's 27 Oct 2025 statement in full: it confirms $66,000 'since January' and adds that a Wall Street Journal report of a $50 million contribution from the president was untrue and corrected. Added that to sub-claim 2, the summary, a new correction and the association's response; marked the source as read in full.",
+      "Searched again for any later donation through mid-November 2026 (White House, agency and association announcements; the association's press-release index to 10 Nov 2026): none found. The verdict and the $66,000 ledger row stand.",
+      "Read 3 U.S.C. 102 in full: the expense allowance is a flat $50,000 ('an expense allowance of $50,000'), not 'up to' $50,000, and its non-taxable status and reversion to the Treasury are in the statute itself (2004 amendment), not only in CRS. The $400,000 rate took effect at noon on 20 Jan 2001. Corrected sub-claim 4 and the ledger note.",
+      "Added his 29 Sept 2026 remark at the Mellon Auditorium; confirmed the 30 Sept 2026 East Room event date and the 6 Aug 2025 Truth Social date (one outlet says Tuesday 5 Aug; the American Presidency Project and the Washington Examiner give 6 Aug). The exact 30 Sept quotation remains a search excerpt.",
+      "First-term record and the Hoover/Kennedy point were not re-sourced beyond FactCheck.org (read in full), which repeats the Hoover and Kennedy precedent."
+    ],
+    "new_sources": [
+      {
+        "title": "Statement by The White House Historical Association on October 27, 2025",
+        "publisher": "White House Historical Association",
+        "url": "https://www.whitehousehistory.org/press-room/press-releases/statement-by-the-white-house-historical-association-on-october-27-2025",
+        "date": "2025-10-27"
+      },
+      {
+        "title": "3 U.S.C. 102 - Compensation of the President (2024 edition)",
+        "publisher": "GovInfo (U.S. GPO)",
+        "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title3/html/USCODE-2024-title3-chap2-sec102.htm",
+        "date": "2024"
+      },
+      {
+        "title": "Digest of Other White House Announcements, August 6, 2025",
+        "publisher": "The American Presidency Project",
+        "url": "https://www.presidency.ucsb.edu/node/384911",
+        "date": "2025-08-06"
+      },
+      {
+        "title": "'Criminal': Trump Tries to Cast Himself as a Selfless President for Giving Up His Salary",
+        "publisher": "Atlanta Black Star",
+        "url": "https://atlantablackstar.com/2026/10/04/trump-thinks-hes-a-selfless-president-for-giving-up-salary/",
+        "date": "2026-10-04"
+      }
+    ]
+  }
 }

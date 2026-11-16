@@ -4,13 +4,13 @@
 
 Trump has said many times in his second term that he does not keep his $400,000 salary. Only part of that is documented:
 
-- **What is on record.** On August 6, 2025, Trump said his first paycheck went to the White House Historical Association (WHHA), a private nonprofit. The WHHA's statement of October 27, 2025 credits him with **$66,000** of salary given since January.
+- **What is on record.** On August 6, 2025, Trump said his first paycheck went to the White House Historical Association (WHHA), a private nonprofit. The WHHA's statement of October 27, 2025 credits him with **$66,000** of salary given since January, and calls untrue a newspaper report that he had given it $50 million.
 - **What has accrued.** About $307,000 of salary had accrued by that date. Roughly **$729,000** had accrued by mid-November 2026.
-- **What is missing.** No later donation, to any recipient, is publicly documented. The White House has issued no quarterly announcements this term, as it did from 2017 to mid-2020.
+- **What is missing.** No later donation, to any recipient, is publicly documented (rechecked to mid-November 2026). The White House has issued no quarterly announcements this term, as it did from 2017 to mid-2020.
 - **The first term.** The record there is much fuller. At least about $1.4M of $1.6M is documented, and the last two quarters of 2020 are unaccounted for.
 - **"Only president" claim.** His recurring claim to be the only president besides Washington to donate his salary is false. Hoover and Kennedy also did.
 
-**Source limits.** Direct fetches of every page attempted here failed in this environment: govinfo.gov, law.cornell.edu, whitehousehistory.org, krem.com and denvergazette.com. No source was read in full. Every finding rests on search-result excerpts, cross-checked across several outlets where possible. The WHHA's $66,000 figure comes from a search excerpt of the association's own press release and should be confirmed by opening that page.
+**Source limits.** The original research could open no page and relied on search-result excerpts. In the November 2026 second review, the WHHA statement [1], the statute [15], the Washington Examiner [3][6], Breitbart [2], Atlanta Black Star [10], FactCheck.org [11], the American Presidency Project [33] and the WHHA press-release index [34] were read in full. The other sources remain search excerpts.
 
 ## What was checked
 Whether Donald Trump has given up his presidential salary in his second term. This covers what he has said, which quarterly payments are documented as donated (when, how much, to whom), how that compares with the first term, what the salary and allowances are by law, and whether a donation is an unrecovered cost to him.
@@ -20,10 +20,11 @@ Whether Donald Trump has given up his presidential salary in his second term. Th
 ### 1. Trump says he gives up the salary: confirmed (as statements)
 - **December 2024, Meet the Press (president-elect).** He said he would not accept the salary, as in his first term. [14]
 - **May 4, 2025, Meet the Press.** He said he gives his entire salary back to the government. Asked whether he would also donate his crypto profits, he said "I never thought of that." [12][13]
-- **August 6, 2025, Truth Social.** "My first 'Paycheck' went to the White House Historical Association, as we make much needed renovations to the beautiful 'People's House.'" He called himself the only president "(with the possible exception of the Late, Great George Washington)" to donate his salary. [2][3][4]
+- **August 6, 2025, Truth Social** (date confirmed by the American Presidency Project [33]). "My first 'Paycheck' went to the White House Historical Association, as we make much needed renovations to the beautiful 'People's House.'" He called himself the only president "(with the possible exception of the Late, Great George Washington)" to donate his salary. [2][3][4]
 - **May 2026 interview** (Washington Examiner). He said he gives 100% of the salary to White House preservation. [6]
-- **September 30, 2026, Hispanic Heritage Month event at the White House.** "In my first term, I donated it and I don't think I ever got a story about it ... But in my second term, I donated it, too." [7][8]
-- **November 2026, post-election 60 Minutes interview** (FactCheck.org). He again said every other president took the salary, then added "I don't know if that's right." [11]
+- **September 29, 2026, launch of a government services website, Andrew Mellon Auditorium.** "I don't take my salary ... I decided not to, including in my first term. Do I get thanks for it? None." [10]
+- **September 30, 2026, Hispanic Heritage Month event in the East Room.** "In my first term, I donated it and I don't think I ever got a story about it ... But in my second term, I donated it, too." (wording from a search excerpt) [7][8]
+- **November 2026, post-election 60 Minutes interview** (FactCheck.org, November 10, 2026). "I don't take a salary." He again said every other president took the salary, then added "I don't know if that's right." [11]
 
 These are his own statements. None of them is a record of payment.
 
@@ -40,9 +41,9 @@ These are his own statements. None of them is a record of payment.
 | Total accrued to Nov 16, 2026 | **about $729,000** | **$66,000 documented** | |
 
 - **The recipient.** The WHHA is a private 501(c)(3) nonprofit, not a federal agency. That is a change from the first term, when every announced gift went to an agency.
-- **The WHHA statement.** Its October 27, 2025 statement was mainly a rebuttal of parts of a Wall Street Journal report on its role in the ballroom project. In it, the association thanked the president for contributing part of his salary, $66,000 since January. [1]
+- **The WHHA statement.** Its October 27, 2025 statement was mainly a rebuttal of parts of a Wall Street Journal report on its role in the ballroom project. In it, the association said the Journal's report that the president had contributed $50 million since January was "not true" and had been corrected, and thanked him for contributing part of his salary, "totaling $66,000 since January." [1]
 - **Our own inference.** $66,000 is close to two months of gross pay ($66,667). No source says which months it covers.
-- **No later evidence.** CNN's Daniel Dale reported in late September 2026 that Trump had not made public any evidence of donating his full second-term salary. [8][9] No White House or agency announcement of a later gift was found. The search terms covered agencies, the ballroom, the Kennedy Center and America 250.
+- **No later evidence.** CNN's Daniel Dale reported in late September 2026 that Trump had not made public any evidence of donating his full second-term salary. [8][9] No White House or agency announcement of a later gift was found. The search terms covered agencies, the ballroom, the Kennedy Center and America 250. A second review in November 2026 repeated the search and checked the WHHA's press-release index (latest item November 10, 2026): nothing further. [34]
 - **What the gap means.** It shows only that no donation is documented. It does not show that none was made.
 
 ### 3. First-term comparison: mostly accurate
@@ -56,8 +57,8 @@ These are his own statements. None of them is a record of payment.
 - **Early 2017.** The White House at first declined to release proof. [21]
 
 ### 4. What the law provides: confirmed
-- **Salary (3 U.S.C. 102).** $400,000 a year, paid monthly (about $33,333 gross). The rate has applied since January 20, 2001, after a 1999 law doubled it from $200,000. [15][17]
-- **Expense allowance (same section).** Up to $50,000 a year for official duties. CRS describes it as non-taxable, with any unused part reverting to the Treasury. [15][17][18]
+- **Salary (3 U.S.C. 102, read in full).** $400,000 a year, "to be paid monthly" (about $33,333 gross). A 1999 law doubled it from $200,000, effective at noon on January 20, 2001. [15][17]
+- **Expense allowance (same section).** "An expense allowance of $50,000" for official duties. The statute itself (since a 2004 amendment) says any unused part reverts to the Treasury and that none of it counts as the president's gross income. [15][17][18]
 - **Travel (3 U.S.C. 103).** Up to $100,000 a year, spent at the president's discretion and accounted for by his own certificate. [16]
 - **Official entertainment and White House Office expenses (3 U.S.C. 105).** Amounts are set in annual appropriations. The often-quoted $19,000 entertainment figure could not be confirmed.
 - **Pension.** After leaving office, a president receives a pension equal to Executive Schedule Level I pay (Former Presidents Act). [17]
@@ -82,16 +83,17 @@ These are his own statements. None of them is a record of payment.
 - **Claimed:** the money goes to federal agencies, as in the first term. **The record shows:** the only documented recipient is a private nonprofit.
 - **Claimed:** he is the only president besides Washington to donate his salary. **The record shows:** Hoover and Kennedy did too, and Washington accepted his pay.
 - **Claimed:** his first second-term "paycheck" was $400,000 (one aggregator). **The record shows:** pay is monthly, and the recipient reports $66,000 in total through October 27, 2025.
+- **Claimed** (Wall Street Journal, October 25, 2025, since corrected): he had given the WHHA $50 million since January. **The record shows:** the WHHA calls that untrue and reports $66,000 of salary.
 
 ## Other side
 - **Trump.** He has said consistently that he donates his salary and gets no credit for doing so.
 - **White House.** No on-record second-term statement from a spokesperson on where each payment went was found. Neither Karoline Leavitt nor any other spokesperson was found addressing it.
-- **WHHA.** It thanked the president for his salary contribution in its October 2025 statement. It did not answer press questions in August 2025. The Washington Post reported in October 2026 that it had avoided public conflict with the president. It says a separate $2.5M donor gift paid for East Wing documentation, not for the demolition or the ballroom. [1][32]
+- **WHHA.** It thanked the president for his salary contribution in its October 2025 statement and rejected the reported $50 million figure. It did not answer press questions in August 2025. The Washington Post reported in October 2026 that it had avoided public conflict with the president. It says a separate $2.5M donor gift paid for East Wing documentation, not for the demolition or the ballroom. [1][32]
 - **Critics.** CNN's Daniel Dale and the Maddow Blog say the second-term donations have not been shown in full. They also say his disclosed 2025 income (at least about $2.2B by most counts; see C29) is far larger than the salary. [7][8] That is a point of scale, not evidence about the donations.
 - **Ledger.** `data/ledger/C95.json` records the statutory salary accrued (about $725,000-$730,000) and the one documented forgone amount ($66,000). The second row is part of the first, so the two must not be added.
 
 ## Sources
-All sources below are search-result excerpts. None could be opened in full here.
+Read in full in the November 2026 second review: [1], [2], [3], [6], [10], [11], [15], [33], [34]. All others are search-result excerpts.
 
 1. White House Historical Association, "Statement by The White House Historical Association on October 27, 2025", 2025-10-27. https://www.whitehousehistory.org/press-room/press-releases/statement-by-the-white-house-historical-association-on-october-27-2025
 2. Breitbart, "Donald Trump Donates Presidential Paycheck to White House Historical Association", 2025-08-06. https://www.breitbart.com/politics/2025/08/06/trump-donates-presidential-paycheck-to-white-house-historical-association/
@@ -125,3 +127,13 @@ All sources below are search-result excerpts. None could be opened in full here.
 30. CNBC, "Did Trump donate his salary in 2020? Tax returns don't tell full story", 2023-01-11. https://www.cnbc.com/2023/01/11/did-trump-donate-his-salary-in-2020-tax-returns-dont-tell-full-story.html
 31. USA Today via Yahoo, "Fact check: Trump donated portions of presidential salary to agencies", 2020. https://news.yahoo.com/fact-check-trump-donated-portions-195735245.html
 32. The Washington Post via Detroit News, "How the White House Historical Association is trying to survive Trump", 2026-10-16. https://www.detroitnews.com/story/news/nation/2026/10/16/how-white-house-historical-association-trying-survive-trump/92279497007/
+33. The American Presidency Project, "Digest of Other White House Announcements", 2025-08-06. https://www.presidency.ucsb.edu/node/384911
+34. White House Historical Association, "Press Releases Index" (latest item 2026-11-10). https://www.whitehousehistory.org/press-room/press-releases
+
+## Audit (second review, 16 Nov 2026)
+Result: **corrected** (the verdict, partly accurate, stands).
+- **The $66,000.** The WHHA statement, now read in full, confirms "$66,000 since January". It also rejects a Wall Street Journal report that the president had contributed $50 million, which the paper corrected. Added to sub-claim 2 and the corrections.
+- **Nothing after October 2025.** A fresh search through mid-November 2026, including the WHHA press-release index, found no later gift or announcement. Upheld.
+- **The statute.** 3 U.S.C. 102, read in full, sets a flat $50,000 expense allowance (not "up to"); its non-taxable status and reversion to the Treasury are in the statute. Corrected sub-claim 4 and the ledger note.
+- **Statements.** Added the September 29, 2026 remark; confirmed the September 30, 2026 and August 6, 2025 dates. The exact September 30 wording is still a search excerpt.
+- **Not re-sourced.** The first-term quarter-by-quarter record.

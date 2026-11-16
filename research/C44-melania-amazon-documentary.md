@@ -4,7 +4,7 @@
 
 **The claim (builds on C02/C29):** Amazon reportedly paid about $40M to license a Melania Trump documentary, far above rival bids, and she reportedly netted about $10.7M+ in 2025. Meanwhile Amazon and Jeff Bezos had major business before the administration: the antitrust case, federal cloud and Blue Origin/Kuiper contracts, and tariffs. The claim also covers Bezos's inauguration donation and the Washington Post changes.
 
-**Bottom line:** The money is well documented. About $40M for the rights (Puck/WSJ, never officially confirmed by Amazon), about $35M more on marketing (about $75M total), and $16.6M at the global box office. Trump's 2025 OGE disclosure shows a $10.71M licensing fee for the film.
+**Bottom line:** The money is well documented. About $40M for the rights (Puck/WSJ, never officially confirmed by Amazon), about $35M more on marketing (about $75M total), and $16.6M at the global box office. Trump's 2025 OGE disclosure lists $10.71M of net proceeds from the film as spouse income, that is, Melania Trump's.
 
 The "far above rival bids" part rests on one Wall Street Journal report: Disney about $14M, Paramount about $4M, Netflix and Apple not bidding. The Warren/Johnson letter repeats it, but the bids were never confirmed on the record.
 
@@ -31,9 +31,9 @@ This check arose from C02 (Melania's $6M NFT income) and C29 (family wealth disc
    - Amazon told lawmakers it ran a "thorough and competitive bidding process" but did not disclose the rival bids. Warren's office says Amazon dodged that question.
    - No primary document confirms the rival figures.
 
-3. **Melania netted about $10.7M+ in 2025: mostly-accurate, with an attribution caveat.**
-   - Trump's 2025 OGE 278e (released June 30, 2026) lists $10.71M for the "Melania" film licensing fee.
-   - Variety and TheWrap describe it as Trump's reported income. Newsweek and Notus describe it as the First Lady's net proceeds (spouse income on his form).
+3. **Melania netted about $10.7M+ in 2025: confirmed.**
+   - Trump's 2025 OGE 278e (released June 30, 2026) lists the fee in Part 5, "Spouse's Employment Assets & Income", under MKT World LLC: "License agreement with Designers Manager - Film 'Melania'", net proceeds $10,710,000. The same section lists $6,011,259 from NFTs and collectibles and $521,161 from the memoir.
+   - So it is the First Lady's income reported on his form, as Newsweek and Notus describe it. Variety and TheWrap's headlines call it Trump's.
    - Her other 2025 income was about $6.01M from NFTs (see C02) and about $0.52M from the Skyhorse memoir license, about $17.2M in total.
    - The WSJ had reported her share at more than 70% of the $40M (about $28M). The gap with $10.71M is unexplained. It may reflect timing (payments in 2026), costs, or gross versus net, but no source states which.
 
@@ -63,7 +63,7 @@ This check arose from C02 (Melania's $6M NFT income) and C29 (family wealth disc
    - No DOJ, inspector general or congressional-majority probe was found.
 
 ## Corrections
-- The $10.71M appears on Donald Trump's 2025 OGE report. Outlets disagree on whether it is labelled as his or Melania's (spouse) income. It is not a separate filing by Melania.
+- The $10.71M appears on Donald Trump's 2025 OGE report, in Part 5 (spouse income) under MKT World LLC: it is Melania Trump's income reported on his form, not a separate filing by her. Some headlines call it Trump's (correction of 16 Nov 2026).
 - The "far above rival bids" figures (Disney $14M, Paramount $4M) come from one anonymously sourced WSJ report. Amazon never confirmed them.
 - "Kuiper" is now Amazon Leo. Its 2026 FCC action was a deadline waiver, not a contract. Blue Origin's large federal award was the April 2025 NSSL launch contract.
 - The Melania payout: the WSJ reported more than 70% (about $28M), while the 2025 disclosure shows $10.71M. The two figures are not reconciled.
@@ -125,3 +125,7 @@ Changes:
 New sources:
 - The Numbers, "Melania (2026) box office", 2026. https://www.the-numbers.com/movie/Melania-(2026)
 - Office of Sen. Elizabeth Warren, "Amazon response to Senator Warren and Representative Hank Johnson on investment in Melania movie", 2026-03-30. https://www.warren.senate.gov/imo/media/doc/amazon_response_to_senator_warren_representative_hank_johnson_on_investment_in_melania_movie.pdf
+
+### Balance-sheet review (16 Nov 2026)
+
+Result: **corrected** (overall verdict unchanged). The $10.71M line was read in the primary filing: Part 5, "Spouse's Employment Assets & Income", MKT World LLC, net proceeds $10,710,000. It is Melania Trump's income on her husband's form. Sub-claim 3 is upgraded to confirmed. Source: https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf (read in full).

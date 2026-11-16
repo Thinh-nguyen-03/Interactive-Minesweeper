@@ -3,7 +3,7 @@
   "title": "Insider-trading oversight: requests, probes and outcomes",
   "verdict": "mostly-accurate",
   "confidence": "medium",
-  "summary": "The requests are well documented: at least ten letters from members of Congress (April 2025 to July 2026) asked the SEC, its inspector general, GAO, the Pentagon inspector general, DOJ, state attorneys general and a House committee to investigate trading around the tariff pause, Iran announcements, a reported attempted trade by Defense Secretary Hegseth's broker and the paid Truth API. Public responses are mostly silence: no SEC, inspector-general, state or House Financial Services investigation of these episodes has been announced, and House Democrats said in February 2026 they had no substantive SEC reply. Enforcement that did happen came through the CFTC and DOJ on prediction markets, mostly detected by the platforms: a soldier charged over Maduro bets, settled orders against a White House teleprompter operator and George Santos; the CFTC oil-futures probe is open with no charges after a reported referral retraction. No authority has identified a trader in the April 2025 or Iran-related trades or made any finding about Trump, his family or senior officials; that is not exoneration, and the letters are allegations, not findings. The STOCK Act names the President in the securities-law duty and tippees can be liable, but the law has never been tested against a president and several gaps remain, while SEC enforcement staff fell 18% and CFTC staff about 21% below their ten-year average.",
+  "summary": "The requests are well documented: at least ten letters from members of Congress (April 2025 to July 2026) asked the SEC, its inspector general, GAO, the Pentagon inspector general, DOJ, state attorneys general and a House committee to investigate trading around the tariff pause, Iran announcements, a reported attempted trade by Defense Secretary Hegseth's broker and the paid Truth API. Public responses are mostly silence: no SEC, inspector-general, state or House Financial Services investigation of these episodes has been announced, and House Democrats said in February 2026 they had no substantive SEC reply. Enforcement that did happen came through the CFTC and DOJ on prediction markets, mostly detected by the platforms: a soldier charged over Maduro bets, settled orders against a White House teleprompter operator and George Santos; the CFTC oil-futures probe is open with no charges after a reported referral retraction. No authority has identified a trader in the April 2025 or Iran-related trades or made any finding about Trump, his family or senior officials; that is not exoneration, and the letters are allegations, not findings. The STOCK Act names the President in the securities-law duty and tippees can be liable (our summary of the statute and case law), but the law has never been tested against a president and several gaps remain, while SEC enforcement staff fell 18% and CFTC staff about 21% below their ten-year average.",
   "sub_claims": [
     {
       "statement": "Members of Congress asked the SEC, its inspector general and GAO to investigate trading around the 9 April 2025 tariff pause.",
@@ -70,14 +70,15 @@
     {
       "statement": "Regulators have brought insider-trading cases over prediction-market bets on government information.",
       "verdict": "confirmed",
-      "finding": "Official actions (CFTC releases read in full): (1) 23 April 2026, CFTC civil complaint and SDNY indictment of Army Master Sgt. Gannon Ken Van Dyke over Polymarket bets on the Maduro operation; the CFTC called it its first insider-trading case on event contracts and first use of the 'Eddie Murphy Rule'. He pleaded not guilty on 28 April 2026; trial was tentatively set for 7 December 2026. (2) 28 August 2026, settled CFTC order against Gabriel Perez, a White House teleprompter operator, who between December 2025 and February 2026 traded presidential 'mention' contracts on Kalshi using speeches he saw in advance: disgorgement of $107,539.02, a $65,000 penalty discounted for cooperation, and a three-year trading ban. Press Secretary Karoline Leavitt had confirmed the probe on 16 July 2026, said he was on unpaid leave and that she knew of no other staff under investigation. (3) 31 July 2026, settled order against former Rep. George Santos ($35,000) for manipulating a State of the Union attendance contract. Also a 27 May 2026 complaint against a Google employee (not government). In each case the platform (Kalshi or Polymarket) detected and reported the trades. None of these cases involves Trump, his family or a policy-level official.",
+      "finding": "Official actions (CFTC releases read in full): (1) 23 April 2026, CFTC civil complaint and SDNY indictment of Army Master Sgt. Gannon Ken Van Dyke over Polymarket bets on the Maduro operation; the CFTC called it its first insider-trading case on event contracts and first use of the 'Eddie Murphy Rule'. The indictment has five counts (unlawful use of confidential government information, theft of nonpublic government information, commodities fraud, wire fraud, unlawful monetary transaction). He pleaded not guilty on 28 April 2026; trial was set for 7 December 2026. His motion to dismiss argues that his Polymarket contracts were event contracts, not swaps under the Commodity Exchange Act; prosecutors opposed it in August 2026 (ABC News), and no ruling was found by 16 November 2026. (2) 28 August 2026, settled CFTC order against Gabriel Perez, a White House teleprompter operator, who between December 2025 and February 2026 traded presidential 'mention' contracts on Kalshi using speeches he saw in advance: disgorgement of $107,539.02, a $65,000 penalty discounted for cooperation, and a three-year trading ban. Press Secretary Karoline Leavitt had confirmed the probe on 16 July 2026, said he was on unpaid leave and that she knew of no other staff under investigation. (3) 31 July 2026, settled order against former Rep. George Santos ($17,569.98 disgorgement plus a $17,500 penalty, about $35,000) for manipulating a State of the Union attendance contract through misleading posts about his own attendance; this is a manipulation case, not insider trading. Also a 27 May 2026 complaint against a Google employee (not government). In each case the platform (Kalshi or Polymarket) detected and reported the trades. None of these cases involves Trump, his family or a policy-level official.",
       "sources": [
         "https://www.cftc.gov/PressRoom/PressReleases/9217-26",
         "https://www.cftc.gov/PressRoom/PressReleases/9289-26",
         "https://www.cftc.gov/PressRoom/PressReleases/9276-26",
         "https://www.hawaiinewsnow.com/2026/07/17/wh-teleprompter-op-accused-betting-trump-speeches/",
         "https://abc7news.com/post/us-soldier-charged-using-intel-win-400k-maduro-raid-appear-court-nyc/18985601/",
-        "https://decrypt.co/370571/december-trial-date-us-soldier-insider-trading-polymarket"
+        "https://decrypt.co/370571/december-trial-date-us-soldier-insider-trading-polymarket",
+        "https://www.goodmorningamerica.com/news/story/soldier-charged-polymarket-trades-seeks-dismissal-135797525"
       ]
     },
     {
@@ -106,7 +107,7 @@
     {
       "statement": "Enforcement staffing and policy at the SEC, CFTC and DOJ changed in ways that bear on capacity to investigate.",
       "verdict": "confirmed",
-      "finding": "Documented (no motive asserted). SEC: GAO-26-107813 (March 2026, read in part) found about 18% of SEC employees left in FY2025, mostly through voluntary incentives; Enforcement went from 1,305 staff to 235 fewer (18%), Trading and Markets lost 22%; the agency had about 4,000 employees in January 2026, its lowest since 2014. The SEC brought 313 cases in FY2025 versus 431 the year before (White & Case, excerpt); Better Markets, an advocacy group, calls it a ten-year low; the SEC says earlier resources were 'misapplied' to 'run up numbers'. The commission rescinded the Enforcement Director's delegated authority to issue formal orders in March 2025 (White & Case, excerpt), Enforcement Director Margaret Ryan resigned on 16 March 2026 after under seven months (C52), and the SEC has sought comment on 'foundational and existential aspects' of the Consolidated Audit Trail used to reconstruct trading (Better Markets). CFTC: OPM data show 21% fewer staff at end-2025 than the prior ten-year average and nearly 80% fewer enforcement actions in 2025 than the decade average (NPR, read in full); the CFTC says departures were mostly voluntary retirements and it plans about 100 hires by end-2026; Chair Selig is the sole commissioner. GAO agreed to review CFTC staffing at Sen. Warren's request, starting December 2026. DOJ: a 7 April 2025 memo by Deputy AG Todd Blanche disbanded the National Cryptocurrency Enforcement Team; NBC reported on 11 March 2025, citing three anonymous sources, that the Public Integrity Section would be cut to about half a dozen employees and stop directly handling prosecutions.",
+      "finding": "Documented (no motive asserted). SEC: GAO-26-107813 (March 2026, read in part) found about 18% of SEC employees left in FY2025, mostly through voluntary incentives; Enforcement went from 1,305 staff to 235 fewer (18%), Trading and Markets lost 22%; the agency had about 4,000 employees in January 2026, which GAO says is lower than its average full-time-equivalent workforce in any year since 2014 (Table 2 and the highlights re-read in the audit: Enforcement 109 voluntary incentives + 54 deferred resignation + 72 other attrition = 235 of 1,305). The SEC brought 313 cases in FY2025 versus 431 the year before (White & Case, excerpt); Better Markets, an advocacy group, calls it a ten-year low; the SEC says earlier resources were 'misapplied' to 'run up numbers'. The commission rescinded the Enforcement Director's delegated authority to issue formal orders in March 2025 (White & Case, excerpt), Enforcement Director Margaret Ryan resigned on 16 March 2026 after under seven months (C52), and the SEC has sought comment on 'foundational and existential aspects' of the Consolidated Audit Trail used to reconstruct trading (Better Markets). CFTC: OPM data show 21% fewer staff at end-2025 than the prior ten-year average and nearly 80% fewer enforcement actions in 2025 than the decade average (NPR, read in full); the CFTC says departures were mostly voluntary retirements and it plans about 100 hires by end-2026; Chair Selig is the sole commissioner. GAO agreed to review CFTC staffing at Sen. Warren's request, starting December 2026. DOJ: a 7 April 2025 memo by Deputy AG Todd Blanche disbanded the National Cryptocurrency Enforcement Team; NBC reported on 11 March 2025, citing three anonymous sources, that the Public Integrity Section would be cut to about half a dozen employees and stop directly handling prosecutions.",
       "sources": [
         "https://files.gao.gov/reports/GAO-26-107813/index.html",
         "https://www.whitecase.com/insight-alert/sec-fy-2025-review-transformative-year-sec-enforcement",
@@ -120,7 +121,7 @@
     {
       "statement": "Insider-trading law reaches a president, officials, their families and friends.",
       "verdict": "partly-accurate",
-      "finding": "Securities: STOCK Act section 9(b) (Pub. L. 112-105, read in full) affirms executive-branch employees are 'not exempt' from section 10(b) and Rule 10b-5 and adds Exchange Act section 21A(h), under which each executive-branch employee owes a duty of trust and confidence to the government and citizens for material nonpublic information 'derived from such person's position'; the Act's definition of executive-branch employee expressly includes the President and Vice President. Under Dirks v. SEC and Salman v. United States, a tipper is liable if he discloses for a personal benefit, which includes a gift of information to a relative or friend, and a tippee who knows of the breach is liable when trading. So officials, and family or friends who trade on a tip, are covered on paper. Commodities: CEA section 4c(a)(3)-(4) (7 U.S.C. 6c) bars any 'employee or agent of any department or agency of the Federal Government' from trading futures, options or swaps (which include event contracts) on government information or imparting it for personal gain, makes knowing tippees liable, and bars anyone from misappropriating such information; CFTC Rule 180.1 is modelled on 10b-5. Gaps and limits: (a) a public post is not a tip, and several professors (Coffee, Pritchard, Seyhun; PolitiFact, excerpt) say the 9 April post itself is unlikely to violate insider-trading law, while aides who traded would face STOCK Act exposure; (b) whether the President is an 'employee or agent of any department or agency' under the CEA provision is untested (our reading of the text; no source found deciding it); (c) the OGE rule on nonpublic information (5 CFR 2635.703) and 18 U.S.C. 208 do not apply to the President or Vice President (5 CFR 2635.102(h); 18 U.S.C. 202(c)); (d) after Kelly, the Second Circuit in Blaszczak (2022) held confidential agency regulatory information is not 'property' for Title 18 wire and securities fraud, narrowing criminal routes outside the Exchange Act and CEA; (e) DOJ policy (OLC, 2000) bars indicting a sitting president, and Trump v. United States (2024) gives immunity for official acts but not unofficial ones. John Coates, a former SEC general counsel under Biden, argues the STOCK Act makes the President a fiduciary and that selling early access to official announcements could breach it, with a five-year limitations period; TMTG rejects that theory. No court has applied any of these provisions to a president.",
+      "finding": "Securities: STOCK Act section 9(b) (Pub. L. 112-105, read in full) affirms executive-branch employees are 'not exempt' from section 10(b) and Rule 10b-5 and adds Exchange Act section 21A(h), under which each executive-branch employee owes a duty of trust and confidence to the government and citizens for material nonpublic information 'derived from such person's position'; the Act's definition of executive-branch employee expressly includes the President and Vice President. Under Dirks v. SEC and Salman v. United States, a tipper is liable if he discloses for a personal benefit, which includes a gift of information to a relative or friend, and a tippee who knows of the breach is liable when trading. So, on our reading of the statute and case law (no court has applied it to these facts), officials, and family or friends who trade on a tip, are covered on paper. Commodities: CEA section 4c(a)(3)-(4) (7 U.S.C. 6c) bars any 'employee or agent of any department or agency of the Federal Government' from using government information that has not been made public, 'in his personal capacity and for personal gain', to trade futures, options on futures, off-exchange options or swaps, or from imparting it for personal gain to help another trade; makes a person who 'knowingly' uses such imparted information liable; and makes it unlawful for 'any person' to steal, convert or misappropriate such information and trade on it (section 4c(a)(4)(C), the provision the CFTC calls the 'Eddie Murphy Rule'). The statute text was re-read in the audit. The CFTC treats event contracts as swaps; Van Dyke's pending motion to dismiss disputes that, and no court has ruled. CFTC Rule 180.1 is modelled on 10b-5. Gaps and limits: (a) a public post is not a tip, and several professors (Coffee, Pritchard, Seyhun; PolitiFact, excerpt) say the 9 April post itself is unlikely to violate insider-trading law, while aides who traded would face STOCK Act exposure; (b) whether the President is an 'employee or agent of any department or agency' under the CEA provision is untested. Our own reading, not a source's: section 4c(a)(3) borrows the STOCK Act's definitions only for Members and employees of Congress and judicial officers and employees, so the STOCK Act's express inclusion of the President does not carry over to the 'department or agency' phrase; the 'any person' theft provision in 4c(a)(4)(C) has no such limit; (c) the OGE rule on nonpublic information (5 CFR 2635.703) and 18 U.S.C. 208 do not apply to the President or Vice President (5 CFR 2635.102(h); 18 U.S.C. 202(c)); (d) after Kelly, the Second Circuit in Blaszczak (2022) held confidential agency regulatory information is not 'property' for Title 18 wire and securities fraud, narrowing criminal routes outside the Exchange Act and CEA; (e) DOJ policy (OLC, 2000) bars indicting a sitting president, and Trump v. United States (2024) gives immunity for official acts but not unofficial ones. John Coates, a former SEC general counsel under Biden, argues the STOCK Act makes the President a fiduciary and that selling early access to official announcements could breach it, with a five-year limitations period; TMTG rejects that theory. No court has applied any of these provisions to a president.",
       "sources": [
         "https://www.govinfo.gov/content/pkg/PLAW-112publ105/html/PLAW-112publ105.htm",
         "https://www.law.cornell.edu/uscode/text/7/6c",
@@ -132,7 +133,8 @@
         "https://www.mofo.com/pdf/resources/insights/230123-second-circuit-nixes-theory",
         "https://www.justice.gov/olc/opinion/sitting-president%E2%80%99s-amenability-indictment-and-criminal-prosecution",
         "https://www.execfunctions.org/p/is-trump-medias-early-access-feed",
-        "https://www.politifact.com/article/2025/apr/10/critics-donald-trump-of-insider-trading-tariffs/"
+        "https://www.politifact.com/article/2025/apr/10/critics-donald-trump-of-insider-trading-tariffs/",
+        "https://www.cftc.gov/PressRoom/PressReleases/9217-26"
       ]
     },
     {
@@ -149,9 +151,10 @@
   ],
   "corrections": [
     "Claimed in the 10 April 2025 and 24 February 2026 House letters: Trump said 'he made $2.5 million today'. The record shows: the Oval Office remark was 'two-and-a-half billion' (Charles Schwab) and '$900 million' (Roger Penske), Trump's own claims about paper gains (C58). The letters cite a social-media post for the quotation.",
-    "The House Oversight memo says a Hyperliquid short was placed 'within minutes' of an October 2025 tariff announcement, but the article it cites says the $1.1B position was opened about 30 hours before Trump's post. The timing is disputed and no trader has been identified.",
+    "Claimed (House Oversight letter of 29 September 2026 and memo of 13 November 2026): a Hyperliquid short was established 'within minutes' of an October 2025 tariff announcement. The record shows: the article both documents cite (Bank Syz, republished by Investing.com) describes a build-up that began about 28-30 hours before the 20:50 UTC post (account funded 16:39 UTC on 9 October) and continued until about 20:49 UTC, and its summary says the position was 'opened 30 hours before'. 'Within minutes' fits the last additions, not the opening. An earlier version of this check called the memo's wording wrong; it is incomplete rather than wrong. No trader has been identified (see C101).",
     "The White House teleprompter operator's profit was first reported as 'close to $100,000'; the CFTC order puts it at $107,539.02, with a $65,000 penalty (about $172,500 in total).",
-    "The DOJ memo disbanding the National Cryptocurrency Enforcement Team (7 April 2025) was written by Deputy Attorney General Todd Blanche, not Attorney General Bondi, though it is often attributed to her."
+    "The DOJ memo disbanding the National Cryptocurrency Enforcement Team (7 April 2025) was written by Deputy Attorney General Todd Blanche, not Attorney General Bondi, though it is often attributed to her.",
+    "2026-11-16 (audit): the George Santos order is for manipulation of a contract on his own attendance, not insider trading; the Van Dyke indictment has five counts; the CFTC complaint and DOJ give slightly different profit figures (more than $404,000 versus about $409,881)."
   ],
   "denials_and_context": [
     "The White House said in April 2025 that the 'great time to buy' post was meant to reassure markets, and spokesmen have called suggestions that officials traded on inside information 'baseless and irresponsible' (C58).",
@@ -507,6 +510,27 @@
       "url": "https://qz.com/white-house-staff-warning-prediction-markets-insider-trading-041026",
       "date": "2026-04-10",
       "read": "excerpt"
+    },
+    {
+      "title": "Prosecutors urge judge to reject soldier's motion to dismiss Polymarket charges",
+      "publisher": "ABC News (Good Morning America)",
+      "url": "https://www.goodmorningamerica.com/news/story/soldier-charged-polymarket-trades-seeks-dismissal-135797525",
+      "date": "2026-08-20",
+      "read": "full"
+    },
+    {
+      "title": "The '1011' crypto crash and the mystery of the $1 billion whale (Charles-Henry Monchau; republished by Investing.com on 2025-10-22 and cited by House Oversight)",
+      "publisher": "Bank Syz",
+      "url": "https://blog.syzgroup.com/slow-food-for-thought/the-1011-crypto-crash-and-the-mystery-of-the-1-billion-whale",
+      "date": "2025-10-21",
+      "read": "full"
+    },
+    {
+      "title": "Letter to Hyperliquid Labs (Chairman Comer to Jeff Yan)",
+      "publisher": "House Committee on Oversight and Government Reform",
+      "url": "https://oversight.house.gov/wp-content/uploads/2026/09/Hyperliquid-Letter-9.29.26.pdf",
+      "date": "2026-09-29",
+      "read": "full"
     }
   ],
   "entities": [
@@ -1196,5 +1220,38 @@
       ],
       "source_url": "https://oversight.house.gov/wp-content/uploads/2026/11/Prediction-Markets-Memo-11132026.pdf"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "House Oversight letter and memo wording on the Hyperliquid short against the article they cite and contemporaneous on-chain reporting",
+      "GAO-26-107813 SEC staffing figures (Table 2 and highlights)",
+      "Blanche memo attribution; CFTC Perez, Santos and Van Dyke releases; retracted-referral report graded as anonymous-source",
+      "STOCK Act sections 2(3) and 9(b) and CEA section 4c(a)(3)-(4) against the statute text",
+      "Van Dyke case status and newer reporting through 16 Nov 2026"
+    ],
+    "result": "corrected",
+    "changes": [
+      "Hyperliquid correction rewritten: the memo's and letter's 'within minutes' and their cited article's '30 hours' describe the end and the start of the same build-up (16:39 UTC on 9 October to 20:49 UTC on 10 October). The earlier correction said 'within minutes' was wrong; it is incomplete. Now consistent with C101.",
+      "GAO: Enforcement 1,305 staff, 235 departures (18%), Trading and Markets 22%, agency-wide 871 (about 18%) confirmed; 'lowest since 2014' reworded to GAO's comparison with the average workforce since 2014.",
+      "Law: CEA 4c(a)(3)-(4) restated from the text (personal-gain element, knowing use by recipients, 'any person' theft provision); the CFTC's treatment of event contracts as swaps flagged as disputed in Van Dyke's motion; the researcher's readings (tippee coverage, the President under the CEA) marked as our reading, with the textual reason. STOCK Act sections 2(3)(B)(i) and 9(b)/21A(h) confirmed as stated.",
+      "Prediction-market enforcement: Santos order is manipulation, not insider trading; Van Dyke five counts, motion to dismiss and August 2026 opposition, trial still set for 7 December 2026.",
+      "Upheld: Blanche authored the 7 April 2025 NCET memo; the retracted CFTC referral rests on anonymous sources (Bloomberg) with the enforcement director's on-record statement that the probe is open; no charges, no SEC action and no finding about Trump, his family or senior officials through 16 Nov 2026."
+    ],
+    "new_sources": [
+      {
+        "title": "Prosecutors urge judge to reject soldier's motion to dismiss Polymarket charges",
+        "publisher": "ABC News (Good Morning America)",
+        "url": "https://www.goodmorningamerica.com/news/story/soldier-charged-polymarket-trades-seeks-dismissal-135797525",
+        "date": "2026-08-20",
+        "read": "full"
+      },
+      {
+        "title": "The '1011' crypto crash and the mystery of the $1 billion whale (Charles-Henry Monchau; republished by Investing.com on 2025-10-22 and cited by House Oversight)",
+        "publisher": "Bank Syz",
+        "url": "https://blog.syzgroup.com/slow-food-for-thought/the-1011-crypto-crash-and-the-mystery-of-the-1-billion-whale",
+        "date": "2025-10-21",
+        "read": "full"
+      }
+    ]
+  }
 }
