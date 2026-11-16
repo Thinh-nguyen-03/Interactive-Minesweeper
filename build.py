@@ -1729,7 +1729,7 @@ def load_ledger(claims, entities):
                          "recipient_name": name or (entities[rec]["name"] if rec else ""),
                          "venture": tidy(r.get("venture")), "category": cat, "kind": kind,
                          "lo": lo, "hi": hi, "period": tidy(r.get("period")), "as_of": clean_str(str(r.get("as_of") or "")),
-                         "basis": tidy(r.get("basis")), "grade": grade, "notes": tidy(r.get("notes")), "sources": srcs})
+                         "basis": tidy(r.get("basis")), "grade": grade, "notes": sentences(tidy(r.get("notes"))), "sources": srcs})
     return rows
 
 
@@ -1761,6 +1761,29 @@ def usd_range(lo, hi, digits=None, exact=False):
     if len(ua) == 2 and len(ub) == 2 and ua[1] == ub[1]:      # $57.5 to $64 million
         return f"{ua[0]} to {b}"
     return f"{a} to {b}"
+
+
+def usd_short(n):
+    """Axis and inline labels: $66K, $8.05M, $1.42B."""
+    sign = "−" if n < 0 else ""
+    a = abs(n)
+    if a >= 1e9:
+        return f"{sign}${_trim(a / 1e9, 2)}B"
+    if a >= 1e6:
+        return f"{sign}${_trim(a / 1e6, 2 if a < 1e7 else 1)}M"
+    if a >= 1e3:
+        return f"{sign}${_trim(a / 1e3, 0)}K"
+    return f"{sign}${a:,.0f}"
+
+
+def usd_short_range(lo, hi):
+    if hi is None:
+        return usd_short(lo) + "+"
+    if lo == hi:
+        return usd_short(hi)
+    if lo == 0 and hi > 0:
+        return "up to " + usd_short(hi)
+    return usd_short(lo) + " to " + usd_short(hi)
 
 
 def build_sheet(spec, rows, claims):
@@ -1798,8 +1821,12 @@ def build_sheet(spec, rows, claims):
         hi = None if any(r["hi"] is None for r in rs) else sum(r["hi"] for r in rs)
         return rs, lo, hi
 
-    def figure(item, where):
-        """One figure of the page: its text, the rows it is computed from and the checks it cites."""
+    def figure(item, where, keys=None, cut=None):
+        """One figure of the page: its text, the rows it is computed from and the checks it cites.
+
+        keys: the ids already used in this view, so each figure gets one of its own for the address.
+        cut: {row id: dollars} taken off under the 'his share only' reading, for a subtotal over those rows.
+        """
         rs, lo, hi = total(item.get("rows"), where)
         same = get(item.get("same"), where)
         if not rs:
@@ -1809,88 +1836,124 @@ def build_sheet(spec, rows, claims):
             hi = lo
         elif pick == "high":
             lo = hi
+        noted = _is_num(item.get("value"))        # a figure stated in the row's basis or notes, not its amount
+        if noted:
+            lo = hi = item["value"]
+        if item.get("open"):
+            hi = None
         if item.get("amt"):
-            amt = tidy(item["amt"])                       # wording taken from the row's own basis or notes
+            amt = tidy(item["amt"])
         else:
             amt = usd_range(lo, hi, item.get("digits"), bool(item.get("exact")) and lo == hi)
-            if item.get("prefix"):
+            if item.get("prefix") and not amt.startswith(tidy(item["prefix"])):
                 amt = tidy(item["prefix"]) + " " + amt
         grade = max((r["grade"] for r in rs), key=lambda g: LEDGER_GRADES.index(g) if g in LEDGER_GRADES else 0)
         checks = []
         for r in rs + same:
             if r["check"] not in checks:
                 checks.append(r["check"])
-        exact = usd_range(lo, hi, exact=True)
-        out = {"amt": amt, "exact": exact, "lo": lo, "hi": hi, "grade": grade, "kind": rs[0]["kind"],
-               "rows": [r["id"] for r in rs], "same": [r["id"] for r in same], "checks": checks,
-               "src": rs[0]["sources"][0] if rs[0]["sources"] else "", "basis": rs[0]["basis"] if len(rs) == 1 else ""}
-        for k in ("label", "sub", "when", "extra", "note", "flag"):
+        key = rs[0]["id"]
+        if keys is not None:
+            base, n = key, 1
+            while key in keys:
+                n += 1
+                key = f"{base}.{n}"
+            keys.add(key)
+        out = {"key": key, "amt": amt, "exact": usd_range(lo, hi, exact=True), "short": usd_short_range(lo, hi),
+               "lo": lo, "hi": hi, "grade": grade, "kind": rs[0]["kind"],
+               "rows": [r["id"] for r in rs], "same": [r["id"] for r in same], "checks": checks}
+        if noted:
+            out["noted"] = True
+        for k in ("label", "when", "note", "to", "lane"):
             if item.get(k):
                 out[k] = tidy(item[k])
+        if item.get("sub"):
+            out["sub"] = sentences(tidy(item["sub"]))
         if "when" not in out:                             # a calendar year reads as the year
             m = re.match(r"^(\d{4})-01 to \1-12$", rs[0]["period"])
             out["when"] = m.group(1) if m else rs[0]["period"]
+        # the other reading of the form: if the line is the entity's total, his share is pct of it
+        sh = item.get("share")
+        off = None
+        if isinstance(sh, dict) and _is_num(sh.get("pct")) and lo == hi:
+            base = sh.get("base", lo)
+            off = round((1 - sh["pct"]) * base)
+            out["share"] = {"pct": round(100 * sh["pct"]), "part": base != lo}
+            share_cut[rs[0]["id"]] = off
+        elif cut is not None:
+            off = sum(cut.get(r["id"], 0) for r in rs) or None
+        if off:
+            a, b = lo - off, (None if hi is None else hi - off)
+            out["alt"] = {"lo": a, "hi": b, "amt": usd_range(a, b, item.get("digits"), bool(item.get("exact")) and a == b),
+                          "exact": usd_range(a, b, exact=True), "short": usd_short_range(a, b), "off": usd(off, exact=True)}
         return out
 
+    share_cut = {}
+    plain = lambda xs: [{"term": tidy(x.get("term")), "text": tidy(x.get("text"))} for x in as_list(xs)]
+    quote = lambda x: {"who": tidy(x.get("who")), "when": tidy(x.get("when")), "text": tidy(x.get("text")),
+                       "checks": [c for c in as_list(x.get("checks")) if c in claims]}
+    shared = [quote(x) for x in as_list(spec.get("responses"))]
     sheet = {"title": tidy(spec.get("title")), "lede": tidy(spec.get("lede")), "description": tidy(spec.get("description")),
-             "strip": [f for f in (figure(x, "strip") for x in as_list(spec.get("strip"))) if f]}
-    ch = spec.get("chart")
-    if isinstance(ch, dict):
-        items = [f for f in (figure(x, "chart") for x in as_list(ch.get("items"))) if f]
-        if any(f["lo"] <= 0 or f["hi"] is None for f in items):
-            warn("balance sheet chart: every item needs a positive, closed amount on a logarithmic scale")
+             "strip": [f for f in (figure(x, "strip") for x in as_list(spec.get("strip"))) if f],
+             "caveats": plain(spec.get("caveats"))}
+    sal = spec.get("salary") or {}
+    sheet["salary"] = {"label": tidy(sal.get("label")), "facts": plain(sal.get("facts")),
+                       "checks": [c for c in as_list(sal.get("checks")) if c in claims],
+                       "items": [f for f in (figure(x, "salary") for x in as_list(sal.get("items"))) if f]}
+    views = []
+    for v in as_list(spec.get("views")):
+        vid = slugify(v.get("id"))
+        where = f"view {vid}"
+        keys = {f["key"] for f in sheet["salary"]["items"]}
+        o = {"id": vid, "name": tidy(v.get("name")), "kind": v.get("kind") or "lanes", "note": tidy(v.get("note")),
+             "scale": v.get("scale") or "log", "groupby": bool(v.get("groupby")), "share": bool(v.get("share")),
+             "share_note": tidy(v.get("share_note")),
+             "responses": [shared[x] if isinstance(x, int) and x < len(shared) else quote(x) for x in as_list(v.get("responses")) if isinstance(x, (int, dict))]}
+        share_cut.clear()
+        if o["kind"] == "flow":
+            o["flow"] = [f for f in (figure(x, where, keys) for x in as_list(v.get("flow"))) if f]
+            o["aside"] = [f for f in (figure(x, where, keys) for x in as_list(v.get("aside"))) if f]
+            o["dest_notes"] = {tidy(k): tidy(t) for k, t in (v.get("dest_notes") or {}).items()}
+            if any(f["hi"] is None or not f.get("to") for f in o["flow"]):
+                warn(f"balance sheet {where}: every payment in a flow needs a closed amount and a destination")
         else:
-            vals = [v for f in items for v in (f["lo"], f["hi"])]
-            d0, d1 = math.floor(math.log10(min(vals))), math.ceil(math.log10(max(vals)))
-            for f in items:
-                f["x0"] = round(100 * (math.log10(f["lo"]) - d0) / (d1 - d0), 2)
-                f["x1"] = round(100 * (math.log10(f["hi"]) - d0) / (d1 - d0), 2)
-            ticks = []
-            for d in range(d0, d1 + 1):
-                v = 10 ** d
-                ticks.append({"x": round(100 * (d - d0) / (d1 - d0), 2),
-                              "label": "$" + (f"{v // 10 ** 9}B" if v >= 1e9 else f"{v // 10 ** 6}M" if v >= 1e6 else f"{v // 1000}K")})
-            sheet["chart"] = {"title": tidy(ch.get("title")), "note": tidy(ch.get("note")), "items": items, "ticks": ticks}
-    secs = []
-    for sec in as_list(spec.get("sections")):
-        sid = slugify(sec.get("id"))
-        o = {"id": sid, "title": tidy(sec.get("title")), "intro": [tidy(x) for x in as_list(sec.get("intro"))], "blocks": []}
-        if sec.get("checks"):
-            o["checks"] = [c for c in as_list(sec["checks"]) if c in claims]
-        for bi, b in enumerate(as_list(sec.get("blocks"))):
-            where = f"section {sid} block {bi + 1}"
-            t = b.get("type")
-            if t == "table":
-                tb = {"type": "table", "cols": [tidy(x) for x in as_list(b.get("cols"))], "groups": [],
-                      "foot": [tidy(x) for x in as_list(b.get("foot"))]}
-                for g in as_list(b.get("groups")):
-                    opts = {k: b[k] for k in ("exact", "digits") if k in b}
-                    go = {"name": tidy(g.get("name")), "note": tidy(g.get("note")),
-                          "rows": [f for f in (figure({**opts, **x}, where) for x in as_list(g.get("rows"))) if f]}
-                    if isinstance(g.get("total"), dict):
-                        tot = figure({**opts, **g["total"]}, where + " subtotal")
-                        if tot:
-                            go["total"] = tot
-                    tb["groups"].append(go)
-                o["blocks"].append(tb)
-            elif t == "facts":
-                items = []
-                for x in as_list(b.get("items")):
-                    it = {"term": tidy(x.get("term")), "text": tidy(x.get("text")),
-                          "rows": [r["id"] for r in get(x.get("rows"), where)],
-                          "checks": [c for c in as_list(x.get("checks")) if c in claims]}
-                    items.append(it)
-                o["blocks"].append({"type": "facts", "items": items})
-            elif t == "quotes":
-                o["blocks"].append({"type": "quotes", "items": [
-                    {"who": tidy(x.get("who")), "when": tidy(x.get("when")), "text": tidy(x.get("text")),
-                     "checks": [c for c in as_list(x.get("checks")) if c in claims]} for x in as_list(b.get("items"))]})
-            elif t == "note":
-                o["blocks"].append({"type": "note", "text": tidy(b.get("text"))})
-            else:
-                warn(f"balance sheet {where}: unknown block type {t!r}")
-        secs.append(o)
-    sheet["sections"] = secs
+            lanes = []
+            for ln in as_list(v.get("lanes")):
+                marks = ln.get("marks") if "marks" in ln else [ln]
+                opts = {k: ln[k] for k in ("exact", "digits") if k in ln and "marks" in ln}
+                fs = [f for f in (figure({**opts, **x}, where, keys) for x in as_list(marks)) if f]
+                lo = {"label": tidy(ln.get("label")), "group": tidy(ln.get("group")), "marks": fs}
+                for k in ("holder", "venture", "empty"):
+                    if ln.get(k):
+                        lo[k] = tidy(ln[k])
+                for k in ("link", "multi"):
+                    if ln.get(k):
+                        lo[k] = True
+                if ln.get("sub") and "marks" in ln:
+                    lo["sub"] = sentences(tidy(ln["sub"]))
+                if isinstance(ln.get("badge"), dict):
+                    b = figure(ln["badge"], where, keys)
+                    if b:
+                        lo["badge"] = b
+                lanes.append(lo)
+            o["lanes"] = lanes
+        o["totals"] = []
+        for t in as_list(v.get("totals")):
+            f = figure(t, where + " subtotal", keys, dict(share_cut))
+            if f:
+                f["group"] = tidy(t.get("group"))
+                o["totals"].append(f)
+        views.append(o)
+    sheet["views"] = views
+    # the two 'share' readings must agree with the rows that record the family members' stakes
+    for rid, cut_rows, lohi, tol in (("C99-06", ("C96-01", "C96-02", "C96-03"), "lo", 1.5e6), ("C99-22", None, "hi", 1e5)):
+        rep = next((x for x in views if x["id"] == "reported"), None)
+        if not rep or rid not in by_id:
+            continue
+        offs = [int(f["alt"]["off"].replace("$", "").replace(",", "")) for ln in rep["lanes"] for f in ln["marks"]
+                if f.get("alt") and ((f["rows"][0] in cut_rows) if cut_rows else (f["rows"][0] not in ("C96-01", "C96-02", "C96-03")))]
+        if offs and abs(sum(offs) - by_id[rid][lohi]) > tol:
+            warn(f"balance sheet: the family share shown ({sum(offs):,}) does not match ledger row {rid} ({by_id[rid][lohi]:,})")
     sheet["used"] = len(used)
     return sheet
 
