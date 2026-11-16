@@ -1,0 +1,405 @@
+[
+  {
+    "id": "C98-01",
+    "recipient": "donald-j-trump-revocable-trust",
+    "recipient_name": "Donald J. Trump Revocable Trust (Donald Trump sole beneficiary)",
+    "venture": "trump-media-technology-group",
+    "category": "media",
+    "kind": "paper-value",
+    "amount_low_usd": 4084000000,
+    "amount_high_usd": 4593000000,
+    "period": "2025-01-17 to 2025-01-21",
+    "as_of": "2025-01-21",
+    "basis": "Market value of the trust's 114,750,000 DJT shares at closes of $40.03 (17 Jan 2025) and $35.59 (21 Jan 2025, the first trading day of the term); share count from SEC filings, prices from market data, arithmetic ours.",
+    "grade": "documented",
+    "sources": [
+      "https://www.sec.gov/Archives/edgar/data/1849635/000114036125046424/xslSCHEDULE_13D_X01/primary_doc.xml",
+      "https://www.sec.gov/Archives/edgar/data/1849635/000114036125013518/ny20046310x2_424b3.htm",
+      "https://finance.yahoo.com/quote/DJT/history/"
+    ],
+    "notes": "Starting point for the paper value; it never closed higher during the term. Do not add to any cash row. Rows C98-01 to C98-04 are the same shares at different dates; never add them together."
+  },
+  {
+    "id": "C98-02",
+    "recipient": "donald-j-trump-revocable-trust",
+    "recipient_name": "Donald J. Trump Revocable Trust (Donald Trump sole beneficiary)",
+    "venture": "trump-media-technology-group",
+    "category": "media",
+    "kind": "paper-value",
+    "amount_low_usd": 1519000000,
+    "amount_high_usd": 1519000000,
+    "period": "2025-12-31",
+    "as_of": "2025-12-31",
+    "basis": "114,750,000 shares at the $13.24 close on 31 Dec 2025; arithmetic ours.",
+    "grade": "documented",
+    "sources": [
+      "https://www.sec.gov/Archives/edgar/data/1849635/000114036125046424/xslSCHEDULE_13D_X01/primary_doc.xml",
+      "https://finance.yahoo.com/quote/DJT/history/"
+    ],
+    "notes": "Same shares as C98-01; not additive. The 2026 OGE filing shows the stake only as 'Over $50,000,000'."
+  },
+  {
+    "id": "C98-03",
+    "recipient": "donald-j-trump-revocable-trust",
+    "recipient_name": "Donald J. Trump Revocable Trust (Donald Trump sole beneficiary)",
+    "venture": "trump-media-technology-group",
+    "category": "media",
+    "kind": "paper-value",
+    "amount_low_usd": 532000000,
+    "amount_high_usd": 641500000,
+    "period": "2026-10-30 to 2026-11-13",
+    "as_of": "2026-11-13",
+    "basis": "114,750,000 shares at $5.59 (30 Oct 2026 close, stated in the SEC prospectus) and $4.64 (13 Nov 2026 close); arithmetic ours.",
+    "grade": "documented",
+    "sources": [
+      "https://www.sec.gov/Archives/edgar/data/1849635/000143774926035350/djt20261104_424b3.htm",
+      "https://finance.yahoo.com/quote/DJT/history/",
+      "https://www.forbes.com/sites/conormurray/2026/11/05/trump-media-stock-plunges-again-trumps-lost-over-200-million-since-midterms/"
+    ],
+    "notes": "Same shares as C98-01; not additive. Benzinga/Forbes cite about $683M at $5.95 on 3 Nov 2026. The TAE merger (vote 14 Dec 2026) would roughly halve the trust's percentage without changing its share count."
+  },
+  {
+    "id": "C98-04",
+    "recipient": "donald-j-trump-revocable-trust",
+    "recipient_name": "Donald J. Trump Revocable Trust (Donald Trump sole beneficiary)",
+    "venture": "trump-media-technology-group",
+    "category": "media",
+    "kind": "paper-value",
+    "amount_low_usd": -4061000000,
+    "amount_high_usd": -3442000000,
+    "period": "2025-01-17 to 2026-11-13",
+    "as_of": "2026-11-13",
+    "basis": "Change in the stake's market value from the pre-inauguration and first-day closes to the 30 Oct-13 Nov 2026 range; arithmetic ours.",
+    "grade": "documented",
+    "sources": [
+      "https://finance.yahoo.com/quote/DJT/history/",
+      "https://www.sec.gov/Archives/edgar/data/1849635/000143774926035350/djt20261104_424b3.htm"
+    ],
+    "notes": "A paper loss only; nothing was sold. Derived from C98-01 and C98-03, so do not add it to them."
+  },
+  {
+    "id": "C98-05",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "trump-media-technology-group",
+    "category": "media",
+    "kind": "cash-received",
+    "amount_low_usd": 0,
+    "amount_high_usd": 0,
+    "period": "2025-01-20 to 2026-11-13",
+    "as_of": "2026-11-13",
+    "basis": "Cash to Trump from TMTG: no share sales (no Forms 4 under his CIK since Dec 2024; the 13D/A reports no transactions), no dividends (the 10-K says none planned; the 2026 OGE filing reports income 'None (or less than $201)'), the token distribution was cancelled, and the name licence is royalty-free ($100 once).",
+    "grade": "documented",
+    "sources": [
+      "https://www.sec.gov/Archives/edgar/data/1849635/000114036125046424/xslSCHEDULE_13D_X01/primary_doc.xml",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000947033&type=&dateb=&owner=include&count=40",
+      "https://www.sec.gov/Archives/edgar/data/1849635/000114036126007174/ef20062365_10k.htm",
+      "https://www.sec.gov/Archives/edgar/data/1849635/000143774926035884/djt20260930_10q.htm",
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
+    ],
+    "notes": "Shares were registered for resale in April 2025, but no sale is reported. No pledge of DJT shares is disclosed; a Schwab pledged-asset line of over $50M exists with collateral unstated."
+  },
+  {
+    "id": "C98-06",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "mar-a-lago",
+    "category": "property",
+    "kind": "reported-income",
+    "amount_low_usd": 77482488,
+    "amount_high_usd": 77482488,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "Mar-A-Lago Club, L.L.C. 'Resort Related Revenue' on Trump's 2026 OGE Form 278e; $50,122,259 in 2024.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump,%20Donald%20J.%202025%20Annual%20278.pdf",
+      "https://www.cnn.com/2026/07/01/us/trump-financial-disclosure-mar-a-lago-doral-income-invs"
+    ],
+    "notes": "Gross revenue, not profit. Covers all of 2025, including the 19 days before the term. Initiation fees ($1M per CNN, single-source) are inside this line and not separable. Included in CNN's '$290M+' (C98-10)."
+  },
+  {
+    "id": "C98-07",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "trump-national-doral",
+    "category": "property",
+    "kind": "reported-income",
+    "amount_low_usd": 121861496,
+    "amount_high_usd": 121861496,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "Trump Endeavor 12 LLC (Doral) 'Golf & Hotel Related Revenue'; $110,418,239 in 2024.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump,%20Donald%20J.%202025%20Annual%20278.pdf",
+      "https://www.cnn.com/2026/07/01/us/trump-financial-disclosure-mar-a-lago-doral-income-invs",
+      "https://frontofficesports.com/trumps-golf-businesses-netted-nearly-395m-in-income-in-2025/"
+    ],
+    "notes": "Gross revenue. Includes any LIV Golf payments (fees undisclosed). Mortgage of over $50M with Axos. Overlaps with C98-10."
+  },
+  {
+    "id": "C98-08",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "trump-organization",
+    "category": "property",
+    "kind": "reported-income",
+    "amount_low_usd": 214280398,
+    "amount_high_usd": 214280398,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "Sum of 2025 golf revenue at ten other US clubs on the 2026 OGE filing (Bedminster, West Palm Beach, Jupiter, Washington DC, Charlotte, Colts Neck, Los Angeles, Westchester, Philadelphia, Hudson Valley); addition ours.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "https://frontofficesports.com/trumps-golf-businesses-netted-nearly-395m-in-income-in-2025/"
+    ],
+    "notes": "Gross revenue. Together with C98-06 and C98-07, US clubs total $413.6M. Front Office Sports' $394.8M golf total overlaps these rows plus C98-09."
+  },
+  {
+    "id": "C98-09",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "trump-organization",
+    "category": "property",
+    "kind": "reported-income",
+    "amount_low_usd": 59335000,
+    "amount_high_usd": 63469000,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "Turnberry GBP 23,640,577 plus Aberdeen GBP 6,738,799 plus Doonbeg EUR 14,151,905 and EUR 4,782,443, as reported in the 2026 OGE filing; our dollar conversion at GBP 1.28-1.36 and EUR 1.08-1.17.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
+    ],
+    "notes": "Reported in foreign currency; the dollar range is ours. Counted in CREW's $117M foreign revenue (C98-14)."
+  },
+  {
+    "id": "C98-10",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "trump-organization",
+    "category": "property",
+    "kind": "reported-income",
+    "amount_low_usd": 293435726,
+    "amount_high_usd": 293435726,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "CNN's 'more than $290M' from Mar-a-Lago, Doral, Bedminster, Jupiter and Trump National DC; matches the filing lines ($293.4M).",
+    "grade": "documented",
+    "sources": [
+      "https://www.cnn.com/2026/07/01/us/trump-financial-disclosure-mar-a-lago-doral-income-invs",
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
+    ],
+    "notes": "OVERLAP: the same money as C98-06, C98-07 and part of C98-08. Do not add."
+  },
+  {
+    "id": "C98-11",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "dar-global",
+    "category": "licensing",
+    "kind": "reported-income",
+    "amount_low_usd": 25804675,
+    "amount_high_usd": 25804675,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "Licence fees from Dar Al Arkan entities (Dubai tower $10,361,459; Saudi Arabia $9,243,574; Oman $949,642) and Dar Global Holdings (Doha $5,250,000), as reported in the 2026 OGE filing; CNBC reports the same $25.8M.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "https://www.cnbc.com/2026/08/10/trump-foreign-real-estate-licensing-income-gulf-deals.html"
+    ],
+    "notes": "Part of C98-12. Corrects the '$21.9M' figure (The National/IndexBox) cited in C31. Fees are paid whether or not the projects are built."
+  },
+  {
+    "id": "C98-12",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "trump-organization",
+    "category": "licensing",
+    "kind": "reported-income",
+    "amount_low_usd": 38394559,
+    "amount_high_usd": 38394559,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "All Gulf licence and management fees: Dar-linked $25.80M plus Damac $12.59M (Abu Dhabi $5M, Al Raha Beach $5M, Dubai golf licence $1.34M, Dubai golf management $1.25M); addition ours.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "https://www.indexbox.io/blog/trump-reports-38-million-in-gulf-licensing-fees-since-returning-to-office/",
+      "https://www.cnbc.com/2026/08/10/trump-foreign-real-estate-licensing-income-gulf-deals.html"
+    ],
+    "notes": "Includes C98-11; do not add the two. Damac amounts are exact, not range estimates."
+  },
+  {
+    "id": "C98-13",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "trump-organization",
+    "category": "licensing",
+    "kind": "reported-income",
+    "amount_low_usd": 24662692,
+    "amount_high_usd": 24662692,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "Non-Gulf foreign licence, development and management fees: India $10.21M, Bucharest $5M, Vietnam $5M, Korea (Base Co. development fee) $2M, Philippines $1.59M, Istanbul $0.58M, Lido management $0.28M; addition ours.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "https://www.cnbc.com/2026/08/10/trump-foreign-real-estate-licensing-income-gulf-deals.html",
+      "https://www.citizensforethics.org/reports-investigations/crew-reports/trumps-foreign-revenue-exploded-during-his-first-year-back-in-office/"
+    ],
+    "notes": "With C98-12, foreign fees total $63.06M by our count. CNBC's $59.5M (C98-15) and CREW's $59M overlap these rows."
+  },
+  {
+    "id": "C98-14",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "trump-organization",
+    "category": "other",
+    "kind": "reported-income",
+    "amount_low_usd": 117000000,
+    "amount_high_usd": 117000000,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-07-20",
+    "basis": "CREW's count of 2025 revenue from foreign business interests (at least $117M) on the 2026 OGE filing.",
+    "grade": "documented",
+    "sources": [
+      "https://www.citizensforethics.org/reports-investigations/crew-reports/trumps-foreign-revenue-exploded-during-his-first-year-back-in-office/"
+    ],
+    "notes": "OVERLAP: covers C98-09, C98-12 and C98-13. CREW counts accounts with at least $50,000 of revenue. Not additive."
+  },
+  {
+    "id": "C98-15",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "trump-organization",
+    "category": "licensing",
+    "kind": "reported-income",
+    "amount_low_usd": 59500000,
+    "amount_high_usd": 59500000,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-08-10",
+    "basis": "CNBC's tally of 2025 foreign real-estate licensing income ($59.5M); CNN gives 'nearly $60M' and CREW $59M of licensing and development fees.",
+    "grade": "documented",
+    "sources": [
+      "https://www.cnbc.com/2026/08/10/trump-foreign-real-estate-licensing-income-gulf-deals.html",
+      "https://www.cnn.com/2026/07/01/us/trump-financial-disclosure-mar-a-lago-doral-income-invs",
+      "https://www.citizensforethics.org/reports-investigations/crew-reports/trumps-foreign-revenue-exploded-during-his-first-year-back-in-office/"
+    ],
+    "notes": "OVERLAP with C98-12 and C98-13. Differs from our $63.1M because of which management and development lines are counted."
+  },
+  {
+    "id": "C98-16",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "trump-organization",
+    "category": "licensing",
+    "kind": "reported-income",
+    "amount_low_usd": 4414761,
+    "amount_high_usd": 4414761,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "Domestic licence and management fees on the 2026 filing: Chicago hotel and residential managers $2.45M, Trump International Hotels Management $0.89M, TNGC Jupiter Management $0.49M, Sunny Isles $0.38M, Hawaii $0.20M; addition ours.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
+    ],
+    "notes": "Small domestic fees, separate from the foreign rows."
+  },
+  {
+    "id": "C98-17",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "trump-watches",
+    "category": "merchandise",
+    "kind": "reported-income",
+    "amount_low_usd": 5012040,
+    "amount_high_usd": 5012040,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "Merchandise royalties on the 2026 filing: Trump Watches $4,700,000; sneakers and fragrances $67,634; Greenwood Bible $208,486; '45' guitar $35,920.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump,%20Donald%20J.%202025%20Annual%20278.pdf"
+    ],
+    "notes": "In 2024 the same lines were about $7.7M (watches $2.8M, sneakers and fragrances $2.5M, Bible $1.31M, guitar $1.06M). The filing says the watch and sneaker licence agreements were omitted from the prior report."
+  },
+  {
+    "id": "C98-18",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "trump-organization",
+    "category": "merchandise",
+    "kind": "reported-income",
+    "amount_low_usd": 3037380,
+    "amount_high_usd": 3037380,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "Book royalties on the 2026 filing: Save America $1,893,965 and Letters to Trump $590,730 (Winning Team Publishing), A MAGA Journey $552,685 (Gold Standard Publishing).",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
+    ],
+    "notes": "Winning Team Publishing is co-founded by Donald Trump Jr. (see C99); his share is not counted here."
+  },
+  {
+    "id": "C98-19",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "trump-organization",
+    "category": "other",
+    "kind": "cash-received",
+    "amount_low_usd": 200000,
+    "amount_high_usd": 200000,
+    "period": "2025-05",
+    "as_of": "2026-06-30",
+    "basis": "Payment received in May 2025 for a December 2022 speaking engagement and signed autographs (WHIP fundraiser, Naples FL), per the 2026 filing.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
+    ],
+    "notes": "Earned before the term and paid during it; the filing says it was omitted from the prior report."
+  },
+  {
+    "id": "C98-20",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "trump-mobile",
+    "category": "licensing",
+    "kind": "reported-income",
+    "amount_low_usd": 0,
+    "amount_high_usd": 0,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "DT Marks Mobile LLC (licensor to T1 Mobile LLC) reported no 2025 income on the 2026 filing.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
+    ],
+    "notes": "2026 licence income is not yet disclosed."
+  },
+  {
+    "id": "C98-21",
+    "recipient": "t1-mobile-llc",
+    "recipient_name": "T1 Mobile LLC",
+    "venture": "t1-phone",
+    "category": "merchandise",
+    "kind": "estimate",
+    "amount_low_usd": 59000000,
+    "amount_high_usd": 59000000,
+    "period": "2025-06 to 2026-05",
+    "as_of": "2026-05-10",
+    "basis": "Moneywise (via Yahoo Finance) estimate of about 590,000 $100 T1 phone deposits.",
+    "grade": "single-source",
+    "sources": [
+      "https://finance.yahoo.com/markets/stocks/articles/590-000-buyers-paid-59-223500998.html"
+    ],
+    "notes": "Unsourced estimate. The money went to the operator (T1 Mobile LLC), not to Trump; it is not his income and must not be added to the other rows."
+  }
+]

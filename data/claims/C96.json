@@ -1,0 +1,871 @@
+{
+  "id": "C96",
+  "title": "What Trump's own financial disclosures report",
+  "verdict": "confirmed",
+  "confidence": "high",
+  "summary": "Trump's annual OGE Form 278e for calendar 2025 (927 PDF pages, received 29 June 2026, released 30 June 2026) and his report for calendar 2024 (signed 13 June 2025) were both read in full from OGE's own site. For 2025 the form lists about $1.42B of crypto-related receipts: $635.1M in meme-coin royalties to CIC Digital, $526.8M of World Liberty token-sale proceeds and $65.6M from selling WLF Holdco equity (both via DT Marks DEFI), and $196.9M via DT Marks SC from Stablecoin Holdco, the USD1 business. It also lists about $416M of US golf and club revenue (Mar-a-Lago $77.5M, Doral $121.9M), about $63M of foreign licensing, development and management fees, $86.5M of media settlements, and about $8M of book and merchandise royalties. For 2024 the comparable figures were $57.4M of WLF token sales (booked at World Liberty Financial, Inc.), about $350M of US golf revenue and about $46M of foreign fees. These are gross entity-level revenues, many shown only as ranges. Family members hold 30% of the two crypto entities and 20% of most new licensing entities, so the totals are not Trump's personal net income.",
+  "sub_claims": [
+    {
+      "statement": "The second-term filings exist, are public, and cover defined calendar years.",
+      "verdict": "confirmed",
+      "finding": "OGE's President and Vice President index lists two second-term annual reports. The 2025 annual report covers calendar 2024. Its cover is dated 2025, it was signed 13 June 2025, OGE certified it the same day, and it had a 30-day extension. It lists 'Entities Dissolved 1/1/2024 through 12/31/2024', which fixes the period (Reuters noted the report did not state its period outright). The 2026 annual report covers calendar 2025, including the 19 days before the 20 January 2025 inauguration. OGE received it on 29 June 2026, the ethics official signed it on 30 June 2026, and it had a 45-day extension; a reviewer's note says the filer paid late-filing fees for transactions not previously reported on Form 278-T. The PDF runs to 927 pages. The form itself is numbered 'of 847' and is followed by a 23-page Schedule 1 and a trademark exhibit, which explains why some outlets report 847 pages. OGE also lists 22 periodic transaction reports (278-T) filed from August 2025 to October 2026. The August 2024 candidate report was not found on OGE's index; it is described here from CREW's and Axios's readings.",
+      "sources": [
+        "https://extapps2.oge.gov/201/Presiden.nsf/President%20and%20Vice%20President%20Index?OpenView",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump,%20Donald%20J.%202025%20Annual%20278.pdf",
+        "https://www.thestar.com.my/tech/tech-news/2025/06/15/trump-reports-more-than-600-million-in-income-from-crypto-golf-licensing-fees",
+        "https://www.investmentnews.com/alternatives/trump-crypto-ventures-generated-more-than-12-billion-in-disclosed-proceeds/267242",
+        "https://www.warren.senate.gov/wp-content/uploads/2026/08/2026.8.12-Letter-to-Trump-re-Stock-Trades-final.pdf"
+      ]
+    },
+    {
+      "statement": "Crypto was the largest declared income source for 2025: meme-coin royalties and World Liberty proceeds.",
+      "verdict": "confirmed",
+      "finding": "From the 2026 filing, Schedule 1:\n- **CIC Digital LLC (100% owned by Trump's revocable trust):** $635,068,835 in royalties under a 'License agreement with Celebration Coins' (line 21.6), plus $493,846 from a sublicense with JBCZ Group (21.7), $510,808 of Ethereum staking rewards (21.4a) and $45,932 of USDC interest. Its bitcoin wallet is valued at 'Over $50,000,000', the form's top bracket.\n- **DT Marks DEFI LLC (lines 124.2 to 124.12):** $65,625,000 net proceeds from selling equity in WLF Holdco LLC, and token-sale proceeds 'distributed by World Liberty Financial' totalling $526,810,321. That total is our sum of $236,250,000 in cash plus nine crypto-wallet lines: ETH $150.6M, USDC $56.0M, USD1 $42.25M, BTC $33.5M and smaller LINK, AAVE, ENA, MOVE and ONDO lines. The entity also earned $1,821,628 of ETH staking rewards.\n- **DT Marks SC LLC (line 114):** $196,875,000 of 'net proceeds received from capital contribution from new member(s) of Stablecoin Holdco LLC and sale of Class C Units'. Stablecoin Holdco itself reports $8,326,828 of net operating income (line 204.1).\n\nBoth DT Marks DEFI and DT Marks SC are owned 69% by DTTM Operations, 1% by a DTTM-owned member corporation and 30% by 'Trump Family Members'. Each now holds 38.25% of its holding company (WLF Holdco and Stablecoin Holdco); a year earlier DT Marks DEFI held 75%. DTTM Operations also lists 15.75 billion WLFI governance tokens, valued 'Over $50,000,000'.\n\nThese lines sum to about $1.425B ($1.428B with staking and interest). That matches Reuters' 'more than $1.4B', with 'almost $800M' from World Liberty (526.8 + 65.6 + 196.9 = $789.3M; PolitiFact's $791M adds staking rewards), and Bloomberg's corrected $1.4B.",
+      "sources": [
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+        "https://www.ksl.com/article/51583356/trump-reports-over-14-billion-in-income-from-crypto-ventures",
+        "https://www.thenationalnews.com/business/money/2026/07/01/trump-made-over-14-billion-in-crypto-last-year/",
+        "https://www.politifact.com/factchecks/2026/jul/07/donald-trump/disclosure-crypto-stocks-wealth/",
+        "https://news.bloomberglaw.com/crypto/trumps-1-4-billion-haul-makes-him-biggest-us-crypto-moneymaker"
+      ]
+    },
+    {
+      "statement": "The 2024 filing showed far smaller crypto income: $57.35M of World Liberty token sales and about $1.16M of NFT licensing.",
+      "verdict": "confirmed",
+      "finding": "The 2025 annual report (calendar 2024), line 391, shows World Liberty Financial, Inc. with token sales of $57,355,532. World Liberty Financial, Inc. is 100% owned by WLF Holdco, in which DT Marks DEFI then held 75% (line 390). The figure is therefore World Liberty's own gross token-sale revenue, not a payment to Trump; DT Marks DEFI's own line shows no income for 2024. CIC Digital reported $1,057,490 of licensing fees and $100,000 of royalties from NFT INT LLC, $1.157M in total, which matches Reuters' $1.16M. DTTM Operations already held 15.75B WLFI governance tokens.",
+      "sources": [
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump,%20Donald%20J.%202025%20Annual%20278.pdf",
+        "https://www.thestar.com.my/tech/tech-news/2025/06/15/trump-reports-more-than-600-million-in-income-from-crypto-golf-licensing-fees"
+      ]
+    },
+    {
+      "statement": "Golf clubs and resorts, including Mar-a-Lago, rose in 2025.",
+      "verdict": "confirmed",
+      "finding": "Gross revenue lines, 2025 (2024 in brackets):\n- **Florida:** Mar-a-Lago Club LLC $77,482,488 ($50,122,259). Doral (Trump Endeavor 12) $121,861,496 ($110,418,239). Jupiter $31,620,799 ($28,105,458). West Palm Beach $36,905,293 ($29,100,065).\n- **New Jersey:** Bedminster (Lamington Farm Club) $37,603,295 ($33,113,965). Colts Neck $17,469,437 ($16,072,118). Pine Hill $8,403,643 ($7,412,848).\n- **Other US clubs:** Washington DC $24,867,648 ($20,801,746). Charlotte $21,414,854 ($19,381,151). Briarcliff $11,278,958 ($9,301,862). Hudson Valley $8,135,258 ($7,136,927). Los Angeles $16,581,213 ($17,050,902). Charlottesville $2,330,375 ($2,045,323).\n- **UK and Ireland (filed in local currency):** Turnberry GBP 23,640,577 (GBP 24,228,853). Aberdeen GBP 6,738,799 (GBP 4,471,993). Doonbeg EUR 14,151,905 plus hotel EUR 4,782,443 (EUR 13,005,071 plus EUR 6,409,300).\n- **Hotels:** Chicago, now shown as hotel revenue, $38,537,526 (in 2024 shown only as rent 'Over $5,000,000'). Las Vegas $24,932,534 ($22,100,140).\n\nOur sum of the 13 US golf and club lines is $415.95M for 2025 and $350.06M for 2024. Reuters reports golf and resort revenue up 15% to just over $500M and AP more than $470M; both include different sets of properties. Mar-a-Lago rose about 55% and West Palm Beach about 27%. All of these are revenue, not profit.",
+      "sources": [
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump,%20Donald%20J.%202025%20Annual%20278.pdf",
+        "https://www.ksl.com/article/51583356/trump-reports-over-14-billion-in-income-from-crypto-ventures",
+        "https://www.pbs.org/newshour/politics/how-crypto-real-estate-and-watches-added-up-for-trump-last-year",
+        "https://www.irishtimes.com/business/2026/07/02/doonbeg-golf-course-delivers-close-to-20m-income-for-donald-trump-notes-us-filing/"
+      ]
+    },
+    {
+      "statement": "Foreign licensing and development fees rose sharply, led by Gulf developers.",
+      "verdict": "confirmed",
+      "finding": "2025 fees by country, from the 2026 filing:\n- **UAE:** $22.95M in total. From Damac: Abu Dhabi $5M, Al Raha Beach $5M, Dubai $1.34M, plus $1.25M in Dubai golf management fees. From Dar Al Arkan: Dubai DG $10.36M.\n- **Saudi Arabia (Dar Al Arkan):** $9.24M.\n- **Qatar (Dar Global):** $5.25M.\n- **Oman (Dar Al Arkan):** $0.95M.\n- **India:** $10.21M across Gurgaon (two entities), Hyderabad (licensees include Reliance 4IR Realty), Noida, Pune, Worli and Kolkata.\n- **Vietnam (Hung Yen Hospitality):** $5M.\n- **Romania (Bucharest, SDC Imobiliare):** $5M.\n- **South Korea:** a $2M non-refundable development fee under a letter of intent with Base Co. Ltd.\n- **Philippines:** $1.59M.\n- **Turkey (Istanbul):** $0.58M.\n- **Indonesia (Lido golf management):** $0.28M.\n\nThe total is about $63.1M, against about $45.8M for 2024. The 2024 figure included a $10M development fee from Reliance 4IR Realty (Mumbai) and $15.88M from Dar Al Arkan through DT Marks KSA, an entity then shown as located in Dubai. Outlets drew the line differently: Forbes $61M (UAE $23M, matching our $22.95M); CNBC $59.5M, up 71% (Dar Al Arkan entities $25.8M and Damac $11.3M, both matching our arithmetic); NYT more than $14M from Saudi Arabia and Qatar; CREW more than $117M of total foreign revenue, a broader measure that includes the Scottish and Irish resorts. Most new licensing LLCs are owned 79% by DTTM Operations, 20% by 'Trump Family Members' and 1% by a member corporation.",
+      "sources": [
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump,%20Donald%20J.%202025%20Annual%20278.pdf",
+        "https://www.forbes.com/sites/danalexander/2026/07/08/trumps-foreign-licensing-business-grew-900-as-he-returned-to-power/",
+        "https://politicalwire.com/2026/08/10/trumps-foreign-licensing-income-surged/",
+        "https://www.citizensforethics.org/reports-investigations/crew-reports/trumps-foreign-revenue-exploded-during-his-first-year-back-in-office/",
+        "https://en.politis.com.cy/news/world/1016063/trump-made-at-least-22-billion-in-first-year-back-in-office-filing-shows",
+        "https://www.pbs.org/newshour/politics/how-crypto-real-estate-and-watches-added-up-for-trump-last-year"
+      ]
+    },
+    {
+      "statement": "Trump Media is a large holding but produced no reported income.",
+      "verdict": "confirmed",
+      "finding": "Line 349 of the 2026 filing lists 114,750,000 TMTG shares, transferred to the Donald J. Trump Revocable Trust on 17 December 2024, valued 'Over $50,000,000' with income 'None (or less than $201)'. Part 3 notes that the trust reserves the right to buy or sell shares, and refers to a TMTG support agreement for a potential transaction. The 2024 filing showed $710,598 of business income plus about $68,700 of advertising receivables from TMTG Sub, earned only up to the 25 March 2024 merger. The NYT put the stake at about $875M in mid-2026. That is market value, not income, and the form does not state it.",
+      "sources": [
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump,%20Donald%20J.%202025%20Annual%20278.pdf",
+        "https://en.politis.com.cy/news/world/1016063/trump-made-at-least-22-billion-in-first-year-back-in-office-filing-shows"
+      ]
+    },
+    {
+      "statement": "Royalties from books, Bibles, watches, sneakers, guitars and fragrances are declared line by line.",
+      "verdict": "confirmed",
+      "finding": "CIC Ventures LLC, 2025 (2024 in brackets):\n- Save America: $1,893,965 ($3,000,000)\n- Letters to Trump: $590,730 ($250,000)\n- A MAGA Journey: $552,685 ($155,084)\n- Greenwood Bible: $208,486 ($1,306,035)\n- Trump Watches: $4,700,000 ($2,800,000)\n- Trump Sneakers & Fragrances: $67,634 ($2,500,000)\n- '45' Guitar: $35,920 ($1,055,100)\n\nThat totals $8.05M for 2025 and $11.07M for 2024. Older titles such as The Art of the Deal ($100,001 to $1,000,000) add only ranges. Both reports describe the watch and sneaker lines as 'inadvertently omitted from the prior report'; the 2026 filing appears to repeat that wording.",
+      "sources": [
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump,%20Donald%20J.%202025%20Annual%20278.pdf",
+        "https://www.pbs.org/newshour/politics/how-crypto-real-estate-and-watches-added-up-for-trump-last-year",
+        "https://www.forbes.com/sites/zacheverson/2025/06/14/trump-book-earnings-financial-disclosure/"
+      ]
+    },
+    {
+      "statement": "Speaking, pensions, settlements and gifts appear as other income.",
+      "verdict": "confirmed",
+      "finding": "The 2026 filing lists:\n- **Speaking:** $200,000, a balance from a 4 December 2022 fundraising event in Naples, Florida, paid in May 2025 and 'omitted from last year's filing'.\n- **Pensions:** SAG $77,808 and AFTRA $8,724.\n- **Legal settlements, $86.5M in total:** X Corp. $8M; ABC $16M, CBS $16M and Meta $24.5M, with net proceeds paid to the Trump presidential library foundation; Alphabet/YouTube $22M, paid to the Trust for the National Mall.\n- **Part 9 gifts:** $372,050, including a $250,000 sculpture from Sticker Mule's founder and event tickets from Rolex, FIFA's president, the PGA of America and others.\n\nThe Trump Organization LLC administrative office separately reports $30,200,775 of 'business income and legal settlements' with no breakdown. Part 4 (compensation over $5,000) is 'N/A'. The presidential salary is government income and is not a reportable item on the form.",
+      "sources": [
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+        "https://www.pbs.org/newshour/politics/how-crypto-real-estate-and-watches-added-up-for-trump-last-year"
+      ]
+    },
+    {
+      "statement": "Major liabilities declared.",
+      "verdict": "confirmed",
+      "finding": "Part 8 of the 2026 filing lists:\n- **Mortgages:** Axos Bank on Trump Tower (over $50M, 4.25%, due 2032) and on Doral (over $50M, 4.90%, due 2032). Ladder Capital on TIHT Commercial ($5M to $25M, due 2026).\n- **Loans paid off in 2025:** Ladder Capital on 40 Wall Street (over $50M, June 2025); Bryn Mawr Trust on Seven Springs and Professional Bank on 1125 South Ocean (each $5M to $25M, July 2025).\n- **New debt:** a Charles Schwab Bank pledged-asset line of over $50M at 3.90%, incurred in 2025.\n- **Judgments:** E. Jean Carroll, $1M to $5M (2023) and over $50M (2024), both 'stayed pending appeal; bonded'. New York Attorney General, over $50M, 'overturned on appeal'.\n\nThe 2024 filing listed the same mortgages, without the Schwab line. Brackets cap at 'Over $50,000,000', so totals cannot be computed. For the August 2024 candidate report, CREW computed liabilities of at least $346M and possibly over $455M.",
+      "sources": [
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump,%20Donald%20J.%202025%20Annual%20278.pdf",
+        "https://www.citizensforethics.org/reports-investigations/crew-investigations/trump-reported-700-million-of-business-income-hundreds-of-millions-in-debt-on-latest-financial-disclosure/",
+        "https://www.pbs.org/newshour/politics/how-crypto-real-estate-and-watches-added-up-for-trump-last-year"
+      ]
+    },
+    {
+      "statement": "Compared with the August 2024 candidate filing.",
+      "verdict": "mostly-accurate",
+      "finding": "CREW's reading of the candidate report (released 15 August 2024, covering about January 2023 to August 2024) found business income of at least $732.1M and possibly over $782.5M. It also found Doral $160M, Mar-a-Lago $56M (Axios: $56.9M), Bedminster $37M, DC $28M, nearly $6M from Truth Social holdings, and over $15M of licensing including about $7M from NFTs. Because that report spans roughly 19 months, it is not directly comparable with the calendar-year annual reports. The NYT compares a 2024 minimum of $622M with at least $2.2B for 2025; Forbes compares about $760M with about $2.4B, a figure that also draws on other records. The candidate PDF itself was not read, so these comparisons rest on secondary readings.",
+      "sources": [
+        "https://www.citizensforethics.org/reports-investigations/crew-investigations/trump-reported-700-million-of-business-income-hundreds-of-millions-in-debt-on-latest-financial-disclosure/",
+        "https://www.axios.com/2024/08/16/trump-financial-disclosure-2024",
+        "https://en.politis.com.cy/news/world/1016063/trump-made-at-least-22-billion-in-first-year-back-in-office-filing-shows",
+        "https://www.forbes.com/sites/antoniopequenoiv/2026/06/30/trumps-financial-disclosure-major-crypto-moves-made-him-over-1-billion-in-2025/"
+      ]
+    },
+    {
+      "statement": "What the form does not capture.",
+      "verdict": "confirmed",
+      "finding": "The form has five main gaps:\n1. Amounts above set thresholds appear only as brackets: 'Over $5,000,000' for rent and 'Over $50,000,000' for asset values, with no upper bound.\n2. Business lines report gross revenue, not profit.\n3. Income is booked at the entity level even where family members own 20-30%, while their separate ventures (for example American Bitcoin or 1789 Capital) do not appear at all; 'Trump Family Members' are not named.\n4. Unrealised changes in value of TMTG shares, WLFI tokens and crypto wallets are not income.\n5. The federal salary is excluded.\n\nReuters noted that the White House says the children oversee the businesses while Trump remains beneficiary of the trust that receives the income. Calendar 2025 includes 19 pre-inauguration days, which matters for the TRUMP meme coin, launched 17 January 2025.",
+      "sources": [
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+        "https://www.ksl.com/article/51583356/trump-reports-over-14-billion-in-income-from-crypto-ventures",
+        "https://en.politis.com.cy/news/world/1016063/trump-made-at-least-22-billion-in-first-year-back-in-office-filing-shows"
+      ]
+    }
+  ],
+  "corrections": [
+    "Claimed (C42, C11): Trump 'disclosed about $57M from WLF' for 2024. The record shows: the $57,355,532 is booked on the line for World Liberty Financial, Inc. as that company's token-sale revenue (100% owned by WLF Holdco, then 75% owned by DT Marks DEFI). It is not a distribution to Trump; DT Marks DEFI's own line shows no 2024 income.",
+    "Claimed (C29, C42): The Block itemizes '$236.25M of token proceeds'. The record shows: $236,250,000 is only the cash line (124.3). The filing lists nine further crypto-wallet lines of token-sale proceeds distributed by WLF, for $526,810,321 in total.",
+    "Claimed (C42): DT Marks DEFI's stake in WLF Holdco was 'reported at about 60%, then 40%, then 38.25%'. The record shows: the filings give 75% at the end of 2024 (line 390, 2025 report) and 38.25% at the end of 2025 (line 405, 2026 report). Intermediate figures come from press and company statements, not from the forms.",
+    "Claimed (C42): 'The 22.5B-token stake was valued at about $1.3B.' The record shows: the forms list 15.75 billion WLFI governance tokens under DTTM Operations, valued only as 'Over $50,000,000'. 15.75B is 70% of the 22.5B allocation, consistent with the 30% family share of DT Marks DEFI (our arithmetic). The $1.3B is a press valuation, not a disclosed figure.",
+    "Claimed (C29): WLF component is 'about $594M' per Bloomberg. The record shows: $526.81M of token proceeds plus $65.63M from the equity sale is $592.44M; adding $1.82M of staking rewards gives about $594.3M. The Stablecoin Holdco figure is exactly $196,875,000, on the DT Marks SC line, not a WLF line.",
+    "Claimed (C11, C29, C42): the figures are described as income 'Trump' made. The record shows: DT Marks DEFI and DT Marks SC are 30% owned by 'Trump Family Members', so their receipts are entity totals of which Trump's indirect share is about 70%.",
+    "Claimed (some outlets, AP): Trump 'owes E. Jean Carroll $50 million'. The record shows: the form lists one Carroll judgment at 'Over $50,000,000' and another at $1,000,001 to $5,000,000; the exact amounts are not on the form.",
+    "Claimed (InvestmentNews): an 847-page report. The record shows: the PDF has 927 pages; the form proper is paginated '1 of 847', followed by a 23-page Schedule 1 and a trademark exhibit."
+  ],
+  "denials_and_context": [
+    "White House spokesperson Anna Kelly (June 30, 2026): 'Neither the President nor his family has ever engaged — or will ever engage — in conflicts of interest. President Trump proudly made the United States the crypto capital of the world through executive actions.' She added that actions are 'taken in the best interest of the American people'.",
+    "Trump Organization spokesperson (June 30, 2026): 'At nearly 1,000 pages, it represents one of the most comprehensive financial disclosure reports ever submitted and demonstrates a level of financial transparency unmatched in presidential history.'",
+    "Trump (July 2, 2026, to reporters): 'nothing illegal, there's nothing wrong with it'. He said 'I was there [in crypto] before I was in office' and that institutions manage his money.",
+    "White House press secretary Karoline Leavitt (June 2025, on the 2024 filing): the President and staff 'completed required ethics briefings and financial reporting obligations… The Trump Administration is committed to transparency.'",
+    "Former acting OGE director Don Fox (to Reuters): presidents are exempt from the conflict-of-interest statute, but post-Watergate presidents managed their finances as if they were not; 'With Trump, those norms are just totally out the window.'",
+    "Revenue earned during the term is not the same as revenue earned because of it. Several lines (book royalties, legacy rents, pensions, the 2022 speaking fee) pre-date the term, and the golf and licensing growth has several possible causes. No filing states profit."
+  ],
+  "sources": [
+    {
+      "title": "OGE Form 278e, Donald J. Trump, Annual report for 2025 (filed 2026)",
+      "publisher": "US Office of Government Ethics",
+      "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "date": "2026-06-30",
+      "read": "full"
+    },
+    {
+      "title": "OGE Form 278e, Donald J. Trump, 2025 Annual report (covering 2024)",
+      "publisher": "US Office of Government Ethics",
+      "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump,%20Donald%20J.%202025%20Annual%20278.pdf",
+      "date": "2025-06-13",
+      "read": "full"
+    },
+    {
+      "title": "President and Vice President financial disclosure index",
+      "publisher": "US Office of Government Ethics",
+      "url": "https://extapps2.oge.gov/201/Presiden.nsf/President%20and%20Vice%20President%20Index?OpenView",
+      "date": "2026-11-16",
+      "read": "full"
+    },
+    {
+      "title": "Copy of the June 2025 disclosure",
+      "publisher": "The White House",
+      "url": "https://www.whitehouse.gov/wp-content/uploads/2025/06/President-Donald-J.-Trump.pdf",
+      "date": "2025-06-13",
+      "read": "excerpt"
+    },
+    {
+      "title": "Letter to President Trump on 2025 crypto earnings",
+      "publisher": "US Senate Banking Committee (minority)",
+      "url": "https://www.banking.senate.gov/imo/media/doc/20260716_letter_to_trump_re_2026_crytpo_earningspdf.pdf",
+      "date": "2026-07-16",
+      "read": "full"
+    },
+    {
+      "title": "Letter to President Trump re stock trades",
+      "publisher": "Office of Sen. Elizabeth Warren",
+      "url": "https://www.warren.senate.gov/wp-content/uploads/2026/08/2026.8.12-Letter-to-Trump-re-Stock-Trades-final.pdf",
+      "date": "2026-08-12",
+      "read": "excerpt"
+    },
+    {
+      "title": "Trump reports over $1.4 billion in income from crypto ventures (Reuters)",
+      "publisher": "KSL / Reuters",
+      "url": "https://www.ksl.com/article/51583356/trump-reports-over-14-billion-in-income-from-crypto-ventures",
+      "date": "2026-06-30",
+      "read": "full"
+    },
+    {
+      "title": "Trump made more than $1.4 billion in crypto last year (Reuters)",
+      "publisher": "The National / Reuters",
+      "url": "https://www.thenationalnews.com/business/money/2026/07/01/trump-made-over-14-billion-in-crypto-last-year/",
+      "date": "2026-07-01",
+      "read": "full"
+    },
+    {
+      "title": "Trump reports more than $600 million in income from crypto, golf, licensing fees (Reuters)",
+      "publisher": "The Star / Reuters",
+      "url": "https://www.thestar.com.my/tech/tech-news/2025/06/15/trump-reports-more-than-600-million-in-income-from-crypto-golf-licensing-fees",
+      "date": "2025-06-15",
+      "read": "full"
+    },
+    {
+      "title": "How crypto, real estate and watches added up for Trump last year (AP)",
+      "publisher": "PBS NewsHour / Associated Press",
+      "url": "https://www.pbs.org/newshour/politics/how-crypto-real-estate-and-watches-added-up-for-trump-last-year",
+      "date": "2026-07-01",
+      "read": "full"
+    },
+    {
+      "title": "Here's how Donald Trump made over $1 billion last year (AP)",
+      "publisher": "NBC DFW / Associated Press",
+      "url": "https://www.nbcdfw.com/news/national-international/donald-trump-financial-disclosure-report/4043770/",
+      "date": "2026-07-01",
+      "read": "full"
+    },
+    {
+      "title": "Trump made at least $2.2 billion in first year back in office, filing shows (summarising The New York Times)",
+      "publisher": "Politis",
+      "url": "https://en.politis.com.cy/news/world/1016063/trump-made-at-least-22-billion-in-first-year-back-in-office-filing-shows",
+      "date": "2026-07-01",
+      "read": "full"
+    },
+    {
+      "title": "Trump reported $700 million of business income, hundreds of millions in debt, on latest financial disclosure",
+      "publisher": "CREW",
+      "url": "https://www.citizensforethics.org/reports-investigations/crew-investigations/trump-reported-700-million-of-business-income-hundreds-of-millions-in-debt-on-latest-financial-disclosure/",
+      "date": "2024-08-16",
+      "read": "full"
+    },
+    {
+      "title": "Trump's foreign revenue exploded during his first year back in office",
+      "publisher": "CREW",
+      "url": "https://www.citizensforethics.org/reports-investigations/crew-reports/trumps-foreign-revenue-exploded-during-his-first-year-back-in-office/",
+      "date": "2026-08",
+      "read": "excerpt"
+    },
+    {
+      "title": "Trump's foreign licensing business grew 900% as he returned to power",
+      "publisher": "Forbes",
+      "url": "https://www.forbes.com/sites/danalexander/2026/07/08/trumps-foreign-licensing-business-grew-900-as-he-returned-to-power/",
+      "date": "2026-07-08",
+      "read": "excerpt"
+    },
+    {
+      "title": "Trump's financial disclosure: major crypto moves made him over $1 billion in 2025",
+      "publisher": "Forbes",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/06/30/trumps-financial-disclosure-major-crypto-moves-made-him-over-1-billion-in-2025/",
+      "date": "2026-06-30",
+      "read": "excerpt"
+    },
+    {
+      "title": "Trump made $3.4 million from books, new filing shows",
+      "publisher": "Forbes",
+      "url": "https://www.forbes.com/sites/zacheverson/2025/06/14/trump-book-earnings-financial-disclosure/",
+      "date": "2025-06-14",
+      "read": "excerpt"
+    },
+    {
+      "title": "Trump's foreign licensing income surged (citing CNBC analysis)",
+      "publisher": "Political Wire / CNBC",
+      "url": "https://politicalwire.com/2026/08/10/trumps-foreign-licensing-income-surged/",
+      "date": "2026-08-10",
+      "read": "excerpt"
+    },
+    {
+      "title": "Fact-check on Trump's disclosure, crypto and stocks",
+      "publisher": "PolitiFact",
+      "url": "https://www.politifact.com/factchecks/2026/jul/07/donald-trump/disclosure-crypto-stocks-wealth/",
+      "date": "2026-07-07",
+      "read": "excerpt"
+    },
+    {
+      "title": "Trump's $1.4 billion haul makes him biggest US crypto moneymaker",
+      "publisher": "Bloomberg Law",
+      "url": "https://news.bloomberglaw.com/crypto/trumps-1-4-billion-haul-makes-him-biggest-us-crypto-moneymaker",
+      "date": "2026-07-01",
+      "read": "excerpt"
+    },
+    {
+      "title": "President Trump financial disclosures: hundreds of millions in crypto-related income",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/news/regulation/2026-06-30-president-trump-financial-disclosures-hundreds-millions-crypto-related-income-406782",
+      "date": "2026-06-30",
+      "read": "excerpt"
+    },
+    {
+      "title": "Trump defends $1.4 billion crypto windfall",
+      "publisher": "Bitcoin.com News",
+      "url": "https://news.bitcoin.com/trump-defends-1-4-billion-crypto-windfall/",
+      "date": "2026-07-03",
+      "read": "full"
+    },
+    {
+      "title": "Trump crypto ventures generated more than $1.2 billion in disclosed proceeds",
+      "publisher": "InvestmentNews",
+      "url": "https://www.investmentnews.com/alternatives/trump-crypto-ventures-generated-more-than-12-billion-in-disclosed-proceeds/267242",
+      "date": "2026-07",
+      "read": "excerpt"
+    },
+    {
+      "title": "Doonbeg golf course delivers close to $20m income for Donald Trump, notes US filing",
+      "publisher": "The Irish Times",
+      "url": "https://www.irishtimes.com/business/2026/07/02/doonbeg-golf-course-delivers-close-to-20m-income-for-donald-trump-notes-us-filing/",
+      "date": "2026-07-02",
+      "read": "excerpt"
+    },
+    {
+      "title": "Bibles, crypto and lawsuit payouts: What's in Trump's 2024 financial disclosure",
+      "publisher": "Axios",
+      "url": "https://www.axios.com/2024/08/16/trump-financial-disclosure-2024",
+      "date": "2024-08-16",
+      "read": "excerpt"
+    }
+  ],
+  "entities": [
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "President; filer of the OGE Form 278e reports"
+    },
+    {
+      "id": "melania-trump",
+      "name": "Melania Trump",
+      "type": "person",
+      "description": "Spouse; her MKT World LLC income appears in Part 5 of the form"
+    },
+    {
+      "id": "office-of-government-ethics",
+      "name": "US Office of Government Ethics",
+      "type": "government",
+      "description": "Receives, certifies and publishes the President's 278e reports"
+    },
+    {
+      "id": "donald-j-trump-revocable-trust",
+      "name": "Donald J. Trump Revocable Trust",
+      "type": "fund",
+      "description": "Trust of which Trump is sole beneficiary; owns most reporting entities and the TMTG shares"
+    },
+    {
+      "id": "dttm-operations",
+      "name": "DTTM Operations LLC",
+      "type": "company",
+      "description": "Trump licensing holding company; owns 69% of DT Marks DEFI and DT Marks SC and 79% of most licensing LLCs"
+    },
+    {
+      "id": "cic-digital",
+      "name": "CIC Digital LLC",
+      "type": "company",
+      "description": "Trust-owned entity reporting $635.1M of 2025 meme-coin royalties"
+    },
+    {
+      "id": "cic-ventures",
+      "name": "CIC Ventures LLC",
+      "type": "company",
+      "description": "Trust-owned entity receiving book, Bible, watch, sneaker and guitar royalties"
+    },
+    {
+      "id": "celebration-cards-llc",
+      "name": "Celebration Cards LLC",
+      "type": "company",
+      "description": "Reported owner of Fight Fight Fight LLC; the 2026 filing names the meme-coin licensee as 'Celebration Coins'"
+    },
+    {
+      "id": "dt-marks-defi",
+      "name": "DT Marks DEFI LLC",
+      "type": "company",
+      "description": "70% Trump / 30% family entity that holds 38.25% of WLF Holdco and received WLF token proceeds"
+    },
+    {
+      "id": "dt-marks-sc",
+      "name": "DT Marks SC LLC",
+      "type": "company",
+      "description": "70% Trump / 30% family entity holding 38.25% of Stablecoin Holdco LLC"
+    },
+    {
+      "id": "stablecoin-holdco",
+      "name": "Stablecoin Holdco LLC",
+      "type": "company",
+      "description": "Miami holding company for the USD1 stablecoin business"
+    },
+    {
+      "id": "wlf-holdco",
+      "name": "WLF Holdco LLC",
+      "type": "company",
+      "description": "Holding company that owns World Liberty Financial"
+    },
+    {
+      "id": "world-liberty-financial",
+      "name": "World Liberty Financial",
+      "type": "company",
+      "description": "Trump-family crypto venture"
+    },
+    {
+      "id": "trump-coin",
+      "name": "TRUMP meme coin",
+      "type": "asset",
+      "description": "Meme coin launched Jan 17, 2025"
+    },
+    {
+      "id": "usd1",
+      "name": "USD1",
+      "type": "asset",
+      "description": "World Liberty stablecoin run through Stablecoin Holdco"
+    },
+    {
+      "id": "wlfi-token",
+      "name": "WLFI token",
+      "type": "asset",
+      "description": "World Liberty governance token; 15.75B listed under DTTM Operations"
+    },
+    {
+      "id": "trump-organization",
+      "name": "Trump Organization",
+      "type": "company",
+      "description": "Family business whose entities fill Schedule 1"
+    },
+    {
+      "id": "trump-media-technology-group",
+      "name": "Trump Media & Technology Group",
+      "type": "company",
+      "description": "114.75M shares held by Trump's trust; no reported income"
+    },
+    {
+      "id": "mar-a-lago",
+      "name": "Mar-a-Lago Club",
+      "type": "asset",
+      "description": "Palm Beach club; $77.5M 2025 revenue per filing"
+    },
+    {
+      "id": "trump-national-doral",
+      "name": "Trump National Doral",
+      "type": "asset",
+      "description": "Miami resort; $121.9M 2025 revenue per filing"
+    },
+    {
+      "id": "dar-al-arkan",
+      "name": "Dar Al Arkan",
+      "type": "company",
+      "description": "Saudi developer; licensee for Dubai DG, KSA and Oman entities"
+    },
+    {
+      "id": "dar-global",
+      "name": "Dar Global",
+      "type": "company",
+      "description": "Dar Al Arkan unit; licensee for Doha ($5.25M) and hotel projects"
+    },
+    {
+      "id": "damac-properties",
+      "name": "Damac Properties",
+      "type": "company",
+      "description": "Dubai developer; licensee for Abu Dhabi, Al Raha Beach and Dubai entities"
+    },
+    {
+      "id": "reliance-industries",
+      "name": "Reliance Industries",
+      "type": "company",
+      "description": "Unit Reliance 4IR Realty paid a $10M development fee (2024) and co-licenses Hyderabad"
+    },
+    {
+      "id": "base-group",
+      "name": "Base Group (Base Co., Ltd.)",
+      "type": "company",
+      "description": "South Korean group; $2M non-refundable development fee in 2025"
+    },
+    {
+      "id": "trump-watches",
+      "name": "Trump Watches",
+      "type": "product",
+      "description": "$4.7M royalties in 2025"
+    },
+    {
+      "id": "trump-sneakers",
+      "name": "Trump Sneakers & Fragrances",
+      "type": "product",
+      "description": "$67,634 royalties in 2025"
+    },
+    {
+      "id": "god-bless-the-usa-bible",
+      "name": "God Bless the USA (Greenwood) Bible",
+      "type": "product",
+      "description": "$208,486 royalties in 2025"
+    },
+    {
+      "id": "melania-documentary",
+      "name": "Melania (2026 film)",
+      "type": "product",
+      "description": "Spouse's MKT World reports $10.71M net proceeds"
+    },
+    {
+      "id": "charles-schwab",
+      "name": "Charles Schwab",
+      "type": "company",
+      "description": "Lender of a pledged-asset line over $50M incurred in 2025"
+    },
+    {
+      "id": "e-jean-carroll",
+      "name": "E. Jean Carroll",
+      "type": "person",
+      "description": "Judgment creditor listed in Part 8"
+    },
+    {
+      "id": "trump-presidential-library-foundation",
+      "name": "Donald J. Trump Presidential Library Foundation",
+      "type": "fund",
+      "description": "Received net proceeds of ABC, CBS and Meta settlements"
+    },
+    {
+      "id": "trust-for-the-national-mall",
+      "name": "Trust for the National Mall",
+      "type": "fund",
+      "description": "Received the $22M YouTube settlement proceeds"
+    },
+    {
+      "id": "crew",
+      "name": "CREW",
+      "type": "media",
+      "description": "Watchdog that analyses the filings"
+    },
+    {
+      "id": "forbes",
+      "name": "Forbes",
+      "type": "media",
+      "description": "Estimated $2.4B 2025 business revenue"
+    },
+    {
+      "id": "reuters",
+      "name": "Reuters",
+      "type": "media",
+      "description": "Reported >$1.4B crypto income"
+    },
+    {
+      "id": "anna-kelly",
+      "name": "Anna Kelly",
+      "type": "person",
+      "description": "White House spokesperson"
+    },
+    {
+      "id": "karoline-leavitt",
+      "name": "Karoline Leavitt",
+      "type": "person",
+      "description": "White House press secretary"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "donald-trump",
+      "target": "office-of-government-ethics",
+      "label": "filed 2025 annual 278e (calendar 2025)",
+      "type": "regulatory",
+      "date": "2026-06-29"
+    },
+    {
+      "source": "donald-trump",
+      "target": "office-of-government-ethics",
+      "label": "filed 2025 annual 278e (calendar 2024)",
+      "type": "regulatory",
+      "date": "2025-06-13"
+    },
+    {
+      "source": "donald-j-trump-revocable-trust",
+      "target": "cic-digital",
+      "label": "owns 100% of",
+      "type": "ownership",
+      "date": "2025"
+    },
+    {
+      "source": "celebration-cards-llc",
+      "target": "cic-digital",
+      "label": "paid meme-coin royalties to (licensee named 'Celebration Coins' on form)",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 635068835
+    },
+    {
+      "source": "trump-coin",
+      "target": "cic-digital",
+      "label": "generated royalties for",
+      "type": "commercial",
+      "date": "2025"
+    },
+    {
+      "source": "dttm-operations",
+      "target": "dt-marks-defi",
+      "label": "owns 69% (plus 1% via member corp; family 30%)",
+      "type": "ownership",
+      "date": "2025"
+    },
+    {
+      "source": "dt-marks-defi",
+      "target": "wlf-holdco",
+      "label": "owns 38.25% (75% at end-2024)",
+      "type": "ownership",
+      "date": "2025-12"
+    },
+    {
+      "source": "world-liberty-financial",
+      "target": "dt-marks-defi",
+      "label": "distributed token-sale proceeds to",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 526810321
+    },
+    {
+      "source": "dt-marks-defi",
+      "target": "wlf-holdco",
+      "label": "sold equity in, net proceeds",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 65625000
+    },
+    {
+      "source": "stablecoin-holdco",
+      "target": "dt-marks-sc",
+      "label": "paid capital-contribution and Class C unit proceeds to",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 196875000
+    },
+    {
+      "source": "dt-marks-sc",
+      "target": "stablecoin-holdco",
+      "label": "owns 38.25%",
+      "type": "ownership",
+      "date": "2025-12"
+    },
+    {
+      "source": "stablecoin-holdco",
+      "target": "usd1",
+      "label": "runs the business of",
+      "type": "ownership",
+      "date": "2025"
+    },
+    {
+      "source": "dttm-operations",
+      "target": "wlfi-token",
+      "label": "holds 15.75B governance tokens (Over $50M bracket)",
+      "type": "ownership",
+      "date": "2025-12"
+    },
+    {
+      "source": "donald-j-trump-revocable-trust",
+      "target": "trump-media-technology-group",
+      "label": "holds 114,750,000 shares (Over $50M bracket)",
+      "type": "ownership",
+      "date": "2025-12"
+    },
+    {
+      "source": "mar-a-lago",
+      "target": "donald-trump",
+      "label": "2025 revenue reported on his 278e",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 77482488
+    },
+    {
+      "source": "trump-national-doral",
+      "target": "donald-trump",
+      "label": "2025 golf and hotel revenue reported on his 278e",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 121861496
+    },
+    {
+      "source": "dar-al-arkan",
+      "target": "trump-organization",
+      "label": "paid 2025 licence fees (Dubai DG, KSA, Oman)",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 20554675
+    },
+    {
+      "source": "dar-global",
+      "target": "trump-organization",
+      "label": "paid Doha licence fee",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 5250000
+    },
+    {
+      "source": "damac-properties",
+      "target": "trump-organization",
+      "label": "paid 2025 licence and golf-management fees",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 12589884
+    },
+    {
+      "source": "reliance-industries",
+      "target": "trump-organization",
+      "label": "Reliance 4IR Realty paid development fee (Mumbai)",
+      "type": "money",
+      "date": "2024",
+      "amount_usd": 10000000
+    },
+    {
+      "source": "base-group",
+      "target": "trump-organization",
+      "label": "paid non-refundable development fee",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 2000000
+    },
+    {
+      "source": "cic-ventures",
+      "target": "donald-trump",
+      "label": "2025 book and merchandise royalties",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 8049420
+    },
+    {
+      "source": "trump-watches",
+      "target": "cic-ventures",
+      "label": "paid royalties",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 4700000
+    },
+    {
+      "source": "god-bless-the-usa-bible",
+      "target": "cic-ventures",
+      "label": "paid royalties",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 208486
+    },
+    {
+      "source": "trump-sneakers",
+      "target": "cic-ventures",
+      "label": "paid royalties",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 67634
+    },
+    {
+      "source": "melania-documentary",
+      "target": "melania-trump",
+      "label": "net proceeds via MKT World LLC",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 10710000
+    },
+    {
+      "source": "charles-schwab",
+      "target": "donald-trump",
+      "label": "pledged-asset line, over $50M",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 50000001
+    },
+    {
+      "source": "e-jean-carroll",
+      "target": "donald-trump",
+      "label": "judgment creditor (stayed pending appeal; bonded)",
+      "type": "legal",
+      "date": "2024"
+    },
+    {
+      "source": "donald-trump",
+      "target": "trump-presidential-library-foundation",
+      "label": "settlement proceeds (ABC, CBS, Meta) paid to",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 56500000
+    },
+    {
+      "source": "donald-trump",
+      "target": "trust-for-the-national-mall",
+      "label": "YouTube settlement proceeds paid to",
+      "type": "money",
+      "date": "2025",
+      "amount_usd": 22000000
+    },
+    {
+      "source": "anna-kelly",
+      "target": "donald-trump",
+      "label": "denied conflicts of interest on behalf of",
+      "type": "political",
+      "date": "2026-06-30"
+    },
+    {
+      "source": "karoline-leavitt",
+      "target": "donald-trump",
+      "label": "defended 2025 filing on behalf of",
+      "type": "political",
+      "date": "2025-06"
+    },
+    {
+      "source": "crew",
+      "target": "donald-trump",
+      "label": "analysed foreign revenue (>$117M in 2025)",
+      "type": "media",
+      "date": "2026-08"
+    },
+    {
+      "source": "forbes",
+      "target": "donald-trump",
+      "label": "estimated $2.4B business revenue in 2025",
+      "type": "media",
+      "date": "2026-06-30"
+    },
+    {
+      "source": "reuters",
+      "target": "donald-trump",
+      "label": "reported >$1.4B crypto income",
+      "type": "media",
+      "date": "2026-06-30"
+    }
+  ],
+  "leads": [
+    {
+      "title": "Passive investment income and the 3,900+ transactions in Part 7",
+      "why_connected": "The 2026 filing lists thousands of bond and stock holdings (Part 6) and transactions (Part 7), and a reviewer noted late-filing fees for transactions missing from 278-T reports; this check did not total that income. Senators raised the trading volume in August 2026.",
+      "entities": [
+        "donald-trump",
+        "office-of-government-ethics"
+      ],
+      "source_url": "https://www.warren.senate.gov/wp-content/uploads/2026/08/2026.8.12-Letter-to-Trump-re-Stock-Trades-final.pdf"
+    },
+    {
+      "title": "Trump Organization LLC's $30.2M of 'business income and legal settlements'",
+      "why_connected": "An unexplained line on the 2026 filing that may overlap with the separately listed $86.5M of media settlements or other entities' revenue.",
+      "entities": [
+        "trump-organization",
+        "donald-trump"
+      ],
+      "source_url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
+    },
+    {
+      "title": "Who 'Celebration Coins' is",
+      "why_connected": "The $635.1M royalty licensee is named on the form as 'Celebration Coins', which outlets could not find as a registered entity; it may be Celebration Cards LLC, the reported owner of Fight Fight Fight LLC.",
+      "entities": [
+        "cic-digital",
+        "celebration-cards-llc",
+        "trump-coin"
+      ],
+      "source_url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
+    },
+    {
+      "title": "Stablecoin Holdco's $196.9M capital contribution and the Aryam 49% purchase",
+      "why_connected": "AP links the 'capital contribution' to the UAE-linked purchase of a WLF stake; both holding companies moved from 75% to 38.25% Trump-side ownership in 2025 (75% x 51% = 38.25%, our arithmetic).",
+      "entities": [
+        "dt-marks-sc",
+        "stablecoin-holdco",
+        "aryam-investment-1",
+        "world-liberty-financial"
+      ],
+      "source_url": "https://www.pbs.org/newshour/politics/how-crypto-real-estate-and-watches-added-up-for-trump-last-year"
+    },
+    {
+      "title": "Gifts to the President in Part 9",
+      "why_connected": "A $250,000 sculpture from Sticker Mule's founder and tickets from Rolex, FIFA's president and sports-team owners are listed as gifts for 2025.",
+      "entities": [
+        "donald-trump"
+      ],
+      "source_url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
+    }
+  ]
+}

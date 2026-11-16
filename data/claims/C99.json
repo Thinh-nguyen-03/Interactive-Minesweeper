@@ -1,0 +1,354 @@
+{
+  "id": "C99",
+  "title": "What each family member has earned since January 2025",
+  "verdict": "partly-accurate",
+  "confidence": "medium",
+  "summary": "Only one family member's 2025 income is itemised in a public filing: Melania Trump. The spouse section of Donald Trump's 2025 OGE report (released 30 June 2026) lists $10.71M from the 'Melania' film, $6,011,259 from NFTs and $521,161 from her memoir, all paid through MKT World LLC. For everyone else the record is mostly equity at paper value, set out in SEC filings: Eric Trump's American Bitcoin stake (68.4M pre-split shares, about $23M at the 13 Nov 2026 close, against roughly $600M+ near the September 2025 peak), the sons' Dominari, SPAC founder, GrabAGun, Unusual Machines and Kalshi shares, and press net-worth estimates (Forbes: Eric about $280M in April 2026, Don Jr. about $300M in December 2025, Barron about $150M in October 2025, Kushner above $1B in September 2025). The same OGE report shows that 30% of DT Marks DEFI and DT Marks SC, the entities receiving the World Liberty and USD1 money, belongs to unnamed 'Trump Family Members', but no filing says how much any son or Barron received. Jared Kushner's Affinity Partners was scheduled, per a Senate Finance Committee letter, to collect $90M more in management fees from foreign investors between September 2024 and August 2026; actual receipts and his personal take are not public. Salaries, board fees and advisory pay for the sons are almost entirely undisclosed.",
+  "sub_claims": [
+    {
+      "statement": "Melania Trump received about $17.2M of income in 2025 from her film, NFTs and memoir.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED (primary document read). Part 5 ('Spouse's Employment Assets & Income') of Donald Trump's 2025 OGE Form 278e lists MKT World LLC (Palm Beach), described as set up 'to enter into various agreements, including but not limited to appearance and speaking engagements and the sale of NFTs and other collectables, to receive net proceeds from the book \"Melania\", and the film \"Melania\"'. It reports net proceeds of $10,710,000 from a licence agreement with Designers Manager for the film, $6,011,259 from NFT and collectible sales, and $521,161 from the Skyhorse memoir, $17,242,420 in total. The same section shows MBWT LLC (Ljubljana real estate) with capital gains of $100,001-$1,000,000. No speaking income is itemised for 2025. For comparison, the 2024 report lists $216,710.74 in NFT licence fees under MKT World. These are net proceeds as reported on the form; they are not profit after tax.",
+      "sources": [
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump%2C%20Donald%20J.%202025%20Annual%20278.pdf",
+        "https://au.variety.com/2026/film/news/trump-fee-payment-amazon-melania-documentary-38206/",
+        "https://voz.us/en/politics/260703/37114/melania-trump-earned-more-than-17-2-million-in-2025-from-her-documentary-book-sales-and-nfts.html"
+      ]
+    },
+    {
+      "statement": "Amazon paid about $40M for the Melania film, most of it to the First Lady.",
+      "verdict": "partly-accurate",
+      "finding": "The $40M licence price was reported by Puck and the WSJ in January 2025; Amazon confirmed the deal but not the price (C44). The WSJ reported her share at more than 70% (about $28M). Only $10.71M appears on the 2025 disclosure. The gap is unexplained: it may be timing, with the rest paid in 2026 or later and the two-part follow-up series due on 20 Nov 2026, or the WSJ share may be wrong. The 2026 disclosure, due in 2027, should show whether more was paid. The more-than-70% share is single-source (WSJ).",
+      "sources": [
+        "https://salon.com/2025/01/07/paid-40-million-for-the-rights-to-a-melania-documentary-directed-by-an-alleged-abuser",
+        "https://au.variety.com/2026/film/news/trump-fee-payment-amazon-melania-documentary-38206/"
+      ]
+    },
+    {
+      "statement": "Melania Trump received money from the $MELANIA meme coin.",
+      "verdict": "unverified",
+      "finding": "No filing shows $MELANIA coin proceeds to her. The 2025 report lists only NFT and collectible licence income ($6.01M). Bubblemaps reported in April 2025 that about $30M of tokens were moved from 'community' wallets and partly sold, and later cited about $10M of team-wallet sales. No source traces those proceeds to Melania Trump or MKT World. A class action over the token (Hurlock v. Kelsier Ventures) describes her as used as a 'prop' and does not name her as a defendant. The CAP tracker assigns the $6.01M to '$MELANIA coin and related digital ventures' by its own inference.",
+      "sources": [
+        "https://cointelegraph.com/news/melania-trump-memecoin-team-sold-30-million-bubblemaps",
+        "https://decrypt.co/345493/melania-trump-javier-milei-props-meme-coin-fraud-lawsuit-alleges",
+        "https://www.americanprogress.org/wp-content/uploads/sites/2/2026/07/2026-07-16-Memo-on-Understanding-Trumps-Crypto-Wealth-Updated-Google-Docs.pdf"
+      ]
+    },
+    {
+      "statement": "Unnamed Trump family members own 30% of the entities that receive World Liberty and USD1 money.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED (primary document read). In both the 2024 and 2025 OGE reports, DT Marks Defi LLC (line 124 of the 2025 report) and DT Marks SC LLC (line 114) are owned 'DT Marks Defi/SC Member Corp: 1%, DTTM Operations LLC 69%, & Trump Family Members 30%'. DTTM Operations sits under the President's revocable trust. For 2025, DT Marks Defi reports $65,625,000 from the WLF Holdco equity sale and token-sale distributions itemised across lines 124.3-124.12 (CAP sums them to $526,810,321). DT Marks SC reports $196,875,000 from Stablecoin Holdco. The form does not name the family members or split the 30%. Whether these income amounts are entity-level totals or the President's share is not stated on the form. INFERRED (our arithmetic, asserted by no source): if they are entity-level, 30% is about $237M; if they are the President's 70% share (CAP's reading of the equity line), the family members' 30% would be about $338M. Neither figure is a documented payment to any named person.",
+      "sources": [
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump%2C%20Donald%20J.%202025%20Annual%20278.pdf",
+        "https://www.americanprogress.org/wp-content/uploads/sites/2/2026/07/2026-07-16-Memo-on-Understanding-Trumps-Crypto-Wealth-Updated-Google-Docs.pdf"
+      ]
+    },
+    {
+      "statement": "Eric Trump's American Bitcoin stake made him a paper billionaire, and has since lost most of its value.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED share count (SEC filings, read as excerpts). Schedule 13D/A amendments in late 2025 and the April 2026 proxy list Eric Trump with 68,432,664 shares (68,147,664 through his 2015 revocable trust plus 285,000 directly), before a 1-for-15 reverse split in July 2026. That is about 4.56M shares after the split. The stock closed at $5.07 on 13 Nov 2026 (market cap $369M). INFERRED value (our arithmetic): about $23M, against Bloomberg's estimate of a loss of more than $600M from the September 2025 peak. At the 3 Sept 2025 debut Forbes briefly valued him above $1B, then at about $750M (mid-Sept 2025), $400M (Dec 2025) and about $280M (Apr 2026, excerpt only). Eric said in Dec 2025 that he was holding all his shares. Hut 8's CEO said the brothers did not sell at the lockup expiry. No sale by Eric is documented. One outlet reports that his three-year advisory agreement carries no compensation (single-source). These are paper values; no cash is documented.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/0001755953/000119312526178754/abtc-20260424.htm",
+        "https://www.sec.gov/Archives/edgar/data/0001755953/000121390025124157/primary_doc.xml",
+        "https://stockanalysis.com/stocks/abtc/",
+        "https://www.theblock.co/post/406941/trump-backed-american-bitcoin-1-for-15-reverse-stock-split-maintain-nasdaq-listing",
+        "https://crypto.news/eric-trumps-american-bitcoin-sinks-95-as-stake-loses-600m/",
+        "https://benzinga.com/crypto/cryptocurrency/25/12/49177052/eric-trump-says-hes-not-selling-as-american-bitcoin-shares-crash-38-fundamentals-are-virtually-unmatched",
+        "https://www.forbes.com/sites/danalexander/2026/04/28/how-eric-trump-got-rich-from-bitcoin-while-losing-investors-a-fortune/",
+        "https://bitcoinist.com/?p=545172"
+      ]
+    },
+    {
+      "statement": "Donald Trump Jr. holds an American Bitcoin stake of known size.",
+      "verdict": "unverified",
+      "finding": "Don Jr. is described as a shareholder (Hut 8 CEO, Dec 2025), and Reuters said the brothers together held nearly 20% at listing. The proxy's ownership table does not list him, which suggests a stake below 5%, and no filing gives his share count. His ABTC paper value therefore cannot be computed.",
+      "sources": [
+        "https://benzinga.com/crypto/cryptocurrency/25/12/49177052/eric-trump-says-hes-not-selling-as-american-bitcoin-shares-crash-38-fundamentals-are-virtually-unmatched",
+        "https://www.sec.gov/Archives/edgar/data/0001755953/000119312526178754/abtc-20260424.htm"
+      ]
+    },
+    {
+      "statement": "The Trump sons received Dominari shares and could sell them.",
+      "verdict": "mostly-accurate",
+      "finding": "DOCUMENTED (13G filings, via C39). Each brother received 250,000 advisory shares and bought about $1M in the Feb 2025 $3.47 placement, for 966,138 shares each (6.71%) as of 21 Feb 2025, plus 432,276 warrant shares each. In May 2025 an S-3 registered their shares for resale (Bloomberg: about $9.6M combined at the time). A circulating figure that Don Jr. 'sold 1,504,322 shares leaving 144,092' reads the S-3 resale table (shares offered and shares held afterwards, assuming all are sold) as an actual sale; MarketWatch corrected a report to that effect. A search summary refers to a 13G showing Don Jr. at 5.23% as of 22 May 2026, which would be consistent with dilution rather than a sale (single-source; filing not read). INFERRED value (our arithmetic): at the end-2025 price of just under $5, each brother's 966,138 shares were worth about $4.5-4.8M, against a cash cost of about $1M. No sale is documented. Separately, both brothers invested in Dominari's American Ventures vehicle; Bloomberg reports paper gains on microcaps but no per-person figures.",
+      "sources": [
+        "https://www.bloomberg.com/news/articles/2025-05-19/how-donald-trump-jr-eric-trump-could-make-millions-from-dominari-shares",
+        "https://www.webull.com.au/news-detail/14846258248377344",
+        "https://news.bloomberglaw.com/capital-markets/trump-sons-invested-in-private-fund-making-millions-on-microcaps"
+      ]
+    },
+    {
+      "statement": "The sons hold founder shares in the New America Acquisition I SPAC.",
+      "verdict": "confirmed",
+      "finding": "Per Reuters, AP and Capital Brief (C27), Eric received 3M founder shares and Don Jr. 2M, worth about $30M and $20M on paper at the $10 IPO price. The value depends on the SPAC completing a merger, which had not been announced by Nov 2026, and on the later trading price. Founder shares typically cost a nominal sum. This is contingent paper value, not cash.",
+      "sources": [
+        "https://finance.yahoo.com/news/eric-trump-jr-backed-manufacturing-152853627.html",
+        "https://www.capitalbrief.com/briefing/trump-sons-take-advisory-roles-in-us-blank-cheque-spac-tied-to-federal-incentives-6b65035f-7ae7-4ede-b0d7-ba20ea514ccb/"
+      ]
+    },
+    {
+      "statement": "Donald Trump Jr. is paid in equity for board and advisory roles (GrabAGun, Unusual Machines, PSQ, Kalshi, Polymarket).",
+      "verdict": "mostly-accurate",
+      "finding": "DOCUMENTED that pay is mostly in stock. A Dow Jones report (Sept 2025) counted eight advisory roles, and CREW counts four board seats (PublicSquare/PSQ, GrabAGun, BlinkRx, Colombier III) and four advisory roles (Unusual Machines, Polymarket, Dominari, New America SPAC). GrabAGun: 300,000 shares per an SEC filing, worth about $4M after the July 2025 debut slide (Bloomberg). A governance summary describes these as shares for one year of strategic consulting (single-source). Unusual Machines: 331,580 shares (200,000 for the advisory role plus 131,580 bought at $1.52 per unit), about $4M in Oct 2025 (FT). No sale is reported. PSQ: a proxy summary describes director pay as $300,000 of initial RSUs and $150,000 a year. His own grants were not confirmed (single-source summary). Kalshi: more than $300,000 of shares when he joined in Jan 2025 (FT, NYT). A June 2026 report puts the stake at about $6M on paper after valuation growth, while the FT says it has been heavily diluted (single-source estimate). Polymarket: his advisory pay is undisclosed. 1789 Capital's reported roughly $500M Polymarket position belongs to the firm, not to him. 1789 partnership and Executive Branch club: his economic share is undisclosed. No cash board fees for him have been found in any filing.",
+      "sources": [
+        "https://www-web.itiger.com/news/2567827731",
+        "https://www.citizensforethics.org/reports-investigations/crew-reports/companies-see-boost-from-trump-admin-after-adding-don-jr-to-their-board/",
+        "https://www.bloomberg.com/news/articles/2025-07-16/donald-trump-jr-s-grabagun-stake-worth-4-million-even-after-25-drop",
+        "https://www.panabee.com/news/grabagun-executive-compensation-2026",
+        "https://www.tipranks.com/news/the-fly/trump-jr-backed-unusual-machines-wins-dod-contract-ft-reports-thefly",
+        "https://quartr.com/events/psq-holdings-inc-psqh-proxy-filing_F9y6ymLY",
+        "https://finance.yahoo.com/markets/options/articles/donald-trump-jr-got-kalshi-220055638.html",
+        "https://covers.com/industry/kalshi-facing-scrutiny-over-trump-jr-300k-share-gift-june-30-2026",
+        "https://cryptopotato.com/donald-trump-jr-s-1789-capital-to-put-300m-into-polymarket/"
+      ]
+    },
+    {
+      "statement": "Kalshi ended Donald Trump Jr.'s advisory contract in November 2026.",
+      "verdict": "unverified",
+      "finding": "Headlines from Unchained and AOL say Kalshi ended the contract around 12 Nov 2026 over his Polymarket role and that he keeps the Polymarket role. Only the headlines and search snippets were seen. Kalshi reportedly did not say whether he keeps his equity. Other searches turned up no confirmation.",
+      "sources": [
+        "https://unchainedcrypto.com/donald-trump-jr-leaves-kalshi-keeps-polymarket-role-a-week-after-democrats-win-congress/",
+        "https://www.aol.com/articles/kalshi-ended-donald-trump-jr-141846000.html"
+      ]
+    },
+    {
+      "statement": "Barron Trump has earned tens of millions from World Liberty and is worth about $150M.",
+      "verdict": "partly-accurate",
+      "finding": "Both figures are ESTIMATES, not disclosures. WLF lists Barron as a co-founder. Forbes estimated about $40M of token-sale proceeds (about $25M after tax) in mid-2025, and about $150M of net worth in Sept/Oct 2025, assuming he holds about 10% of the WLF value attributed to the family, with locked tokens heavily discounted. Forbes's method is to apportion the family's estimated WLF value by assumed ownership shares; Barron's stake has not been disclosed. The OGE report shows only that unnamed family members hold 30% of DT Marks DEFI. No newer Forbes figure was found. His beverage company, Sollos, has no reported revenue.",
+      "sources": [
+        "https://www.benzinga.com/markets/25/06/46017024/trump-financial-disclosures-reveal-barron-trumps-potential-40-million-windfall-from-crypto-project",
+        "https://www.forbes.com/sites/danalexander/2025/09/22/heres-how-much-the-trump-kids-have-made-because-of-the-presidency/",
+        "https://revistamercado.do/criptomonedas/barron-trump-fortuna-150-millones/"
+      ]
+    },
+    {
+      "statement": "Jared Kushner's Affinity Partners has collected large management fees from Gulf sovereign funds.",
+      "verdict": "confirmed",
+      "finding": "DOCUMENTED (Senate Finance Committee letter of 24 Sept 2024, read in full). Affinity had collected about $157.5M in management fees from foreign investors, $87M of it from Saudi Arabia's PIF. The fees are 1.25% a year on PIF's $2B commitment from June 2021 to August 2026, and 2% on about $1B from five other investors. Affinity was 'guaranteed to collect an additional $90 million' from foreign investors from then until August 2026, $50M of it from PIF. The letter calls Kushner, as sole owner, 'the biggest beneficiary'. INFERRED (our pro-rata arithmetic): roughly $70-80M of that $90M falls between Jan 2025 and Aug 2026. Actual receipts after Sept 2024 have not been published. Fees are firm revenue that pays operating costs, so they are not Kushner's personal income. A March 2026 letter from Wyden and Garcia repeats the $157M figure. Form ADV showed about $6.16B of regulatory AUM at end-2025 (C15).",
+      "sources": [
+        "https://www.finance.senate.gov/imo/media/doc/chairman_wyden_to_affinity_partnerspdf.pdf",
+        "https://www.finance.senate.gov/chairmans-news/wyden-investigation-of-kushner-firm-continues-new-letter-outlines-affinity-partners-fee-structure-lack-of-return-to-investors-questionable-deals-with-foreign-governments",
+        "https://oversightdemocrats.house.gov/imo/media/doc/2026-03-19garciawydenlettertoaffinitypartnersrekushnerfundraisingfinal.pdf"
+      ]
+    },
+    {
+      "statement": "Kushner raised about $5B of new Gulf money in 2025-26.",
+      "verdict": "unverified",
+      "finding": "The NYT reported in March 2026 that he was seeking '$5 billion or more'. Axios said Affinity was not formally in market and had begun discussions with PIF under its first-look rights. Bloomberg-sourced coverage quoted Affinity's chief legal officer as saying the firm had reversed course and did not intend to take in new capital while Kushner volunteers for the government. A New Yorker profile (Dexter Filkins, autumn 2026) said he was 'discreetly raising another five billion dollars'. Kushner's public rebuttal says preliminary conversations about a possible future fund are not a raise. No closing has been documented.",
+      "sources": [
+        "https://www.axios.com/2026/03/16/jared-kushner-affinity-partners",
+        "https://www.mediaite.com/politics/shock-report-says-kushner-raised-5-billion-for-his-fund-while-negotiating-with-iran-on-behalf-of-us/",
+        "https://mediaite.com/media/news/jared-kushner-lashes-out-at-the-new-yorker-over-explosive-report-about-businesses-by-dropping-receipts-in-lengthy-fact-check"
+      ]
+    },
+    {
+      "statement": "Kushner gained from the EA buyout and the Paramount bid.",
+      "verdict": "partly-accurate",
+      "finding": "EA: Affinity is a minority investor in the $55B take-private that closed in Aug 2026 (C80). Its equity contribution and any fees or carry are not public, so no gain can be measured. Paramount: Affinity joined the financing of Paramount Skydance's hostile bid for Warner Bros. Discovery in Oct 2025 and withdrew on 16 Dec 2025, citing changed investment dynamics. Axios's sources said it never had a substantial stake. No gain is documented.",
+      "sources": [
+        "https://www.financierworldwide.com/ea-agrees-55bn-consortium-buyout",
+        "https://www.bloomberg.com/news/articles/2025-12-16/kushner-s-affinity-withdraws-from-warner-bros-takeover-battle",
+        "https://www.axios.com/2025/12/16/kushner-warner-bros-paramount"
+      ]
+    },
+    {
+      "statement": "Kushner became a billionaire on Forbes's estimate.",
+      "verdict": "mostly-accurate",
+      "finding": "ESTIMATE. Forbes added him to its billionaires in Sept 2025, putting his net worth above $1B, up from about $900M. A relay of Forbes's breakdown values his 100% stake in Affinity's management company at about $215M (up from $170M in Oct 2024) and attributes more than half his fortune to his roughly 20% Kushner Companies stake. That breakdown was seen only via secondary sources (single-source relay). Forbes values a management company from its fee stream, not from the fund's assets.",
+      "sources": [
+        "https://www.newser.com/story/375340/jared-kushner-is-now-a-billionaire.html",
+        "https://www.noonpost.com/en/363543/"
+      ]
+    },
+    {
+      "statement": "Press net-worth estimates for the sons.",
+      "verdict": "confirmed",
+      "finding": "ESTIMATES. Forbes: Don Jr. about $300M (8 Dec 2025, from about $50M in Nov 2024); Eric about $400M (4 Dec 2025), then about $280M (28 Apr 2026, seen as a search excerpt only). Forbes builds these from public stakes at market price, private stakes at estimated value, and estimated after-tax cash from token sales, minus debt. Bloomberg's index tracks the family as a whole, excludes locked tokens, and does not publish per-son figures. Eric disputed Forbes's Dec 2025 valuation without offering an alternative. Net worth changes are not income and must not be added to cash rows.",
+      "sources": [
+        "https://www.forbes.com/sites/kylemullins/2025/12/08/how-donald-trump-jrs-fortune-jumped-six-fold-in-a-year/",
+        "https://www.forbes.com/sites/kylemullins/2025/12/04/eric-trump-has-gotten-10-times-richer-since-dads-election/",
+        "https://www.forbes.com/sites/danalexander/2026/04/28/how-eric-trump-got-rich-from-bitcoin-while-losing-investors-a-fortune/",
+        "https://www.theblock.co/news/business/2026-01-20-trumps-add-1-4-billion-usd-crypto-assets-to-family-fortune-since-inauguration-386237"
+      ]
+    },
+    {
+      "statement": "Eric Trump earned money from ALT5 Sigma, Metaplanet, the Trump Organization and his book.",
+      "verdict": "unverified",
+      "finding": "No amounts are public. ALT5: he was named a director in Aug 2025, changed to board observer after Nasdaq discussions, and by April 2026 no longer appeared on the leadership page. No pay or equity to him is disclosed. Metaplanet strategic adviser (March 2025): terms undisclosed. Trump Organization: he runs it with Don Jr., and salaries and distributions are private. 'Under Siege' (Threshold Editions/Simon & Schuster, 14 Oct 2025): the advance and royalties are undisclosed. As private citizens the sons file no financial disclosures.",
+      "sources": [
+        "https://www.benzinga.com/crypto/cryptocurrency/25/09/47579558/eric-trumps-director-plans-scrapped-shifted-to-observer-role-on-alt5-sigma-board-after-nasdaq-review",
+        "https://www.spokesman.com/stories/2026/apr/30/eric-trump-disappears-from-troubled-fintechs-publi/",
+        "https://www.trump.com/media/threshold-editions-to-publish-explosive-new-memoir-by-eric-trump-under-siege-my-familys-fight-to-save-the-nation/"
+      ]
+    },
+    {
+      "statement": "Ivanka Trump, Lara Trump, Tiffany Trump, the Boulos family, Kimberly Guilfoyle and Charles Kushner have documented earnings in the term.",
+      "verdict": "unverified",
+      "finding": "Little is documented. Ivanka: no 2025-26 income figure was found. A Forbes figure of about $100M circulates without a date, and her Albania resort plans with Kushner are pre-revenue (C45). Lara: Fox News hosts 'My View with Lara Trump' from Feb 2025, and her salary is undisclosed. Tiffany: nothing documented. Michael Boulos: the reported roughly $300,000 yacht finder's fee (NYT, single-source) dates from 2022, before the term (C66). Massad Boulos and Charles Kushner draw federal salaries as senior adviser and ambassador, and no individual amount was found. Kimberly Guilfoyle (ambassador to Greece until she resigned on 13 Oct 2026) reported $1.7M of 2024 income before taking office. The WSJ reported she asked donor Eric Deters in July 2025 to pay a $100,000 Amex bill. Deters says he did not pay, and her lawyers say any payment would have been for speaking and appearances and dispute the texts. No receipt is documented.",
+      "sources": [
+        "https://m.washingtontimes.com/news/2025/feb/5/lara-trump-hired-fox-news-weekend-show-network/",
+        "https://projects.propublica.org/trump-team-financial-disclosures/appointees/guilfoyle-kimberly",
+        "https://kutv.com/news/nation-world/donald-trump-jrs-former-girlfriend-begged-donor-to-pay-her-100k-amex-bill-report-kentucky-greece-gavin-newsom",
+        "https://www.wnd.com/2026/10/these-allegations-are-false-kimberly-guilfoyle-fires-back/"
+      ]
+    }
+  ],
+  "corrections": [
+    "Claimed (C44): outlets split on whether the $10.71M film fee is Donald Trump's or Melania Trump's income. The record shows: the primary 2025 OGE report lists it in Part 5, 'Spouse's Employment Assets & Income', under MKT World LLC, alongside $6,011,259 of NFT proceeds and $521,161 from the memoir. It is her income reported on his form.",
+    "Claimed (C42, C04): DT Marks DEFI is a 'Trump-owned' entity. The record shows: the 2024 and 2025 OGE reports list it as 69% DTTM Operations (the President's trust structure), 1% DT Marks Defi Member Corp and 30% 'Trump Family Members'. DT Marks SC has the same split. So part of the World Liberty money accrues to unnamed relatives. CAP's memo describes the split as 70/30.",
+    "Claimed (C29): Forbes estimated Eric Trump at about $400M (Dec 2025). The record shows: that figure has been superseded. Forbes put him at about $280M on 28 Apr 2026 (seen as a search excerpt only).",
+    "Claimed (C29): Eric's American Bitcoin stake was worth about $160M (Dec 2025). The record shows: by our arithmetic, on 68,432,664 pre-split shares (13D/A and proxy), after the July 2026 1-for-15 reverse split and at the $5.07 close on 13 Nov 2026, it was worth about $23M.",
+    "A circulating claim that Don Jr. 'sold 1,504,322 Dominari shares' misreads the May 2025 S-3 resale table. No sale is documented, which matches C39.",
+    "Claimed: the brothers 'own' about 20% of American Bitcoin. The record shows: that was the combined Trump-linked holders' stake at launch. Only Eric's stake appears in the proxy, and Don Jr.'s is undisclosed."
+  ],
+  "denials_and_context": [
+    "Eric Trump disputed Forbes's Dec 2025 valuation without giving his own figure, and said in Dec 2025 that he was holding all his American Bitcoin shares and was '100% committed'.",
+    "A Trump Jr. spokesperson says he 'does not engage with the federal government on behalf of any company he invests in or advises'. Kalshi said he advises on marketing, not regulation. Spokespeople for both sons call them 'passive' investors in the American Ventures deals.",
+    "Kushner calls the New Yorker's $5B account false. He says preliminary conversations about a possible future fund are not fundraising, and that the anonymous sources described conversations that 'never happened'. Affinity's counsel has said its arrangements are compliant. The White House says he is an unpaid volunteer, not a federal employee required to file.",
+    "Amazon says the Melania licence came out of a 'thorough and competitive' process and has denied any impropriety (C44). Melania Trump's office has not commented on the amounts.",
+    "Guilfoyle calls the Deters allegations 'false' and says she will 'vigorously defend' her name.",
+    "The White House says the President's businesses are run by his children through a trust and that no conflicts exist. The sons are private citizens and file no disclosures, so most of their pay and distributions are not public.",
+    "Context: income received during the presidency is not by itself income earned because of it. Several ventures (the memoir, Kalshi, Unusual Machines) began before Jan 2025.",
+    "Context: paper values are point-in-time and volatile. American Bitcoin fell more than 90% from its peak, and SPAC founder shares are worth nothing if no merger closes."
+  ],
+  "sources": [
+    {"title": "Donald J. Trump OGE Form 278e Annual Report (calendar 2025), Part 5 and DT Marks lines", "publisher": "US Office of Government Ethics", "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf", "date": "2026-06-30", "read": "full"},
+    {"title": "Donald J. Trump OGE Form 278e Annual Report (calendar 2024), DT Marks Defi and MKT World lines", "publisher": "US Office of Government Ethics", "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump%2C%20Donald%20J.%202025%20Annual%20278.pdf", "date": "2025-06-13", "read": "full"},
+    {"title": "Letter from Chairman Wyden to Affinity Partners (fees from foreign investors)", "publisher": "US Senate Finance Committee", "url": "https://www.finance.senate.gov/imo/media/doc/chairman_wyden_to_affinity_partnerspdf.pdf", "date": "2024-09-24", "read": "full"},
+    {"title": "Wyden investigation of Kushner firm continues", "publisher": "US Senate Finance Committee", "url": "https://www.finance.senate.gov/chairmans-news/wyden-investigation-of-kushner-firm-continues-new-letter-outlines-affinity-partners-fee-structure-lack-of-return-to-investors-questionable-deals-with-foreign-governments", "date": "2024-09-25", "read": "excerpt"},
+    {"title": "Garcia-Wyden letter to Affinity Partners on Kushner fundraising", "publisher": "House Oversight Democrats / Senate Finance Democrats", "url": "https://oversightdemocrats.house.gov/imo/media/doc/2026-03-19garciawydenlettertoaffinitypartnersrekushnerfundraisingfinal.pdf", "date": "2026-03-19", "read": "excerpt"},
+    {"title": "President Trump's Crypto Income and How We Track It (updated memo)", "publisher": "Center for American Progress", "url": "https://www.americanprogress.org/wp-content/uploads/sites/2/2026/07/2026-07-16-Memo-on-Understanding-Trumps-Crypto-Wealth-Updated-Google-Docs.pdf", "date": "2026-07-16", "read": "full"},
+    {"title": "American Bitcoin Corp. DEF 14A (2026)", "publisher": "SEC EDGAR", "url": "https://www.sec.gov/Archives/edgar/data/0001755953/000119312526178754/abtc-20260424.htm", "date": "2026-04-24", "read": "excerpt"},
+    {"title": "American Bitcoin Corp. Schedule 13D/A", "publisher": "SEC EDGAR", "url": "https://www.sec.gov/Archives/edgar/data/0001755953/000121390025124157/primary_doc.xml", "date": "2025", "read": "excerpt"},
+    {"title": "American Bitcoin (ABTC) stock price", "publisher": "StockAnalysis", "url": "https://stockanalysis.com/stocks/abtc/", "date": "2026-11-13", "read": "full"},
+    {"title": "Trump-backed American Bitcoin sets 1-for-15 reverse stock split", "publisher": "The Block", "url": "https://www.theblock.co/post/406941/trump-backed-american-bitcoin-1-for-15-reverse-stock-split-maintain-nasdaq-listing", "date": "2026-07", "read": "excerpt"},
+    {"title": "Eric Trump's American Bitcoin swings to $126 million profit in Q3", "publisher": "The Block", "url": "https://www.theblock.co/news/business/2026-11-05-american-bitcoin-swings-to-profit-434413", "date": "2026-11-05", "read": "excerpt"},
+    {"title": "Eric Trump's American Bitcoin sinks 95% as stake loses $600M", "publisher": "crypto.news", "url": "https://crypto.news/eric-trumps-american-bitcoin-sinks-95-as-stake-loses-600m/", "date": "2026-07", "read": "excerpt"},
+    {"title": "Eric Trump says he's not selling as American Bitcoin shares crash", "publisher": "Benzinga", "url": "https://benzinga.com/crypto/cryptocurrency/25/12/49177052/eric-trump-says-hes-not-selling-as-american-bitcoin-shares-crash-38-fundamentals-are-virtually-unmatched", "date": "2025-12-02", "read": "excerpt"},
+    {"title": "American Bitcoin page noting Eric Trump's uncompensated advisory agreement", "publisher": "Bitcoinist", "url": "https://bitcoinist.com/?p=545172", "date": "2025", "read": "excerpt"},
+    {"title": "How Eric Trump Got Rich From Bitcoin While Losing Investors A Fortune", "publisher": "Forbes", "url": "https://www.forbes.com/sites/danalexander/2026/04/28/how-eric-trump-got-rich-from-bitcoin-while-losing-investors-a-fortune/", "date": "2026-04-28", "read": "excerpt"},
+    {"title": "Here's How Much Eric Trump Is Worth", "publisher": "Forbes", "url": "https://www.forbes.com/sites/kylemullins/2025/12/04/eric-trump-has-gotten-10-times-richer-since-dads-election/", "date": "2025-12-04", "read": "excerpt"},
+    {"title": "Here's How Much Donald Trump Jr. Is Worth", "publisher": "Forbes", "url": "https://www.forbes.com/sites/kylemullins/2025/12/08/how-donald-trump-jrs-fortune-jumped-six-fold-in-a-year/", "date": "2025-12-08", "read": "excerpt"},
+    {"title": "Here's How Much The Trump Family Is Worth", "publisher": "Forbes", "url": "https://www.forbes.com/sites/danalexander/2025/09/22/heres-how-much-the-trump-kids-have-made-because-of-the-presidency/", "date": "2025-09-22", "read": "excerpt"},
+    {"title": "Trumps add $1.4 billion in crypto-related assets to family fortune since inauguration: Bloomberg", "publisher": "The Block", "url": "https://www.theblock.co/news/business/2026-01-20-trumps-add-1-4-billion-usd-crypto-assets-to-family-fortune-since-inauguration-386237", "date": "2026-01-20", "read": "excerpt"},
+    {"title": "A Tiny Bank in Trump Tower Is Enriching the President's Sons", "publisher": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2025-05-19/how-donald-trump-jr-eric-trump-could-make-millions-from-dominari-shares", "date": "2025-05-19", "read": "excerpt"},
+    {"title": "MarketWatch report with correction on Don Jr. Dominari share registration", "publisher": "MarketWatch (via Webull)", "url": "https://www.webull.com.au/news-detail/14846258248377344", "date": "2025", "read": "excerpt"},
+    {"title": "Trump Sons Invested in Private Fund Making Millions on Microcaps", "publisher": "Bloomberg Law", "url": "https://news.bloomberglaw.com/capital-markets/trump-sons-invested-in-private-fund-making-millions-on-microcaps", "date": "2026-06", "read": "excerpt"},
+    {"title": "Eric and Trump Jr-backed manufacturing SPAC files for $300 million US IPO", "publisher": "Reuters (via Yahoo Finance)", "url": "https://finance.yahoo.com/news/eric-trump-jr-backed-manufacturing-152853627.html", "date": "2025-08-04", "read": "excerpt"},
+    {"title": "Trump sons take advisory roles in US blank cheque SPAC", "publisher": "Capital Brief", "url": "https://www.capitalbrief.com/briefing/trump-sons-take-advisory-roles-in-us-blank-cheque-spac-tied-to-federal-incentives-6b65035f-7ae7-4ede-b0d7-ba20ea514ccb/", "date": "2025-08-05", "read": "excerpt"},
+    {"title": "Donald Trump Jr.'s new career: advising companies", "publisher": "Dow Jones (via Tiger Brokers)", "url": "https://www-web.itiger.com/news/2567827731", "date": "2025-09", "read": "excerpt"},
+    {"title": "Companies see boost from Trump admin after adding Don Jr. to their board", "publisher": "CREW", "url": "https://www.citizensforethics.org/reports-investigations/crew-reports/companies-see-boost-from-trump-admin-after-adding-don-jr-to-their-board/", "date": "2025", "read": "excerpt"},
+    {"title": "Donald Trump Jr.'s GrabAGun Stake Worth $4 Million Even After 25% Drop", "publisher": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2025-07-16/donald-trump-jr-s-grabagun-stake-worth-4-million-even-after-25-drop", "date": "2025-07-16", "read": "excerpt"},
+    {"title": "GrabAGun executive compensation 2026 (governance summary)", "publisher": "Panabee", "url": "https://www.panabee.com/news/grabagun-executive-compensation-2026", "date": "2026", "read": "excerpt"},
+    {"title": "Trump Jr.-backed Unusual Machines wins DoD contract, FT reports", "publisher": "TipRanks / The Fly", "url": "https://www.tipranks.com/news/the-fly/trump-jr-backed-unusual-machines-wins-dod-contract-ft-reports-thefly", "date": "2025-10", "read": "excerpt"},
+    {"title": "PSQ Holdings proxy filing summary", "publisher": "Quartr", "url": "https://quartr.com/events/psq-holdings-inc-psqh-proxy-filing_F9y6ymLY", "date": "2026", "read": "excerpt"},
+    {"title": "Donald Trump Jr. got a Kalshi stake for free; it could be worth billions", "publisher": "Benzinga (via Yahoo Finance)", "url": "https://finance.yahoo.com/markets/options/articles/donald-trump-jr-got-kalshi-220055638.html", "date": "2026", "read": "excerpt"},
+    {"title": "Kalshi facing scrutiny over Trump Jr. $300,000 share gift", "publisher": "Covers", "url": "https://covers.com/industry/kalshi-facing-scrutiny-over-trump-jr-300k-share-gift-june-30-2026", "date": "2026-06-30", "read": "excerpt"},
+    {"title": "Donald Trump Jr. leaves Kalshi, keeps Polymarket role", "publisher": "Unchained", "url": "https://unchainedcrypto.com/donald-trump-jr-leaves-kalshi-keeps-polymarket-role-a-week-after-democrats-win-congress/", "date": "2026-11", "read": "excerpt"},
+    {"title": "Kalshi ended Donald Trump Jr.'s advisory contract over his Polymarket role", "publisher": "AOL", "url": "https://www.aol.com/articles/kalshi-ended-donald-trump-jr-141846000.html", "date": "2026-11", "read": "excerpt"},
+    {"title": "Donald Trump Jr.'s 1789 Capital to put $300M into Polymarket", "publisher": "CryptoPotato", "url": "https://cryptopotato.com/donald-trump-jr-s-1789-capital-to-put-300m-into-polymarket/", "date": "2026-08", "read": "excerpt"},
+    {"title": "Trump financial disclosures reveal Barron Trump's potential $40 million windfall", "publisher": "Benzinga", "url": "https://www.benzinga.com/markets/25/06/46017024/trump-financial-disclosures-reveal-barron-trumps-potential-40-million-windfall-from-crypto-project", "date": "2025-06", "read": "excerpt"},
+    {"title": "Barron Trump: como hizo una fortuna de US$150 millones", "publisher": "Revista Mercado", "url": "https://revistamercado.do/criptomonedas/barron-trump-fortuna-150-millones/", "date": "2026", "read": "excerpt"},
+    {"title": "Trump received $10.7 million fee for Amazon's 'Melania' documentary", "publisher": "Variety", "url": "https://au.variety.com/2026/film/news/trump-fee-payment-amazon-melania-documentary-38206/", "date": "2026-07-01", "read": "excerpt"},
+    {"title": "Melania Trump earned more than $17.2 million in 2025", "publisher": "Voz", "url": "https://voz.us/en/politics/260703/37114/melania-trump-earned-more-than-17-2-million-in-2025-from-her-documentary-book-sales-and-nfts.html", "date": "2026-07-03", "read": "excerpt"},
+    {"title": "Amazon paid $40 million for the rights to a Melania documentary", "publisher": "Salon", "url": "https://salon.com/2025/01/07/paid-40-million-for-the-rights-to-a-melania-documentary-directed-by-an-alleged-abuser", "date": "2025-01-07", "read": "excerpt"},
+    {"title": "Melania Trump memecoin team sold $30 million: Bubblemaps", "publisher": "Cointelegraph", "url": "https://cointelegraph.com/news/melania-trump-memecoin-team-sold-30-million-bubblemaps", "date": "2025-04", "read": "excerpt"},
+    {"title": "Melania Trump, Javier Milei used as 'props' for meme coin fraud, lawsuit alleges", "publisher": "Decrypt", "url": "https://decrypt.co/345493/melania-trump-javier-milei-props-meme-coin-fraud-lawsuit-alleges", "date": "2025", "read": "excerpt"},
+    {"title": "Jared Kushner's new private equity fund raises old questions", "publisher": "Axios", "url": "https://www.axios.com/2026/03/16/jared-kushner-affinity-partners", "date": "2026-03-16", "read": "excerpt"},
+    {"title": "Report says Kushner raised $5 billion for his fund while negotiating with Iran", "publisher": "Mediaite", "url": "https://www.mediaite.com/politics/shock-report-says-kushner-raised-5-billion-for-his-fund-while-negotiating-with-iran-on-behalf-of-us/", "date": "2026-09", "read": "excerpt"},
+    {"title": "Jared Kushner lashes out at the New Yorker in lengthy fact check", "publisher": "Mediaite", "url": "https://mediaite.com/media/news/jared-kushner-lashes-out-at-the-new-yorker-over-explosive-report-about-businesses-by-dropping-receipts-in-lengthy-fact-check", "date": "2026-10", "read": "excerpt"},
+    {"title": "Kushner's Affinity withdraws from Warner Bros. takeover battle", "publisher": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2025-12-16/kushner-s-affinity-withdraws-from-warner-bros-takeover-battle", "date": "2025-12-16", "read": "excerpt"},
+    {"title": "Jared Kushner's firm backs out of Paramount's Warner Bros. bid", "publisher": "Axios", "url": "https://www.axios.com/2025/12/16/kushner-warner-bros-paramount", "date": "2025-12-16", "read": "excerpt"},
+    {"title": "EA agrees $55bn consortium buyout", "publisher": "Financier Worldwide", "url": "https://www.financierworldwide.com/ea-agrees-55bn-consortium-buyout", "date": "2025-10", "read": "excerpt"},
+    {"title": "Jared Kushner is now a billionaire", "publisher": "Newser", "url": "https://www.newser.com/story/375340/jared-kushner-is-now-a-billionaire.html", "date": "2025-09", "read": "excerpt"},
+    {"title": "Kushner wealth profile relaying Forbes breakdown", "publisher": "NoonPost", "url": "https://www.noonpost.com/en/363543/", "date": "2026-03", "read": "excerpt"},
+    {"title": "Eric Trump's director plans scrapped, shifted to observer role on Alt5 Sigma board", "publisher": "Benzinga", "url": "https://www.benzinga.com/crypto/cryptocurrency/25/09/47579558/eric-trumps-director-plans-scrapped-shifted-to-observer-role-on-alt5-sigma-board-after-nasdaq-review", "date": "2025-09", "read": "excerpt"},
+    {"title": "Eric Trump disappears from troubled fintech's public leadership", "publisher": "Spokesman-Review", "url": "https://www.spokesman.com/stories/2026/apr/30/eric-trump-disappears-from-troubled-fintechs-publi/", "date": "2026-04-30", "read": "excerpt"},
+    {"title": "Threshold Editions to publish new memoir by Eric Trump, Under Siege", "publisher": "Trump Organization", "url": "https://www.trump.com/media/threshold-editions-to-publish-explosive-new-memoir-by-eric-trump-under-siege-my-familys-fight-to-save-the-nation/", "date": "2025-09-05", "read": "excerpt"},
+    {"title": "Lara Trump hired by Fox News for weekend show", "publisher": "AP (via Washington Times)", "url": "https://m.washingtontimes.com/news/2025/feb/5/lara-trump-hired-fox-news-weekend-show-network/", "date": "2025-02-05", "read": "excerpt"},
+    {"title": "Kimberly Guilfoyle financial disclosure", "publisher": "ProPublica", "url": "https://projects.propublica.org/trump-team-financial-disclosures/appointees/guilfoyle-kimberly", "date": "2025", "read": "excerpt"},
+    {"title": "Donald Trump Jr.'s former fiancee begged donor to pay her $100K AmEx bill: report", "publisher": "KUTV (Sinclair)", "url": "https://kutv.com/news/nation-world/donald-trump-jrs-former-girlfriend-begged-donor-to-pay-her-100k-amex-bill-report-kentucky-greece-gavin-newsom", "date": "2026-10", "read": "excerpt"},
+    {"title": "'These allegations are false': Kimberly Guilfoyle fires back", "publisher": "WND", "url": "https://www.wnd.com/2026/10/these-allegations-are-false-kimberly-guilfoyle-fires-back/", "date": "2026-10", "read": "excerpt"}
+  ],
+  "entities": [
+    {"id": "donald-trump-jr", "name": "Donald Trump Jr.", "type": "person", "description": "President's eldest son; 1789 Capital partner, corporate director and adviser; files no disclosure."},
+    {"id": "eric-trump", "name": "Eric Trump", "type": "person", "description": "President's son; runs the Trump Organization; co-founder and chief strategy officer of American Bitcoin."},
+    {"id": "melania-trump", "name": "Melania Trump", "type": "person", "description": "First Lady; 2025 income reported as spouse income on the President's OGE report."},
+    {"id": "barron-trump", "name": "Barron Trump", "type": "person", "description": "President's youngest son; listed as a World Liberty co-founder."},
+    {"id": "jared-kushner", "name": "Jared Kushner", "type": "person", "description": "Founder and sole owner of Affinity Partners; unpaid envoy."},
+    {"id": "ivanka-trump", "name": "Ivanka Trump", "type": "person", "description": "President's daughter; no documented 2025-26 income figure."},
+    {"id": "lara-trump", "name": "Lara Trump", "type": "person", "description": "Fox News weekend host since Feb 2025; salary undisclosed."},
+    {"id": "tiffany-trump", "name": "Tiffany Trump", "type": "person", "description": "President's daughter; no documented 2025-26 income."},
+    {"id": "michael-boulos", "name": "Michael Boulos", "type": "person", "description": "Tiffany Trump's husband."},
+    {"id": "massad-boulos", "name": "Massad Boulos", "type": "person", "description": "Senior adviser for Africa and Arab affairs; Tiffany Trump's father-in-law."},
+    {"id": "kimberly-guilfoyle", "name": "Kimberly Guilfoyle", "type": "person", "description": "Ambassador to Greece until resigning on 13 Oct 2026."},
+    {"id": "charles-kushner", "name": "Charles Kushner", "type": "person", "description": "Ambassador to France and Monaco; Jared Kushner's father."},
+    {"id": "trump-family-members-dt-marks", "name": "Trump Family Members (30% holders of DT Marks Defi and DT Marks SC)", "type": "person", "description": "Unnamed relatives listed on the President's OGE report as holding 30% of the entities receiving WLF and USD1 proceeds."},
+    {"id": "dt-marks-defi-llc", "name": "DT Marks DEFI LLC", "type": "company", "description": "Receives 75% of WLF net token-sale proceeds; owned 69% DTTM Operations, 1% member corp, 30% family members."},
+    {"id": "dt-marks-sc", "name": "DT Marks SC LLC", "type": "company", "description": "Holds 38.25% of Stablecoin Holdco (USD1); same 69/1/30 ownership."},
+    {"id": "mkt-world-llc", "name": "MKT World LLC", "type": "company", "description": "Melania Trump's company receiving film, NFT, memoir and speaking income."},
+    {"id": "designers-manager", "name": "Designers Manager", "type": "company", "description": "Licensing counterparty for Melania Trump's film, NFT and memoir proceeds."},
+    {"id": "amazon-mgm-studios", "name": "Amazon MGM Studios", "type": "company", "description": "Licensed the 'Melania' film and docuseries."},
+    {"id": "american-bitcoin", "name": "American Bitcoin", "type": "company", "description": "Nasdaq bitcoin miner majority-controlled by Hut 8; Eric Trump co-founder."},
+    {"id": "dominari-holdings", "name": "Dominari Holdings", "type": "company", "description": "Trump Tower-based broker-dealer holding company; the sons are advisers and shareholders."},
+    {"id": "new-america-acquisition-i", "name": "New America Acquisition I Corp", "type": "company", "description": "SPAC with 5M founder shares held by the sons."},
+    {"id": "grabagun", "name": "GrabAGun Digital Holdings", "type": "company", "description": "Online gun retailer; Don Jr. is a director."},
+    {"id": "unusual-machines", "name": "Unusual Machines", "type": "company", "description": "Drone component maker; Don Jr. is an adviser and shareholder."},
+    {"id": "psq-holdings", "name": "PSQ Holdings (PublicSquare)", "type": "company", "description": "Marketplace and fintech company; Don Jr. is a director."},
+    {"id": "kalshi", "name": "Kalshi", "type": "company", "description": "Prediction market; gave Don Jr. equity as strategic adviser."},
+    {"id": "polymarket", "name": "Polymarket", "type": "company", "description": "Prediction market; Don Jr. is on its advisory board."},
+    {"id": "1789-capital", "name": "1789 Capital", "type": "fund", "description": "Venture firm where Don Jr. is a partner."},
+    {"id": "affinity-partners", "name": "Affinity Partners", "type": "fund", "description": "Kushner's private equity firm, funded mostly by Gulf sovereign funds."},
+    {"id": "saudi-pif", "name": "Public Investment Fund (Saudi Arabia)", "type": "fund", "description": "Affinity's largest investor ($2B)."},
+    {"id": "senate-finance-committee", "name": "US Senate Finance Committee", "type": "government", "description": "Investigated Affinity Partners' foreign fees under Chairman Wyden."},
+    {"id": "ron-wyden", "name": "Ron Wyden", "type": "person", "description": "Senator who documented Affinity's foreign fees."},
+    {"id": "world-liberty-financial", "name": "World Liberty Financial", "type": "company", "description": "Trump-family crypto venture."},
+    {"id": "electronic-arts", "name": "Electronic Arts", "type": "company", "description": "Taken private in 2026 by PIF, Silver Lake and Affinity."},
+    {"id": "paramount-skydance", "name": "Paramount Skydance", "type": "company", "description": "Made a hostile bid for Warner Bros. Discovery that Affinity briefly backed."},
+    {"id": "forbes", "name": "Forbes", "type": "media", "description": "Publishes net-worth estimates for family members."},
+    {"id": "center-for-american-progress", "name": "Center for American Progress", "type": "company", "description": "Think tank tracking Trump crypto income."},
+    {"id": "fox-news", "name": "Fox News / Fox Business", "type": "media", "description": "Employs Lara Trump as a host."},
+    {"id": "donald-trump", "name": "Donald Trump", "type": "person", "description": "President; his OGE report is the only disclosure covering family income."}
+  ],
+  "relationships": [
+    {"source": "amazon-mgm-studios", "target": "melania-trump", "label": "film licence net proceeds reported (via MKT World/Designers Manager)", "type": "money", "date": "2025", "amount_usd": 10710000},
+    {"source": "designers-manager", "target": "melania-trump", "label": "NFT and collectible licence net proceeds reported", "type": "money", "date": "2025", "amount_usd": 6011259},
+    {"source": "designers-manager", "target": "melania-trump", "label": "memoir licence net proceeds reported", "type": "money", "date": "2025", "amount_usd": 521161},
+    {"source": "mkt-world-llc", "target": "melania-trump", "label": "spouse business entity", "type": "ownership", "date": "2025"},
+    {"source": "trump-family-members-dt-marks", "target": "dt-marks-defi-llc", "label": "owns 30% of", "type": "ownership", "date": "2025-12-31"},
+    {"source": "trump-family-members-dt-marks", "target": "dt-marks-sc", "label": "owns 30% of", "type": "ownership", "date": "2025-12-31"},
+    {"source": "donald-trump", "target": "dt-marks-defi-llc", "label": "owns 69% (via DTTM Operations) of", "type": "ownership", "date": "2025-12-31"},
+    {"source": "dt-marks-defi-llc", "target": "world-liberty-financial", "label": "entitled to 75% of net token-sale proceeds of", "type": "money", "date": "2025"},
+    {"source": "eric-trump", "target": "american-bitcoin", "label": "holds 68.4M pre-split shares (about 4.56M post-split) of", "type": "ownership", "date": "2026-04-10"},
+    {"source": "donald-trump-jr", "target": "american-bitcoin", "label": "undisclosed shareholding in", "type": "ownership", "date": "2025-12"},
+    {"source": "donald-trump-jr", "target": "dominari-holdings", "label": "adviser; 966,138 shares (6.71%) in", "type": "ownership", "date": "2025-02-21"},
+    {"source": "eric-trump", "target": "dominari-holdings", "label": "adviser; 966,138 shares (6.71%) in", "type": "ownership", "date": "2025-02-21"},
+    {"source": "eric-trump", "target": "new-america-acquisition-i", "label": "3M founder shares in", "type": "ownership", "date": "2025-12"},
+    {"source": "donald-trump-jr", "target": "new-america-acquisition-i", "label": "2M founder shares in", "type": "ownership", "date": "2025-12"},
+    {"source": "grabagun", "target": "donald-trump-jr", "label": "granted 300,000 shares to director", "type": "money", "date": "2025-07"},
+    {"source": "unusual-machines", "target": "donald-trump-jr", "label": "granted 200,000 advisory shares (331,580 held)", "type": "money", "date": "2024-11"},
+    {"source": "psq-holdings", "target": "donald-trump-jr", "label": "director (RSU-based pay, amounts unconfirmed)", "type": "advisory", "date": "2026"},
+    {"source": "kalshi", "target": "donald-trump-jr", "label": "granted >$300K of equity as strategic adviser", "type": "money", "date": "2025-01"},
+    {"source": "donald-trump-jr", "target": "polymarket", "label": "advisory board member of", "type": "advisory", "date": "2025-08-26"},
+    {"source": "donald-trump-jr", "target": "1789-capital", "label": "partner at", "type": "ownership", "date": "2024-11"},
+    {"source": "saudi-pif", "target": "affinity-partners", "label": "paid $87M of ~$157.5M foreign management fees (to Sept 2024)", "type": "money", "date": "2024-09", "amount_usd": 87000000},
+    {"source": "affinity-partners", "target": "jared-kushner", "label": "sole owner; scheduled $90M more foreign fees Sept 2024-Aug 2026", "type": "ownership", "date": "2024-09-24", "amount_usd": 90000000},
+    {"source": "senate-finance-committee", "target": "affinity-partners", "label": "documented fees from foreign investors of", "type": "regulatory", "date": "2024-09-24"},
+    {"source": "affinity-partners", "target": "electronic-arts", "label": "minority investor in take-private of", "type": "ownership", "date": "2026-08"},
+    {"source": "affinity-partners", "target": "paramount-skydance", "label": "withdrew financing for WBD bid by", "type": "commercial", "date": "2025-12-16"},
+    {"source": "barron-trump", "target": "world-liberty-financial", "label": "co-founder; Forbes estimates ~$40M token proceeds", "type": "money", "date": "2025-06"},
+    {"source": "fox-news", "target": "lara-trump", "label": "employs as weekend host", "type": "media", "date": "2025-02"},
+    {"source": "forbes", "target": "eric-trump", "label": "estimated net worth ~$280M", "type": "media", "date": "2026-04-28"},
+    {"source": "forbes", "target": "donald-trump-jr", "label": "estimated net worth ~$300M", "type": "media", "date": "2025-12-08"},
+    {"source": "forbes", "target": "jared-kushner", "label": "estimated net worth >$1B", "type": "media", "date": "2025-09"}
+  ],
+  "leads": [
+    {"title": "Who are the 'Trump Family Members' holding 30% of DT Marks Defi and DT Marks SC, and how is the 30% split?", "why_connected": "The President's OGE report shows that 30% of the WLF and USD1 receiving entities belongs to unnamed relatives; the split determines how much of the 2025 crypto income reached the sons and Barron.", "entities": ["trump-family-members-dt-marks", "dt-marks-defi-llc", "dt-marks-sc", "eric-trump", "donald-trump-jr", "barron-trump"], "source_url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"},
+    {"title": "Affinity Partners' actual fee receipts and Fund 1 term end in August 2026", "why_connected": "The Senate Finance letter scheduled $90M of foreign fees through Aug 2026; whether fees were extended, cut or replaced by carried interest on the EA deal is not public.", "entities": ["affinity-partners", "jared-kushner", "saudi-pif", "senate-finance-committee"], "source_url": "https://www.finance.senate.gov/imo/media/doc/chairman_wyden_to_affinity_partnerspdf.pdf"},
+    {"title": "Unpaid balance of the Amazon 'Melania' licence", "why_connected": "Only $10.71M of a reported $40M deal (WSJ: more than 70% to her) appears in the 2025 disclosure; the 2026 report should show any later payments, including for the docuseries.", "entities": ["melania-trump", "amazon-mgm-studios", "mkt-world-llc"], "source_url": "https://au.variety.com/2026/film/news/trump-fee-payment-amazon-melania-documentary-38206/"},
+    {"title": "Kalshi's reported termination of Don Jr.'s advisory contract and the fate of his equity", "why_connected": "A Nov 2026 report says Kalshi ended the contract over his Polymarket role; his equity, worth an estimated ~$6M on paper, could be material in a Kalshi IPO filing.", "entities": ["donald-trump-jr", "kalshi", "polymarket"], "source_url": "https://unchainedcrypto.com/donald-trump-jr-leaves-kalshi-keeps-polymarket-role-a-week-after-democrats-win-congress/"},
+    {"title": "CREW lawsuit over Kushner's filing obligations", "why_connected": "If a court requires Kushner to file an OGE disclosure, his Affinity income would become public for the first time.", "entities": ["jared-kushner", "affinity-partners"], "source_url": "https://www.axios.com/2026/03/16/jared-kushner-affinity-partners"}
+  ]
+}

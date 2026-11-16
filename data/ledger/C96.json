@@ -1,0 +1,823 @@
+[
+  {
+    "id": "C96-01",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "world-liberty-financial",
+    "category": "crypto",
+    "kind": "reported-income",
+    "amount_low_usd": 526810321,
+    "amount_high_usd": 526810321,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "Sum of lines 124.3-124.12 of the 2026 OGE 278e: token-sale proceeds distributed by World Liberty Financial to DT Marks DEFI ($236.25M cash plus nine crypto-wallet lines).",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "https://www.ksl.com/article/51583356/trump-reports-over-14-billion-in-income-from-crypto-ventures"
+    ],
+    "notes": "Entity total. DT Marks DEFI/SC are 69% DTTM Operations, 1% DTTM member corp, 30% 'Trump Family Members', so Trump's indirect share is about 70%. Crypto lines are valued as reported; later price falls are not reflected. Same money appears in C29/C42 as '$515-529M' or 'more than $520M'."
+  },
+  {
+    "id": "C96-02",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "wlf-holdco",
+    "category": "crypto",
+    "kind": "reported-income",
+    "amount_low_usd": 65625000,
+    "amount_high_usd": 65625000,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "Line 124.2: net proceeds from DT Marks DEFI's sale of equity in WLF Holdco LLC.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
+    ],
+    "notes": "Entity total. DT Marks DEFI/SC are 69% DTTM Operations, 1% DTTM member corp, 30% 'Trump Family Members', so Trump's indirect share is about 70%. Buyer is not named on the form. AP and others link 2025 equity sales to the Aryam 49% purchase; that link is press reporting, not the form."
+  },
+  {
+    "id": "C96-03",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "stablecoin-holdco",
+    "category": "crypto",
+    "kind": "reported-income",
+    "amount_low_usd": 196875000,
+    "amount_high_usd": 196875000,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "Line 114: DT Marks SC LLC net proceeds from a capital contribution by new member(s) of Stablecoin Holdco LLC (USD1 business) and sale of Class C units.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "https://news.bloomberglaw.com/crypto/trumps-1-4-billion-haul-makes-him-biggest-us-crypto-moneymaker",
+      "https://www.pbs.org/newshour/politics/how-crypto-real-estate-and-watches-added-up-for-trump-last-year"
+    ],
+    "notes": "Entity total. DT Marks DEFI/SC are 69% DTTM Operations, 1% DTTM member corp, 30% 'Trump Family Members', so Trump's indirect share is about 70%. Reuters counts this inside its 'almost $800M from World Liberty' and '$250M from sale of interests'; Bloomberg first left it out. Do not add again to any WLF total that already includes it."
+  },
+  {
+    "id": "C96-04",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "trump-coin",
+    "category": "crypto",
+    "kind": "reported-income",
+    "amount_low_usd": 635068835,
+    "amount_high_usd": 635068835,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "Line 21.6: royalties to CIC Digital LLC (100% Trump trust) under a licence agreement with 'Celebration Coins'.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "https://www.ksl.com/article/51583356/trump-reports-over-14-billion-in-income-from-crypto-ventures",
+      "https://www.pbs.org/newshour/politics/how-crypto-real-estate-and-watches-added-up-for-trump-last-year"
+    ],
+    "notes": "Gross royalty to the Trump entity; it says nothing about buyer losses. Includes sales in the 3 days before the inauguration. Same figure as C29/C01."
+  },
+  {
+    "id": "C96-05",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "cic-digital / dt-marks-defi",
+    "category": "crypto",
+    "kind": "reported-income",
+    "amount_low_usd": 2879209,
+    "amount_high_usd": 2879209,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "Lines 21.3, 21.4a, 21.7, 124.5a, 124.6a: JBCZ Group sublicence $493,846, ETH staking rewards $2,332,436 and USDC interest $52,927.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
+    ],
+    "notes": "The $1.82M of staking on DT Marks DEFI is subject to the 30% family share."
+  },
+  {
+    "id": "C96-06",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "damac-properties / dar-al-arkan",
+    "category": "licensing",
+    "kind": "reported-income",
+    "amount_low_usd": 22951343,
+    "amount_high_usd": 22951343,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "2026 OGE 278e licence, development or management fees attributed to UAE, summed by us from the filing lines.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "https://www.forbes.com/sites/danalexander/2026/07/08/trumps-foreign-licensing-business-grew-900-as-he-returned-to-power/",
+      "https://politicalwire.com/2026/08/10/trumps-foreign-licensing-income-surged/"
+    ],
+    "notes": "Damac: Abu Dhabi $5M, Al Raha Beach $5M, Dubai $1,335,140, Dubai golf management $1,254,744; Dar Al Arkan: Dubai DG $10,361,459. Most licensing LLCs are 79% DTTM Operations, 20% 'Trump Family Members', 1% member corp. Country totals are our grouping; Forbes ($61M), CNBC ($59.5M) and CREW (>$117M foreign revenue) draw the line differently."
+  },
+  {
+    "id": "C96-07",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "dar-al-arkan",
+    "category": "licensing",
+    "kind": "reported-income",
+    "amount_low_usd": 9243574,
+    "amount_high_usd": 9243574,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "2026 OGE 278e licence, development or management fees attributed to Saudi Arabia, summed by us from the filing lines.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "https://www.forbes.com/sites/danalexander/2026/07/08/trumps-foreign-licensing-business-grew-900-as-he-returned-to-power/",
+      "https://politicalwire.com/2026/08/10/trumps-foreign-licensing-income-surged/"
+    ],
+    "notes": "DT Marks KSA, licensee Dar Al Arkan Properties. Most licensing LLCs are 79% DTTM Operations, 20% 'Trump Family Members', 1% member corp. Country totals are our grouping; Forbes ($61M), CNBC ($59.5M) and CREW (>$117M foreign revenue) draw the line differently."
+  },
+  {
+    "id": "C96-08",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "dar-global",
+    "category": "licensing",
+    "kind": "reported-income",
+    "amount_low_usd": 5250000,
+    "amount_high_usd": 5250000,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "2026 OGE 278e licence, development or management fees attributed to Qatar, summed by us from the filing lines.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "https://www.forbes.com/sites/danalexander/2026/07/08/trumps-foreign-licensing-business-grew-900-as-he-returned-to-power/",
+      "https://politicalwire.com/2026/08/10/trumps-foreign-licensing-income-surged/"
+    ],
+    "notes": "DT Marks Doha, licensee Dar Global Holdings for Real Estate; booked as an intercompany receivable. Most licensing LLCs are 79% DTTM Operations, 20% 'Trump Family Members', 1% member corp. Country totals are our grouping; Forbes ($61M), CNBC ($59.5M) and CREW (>$117M foreign revenue) draw the line differently."
+  },
+  {
+    "id": "C96-09",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "dar-al-arkan",
+    "category": "licensing",
+    "kind": "reported-income",
+    "amount_low_usd": 949642,
+    "amount_high_usd": 949642,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "2026 OGE 278e licence, development or management fees attributed to Oman, summed by us from the filing lines.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "https://www.forbes.com/sites/danalexander/2026/07/08/trumps-foreign-licensing-business-grew-900-as-he-returned-to-power/",
+      "https://politicalwire.com/2026/08/10/trumps-foreign-licensing-income-surged/"
+    ],
+    "notes": "DT Marks Oman, licensee Dar Al Arkan Property Development SPC. Most licensing LLCs are 79% DTTM Operations, 20% 'Trump Family Members', 1% member corp. Country totals are our grouping; Forbes ($61M), CNBC ($59.5M) and CREW (>$117M foreign revenue) draw the line differently."
+  },
+  {
+    "id": "C96-10",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "trump-organization",
+    "category": "licensing",
+    "kind": "reported-income",
+    "amount_low_usd": 10210685,
+    "amount_high_usd": 10210685,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "2026 OGE 278e licence, development or management fees attributed to India, summed by us from the filing lines.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "https://www.forbes.com/sites/danalexander/2026/07/08/trumps-foreign-licensing-business-grew-900-as-he-returned-to-power/",
+      "https://politicalwire.com/2026/08/10/trumps-foreign-licensing-income-surged/"
+    ],
+    "notes": "Gurgaon 69 $3,637,775; Gurgaon $1,795,363; Hyderabad $1.5M (licensees include Reliance 4IR Realty); Noida 94 $1.5M; Pune Mundhwa $1.5M; Worli $180,850; Kolkata $96,697. Most licensing LLCs are 79% DTTM Operations, 20% 'Trump Family Members', 1% member corp. Country totals are our grouping; Forbes ($61M), CNBC ($59.5M) and CREW (>$117M foreign revenue) draw the line differently."
+  },
+  {
+    "id": "C96-11",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "trump-organization",
+    "category": "licensing",
+    "kind": "reported-income",
+    "amount_low_usd": 5000000,
+    "amount_high_usd": 5000000,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "2026 OGE 278e licence, development or management fees attributed to Vietnam, summed by us from the filing lines.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "https://www.forbes.com/sites/danalexander/2026/07/08/trumps-foreign-licensing-business-grew-900-as-he-returned-to-power/",
+      "https://politicalwire.com/2026/08/10/trumps-foreign-licensing-income-surged/"
+    ],
+    "notes": "DT Marks Vietnam, licensee Hung Yen Hospitality Services. Most licensing LLCs are 79% DTTM Operations, 20% 'Trump Family Members', 1% member corp. Country totals are our grouping; Forbes ($61M), CNBC ($59.5M) and CREW (>$117M foreign revenue) draw the line differently."
+  },
+  {
+    "id": "C96-12",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "trump-organization",
+    "category": "licensing",
+    "kind": "reported-income",
+    "amount_low_usd": 5000000,
+    "amount_high_usd": 5000000,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "2026 OGE 278e licence, development or management fees attributed to Romania, summed by us from the filing lines.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "https://www.forbes.com/sites/danalexander/2026/07/08/trumps-foreign-licensing-business-grew-900-as-he-returned-to-power/",
+      "https://politicalwire.com/2026/08/10/trumps-foreign-licensing-income-surged/"
+    ],
+    "notes": "DT Marks Bucharest, licensee SDC Imobiliare. Most licensing LLCs are 79% DTTM Operations, 20% 'Trump Family Members', 1% member corp. Country totals are our grouping; Forbes ($61M), CNBC ($59.5M) and CREW (>$117M foreign revenue) draw the line differently."
+  },
+  {
+    "id": "C96-13",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "base-group",
+    "category": "licensing",
+    "kind": "reported-income",
+    "amount_low_usd": 2000000,
+    "amount_high_usd": 2000000,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "2026 OGE 278e licence, development or management fees attributed to South Korea, summed by us from the filing lines.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "https://www.forbes.com/sites/danalexander/2026/07/08/trumps-foreign-licensing-business-grew-900-as-he-returned-to-power/",
+      "https://politicalwire.com/2026/08/10/trumps-foreign-licensing-income-surged/"
+    ],
+    "notes": "Trump Acquisition LLC: non-refundable development fee under a letter of intent with Base Co. Ltd. Most licensing LLCs are 79% DTTM Operations, 20% 'Trump Family Members', 1% member corp. Country totals are our grouping; Forbes ($61M), CNBC ($59.5M) and CREW (>$117M foreign revenue) draw the line differently."
+  },
+  {
+    "id": "C96-14",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "trump-organization",
+    "category": "licensing",
+    "kind": "reported-income",
+    "amount_low_usd": 1589419,
+    "amount_high_usd": 1589419,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "2026 OGE 278e licence, development or management fees attributed to Philippines, summed by us from the filing lines.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "https://www.forbes.com/sites/danalexander/2026/07/08/trumps-foreign-licensing-business-grew-900-as-he-returned-to-power/",
+      "https://politicalwire.com/2026/08/10/trumps-foreign-licensing-income-surged/"
+    ],
+    "notes": "DT Marks Philippines SV $1.5M; Trump Marks Philippines $89,419. Most licensing LLCs are 79% DTTM Operations, 20% 'Trump Family Members', 1% member corp. Country totals are our grouping; Forbes ($61M), CNBC ($59.5M) and CREW (>$117M foreign revenue) draw the line differently."
+  },
+  {
+    "id": "C96-15",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "trump-organization",
+    "category": "licensing",
+    "kind": "reported-income",
+    "amount_low_usd": 578190,
+    "amount_high_usd": 578190,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "2026 OGE 278e licence, development or management fees attributed to Turkey, summed by us from the filing lines.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "https://www.forbes.com/sites/danalexander/2026/07/08/trumps-foreign-licensing-business-grew-900-as-he-returned-to-power/",
+      "https://politicalwire.com/2026/08/10/trumps-foreign-licensing-income-surged/"
+    ],
+    "notes": "Trump Marks Istanbul II. Most licensing LLCs are 79% DTTM Operations, 20% 'Trump Family Members', 1% member corp. Country totals are our grouping; Forbes ($61M), CNBC ($59.5M) and CREW (>$117M foreign revenue) draw the line differently."
+  },
+  {
+    "id": "C96-16",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "trump-organization",
+    "category": "licensing",
+    "kind": "reported-income",
+    "amount_low_usd": 284398,
+    "amount_high_usd": 284398,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "2026 OGE 278e licence, development or management fees attributed to Indonesia, summed by us from the filing lines.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "https://www.forbes.com/sites/danalexander/2026/07/08/trumps-foreign-licensing-business-grew-900-as-he-returned-to-power/",
+      "https://politicalwire.com/2026/08/10/trumps-foreign-licensing-income-surged/"
+    ],
+    "notes": "DT Lido Golf Manager management fees. Most licensing LLCs are 79% DTTM Operations, 20% 'Trump Family Members', 1% member corp. Country totals are our grouping; Forbes ($61M), CNBC ($59.5M) and CREW (>$117M foreign revenue) draw the line differently."
+  },
+  {
+    "id": "C96-17",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "mar-a-lago",
+    "category": "property",
+    "kind": "reported-income",
+    "amount_low_usd": 77482488,
+    "amount_high_usd": 77482488,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "Line 180: Mar-a-Lago Club LLC revenue.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "https://www.ksl.com/article/51583356/trump-reports-over-14-billion-in-income-from-crypto-ventures",
+      "https://www.pbs.org/newshour/politics/how-crypto-real-estate-and-watches-added-up-for-trump-last-year"
+    ],
+    "notes": "Gross revenue, not profit. Up from $50.1M in 2024 (row for 2024 below)."
+  },
+  {
+    "id": "C96-18",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "trump-national-doral",
+    "category": "property",
+    "kind": "reported-income",
+    "amount_low_usd": 121861496,
+    "amount_high_usd": 121861496,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "Line 293: Trump Endeavor 12 LLC golf and hotel revenue.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "https://en.politis.com.cy/news/world/1016063/trump-made-at-least-22-billion-in-first-year-back-in-office-filing-shows"
+    ],
+    "notes": "Gross revenue. Property is mortgaged to Axos Bank (over $50M)."
+  },
+  {
+    "id": "C96-19",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "trump-organization (US golf clubs)",
+    "category": "property",
+    "kind": "reported-income",
+    "amount_low_usd": 216610773,
+    "amount_high_usd": 216610773,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "Sum of 11 other US golf club lines (Jupiter, Bedminster, West Palm Beach, Charlotte, Hudson Valley, Pine Hill, Briarcliff, Colts Neck, DC, Los Angeles, Charlottesville).",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
+    ],
+    "notes": "Gross revenue. With Mar-a-Lago and Doral the 13 US lines total $415.95M (our sum); Reuters' 'just over $500M' and AP's '>$470M' use wider sets."
+  },
+  {
+    "id": "C96-20",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "trump-organization (UK and Ireland resorts)",
+    "category": "property",
+    "kind": "reported-income",
+    "amount_low_usd": 57476598,
+    "amount_high_usd": 63962276,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "Turnberry GBP 23,640,577 and Aberdeen GBP 6,738,799; Doonbeg EUR 14,151,905 plus EUR 4,782,443, as listed. Converted by us at GBP 1.25-1.37 and EUR 1.03-1.18.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "https://www.irishtimes.com/business/2026/07/02/doonbeg-golf-course-delivers-close-to-20m-income-for-donald-trump-notes-us-filing/"
+    ],
+    "notes": "The native-currency amounts are documented; the dollar range is our conversion, not the filing's."
+  },
+  {
+    "id": "C96-21",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "trump-organization (Chicago and Las Vegas hotels)",
+    "category": "property",
+    "kind": "reported-income",
+    "amount_low_usd": 63470060,
+    "amount_high_usd": 63470060,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "401 North Wabash Venture (Chicago) $38,537,526 and Trump Ruffin Tower I (Las Vegas) $24,932,534 hotel-related revenue.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
+    ],
+    "notes": "Gross revenue. Chicago was reported only as rent 'Over $5,000,000' in 2024, so year-on-year change is not comparable."
+  },
+  {
+    "id": "C96-22",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "trump-organization (commercial and residential rents)",
+    "category": "property",
+    "kind": "reported-income",
+    "amount_low_usd": 24106725,
+    "amount_high_usd": null,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "Lower bound of rent brackets: 3 lines 'Over $5,000,000' (40 Wall, 57th Street, Trump Tower Commercial), 8 lines $1M-$5M, 7 lines $100K-$1M, plus $406,707 of short-term rentals.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "https://www.thenationalnews.com/business/money/2026/07/01/trump-made-over-14-billion-in-crypto-last-year/"
+    ],
+    "notes": "Upper bound open (null) because 'Over $5,000,000' has no ceiling. Reuters notes most rent ranges were the same or lower than a decade earlier."
+  },
+  {
+    "id": "C96-23",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "trump-organization (other operating revenue)",
+    "category": "other",
+    "kind": "reported-income",
+    "amount_low_usd": 84266495,
+    "amount_high_usd": 84266495,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "Sum of operating lines: Trump Corp $18.8M, Trump Organization LLC $30.2M, T Retail $8.4M, T Tower Retail $4.2M, THC Sales & Marketing $7.2M, restaurants $7.2M, realty commissions $2.3M, hotel and club management fees $4.9M, other.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
+    ],
+    "notes": "High double-counting risk: management, sales-and-marketing and reservation fees are likely charged to Trump's own hotels and clubs, and the $30.2M Trump Organization LLC line includes unspecified 'legal settlements' that may overlap row C96-29."
+  },
+  {
+    "id": "C96-24",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "cic-ventures (books)",
+    "category": "merchandise",
+    "kind": "reported-income",
+    "amount_low_usd": 3037380,
+    "amount_high_usd": 3037380,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "Save America $1,893,965; Letters to Trump $590,730; A MAGA Journey $552,685.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "https://www.pbs.org/newshour/politics/how-crypto-real-estate-and-watches-added-up-for-trump-last-year"
+    ],
+    "notes": "Royalties. Older titles add $109,704-$1,026,000 in ranges, not included."
+  },
+  {
+    "id": "C96-25",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "god-bless-the-usa-bible",
+    "category": "merchandise",
+    "kind": "reported-income",
+    "amount_low_usd": 208486,
+    "amount_high_usd": 208486,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "Line 24.5: Greenwood Bible royalty.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "https://www.pbs.org/newshour/politics/how-crypto-real-estate-and-watches-added-up-for-trump-last-year"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "C96-26",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "trump-watches",
+    "category": "merchandise",
+    "kind": "reported-income",
+    "amount_low_usd": 4700000,
+    "amount_high_usd": 4700000,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "Line 24.6: Trump Watches royalty (Best Watches on Earth LLC).",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "https://www.pbs.org/newshour/politics/how-crypto-real-estate-and-watches-added-up-for-trump-last-year"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "C96-27",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "trump-sneakers",
+    "category": "merchandise",
+    "kind": "reported-income",
+    "amount_low_usd": 67634,
+    "amount_high_usd": 67634,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "Line 24.7: Trump Sneakers & Fragrances royalty (45Footwear LLC).",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "https://www.pbs.org/newshour/politics/how-crypto-real-estate-and-watches-added-up-for-trump-last-year"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "C96-28",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "45 guitar",
+    "category": "merchandise",
+    "kind": "reported-income",
+    "amount_low_usd": 35920,
+    "amount_high_usd": 35920,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "Line 24.8: '45' Guitar royalty (LMA Productions).",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "https://www.pbs.org/newshour/politics/how-crypto-real-estate-and-watches-added-up-for-trump-last-year"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "C96-29",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "media settlements",
+    "category": "settlement",
+    "kind": "reported-income",
+    "amount_low_usd": 86500000,
+    "amount_high_usd": 86500000,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "Line 431: X Corp. $8M; ABC $16M, CBS $16M, Meta $24.5M (net proceeds to the presidential library foundation); Alphabet/YouTube $22M (to the Trust for the National Mall).",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "https://www.pbs.org/newshour/politics/how-crypto-real-estate-and-watches-added-up-for-trump-last-year",
+      "https://www.ksl.com/article/51583356/trump-reports-over-14-billion-in-income-from-crypto-ventures"
+    ],
+    "notes": "Listed on Trump's form, but $78.5M was paid to the library foundation or the Trust for the National Mall rather than to him; see C33. May overlap the Trump Organization LLC line in C96-23."
+  },
+  {
+    "id": "C96-30",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "speaking (CIC Ventures)",
+    "category": "other",
+    "kind": "reported-income",
+    "amount_low_usd": 200000,
+    "amount_high_usd": 200000,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "Line 24.1: balance for a 4 Dec 2022 fundraising event in Naples, Florida, paid in May 2025.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
+    ],
+    "notes": "Earned before the term; paid during it."
+  },
+  {
+    "id": "C96-31",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "SAG and AFTRA pensions",
+    "category": "other",
+    "kind": "reported-income",
+    "amount_low_usd": 86532,
+    "amount_high_usd": 86532,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "Lines 423.1-423.2: SAG $77,808 and AFTRA $8,724.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "C96-32",
+    "recipient": "melania-trump",
+    "recipient_name": "Melania Trump",
+    "venture": "melania-documentary / MKT World LLC",
+    "category": "media",
+    "kind": "reported-income",
+    "amount_low_usd": 17242420,
+    "amount_high_usd": 17242420,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "Part 5: spouse's MKT World LLC net proceeds: film 'Melania' $10,710,000; NFTs and collectibles $6,011,259; book $521,161.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
+    ],
+    "notes": "Spouse's income, not the filer's. See C44 for the Amazon film deal; do not double count."
+  },
+  {
+    "id": "C96-33",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "world-liberty-financial",
+    "category": "crypto",
+    "kind": "reported-income",
+    "amount_low_usd": 57355532,
+    "amount_high_usd": 57355532,
+    "period": "2024-01 to 2024-12",
+    "as_of": "2025-06-13",
+    "basis": "Line 391 of the 2025 OGE 278e: World Liberty Financial, Inc. token sales.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump,%20Donald%20J.%202025%20Annual%20278.pdf",
+      "https://www.thestar.com.my/tech/tech-news/2025/06/15/trump-reports-more-than-600-million-in-income-from-crypto-golf-licensing-fees"
+    ],
+    "notes": "Booked at World Liberty Financial, Inc. (100% WLF Holdco, then 75% DT Marks DEFI), not a distribution to Trump; DT Marks DEFI shows no 2024 income. Mostly from before the term."
+  },
+  {
+    "id": "C96-34",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "cic-digital (NFTs)",
+    "category": "crypto",
+    "kind": "reported-income",
+    "amount_low_usd": 1157490,
+    "amount_high_usd": 1157490,
+    "period": "2024-01 to 2024-12",
+    "as_of": "2025-06-13",
+    "basis": "Lines 21.3-21.4: NFT INT LLC licence fees $1,057,490 and royalty $100,000.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump,%20Donald%20J.%202025%20Annual%20278.pdf",
+      "https://www.thestar.com.my/tech/tech-news/2025/06/15/trump-reports-more-than-600-million-in-income-from-crypto-golf-licensing-fees"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "C96-35",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "mar-a-lago",
+    "category": "property",
+    "kind": "reported-income",
+    "amount_low_usd": 50122259,
+    "amount_high_usd": 50122259,
+    "period": "2024-01 to 2024-12",
+    "as_of": "2025-06-13",
+    "basis": "Line 149: Mar-a-Lago Club LLC revenue, calendar 2024.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump,%20Donald%20J.%202025%20Annual%20278.pdf",
+      "https://www.thestar.com.my/tech/tech-news/2025/06/15/trump-reports-more-than-600-million-in-income-from-crypto-golf-licensing-fees"
+    ],
+    "notes": "Before the term."
+  },
+  {
+    "id": "C96-36",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "trump-national-doral",
+    "category": "property",
+    "kind": "reported-income",
+    "amount_low_usd": 110418239,
+    "amount_high_usd": 110418239,
+    "period": "2024-01 to 2024-12",
+    "as_of": "2025-06-13",
+    "basis": "Line 269: Trump Endeavor 12 LLC revenue, calendar 2024.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump,%20Donald%20J.%202025%20Annual%20278.pdf",
+      "https://www.thestar.com.my/tech/tech-news/2025/06/15/trump-reports-more-than-600-million-in-income-from-crypto-golf-licensing-fees"
+    ],
+    "notes": "Before the term."
+  },
+  {
+    "id": "C96-37",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "trump-organization (US golf clubs)",
+    "category": "property",
+    "kind": "reported-income",
+    "amount_low_usd": 189522365,
+    "amount_high_usd": 189522365,
+    "period": "2024-01 to 2024-12",
+    "as_of": "2025-06-13",
+    "basis": "Sum of the same 11 other US golf club lines, calendar 2024.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump,%20Donald%20J.%202025%20Annual%20278.pdf"
+    ],
+    "notes": "13 US lines total $350.06M (our sum)."
+  },
+  {
+    "id": "C96-38",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "trump-organization (UK and Ireland resorts)",
+    "category": "property",
+    "kind": "reported-income",
+    "amount_low_usd": 55400122,
+    "amount_high_usd": 59629212,
+    "period": "2024-01 to 2024-12",
+    "as_of": "2025-06-13",
+    "basis": "Turnberry GBP 24,228,853; Aberdeen GBP 4,471,993; Doonbeg EUR 13,005,071 plus EUR 6,409,300. Converted by us at GBP 1.22-1.32 and EUR 1.05-1.12.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump,%20Donald%20J.%202025%20Annual%20278.pdf"
+    ],
+    "notes": "Dollar range is our conversion."
+  },
+  {
+    "id": "C96-39",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "trump-organization (foreign licensing and development)",
+    "category": "licensing",
+    "kind": "reported-income",
+    "amount_low_usd": 45785457,
+    "amount_high_usd": 45785457,
+    "period": "2024-01 to 2024-12",
+    "as_of": "2025-06-13",
+    "basis": "Sum of 2024 foreign fee lines: Dar Al Arkan via DT Marks KSA (located Dubai) $15.88M; Reliance 4IR Realty development fee $10M; Dubai DG $5M; Dubai (Damac) $5.21M; Vietnam $5M; Dubai golf management $1.08M; India $2.30M; Oman $1.01M; Turkey and Philippines $0.30M.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump,%20Donald%20J.%202025%20Annual%20278.pdf",
+      "https://www.thestar.com.my/tech/tech-news/2025/06/15/trump-reports-more-than-600-million-in-income-from-crypto-golf-licensing-fees"
+    ],
+    "notes": "CNBC's 2025 'up 71%' implies a narrower 2024 base (about $35M) that leaves out development and management fees."
+  },
+  {
+    "id": "C96-40",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "cic-ventures (books and merchandise)",
+    "category": "merchandise",
+    "kind": "reported-income",
+    "amount_low_usd": 11066219,
+    "amount_high_usd": 11066219,
+    "period": "2024-01 to 2024-12",
+    "as_of": "2025-06-13",
+    "basis": "Save America $3M; Letters to Trump $250,000; A MAGA Journey $155,084; Greenwood Bible $1,306,035; watches $2.8M; sneakers and fragrances $2.5M; '45' guitar $1,055,100.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump,%20Donald%20J.%202025%20Annual%20278.pdf",
+      "https://www.thestar.com.my/tech/tech-news/2025/06/15/trump-reports-more-than-600-million-in-income-from-crypto-golf-licensing-fees",
+      "https://www.forbes.com/sites/zacheverson/2025/06/14/trump-book-earnings-financial-disclosure/"
+    ],
+    "notes": "Before the term."
+  },
+  {
+    "id": "C96-41",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "trump-media-technology-group",
+    "category": "media",
+    "kind": "reported-income",
+    "amount_low_usd": 779329,
+    "amount_high_usd": 779329,
+    "period": "2024-01 to 2024-12",
+    "as_of": "2025-06-13",
+    "basis": "Line 330: TMTG Sub business income $710,598 plus advertising receivables $68,731, earned only through the 25 Mar 2024 merger.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump,%20Donald%20J.%202025%20Annual%20278.pdf"
+    ],
+    "notes": "No TMTG income is reported for 2025."
+  },
+  {
+    "id": "C96-42",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "trump-organization (all businesses)",
+    "category": "other",
+    "kind": "reported-income",
+    "amount_low_usd": 732087841,
+    "amount_high_usd": 782488057,
+    "period": "2023-01 to 2024-08",
+    "as_of": "2024-08-15",
+    "basis": "CREW's computation from the August 2024 candidate report: business income of at least $732.1M and possibly over $782.5M from 1 Jan 2023.",
+    "grade": "single-source",
+    "sources": [
+      "https://www.citizensforethics.org/reports-investigations/crew-investigations/trump-reported-700-million-of-business-income-hundreds-of-millions-in-debt-on-latest-financial-disclosure/"
+    ],
+    "notes": "The PDF was not read here. The period is about 19 months, so it is not comparable with the annual rows. It includes Doral $160M, Mar-a-Lago about $56M, and NFTs about $7M."
+  },
+  {
+    "id": "C96-43",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "mar-a-lago",
+    "category": "property",
+    "kind": "reported-income",
+    "amount_low_usd": 56000000,
+    "amount_high_usd": 56900000,
+    "period": "2023-01 to 2024-08",
+    "as_of": "2024-08-15",
+    "basis": "Mar-a-Lago revenue on the August 2024 candidate report: $56M per CREW, more than $56.9M per Axios.",
+    "grade": "documented",
+    "sources": [
+      "https://www.citizensforethics.org/reports-investigations/crew-investigations/trump-reported-700-million-of-business-income-hundreds-of-millions-in-debt-on-latest-financial-disclosure/",
+      "https://www.axios.com/2024/08/16/trump-financial-disclosure-2024"
+    ],
+    "notes": "The period differs from the annual reports. Overlaps the CREW total row."
+  }
+]
