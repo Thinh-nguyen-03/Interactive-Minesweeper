@@ -79,3 +79,18 @@ Rules for rewriting text in `data/claims/<ID>.json` and `research/<ID>-*.md` (re
 - Keep JSON valid. In the report, rename headings such as "What the video says" to "The claim". Keep the audit sections but reword any video references in them.
 - Neutral tone throughout. Everyone named denies wrongdoing; nothing is an accusation of a crime.
 - When finished, grep your files (case-insensitive) for: video, coffeezilla, transcript, narrator, youtube (as a reference to the source video; YouTube the company in the settlement story stays), "the clip", "host" — and fix every remaining reference.
+
+## Balance-sheet research (C95 to C100, 16 Nov) and the ledger
+
+These checks test the claim that Donald Trump takes no presidential salary against what he and his family have earned during the term. Network access is open: read original documents (OGE Form 278e filings, SEC filings on EDGAR via efts/full-text search or third-party mirrors if sec.gov blocks, court records, White House and agency releases, company statements) with WebFetch wherever possible, and say in `sources` which were read in full (`"read": "full"`) and which are search excerpts (`"read": "excerpt"`). Prefer primary documents; where a figure exists in an older check (C11, C29, C42 and others), re-verify it against the primary source and record any difference under `corrections`.
+
+Besides the usual `data/claims/Cxx.json` and `research/Cxx-<slug>.md`, write `data/ledger/Cxx.json`: a list of rows, one per documented sum, each:
+
+    {"id": "Cxx-01", "recipient": "<entity id>", "recipient_name": "...", "venture": "<entity id or short name>",
+     "category": "salary | crypto | media | licensing | property | merchandise | fund-fees | settlement | other",
+     "kind": "cash-received | reported-income | paper-value | salary-forgone | settlement-paid | estimate",
+     "amount_low_usd": 0, "amount_high_usd": 0, "period": "2025-01 to 2026-06", "as_of": "YYYY-MM-DD",
+     "basis": "one plain sentence on what the number is and who states it",
+     "grade": "documented | single-source | inferred", "sources": ["url", "..."], "notes": "double-counting risks, disputes, denials"}
+
+Rules: never add paper value to cash; never present income earned during the presidency as income earned because of it; record the response of those named; flag overlaps between rows (the same money reported two ways) in `notes`; ranges, not false precision. Neutral wording; no mention of any video or creator.
