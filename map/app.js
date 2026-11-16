@@ -27,6 +27,7 @@
     if (low === 'names') return BASE + 'names/';
     if (low === 'method') return BASE + 'method/';
     if (low === 'balance') return BASE + 'balance/';
+    if ((m = /^balance-(.+)$/i.exec(key))) return BASE + 'balance/#' + m[1];
     if (/^topic-./.test(low)) return BASE + 'checks/#' + low;
     if ((m = /^name-(.+)$/.exec(low))) return BASE + 'names/' + encodeURIComponent(m[1]) + '/';
     if (/^c\d+[a-z]?$/.test(low)) return BASE + 'checks/' + key.toUpperCase() + '/';
@@ -62,7 +63,7 @@
     if (seg[0] === 'names' && seg.length === 1) return 'names';
     if (seg[0] === 'names' && seg.length === 2) return 'name-' + seg[1];
     if (seg[0] === 'method' && seg.length === 1) return 'method';
-    if (seg[0] === 'balance' && seg.length === 1) return 'balance';
+    if (seg[0] === 'balance' && seg.length === 1) return hash ? 'balance-' + hash : 'balance';
     if (seg[0] === 'map' && seg.length === 1) return hash ? 'map-' + hash : 'map';
     if (seg[0] === 'map' && seg[1] === 'matrix' && seg.length === 2) return hash === 'topics' ? 'map-matrix-topics' : 'map-matrix';
     if (seg[0] === 'map' && seg[1] === 'topic' && seg.length === 3) return 'map-topic-' + seg[2];
@@ -979,9 +980,9 @@
     spy();
   }
   // ------------------------------------------------------------------ the balance sheet
-  /* The page is written in data/balance-sheet.json and resolved by build.py: every amount arrives already computed from
-     named ledger rows (G.ledger.sheet). This only lays it out. In the artifact the ledger is in memory; on the site it is
-     one file, fetched when the page is opened, and the pre-built page stays on screen until it arrives. */
+  /* A workspace like the map: a toolbar, a figure and a dossier. The page is written in data/balance-sheet.json and
+     resolved by build.py: every amount arrives already computed from named ledger rows (G.ledger.sheet), so nothing is
+     summed here. In the artifact the ledger is in memory; on the site it is one file, fetched when the page is opened. */
   var LEDGER_ON = !!(G.ledger || (SITE && SITE.ledger) || (META.ledger && META.ledger.rows));
   var ledger = { wait: null };
   function loadLedger() {
@@ -998,99 +999,319 @@
   function balanceNote(c) {
     return note('', plural(c.ledger_rows, 'figure') + ' from this check ' + (c.ledger_rows === 1 ? 'is' : 'are') + ' set beside the presidential salary. <a href="' + U('balance') + '">See the Balance Sheet</a>');
   }
+  /* What the tool shows, all of it in the address: #balance-view=paper&row=C98-04 (on the site /balance/#view=paper&row=C98-04). */
+  var B = { view: 'reported', group: 'category', scale: '', share: false, row: '', q: '', index: new Map(), order: [], sort: 'id', dir: 1, tq: '' };
+  var BGROUPS = [['category', 'Category'], ['recipient', 'Recipient'], ['venture', 'Venture']];
+  var BKIND = { 'cash-received': 'Cash Received', 'reported-income': 'Reported Income', 'paper-value': 'Paper Value', 'salary-forgone': 'Salary Donated', 'settlement-paid': 'Settlement Paid', 'estimate': 'Estimate' };
+  function balParse(str) {
+    var S = G.ledger && G.ledger.sheet, o = { view: 'reported', group: 'category', scale: '', share: false, row: '' };
+    String(str || '').split('&').forEach(function (kv) {
+      var i = kv.indexOf('='), k = i < 0 ? kv : kv.slice(0, i), v = i < 0 ? '' : kv.slice(i + 1);
+      if (k === 'view') o.view = v.toLowerCase(); else if (k === 'group') o.group = v.toLowerCase(); else if (k === 'scale') o.scale = v.toLowerCase();
+      else if (k === 'share') o.share = v === '1'; else if (k === 'row') o.row = v.toUpperCase();
+    });
+    if (S && !arr(S.views).some(function (v) { return v.id === o.view; })) o.view = 'reported';
+    if (!BGROUPS.some(function (g) { return g[0] === o.group; })) o.group = 'category';
+    if (o.scale !== 'log' && o.scale !== 'linear') o.scale = '';
+    return o;
+  }
+  function balKey() {
+    var p = [];
+    if (B.view !== 'reported') p.push('view=' + B.view);
+    if (B.group !== 'category') p.push('group=' + B.group);
+    if (B.scale) p.push('scale=' + B.scale);
+    if (B.share) p.push('share=1');
+    if (B.row) p.push('row=' + B.row);
+    return 'balance' + (p.length ? '-' + p.join('&') : '');
+  }
+  function balView() { var vs = arr(G.ledger.sheet.views); return vs.filter(function (v) { return v.id === B.view; })[0] || vs[0]; }
+  function balScale(v) { return B.scale || v.scale || 'log'; }
   var BLINE = { 'documented': '', 'single-source': ' dotted', 'inferred': ' dashed' };
   function balGrade(k) {
     var g = GRADE[k]; if (!g) return '';
     return '<span class="bgrade g-' + k + '" title="' + esc(g[1]) + '"><i class="evline' + BLINE[k] + '" aria-hidden="true"></i>' + g[0] + '</span>';
   }
-  function balCites(f) {
-    return arr(f.checks).map(function (id) { var c = byKey.get(id); return c ? '<a class="cite" href="' + claimHref(c) + '" title="' + esc(c.title) + '">' + esc(c.id) + '</a>' : ''; }).join('');
+  function balCites(ids, full) {
+    return arr(ids).map(function (id) { var c = byKey.get(id); return c ? '<a class="cite" href="' + claimHref(c) + '" title="' + esc(c.title) + '">' + esc(c.id) + (full ? '<span>' + esc(c.title) + '</span>' : '') + '</a>' : ''; }).join('');
   }
   /* A figure carries the ledger rows it was computed from: in data-rows, and spelled out in its title. */
   function balTrace(f) {
-    return ' data-rows="' + esc(arr(f.rows).join(' ')) + '" title="' + esc('Ledger ' + (arr(f.rows).length === 1 ? 'row ' : 'rows ') + arr(f.rows).join(', ') + ': ' + f.exact + (f.basis ? '. ' + f.basis : '')) + '"';
+    return ' data-rows="' + esc(arr(f.rows).join(' ')) + '" title="' + esc('Ledger ' + (arr(f.rows).length === 1 ? 'row ' : 'rows ') + arr(f.rows).join(', ') + ': ' + f.exact) + '"';
   }
-  function balSrc(f) {   // the first source of the row itself, as a small outward link
-    var u = safeUrl(f.src);
-    return u ? '<a class="bsrc" href="' + esc(u) + '" target="_blank" rel="noopener" title="Source: ' + esc(host(u)) + '" aria-label="Source: ' + esc(host(u)) + '">' + ico('ext') + '</a>' : '';
+  function balNow(f) { return B.share && f.alt ? f.alt : f; }   // the reading on show: as reported, or his share only
+  /* The axis for a view: every amount on show plus the salary, on a log or a linear scale. */
+  function balAxis(v, figs) {
+    var vals = [];
+    figs.forEach(function (f) { [f, f.alt].forEach(function (a) { if (a) { if (a.lo > 0) vals.push(a.lo); if (a.hi > 0) vals.push(a.hi); } }); });
+    var lo = Math.min.apply(null, vals), hi = Math.max.apply(null, vals), ticks = [], x;
+    if (balScale(v) === 'log') {
+      var d0 = Math.floor(Math.log10(lo)), d1 = Math.ceil(Math.log10(hi));
+      if (d1 === d0) d1++;
+      x = function (n) { return n <= 0 ? 0 : Math.max(0, Math.min(100, 100 * (Math.log10(n) - d0) / (d1 - d0))); };
+      for (var d = d0; d <= d1; d++) ticks.push(Math.pow(10, d));
+    } else {
+      var raw = hi / 5, mag = Math.pow(10, Math.floor(Math.log10(raw))), step = [1, 2, 2.5, 5, 10].map(function (m) { return m * mag; }).filter(function (s) { return s >= raw; })[0], top = Math.ceil(hi / step) * step;
+      x = function (n) { return Math.max(0, Math.min(100, 100 * n / top)); };
+      for (var t = 0; t <= top + step / 2; t += step) ticks.push(t);
+    }
+    return { x: x, ticks: ticks.map(function (t) { return { x: x(t), label: t === 0 ? '$0' : t >= 1e9 ? '$' + +(t / 1e9).toFixed(2) + 'B' : t >= 1e6 ? '$' + +(t / 1e6).toFixed(1) + 'M' : '$' + +(t / 1e3).toFixed(0) + 'K' }; }) };
   }
-  function balTable(b) {
-    var cols = arr(b.cols), six = cols.length === 6, n = cols.length;
-    var row = function (f, cls) {
-      return '<tr' + (cls ? ' class="' + cls + '"' : '') + '><th scope="row"><span class="bl">' + esc(f.label) + (f.flag ? '<sup>' + esc(f.flag) + '</sup>' : '') + '</span>' +
-        (f.sub ? '<span class="bs">' + esc(f.sub) + '</span>' : '') + '</th>' +
-        (six ? '<td class="bx">' + esc(f.extra || '') + '</td>' : '') +
-        '<td class="numc"><span class="bamt"' + balTrace(f) + '>' + esc(f.amt) + '</span></td>' +
-        '<td class="bw">' + esc(f.when || '') + '</td><td class="bg">' + balGrade(f.grade) + '</td>' +
-        '<td class="bc">' + balCites(f) + (cls ? '' : balSrc(f)) + '</td></tr>';
-    };
-    return '<div class="tablewrap"><table class="btable' + (six ? ' six' : '') + '"><thead><tr>' + cols.map(function (c, i) {
-      return '<th' + (c === 'Amount' || c === 'Value' || c === 'Estimate' ? ' class="numc"' : '') + ' scope="col">' + esc(c) + '</th>';
-    }).join('') + '</tr></thead>' + arr(b.groups).map(function (g) {
-      return '<tbody>' + (g.name ? '<tr class="grp"><th colspan="' + n + '" scope="colgroup"><span class="gn">' + esc(g.name) + '</span>' + (g.note ? '<span class="gnote">' + esc(g.note) + '</span>' : '') + '</th></tr>' : '') +
-        arr(g.rows).map(function (f) { return row(f, ''); }).join('') + (g.total ? row(g.total, 'tot') : '') + '</tbody>';
-    }).join('') + '</table></div>' + arr(b.foot).map(function (t) { return '<p class="bfoot">' + esc(t) + '</p>'; }).join('');
+  function balMark(f, ax, lane) {
+    var a = balNow(f), zero = a.lo === 0 && a.hi === 0, open = a.hi == null, x0 = ax.x(a.lo), x1 = open ? 100 : ax.x(a.hi), w = x1 - x0, range = w > 0.7;
+    var solo = lane.marks.length === 1 && !lane.multi, sel = B.row === f.key;
+    var h = '';
+    if (solo && !zero && x0 > 0.3) h += '<i class="bm-guide g-' + f.grade + '" style="width:' + x0 + '%"></i>';
+    if (B.share && f.alt) h += '<i class="bm-ghost" style="left:' + ax.x(f.lo) + '%" title="As reported: ' + esc(f.amt) + '"></i>';
+    h += '<button type="button" tabindex="-1" class="bm g-' + f.grade + (range ? ' range' : zero ? ' zero' : ' dot') + (open ? ' open' : '') + (f.noted ? ' noted' : '') + (sel ? ' sel' : '') + '" style="left:' + x0 + '%' + (range ? ';width:' + w + '%' : '') + '" data-key="' + esc(f.key) + '"' +
+      balTrace(f) + ' aria-label="' + esc(f.label + ': ' + a.amt + ', ' + (f.when || '')) + '" aria-pressed="' + sel + '"></button>';
+    if (solo) h += '<span class="bm-val' + (x1 > 68 ? ' left' : '') + '" style="' + (x1 > 68 ? 'right:' + (100 - x0) + '%' : 'left:' + (range ? x1 : x0) + '%') + '">' + esc(a.short) + (B.share && f.alt ? '<i>his ' + f.share.pct + '%' + (f.share.part ? ' of part' : '') + ', if an entity total</i>' : '') + '</span>';
+    return h;
   }
-  function balBlock(b) {
-    if (b.type === 'table') return balTable(b);
-    if (b.type === 'facts') return '<dl class="mlimits bfacts">' + arr(b.items).map(function (x) {
-      return '<div' + (arr(x.rows).length ? ' data-rows="' + esc(x.rows.join(' ')) + '"' : '') + '><dt>' + esc(x.term) + '</dt><dd>' + esc(x.text) + (arr(x.checks).length ? ' <span class="bc">' + balCites(x) + '</span>' : '') + '</dd></div>';
-    }).join('') + '</dl>';
-    if (b.type === 'quotes') return '<h3 class="minor">Responses</h3><dl class="mlimits bfacts bquotes">' + arr(b.items).map(function (x) {
-      return '<div><dt>' + esc(x.who) + '<span class="bs">' + esc(x.when) + '</span></dt><dd>“' + esc(x.text) + '” <span class="bc">' + balCites(x) + '</span></dd></div>';
-    }).join('') + '</dl>';
-    if (b.type === 'note') return note('', esc(b.text));
-    return '';
+  function balLane(lane, ax, cls) {
+    var ms = arr(lane.marks), h = '<div class="bl-row' + (cls ? ' ' + cls : '') + (ms.some(function (f) { return f.key === B.row; }) || (lane.badge && lane.badge.key === B.row) ? ' on' : '') + '">' +
+      '<div class="bl-name"><span>' + esc(lane.label) + '</span>' + (lane.multi && ms.length > 1 ? '<span class="bl-n">' + ms.length + ' items</span>' : '') +
+      (lane.badge ? '<button type="button" tabindex="-1" class="bm-badge' + (lane.badge.key === B.row ? ' sel' : '') + '" data-key="' + esc(lane.badge.key) + '"' + balTrace(lane.badge) + '>' + esc(lane.badge.short) + '</button>' : '') + '</div><div class="bl-track">';
+    if (!ms.length) h += '<span class="bl-empty">' + esc(lane.empty || 'None') + '</span>';
+    if (lane.link && ms.length > 1) {   // dated values of one holding, joined in order of date
+      var xs = ms.map(function (f) { return ax.x(f.hi == null ? f.lo : (f.lo + f.hi) / 2); }), a = Math.min.apply(null, xs), b = Math.max.apply(null, xs), first = ms[0], last = ms[ms.length - 1], fall = xs[xs.length - 1] < xs[0];
+      h += '<i class="bm-link" style="left:' + a + '%;width:' + (b - a) + '%"></i>';
+      var lab = function (f, left) { var e = left ? ax.x(f.lo) : ax.x(f.hi == null ? f.lo : f.hi); return '<span class="bm-val' + (left ? ' left' : '') + '" style="' + (left ? 'right:' + (100 - e) + '%' : 'left:' + e + '%') + '">' + (left && fall ? '<i>' + esc(f.when) + '</i> ' : '') + esc(f.short) + (left && fall ? '' : ' <i>' + esc(f.when) + '</i>') + '</span>'; };
+      h += lab(fall ? last : first, true) + lab(fall ? first : last, false);
+    }
+    ms.forEach(function (f) { h += balMark(f, ax, lane); });
+    return h + '</div></div>';
   }
-  function balChart(ch) {
-    var ticks = arr(ch.ticks);
-    return '<figure class="bchart" aria-labelledby="bchart-h"><figcaption><h2 id="bchart-h">' + esc(ch.title) + '</h2></figcaption>' +
-      '<div class="bplot" role="img" aria-label="' + esc(arr(ch.items).map(function (f) { return f.label + ': ' + f.amt; }).join('. ') + '. Logarithmic scale.') + '">' +
-      arr(ch.items).map(function (f) {
-        var w = Math.max(0, f.x1 - f.x0);
-        return '<div class="brow"><span class="bl">' + esc(f.label) + '</span><span class="btrack">' +
-          ticks.map(function (t) { return '<i class="bgl" style="left:' + t.x + '%"></i>'; }).join('') +
-          '<i class="bdot' + (w > 0.4 ? ' span' : '') + '" style="left:' + f.x0 + '%' + (w > 0.4 ? ';width:' + w + '%' : '') + '"' + balTrace(f) + '></i>' +
-          '<span class="bval' + (f.x1 > 70 ? ' left' : '') + '" style="' + (f.x1 > 70 ? 'right:' + (100 - f.x0) + '%' : 'left:' + f.x1 + '%') + '">' + esc(f.amt) + '</span></span></div>';
-      }).join('') +
-      '<div class="brow baxis" aria-hidden="true"><span class="bl"></span><span class="btrack">' + ticks.map(function (t, i) { return '<span class="btick' + (i === 0 ? ' first' : i === ticks.length - 1 ? ' last' : '') + '" style="left:' + t.x + '%">' + esc(t.label) + '</span>'; }).join('') + '</span></div>' +
-      '</div><p class="bnote">' + esc(ch.note) + '</p></figure>';
+  function balMatch(lane) {
+    var q = B.q.trim().toLowerCase(); if (!q) return true;
+    var rows = G.ledger.rows, t = [lane.label, lane.group, lane.holder, lane.venture];
+    arr(lane.marks).concat(lane.badge ? [lane.badge] : []).forEach(function (f) {
+      t.push(f.label, f.to); arr(f.rows).concat(arr(f.same)).forEach(function (id) { t.push(id); var r = rows.filter(function (x) { return x.id === id; })[0]; if (r) t.push(r.recipient_name, r.venture); });
+    });
+    return t.join(' ').toLowerCase().indexOf(q) >= 0;
+  }
+  function balSalaryLine(S) {
+    var it = S.salary.items;
+    return '<p class="bx-ref">Reference' + it.map(function (f) { return '<button type="button" tabindex="-1" class="bm-chip' + (B.row === f.key ? ' sel' : '') + '" data-key="' + esc(f.key) + '"' + balTrace(f) + '>' + esc(f.label) + ' <b>' + esc(f.short) + '</b></button>'; }).join('') + '</p>';
+  }
+  /* The figure for a view: one lane a row, grouped, the salary pinned on top and ruled through every lane. */
+  function balLanes(S, v) {
+    var sal = { label: S.salary.label, marks: S.salary.items, multi: true }, figs = S.salary.items.slice(), lanes = arr(v.lanes).filter(balMatch), filtered = !!B.q.trim();
+    arr(v.lanes).forEach(function (l) { arr(l.marks).forEach(function (f) { figs.push(f); }); });
+    arr(v.totals).forEach(function (f) { figs.push(f); });
+    var ax = balAxis(v, figs), gk = !v.groupby || B.group === 'category' ? 'group' : B.group === 'recipient' ? 'holder' : 'venture', groups = [], by = {};
+    lanes.forEach(function (l) { var k = l[gk] || l.group || ''; if (!by[k]) { by[k] = []; groups.push(k); } by[k].push(l); });
+    var amount = function (l) { var f = l.marks[0]; return f ? balNow(f).lo : 0; };
+    if (gk !== 'group') groups.forEach(function (k) { by[k].sort(function (a, b) { return amount(b) - amount(a); }); });
+    B.order = S.salary.items.map(function (f) { return f.key; });
+    var h = '<div class="bx-axis"><div class="bl-name">' + (balScale(v) === 'log' ? 'Log scale: each step is ten times the last' : 'Linear scale') + '</div><div class="bl-track">' +
+      ax.ticks.map(function (t, i) { return '<span class="btick' + (i === 0 ? ' first' : i === ax.ticks.length - 1 ? ' last' : '') + '" style="left:' + t.x + '%">' + esc(t.label) + '</span>'; }).join('') + '</div></div>' +
+      '<div class="bx-lanes"><div class="bx-over" aria-hidden="true">' + ax.ticks.map(function (t) { return '<i class="bgl" style="left:' + t.x + '%"></i>'; }).join('') +
+      S.salary.items.map(function (f) { return '<i class="bref" style="left:' + ax.x((f.lo + f.hi) / 2) + '%"></i>'; }).join('') + '</div>';
+    h += '<div class="bl-row pin' + (S.salary.items.some(function (f) { return f.key === B.row; }) ? ' on' : '') + '"><div class="bl-name"><span>' + esc(sal.label) + '</span><span class="bl-n">donated, accrued</span></div><div class="bl-track">' +
+      S.salary.items.map(function (f, i) { var e = ax.x(i ? f.hi : f.lo); return balMark(f, ax, sal) + '<span class="bm-val' + (i ? '' : ' left') + '" style="' + (i ? 'left:' + e + '%' : 'right:' + (100 - e) + '%') + '">' + esc(f.short) + '</span>'; }).join('') + '</div></div>';
+    groups.forEach(function (k) {
+      if (k) h += '<div class="bg-h"><span>' + esc(k) + '</span><span class="bl-n">' + (v.id === 'family' ? '' : plural(by[k].length, 'row')) + '</span></div>';
+      by[k].forEach(function (l) { h += balLane(l, ax, ''); arr(l.marks).forEach(function (f) { B.order.push(f.key); }); if (l.badge) B.order.push(l.badge.key); });
+      if (gk === 'group' && !filtered) arr(v.totals).filter(function (t) { return t.group === k; }).forEach(function (t) { h += balLane({ label: t.label, marks: [t] }, ax, 'tot'); B.order.push(t.key); });
+    });
+    if (!lanes.length) h += '<p class="bx-none">No row matches “' + esc(B.q.trim()) + '”.</p>';
+    else if (v.totals.length && (gk !== 'group' || filtered)) h += '<p class="bx-none">Subtotals are shown only under Category, with no filter.</p>';
+    return h + '</div>';
+  }
+  /* Settlements: who paid, and where the money was directed. Link heights are in proportion to the amounts. */
+  function balFlow(S, v) {
+    var q = B.q.trim(), items = arr(v.flow), dests = [], W = Math.max(320, ($('bx-stage') || page).clientWidth - 40), small = W < 560;
+    items.forEach(function (f) { if (dests.indexOf(f.to) < 0) dests.push(f.to); });
+    items = items.slice().sort(function (a, b) { return dests.indexOf(a.to) - dests.indexOf(b.to); });
+    var total = items.reduce(function (s, f) { return s + f.hi; }, 0), gap = 12, H = small ? 330 : 360, k = (H - gap * (items.length - 1)) / total, nw = 8, x0 = small ? 0 : 190, x1 = W - (small ? 0 : 300) - nw;
+    var y = 0, yr = 0, h = '', lab = '', dy = {};
+    dests.forEach(function (d, i) { var sum = items.filter(function (f) { return f.to === d; }).reduce(function (s, f) { return s + f.hi; }, 0); dy[d] = { y: yr, h: sum * k + gap * (items.filter(function (f) { return f.to === d; }).length - 1), at: yr }; yr += dy[d].h + gap; });
+    B.order = S.salary.items.map(function (f) { return f.key; });
+    items.forEach(function (f) {
+      var hh = f.hi * k, d = dy[f.to], ya = y, yb = d.at, mx = (x0 + nw + x1) / 2, sel = B.row === f.key, dim = q && !balMatch({ label: f.label, marks: [f] });
+      h += '<path class="bf-link g-' + f.grade + (sel ? ' sel' : '') + (dim ? ' dim' : '') + '" tabindex="-1" role="button" aria-label="' + esc(f.label + ' to ' + f.to + ': ' + f.amt) + '" data-key="' + esc(f.key) + '" data-rows="' + esc(f.rows.join(' ')) + '" d="M' + (x0 + nw) + ' ' + ya + 'C' + mx + ' ' + ya + ' ' + mx + ' ' + yb + ' ' + x1 + ' ' + yb + 'V' + (yb + hh) + 'C' + mx + ' ' + (yb + hh) + ' ' + mx + ' ' + (ya + hh) + ' ' + (x0 + nw) + ' ' + (ya + hh) + 'Z"><title>' + esc('Ledger row ' + f.rows.join(', ') + ': ' + f.exact) + '</title></path>' +
+        '<rect class="bf-node" x="' + x0 + '" y="' + ya + '" width="' + nw + '" height="' + hh + '"/>';
+      var ty = ya + hh / 2 + 4.5;
+      if (small) lab += '<text class="bf-t" x="' + (x0 + nw + 8) + '" y="' + ty + '">' + esc(f.label) + ' <tspan class="bf-a">' + esc(f.short) + '</tspan></text>';
+      else lab += '<text class="bf-t end" x="' + (x0 - 10) + '" y="' + (ty - (hh > 30 ? 8 : 0)) + '">' + esc(f.label) + '</text><text class="bf-a ' + (hh > 30 ? 'end' : '') + '" x="' + (hh > 30 ? x0 - 10 : x0 + nw + 10) + '" y="' + (hh > 30 ? ty + 9 : ty) + '">' + esc(f.short) + '</text>';
+      d.at += hh + gap; y += hh + gap; B.order.push(f.key);
+    });
+    dests.forEach(function (d) {
+      var o = dy[d], nm = small ? d.replace('Presidential ', '').replace('Trust for the National Mall', 'National Mall Trust').replace('Reported as His Income', 'His Income') : d;
+      h += '<rect class="bf-node" x="' + x1 + '" y="' + o.y + '" width="' + nw + '" height="' + o.h + '"/>';
+      if (small) lab += '<text class="bf-t end b" x="' + (x1 - 8) + '" y="' + (o.y + Math.min(o.h - 6, 16)) + '">' + esc(nm) + '</text>';
+      else lab += '<text class="bf-t b" x="' + (x1 + nw + 10) + '" y="' + (o.y + 15) + '">' + esc(nm) + '</text><text class="bf-s" x="' + (x1 + nw + 10) + '" y="' + (o.y + 33) + '">' + esc((v.dest_notes || {})[d] || '') + '</text>';
+    });
+    var out = balSalaryLine(S) + '<svg class="bflow" width="' + W + '" height="' + H + '" viewBox="0 0 ' + W + ' ' + H + '" role="group" aria-label="Payers on the left, where each payment was directed on the right">' + h + lab + '</svg><div class="bf-under">';
+    arr(v.totals).concat(arr(v.aside)).forEach(function (f) {
+      out += '<button type="button" tabindex="-1" class="bm-chip' + (B.row === f.key ? ' sel' : '') + '" data-key="' + esc(f.key) + '"' + balTrace(f) + '>' + esc(f.label) + ' <b>' + esc(f.short) + '</b></button>'; B.order.push(f.key);
+    });
+    return out + '</div>';
+  }
+  function balIndex(S) {   // every figure that can be selected, by its key
+    var m = new Map();
+    S.salary.items.forEach(function (f) { m.set(f.key, { f: f, salary: true }); });
+    var v = balView();
+    arr(v.lanes).forEach(function (l) { arr(l.marks).forEach(function (f) { m.set(f.key, { f: f, lane: l }); }); if (l.badge) m.set(l.badge.key, { f: l.badge, lane: l }); });
+    arr(v.flow).concat(arr(v.aside)).forEach(function (f) { m.set(f.key, { f: f }); });
+    arr(v.totals).forEach(function (f) { m.set(f.key, { f: f, total: true }); });
+    B.index = m;
+  }
+  function balList(title, items, limit) {
+    items = arr(items).filter(Boolean); if (!items.length) return '';
+    return '<div class="bd-sec"' + (limit && items.length > limit ? ' data-foldbox' : '') + '><h3>' + title + '</h3><ul>' + items.map(function (t, i) { return '<li' + (limit && i >= limit ? ' hidden data-fold' : '') + '>' + t + '</li>'; }).join('') + '</ul>' +
+      (limit && items.length > limit ? '<button class="linkbtn" type="button" data-unfold>' + (items.length - limit) + ' More</button>' : '') + '</div>';
+  }
+  function balQuotes(list) {
+    return balList('Responses', arr(list).map(function (x) { return '<b>' + esc(x.who) + '</b>, ' + esc(x.when) + ': “' + esc(x.text) + '” ' + balCites(x.checks); }));
+  }
+  /* The dossier: at rest the headline figures and four caveats; with a figure selected, everything recorded about it. */
+  function balPanel() {
+    var S = G.ledger.sheet, v = balView(), el = $('bx-panel'), hit = B.row && B.index.get(B.row), h;
+    if (!el) return;
+    el.classList.toggle('sel', !!hit);
+    if (!hit) {
+      h = '<div class="bd-rest"><h2>Headline Figures</h2><dl class="bd-figs">' + arr(S.strip).map(function (f) {
+        return '<div><dt>' + esc(f.label) + '</dt><dd' + balTrace(f) + '>' + esc(f.amt) + '</dd><dd class="bd-n">' + esc(f.note || '') + ' ' + balCites(f.checks) + '</dd></div>';
+      }).join('') + '</dl>' + '<h2>Read This First</h2><dl class="bd-caveats">' + arr(S.caveats).map(function (c) { return '<div><dt>' + esc(c.term) + '</dt><dd>' + esc(c.text) + '</dd></div>'; }).join('') + '</dl>' +
+        balQuotes(v.responses) + '</div>';
+      el.innerHTML = h; return;
+    }
+    var f = hit.f, a = balNow(f), rows = arr(f.rows).map(function (id) { return G.ledger.rows.filter(function (r) { return r.id === id; })[0]; }).filter(Boolean), one = rows.length === 1 ? rows[0] : null;
+    var srcs = [], seen = {};
+    rows.forEach(function (r) { arr(r.sources).forEach(function (u) { if (safeUrl(u) && !seen[u]) { seen[u] = 1; srcs.push(u); } }); });
+    h = '<div class="panel-head"><h2 tabindex="-1">' + esc(f.label) + '</h2><button type="button" class="iconbtn" data-bx="clear" aria-label="Close">' + XICON + '</button></div>' +
+      '<p class="panel-meta">' + [esc(v.name), esc(hit.total ? 'Subtotal' : BKIND[f.kind] || ''), esc(f.when || '')].filter(Boolean).join(' · ') + '</p>' +
+      '<div class="panel-body"><p class="bd-amt"' + balTrace(f) + '>' + esc(a.amt) + '</p><p class="bd-g">' + balGrade(f.grade) + (f.noted ? '<span>Stated in the row’s notes</span>' : '') + (f.to ? '<span>To: ' + esc(f.to) + '</span>' : '') + '</p>';
+    if (f.alt) h += '<dl class="bd-two"><div' + (B.share ? '' : ' class="on"') + '><dt>As Reported</dt><dd>' + esc(f.amt) + '</dd></div><div' + (B.share ? ' class="on"' : '') + '><dt>If His Share Only</dt><dd>' + esc(f.alt.amt) + '</dd></div></dl>' +
+      '<p class="bd-unk">Unknown: the form does not say whether the line is the entity’s total or his share.</p>';
+    if (hit.salary) h += '<dl class="bd-caveats">' + arr(S.salary.facts).map(function (c) { return '<div><dt>' + esc(c.term) + '</dt><dd>' + esc(c.text) + '</dd></div>'; }).join('') + '</dl>';
+    h += balList('About', arr(f.sub).concat(f.to && (v.dest_notes || {})[f.to] ? [(v.dest_notes || {})[f.to]] : []).map(esc));
+    if (one) h += balList('Basis', [esc(one.basis)]) + balList('Recipient', [one.recipient && byKey.get('e:' + one.recipient) ? entLink(byKey.get('e:' + one.recipient)) + (one.recipient_name !== byKey.get('e:' + one.recipient).name ? ' <span class="muted">' + esc(one.recipient_name) + '</span>' : '') : esc(one.recipient_name)]);
+    if (one) h += balList('Notes & Overlaps', arr(one.notes).map(esc), 3);
+    h += '<div class="bd-sec"><h3>Ledger ' + (rows.length === 1 ? 'Row' : 'Rows') + '</h3><p class="bd-ids">' + arr(f.rows).map(function (id) { return '<code>' + esc(id) + '</code>'; }).join('') +
+      (arr(f.same).length ? '<span>same money as ' + f.same.map(function (id) { return '<code>' + esc(id) + '</code>'; }).join('') + '</span>' : '') + '</p></div>' +
+      '<div class="bd-sec"><h3>Checks</h3><p class="bd-checks">' + balCites(f.checks, true) + '</p></div>' +
+      balList('Sources', srcs.map(function (u) { return extLink(u, esc(host(u))); }), 4) +
+      balQuotes(hit.salary ? [] : v.responses) + '</div>';
+    el.innerHTML = h;
+  }
+  function balBar(S) {
+    var v = balView(), sc = balScale(v), lanes = v.kind !== 'flow';
+    return '<div class="seg" role="group" aria-label="View">' + arr(S.views).map(function (x) { return '<button type="button" data-bx="view" data-v="' + esc(x.id) + '" aria-pressed="' + (x.id === v.id) + '">' + esc(x.name) + '</button>'; }).join('') + '</div>' +
+      '<div class="opt"' + (v.groupby ? '' : ' hidden') + ' role="group" aria-labelledby="bx-lab-g"><span class="opt-lab" id="bx-lab-g">Group By</span>' + BGROUPS.map(function (g) { return '<button type="button" data-bx="group" data-v="' + g[0] + '" aria-pressed="' + (B.group === g[0]) + '">' + g[1] + '</button>'; }).join('') + '</div>' +
+      '<div class="opt"' + (lanes ? '' : ' hidden') + ' role="group" aria-labelledby="bx-lab-s"><span class="opt-lab" id="bx-lab-s">Scale</span>' + [['linear', 'Linear'], ['log', 'Log']].map(function (g) { return '<button type="button" data-bx="scale" data-v="' + g[0] + '" aria-pressed="' + (sc === g[0]) + '">' + g[1] + '</button>'; }).join('') + '</div>' +
+      '<div class="opt"' + (v.share ? '' : ' hidden') + ' role="group" aria-labelledby="bx-lab-h"><span class="opt-lab" id="bx-lab-h">Crypto &amp; Licensing Lines</span><button type="button" data-bx="share" data-v="0" aria-pressed="' + !B.share + '">As Reported</button><button type="button" data-bx="share" data-v="1" aria-pressed="' + B.share + '">If His Share Only</button></div>' +
+      '<label class="bx-find">' + ico('search') + '<span class="sr">Filter by venture or name</span><input type="search" id="bx-q" placeholder="Filter by venture or name" autocomplete="off" spellcheck="false" value="' + esc(B.q) + '"></label>';
+  }
+  function balStage() {
+    var S = G.ledger.sheet, v = balView(), st = $('bx-stage');
+    balIndex(S);
+    if (B.row && !B.index.has(B.row)) B.row = '';
+    $('bx-note').innerHTML = esc(B.share && v.share ? v.share_note : v.note);
+    st.className = 'bx-stage' + (v.kind === 'flow' ? ' flow' : '') + (B.share && v.share ? ' share' : '');
+    st.innerHTML = v.kind === 'flow' ? balFlow(S, v) : balLanes(S, v);
+  }
+  function balDraw(bar) {
+    if (bar !== false) { var q = document.activeElement && document.activeElement.id === 'bx-q'; $('bx-bar').innerHTML = balBar(G.ledger.sheet); if (q) { var i = $('bx-q'); i.focus(); i.setSelectionRange(i.value.length, i.value.length); } }
+    balStage(); balPanel();
+  }
+  function balSelect(key, opts) {
+    B.row = key && B.index.has(key) ? key : '';
+    setHash(balKey());
+    balStage(); balPanel();
+    var m = B.row && page.querySelector('#bx-stage [data-key="' + B.row.replace(/"/g, '') + '"]');
+    if (m && m.scrollIntoView && opts && opts.keys) m.scrollIntoView({ block: 'nearest' });
+  }
+  function balCsv() {
+    var cols = ['id', 'check', 'recipient_name', 'venture', 'category', 'kind', 'amount_low_usd', 'amount_high_usd', 'period', 'as_of', 'grade', 'basis', 'notes', 'sources'];
+    var cell = function (x) { x = x == null ? '' : String(x); return /[",\n]/.test(x) ? '"' + x.replace(/"/g, '""') + '"' : x; };
+    return cols.join(',') + '\n' + G.ledger.rows.map(function (r) { return [r.id, r.check, r.recipient_name, r.venture, r.category, r.kind, r.lo, r.hi, r.period, r.as_of, r.grade, r.basis, arr(r.notes).join(' '), arr(r.sources).join(' ')].map(cell).join(','); }).join('\n') + '\n';
+  }
+  var BCOLS = [['id', 'Row'], ['recipient_name', 'Recipient'], ['venture', 'Venture'], ['category', 'Category'], ['kind', 'Kind'], ['lo', 'Low'], ['hi', 'High'], ['period', 'Period'], ['grade', 'Evidence']];
+  function balTable() {   // the data view: every ledger row, sortable and filterable
+    var q = B.tq.trim().toLowerCase(), ven = function (r) { var e = byKey.get('e:' + r.venture); return e ? e.name : r.venture; };
+    var rows = G.ledger.rows.filter(function (r) { return !q || [r.id, r.recipient_name, ven(r), r.category, BKIND[r.kind], r.period, r.grade].join(' ').toLowerCase().indexOf(q) >= 0; });
+    var val = function (r) { var x = B.sort === 'venture' ? ven(r) : r[B.sort]; return x == null ? Infinity : x; };
+    rows.sort(function (a, b) { var x = val(a), y = val(b); return (typeof x === 'number' && typeof y === 'number' ? x - y : String(x).localeCompare(String(y), undefined, { numeric: true })) * B.dir; });
+    var usd = function (n) { return n == null ? 'open' : (n < 0 ? '−' : '') + '$' + Math.abs(n).toLocaleString('en-US'); };
+    $('bx-table').innerHTML = '<table class="btable"><thead><tr>' + BCOLS.map(function (c) { return '<th scope="col"' + (c[0] === 'lo' || c[0] === 'hi' ? ' class="numc"' : '') + (B.sort === c[0] ? ' aria-sort="' + (B.dir > 0 ? 'ascending' : 'descending') + '"' : '') + '><button type="button" data-bx="sort" data-v="' + c[0] + '">' + c[1] + '</button></th>'; }).join('') + '<th scope="col">Check</th></tr></thead><tbody>' +
+      rows.map(function (r) {
+        return '<tr data-rows="' + esc(r.id) + '"><th scope="row"><code>' + esc(r.id) + '</code></th><td>' + esc(r.recipient_name) + '</td><td>' + esc(ven(r)) + '</td><td>' + esc(cap(r.category)) + '</td><td>' + esc(BKIND[r.kind] || r.kind) + '</td><td class="numc">' + usd(r.lo) + '</td><td class="numc">' + usd(r.hi) + '</td><td>' + esc(r.period) + '</td><td>' + balGrade(r.grade) + '</td><td>' + balCites([r.check]) + '</td></tr>';
+      }).join('') + '</tbody></table>';
+    $('bx-count').textContent = plural(rows.length, 'row') + (q ? ' of ' + G.ledger.rows.length : '');
   }
   function balancePage() {
-    var S = G.ledger.sheet, secs = arr(S.sections);
-    page.innerHTML = '<div class="method bal"><div class="pagehead"><h1 tabindex="-1">' + esc(S.title) + '</h1>' +
-      '<p class="lede">' + esc(S.lede) + '</p>' + (ASOF ? '<p class="dateline">' + esc(ASOF) + '</p>' : '') + '</div>' +
-      '<dl class="balfigs">' + arr(S.strip).map(function (f) {
-        return '<div><dt>' + esc(f.label) + '</dt><dd' + balTrace(f) + '>' + esc(f.amt) + '</dd><dd class="bnote">' + esc(f.note || '') + ' <span class="bc">' + balCites(f) + '</span></dd></div>';
-      }).join('') + '</dl>' +
-      (S.chart ? balChart(S.chart) : '') +
-      '<div class="mgrid"><nav class="mindex" aria-label="On this page"><h2>On This Page</h2><ul class="toc">' + secs.map(function (x) { return '<li><button type="button" data-jump="b-' + esc(x.id) + '">' + esc(x.title) + '</button></li>'; }).join('') + '</ul></nav><div class="mbody">' +
-      secs.map(function (x) {
-        var cs = arr(x.checks).map(function (id) { return byKey.get(id); }).filter(Boolean);
-        return '<section><h2 id="b-' + esc(x.id) + '">' + esc(x.title) + '</h2>' +
-          arr(x.intro).map(function (t) { return '<p class="bintro">' + esc(t) + '</p>'; }).join('') +
-          arr(x.blocks).map(balBlock).join('') +
-          (cs.length ? '<p class="bfrom"><span>From</span>' + cs.map(function (c) { return '<a href="' + claimHref(c) + '">' + esc(c.title) + '</a>'; }).join('') + '</p>' : '') + '</section>';
-      }).join('') + '</div></div></div>';
-    spy();
+    var S = G.ledger.sheet, top = document.querySelector('.top');
+    page.innerHTML = '<div class="bx" id="bx" style="--bx-top:' + (top ? top.offsetHeight : 51) + 'px"><div class="bx-head"><h1 tabindex="-1">' + esc(S.title) + '</h1><p class="bx-lede">' + esc(S.lede) + '</p>' + (ASOF ? '<p class="bx-date">' + esc(ASOF) + '</p>' : '') + '</div>' +
+      '<div class="map-bar bx-bar" id="bx-bar"></div>' +
+      '<div class="bx-main"><div class="bx-fig"><p class="bx-note" id="bx-note"></p><div class="bx-stage" id="bx-stage" tabindex="0" role="group" aria-label="Figure. Arrow keys move the selection, Enter opens its dossier, Escape clears it."></div>' +
+      '<p class="bx-key"><span>' + balGrade('documented') + balGrade('single-source') + balGrade('inferred') + '</span><span class="k"><i class="kr"></i>Range</span><span class="k"><i class="kr open"></i>Open-Ended</span><span class="k"><i class="kref"></i>Salary</span></p></div>' +
+      '<aside class="bx-panel" id="bx-panel" aria-label="Dossier"></aside></div></div>' +
+      '<details class="bx-rows" id="bx-rows"><summary>All Rows<span>' + num(G.ledger.rows.length) + ' ledger rows behind the figures</span></summary><div class="bx-rowbar"><label class="bx-find">' + ico('search') + '<span class="sr">Filter rows</span><input type="search" id="bx-tq" placeholder="Filter rows" autocomplete="off" spellcheck="false"></label><span id="bx-count" class="bl-n"></span><button type="button" class="btn" data-bx="csv">Download CSV</button></div><div class="tablewrap" id="bx-table"></div></details>' +
+      '<div class="bx-tip" id="bx-tip" hidden></div>';
+    balDraw();
+    var st = $('bx-stage'), tip = $('bx-tip'), bx = $('bx');
+    bx.addEventListener('click', function (e) {
+      var b = e.target.closest('[data-bx]'), m = e.target.closest('[data-key]');
+      if (b) {
+        var k = b.getAttribute('data-bx'), val = b.getAttribute('data-v');
+        if (k === 'view') { B.view = val; B.row = ''; B.q = ''; } else if (k === 'group') B.group = val; else if (k === 'scale') B.scale = val === balView().scale ? '' : val;
+        else if (k === 'share') B.share = val === '1'; else if (k === 'clear') { balSelect(''); st.focus({ preventScroll: true }); return; }
+        setHash(balKey()); balDraw();
+      } else if (m && st.contains(m)) balSelect(m.getAttribute('data-key') === B.row ? '' : m.getAttribute('data-key'));
+    });
+    bx.addEventListener('input', function (e) { if (e.target.id === 'bx-q') { B.q = e.target.value; balStage(); balPanel(); } });
+    st.addEventListener('keydown', function (e) {
+      var i = B.order.indexOf(B.row), d = e.key === 'ArrowDown' || e.key === 'ArrowRight' ? 1 : e.key === 'ArrowUp' || e.key === 'ArrowLeft' ? -1 : 0;
+      if (d) { e.preventDefault(); if (B.order.length) balSelect(B.order[i < 0 ? (d > 0 ? 0 : B.order.length - 1) : (i + d + B.order.length) % B.order.length], { keys: true }); }
+      else if (e.key === 'Enter' && B.row) { e.preventDefault(); var h2 = $('bx-panel').querySelector('h2'); if (h2) h2.focus(); }
+      else if (e.key === 'Escape' && B.row) { e.preventDefault(); balSelect(''); }
+    });
+    $('bx-panel').addEventListener('keydown', function (e) { if (e.key === 'Escape' && B.row) { balSelect(''); st.focus({ preventScroll: true }); } });
+    st.addEventListener('pointermove', function (e) {
+      var m = e.target.closest('[data-key]'), hit = m && B.index.get(m.getAttribute('data-key'));
+      if (!hit || e.pointerType === 'touch') { tip.hidden = true; return; }
+      var f = hit.f, a = balNow(f);
+      tip.innerHTML = '<b>' + esc(f.label) + '</b><span class="a">' + esc(a.amt) + '</span><span>' + [esc(f.when || ''), GRADE[f.grade] ? GRADE[f.grade][0] : '', f.to ? 'To ' + esc(f.to) : ''].filter(Boolean).join(' · ') + '</span>' + (B.share && f.alt ? '<span>As reported: ' + esc(f.amt) + '</span>' : '') + '<span class="r">' + esc(f.rows.join(', ')) + '</span>';
+      tip.hidden = false;
+      var w = tip.offsetWidth, hh = tip.offsetHeight;
+      tip.style.left = Math.max(8, Math.min(window.innerWidth - w - 8, e.clientX + 14)) + 'px'; tip.style.top = (e.clientY + hh + 24 > window.innerHeight ? e.clientY - hh - 12 : e.clientY + 16) + 'px';
+    });
+    st.addEventListener('pointerleave', function () { tip.hidden = true; });
+    st.addEventListener('scroll', function () { tip.hidden = true; }, { passive: true });
+    var box = $('bx-rows');
+    box.addEventListener('toggle', function () { if (box.open && !$('bx-table').firstChild) balTable(); });
+    box.addEventListener('input', function (e) { if (e.target.id === 'bx-tq') { B.tq = e.target.value; balTable(); } });
+    box.addEventListener('click', function (e) {
+      var b = e.target.closest('[data-bx]'); if (!b) return;
+      if (b.getAttribute('data-bx') === 'sort') { var c = b.getAttribute('data-v'); B.dir = B.sort === c ? -B.dir : 1; B.sort = c; balTable(); }
+      else if (b.getAttribute('data-bx') === 'csv') {
+        var a = document.createElement('a'); a.href = 'data:text/csv;charset=utf-8,' + encodeURIComponent(balCsv()); a.download = 'balance-sheet-ledger.csv'; a.target = '_blank'; document.body.appendChild(a); a.click(); a.remove();
+      }
+    });
   }
+  window.addEventListener('resize', function () { if (state.view === 'balance' && $('bx-stage') && G.ledger && balView().kind === 'flow') balStage(); });
   function balanceWaiting(failed) {
-    page.innerHTML = '<div class="method bal"><div class="pagehead"><h1 tabindex="-1">The Balance Sheet</h1>' +
+    page.innerHTML = '<div class="bx-wait"><h1 tabindex="-1">The Balance Sheet</h1>' +
       (failed ? note('err', '<strong>The figures did not load.</strong> <button type="button" class="linkbtn" id="ledger-retry">Try Again</button>', ' role="alert"')
-        : note('', 'Loading figures', ' role="status" aria-live="polite"')) + '</div></div>';
+        : note('', 'Loading figures', ' role="status" aria-live="polite"')) + '</div>';
     var b = $('ledger-retry');
-    if (b) b.addEventListener('click', function () { openBalance(false); });
+    if (b) b.addEventListener('click', function () { openBalance(false, ''); });
   }
-  function openBalance(keep) {
-    if (G.ledger && G.ledger.sheet) { balancePage(); return; }
+  function balShow(params) {   // draw the tool for an address; within the tool, only what changed
+    var o = balParse(params);
+    B.view = o.view; B.group = o.group; B.scale = o.scale; B.share = o.share; B.row = o.row;
+    if ($('bx')) balDraw(); else { B.q = ''; B.tq = ''; balancePage(); }
+  }
+  function openBalance(keep, params) {
+    if (G.ledger && G.ledger.sheet) { balShow(params); return; }
     var key = state.lastHash;
     if (keep) page.setAttribute('aria-busy', 'true'); else balanceWaiting(false);
     loadLedger().then(function () {
       page.removeAttribute('aria-busy');
       if (state.lastHash !== key || state.view !== 'balance') return;
-      var top = keep ? window.scrollY : 0;
-      balancePage();
-      if (top) window.scrollTo(0, top);
+      balShow(params);
     }, function (err) {
       page.removeAttribute('aria-busy');
       if (state.lastHash !== key || state.view !== 'balance') return;
@@ -2858,7 +3079,7 @@
     else if (/^topic-/.test(low) && topicById.has(low.slice(6))) t = topicById.get(low.slice(6)).name;
     else if (low === 'names') t = 'People & Organisations';
     else if (low === 'method') t = 'How We Checked';
-    else if (low === 'balance') t = 'The Balance Sheet';
+    else if (low === 'balance' || /^balance-/.test(low)) t = 'The Balance Sheet';
     else if (low === 'map' || low === 'map-list') t = 'Map';
     else if (/^map-matrix/.test(low)) t = 'Matrix';
     else if ((m = /^map-topic-(.+)$/.exec(low)) && topicById.has(m[1])) t = topicById.get(m[1]).name + ' on the Map';
@@ -2930,6 +3151,7 @@
     setTitle(h);
     if (low === 'map' || /^map-/.test(low)) { root.classList.remove('is-home'); setSearchOpen(false); state.view = 'map'; setNav('map'); showMap(h.slice(4)); return; }
     root.classList.remove('is-map', 'has-panel');
+    if (!(low === 'balance' || /^balance-/.test(low))) root.classList.remove('is-balance');
     $('mapview').hidden = true; page.hidden = false; $('foot').hidden = false;
     var anchor = null;
     root.classList.toggle('is-home', !h || low === 'home' || low === 'claims' || low === 'topics' || low === 'who' || (/^topic-/.test(low) && topicById.has(low.slice(6))));
@@ -2941,7 +3163,7 @@
     }
     else if (low === 'names') { state.view = 'names'; setNav('names'); browsePage(); }
     else if (low === 'method') { state.view = 'method'; setNav('method'); methodPage(); }
-    else if (low === 'balance' && LEDGER_ON) { state.view = 'balance'; setNav('balance'); openBalance(prebuilt); }
+    else if ((low === 'balance' || /^balance-/.test(low)) && LEDGER_ON) { var inTool = state.view === 'balance' && !!$('bx'); state.view = 'balance'; setNav('balance'); root.classList.add('is-balance'); openBalance(prebuilt, h.slice(8)); if (inTool) return; }
     else if ((m = /^name-(.+)$/.exec(low)) && (n = byKey.get('e:' + m[1]))) { state.view = 'profile'; setNav('names'); profile(n); }
     else if (/^c\d+[a-z]?$/.test(low) && (n = byKey.get(h.toUpperCase())) && n.kind === 'claim') { state.view = 'claim'; setNav('claims'); openClaim(n, prebuilt); }
     else if ((n = byHash.get(low))) {   // addresses from the earlier version of the site
