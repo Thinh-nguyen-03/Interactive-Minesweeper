@@ -35,7 +35,9 @@ const out=path.resolve(__dirname,'..','stills','r'+round); fs.mkdirSync(out,{rec
       await p.click('#detail-sw [data-level="2"]'); await p.waitForTimeout(400); await shot(p,'everything'); await p.click('#detail-sw [data-level="0"]');
       for(let i=0;i<3;i++) await p.click('#zoom-in'); await p.waitForTimeout(500); await shot(p,'zoomed'); await stat(p,'zoomed');
       await p.click('#zoom-fit'); await p.waitForTimeout(300);
-      await p.mouse.move(500,450); await p.mouse.down(); await p.mouse.move(700,380,{steps:8}); await p.mouse.up(); await p.waitForTimeout(600); await shot(p,'turned');
+      await p.mouse.move(500,450); await p.mouse.down(); await p.mouse.move(700,380,{steps:8}); await p.mouse.up(); await p.waitForTimeout(600); await shot(p,'turned'); await stat(p,'turned');
+      await p.mouse.move(500,450); await p.mouse.down(); await p.mouse.move(820,520,{steps:8}); await p.mouse.up(); await p.waitForTimeout(600); await shot(p,'turned2'); await stat(p,'turned2');
+      await p.mouse.move(600,300); await p.mouse.down(); await p.mouse.move(520,620,{steps:8}); await p.mouse.up(); await p.waitForTimeout(600); await shot(p,'turned3'); await stat(p,'turned3');
       await p.context().close(); }
     if(want('sel')){ p=await page(D,th,'#map-jared-kushner'); await shot(p,'selected'); await stat(p,'selected');
       const m=await probe(p,'litlink'); if(m){ await p.mouse.move(m.x,m.y); await p.waitForTimeout(400); log.push('  link tip: '+await p.evaluate(()=>document.getElementById('tip').hidden?'(none)':document.getElementById('tip').textContent)); await shot(p,'linkhover'); }

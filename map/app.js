@@ -839,19 +839,26 @@
         return '<button type="button" role="tab" id="tab-' + g + '" data-group="' + g + '" aria-selected="' + (g === browse.group) + '">' + GLABEL[g] + ' <span class="cnt">' + num(counts[g] || 0) + '</span></button>';
       }).join('') + '</div>' +
       '<div class="browsebar"><label class="field"><span class="sr">Filter This List</span><input id="browse-q" type="search" placeholder="Filter this list by name or description" autocomplete="off" value="' + esc(browse.q) + '"></label>' +
-      '<label class="field sortf"><span>Sort By</span><select id="browse-sort"><option value="claims">Most Checks</option><option value="links">Most Connections</option><option value="az">Name, A to Z</option></select></label></div>' +
+      '<label class="field sortf"><span>Sort By</span><select id="browse-sort"><option value="claims">Most Checks</option><option value="links">Most Connections</option><option value="sum">Largest Sum</option><option value="az">Name, A to Z</option></select></label></div>' +
       '<p class="small muted" id="browse-msg" role="status"></p><div id="browse-list"></div>';
     $('browse-sort').value = browse.sort;
     function draw() {
       var q = browse.q.trim().toLowerCase();
       var list = entities.filter(function (e) { return e.group === browse.group && (!q || (e.name + ' ' + arr(e.aliases).join(' ') + ' ' + (e.role || '')).toLowerCase().indexOf(q) >= 0); });
-      list.sort(browse.sort === 'az' ? function (a, b) { return a.name.localeCompare(b.name); } : browse.sort === 'links' ? function (a, b) { return b.lines.length - a.lines.length || a.name.localeCompare(b.name); } : function (a, b) { return b.cl.length - a.cl.length || b.lines.length - a.lines.length || a.name.localeCompare(b.name); });
-      var mixed = list.some(function (e) { return e.type !== list[0].type; });
+      function topSum(e) {   // the largest sum the record states on any of this name's documented links
+        if (e._ts == null) { e._ts = 0; arr(e.sums).forEach(function (i) { var r = relAt[i]; if (r && r.S && typeof r.amount_usd === 'number' && !r.alleged && r.amount_usd > e._ts) e._ts = r.amount_usd; }); }
+        return e._ts;
+      }
+      list.sort(browse.sort === 'az' ? function (a, b) { return a.name.localeCompare(b.name); } : browse.sort === 'sum' ? function (a, b) { return topSum(b) - topSum(a) || b.lines.length - a.lines.length || a.name.localeCompare(b.name); } : browse.sort === 'links' ? function (a, b) { return b.lines.length - a.lines.length || a.name.localeCompare(b.name); } : function (a, b) { return b.cl.length - a.cl.length || b.lines.length - a.lines.length || a.name.localeCompare(b.name); });
       $('browse-msg').textContent = (GNOTE[browse.group] ? GNOTE[browse.group] + '. ' : '') + (q ? plural(list.length, 'name') + ' match “' + browse.q.trim() + '”.' : '');
-      $('browse-list').innerHTML = list.length ? '<p class="people-head" aria-hidden="true"><span>Name</span><span>Checks</span><span>Connections</span></p><ul class="people">' + list.slice(0, browse.shown).map(function (e) {
-        return '<li><div class="who-main"><a class="t" href="' + entHref(e) + '">' + esc(e.name) + '</a>' + (e.unverified_only ? ' ' + '<span class="flag">Named Only in an Unverified Check</span>' : '') +
-          '<p class="line">' + (mixed ? esc(TLABEL[e.type]) + (e.role ? ' · ' : '') : '') + esc(e.role || (mixed ? '' : TLABEL[e.type])) + '</p></div><span class="cnt"><b>' + num(e.cl.length) + '</b><span class="u"> ' + (e.cl.length === 1 ? 'check' : 'checks') + '</span></span><span class="cnt">' + num(e.lines.length) + '<span class="u"> ' + (e.lines.length === 1 ? 'connection' : 'connections') + '</span></span></li>';
-      }).join('') + '</ul>' + (list.length > browse.shown ? '<button class="more" type="button" id="browse-more">' + num(Math.min(120, list.length - browse.shown)) + ' More of ' + num(list.length) + '</button>' : '') :
+      $('browse-list').innerHTML = list.length ? '<table class="ntable"><thead><tr><th>Name</th><th class="nk">Kind</th><th class="nt">Main Topic</th><th class="numc">Checks</th><th class="numc">Links</th><th class="numc ns">Largest Sum</th></tr></thead><tbody>' + list.slice(0, browse.shown).map(function (e) {
+        var ts = topSum(e);
+        return '<tr><th scope="row"><a class="t" href="' + entHref(e) + '">' + esc(e.name) + '</a>' + (e.unverified_only ? ' ' + '<span class="flag">Named Only in an Unverified Check</span>' : '') +
+          (e.role ? '<p class="line">' + esc(e.role) + '</p>' : '') + '</th><td class="nk">' + kmark(e) + esc(TLABEL[e.type]) + '</td>' +
+          '<td class="nt">' + (e.top ? '<i class="tsw" style="background:var(--t' + (e.top.ci + 1) + ')" aria-hidden="true"></i>' + esc(e.top.short || e.top.name) : '') + '</td>' +
+          '<td class="numc" data-u="' + (e.cl.length === 1 ? 'check' : 'checks') + '">' + num(e.cl.length) + '</td><td class="numc" data-u="' + (e.lines.length === 1 ? 'link' : 'links') + '">' + num(e.lines.length) + '</td>' +
+          '<td class="numc ns">' + (ts ? esc(money(ts)) : '') + '</td></tr>';
+      }).join('') + '</tbody></table>' + (list.length > browse.shown ? '<button class="more" type="button" id="browse-more">' + num(Math.min(120, list.length - browse.shown)) + ' More of ' + num(list.length) + '</button>' : '') :
         '<p class="sub">No name in this list matches. Try another tab or the search at the top of the page.</p>';
       var more = $('browse-more'); if (more) more.addEventListener('click', function () { browse.shown += 120; draw(); });
       page.querySelectorAll('.tabs [role=tab]').forEach(function (b) { var on = b.getAttribute('data-group') === browse.group; b.setAttribute('aria-selected', String(on)); b.tabIndex = on ? 0 : -1; });
@@ -1099,6 +1106,7 @@
     var changed = Math.abs(box.width - W) > 1 || Math.abs(box.height - H) > 1;
     W = box.width; H = box.height; dpr = Math.min(window.devicePixelRatio || 1, gl.lowq >= 2 ? 1 : 2);
     canvas.width = Math.round(W * dpr); canvas.height = Math.round(H * dpr);
+    if (gl.ok && gl.layPh !== narrow.matches) { glLayout(); gl.emSt = null; gl.stamp++; gl.zoom = 1; applyFilters(); }   // a phone and a wide screen each have their own layout
     obstacles(); glFrame(); fitted = true;
     draw(); if (changed) glWake();
   }
@@ -1373,6 +1381,11 @@
     var CK = 'tcm-globe-6', sig = nodes.length + '|' + links.length + '|' + (META.generated || ''), cached = null;
     /* The measures of the layout. Lengths are in the simulation's own units; the finished ball is scaled to fit the canvas. */
     var LP = { ticks: 150, decay: 0.97, push: 0.2, mass: 0.07, hubMass: 26, relLen: 2.2, relDeg: 0.4, hubLen: 9, claimLen: 3, lobe: 24, even: 0.2, cross: 2.6, crossK: 0.25, pull: 0.05, hubLeaf: 9, leaf: 1.3, leafC: 1.5, leafK: 0.22, leafS: 0.45, cap0: 0.6, cap1: 0.22 };
+    /* A narrow, upright stage has its own layout, kept under its own key. There is far less room, so the ball is filled more
+       evenly: lobes sit closer in, leaves stand on wider shells, and a last pass moves apart any two points that are still too
+       close. It is drawn taller than wide, to the shape of the stage. */
+    gl.layPh = narrow.matches;
+    if (gl.layPh) { CK = 'tcm-globe-8p'; var LPP = { push: 0.3, lobe: 20, even: 0.48, relLen: 2.5, claimLen: 3.2, hubLeaf: 8.5, leaf: 1.6, leafC: 1.8, leafK: 0.3, leafS: 0.6, cap0: 0.8, cap1: 0.28, gap: 0.145 }; for (var lpp in LPP) LP[lpp] = LPP[lpp]; }
     if (window.__LP) { for (var lpk in window.__LP) LP[lpk] = window.__LP[lpk]; sig += '|' + JSON.stringify(window.__LP); }   // tests only
     try { var raw = JSON.parse(window.localStorage.getItem(CK) || 'null'); if (raw && raw.sig === sig && raw.p.length === nodes.length * 3) cached = raw.p; } catch (e) { cached = null; }
     if (cached) nodes.forEach(function (n, q) { n.g3 = [cached[q * 3] / 1000, cached[q * 3 + 1] / 1000, cached[q * 3 + 2] / 1000]; });
@@ -1471,6 +1484,15 @@
       var even = Math.pow((q + 0.5) / byR.length, 0.38) * rmax, k = ((1 - LP.even) * Math.min(l, rmax * 1.1) + LP.even * even) / l;
       n.g3 = [p[0] * k, p[1] * k, p[2] * k];
     });
+    if (LP.gap) {   // no two points nearer than a set gap: each close pair is eased apart, a little at a time; the hub stays where it is
+      var dmin = LP.gap * rmax, it, pa, pb, ddx, ddy, ddz, dd, mv, NN = nodes.length;
+      for (it = 0; it < 30; it++) for (i = 0; i < NN; i++) { pa = nodes[i].g3; for (j = i + 1; j < NN; j++) {
+        pb = nodes[j].g3; ddx = pb[0] - pa[0]; if (ddx > dmin || ddx < -dmin) continue; ddy = pb[1] - pa[1]; if (ddy > dmin || ddy < -dmin) continue; ddz = pb[2] - pa[2];
+        dd = Math.sqrt(ddx * ddx + ddy * ddy + ddz * ddz); if (dd >= dmin) continue; if (dd < 1e-6) { ddx = 0.001 * (1 + (i % 3)); ddy = 0.001 * (1 + (j % 3)); ddz = 0.001; dd = Math.hypot(ddx, ddy, ddz); }
+        mv = (dmin - dd) / dd * 0.5; var wa = nodes[i] === hub ? 0 : nodes[j] === hub ? 1 : 0.5;
+        pa[0] -= ddx * mv * wa; pa[1] -= ddy * mv * wa; pa[2] -= ddz * mv * wa; pb[0] += ddx * mv * (1 - wa); pb[1] += ddy * mv * (1 - wa); pb[2] += ddz * mv * (1 - wa);
+      } }
+    }
     var flat = []; nodes.forEach(function (n) { for (var q = 0; q < 3; q++) { flat.push(Math.round(n.g3[q] * 1000)); n.g3[q] = flat[flat.length - 1] / 1000; } });
     try { window.localStorage.setItem(CK, JSON.stringify({ sig: sig, p: flat })); } catch (e) { /* optional */ }
     })();
@@ -1590,7 +1612,7 @@
     obstacles(); gl.aw = a.w; gl.av = [a.x, a.y, a.x + a.w, a.y + a.h];
     var hw = Math.max(40, a.w / 2 - mg), hh = Math.max(40, a.h / 2 - (ph ? 12 : mg)),   // the topics' names are written in what margin there is, and over empty space: they adapt to the ball
  cy = a.y + a.h / 2, cx0 = a.x + a.w / 2;
-    var RX = Math.min(hw, hh * 1.42), RY = Math.min(hh, hw * (ph ? 1.12 : 1.22)), best = null;
+    var RX = Math.min(hw, hh * 1.42), RY = Math.min(hh, hw * (ph ? 1.62 : 1.22)), best = null;
     for (i = 0; i <= 6; i++) for (q = -1; q <= 1; q += 2) {   // try the middle first, then a little to either side; keep the place that allows the largest ball
       var dx = i * 14 * q, rx = Math.min(RX, hw - Math.abs(dx)), sc = 1;
       if (i && rx < RX * 0.8) continue;
@@ -1604,7 +1626,6 @@
     }
     gl.cx = best.cx; gl.cy = cy;
     gl.rad = Math.max(60, Math.min(best.rx, best.ry) / persp); gl.kx = Math.max(1, best.rx / persp / gl.rad); gl.ky = Math.max(1, best.ry / persp / gl.rad);
-    if (ph) gl.rad *= 1.55;   // on a phone the camera stands closer: the ball's rim runs a little past the sides, and turning the ball brings the rest round
     var g = ctx.createRadialGradient(gl.cx, gl.cy, 0, gl.cx, gl.cy, Math.max(W, H) * 0.75); g.addColorStop(0, GC.bg0); g.addColorStop(1, GC.bg1); gl.bgGrad = g;
   }
   function glSprite(col) {   // a soft halo, used only under the best-connected names
@@ -1708,7 +1729,7 @@
     /* On a phone the middle of the ball is opened out when it is drawn: every point is moved outwards along its line from the
        centre, most near the centre and not at all at the rim, so the crowded core gets the room the rim does not need. The
        effect fades as the reader zooms in. */
-    var gam = ph ? 1 - 0.36 / Math.max(1, gl.zoom * gl.zoom) : 1, wx = 0, wy = 0;
+    var gam = ph ? 1 - 0.22 / Math.max(1, gl.zoom * gl.zoom) : 1, wx = 0, wy = 0;
     function warp(x, y) { var dx = (x - cx) / radx, dy = (y - cy) / rady, ro = Math.sqrt(dx * dx + dy * dy), kk = ro > 1e-4 ? Math.pow(ro, gam - 1) : 1; wx = cx + dx * kk * radx; wy = cy + dy * kk * rady; }
     if (gam < 0.999) for (i = 0; i < N; i++) { warp(sx[i], sy[i]); sx[i] = wx; sy[i] = wy; }
     c.globalCompositeOperation = 'source-over'; c.globalAlpha = 1; c.fillStyle = gl.bgGrad || GC.bg1; c.fillRect(0, 0, W, H);
@@ -1744,7 +1765,7 @@
        that crosses the globe nearly vanishes on the way. While the globe is moving on a slow machine they are plain lines. */
     var cheap = (gl.moving && gl.lowq >= 1) || (gl.dbg & 1), qx = gl.qx, qy = gl.qy, x0, y0, x1, y1, ex, ey, len, u, v, pass;
     c.globalCompositeOperation = 'source-over'; c.lineWidth = (ph ? 0.5 : lite ? 0.6 : 0.7) * Math.min(1.5, 0.85 + 0.15 * gl.zoom); c.lineCap = 'butt';
-    var zk = Math.min(1.5, 0.85 + 0.15 * gl.zoom) * (ph ? 0.8 : 1);
+    var zk = Math.min(1.5, 0.85 + 0.15 * gl.zoom) * (ph ? 0.62 : 1);
     var GLA = lite ? GLA_L : GLA_D;
     for (q = 0; q < gl.cs.length - 1; q++) {
       var a0 = gl.cs[q], a1 = gl.cs[q + 1], cls = lc[a0], fac = (cls < 9 ? 1 : cls === 9 ? 0.9 : cls < 20 ? 0.4 : cls === 21 ? 0.75 : 0.4) * dim * zk;
@@ -1896,7 +1917,7 @@
         for (j = 0; j < mem.length; j++) { m = mem[j]; if (nk[m] !== 255 && sz[m] >= lim0) { pr = (sx[m] - sX) * ddx + (sy[m] - sY) * ddy; s1 += pr; s2 += pr * pr; } }
         pr = 1.7 * Math.sqrt(Math.max(0, s2 / cnt - (s1 / cnt) * (s1 / cnt)));   // how far the lobe reaches, outwards from its middle
         if (nowT) { caps.push({ tp: tp, q: q, far: false, dx: 0, dy: -1, ex: cx, ey: av[1] + 34 }); continue; }   // the topic in focus fills the stage: its name stands at the top, clear of it
-        caps.push({ tp: tp, q: q, far: far, dx: ddx, dy: ddy, ex: sX + ddx * pr, ey: sY + ddy * pr });
+        caps.push({ tp: tp, q: q, far: far, dx: ddx, dy: ddy, ex: sX + ddx * pr, ey: sY + ddy * pr, lx: sX, ly: sY, a: front ? -1.5708 + q * 0.7 : Math.atan2((sY - cy) / rady, (sX - cx) / radx) });
       }
       caps.sort(function (p, q2) { return (p.far ? 1 : 0) - (q2.far ? 1 : 0); });   // the lobes on the near side take their places first
       c.font = tfont; c.textAlign = 'left'; c.textBaseline = 'middle'; c.lineJoin = 'round';
@@ -1910,8 +1931,24 @@
           return !overlaps(placed, x0c - 8, y0c - 5, x0c + tw2 + 8, y0c + 20) && (!strict || !busy(x0c - 2, y0c, x0c + tw2 + 2, y0c + 15, cp.q % 9));
         };
         // beside its lobe, sliding a little; then the short name; then a step further out with a line back; last, anywhere near that is free of other names
-        for (ni = ph ? 1 : 0, okc = false; ni < 2 && !okc; ni++) for (ro = 0; ro <= (ni ? 36 : 0) && !okc; ro += 18) for (si = 0; si < SL.length && !okc; si++) { okc = tryAt(ni ? cp.tp.short : cp.tp.name, ro, SL[si], true); ledc = ro > 0; }
-        if (!okc && !ph) for (si = 0; si < SL2.length && !okc; si++) { okc = tryAt(cp.tp.short, 30, SL2[si], false); ledc = true; }
+        /* A lobe on the far side is seen through the ball, so its name is not written beside it, among the points: it stands on
+           the rim of the whole ball, in the lobe's direction from the middle, with a fine line to the lobe. Two that want the same
+           place are set one after the other along the rim. */
+        okc = false;
+        if (cp.far) {
+          var prs = D / Math.sqrt(D * D - 1), ang, cA, sA;
+          for (si = 0; si < 25 && !okc; si++) {
+            ang = cp.a + (si % 2 ? 1 : -1) * Math.ceil(si / 2) * 0.06; cA = Math.cos(ang); sA = Math.sin(ang);
+            txt = ph || si > 8 ? cp.tp.short : cp.tp.name; tw2 = c.measureText(txt).width;
+            x0c = cx + cA * (radx * prs + 8) - (cA > 0.3 ? 0 : cA < -0.3 ? tw2 : tw2 / 2); y0c = cy + sA * (rady * prs + 8) - 8 + sA * 8;
+            x0c = Math.max(av[0] + 8, Math.min(av[2] - tw2 - 8, x0c)); y0c = Math.max(av[1] + 6, Math.min(av[3] - 22, y0c));
+            okc = !overlaps(placed, x0c - 8, y0c - 5, x0c + tw2 + 8, y0c + 20) && !busy(x0c - 2, y0c, x0c + tw2 + 2, y0c + 15, -5);
+          }
+          ledc = true; cp.ex = cp.lx; cp.ey = cp.ly;
+        }
+        for (ni = ph ? 1 : 0; ni < 2 && !okc && !cp.far; ni++) for (ro = 0; ro <= (ni ? 36 : 0) && !okc; ro += 18) for (si = 0; si < SL.length && !okc; si++) { okc = tryAt(ni ? cp.tp.short : cp.tp.name, ro, SL[si], true); ledc = ro > 0; }
+        if (!okc && !cp.far) for (si = 0; si < SL2.length && !okc; si++) { okc = tryAt(cp.tp.short, 30, SL2[si], ph); ledc = true; }   // on a phone a name is never written over points
+        if (!okc && !cp.far && ph) for (ro = 54; ro <= 90 && !okc; ro += 18) for (si = 0; si < SL2.length && !okc; si++) { okc = tryAt(cp.tp.short, ro, SL2[si], true); ledc = true; }
         if (!okc) continue;   // on a phone a lobe with no clear ground beside it is named on the row of topics under the map
         var tb = [x0c - 4, y0c - 2, x0c + tw2 + 4, y0c + 17, cp.tp], colc = cp.far ? GC.txd[cp.q % 9] : GC.tx[cp.q % 9]; placed.push(tb); boxes.push(tb);
         c.globalAlpha = 0.95; c.lineWidth = 3.4; c.strokeStyle = GC.halo; c.strokeText(txt, x0c, y0c + 7.5);
@@ -1919,7 +1956,9 @@
         if (map.hoverTopic === cp.tp || nowT) c.fillRect(x0c, y0c + 16, tw2, 1);
         if (ledc) {   // the line from the name back to its lobe
           var mxc = Math.max(x0c, Math.min(x0c + tw2, cp.ex)), myc = cp.ey > y0c + 8 ? y0c + 18 : y0c - 3;
-          c.strokeStyle = colc; c.lineWidth = 1; c.globalAlpha = 0.8; c.beginPath(); c.moveTo(mxc, myc); c.lineTo(cp.ex, cp.ey); c.stroke();
+          var lxe = cp.ex, lye = cp.ey, lde = Math.hypot(lxe - mxc, lye - myc) || 1, lmax = cp.far ? (ph ? 26 : 1e9) : 1e9;   // on a phone the line to a far lobe is cut to a short tick, so it does not cross the ball
+          if (lde > lmax) { lxe = mxc + (lxe - mxc) / lde * lmax; lye = myc + (lye - myc) / lde * lmax; }
+          c.strokeStyle = colc; c.lineWidth = cp.far ? 0.7 : 1; c.globalAlpha = cp.far ? 0.55 : 0.8; c.beginPath(); c.moveTo(mxc, myc); c.lineTo(lxe, lye); c.stroke();
         }
       }
     }
