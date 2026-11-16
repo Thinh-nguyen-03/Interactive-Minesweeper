@@ -1,0 +1,1030 @@
+{
+ "id": "C102",
+ "title": "Trades by Officials, Family & Associates",
+ "verdict": "mostly-accurate",
+ "confidence": "medium",
+ "summary": "Disclosure filings document many well-timed trades around tariff and policy news: Attorney General Bondi's $1M-$5M+ Trump Media sale on 2 April 2025, Scavino's $1M-$5M Trump Media sale on 1 April, Duffy's February 2025 sales before the reciprocal-tariff plan, 327 purchases in Trump's own accounts on 8 April 2025 (disclosed 14 months late), at least $82M of bonds bought by Trump in autumn 2025, and heavy trading by members of Congress such as Greene and Moskowitz around the 9 April pause. Pre-announcement run-ups are documented for Dominari and Unusual Machines and reported for ALT5 Sigma, but no buyer has been identified. In prediction markets the only charged US case tied to a government action is a soldier's Maduro bets. Don Jr. advises Kalshi and Polymarket and 1789 Capital invested in Polymarket, but no family bets are documented. None of the trades has led to a finding that anyone used non-public information. Officials say outside managers made the trades or that the sales were required by ethics agreements.",
+ "sub_claims": [
+  {
+   "statement": "Attorney General Pam Bondi sold Trump Media shares and warrants on 2 April 2025, the day of the 'Liberation Day' tariff announcement.",
+   "verdict": "confirmed",
+   "finding": "Grade: documented (her OGE periodic transaction report, made public in mid-May 2025, as reported by Bloomberg Law and CBS; the form itself was not read). (1) Filing: a sale of Trump Media & Technology Group shares valued at $1M-$5M plus warrants valued at $250K-$500K, both dated 2 April 2025 (combined $1.25M-$5.5M by our arithmetic; Bloomberg Law gives $1M-$5.5M). The form does not give the time of day; Trump announced the tariffs after the market close that day, and DJT shares fell in the following sessions (CBS reports about 13% within days). (2) Inference by outlets: the timing was unusually fortunate. (3) Allegation: Rep. Jamie Raskin asked DOJ Inspector General Michael Horowitz on 20 May 2025 to investigate whether Bondi or other DOJ officials traded on non-public information. (4) No finding: no inspector-general result or other official finding was found as of Nov 2026. Context: her ethics agreement required her to divest the TMTG holding within 90 days of taking office (she was confirmed in early Feb 2025), so a sale in that window was required; only its date is in question. Response: the DOJ did not answer early press questions; at a June 2025 House hearing Bondi said she had complied with ethics rules and had lost money on the stock (as summarised by Ground News; the hearing record was not read). Builds on C65, which already records this sale.",
+   "sources": [
+    "https://news.bloomberglaw.com/us-law-week/attorney-general-pam-bondi-discloses-sale-of-trump-media-shares",
+    "https://www.cbsnews.com/news/pam-bondi-sold-at-least-1-million-dollars-trump-media-shares-on-liberation-day",
+    "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-demands-inspector-general-probe-suspicious-timing-of-stock-sale-by-attorney-general-bondi",
+    "https://democrats-judiciary.house.gov/UploadedFiles/2025-05-20.Raskin_to_Horowitz_DOJ_OIG_re_Bondi_Insider_Trading.pdf",
+    "https://ground.news/article/tell-me-what-the-numbers-are-dem-rep-rosa-delauro-repeatedly-shouts-down-pam-bondi-at-hearing"
+   ]
+  },
+  {
+   "statement": "Deputy Chief of Staff Dan Scavino and personnel director Sergio Gor sold Trump Media stock days before 2 April 2025.",
+   "verdict": "mostly-accurate",
+   "finding": "Grade: single-source for the trades (USA Today, from OGE disclosures, seen only through syndicated excerpts). (1) Filing as reported: Scavino sold Trump Media stock valued at $1M-$5M on 1 April 2025, the day before the tariff announcement, after holding it for months in office; Gor sold smaller Trump Media holdings on 27 March 2025. A later report (The Washington Sun, relayed by a blog in Oct 2026) says Scavino's 2025 annual disclosure shows $1M-$5M of capital gains from the Trump Media holding (single-source, not checked). (2)/(3) USA Today said it found no evidence that either man knew of the announcement in advance; watchdogs called the timing 'striking'. (4) No inquiry or finding was found. Response: White House assistant press secretary Taylor Rogers said senior staff including Scavino and Gor fully comply with ethics rules (quote seen only through a forum repost of the article; treat as unconfirmed wording). Scavino and Gor had not been named in earlier checks as sellers.",
+   "sources": [
+    "https://www.aol.com/trumps-deputy-chief-staff-unloaded-090659383.html",
+    "https://www.aol.com/news/trump-aide-waited-months-unload-184635513.html",
+    "https://www.aol.com/well-timed-just-lucky-top-103438989.html",
+    "https://www.joemygod.com/2026/10/white-house-aide-got-millions-from-truth-social/"
+   ]
+  },
+  {
+   "statement": "Transportation Secretary Sean Duffy sold stocks shortly before a tariff announcement.",
+   "verdict": "mostly-accurate",
+   "finding": "Grade: documented (OGE records reported by ProPublica, republished by other outlets; the forms were not read). (1) Filing: Duffy sold shares in about three dozen companies (34 stocks) on 11 and 13 February 2025, together $90K-$650K in reported ranges, before and on the day Trump announced his plan for 'reciprocal' tariffs (13 February 2025). The claim as often repeated places these sales in April 2025; they were in February. (2) ProPublica said it was unclear whether Duffy had any advance information about the timing or scale of the tariff plan. (3) No official has alleged a violation on the record that we found. (4) No inquiry or finding. Response: a Transportation Department spokesperson said an outside manager made the trades in a retirement account, that Duffy 'had no input on the timing of the sales', and that his ethics agreement required him to sell seven of those holdings within his first three months.",
+   "sources": [
+    "https://www.propublica.org/article/sean-duffy-stock-sales-trump-tariffs",
+    "https://lailluminator.com/2025/05/20/duffy-stocks/",
+    "https://www.propublica.org/article/us-officials-stock-sales-trump-tariffs"
+   ]
+  },
+  {
+   "statement": "More than a dozen other executive-branch officials and aides made well-timed sales before tariff announcements.",
+   "verdict": "mostly-accurate",
+   "finding": "Grade: documented for the existence of the filings (ProPublica review of hundreds of OGE disclosures, May 2025); only some names are visible in the excerpts we could read. (1) Named in excerpts: Gautam Rana, a longtime State Department official later ambassador to Slovakia, sold $830K-$1.7M of stock on 19 March 2025, a week before the car tariffs and two weeks before 2 April; an unnamed White House lawyer sold shares in nine companies just before a major tariff announcement. (2) ProPublica itself states there is no evidence that any of the trades it identified were informed by non-public information. (3) No authority has alleged wrongdoing that we found. (4) No finding. Responses: officials either said they had no inside information or did not respond; State Department official Stephanie Syptak-Ramnath said she had no information beyond what was public. No response from Rana was found. The full list of names was not read because the original article could not be fetched.",
+   "sources": [
+    "https://www.propublica.org/article/us-officials-stock-sales-trump-tariffs",
+    "https://www.aol.com/well-timed-just-lucky-top-103438989.html"
+   ]
+  },
+  {
+   "statement": "Trump's own accounts bought stocks the day before the 9 April 2025 tariff pause, and the trades were disclosed late.",
+   "verdict": "confirmed",
+   "finding": "Grade: documented (Trump's annual OGE financial disclosure released around 1 July 2026, as reported by Sludge, Mediaite, CNBC and others; the form was not read). (1) Filing: 327 purchases dated 8 April 2025, with a combined maximum of about $12.8M in reported ranges, in companies including Apple, Microsoft, Nvidia, Amazon and Alphabet. They had not appeared on the 45-day periodic transaction reports and surfaced more than 14 months later; a reviewer's note says late fees were paid (the statutory late fee is $200). On 9 April the S&P 500 rose about 9.5%. (2) Outlets infer the timing is notable; the filing does not show who placed the trades, the time of day, or any gain. (3) Critics and Democratic members have cited the trades; no authority has alleged a violation that we found. (4) No finding. Response: White House spokesperson Anna Kelly told CNBC that 'All of the President's assets are held in fully discretionary accounts managed by independent third-party financial institutions. There are no conflicts of interest'; a spokesperson also pointed to trading by former Speaker Nancy Pelosi. This is a material addition to C58, which addressed only unidentified options traders around the pause.",
+   "sources": [
+    "https://readsludge.com/2026/07/01/trump-bought-hundreds-of-stocks-the-day-before-he-paused-tariffs-and-sparked-a-historic-rally/",
+    "https://www.mediaite.com/politics/trump/trump-made-327-stock-purchases-the-day-before-he-announced-this-is-a-great-time-to-buy-and-rolled-back-tariffs/",
+    "https://700wlw.iheart.com/content/2026-07-02-trump-discloses-stock-trades-before-tariff-pause/"
+   ]
+  },
+  {
+   "statement": "Trump bought large amounts of corporate and municipal bonds while in office, including debt of companies affected by his policies.",
+   "verdict": "confirmed",
+   "finding": "Grade: documented (OGE Form 278-T filings released in Nov 2025, reported by Reuters and Bloomberg; the forms were listed in search results but could not be opened). (1) Filings: at least $82M of corporate and municipal bonds bought between late August and early October 2025; because amounts are ranges the upper bound exceeds $337M (Reuters). Most is municipal and public-sector debt; corporate issuers include Broadcom, Qualcomm, Meta, Home Depot, CVS Health, Goldman Sachs, Morgan Stanley and JPMorgan Chase, and Reuters-based reports say the accounts bought Intel bonds shortly after the government took its Intel stake in August 2025. A trade-publication tally puts bond purchases for the term at over $104M (single-source). (2) Watchdogs describe these as potential conflicts because the issuers are affected by tariff, technology and financial-regulation policy. (3)/(4) No allegation of trading on non-public information by an authority and no finding. Response: a White House official said Trump does not manage his portfolio, which is overseen by a third-party institution, and that he files the required disclosures. Later 2026 filings (Q1 2026: about 3,600-3,700 trades, including Palantir, Nvidia and a 10 Feb 2026 Dell purchase months before he praised Dell) are covered in C20 and C68 and not repeated here.",
+   "sources": [
+    "https://finance.yahoo.com/news/trump-buys-least-82-million-222505118.html",
+    "https://www.kitco.com/news/off-the-wire/2025-11-17/trump-buys-least-82-million-bonds-late-august-disclosures-show",
+    "https://news.bloomberglaw.com/capital-markets/trump-buys-another-82-million-of-corporate-and-municipal-bonds",
+    "https://bondblox.com/news/filing-reveals-trump-bought-over-104mn-in-bonds-this-term",
+    "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/2C89623DC721F62585258D430031A32A/$FILE/Donald J. Trump 10.20.2025 278-T.pdf",
+    "https://www.capitoltrades.com/articles/3700-trades-half-a-billion-dollars-inside-trump-s-q1-stock-spree-2026-05-18",
+    "https://fortune.com/2026/05/23/trump-stock-portfolio-trading-market-strategies-indexing-tax-loss-harvesting/",
+    "https://finance.yahoo.com/markets/stocks/articles/eric-trump-says-family-assets-192500434.html"
+   ]
+  },
+  {
+   "statement": "Members of Congress bought or sold stocks around the 9 April 2025 tariff pause.",
+   "verdict": "confirmed",
+   "finding": "Grade: documented (House periodic transaction reports as reported by Bloomberg, Business Insider, Fortune, CNN and the Campaign Legal Center; the PTRs were not read). (1) Filings: Rep. Marjorie Taylor Greene reported purchases in about 17-20 companies (including Tesla, Amazon, Apple, Nvidia, Palantir, Blackstone) dated mainly 8-9 April 2025 (some outlets add 2 April or 3-4 April), together $21,021-$315,000, and a sale of Treasuries of $50,001-$100,000 on 8 April; she filed on 11 April. Rep. Jared Moskowitz bought $20K-$300K across about 20 companies on 7 April (Business Insider; The Bulwark gives up to $345K). Rep. Rob Bresnahan reported 171 trades on 8 April (single chart source); Rep. Ro Khanna reported 438 transactions from 31 March to 9 April (CNN); Rep. Kevin Hern reported the largest single transaction, up to $5M (CNN). The Campaign Legal Center counted 53 members making over 2,200 trades worth $34.9M-$140M between 13 February and 9 April 2025, split roughly evenly by party. (2) House disclosure ranges do not show profit or loss (Fortune). (3) Critics and the NRCC (against Moskowitz) questioned the timing; CLC used the data to argue for a trading ban rather than alleging insider trading. (4) No House Ethics or other official finding on these trades was found in this research. Responses: Greene denied insider trading, said her portfolio manager 'bought the dip' and called calls for an investigation 'utterly absurd'; Moskowitz's office, Bresnahan and Khanna said outside advisers manage their trades; several members said filings reflected spouse or managed-account activity.",
+   "sources": [
+    "https://politicalwire.com/2025/04/14/marjorie-taylor-greene-profited-from-tariff-pause/",
+    "https://news.bloomberglaw.com/securities-law/trump-ally-greene-bought-tesla-amazon-blackstone-before-rally",
+    "https://www.washingtonexaminer.com/?p=3381975",
+    "https://www.wsbtv.com/news/local/atlanta/marjorie-taylor-greene-says-calls-investigation-into-her-stock-trades-utterly-absurd/SOVJNPFBDRHHJLQNTNVUI6ZEBI",
+    "https://www.aol.com/news/not-just-mtg-house-democrat-175459564.html",
+    "https://www.thebulwark.com/p/how-trumps-tariff-spasms-became-a",
+    "https://fortune.com/2025/06/10/congress-house-stock-trades-trump-liberation-day/",
+    "https://www.yahoo.com/news/days-around-trump-trade-war-080004689.html",
+    "https://campaignlegal.org/sites/default/files/2025-07/Congress%20Stock%20Trading%20and%20Tariffs%20_%20FINAL%207-24.pdf",
+    "https://campaignlegal.org/update/millions-dollars-congressional-stock-trading-around-tariffs-highlights-growing-problem"
+   ]
+  },
+  {
+   "statement": "Small listed companies saw unusual trading before Trump family involvement was announced (Dominari, Unusual Machines, PSQ, GrabAGun, American Bitcoin/Gryphon, ALT5 Sigma).",
+   "verdict": "partly-accurate",
+   "finding": "Grade: documented for price and volume moves in two cases; no trader identified in any case. Dominari: a roughly 530-580% six-week run-up before the 11 Feb 2025 announcement, with no buyer identified (C39, C91; not repeated). Unusual Machines: shares rose more than 220% in the four weeks before Don Jr. joined its advisory board on 27 Nov 2024 (before the term began), with volume well above earlier 2024 (FT); the company said knowledge of his planned involvement was limited to three senior officers, the board and counsel. PSQ Holdings: shares nearly tripled on the day (3 Dec 2024) reports said Don Jr. would join its board; no pre-announcement run-up was reported. GrabAGun: fell about 24% on its July 2025 debut; no pre-announcement anomaly reported (C39). Gryphon/American Bitcoin: spike came on the 12 May 2025 announcement, no reported run-up (C91). ALT5 Sigma: The Block reported 'some evidence of unusual trading activity' before the 11 Aug 2025 WLFI-treasury announcement while stating ALT5 is not accused of wrongdoing; price figures for the days before conflict between outlets, and the stock fell on the day (C13 did not record this). Regulators: the WSJ reported in Sept 2025 that the SEC and FINRA had contacted some of the 200+ crypto-treasury companies about volume and price spikes before announcements; outlets did not establish that ALT5 was among them, and one secondary report naming Trump Media among the companies under scrutiny is unconfirmed. No enforcement action, named trader or official finding was found for any of these companies through Nov 2026.",
+   "sources": [
+    "https://finance.yahoo.com/news/york-companies-enjoy-unusual-share-133219233.html",
+    "https://www.tipranks.com/news/the-fly/trading-in-obscure-stocks-soared-before-trump-appointments-disclosed-ft-says",
+    "https://www.nbcnewyork.com/news/business/money-report/psq-holdings-doubles-in-latest-stock-to-rip-higher-on-news-of-donald-trump-jr-s-involvement/6034875/",
+    "https://www.barchart.com/story/news/33443165/the-online-gunseller-with-donald-trump-jr-on-its-board-makes-its-market-debut-shares-plunge",
+    "https://www.theblock.co/post/380564/turmoil-inside-world-liberty-crypto-treasury-investigations-firings-rwandan-money-laundering-conviction",
+    "https://thedefiant.io/alt5-sigma-shares-dropped-after-wlfi-treasury-announcement",
+    "https://www.theblock.co/news/regulation/2025-09-26-sec-finra-examine-trading-patterns-dats-372480",
+    "https://decrypt.co/341515/regulators-eye-stock-jumps-corporate-crypto-buys?amp=1"
+   ]
+  },
+  {
+   "statement": "Traders have been identified for prediction-market bets tied to government decisions.",
+   "verdict": "partly-accurate",
+   "finding": "Grade: documented for charged cases; none involves a Trump administration political official or family member. US: Army Master Sgt. Gannon Ken Van Dyke was indicted in SDNY (unsealed 23 April 2026) on commodities-fraud and wire-fraud counts, alongside a CFTC civil case, for allegedly using classified information about the Maduro operation to win more than $400K on Polymarket; Polymarket says it identified and referred the trades. The case is an allegation pending trial (C58). Not a government decision but the second US case: Google employee Michele Spagnuolo ('AlphaRaccoon') was charged on 27 May 2026 over about $1.2M of Polymarket bets on Google search rankings. Abroad: Israel indicted an IDF reservist and a civilian in Feb 2026 for allegedly using classified information about Israeli military operations to bet on Polymarket (reported winnings about $150K-$162K). Kalshi fined and suspended congressional candidates who bet on their own races (platform action, no charges). Unidentified: the wallets that profited on the Feb 2026 Iran-strike contracts (Bubblemaps: six fresh wallets, about $1M) and other well-timed bets on Washington decisions; no trader has been named. Response: the White House warned staff in March 2026 that trading on non-public information breaks ethics rules, and spokesman David Ingle called implications that officials were betting 'baseless'.",
+   "sources": [
+    "https://www.deseret.com/u-s-world/2026/04/24/us-solider-charged-insider-trading-maduro-capture-maduro-polymarket-kalshi/",
+    "https://www.debevoise.com/insights/publications/2026/04/polymarket-insider-trading-charges-illustrate-doj",
+    "https://www.opb.org/article/2026/05/27/doj-charges-google-employee-over-polymarket-trades/",
+    "https://www.npr.org/2026/02/12/nx-s1-5712801/polymarket-bets-traders-israel-military",
+    "https://frontofficesports.com/kalshi-bans-fines-2-traders-who-bet-on-inside-information/",
+    "https://www.theblock.co/post/391650/fresh-accounts-netted-1-million-on-polymarket-hours-before-us-airstrikes-on-iran-bubblemaps",
+    "https://qz.com/white-house-staff-warning-prediction-markets-insider-trading-041026"
+   ]
+  },
+  {
+   "statement": "The prediction-market platforms have ties to the Trump family.",
+   "verdict": "confirmed",
+   "finding": "Grade: documented (re-verified from C25 and C38 sources; no new searches spent). Donald Trump Jr. became a strategic adviser to Kalshi in January 2025 and joined Polymarket's advisory board on 26 Aug 2025, the day 1789 Capital, where he is a partner, made an eight-figure strategic investment; in Aug 2026 a 1789 spokesperson confirmed plans to invest about $300M in a roughly $1B Polymarket round. Trump Media announced Truth Predict with Crypto.com in Oct 2025 and shelved it in Aug 2026. No filing or reporting documents any bet by a Trump family member on either platform. Responses: Don Jr.'s spokesperson says he does not engage with the federal government on behalf of companies he invests in or advises; Kalshi says he advises on marketing, not regulation.",
+   "sources": [
+    "https://fortune.com/2025/01/13/donald-trump-jr-kalshi-prediction-market-strategic-adviser/",
+    "https://www.theblock.co/post/368292/donald-trump-jr-invests-in-polymarket-and-joins-advisory-board",
+    "https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round",
+    "https://blockworks.co/news/trump-media-truth-predict",
+    "https://www.gaming.net/kalshi-rebuts-report-trump-jr-pitched-gop-attorneys-general/"
+   ]
+  },
+  {
+   "statement": "Any of these documented trades has been shown to rest on misuse of non-public information.",
+   "verdict": "unverified",
+   "finding": "Grade: absence of record through Nov 2026. Every trade above is a disclosed or reported trade; none has produced a charge, an inspector-general finding, an SEC or CFTC action, or an ethics-committee finding against the official, member of Congress or family member concerned. Several of the trades were mandated divestitures (Bondi, part of Duffy's) or made in accounts the filers say are managed by others (Trump, Duffy, Greene, Moskowitz, Khanna, Bresnahan). The only people charged in connection with government-decision bets are a soldier (Van Dyke) and, abroad, an Israeli reservist and civilian. Requests for investigation and their outcomes are the subject of C103.",
+   "sources": [
+    "https://democrats-judiciary.house.gov/UploadedFiles/2025-05-20.Raskin_to_Horowitz_DOJ_OIG_re_Bondi_Insider_Trading.pdf",
+    "https://www.propublica.org/article/us-officials-stock-sales-trump-tariffs",
+    "https://www.mediaite.com/politics/trump/trump-made-327-stock-purchases-the-day-before-he-announced-this-is-a-great-time-to-buy-and-rolled-back-tariffs/",
+    "https://www.deseret.com/u-s-world/2026/04/24/us-solider-charged-insider-trading-maduro-capture-maduro-polymarket-kalshi/"
+   ]
+  }
+ ],
+ "corrections": [
+  "Claimed: the Transportation Secretary sold stock shortly before the April 2025 tariff announcements. The record shows: Duffy's reported sales were on 11 and 13 February 2025, around the 13 February reciprocal-tariff plan, not in April.",
+  "Claimed (C58 summary, read broadly): no public evidence ties Trump to trades around the tariff pause. The record shows: that statement holds for the unidentified options traders, but Trump's own accounts made 327 purchases (up to about $12.8M) on 8 April 2025, disclosed in July 2026; the filing does not show who directed them.",
+  "C65 gives Bondi's sale as $1M-$5M of shares plus $250K-$500K of warrants (Bloomberg Law: $1M-$5.5M combined). The two ranges add to $1.25M-$5.5M; no change of substance.",
+  "Dates of Rep. Greene's purchases differ by outlet: most reports give 8-9 April 2025, others add 2 April or 3-4 April. The $21,021-$315,000 total is consistent.",
+  "C13 does not mention the reported unusual trading in ALT5 Sigma before the 11 Aug 2025 announcement; The Block reported it without accusing the company.",
+  "Unusual Machines' run-up (more than 220% in four weeks) came before Don Jr. joined on 27 Nov 2024, before the second term began."
+ ],
+ "denials_and_context": [
+  "A disclosed trade is not evidence of misuse of non-public information. Periodic transaction reports give only value ranges and dates, not time of day, profit, or who made the decision.",
+  "Bondi's ethics agreement required her to sell the Trump Media stake; DOJ did not answer early questions on the timing, and she later told a House hearing she complied with ethics rules and lost money (secondary summary).",
+  "The White House says Trump's assets are in fully discretionary accounts run by independent third-party institutions and that there are no conflicts; it also pointed to trading by Nancy Pelosi. The trust is not a blind trust.",
+  "The Transportation Department says an outside manager made Duffy's trades without his input and that some sales were required by his ethics agreement.",
+  "Greene says her portfolio manager 'bought the dip'; Moskowitz, Bresnahan and Khanna say outside advisers manage their trades.",
+  "Unusual Machines said only three senior officers, its board and counsel knew of Don Jr.'s planned role. ALT5 Sigma is not accused of wrongdoing in The Block's report.",
+  "Don Jr.'s spokesperson and Kalshi deny that he works on regulatory matters for the platforms; no bet by any Trump family member is documented.",
+  "Original pages (ProPublica, OGE and White House PDFs, CBS, USA Today, House Judiciary) could not be fetched from this research environment; all findings rest on search excerpts and syndicated copies, so some names, ranges and quotes may be incomplete."
+ ],
+ "sources": [
+  {
+   "title": "Attorney General Pam Bondi discloses sale of Trump Media shares",
+   "publisher": "Bloomberg Law",
+   "url": "https://news.bloomberglaw.com/us-law-week/attorney-general-pam-bondi-discloses-sale-of-trump-media-shares",
+   "date": "2025-05",
+   "read": "excerpt"
+  },
+  {
+   "title": "Bondi sold at least $1 million in Trump Media shares on 'Liberation Day,' documents show",
+   "publisher": "CBS News",
+   "url": "https://www.cbsnews.com/news/pam-bondi-sold-at-least-1-million-dollars-trump-media-shares-on-liberation-day",
+   "date": "2025-05",
+   "read": "excerpt"
+  },
+  {
+   "title": "Ranking Member Raskin demands Inspector General probe suspicious timing of stock sale by Attorney General Bondi",
+   "publisher": "House Judiciary Committee Democrats",
+   "url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-demands-inspector-general-probe-suspicious-timing-of-stock-sale-by-attorney-general-bondi",
+   "date": "2025-05-20",
+   "read": "excerpt"
+  },
+  {
+   "title": "Raskin letter to DOJ Inspector General Horowitz re Bondi insider trading",
+   "publisher": "House Judiciary Committee Democrats",
+   "url": "https://democrats-judiciary.house.gov/UploadedFiles/2025-05-20.Raskin_to_Horowitz_DOJ_OIG_re_Bondi_Insider_Trading.pdf",
+   "date": "2025-05-20",
+   "read": "excerpt"
+  },
+  {
+   "title": "Pam Bondi clashes with Democrats at heated House hearing (aggregated summary)",
+   "publisher": "Ground News",
+   "url": "https://ground.news/article/tell-me-what-the-numbers-are-dem-rep-rosa-delauro-repeatedly-shouts-down-pam-bondi-at-hearing",
+   "date": "2025-06",
+   "read": "excerpt"
+  },
+  {
+   "title": "Trump's deputy chief of staff unloaded Trump Media stock the day before tariff announcement",
+   "publisher": "USA Today via AOL",
+   "url": "https://www.aol.com/trumps-deputy-chief-staff-unloaded-090659383.html",
+   "date": "2025",
+   "read": "excerpt"
+  },
+  {
+   "title": "Trump aide waited months to unload his Truth Social stock. Then he sold hours before 'Liberation Day' tanked the markets",
+   "publisher": "via AOL",
+   "url": "https://www.aol.com/news/trump-aide-waited-months-unload-184635513.html",
+   "date": "2025",
+   "read": "excerpt"
+  },
+  {
+   "title": "White House aide got millions from Truth Social (relaying The Washington Sun)",
+   "publisher": "Joe.My.God",
+   "url": "https://www.joemygod.com/2026/10/white-house-aide-got-millions-from-truth-social/",
+   "date": "2026-10",
+   "read": "excerpt"
+  },
+  {
+   "title": "More than a dozen US officials sold stocks before Trump's tariffs sent the market plunging",
+   "publisher": "ProPublica",
+   "url": "https://www.propublica.org/article/us-officials-stock-sales-trump-tariffs",
+   "date": "2025-05",
+   "read": "excerpt"
+  },
+  {
+   "title": "Transportation secretary sold stocks two days before Trump announced reciprocal tariffs plan",
+   "publisher": "ProPublica",
+   "url": "https://www.propublica.org/article/sean-duffy-stock-sales-trump-tariffs",
+   "date": "2025-05",
+   "read": "excerpt"
+  },
+  {
+   "title": "Transportation secretary sold stocks two days before Trump announced reciprocal tariffs plan (republished)",
+   "publisher": "Louisiana Illuminator / ProPublica",
+   "url": "https://lailluminator.com/2025/05/20/duffy-stocks/",
+   "date": "2025-05-20",
+   "read": "excerpt"
+  },
+  {
+   "title": "Well-timed or just lucky? Top Trump officials' stock sales clustered before tariff news",
+   "publisher": "USA Today via AOL",
+   "url": "https://www.aol.com/well-timed-just-lucky-top-103438989.html",
+   "date": "2025",
+   "read": "excerpt"
+  },
+  {
+   "title": "Trump bought hundreds of stocks the day before he paused tariffs and sparked a historic rally",
+   "publisher": "Sludge",
+   "url": "https://readsludge.com/2026/07/01/trump-bought-hundreds-of-stocks-the-day-before-he-paused-tariffs-and-sparked-a-historic-rally/",
+   "date": "2026-07-01",
+   "read": "excerpt"
+  },
+  {
+   "title": "Trump made 327 stock purchases the day before he announced 'This is a great time to buy' and paused tariffs",
+   "publisher": "Mediaite",
+   "url": "https://www.mediaite.com/politics/trump/trump-made-327-stock-purchases-the-day-before-he-announced-this-is-a-great-time-to-buy-and-rolled-back-tariffs/",
+   "date": "2026-07",
+   "read": "excerpt"
+  },
+  {
+   "title": "Trump discloses stock trades before tariff pause",
+   "publisher": "iHeart / 700WLW",
+   "url": "https://700wlw.iheart.com/content/2026-07-02-trump-discloses-stock-trades-before-tariff-pause/",
+   "date": "2026-07-02",
+   "read": "excerpt"
+  },
+  {
+   "title": "Trump buys at least $82 million in bonds since late August, disclosures show",
+   "publisher": "Reuters via Yahoo Finance",
+   "url": "https://finance.yahoo.com/news/trump-buys-least-82-million-222505118.html",
+   "date": "2025-11-16",
+   "read": "excerpt"
+  },
+  {
+   "title": "Trump buys at least $82 million in bonds since late August, disclosures show",
+   "publisher": "Reuters via Kitco",
+   "url": "https://www.kitco.com/news/off-the-wire/2025-11-17/trump-buys-least-82-million-bonds-late-august-disclosures-show",
+   "date": "2025-11-17",
+   "read": "excerpt"
+  },
+  {
+   "title": "Trump buys another $82 million of corporate and municipal bonds",
+   "publisher": "Bloomberg Law",
+   "url": "https://news.bloomberglaw.com/capital-markets/trump-buys-another-82-million-of-corporate-and-municipal-bonds",
+   "date": "2025-11",
+   "read": "excerpt"
+  },
+  {
+   "title": "Filing reveals Trump bought over $104mn in bonds this term",
+   "publisher": "BondBlox",
+   "url": "https://bondblox.com/news/filing-reveals-trump-bought-over-104mn-in-bonds-this-term",
+   "date": "2025",
+   "read": "excerpt"
+  },
+  {
+   "title": "Donald J. Trump OGE Form 278-T (20 Oct 2025)",
+   "publisher": "Office of Government Ethics",
+   "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/2C89623DC721F62585258D430031A32A/$FILE/Donald J. Trump 10.20.2025 278-T.pdf",
+   "date": "2025-10-20",
+   "read": "excerpt"
+  },
+  {
+   "title": "3,700 trades, half a billion dollars: inside Trump's Q1 stock spree",
+   "publisher": "Capitol Trades",
+   "url": "https://www.capitoltrades.com/articles/3700-trades-half-a-billion-dollars-inside-trump-s-q1-stock-spree-2026-05-18",
+   "date": "2026-05-18",
+   "read": "excerpt"
+  },
+  {
+   "title": "Trump stock portfolio: indexing, tax-loss harvesting",
+   "publisher": "Fortune",
+   "url": "https://fortune.com/2026/05/23/trump-stock-portfolio-trading-market-strategies-indexing-tax-loss-harvesting/",
+   "date": "2026-05-23",
+   "read": "excerpt"
+  },
+  {
+   "title": "Eric Trump says family assets ... (Q1 2026 disclosure coverage)",
+   "publisher": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/eric-trump-says-family-assets-192500434.html",
+   "date": "2026-05",
+   "read": "excerpt"
+  },
+  {
+   "title": "Marjorie Taylor Greene profited from tariff pause",
+   "publisher": "Political Wire",
+   "url": "https://politicalwire.com/2025/04/14/marjorie-taylor-greene-profited-from-tariff-pause/",
+   "date": "2025-04-14",
+   "read": "excerpt"
+  },
+  {
+   "title": "Trump ally Greene bought Tesla and Amazon before stock rally",
+   "publisher": "Bloomberg Law",
+   "url": "https://news.bloomberglaw.com/securities-law/trump-ally-greene-bought-tesla-amazon-blackstone-before-rally",
+   "date": "2025-04-15",
+   "read": "excerpt"
+  },
+  {
+   "title": "MTG denies insider trading accusations, says portfolio manager 'bought the dip'",
+   "publisher": "Washington Examiner",
+   "url": "https://www.washingtonexaminer.com/?p=3381975",
+   "date": "2025-04",
+   "read": "excerpt"
+  },
+  {
+   "title": "Marjorie Taylor Greene says calls for investigation into her stock trades 'utterly absurd'",
+   "publisher": "WSB-TV",
+   "url": "https://www.wsbtv.com/news/local/atlanta/marjorie-taylor-greene-says-calls-investigation-into-her-stock-trades-utterly-absurd/SOVJNPFBDRHHJLQNTNVUI6ZEBI",
+   "date": "2025-04",
+   "read": "excerpt"
+  },
+  {
+   "title": "Not just MTG: this House Democrat plunged tens of thousands of dollars into the stock market before Trump's tariff pause",
+   "publisher": "Business Insider via AOL",
+   "url": "https://www.aol.com/news/not-just-mtg-house-democrat-175459564.html",
+   "date": "2025-04",
+   "read": "excerpt"
+  },
+  {
+   "title": "How Trump's tariff spasms became a gold rush in Congress",
+   "publisher": "The Bulwark",
+   "url": "https://www.thebulwark.com/p/how-trumps-tariff-spasms-became-a",
+   "date": "2025",
+   "read": "excerpt"
+  },
+  {
+   "title": "Trump's 'Liberation Day' led to a tidal wave of stock trades from members of Congress",
+   "publisher": "Fortune",
+   "url": "https://fortune.com/2025/06/10/congress-house-stock-trades-trump-liberation-day/",
+   "date": "2025-06-10",
+   "read": "excerpt"
+  },
+  {
+   "title": "The days around Trump's trade war announcements saw spikes in lawmaker stock market transactions",
+   "publisher": "CNN via Yahoo News",
+   "url": "https://www.yahoo.com/news/days-around-trump-trade-war-080004689.html",
+   "date": "2025-06-11",
+   "read": "excerpt"
+  },
+  {
+   "title": "Congress, stock trading and tariffs (report)",
+   "publisher": "Campaign Legal Center",
+   "url": "https://campaignlegal.org/sites/default/files/2025-07/Congress%20Stock%20Trading%20and%20Tariffs%20_%20FINAL%207-24.pdf",
+   "date": "2025-07-24",
+   "read": "excerpt"
+  },
+  {
+   "title": "Millions of dollars in congressional stock trading around tariffs highlights growing problem",
+   "publisher": "Campaign Legal Center",
+   "url": "https://campaignlegal.org/update/millions-dollars-congressional-stock-trading-around-tariffs-highlights-growing-problem",
+   "date": "2025-07",
+   "read": "excerpt"
+  },
+  {
+   "title": "New York companies enjoy 'unusual' share surge before Trump's sons join (FT)",
+   "publisher": "Financial Times via Yahoo Finance",
+   "url": "https://finance.yahoo.com/news/york-companies-enjoy-unusual-share-133219233.html",
+   "date": "2025-02",
+   "read": "excerpt"
+  },
+  {
+   "title": "Trading in obscure stocks soared before Trump appointments disclosed, FT says",
+   "publisher": "TipRanks / The Fly",
+   "url": "https://www.tipranks.com/news/the-fly/trading-in-obscure-stocks-soared-before-trump-appointments-disclosed-ft-says",
+   "date": "2025-02",
+   "read": "excerpt"
+  },
+  {
+   "title": "PSQ Holdings doubles in latest stock to rip higher on news of Donald Trump Jr.'s involvement",
+   "publisher": "CNBC via NBC New York",
+   "url": "https://www.nbcnewyork.com/news/business/money-report/psq-holdings-doubles-in-latest-stock-to-rip-higher-on-news-of-donald-trump-jr-s-involvement/6034875/",
+   "date": "2024-12-03",
+   "read": "excerpt"
+  },
+  {
+   "title": "The online gunseller with Donald Trump Jr. on its board makes its market debut. Shares plunge",
+   "publisher": "AP via Barchart",
+   "url": "https://www.barchart.com/story/news/33443165/the-online-gunseller-with-donald-trump-jr-on-its-board-makes-its-market-debut-shares-plunge",
+   "date": "2025-07-16",
+   "read": "excerpt"
+  },
+  {
+   "title": "Turmoil inside World Liberty's crypto treasury: investigations, firings, Rwandan money-laundering conviction",
+   "publisher": "The Block",
+   "url": "https://www.theblock.co/post/380564/turmoil-inside-world-liberty-crypto-treasury-investigations-firings-rwandan-money-laundering-conviction",
+   "date": "2025-11",
+   "read": "excerpt"
+  },
+  {
+   "title": "ALT5 shares dropped 26% after firm revealed plans to create $1.5B WLFI treasury",
+   "publisher": "The Defiant",
+   "url": "https://thedefiant.io/alt5-sigma-shares-dropped-after-wlfi-treasury-announcement",
+   "date": "2025-08",
+   "read": "excerpt"
+  },
+  {
+   "title": "SEC, FINRA probe suspicious stock trades before crypto treasury announcements: WSJ",
+   "publisher": "The Block",
+   "url": "https://www.theblock.co/news/regulation/2025-09-26-sec-finra-examine-trading-patterns-dats-372480",
+   "date": "2025-09-26",
+   "read": "excerpt"
+  },
+  {
+   "title": "Regulators eye stock jumps before corporate crypto buys: WSJ",
+   "publisher": "Decrypt",
+   "url": "https://decrypt.co/341515/regulators-eye-stock-jumps-corporate-crypto-buys?amp=1",
+   "date": "2025-09",
+   "read": "excerpt"
+  },
+  {
+   "title": "US soldier charged with insider trading over Maduro capture bets",
+   "publisher": "Deseret News",
+   "url": "https://www.deseret.com/u-s-world/2026/04/24/us-solider-charged-insider-trading-maduro-capture-maduro-polymarket-kalshi/",
+   "date": "2026-04-24",
+   "read": "excerpt"
+  },
+  {
+   "title": "Polymarket insider trading charges illustrate DOJ and CFTC prediction markets enforcement strategy",
+   "publisher": "Debevoise & Plimpton",
+   "url": "https://www.debevoise.com/insights/publications/2026/04/polymarket-insider-trading-charges-illustrate-doj",
+   "date": "2026-04",
+   "read": "excerpt"
+  },
+  {
+   "title": "DOJ charges Google staffer over Polymarket trades netting $1.2 million",
+   "publisher": "NPR via OPB",
+   "url": "https://www.opb.org/article/2026/05/27/doj-charges-google-employee-over-polymarket-trades/",
+   "date": "2026-05-27",
+   "read": "excerpt"
+  },
+  {
+   "title": "Israel accuses two of using military secrets to place Polymarket bets",
+   "publisher": "NPR",
+   "url": "https://www.npr.org/2026/02/12/nx-s1-5712801/polymarket-bets-traders-israel-military",
+   "date": "2026-02-12",
+   "read": "excerpt"
+  },
+  {
+   "title": "Kalshi bans, fines traders who bet on inside information",
+   "publisher": "Front Office Sports",
+   "url": "https://frontofficesports.com/kalshi-bans-fines-2-traders-who-bet-on-inside-information/",
+   "date": "2026",
+   "read": "excerpt"
+  },
+  {
+   "title": "Fresh accounts netted $1 million on Polymarket hours before US airstrikes on Iran: Bubblemaps",
+   "publisher": "The Block",
+   "url": "https://www.theblock.co/post/391650/fresh-accounts-netted-1-million-on-polymarket-hours-before-us-airstrikes-on-iran-bubblemaps",
+   "date": "2026-03",
+   "read": "excerpt"
+  },
+  {
+   "title": "Donald Trump Jr. joins Kalshi as strategic adviser",
+   "publisher": "Fortune",
+   "url": "https://fortune.com/2025/01/13/donald-trump-jr-kalshi-prediction-market-strategic-adviser/",
+   "date": "2025-01-13",
+   "read": "excerpt"
+  },
+  {
+   "title": "Donald Trump Jr. invests in Polymarket and joins advisory board",
+   "publisher": "The Block",
+   "url": "https://www.theblock.co/post/368292/donald-trump-jr-invests-in-polymarket-and-joins-advisory-board",
+   "date": "2025-08-26",
+   "read": "excerpt"
+  },
+  {
+   "title": "Trump Jr.-linked fund to invest $300M in Polymarket $1B round",
+   "publisher": "Cointelegraph",
+   "url": "https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round",
+   "date": "2026-08-31",
+   "read": "excerpt"
+  },
+  {
+   "title": "Trump Media announces Truth Predict",
+   "publisher": "Blockworks",
+   "url": "https://blockworks.co/news/trump-media-truth-predict",
+   "date": "2025-10-28",
+   "read": "excerpt"
+  },
+  {
+   "title": "Kalshi rebuts report Trump Jr. pitched GOP attorneys general",
+   "publisher": "Gaming.net",
+   "url": "https://www.gaming.net/kalshi-rebuts-report-trump-jr-pitched-gop-attorneys-general/",
+   "date": "2026-08-27",
+   "read": "excerpt"
+  },
+  {
+   "title": "White House staff warned about prediction markets and insider trading",
+   "publisher": "Quartz",
+   "url": "https://qz.com/white-house-staff-warning-prediction-markets-insider-trading-041026",
+   "date": "2026-04-10",
+   "read": "excerpt"
+  }
+ ],
+ "entities": [
+  {
+   "id": "pam-bondi",
+   "name": "Pam Bondi",
+   "type": "person",
+   "description": "Attorney General until April 2026; sold Trump Media shares and warrants on 2 April 2025"
+  },
+  {
+   "id": "dan-scavino",
+   "name": "Dan Scavino",
+   "type": "person",
+   "description": "White House deputy chief of staff; sold Trump Media stock on 1 April 2025 (reported)"
+  },
+  {
+   "id": "sergio-gor",
+   "name": "Sergio Gor",
+   "type": "person",
+   "description": "White House personnel director; sold smaller Trump Media holdings on 27 March 2025 (reported)"
+  },
+  {
+   "id": "sean-duffy",
+   "name": "Sean Duffy",
+   "type": "person",
+   "description": "Transportation Secretary; sold about 34 stocks on 11 and 13 Feb 2025"
+  },
+  {
+   "id": "gautam-rana",
+   "name": "Gautam Rana",
+   "type": "person",
+   "description": "State Department official, later ambassador to Slovakia; sold $830K-$1.7M of stock on 19 March 2025"
+  },
+  {
+   "id": "donald-trump",
+   "name": "Donald Trump",
+   "type": "person",
+   "description": "President whose accounts made 327 purchases on 8 April 2025 and bought at least $82M of bonds in autumn 2025"
+  },
+  {
+   "id": "anna-kelly",
+   "name": "Anna Kelly",
+   "type": "person",
+   "description": "White House spokesperson; said Trump's assets are in discretionary third-party accounts"
+  },
+  {
+   "id": "marjorie-taylor-greene",
+   "name": "Marjorie Taylor Greene",
+   "type": "person",
+   "description": "Representative who reported $21K-$315K of stock purchases around 8-9 April 2025"
+  },
+  {
+   "id": "jared-moskowitz",
+   "name": "Jared Moskowitz",
+   "type": "person",
+   "description": "Representative who reported $20K-$300K of purchases on 7 April 2025"
+  },
+  {
+   "id": "rob-bresnahan",
+   "name": "Rob Bresnahan",
+   "type": "person",
+   "description": "Representative who reported 171 trades on 8 April 2025"
+  },
+  {
+   "id": "ro-khanna",
+   "name": "Ro Khanna",
+   "type": "person",
+   "description": "Representative who reported 438 transactions from 31 March to 9 April 2025"
+  },
+  {
+   "id": "kevin-hern",
+   "name": "Kevin Hern",
+   "type": "person",
+   "description": "Representative with the largest single reported transaction (up to $5M) in the tariff window"
+  },
+  {
+   "id": "jamie-raskin",
+   "name": "Jamie Raskin",
+   "type": "person",
+   "description": "House Judiciary ranking Democrat; asked DOJ IG to probe Bondi's sale"
+  },
+  {
+   "id": "campaign-legal-center",
+   "name": "Campaign Legal Center",
+   "type": "company",
+   "description": "Watchdog that counted 2,200+ congressional trades in the tariff window"
+  },
+  {
+   "id": "propublica",
+   "name": "ProPublica",
+   "type": "media",
+   "description": "Reviewed officials' disclosures and reported well-timed sales"
+  },
+  {
+   "id": "office-of-government-ethics",
+   "name": "Office of Government Ethics",
+   "type": "government",
+   "description": "Publishes executive-branch 278e and 278-T disclosures"
+  },
+  {
+   "id": "trump-media-technology-group",
+   "name": "Trump Media & Technology Group",
+   "type": "company",
+   "description": "Company whose shares Bondi, Scavino and Gor sold before 2 April 2025"
+  },
+  {
+   "id": "april-2025-tariff-pause",
+   "name": "90-day reciprocal tariff pause (9 Apr 2025)",
+   "type": "event",
+   "description": "Pause that followed the 2 April 'Liberation Day' tariffs"
+  },
+  {
+   "id": "liberation-day-tariffs",
+   "name": "'Liberation Day' tariff announcement (2 Apr 2025)",
+   "type": "event",
+   "description": "Sweeping reciprocal tariffs announced after the market close"
+  },
+  {
+   "id": "dominari-holdings",
+   "name": "Dominari Holdings",
+   "type": "company",
+   "description": "Trump Tower broker with a 530-580% run-up before the sons' arrival"
+  },
+  {
+   "id": "unusual-machines",
+   "name": "Unusual Machines",
+   "type": "company",
+   "description": "Drone maker whose shares rose 220%+ before Don Jr. joined"
+  },
+  {
+   "id": "psq-holdings",
+   "name": "PSQ Holdings (PublicSquare)",
+   "type": "company",
+   "description": "Marketplace whose shares nearly tripled on news of Don Jr.'s board seat"
+  },
+  {
+   "id": "grabagun",
+   "name": "GrabAGun Digital Holdings",
+   "type": "company",
+   "description": "Online gun seller with Don Jr. on its board; fell on debut"
+  },
+  {
+   "id": "alt5-sigma",
+   "name": "ALT5 Sigma",
+   "type": "company",
+   "description": "WLFI-treasury company with reported unusual trading before 11 Aug 2025"
+  },
+  {
+   "id": "gryphon-digital-mining",
+   "name": "Gryphon Digital Mining",
+   "type": "company",
+   "description": "Merged with American Bitcoin; spike came on announcement"
+  },
+  {
+   "id": "sec",
+   "name": "Securities and Exchange Commission",
+   "type": "government",
+   "description": "Reported (WSJ) outreach to crypto-treasury firms over pre-announcement trading"
+  },
+  {
+   "id": "finra",
+   "name": "FINRA",
+   "type": "government",
+   "description": "Reported (WSJ) outreach to crypto-treasury firms over pre-announcement trading"
+  },
+  {
+   "id": "doj",
+   "name": "US Department of Justice",
+   "type": "government",
+   "description": "SDNY charged Van Dyke and Spagnuolo; DOJ IG asked to review Bondi sale"
+  },
+  {
+   "id": "cftc",
+   "name": "Commodity Futures Trading Commission",
+   "type": "government",
+   "description": "Filed first event-contract insider-trading case (Van Dyke)"
+  },
+  {
+   "id": "gannon-van-dyke",
+   "name": "Gannon Ken Van Dyke",
+   "type": "person",
+   "description": "Army Master Sgt. charged over Maduro-operation Polymarket bets"
+  },
+  {
+   "id": "michele-spagnuolo",
+   "name": "Michele Spagnuolo",
+   "type": "person",
+   "description": "Google employee charged over Polymarket bets on search rankings"
+  },
+  {
+   "id": "polymarket",
+   "name": "Polymarket",
+   "type": "company",
+   "description": "Prediction market; Don Jr. on advisory board; 1789 Capital investor"
+  },
+  {
+   "id": "kalshi",
+   "name": "Kalshi",
+   "type": "company",
+   "description": "CFTC-regulated prediction market; Don Jr. strategic adviser"
+  },
+  {
+   "id": "donald-trump-jr",
+   "name": "Donald Trump Jr.",
+   "type": "person",
+   "description": "Adviser to Kalshi and Polymarket; partner at 1789 Capital"
+  },
+  {
+   "id": "1789-capital",
+   "name": "1789 Capital",
+   "type": "fund",
+   "description": "Fund with Don Jr. as partner; Polymarket investor"
+  },
+  {
+   "id": "truth-predict",
+   "name": "Truth Predict",
+   "type": "product",
+   "description": "Trump Media prediction-market product, announced Oct 2025 and shelved Aug 2026"
+  },
+  {
+   "id": "white-house",
+   "name": "White House",
+   "type": "government",
+   "description": "Says officials comply with ethics rules; warned staff on prediction-market trading"
+  },
+  {
+   "id": "us-congress",
+   "name": "US Congress",
+   "type": "government",
+   "description": "Members file STOCK Act periodic transaction reports"
+  },
+  {
+   "id": "intel",
+   "name": "Intel",
+   "type": "company",
+   "description": "Chipmaker in which the US took a stake in Aug 2025; Trump's accounts bought its bonds"
+  },
+  {
+   "id": "eric-trump",
+   "name": "Eric Trump",
+   "type": "person",
+   "description": "Named to ALT5 Sigma's board in the Aug 2025 WLFI-treasury deal"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "pam-bondi",
+   "target": "trump-media-technology-group",
+   "label": "sold $1M-$5M of shares and $250K-$500K of warrants",
+   "type": "money",
+   "date": "2025-04-02",
+   "amount_usd": 1250000
+  },
+  {
+   "source": "jamie-raskin",
+   "target": "pam-bondi",
+   "label": "asked DOJ Inspector General to investigate her sale",
+   "type": "regulatory",
+   "date": "2025-05-20"
+  },
+  {
+   "source": "dan-scavino",
+   "target": "trump-media-technology-group",
+   "label": "sold $1M-$5M of stock (reported)",
+   "type": "money",
+   "date": "2025-04-01",
+   "amount_usd": 1000000
+  },
+  {
+   "source": "sergio-gor",
+   "target": "trump-media-technology-group",
+   "label": "sold smaller holdings (reported)",
+   "type": "money",
+   "date": "2025-03-27"
+  },
+  {
+   "source": "sean-duffy",
+   "target": "liberation-day-tariffs",
+   "label": "sold about 34 stocks ($90K-$650K) around the Feb 2025 reciprocal-tariff plan",
+   "type": "money",
+   "date": "2025-02-11",
+   "amount_usd": 90000
+  },
+  {
+   "source": "gautam-rana",
+   "target": "liberation-day-tariffs",
+   "label": "sold $830K-$1.7M of stock two weeks before",
+   "type": "money",
+   "date": "2025-03-19",
+   "amount_usd": 830000
+  },
+  {
+   "source": "donald-trump",
+   "target": "april-2025-tariff-pause",
+   "label": "accounts made 327 purchases (up to ~$12.8M) the day before",
+   "type": "money",
+   "date": "2025-04-08"
+  },
+  {
+   "source": "donald-trump",
+   "target": "intel",
+   "label": "accounts bought Intel bonds after government stake (reported)",
+   "type": "money",
+   "date": "2025-09"
+  },
+  {
+   "source": "donald-trump",
+   "target": "office-of-government-ethics",
+   "label": "disclosed at least $82M of bond purchases (Aug-Oct 2025)",
+   "type": "regulatory",
+   "date": "2025-11",
+   "amount_usd": 82000000
+  },
+  {
+   "source": "anna-kelly",
+   "target": "donald-trump",
+   "label": "said assets are in discretionary third-party accounts",
+   "type": "media",
+   "date": "2026-07"
+  },
+  {
+   "source": "marjorie-taylor-greene",
+   "target": "april-2025-tariff-pause",
+   "label": "reported $21K-$315K of purchases around the pause",
+   "type": "money",
+   "date": "2025-04-08",
+   "amount_usd": 21021
+  },
+  {
+   "source": "jared-moskowitz",
+   "target": "april-2025-tariff-pause",
+   "label": "reported $20K-$300K of purchases two days before",
+   "type": "money",
+   "date": "2025-04-07",
+   "amount_usd": 20000
+  },
+  {
+   "source": "rob-bresnahan",
+   "target": "april-2025-tariff-pause",
+   "label": "reported 171 trades the day before",
+   "type": "money",
+   "date": "2025-04-08"
+  },
+  {
+   "source": "campaign-legal-center",
+   "target": "us-congress",
+   "label": "counted 2,200+ trades by 53 members ($34.9M-$140M) in tariff window",
+   "type": "media",
+   "date": "2025-07-24"
+  },
+  {
+   "source": "propublica",
+   "target": "white-house",
+   "label": "reported well-timed sales by more than a dozen officials and aides",
+   "type": "media",
+   "date": "2025-05"
+  },
+  {
+   "source": "donald-trump-jr",
+   "target": "unusual-machines",
+   "label": "joined advisory board after 220%+ run-up",
+   "type": "advisory",
+   "date": "2024-11-27"
+  },
+  {
+   "source": "donald-trump-jr",
+   "target": "psq-holdings",
+   "label": "board seat announced; shares nearly tripled",
+   "type": "advisory",
+   "date": "2024-12-03"
+  },
+  {
+   "source": "donald-trump-jr",
+   "target": "dominari-holdings",
+   "label": "adviser after 530-580% run-up (C39, C91)",
+   "type": "advisory",
+   "date": "2025-02-11"
+  },
+  {
+   "source": "eric-trump",
+   "target": "alt5-sigma",
+   "label": "named to board in WLFI-treasury deal preceded by reported unusual trading",
+   "type": "advisory",
+   "date": "2025-08-11"
+  },
+  {
+   "source": "sec",
+   "target": "alt5-sigma",
+   "label": "reported outreach to crypto-treasury firms (ALT5 not confirmed among them)",
+   "type": "regulatory",
+   "date": "2025-09"
+  },
+  {
+   "source": "finra",
+   "target": "sec",
+   "label": "joint reported review of pre-announcement trading in crypto-treasury firms",
+   "type": "regulatory",
+   "date": "2025-09"
+  },
+  {
+   "source": "doj",
+   "target": "gannon-van-dyke",
+   "label": "indicted over Maduro-operation Polymarket bets",
+   "type": "legal",
+   "date": "2026-04-23"
+  },
+  {
+   "source": "doj",
+   "target": "michele-spagnuolo",
+   "label": "charged over Polymarket search-ranking bets",
+   "type": "legal",
+   "date": "2026-05-27"
+  },
+  {
+   "source": "donald-trump-jr",
+   "target": "kalshi",
+   "label": "strategic adviser",
+   "type": "advisory",
+   "date": "2025-01"
+  },
+  {
+   "source": "donald-trump-jr",
+   "target": "polymarket",
+   "label": "advisory board member",
+   "type": "advisory",
+   "date": "2025-08-26"
+  },
+  {
+   "source": "1789-capital",
+   "target": "polymarket",
+   "label": "invested; planned ~$300M more in 2026 round",
+   "type": "money",
+   "date": "2026-08",
+   "amount_usd": 300000000
+  },
+  {
+   "source": "trump-media-technology-group",
+   "target": "truth-predict",
+   "label": "announced then shelved",
+   "type": "commercial",
+   "date": "2025-10-28"
+  }
+ ],
+ "leads": [
+  {
+   "title": "ProPublica's full list of more than a dozen officials who sold before tariff news",
+   "why_connected": "Only Duffy, Rana and an unnamed White House lawyer were visible in excerpts; the full list may name further officials and their responses.",
+   "entities": [
+    "propublica",
+    "sean-duffy",
+    "gautam-rana",
+    "white-house"
+   ],
+   "source_url": "https://www.propublica.org/article/us-officials-stock-sales-trump-tariffs"
+  },
+  {
+   "title": "Outcome of Raskin's request for a DOJ inspector-general review of Bondi's Trump Media sale",
+   "why_connected": "The only formal request tied to a named official's trade; no result was found (see C103).",
+   "entities": [
+    "jamie-raskin",
+    "pam-bondi",
+    "doj"
+   ],
+   "source_url": "https://democrats-judiciary.house.gov/UploadedFiles/2025-05-20.Raskin_to_Horowitz_DOJ_OIG_re_Bondi_Insider_Trading.pdf"
+  },
+  {
+   "title": "Late reporting of Trump's April 2025 trades on the annual disclosure",
+   "why_connected": "327 purchases on 8 April 2025 were missing from 278-Ts; whether OGE or Congress has asked why, and how many other 2025 trades were filed late, is not established.",
+   "entities": [
+    "donald-trump",
+    "office-of-government-ethics",
+    "april-2025-tariff-pause"
+   ],
+   "source_url": "https://readsludge.com/2026/07/01/trump-bought-hundreds-of-stocks-the-day-before-he-paused-tariffs-and-sparked-a-historic-rally/"
+  },
+  {
+   "title": "SEC/FINRA outreach to crypto-treasury companies over pre-announcement trading",
+   "why_connected": "Covers the type of company (ALT5 Sigma, Trump Media) linked to the family; which firms were contacted and any outcome are unknown.",
+   "entities": [
+    "sec",
+    "finra",
+    "alt5-sigma",
+    "trump-media-technology-group"
+   ],
+   "source_url": "https://www.theblock.co/news/regulation/2025-09-26-sec-finra-examine-trading-patterns-dats-372480"
+  },
+  {
+   "title": "Scavino's capital gains from Trump Media in his 2025 annual disclosure",
+   "why_connected": "A single report says the filing shows $1M-$5M of gains; the filing itself has not been read.",
+   "entities": [
+    "dan-scavino",
+    "trump-media-technology-group"
+   ],
+   "source_url": "https://www.joemygod.com/2026/10/white-house-aide-got-millions-from-truth-social/"
+  }
+ ]
+}

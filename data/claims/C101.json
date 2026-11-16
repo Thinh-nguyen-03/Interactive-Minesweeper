@@ -1,0 +1,929 @@
+{
+  "id": "C101",
+  "title": "Trading ahead of presidential announcements",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "Market data, on-chain records and exchange data show well-timed, large trades shortly before at least six market-moving presidential announcements or actions since January 2025: leveraged crypto longs before the 2 March 2025 crypto-reserve post, same-day index calls in the minutes before the 9 April 2025 tariff pause, a roughly $1.1B crypto short before the 10 October 2025 China-tariff post, Polymarket bets before the Maduro raid and the February 2026 Iran strikes, and oil-futures selling minutes before Trump's Iran posts of 23 March and 7 April 2026. Whether any of this was trading on inside information is unverified in every case but one. The only trader charged is Army Master Sgt. Gannon Van Dyke, accused over the Maduro bets; he has pleaded not guilty and is not tied to the White House. A Hyperliquid wallet was attributed by on-chain analysts to Garrett Jin, who denies any Trump link. Three firms the WSJ found among the 23 March oil traders (Qube, Totsa, Forza) have not been accused of anything, and some of those trades followed a Semafor report published before the post. No authority has made a finding against any official, and the White House calls the insinuations baseless. No case of unusual trading was found before the 2 April 2025 'Liberation Day' announcement.",
+  "sub_claims": [
+    {
+      "statement": "A trader opened large leveraged crypto longs shortly before Trump's 2 March 2025 Truth Social post announcing a US crypto strategic reserve.",
+      "verdict": "confirmed",
+      "finding": "(1) On-chain data, as reported by HyperDash and Lookonchain via Cointelegraph, Decrypt and The Block on 3 March 2025, shows that a wallet deposited about $5.9M USDC on Hyperliquid on 1 March. It opened about $200M of 50x-leveraged BTC and ETH longs, the first ETH long at 14:49 UTC on Sunday 2 March. Trump's first reserve post came about 35 minutes later and named XRP, SOL and ADA. A follow-up post naming BTC and ETH came nearly two hours after that. The wallet closed for a profit of about $6.8M. (2) Some crypto outlets asked whether this was 'insider trading?'. (3) No lawmaker or regulator has alleged wrongdoing over this trade as far as found. (4) The trader is unidentified, and no regulator has made a finding. Hyperliquid is an offshore platform outside CFTC supervision. A crypto reserve had been a campaign promise, the White House crypto summit was already scheduled, and Lookonchain described the wallet as a frequent high-leverage trader, so the timing alone does not show advance knowledge. Insider trading here is unverified.",
+      "sources": [
+        "https://cointelegraph.com/news/trader-banks-nearly-7-million-from-trumps-crypto-reserve-announcement",
+        "https://decrypt.co/308424/trader-nets-6-8m-after-well-timed-bitcoin-ethereum-bets-ahead-of-trumps-reserve-announcement",
+        "https://www.theblock.co/post/344105/trader-makes-7-million-in-one-day-going-50x-long-bitcoin-ether-ahead-of-trumps-crypto-reserve-announcement"
+      ]
+    },
+    {
+      "statement": "Unusual trades were placed before the 2 April 2025 'Liberation Day' tariff announcement.",
+      "verdict": "unverified",
+      "finding": "No market-data analysis was found that shows anomalous options, futures or crypto positioning just before the 2 April 2025 Rose Garden announcement. The event was pre-scheduled and held after the US stock-market close, and the coverage of 'well-timed' trades in that period concerns the 9 April pause instead. The only reported pre-2 April activity is a ProPublica account of a State Department official selling up to $50,000 of stock two days earlier and later buying back. That is a disclosure-filing matter covered by C102, and nobody has alleged it was based on nonpublic information.",
+      "sources": [
+        "https://www.propublica.org/article/us-officials-stock-sales-trump-tariffs"
+      ]
+    },
+    {
+      "statement": "Bullish options were bought in the minutes before Trump's 9 April 2025 tariff-pause post, hours after he posted 'THIS IS A GREAT TIME TO BUY!!! DJT'.",
+      "verdict": "confirmed",
+      "finding": "Timeline (ET), per reporting: 9:33 a.m. 'BE COOL! Everything is going to work out well' (cited by Reuters); 9:37 a.m. 'THIS IS A GREAT TIME TO BUY!!! DJT'; from about 1:01 p.m. a burst of buying in same-day SPY calls and in QQQ and TQQQ calls; 1:18 p.m. the 90-day pause post; the S&P 500 then rose about 9.5% on the day. (1) The data, from Reuters, the WSJ, Unusual Whales and Benzinga: Reuters reported that SPY $509 same-day calls went from about $624K to about $10M in value, and Unusual Whales flagged those calls as up about 2,100% in an hour. Unusual Whales' own write-up describes a $504 same-day call that went from $5.72 to $41.02, with nearly 20,000 contracts traded just before the post. Record overall volume of about 85M contracts that day makes outliers hard to isolate, Reuters noted. (2) Analysts noted the timing. Reuters could not tell whether one trader or many placed the bets, or whether anyone cashed out. Figures of '$2.5M to $70M+' come from blogs only and are unverified. (3) Democratic senators (Warren, Schumer, Schiff and others) and Rep. Waters asked the SEC to investigate (see C58), and Rep. Ocasio-Cortez called for congressional trade disclosure. (4) No trader has been identified. The SEC declined to comment, and no SEC action has been reported. The White House said the 9:37 post was meant to reassure markets. Insider trading is unverified.",
+      "sources": [
+        "https://finance.yahoo.com/news/well-timed-options-trades-ahead-211154780.html",
+        "https://unusualwhales.substack.com/p/unusual-options-trading-before-trumps",
+        "https://itiger.com/news/2526480315",
+        "https://www.benzinga.com/government/regulations/25/04/44728276/spy-qqq-call-volumes-spiked-minutes-before-tariff-pause-announcement-alexandria-ocasio-cortez-demands-disclosure-from-congress-members",
+        "https://gigazine.net/gsc_news/en/20250416-70-million-60-seconds"
+      ]
+    },
+    {
+      "statement": "A crypto whale opened a roughly $1.1B short shortly before Trump's 10 October 2025 post announcing 100% tariffs on China, and the trader has been identified.",
+      "verdict": "partly-accurate",
+      "finding": "(1) The data: on-chain records show that a newly funded Hyperliquid account built about $1.1B of BTC and ETH perpetual shorts and closed them for a profit reported at about $150M-$200M. That day's crash liquidated about $19B of leveraged positions. Trump's 100%-tariff post is timed at about 20:50 UTC (4:50 p.m. ET). Reports of when the shorts were opened differ. Several crypto outlets say less than an hour before, and one widely shared X post says the last short was added at 20:49 UTC. Some summaries of the House Oversight letter say 'about 30 hours' before, while the letter itself says 'within minutes'. The difference was not resolved. An earlier Trump post the same day threatening a 'massive increase of tariffs' on China had already pushed bitcoin and stocks lower. That threat was public, so part of the move was foreseeable from public information. (2) Arkham Intelligence labelled the wallet a 'Trump insider whale', and on-chain sleuth 'Eye' linked it to Garrett Jin, a former BitForex CEO. Other analysts disputed the link. (3) No regulator has made an allegation. On 29 September 2026 House Oversight Chairman James Comer (R) wrote to Hyperliquid's Jeff Yan citing reports of a large short opened 'within minutes of a presidential announcement concerning a U.S. tariff policy in October 2025 that was not publicly known at the time'. He asked for KYC, surveillance and referral records by 13 October 2026. The letter does not name the trader or assert insider trading. (4) Identification rests only on contested on-chain attribution. Jin said on 13 October 2025 that he has 'no connection with the Trump family' or Donald Trump Jr., that this 'isn't insider trading', and that the funds belong to clients. Hyperliquid said it is reviewing Comer's request. No official finding has been made. Insider trading is unverified.",
+      "sources": [
+        "https://www.theblock.co/post/374383/alleged-hyperliquid-whale-denies-trump-ties-thanks-cz-for-doxing-and-pitches-market-stabilization-fund",
+        "https://cointelegraph.com/news/garrett-jin-whale-denies-allegations-shorting-bitcoin",
+        "https://www.scmp.com/tech/blockchain/article/3328948/bitcoin-crash-sparks-search-mystery-crypto-trader-who-profited-us200-million",
+        "https://www.nysun.com/article/anonymous-crypto-trader-made-at-least-160-million-shorting-bitcoin-ethereum-in-moments-before-trumps-china-tariff-announcement",
+        "https://coingape.com/bitcoin-falls-after-trump-threatens-massive-increase-in-tariffs-on-china",
+        "https://oversight.house.gov/wp-content/uploads/2026/09/Hyperliquid-Letter-9.29.26.pdf",
+        "https://www.theblock.co/post/417192/comer-presses-crypto-com-hyperliquid-predictit-identity-checks-suspicious-trades"
+      ]
+    },
+    {
+      "statement": "Well-timed bets were placed before the June 2025 US strikes on Iran.",
+      "verdict": "unverified",
+      "finding": "The Algorithmic Data Collective, a data-journalism group, documented small Polymarket bets placed before US jets struck Fordow on 21 June 2025, at about 6 p.m. Washington time. One account bet nearly $9,000 at long odds, and another ('0xoracle') bet about $4,000 and won more than $20,000. No large oil-futures or options anomaly before the strike or the 23 June ceasefire post was found in the coverage searched. The bettors are unidentified, and no authority has opened an inquiry that was found. These sums are small, and the strikes had been widely anticipated.",
+      "sources": [
+        "https://acdatacollective.org/work/profiting-from-war-mysterious-bets-on-polymarket/"
+      ]
+    },
+    {
+      "statement": "A Polymarket bettor profited from the 3 January 2026 capture of Maduro and has been identified.",
+      "verdict": "confirmed",
+      "finding": "This is the one identified case. According to DOJ (SDNY, unsealed 23 April 2026), Army Master Sgt. Gannon Ken Van Dyke, a Fort Bragg soldier who helped plan the raid, opened a Polymarket account around 26 December 2025. He placed about 13 bets from 27 December to 2 January, staking about $33,000, and made about $409,881. On 6 January he asked Polymarket to delete his account. The charges are unlawful use of confidential government information, theft of nonpublic government information, commodities fraud and wire fraud, and the CFTC filed a parallel civil case. He pleaded not guilty. A trial was reported as set for 7 December 2026, and his lawyer planned a motion to dismiss. Polymarket says it flagged the trades. The bets concerned a military operation, not a presidential post, and nothing ties the case to the White House or the Trump family. He is presumed innocent.",
+      "sources": [
+        "https://abc7ny.com/post/us-soldier-charged-using-intel-win-400k-maduro-raid-appear-court-nyc/18985601/",
+        "https://decrypt.co/370571/december-trial-date-us-soldier-insider-trading-polymarket",
+        "https://www.goodmorningamerica.com/news/story/doj-arrests-soldier-made-400000-betting-maduros-removal-132325426",
+        "https://www.npr.org/transcripts/nx-s1-5667232"
+      ]
+    },
+    {
+      "statement": "Fresh prediction-market accounts profited from bets on the 28 February 2026 US-Israeli strikes on Iran.",
+      "verdict": "confirmed",
+      "finding": "(1) Bubblemaps identified six wallets, most created and funded within 24 hours of the attack, that made about $1M-$1.2M betting on a US strike, against about $529M of volume in strike markets. The NYT and the Guardian reported about 150 accounts placing strike bets the night before. (2) Analysts call the pattern consistent with insider activity. (3) Members of Congress have called for investigations. (4) No one has been identified or charged. Insider trading is unverified.",
+      "sources": [
+        "https://www.theblock.co/post/391650/fresh-accounts-netted-1-million-on-polymarket-hours-before-us-airstrikes-on-iran-bubblemaps",
+        "https://cointelegraph.com/news/polymarket-traders-1m-us-iran-strike-insider-trading-concerns"
+      ]
+    },
+    {
+      "statement": "Large oil-futures trades were placed minutes before Trump's Iran statements of 9 March, 23 March and 7 April 2026.",
+      "verdict": "confirmed",
+      "finding": "(1) The data. 9 March: the BBC found unusually large bets on falling oil 47 minutes before Trump told CBS the war was 'very complete, pretty much'. 23 March: the FT, BBC, Reuters and CBS reported about $500M-$580M of Brent and WTI futures traded in roughly one minute around 6:49-6:50 a.m. ET, about 15 minutes before Trump posted about 'VERY GOOD AND PRODUCTIVE CONVERSATIONS' with Iran and a delay to strikes on Iranian energy sites. The WSJ, using LSEG data, put the window's total at more than $800M, and US oil then fell by as much as 13%. 7 April: about $950M of bets on falling oil came hours before the two-week ceasefire post, and at least 50 new Polymarket accounts bet on a ceasefire in the hours before it. A study by Timothy Graham and colleagues at the Queensland University of Technology (QUT) covered 173 oil-related posts in a 73-day window and found 15 events with abnormal pre-post trading, with only oil-related posts clearly abnormal. The authors put the chance of the pattern at about one in a billion and said their data 'doesn't prove that insider trading is taking place'. (2) The inference is contested. Some experts call it 'deeply suspicious'. Others point to hedging, momentum, or news already public. The WSJ reported that some 23 March trades followed a Semafor article published about 33 minutes before the post. (3) Sens. Warren, Whitehouse and Murphy and Rep. Torres pressed the CFTC and SEC. (4) The CFTC, with DOJ, is examining the trades (Reuters, 15 April 2026) and sought trader identities from CME and ICE. The WSJ (May 2026) named Qube Research & Technologies (about $5M gain), Totsa (TotalEnergies' trading arm, about $200K) and Forza Fund (about $10M) among the 23 March traders. None has been accused of wrongdoing, and Qube said its trading is 'model-driven'. Bloomberg reported on 13 October 2026, citing anonymous sources, that an adviser to Chair Selig had a staff enforcement referral retracted. An agency official said the review was being broadened internationally (see C58 and C103). No charges or findings have been reported.",
+      "sources": [
+        "https://torre.news/580-million-in-oil-bets-placed-moments-before-trumps-iran-post-ft",
+        "https://www.cnbc.com/2026/04/15/regulators-reportedly-zeroing-in-on-suspicious-trades-ahead-of-trump-post.html",
+        "https://www.aa.com.tr/en/americas/suspicious-800m-oil-trade-linked-to-trump-remarks-trigger-probe/3942896",
+        "https://www.hedgeweek.com/cftc-probes-800m-oil-trading-spike/",
+        "https://news.az/news/suspicious-800m-oil-trades-after-trump-remarks-spark-regulatory-probe",
+        "https://risingnepaldaily.com/news/78995",
+        "https://stories.theconversation.com/the-market-moves-before-trump-posts/",
+        "https://www.qut.edu.au/news/realfocus/the-market-moves-before-trump-posts",
+        "https://www.banking.senate.gov/newsroom/minority/warren-whitehouse-probe-suspicious-oil-trades-surrounding-trump-iran-announcements",
+        "https://ritchietorres.house.gov/posts/rep-torres-calls-on-cftc-to-investigate-suspicious-polymarket-trades-ahead-of-trumps-iran-ceasefire-announcement",
+        "https://wtop.com/national/2026/04/well-timed-bets-on-polymarket-tied-to-the-iran-war-draw-calls-for-investigations-from-lawmakers/",
+        "https://politicalwire.com/2026/10/13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades/"
+      ]
+    },
+    {
+      "statement": "Anyone in the administration, or close to Trump, has been shown to have traded ahead of these announcements.",
+      "verdict": "unverified",
+      "finding": "No filing, charge, court record or regulatory finding identifies an administration official, a Trump family member or a close associate as having placed any of the trades in these episodes. The traders who have been named publicly are a soldier who has been charged (Van Dyke), a crypto investor named only by contested on-chain attribution who denies any link (Jin), and three trading firms the WSJ named without any accusation (Qube, Totsa, Forza). Reuters (29 March 2026) and the WSJ (March 2026) both summarised the pattern and both stated that there is no evidence of leaks or of insiders trading in any of the incidents. White House spokesman Kush Desai called the insinuations 'baseless and irresponsible reporting' and said the White House does not tolerate officials profiting illegally from inside information. On 24 March 2026 the White House emailed staff warning against trading futures or prediction markets on nonpublic information (see C58).",
+      "sources": [
+        "https://wkzo.com/2026/03/29/lucrative-bets-that-anticipated-trumps-policy-surprises-warrant-scrutiny-experts-say/",
+        "https://www.tovima.com/wsj/the-well-timed-trades-made-moments-before-trumps-policy-surprises/",
+        "https://finance.yahoo.com/markets/commodities/articles/oil-trades-surged-trumps-iran-194908361.html",
+        "https://harici.com.tr/en/half-billion-dollar-oil-trade-before-trump-iran-post-sparks-market-questions/?amp=1"
+      ]
+    }
+  ],
+  "corrections": [
+    "Claimed (C58): the 23 March 2026 oil trades are an unexplained bet by unknown traders. The record shows: the WSJ (May 2026) reported that CFTC documents name Qube Research & Technologies, Totsa and Forza Fund among the traders, with modest gains (about $5M, $200K and $10M) out of the roughly $800M traded, and that some trades followed a Semafor article published about 33 minutes before the post. None of the firms has been accused, and Qube says its trading is model-driven.",
+    "Claimed (C58): Van Dyke faces 'money-laundering-type' counts. Most reporting lists the charges as unlawful use of confidential government information, theft of nonpublic government information, commodities fraud and wire fraud, alongside an unlawful-monetary-transaction count in some summaries. He pleaded not guilty, and a trial was reported as set for 7 December 2026.",
+    "Claimed: the 10 October 2025 short was opened '30 hours' before the post. That figure appears in some summaries of the Comer letter. The letter itself says 'within minutes', and contemporaneous on-chain reporting says less than an hour before the 100% tariff post. An earlier, public tariff threat the same day had already moved markets.",
+    "Claimed: a $2.5M options position became $70M+ on 9 April 2025. This appears only on blogs. Reuters documented an SPY $509 call block going from about $624K to about $10M, and Unusual Whales' own write-up concerns a $504 call that went from $5.72 to $41.02."
+  ],
+  "denials_and_context": [
+    "The White House (Kush Desai, March 2026) called suggestions that officials traded on inside information 'baseless and irresponsible reporting'. In April 2025 it said the 'great time to buy' post was meant to reassure markets.",
+    "Garrett Jin denies any connection with the Trump family or Donald Trump Jr. and says the October 2025 short was not insider trading. He says the funds belong to clients and objected to Changpeng Zhao sharing his personal information.",
+    "Qube Research & Technologies told the WSJ its trading is model-driven and not based on comments or geopolitical updates. Forza Fund could not be reached, and an associated Chinese firm said it was unaware of any CFTC investigation.",
+    "Hyperliquid said it is aware of Chairman Comer's request and is reviewing it.",
+    "CFTC Chair Selig said in April 2026 that enforcement against threats to markets is 'a top priority'. The CFTC does not confirm or deny investigations. An agency official told Bloomberg that the referral was withdrawn so the review could be broadened internationally.",
+    "Polymarket says it detected and reported the Maduro trades. Polymarket and Kalshi have tightened their insider-trading rules. Donald Trump Jr. advises Kalshi and, through 1789 Capital, invested in Polymarket (see C25). That ties the family to the platforms, not to any bet.",
+    "Experts note that trades ahead of news can reflect hedging, momentum, reaction to earlier public posts or press reports (such as Semafor on 23 March 2026, or the morning tariff threat on 10 October 2025), or informed speculation. Insider-trading law for commodities and event contracts is complex, and proving the source of information is hard.",
+    "Well-timed trading is not proof that anyone traded on inside information. Except for the Van Dyke charges, which are unproven, no trader in these episodes has been charged and no official finding has been made."
+  ],
+  "sources": [
+    {
+      "title": "Well-timed options trades ahead of Trump's tariff pause draw questions",
+      "publisher": "Reuters via Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/well-timed-options-trades-ahead-211154780.html",
+      "date": "2025-04-10",
+      "read": "excerpt"
+    },
+    {
+      "title": "Unusual options trading before Trump's tariff announcement pause",
+      "publisher": "Unusual Whales (Substack)",
+      "url": "https://unusualwhales.substack.com/p/unusual-options-trading-before-trumps",
+      "date": "2025-04-09",
+      "read": "excerpt"
+    },
+    {
+      "title": "Trades before Trump tariff post draw scrutiny",
+      "publisher": "Wall Street Journal via Tiger Brokers",
+      "url": "https://itiger.com/news/2526480315",
+      "date": "2025-04-10",
+      "read": "excerpt"
+    },
+    {
+      "title": "SPY, QQQ call volumes spiked minutes before tariff pause announcement",
+      "publisher": "Benzinga",
+      "url": "https://www.benzinga.com/government/regulations/25/04/44728276/spy-qqq-call-volumes-spiked-minutes-before-tariff-pause-announcement-alexandria-ocasio-cortez-demands-disclosure-from-congress-members",
+      "date": "2025-04-10",
+      "read": "excerpt"
+    },
+    {
+      "title": "$70 million in 60 seconds (blog claim)",
+      "publisher": "Gigazine",
+      "url": "https://gigazine.net/gsc_news/en/20250416-70-million-60-seconds",
+      "date": "2025-04-16",
+      "read": "excerpt"
+    },
+    {
+      "title": "US officials' stock sales around Trump tariffs",
+      "publisher": "ProPublica",
+      "url": "https://www.propublica.org/article/us-officials-stock-sales-trump-tariffs",
+      "date": "2025",
+      "read": "excerpt"
+    },
+    {
+      "title": "Trader banks nearly $7 million from Trump's crypto reserve announcement",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/trader-banks-nearly-7-million-from-trumps-crypto-reserve-announcement",
+      "date": "2025-03-03",
+      "read": "excerpt"
+    },
+    {
+      "title": "Trader nets $6.8M after well-timed bitcoin, ethereum bets ahead of Trump's reserve announcement",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/308424/trader-nets-6-8m-after-well-timed-bitcoin-ethereum-bets-ahead-of-trumps-reserve-announcement",
+      "date": "2025-03-03",
+      "read": "excerpt"
+    },
+    {
+      "title": "Trader makes $7 million in one day going 50x long bitcoin, ether ahead of Trump's crypto reserve announcement",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/344105/trader-makes-7-million-in-one-day-going-50x-long-bitcoin-ether-ahead-of-trumps-crypto-reserve-announcement",
+      "date": "2025-03-03",
+      "read": "excerpt"
+    },
+    {
+      "title": "Alleged Hyperliquid whale denies Trump ties, thanks CZ for doxing, and pitches market stabilization fund",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/374383/alleged-hyperliquid-whale-denies-trump-ties-thanks-cz-for-doxing-and-pitches-market-stabilization-fund",
+      "date": "2025-10-13",
+      "read": "excerpt"
+    },
+    {
+      "title": "Garrett Jin denies allegations over bitcoin short",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/garrett-jin-whale-denies-allegations-shorting-bitcoin",
+      "date": "2025-10-13",
+      "read": "excerpt"
+    },
+    {
+      "title": "Bitcoin crash sparks search for mystery crypto trader who profited US$200 million",
+      "publisher": "South China Morning Post",
+      "url": "https://www.scmp.com/tech/blockchain/article/3328948/bitcoin-crash-sparks-search-mystery-crypto-trader-who-profited-us200-million",
+      "date": "2025-10",
+      "read": "excerpt"
+    },
+    {
+      "title": "Anonymous crypto trader made at least $160 million shorting bitcoin, ethereum moments before Trump's China tariff announcement",
+      "publisher": "New York Sun",
+      "url": "https://www.nysun.com/article/anonymous-crypto-trader-made-at-least-160-million-shorting-bitcoin-ethereum-in-moments-before-trumps-china-tariff-announcement",
+      "date": "2025-10",
+      "read": "excerpt"
+    },
+    {
+      "title": "Bitcoin falls after Trump threatens 'massive' increase in tariffs on China",
+      "publisher": "CoinGape",
+      "url": "https://coingape.com/bitcoin-falls-after-trump-threatens-massive-increase-in-tariffs-on-china",
+      "date": "2025-10-10",
+      "read": "excerpt"
+    },
+    {
+      "title": "Letter to Hyperliquid Labs (Chairman Comer to Jeff Yan)",
+      "publisher": "House Committee on Oversight and Government Reform",
+      "url": "https://oversight.house.gov/wp-content/uploads/2026/09/Hyperliquid-Letter-9.29.26.pdf",
+      "date": "2026-09-29",
+      "read": "excerpt"
+    },
+    {
+      "title": "Comer presses Crypto.com, Hyperliquid and PredictIt on identity checks and suspicious trades",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/417192/comer-presses-crypto-com-hyperliquid-predictit-identity-checks-suspicious-trades",
+      "date": "2026-09-29",
+      "read": "excerpt"
+    },
+    {
+      "title": "Profiting from war: mysterious bets on Polymarket",
+      "publisher": "Algorithmic Data Collective",
+      "url": "https://acdatacollective.org/work/profiting-from-war-mysterious-bets-on-polymarket/",
+      "date": "2025-06",
+      "read": "excerpt"
+    },
+    {
+      "title": "US soldier pleads not guilty to using intel on Maduro raid to win $400,000 on Polymarket",
+      "publisher": "AP via ABC7 New York",
+      "url": "https://abc7ny.com/post/us-soldier-charged-using-intel-win-400k-maduro-raid-appear-court-nyc/18985601/",
+      "date": "2026-04",
+      "read": "excerpt"
+    },
+    {
+      "title": "December trial date for US soldier in Polymarket insider trading case",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/370571/december-trial-date-us-soldier-insider-trading-polymarket",
+      "date": "2026",
+      "read": "excerpt"
+    },
+    {
+      "title": "DOJ arrests soldier who made $400,000 betting on Maduro's removal",
+      "publisher": "ABC News",
+      "url": "https://www.goodmorningamerica.com/news/story/doj-arrests-soldier-made-400000-betting-maduros-removal-132325426",
+      "date": "2026-04-23",
+      "read": "excerpt"
+    },
+    {
+      "title": "A $400,000 profit on Maduro's capture raises insider trading questions on Polymarket",
+      "publisher": "NPR",
+      "url": "https://www.npr.org/transcripts/nx-s1-5667232",
+      "date": "2026-01-06",
+      "read": "excerpt"
+    },
+    {
+      "title": "Fresh accounts netted $1 million on Polymarket hours before US airstrikes on Iran: Bubblemaps",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/391650/fresh-accounts-netted-1-million-on-polymarket-hours-before-us-airstrikes-on-iran-bubblemaps",
+      "date": "2026-03",
+      "read": "excerpt"
+    },
+    {
+      "title": "Polymarket traders net $1M on US-Iran strike, raising insider trading concerns",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/polymarket-traders-1m-us-iran-strike-insider-trading-concerns",
+      "date": "2026-03",
+      "read": "excerpt"
+    },
+    {
+      "title": "$580 million in oil bets placed moments before Trump's Iran post (FT relay)",
+      "publisher": "Torre News (relaying Financial Times)",
+      "url": "https://torre.news/580-million-in-oil-bets-placed-moments-before-trumps-iran-post-ft",
+      "date": "2026-03-24",
+      "read": "excerpt"
+    },
+    {
+      "title": "Oil trades surged before Trump's Iran post",
+      "publisher": "CBS News via Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/oil-trades-surged-trumps-iran-194908361.html",
+      "date": "2026-03",
+      "read": "excerpt"
+    },
+    {
+      "title": "Half-billion-dollar oil trade before Trump Iran post sparks market questions",
+      "publisher": "Harici",
+      "url": "https://harici.com.tr/en/half-billion-dollar-oil-trade-before-trump-iran-post-sparks-market-questions/?amp=1",
+      "date": "2026-03",
+      "read": "excerpt"
+    },
+    {
+      "title": "Lucrative bets that anticipated Trump's policy surprises warrant scrutiny, experts say",
+      "publisher": "Reuters via WKZO",
+      "url": "https://wkzo.com/2026/03/29/lucrative-bets-that-anticipated-trumps-policy-surprises-warrant-scrutiny-experts-say/",
+      "date": "2026-03-29",
+      "read": "excerpt"
+    },
+    {
+      "title": "The well-timed trades made moments before Trump's policy surprises",
+      "publisher": "Wall Street Journal via To Vima",
+      "url": "https://www.tovima.com/wsj/the-well-timed-trades-made-moments-before-trumps-policy-surprises/",
+      "date": "2026-03",
+      "read": "excerpt"
+    },
+    {
+      "title": "The insider trading suspicions looming over Trump's presidency",
+      "publisher": "BBC (republished by Rising Nepal)",
+      "url": "https://risingnepaldaily.com/news/78995",
+      "date": "2026",
+      "read": "excerpt"
+    },
+    {
+      "title": "The market moves before Trump posts",
+      "publisher": "The Conversation (Graham, Choarzy, Harrington, QUT)",
+      "url": "https://stories.theconversation.com/the-market-moves-before-trump-posts/",
+      "date": "2026",
+      "read": "excerpt"
+    },
+    {
+      "title": "The market moves before Trump posts (QUT summary)",
+      "publisher": "Queensland University of Technology",
+      "url": "https://www.qut.edu.au/news/realfocus/the-market-moves-before-trump-posts",
+      "date": "2026",
+      "read": "excerpt"
+    },
+    {
+      "title": "Regulators are reportedly zeroing in on suspicious trades ahead of market-moving Trump post",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/15/regulators-reportedly-zeroing-in-on-suspicious-trades-ahead-of-trump-post.html",
+      "date": "2026-04-15",
+      "read": "excerpt"
+    },
+    {
+      "title": "Warren, Whitehouse probe suspicious oil trades surrounding Trump Iran announcements",
+      "publisher": "Senate Banking Committee (minority)",
+      "url": "https://www.banking.senate.gov/newsroom/minority/warren-whitehouse-probe-suspicious-oil-trades-surrounding-trump-iran-announcements",
+      "date": "2026-04-10",
+      "read": "excerpt"
+    },
+    {
+      "title": "Rep. Torres calls on CFTC to investigate suspicious Polymarket trades ahead of Trump's Iran ceasefire announcement",
+      "publisher": "Office of Rep. Ritchie Torres",
+      "url": "https://ritchietorres.house.gov/posts/rep-torres-calls-on-cftc-to-investigate-suspicious-polymarket-trades-ahead-of-trumps-iran-ceasefire-announcement",
+      "date": "2026-04",
+      "read": "excerpt"
+    },
+    {
+      "title": "Well-timed bets on Polymarket tied to the Iran war draw calls for investigations from lawmakers",
+      "publisher": "NPR via WTOP",
+      "url": "https://wtop.com/national/2026/04/well-timed-bets-on-polymarket-tied-to-the-iran-war-draw-calls-for-investigations-from-lawmakers/",
+      "date": "2026-04-10",
+      "read": "excerpt"
+    },
+    {
+      "title": "Suspicious $800M oil trade linked to Trump remarks trigger probe",
+      "publisher": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/americas/suspicious-800m-oil-trade-linked-to-trump-remarks-trigger-probe/3942896",
+      "date": "2026-05-20",
+      "read": "excerpt"
+    },
+    {
+      "title": "CFTC probes $800m oil trading spike",
+      "publisher": "Hedgeweek (relaying WSJ)",
+      "url": "https://www.hedgeweek.com/cftc-probes-800m-oil-trading-spike/",
+      "date": "2026-05",
+      "read": "excerpt"
+    },
+    {
+      "title": "Suspicious $800M oil trades after Trump remarks spark regulatory probe",
+      "publisher": "News.az (relaying WSJ)",
+      "url": "https://news.az/news/suspicious-800m-oil-trades-after-trump-remarks-spark-regulatory-probe",
+      "date": "2026-05-20",
+      "read": "excerpt"
+    },
+    {
+      "title": "US CFTC chair vows enforcement amid oil futures trading scrutiny",
+      "publisher": "S&P Global Commodity Insights",
+      "url": "https://www.spglobal.com/energy/en/news-research/latest-news/refined-products/041626-us-cftc-chair-vows-enforcement-amid-oil-futures-trading-scrutiny",
+      "date": "2026-04-16",
+      "read": "excerpt"
+    },
+    {
+      "title": "CFTC staff told to retract analysis of suspicious oil trades (Bloomberg relay)",
+      "publisher": "Political Wire",
+      "url": "https://politicalwire.com/2026/10/13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades/",
+      "date": "2026-10-13",
+      "read": "excerpt"
+    }
+  ],
+  "entities": [
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "US president whose posts and statements preceded the trades examined."
+    },
+    {
+      "id": "truth-social",
+      "name": "Truth Social",
+      "type": "media",
+      "description": "Platform on which most of the market-moving announcements were posted."
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Denies officials traded on inside information; warned staff in March 2026."
+    },
+    {
+      "id": "kush-desai",
+      "name": "Kush Desai",
+      "type": "person",
+      "description": "White House spokesman who called the insinuations baseless."
+    },
+    {
+      "id": "sec",
+      "name": "Securities and Exchange Commission",
+      "type": "government",
+      "description": "Asked to investigate the April 2025 options trades; no action reported."
+    },
+    {
+      "id": "cftc",
+      "name": "Commodity Futures Trading Commission",
+      "type": "government",
+      "description": "Examining the 2026 oil-futures trades; brought a civil case over the Maduro bets."
+    },
+    {
+      "id": "doj",
+      "name": "US Department of Justice",
+      "type": "government",
+      "description": "Working with the CFTC on the oil probe; prosecuting Van Dyke (SDNY)."
+    },
+    {
+      "id": "mike-selig",
+      "name": "Michael Selig",
+      "type": "person",
+      "description": "CFTC chair; called enforcement against market threats a top priority."
+    },
+    {
+      "id": "mel-gunewardena",
+      "name": "Mel Gunewardena",
+      "type": "person",
+      "description": "Senior adviser to the CFTC chair, reported (anonymous sources) to have had an oil-trade referral retracted."
+    },
+    {
+      "id": "us-congress",
+      "name": "US Congress",
+      "type": "government",
+      "description": "Members sent letters on the trades; House Oversight wrote to Hyperliquid."
+    },
+    {
+      "id": "james-comer",
+      "name": "James Comer",
+      "type": "person",
+      "description": "House Oversight chairman (R) who wrote to Hyperliquid about the October 2025 short."
+    },
+    {
+      "id": "elizabeth-warren",
+      "name": "Elizabeth Warren",
+      "type": "person",
+      "description": "Senator who asked the SEC and CFTC to investigate trades ahead of announcements."
+    },
+    {
+      "id": "sheldon-whitehouse",
+      "name": "Sheldon Whitehouse",
+      "type": "person",
+      "description": "Senator who asked the CFTC about the March and April 2026 oil bets."
+    },
+    {
+      "id": "ritchie-torres",
+      "name": "Ritchie Torres",
+      "type": "person",
+      "description": "Congressman who asked the CFTC and SEC to examine the oil and Polymarket trades."
+    },
+    {
+      "id": "chris-murphy",
+      "name": "Chris Murphy",
+      "type": "person",
+      "description": "Senator who asked who was behind the 23 March 2026 oil trades."
+    },
+    {
+      "id": "alexandria-ocasio-cortez",
+      "name": "Alexandria Ocasio-Cortez",
+      "type": "person",
+      "description": "Congresswoman who called for trade disclosure after the April 2025 pause."
+    },
+    {
+      "id": "april-2025-tariff-pause",
+      "name": "April 2025 tariff pause",
+      "type": "event",
+      "description": "90-day pause on reciprocal tariffs posted at 1:18 p.m. ET on 9 April 2025."
+    },
+    {
+      "id": "october-2025-china-tariff-post",
+      "name": "10 October 2025 China tariff post",
+      "type": "event",
+      "description": "Trump post announcing 100% tariffs on China, followed by a record crypto liquidation."
+    },
+    {
+      "id": "strategic-bitcoin-reserve",
+      "name": "US crypto strategic reserve",
+      "type": "law",
+      "description": "Reserve announced in posts on 2 March 2025 and set up by executive order on 6 March 2025."
+    },
+    {
+      "id": "hyperliquid",
+      "name": "Hyperliquid",
+      "type": "company",
+      "description": "Offshore decentralised perpetual-futures exchange where the March and October 2025 crypto trades were placed."
+    },
+    {
+      "id": "jeff-yan",
+      "name": "Jeff Yan",
+      "type": "person",
+      "description": "Hyperliquid co-founder and recipient of the Comer letter."
+    },
+    {
+      "id": "garrett-jin",
+      "name": "Garrett Jin",
+      "type": "person",
+      "description": "Former BitForex CEO linked by on-chain analysts to the October 2025 short; denies any Trump connection."
+    },
+    {
+      "id": "arkham-intelligence",
+      "name": "Arkham Intelligence",
+      "type": "company",
+      "description": "On-chain analytics firm that labelled the October 2025 wallet a 'Trump insider whale'."
+    },
+    {
+      "id": "lookonchain",
+      "name": "Lookonchain",
+      "type": "company",
+      "description": "On-chain tracker that reported the March 2025 leveraged longs."
+    },
+    {
+      "id": "changpeng-zhao",
+      "name": "Changpeng Zhao",
+      "type": "person",
+      "description": "Binance founder who shared information identifying Jin, which Jin objected to."
+    },
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "type": "asset",
+      "description": "Asset traded in the March and October 2025 leveraged positions."
+    },
+    {
+      "id": "unusual-whales",
+      "name": "Unusual Whales",
+      "type": "company",
+      "description": "Options-flow tracker that flagged the 9 April 2025 call buying."
+    },
+    {
+      "id": "reuters",
+      "name": "Reuters",
+      "type": "media",
+      "description": "Reported the April 2025 options trades and the 2026 CFTC oil probe."
+    },
+    {
+      "id": "wall-street-journal",
+      "name": "Wall Street Journal",
+      "type": "media",
+      "description": "Reported the 2025 options trades and named firms among the 23 March 2026 oil traders."
+    },
+    {
+      "id": "financial-times",
+      "name": "Financial Times",
+      "type": "media",
+      "description": "Reported the roughly $580M of oil futures traded before the 23 March 2026 post."
+    },
+    {
+      "id": "bbc",
+      "name": "BBC",
+      "type": "media",
+      "description": "Published an analysis of trading spikes before Trump's 2026 Iran statements."
+    },
+    {
+      "id": "semafor",
+      "name": "Semafor",
+      "type": "media",
+      "description": "News outlet whose article about 33 minutes before the 23 March 2026 post was cited as the basis for some trades."
+    },
+    {
+      "id": "queensland-university-of-technology",
+      "name": "Queensland University of Technology",
+      "type": "company",
+      "description": "University whose researchers found abnormal trading before Trump's oil-related posts."
+    },
+    {
+      "id": "bubblemaps",
+      "name": "Bubblemaps",
+      "type": "company",
+      "description": "On-chain analytics firm that flagged fresh Polymarket wallets before the Iran strikes."
+    },
+    {
+      "id": "algorithmic-data-collective",
+      "name": "Algorithmic Data Collective",
+      "type": "media",
+      "description": "Data-journalism group that documented Polymarket bets before the June 2025 Iran strikes."
+    },
+    {
+      "id": "qube-research-technologies",
+      "name": "Qube Research & Technologies",
+      "type": "fund",
+      "description": "Quant fund named by the WSJ among the 23 March 2026 oil traders (about $5M gain); not accused; says its trading is model-driven."
+    },
+    {
+      "id": "totsa",
+      "name": "Totsa (TotalEnergies Trading)",
+      "type": "company",
+      "description": "TotalEnergies trading arm named by the WSJ among the 23 March 2026 traders (about $200K); not accused."
+    },
+    {
+      "id": "forza-fund",
+      "name": "Forza Fund Ltd",
+      "type": "fund",
+      "description": "Fund named by the WSJ among the 23 March 2026 traders (about $10M); not accused."
+    },
+    {
+      "id": "polymarket",
+      "name": "Polymarket",
+      "type": "company",
+      "description": "Prediction market where the Maduro, Iran-strike and ceasefire bets were placed."
+    },
+    {
+      "id": "kalshi",
+      "name": "Kalshi",
+      "type": "company",
+      "description": "Regulated prediction market that, with Polymarket, tightened its insider-trading rules."
+    },
+    {
+      "id": "donald-trump-jr",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "Adviser to Kalshi and investor in Polymarket via 1789 Capital; not linked to any of the bets."
+    },
+    {
+      "id": "gannon-van-dyke",
+      "name": "Gannon Ken Van Dyke",
+      "type": "person",
+      "description": "Army master sergeant charged over the Maduro Polymarket bets; pleaded not guilty."
+    },
+    {
+      "id": "nicolas-maduro",
+      "name": "Nicolas Maduro",
+      "type": "person",
+      "description": "Venezuelan leader captured in the US raid of 3 January 2026."
+    },
+    {
+      "id": "iran",
+      "name": "Iran",
+      "type": "country",
+      "description": "Subject of the June 2025 and 2026 strikes, talks and ceasefire posts."
+    },
+    {
+      "id": "china",
+      "name": "China",
+      "type": "country",
+      "description": "Target of the 10 October 2025 tariff post."
+    },
+    {
+      "id": "cme-group",
+      "name": "CME Group",
+      "type": "company",
+      "description": "Exchange asked for trader identities in the oil probe."
+    },
+    {
+      "id": "intercontinental-exchange",
+      "name": "Intercontinental Exchange",
+      "type": "company",
+      "description": "Exchange (Brent futures) asked for trader identities in the oil probe."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "donald-trump",
+      "target": "april-2025-tariff-pause",
+      "label": "posted 'GREAT TIME TO BUY' at 9:37 a.m. and the pause at 1:18 p.m. ET",
+      "type": "political",
+      "date": "2025-04-09"
+    },
+    {
+      "source": "donald-trump",
+      "target": "strategic-bitcoin-reserve",
+      "label": "announced in Truth Social posts",
+      "type": "political",
+      "date": "2025-03-02"
+    },
+    {
+      "source": "donald-trump",
+      "target": "october-2025-china-tariff-post",
+      "label": "posted 100% tariff on China at about 20:50 UTC",
+      "type": "political",
+      "date": "2025-10-10"
+    },
+    {
+      "source": "garrett-jin",
+      "target": "hyperliquid",
+      "label": "linked by on-chain analysts (disputed) to a ~$1.1B short on",
+      "type": "commercial",
+      "date": "2025-10-10",
+      "amount_usd": 1100000000
+    },
+    {
+      "source": "garrett-jin",
+      "target": "donald-trump-jr",
+      "label": "denies any connection with",
+      "type": "legal",
+      "date": "2025-10-13"
+    },
+    {
+      "source": "arkham-intelligence",
+      "target": "garrett-jin",
+      "label": "labelled the wallet 'Trump insider whale'",
+      "type": "media",
+      "date": "2025-10"
+    },
+    {
+      "source": "james-comer",
+      "target": "hyperliquid",
+      "label": "requested KYC, surveillance and referral records about the October 2025 short",
+      "type": "regulatory",
+      "date": "2026-09-29"
+    },
+    {
+      "source": "unusual-whales",
+      "target": "april-2025-tariff-pause",
+      "label": "flagged same-day SPY calls bought minutes before",
+      "type": "media",
+      "date": "2025-04-09"
+    },
+    {
+      "source": "gannon-van-dyke",
+      "target": "polymarket",
+      "label": "charged with betting about $33K on Maduro's removal, winning about $410K",
+      "type": "legal",
+      "date": "2026-04-23",
+      "amount_usd": 409881
+    },
+    {
+      "source": "doj",
+      "target": "gannon-van-dyke",
+      "label": "indicted (SDNY); pleaded not guilty",
+      "type": "legal",
+      "date": "2026-04-23"
+    },
+    {
+      "source": "cftc",
+      "target": "cme-group",
+      "label": "sought trader identities for the March and April 2026 oil trades",
+      "type": "regulatory",
+      "date": "2026-04"
+    },
+    {
+      "source": "cftc",
+      "target": "intercontinental-exchange",
+      "label": "sought trader identities for the March and April 2026 oil trades",
+      "type": "regulatory",
+      "date": "2026-04"
+    },
+    {
+      "source": "wall-street-journal",
+      "target": "qube-research-technologies",
+      "label": "named among the 23 March 2026 oil traders (not accused)",
+      "type": "media",
+      "date": "2026-05",
+      "amount_usd": 5000000
+    },
+    {
+      "source": "wall-street-journal",
+      "target": "forza-fund",
+      "label": "named among the 23 March 2026 oil traders (not accused)",
+      "type": "media",
+      "date": "2026-05",
+      "amount_usd": 10000000
+    },
+    {
+      "source": "wall-street-journal",
+      "target": "totsa",
+      "label": "named among the 23 March 2026 oil traders (not accused)",
+      "type": "media",
+      "date": "2026-05",
+      "amount_usd": 200000
+    },
+    {
+      "source": "semafor",
+      "target": "iran",
+      "label": "published a report about 33 minutes before the 23 March 2026 post, cited by some traders",
+      "type": "media",
+      "date": "2026-03-23"
+    },
+    {
+      "source": "mel-gunewardena",
+      "target": "cftc",
+      "label": "reportedly had a staff enforcement referral retracted (anonymous sources)",
+      "type": "regulatory",
+      "date": "2026"
+    },
+    {
+      "source": "mike-selig",
+      "target": "cftc",
+      "label": "chairs",
+      "type": "regulatory"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "cftc",
+      "label": "with Whitehouse, asked for investigation of the Iran oil trades",
+      "type": "political",
+      "date": "2026-04-09"
+    },
+    {
+      "source": "ritchie-torres",
+      "target": "cftc",
+      "label": "asked for review of Polymarket ceasefire bets and oil trades",
+      "type": "political",
+      "date": "2026-04"
+    },
+    {
+      "source": "kush-desai",
+      "target": "white-house",
+      "label": "spokesman; called the insinuations baseless",
+      "type": "political",
+      "date": "2026-03"
+    },
+    {
+      "source": "bubblemaps",
+      "target": "polymarket",
+      "label": "flagged six fresh wallets that netted ~$1M on the Iran-strike bets",
+      "type": "media",
+      "date": "2026-02-28",
+      "amount_usd": 1000000
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "polymarket",
+      "label": "investor via 1789 Capital (see C25); not linked to any bet",
+      "type": "money"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "kalshi",
+      "label": "strategic adviser (see C25)",
+      "type": "advisory"
+    },
+    {
+      "source": "queensland-university-of-technology",
+      "target": "donald-trump",
+      "label": "researchers found abnormal trading before oil-related posts",
+      "type": "media",
+      "date": "2026"
+    }
+  ],
+  "leads": [
+    {
+      "title": "Hyperliquid's response to the House Oversight request on the October 2025 short",
+      "why_connected": "Responses were due on 13 October 2026. KYC records could confirm or rule out the on-chain attribution to Garrett Jin and any link to officials.",
+      "entities": [
+        "hyperliquid",
+        "james-comer",
+        "garrett-jin",
+        "us-congress"
+      ],
+      "source_url": "https://oversight.house.gov/wp-content/uploads/2026/09/Hyperliquid-Letter-9.29.26.pdf"
+    },
+    {
+      "title": "Outcome of the CFTC/DOJ oil-futures review and the WSJ-named firms",
+      "why_connected": "This is the largest pre-announcement trading pattern on record. The firms named so far are not accused, the referral was reportedly withdrawn and then broadened, and it is unclear whether any trader with government links exists.",
+      "entities": [
+        "cftc",
+        "doj",
+        "qube-research-technologies",
+        "forza-fund",
+        "totsa",
+        "mel-gunewardena"
+      ],
+      "source_url": "https://www.hedgeweek.com/cftc-probes-800m-oil-trading-spike/"
+    },
+    {
+      "title": "United States v. Van Dyke trial (SDNY), reportedly set for 7 December 2026",
+      "why_connected": "This is the only prosecution of a trader who bet ahead of a government action, and it tests the 'theft of government information' theory for event contracts.",
+      "entities": [
+        "gannon-van-dyke",
+        "doj",
+        "polymarket",
+        "cftc"
+      ],
+      "source_url": "https://decrypt.co/370571/december-trial-date-us-soldier-insider-trading-polymarket"
+    },
+    {
+      "title": "QUT/Conversation study of trading before Trump's oil-related posts",
+      "why_connected": "This is a systematic test of the pattern rather than anecdote. The underlying paper or dataset could be checked for method and the full list of events.",
+      "entities": [
+        "queensland-university-of-technology",
+        "donald-trump"
+      ],
+      "source_url": "https://stories.theconversation.com/the-market-moves-before-trump-posts/"
+    },
+    {
+      "title": "Hyperliquid wallet that went long before the 2 March 2025 reserve post",
+      "why_connected": "Some trackers have tied this wallet to later high-leverage positions. No identification or inquiry was found.",
+      "entities": [
+        "hyperliquid",
+        "lookonchain",
+        "strategic-bitcoin-reserve"
+      ],
+      "source_url": "https://decrypt.co/308424/trader-nets-6-8m-after-well-timed-bitcoin-ethereum-bets-ahead-of-trumps-reserve-announcement"
+    }
+  ]
+}

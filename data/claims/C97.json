@@ -1,0 +1,258 @@
+{
+  "id": "C97",
+  "title": "Crypto Income During the Presidency",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "Trump's own disclosure for calendar 2025, filed with the Office of Government Ethics, documents about $1.44B of crypto-related income in his first year back in office. That includes $526.8M of World Liberty token-sale proceeds, $262.5M from selling stakes in World Liberty's holding company and its stablecoin company, $635.1M in meme-coin royalties, $8.3M of stablecoin operating income and $6.0M of NFT income for Melania Trump. These are gross amounts, not profit, and some arrived as crypto rather than dollars. Press totals of $1.2B to $2.4B for the family (WSJ, Bloomberg, Reuters, CAP) are estimates that count different things and sometimes mix cash with paper value. The paper value of the family's remaining holdings has fallen sharply: WLFI is down about 86% from its peak, $TRUMP about 99%, American Bitcoin about 94% and AI Financial (formerly ALT5) about 98%. No figure for 2026 income has been disclosed yet; the next annual filing is due by May 2027.",
+  "sub_claims": [
+    {
+      "statement": "World Liberty token sales: Trump reported more than $500M of token-sale proceeds for 2025.",
+      "verdict": "confirmed",
+      "finding": "The 2025 OGE Form 278e (released June 30, 2026) lists 'Proceeds from Token sales distributed by World Liberty Financial LLC' to DT Marks DEFI LLC on lines 124.3 to 124.12. The lines total $526,810,321: $236.25M in cash plus amounts that went into wallets holding ETH ($150.6M), USDC ($56.0M), USD ($42.25M), BTC ($33.5M) and smaller tokens. So part of the 'cash' arrived as crypto. The filing shows DT Marks DEFI is owned 69% by DTTM Operations (Trump's trust), 1% by a member corp and 30% by 'Trump Family Members'. It does not make clear whether the amounts are the entity's total or Trump's share only. World Liberty's site disclaimer (quoted by CAP, accessed September 2025) says DT Marks DEFI receives a service fee equal to 75% of WLFI token-sale proceeds 'after deduction of agreed reserves, expenses and other amounts'. The Gold Paper puts $15M of initial net revenue into a reserve. For calendar 2024, before the term began, the earlier filing reported $57.36M.",
+      "sources": [
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+        "https://www.americanprogress.org/wp-content/uploads/sites/2/2026/05/2026-05-05-Memo-on-Understanding-Trumps-Crypto-Wealth-Google-Docs.pdf",
+        "https://www.americanprogress.org/wp-content/uploads/sites/2/2026/07/2026-07-16-Memo-on-Understanding-Trumps-Crypto-Wealth-Updated-Google-Docs.pdf"
+      ]
+    },
+    {
+      "statement": "Stake sales: Trump received about $262.5M from investors buying into World Liberty's holding company and its stablecoin company, consistent with the reported Aryam (UAE) deal.",
+      "verdict": "mostly-accurate",
+      "finding": "The filing shows $65,625,000 of 'net proceeds from Equity Sale in WLF Holdco LLC' (line 124.2). It also shows $196,875,000 to DT Marks SC LLC as a 'capital contribution from new member(s) of Stablecoin Holdco LLC and sale of Class C Units' (line 114). After the sales DT Marks DEFI holds 38.25% of WLF Holdco and DT Marks SC holds 38.25% of Stablecoin Holdco; Stablecoin Holdco is World Liberty's stablecoin company. The filing does not name the buyer. The WSJ (Feb. 1, 2026, relayed by other outlets) reported that Aryam Investment 1, backed by Sheikh Tahnoon, agreed in January 2025 to pay $500M for 49% of World Liberty, and that about $187M of the first $250M went to Trump-family entities. CAP notes that $262.5M is exactly 75% x 70% of $500M, which would fit the full $500M having been paid. That is CAP's inference, and no document confirms the second $250M.",
+      "sources": [
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+        "https://www.americanprogress.org/wp-content/uploads/sites/2/2026/07/2026-07-16-Memo-on-Understanding-Trumps-Crypto-Wealth-Updated-Google-Docs.pdf",
+        "https://www.americanprogress.org/wp-content/uploads/sites/2/2026/05/2026-05-05-Memo-on-Understanding-Trumps-Crypto-Wealth-Google-Docs.pdf"
+      ]
+    },
+    {
+      "statement": "The 'about $594M versus about $800M' disagreement over Trump's 2025 World Liberty income.",
+      "verdict": "confirmed",
+      "finding": "Both figures come from the same filing and differ only in classification. $526.8M of token sales plus $65.6M from the WLF Holdco stake sale is $592.4M, the Bloomberg/NOTUS 'about $594M'. Adding the $196.9M from the Stablecoin Holdco unit sale gives $789.3M, the Reuters/NYT 'almost $800M', which Reuters splits into 'more than $520M' from tokens and 'more than $250M' ($262.5M) from 'the sale of interests in the World Liberty business'. The Block's $236.25M is line 124.3 alone. This confirms from the primary document the reconciliation that C29's audit had marked as its own inference.",
+      "sources": [
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+        "https://www.thestar.com.my/news/world/2026/07/01/trump-reports-over-14-billion-in-income-from-crypto-ventures"
+      ]
+    },
+    {
+      "statement": "Estimates of World Liberty token proceeds beyond the 2025 filing (WSJ, Bloomberg, Reuters, CAP, House Oversight Democrats).",
+      "verdict": "partly-accurate",
+      "finding": "These are estimates, not documented payments, and they differ by method. WSJ (Feb. 2026) put cash to the family from World Liberty at at least $1.2B, plus about $2.25B in paper gains; the method is known only from secondary reports. Bloomberg (May 12, 2026) estimated about $1.55B of family token-sale proceeds. That includes about $660M from 5.9B tokens sold privately between September 2025 and April 2026 ('white glove' sales World Liberty confirmed without naming buyers or prices), calculated as 5.9B tokens x about $0.15 x 75%. Reuters (June 9, 2026) estimated about $1.447B: $987M from 30B disclosed tokens plus at least $460M from 3B tokens shown in October 2025 EU filings, after applying the 75% share and expenses. CAP (July 16, 2026) adopts Reuters' $1.447B. House Oversight Democratic staff (Jan. 20, 2026) estimated 'nearly $1.6B' by counting the full $1.45B ALT5 deal as token sales. That overstates the cash, because half of that deal was WLFI exchanged for ALT5 shares rather than sold for dollars. All of these exceed the $526.8M on Trump's 2025 form. CAP attributes the gap to money kept inside family LLCs or paid to other family members; the 2026 sales will appear only on the next filing.",
+      "sources": [
+        "https://news.bloomberglaw.com/crypto/quiet-token-sales-boosted-trump-crypto-wealth-by-660-million",
+        "https://www.americanprogress.org/wp-content/uploads/sites/2/2026/07/2026-07-16-Memo-on-Understanding-Trumps-Crypto-Wealth-Updated-Google-Docs.pdf",
+        "https://oversightdemocrats.house.gov/imo/media/doc/12026cryptoreport.pdf",
+        "https://texxr.com/1163030/world-liberty-financial-pays-trump-family-1-2b"
+      ]
+    },
+    {
+      "statement": "The ALT5 Sigma (now AI Financial Corp.) treasury deal produced about $500M for the Trump family.",
+      "verdict": "partly-accurate",
+      "finding": "ALT5's August 2025 release confirms the structure: a $1.5B offering in which the private-placement half was 'contributed in the form of $WLFI tokens from World Liberty Financial'. ALT5 said it would use the net proceeds to buy WLFI, and a September 2025 release reported 7.28B WLFI held. Reuters and CAP report that ALT5 spent $717M buying WLFI and that more than $500M was routed to the Trump family. That figure is an estimate derived from the 75% fee, and no filing itemizes it. The money falls within World Liberty token sales, so it overlaps with the $526.8M on the 2025 form and with the Reuters and Bloomberg totals; it must not be added to them. On paper, the AI Financial shares World Liberty received for its $750M of WLFI have collapsed: the company's entire market value was about $22.5M on Nov. 13, 2026, at about $0.17 a share.",
+      "sources": [
+        "https://last10k.com/sec-filings/alts/0001628280-25-039914.htm",
+        "https://www.businesswire.com/news/home/20250904739095/en",
+        "https://www.americanprogress.org/wp-content/uploads/sites/2/2026/07/2026-07-16-Memo-on-Understanding-Trumps-Crypto-Wealth-Updated-Google-Docs.pdf",
+        "https://stockanalysis.com/stocks/aifc/"
+      ]
+    },
+    {
+      "statement": "USD1: reserve income and the MGX-Binance settlement.",
+      "verdict": "partly-accurate",
+      "finding": "Documented: the 2025 filing reports $8,326,828 of 'Net Operating Income' from the Stablecoin Holdco business (line 204.1), separate from the $196.9M unit sale. Estimates: CAP put the Trump family's gross 2025 reserve income at about $26.3M and about $140,000 a day by July 2026, using 38% of the money-market yield on USD1 reserves. Bloomberg (June 5, 2026) projected nearly $150M of USD1 revenue for World Liberty in 2026. That is company revenue, of which the family's 38.25% share would be about $57M (our arithmetic). The MGX-Binance deal paid no fee to World Liberty. Its value to World Liberty is the reserve yield on the $2B while USD1 stays outstanding, which is already inside these reserve-income figures. No source found shows whether MGX's USD1 has since been redeemed. USD1 supply was about $3.08B on Nov. 16, 2026 (CoinGecko), down from about $4.7B in mid-2026.",
+      "sources": [
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+        "https://www.americanprogress.org/wp-content/uploads/sites/2/2026/07/2026-07-16-Memo-on-Understanding-Trumps-Crypto-Wealth-Updated-Google-Docs.pdf",
+        "https://news.bloomberglaw.com/crypto/trump-familys-stablecoin-wealth-fueled-by-binance-relationship",
+        "https://api.coingecko.com/api/v3/simple/price?ids=world-liberty-financial,official-trump,melania-meme,usd1-wlfi&vs_currencies=usd&include_market_cap=true"
+      ]
+    },
+    {
+      "statement": "$TRUMP meme coin: Trump received about $635M.",
+      "verdict": "confirmed",
+      "finding": "Line 21.6 of the 2025 filing shows $635,068,835 of 'Royalties' to CIC Digital LLC, owned 100% by Trump's revocable trust, under a 'License agreement with Celebration Coins'. CIC Digital also reported $510,808 of ETH staking rewards and $45,932 of interest. This is licensing income; Reuters' wording, 'from the sale of his Trump meme coins', is looser than the filing. The filing lists no $TRUMP tokens among CIC Digital's assets, so the paper value of any Trump-held tokens cannot be read from it. On-chain estimates of the issuers' take each measure something different. The FT (March 2025, its own blockchain analysis) found at least $314M from token sales and $36M in fees in the first three weeks. Chainalysis (via DL News, May 2025) found more than $320M in trading fees. CAP traced about $313M of net USDC withdrawals from Meteora pools. Reuters (June 2026) estimated about $616M for the family. Most of these cover all the issuing entities (CIC Digital and Fight Fight Fight), not Trump alone, and they overlap with the royalty figure.",
+      "sources": [
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+        "https://cointelegraph.com/news/trump-memecoin-generated-350-million-creators-report",
+        "https://www.dlnews.com/articles/markets/meet-the-memecoin-traders-who-made-millions-on-trump-token",
+        "https://www.americanprogress.org/wp-content/uploads/sites/2/2026/05/2026-05-05-Memo-on-Understanding-Trumps-Crypto-Wealth-Google-Docs.pdf",
+        "https://www.wichitaliberty.org/politics/under-the-trump-crypto-playbook-the-family-always-wins-investors-dont/"
+      ]
+    },
+    {
+      "statement": "$TRUMP team tokens and 2026 movements.",
+      "verdict": "unverified",
+      "finding": "The issuing entities retained 80% of the 1B supply on a three-year unlock. Crypto Briefing (Oct. 3, 2026, single source) reported that team wallets still held about 718M tokens and had moved about $249M of tokens to exchanges over eight months. Exchange deposits do not prove sales. At $0.944 (Nov. 16, 2026), 718M tokens are worth about $678M on paper (our arithmetic), shared between CIC Digital and Fight Fight Fight in unknown proportions. Forbes (September 2026) valued Trump's own $TRUMP stake at about $183M.",
+      "sources": [
+        "https://cryptobriefing.com/?p=385841",
+        "https://forbes.kz/articles/sostoyanie-trampa-za-dva-goda-uvelichilos-na-27-mlrd-8e33bc",
+        "https://api.coingecko.com/api/v3/simple/price?ids=world-liberty-financial,official-trump,melania-meme,usd1-wlfi&vs_currencies=usd&include_market_cap=true"
+      ]
+    },
+    {
+      "statement": "$MELANIA: Melania Trump's crypto income.",
+      "verdict": "partly-accurate",
+      "finding": "The 2025 filing shows $6,011,259 of 'net proceeds' to MKT World LLC under a 'License agreement with Designers Manager for the sale of NFTs and other collectibles' (line 3.3). It does not name $MELANIA. The FT (May 2025) reported that the coin's launch entities had withdrawn $64.7M from fees and primary sales, without showing how much reached Melania Trump. The token traded at about $0.046 on Nov. 16, 2026.",
+      "sources": [
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+        "https://www.americanprogress.org/wp-content/uploads/sites/2/2026/07/2026-07-16-Memo-on-Understanding-Trumps-Crypto-Wealth-Updated-Google-Docs.pdf"
+      ]
+    },
+    {
+      "statement": "WLFI token holdings: paper value and unlocks.",
+      "verdict": "confirmed",
+      "finding": "World Liberty's disclaimer (as of September 2025) says DT Marks DEFI and certain family members hold 22.5B WLFI. The 2025 filing lists 15.75B WLFI under DTTM Operations with a value of 'Over $50,000,000'. At $0.0468 (CoinGecko, Nov. 16, 2026) the 22.5B tokens would be worth about $1.05B and the 15.75B about $737M, before any discount for the lock-up. Forbes (September 2026) carries Trump's WLFI at only about $78M. The May 2026 governance vote put opting-in founders and team on a two-year cliff followed by three years of linear vesting, so none of the family's tokens can be sold before about mid-2028. These are paper values, and none of them is cash.",
+      "sources": [
+        "https://www.americanprogress.org/wp-content/uploads/sites/2/2026/05/2026-05-05-Memo-on-Understanding-Trumps-Crypto-Wealth-Google-Docs.pdf",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+        "https://www.coindesk.com/markets/2026/04/15/trump-backed-world-liberty-financial-proposes-unlocking-62-billion-tokens",
+        "https://forbes.kz/articles/sostoyanie-trampa-za-dva-goda-uvelichilos-na-27-mlrd-8e33bc"
+      ]
+    },
+    {
+      "statement": "American Bitcoin: Eric Trump's and Donald Trump Jr.'s stakes.",
+      "verdict": "confirmed",
+      "finding": "Eric Trump's Schedule 13D/A (December 2025) reports 68,432,664 shares, 7.4% of 927.6M shares, held since November 2025 through his revocable trust. After the 1-for-15 reverse split of July 2026, that is about 4.56M shares, worth about $23M at the Nov. 13, 2026 close of $5.07 (our arithmetic). The same stake was worth about $548M after the September 2025 listing and, per Reuters, more than $70M at the end of April 2026. Reuters found no evidence that he contributed capital. Donald Trump Jr.'s stake is below the 5% reporting threshold and undisclosed. No sale of shares and no dividend was found. All of this is paper value.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/0001755953/000121390025124157/primary_doc.xml",
+        "https://www.sec.gov/Archives/edgar/data/0001755953/000095017025114071/primary_doc.xml",
+        "https://stockanalysis.com/stocks/abtc/",
+        "https://crypto.news/eric-trumps-american-bitcoin-sinks-95-as-stake-loses-600m/",
+        "https://www.wichitaliberty.org/politics/under-the-trump-crypto-playbook-the-family-always-wins-investors-dont/"
+      ]
+    },
+    {
+      "statement": "Combined press totals and what they measure.",
+      "verdict": "mostly-accurate",
+      "finding": "Reuters (June 9, 2026): at least $2.3B for the family from four ventures, through April 30, 2026. That is World Liberty at more than $1.6B, $TRUMP at about $616M and American Bitcoin at about $70M, with ALT5 counted inside World Liberty. The total mixes cash with Eric Trump's paper stake and was reviewed by more than a dozen accounting and crypto specialists. CAP (July 2026): $2.405B, made up of $262.5M in stake sales, $1.447B in token sales (Reuters' figure), $54.0M of USD1 income, $635.6M of $TRUMP income and $6.0M for $MELANIA. House Oversight Democratic staff (January 2026): 'nearly $2.25B' of profits and up to $9.72B including paper wealth. Forbes (September 2026): crypto worth about $494M within Trump's $7B net worth ($183M $TRUMP, $78M WLFI and $233M for the USD1 business). The New Yorker's Kirkpatrick (about $4B in total, all ventures) is covered in C55. These totals overlap heavily and must not be added together.",
+      "sources": [
+        "https://www.wichitaliberty.org/politics/under-the-trump-crypto-playbook-the-family-always-wins-investors-dont/",
+        "https://www.americanprogress.org/wp-content/uploads/sites/2/2026/07/2026-07-16-Memo-on-Understanding-Trumps-Crypto-Wealth-Updated-Google-Docs.pdf",
+        "https://oversightdemocrats.house.gov/imo/media/doc/12026cryptoreport.pdf",
+        "https://forbes.kz/articles/sostoyanie-trampa-za-dva-goda-uvelichilos-na-27-mlrd-8e33bc"
+      ]
+    },
+    {
+      "statement": "Other crypto treasury companies tied to the family.",
+      "verdict": "unverified",
+      "finding": "Trump Media's bitcoin treasury is covered in C98, and the family's links to Thumzup (Donald Trump Jr.) and Metaplanet (Eric Trump as adviser) are covered in C18. No cash payment to a family member from these was found in a filing; any gain is paper value on shares. Witkoff-family income is covered in C42 and is not counted here.",
+      "sources": [
+        "https://www.americanprogress.org/wp-content/uploads/sites/2/2026/07/2026-07-16-Memo-on-Understanding-Trumps-Crypto-Wealth-Updated-Google-Docs.pdf"
+      ]
+    }
+  ],
+  "corrections": [
+    "Claimed (C29, C42): Trump's 2025 World Liberty income is 'contested' at about $594M-$800M. The record shows: the filing itself resolves the dispute. Token sales are $526,810,321 (lines 124.3-124.12), the WLF Holdco stake sale is $65,625,000 (line 124.2) and the Stablecoin Holdco unit sale is $196,875,000 (line 114). $592.4M counts only DT Marks DEFI; $789.3M also counts DT Marks SC. C29's reconciliation is confirmed by the primary document, not just inferred.",
+    "Claimed (C42): Bloomberg and others report 'about $515-529M from token sales'. The record shows: the exact sum of the token-sale lines is $526.8M.",
+    "Claimed (C42): 'The 22.5B-token stake was valued at about $1.3B.' The record shows: that is a press/CAP valuation at about $0.059 (July 2026). The filing values the 15.75B WLFI held by DTTM Operations only as 'Over $50,000,000'. At $0.0468 on Nov. 16, 2026, 22.5B tokens would be worth about $1.05B before any lock-up discount, and Forbes carries Trump's WLFI at about $78M.",
+    "Claimed (Reuters wording, repeated in C01): Trump reported $635M 'from the sale of his Trump meme coins'. The record shows: the filing lists $635,068,835 of royalties to CIC Digital under a license agreement with 'Celebration Coins', not token sales by Trump.",
+    "Claimed (C06): no reporting shows whether the second $250M of the Aryam deal was paid. The record shows: still not documented. CAP notes that the $262.5M of disclosed stake-sale proceeds equals 75% x 70% of the full $500M, which would fit full payment; this is an inference.",
+    "Claimed (C55): Reuters' $2.3B is 'from four crypto ventures'. The record shows: about $70M of it is the paper value of Eric Trump's American Bitcoin stake, so it is not purely cash; and ALT5's roughly $500M sits inside the World Liberty figure.",
+    "Claimed (House Oversight Democratic staff, January 2026): WLF sold at least $2.165B in tokens, including $1.45B from ALT5. The record shows: half of the ALT5 deal was WLFI exchanged for ALT5 shares, not tokens sold for cash. Reuters and CAP put ALT5's cash purchase of WLFI at $717M."
+  ],
+  "denials_and_context": [
+    "White House spokesperson Anna Kelly, on the 2025 disclosure (Reuters, June 30, 2026): 'Neither the President nor his family has ever engaged — or will ever engage — in conflicts of interest. President Trump proudly made the United States the crypto capital of the world through executive actions.' The White House says the businesses are run by his children; Trump remains the beneficiary of the trust that receives the income.",
+    "Trump Organization spokesperson: the nearly 1,000-page filing 'demonstrates a level of financial transparency unmatched in presidential history.'",
+    "World Liberty Financial declined to comment on the disclosure (Reuters). It confirmed its private 'white glove' token sales to Bloomberg but did not name buyers or prices. Company representatives disputed parts of Reuters' June 2026 accounting, especially its inclusion of unrealized investor losses.",
+    "The $TRUMP website says the coin 'is not distributed or sold by Donald J. Trump, The Trump Organization or any of their respective affiliates or principals'; Celebration Cards LLC uses his name under a limited license.",
+    "Income received during the presidency is not shown to be income received because of it. The filing reports gross amounts in the year distributed, not profit, and does not say what taxes or expenses applied.",
+    "Source limits: sec.gov, Reuters, The Block, NOTUS and the WSJ could not be read directly from this environment. SEC 13D figures and WSJ, Bloomberg, FT and Chainalysis numbers come from search excerpts or relays and are marked as such in sources."
+  ],
+  "sources": [
+    {"title": "OGE Form 278e, Donald J. Trump, Annual 2025 (filed 2026)", "publisher": "U.S. Office of Government Ethics", "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf", "date": "2026-06-30", "read": "full"},
+    {"title": "Letter to President Trump re 2026 crypto earnings", "publisher": "U.S. Senate Committee on Banking (Ranking Member Warren)", "url": "https://www.banking.senate.gov/imo/media/doc/20260716_letter_to_trump_re_2026_crytpo_earningspdf.pdf", "date": "2026-07-16", "read": "full"},
+    {"title": "President Trump's Crypto Income (memo)", "publisher": "Center for American Progress", "url": "https://www.americanprogress.org/wp-content/uploads/sites/2/2026/05/2026-05-05-Memo-on-Understanding-Trumps-Crypto-Wealth-Google-Docs.pdf", "date": "2026-05-05", "read": "full"},
+    {"title": "President Trump's Crypto Income And How We Track It (updated memo)", "publisher": "Center for American Progress", "url": "https://www.americanprogress.org/wp-content/uploads/sites/2/2026/07/2026-07-16-Memo-on-Understanding-Trumps-Crypto-Wealth-Updated-Google-Docs.pdf", "date": "2026-07-16", "read": "full"},
+    {"title": "Professionalized Corruption: interim staff analysis", "publisher": "House Committee on Oversight, Democratic staff", "url": "https://oversightdemocrats.house.gov/imo/media/doc/12026cryptoreport.pdf", "date": "2026-01-20", "read": "excerpt"},
+    {"title": "Trump reports over $1.4 billion in income from crypto ventures (Reuters)", "publisher": "The Star / Reuters", "url": "https://www.thestar.com.my/news/world/2026/07/01/trump-reports-over-14-billion-in-income-from-crypto-ventures", "date": "2026-06-30", "read": "full"},
+    {"title": "Under the Trump Crypto Playbook, the Family Always Wins. Investors Don't", "publisher": "Reuters", "url": "https://www.reuters.com/investigations/under-trump-crypto-playbook-family-always-wins-investors-dont-2026-06-09/", "date": "2026-06-09", "read": "excerpt"},
+    {"title": "Under the Trump Crypto Playbook, the Family Always Wins. Investors Don't (summary of the Reuters investigation)", "publisher": "Wichita Liberty", "url": "https://www.wichitaliberty.org/politics/under-the-trump-crypto-playbook-the-family-always-wins-investors-dont/", "date": "2026-06", "read": "full"},
+    {"title": "Quiet Token Sales Boosted Trump Crypto Wealth by $660 Million", "publisher": "Bloomberg", "url": "https://news.bloomberglaw.com/crypto/quiet-token-sales-boosted-trump-crypto-wealth-by-660-million", "date": "2026-05-12", "read": "excerpt"},
+    {"title": "Trump Family's Stablecoin Wealth Fueled by Binance Relationship", "publisher": "Bloomberg", "url": "https://news.bloomberglaw.com/crypto/trump-familys-stablecoin-wealth-fueled-by-binance-relationship", "date": "2026-06-05", "read": "excerpt"},
+    {"title": "World Liberty Financial pays Trump family $1.2B (WSJ analysis relayed)", "publisher": "Texxr", "url": "https://texxr.com/1163030/world-liberty-financial-pays-trump-family-1-2b", "date": "2026-02", "read": "excerpt"},
+    {"title": "Trump memecoin generated $350 million for creators: report (FT analysis relayed)", "publisher": "Cointelegraph", "url": "https://cointelegraph.com/news/trump-memecoin-generated-350-million-creators-report", "date": "2025-03", "read": "excerpt"},
+    {"title": "Meet the memecoin traders who made millions on Trump token (Chainalysis fee data)", "publisher": "DL News", "url": "https://www.dlnews.com/articles/markets/meet-the-memecoin-traders-who-made-millions-on-trump-token", "date": "2025-05", "read": "excerpt"},
+    {"title": "TRUMP team wallets move $249 million in tokens to exchanges over eight months", "publisher": "Crypto Briefing", "url": "https://cryptobriefing.com/?p=385841", "date": "2026-10-03", "read": "excerpt"},
+    {"title": "ALT5 Sigma $1.5B offering announcement (in SEC filing)", "publisher": "ALT5 Sigma via last10k", "url": "https://last10k.com/sec-filings/alts/0001628280-25-039914.htm", "date": "2025-08-12", "read": "full"},
+    {"title": "ALT5 Sigma WLFI holdings update", "publisher": "Business Wire", "url": "https://www.businesswire.com/news/home/20250904739095/en", "date": "2025-09-04", "read": "excerpt"},
+    {"title": "American Bitcoin Corp. Schedule 13D (Eric Trump)", "publisher": "SEC EDGAR", "url": "https://www.sec.gov/Archives/edgar/data/0001755953/000095017025114071/primary_doc.xml", "date": "2025-09", "read": "excerpt"},
+    {"title": "American Bitcoin Corp. Schedule 13D/A (Eric Trump)", "publisher": "SEC EDGAR", "url": "https://www.sec.gov/Archives/edgar/data/0001755953/000121390025124157/primary_doc.xml", "date": "2025-12", "read": "excerpt"},
+    {"title": "American Bitcoin Corp. (ABTC) quote and statistics", "publisher": "Stock Analysis", "url": "https://stockanalysis.com/stocks/abtc/", "date": "2026-11-13", "read": "full"},
+    {"title": "AI Financial Corporation (AIFC) quote and statistics", "publisher": "Stock Analysis", "url": "https://stockanalysis.com/stocks/aifc/", "date": "2026-11-13", "read": "full"},
+    {"title": "Eric Trump's American Bitcoin sinks 95% as stake loses $600M", "publisher": "crypto.news", "url": "https://crypto.news/eric-trumps-american-bitcoin-sinks-95-as-stake-loses-600m/", "date": "2026", "read": "excerpt"},
+    {"title": "Price and market cap of WLFI, TRUMP, MELANIA and USD1", "publisher": "CoinGecko API", "url": "https://api.coingecko.com/api/v3/simple/price?ids=world-liberty-financial,official-trump,melania-meme,usd1-wlfi&vs_currencies=usd&include_market_cap=true", "date": "2026-11-16", "read": "full"},
+    {"title": "Trump's fortune rose $2.7B in two years (Forbes September 2026 estimate)", "publisher": "Forbes Kazakhstan", "url": "https://forbes.kz/articles/sostoyanie-trampa-za-dva-goda-uvelichilos-na-27-mlrd-8e33bc", "date": "2026-09-16", "read": "full"},
+    {"title": "Trump-backed WLFI moves to unlock 62 billion tokens", "publisher": "CoinDesk", "url": "https://www.coindesk.com/markets/2026/04/15/trump-backed-world-liberty-financial-proposes-unlocking-62-billion-tokens", "date": "2026-04-15", "read": "excerpt"},
+    {"title": "Trump family reduces equity stake in World Liberty", "publisher": "Decrypt", "url": "https://decrypt.co/326105/trump-family-reduces-equity-stake-crypto-project-world-liberty", "date": "2025-06", "read": "excerpt"},
+    {"title": "World Liberty Financial homepage (no ownership disclaimer in served HTML)", "publisher": "World Liberty Financial", "url": "https://worldlibertyfinancial.com/", "date": "2026-11-16", "read": "full"}
+  ],
+  "entities": [
+    {"id": "donald-trump", "name": "Donald Trump", "type": "person", "description": "US president; reported about $1.44B of crypto-related income for 2025 through his trust's LLCs"},
+    {"id": "melania-trump", "name": "Melania Trump", "type": "person", "description": "First lady; $6.0M of NFT and collectibles licensing income in 2025 via MKT World LLC"},
+    {"id": "eric-trump", "name": "Eric Trump", "type": "person", "description": "Holds about 7.4% of American Bitcoin through his revocable trust"},
+    {"id": "donald-trump-jr", "name": "Donald Trump Jr.", "type": "person", "description": "Holds an undisclosed stake below 5% in American Bitcoin"},
+    {"id": "world-liberty-financial", "name": "World Liberty Financial", "type": "company", "description": "Issuer of WLFI and USD1; pays 75% of net token-sale proceeds to DT Marks DEFI"},
+    {"id": "dt-marks-defi-llc", "name": "DT Marks DEFI LLC", "type": "company", "description": "Trump entity (69% DTTM Operations, 30% family members) holding 38.25% of WLF Holdco"},
+    {"id": "dt-marks-sc", "name": "DT Marks SC LLC", "type": "company", "description": "Trump entity holding 38.25% of Stablecoin Holdco; received $196.9M in 2025"},
+    {"id": "stablecoin-holdco", "name": "Stablecoin Holdco LLC", "type": "company", "description": "Miami holding company of World Liberty's stablecoin business"},
+    {"id": "wlf-holdco", "name": "WLF Holdco LLC", "type": "company", "description": "Sole member of World Liberty Financial, Inc."},
+    {"id": "dttm-operations", "name": "DTTM Operations LLC", "type": "company", "description": "Trump trust entity listed as holding 15.75B WLFI"},
+    {"id": "cic-digital", "name": "CIC Digital LLC", "type": "company", "description": "Trump trust entity; $635.1M of $TRUMP royalties in 2025"},
+    {"id": "fight-fight-fight-llc", "name": "Fight Fight Fight LLC", "type": "company", "description": "Co-issuer of $TRUMP with CIC Digital"},
+    {"id": "celebration-cards-llc", "name": "Celebration Cards LLC", "type": "company", "description": "Licensee of Trump's name for $TRUMP; likely the 'Celebration Coins' on the filing (CAP inference)"},
+    {"id": "mkt-world-llc", "name": "MKT World LLC", "type": "company", "description": "Melania Trump's company; NFT, film and book licensing income"},
+    {"id": "designers-manager", "name": "Designers Manager", "type": "company", "description": "Licensing counterparty for MKT World's NFT and film income"},
+    {"id": "aryam-investment-1", "name": "Aryam Investment 1", "type": "fund", "description": "Tahnoon-backed vehicle reported to have agreed to pay $500M for 49% of World Liberty"},
+    {"id": "tahnoon-bin-zayed", "name": "Tahnoon bin Zayed Al Nahyan", "type": "person", "description": "UAE national security adviser; backer of Aryam and chairman of MGX"},
+    {"id": "alt5-sigma", "name": "ALT5 Sigma / AI Financial Corp.", "type": "company", "description": "WLFI treasury company; reported $717M WLFI purchase; market value about $22.5M in Nov. 2026"},
+    {"id": "american-bitcoin", "name": "American Bitcoin", "type": "company", "description": "Hut 8-controlled bitcoin miner; Nasdaq ABTC; market value about $369M in Nov. 2026"},
+    {"id": "hut-8", "name": "Hut 8", "type": "company", "description": "Controls about 80% of American Bitcoin's voting power"},
+    {"id": "usd1", "name": "USD1", "type": "asset", "description": "World Liberty stablecoin; about $3.1B supply on Nov. 16, 2026"},
+    {"id": "wlfi-token", "name": "WLFI", "type": "asset", "description": "World Liberty governance token; $0.0468 on Nov. 16, 2026"},
+    {"id": "trump-coin", "name": "$TRUMP", "type": "asset", "description": "Official Trump meme coin; $0.944 on Nov. 16, 2026"},
+    {"id": "melania-coin", "name": "$MELANIA", "type": "asset", "description": "Melania meme coin; $0.046 on Nov. 16, 2026"},
+    {"id": "mgx", "name": "MGX", "type": "fund", "description": "Abu Dhabi investor that settled its $2B Binance investment in USD1"},
+    {"id": "binance", "name": "Binance", "type": "company", "description": "Exchange holding most USD1 supply"},
+    {"id": "bitgo", "name": "BitGo", "type": "company", "description": "USD1 reserve custodian sharing reserve interest with World Liberty affiliates"},
+    {"id": "office-of-government-ethics", "name": "Office of Government Ethics", "type": "government", "description": "Released Trump's 2025 annual disclosure on June 30, 2026"},
+    {"id": "white-house", "name": "White House", "type": "government", "description": "Denies conflicts of interest"},
+    {"id": "trump-organization", "name": "Trump Organization", "type": "company", "description": "Family business; calls the filing unmatched transparency"},
+    {"id": "anna-kelly", "name": "Anna Kelly", "type": "person", "description": "White House spokesperson"},
+    {"id": "reuters", "name": "Reuters", "type": "media", "description": "Estimated at least $2.3B family crypto gains through April 2026"},
+    {"id": "bloomberg", "name": "Bloomberg", "type": "media", "description": "Estimated $1.55B family WLF token proceeds and about $150M 2026 USD1 revenue"},
+    {"id": "center-for-american-progress", "name": "Center for American Progress", "type": "company", "description": "Think tank tracking Trump crypto income ($2.405B, July 2026)"},
+    {"id": "forbes", "name": "Forbes", "type": "media", "description": "Values Trump's crypto at about $494M within a $7B net worth (Sept. 2026)"},
+    {"id": "financial-times", "name": "Financial Times", "type": "media", "description": "On-chain estimate of $TRUMP and $MELANIA issuer takings"},
+    {"id": "chainalysis", "name": "Chainalysis", "type": "company", "description": "Blockchain analytics; $TRUMP fee data"}
+  ],
+  "relationships": [
+    {"source": "world-liberty-financial", "target": "dt-marks-defi-llc", "label": "distributed token-sale proceeds reported at $526.8M for 2025", "type": "money", "date": "2025", "amount_usd": 526810321},
+    {"source": "wlf-holdco", "target": "dt-marks-defi-llc", "label": "net proceeds of $65.6M from sale of WLF Holdco equity (2025)", "type": "money", "date": "2025", "amount_usd": 65625000},
+    {"source": "stablecoin-holdco", "target": "dt-marks-sc", "label": "capital contribution and Class C unit sale proceeds of $196.9M (2025)", "type": "money", "date": "2025", "amount_usd": 196875000},
+    {"source": "stablecoin-holdco", "target": "donald-trump", "label": "reported $8.3M net operating income from the stablecoin business (2025)", "type": "money", "date": "2025", "amount_usd": 8326828},
+    {"source": "dt-marks-defi-llc", "target": "wlf-holdco", "label": "owns 38.25%", "type": "ownership", "date": "2025-12-31"},
+    {"source": "dt-marks-sc", "target": "stablecoin-holdco", "label": "owns 38.25%", "type": "ownership", "date": "2025-12-31"},
+    {"source": "donald-trump", "target": "dt-marks-defi-llc", "label": "owns about 70% via trust entities; family members own 30%", "type": "ownership", "date": "2025-12-31"},
+    {"source": "donald-trump", "target": "cic-digital", "label": "owns 100% via revocable trust", "type": "ownership", "date": "2025-12-31"},
+    {"source": "trump-coin", "target": "cic-digital", "label": "royalties of $635.1M under 'Celebration Coins' license (2025)", "type": "money", "date": "2025", "amount_usd": 635068835},
+    {"source": "designers-manager", "target": "mkt-world-llc", "label": "$6.0M NFT and collectibles licensing proceeds (2025)", "type": "money", "date": "2025", "amount_usd": 6011259},
+    {"source": "melania-trump", "target": "mkt-world-llc", "label": "owns", "type": "ownership"},
+    {"source": "aryam-investment-1", "target": "world-liberty-financial", "label": "reported agreement to pay $500M for 49% (about $187M of first $250M to Trump entities)", "type": "money", "date": "2025-01", "amount_usd": 500000000},
+    {"source": "alt5-sigma", "target": "world-liberty-financial", "label": "reported $717M purchase of WLFI", "type": "money", "date": "2025-08", "amount_usd": 717000000},
+    {"source": "world-liberty-financial", "target": "alt5-sigma", "label": "received ALT5 shares for $750M of WLFI; that holding is now worth only a fraction of that", "type": "ownership", "date": "2025-08"},
+    {"source": "eric-trump", "target": "american-bitcoin", "label": "holds about 7.4% (68.4M pre-split shares), worth about $23M on Nov. 13, 2026", "type": "ownership", "date": "2025-12"},
+    {"source": "donald-trump-jr", "target": "american-bitcoin", "label": "undisclosed stake below 5%", "type": "ownership"},
+    {"source": "hut-8", "target": "american-bitcoin", "label": "controls about 80% of voting power", "type": "ownership"},
+    {"source": "mgx", "target": "binance", "label": "settled $2B investment in USD1", "type": "money", "date": "2025-05", "amount_usd": 2000000000},
+    {"source": "bitgo", "target": "stablecoin-holdco", "label": "custodies USD1 reserves; shares reserve interest with WLF affiliates", "type": "commercial"},
+    {"source": "dttm-operations", "target": "wlfi-token", "label": "holds 15.75B WLFI (value 'Over $50,000,000' on filing)", "type": "ownership", "date": "2025-12-31"},
+    {"source": "office-of-government-ethics", "target": "donald-trump", "label": "released 2025 annual disclosure", "type": "regulatory", "date": "2026-06-30"},
+    {"source": "white-house", "target": "donald-trump", "label": "denies any conflict of interest", "type": "political", "date": "2026-06-30"}
+  ],
+  "leads": [
+    {"title": "Trump's 2026 annual disclosure will be the first to show 2026 World Liberty private-sale proceeds", "why_connected": "Bloomberg and Reuters estimate hundreds of millions of dollars from 'white glove' WLFI sales in late 2025 and 2026 that appear only partly, or not at all, on the 2025 form. Senator Warren asked for an early release; the filing is due by May 15, 2027.", "entities": ["donald-trump", "world-liberty-financial", "dt-marks-defi-llc"], "source_url": "https://www.banking.senate.gov/imo/media/doc/20260716_letter_to_trump_re_2026_crytpo_earningspdf.pdf"},
+    {"title": "Who bought the Class C units of Stablecoin Holdco?", "why_connected": "Trump reported $196.9M from new members of Stablecoin Holdco and the sale of Class C units, without naming the buyer. CAP links the total to the Aryam deal, but no document confirms it.", "entities": ["stablecoin-holdco", "dt-marks-sc", "aryam-investment-1"], "source_url": "https://www.americanprogress.org/wp-content/uploads/sites/2/2026/07/2026-07-16-Memo-on-Understanding-Trumps-Crypto-Wealth-Updated-Google-Docs.pdf"},
+    {"title": "Does the filing report all of DT Marks DEFI's income or only Trump's 70%?", "why_connected": "DT Marks DEFI and DT Marks SC are 30% owned by 'Trump Family Members'. If the amounts reported are Trump's share only, other family members received up to about $340M more in 2025.", "entities": ["dt-marks-defi-llc", "dt-marks-sc", "eric-trump", "donald-trump-jr"], "source_url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"},
+    {"title": "$TRUMP team wallets moved about $249M of tokens to exchanges in 2026", "why_connected": "Possible 2026 cash sales by CIC Digital and Fight Fight Fight that would not appear in any filing until 2027; based on a single source.", "entities": ["trump-coin", "cic-digital", "fight-fight-fight-llc"], "source_url": "https://cryptobriefing.com/?p=385841"}
+  ]
+}
