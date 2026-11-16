@@ -357,7 +357,7 @@
    "groupby": true,
    "share": true,
    "scale": "log",
-   "note": "His own disclosure for calendar 2025. Gross receipts, not profit. No grand total.",
+   "note": "His own disclosure for calendar 2025: gross receipts, not profit. There is no grand total.",
    "share_note": "If each line is the entity's total, his share is 70% of three crypto lines and 80% of twelve licensing companies. The form does not say which reading is right.",
    "responses": [
     0,
@@ -911,7 +911,7 @@
    "name": "Paper Value",
    "kind": "lanes",
    "scale": "log",
-   "note": "Market value on stated dates. Not cash: no sale is reported. Dated values of one holding are never added.",
+   "note": "Market value on stated dates, not cash: no sale is reported. Dated values of one holding are never added.",
    "responses": [],
    "lanes": [
     {
@@ -1092,7 +1092,7 @@
    "name": "Family",
    "kind": "lanes",
    "scale": "log",
-   "note": "Per person: reported income, paper value, outside estimates. Estimates include the paper values. Nothing is added across marks.",
+   "note": "Per person: reported income, paper value and outside estimates, which include the paper values. Nothing is added across marks.",
    "responses": [],
    "lanes": [
     {
@@ -1603,7 +1603,7 @@
      "rows": [
       "C100-02"
      ],
-     "label": "Donald Trump",
+     "label": "Bloomberg, Donald Trump, Nov 2024",
      "sub": "It swung by billions with Trump Media's share price.",
      "when": "Oct to Nov 2024",
      "group": "Bloomberg, Net Worth"
@@ -1612,7 +1612,7 @@
      "rows": [
       "C100-05"
      ],
-     "label": "The Family",
+     "label": "Bloomberg, the Family, Sep 2025",
      "sub": "After $1.3 billion of crypto wealth was added within weeks.",
      "when": "Sep 2025",
      "group": "Bloomberg, Net Worth"
@@ -1621,7 +1621,7 @@
      "rows": [
       "C100-06"
      ],
-     "label": "The Family",
+     "label": "Bloomberg, the Family, Jan 2026",
      "sub": "Roughly flat on the year. Crypto rose and Trump Media fell.",
      "when": "20 Jan 2026",
      "group": "Bloomberg, Net Worth"
@@ -1630,7 +1630,7 @@
      "rows": [
       "C100-08"
      ],
-     "label": "The Family",
+     "label": "Bloomberg, the Family, Jun 2026",
      "sub": "Part of the rise is a change in method: a $630 million stablecoin stake was counted for the first time.",
      "when": "6 Jun 2026",
      "group": "Bloomberg, Net Worth"

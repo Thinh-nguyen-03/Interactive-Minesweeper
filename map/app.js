@@ -1018,7 +1018,7 @@
   function balKey() {
     var p = [];
     if (B.view !== 'reported') p.push('view=' + B.view);
-    if (B.group !== 'category') p.push('group=' + B.group);
+    if (B.group !== 'category' && balView().groupby) p.push('group=' + B.group);
     if (B.scale) p.push('scale=' + B.scale);
     if (B.share) p.push('share=1');
     if (B.row) p.push('row=' + B.row);
@@ -1057,26 +1057,27 @@
     return { x: x, ticks: ticks.map(function (t) { return { x: x(t), label: t === 0 ? '$0' : t >= 1e9 ? '$' + +(t / 1e9).toFixed(2) + 'B' : t >= 1e6 ? '$' + +(t / 1e6).toFixed(1) + 'M' : '$' + +(t / 1e3).toFixed(0) + 'K' }; }) };
   }
   function balMark(f, ax, lane) {
-    var a = balNow(f), zero = a.lo === 0 && a.hi === 0, open = a.hi == null, x0 = ax.x(a.lo), x1 = open ? 100 : ax.x(a.hi), w = x1 - x0, range = w > 0.7;
-    var solo = lane.marks.length === 1 && !lane.multi, sel = B.row === f.key;
+    var a = balNow(f), zero = a.lo === 0 && a.hi === 0, open = a.hi == null, x0 = ax.x(a.lo), x1 = open ? Math.min(100, x0 + 14) : ax.x(a.hi), w = x1 - x0, range = w > 0.7;   // an open end fades out over a short, fixed length
+    var solo = lane.marks.length === 1 && !lane.multi, sel = B.row === f.key, alt = B.share && f.alt, upto = a.lo === 0 && a.hi > 0, left = x1 > 68 || alt;
+    if (upto) { x0 = Math.max(0, x1 - 14); w = x1 - x0; range = true; }   // anywhere up to the figure: a short bar that fades towards zero
     var h = '';
-    if (solo && !zero && x0 > 0.3) h += '<i class="bm-guide g-' + f.grade + '" style="width:' + x0 + '%"></i>';
+    if (solo && !zero && !upto && x0 > 0.3) h += '<i class="bm-guide g-' + f.grade + '" style="width:' + x0 + '%"></i>';
     if (B.share && f.alt) h += '<i class="bm-ghost" style="left:' + ax.x(f.lo) + '%" title="As reported: ' + esc(f.amt) + '"></i>';
-    h += '<button type="button" tabindex="-1" class="bm g-' + f.grade + (range ? ' range' : zero ? ' zero' : ' dot') + (open ? ' open' : '') + (f.noted ? ' noted' : '') + (sel ? ' sel' : '') + '" style="left:' + x0 + '%' + (range ? ';width:' + w + '%' : '') + '" data-key="' + esc(f.key) + '"' +
+    h += '<button type="button" tabindex="-1" class="bm g-' + f.grade + (range ? ' range' : zero ? ' zero' : ' dot') + (open ? ' open' : '') + (upto ? ' upto' : '') + (f.noted ? ' noted' : '') + (sel ? ' sel' : '') + '" style="left:' + x0 + '%' + (range ? ';width:' + w + '%' : '') + '" data-key="' + esc(f.key) + '"' +
       balTrace(f) + ' aria-label="' + esc(f.label + ': ' + a.amt + ', ' + (f.when || '')) + '" aria-pressed="' + sel + '"></button>';
-    if (solo) h += '<span class="bm-val' + (x1 > 68 ? ' left' : '') + '" style="' + (x1 > 68 ? 'right:' + (100 - x0) + '%' : 'left:' + (range ? x1 : x0) + '%') + '">' + esc(a.short) + (B.share && f.alt ? '<i>his ' + f.share.pct + '%' + (f.share.part ? ' of part' : '') + ', if an entity total</i>' : '') + '</span>';
+    if (solo) h += '<span class="bm-val' + (left ? ' left' : '') + '" style="' + (left ? 'right:' + (100 - x0) + '%' : 'left:' + (range ? x1 : x0) + '%') + '">' + (alt && f.share ? '<i>' + f.share.pct + '%' + (f.share.part ? ' of part' : '') + '</i> ' : '') + esc(a.short) + '</span>';
     return h;
   }
   function balLane(lane, ax, cls) {
-    var ms = arr(lane.marks), h = '<div class="bl-row' + (cls ? ' ' + cls : '') + (ms.some(function (f) { return f.key === B.row; }) || (lane.badge && lane.badge.key === B.row) ? ' on' : '') + '">' +
-      '<div class="bl-name"><span>' + esc(lane.label) + '</span>' + (lane.multi && ms.length > 1 ? '<span class="bl-n">' + ms.length + ' items</span>' : '') +
+    var ms = arr(lane.marks), h = '<div class="bl-row' + (cls ? ' ' + cls : '') + (lane.link && ms.length > 1 ? ' linked' : '') + (ms.some(function (f) { return f.key === B.row; }) || (lane.badge && lane.badge.key === B.row) ? ' on' : '') + '">' +
+      '<div class="bl-name"><span>' + esc(lane.label) + '</span>' + (lane.tag ? '<span class="bl-n">' + esc(lane.tag) + '</span>' : '') +
       (lane.badge ? '<button type="button" tabindex="-1" class="bm-badge' + (lane.badge.key === B.row ? ' sel' : '') + '" data-key="' + esc(lane.badge.key) + '"' + balTrace(lane.badge) + '>' + esc(lane.badge.short) + '</button>' : '') + '</div><div class="bl-track">';
     if (!ms.length) h += '<span class="bl-empty">' + esc(lane.empty || 'None') + '</span>';
     if (lane.link && ms.length > 1) {   // dated values of one holding, joined in order of date
       var xs = ms.map(function (f) { return ax.x(f.hi == null ? f.lo : (f.lo + f.hi) / 2); }), a = Math.min.apply(null, xs), b = Math.max.apply(null, xs), first = ms[0], last = ms[ms.length - 1], fall = xs[xs.length - 1] < xs[0];
       h += '<i class="bm-link" style="left:' + a + '%;width:' + (b - a) + '%"></i>';
-      var lab = function (f, left) { var e = left ? ax.x(f.lo) : ax.x(f.hi == null ? f.lo : f.hi); return '<span class="bm-val' + (left ? ' left' : '') + '" style="' + (left ? 'right:' + (100 - e) + '%' : 'left:' + e + '%') + '">' + (left && fall ? '<i>' + esc(f.when) + '</i> ' : '') + esc(f.short) + (left && fall ? '' : ' <i>' + esc(f.when) + '</i>') + '</span>'; };
-      h += lab(fall ? last : first, true) + lab(fall ? first : last, false);
+      var lab = function (f, cls) { var e = ax.x(f.hi == null ? f.lo : (f.lo + f.hi) / 2), end = e > 55; return '<span class="bm-cap ' + cls + '" style="' + (end ? 'right:' + (100 - e) + '%' : 'left:' + e + '%') + '"><i>' + esc(f.when) + '</i> ' + esc(f.short) + '</span>'; };
+      h += lab(first, 'top') + lab(last, 'bot');
     }
     ms.forEach(function (f) { h += balMark(f, ax, lane); });
     return h + '</div></div>';
@@ -1085,7 +1086,7 @@
     var q = B.q.trim().toLowerCase(); if (!q) return true;
     var rows = G.ledger.rows, t = [lane.label, lane.group, lane.holder, lane.venture];
     arr(lane.marks).concat(lane.badge ? [lane.badge] : []).forEach(function (f) {
-      t.push(f.label, f.to); arr(f.rows).concat(arr(f.same)).forEach(function (id) { t.push(id); var r = rows.filter(function (x) { return x.id === id; })[0]; if (r) t.push(r.recipient_name, r.venture); });
+      t.push(f.label, f.to); arr(f.rows).concat(arr(f.same)).forEach(function (id) { t.push(id); var r = rows.filter(function (x) { return x.id === id; })[0]; if (r) t.push(r.recipient_name, balVenture(r)); });
     });
     return t.join(' ').toLowerCase().indexOf(q) >= 0;
   }
@@ -1098,6 +1099,13 @@
     var sal = { label: S.salary.label, marks: S.salary.items, multi: true }, figs = S.salary.items.slice(), lanes = arr(v.lanes).filter(balMatch), filtered = !!B.q.trim();
     arr(v.lanes).forEach(function (l) { arr(l.marks).forEach(function (f) { figs.push(f); }); });
     arr(v.totals).forEach(function (f) { figs.push(f); });
+    var wide = [];
+    lanes.forEach(function (l) {
+      if (!l.multi) { wide.push(l); return; }
+      if (!arr(l.marks).length) wide.push({ label: l.label, group: l.group, marks: [], empty: l.empty });
+      arr(l.marks).forEach(function (f) { wide.push({ label: f.label, tag: l.label, group: l.group, marks: [f] }); });
+    });
+    lanes = wide;
     var ax = balAxis(v, figs), gk = !v.groupby || B.group === 'category' ? 'group' : B.group === 'recipient' ? 'holder' : 'venture', groups = [], by = {};
     lanes.forEach(function (l) { var k = l[gk] || l.group || ''; if (!by[k]) { by[k] = []; groups.push(k); } by[k].push(l); });
     var amount = function (l) { var f = l.marks[0]; return f ? balNow(f).lo : 0; };
@@ -1108,7 +1116,10 @@
       '<div class="bx-lanes"><div class="bx-over" aria-hidden="true">' + ax.ticks.map(function (t) { return '<i class="bgl" style="left:' + t.x + '%"></i>'; }).join('') +
       S.salary.items.map(function (f) { return '<i class="bref" style="left:' + ax.x((f.lo + f.hi) / 2) + '%"></i>'; }).join('') + '</div>';
     h += '<div class="bl-row pin' + (S.salary.items.some(function (f) { return f.key === B.row; }) ? ' on' : '') + '"><div class="bl-name"><span>' + esc(sal.label) + '</span><span class="bl-n">donated, accrued</span></div><div class="bl-track">' +
-      S.salary.items.map(function (f, i) { var e = ax.x(i ? f.hi : f.lo); return balMark(f, ax, sal) + '<span class="bm-val' + (i ? '' : ' left') + '" style="' + (i ? 'left:' + e + '%' : 'right:' + (100 - e) + '%') + '">' + esc(f.short) + '</span>'; }).join('') + '</div></div>';
+      S.salary.items.map(function (f, i) {   // near the left edge both marks share one label on the right
+        var e = ax.x(i ? f.hi : f.lo), tight = ax.x(S.salary.items[0].lo) < 12;
+        return balMark(f, ax, sal) + (i ? '<span class="bm-val" style="left:' + e + '%">' + (tight ? esc(S.salary.items[0].short) + ' <i>donated</i> · ' : '') + esc(f.short) + (tight ? ' <i>accrued</i>' : '') + '</span>' : tight ? '' : '<span class="bm-val left" style="right:' + (100 - e) + '%">' + esc(f.short) + '</span>');
+      }).join('') + '</div></div>';
     groups.forEach(function (k) {
       if (k) h += '<div class="bg-h"><span>' + esc(k) + '</span><span class="bl-n">' + (v.id === 'family' ? '' : plural(by[k].length, 'row')) + '</span></div>';
       by[k].forEach(function (l) { h += balLane(l, ax, ''); arr(l.marks).forEach(function (f) { B.order.push(f.key); }); if (l.badge) B.order.push(l.badge.key); });
@@ -1123,9 +1134,9 @@
     var q = B.q.trim(), items = arr(v.flow), dests = [], W = Math.max(320, ($('bx-stage') || page).clientWidth - 40), small = W < 560;
     items.forEach(function (f) { if (dests.indexOf(f.to) < 0) dests.push(f.to); });
     items = items.slice().sort(function (a, b) { return dests.indexOf(a.to) - dests.indexOf(b.to); });
-    var total = items.reduce(function (s, f) { return s + f.hi; }, 0), gap = 12, H = small ? 330 : 360, k = (H - gap * (items.length - 1)) / total, nw = 8, x0 = small ? 0 : 190, x1 = W - (small ? 0 : 300) - nw;
+    var total = items.reduce(function (s, f) { return s + f.hi; }, 0), gap = 12, H = small ? 330 : 360, k = (H - gap * (items.length - 1)) / total, nw = 8, x0 = small ? 0 : 190, x1 = W - (small ? 0 : 330) - nw;
     var y = 0, yr = 0, h = '', lab = '', dy = {};
-    dests.forEach(function (d, i) { var sum = items.filter(function (f) { return f.to === d; }).reduce(function (s, f) { return s + f.hi; }, 0); dy[d] = { y: yr, h: sum * k + gap * (items.filter(function (f) { return f.to === d; }).length - 1), at: yr }; yr += dy[d].h + gap; });
+    dests.forEach(function (d, i) { var sum = items.filter(function (f) { return f.to === d; }).reduce(function (s, f) { return s + f.hi; }, 0); dy[d] = { y: yr, h: sum * k, at: yr }; yr += dy[d].h + (dests.length > 1 ? (H - total * k) / (dests.length - 1) : 0); });   // payments to one place arrive side by side
     B.order = S.salary.items.map(function (f) { return f.key; });
     items.forEach(function (f) {
       var hh = f.hi * k, d = dy[f.to], ya = y, yb = d.at, mx = (x0 + nw + x1) / 2, sel = B.row === f.key, dim = q && !balMatch({ label: f.label, marks: [f] });
@@ -1134,13 +1145,13 @@
       var ty = ya + hh / 2 + 4.5;
       if (small) lab += '<text class="bf-t" x="' + (x0 + nw + 8) + '" y="' + ty + '">' + esc(f.label) + ' <tspan class="bf-a">' + esc(f.short) + '</tspan></text>';
       else lab += '<text class="bf-t end" x="' + (x0 - 10) + '" y="' + (ty - (hh > 30 ? 8 : 0)) + '">' + esc(f.label) + '</text><text class="bf-a ' + (hh > 30 ? 'end' : '') + '" x="' + (hh > 30 ? x0 - 10 : x0 + nw + 10) + '" y="' + (hh > 30 ? ty + 9 : ty) + '">' + esc(f.short) + '</text>';
-      d.at += hh + gap; y += hh + gap; B.order.push(f.key);
+      d.at += hh; y += hh + gap; B.order.push(f.key);
     });
     dests.forEach(function (d) {
       var o = dy[d], nm = small ? d.replace('Presidential ', '').replace('Trust for the National Mall', 'National Mall Trust').replace('Reported as His Income', 'His Income') : d;
       h += '<rect class="bf-node" x="' + x1 + '" y="' + o.y + '" width="' + nw + '" height="' + o.h + '"/>';
       if (small) lab += '<text class="bf-t end b" x="' + (x1 - 8) + '" y="' + (o.y + Math.min(o.h - 6, 16)) + '">' + esc(nm) + '</text>';
-      else lab += '<text class="bf-t b" x="' + (x1 + nw + 10) + '" y="' + (o.y + 15) + '">' + esc(nm) + '</text><text class="bf-s" x="' + (x1 + nw + 10) + '" y="' + (o.y + 33) + '">' + esc((v.dest_notes || {})[d] || '') + '</text>';
+      else lab += '<text class="bf-t b" x="' + (x1 + nw + 10) + '" y="' + (o.y + 15) + '">' + esc(nm) + '</text>' + String((v.dest_notes || {})[d] || '').split(/\. +/).filter(Boolean).map(function (t, i) { return '<text class="bf-s" x="' + (x1 + nw + 10) + '" y="' + (o.y + 33 + 16 * i) + '">' + esc(t.replace(/\.$/, '') + '.') + '</text>'; }).join('');
     });
     var out = balSalaryLine(S) + '<svg class="bflow" width="' + W + '" height="' + H + '" viewBox="0 0 ' + W + ' ' + H + '" role="group" aria-label="Payers on the left, where each payment was directed on the right">' + h + lab + '</svg><div class="bf-under">';
     arr(v.totals).concat(arr(v.aside)).forEach(function (f) {
@@ -1181,14 +1192,14 @@
     var srcs = [], seen = {};
     rows.forEach(function (r) { arr(r.sources).forEach(function (u) { if (safeUrl(u) && !seen[u]) { seen[u] = 1; srcs.push(u); } }); });
     h = '<div class="panel-head"><h2 tabindex="-1">' + esc(f.label) + '</h2><button type="button" class="iconbtn" data-bx="clear" aria-label="Close">' + XICON + '</button></div>' +
-      '<p class="panel-meta">' + [esc(v.name), esc(hit.total ? 'Subtotal' : BKIND[f.kind] || ''), esc(f.when || '')].filter(Boolean).join(' · ') + '</p>' +
+      '<p class="panel-meta">' + [esc(hit.salary ? S.salary.label : v.name), esc(hit.salary ? '' : hit.total ? 'Subtotal' : BKIND[f.kind] !== v.name ? BKIND[f.kind] || '' : ''), esc(f.when || '')].filter(Boolean).join(' · ') + '</p>' +
       '<div class="panel-body"><p class="bd-amt"' + balTrace(f) + '>' + esc(a.amt) + '</p><p class="bd-g">' + balGrade(f.grade) + (f.noted ? '<span>Stated in the row’s notes</span>' : '') + (f.to ? '<span>To: ' + esc(f.to) + '</span>' : '') + '</p>';
     if (f.alt) h += '<dl class="bd-two"><div' + (B.share ? '' : ' class="on"') + '><dt>As Reported</dt><dd>' + esc(f.amt) + '</dd></div><div' + (B.share ? ' class="on"' : '') + '><dt>If His Share Only</dt><dd>' + esc(f.alt.amt) + '</dd></div></dl>' +
       '<p class="bd-unk">Unknown: the form does not say whether the line is the entity’s total or his share.</p>';
     if (hit.salary) h += '<dl class="bd-caveats">' + arr(S.salary.facts).map(function (c) { return '<div><dt>' + esc(c.term) + '</dt><dd>' + esc(c.text) + '</dd></div>'; }).join('') + '</dl>';
     h += balList('About', arr(f.sub).concat(f.to && (v.dest_notes || {})[f.to] ? [(v.dest_notes || {})[f.to]] : []).map(esc));
-    if (one) h += balList('Basis', [esc(one.basis)]) + balList('Recipient', [one.recipient && byKey.get('e:' + one.recipient) ? entLink(byKey.get('e:' + one.recipient)) + (one.recipient_name !== byKey.get('e:' + one.recipient).name ? ' <span class="muted">' + esc(one.recipient_name) + '</span>' : '') : esc(one.recipient_name)]);
-    if (one) h += balList('Notes & Overlaps', arr(one.notes).map(esc), 3);
+    if (one) h += balList('Basis', [rich(one.basis)]) + balList('Recipient', [one.recipient && byKey.get('e:' + one.recipient) ? '<a href="' + entHref(byKey.get('e:' + one.recipient)) + '">' + esc(one.recipient_name) + '</a>' : esc(one.recipient_name)]);
+    if (one) h += balList('Notes & Overlaps', arr(one.notes).map(rich), 3);
     h += '<div class="bd-sec"><h3>Ledger ' + (rows.length === 1 ? 'Row' : 'Rows') + '</h3><p class="bd-ids">' + arr(f.rows).map(function (id) { return '<code>' + esc(id) + '</code>'; }).join('') +
       (arr(f.same).length ? '<span>same money as ' + f.same.map(function (id) { return '<code>' + esc(id) + '</code>'; }).join('') + '</span>' : '') + '</p></div>' +
       '<div class="bd-sec"><h3>Checks</h3><p class="bd-checks">' + balCites(f.checks, true) + '</p></div>' +
@@ -1201,8 +1212,8 @@
     return '<div class="seg" role="group" aria-label="View">' + arr(S.views).map(function (x) { return '<button type="button" data-bx="view" data-v="' + esc(x.id) + '" aria-pressed="' + (x.id === v.id) + '">' + esc(x.name) + '</button>'; }).join('') + '</div>' +
       '<div class="opt"' + (v.groupby ? '' : ' hidden') + ' role="group" aria-labelledby="bx-lab-g"><span class="opt-lab" id="bx-lab-g">Group By</span>' + BGROUPS.map(function (g) { return '<button type="button" data-bx="group" data-v="' + g[0] + '" aria-pressed="' + (B.group === g[0]) + '">' + g[1] + '</button>'; }).join('') + '</div>' +
       '<div class="opt"' + (lanes ? '' : ' hidden') + ' role="group" aria-labelledby="bx-lab-s"><span class="opt-lab" id="bx-lab-s">Scale</span>' + [['linear', 'Linear'], ['log', 'Log']].map(function (g) { return '<button type="button" data-bx="scale" data-v="' + g[0] + '" aria-pressed="' + (sc === g[0]) + '">' + g[1] + '</button>'; }).join('') + '</div>' +
-      '<div class="opt"' + (v.share ? '' : ' hidden') + ' role="group" aria-labelledby="bx-lab-h"><span class="opt-lab" id="bx-lab-h">Crypto &amp; Licensing Lines</span><button type="button" data-bx="share" data-v="0" aria-pressed="' + !B.share + '">As Reported</button><button type="button" data-bx="share" data-v="1" aria-pressed="' + B.share + '">If His Share Only</button></div>' +
-      '<label class="bx-find">' + ico('search') + '<span class="sr">Filter by venture or name</span><input type="search" id="bx-q" placeholder="Filter by venture or name" autocomplete="off" spellcheck="false" value="' + esc(B.q) + '"></label>';
+      '<div class="opt"' + (v.share ? '' : ' hidden') + ' role="group" aria-labelledby="bx-lab-h"><span class="opt-lab" id="bx-lab-h" title="Three crypto lines and twelve licensing companies are part-held by family members">Shared Lines</span><button type="button" data-bx="share" data-v="0" aria-pressed="' + !B.share + '">As Reported</button><button type="button" data-bx="share" data-v="1" aria-pressed="' + B.share + '">If His Share Only</button></div>' +
+      '';
   }
   function balStage() {
     var S = G.ledger.sheet, v = balView(), st = $('bx-stage');
@@ -1210,10 +1221,11 @@
     if (B.row && !B.index.has(B.row)) B.row = '';
     $('bx-note').innerHTML = esc(B.share && v.share ? v.share_note : v.note);
     st.className = 'bx-stage' + (v.kind === 'flow' ? ' flow' : '') + (B.share && v.share ? ' share' : '');
+    $('bx').setAttribute('data-kind', v.kind);
     st.innerHTML = v.kind === 'flow' ? balFlow(S, v) : balLanes(S, v);
   }
   function balDraw(bar) {
-    if (bar !== false) { var q = document.activeElement && document.activeElement.id === 'bx-q'; $('bx-bar').innerHTML = balBar(G.ledger.sheet); if (q) { var i = $('bx-q'); i.focus(); i.setSelectionRange(i.value.length, i.value.length); } }
+    if (bar !== false) { $('bx-bar').innerHTML = balBar(G.ledger.sheet); if ($('bx-q').value !== B.q) $('bx-q').value = B.q; }
     balStage(); balPanel();
   }
   function balSelect(key, opts) {
@@ -1223,6 +1235,9 @@
     var m = B.row && page.querySelector('#bx-stage [data-key="' + B.row.replace(/"/g, '') + '"]');
     if (m && m.scrollIntoView && opts && opts.keys) m.scrollIntoView({ block: 'nearest' });
   }
+  function balVenture(r) {   // a venture is recorded as an entity id where one exists; show its name
+    return String(r.venture || '').replace(/[a-z0-9]+(?:-[a-z0-9]+)+|^[a-z0-9]+$/g, function (id) { var e = byKey.get('e:' + id); return e ? e.name : id; });
+  }
   function balCsv() {
     var cols = ['id', 'check', 'recipient_name', 'venture', 'category', 'kind', 'amount_low_usd', 'amount_high_usd', 'period', 'as_of', 'grade', 'basis', 'notes', 'sources'];
     var cell = function (x) { x = x == null ? '' : String(x); return /[",\n]/.test(x) ? '"' + x.replace(/"/g, '""') + '"' : x; };
@@ -1230,7 +1245,7 @@
   }
   var BCOLS = [['id', 'Row'], ['recipient_name', 'Recipient'], ['venture', 'Venture'], ['category', 'Category'], ['kind', 'Kind'], ['lo', 'Low'], ['hi', 'High'], ['period', 'Period'], ['grade', 'Evidence']];
   function balTable() {   // the data view: every ledger row, sortable and filterable
-    var q = B.tq.trim().toLowerCase(), ven = function (r) { var e = byKey.get('e:' + r.venture); return e ? e.name : r.venture; };
+    var q = B.tq.trim().toLowerCase(), ven = balVenture;
     var rows = G.ledger.rows.filter(function (r) { return !q || [r.id, r.recipient_name, ven(r), r.category, BKIND[r.kind], r.period, r.grade].join(' ').toLowerCase().indexOf(q) >= 0; });
     var val = function (r) { var x = B.sort === 'venture' ? ven(r) : r[B.sort]; return x == null ? Infinity : x; };
     rows.sort(function (a, b) { var x = val(a), y = val(b); return (typeof x === 'number' && typeof y === 'number' ? x - y : String(x).localeCompare(String(y), undefined, { numeric: true })) * B.dir; });
@@ -1243,7 +1258,7 @@
   }
   function balancePage() {
     var S = G.ledger.sheet, top = document.querySelector('.top');
-    page.innerHTML = '<div class="bx" id="bx" style="--bx-top:' + (top ? top.offsetHeight : 51) + 'px"><div class="bx-head"><h1 tabindex="-1">' + esc(S.title) + '</h1><p class="bx-lede">' + esc(S.lede) + '</p>' + (ASOF ? '<p class="bx-date">' + esc(ASOF) + '</p>' : '') + '</div>' +
+    page.innerHTML = '<div class="bx" id="bx" style="--bx-top:' + (top ? top.offsetHeight : 51) + 'px"><div class="bx-head"><h1 tabindex="-1">' + esc(S.title) + '</h1><p class="bx-lede">' + esc(S.lede) + '</p>' + '<label class="bx-find">' + ico('search') + '<span class="sr">Filter by venture or name</span><input type="search" id="bx-q" placeholder="Filter by venture or name" autocomplete="off" spellcheck="false"></label>' + (ASOF ? '<p class="bx-date">' + esc(ASOF) + '</p>' : '') + '</div>' +
       '<div class="map-bar bx-bar" id="bx-bar"></div>' +
       '<div class="bx-main"><div class="bx-fig"><p class="bx-note" id="bx-note"></p><div class="bx-stage" id="bx-stage" tabindex="0" role="group" aria-label="Figure. Arrow keys move the selection, Enter opens its dossier, Escape clears it."></div>' +
       '<p class="bx-key"><span>' + balGrade('documented') + balGrade('single-source') + balGrade('inferred') + '</span><span class="k"><i class="kr"></i>Range</span><span class="k"><i class="kr open"></i>Open-Ended</span><span class="k"><i class="kref"></i>Salary</span></p></div>' +
@@ -1256,7 +1271,7 @@
       var b = e.target.closest('[data-bx]'), m = e.target.closest('[data-key]');
       if (b) {
         var k = b.getAttribute('data-bx'), val = b.getAttribute('data-v');
-        if (k === 'view') { B.view = val; B.row = ''; B.q = ''; } else if (k === 'group') B.group = val; else if (k === 'scale') B.scale = val === balView().scale ? '' : val;
+        if (k === 'view') { B.view = val; B.row = ''; B.q = ''; B.scale = ''; } else if (k === 'group') B.group = val; else if (k === 'scale') B.scale = val === balView().scale ? '' : val;
         else if (k === 'share') B.share = val === '1'; else if (k === 'clear') { balSelect(''); st.focus({ preventScroll: true }); return; }
         setHash(balKey()); balDraw();
       } else if (m && st.contains(m)) balSelect(m.getAttribute('data-key') === B.row ? '' : m.getAttribute('data-key'));
@@ -1287,7 +1302,7 @@
       var b = e.target.closest('[data-bx]'); if (!b) return;
       if (b.getAttribute('data-bx') === 'sort') { var c = b.getAttribute('data-v'); B.dir = B.sort === c ? -B.dir : 1; B.sort = c; balTable(); }
       else if (b.getAttribute('data-bx') === 'csv') {
-        var a = document.createElement('a'); a.href = 'data:text/csv;charset=utf-8,' + encodeURIComponent(balCsv()); a.download = 'balance-sheet-ledger.csv'; a.target = '_blank'; document.body.appendChild(a); a.click(); a.remove();
+        var a = document.createElement('a'); a.href = 'data:text/csv;charset=utf-8,' + encodeURIComponent(balCsv()); a.download = 'balance-sheet-ledger.csv'; document.body.appendChild(a); a.click(); a.remove();
       }
     });
   }
@@ -3149,7 +3164,7 @@
     var prebuilt = !!(initial && SITE && SITE.prebuilt);   // the page came with its content already in the HTML
     var m, n, low = h.toLowerCase();
     setTitle(h);
-    if (low === 'map' || /^map-/.test(low)) { root.classList.remove('is-home'); setSearchOpen(false); state.view = 'map'; setNav('map'); showMap(h.slice(4)); return; }
+    if (low === 'map' || /^map-/.test(low)) { root.classList.remove('is-home', 'is-balance'); setSearchOpen(false); state.view = 'map'; setNav('map'); showMap(h.slice(4)); return; }
     root.classList.remove('is-map', 'has-panel');
     if (!(low === 'balance' || /^balance-/.test(low))) root.classList.remove('is-balance');
     $('mapview').hidden = true; page.hidden = false; $('foot').hidden = false;

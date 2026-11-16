@@ -1596,7 +1596,7 @@ _ISO_QUARTER = re.compile(r"(?<![\w/.-])((?:19|20)\d{2})-Q([1-4])(?![\w/-])")
 _URL = re.compile(r"(https?://[^\s)>\]]+)")
 _MACHINE_KEYS = {"date", "dates", "url", "source_url", "sources", "generated", "key", "id", "hash", "s", "t", "claims",
                  "parents", "topic", "type", "kind", "verdict", "ctype", "k", "aliases", "names", "grade_kind",
-                 "rows", "same", "checks", "src", "check", "grade", "recipient", "category"}
+                 "src", "check", "grade", "recipient", "category"}
 
 
 def _month_date(m):

@@ -5,7 +5,7 @@ An interactive investigative map of the documented business, financial and polit
 It is a static website with five parts:
 
 - **Checks.** Each claim is split into separate points, tested against the public record, and given a verdict, with corrections, the other side's response and every source listed.
-- **The Balance Sheet.** The presidential salary Donald Trump says he does not take, set beside the income, paper value and settlements documented for him and his family during the term. Every figure is one row of a sourced ledger, and rows that overlap are never added together.
+- **The Balance Sheet.** A tool that sets the presidential salary Donald Trump says he does not take beside the income, paper value, family holdings, settlements and outside estimates documented during the term. It has five views, a switch between the two readings of the disclosure (entity totals or his share only), a dossier for every figure and the full ledger as a sortable table with a CSV download. Every figure is one row of a sourced ledger, and rows that overlap are never added together.
 - **People & Organisations.** A profile for each of about 1,400 names, with its documented connections, largest sums, timeline and the checks that mention it.
 - **Network.** A 3D graph of every name and every documented link, which you can rotate, zoom, filter by topic and trace paths through.
 - **Matrix.** A clustered heatmap of who is linked to whom, with the evidence behind each pair.
@@ -106,7 +106,7 @@ Any other static host works the same way: run `node make_site.mjs` and publish t
 
 A topic has no page of its own; it is a section of the checks list (`/checks/#topic-<slug>`). A selection on the map is `/map/#<slug or ID>`.
 
-`map/` can also be opened as a single page with hash addresses (`#C06`, `#balance`, `#name-jared-kushner`, `#map`), which is how preview builds are published. `app.js` serves both forms: the site's pages set `window.__SITE__`, which switches links to real paths and navigation to the History API. All links are made by one function, `U()`, at the top of `app.js`.
+`map/` can also be opened as a single page with hash addresses (`#C06`, `#balance-view=paper&row=C98-04`, `#name-jared-kushner`, `#map`), which is how preview builds are published. `app.js` serves both forms: the site's pages set `window.__SITE__`, which switches links to real paths and navigation to the History API. All links are made by one function, `U()`, at the top of `app.js`.
 
 ### Checks
 
@@ -114,7 +114,7 @@ A topic has no page of its own; it is a section of the checks list (`/checks/#to
 node make_site.mjs
 node tools/check_links.js     # every internal link in every page resolves
 node tools/crawl_site.js      # Playwright: content in the raw HTML, the interface, navigation, old addresses, 404, sizes
-node cook/harness/shots.js 12 && node cook/harness/globefunc.js && node cook/harness/contrast.js   # single-page build: renders, network behaviour, text contrast
+node cook/harness/shots.js 13 && node cook/harness/globefunc.js && node cook/harness/contrast.js   # single-page build: renders, network behaviour, text contrast
 ```
 
 `node tools/make_og.js` redraws the link-preview image `static/og.png`. These checks need Playwright; the site build does not.
@@ -128,7 +128,7 @@ node cook/harness/shots.js 12 && node cook/harness/globefunc.js && node cook/har
 | `data/claims/Cxx.json` | Structured findings per check: verdict, sub-claims, corrections, denials, sources, entities, relationships, leads, audit |
 | `research/Cxx-*.md` | The long-form report for each check |
 | `data/ledger/Cxx.json` | Ledger rows for C95 to C100: one documented sum each, with recipient, kind, range, period, basis, grade, sources and overlap notes |
-| `data/balance-sheet.json` | The balance sheet page: which ledger rows appear where, the row ids behind each subtotal, and the groups of rows that are the same money |
+| `data/balance-sheet.json` | The balance sheet tool: its views, which ledger rows appear in each, the row ids behind each subtotal, the groups of rows that are the same money, and which lines have a second reading (his share only) |
 | `data/base-graph.json` | Shared entities, relationships and recurring themes |
 | `build.py` | Merges everything into `map/graph-data.js` and the Obsidian vault; validates the ledger and computes every figure on the balance sheet |
 | `map/` | The interface source |

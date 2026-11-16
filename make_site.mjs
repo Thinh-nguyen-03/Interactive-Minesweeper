@@ -239,30 +239,27 @@ function pageName(e) {
       '<h2>Checks That Name ' + it + '</h2>' + (e.cl.length ? '<ul class="pre-rows">' + e.cl.map(checkLine).join('') + '</ul>' : '<p>No check names this directly.</p>')
   };
 }
-/* The balance sheet, as plain HTML: the same model app.js lays out (G.ledger.sheet), so the two cannot disagree on a figure. */
+/* The balance sheet, as plain HTML for crawlers and readers without JavaScript: the headline figures, the caveats, the
+   permitted subtotals and every ledger row. The figures come from the same model app.js draws (G.ledger.sheet). */
 function pageBalance() {
   const S = LEDGER.sheet, GR = { 'documented': 'Documented', 'single-source': 'Single-Source', 'inferred': 'Inferred' };
-  const cites = f => arr(f.checks).map(id => byKey.get(id)).filter(Boolean).map(c => checkLink(c, esc(c.id))).join(' ');
+  const KIND = { 'cash-received': 'Cash Received', 'reported-income': 'Reported Income', 'paper-value': 'Paper Value', 'salary-forgone': 'Salary Donated', 'settlement-paid': 'Settlement Paid', 'estimate': 'Estimate' };
+  const cites = ids => arr(ids).map(id => byKey.get(id)).filter(Boolean).map(c => checkLink(c, esc(c.id))).join(' ');
   const trace = f => ' data-rows="' + esc(arr(f.rows).join(' ')) + '" title="' + esc('Ledger ' + (arr(f.rows).length === 1 ? 'row ' : 'rows ') + arr(f.rows).join(', ') + ': ' + f.exact) + '"';
-  const table = b => {
-    const cols = arr(b.cols), six = cols.length === 6;
-    const row = (f, tot) => '<tr><th scope="row">' + (tot ? '<b>' + esc(f.label) + '</b>' : esc(f.label) + (f.flag ? '<sup>' + esc(f.flag) + '</sup>' : '')) + (f.sub ? '<br><span class="pre-meta">' + esc(f.sub) + '</span>' : '') + '</th>' +
-      (six ? '<td>' + esc(f.extra || '') + '</td>' : '') + '<td class="pre-num"' + trace(f) + '>' + (tot ? '<b>' + esc(f.amt) + '</b>' : esc(f.amt)) + '</td><td>' + esc(f.when || '') + '</td><td>' + esc(GR[f.grade] || '') + '</td><td>' + cites(f) + '</td></tr>';
-    return '<div class="pre-scroll"><table class="pre-table"><thead><tr>' + cols.map(c => '<th scope="col">' + esc(c) + '</th>').join('') + '</tr></thead>' + arr(b.groups).map(g =>
-      '<tbody>' + (g.name ? '<tr><th colspan="' + cols.length + '" scope="colgroup"><b>' + esc(g.name) + '</b>' + (g.note ? '<br><span class="pre-meta">' + esc(g.note) + '</span>' : '') + '</th></tr>' : '') +
-      arr(g.rows).map(f => row(f, false)).join('') + (g.total ? row(g.total, true) : '') + '</tbody>').join('') + '</table></div>' + arr(b.foot).map(t => '<p class="pre-meta">' + esc(t) + '</p>').join('');
-  };
-  const block = b => b.type === 'table' ? table(b)
-    : b.type === 'facts' ? '<dl>' + arr(b.items).map(x => '<dt><b>' + esc(x.term) + '</b></dt><dd' + (arr(x.rows).length ? ' data-rows="' + esc(x.rows.join(' ')) + '"' : '') + '>' + esc(x.text) + ' <span class="pre-meta">' + cites(x) + '</span></dd>').join('') + '</dl>'
-    : b.type === 'quotes' ? '<h3>Responses</h3><ul>' + arr(b.items).map(x => '<li><b>' + esc(x.who) + '</b>, ' + esc(x.when) + ': “' + esc(x.text) + '” <span class="pre-meta">' + cites(x) + '</span></li>').join('') + '</ul>'
-    : b.type === 'note' ? '<p class="inote"><span>' + esc(b.text) + '</span></p>' : '';
+  const usd = n => n == null ? 'open' : (n < 0 ? '−' : '') + '$' + Math.abs(n).toLocaleString('en-US');
+  const ven = r => String(r.venture || '').replace(/[a-z0-9]+(?:-[a-z0-9]+)+|^[a-z0-9]+$/g, id => { const e = byKey.get('e:' + id); return e ? e.name : id; });
+  const totals = arr(S.views).flatMap(v => arr(v.totals).map(t => ({ v, t })));
   return {
     path: 'balance/', title: S.title + ' · ' + SITE_NAME, description: trunc(S.description || S.lede, 230), ledger: true,
     html: '<h1>' + esc(S.title) + '</h1><p class="lede">' + esc(S.lede) + '</p>' + (ASOF ? '<p class="pre-meta">' + esc(ASOF) + '</p>' : '') +
-      '<dl>' + arr(S.strip).map(f => '<dt>' + esc(f.label) + '</dt><dd><b' + trace(f) + '>' + esc(f.amt) + '</b><br><span class="pre-meta">' + esc(f.note || '') + ' ' + cites(f) + '</span></dd>').join('') + '</dl>' +
-      (S.chart ? '<h2>' + esc(S.chart.title) + '</h2><ul>' + arr(S.chart.items).map(f => '<li>' + esc(f.label) + ': <b' + trace(f) + '>' + esc(f.amt) + '</b></li>').join('') + '</ul><p class="pre-meta">' + esc(S.chart.note.replace(/^Logarithmic scale:[^.]*\.\s*/, '')) + '</p>' : '') +
-      arr(S.sections).map(x => '<h2 id="b-' + esc(x.id) + '">' + esc(x.title) + '</h2>' + arr(x.intro).map(t => '<p>' + esc(t) + '</p>').join('') + arr(x.blocks).map(block).join('') +
-        (arr(x.checks).length ? '<p class="pre-meta">From: ' + arr(x.checks).map(id => byKey.get(id)).filter(Boolean).map(c => checkLink(c)).join(' · ') + '</p>' : '')).join('')
+      '<h2>Headline Figures</h2><dl>' + arr(S.strip).map(f => '<dt>' + esc(f.label) + '</dt><dd><b' + trace(f) + '>' + esc(f.amt) + '</b><br><span class="pre-meta">' + esc(f.note || '') + ' ' + cites(f.checks) + '</span></dd>').join('') + '</dl>' +
+      '<h2>Read This First</h2><ul>' + arr(S.caveats).map(c => '<li><b>' + esc(c.term) + '.</b> ' + esc(c.text) + '</li>').join('') + '</ul>' +
+      '<h2>' + esc(S.salary.label) + '</h2><ul>' + arr(S.salary.facts).map(c => '<li><b>' + esc(c.term) + '.</b> ' + esc(c.text) + '</li>').join('') + '</ul>' +
+      (totals.length ? '<h2>Subtotals</h2><p class="pre-meta">Given only where the rows do not overlap. There is no grand total.</p><ul>' + totals.map(({ v, t }) => '<li>' + esc(v.name) + ', ' + esc(t.group ? t.group + ': ' : '') + esc(t.label) + ' <b' + trace(t) + '>' + esc(t.amt) + '</b> <span class="pre-meta">' + esc(t.rows.join(', ')) + '</span></li>').join('') + '</ul>' : '') +
+      '<h2>All Rows</h2><p class="pre-meta">' + num(LEDGER.rows.length) + ' ledger rows. Rows marked as the same money are never added together.</p>' +
+      '<div class="pre-scroll"><table class="pre-table"><thead><tr>' + ['Row', 'Recipient', 'Venture', 'Kind', 'Low', 'High', 'Period', 'Evidence', 'Check'].map(c => '<th scope="col">' + c + '</th>').join('') + '</tr></thead><tbody>' +
+      LEDGER.rows.map(r => '<tr data-rows="' + esc(r.id) + '"><th scope="row">' + esc(r.id) + '</th><td>' + esc(r.recipient_name) + '</td><td>' + esc(ven(r)) + '<br><span class="pre-meta">' + esc(r.basis) + '</span></td><td>' + esc(KIND[r.kind] || r.kind) + '</td><td class="pre-num">' + usd(r.lo) + '</td><td class="pre-num">' + usd(r.hi) + '</td><td>' + esc(r.period) + '</td><td>' + esc(GR[r.grade] || '') + '</td><td>' + cites([r.check]) + '</td></tr>').join('') +
+      '</tbody></table></div>'
   };
 }
 function pageNames() {
