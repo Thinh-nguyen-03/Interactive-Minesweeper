@@ -186,7 +186,7 @@ const pageSlot = html => { const i = html.indexOf('<div id="page"'), j = html.in
     ok('journey: a topic on the map has its own address', (await where(p)) === '/map/topic/' + TOPIC + '/' && await same(), await where(p));
     await p.click('#panel .panel-actions a.btn.primary'); await p.waitForSelector('#topics'); await p.waitForTimeout(300);
     ok('journey: Open Topic goes to the topic on the checks list', (await where(p)) === '/checks/#topic-' + TOPIC && await same(), await where(p));
-    await p.click('.site'); await p.waitForTimeout(300); ok('journey: the site name goes home', (await where(p)) === '/' && (await p.title()) === 'Trump Claims Map', await where(p));
+    await p.click('.site'); await p.waitForTimeout(300); ok('journey: the site name goes home', (await where(p)) === '/' && (await p.title()) === 'The Trump Connection', await where(p));
     // a detail file that fails to load: an error with a way to try again
     p.quiet = true;
     await p.route(/\/assets\/d\//, r => r.abort());

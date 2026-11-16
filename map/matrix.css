@@ -1,4 +1,4 @@
-/* Trump Claims Map: the Matrix workspace.
+/* The Trump Connection: the Matrix workspace.
    Three zones: names (left), heatmap (centre), case file (right). It follows the site theme: surfaces, ink and fonts come from the
    site tokens; only the data colours (ramp, groups, topics, selection) are set here, once for light and once for dark.
    matrix.js reads these same variables for the canvas, so the drawing and the panels cannot drift apart. */

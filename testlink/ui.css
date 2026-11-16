@@ -1,4 +1,4 @@
-/* Trump Claims Map: the design system. Loaded after style.css and matrix.css, which hold the structure.
+/* The Trump Connection: the design system. Loaded after style.css and matrix.css, which hold the structure.
    This file holds the tokens (colour and type for both themes), the icon and control styles, and the look of every page
    and of the map workspace's chrome. The canvases read their fonts and colours from the variables on :root:
    --font-ui, --font-head, --font-data and --cv-bg, --cv-ink, --cv-muted, --cv-line. */
