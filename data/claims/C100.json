@@ -1,0 +1,279 @@
+{
+  "id": "C100",
+  "title": "Net worth change and legal settlements paid to Trump",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "Forbes and Bloomberg both estimate Donald Trump's fortune at several billion dollars, but neither shows a steady rise. Forbes had him at about $4.3B in 2024, a record $7.3B in Sept 2025, $6.5B in March 2026 and about $7.0B in Sept 2026. Bloomberg had the family at $7.7B (Sept 2025), $6.8B (Jan 2026) and $7.8B (June 2026, after adding a stablecoin stake). Forbes attributes most of the gain since the 2024 election (about $2.7B) to crypto and overseas licensing, not stock. Most of the fortune is illiquid or paper value: real estate, a Trump Media stake and crypto. Five companies settled his suits for about $90.5M in headline terms (ABC $15M plus $1M fees, Meta $25M, X about $10M, Paramount $16M, YouTube $24.5M). Trump's 2025 disclosure shows $56.5M paid to his library foundation and $8M from X paid to him personally. YouTube's $22M was directed to the White House ballroom through the Trust for the National Mall. Separately, the $230M he claimed from the Justice Department was withdrawn in a May 2026 IRS settlement that paid him nothing. A judge later found that settlement collusive. All figures here come from search excerpts; no primary document could be fetched in this session.",
+  "sub_claims": [
+    {
+      "statement": "Forbes estimates of Donald Trump's net worth from late 2024 to Nov 2026.",
+      "verdict": "confirmed",
+      "finding": "Forbes 400 (Sept 2025): $7.3B, a record, up $3B from $4.3B in 2024; ranked No. 201. Forbes valued crypto plus cash at about $2.4B, including about $709M in meme-coin holdings, and the Trump Media stake at about $2B. Forbes World's Billionaires (10 Mar 2026): $6.5B, up $1.4B in a year (implying about $5.1B in the 2025 list); ranked No. 645. Crypto tokens were valued at about $570M, the remaining 38% stake in World Liberty Financial at about $240M, and Trump Media at $1.2B (down from $2.6B). Forbes 400 (15 Sept 2026): about $7.0B, down $300M; fell to No. 245. Forbes attributed the fall to lower prices for the $TRUMP meme coin and Trump Media shares. Per PolitiFact, Forbes's September 2026 analysis put him about $2.7B richer than when he won the 2024 election. Secondary sites give a Forbes real-time figure of about $6.8B on 15 Oct 2026; that is single-source. A component split attributed to the Sept 2026 list (meme coin about $183M, WLFI about $78M, stablecoin about $233M, licensing about $655M) comes from an aggregator site and is unverified. Forbes's method values each asset (property, stakes, tokens, cash) and subtracts estimated debts. Forbes said the voiding of the NY civil-fraud penalty removed a large liability.",
+      "sources": [
+        "https://www.forbes.com/sites/danalexander/2025/09/09/presidency-boosts-trumps-net-worth-by-3-billion-in-a-year/",
+        "https://www.forbes.com/sites/luisakroll/2026/03/10/heres-how-much-donald-trump-is-worth/",
+        "https://www.forbes.com/sites/danalexander/2026/09/15/president-trumps-fortune-falls-as-everyday-supporters-lose-faith/",
+        "https://www.forbes.com/sites/pr/2026/09/15/forbes-releases-its-45th-annual-forbes-400-ranking-of-richest-americans/",
+        "https://politifact.com/factchecks/2026/nov/09/donald-trump/60-minutes-3-billion-net-worth-stocks-crypto/",
+        "https://www.kucoin.com/news/flash/forbes-estimates-trump-s-net-worth-at-6-5-billion-as-cryptocurrency-and-real-estate-boost-wealth",
+        "https://trumpinsight.com/donald-trump-net-worth"
+      ]
+    },
+    {
+      "statement": "Bloomberg Billionaires Index estimates of Trump's and his family's wealth.",
+      "verdict": "confirmed",
+      "finding": "Bloomberg put Trump at about $6.6B in late Oct 2024 and $6.49B on election day 2024, when Trump Media shares were swinging. A Wikipedia mirror cites $7.08B in Jan 2025, which is single-source. In July 2025 Bloomberg reported that crypto had added at least $620M. On 7 Sept 2025 it reported $1.3B of crypto wealth added in weeks, taking the family to $7.7B. After the crypto slide, a secondary report citing Bloomberg put the family at about $6.6B, below Bloomberg's top-500 cutoff. In a 20 Jan 2026 feature, Bloomberg put the family at $6.8B, roughly flat on the year: crypto added about $1.4B, or about a fifth of the fortune, while Trump Media fell about 66%. Bloomberg excludes locked WLFI founder tokens, worth about $3.8B at the time. On 12 May 2026 it added $660M after finding previously undisclosed WLFI token sales, putting family token-sale proceeds at about $1.55B. In June 2026 it began counting a $630M stake in WLF's stablecoin business, taking the family to $7.8B with World Liberty its largest asset at $2.6B. No Bloomberg figure later than June 2026 was found. Bloomberg's figures cover the family rather than Trump alone, so they are not directly comparable with Forbes's figures for Trump.",
+      "sources": [
+        "https://www.bloomberg.com/news/articles/2024-10-22/trump-enters-world-s-500-richest-list-for-first-time-in-11-weeks",
+        "https://fortune.com/2024/11/06/trump-wealth-net-worth-2025/",
+        "https://www.bloomberg.com/news/articles/2025-09-07/trump-family-adds-1-3-billion-of-crypto-wealth-in-span-of-weeks",
+        "https://www.bloomberg.com/news/features/2026-01-20/donald-trump-family-net-worth-increasingly-comes-from-crypto",
+        "https://www.theblock.co/post/386237/trumps-add-1-4-billion-usd-crypto-assets-to-family-fortune-since-inauguration",
+        "https://www.bloomberg.com/news/articles/2026-05-12/quiet-token-sales-boosted-trump-crypto-wealth-by-660-million",
+        "https://www.dailyherald.com/20260606/nation-and-world-politics/trump-familys-stablecoin-wealth-fueled-by-binance-relationship/",
+        "https://finance.yahoo.com/news/trump-family-takes-1b-hit-185251151.html"
+      ]
+    },
+    {
+      "statement": "Most of the gain came from crypto and licensing, not stock, and much of the fortune is paper value.",
+      "verdict": "mostly-accurate",
+      "finding": "Forbes editor Dan Alexander said almost none of the $3B gain from fall 2024 to fall 2025 came from stock; crypto ventures and overseas licensing were the main drivers. PolitiFact rated Trump's '60 Minutes' remark crediting stocks Mostly False (9 Nov 2026). Asked about the gain, Trump said 'you should've had stock' and that he devotes almost no time to his net worth. On liquidity, Forbes's Sept 2025 crypto-plus-cash figure ($2.4B) was about a third of the $7.3B total. A secondary summary of the March 2026 list gives 'cryptocurrencies and liquid assets' of $2.1B, about a third of $6.5B; that is single-source. The rest is real estate, golf, licensing businesses and a Trump Media stake that is listed but held in trust and large relative to trading volume. Crypto token values are themselves volatile and partly locked; Bloomberg excludes locked tokens altogether. The ratio is our own arithmetic. A secondary figure of '$8.4B assets, $1.1B liabilities' attributed to Forbes March 2026 nets to $7.3B, the Sept 2025 total, so it appears misattributed and is unverified.",
+      "sources": [
+        "https://politifact.com/factchecks/2026/nov/09/donald-trump/60-minutes-3-billion-net-worth-stocks-crypto/",
+        "https://www.commondreams.org/news/trump-net-worth-corruption",
+        "https://www.benzinga.com/news/politics/26/11/63213526/trump-says-well-you-shouldve-had-stock-after-being-asked-about-3-billion-jump-in-his-net-worth-i-have-a-lotta-money",
+        "https://time.com/article/2026/11/10/trump-net-worth-second-term/"
+      ]
+    },
+    {
+      "statement": "Liabilities: the New York civil fraud judgment and the E. Jean Carroll judgments.",
+      "verdict": "confirmed",
+      "finding": "Civil fraud: on 21 Aug 2025 the Appellate Division voided the roughly $464M disgorgement (over $500M with interest) as an excessive fine but upheld the fraud liability finding. Trump asked the NY Court of Appeals to reverse the liability finding (119-page brief, April 2026), and Attorney General Letitia James cross-appealed to restore the penalty (June 2026). No decision had been found as of Sept-Nov 2026. Carroll: the $5M verdict became final when the Supreme Court declined review, and the funds were transferred to Carroll's lawyers in 2026. The $83.3M defamation award was upheld by the Second Circuit and is held in a court-controlled account. Trump and the DOJ petitioned the Supreme Court in late July 2026, Carroll opposed on 30 Oct 2026, and no ruling had been found by mid-Nov 2026.",
+      "sources": [
+        "https://www.cbsnews.com/news/trump-civil-fraud-case-new-york-appeals/",
+        "https://courthousenews.com/trump-asks-new-yorks-top-court-to-toss-civil-fraud-judgment/",
+        "https://courtdocket.org/trump-wins-appeal-civil-fraud-carroll-and-criminal-cases/",
+        "https://www.cnbc.com/2026/07/28/trump-asks-supreme-court-to-toss-83point3m-defamation-award-to-e-jean-carroll.html",
+        "https://www.rawstory.com/e-jean-carroll-bail-trump/"
+      ]
+    },
+    {
+      "statement": "ABC/Disney paid $15M plus $1M in fees to settle Trump's defamation suit (Dec 2024), directed to his presidential library.",
+      "verdict": "confirmed",
+      "finding": "The settlement was signed 13-14 Dec 2024 over George Stephanopoulos's on-air statement. Terms: $15M to a 'presidential foundation and museum', $1M in fees to Brito's firm, and an editor's note. ABC's 23 Mar 2026 letter to Warren, Blumenthal and Stansbury says Disney wired the money on 19 Dec 2024 to the Brito Law PLLC trust account. Release required written notice of the foundation's 501(c)(3) recognition, which the IRS gave on 20 Oct 2025 (see C48). ABC also said it would not deduct the payment as a charitable contribution. Per the lawmakers' 15 Jul 2026 letter, Trump's 2025 OGE disclosure lists $16M from the ABC settlement as received by the foundation. The extra $1M against the $15M headline is not explained in the coverage we found. Pending matters reported later include an FCC DEI probe (from Mar 2025) and early station-licence renewal filings (2026); see C33.",
+      "sources": [
+        "https://whyy.org/articles/abc-donald-trump-presidential-library-defamation-lawsuit-money",
+        "https://www.warren.senate.gov/imo/media/doc/abc_response.pdf",
+        "https://www.warren.senate.gov/wp-content/uploads/2026/07/Warren-Letter-to-Trump-Library-Foundation-re-Financial-Disclosures.pdf"
+      ]
+    },
+    {
+      "statement": "Meta paid $25M (Jan 2025) to settle Trump's account-suspension suit, mostly for the library.",
+      "verdict": "confirmed",
+      "finding": "The settlement was reported 29 Jan 2025. Press reports said about $22M was earmarked for the library and the rest covered legal fees and co-plaintiffs, and Meta told lawmakers that $22M was intended for the library. Per the lawmakers' July 2026 letter, however, Trump's disclosure lists $24.5M from the Meta settlement as received by the foundation. That is more than the $22M Meta designated, and the gap is unexplained in what we found. Pending at the time and later: the FTC's Instagram/WhatsApp monopoly case, which Meta won at trial in Nov 2025 and the FTC is appealing (C33). Meta also gave $1M to the inaugural fund.",
+      "sources": [
+        "https://www.salon.com/2025/01/29/meta-settles-with-for-25-million",
+        "https://www.warren.senate.gov/wp-content/uploads/2026/07/Warren-Letter-to-Trump-Library-Foundation-re-Financial-Disclosures.pdf"
+      ]
+    },
+    {
+      "statement": "X paid about $10M (Feb 2025) to settle Trump's account-suspension suit.",
+      "verdict": "mostly-accurate",
+      "finding": "The WSJ reported about $10M (Feb 2025), NBC confirmed it through a source, and Trump lawyer John Kelly confirmed a settlement without giving terms. No court filing with the amount was found. Trump's 2025 OGE disclosure, as reported in coverage of the lawmakers' letters and in C48, lists $8M from X paid to Trump personally, not to the foundation. That makes it the only settlement in this group documented as personal income. Elon Musk was then leading DOGE and was a top 2024 donor; that is context, not a link.",
+      "sources": [
+        "https://theedgemalaysia.com/node/744205",
+        "https://www.nbcwashington.com/news/business/money-report/elon-musks-company-x-settles-trump-lawsuit-over-account-suspension/3843538/",
+        "https://www.ms.now/news/trump-library-corporate-settlements-democrats-letter"
+      ]
+    },
+    {
+      "statement": "Paramount paid $16M (July 2025) to settle the '60 Minutes' suit, directed to the library.",
+      "verdict": "confirmed",
+      "finding": "Announced 1-2 Jul 2025. Paramount said the $16M includes plaintiffs' fees and costs, that the remainder goes to the future library, that Trump receives nothing directly or indirectly, that there is no apology, and that 60 Minutes will release transcripts of candidate interviews. Paramount denied Trump's claim of about $20M in additional PSAs. Pending at the time: FCC review of the Skydance merger, approved 24 Jul 2025 (C33). Paramount and FCC Chair Carr said the two were unrelated, while Sen. Wyden called it a bribe. Per the lawmakers' July 2026 letter, the disclosure lists $16M received by the foundation from Paramount. Paramount told lawmakers its involvement ended with the payment.",
+      "sources": [
+        "https://www.pbs.org/newshour/nation/paramount-will-pay-16-million-to-settle-trump-lawsuit-over-60-minutes-interview",
+        "https://www.thewrap.com/paramount-disputes-trump-settlement-psa-term",
+        "https://www.aljazeera.com/news/2025/7/2/paramount-agrees-to-pay-16m-to-settle-trump-lawsuit-over-cbs-interview"
+      ]
+    },
+    {
+      "statement": "YouTube/Alphabet paid $24.5M (Sept 2025), with $22M directed to the White House ballroom.",
+      "verdict": "confirmed",
+      "finding": "Court filing of 29 Sep 2025 (N.D. Cal., a week before a hearing before Judge Gonzalez Rogers): $22M on Trump's behalf to the Trust for the National Mall 'to support the construction of the White House State Ballroom'; $2.5M to co-plaintiffs including the American Conservative Union and Naomi Wolf; no admission of liability. The Trust has said it keeps a 2-2.5% management allocation from each donation. Its posted filings show more than $320M received in 2025. No separate confirmation that the $22M was received was found. Pending at the time: DOJ's search and ad-tech antitrust remedies against Google (C33).",
+      "sources": [
+        "https://www.cbsnews.com/news/youtube-settles-trump-lawsuit-white-house-ballroom",
+        "https://www.npr.org/2025/09/29/nx-s1-5557371/youtube-trump-lawsuit-settlement",
+        "https://www.nbcnews.com/politics/white-house/nonprofit-trust-national-mall-trump-ballroom-white-house-rcna240543",
+        "https://www.washingtonexaminer.com/?p=4762215"
+      ]
+    },
+    {
+      "statement": "Settlement money directed to the library foundation is accounted for.",
+      "verdict": "partly-accurate",
+      "finding": "Trump's disclosure (30 Jun 2026) lists $56.5M paid to the foundation: per the lawmakers' 15 Jul 2026 letter, Meta $24.5M, ABC $16M and Paramount $16M. The foundation's October 2025 Florida filing projected $50M of revenue and about $6M of spending. The lawmakers allege $6.5M-$14.5M is missing and about $7M of spending is unexplained. A Substack analysis argues the Florida figure was a budget, not actual revenue. The foundation told CBS it expected to file fiscal-2025 disclosures by 15 Nov 2026; no filing was found yet. Money paid to a foundation is not personal income to Trump, although he and his family control the foundation (Eric Trump is its president).",
+      "sources": [
+        "https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-stansbury-press-trump-library-foundation-on-millions-of-dollars-in-missing-donations-mysterious-expenditures/",
+        "https://americaninvestigator.substack.com/p/lawmakers-say-millions-in-trump-library",
+        "https://www.yahoo.com/news/politics/articles/trumps-950-million-library-plan-220229235.html"
+      ]
+    },
+    {
+      "statement": "Trump sought about $230M from the Justice Department through administrative claims.",
+      "verdict": "confirmed",
+      "finding": "Per the NYT (Oct 2025), Trump filed two Federal Tort Claims Act administrative claims in 2023-24, over the Russia investigation and the 2022 Mar-a-Lago search, together seeking about $230M. Trump said he 'could be' seeking it and would give money to charity; DOJ declined comment. On 18 May 2026, Trump, his sons and the Trump Organization settled their $10B suit against the IRS over the leak of his tax returns. They received a formal apology and no money, and withdrew both administrative claims. DOJ instead created a $1.776B 'anti-weaponization fund' from the Judgment Fund for others, for which Trump was not eligible. Reporting also says the deal gave audit protections; that is single-source. In July 2026, Judge Kathleen Williams found the suit collusive and brought in bad faith, voided reliance on the settlement and sanctioned Trump's counsel, including Alejandro Brito. Acting AG Blanche told Congress the fund was 'not moving forward, period'. The 11th Circuit declined to stay the sanctions, and the appeal is ongoing. Net result: no payment to Trump is documented.",
+      "sources": [
+        "https://www.cnn.com/2025/10/22/politics/trump-doj-request-230-mil-explained",
+        "https://www.axios.com/2026/05/18/trump-irs-lawsuit-dropped",
+        "https://www.cbsnews.com/news/trump-settles-10-billion-lawsuit-against-irs/",
+        "https://www.justice.gov/opa/pr/justice-department-announces-anti-weaponization-fund",
+        "https://www.courthousenews.com/judge-voids-trumps-1-8-billion-settlement-with-irs/",
+        "https://thehill.com/regulation/court-battles/6121107-federal-appeals-court-donald-trump-irs-treasury-collusion/"
+      ]
+    },
+    {
+      "statement": "Other settlements or pending suits; law-firm pledges (kept separate).",
+      "verdict": "confirmed",
+      "finding": "We found no settlement payment to Trump in 2026. Pending or failed suits: the WSJ/Dow Jones $10B suit was dismissed with prejudice on 31 Oct 2026 (Trump says he will press on). The BBC $10B suit's defamation claim was allowed to proceed on about 11 Nov 2026. The NYT $15B suit is pending, and the Des Moines Register/Selzer suit was being contested. JPMorgan ($5B, filed Jan 2026) and Capital One are fighting debanking suits rather than settling. Law firms' pro bono pledges (nine firms, about $940M per Bloomberg Law, April 2025) are commitments of free legal services to causes the administration favours. They are not payments to Trump and are not counted in the ledger.",
+      "sources": [
+        "https://www.cnn.com/2026/10/31/media/trump-wall-street-journal-murdoch-lawsuit-dismissed",
+        "https://nbcnews.com/politics/trump-administration/us-judge-says-trumps-10-billion-bbc-defamation-case-can-proceed-rcna608707",
+        "https://www.cp24.com/news/money/2026/09/10/capital-one-and-jpmorgan-bet-that-fighting-trump-may-be-safer-than-settling/",
+        "https://news.bloomberglaw.com/payroll/a-o-shearmans-trump-work-to-exclude-tariffs-firm-leaders-say"
+      ]
+    }
+  ],
+  "corrections": [
+    "Recorded in C33: Meta paid about $22M of $25M to the library. Trump's 2025 OGE disclosure, as summarized in the lawmakers' 15 Jul 2026 letter, shows the foundation received $24.5M from the Meta settlement. Meta told lawmakers $22M was designated. The difference is unexplained.",
+    "Recorded in C33: ABC paid $15M to the library. The same disclosure summary shows $16M received by the foundation from the ABC settlement. The $1M difference may be the separate fee line or interest; this is not established.",
+    "Recorded in C33: 'No payment went to Trump personally.' The 2025 OGE disclosure lists $8M from the X settlement as paid to Trump personally (already noted in C48), so this holds for ABC, Meta, Paramount and YouTube but not for X.",
+    "Recorded in C33: X paid about $10M. The press figure is unchanged, but the disclosure shows $8M to Trump; how the other roughly $2M was split (fees, other parties) is unknown.",
+    "Recorded in C55: Bloomberg put the family at about $6.7B after the crypto slide. Bloomberg's 20 Jan 2026 feature gives $6.8B, and a secondary report citing Bloomberg gives about $6.6B. C55 also predates Bloomberg's June 2026 figure of $7.8B and the Forbes 400 figure of $7.0B (15 Sept 2026, down $300M from $7.3B).",
+    "Claimed in secondary coverage: Forbes March 2026 shows $8.4B of assets and $1.1B of liabilities. Those numbers net to $7.3B, the Sept 2025 total, not $6.5B, so the attribution appears wrong; treated as unverified.",
+    "Claimed in some coverage: Forbes put Trump at about $6.3B on election day 2024. Forbes's own 2025 and 2026 articles use a 2024 baseline of $4.3B (Forbes 400), and the '$2.7B richer since the election' figure implies about $4.3B. The $6.3B figure matches Bloomberg-range numbers ($6.49B-$6.61B) and is treated as unverified for Forbes."
+  ],
+  "denials_and_context": [
+    "Trump, on '60 Minutes' (Nov 2026), credited the stock market for his gains, said he devotes almost no time to his net worth and that he takes no salary. Forbes's Dan Alexander called this 'nonsense', and PolitiFact rated it Mostly False.",
+    "Net-worth figures are outside estimates, not disclosures. Forbes and Bloomberg differ in scope (Trump alone vs family), in how they treat locked tokens (Bloomberg excludes them) and in valuation dates. Swings mostly track Trump Media shares and crypto prices.",
+    "Paramount and FCC Chair Carr said the settlement was unrelated to the merger review. Paramount said Trump receives nothing directly or indirectly and denied the PSA claim. ABC said it will not deduct the payment. Meta and Paramount told lawmakers they paid as their agreements required. YouTube's filing admits no liability.",
+    "The regulatory matters listed for each company are reported context. No document links any settlement to any regulatory outcome, and several payers later faced adverse federal action (FTC v. Meta appeal, DOJ v. Google appeals, FCC probes of ABC).",
+    "Money directed to the library foundation or the ballroom trust is not personal income to Trump, but he and his family control the foundation and he directs the ballroom project. The lawmakers' 'missing money' figures are allegations; the foundation had not answered publicly as of the sources found.",
+    "The IRS settlement and the $230M claims: DOJ says it paid Trump nothing. A federal judge found the suit collusive; Trump's side is appealing. Democratic lawmakers argued any payment would raise domestic-emoluments issues.",
+    "Source limits: page fetching was unavailable in this session (fetch hosts did not resolve). Every source was read through search-result excerpts, including the Warren letters, ABC's response letter and the Forbes and Bloomberg articles."
+  ],
+  "sources": [
+    {"title": "Trump Jumps 118 Spots On The Forbes 400 List Thanks To Presidency", "publisher": "Forbes", "url": "https://www.forbes.com/sites/danalexander/2025/09/09/presidency-boosts-trumps-net-worth-by-3-billion-in-a-year/", "date": "2025-09-09", "read": "excerpt"},
+    {"title": "Here's how much Donald Trump is worth (World's Billionaires 2026)", "publisher": "Forbes", "url": "https://www.forbes.com/sites/luisakroll/2026/03/10/heres-how-much-donald-trump-is-worth/", "date": "2026-03-10", "read": "excerpt"},
+    {"title": "Why Trump's Net Worth Dropped $300 Million Over The Last Year", "publisher": "Forbes", "url": "https://www.forbes.com/sites/danalexander/2026/09/15/president-trumps-fortune-falls-as-everyday-supporters-lose-faith/", "date": "2026-09-15", "read": "excerpt"},
+    {"title": "Forbes Releases Its 45th Annual Forbes 400 Ranking", "publisher": "Forbes", "url": "https://www.forbes.com/sites/pr/2026/09/15/forbes-releases-its-45th-annual-forbes-400-ranking-of-richest-americans/", "date": "2026-09-15", "read": "excerpt"},
+    {"title": "Forbes estimates Trump's net worth at $6.5 billion", "publisher": "KuCoin News (secondary)", "url": "https://www.kucoin.com/news/flash/forbes-estimates-trump-s-net-worth-at-6-5-billion-as-cryptocurrency-and-real-estate-boost-wealth", "date": "2026-03-10", "read": "excerpt"},
+    {"title": "Donald Trump Net Worth 2026: $7 Billion (Forbes Breakdown)", "publisher": "trumpinsight.com (aggregator)", "url": "https://trumpinsight.com/donald-trump-net-worth", "date": "2026-09", "read": "excerpt"},
+    {"title": "Trump's $3 billion net worth increase came largely from crypto, not stock", "publisher": "PolitiFact", "url": "https://politifact.com/factchecks/2026/nov/09/donald-trump/60-minutes-3-billion-net-worth-stocks-crypto/", "date": "2026-11-09", "read": "excerpt"},
+    {"title": "Forbes Reporter Debunks Trump Claim About $3 Billion Wealth Surge", "publisher": "Common Dreams", "url": "https://www.commondreams.org/news/trump-net-worth-corruption", "date": "2026-11", "read": "excerpt"},
+    {"title": "Trump Says 'Well, You Should've Had Stock'", "publisher": "Benzinga", "url": "https://www.benzinga.com/news/politics/26/11/63213526/trump-says-well-you-shouldve-had-stock-after-being-asked-about-3-billion-jump-in-his-net-worth-i-have-a-lotta-money", "date": "2026-11", "read": "excerpt"},
+    {"title": "How Trump Has Increased His Net Worth by Billions in His Second Term", "publisher": "TIME", "url": "https://time.com/article/2026/11/10/trump-net-worth-second-term/", "date": "2026-11-10", "read": "excerpt"},
+    {"title": "Trump enters world's 500 richest list for first time in 11 weeks", "publisher": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2024-10-22/trump-enters-world-s-500-richest-list-for-first-time-in-11-weeks", "date": "2024-10-22", "read": "excerpt"},
+    {"title": "Trump wealth and net worth after the election", "publisher": "Fortune", "url": "https://fortune.com/2024/11/06/trump-wealth-net-worth-2025/", "date": "2024-11-06", "read": "excerpt"},
+    {"title": "Trump Family Adds $1.3 Billion of Crypto Wealth in Span of Weeks", "publisher": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2025-09-07/trump-family-adds-1-3-billion-of-crypto-wealth-in-span-of-weeks", "date": "2025-09-07", "read": "excerpt"},
+    {"title": "Donald Trump Family Net Worth Increasingly Comes From Crypto", "publisher": "Bloomberg", "url": "https://www.bloomberg.com/news/features/2026-01-20/donald-trump-family-net-worth-increasingly-comes-from-crypto", "date": "2026-01-20", "read": "excerpt"},
+    {"title": "Trumps add $1.4 billion in crypto-related assets to family fortune since inauguration: Bloomberg", "publisher": "The Block", "url": "https://www.theblock.co/post/386237/trumps-add-1-4-billion-usd-crypto-assets-to-family-fortune-since-inauguration", "date": "2026-01-20", "read": "excerpt"},
+    {"title": "Quiet Token Sales Boosted Trump Crypto Wealth by $660 Million", "publisher": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-05-12/quiet-token-sales-boosted-trump-crypto-wealth-by-660-million", "date": "2026-05-12", "read": "excerpt"},
+    {"title": "Trump family's stablecoin wealth fueled by Binance relationship", "publisher": "Daily Herald (Bloomberg)", "url": "https://www.dailyherald.com/20260606/nation-and-world-politics/trump-familys-stablecoin-wealth-fueled-by-binance-relationship/", "date": "2026-06-06", "read": "excerpt"},
+    {"title": "Trump Family Takes $1B Hit in Crypto Crash, Loses Spot in Bloomberg 500", "publisher": "Yahoo Finance (Coinspeaker)", "url": "https://finance.yahoo.com/news/trump-family-takes-1b-hit-185251151.html", "date": "2025", "read": "excerpt"},
+    {"title": "New York appeals court throws out $527 million penalty in Trump civil fraud case", "publisher": "CBS News", "url": "https://www.cbsnews.com/news/trump-civil-fraud-case-new-york-appeals/", "date": "2025-08-21", "read": "excerpt"},
+    {"title": "Trump asks New York's top court to toss civil fraud judgment", "publisher": "Courthouse News", "url": "https://courthousenews.com/trump-asks-new-yorks-top-court-to-toss-civil-fraud-judgment/", "date": "2026-04", "read": "excerpt"},
+    {"title": "Trump Wins Appeal: Civil Fraud, Carroll, and Criminal Cases", "publisher": "CourtDocket", "url": "https://courtdocket.org/trump-wins-appeal-civil-fraud-carroll-and-criminal-cases/", "date": "2026-09-10", "read": "excerpt"},
+    {"title": "Trump, DOJ ask Supreme Court to toss $83.3M defamation award to E. Jean Carroll", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/07/28/trump-asks-supreme-court-to-toss-83point3m-defamation-award-to-e-jean-carroll.html", "date": "2026-07-28", "read": "excerpt"},
+    {"title": "E. Jean Carroll hits Trump with new Supreme Court plea", "publisher": "Raw Story", "url": "https://www.rawstory.com/e-jean-carroll-bail-trump/", "date": "2026-11", "read": "excerpt"},
+    {"title": "ABC News agrees to give $15 million to Donald Trump's presidential library", "publisher": "WHYY (AP)", "url": "https://whyy.org/articles/abc-donald-trump-presidential-library-defamation-lawsuit-money", "date": "2024-12-14", "read": "excerpt"},
+    {"title": "ABC response to Warren, Blumenthal, Stansbury", "publisher": "ABC / US Senate (Warren)", "url": "https://www.warren.senate.gov/imo/media/doc/abc_response.pdf", "date": "2026-03-23", "read": "excerpt"},
+    {"title": "Letter to Madison Faupel, Treasurer, Donald J. Trump Presidential Library Foundation", "publisher": "Sen. Warren, Sen. Blumenthal, Rep. Stansbury", "url": "https://www.warren.senate.gov/wp-content/uploads/2026/07/Warren-Letter-to-Trump-Library-Foundation-re-Financial-Disclosures.pdf", "date": "2026-07-15", "read": "excerpt"},
+    {"title": "Warren, Blumenthal, Stansbury Press Trump Library Foundation on Millions of Dollars in Missing Donations", "publisher": "Office of Sen. Warren", "url": "https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-stansbury-press-trump-library-foundation-on-millions-of-dollars-in-missing-donations-mysterious-expenditures/", "date": "2026-07-16", "read": "excerpt"},
+    {"title": "Democrats push Trump library to account for millions in lawsuit settlement funds", "publisher": "MS NOW", "url": "https://www.ms.now/news/trump-library-corporate-settlements-democrats-letter", "date": "2026-07", "read": "excerpt"},
+    {"title": "Lawmakers Say Millions in Trump Library Settlements Don't Reconcile. The Filing at the Center of the Dispute Was a Budget.", "publisher": "American Investigator (Substack)", "url": "https://americaninvestigator.substack.com/p/lawmakers-say-millions-in-trump-library", "date": "2026-07", "read": "excerpt"},
+    {"title": "Trump's $950 Million Library Plan Faces Congressional Probe", "publisher": "Yahoo News (CBS)", "url": "https://www.yahoo.com/news/politics/articles/trumps-950-million-library-plan-220229235.html", "date": "2026-11", "read": "excerpt"},
+    {"title": "Meta settles with Trump for $25 million", "publisher": "Salon", "url": "https://www.salon.com/2025/01/29/meta-settles-with-for-25-million", "date": "2025-01-29", "read": "excerpt"},
+    {"title": "Musk's X agrees to pay about US$10 mil to settle Trump's lawsuit, WSJ reports", "publisher": "The Edge Malaysia (Reuters)", "url": "https://theedgemalaysia.com/node/744205", "date": "2025-02-12", "read": "excerpt"},
+    {"title": "Elon Musk's company X settles Trump lawsuit over account suspension", "publisher": "NBC Washington (CNBC)", "url": "https://www.nbcwashington.com/news/business/money-report/elon-musks-company-x-settles-trump-lawsuit-over-account-suspension/3843538/", "date": "2025-02-12", "read": "excerpt"},
+    {"title": "Paramount will pay $16 million to settle Trump lawsuit over '60 Minutes' interview", "publisher": "PBS NewsHour (AP)", "url": "https://www.pbs.org/newshour/nation/paramount-will-pay-16-million-to-settle-trump-lawsuit-over-60-minutes-interview", "date": "2025-07-02", "read": "excerpt"},
+    {"title": "Paramount Says Trump Settlement Doesn't Include PSAs", "publisher": "TheWrap", "url": "https://www.thewrap.com/paramount-disputes-trump-settlement-psa-term", "date": "2025-07", "read": "excerpt"},
+    {"title": "Paramount agrees to pay $16m to settle Trump lawsuit over CBS interview", "publisher": "Al Jazeera", "url": "https://www.aljazeera.com/news/2025/7/2/paramount-agrees-to-pay-16m-to-settle-trump-lawsuit-over-cbs-interview", "date": "2025-07-02", "read": "excerpt"},
+    {"title": "YouTube settles Trump lawsuit; $22M to White House ballroom", "publisher": "CBS News", "url": "https://www.cbsnews.com/news/youtube-settles-trump-lawsuit-white-house-ballroom", "date": "2025-09-29", "read": "excerpt"},
+    {"title": "YouTube to pay $24.5 million to settle Trump lawsuit", "publisher": "NPR", "url": "https://www.npr.org/2025/09/29/nx-s1-5557371/youtube-trump-lawsuit-settlement", "date": "2025-09-29", "read": "excerpt"},
+    {"title": "How a nonprofit came to handle the money for Trump's ballroom", "publisher": "NBC News", "url": "https://www.nbcnews.com/politics/white-house/nonprofit-trust-national-mall-trump-ballroom-white-house-rcna240543", "date": "2025-10", "read": "excerpt"},
+    {"title": "Nonprofit rakes in over $320 million in private donations for Trump ballroom", "publisher": "Washington Examiner", "url": "https://www.washingtonexaminer.com/?p=4762215", "date": "2026", "read": "excerpt"},
+    {"title": "What we know about Trump's bid to claim $230 million from his own Justice Department", "publisher": "CNN", "url": "https://www.cnn.com/2025/10/22/politics/trump-doj-request-230-mil-explained", "date": "2025-10-22", "read": "excerpt"},
+    {"title": "Trump creates $1.8B 'anti-weaponization' fund after dropping IRS suit", "publisher": "Axios", "url": "https://www.axios.com/2026/05/18/trump-irs-lawsuit-dropped", "date": "2026-05-18", "read": "excerpt"},
+    {"title": "Trump settles $10 billion lawsuit against IRS, sets up $1.7 billion fund", "publisher": "CBS News", "url": "https://www.cbsnews.com/news/trump-settles-10-billion-lawsuit-against-irs/", "date": "2026-05-18", "read": "excerpt"},
+    {"title": "Justice Department announces anti-weaponization fund", "publisher": "US Department of Justice", "url": "https://www.justice.gov/opa/pr/justice-department-announces-anti-weaponization-fund", "date": "2026-05-18", "read": "excerpt"},
+    {"title": "Judge voids Trump's $1.8 billion settlement with IRS", "publisher": "Courthouse News", "url": "https://www.courthousenews.com/judge-voids-trumps-1-8-billion-settlement-with-irs/", "date": "2026-07", "read": "excerpt"},
+    {"title": "Federal appeals court rejects Trump's challenge to collusion finding tied to IRS settlement", "publisher": "The Hill", "url": "https://thehill.com/regulation/court-battles/6121107-federal-appeals-court-donald-trump-irs-treasury-collusion/", "date": "2026", "read": "excerpt"},
+    {"title": "Judge tosses Trump's lawsuit against Wall Street Journal again, this time for good", "publisher": "CNN", "url": "https://www.cnn.com/2026/10/31/media/trump-wall-street-journal-murdoch-lawsuit-dismissed", "date": "2026-10-31", "read": "excerpt"},
+    {"title": "US judge says Trump's $10 billion BBC defamation case can proceed", "publisher": "NBC News", "url": "https://nbcnews.com/politics/trump-administration/us-judge-says-trumps-10-billion-bbc-defamation-case-can-proceed-rcna608707", "date": "2026-11-11", "read": "excerpt"},
+    {"title": "Capital One and JPMorgan bet that fighting Trump may be safer than settling", "publisher": "CP24 (Reuters)", "url": "https://www.cp24.com/news/money/2026/09/10/capital-one-and-jpmorgan-bet-that-fighting-trump-may-be-safer-than-settling/", "date": "2026-09-10", "read": "excerpt"},
+    {"title": "Law firms have pledged $940 million in free services via Trump deals", "publisher": "Bloomberg Law", "url": "https://news.bloomberglaw.com/payroll/a-o-shearmans-trump-work-to-exclude-tariffs-firm-leaders-say", "date": "2025-04", "read": "excerpt"}
+  ],
+  "entities": [
+    {"id": "donald-trump", "name": "Donald Trump", "type": "person", "description": "President since 20 Jan 2025; subject of the Forbes and Bloomberg wealth estimates and plaintiff in the settled suits."},
+    {"id": "trump-family", "name": "Trump family (Bloomberg aggregate)", "type": "person", "description": "Bloomberg Billionaires Index tracks the family's combined fortune rather than Trump alone."},
+    {"id": "forbes", "name": "Forbes", "type": "media", "description": "Publishes Forbes 400 and World's Billionaires estimates of Trump's net worth."},
+    {"id": "bloomberg", "name": "Bloomberg", "type": "media", "description": "Bloomberg Billionaires Index; estimates the Trump family fortune and excludes locked tokens."},
+    {"id": "abc-news", "name": "ABC News", "type": "media", "description": "Settled Trump's defamation suit in Dec 2024 for $15M plus $1M in fees."},
+    {"id": "disney", "name": "The Walt Disney Company", "type": "company", "description": "ABC's parent; wired the settlement to the Brito Law trust account on 19 Dec 2024."},
+    {"id": "meta", "name": "Meta Platforms", "type": "company", "description": "Settled Trump's account-suspension suit in Jan 2025 for $25M."},
+    {"id": "x-corp", "name": "X Corp", "type": "company", "description": "Settled Trump's account-suspension suit in Feb 2025 for about $10M; $8M was disclosed as paid to Trump."},
+    {"id": "elon-musk", "name": "Elon Musk", "type": "person", "description": "Owner of X; headed DOGE when X settled."},
+    {"id": "paramount", "name": "Paramount Global", "type": "company", "description": "Settled the '60 Minutes' suit in July 2025 for $16M."},
+    {"id": "skydance", "name": "Skydance Media", "type": "company", "description": "Merger partner of Paramount; FCC approval came on 24 Jul 2025."},
+    {"id": "alphabet", "name": "Alphabet / YouTube", "type": "company", "description": "YouTube settled Trump's suspension suit in Sept 2025 for $24.5M."},
+    {"id": "trump-presidential-library-foundation", "name": "Donald J. Trump Presidential Library Foundation", "type": "fund", "description": "Successor library nonprofit; the 2025 OGE disclosure shows $56.5M of settlement money paid to it."},
+    {"id": "trump-presidential-library-fund", "name": "Donald J. Trump Presidential Library Fund Inc.", "type": "fund", "description": "First library entity (Dec 2024), administratively dissolved Sept 2025."},
+    {"id": "trust-for-the-national-mall", "name": "Trust for the National Mall", "type": "fund", "description": "Nonprofit holding ballroom money, including YouTube's $22M."},
+    {"id": "white-house-ballroom", "name": "White House State Ballroom", "type": "asset", "description": "East Wing ballroom project funded by private donations and the YouTube settlement."},
+    {"id": "alejandro-brito", "name": "Alejandro Brito", "type": "person", "description": "Trump's lawyer; his firm's trust account held ABC's payment; sanctioned in the IRS case."},
+    {"id": "fcc", "name": "Federal Communications Commission", "type": "government", "description": "Approved Skydance-Paramount; opened probes of ABC/Disney."},
+    {"id": "ftc", "name": "Federal Trade Commission", "type": "government", "description": "Pursued its monopoly case against Meta."},
+    {"id": "doj", "name": "US Department of Justice", "type": "government", "description": "Received Trump's roughly $230M administrative claims; created the anti-weaponization fund in the IRS settlement."},
+    {"id": "irs", "name": "Internal Revenue Service", "type": "government", "description": "Defendant in Trump's $10B tax-leak suit, settled May 2026."},
+    {"id": "anti-weaponization-fund", "name": "Anti-Weaponization Fund", "type": "fund", "description": "$1.776B Judgment Fund vehicle announced 18 May 2026; DOJ later said it is not moving forward."},
+    {"id": "kathleen-williams", "name": "Judge Kathleen Williams", "type": "person", "description": "US district judge (S.D. Fla.) who found the Trump v. IRS suit collusive."},
+    {"id": "letitia-james", "name": "Letitia James", "type": "person", "description": "New York Attorney General; appealing to restore the civil fraud penalty."},
+    {"id": "e-jean-carroll", "name": "E. Jean Carroll", "type": "person", "description": "Holds $5M (paid) and $83.3M (on appeal) judgments against Trump."},
+    {"id": "elizabeth-warren", "name": "Elizabeth Warren", "type": "person", "description": "Senator leading inquiries into the library settlement money."},
+    {"id": "richard-blumenthal", "name": "Richard Blumenthal", "type": "person", "description": "Senator co-leading the library-money inquiry."},
+    {"id": "melanie-stansbury", "name": "Melanie Stansbury", "type": "person", "description": "Representative co-leading the library-money inquiry."},
+    {"id": "trump-media-technology-group", "name": "Trump Media & Technology Group", "type": "company", "description": "Trump's listed stake is a major swing factor in net-worth estimates."},
+    {"id": "world-liberty-financial", "name": "World Liberty Financial", "type": "company", "description": "Crypto venture; token sales and the stablecoin stake drive Bloomberg's estimate changes."},
+    {"id": "eric-trump", "name": "Eric Trump", "type": "person", "description": "President and trustee of the library foundation."}
+  ],
+  "relationships": [
+    {"source": "forbes", "target": "donald-trump", "label": "estimated net worth at $7.3B (Sept 2025), $6.5B (Mar 2026), $7.0B (Sept 2026)", "type": "media", "date": "2026-09-15", "amount_usd": 7000000000},
+    {"source": "bloomberg", "target": "trump-family", "label": "estimated family fortune at $7.8B", "type": "media", "date": "2026-06", "amount_usd": 7800000000},
+    {"source": "abc-news", "target": "trump-presidential-library-foundation", "label": "settlement money released from escrow ($16M per Trump's disclosure)", "type": "legal", "date": "2024-12-19", "amount_usd": 16000000},
+    {"source": "disney", "target": "alejandro-brito", "label": "wired $15M into his firm's trust account as escrow", "type": "money", "date": "2024-12-19", "amount_usd": 15000000},
+    {"source": "meta", "target": "trump-presidential-library-foundation", "label": "settlement money ($24.5M received per Trump's disclosure; $22M designated per Meta)", "type": "legal", "date": "2025-01-29", "amount_usd": 24500000},
+    {"source": "x-corp", "target": "donald-trump", "label": "settlement paid to Trump personally ($8M per disclosure; about $10M reported)", "type": "legal", "date": "2025-02", "amount_usd": 8000000},
+    {"source": "paramount", "target": "trump-presidential-library-foundation", "label": "'60 Minutes' settlement ($16M incl. fees)", "type": "legal", "date": "2025-07-02", "amount_usd": 16000000},
+    {"source": "fcc", "target": "skydance", "label": "approved Paramount merger three weeks after the settlement", "type": "regulatory", "date": "2025-07-24"},
+    {"source": "alphabet", "target": "trust-for-the-national-mall", "label": "paid $22M for White House ballroom construction under the settlement", "type": "legal", "date": "2025-09-29", "amount_usd": 22000000},
+    {"source": "trust-for-the-national-mall", "target": "white-house-ballroom", "label": "holds and disburses funds for", "type": "money", "date": "2025-09"},
+    {"source": "eric-trump", "target": "trump-presidential-library-foundation", "label": "president and trustee of", "type": "ownership", "date": "2025-05"},
+    {"source": "donald-trump", "target": "doj", "label": "filed administrative claims seeking about $230M; withdrawn May 2026", "type": "legal", "date": "2026-05-18", "amount_usd": 230000000},
+    {"source": "donald-trump", "target": "irs", "label": "settled $10B tax-leak suit for an apology and no payment", "type": "legal", "date": "2026-05-18"},
+    {"source": "doj", "target": "anti-weaponization-fund", "label": "created $1.776B fund in the settlement; later said it would not proceed", "type": "money", "date": "2026-05-18", "amount_usd": 1776000000},
+    {"source": "kathleen-williams", "target": "donald-trump", "label": "found the IRS suit collusive and sanctioned his counsel", "type": "legal", "date": "2026-07"},
+    {"source": "letitia-james", "target": "donald-trump", "label": "appealing to restore the voided civil-fraud penalty", "type": "legal", "date": "2026-06"},
+    {"source": "e-jean-carroll", "target": "donald-trump", "label": "holds $83.3M judgment pending a Supreme Court petition", "type": "legal", "date": "2026-07-28", "amount_usd": 83300000},
+    {"source": "elizabeth-warren", "target": "trump-presidential-library-foundation", "label": "alleges $6.5M-$14.5M of settlement money missing", "type": "political", "date": "2026-07-15"},
+    {"source": "donald-trump", "target": "trump-media-technology-group", "label": "stake valued by Forbes at $1.2B (Mar 2026)", "type": "ownership", "date": "2026-03-10", "amount_usd": 1200000000},
+    {"source": "trump-family", "target": "world-liberty-financial", "label": "holdings valued by Bloomberg at $2.6B incl. stablecoin stake", "type": "ownership", "date": "2026-06", "amount_usd": 2600000000}
+  ],
+  "leads": [
+    {"title": "Library foundation's first financial filing (fiscal 2025)", "why_connected": "The foundation told CBS it would file by 15 Nov 2026; the filing would show whether the $56.5M plus X money reached it and how it was spent.", "entities": ["trump-presidential-library-foundation", "eric-trump"], "source_url": "https://www.yahoo.com/news/politics/articles/trumps-950-million-library-plan-220229235.html"},
+    {"title": "Trump v. BBC ($10B) proceeds to discovery", "why_connected": "The defamation claim survived a motion to dismiss in Nov 2026; it is the next media suit that could settle.", "entities": ["donald-trump"], "source_url": "https://nbcnews.com/politics/trump-administration/us-judge-says-trumps-10-billion-bbc-defamation-case-can-proceed-rcna608707"},
+    {"title": "JPMorgan ($5B) and Capital One debanking suits", "why_connected": "Banks with federal regulatory exposure are litigating rather than settling, a contrast with the media and tech settlements.", "entities": ["donald-trump", "trump-organization"], "source_url": "https://www.cp24.com/news/money/2026/09/10/capital-one-and-jpmorgan-bet-that-fighting-trump-may-be-safer-than-settling/"},
+    {"title": "Eleventh Circuit appeal of the Trump v. IRS collusion and sanctions ruling", "why_connected": "Decides whether the anti-weaponization fund or the settlement's audit protections could revive.", "entities": ["doj", "irs", "anti-weaponization-fund", "alejandro-brito"], "source_url": "https://thehill.com/regulation/court-battles/6121107-federal-appeals-court-donald-trump-irs-treasury-collusion/"},
+    {"title": "NY Court of Appeals on the civil fraud penalty", "why_connected": "Restoring the roughly $500M penalty would be the largest single liability in any net-worth estimate.", "entities": ["letitia-james", "donald-trump", "trump-organization"], "source_url": "https://courthousenews.com/trump-asks-new-yorks-top-court-to-toss-civil-fraud-judgment/"},
+    {"title": "Trust for the National Mall 2025 receipts (more than $320M)", "why_connected": "Its filings could confirm receipt of YouTube's $22M and the 2-2.5% management fee taken on ballroom gifts.", "entities": ["trust-for-the-national-mall", "white-house-ballroom", "alphabet"], "source_url": "https://www.washingtonexaminer.com/?p=4762215"},
+    {"title": "Trump-linked stocks after the Nov 2026 midterms", "why_connected": "A New Republic item reports Trump-linked crypto stocks fell after the election results; the fall would move the next Forbes and Bloomberg updates. Not verified here.", "entities": ["trump-media-technology-group", "american-bitcoin"], "source_url": "https://newrepublic.com/post/217819/trump-crypto-stocks-value-election-defeat"}
+  ]
+}

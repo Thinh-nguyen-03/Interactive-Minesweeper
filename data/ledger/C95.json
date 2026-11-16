@@ -1,0 +1,40 @@
+[
+  {
+    "id": "C95-01",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "presidential-salary",
+    "category": "salary",
+    "kind": "estimate",
+    "amount_low_usd": 725000,
+    "amount_high_usd": 730000,
+    "period": "2025-01-20 to 2026-11-16",
+    "as_of": "2026-11-16",
+    "basis": "Gross presidential salary accrued at the statutory $400,000 a year (3 U.S.C. 102), pro rata for 665 days; the rate is set by law and the arithmetic is ours.",
+    "grade": "documented",
+    "sources": [
+      "https://www.govinfo.gov/content/pkg/USCODE-2024-title3/html/USCODE-2024-title3-chap2-sec102.htm",
+      "https://www.everycrsreport.com/reports/RS20115.html"
+    ],
+    "notes": "This is the salary due by law, not money shown to have been kept. Row C95-02 is a part of this same money that was given away: do not add the two rows; subtract C95-02 from this row. Excludes the up-to-$50,000-a-year non-taxable expense allowance and the $100,000-a-year travel allowance, which are for official use; whether the expense allowance is drawn is not public. Trump says he donates the whole salary."
+  },
+  {
+    "id": "C95-02",
+    "recipient": "donald-trump",
+    "recipient_name": "Donald Trump",
+    "venture": "presidential-salary",
+    "category": "salary",
+    "kind": "salary-forgone",
+    "amount_low_usd": 66000,
+    "amount_high_usd": 66000,
+    "period": "2025-01 to 2025-10",
+    "as_of": "2025-10-27",
+    "basis": "The White House Historical Association, a private nonprofit, said on October 27, 2025 that the president had given $66,000 of his salary to its work since January; this includes the 'first paycheck' Trump announced on August 6, 2025.",
+    "grade": "single-source",
+    "sources": [
+      "https://www.whitehousehistory.org/press-room/press-releases/statement-by-the-white-house-historical-association-on-october-27-2025",
+      "https://www.breitbart.com/politics/2025/08/06/trump-donates-presidential-paycheck-to-white-house-historical-association/"
+    ],
+    "notes": "The only documented second-term donation. It comes from the recipient's own statement, seen as a search excerpt only; the page could not be opened. No quarter-by-quarter breakdown is given. It is about two months of gross pay against about $306,800 accrued by October 27, 2025. Do not count the August 2025 'first paycheck' announcement separately: it is included here. No donation is documented for Q4 2025 or Q1-Q3 2026, and no rows are recorded for those quarters. The gift may be tax-deductible to Trump as a charitable contribution; no second-term return is public."
+  }
+]
