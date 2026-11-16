@@ -74,12 +74,12 @@
   var VGROUP = { 'confirmed': 'hold', 'mostly-accurate': 'hold', 'partly-accurate': 'part', 'misleading': 'wrong',
     'unverified': 'unp', 'false': 'wrong', 'pending': 'unp' };
   var VMEANS = {
-    'confirmed': 'The record supports the claim as stated.',
-    'mostly-accurate': 'The core facts hold. Specific figures, dates or framings needed correcting, and the corrections are listed.',
-    'partly-accurate': 'Some parts hold up and others do not.',
-    'misleading': 'The underlying facts exist, but the framing gives a wrong impression.',
-    'unverified': 'An allegation that could not be independently corroborated. It is neither confirmed nor refuted.',
-    'false': 'The record contradicts the claim.'
+    'confirmed': 'Supported as stated.',
+    'mostly-accurate': 'Core facts hold, details corrected.',
+    'partly-accurate': 'Some parts hold, others do not.',
+    'misleading': 'The facts exist, the framing misleads.',
+    'unverified': 'Could not be corroborated. Neither confirmed nor refuted.',
+    'false': 'Contradicted by the record.'
   };
   var TLABEL = { person: 'Person', company: 'Company', government: 'Government Body', fund: 'Fund', asset: 'Asset or Token',
     country: 'Country', law: 'Law or Policy', media: 'News Outlet', event: 'Event', product: 'Product' };
@@ -92,10 +92,10 @@
   var RTYPES = ['money', 'ownership', 'commercial', 'advisory', 'regulatory', 'legal', 'political', 'family', 'media'];
   var GRADE = {
     'documented': ['Documented', 'Filings, official records or several outlets.'],
-    'single-source': ['Single-Source', 'One outlet, or anonymous sourcing.'],
-    'inferred': ['Inferred', 'Our own observation from timing or co-occurrence. No source asserts it.'],
-    'mixed': ['Mixed Grades', 'Part of this connection is documented and part is single-source or inferred. The detail says which.'],
-    'none-found': ['Nothing Found', 'We looked for this connection and found no source for it.']
+    'single-source': ['Single-Source', 'One outlet or anonymous sourcing.'],
+    'inferred': ['Inferred', 'Our own observation from timing or co-occurrence. Never presented as fact.'],
+    'mixed': ['Mixed Grades', 'Partly documented, partly single-source or inferred.'],
+    'none-found': ['Nothing Found', 'No source found for this link.']
   };
 
   // ------------------------------------------------------------------ data
@@ -276,6 +276,7 @@
     back: '<path d="M9.75 3.5 5.25 8l4.5 4.5"/>',
     go: '<path d="M3 8h9.5M8.75 4.25 12.5 8l-3.75 3.75"/>',
     map: '<circle cx="3.75" cy="4.25" r="1.75"/><circle cx="12.25" cy="6" r="1.75"/><circle cx="6.75" cy="12.25" r="1.75"/><path d="M5.45 4.65l5.1 1M4.5 5.85l1.65 4.75M11.1 7.3 7.9 10.95"/>',
+    ext: '<path d="M6.5 3.5H3.5v9h9v-3M9.25 3.5h3.25v3.25M12.5 3.5 7.5 8.5"/>',
     path: '<circle cx="3.5" cy="12.5" r="1.75"/><circle cx="12.5" cy="3.5" r="1.75"/><path d="M5.25 12.5H8v-9h2.75"/>',
     isolate: '<circle cx="8" cy="8" r="2"/><circle cx="8" cy="8" r="5.75" stroke-dasharray="2.2 2.3"/>'
   };
@@ -306,10 +307,9 @@
   }
   function gradeMark(kind, text, bare) {
     var g = GRADE[kind]; if (!g) return '';
-    var bars = kind === 'documented' ? [1, 1, 1] : kind === 'single-source' ? [1, 0, 0] : kind === 'mixed' ? [1, 1, 0] : [0, 0, 0];
-    var svg = '<svg class="gmark" width="20" height="12" viewBox="0 0 20 12" aria-hidden="true">' + bars.map(function (on, i) {
-      return '<rect x="' + (1 + i * 6.5) + '" y="1" width="4.5" height="10" rx="1" ' + (on ? 'fill="currentColor"' : 'fill="none" stroke="currentColor" stroke-width="1.2"' + (kind === 'inferred' ? ' stroke-dasharray="2 1.6"' : '')) + '/>';
-    }).join('') + '</svg>';
+    /* The same line styles as the map: solid for documented, dotted for a single source, dashed for what is not established. */
+    var dash = kind === 'documented' ? '' : kind === 'single-source' ? ' stroke-dasharray=".1 4.2"' : kind === 'mixed' ? ' stroke-dasharray="9 3.4 .1 3.6 .1 3.6"' : ' stroke-dasharray="4 3.4"';
+    var svg = '<svg class="gmark" width="20" height="12" viewBox="0 0 20 12" aria-hidden="true"><path d="M1.2 6h17.6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="' + (kind === 'documented' || kind === 'inferred' || kind === 'none-found' ? 'butt' : 'round') + '"' + dash + (kind === 'none-found' ? ' opacity=".55"' : '') + '/></svg>';
     if (bare) return '<span class="grade g-' + kind + '"><span class="glab">' + svg + g[0] + '</span></span>';
     var extra = text && text.toLowerCase() !== g[0].toLowerCase() ? ' <span class="gtext">' + rich(text) + '</span>' : '';
     return '<p class="grade g-' + kind + '" title="' + esc(g[1]) + '"><span class="glab">' + svg + 'Evidence: ' + g[0] + '</span>' + extra + '</p>';
@@ -323,7 +323,7 @@
   function tallyText(c) {
     var t = c.tally || [0, 0, 0], tot = t[0] + t[1] + t[2], p = [];
     if (!tot) return '';
-    if (t[0] === tot) p.push(tot === 1 ? 'The one point checked holds up' : 'All ' + tot + ' points checked hold up');
+    if (t[0] === tot) p.push(tot === 1 ? 'The one point holds up' : 'All ' + tot + ' points hold up');
     else {
       p.push(t[0] + ' of ' + tot + ' points hold up');
       if (t[1]) p.push(t[1] + ' needed correcting');
@@ -331,7 +331,12 @@
     }
     return p.join(', ');
   }
-  var NOTE = '<p class="note"><strong>Everyone named denies wrongdoing, and nothing here is an accusation of a crime.</strong> A link between two names means a documented relationship, or that both appear in the same check. It does not show that one caused the other.</p>';
+  /* One style for every flag, caveat and state: an optional mark, then a short sentence. kind: 'unv', 'err' or none. */
+  function note(kind, html, attrs) {
+    return '<p class="inote' + (kind ? ' ' + kind : '') + '"' + (attrs || '') + '>' + (kind === 'unv' ? mark('unverified') : kind === 'err' ? mark('false') : '') + '<span>' + html + '</span></p>';
+  }
+  var DENIAL = 'Everyone named denies wrongdoing. A link is a documented relationship, not proof of cause.';
+  var ASOF = META.generated ? 'Data as of ' + fdate(META.generated) : '';
 
   // ------------------------------------------------------------------ markdown (for the full reports)
   var MARKER = '\u0001';
@@ -485,7 +490,7 @@
       else if (Math.abs(p.sx) < 0.35) { anchor = 'middle'; tx = p.x; ty = p.sy < 0 ? p.y - r - 7 - (lines.length - 1) * 14 : p.y + r + 16; }
       else { anchor = p.sx > 0 ? 'start' : 'end'; tx = p.x + (p.sx > 0 ? r + 7 : -r - 7); ty = p.y + 4 - (lines.length - 1) * 7; }
       lines.forEach(function (l, i) { t += '<tspan x="' + tx.toFixed(1) + '" dy="' + (i ? 14 : 0) + '">' + esc(l) + '</tspan>'; });
-      s += '<g class="nd k-' + e.group + (p.center ? ' center' : '') + '" data-key="' + esc(e.key) + '" tabindex="0" role="button" aria-label="' + esc(e.name) + ': show how it connects">' +
+      s += '<g class="nd k-' + e.group + (p.center ? ' center' : '') + '" data-key="' + esc(e.key) + '" tabindex="0" role="button" aria-label="Show links for ' + esc(e.name) + '">' +
         '<rect x="' + (p.x - 17) + '" y="' + (p.y - 17) + '" width="34" height="34" fill="transparent"/>' + shape +
         '<text text-anchor="' + anchor + '" x="' + tx.toFixed(1) + '" y="' + ty.toFixed(1) + '"' + (p.center ? ' paint-order="stroke" stroke="var(--bg)" stroke-width="4"' : '') + '>' + t + '</text></g>';
     });
@@ -512,8 +517,8 @@
   }
   function capLines(list, e) {
     return '<ul>' + list.slice(0, 4).map(function (r) { return '<li>' + sentenceFull(r, function (x, s) { return esc(s ? shortName(x) : x.name); }) + (r.date ? ' <span class="muted">(' + esc(fdate(r.date)) + ')</span>' : '') + (r.alleged ? ' ' + allegedFlag() : '') + '</li>'; }).join('') + '</ul>' +
-      (list.length > 4 ? '<p class="muted small">And ' + (list.length - 4) + ' more on the profile.</p>' : '') +
-      '<a class="go" href="' + entHref(e) + '">Open the Profile of ' + esc(shortName(e)) + '</a>';
+      (list.length > 4 ? '<p class="muted small">+' + (list.length - 4) + ' more on the profile</p>' : '') +
+      '<a class="go" href="' + entHref(e) + '">Open Profile</a>';
   }
 
   // ------------------------------------------------------------------ home
@@ -536,56 +541,52 @@
   function home() {
     var p = META.points || { hold: 0, correct: 0, unproven: 0, total: 0 };
     var vt = META.tally || {}, nc = claims.length;
-    var holds = (vt.confirmed || 0) + (vt['mostly-accurate'] || 0), part = (vt['partly-accurate'] || 0) + (vt.misleading || 0) + (vt['false'] || 0);
-    var share = p.total ? Math.round(10 * p.hold / p.total) : 0;
+    var holds = (vt.confirmed || 0) + (vt['mostly-accurate'] || 0);
     var unvItems = arr(META.unverified).map(function (id) { return byKey.get(id); }).filter(Boolean);
     var examples = ['jared-kushner', 'world-liberty-financial', 'qatar', 'sec'].map(function (id) { return byKey.get('e:' + id); }).filter(Boolean);
 
     var h = '<div class="front"><div class="front-text">' +
       '<h1 tabindex="-1">The Money, the Deals &amp; the Connections Around the President</h1>' +
-      '<p class="lede">' + nc + ' claims about the business, financial and political dealings of Donald Trump, his family and his administration, each tested against the public record. Every name has a profile, and every documented link is on the map.</p>' +
+      '<p class="lede">' + nc + ' claims about the business, financial and political dealings of Donald Trump, his family and his administration, each tested against the public record.</p>' +
       '<div class="bigsearch" role="search">' + ico('search') +
-      '<label class="sr" for="home-search">Search a person, a company or a topic</label>' +
-      '<input id="home-search" type="search" placeholder="' + (narrow.matches ? 'Search a name or a topic' : 'Search a person, a company or a topic') + '" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="home-results" aria-autocomplete="list">' +
+      '<label class="sr" for="home-search">Search a person, company or topic</label>' +
+      '<input id="home-search" type="search" placeholder="' + (narrow.matches ? 'Search a name or topic' : 'Search a person, company or topic') + '" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="home-results" aria-autocomplete="list">' +
       '<ul class="results" id="home-results" role="listbox" hidden></ul></div>' +
       (examples.length ? '<p class="try">Start with ' + listParts(examples.map(function (e) { return entLink(e, true); })).replace(' and ', ' or ') + '.</p>' : '') +
       '<p class="ledger">' + [[nc, 'checks'], [p.total, 'points'], [META.sources, 'sources'], [entities.length, 'names'], [rels.length, 'links']].map(function (x) { return '<span><b>' + num(x[0]) + '</b> ' + x[1] + '</span>'; }).join('') + '</p>' +
-      '<p class="standing"><strong>Everyone named denies wrongdoing,</strong> and nothing here is an accusation of a crime. A link is a documented relationship, not proof that one thing caused another.' +
-      (META.generated ? ' Data built ' + esc(fdate(META.generated)) + '.' : '') + ' <a href="' + U('method') + '">How We Checked</a></p>' +
       '</div>' +
-      '<figure class="frontmap"><a href="' + U('map') + '" aria-label="Open the map of ' + num(entities.length) + ' names and ' + nc + ' checks"><canvas id="preview" aria-hidden="true"></canvas><span class="open">Open the Map' + ico('go') + '</span></a>' +
-      '<figcaption><span>Every name and every check, placed by the documented links between them. Colour is topic.</span><span id="front-key"></span></figcaption></figure>' +
+      '<figure class="frontmap"><a href="' + U('map') + '" aria-label="Open the map"><canvas id="preview" aria-hidden="true"></canvas><span class="open">Open the Map' + ico('go') + '</span></a>' +
+      '<figcaption><span>Names and checks, placed by documented links. Colour shows topic.</span><span id="front-key"></span></figcaption></figure>' +
       '</div>';
 
     // the leads: three ways in, as plain tables
     var topN = ranked.filter(function (e) { return e.lines.length && e.type !== 'media'; }).slice(0, 8), topMax = topN.length ? topN[0].lines.length : 1;
     var keyChecks = claims.slice().sort(function (a, b) { return nSources(b) - nSources(a) || cmpClaim(a, b); }).slice(0, 8);
-    h += '<section class="sec" id="leads" aria-labelledby="leads-h"><div class="sechead"><h2 id="leads-h">Where to Start</h2><p class="secnote">Three ways into the record: by name, by sum and by check.</p></div><div class="leadgrid">' +
-      '<table class="lead-t"><colgroup><col style="width:24px"><col><col style="width:56px"><col style="width:60px"></colgroup><caption>Most Connected Names<span>By documented links to other names</span></caption><thead><tr><th colspan="2">Name</th><th class="numc">Links</th><th class="numc">Checks</th></tr></thead><tbody>' +
+    h += '<section class="sec" id="leads" aria-labelledby="leads-h"><div class="sechead"><h2 id="leads-h">Where to Start</h2></div><div class="leadgrid">' +
+      '<table class="lead-t"><colgroup><col style="width:24px"><col><col style="width:56px"><col style="width:60px"></colgroup><caption>Most Connected Names<span>By documented links</span></caption><thead><tr><th colspan="2">Name</th><th class="numc">Links</th><th class="numc">Checks</th></tr></thead><tbody>' +
       topN.map(function (e, i) { return '<tr><td class="rk">' + (i + 1) + '</td><th scope="row">' + kmark(e) + entLink(e, true) + '</th><td class="numc"><span class="lbar" aria-hidden="true"><i style="width:' + Math.max(4, Math.round(100 * e.lines.length / topMax)) + '%"></i></span>' + num(e.lines.length) + '</td><td class="numc">' + e.cl.length + '</td></tr>'; }).join('') +
       '</tbody></table>' +
-      '<table class="lead-t"><colgroup><col style="width:108px"><col><col style="width:52px"></colgroup><caption>Largest Sums on the Record<span>As the sources state them, one per pair of names</span></caption><thead><tr><th>Sum</th><th>Between</th><th class="numc">Check</th></tr></thead><tbody>' +
+      '<table class="lead-t"><colgroup><col style="width:108px"><col><col style="width:52px"></colgroup><caption>Largest Sums<span>As stated in sources, one per pair</span></caption><thead><tr><th>Sum</th><th>Between</th><th class="numc">Check</th></tr></thead><tbody>' +
       leadSums().slice(0, 8).map(function (r) { var c = byKey.get(r.claims[0]); return '<tr><td class="amt">' + esc(money(r.amount_usd)) + '</td><th scope="row" title="' + esc(shortName(r.S) + ' and ' + shortName(r.T)) + '">' + entLink(r.S, true) + ' <span class="and">and</span> ' + entLink(r.T, true) + '</th><td class="numc">' + (c ? '<a class="cite" href="' + claimHref(c) + '" title="' + esc(c.title) + '">' + esc(c.id) + '</a>' : '') + '</td></tr>'; }).join('') +
       '</tbody></table>' +
-      '<table class="lead-t"><colgroup><col><col style="width:148px"><col style="width:64px"></colgroup><caption>Most-Sourced Checks<span>The checks that rest on the most sources</span></caption><thead><tr><th>Check</th><th>Verdict</th><th class="numc">Sources</th></tr></thead><tbody>' +
+      '<table class="lead-t"><colgroup><col><col style="width:148px"><col style="width:64px"></colgroup><caption>Most-Sourced Checks<span>By number of sources</span></caption><thead><tr><th>Check</th><th>Verdict</th><th class="numc">Sources</th></tr></thead><tbody>' +
       keyChecks.map(function (c) { return '<tr><th scope="row">' + claimLink(c) + '</th><td class="vd">' + (isUnv(c) ? flag(c) : verdict(c.verdict)) + '</td><td class="numc">' + nSources(c) + '</td></tr>'; }).join('') +
       '</tbody></table></div></section>';
 
-    var segs = [['hold', p.hold, 'Hold Up', num(p.hold) + ' of ' + num(p.total) + ' points are confirmed or mostly accurate, about ' + share + ' in 10 of everything tested. ' + num(holds) + ' of the ' + nc + ' checks hold up overall.'],
-      ['part', p.correct, 'Needed Correcting', num(p.correct) + ' points are partly right, misleading or wrong, and ' + num(META.corrections) + ' specific corrections are listed.' + (part ? ' ' + cap(word(part)) + ' ' + (part === 1 ? 'check is' : 'checks are') + ' rated partly accurate overall.' : '')],
-      ['unp', p.unproven, 'Unproven', num(p.unproven) + ' points lack proof' + (unvItems.length ? ', and ' + word(unvItems.length) + ' ' + (unvItems.length === 1 ? 'check rests' : 'checks rest') + ' on a single unverified source' : '') + '. No check shows that a payment bought an official act.']];
-    h += '<section class="sec answer" aria-labelledby="found-h"><div class="sechead"><h2 id="found-h">What the Checks Found</h2><p class="secnote">Each check was split into separate points. This is how all ' + num(p.total) + ' came out.</p></div>' +
+    var segs = [['hold', p.hold, 'Hold Up', 'Confirmed or mostly accurate. ' + num(holds) + ' checks hold up overall.'],
+      ['part', p.correct, 'Needed Correcting', 'Partly right, misleading or wrong. ' + num(META.corrections) + ' corrections listed.'],
+      ['unp', p.unproven, 'Unproven', 'Not established. No check shows that a payment bought an official act.']];
+    h += '<section class="sec answer" aria-labelledby="found-h"><div class="sechead"><h2 id="found-h">What the Checks Found</h2><p class="secnote">' + num(p.total) + ' points across ' + nc + ' checks</p></div>' +
       '<div class="strip" role="img" aria-label="' + num(p.hold) + ' of ' + num(p.total) + ' points hold up, ' + num(p.correct) + ' needed correcting and ' + num(p.unproven) + ' are unproven">' +
       segs.map(function (s) { return s[1] ? '<span class="s-' + s[0] + '" style="flex:' + s[1] + '"></span>' : ''; }).join('') + '</div>' +
-      '<table class="found"><thead><tr><th>Result</th><th class="numc">Points</th><th class="share numc">Share</th><th>What It Means</th></tr></thead><tbody>' + segs.map(function (s) {
+      '<table class="found"><thead><tr><th>Result</th><th class="numc">Points</th><th class="share numc">Share</th><th>Meaning</th></tr></thead><tbody>' + segs.map(function (s) {
         return '<tr><th scope="row"><i class="sw s-' + s[0] + '" aria-hidden="true"></i>' + s[2] + '</th><td class="numc">' + num(s[1]) + '</td><td class="share numc">' + (p.total ? Math.round(100 * s[1] / p.total) : 0) + '%</td><td>' + s[3] + '</td></tr>';
       }).join('') + '</tbody></table></section>';
 
     // who is involved: a few names per group, from build.py
     var who = arr(META.who).map(function (g) { return { title: g.title, total: g.total, list: arr(g.names).map(function (id) { return byKey.get('e:' + id); }).filter(Boolean) }; }).filter(function (g) { return g.list.length; });
     if (!who.length) who = [{ title: 'Named Most Often', list: entities.filter(function (e) { return e.type !== 'media'; }).sort(function (a, b) { return b.cl.length - a.cl.length; }).slice(0, 8) }];
-    h += '<section class="sec" id="who"><div class="sechead"><h2>Who Is Involved</h2><a class="seclink" href="' + U('names') + '">Browse All ' + num(entities.length) + ' People &amp; Organisations</a></div>' +
-      '<p class="intro">The names in the most checks, by group, with the number of checks that name them.</p>' +
+    h += '<section class="sec" id="who"><div class="sechead"><h2>Who Is Involved</h2><a class="seclink" href="' + U('names') + '">All ' + num(entities.length) + ' People &amp; Organisations</a><p class="secnote">Most-named in each group, with check counts</p></div>' +
       '<div class="whohome">' + who.map(function (g) {
         return '<div class="whocol"><h3>' + esc(g.title) + '</h3><ul>' + g.list.map(function (e) {
           return '<li>' + kmark(e) + '<span class="nm">' + entLink(e, true) + '</span><span class="cnt">' + e.cl.length + '<span class="sr"> checks</span></span></li>';
@@ -594,20 +595,19 @@
 
     // the checks, by topic
     h += '<section class="sec" id="topics"><h2>' + nc + ' Checks in ' + cap(word(TOPICS.length)) + ' Topics</h2>' +
-      '<p class="intro">Each check tests one claim against the record and lists the sources it rests on.</p>' +
-      '<div class="topicwrap"><nav class="topicnav" aria-label="Topics"><p class="lab">Jump to a Topic</p><ul>' +
+      '<div class="topicwrap"><nav class="topicnav" aria-label="Topics"><p class="lab">Topics</p><ul>' +
       TOPICS.map(function (t) { return '<li><a href="' + topicHref(t) + '"><span>' + esc(t.name) + '</span><span class="cnt">' + t.list.length + '</span></a></li>'; }).join('') + '</ul></nav><div class="topiclist">' +
-      (unvItems.length ? '<p class="callout"><strong>' + cap(word(unvItems.length)) + ' ' + (unvItems.length === 1 ? 'check is an unverified allegation' : 'checks are unverified allegations') + ' from a single source,</strong> denied by everyone named: ' + listParts(unvItems.map(function (c) { return claimLink(c); })) + '. Read them as a record of what has been alleged, not as findings.</p>' : '');
+      (unvItems.length ? note('unv', '<strong>Unverified, Single Source.</strong> ' + listParts(unvItems.map(function (c) { return claimLink(c); })) + (unvItems.length === 1 ? ' rests on one book and is' : ' each rest on one book and are') + ' denied by everyone named.') : '');
     TOPICS.forEach(function (t) {
       var th = 0, tp = 0, tu = 0;
       t.list.forEach(function (c) { var g = VGROUP[c.verdict]; if (g === 'hold') th++; else if (g === 'unp') tu++; else tp++; });
-      var sum = [th + ' confirmed or mostly accurate'];
+      var sum = [th + (th === 1 ? ' holds up' : ' hold up')];
       if (tp) sum.push(tp + ' partly accurate or weaker');
       if (tu) sum.push(tu + ' unverified');
       h += '<section class="topic" id="topic-' + esc(t.id) + '" tabindex="-1"><div class="topic-h"><h3>' + esc(t.name) + '</h3>' +
         (t.description ? '<p class="desc">' + esc(t.description) + '</p>' : '') +
-        '<p class="small muted">' + plural(t.list.length, 'check') + ': ' + sum.join(', ') + '.' +
-        (t.id !== 'other' ? ' <a href="' + esc(mapTopicHref(t)) + '">Show this topic on the map</a>' : '') + '</p></div>' +
+        '<p class="small muted">' + [plural(t.list.length, 'check')].concat(sum).join(' · ') +
+        (t.id !== 'other' ? ' · <a href="' + esc(mapTopicHref(t)) + '">Show on Map</a>' : '') + '</p></div>' +
         (narrow.matches ? fold(t.list.map(function (c) { return claimRow(c); }), 5, 'Checks in This Topic', 'ul', 'rows') : '<ul class="rows">' + t.list.map(function (c) { return claimRow(c); }).join('') + '</ul>') + '</section>';
     });
     h += '</div></div></section>';
@@ -629,7 +629,7 @@
 
   // ------------------------------------------------------------------ claim page
   var CONF = { high: 'High', medium: 'Medium', low: 'Low' };
-  var AUDIT = { upheld: 'Upheld the findings', corrected: 'Corrected some details', weakened: 'Weakened some findings', strengthened: 'Strengthened the findings' };
+  var AUDIT = { upheld: 'Findings upheld', corrected: 'Details corrected', weakened: 'Findings weakened', strengthened: 'Findings strengthened' };
   /* One point of a check, as a numbered row: the statement, its status in a word, the finding, and the sources by publisher. */
   function subItem(c, s, n) {
     var g = VGROUP[s.verdict], pts = arr(s.points), srcOf = {}, CUT = 5;
@@ -657,9 +657,9 @@
     var h = '<p class="crumb"><a href="' + U('topics') + '">All Checks</a>' + (topic && topic.id !== 'other' ? ' <span aria-hidden="true">/</span> <a href="' + topicHref(topic) + '">' + esc(topic.name) + '</a>' : '') + ' <span aria-hidden="true">/</span> <b>' + (c.ctype === 'connection' ? 'Connection Check ' : 'Check ') + esc(c.id) + '</b></p><article class="article"><div class="lead">' +
       '<h1 tabindex="-1">' + esc(c.title) + '</h1>' +
       '<p class="dateline prov"><span>' + [plural(nsrc, 'source'), plural(tot, 'point'), CONF[c.confidence] ? CONF[c.confidence] + ' confidence' : '', c.single_source ? 'One source' : '',
-        c.audit && AUDIT[c.audit.result] ? 'Second review ' + AUDIT[c.audit.result].toLowerCase() : c.audit ? 'Independent second review' : 'No second review yet'].filter(Boolean).join(' · ') + '</span>' +
+        c.audit && AUDIT[c.audit.result] ? 'Second review: ' + AUDIT[c.audit.result].toLowerCase() : c.audit ? 'Second review done' : 'No second review yet'].filter(Boolean).join(' · ') + '</span>' +
       '<a class="maplink" href="' + mapHref(c) + '">' + MAPICON + 'Show on Map</a></p>';
-    if (isUnv(c)) h += '<p class="flagbox"><strong>' + esc(unvText(c)) + '.</strong> The central allegation ' + (c.single_source ? 'rests on one source and ' : '') + 'has not been corroborated. Everyone named denies it. Read this page as a record of what has been alleged and what is known about the allegation, not as a finding that it happened.</p>';
+    if (isUnv(c)) h += note('unv', '<strong>' + esc(unvText(c)) + '.</strong> The allegation ' + (c.single_source ? 'rests on one source and ' : '') + 'has not been corroborated. Everyone named denies it. This page records an allegation, not a finding.');
     var cp = arr(c.question_points).map(cap);
     if (!cp.length) cp = [c.title];
     var finding = firstSentence(c.bottom_line), restLine = String(c.bottom_line || '').slice(finding.length).trim();
@@ -701,7 +701,7 @@
     h += '<div class="body">';
     // what holds up
     h += '<section>' + secHead('holds', 'hold', 'v-hold', 'What Holds Up', plural(holds.length, 'Point')) +
-      (holds.length ? fold(holds.map(function (x) { return subItem(c, subs[x.sub], x.sub + 1); }), 12, 'Points', 'ol', 'points') : '<p class="sub">No point in this check is confirmed or mostly accurate.</p>') + '</section>';
+      (holds.length ? fold(holds.map(function (x) { return subItem(c, subs[x.sub], x.sub + 1); }), 12, 'Points', 'ol', 'points') : note('', 'No point holds up.')) + '</section>';
     // what needs correcting
     if (fixes.length) {
       h += '<section>' + secHead('fixes', 'part', 'v-part', 'What Needs Correcting', plural(fixes.length, 'Point'));
@@ -720,21 +720,21 @@
       h += '<section>' + secHead('unproven', 'unp', 'v-unp', 'What Is Unproven', plural(unp.length, 'Point'));
       if (unpSubs.length) h += fold(unpSubs.map(function (x) { return subItem(c, subs[x.sub], x.sub + 1); }), 10, 'Points', 'ol', 'points');
       if (notes.length) h += fold(notes.map(function (x) {
-        var about = x.sub != null && subs[x.sub] ? 'A caveat on point ' + (x.sub + 1) : 'A caveat from the summary of this check';
+        var about = x.sub != null && subs[x.sub] ? 'Caveat on point ' + (x.sub + 1) : 'Caveat from the summary';
         return '<div class="item caveat"><p>' + rich(x.note) + '</p><p class="fi">' + about + '</p></div>';
       }), 10, 'Caveats', 'div');
       h += '</section>';
     }
     // the other side
     if (den.length) h += '<section>' + secHead('other', null, '', 'The Other Side', plural(den.length, 'Point')) +
-      '<p class="sub">What the people and organisations named say, and context that cuts the other way.</p>' +
+      '<p class="sub">Responses from those named, and context that cuts the other way.</p>' +
       fold(den.map(function (pts) { return '<div class="item"><p>' + rich(pts[0]) + '</p>' + (pts.length > 1 ? '<ul class="plain tight">' + pts.slice(1).map(function (x) { return '<li>' + rich(x) + '</li>'; }).join('') + '</ul>' : '') + '</div>'; }), 10, 'Points', 'div') + '</section>';
     // who is involved
     var crels = rels.filter(function (r) { return r.claims.indexOf(c.id) >= 0; }), deg = new Map();
     crels.forEach(function (r) { deg.set(r.S, (deg.get(r.S) || 0) + 1); deg.set(r.T, (deg.get(r.T) || 0) + 1); });
     var ents = c.ents.slice().sort(function (a, b) { return (deg.get(b) || 0) - (deg.get(a) || 0) || b.cl.length - a.cl.length || a.name.localeCompare(b.name); });
     h += '<section>' + secHead('who', null, '', 'Who Is Involved', plural(ents.length, 'Name')) +
-      '<p class="sub">Ranked by the number of links this check records for each name.</p>' +
+      '<p class="sub">Ranked by links recorded in this check.</p>' +
       '<div class="tablewrap"><table class="ctable wtable" data-foldbox><thead><tr><th>Name</th><th>Kind</th><th class="numc">Links</th><th>In This Check</th></tr></thead><tbody>' +
       ents.map(function (e, i) {
         var mine = crels.filter(function (r) { return r.S === e || r.T === e; }), r = mine.length ? strongest(mine) : null;
@@ -751,23 +751,23 @@
     h += '<section>' + secHead('sources', null, '', 'Sources', plural(nsrc, 'Source') + ' from ' + plural(pubs.length, 'Publisher')) +
       (pubs.length ? fold(pubs.map(function (gp) {
         return '<div class="pub"><h3>' + esc(gp[0]) + '</h3><ul>' + gp[1].map(function (s) { return '<li>' + extLink(s.url, esc(s.title || s.url || 'Untitled')) + (s.date ? ' <span class="when">' + esc(fdate(s.date)) + '</span>' : '') + '</li>'; }).join('') + '</ul></div>';
-      }), 8, 'Publishers', 'div', 'pubs') : '<p class="sub">No sources are recorded for this check.</p>') + '</section>';
+      }), 8, 'Publishers', 'div', 'pubs') : note('', 'No sources recorded.')) + '</section>';
     // second review
     h += '<section>' + secHead('review', null, '', 'Second Review', null);
     if (c.audit) {
-      h += '<p class="sub">An independent second reviewer re-checked the most consequential assertions with fresh searches. Result: <strong>' + esc(String(AUDIT[c.audit.result] || c.audit.result).toLowerCase()) + '</strong>.</p>' +
+      h += '<p class="sub">Key assertions were re-checked independently. Result: <strong>' + esc(String(AUDIT[c.audit.result] || c.audit.result).toLowerCase()) + '</strong>.</p>' +
         '<div class="review">' + (arr(c.audit.checked).length ? '<div><h3>What Was Re-Checked</h3><ul class="plain tight">' + c.audit.checked.map(function (x) { return '<li>' + rich(x) + '</li>'; }).join('') + '</ul></div>' : '') +
         (arr(c.audit.changes).length ? '<div><h3>What Changed</h3><ul class="plain tight">' + c.audit.changes.map(function (x) { return '<li>' + rich(x) + '</li>'; }).join('') + '</ul></div>' : '') + '</div>';
-    } else h += '<p class="sub">This check has not had a second review.</p>';
+    } else h += note('', 'No second review yet.');
     h += '</section>';
     // full report
     if (c.report) h += '<section>' + secHead('report', null, '', 'Full Report', null) +
-      '<details class="report" id="report-box"><summary>Read the Long-Form Research Report</summary><div class="md" id="report-body"></div></details></section>';
+      '<details class="report" id="report-box"><summary>Read the Full Report</summary><div class="md" id="report-body"></div></details></section>';
     // related checks
     if (par.length || c.kids.length) {
       h += '<section>' + secHead('related', null, '', 'Related Checks', null);
       if (par.length) h += '<h3 class="minor">Builds On</h3><ul class="rows shortrows">' + par.map(function (x) { return claimRow(x, { short: 1 }); }).join('') + '</ul>';
-      if (c.kids.length) h += '<h3 class="minor">Checks That Build on This One</h3>' + fold(c.kids.map(function (x) { return claimRow(x, { short: 1 }); }), 5, 'Checks', 'ul', 'rows shortrows');
+      if (c.kids.length) h += '<h3 class="minor">Follow-Up Checks</h3>' + fold(c.kids.map(function (x) { return claimRow(x, { short: 1 }); }), 5, 'Checks', 'ul', 'rows shortrows');
       h += '</section>';
     }
     var order = topic ? topic.list : claims, i = order.indexOf(c), pv = order[i - 1], nx = order[i + 1];
@@ -787,8 +787,8 @@
     if (ids.length >= 3) {
       blk.appendChild(figure(null, ids, edges, function (e) {
         var mine = crels.filter(function (r) { return r.S === e || r.T === e; });
-        return '<strong>' + esc(e.name) + '</strong> in this check:' + capLines(mine, e);
-      }, 'Select a name to see how it connects.' + (ents.length > ids.length ? ' The diagram shows the ' + ids.length + ' most connected of ' + ents.length + ' names.' : '')));
+        return '<strong>' + esc(e.name) + '</strong>' + capLines(mine, e);
+      }, 'Select a name to see its links.' + (ents.length > ids.length ? ' Top ' + ids.length + ' of ' + ents.length + ' names shown.' : '')));
     } else blk.remove();
     var box = $('report-box');
     if (box) box.addEventListener('toggle', function () { var b = $('report-body'); if (box.open && !b.firstChild) b.innerHTML = markdown(c.report); });
@@ -834,18 +834,17 @@
       '<div class="titlebar"><h1 tabindex="-1">' + esc(e.name) + '</h1><a class="btn" href="' + mapHref(e) + '">' + MAPICON + 'Show on Map</a></div>' +
       (e.role ? '<p class="role">' + rich(cap(e.role)) + '</p>' : '') +
       '<p class="facts">' + kmark(e) + esc(TLABEL[e.type]) + (topicTag(e, true) ? ' · ' + topicTag(e, true) : '') + (also.length ? ' · Also written as ' + esc(also.join(', ')) : '') + '</p>' +
-      figRow([[num(cls.length), 'Checks That Name ' + it], [num(lines.length), 'Documented Connections'], by.size ? [num(by.size), 'Connected Names'] : null,
-        top ? [esc(money(top.amount_usd)), 'Largest Sum on Record'] : null], 'pfigs') +
-      '<p class="pnote">Each connection comes from a check and its sources. It records a relationship, not an accusation.' +
-      (alleged ? ' ' + cap(word(alleged)) + ' ' + (alleged === 1 ? 'connection rests' : 'connections rest') + ' only on an unverified allegation and ' + (alleged === 1 ? 'is' : 'are') + ' marked.' : '') + '</p>' +
+      figRow([[num(cls.length), 'Checks'], [num(lines.length), 'Links'], by.size ? [num(by.size), 'Connected Names'] : null,
+        top ? [esc(money(top.amount_usd)), 'Largest Sum'] : null], 'pfigs') +
       (arr(e.details).length ? '<ul class="plain more-points">' + e.details.map(function (x) { return '<li>' + rich(x) + '</li>'; }).join('') + '</ul>' : '') +
-      (unv.length ? '<p class="flagbox"><strong>' + (e.unverified_only ? 'Named only in an unverified check.' : 'Also named in an unverified check.') + '</strong> ' + listParts(unv.map(function (c) { return claimLink(c); })) + (unv.length === 1 ? ' is an allegation' : ' are allegations') + ' from a single source, denied by everyone named. Lines that rest only on ' + (unv.length === 1 ? 'it' : 'them') + ' are marked “Alleged, Unverified”.</p>' : '') +
+      (unv.length || alleged ? note('unv', (unv.length ? '<strong>' + (e.unverified_only ? 'Named only in' : 'Also named in') + (unv.length === 1 ? ' an unverified, single-source check.' : ' unverified, single-source checks.') + '</strong> ' + listParts(unv.map(function (c) { return claimLink(c); })) + (unv.length === 1 ? ' is' : ' are') + ' denied by everyone named. ' : '') +
+        (alleged ? plural(alleged, 'link') + ' here ' + (alleged === 1 ? 'rests' : 'rest') + ' only on an unverified allegation and ' + (alleged === 1 ? 'is' : 'are') + ' marked.' : '')) : '') +
       '</header><div class="pbody">';
 
     // closest connections: ranked, one row per name
     if (near.length) {
       h += '<section>' + secHead('closest', null, '', 'Closest Connections', plural(near.length, 'Name')) +
-        '<p class="sub">Ranked by the number of documented links to ' + esc(shortName(e)) + '. The strongest link is the one with the largest sum or the most checks behind it.</p>' +
+        '<p class="sub">Ranked by documented links.</p>' +
         '<div class="tablewrap"><table class="ctable" data-foldbox><thead><tr><th>Name</th><th>Kind</th><th class="numc">Links</th><th>Strongest Link</th><th class="srcc">Source Check</th></tr></thead><tbody>' +
         near.map(function (o, i) {
           var ls = by.get(o), r = strongest(ls), allA = ls.every(function (x) { return x.alleged; });
@@ -857,31 +856,31 @@
 
     // largest sums
     if (sums.length) h += '<section>' + secHead('sums', null, '', 'Largest Sums', null) +
-      '<p class="sub">Amounts recorded on these connections. A sum is what the record states, not a judgement about it.</p><ul class="recs sums">' +
+      '<p class="sub">As stated in the record.</p><ul class="recs sums">' +
       sums.map(function (r) {
         var o = r.S === e ? r.T : r.S;
         return '<li class="rec' + (r.alleged ? ' alleged' : '') + '"><span class="amt">' + esc(money(r.amount_usd)) + '</span><div class="what"><p>' + entLink(o) + '</p><p class="sec2">' + briefFrom(r, e, true) + (r.alleged ? ' ' + allegedFlag() : '') + '</p></div><span class="when">' + (r.date ? esc(fdate(r.date)) : '') + '</span><span class="src">' + srcCheck(r.claims) + '</span></li>';
       }).join('') + '</ul></section>';
 
     // in date order
-    if (tl.length) h += '<section>' + secHead('timeline', null, '', 'In Date Order', plural(tl.length, 'Dated Event')) + '<p class="sub">What the record shows, earliest first.</p>' +
-      fold(tl.map(function (r) { return recRow(esc(fdate(String(r.date).split('/')[0])), '<p>' + sentenceFrom(r, e) + (r.alleged ? ' ' + allegedFlag() : '') + '</p>', srcCheck(r.claims), r.alleged ? 'alleged' : ''); }), 8, 'Dated Events', 'ol', 'recs tl') + '</section>';
+    if (tl.length) h += '<section>' + secHead('timeline', null, '', 'Timeline', plural(tl.length, 'Dated Link')) + '<p class="sub">Earliest first.</p>' +
+      fold(tl.map(function (r) { return recRow(esc(fdate(String(r.date).split('/')[0])), '<p>' + sentenceFrom(r, e) + (r.alleged ? ' ' + allegedFlag() : '') + '</p>', srcCheck(r.claims), r.alleged ? 'alleged' : ''); }), 8, 'Dated Links', 'ol', 'recs tl') + '</section>';
 
     // every connection, by kind of relationship
     if (lines.length) {
-      h += '<section>' + secHead('links', null, '', 'Every Connection, by Kind', plural(lines.length, 'Line')) + '<p class="sub">Where several checks record the same relationship, it is listed once with a count of the checks behind it.</p>';
+      h += '<section>' + secHead('links', null, '', 'All Links by Kind', plural(lines.length, 'Link'));
       RTYPES.concat(Array.from(new Set(lines.map(function (r) { return r.type; }))).filter(function (t) { return RTYPES.indexOf(t) < 0; })).forEach(function (t) {
         var grp = lines.filter(function (r) { return r.type === t; });
         if (!grp.length) return;
         grp.sort(function (a, b) { return (a.alleged ? 1 : 0) - (b.alleged ? 1 : 0) || b.claims.length - a.claims.length || String(a.date || '9').localeCompare(String(b.date || '9')); });
-        h += '<div class="relgroup"><h3><span>' + esc(RLABEL[t] || cap(t)) + '</span><span class="cnt">' + plural(grp.length, 'line') + '</span></h3>' +
-          fold(grp.map(function (r) { return recRow(r.date ? esc(fdate(r.date)) : '', '<p>' + sentenceFrom(r, e) + (r.alleged ? ' ' + allegedFlag() : '') + '</p>', srcCheck(r.claims), r.alleged ? 'alleged' : ''); }), 6, 'Lines', 'ul', 'recs rel') + '</div>';
+        h += '<div class="relgroup"><h3><span>' + esc(RLABEL[t] || cap(t)) + '</span><span class="cnt">' + num(grp.length) + '</span></h3>' +
+          fold(grp.map(function (r) { return recRow(r.date ? esc(fdate(r.date)) : '', '<p>' + sentenceFrom(r, e) + (r.alleged ? ' ' + allegedFlag() : '') + '</p>', srcCheck(r.claims), r.alleged ? 'alleged' : ''); }), 6, 'Links', 'ul', 'recs rel') + '</div>';
       });
       h += '</section>';
     }
     // claims that mention the name
     h += '<section>' + secHead('in', null, '', 'Checks That Name ' + esc(shortName(e)), plural(cls.length, 'Check')) +
-      (cls.length ? fold(cls.map(function (c) { return claimRow(c, { short: 1, kind: 'topic' }); }), 8, 'Checks', 'ul', 'rows shortrows named') : '<p class="sub">No check names this directly. It appears only through a connection.</p>') + '</section>';
+      (cls.length ? fold(cls.map(function (c) { return claimRow(c, { short: 1, kind: 'topic' }); }), 8, 'Checks', 'ul', 'rows shortrows named') : note('', 'No check names this directly.')) + '</section>';
     if (arr(e.more).length) h += '<section>' + secHead('more', null, '', 'How Other Checks Describe ' + it, null) + fold(e.more.map(function (x) { return '<li>' + rich(x) + '</li>'; }), 4, 'Descriptions', 'ul', 'plain tight descr') + '</section>';
     h += '</div></article>';
     page.innerHTML = h;
@@ -902,11 +901,11 @@
     var counts = {};
     entities.forEach(function (e) { counts[e.group] = (counts[e.group] || 0) + 1; });
     page.innerHTML = '<div class="pagehead"><h1 tabindex="-1">People &amp; Organisations</h1>' +
-      '<p class="lede">' + num(entities.length) + ' names appear in the checks. Each has a profile with its connections, a timeline and the checks that mention it.</p></div>' +
+      '<p class="lede">Every name in the checks, each with a profile.</p></div>' +
       '<div class="tabs" role="tablist" aria-label="Kind of name">' + GROUPS.map(function (g) {
         return '<button type="button" role="tab" id="tab-' + g + '" data-group="' + g + '" aria-selected="' + (g === browse.group) + '">' + GLABEL[g] + ' <span class="cnt">' + num(counts[g] || 0) + '</span></button>';
       }).join('') + '</div>' +
-      '<div class="browsebar"><label class="field"><span class="sr">Filter This List</span><input id="browse-q" type="search" placeholder="Filter this list by name or description" autocomplete="off" value="' + esc(browse.q) + '"></label>' +
+      '<div class="browsebar"><label class="field"><span class="sr">Filter This List</span><input id="browse-q" type="search" placeholder="Filter by name or description" autocomplete="off" value="' + esc(browse.q) + '"></label>' +
       '<label class="field sortf"><span>Sort By</span><select id="browse-sort"><option value="claims">Most Checks</option><option value="links">Most Connections</option><option value="sum">Largest Sum</option><option value="az">Name, A to Z</option></select></label></div>' +
       '<p class="small muted" id="browse-msg" role="status"></p><div id="browse-list"></div>';
     $('browse-sort').value = browse.sort;
@@ -921,13 +920,13 @@
       $('browse-msg').textContent = (GNOTE[browse.group] ? GNOTE[browse.group] + '. ' : '') + (q ? plural(list.length, 'name') + ' match “' + browse.q.trim() + '”.' : '');
       $('browse-list').innerHTML = list.length ? '<table class="ntable"><thead><tr><th>Name</th><th class="nk">Kind</th><th class="nt">Main Topic</th><th class="numc">Checks</th><th class="numc">Links</th><th class="numc ns">Largest Sum</th></tr></thead><tbody>' + list.slice(0, browse.shown).map(function (e) {
         var ts = topSum(e);
-        return '<tr><th scope="row"><a class="t" href="' + entHref(e) + '">' + esc(e.name) + '</a>' + (e.unverified_only ? ' ' + '<span class="flag">Named Only in an Unverified Check</span>' : '') +
+        return '<tr><th scope="row"><a class="t" href="' + entHref(e) + '">' + esc(e.name) + '</a>' + (e.unverified_only ? ' ' + '<span class="flag">' + mark('unverified') + 'Unverified Check Only</span>' : '') +
           (e.role ? '<p class="line">' + esc(e.role) + '</p>' : '') + '</th><td class="nk">' + kmark(e) + esc(TLABEL[e.type]) + '</td>' +
           '<td class="nt">' + topicTag(e) + '</td>' +
           '<td class="numc" data-u="' + (e.cl.length === 1 ? 'check' : 'checks') + '">' + num(e.cl.length) + '</td><td class="numc" data-u="' + (e.lines.length === 1 ? 'link' : 'links') + '">' + num(e.lines.length) + '</td>' +
           '<td class="numc ns">' + (ts ? esc(money(ts)) : '') + '</td></tr>';
       }).join('') + '</tbody></table>' + (list.length > browse.shown ? '<button class="more" type="button" id="browse-more">' + num(Math.min(120, list.length - browse.shown)) + ' More of ' + num(list.length) + '</button>' : '') :
-        '<p class="sub">No name in this list matches. Try another tab or the search at the top of the page.</p>';
+        note('', 'No matches in this list.');
       var more = $('browse-more'); if (more) more.addEventListener('click', function () { browse.shown += 120; draw(); });
       page.querySelectorAll('.tabs [role=tab]').forEach(function (b) { var on = b.getAttribute('data-group') === browse.group; b.setAttribute('aria-selected', String(on)); b.tabIndex = on ? 0 : -1; });
     }
@@ -944,38 +943,41 @@
   }
 
   // ------------------------------------------------------------------ method page
+  var ISSUES = 'https://github.com/Thinh-nguyen-03/trump-connection/issues';
+  var STEPS = [['Claims', 'Widely repeated claims were written as specific, testable statements.'],
+    ['Checks', 'Each was split into points. Every figure, date and name was compared with reporting, filings and official records, along with the response of those named.'],
+    ['Follow-Ups', 'Open questions became checks of their own.'],
+    ['Connections', 'Finished checks were cross-referenced for recurring people, firms and funds. Each link was confirmed and dated.'],
+    ['Second Review', 'Key assertions in every check were re-checked independently and corrected where needed.']];
   function methodPage() {
-    var t = META.tally || {}, total = claims.length;
-    var defs = VERDICTS.filter(function (v) { return VMEANS[v]; }).map(function (v) {
-      return '<li><span class="dt">' + verdict(v) + '</span><span class="dd">' + VMEANS[v] + '</span><span class="n">' + (t[v] ? plural(t[v], 'check') : 'None') + '</span></li>';
-    }).join('');
-    var grades = ['documented', 'single-source', 'inferred'].map(function (k) {
-      return '<li><span class="dt">' + gradeMark(k, '', true) + '</span><span class="dd">' + GRADE[k][1] + '</span></li>';
-    }).join('');
-    var nCheck = claims.filter(function (c) { return c.ctype !== 'connection'; }).length, nConn = claims.length - nCheck;
-    page.innerHTML = '<div class="pagehead"><h1 tabindex="-1">How We Checked</h1>' +
-      '<p class="lede">This is a verification project, not an accusation. It takes claims about the business, financial and political dealings of Donald Trump, his family and his administration, and tests each one against the public record.</p>' +
-      (META.generated ? '<p class="dateline">Data built ' + esc(fdate(META.generated)) + '</p>' : '') + '</div>' +
-      figRow([[num(nCheck), 'Checks of Claims'], [num(nConn), 'Connection Checks'], [num(TOPICS.length), 'Topics'],
-        [num((META.points || {}).total), 'Points Checked'], [num(META.sources), 'Sources Cited'], [num(entities.length), 'Names Mapped']], 'methodfigs') +
-      '<section class="sec"><h2>The Method</h2><ol class="steps">' +
-      '<li><strong>We started from claims in public circulation.</strong> These are widely repeated statements about the Trump family’s business dealings: the crypto ventures, the Gulf investments, Trump Media, the pardons and the dropped enforcement cases. Each was written down as a specific claim that can be tested.</li>' +
-      '<li><strong>Each claim was checked on its own.</strong> It was split into separate points. Every figure, date and name was compared with news reporting, company and court filings and official releases, and what the people named say in reply was recorded.</li>' +
-      '<li><strong>Open questions became further checks.</strong> Where a check turned up a related story or an unanswered question, that was researched the same way and given its own page.</li>' +
-      '<li><strong>Connection checks cross-referenced the finished files.</strong> They looked for the same lawyers, lobbyists, financiers, shell entities, investors and foreign partners recurring in checks that had been researched separately, then searched outward to confirm and date each link.</li>' +
-      '<li><strong>A second reviewer re-checked the key assertions.</strong> ' + num(META.second_reviewed || 0) + ' of the ' + total + ' checks have had this independent review, with fresh searches, and the files were corrected where needed. Each page records what was re-checked and what changed.</li></ol></section>' +
-      '<section class="sec"><h2>What the Verdicts Mean</h2><p class="intro">Each point gets a verdict, and so does the check as a whole. Every verdict has its own mark as well as its own colour.</p><ul class="defs">' + defs + '</ul></section>' +
-      '<section class="sec"><h2>Evidence Grades for Connections</h2><p class="intro">Every connection in a connection check carries one of three grades. An inferred link is never presented as fact.</p><ul class="defs">' + grades + '</ul></section>' +
-      '<section class="sec"><h2>Limits You Should Know About</h2><ul class="limits">' +
-      '<li><strong>Most original pages could not be opened.</strong> Most news and government sites could not be read directly from the research environment. Findings rest on search-result excerpts that agree across several outlets, not on reading the original articles, filings or court dockets in full. This is why most checks are rated medium confidence.</li>' +
-      (arr(META.unverified).length ? '<li><strong>' + cap(word(META.unverified.length)) + ' ' + (META.unverified.length === 1 ? 'check is a single-source allegation' : 'checks are single-source allegations') + '.</strong> ' + listParts(META.unverified.map(function (id) { var c = byKey.get(id); return c ? claimLink(c) : ''; })) + (META.unverified.length === 1 ? ' comes' : ' come') + ' from one book and ' + (META.unverified.length === 1 ? 'is' : 'are') + ' denied by everyone named. They are marked unverified wherever they appear, and lines that rest only on them are drawn dashed on the map.</li>' : '') +
-      '<li><strong>No payment is shown to have bought an official act.</strong> That inference is not established in any check. Where a claim implies it, the point is marked unverified.</li>' +
-      '<li><strong>A link is not a cause.</strong> A line between two names means a documented relationship: a payment, a stake, a job, a family tie, a legal action. It does not show that one thing led to another, and everyone named denies wrongdoing.</li>' +
-      '<li><strong>The research has a date.</strong> ' + (META.generated ? 'The data was built on ' + esc(fdate(META.generated)) + '. ' : '') + 'Later developments are not reflected.</li></ul></section>' +
-      '<section class="sec"><h2>Corrections</h2><p class="intro">If a finding is wrong or out of date, the fix belongs in the check’s data file and report, with a source, followed by a rebuild of the site.</p></section>';
+    var t = META.tally || {}, unv = arr(META.unverified).map(function (id) { return byKey.get(id); }).filter(Boolean);
+    var vs = VERDICTS.filter(function (v) { return VMEANS[v]; }), vmax = Math.max.apply(null, vs.map(function (v) { return t[v] || 0; }).concat(1));
+    var LINE = { 'documented': '', 'single-source': ' dotted', 'inferred': ' dashed' };
+    var limits = [['Sources', 'Findings rest on reporting corroborated across outlets, not on full reading of original filings. Most checks are rated medium confidence.'],
+      ['Research', 'Carried out by AI research agents with an independent second pass. Check the cited sources before relying on a finding.'],
+      unv.length ? ['Single-Source Allegations', listParts(unv.map(function (c) { return claimLink(c); })) + (unv.length === 1 ? ' rests on one book and is' : ' rest on one book and are') + ' denied by everyone named. ' + (unv.length === 1 ? 'It is' : 'They are') + ' marked unverified throughout.'] : null,
+      ['Cause', 'No check shows that a payment bought an official act.'],
+      ASOF ? ['Date', esc(ASOF) + '. Later developments are not reflected.'] : null].filter(Boolean);
+    var secs = [['m-method', 'Method'], ['m-verdicts', 'Verdicts'], ['m-grades', 'Evidence Grades'], ['m-limits', 'Limits'], ['m-corrections', 'Corrections']];
+    page.innerHTML = '<div class="method"><div class="pagehead"><h1 tabindex="-1">How We Checked</h1>' +
+      '<p class="lede">' + num(claims.length) + ' claims about the business, financial and political dealings of Donald Trump, his family and his administration, each tested against the public record.</p>' + (ASOF ? '<p class="dateline">' + esc(ASOF) + '</p>' : '') + '</div>' +
+      figRow([[num(claims.length), 'Checks'], [num((META.points || {}).total), 'Points'], [num(META.sources), 'Sources'], [num(entities.length), 'Names'], [num(TOPICS.length), 'Topics']], 'methodfigs') +
+      '<div class="mgrid"><nav class="mindex" aria-label="On this page"><h2>On This Page</h2><ul class="toc">' + secs.map(function (x) { return '<li><button type="button" data-jump="' + x[0] + '">' + x[1] + '</button></li>'; }).join('') + '</ul></nav><div class="mbody">' +
+      '<section><h2 id="m-method">Method</h2><ol class="msteps">' + STEPS.map(function (x) { return '<li><b>' + x[0] + '</b><span>' + x[1] + '</span></li>'; }).join('') + '</ol></section>' +
+      '<section><h2 id="m-verdicts">Verdicts</h2><table class="mtable"><thead><tr><th>Verdict</th><th>Meaning</th><th class="numc">Checks</th></tr></thead><tbody>' + vs.map(function (v) {
+        return '<tr><th scope="row">' + verdict(v) + '</th><td>' + VMEANS[v] + '</td><td class="numc"><span class="mbar" aria-hidden="true"><i style="width:' + Math.round(100 * (t[v] || 0) / vmax) + '%"></i></span>' + num(t[v] || 0) + '</td></tr>';
+      }).join('') + '</tbody></table></section>' +
+      '<section><h2 id="m-grades">Evidence Grades</h2><table class="mtable"><thead><tr><th>Grade</th><th>Basis</th></tr></thead><tbody>' + ['documented', 'single-source', 'inferred'].map(function (k) {
+        return '<tr><th scope="row"><span class="mgrade g-' + k + '"><i class="evline' + LINE[k] + '" aria-hidden="true"></i>' + GRADE[k][0] + '</span></th><td>' + GRADE[k][1] + '</td></tr>';
+      }).join('') + '</tbody></table></section>' +
+      '<section><h2 id="m-limits">Limits</h2><dl class="mlimits">' + limits.map(function (x) { return '<div><dt>' + x[0] + '</dt><dd>' + x[1] + '</dd></div>'; }).join('') + '</dl></section>' +
+      '<section><h2 id="m-corrections">Corrections</h2><p class="mcorr">' + ico('ext') + '<span>Found an error? <a href="' + ISSUES + '" target="_blank" rel="noopener">Send a source</a>.</span></p></section>' +
+      '</div></div></div>';
+    spy();
   }
   function notFound(h) {
-    page.innerHTML = '<div class="pagehead"><h1 tabindex="-1">That Page Is Not Here</h1><p class="lede">Nothing matches “' + esc(h) + '”. Use the search at the top of the page, or start from <a href="' + U('home') + '">the checks</a>, <a href="' + U('names') + '">people and organisations</a> or <a href="' + U('map') + '">the map</a>.</p></div>';
+    page.innerHTML = '<div class="pagehead"><h1 tabindex="-1">Page Not Found</h1>' + note('', 'Nothing is published at “' + esc(h) + '”.') +
+      '<p class="missnav"><a href="' + U('home') + '">Checks</a><a href="' + U('names') + '">People &amp; Organisations</a><a href="' + U('map') + '">Map</a><a href="' + U('method') + '">How We Checked</a></p></div>';
   }
 
   // ------------------------------------------------------------------ search
@@ -1007,8 +1009,8 @@
   function resultKind(n) {
     if (n.kind === 'claim') return (isUnv(n) ? unvText(n) : VLABEL[n.verdict]) + ' · ' + originText(n);
     if (n.kind === 'topic') return 'Topic · ' + plural(n.topic.list.length, 'check');
-    if (n.kind === 'theme') return 'Recurring theme, shown on the map';
-    return TLABEL[n.type] + (n.unverified_only ? ' · named only in an unverified check' : ' · in ' + plural(n.cl.length, 'check'));
+    if (n.kind === 'theme') return 'Recurring theme';
+    return TLABEL[n.type] + (n.unverified_only ? ' · unverified check only' : ' · ' + plural(n.cl.length, 'check'));
   }
   function attachSearch(input, box) {
     var results = [], active = -1;
@@ -1025,7 +1027,7 @@
       box.innerHTML = results.length ? results.map(function (n, i) {
         var warn = (n.kind === 'claim' && isUnv(n)) || n.unverified_only;
         return '<li role="option" id="' + box.id + '-' + i + '" data-i="' + i + '" aria-selected="false"' + (warn ? ' class="unv"' : '') + '>' + kmark(n) + '<span class="r-name">' + esc(n.name) + '</span><span class="r-kind">' + esc(resultKind(n)) + '</span></li>';
-      }).join('') : '<li class="empty">Nothing matches “' + esc(q) + '”. Try a surname, a company name, a country or a topic.</li>';
+      }).join('') : '<li class="empty">No results for “' + esc(q) + '”.</li>';
       box.hidden = false; input.setAttribute('aria-expanded', 'true');
       setActive(results.length ? 0 : -1);
     }
@@ -2106,7 +2108,7 @@
       return { main: cap(plainSentence(r)) + '.', sub: (l.unv ? 'Alleged, unverified' : 'Documented') + ' · ' + (RLABEL[r.type] || cap(r.type)) + (l.rels.length > 1 ? ' · ' + plural(l.rels.length, 'recorded link') : '') + ' · ' + plural(cs.size, 'source check') };
     }
     var c = l.source.kind === 'claim' ? l.source : l.target, o = c === l.source ? l.target : l.source;
-    if (l.kind === 'claim') return { main: shortName(o) + ' is named in the check ' + c.id + '.', sub: trunc(c.title, 70) };
+    if (l.kind === 'claim') return { main: shortName(o) + ' is named in check ' + c.id + '.', sub: trunc(c.title, 70) };
     return { main: (o.name || '') + ' and ' + (c.name || '') + ' are grouped together.', sub: l.kind === 'parent' ? 'One check builds on the other' : 'Recurring theme' };
   }
   function glTip(n, l, px, py) {
@@ -2116,7 +2118,7 @@
     if (n) {
       var sub = n.kind === 'claim' ? (isUnv(n) ? unvText(n) : VLABEL[n.verdict]) + ' · ' + originText(n)
         : n.kind === 'theme' ? 'Recurring theme · ' + plural(arr(n.claims).length, 'check')
-          : TLABEL[n.type] + ' · ' + plural(n.lines.length, 'connection') + ' · in ' + plural(n.cl.length, 'check') + (n.unverified_only ? ' · named only in an unverified check' : '');
+          : TLABEL[n.type] + ' · ' + plural(n.lines.length, 'connection') + ' · ' + plural(n.cl.length, 'check') + (n.unverified_only ? ' · unverified check only' : '');
       tip.innerHTML = '<b>' + esc(n.name) + '</b><span>' + esc(sub) + '</span>';
       x = gl.sx[n.gi]; y = gl.sy[n.gi]; r = glR(n) + 12;
     } else { var s = linkSentence(l); tip.innerHTML = '<b class="tsent">' + esc(s.main) + '</b><span>' + esc(s.sub) + '</span>'; x = px; y = py; }
@@ -2252,13 +2254,13 @@
   function nodeBtn(n, text) { return '<a class="namebtn" href="' + esc(mapHref(n)) + '" data-sel="' + esc(n.key) + '">' + esc(text || (n.kind === 'entity' ? shortName(n) : n.name)) + '</a>'; }
   function renderBanner() {
     var b = $('banner'), h = '';
-    if (map.pathFrom) h = '<span><strong>Trace a path.</strong> From ' + esc(shortName(map.pathFrom)) + '. Select a second mark on the map, or find one with the search.</span><button type="button" class="linkbtn" data-act="path-clear">Cancel</button>';
+    if (map.pathFrom) h = '<span><strong>Trace a path.</strong> From ' + esc(shortName(map.pathFrom)) + '. Select a second mark.</span><button type="button" class="linkbtn" data-act="path-clear">Cancel</button>';
     else if (map.path && map.path.list) h = '';   // a found path is read in the panel, step by step
-    else if (map.path) h = '<span><strong>No path.</strong> Nothing connects ' + esc(shortName(map.path.from)) + ' and ' + esc(shortName(map.path.to)) + ' with the current filters.</span><button type="button" class="linkbtn" data-act="path-clear">Clear</button>';
+    else if (map.path) h = '<span><strong>No path</strong> between ' + esc(shortName(map.path.from)) + ' and ' + esc(shortName(map.path.to)) + ' with these filters.</span><button type="button" class="linkbtn" data-act="path-clear">Clear</button>';
     else if (map.iso) {
       var cnt = nodes.filter(function (n) { return n.vis; }).length - 1;
       h = '<span><strong>Isolated.</strong> ' + esc(shortName(map.iso.node)) + ' and ' + plural(cnt, 'mark') + ' within ' + plural(map.iso.depth, 'step') + '.</span>' +
-        (map.iso.depth < 3 ? '<button type="button" class="linkbtn" data-act="iso-more">Add a Step</button>' : '') + '<button type="button" class="linkbtn" data-act="iso-clear">Show Everything</button>';
+        (map.iso.depth < 3 ? '<button type="button" class="linkbtn" data-act="iso-more">Add a Step</button>' : '') + '<button type="button" class="linkbtn" data-act="iso-clear">Show All</button>';
     }
     b.innerHTML = h; b.hidden = !h;
   }
@@ -2286,8 +2288,7 @@
       return '<li><span class="tsw" style="background:var(--t' + (t.ci + 1) + ')" aria-hidden="true"></span><a class="namebtn" href="' + esc(mapTopicHref(t)) + '" data-topic="' + esc(t.id) + '">' + esc(t.name) + '</a><span class="cnt">' + plural(t.list.length, 'check') + '</span></li>';
     });
   }
-  function mapHint() { return narrow.matches ? 'Tap a name or a topic to see its connections.' : 'Point at a name to see its links. Select it to read them.'; }
-  /* The panel is a case file. Each link is one line of evidence: what it says, the sum and the date where the record has them,
+    /* The panel is a case file. Each link is one line of evidence: what it says, the sum and the date where the record has them,
      how well it is supported, and the checks it comes from, cited by number. */
   function cites(list) {
     var cs = arr(list).map(function (id) { return byKey.get(id); }).filter(Boolean);
@@ -2322,23 +2323,23 @@
   }
   function pathPanel() {   // a traced path, read as a chain of evidence: one numbered step for each link
     var P = map.path, a = P.list[0], b = P.list[P.list.length - 1], unvN = P.steps.filter(function (l) { return l.unv; }).length;
-    var body = '<p class="prole">The shortest chain of recorded links between the two. Each step is one link, with what the record says and the checks it comes from. A chain shows that the names are connected on the record, not that one acted for another.</p><ol class="steps">';
+    var body = '<p class="prole">The shortest chain of recorded links. It shows a connection, not that one acted for another.</p><ol class="steps">';
     P.steps.forEach(function (l, i) {
       var from = P.list[i], to = P.list[i + 1], say, meta;
       if (l.kind === 'rel') {
         var r = strongest(l.rels), fig = (typeof r.amount_usd === 'number' ? '<b>' + esc(money(r.amount_usd)) + '</b> ' : '') + (r.date ? esc(fdate(r.date)) : '');
-        say = esc(cap(plainSentence(r))) + '.' + (l.rels.length > 1 ? ' <span class="cnt">And ' + plural(l.rels.length - 1, 'more recorded link') + ' between them.</span>' : '');
+        say = esc(cap(plainSentence(r))) + '.' + (l.rels.length > 1 ? ' <span class="cnt">+' + plural(l.rels.length - 1, 'more link') + '</span>' : '');
         meta = evGrade(r) + '<span class="rtype">' + rkSw(r.type) + esc(RLABEL[r.type] || cap(r.type)) + '</span>' + (fig ? '<span class="sfig">' + fig + '</span>' : '') + cites(r.claims);
       } else {
         var c = from.kind === 'claim' ? from : to.kind === 'claim' ? to : null, o = c === from ? to : from;
-        say = l.kind === 'claim' && c ? esc(shortName(o)) + ' is named in the check “' + esc(c.title) + '”.' : esc(from.name) + ' ' + esc(linkWord(l)) + ' ' + esc(to.name) + '.';
+        say = l.kind === 'claim' && c ? esc(shortName(o)) + ' is named in “' + esc(c.title) + '”.' : esc(from.name) + ' ' + esc(linkWord(l)) + ' ' + esc(to.name) + '.';
         meta = (l.unv ? '<span class="ev unv"><i class="evline dashed" aria-hidden="true"></i>Unverified Check</span>' : '<span class="ev"><i class="evline" aria-hidden="true"></i>Named in a Check</span>') + (c ? cites([c.id]) : '');
       }
       body += '<li data-hov="' + esc(to.key) + '"><p class="snames">' + nodeBtn(from, from.kind === 'entity' ? mapLabel(from) : from.id || from.name) + '<span class="sarrow" aria-hidden="true">→</span>' + nodeBtn(to, to.kind === 'entity' ? mapLabel(to) : to.id || to.name) + '</p><p class="ssay">' + say + '</p><p class="p3">' + meta + '</p></li>';
     });
     body += '</ol>';
-    return panelShell('Chain of evidence · ' + plural(P.steps.length, 'step') + (unvN ? ' · ' + unvN + ' unverified' : ''), esc(shortName(a)) + ' <span class="amp">to</span> ' + esc(shortName(b)), body,
-      '<button type="button" class="btn" data-act="path-clear">Clear the Path</button>');
+    return panelShell('Path · ' + plural(P.steps.length, 'step') + (unvN ? ' · ' + unvN + ' unverified' : ''), esc(shortName(a)) + ' <span class="amp">to</span> ' + esc(shortName(b)), body,
+      '<button type="button" class="btn" data-act="path-clear">Clear Path</button>');
   }
   function renderPanel() {
     var p = $('panel'), n = map.sel, h = '', body = '', acts, topic = map.topicSet && map.mode === 'network';
@@ -2350,15 +2351,14 @@
     if (!n && !topic) {
       if (narrow.matches || map.mode !== 'network') { p.hidden = true; root.classList.remove('has-panel'); p.classList.remove('rest'); return; }
       h = '<div class="panel-head"><h2>Where to Start</h2></div>' +
-        '<div class="panel-body"><p class="prole">' + num(entities.length) + ' names and ' + num(claims.length) + ' checks, placed only by the links the record documents. Names that share many links sit together; the most connected sit towards the middle. Drag to turn the globe.</p>' +
-        (map.hinted ? '' : '<p class="phint" id="panel-hint">' + mapHint() + '</p>') +
-        '<h3>Most Connected <span class="cnt">documented links</span></h3>' + fold(mapRankRows(40), 5, 'Names', 'ol', 'pchecks prank') +
-        '<h3>Largest Sums <span class="cnt">on the record</span></h3>' + fold(leadSums().map(function (r) {
+        '<div class="panel-body"><p class="prole">Placed by documented links. Select a name to read them.</p>' +
+        '<h3>Most Connected <span class="cnt">Links</span></h3>' + fold(mapRankRows(40), 5, 'Names', 'ol', 'pchecks prank') +
+        '<h3>Largest Sums <span class="cnt">Check</span></h3>' + fold(leadSums().map(function (r) {
           return '<li data-hov="' + esc(r.S.key) + '"><span class="amt">' + esc(money(r.amount_usd)) + '</span><span class="sumsay">' + nodeBtn(r.S, mapLabel(r.S)) + ' <span class="cnt">and</span> ' + nodeBtn(r.T, mapLabel(r.T)) + '</span>' + cites(r.claims.slice(0, 1)) + '</li>';
         }), 4, 'Sums', 'ul', 'pchecks psums') +
-        '<h3>Topics <span class="cnt">checks</span></h3><ul class="pchecks ptopics">' + mapTopicRows().join('') + '</ul></div><div class="pfade" aria-hidden="true"></div>';
+        '<h3>Topics</h3><ul class="pchecks ptopics">' + mapTopicRows().join('') + '</ul></div><div class="pfade" aria-hidden="true"></div>';
       p.innerHTML = h; p.hidden = false; p.scrollTop = 0; p.classList.add('rest'); root.classList.add('has-panel');
-      p.setAttribute('aria-label', 'About the map');
+      p.setAttribute('aria-label', 'Where to start');
       return;
     }
     if (!n) {   // a topic: its checks, each with its verdict, then the names they mention most
@@ -2367,7 +2367,7 @@
       mem.sort(function (a, b) { return b[1] - a[1] || a[0].rank - b[0].rank; });
       body = (tp.description ? '<p class="prole">' + esc(tp.description) + '</p>' : '') + '<h3>' + plural(tp.list.length, 'Check') + '</h3><ul class="pchecks">' +
         tp.list.map(function (c) { return '<li data-hov="' + esc(c.key) + '">' + kmark(c) + nodeBtn(c, c.title) + '</li>'; }).join('') + '</ul>' +
-        '<h3>' + plural(mem.length, 'Name') + ' <span class="cnt">checks in this topic that mention each</span></h3>' +
+        '<h3>' + plural(mem.length, 'Name') + ' <span class="cnt">Checks</span></h3>' +
         fold(mem.map(function (m) { return '<li data-hov="' + esc(m[0].key) + '">' + kmark(m[0]) + nodeBtn(m[0], mapLabel(m[0])) + '<span class="cnt">' + m[1] + '</span></li>'; }), 12, 'Names', 'ul', 'pchecks prank');
       h = panelShell('<span class="tsw" style="background:var(--t' + (tp.ci + 1) + ')" aria-hidden="true"></span>Topic · ' + plural(tp.list.length, 'check') + ' · ' + plural(mem.length, 'name'), esc(tp.name), body,
         '<a class="btn primary" href="' + topicHref(tp) + '">Open Topic</a>', '<button type="button" class="pback" data-act="topic-clear">' + BACKICON + 'All Topics</button>');
@@ -2379,28 +2379,28 @@
         var sums = arr(n.sums).map(function (i) { return relAt[i]; }).filter(function (r) { return r && r.S && typeof r.amount_usd === 'number'; }).sort(function (a, b) { return b.amount_usd - a.amount_usd; });
         var tline = arr(n.timeline).map(function (i) { return relAt[i]; }).filter(function (r) { return r && r.S; });
         var unvN = n.lines.filter(function (r) { return r.alleged; }).length;
-        body = (n.unverified_only ? '<p class="pflag">' + mark('unverified') + 'Named only in an unverified check</p>' : '') + (n.role ? '<p class="prole">' + rich(cap(n.role)) + '</p>' : '') +
+        body = (n.unverified_only ? '<p class="pflag">' + mark('unverified') + 'Unverified check only</p>' : '') + (n.role ? '<p class="prole">' + rich(cap(n.role)) + '</p>' : '') +
           '<dl class="dfigs"><div><dt>Links</dt><dd>' + num(n.lines.length) + '</dd></div><div><dt>Names</dt><dd>' + num(others.size) + '</dd></div><div><dt>Checks</dt><dd>' + num(n.cl.length) + '</dd></div>' +
           (sums.some(function (r) { return !r.alleged; }) ? '<div><dt>Largest Sum</dt><dd>' + esc(money(sums.filter(function (r) { return !r.alleged; })[0].amount_usd)) + '</dd></div>' : unvN ? '<div><dt>Unverified</dt><dd>' + unvN + '</dd></div>' : '') + '</dl>';
         var types = RTYPES.concat(Array.from(new Set(n.lines.map(function (r) { return r.type; }))).filter(function (t) { return RTYPES.indexOf(t) < 0; }));
-        if (n.lines.length) body += '<h3>Documented Links <span class="cnt">by kind, as lit on the globe</span></h3>';
+        if (n.lines.length) body += '<h3>Links by Kind</h3>';
         types.forEach(function (t) {
           var grp = n.lines.filter(function (r) { return r.type === t; }); if (!grp.length) return;
           grp.sort(function (a, b) { return (a.alleged ? 1 : 0) - (b.alleged ? 1 : 0) || b.claims.length - a.claims.length || String(a.date || '9').localeCompare(String(b.date || '9')); });
           body += '<h4>' + rkSw(t) + esc(RLABEL[t] || cap(t)) + ' <span class="cnt">' + grp.length + '</span></h4>' + fold(grp.map(function (r) { return evRow(r, n); }), 3, esc(RLABEL[t] || cap(t)) + ' Links', 'ul', 'plist');
         });
-        if (sums.length) body += '<h3>Largest Sums <span class="cnt">as the record states them</span></h3><ul class="pchecks psums">' + sums.slice(0, 4).map(function (r) {
+        if (sums.length) body += '<h3>Largest Sums</h3><ul class="pchecks psums">' + sums.slice(0, 4).map(function (r) {
           var o = r.S === n ? r.T : r.S;
           return '<li data-hov="' + esc(o.key) + '"><span class="amt">' + esc(money(r.amount_usd)) + '</span><span class="sumsay">' + nodeBtn(o, mapLabel(o)) + ' <span class="cnt">' + briefFrom(r, n, true) + (r.date ? ', ' + esc(fdate(r.date)) : '') + '</span></span>' + cites(r.claims.slice(0, 1)) + '</li>';
         }).join('') + '</ul>';
-        if (tline.length) body += '<h3>Timeline <span class="cnt">' + plural(tline.length, 'dated link') + '</span></h3>' + fold(tline.map(function (r) {
+        if (tline.length) body += '<h3>Timeline <span class="cnt">' + tline.length + '</span></h3>' + fold(tline.map(function (r) {
           var o = r.S === n ? r.T : r.S;
           return '<li data-hov="' + esc(o.key) + '"><span class="when">' + esc(fdate(String(r.date).split('/')[0])) + '</span><span class="sumsay">' + esc(cap(plainSentence(r))) + '</span>' + cites(r.claims.slice(0, 1)) + '</li>';
         }), 5, 'Dated Links', 'ol', 'pchecks ptl');
-        if (n.cl.length) body += '<h3>Checks That Mention ' + (n.group === 'person' ? 'Them' : 'It') + ' <span class="cnt">' + n.cl.length + '</span></h3>' + fold(n.cl.map(function (c) { return '<li data-hov="' + esc(c.key) + '">' + kmark(c) + nodeBtn(c, c.title) + '<a class="cite" href="' + claimHref(c) + '" title="Open the check">' + esc(c.id) + '</a></li>'; }), 6, 'Checks', 'ul', 'pchecks');
+        if (n.cl.length) body += '<h3>Checks <span class="cnt">' + n.cl.length + '</span></h3>' + fold(n.cl.map(function (c) { return '<li data-hov="' + esc(c.key) + '">' + kmark(c) + nodeBtn(c, c.title) + '<a class="cite" href="' + claimHref(c) + '" title="Open check">' + esc(c.id) + '</a></li>'; }), 6, 'Checks', 'ul', 'pchecks');
         h = panelShell(kmark(n) + esc(TLABEL[n.type]) + (topicTag(n, true) ? ' · ' + topicTag(n, true) : ''), esc(n.name), body, acts);
       } else if (n.kind === 'claim') {
-        body = (isUnv(n) ? '<p class="pflag">' + mark('unverified') + 'Denied by everyone named and not corroborated</p>' : '') + '<p class="prole">' + rich(firstSentence(n.bottom_line)) + '</p>' +
+        body = (isUnv(n) ? '<p class="pflag">' + mark('unverified') + 'Not corroborated. Denied by everyone named.</p>' : '') + '<p class="prole">' + rich(firstSentence(n.bottom_line)) + '</p>' +
           '<p class="ptally">' + bar(n.tally || [], 'mini') + esc(tallyText(n)) + '</p>';
         GROUPS.forEach(function (g) {
           var list = n.ents.filter(function (e) { return e.group === g; }).sort(function (a, b) { return a.rank - b.rank; }); if (!list.length) return;
@@ -2410,7 +2410,7 @@
         if (relc.length) body += '<h3>Related Checks <span class="cnt">' + relc.length + '</span></h3><ul class="pchecks">' + relc.map(function (c) { return '<li>' + kmark(c) + nodeBtn(c, c.title) + '</li>'; }).join('') + '</ul>';
         h = panelShell((isUnv(n) ? '<span class="v-unp">' + mark('unverified') + esc(unvText(n)) + '</span>' : verdict(n.verdict)) + ' · ' + esc(originText(n)), esc(n.name), body, acts);
       } else {
-        body = (arr(n.points)[0] ? '<p class="prole">' + rich(n.points[0]) + '</p>' : '') + '<h3>Checks Where It Recurs <span class="cnt">' + arr(n.claims).length + '</span></h3><ul class="pchecks">' +
+        body = (arr(n.points)[0] ? '<p class="prole">' + rich(n.points[0]) + '</p>' : '') + '<h3>Checks <span class="cnt">' + arr(n.claims).length + '</span></h3><ul class="pchecks">' +
           arr(n.claims).map(function (id) { var c = byKey.get(id); return c ? '<li>' + kmark(c) + nodeBtn(c, c.title) + '</li>' : ''; }).join('') + '</ul>';
         h = panelShell('Recurring Theme', esc(n.name), body, acts);
       }
@@ -2470,10 +2470,10 @@
   function renderLegend() {
     function sw(col, text, cls) { return '<li><i class="lsw' + (cls ? ' ' + cls : '') + '" style="background:' + col + '" aria-hidden="true"></i>' + text + '</li>'; }
     var lit = !!(map.sel && map.sel.kind === 'entity' && !(map.path && map.path.list)), h;
-    var mb = '<button type="button" class="namebtn lmention" data-act="mentions" aria-pressed="' + !!gl.mentions + '" title="Lines from each check to the names it mentions. They always show for a name or check you point at or select.">Mentions: ' + (gl.mentions ? 'On' : 'Off') + '</button>';
-    if (lit) h = '<p class="lhead">Lit Links, by Kind</p><ul class="lcols two">' + RKORDER.map(function (k) { return sw(GC.rk[k], RKLABEL[k].replace('&', '&amp;'), 'bar'); }).join('') + '</ul>';
-    else if (gl.colorBy === 'kind') h = '<p class="lhead">Colour, by Kind of Name</p><ul class="lcols two">' + GROUPS.map(function (g) { return sw(GC.g[g], GLABEL[g].replace('&', '&amp;')); }).join('') + '</ul>';
-    else h = '<p class="lhead">Colour, by Topic</p><ul class="lcols">' + ARCS.map(function (t, i) { return '<li><i class="lsw" style="background:' + GC.t[i % 9] + '" aria-hidden="true"></i><a class="namebtn" href="' + esc(mapTopicHref(t)) + '" data-topic="' + esc(t.id) + '">' + esc(t.short) + '</a></li>'; }).join('') + '</ul>';
+    var mb = '<button type="button" class="namebtn lmention" data-act="mentions" aria-pressed="' + !!gl.mentions + '" title="Lines from each check to the names it mentions">Mentions: ' + (gl.mentions ? 'On' : 'Off') + '</button>';
+    if (lit) h = '<p class="lhead">Lit Links by Kind</p><ul class="lcols two">' + RKORDER.map(function (k) { return sw(GC.rk[k], RKLABEL[k].replace('&', '&amp;'), 'bar'); }).join('') + '</ul>';
+    else if (gl.colorBy === 'kind') h = '<p class="lhead">Colour by Kind</p><ul class="lcols two">' + GROUPS.map(function (g) { return sw(GC.g[g], GLABEL[g].replace('&', '&amp;')); }).join('') + '</ul>';
+    else h = '<p class="lhead">Colour by Topic</p><ul class="lcols">' + ARCS.map(function (t, i) { return '<li><i class="lsw" style="background:' + GC.t[i % 9] + '" aria-hidden="true"></i><a class="namebtn" href="' + esc(mapTopicHref(t)) + '" data-topic="' + esc(t.id) + '">' + esc(t.short) + '</a></li>'; }).join('') + '</ul>';
     h += '<ul class="lrow"><li><svg width="24" height="10" viewBox="0 0 24 10" aria-hidden="true"><circle cx="3" cy="5" r="1.4"/><circle cx="10" cy="5" r="2.6"/><circle cx="19.5" cy="5" r="4"/></svg>Name, Sized by Links</li>' +
       '<li><svg width="10" height="10" viewBox="0 0 10 10" aria-hidden="true"><path d="M5 .8 9.2 5 5 9.2.8 5z"/></svg>Check</li></ul>' +
       '<ul class="lrow"><li><i class="lline" aria-hidden="true"></i>Documented Link</li><li><i class="lline dashed" aria-hidden="true"></i>Unverified</li>' +
@@ -2481,7 +2481,7 @@
     /* On a wide screen the key is folded to one line until it is asked for, so it does not take room from the globe: the
        topics are also named beside their lobes, in their colours. On a phone it opens whole from its own button. */
     var el = $('legend'), open = narrow.matches || !!gl.keyOpen, cut = h.indexOf('</p>'), was = el.getAttribute('data-open');
-    if (!narrow.matches) h = h.slice(0, cut) + ' <button type="button" class="namebtn lkey" data-act="key" aria-expanded="' + open + '" title="' + (open ? 'Hide the key' : 'Show the whole key') + '">' + (open ? '&minus; Hide Key' : '+ Key') + '</button>' + (open ? '' : ' &nbsp; ' + mb) + '</p>' + (open ? h.slice(cut + 4) : '');
+    if (!narrow.matches) h = h.slice(0, cut) + ' <button type="button" class="namebtn lkey" data-act="key" aria-expanded="' + open + '" title="' + (open ? 'Hide key' : 'Show key') + '">' + (open ? '&minus; Hide Key' : '+ Key') + '</button>' + (open ? '' : ' &nbsp; ' + mb) + '</p>' + (open ? h.slice(cut + 4) : '');
     el.innerHTML = h; el.style.width = open ? '' : 'auto'; el.setAttribute('data-open', String(open));
     if (was !== String(open) && W && gl.ok) { glFrame(); requestDraw(); }
   }
@@ -2495,16 +2495,16 @@
     $('tools-body').innerHTML = '<div class="tools-head"><h2>Filters</h2><button type="button" class="iconbtn" data-act="tools-close" aria-label="Close filters">' + XICON + '</button></div>' +
       '<div class="detailf"><span class="flab" id="lab-detail2">Labels</span><div class="seg" role="group" aria-labelledby="lab-detail2">' + ['Key Names', 'More', 'Everything'].map(function (t, i) { return '<button type="button" data-level="' + i + '" aria-pressed="' + (map.level === i) + '">' + t + '</button>'; }).join('') + '</div></div>' +
       '<div class="detailf"><span class="flab" id="lab-color2">Colour By</span><div class="seg" role="group" aria-labelledby="lab-color2">' + [['topic', 'Topic'], ['kind', 'Kind']].map(function (t) { return '<button type="button" data-color="' + t[0] + '" aria-pressed="' + (gl.colorBy === t[0]) + '">' + t[1] + '</button>'; }).join('') + '</div></div>' +
-      (realTopics.length > 1 ? '<label class="topicf"><span class="flab">Topic</span><select id="f-topic" data-group="topic"><option value="">All ' + cap(word(realTopics.length)) + ' Topics</option>' +
+      (realTopics.length > 1 ? '<label class="topicf"><span class="flab">Topic</span><select id="f-topic" data-group="topic"><option value="">All Topics</option>' +
       realTopics.map(function (t) { return '<option value="' + esc(t.id) + '"' + (F.topic === t.id ? ' selected' : '') + '>' + esc(t.name) + ' (' + t.list.length + ')</option>'; }).join('') + '</select></label>' : '') +
-      '<fieldset><legend class="flab">Kinds of Mark</legend>' +
+      '<fieldset><legend class="flab">Marks</legend>' +
       GROUPS.map(function (g) { return row('kind', g, GLABEL[g], kmark({ group: g }), counts[g] || 0); }).join('') +
       row('kind', 'claim', 'Checks', '<svg class="kmark v-hold" width="12" height="12" viewBox="0 0 12 12" aria-hidden="true"><circle cx="6" cy="6" r="4.4" fill="currentColor"/></svg>', counts.claim || 0) +
       (themes.length ? row('kind', 'theme', 'Recurring Themes', kmark({ kind: 'theme' }), counts.theme || 0) : '') + '</fieldset>' +
       '<fieldset><legend class="flab">Checks by Verdict</legend>' + presentVerdicts.map(function (v) {
         return row('verdict', v, VLABEL[v], '<span class="v-' + VGROUP[v] + ' kmark-v">' + mark(v) + '</span>', claims.filter(function (c) { return c.verdict === v; }).length);
       }).join('') + '</fieldset>' +
-      '<button type="button" class="btn" data-act="reset">Reset the Map</button>';
+      '<button type="button" class="btn" data-act="reset">Reset Map</button>';
   }
   function setTools(open) {
     $('tools-body').hidden = !open; $('tools-toggle').setAttribute('aria-expanded', String(open));
@@ -2530,8 +2530,7 @@
   }
   /* The same names as a ranked list: the alternative to the drawing, and the default on a very small screen. */
   function mapListRender() {
-    $('map-list').innerHTML = '<p class="prole">The best-connected names in the checks, with the number of documented connections each has. Select one to see them.</p>' +
-      '<h3>Most Connected Names</h3>' + fold(mapRankRows(narrow.matches ? 60 : 100), 25, 'Names', 'ol', 'pchecks prank') +
+    $('map-list').innerHTML = '<h3>Most Connected Names <span class="cnt">Links</span></h3>' + fold(mapRankRows(narrow.matches ? 60 : 100), 25, 'Names', 'ol', 'pchecks prank') +
       '<h3>Topics</h3><ul class="pchecks ptopics">' + mapTopicRows().join('') + '</ul>';
   }
   function setMode(mode, sub) {
@@ -2551,7 +2550,7 @@
     map.ready = true;
     if (narrow.matches) map.level = 0;
     readTokens(); if (!gl.ok) glLayout(); renderTools(); renderLegend(); renderChips(); setTools(false); setLevel(map.level);
-    $('note-hint').textContent = mapHint() + ' ';
+    $('map-note-text').textContent = DENIAL; $('map-note-date').textContent = ASOF ? ASOF + '.' : '';
     $('map-loading').hidden = true;
 
     /* The globe is turned by dragging, with a little momentum; the wheel or a pinch changes its size. It turns slowly by itself
@@ -2709,7 +2708,7 @@
     } catch (err) { mapSelect(a, {}); }
   }
   MXAPI.init({ esc: esc, byKey: byKey, ranked: ranked, topics: TOPICS, mapLabel: mapLabel, shortName: shortName, entHref: entHref, claimHref: claimHref, money: money, fdate: fdate, plural: plural, cap: cap,
-    plainSentence: plainSentence, RLABEL: RLABEL, narrow: narrow, kmark: kmark, XICON: XICON,
+    plainSentence: plainSentence, RLABEL: RLABEL, narrow: narrow, kmark: kmark, mark: mark, XICON: XICON,
     showPair: function (a, b) { mxToNetwork(a, b); }, showName: function (a) { mxToNetwork(a, null); } });
 
   // ------------------------------------------------------------------ routing
@@ -2771,8 +2770,8 @@
       '<h1 tabindex="-1">' + esc(c.title) + '</h1>' +
       '<dl class="casefile"><div><dt>Verdict</dt><dd><p class="cv-word v-' + VGROUP[c.verdict] + '">' + mark(c.verdict) + esc(isUnv(c) ? unvText(c) : VLABEL[c.verdict]) + '</p></dd></div>' +
       '<div><dt>Finding</dt><dd><p class="cf-find">' + rich(firstSentence(c.bottom_line)) + '</p></dd></div></dl>' +
-      (failed ? '<p class="flagbox" role="alert"><strong>The rest of this check did not load.</strong> The connection may have dropped. <button type="button" class="linkbtn" id="detail-retry">Try Again</button></p>'
-        : '<p class="sub" role="status" aria-live="polite">Loading the points, sources and report</p>') +
+      (failed ? note('err', '<strong>This check did not load.</strong> <button type="button" class="linkbtn" id="detail-retry">Try Again</button>', ' role="alert"')
+        : note('', 'Loading points and sources', ' role="status" aria-live="polite"')) +
       '</div></article>';
     var b = $('detail-retry');
     if (b) b.addEventListener('click', function () { openClaim(c, false); });
@@ -2887,7 +2886,7 @@
   if (window.MutationObserver) new MutationObserver(themeChanged).observe(root, { attributes: true, attributeFilter: ['data-theme'] });
 
   // ------------------------------------------------------------------ start
-  $('foot-meta').textContent = num(claims.length) + ' checks, ' + num(META.sources || 0) + ' sources cited' + (META.generated ? ', data built ' + fdate(META.generated) + '. Later developments are not reflected' : '') + '.';
+  $('foot-meta').textContent = ASOF ? ASOF + '.' : '';
   attachSearch($('search'), $('search-results'));
   var searchBtn = $('search-toggle');
   if (searchBtn) searchBtn.addEventListener('click', function () {

@@ -10,7 +10,7 @@ const ROOT = path.resolve(__dirname, '..');
 const yaml = fs.readFileSync(path.join(ROOT, 'render.yaml'), 'utf8');
 const cspM = /name: Content-Security-Policy\s*\n\s*value: "([^"]+)"/.exec(yaml);
 const CSP = cspM ? cspM[1] : '';
-const NOTE = 'Everyone named denies wrongdoing';
+const NOTE = 'Everyone named denies wrongdoing. A link is a documented relationship, not proof of cause.';
 const CHECKS = ['C06', 'C37', 'C46', 'C01', 'C15', 'C22', 'C33', 'C58', 'C77', 'C94'];
 const NAMES = ['donald-trump', 'jared-kushner', 'world-liberty-financial', 'qatar', 'sec', 'eric-trump', 'steve-witkoff', 'binance', 'white-house', 'affinity-partners'];
 const TOPIC = 'gulf-money';
@@ -31,12 +31,12 @@ const pageSlot = html => { const i = html.indexOf('<div id="page"'), j = html.in
     { url: '/', kind: 'home', ready: '#topics .topicnav', has: ['The Money, the Deals & the Connections Around the President', 'Checks in'] },
     { url: '/checks/', kind: 'home', ready: '#topics .topicnav', has: ['Checks in', 'Gulf Money', 'Unverified, Single Source'] },
     ...CHECKS.map(id => ({ url: '/checks/' + id + '/', kind: 'check', id, ready: '.article .aside .glance', has: ['The Claim', 'Verdict', 'Finding', 'The Points Checked', 'Sources', 'Who Is Involved'] })),
-    ...names.map(id => ({ url: '/names/' + id + '/', kind: 'name', id, ready: 'article.profile .pbody', has: ['Checks That Name', 'documented connection'] })),
+    ...names.map(id => ({ url: '/names/' + id + '/', kind: 'name', id, ready: 'article.profile .pbody', has: ['Checks That Name', 'documented link'] })),
     { url: '/names/', kind: 'names', ready: '.tabs [role=tab]', has: ['People & Organisations', 'Donald Trump', 'Companies & Funds'] },
-    { url: '/method/', kind: 'method', ready: 'ol.steps', has: ['How We Checked', 'What the Verdicts Mean', 'Evidence Grades for Connections', 'Limits You Should Know About'] },
-    { url: '/map/', kind: 'map', ready: '#graph', has: ['Map of Every Check, Name & Connection', 'Most Connected Names'] },
+    { url: '/method/', kind: 'method', ready: 'ol.msteps', has: ['How We Checked', 'Method', 'Verdicts', 'Evidence Grades', 'Limits', 'Send a source'] },
+    { url: '/map/', kind: 'map', ready: '#graph', has: ['Map of Checks, Names & Links', 'Most Connected Names'] },
     { url: '/map/matrix/', kind: 'matrix', ready: '#matrix', has: ['Matrix of the Most Connected Names'] },
-    { url: '/map/topic/' + TOPIC + '/', kind: 'maptopic', ready: '#graph', has: ['Gulf Money on the Map', 'Names These Checks Mention Most'] }
+    { url: '/map/topic/' + TOPIC + '/', kind: 'maptopic', ready: '#graph', has: ['Gulf Money on the Map', 'Most-Named in These Checks'] }
   ];
 
   // ---- 1. the raw HTML, as a crawler or a reader without JavaScript gets it
@@ -47,7 +47,7 @@ const pageSlot = html => { const i = html.indexOf('<div id="page"'), j = html.in
     ok(tag + 'status 200', r.status === 200, r.status);
     ok(tag + 'has its own title, description and Open Graph tags', /<title>[^<]{5,}<\/title>/.test(r.body) && /<meta name="description" content="[^"]{30,}">/.test(r.body) && /<meta property="og:title" content="[^"]+">/.test(r.body) && /<meta name="twitter:card"/.test(r.body));
     ok(tag + 'one h1 in the content', (pageSlot(r.body).match(/<h1[ >]/g) || []).length === 1);
-    ok(tag + 'standing note in the content', t.includes(NOTE));
+    ok(tag + 'the denial note appears once, in the footer, with the data date', text(r.body).split(NOTE).length === 2 && /<footer[\s\S]*Everyone named denies wrongdoing\.[\s\S]*Data as of \d/.test(r.body));
     for (const h of pg.has) ok(tag + 'contains "' + h + '"', t.includes(h));
     ok(tag + 'no hash routes left in the HTML', !/href="#(?!app")/.test(r.body), (r.body.match(/href="#(?!app")[^"]*"/) || [])[0]);
     ok(tag + 'asset addresses are absolute', !/(?:src|href)="(?!\/|https:\/\/|#)[^"]*"/.test(r.body), (r.body.match(/(?:src|href)="(?!\/|https:\/\/|#)[^"]*"/) || [])[0]);
@@ -61,7 +61,7 @@ const pageSlot = html => { const i = html.indexOf('<div id="page"'), j = html.in
       ok(tag + 'preloads only its own detail file', (r.body.match(/rel="preload" as="fetch"[^>]*href="[^"]*"/g) || []).length === 1 && new RegExp('/assets/d/' + pg.id + '\\.[0-9a-f]+\\.json').test(r.body));
       if (c.verdict === 'unverified') ok(tag + 'marked as an unverified single-source allegation', t.includes('Unverified, Single Source') && t.includes('rests on one source') && t.includes('Everyone named denies it') && /name="description" content="Unverified single-source allegation, denied by everyone named/.test(r.body));
     }
-    if (pg.kind === 'name') { const e = node('entity', pg.id); ok(tag + 'name, role and connections', t.includes(e.title) && (!e.role || t.includes(e.role.slice(0, 40))) && /Strongest Connections/.test(t), e.title); }
+    if (pg.kind === 'name') { const e = node('entity', pg.id); ok(tag + 'name, role and connections', t.includes(e.title) && (!e.role || t.includes(e.role.slice(0, 40))) && /Closest Connections/.test(t), e.title); }
   }
   for (const u of ['/', '/method/', '/map/', '/map/matrix/', '/404.html']) {   // pages whose words are ours, not names or headlines from the data
     const t = text(pageSlot((await raw(port, u)).body));
@@ -75,7 +75,7 @@ const pageSlot = html => { const i = html.indexOf('<div id="page"'), j = html.in
       ok('raw ' + u + ': every listing of ' + id + ' says Unverified, Single Source', bad === 0, bad + ' of ' + n);
     }
   }
-  { const r = await raw(port, '/no/such/page/'); ok('a miss answers 404 with the friendly page', r.status === 404 && /That Page Is Not Here/.test(r.body) && /name="robots" content="noindex"/.test(r.body) && /href="\/checks\/"/.test(r.body), r.status); }
+  { const r = await raw(port, '/no/such/page/'); ok('a miss answers 404 with the friendly page', r.status === 404 && /Page Not Found/.test(r.body) && /name="robots" content="noindex"/.test(r.body) && /href="\/checks\/"/.test(r.body), r.status); }
   { const r = await raw(port, '/checks/C999/'); ok('an unknown check answers 404', r.status === 404, r.status); }
   { const r = await raw(port, '/robots.txt'); ok('robots.txt', r.status === 200 && /User-agent: \*/.test(r.body)); }
   { const home = (await raw(port, '/')).body, has = fs.existsSync(path.join(site, 'sitemap.xml')), canon = /rel="canonical"/.test(home);
@@ -108,7 +108,7 @@ const pageSlot = html => { const i = html.indexOf('<div id="page"'), j = html.in
   });
   for (const width of [1440, 400]) {
     const direct = await open(width), nav = await open(width);
-    await nav.goto(origin + '/method/', { waitUntil: 'load' }); await nav.waitForSelector('ol.steps');
+    await nav.goto(origin + '/method/', { waitUntil: 'load' }); await nav.waitForSelector('ol.msteps');
     await nav.evaluate(() => { window.__sameDocument = true; });
     for (const pg of PAGES) {
       const tag = width + ' ' + pg.url + ': ';
@@ -122,7 +122,7 @@ const pageSlot = html => { const i = html.indexOf('<div id="page"'), j = html.in
           const got = server.log.slice(before).map(l => l.url).filter(u => u.startsWith('/assets/d/'));
           ok(tag + 'fetches only its own detail file', got.length === 1 && got[0].startsWith('/assets/d/' + pg.id + '.'), got.join(' '));
           ok(tag + 'points, sources and report are drawn', await direct.evaluate(() => !!document.querySelector('#holds, #fixes, #unproven') && !!document.querySelector('#sources') && !!document.querySelector('#report-box') && document.querySelectorAll('ol.points > li').length > 0));
-          if (pg.id === 'C37' || pg.id === 'C46') ok(tag + 'flagged as unverified, single source', await direct.evaluate(() => /Unverified, Single Source/.test((document.querySelector('.flagbox') || {}).textContent || '')));
+          if (pg.id === 'C37' || pg.id === 'C46') ok(tag + 'flagged as unverified, single source', await direct.evaluate(() => /Unverified, Single Source/.test((document.querySelector('.inote.unv') || {}).textContent || '')));
         }
         if (pg.kind === 'map' || pg.kind === 'maptopic') ok(tag + 'the map is drawn', await direct.evaluate(() => document.getElementById('map-loading').hidden && !document.getElementById('mapview').hidden && document.getElementById('graph').width > 100));
         if (pg.kind === 'maptopic') ok(tag + 'the topic is selected', /Gulf Money/.test(await direct.evaluate(() => document.getElementById('hud').textContent + document.getElementById('panel').textContent)));
@@ -142,7 +142,7 @@ const pageSlot = html => { const i = html.indexOf('<div id="page"'), j = html.in
     await nav.goBack(); await nav.waitForTimeout(500); ok(width + ' back once', (await where(nav)) === last[1], await where(nav));
     ok(width + ' back shows the matrix', await nav.evaluate(() => !document.getElementById('matrix').hidden));
     await nav.goBack(); await nav.waitForTimeout(500); ok(width + ' back twice', (await where(nav)) === last[0] && await nav.evaluate(() => document.getElementById('matrix').hidden && !document.getElementById('map-stage').hidden || !document.getElementById('map-list').hidden), await where(nav));
-    await nav.goBack(); await nav.waitForTimeout(500); ok(width + ' back to a page', (await where(nav)) === '/method/' && await nav.evaluate(() => document.getElementById('mapview').hidden && !!document.querySelector('ol.steps')), await where(nav));
+    await nav.goBack(); await nav.waitForTimeout(500); ok(width + ' back to a page', (await where(nav)) === '/method/' && await nav.evaluate(() => document.getElementById('mapview').hidden && !!document.querySelector('ol.msteps')), await where(nav));
     await nav.goForward(); await nav.goForward(); await nav.goForward(); await nav.waitForTimeout(600);
     ok(width + ' forward three times', (await where(nav)) === last[2] && await nav.evaluate(() => window.__sameDocument === true), await where(nav));
     await direct.context().close(); await nav.context().close();
@@ -201,7 +201,7 @@ const pageSlot = html => { const i = html.indexOf('<div id="page"'), j = html.in
     await p.route(/\/assets\/d\//, async r => { await new Promise(x => setTimeout(x, 700)); r.continue(); });
     await p.evaluate(() => { const a = document.createElement('a'); a.href = '/checks/C46/'; document.body.appendChild(a); a.click(); a.remove(); });
     await p.waitForSelector('[role=status]');
-    ok('journey: a loading state while the detail is fetched, already marked unverified', await p.evaluate(() => /Loading the points/.test(document.getElementById('page').textContent) && /Unverified, Single Source/.test(document.querySelector('.cv-word').textContent)));
+    ok('journey: a loading state while the detail is fetched, already marked unverified', await p.evaluate(() => /Loading points/.test(document.getElementById('page').textContent) && /Unverified, Single Source/.test(document.querySelector('.cv-word').textContent)));
     await p.waitForSelector('.article .aside .glance'); await p.unroute(/\/assets\/d\//);
     await p.context().close();
   }
@@ -218,7 +218,7 @@ const pageSlot = html => { const i = html.indexOf('<div id="page"'), j = html.in
     ok('old address /#C06 shows the check', await p.goto(origin + '/#C06').then(() => p.waitForSelector('.article .aside .glance')).then(() => true, () => false));
     p.quiet = true;   // the 404 itself is reported by the browser as a failed resource
     const r = await p.goto(origin + '/checks/nothing-here/', { waitUntil: 'load' }); await p.waitForTimeout(400);
-    ok('a miss in the browser: 404, the friendly page, the search still works', r.status() === 404 && /That Page Is Not Here/.test(await p.evaluate(() => document.querySelector('#page h1').textContent)) && (await p.title()).startsWith('Page Not Found'));
+    ok('a miss in the browser: 404, the friendly page, the search still works', r.status() === 404 && /Page Not Found/.test(await p.evaluate(() => document.querySelector('#page h1').textContent)) && (await p.title()).startsWith('Page Not Found'));
     await p.fill('#search', 'qatar'); await p.waitForSelector('#search-results [role=option]'); await p.keyboard.press('Enter'); await p.waitForSelector('article.profile');
     ok('a miss in the browser: a search result opens from there', (await where(p)) === '/names/qatar/', await where(p));
     await p.context().close();
