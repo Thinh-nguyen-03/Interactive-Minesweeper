@@ -25,6 +25,8 @@ The core facts hold up: the $1.5B deal, the reported ~$500M and ~$90M payouts, t
 - The entity is DT Marks DEFI LLC, which holds a contractual right to 75% of WLF's net token-sale proceeds.
 - The number is an estimate after fees. No filing itemizes the actual cash paid.
 - A Reuters-based tally gives a higher figure (~$987M) for total token-sale proceeds across all sales, so estimates differ by scope.
+- Trump's 2025 OGE report lists $526.8M of token-sale proceeds distributed by WLF to DT Marks DEFI in 2025 and does not separate ALT5's purchases. DT Marks DEFI is 70% Trump's and 30% unnamed family members', and the form does not say whether the amounts are entity totals or Trump's share. Reuters and CAP put ALT5's cash purchases of WLFI at $717M.
+- House Oversight Committee Democratic staff (Jan 20, 2026) counted the full $1.45B of the ALT5 deal as token sales in their "at least $2.165 billion" of sales and "nearly $1.6 billion" potential payout. About half of the deal was WLFI exchanged for ALT5 shares, not cash, so that count overstates the cash.
 
 ### 3. About $90M to the Witkoff family: partly confirmed
 - Coverage of a February 2026 WSJ feature says "more than $500 million flowed to Trump entities and $90 million to Witkoffs through this structure" [8][9][19].
@@ -96,3 +98,10 @@ The core facts hold up: the $1.5B deal, the reported ~$500M and ~$90M payouts, t
 
 ## Audit (second review, Nov 2026)
 Result: **upheld**. Re-checked the AIFC rename and ticker dates, the $500M and $90M figures, and the stock decline. The company release confirms the rename (2026-04-28) and the ticker change (2026-04-29). The Daily Beast and IBTimes describe the $500M as an entitlement or estimate, and the stock at about 66 cents in mid-2026 is consistent with a drop of more than 90%. The $90M Witkoff figure still traces only to secondary relays of the WSJ, and other Witkoff totals (≥$200M; ABC's ~$107M for Steve Witkoff from a WLF-affiliated holding company in one year) measure different things. A filing-summary site mentions a Nasdaq listing deficiency (cure date 2026-12-28); I did not verify it, so it is not added. Sources: https://www.newswire.com/news/ai-financial-corporation-formerly-alt5-sigma-begins-trading-under-new-nasdaq ; https://www.thedailybeast.com/trump-family-scores-massive-payday-as-company-falls-apart?.tsrc=rss ; https://www.ibtimes.com/trump-family-reportedly-earned-hundreds-millions-crypto-deal-partner-firms-stock-tumbles-3803931
+
+## Audit addendum (16 Nov 2026, disclosure check)
+
+- **What the disclosure shows.** Trump's 2025 OGE report lists $526.8M of WLF token proceeds on the lines of DT Marks DEFI (70% Trump's, 30% unnamed family members') without separating ALT5. The ALT5 money therefore remains an estimate.
+- **The House Democrats' count.** The House Oversight Democrats' tally counts all $1.45B of the ALT5 deal as token sales. That overstates the cash, because about $750M was WLFI exchanged for shares.
+- **Lead only, unverified.** The Block reported "some evidence of unusual trading activity" in ALT5 shares before the August 11, 2025 announcement, and said ALT5 is not accused of wrongdoing. No trader has been identified and no authority has made a finding (see C102). https://www.theblock.co/post/380564/turmoil-inside-world-liberty-crypto-treasury-investigations-firings-rwandan-money-laundering-conviction
+- The verdict is unchanged.

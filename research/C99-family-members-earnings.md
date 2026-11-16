@@ -8,11 +8,12 @@ The question asks what each relative has earned or gained since the term began o
 - **For the sons, the record is mostly equity at paper value.** It comes from SEC filings (American Bitcoin, Dominari, the SPAC, GrabAGun, Unusual Machines) and from press estimates. Their salaries, board fees, Trump Organization distributions and 1789 Capital economics are not public, because they file no disclosures.
 - **A family slice of the World Liberty money exists but is not attributed to anyone.** The President's own report shows that 30% of DT Marks DEFI and DT Marks SC, the entities that receive the World Liberty and USD1 money, belongs to unnamed "Trump Family Members". No filing says who they are or what each received.
 - **Kushner's fees are documented as a schedule, not as receipts.** Affinity Partners was due $90M more in foreign management fees from September 2024 to August 2026, per the Senate Finance Committee. What was actually paid, and what reached Kushner personally, is not public.
+- **Unnamed family members also hold 20% of many foreign licensing companies.** Twelve licensing LLCs owned 79% by the President's structure and 20% by "Trump Family Members" reported $54.49M of 2025 fees. No split by person is given.
 - **The other relatives' in-term money is barely documented.** For Ivanka, Lara and Tiffany Trump, the Boulos family, Charles Kushner and Kimberly Guilfoyle, we found little or no documented income during the term.
 
 **Rules used here.** Paper value is never added to cash. Net-worth estimates are not income. Money received during the presidency is not presented as money earned because of it.
 
-**Source limits.** Direct fetching of Forbes, sec.gov and House Oversight pages was blocked in this session. SEC filings and Forbes figures were therefore read as search excerpts. Four documents were read in full:
+**Source limits.** Direct fetching of sec.gov and House Oversight pages was blocked in this session, so SEC filings were read as search excerpts. The second review read two Forbes articles in full (Don Jr., Dec 2025; Eric, Apr 2026). Documents read in full:
 - the President's 2025 and 2024 OGE reports (the relevant sections)
 - the Senate Finance Committee's September 2024 letter to Affinity
 - the Center for American Progress (CAP) July 2026 memo
@@ -38,38 +39,38 @@ What have Donald Trump Jr., Eric Trump, Jared Kushner, Ivanka Trump, Melania Tru
 ### Donald Trump Jr.: mostly equity, cash undisclosed
 - **How he is paid.** Dow Jones counted eight advisory roles by September 2025. CREW counts board seats at PSQ (PublicSquare), GrabAGun, BlinkRx and Colombier III, and advisory roles at Unusual Machines, Polymarket, Dominari and the New America SPAC. Pay is mostly in stock [8][9].
 - **Holdings, all at paper value:**
-  - **GrabAGun:** 300,000 shares, about $4M as of July 2025 (Bloomberg) [10].
-  - **Unusual Machines:** 331,580 shares, about $4M as of October 2025 (FT). This role predates the term [11].
-  - **Dominari:** 966,138 shares (13G, February 2025), about $4.5-4.8M at the end-2025 price by our arithmetic, against a cash cost of about $1M. A widely repeated "sale of 1,504,322 shares" misreads the S-3 resale table; MarketWatch corrected it [12][13].
+  - **GrabAGun:** 300,000 shares, about $4M as of July 2025 (Bloomberg) [10]; a later Form 4 reportedly took his direct holding to 311,433. About $0.45M at the $1.46 close on 13 Nov 2026, if still held (our arithmetic).
+  - **Unusual Machines:** 331,580 shares, about $4M as of October 2025 (FT). This role predates the term [11]. About $3.7M at the $11.28 close on 13 Nov 2026, if still held (our arithmetic).
+  - **Dominari:** 966,138 shares (13G, February 2025), about $4.8M at the $4.95 end-2025 close by our arithmetic, against a cash cost of about $1M. A widely repeated "sale of 1,504,322 shares" misreads the S-3 resale table; MarketWatch corrected it [12][13]. Later 13G filings (seen as search excerpts) show his holding rising to 1,182,276 shares (5.23%, May 2026) and 1,398,414 shares (5.77%, Sept 2026 filing, after a warrant exercise). No sale is documented. At the $0.78 close on 13 Nov 2026 that is about $1.1M (our arithmetic).
   - **New America SPAC:** 2M founder shares, about $20M only if a merger closes (C27) [14].
   - **Kalshi:** more than $300K of shares at grant in January 2025. One June 2026 estimate puts them at about $6M; the FT reports heavy dilution. **Single-source estimate** [15][16].
   - **PSQ:** director pay is described as $300K of initial RSUs and $150K a year. **Single-source summary**; his own grants were not confirmed [17].
-  - **American Bitcoin:** he is a shareholder, but the stake is undisclosed and below the proxy's reporting threshold.
+  - **American Bitcoin:** he is a shareholder, but the stake is undisclosed and below the proxy's reporting threshold. Forbes estimates 1-5% (Dec 2025).
 - **Not quantified:**
   - his 1789 Capital partnership economics
   - his Executive Branch club share
   - his Polymarket advisory pay. The roughly $500M Polymarket position is 1789's, not his [18].
-- **Kalshi exit.** Headlines from Unchained and AOL say Kalshi ended his advisory contract around 12 November 2026. **Unverified**: only headlines were seen [19].
-- **Estimate.** Forbes: about $300M (8 December 2025), from about $50M in November 2024 [20].
-- **Response.** His spokesperson says he "does not engage with the federal government on behalf of any company he invests in or advises". Kalshi says he advises on marketing.
+- **Kalshi exit: confirmed.** Kalshi and Don Jr. ended his advisory role on 12 November 2026. A Kalshi spokesperson said: "We have mutually agreed to end Don's advisory role after his firm's significant investment in a competitor this past summer" (1789 Capital's Polymarket stake), and that politics played no part. Talks began in August (AP). He keeps his Polymarket role. Kalshi did not say what happens to his diluted equity [19][50].
+- **Estimate.** Forbes: about $500M (September 2025), then about $300M (8 December 2025), from about $50M in November 2024. The December piece also estimated about $3.2M of 2024 income from new foreign licensing deals and a $34M share of the family licensing business [20].
+- **Response.** His spokesperson says he "does not engage with the federal government on behalf of any company he invests in or advises". Kalshi said he advised on marketing and that his exit had nothing to do with politics.
 
 ### Eric Trump: one large paper stake, much smaller now
 - **American Bitcoin.** The 13D/A and the April 2026 proxy show 68,432,664 shares (pre-split), held mainly through his 2015 revocable trust. After the 1-for-15 reverse split in July 2026, that is about 4.56M shares. At the $5.07 close on 13 November 2026 the stake is **about $23M (our arithmetic)** [21][22][23].
-  - At the September 2025 debut Forbes briefly put him above $1B. Bloomberg estimates the stake has since lost more than $600M [24].
+  - At the September 2025 debut Forbes briefly put him above $1B. By our arithmetic on split-adjusted closes the stake was about $637M at the 9 September 2025 high close, $116M at end-2025 and $80M at end-April 2026. Bloomberg estimates it has lost more than $600M [24].
   - He said in December 2025 that he was holding all his shares [25].
   - One outlet reports that his advisory agreement carries no pay (**single-source**) [26].
-- **Dominari:** the same position as Don Jr., about $4.5-4.8M (our arithmetic).
+- **Dominari:** the same February 2025 position as Don Jr., about $4.8M at end-2025 (our arithmetic). A ticker-tracking site lists him at 5.77% in September 2026 (single-source); no sale is documented.
 - **New America SPAC:** 3M founder shares, about $30M, contingent on a merger.
 - **No amounts public:**
   - ALT5 Sigma: he was moved from director to board observer in 2025 and was off the leadership page by April 2026 [27][28].
   - Metaplanet adviser terms.
   - Trump Organization pay.
   - His October 2025 book "Under Siege" (Threshold Editions) [29].
-- **Estimate.** Forbes: about $400M (4 December 2025), then about $280M (28 April 2026, excerpt only) [30][31]. Eric disputed the December figure.
+- **Estimate.** Forbes: about $400M (4 December 2025), then about $280M (28 April 2026, read in full) [30][31]. Eric disputed the December figure.
 
 ### Barron Trump: estimates only
 - WLF lists him as a co-founder.
-- Forbes estimated about $40M of token proceeds (about $25M after tax) in mid-2025 [32], and about $150M of net worth in September/October 2025 [33][34]. Forbes's method assumes he holds about 10% of the WLF value attributed to the family, with locked tokens heavily discounted.
+- Forbes estimated about $40M of token proceeds (about $25M after tax) in mid-2025 [32], and about $150M of net worth in September/October 2025 [33][34]. In December 2025 Forbes worked on the assumption that each co-founder son might hold about 7%, or roughly $80M of after-tax cash [20]. Forbes's method assumes he holds about 10% of the WLF value attributed to the family, with locked tokens heavily discounted.
 - No filing gives his stake. The only documentary trace is the unnamed 30% family-member interest in DT Marks DEFI and DT Marks SC (see below). Both estimates **overlap with C97**.
 
 ### The 30% "Trump Family Members" interest in the WLF and USD1 entities
@@ -79,6 +80,15 @@ What have Donald Trump Jr., Eric Trump, Jared Kushner, Ivanka Trump, Melania Tru
   - about $526.8M of token-sale distributions (CAP's sum of lines 124.3-124.12)
   - $196.9M from Stablecoin Holdco
 - **Inferred family share.** It is about $237M if those figures are entity totals, or about $338M if they are the President's share. Both numbers are **inferred** (our arithmetic). They are not documented payments, they are not attributed to any named person, and they **overlap entirely with C97**.
+
+### The 20% "Trump Family Members" interest in licensing companies
+- **What the 2025 report shows.** Most new licensing LLCs are owned "DTTM Operations LLC - Limited Partner - 79%; Trump Family Members - Limited Partner - 20%" plus a 1% member corporation. Twelve of them reported 2025 fees [1]:
+  - Doha $5,250,000; Dubai DG $10,361,458.68; KSA $9,243,574.15
+  - Abu Dhabi $5,000,000; Al Raha Beach $5,000,000
+  - Bucharest $5,000,000; Vietnam $5,000,000
+  - Gurgaon 69 $3,637,775; Hyderabad, Noida 94, Pune Mundhwa and Philippines SV $1,500,000 each
+- That is $54.49M of the $63.06M of foreign fees in C98. Older licences (Oman, the Damac Dubai golf deals, Istanbul, Worli) are 99% DTTM Operations. The 2024 report already used the 20% split for Dubai DG, KSA and Vietnam [2].
+- **Inferred family share.** About $10.9M for 2025 if the fees are entity totals and were distributed pro rata (**inferred**, our arithmetic). No person is named and no distribution is shown. This **overlaps C98 and C96**.
 
 ### Jared Kushner: documented fee schedule, undisclosed take
 - **Fees.** The Senate Finance Committee letter of 24 September 2024 (read in full) says Affinity had collected about $157.5M in management fees from foreign investors, including $87M from PIF [35][36]:
@@ -110,22 +120,23 @@ What have Donald Trump Jr., Eric Trump, Jared Kushner, Ivanka Trump, Melania Tru
 | Person | Cash / reported income (documented) | Paper value or estimate |
 |---|---|---|
 | Melania Trump | $17.24M net proceeds, 2025 (OGE); plus $0.1-1M capital gains | Reported $40M Amazon deal, more than 70% hers (WSJ, single-source) |
-| Donald Trump Jr. | None disclosed | GrabAGun ~$4M (Jul 2025); UMAC ~$4M (Oct 2025); Dominari ~$4.5-4.8M (inferred); SPAC up to $20M (contingent); Kalshi $0.3-6M; Forbes ~$300M net worth |
-| Eric Trump | None disclosed; ABTC role reportedly unpaid | ABTC ~$23M (13 Nov 2026, inferred); Dominari ~$4.5-4.8M; SPAC up to $30M; Forbes ~$280M (Apr 2026) |
+| Donald Trump Jr. | None disclosed | GrabAGun ~$4M (Jul 2025), ~$0.45M (Nov 2026); UMAC ~$4M (Oct 2025), ~$3.7M (Nov 2026); Dominari ~$4.8M (end-2025), ~$1.1M (Nov 2026) (inferred); SPAC up to $20M (contingent); Kalshi $0.3-6M (role ended Nov 2026); Forbes ~$300M net worth |
+| Eric Trump | None disclosed; ABTC role reportedly unpaid | ABTC ~$637M peak close, ~$23M (13 Nov 2026, inferred); Dominari ~$4.8M (end-2025); SPAC up to $30M; Forbes ~$280M (Apr 2026) |
 | Barron Trump | None disclosed | Forbes ~$40M token proceeds; ~$150M net worth (Oct 2025) |
 | Unnamed family members (30%) | Not attributed | ~$237-338M share of 2025 WLF/USD1 entity income (inferred; overlaps C97) |
+| Unnamed family members (20% of licensing LLCs) | Not attributed | ~$10.9M share of $54.49M 2025 licensing fees (inferred; overlaps C98) |
 | Jared Kushner | Not disclosed personally | Affinity fees ~$70-80M in term (inferred from Senate schedule); Forbes >$1B net worth |
 | Others | None documented in term | n/a |
 
 ## Corrections to earlier checks
 - **C44.** The $10.71M film fee is listed in Part 5 (spouse income) of the primary OGE report, under MKT World LLC. That settles the earlier split among outlets: it is Melania Trump's income, reported on the President's form.
 - **C42 and C04.** DT Marks DEFI is not wholly Trump-owned. It is 69% DTTM Operations, 1% member corporation and 30% "Trump Family Members", and DT Marks SC is split the same way.
-- **C29.** Forbes's Eric figure of about $400M (December 2025) has been superseded by about $280M (April 2026). His American Bitcoin stake was about $23M on 13 November 2026, not the roughly $160M valued in December 2025.
+- **C29.** Forbes's Eric figure of about $400M (December 2025) has been superseded by about $280M (April 2026). His American Bitcoin stake was about $116M at the 31 December 2025 close (not about $160M) and about $23M on 13 November 2026.
 - **C39.** Reports of a Don Jr. Dominari share sale misread the S-3 resale table. No sale is documented, which matches C39's reading.
 - **"The brothers own about 20% of American Bitcoin."** That was the combined Trump-linked stake at launch. Only Eric's stake is in the proxy.
 
 ## Not established
-- Who the 30% family members are, and how the 30% is split.
+- Who the 30% and 20% family members are, and how their shares are split.
 - Any son's salary, board fee in cash, or Trump Organization distribution.
 - Kushner's personal income from Affinity, and its actual fee receipts after September 2024.
 - The rest of the Amazon payment.
@@ -150,8 +161,8 @@ What have Donald Trump Jr., Eric Trump, Jared Kushner, Ivanka Trump, Melania Tru
 16. Benzinga (via Yahoo), 2026, Kalshi stake. Excerpt. https://finance.yahoo.com/markets/options/articles/donald-trump-jr-got-kalshi-220055638.html
 17. Quartr, 2026, PSQ proxy summary. Excerpt. https://quartr.com/events/psq-holdings-inc-psqh-proxy-filing_F9y6ymLY
 18. CryptoPotato, 2026-08, 1789 and Polymarket. Excerpt. https://cryptopotato.com/donald-trump-jr-s-1789-capital-to-put-300m-into-polymarket/
-19. Unchained, 2026-11, Kalshi exit. Headline/excerpt. https://unchainedcrypto.com/donald-trump-jr-leaves-kalshi-keeps-polymarket-role-a-week-after-democrats-win-congress/ ; AOL https://www.aol.com/articles/kalshi-ended-donald-trump-jr-141846000.html
-20. Forbes, 2025-12-08, Don Jr. Excerpt. https://www.forbes.com/sites/kylemullins/2025/12/08/how-donald-trump-jrs-fortune-jumped-six-fold-in-a-year/
+19. Unchained, 2026-11-13, Kalshi exit (read in full). https://unchainedcrypto.com/donald-trump-jr-leaves-kalshi-keeps-polymarket-role-a-week-after-democrats-win-congress/ ; AOL https://www.aol.com/articles/kalshi-ended-donald-trump-jr-141846000.html
+20. Forbes, 2025-12-08, Don Jr. (read in full). https://www.forbes.com/sites/kylemullins/2025/12/08/how-donald-trump-jrs-fortune-jumped-six-fold-in-a-year/
 21. American Bitcoin DEF 14A, 2026-04-24. Excerpt. https://www.sec.gov/Archives/edgar/data/0001755953/000119312526178754/abtc-20260424.htm
 22. American Bitcoin Schedule 13D/A, 2025. Excerpt. https://www.sec.gov/Archives/edgar/data/0001755953/000121390025124157/primary_doc.xml
 23. StockAnalysis, ABTC close 2026-11-13. **Read in full.** https://stockanalysis.com/stocks/abtc/ ; reverse split: The Block https://www.theblock.co/post/406941/trump-backed-american-bitcoin-1-for-15-reverse-stock-split-maintain-nasdaq-listing
@@ -162,7 +173,7 @@ What have Donald Trump Jr., Eric Trump, Jared Kushner, Ivanka Trump, Melania Tru
 28. Spokesman-Review, 2026-04-30. Excerpt. https://www.spokesman.com/stories/2026/apr/30/eric-trump-disappears-from-troubled-fintechs-publi/
 29. Trump Organization release, 2025-09-05. Excerpt. https://www.trump.com/media/threshold-editions-to-publish-explosive-new-memoir-by-eric-trump-under-siege-my-familys-fight-to-save-the-nation/
 30. Forbes, 2025-12-04, Eric. Excerpt. https://www.forbes.com/sites/kylemullins/2025/12/04/eric-trump-has-gotten-10-times-richer-since-dads-election/
-31. Forbes, 2026-04-28, Eric. Excerpt. https://www.forbes.com/sites/danalexander/2026/04/28/how-eric-trump-got-rich-from-bitcoin-while-losing-investors-a-fortune/
+31. Forbes, 2026-04-28, Eric (read in full). https://www.forbes.com/sites/danalexander/2026/04/28/how-eric-trump-got-rich-from-bitcoin-while-losing-investors-a-fortune/
 32. Benzinga, 2025-06, Barron $40M. Excerpt. https://www.benzinga.com/markets/25/06/46017024/trump-financial-disclosures-reveal-barron-trumps-potential-40-million-windfall-from-crypto-project
 33. Forbes, 2025-09-22, family tally. Excerpt. https://www.forbes.com/sites/danalexander/2025/09/22/heres-how-much-the-trump-kids-have-made-because-of-the-presidency/
 34. Revista Mercado, 2026, Barron. Excerpt. https://revistamercado.do/criptomonedas/barron-trump-fortuna-150-millones/
@@ -181,3 +192,18 @@ What have Donald Trump Jr., Eric Trump, Jared Kushner, Ivanka Trump, Melania Tru
 47. ProPublica disclosure page, Guilfoyle. Excerpt. https://projects.propublica.org/trump-team-financial-disclosures/appointees/guilfoyle-kimberly
 48. KUTV (WSJ report), 2026-10. Excerpt. https://kutv.com/news/nation-world/donald-trump-jrs-former-girlfriend-begged-donor-to-pay-her-100k-amex-bill-report-kentucky-greece-gavin-newsom
 49. WND, 2026-10, Guilfoyle denial. Excerpt. https://www.wnd.com/2026/10/these-allegations-are-false-kimberly-guilfoyle-fires-back/
+50. Unchained, "Donald Trump Jr. Leaves Kalshi, Keeps Polymarket Role a Week After Democrats Win Congress," 2026-11-13 (read in full). https://unchainedcrypto.com/donald-trump-jr-leaves-kalshi-keeps-polymarket-role-a-week-after-democrats-win-congress/
+51. SEC EDGAR, Dominari Holdings Schedule 13G filings for Donald J. Trump Jr., 2026 (search excerpts). https://www.sec.gov/Archives/edgar/data/0000012239/000121390026063164/primary_doc.xml ; https://www.sec.gov/Archives/edgar/data/0000012239/000121390026100325/primary_doc.xml
+52. StockAnalysis, price histories for DOMH, PEW, UMAC and ABTC, to 2026-11-13. https://stockanalysis.com/stocks/domh/history/
+
+## Audit (second review, 16 Nov 2026)
+
+Result: **corrected** (verdict and confidence unchanged).
+
+- **Upheld from the primary documents.** Part 5 of the 2025 OGE report reads: "License agreement with Designers Manager - Film "Melania" ... Net proceeds $10,710,000"; "...for the sale of NFTs and other collectibles ... Net proceeds $6,011,259"; "..."Melania" Publisher Skyhorse ... Net proceeds $521,161". The Senate Finance letter (read in full) gives "approximately $157.5 million", "$87 million from the Saudi PIF" and "an additional $90 million ... with $50 million" from PIF. Eric Trump's 68,432,664 American Bitcoin shares (13D/A, 7.4%) and the 1-for-15 reverse split of 6 July 2026 are confirmed.
+- **Kalshi.** Upgraded from unverified to confirmed: Kalshi called the 12 November 2026 exit mutual and tied it to 1789 Capital's Polymarket investment.
+- **New documented finding.** Unnamed family members hold 20% of twelve foreign licensing LLCs that reported $54.49M of 2025 fees.
+- **Updated values.** Dominari (2026 13G filings; about $1.1M now), GrabAGun (about $0.45M), Unusual Machines (about $3.7M), and dated American Bitcoin values for Eric. All are paper values; no sale by either son is documented.
+- **Forbes.** The Eric (April 2026) and Don Jr. (December 2025) articles were read in full; Forbes also put Don Jr. at about $500M in September 2025.
+- **Responses.** Kalshi's statement and Jeff Bezos's rebuttal on the Melania deal were added.
+

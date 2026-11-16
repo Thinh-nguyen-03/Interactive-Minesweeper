@@ -3,24 +3,28 @@
   "title": "Corporate settlements and donations to Trump's library and ballroom",
   "verdict": "mostly-accurate",
   "confidence": "medium",
-  "summary": "The settlement amounts and recipients are well documented: ABC $15M and Meta ~$22M of $25M and Paramount $16M (less fees) to the Trump library; X ~$10M (press-reported); YouTube $22M of $24.5M to the ballroom via the Trust for the National Mall. The Oct 2025 White House ballroom donor list does include Coinbase, Ripple, Tether America and both Winklevoss twins, but discloses no amounts. Favorable regulatory outcomes followed for several payers/donors (FCC approval of Skydance-Paramount three weeks after the settlement; SEC dismissals for Coinbase, Gemini, Ripple appeal), but no quid pro quo is documented and the companies deny any link.",
+  "summary": "The settlement amounts and recipients are well documented: ABC $15M (plus $1M fees), Meta $25M (~$22M designated by Meta) and Paramount $16M to the Trump library, which Trump's 2025 OGE disclosure lists as $16M, $24.5M and $16M of net proceeds paid to the library foundation; X ~$10M (press-reported), which the disclosure lists as $8M of Trump's own settlement income with no pass-through noted; YouTube $22M of $24.5M to the ballroom via the Trust for the National Mall. The Oct 2025 White House ballroom donor list does include Coinbase, Ripple, Tether America and both Winklevoss twins, but discloses no amounts. Favorable regulatory outcomes followed for several payers/donors (FCC approval of Skydance-Paramount three weeks after the settlement; SEC dismissals for Coinbase, Gemini, Ripple appeal), but no quid pro quo is documented and the companies deny any link.",
   "sub_claims": [
     {
       "statement": "ABC/Disney paid $15M to settle Trump's defamation suit, directed to his presidential library.",
       "verdict": "confirmed",
-      "finding": "Signed 13-14 Dec 2024; $15M 'charitable contribution' to a future presidential foundation/museum via escrow at Alejandro Brito's firm, plus $1M legal fees and an editor's note. In 2026 ABC told lawmakers the $15M was still in that escrow.",
+      "finding": "Signed 13-14 Dec 2024; $15M 'charitable contribution' to a future presidential foundation/museum via escrow at Alejandro Brito's firm, plus $1M legal fees and an editor's note. In a letter of 23 Mar 2026 ABC told lawmakers the $15M was still in that escrow; Trump's counsel had given notice of the library foundation's 501(c)(3) status on 19 Mar 2026 and ABC expected to authorize release. Trump's 2025 OGE disclosure lists the ABC settlement at $16M with 'net proceeds paid to' the foundation; the $1M difference from $15M and the timing are unexplained (corrected 16 Nov 2026).",
       "sources": [
         "https://whyy.org/articles/abc-donald-trump-presidential-library-defamation-lawsuit-money",
-        "https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-stansbury-press-trump-on-missing-millions-donated-to-dissolved-trump-library-fund-new-big-tech-ceo-responses-raise-fresh-questions/"
+        "https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-stansbury-press-trump-on-missing-millions-donated-to-dissolved-trump-library-fund-new-big-tech-ceo-responses-raise-fresh-questions/",
+        "https://www.warren.senate.gov/imo/media/doc/abc_response.pdf",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
       ]
     },
     {
       "statement": "Meta paid $25M to settle Trump's account-suspension suit, directed to his library.",
       "verdict": "confirmed",
-      "finding": "Reported 29 Jan 2025; ~$22M earmarked for the library, remainder legal fees and co-plaintiffs. Meta also gave $1M to the inaugural fund.",
+      "finding": "Reported 29 Jan 2025; ~$22M earmarked for the library per press reports and Meta's letter to lawmakers, remainder legal fees and co-plaintiffs. Trump's 2025 OGE disclosure, however, lists $24.5M of 'net proceeds paid to' the library foundation from the Meta settlement; the $2.5M difference is unexplained, and lawmakers asked the foundation about it on 15 Jul 2026 (corrected 16 Nov 2026). Meta also gave $1M to the inaugural fund.",
       "sources": [
         "https://www.salon.com/2025/01/29/meta-settles-with-for-25-million",
-        "https://wjla.com/news/nation-world/meta-agrees-to-25-million-settlement-with-trump-over-jan-6-account-suspension-president-capitol-rotunda-mark-zuckerberg-tech-company-amazon-jeff-bezos-tesla-x-elon-musk-censorship-twitter-facebook-google"
+        "https://wjla.com/news/nation-world/meta-agrees-to-25-million-settlement-with-trump-over-jan-6-account-suspension-president-capitol-rotunda-mark-zuckerberg-tech-company-amazon-jeff-bezos-tesla-x-elon-musk-censorship-twitter-facebook-google",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+        "https://www.warren.senate.gov/wp-content/uploads/2026/07/Warren-Letter-to-Trump-Library-Foundation-re-Financial-Disclosures.pdf"
       ]
     },
     {
@@ -35,32 +39,36 @@
     {
       "statement": "X settled Trump's suspension suit with a payment.",
       "verdict": "mostly-accurate",
-      "finding": "About $10M per WSJ/CNBC reporting (Feb 2025), confirmed as 'resolved' by Trump lawyer John Kelly; no court filing with the figure found. Democratic lawmakers' letters treat X's payment as going to the (since-dissolved) library fund; recipient not independently confirmed here.",
+      "finding": "About $10M per WSJ/CNBC reporting (Feb 2025), confirmed as 'resolved' by Trump lawyer John Kelly; no court filing with the figure found. Trump's 2025 OGE disclosure lists $8M from X Corp. as his own settlement income, with no note that it was paid to the library foundation or anyone else (unlike the ABC, CBS, Meta and YouTube lines). The lawmakers' 15 Jul 2026 letter calls it '$8 million ... paid to the President by X' that 'reportedly were to be provided to the library', says the disclosure does not show whether the foundation received it, and asks about the $2M gap to the reported $10M. Whether Trump kept it or later passed it on is not documented (corrected 16 Nov 2026).",
       "sources": [
         "https://www.nbcwashington.com/news/business/money-report/elon-musks-company-x-settles-trump-lawsuit-over-account-suspension/3843538/",
         "https://theedgemalaysia.com/node/744205",
-        "https://www.warren.senate.gov/imo/media/doc/letter_to_x_re_trump_library_fund_donation.pdf"
+        "https://www.warren.senate.gov/imo/media/doc/letter_to_x_re_trump_library_fund_donation.pdf",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+        "https://www.warren.senate.gov/wp-content/uploads/2026/07/Warren-Letter-to-Trump-Library-Foundation-re-Financial-Disclosures.pdf"
       ]
     },
     {
       "statement": "YouTube/Alphabet paid $24.5M, directed to the White House ballroom.",
       "verdict": "confirmed",
-      "finding": "Court filing 29 Sep 2025: $22M (Trump's share) to the Trust for the National Mall for ballroom construction; $2.5M to co-plaintiffs (ACU, Naomi Wolf, others); no admission of liability.",
+      "finding": "Court filing 29 Sep 2025: $22M (Trump's share) to the Trust for the National Mall for ballroom construction; $2.5M to co-plaintiffs (ACU, Naomi Wolf, others); no admission of liability. Trump's 2025 OGE disclosure lists the $22M as 'proceeds paid to The Trust for the National Mall'.",
       "sources": [
         "https://www.cbsnews.com/news/youtube-settles-trump-lawsuit-white-house-ballroom",
         "https://www.npr.org/2025/09/29/nx-s1-5557371/youtube-trump-lawsuit-settlement",
-        "https://www.aljazeera.com/economy/2025/9/30/youtube-to-pay-24-5m-to-settle-lawsuit-over-trumps-account-suspension"
+        "https://www.aljazeera.com/economy/2025/9/30/youtube-to-pay-24-5m-to-settle-lawsuit-over-trumps-account-suspension",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
       ]
     },
     {
       "statement": "The library money went to Trump-linked entities whose handling is opaque.",
       "verdict": "partly-accurate",
-      "finding": "Original fund incorporated in Florida 20 Dec 2024, dissolved Sep 2025 for failing to file an annual report; successor Donald J. Trump Presidential Library Foundation Inc. formed May 2025, took title to Miami Dade College land (valued >$67M, deeded for $10) in Feb 2026. Warren/Blumenthal/Stansbury say up to $63M in settlements is unaccounted for. That is an allegation; no foundation response found.",
+      "finding": "Original fund incorporated in Florida 20 Dec 2024, dissolved Sep 2025 for failing to file an annual report; successor Donald J. Trump Presidential Library Foundation Inc. formed May 2025, took title to Miami Dade College land (valued >$67M, deeded for $10) in Feb 2026. In April 2026 Warren/Blumenthal/Stansbury said up to $63M in settlements went to the dissolved fund and its disposition was unclear. In their 15 Jul 2026 letter, after Trump's disclosure showed $56.5M paid to the foundation, they compared that with the foundation's Oct 2025 Florida filing ($50M revenue, about $7M spent, including about $6M listed as 'other') and allege $6.5M-$14.5M unaccounted for, or $13.5M-$21.5M including X's $8M. ABC's money was still in escrow in March 2026, so it could not have been in the October 2025 revenue (our own observation). These are allegations; no foundation response found.",
       "sources": [
         "https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-stansbury-press-trump-on-missing-millions-donated-to-dissolved-trump-library-fund-new-big-tech-ceo-responses-raise-fresh-questions/",
         "https://newrepublic.com/article/209254/trump-library-funding-millions-media-companies",
         "https://www.wlrn.org/government-politics/2025-10-16/trump-presidential-library-nonprofit-miami",
-        "https://www.cpapracticeadvisor.com/2025/11/19/tax-documents-show-trump-library-is-counting-on-a-1-billion-fundraising-haul/173534/"
+        "https://www.cpapracticeadvisor.com/2025/11/19/tax-documents-show-trump-library-is-counting-on-a-1-billion-fundraising-haul/173534/",
+        "https://www.warren.senate.gov/wp-content/uploads/2026/07/Warren-Letter-to-Trump-Library-Foundation-re-Financial-Disclosures.pdf"
       ]
     },
     {
@@ -100,15 +108,18 @@
   ],
   "corrections": [
     "The claim groups all settlements with the library; YouTube's $22M went to the White House ballroom via the Trust for the National Mall, not the library.",
-    "Headline figures overstate what was earmarked: Meta ~$22M of $25M and YouTube $22M of $24.5M; Paramount's $16M includes plaintiff fees.",
-    "No payment went to Trump personally; money went to escrow, a library nonprofit or the Trust for the National Mall. 'Personally linked' rests on Trump's control of the library foundation and ballroom project.",
-    "ABC's $15M reportedly remained in escrow at Trump's lawyer's firm as of 2026."
+    "Headline figures differ from what was earmarked: YouTube $22M of $24.5M went to the ballroom trust, and Paramount's $16M includes plaintiff fees. For Meta, press reports and Meta give ~$22M of $25M for the library, but Trump's 2025 disclosure lists $24.5M of net proceeds paid to the foundation.",
+    "No payment from ABC, Meta, Paramount or YouTube went to Trump personally; that money went to escrow, a library nonprofit or the Trust for the National Mall. X's $8M is the exception: Trump's disclosure reports it as his own settlement income. 'Personally linked' otherwise rests on Trump's control of the library foundation and ballroom project.",
+    "ABC's $15M reportedly remained in escrow at Trump's lawyer's firm as of 2026.",
+    "Claimed (this check, before 16 Nov 2026): Meta paid about $22M of its $25M to the library. The record shows: Trump's 2025 OGE Form 278e lists $24.5M of net proceeds from the Meta settlement paid to the library foundation; Meta told lawmakers $22M was designated, and the difference is unexplained (correction dated 2026-11-16).",
+    "Claimed (this check, before 16 Nov 2026): ABC paid $15M to the library. The record shows: the 2025 OGE Form 278e lists the ABC settlement at $16M with net proceeds paid to the library foundation, although ABC said in March 2026 that the $15M was still in escrow; the $1M difference is unexplained (correction dated 2026-11-16).",
+    "Claimed (this check, before 16 Nov 2026): no payment went to Trump personally. The record shows: the 2025 OGE Form 278e reports $8M from the X settlement as Trump's own settlement income with no pass-through noted; whether he kept it is not documented, and lawmakers have asked whether the library foundation received it (correction dated 2026-11-16)."
   ],
   "denials_and_context": [
     "Paramount says the lawsuit was 'completely separate from, and unrelated to' the Skydance transaction and FCC review, and that it settled to avoid legal costs.",
     "All settlements were made without admission of liability; ABC's was signed before the inauguration, when Trump was president-elect.",
     "The White House says the ballroom is privately funded at no taxpayer cost; donors have not acknowledged any link to regulatory outcomes.",
-    "Claims that settlement money is 'missing' come from Democratic lawmakers (Warren, Blumenthal, Stansbury); no foundation response was found.",
+    "Claims that settlement money is 'missing' come from Democratic lawmakers (Warren, Blumenthal, Stansbury; latest letter 15 Jul 2026); no foundation response was found.",
     "Public Citizen and Campaign Legal Center analyses are advocacy work; their contract and enforcement tallies were not independently verified.",
     "Research limits: most original pages were not read directly and the research ended before checking 2026 settlements and Tether/Winklevoss regulatory outcomes.",
     "Against the regulatory-favor reading: for three of the biggest payers, Meta, Google/YouTube and Disney/ABC, the administration kept up or escalated enforcement after the settlements (FTC appeal against Meta, Jan 2026; DOJ cross-appeal seeking Chrome divestiture, Feb 2026; FCC license and equal-time probes of ABC, 2026)."
@@ -269,6 +280,27 @@
       "publisher": "Banking Dive",
       "url": "https://www.bankingdive.com/news/sec-drop-ripple-case-xrp-lawsuit-125-million-penalty-garlinghouse-alderoty-gensler/",
       "date": "2025"
+    },
+    {
+      "title": "OGE Form 278e, Donald J. Trump, annual report for 2025, Part 2 line 431 (Legal Settlements)",
+      "publisher": "US Office of Government Ethics",
+      "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "date": "2026-06-30",
+      "read": "full"
+    },
+    {
+      "title": "Letter to Madison Faupel, Treasurer, Donald J. Trump Presidential Library Foundation",
+      "publisher": "Sen. Warren, Sen. Blumenthal, Rep. Stansbury",
+      "url": "https://www.warren.senate.gov/wp-content/uploads/2026/07/Warren-Letter-to-Trump-Library-Foundation-re-Financial-Disclosures.pdf",
+      "date": "2026-07-15",
+      "read": "full"
+    },
+    {
+      "title": "ABC response to Warren, Blumenthal, Stansbury",
+      "publisher": "ABC / US Senate (Warren)",
+      "url": "https://www.warren.senate.gov/imo/media/doc/abc_response.pdf",
+      "date": "2026-03-23",
+      "read": "full"
     }
   ],
   "entities": [
@@ -469,7 +501,7 @@
     {
       "source": "abc-news",
       "target": "trump-presidential-library-fund",
-      "label": "agreed to pay $15M (held in escrow) to settle defamation suit",
+      "label": "agreed to pay $15M (held in escrow into 2026; $16M net proceeds to the foundation per Trump's disclosure)",
       "type": "money",
       "date": "2024-12-14",
       "amount_usd": 15000000
@@ -491,18 +523,18 @@
     {
       "source": "meta",
       "target": "trump-presidential-library-fund",
-      "label": "settled suspension suit for $25M (~$22M to library)",
+      "label": "settled suspension suit for $25M (~$22M designated by Meta; $24.5M net proceeds to the foundation per Trump's disclosure)",
       "type": "money",
       "date": "2025-01-29",
-      "amount_usd": 22000000
+      "amount_usd": 24500000
     },
     {
       "source": "x-corp",
       "target": "donald-trump",
-      "label": "settled suspension suit for ~$10M (reported)",
-      "type": "legal",
+      "label": "settled suspension suit for ~$10M (reported); $8M listed as Trump's settlement income on his disclosure",
+      "type": "money",
       "date": "2025-02",
-      "amount_usd": 10000000
+      "amount_usd": 8000000
     },
     {
       "source": "elon-musk",
@@ -774,13 +806,18 @@
       "Regulatory outcomes for Meta, Google and Disney after their settlements (flagged gap)",
       "Whether any new corporate settlements directed money to the library or ballroom in 2026 (flagged gap)",
       "Ballroom donor list including Coinbase, Ripple, Tether America and the Winklevoss twins, with no amounts disclosed",
-      "Settlement amounts and dates for Meta (Jan 2025), X (Feb 2025) and YouTube ($24.5M, $22M to the Trust for the National Mall)"
+      "Settlement amounts and dates for Meta (Jan 2025), X (Feb 2025) and YouTube ($24.5M, $22M to the Trust for the National Mall)",
+      "(16 Nov 2026) Settlement figures and destinations against Trump's 2025 OGE Form 278e line 431, ABC's 23 Mar 2026 letter and the lawmakers' 15 Jul 2026 letter (all read in full), as confirmed in the C100 audit"
     ],
-    "result": "upheld",
+    "result": "corrected",
     "changes": [
       "Amounts, recipients and the donor list were re-confirmed by AP, Fortune and The Block.",
       "Filled the Meta/Google/Disney gap. All three faced continued or adverse federal action after settling (the FTC is appealing its Meta loss; DOJ is seeking Chrome divestiture on appeal; the FCC is running ABC license and equal-time probes). Added this to sub-claim 9 and to denials_and_context, which cuts against the implied quid pro quo for these payers.",
-      "2026 settlements: no new corporate settlement routed to the library or ballroom was found. Added as a lead the May 18, 2026 IRS settlement, which created a $1.776B 'anti-weaponization fund' and paid Trump no money. Verdict unchanged."
+      "2026 settlements: no new corporate settlement routed to the library or ballroom was found. Added as a lead the May 18, 2026 IRS settlement, which created a $1.776B 'anti-weaponization fund' and paid Trump no money. Verdict unchanged.",
+      "16 Nov 2026: Meta corrected. The disclosure lists $24.5M of net proceeds paid to the library foundation, not about $22M; Meta's $22M designation is kept as the company's statement and the gap is marked unexplained.",
+      "16 Nov 2026: ABC corrected. The disclosure lists $16M, not $15M; ABC's letter shows the $15M was still in escrow in March 2026, with release expected after notice given on 19 Mar 2026.",
+      "16 Nov 2026: 'No payment went to Trump personally' corrected. The disclosure reports X's $8M as Trump's own settlement income with no pass-through; the statement holds for the other four payers. The X relationship now carries $8M.",
+      "16 Nov 2026: updated the lawmakers' allegation from 'up to $63M unaccounted for' (April 2026) to their 15 Jul 2026 figures ($6.5M-$14.5M, or $13.5M-$21.5M including X). Verdict unchanged (mostly accurate)."
     ],
     "new_sources": [
       {
@@ -836,6 +873,24 @@
         "publisher": "AP via KPTV",
         "url": "https://www.kptv.com/2025/11/13/these-are-37-donors-helping-pay-trumps-300-million-white-house-ballroom/",
         "date": "2025-11-13"
+      },
+      {
+        "title": "OGE Form 278e, Donald J. Trump, annual report for 2025, Part 2 line 431 (Legal Settlements)",
+        "publisher": "US Office of Government Ethics",
+        "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+        "date": "2026-06-30"
+      },
+      {
+        "title": "Letter to Madison Faupel, Treasurer, Donald J. Trump Presidential Library Foundation",
+        "publisher": "Sen. Warren, Sen. Blumenthal, Rep. Stansbury",
+        "url": "https://www.warren.senate.gov/wp-content/uploads/2026/07/Warren-Letter-to-Trump-Library-Foundation-re-Financial-Disclosures.pdf",
+        "date": "2026-07-15"
+      },
+      {
+        "title": "ABC response to Warren, Blumenthal, Stansbury",
+        "publisher": "ABC / US Senate (Warren)",
+        "url": "https://www.warren.senate.gov/imo/media/doc/abc_response.pdf",
+        "date": "2026-03-23"
       }
     ]
   }

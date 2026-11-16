@@ -34,13 +34,14 @@
   {
    "statement": "Bondi held Trump Media (DJT) stock as AG and sold it on 'Liberation Day'.",
    "verdict": "confirmed",
-   "finding": "Evidence grade: documented (her own periodic transaction report, disclosed May 14, 2025). It shows a sale of $1M-$5M of TMTG shares plus $250K-$500K of warrants on Apr 2, 2025, the day of the tariff announcement (Bloomberg Law gives a combined $1M-$5.5M). Her ethics agreement required her to sell the TMTG stake within 90 days of confirmation, and she says the shares were pay for consulting tied to DWAC, so the sale itself was mandated; the question raised is its timing. Rep. Raskin asked the DOJ IG to investigate (May 20, 2025). Mother Jones and Accountable.US had earlier flagged that Bondi, Patel and McMahon held TMTG shares or board ties when appointed. A sale before a market drop is not proof of insider trading. The holding itself was an interest in the president's company, held while she led the agency with jurisdiction over matters touching it. Trump fired Bondi as AG on Apr 2, 2026 and named Blanche acting AG (CBS, CNN via KVIA); Blanche was confirmed as AG 50-49 on Aug 8, 2026 and sworn in on Aug 10, 2026 (Axios; AP via WTOP); no outcome of the Raskin IG referral was found.",
+   "finding": "Evidence grade: documented (her own periodic transaction report, disclosed May 14, 2025). It shows a sale of $1M-$5M of TMTG shares plus $250K-$500K of warrants on Apr 2, 2025, the day of the tariff announcement (together $1.25M-$5.5M; Bloomberg Law rounds the combined figure to $1M-$5.5M). ProPublica (read in full in a later audit) confirms both ranges, says the form gives no time of day, and reports that DOJ did not respond to questions. Her ethics agreement required her to sell the TMTG stake within 90 days of confirmation, and she says the shares were pay for consulting tied to DWAC, so the sale itself was mandated; the question raised is its timing. Rep. Raskin asked the DOJ IG to investigate (May 20, 2025). Mother Jones and Accountable.US had earlier flagged that Bondi, Patel and McMahon held TMTG shares or board ties when appointed. A sale before a market drop is not proof of insider trading. The holding itself was an interest in the president's company, held while she led the agency with jurisdiction over matters touching it. Trump fired Bondi as AG on Apr 2, 2026 and named Blanche acting AG (CBS, CNN via KVIA); Blanche was confirmed as AG 50-49 on Aug 8, 2026 and sworn in on Aug 10, 2026 (Axios; AP via WTOP); no outcome of the Raskin IG referral was found.",
    "sources": [
     "https://news.bloomberglaw.com/us-law-week/attorney-general-pam-bondi-discloses-sale-of-trump-media-shares",
     "https://lailluminator.com/2025/05/18/bondi-trump/",
     "https://democrats-judiciary.house.gov/UploadedFiles/2025-05-20.Raskin_to_Horowitz_DOJ_OIG_re_Bondi_Insider_Trading.pdf",
     "https://www.motherjones.com/politics/2025/04/trump-media-technology-group-truth-social-kash-patel-pam-bondi-linda-mcmahon/",
-    "https://www.cbsnews.com/news/pam-bondi-sold-at-least-1-million-dollars-trump-media-shares-on-liberation-day"
+    "https://www.cbsnews.com/news/pam-bondi-sold-at-least-1-million-dollars-trump-media-shares-on-liberation-day",
+    "https://www.propublica.org/article/pam-bondi-trump-media-stock-tariffs"
    ]
   },
   {
@@ -232,7 +233,8 @@
   "Blanche did not sell all his crypto: his June 2025 filing (as reported) says the holdings were gifted to his grandchild and adult children, May 31-June 3, 2025.",
   "Kollitides heads the Economic Defense Unit (which runs BOND), not OSC; he resigned from the D. Boral Acquisition I board effective Sep 23, 2026 (C74).",
   "Blanche became acting AG on Apr 2, 2026 when Bondi was fired, and was confirmed as AG 50-49 on Aug 8, 2026 and sworn in on Aug 10, 2026; earlier text said he 'succeeded Bondi as AG' without dates.",
-  "The Securitize-CEPT merger closed on Jul 1, 2026 (NYSE: SECZ from Jul 2)."
+  "The Securitize-CEPT merger closed on Jul 1, 2026 (NYSE: SECZ from Jul 2).",
+  "2026-11-16 (audit of C101-C103): Bondi's 2 April 2025 Trump Media sale is $1M-$5M of shares plus $250K-$500K of warrants, which adds to $1.25M-$5.5M. Bloomberg Law's '$1M-$5.5M' combined figure rounds down the lower bound. The ranges are confirmed by ProPublica, read in full."
  ],
  "denials_and_context": [
   "DOJ: Bondi consulted career ethics officials who found no recusal was needed on the jet, and 'the Attorney General had no role' in the brother's cases.",
@@ -690,6 +692,12 @@
    "publisher": "PBS NewsHour (AP)",
    "url": "https://www.pbs.org/newshour/politics/todd-blanche-sworn-in-as-attorney-general-after-bruising-confirmation-battle",
    "date": "2026-08-10"
+  },
+  {
+   "title": "U.S. AG Pam Bondi sold more than $1 million in Trump Media stock the day Trump announced sweeping tariffs",
+   "publisher": "ProPublica",
+   "url": "https://www.propublica.org/article/pam-bondi-trump-media-stock-tariffs",
+   "date": "2025-05"
   }
  ],
  "entities": [
@@ -1780,7 +1788,8 @@
    "Barrack's ties to TI Capital (Reuters, single-source; seen via Tribune, AJOT, L'Orient-Le Jour)",
    "Open threads: Patomak buyer; Kratsios/Scale AI; Securitize merger close",
    "Reconciliation with C74 (Kollitides role and D. Boral resignation) and C75 (Boulos, Gentry Beach)",
-   "Blanche's current post: confirmation and swearing-in dates (second reviewer)"
+   "Blanche's current post: confirmation and swearing-in dates (second reviewer)",
+   "2026-11-16: Bondi's TMTG share and warrant ranges (ProPublica, read in full; C102)"
   ],
   "result": "corrected",
   "changes": [
@@ -1793,7 +1802,8 @@
    "Boulos: added C75 findings (no Boulos/Trump stake in any DRC asset; WSJ single-source cease-and-desist to Gentry Beach).",
    "Upheld: Navarro/Vulcan (ProPublica, multi-outlet syndication with denials) and Barrack/TI Capital (still single-source Reuters; State denies any interest).",
    "AG succession reconciled across C49, C61, C64 and C65: Bondi out Apr 2, 2026; Blanche acting AG from Apr 2, confirmed by the Senate 50-49 in a pre-dawn Saturday vote on Aug 8, 2026 (Axios), sworn in at the White House on Monday Aug 10, 2026 (AP via WTOP, PBS). C65 previously said Blanche was 'acting AG, not AG' and that the current holder was not established; that is superseded: summary, Bondi finding, Blanche finding, correction, entity description and Blanche-DOJ label updated.",
-   "kevin-mcgurn entity description said he is CEO of New America Acquisition I; he resigned effective Aug 5, 2026 (8-K, C62/C78). Now 'former CEO ... (resigned Aug 5, 2026); TMTG interim CEO from Apr 21, 2026'."
+   "kevin-mcgurn entity description said he is CEO of New America Acquisition I; he resigned effective Aug 5, 2026 (8-K, C62/C78). Now 'former CEO ... (resigned Aug 5, 2026); TMTG interim CEO from Apr 21, 2026'.",
+   "2026-11-16: Bondi finding states the combined range as $1.25M-$5.5M (Bloomberg Law's $1M lower bound is a rounding); ProPublica added as a source. No change of substance."
   ],
   "new_sources": [
    {
@@ -1867,6 +1877,12 @@
     "publisher": "PBS NewsHour (AP)",
     "url": "https://www.pbs.org/newshour/politics/todd-blanche-sworn-in-as-attorney-general-after-bruising-confirmation-battle",
     "date": "2026-08-10"
+   },
+   {
+    "title": "U.S. AG Pam Bondi sold more than $1 million in Trump Media stock the day Trump announced sweeping tariffs",
+    "publisher": "ProPublica",
+    "url": "https://www.propublica.org/article/pam-bondi-trump-media-stock-tariffs",
+    "date": "2025-05"
    }
   ]
  }

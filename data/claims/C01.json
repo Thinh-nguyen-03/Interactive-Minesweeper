@@ -76,7 +76,8 @@
     "Claimed: 'two days' before taking office. The record shows: the launch was the evening of Jan 17, 2025 (ET), about 2.5 days before the Jan 20 inauguration.",
     "Claimed: $600M. The record shows: Trump's own 2025 disclosure reports about $635-636M in gross meme-coin royalty and licensing income via CIC Digital.",
     "Claimed: TRUMP is down about 95%. The record shows: that was accurate in early 2026, but by November 2026 it was about 98% below its peak.",
-    "The China remark was about crypto generally (CNBC, July 2026), not a stated reason for launching the meme coin."
+    "The China remark was about crypto generally (CNBC, July 2026), not a stated reason for launching the meme coin.",
+    "2026-11-16 (disclosure audit, C96/C97): Claimed in some coverage (Reuters wording): Trump made $635M 'from the sale of his Trump meme coins'. The record shows: line 21.6 of his 2025 OGE report lists $635,068,835 of 'Royalties' to CIC Digital LLC (100% owned by his revocable trust) under a 'License agreement with Celebration Coins'. It is licence income; the form shows no token sales by Trump and lists no $TRUMP tokens among CIC Digital's assets. Because CIC Digital is wholly his trust's, no family share applies to this line."
   ],
   "denials_and_context": [
     "Trump said on Truth Social that the coin was not intended to be an investment opportunity.",
@@ -457,13 +458,15 @@
     "checked": [
       "OGE 2025 disclosure: ~$635-636M meme-coin royalties via CIC Digital (released 2026-06-30)",
       "Trump CNBC (Joe Kernen) July 2, 2026 remark: 'we have to be at the top, otherwise China's going to take it over'",
-      "TRUMP price/drawdown in November 2026"
+      "TRUMP price/drawdown in November 2026",
+      "$635,068,835 royalty line (21.6) re-read on the OGE PDF"
     ],
     "result": "upheld",
     "changes": [
       "Softened the exact November 2026 TRUMP price: fresh reports put record lows at about $1.11-1.12 (Nov 8-10) and $1.22 (Nov 4), not $1.05-1.10; the ~98% drawdown stands.",
       "Disclosure figure and China quote re-confirmed by independent outlets (Fox Business, Honolulu Star-Advertiser/AP, IBTimes, Daily Guardian). Fresh coverage also notes the same filing reports ~$526M from WLF token sales and >$1.2-1.4B total crypto income.",
-      "Second-pass audit was cut short: the shared web-search budget ran out partway through, and direct fetches of sec.gov and theblock.co were blocked, so only the assertions listed here were re-checked."
+      "Second-pass audit was cut short: the shared web-search budget ran out partway through, and direct fetches of sec.gov and theblock.co were blocked, so only the assertions listed here were re-checked.",
+      "2026-11-16 (disclosure audit, C96/C97): Re-read line 21.6 on the PDF: $635,068,835 of 'Royalties' under a 'License agreement with Celebration Coins'; CIC Digital's lines total $636,119,421 with the JBCZ sublicence ($493,846), staking ($510,808) and interest ($45,932). Added a correction that this is licence income, not coin sales by Trump. Verdict unchanged."
     ],
     "new_sources": [
       {
@@ -489,6 +492,12 @@
         "publisher": "Mitrade (wire reprint)",
         "url": "https://www.mitrade.com/insights/news/live-news/article-3-2230858-20261105",
         "date": "2026-11-05"
+      },
+      {
+        "title": "OGE Form 278e, Donald J. Trump, annual report for calendar 2025",
+        "publisher": "US Office of Government Ethics",
+        "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+        "date": "2026-06-30"
       }
     ]
   }

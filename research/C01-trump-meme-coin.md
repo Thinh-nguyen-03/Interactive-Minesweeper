@@ -82,3 +82,9 @@ Result: upheld. Re-checked the $635-636M OGE meme-coin royalty figure (Fox Busin
 - Honolulu Star-Advertiser, 2026-06-30. https://www.staradvertiser.com/2026/06/30/breaking-news/trump-reports-at-least-1-4-billion-in-2025-crypto-earnings/
 - IBTimes UK, 2026-07-03. https://www.ibtimes.co.uk/trump-defends-family-crypto-ventures-1806732
 - Mitrade (wire reprint), 2026-11-05. https://www.mitrade.com/insights/news/live-news/article-3-2230858-20261105
+
+## Audit addendum (16 Nov 2026, disclosure check)
+
+The OGE PDF was re-read. Line 21.6 lists $635,068,835 of "Royalties" to CIC Digital LLC under a "License agreement with Celebration Coins". CIC Digital's lines total $636,119,421, which includes the JBCZ sublicence ($493,846), ETH staking rewards ($510,808) and USDC interest ($45,932).
+
+Correction: this is licence income, not proceeds from Trump selling coins. The form shows no token sales by Trump and lists no $TRUMP tokens among CIC Digital's assets. CIC Digital is wholly owned by his trust, so no family share applies to this line. The verdict is unchanged.

@@ -8,7 +8,7 @@
     {
       "statement": "WLF was created by the Trump family shortly before the 2024 election.",
       "verdict": "mostly-accurate",
-      "finding": "Launched on 16 Sept 2024 in an X Spaces event and announced by Trump. The operating founders were Chase Herro and Zachary Folkman, with Donald Trump, Eric Trump and Donald Trump Jr. backing them. Trump-owned DT Marks DEFI LLC is entitled to 75% of net protocol revenue.",
+      "finding": "Launched on 16 Sept 2024 in an X Spaces event and announced by Trump. The operating founders were Chase Herro and Zachary Folkman, with Donald Trump, Eric Trump and Donald Trump Jr. backing them. DT Marks DEFI LLC, 70% owned through Trump's companies (DTTM Operations 69% plus a 1% member corporation) and 30% by unnamed 'Trump Family Members' according to his OGE filings, is entitled to 75% of net protocol revenue.",
       "sources": [
         "https://www.theblock.co/post/316284/donald-trump-announces-launch-date-of-world-liberty-financial-were-embracing-the-future-with-crypto",
         "https://bnnbloomberg.ca/business/2024/09/13/behind-the-trump-crypto-project-is-a-self-described-dirtbag-of-the-internet",
@@ -61,7 +61,8 @@
     "Claimed: Sales 'exploded' as Trump won. The record shows: almost no sales right after the election, and the rebound followed Justin Sun's $30M buy on 25 Nov 2024.",
     "Claimed: WLF 'sold out $550 million worth' around the election. The record shows: the first $300M tranche sold out around 20 Jan 2025 and the $550M total was reached in March 2025 after a second, higher-priced tranche.",
     "Claimed: No application has launched. The record shows: World Liberty Markets (lending) launched on 12 Jan 2026.",
-    "Claimed: WLF was 'created by the Trump family'. The record shows: the named founders are Chase Herro and Zak Folkman, with the Trump family as promoters and revenue recipients via DT Marks DEFI LLC."
+    "Claimed: WLF was 'created by the Trump family'. The record shows: the named founders are Chase Herro and Zak Folkman, with the Trump family as promoters and revenue recipients via DT Marks DEFI LLC.",
+    "2026-11-16 (disclosure audit, C96/C97): Claimed: DT Marks DEFI is 'Trump-owned'. The record shows: Trump's OGE filings give its ownership as 'DT Marks Defi Member Corp: 1%, DTTM Operations LLC 69%, & Trump Family Members 30%' (2024 report line 102; 2025 report line 124), so it is about 70% his and 30% unnamed family members'."
   ],
   "denials_and_context": [
     "WLF presents its $550M raise as a success; Folkman credited Sun's investment with reviving the project.",
@@ -268,7 +269,7 @@
       "id": "dt-marks-defi-llc",
       "name": "DT Marks DEFI LLC",
       "type": "company",
-      "description": "Trump-owned entity entitled to 75% of WLF net protocol revenue."
+      "description": "Entity 70% owned through Trump's companies and 30% by unnamed family members; entitled to 75% of WLF net protocol revenue."
     },
     {
       "id": "wlfi-token",
@@ -511,12 +512,15 @@
     "checked": [
       "Oct 30, 2024 SEC filing cut the WLFI sale target 90% from $300M to $30M",
       "Justin Sun's $30M purchase (late Nov 2024) pushed sales past $30M",
-      "World Liberty Markets (Dolomite-powered lending web app) launched Jan 12, 2026"
+      "World Liberty Markets (Dolomite-powered lending web app) launched Jan 12, 2026",
+      "Ownership of DT Marks DEFI on Trump's OGE filings; 2024 token-sale line"
     ],
-    "result": "upheld",
+    "result": "corrected",
     "changes": [
       "No changes: The Defiant, CoinDesk, Decrypt, Crypto Briefing and Decrypt/The Block (Jan 2026) confirm. Decrypt put pre-Sun sales at 'slightly more than $20M', consistent with the ~$52M post-Sun total.",
-      "Second-pass audit was cut short: the shared web-search budget ran out partway through, and direct fetches of sec.gov and theblock.co were blocked, so only the assertions listed here were re-checked."
+      "Second-pass audit was cut short: the shared web-search budget ran out partway through, and direct fetches of sec.gov and theblock.co were blocked, so only the assertions listed here were re-checked.",
+      "2026-11-16 (disclosure audit, C96/C97): Replaced 'Trump-owned' with the filing's split (69% DTTM Operations, 1% member corp, 30% 'Trump Family Members').",
+      "2026-11-16 (disclosure audit, C96/C97): Context, unchanged text: the 2024 OGE report lists $57,355,532 of token sales on World Liberty Financial, Inc.'s own line (line 391) for calendar 2024, consistent with the roughly $52M of sales after Sun's purchase recorded here plus December sales; it is company revenue, not a payment to Trump."
     ],
     "new_sources": [
       {
@@ -536,6 +540,18 @@
         "publisher": "Decrypt",
         "url": "https://decrypt.co/354326/trump-backed-world-liberty-financial-launches-crypto-lending-platform",
         "date": "2026-01-12"
+      },
+      {
+        "title": "OGE Form 278e, Donald J. Trump, annual report for calendar 2024",
+        "publisher": "US Office of Government Ethics",
+        "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump,%20Donald%20J.%202025%20Annual%20278.pdf",
+        "date": "2025-06-13"
+      },
+      {
+        "title": "OGE Form 278e, Donald J. Trump, annual report for calendar 2025",
+        "publisher": "US Office of Government Ethics",
+        "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+        "date": "2026-06-30"
       }
     ]
   }

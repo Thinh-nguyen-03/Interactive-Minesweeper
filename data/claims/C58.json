@@ -3,7 +3,7 @@
   "title": "Market-moving posts and insider-trading allegations",
   "verdict": "mostly-accurate",
   "confidence": "medium",
-  "summary": "Most of the pattern in the claim is documented. On 9 April 2025 Trump posted 'THIS IS A GREAT TIME TO BUY!!!' less than four hours before the 90-day tariff pause, Reuters documented a burst of bullish options buying minutes before the pause post, Senate and House Democrats asked the SEC to investigate, and Trump bragged on camera that friends had made billions. Later episodes are documented too: a CFTC/DOJ probe of oil-futures trades placed before Trump's Iran posts (March-April 2026), suspicious Polymarket bets before the Maduro raid and the Iran strikes, a White House email warning staff not to trade on nonpublic information, the Intercept/FPF suit over the paid Truth API, and a Rogan podcast exchange calling the API 'insider trading'. No public evidence or official finding ties Trump, his family or named officials to any of these trades. The one criminal case is a soldier charged over the Maduro bets. The Intel and Fed 'well-timed trades' threads are thin, and the best-known pardon bets were on Biden's pardons, not Trump's. Audit update: Bloomberg reported in October 2026 that an adviser to CFTC Chair Selig had staff retract an enforcement referral over the 23 March 2026 oil bets (the CFTC says enforcement work continues), and House Democrats said in February 2026 the SEC never substantively answered the April 2025 requests.",
+  "summary": "Most of the pattern in the claim is documented. On 9 April 2025 Trump posted 'THIS IS A GREAT TIME TO BUY!!!' less than four hours before the 90-day tariff pause, Reuters documented a burst of bullish options buying minutes before the pause post, Senate and House Democrats asked the SEC to investigate, and Trump bragged on camera that friends had made billions. Later episodes are documented too: a CFTC/DOJ probe of oil-futures trades placed before Trump's Iran posts (March-April 2026), suspicious Polymarket bets before the Maduro raid and the Iran strikes, a White House email warning staff not to trade on nonpublic information, the Intercept/FPF suit over the paid Truth API, and a Rogan podcast exchange calling the API 'insider trading'. No public evidence or official finding ties Trump, his family or named officials to the anonymous trades described here. Separately, Trump's own 2025 annual disclosure lists 327 stock purchases in one of his accounts on 8 April 2025, the day before the pause (see C102); it does not show who directed them, and the White House says independent managers run his accounts. Episodes not covered here (the 2 March 2025 crypto-reserve trade, the 10 October 2025 Hyperliquid short, the June 2025 Iran-strike bets and a university study of oil-related posts) are in C101; trades by officials and members of Congress are in C102; probes and outcomes are in C103. The one criminal case is a soldier charged over the Maduro bets. The Intel and Fed 'well-timed trades' threads are thin, and the best-known pardon bets were on Biden's pardons, not Trump's. Audit update: Bloomberg reported in October 2026 that an adviser to CFTC Chair Selig had staff retract an enforcement referral over the 23 March 2026 oil bets (the CFTC says enforcement work continues), and House Democrats said in February 2026 the SEC never substantively answered the April 2025 requests.",
   "sub_claims": [
     {
       "statement": "Trump posted 'THIS IS A GREAT TIME TO BUY' on 9 April 2025, hours before announcing the tariff pause.",
@@ -46,7 +46,7 @@
     {
       "statement": "Well-timed trades came before other Trump announcements on Iran, Intel and the Fed.",
       "verdict": "partly-accurate",
-      "finding": "Iran: documented. Reuters reported in mid-April 2026 that the CFTC, working with DOJ, was probing oil-futures trades on CME and ICE made shortly before Trump's Iran posts of 23 March 2026 (a pause in strikes and talks with Iran) and 7 April 2026. The CFTC sought 'Tag 50' trader identities. Estimates of the bets range from about $2.6B (ABC) to about $7B (Reuters). CFTC Chair Selig said the agency would pursue insider trading but did not comment on specifics. Update: Bloomberg reported on 2026-10-13, citing people familiar, that Mel Gunewardena, a senior adviser to Selig, told a market-oversight supervisor to retract a staff referral to enforcement over oil bets placed minutes before the 23 March post (reported at roughly $500-760M), an intervention described as unusual; the supervisor had left the agency by July. A source quoted afterwards said the enforcement division is still examining the trades and that all referred entities are under investigation; the CFTC does not confirm or deny investigations. Sen. Whitehouse had asked Selig in April to examine the 23 March trades and a roughly $950M short bet before the 7 April ceasefire post. No charges had been reported as of mid-Nov 2026. Intel: thin. A trading-platform blog noted unusual Intel options activity before the 22 August 2025 government-stake news, and Rep. Tim Moore bought Intel shares on 29 July 2025. Neither shows insider trading, and no probe was found. Fed: Warsh's odds on Polymarket and Kalshi jumped before his nomination, but that tracked press reports, and no investigation was found.",
+      "finding": "Iran: documented. Reuters reported in mid-April 2026 that the CFTC, working with DOJ, was probing oil-futures trades on CME and ICE made shortly before Trump's Iran posts of 23 March 2026 (a pause in strikes and talks with Iran) and 7 April 2026. The CFTC sought 'Tag 50' trader identities. Estimates of the bets range from about $2.6B (ABC) to about $7B (Reuters). CFTC Chair Selig said the agency would pursue insider trading but did not comment on specifics. Update: Bloomberg reported on 2026-10-13, citing people familiar, that Mel Gunewardena, a senior adviser to Selig, told a market-oversight supervisor to retract a staff referral to enforcement over oil bets placed minutes before the 23 March post (reported at roughly $500-760M), an intervention described as unusual; the supervisor had left the agency by July. A source quoted afterwards said the enforcement division is still examining the trades and that all referred entities are under investigation; the CFTC does not confirm or deny investigations. Sen. Whitehouse had asked Selig in April to examine the 23 March trades and a roughly $950M short bet before the 7 April ceasefire post. The WSJ (May 2026) reported that CFTC documents name Qube Research & Technologies, Totsa (TotalEnergies' trading arm) and Forza Fund among the 23 March traders, with gains of about $5M, $200K and $10M. None has been accused of wrongdoing, and Qube says its trading is model-driven. The WSJ also reported that some of those trades followed a Semafor article published about 33 minutes before Trump's post (see C101). No charges had been reported as of mid-Nov 2026. Intel: thin. A trading-platform blog noted unusual Intel options activity before the 22 August 2025 government-stake news, and Rep. Tim Moore bought Intel shares on 29 July 2025. Neither shows insider trading, and no probe was found. Fed: Warsh's odds on Polymarket and Kalshi jumped before his nomination, but that tracked press reports, and no investigation was found.",
       "sources": [
         "https://finance.yahoo.com/markets/commodities/articles/us-probes-suspicious-oil-trades-185104849.html",
         "https://www.cbsnews.com/news/insider-trading-oil-futures-trump-iran-post",
@@ -54,19 +54,22 @@
         "https://blog.deriv.com/blog/intel-stock-price-surge-2025-trump-semiconductor-policy",
         "https://www.theblock.co/news/regulation/2026-01-30-kevin-warsh-polymarket-odds-fed-chair-387788",
         "https://www.ibtimes.co.uk/cftc-insider-trading-referral-iran-oil-bet-1825415",
-        "https://financefeeds.com/cftc-staff-told-to-withdraw-insider-trading-referral-on-oil-bets-before-trumps-iran-post/"
+        "https://financefeeds.com/cftc-staff-told-to-withdraw-insider-trading-referral-on-oil-bets-before-trumps-iran-post/",
+        "https://www.hedgeweek.com/cftc-probes-800m-oil-trading-spike/"
       ]
     },
     {
       "statement": "Prediction-market bets were placed ahead of military announcements.",
       "verdict": "confirmed",
-      "finding": "Maduro: a new Polymarket account turned about $34K of bets into about $410K just hours before the 3 January 2026 capture of Maduro. On 23 April 2026, SDNY unsealed an indictment of Army Master Sgt. Gannon Ken Van Dyke on Commodity Exchange Act, wire-fraud and money-laundering-type counts. Prosecutors say he helped plan the raid. The CFTC filed a parallel civil case, its first insider-trading case on event contracts. Polymarket says it flagged the trades. Iran: Bubblemaps found six fresh wallets that made about $1M betting on a US strike by 28 February 2026, and the NYT found 150+ accounts betting the day before. No one has been identified or charged for the Iran bets. None of these cases is tied to Trump or his family.",
+      "finding": "Maduro: a new Polymarket account turned about $34K of bets into about $410K just hours before the 3 January 2026 capture of Maduro. On 23 April 2026, SDNY unsealed an indictment of Army Master Sgt. Gannon Ken Van Dyke on five counts: unlawful use of confidential government information for personal gain, theft of nonpublic government information and commodities fraud (Commodity Exchange Act), wire fraud, and an unlawful monetary transaction. He pleaded not guilty on 28 April 2026. Trial is set for 7 December 2026, and his motion to dismiss was opposed by prosecutors in August 2026, with no ruling found. Prosecutors say he helped plan the raid. The CFTC filed a parallel civil case, its first insider-trading case on event contracts. Polymarket says it flagged the trades. Iran: Bubblemaps found six fresh wallets that made about $1M betting on a US strike by 28 February 2026, and the NYT found 150+ accounts betting the day before. No one has been identified or charged for the Iran bets. None of these cases is tied to Trump or his family.",
       "sources": [
         "https://www.npr.org/transcripts/nx-s1-5667232",
         "https://www.debevoise.com/insights/publications/2026/04/polymarket-insider-trading-charges-illustrate-doj",
         "https://www.dlapiper.com/insights/publications/2026/05/doj-and-cftc-criminal-and-civil-insider-trading-charges",
         "https://www.theblock.co/post/391650/fresh-accounts-netted-1-million-on-polymarket-hours-before-us-airstrikes-on-iran-bubblemaps",
-        "https://www.aljazeera.com/economy/2026/3/4/traders-mint-money-on-betting-platforms-on-us-israel-strike-on-iran"
+        "https://www.aljazeera.com/economy/2026/3/4/traders-mint-money-on-betting-platforms-on-us-israel-strike-on-iran",
+        "https://www.cftc.gov/PressRoom/PressReleases/9217-26",
+        "https://www.goodmorningamerica.com/news/story/soldier-charged-polymarket-trades-seeks-dismissal-135797525"
       ]
     },
     {
@@ -117,13 +120,16 @@
     "The '$2.5 billion' (Schwab) and '$900 million' (Penske) figures are Trump's on-camera claims about paper gains, not documented trading profits.",
     "Estimates of the oil-futures bets before Trump's Iran posts conflict: about $2.6B (ABC) versus about $7B (Reuters).",
     "Secondary-site claims that a $2.5M options position became $70M+ on 9 April 2025 are not confirmed by Reuters, which put one SPY call block at about $624K rising to about $10M.",
-    "Size estimates for the 23 March 2026 oil bet vary further: about $500-760M in the trades covered by the retracted CFTC referral (Bloomberg via secondary outlets), separate from the roughly $950M bet before the 7 April post."
+    "Size estimates for the 23 March 2026 oil bet vary further: about $500-760M in the trades covered by the retracted CFTC referral (Bloomberg via secondary outlets), separate from the roughly $950M bet before the 7 April post.",
+    "2026-11-16 (audit of C101-C103): the 23 March 2026 oil trades were described only as trades by unknown traders. The WSJ later reported that CFTC documents name Qube Research & Technologies, Totsa and Forza Fund among them. None is accused, and some trades followed a Semafor article published before the post. See C101.",
+    "2026-11-16: the Van Dyke charges were given as 'money-laundering-type' counts. The indictment has five counts: two Commodity Exchange Act counts on government information, commodities fraud, wire fraud and an unlawful monetary transaction. He pleaded not guilty; trial is set for 7 December 2026.",
+    "2026-11-16: the statement that no public evidence ties Trump to trades around the pause is narrowed to the anonymous traders. Trump's 2025 annual OGE report (read in full) lists 327 purchases in one of his accounts on 8 April 2025, worth $3.6M-$12.8M by range, disclosed on 30 June 2026 with late fees paid (C102). The filing does not show who directed them."
   ],
   "denials_and_context": [
     "The White House denied market manipulation in April 2025, saying the 'great time to buy' post was meant to calm markets. Sen. Cornyn called the insider-trading allegations ridiculous.",
     "David Ingle said implications that administration officials bet on prediction markets were 'baseless and irresponsible reporting' and confirmed the staff-warning email.",
     "TMTG says the Truth API only delivers public data faster. DOJ argues the Intercept/FPF suit improperly seeks to dictate presidential communications.",
-    "No public evidence identifies who placed the 9 April 2025 options trades, the Iran oil-futures trades or the Iran-strike Polymarket bets. The only person charged (Van Dyke) is a soldier, not a political appointee or Trump associate.",
+    "No public evidence identifies who placed the 9 April 2025 options trades, the Iran oil-futures trades or the Iran-strike Polymarket bets. The only person charged (Van Dyke) is a soldier, not a political appointee or Trump associate. The WSJ named three firms among the 23 March 2026 oil traders without accusing them (C101). Trump's own accounts made 327 disclosed purchases on 8 April 2025 (C102), which are separate from the anonymous options trades.",
     "Experts note that market moves around presidential statements can reflect fast reaction, leaks to the press or informed speculation, not only insider trading. Prediction-market odds on the Fed chair tracked press reporting.",
     "Trump Jr. advises both Kalshi and Polymarket (see C25), and 1789 Capital invested in Polymarket. That ties the family to the platforms on which the suspicious bets were placed, but not to the bets themselves.",
     "Coverage after mid-2026 of whether the CFTC oil probe produced charges, and of any ruling in the Intercept suit, could not be checked: the research ended first and the original pages at CourtListener, Inner City Press and Mediaite were not read directly.",
@@ -345,6 +351,30 @@
       "publisher": "House Financial Services Committee Democrats",
       "url": "https://democrats-financialservices.house.gov/uploadedfiles/02.24.2026_ltr_req_iti.pdf",
       "date": "2026-02-24"
+    },
+    {
+      "title": "CFTC probes $800m oil trading spike (relaying WSJ)",
+      "publisher": "Hedgeweek",
+      "url": "https://www.hedgeweek.com/cftc-probes-800m-oil-trading-spike/",
+      "date": "2026-05"
+    },
+    {
+      "title": "CFTC charges U.S. service member with insider trading in Nicolas Maduro-related event contracts",
+      "publisher": "CFTC",
+      "url": "https://www.cftc.gov/PressRoom/PressReleases/9217-26",
+      "date": "2026-04-23"
+    },
+    {
+      "title": "Prosecutors urge judge to reject soldier's motion to dismiss Polymarket charges",
+      "publisher": "ABC News",
+      "url": "https://www.goodmorningamerica.com/news/story/soldier-charged-polymarket-trades-seeks-dismissal-135797525",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "OGE Form 278e annual report for 2025, Donald J. Trump",
+      "publisher": "U.S. Office of Government Ethics",
+      "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "date": "2026-06-30"
     }
   ],
   "entities": [
@@ -884,14 +914,16 @@
     "checked": [
       "Status of the CFTC/DOJ oil-futures probe after April 2026 (gap flagged)",
       "Any SEC reply to the April 2025 congressional letters (gap flagged)",
-      "Letter date and signatories of the 11 April 2025 Senate letter"
+      "Letter date and signatories of the 11 April 2025 Senate letter",
+      "2026-11-16: 23 March 2026 oil trades, Van Dyke counts and status, and Trump's own 8 April 2025 purchases (applied from the C101-C103 audit)"
     ],
-    "result": "strengthened",
+    "result": "corrected",
     "changes": [
       "Iran/CFTC sub-claim: added Bloomberg's 2026-10-13 report that a Selig adviser had staff retract the enforcement referral, the CFTC's response that enforcement continues, and no charges as of Nov 2026; attributed to anonymous sourcing.",
       "SEC sub-claim: added House FSC Democrats' Feb 2026 letter saying no substantive SEC response in nearly a year and GAO lacks authority; none found through Nov 2026.",
       "Summary, corrections and context updated. Verdict and confidence unchanged.",
-      "Not re-checked: Polymarket/Maduro indictment, Truth API lawsuit status, Rogan/Gillis exchange."
+      "Not re-checked: Polymarket/Maduro indictment, Truth API lawsuit status, Rogan/Gillis exchange.",
+      "2026-11-16: Iran sub-claim now records the three firms the WSJ named (none accused) and the Semafor article before the post; Maduro sub-claim lists the five counts, plea, motion and trial date; summary and context narrowed so that 'no evidence ties Trump' applies to the anonymous traders, with Trump's 327 disclosed purchases on 8 April 2025 noted and C101/C102/C103 referenced for the episodes this check lacks. Result changed from strengthened to corrected."
     ],
     "new_sources": [
       {
@@ -917,6 +949,30 @@
         "publisher": "House Financial Services Committee Democrats",
         "url": "https://democrats-financialservices.house.gov/uploadedfiles/02.24.2026_ltr_req_iti.pdf",
         "date": "2026-02-24"
+      },
+      {
+        "title": "CFTC probes $800m oil trading spike (relaying WSJ)",
+        "publisher": "Hedgeweek",
+        "url": "https://www.hedgeweek.com/cftc-probes-800m-oil-trading-spike/",
+        "date": "2026-05"
+      },
+      {
+        "title": "CFTC charges U.S. service member with insider trading in Nicolas Maduro-related event contracts",
+        "publisher": "CFTC",
+        "url": "https://www.cftc.gov/PressRoom/PressReleases/9217-26",
+        "date": "2026-04-23"
+      },
+      {
+        "title": "Prosecutors urge judge to reject soldier's motion to dismiss Polymarket charges",
+        "publisher": "ABC News",
+        "url": "https://www.goodmorningamerica.com/news/story/soldier-charged-polymarket-trades-seeks-dismissal-135797525",
+        "date": "2026-08-20"
+      },
+      {
+        "title": "OGE Form 278e annual report for 2025, Donald J. Trump",
+        "publisher": "U.S. Office of Government Ethics",
+        "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+        "date": "2026-06-30"
       }
     ]
   }

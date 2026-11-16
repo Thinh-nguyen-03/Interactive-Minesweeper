@@ -102,7 +102,10 @@ This builds on C58 (the market data and the first letters), C52 (the SEC Enforce
 - No trader has been named.
 
 ### 7. Prediction-market enforcement: confirmed
-- Van Dyke (charged), Perez (settled) and Santos (settled), plus a Google employee who is not a government employee.
+- Van Dyke (charged on five counts; pleaded not guilty; trial set for 7 December 2026). His motion to dismiss argues his Polymarket contracts were event contracts, not swaps; prosecutors opposed it in August 2026, and no ruling was found [50].
+- Perez (settled; insider trading on presidential "mention" contracts).
+- Santos (settled: $17,569.98 disgorgement plus a $17,500 penalty). This is a **manipulation** case over his own State of the Union attendance, not insider trading.
+- A Google employee, who is not a government employee.
 - All were detected by the platforms.
 - None involves Trump, his family or a policy-level official.
 
@@ -116,7 +119,7 @@ This builds on C58 (the market data and the first letters), C52 (the SEC Enforce
 - No OGE guidance on prediction markets was found, and OGE has not responded to CREW in public.
 
 ### 10. Enforcement staffing and policy: confirmed (documented; no motive asserted)
-- **SEC staffing (GAO-26-107813).** Enforcement had 1,305 staff at the end of FY2024 and lost 235 (18%). Trading and Markets lost 22%. Agency-wide losses were about 18%, and the SEC had about 4,000 employees in January 2026, its lowest number since 2014.
+- **SEC staffing (GAO-26-107813).** Enforcement had 1,305 staff at the end of FY2024 and lost 235 (18%). Trading and Markets lost 22%. Agency-wide losses were 871 people, about 18%. The SEC had about 4,000 employees in January 2026, which GAO says is lower than its average full-time-equivalent workforce in any year since 2014. (Audit: Table 2 re-read; Enforcement 109 + 54 + 72 = 235 of 1,305.)
 - **SEC policy.** The Commission rescinded the Enforcement Director's delegated authority to issue formal orders (March 2025, White & Case excerpt). It also sought comment on "foundational and existential aspects" of the Consolidated Audit Trail, according to Better Markets, an advocacy group.
 - **CFTC.** Staff ended 2025 about 21% below the ten-year average, and enforcement actions fell nearly 80% (NPR). The CFTC says the departures were voluntary and that it is hiring. Selig is the sole commissioner.
 - **DOJ.** The National Cryptocurrency Enforcement Team was disbanded. NBC reported (anonymous sources) cuts to the Public Integrity Section.
@@ -126,15 +129,15 @@ This builds on C58 (the market data and the first letters), C52 (the SEC Enforce
   - Section 2(3) defines "executive branch employee" to include the President and Vice President.
   - Section 9(b) affirms that such employees are "not exempt" from section 10(b) and Rule 10b-5.
   - It adds Exchange Act section 21A(h): a duty of trust and confidence to the government and citizens for material nonpublic information "derived from such person's position."
-- **Tipper and tippee.** Under *Dirks v. SEC* (1983) and *Salman v. United States* (2016), an insider who tips for a personal benefit is liable, and a gift of information to a relative or friend counts as a benefit. A tippee who knows of the breach is liable when trading. So family and friends who trade on a tip from an official are covered as tippees, not as officials.
+- **Tipper and tippee.** Under *Dirks v. SEC* (1983) and *Salman v. United States* (2016), an insider who tips for a personal benefit is liable, and a gift of information to a relative or friend counts as a benefit. A tippee who knows of the breach is liable when trading. On our reading (no court has applied this to these facts), family and friends who trade on a tip from an official are covered as tippees, not as officials.
 - **Commodity Exchange Act section 4c(a)(3)-(4).**
-  - It bars "any employee or agent of any department or agency of the Federal Government" from trading futures, options or swaps on government information, or from imparting that information for gain.
-  - Knowing recipients of such information are also liable, and anyone who misappropriates government information is liable under 4c(a)(4)(C).
+  - Statute text re-read in the audit. Section 4c(a)(3) bars "any employee or agent of any department or agency of the Federal Government" from using government information that has not been made public, "in his personal capacity and for personal gain", to trade futures, options on futures, off-exchange options or swaps. Section 4c(a)(4)(A) bars imparting it for personal gain to help another trade.
+  - Section 4c(a)(4)(B) makes a recipient who "knowingly" uses imparted information liable. Section 4c(a)(4)(C) makes it unlawful for "any person" to steal, convert or misappropriate such information and trade on it (the CFTC calls this the "Eddie Murphy Rule").
   - CFTC Rule 180.1 mirrors Rule 10b-5.
-  - Event contracts are treated as swaps. The Van Dyke and Perez cases are the first uses of these provisions on event contracts.
+  - The CFTC treats event contracts as swaps. Van Dyke's pending motion disputes that, and no court has ruled. The Van Dyke and Perez cases are the first uses of these provisions on event contracts.
 - **Gaps and limits.**
   1. A public post is not a tip. Professors Coffee, Pritchard and Seyhun (PolitiFact, excerpt) see no violation in the 9 April post itself; aides who traded would be exposed.
-  2. Whether the President is an "employee or agent of any department or agency" under the CEA provision is untested. This is our reading of the text; no source found decides it.
+  2. Whether the President is an "employee or agent of any department or agency" under the CEA provision is untested. **Our own reading, not a source's:** section 4c(a)(3) borrows the STOCK Act's definitions only for Members and employees of Congress and judicial officers and employees, so the STOCK Act's express inclusion of the President does not carry over to the "department or agency" phrase. The "any person" theft provision has no such limit.
   3. The OGE rule on nonpublic information (5 CFR 2635.703) excludes the President and Vice President (5 CFR 2635.102(h)), as does 18 U.S.C. 208 (via 18 U.S.C. 202(c)).
   4. *Blaszczak* (2d Cir. 2022) held that confidential agency information is not "property" for Title 18 wire and securities fraud. That narrows criminal theories outside the Exchange Act and the CEA.
   5. A 2000 opinion of DOJ's Office of Legal Counsel bars indicting a sitting president. *Trump v. United States* (2024) gives immunity for official acts but not unofficial ones.
@@ -149,7 +152,8 @@ This builds on C58 (the market data and the first letters), C52 (the SEC Enforce
 
 ## Corrections
 - **Claimed:** the House letters of April 2025 and February 2026 quote Trump as saying "$2.5 million." **The record shows:** he said "two-and-a-half billion" (Schwab) and "$900 million" (Penske). Both are his own claims about paper gains (C58).
-- **Claimed:** the House Oversight memo says a Hyperliquid short was opened "within minutes" of a tariff announcement. **The record shows:** the article the memo cites says the position was opened about 30 hours before the post.
+- **Claimed:** the House Oversight letter (29 September 2026) and memo (13 November 2026) say a Hyperliquid short was established "within minutes" of a tariff announcement. **The record shows:** the article both cite (Bank Syz, republished by Investing.com) describes a build-up from 16:39 UTC on 9 October, about 28-30 hours before the 20:50 UTC post, to about 20:49 UTC on 10 October, and its summary says "opened 30 hours before". "Within minutes" fits the last additions, not the opening. An earlier version of this check called the memo's wording wrong; it is incomplete rather than wrong. No trader has been identified (see C101, which now says the same).
+- **Audit, 16 Nov 2026:** the Santos order is for manipulation, not insider trading. The Van Dyke indictment has five counts. The CFTC complaint and DOJ give slightly different profit figures (more than $404,000 versus about $409,881).
 - **Claimed:** the teleprompter operator made "close to $100,000." **The record shows:** the CFTC order puts the profit at $107,539, plus a $65,000 penalty.
 - **Claimed:** the April 2025 memo disbanding the National Cryptocurrency Enforcement Team was Bondi's. **The record shows:** Deputy AG Todd Blanche wrote it.
 
@@ -226,3 +230,16 @@ Read in full unless marked (excerpt).
 47. Executive Functions, Goldsmith interview with John Coates, 2026-09. https://www.execfunctions.org/p/is-trump-medias-early-access-feed
 48. PolitiFact, experts on the insider-trading accusations, 2025-04-10 (excerpt). https://www.politifact.com/article/2025/apr/10/critics-donald-trump-of-insider-trading-tariffs/
 49. Quartz, White House staff warning, 2026-04-10 (excerpt). https://qz.com/white-house-staff-warning-prediction-markets-insider-trading-041026
+50. ABC News, prosecutors oppose the soldier's motion to dismiss, 2026-08-20. https://www.goodmorningamerica.com/news/story/soldier-charged-polymarket-trades-seeks-dismissal-135797525
+51. Bank Syz (Charles-Henry Monchau), "The '1011' crypto crash and the mystery of the $1 billion whale", 2025-10-21 (the article cited by House Oversight). https://blog.syzgroup.com/slow-food-for-thought/the-1011-crypto-crash-and-the-mystery-of-the-1-billion-whale
+52. House Oversight, letter to Hyperliquid Labs, 2026-09-29. https://oversight.house.gov/wp-content/uploads/2026/09/Hyperliquid-Letter-9.29.26.pdf
+
+## Audit (second review, 16 Nov 2026)
+
+Result: **corrected** (verdict and confidence unchanged: mostly-accurate, medium).
+
+- **Hyperliquid:** the correction is rewritten. The letter and memo say "within minutes" and both cite an article that says "opened 30 hours before" and describes a build-up from 9 October 16:39 UTC to 10 October 20:49 UTC. The phrases describe its start and end. Now consistent with C101.
+- **GAO-26-107813:** the Enforcement (1,305 staff, 235 departures, 18%), Trading and Markets (22%) and agency-wide (871, about 18%) figures are confirmed. "Lowest since 2014" is reworded to GAO's comparison.
+- **Law:** STOCK Act sections 2(3) and 9(b) (adding Exchange Act 21A(h)) are confirmed against the text. CEA 4c(a)(3)-(4) is restated from the text. The researcher's own readings (tippee coverage; whether the CEA reaches the President) are marked as such. The CFTC's treatment of event contracts as swaps is flagged as disputed.
+- **Enforcement:** Santos is a manipulation case. Van Dyke: five counts, motion to dismiss opposed in August 2026, trial still set for 7 December 2026.
+- **Upheld:** Blanche wrote the 7 April 2025 NCET memo. The retracted CFTC referral rests on anonymous sources, alongside the enforcement director's on-record statement that the probe is open. No charges, SEC action or finding about Trump, his family or senior officials were found through 16 Nov 2026.

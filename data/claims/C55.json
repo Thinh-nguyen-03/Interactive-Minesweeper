@@ -3,7 +3,7 @@
   "title": "How much has the Trump family made? Competing totals",
   "verdict": "mostly-accurate",
   "confidence": "medium",
-  "summary": "All the named estimates exist and are traceable. They diverge because they measure different things: cash received (Kirkpatrick about $3.4B in Aug 2025, rising to about $4B by Jan 2026; WSJ at least $1.2B from WLF; Reuters at least $2.3B from crypto), changes in net worth on paper (Forbes, Bloomberg), self-reported gross income on the disclosure (at least $2.2B and more than $1.4B from crypto, Trump only, 2025), and foreign revenue only (CREW, more than $117M). Read on those terms they are broadly compatible. The weak points are the Fight Fight Fight $200M-$1B TRUMP treasury, which was only a proposal with no confirmed raise, and the 'reinvested in stocks/bonds' finding, which is a portfolio-growth correlation shown in value ranges, not a traced flow of money. The White House denies any profiteering and claims Trump has lost money.",
+  "summary": "All the named estimates exist and are traceable. They diverge because they measure different things: cash received (Kirkpatrick about $3.4B in Aug 2025, rising to about $4B by Jan 2026; WSJ at least $1.2B from WLF; Reuters at least $2.3B from crypto, about $70M of it paper value), changes in net worth on paper (Forbes, Bloomberg), self-reported gross income on the disclosure (at least $2.2B and more than $1.4B from crypto, Trump only, 2025), and foreign revenue only (CREW, more than $117M). Read on those terms they are broadly compatible. The weak points are the Fight Fight Fight $200M-$1B TRUMP treasury, which was only a proposal with no confirmed raise, and the 'reinvested in stocks/bonds' finding, which is a portfolio-growth correlation shown in value ranges, not a traced flow of money. The White House denies any profiteering and claims Trump has lost money.",
   "sub_claims": [
     {
       "statement": "The New Yorker's David Kirkpatrick estimated the family took in about $3.4B in cash from the presidency.",
@@ -41,7 +41,7 @@
     {
       "statement": "Reuters/NYT disclosure tallies: $1.4B from crypto within $2.2B of income.",
       "verdict": "confirmed",
-      "finding": "These come from the 2025 OGE disclosure released 2026-06-30, and are Trump's personal, self-reported gross income for calendar 2025, much of it given in ranges. The NYT counted at least $2.2B in total; crypto was more than $1.4B (about $800M from WLF and about $635M in TRUMP royalties). The figures exclude the sons' separate ventures. A separate Reuters investigation (2026-06-09) estimated at least $2.3B to the family from four crypto ventures (TRUMP, WLF, American Bitcoin, AI Financial) since the return to office, against about $2.3B in realized and unrealized investor losses as of 2026-04-30. The WSJ (Feb 2026) counted at least $1.2B in cash to the family from WLF, plus about $2.25B in paper gains.",
+      "finding": "These come from the 2025 OGE disclosure released 2026-06-30, and are Trump's personal, self-reported gross income for calendar 2025, much of it given in ranges. The NYT counted at least $2.2B in total; crypto was more than $1.4B ($789.3M on the World Liberty and stablecoin entity lines, of which $592.4M on DT Marks DEFI's, and $635.1M of TRUMP licence royalties; the World Liberty lines belong to entities 30% owned by unnamed family members, and the form does not say whether they are entity totals or Trump's share). The figures exclude the sons' separate ventures. A separate Reuters investigation (2026-06-09) estimated at least $2.3B to the family from four crypto ventures (TRUMP, WLF, American Bitcoin, AI Financial) from November 2024 to April 2026, described as pretax income and including Eric Trump's American Bitcoin stake at paper value (more than $70M at the end of April 2026), against about $2.3B in realized and unrealized investor losses as of 2026-04-30. The WSJ (Feb 2026) counted at least $1.2B in cash to the family from WLF, plus about $2.25B in paper gains.",
       "sources": [
         "https://en.politis.com.cy/news/world/1016063/trump-made-at-least-22-billion-in-first-year-back-in-office-filing-shows",
         "https://www.thestandard.com.hk/world/article/334176/Under-the-Trump-crypto-playbook-the-family-always-wins-Investors-dont",
@@ -77,7 +77,7 @@
     {
       "statement": "The estimates can be reconciled.",
       "verdict": "mostly-accurate",
-      "finding": "Cash-flow counts (Kirkpatrick about $4B; Reuters at least $2.3B in crypto; WSJ at least $1.2B from WLF; CAP's tracker about $2.9B at one snapshot) and gross disclosure income (at least $2.2B for Trump in 2025) cluster in the low billions. Net-worth trackers show smaller net gains (Forbes +$1.4B over the year to March 2026) because crypto holdings were marked down after the 2025-26 crash. CREW's $117M is a foreign-only subset. Different scopes (Trump alone vs. family), dates and cash-vs-paper treatment explain most of the spread.",
+      "finding": "Cash-flow counts (Kirkpatrick about $4B; Reuters at least $2.3B in crypto, about $70M of it paper value; WSJ at least $1.2B from WLF; CAP's tracker about $2.9B at one snapshot) and gross disclosure income (at least $2.2B for Trump in 2025) cluster in the low billions. Net-worth trackers show smaller net gains (Forbes +$1.4B over the year to March 2026) because crypto holdings were marked down after the 2025-26 crash. CREW's $117M is a foreign-only subset. Different scopes (Trump alone vs. family), dates and cash-vs-paper treatment explain most of the spread.",
       "sources": [
         "https://www.americanprogress.org/feature/trumps-take/",
         "https://www.newser.com/story/386272/forbes-has-a-new-estimate-of-trumps-net-worth.html",
@@ -90,7 +90,8 @@
     "The $3.4B New Yorker figure is from Aug 2025; Kirkpatrick's own update is about $4B (around Jan 2026).",
     "Kirkpatrick's total includes some 2024 run-up money, so it is not strictly second-term.",
     "$1.4B crypto / $2.2B is Trump's personal gross income for calendar 2025, not a family total and not profit.",
-    "The Fight Fight Fight treasury was a reported fundraising plan; no raise has been confirmed."
+    "The Fight Fight Fight treasury was a reported fundraising plan; no raise has been confirmed.",
+    "2026-11-16 (disclosure audit, C96/C97): Claimed: Reuters' $2.3B is earnings 'since the return to office'. The record shows: Reuters' estimate is pretax income from November 2024 to April 2026 and includes about $70M of paper value (Eric Trump's American Bitcoin stake), so it is not all cash. The disclosure's 'about $800M from WLF' is $789.3M on the World Liberty and stablecoin entity lines ($592.4M without Stablecoin Holdco), entities 30% owned by unnamed family members."
   ],
   "denials_and_context": [
     "Karoline Leavitt called the New Yorker figure 'absolutely absurd' and said Trump has lost hundreds of millions of dollars by serving. No records support that claim.",
@@ -425,7 +426,7 @@
     {
       "source": "reuters",
       "target": "donald-trump",
-      "label": "estimated at least $2.3B family earnings from four crypto ventures",
+      "label": "estimated at least $2.3B family pretax earnings from four crypto ventures, Nov 2024-Apr 2026 (includes Eric Trump's American Bitcoin stake at paper value)",
       "type": "media",
       "date": "2026-06-09",
       "amount_usd": 2300000000
@@ -479,10 +480,10 @@
     {
       "source": "world-liberty-financial",
       "target": "donald-trump",
-      "label": "~$800M income in 2025 per disclosure",
+      "label": "$789.3M on World Liberty and stablecoin entity lines in 2025 per disclosure ($592.4M excluding Stablecoin Holdco)",
       "type": "money",
       "date": "2025",
-      "amount_usd": 800000000
+      "amount_usd": 789310321
     },
     {
       "source": "trump-coin",
@@ -556,12 +557,14 @@
     "checked": [
       "2025 OGE disclosure: at least $2.2B income, about $1.4B crypto ($635M TRUMP royalties via Celebration Coins, ~$800M from WLF)",
       "Bloomberg 2026-05-12 revision: ~$1.55B WLFI token-sale proceeds lifting fortune by ~$660M",
-      "Kirkpatrick update from ~$3.4B (Aug 2025) to ~$4B (early 2026)"
+      "Kirkpatrick update from ~$3.4B (Aug 2025) to ~$4B (early 2026)",
+      "Scope of Reuters' $2.3B; the disclosure's WLF figure"
     ],
-    "result": "upheld",
+    "result": "corrected",
     "changes": [
       "No factual changes; all three assertions matched fresh coverage (NPR repeats 'almost $4 billion'; Bloomberg's $660M/$1.55B and the disclosure figures confirmed in multiple outlets). Added corroborating sources only.",
-      "Not re-checked: Forbes net-worth figures, CREW foreign-revenue count, Fight Fight Fight treasury status, Reuters portfolio-growth range."
+      "Not re-checked: Forbes net-worth figures, CREW foreign-revenue count, Fight Fight Fight treasury status, Reuters portfolio-growth range.",
+      "2026-11-16 (disclosure audit, C96/C97): Reuters' $2.3B re-described as pretax income Nov 2024-Apr 2026 including Eric Trump's American Bitcoin stake at paper value (confirmed via CryptoSlate and Coin360 relays); disclosure WLF figure set to the exact $789.3M ($592.4M without Stablecoin Holdco) with the 70/30 entity caveat."
     ],
     "new_sources": [
       {
@@ -581,6 +584,18 @@
         "publisher": "NPR",
         "url": "https://www.npr.org/2026/02/08/nx-s1-5704312/how-the-presidency-is-making-trump-richer",
         "date": "2026-02-08"
+      },
+      {
+        "title": "OGE Form 278e, Donald J. Trump, annual report for calendar 2025",
+        "publisher": "US Office of Government Ethics",
+        "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+        "date": "2026-06-30"
+      },
+      {
+        "title": "Trump family's $2.3B crypto windfall matched by $2.25B in investor losses, Reuters finds",
+        "publisher": "CryptoSlate",
+        "url": "https://cryptoslate.com/trump-familys-2-3b-crypto-windfall-matched-by-2-25b-in-investor-losses-reuters-finds/",
+        "date": "2026-06"
       }
     ]
   }

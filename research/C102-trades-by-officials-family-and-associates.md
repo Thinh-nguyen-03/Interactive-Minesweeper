@@ -132,11 +132,11 @@ Read as search excerpts unless marked "read in full".
 6. USA Today via AOL, Scavino unloaded Trump Media stock (2025): https://www.aol.com/trumps-deputy-chief-staff-unloaded-090659383.html
 7. Via AOL, Trump aide waited months to unload Truth Social stock (2025): https://www.aol.com/news/trump-aide-waited-months-unload-184635513.html
 8. Joe.My.God relaying The Washington Sun (2026-10): https://www.joemygod.com/2026/10/white-house-aide-got-millions-from-truth-social/
-9. ProPublica, Duffy stock sales (2025-05): https://www.propublica.org/article/sean-duffy-stock-sales-trump-tariffs
+9. ProPublica, Duffy stock sales (2025-05) (read in full): https://www.propublica.org/article/sean-duffy-stock-sales-trump-tariffs
 10. Louisiana Illuminator republication (2025-05-20): https://lailluminator.com/2025/05/20/duffy-stocks/
-11. ProPublica, officials sold stocks before tariffs (2025-05): https://www.propublica.org/article/us-officials-stock-sales-trump-tariffs
+11. ProPublica, officials sold stocks before tariffs (2025-05) (read in full): https://www.propublica.org/article/us-officials-stock-sales-trump-tariffs
 12. USA Today via AOL, Well-timed or just lucky? (2025): https://www.aol.com/well-timed-just-lucky-top-103438989.html
-13. Sludge (2026-07-01): https://readsludge.com/2026/07/01/trump-bought-hundreds-of-stocks-the-day-before-he-paused-tariffs-and-sparked-a-historic-rally/
+13. Sludge (2026-07-01) (read in full): https://readsludge.com/2026/07/01/trump-bought-hundreds-of-stocks-the-day-before-he-paused-tariffs-and-sparked-a-historic-rally/
 14. Mediaite (2026-07): https://www.mediaite.com/politics/trump/trump-made-327-stock-purchases-the-day-before-he-announced-this-is-a-great-time-to-buy-and-rolled-back-tariffs/
 15. iHeart/700WLW (2026-07-02): https://700wlw.iheart.com/content/2026-07-02-trump-discloses-stock-trades-before-tariff-pause/
 16. Reuters via Yahoo Finance (2025-11-16): https://finance.yahoo.com/news/trump-buys-least-82-million-222505118.html
@@ -151,7 +151,7 @@ Read as search excerpts unless marked "read in full".
 25. Bloomberg Law (2025-04-15): https://news.bloomberglaw.com/securities-law/trump-ally-greene-bought-tesla-amazon-blackstone-before-rally
 26. Washington Examiner (2025-04): https://www.washingtonexaminer.com/?p=3381975
 27. WSB-TV (2025-04): https://www.wsbtv.com/news/local/atlanta/marjorie-taylor-greene-says-calls-investigation-into-her-stock-trades-utterly-absurd/SOVJNPFBDRHHJLQNTNVUI6ZEBI
-28. Business Insider via AOL (2025-04): https://www.aol.com/news/not-just-mtg-house-democrat-175459564.html
+28. Business Insider via AOL (2025-04) (read in full): https://www.aol.com/news/not-just-mtg-house-democrat-175459564.html
 29. The Bulwark (2025): https://www.thebulwark.com/p/how-trumps-tariff-spasms-became-a
 30. Fortune (2025-06-10): https://fortune.com/2025/06/10/congress-house-stock-trades-trump-liberation-day/
 31. CNN via Yahoo News (2025-06-11): https://www.yahoo.com/news/days-around-trump-trade-war-080004689.html
@@ -177,6 +177,15 @@ Read as search excerpts unless marked "read in full".
 51. Cointelegraph (2026-08-31): https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round
 52. Blockworks (2025-10-28): https://blockworks.co/news/trump-media-truth-predict
 53. Gaming.net (2026-08-27): https://www.gaming.net/kalshi-rebuts-report-trump-jr-pitched-gop-attorneys-general/
+54. ProPublica, Bondi sold more than $1 million in Trump Media stock (2025-05; read in full): https://www.propublica.org/article/pam-bondi-trump-media-stock-tariffs
+55. OGE Form 278-T, Sergio Gor, signed 2025-05-20 (read in full): https://www.whitehouse.gov/wp-content/uploads/2025/11/Gor-Sergio-Periodic-Transaction-Report-05.20.25.pdf
+56. Business Insider, relaying USA Today on Scavino (2025-07): https://www.businessinsider.nl/top-white-house-aide-sold-at-least-1-million-in-truth-social-stock-the-day-before-trumps-april-tariff-announcement/
+57. OGE Form 278e annual report for 2025, Donald J. Trump, received 2026-06-29 (cover page and Part 7 read in full): https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf
+58. ABC News, Trump discloses 21,000 securities trades (2026-07-03; read in full): https://www.goodmorningamerica.com/news/story/trump-discloses-21000-securities-trades-year-office-134427666
+59. Bitcoin.com News, 327 stock purchases (2026-07; read in full): https://news.bitcoin.com/trump-discloses-327-stock-purchases-made-one-day-before-his-tariff-pause-rally/
+60. CBS News, Trump's stock trades in 2026 (2026-05; read in full): https://www.cbsnews.com/news/trump-stock-trades-2026/
+61. CNN via KTVZ, lawmaker stock transactions around the trade war (2025-06-11): https://ktvz.com/politics/cnn-us-politics/2025/06/11/the-days-around-trumps-trade-war-announcements-saw-spikes-in-lawmaker-stock-market-transactions/
+62. Washington Examiner, Bresnahan adds guardrails (2025-07): https://www.washingtonexaminer.com/?p=3481765
 
 ## Open leads
 - ProPublica's full list of officials and their responses.
@@ -184,3 +193,13 @@ Read as search excerpts unless marked "read in full".
 - Why Trump's 8 April 2025 trades were left off the 278-T reports, and how many other 2025 trades were filed late.
 - Which crypto-treasury firms the SEC and FINRA contacted, and with what outcome.
 - Scavino's reported Trump Media capital gains in his 2025 annual filing.
+
+## Audit (second review, 16 Nov 2026)
+
+Result: **corrected** (verdict and confidence unchanged: mostly-accurate, medium).
+
+- **Priority check, Trump's 8 April 2025 purchases:** confirmed against the OGE report itself. Part 7 lists 327 transactions dated 4/8/2025, all purchases, all in "Investment Account #7", worth $3,629,327-$12,835,000 by range. The reviewer's comments (30 June 2026) confirm a 45-day extension and late fees "related to transactions not previously reported on 278-Ts". Timing corrected (made public 30 June 2026; about 13 months past the 278-T deadline). Context from the same filing added: heavy trading on 4 and 10 April and about 21,000 transactions in the year.
+- **Responses:** the White House "fully discretionary accounts" line recorded as attributed to Anna Kelly (occasion unconfirmed), plus ABC's report of the White House's statement, Trump's own comment and the Trump Organization statement.
+- **Names:** Bondi, Duffy and the ProPublica names re-checked in full; Gor upgraded to documented from his own 278-T; Scavino kept single-source and his reported capital gains downgraded to unverified; Rana's "declined to comment" added; the Office of Administration lawyer's response added; Hern's 4 April date added, his response not found; Bresnahan's count kept single-source.
+- **Van Dyke:** five counts, not guilty plea, trial set for 7 December 2026.
+- No charge, inspector-general finding, SEC or CFTC action, or ethics-committee finding against anyone named here was found through 16 Nov 2026.

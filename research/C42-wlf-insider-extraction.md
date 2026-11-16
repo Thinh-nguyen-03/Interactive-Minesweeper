@@ -18,11 +18,11 @@ This check asks how money flowed out of World Liberty Financial (WLF) to the Tru
 ### 1. DT Marks DEFI LLC is entitled to 75% of WLF net token-sale and protocol revenue: confirmed, with later ownership changes
 - WLF's October 2024 "Gold Paper" gives DT Marks DEFI LLC 22.5B WLFI tokens and 75% of "net protocol revenues". These are defined as revenue "from any source", including token-sale proceeds and platform fees, after a $30M initial reserve and agreed expenses. The remaining 25% goes to Axiom Management Group, owned by co-founders Chase Herro and Zak Folkman. [1][2]
 - After the $550M token-sale total in March 2025, Decrypt estimated about $390M for Trump-side entities. Reuters-based reporting put the figure at about $400M, and Bitcoin.com at $413M. One crypto analyst disputed that reading of the Gold Paper. [3]
-- The ownership of the operating company is a separate question from the revenue entitlement. DT Marks DEFI's stake in WLF Holdco has been reported at roughly 60%, then 40%, then 38.25%; the drop to 38.25% followed the Aryam 49% deal covered in C14. A May 2026 Center for American Progress memo notes that WLF's own statements on these figures are inconsistent. [4][5]
+- The ownership of the operating company is a separate question from the revenue entitlement. Trump's OGE filings give DT Marks DEFI's stake in WLF Holdco as 75% at the end of 2024 and 38.25% at the end of 2025; WLF's own statements gave about 60% and 40% in between; the drop to 38.25% followed the Aryam 49% deal covered in C14. A May 2026 Center for American Progress memo notes that WLF's own statements on these figures are inconsistent. [4][5]
 
 ### 2. Trump's disclosed WLF income: confirmed
-- **2024 OGE filing (released June 2025):** about $57.35M from WLF token sales via DT Marks DEFI. Bloomberg Tax reported $57.7M. [6][7]
-- **2025 filing (released June 30, 2026):** outlets disagree on the total, which runs from about $594M to about $800M from WLF. Reuters and the NYT (C29) report about $800M: more than $520M from token sales and more than $250M from selling interests in the business. Bloomberg, NOTUS and others report about $594M: about $515-529M from token sales plus about $65-66M from the WLF Holdco equity sale. The Block itemizes $236.25M of distributed token proceeds plus $65.6M from the equity sale. The form reports ranges, so no exact figure can be fixed. *(Audit correction; see below.)* The 22.5B-token allocation was valued at about $1.3B. These are revenue figures, not profit. C29 covers the full totals. [4][8]
+- **2024 OGE filing (released June 2025):** $57,355,532 of token sales on the line of World Liberty Financial, Inc. itself (line 391). That is company revenue, not a distribution to Trump; DT Marks DEFI's own 2024 line shows no income. Bloomberg Tax reported $57.7M. [6][7]
+- **2025 filing (released June 30, 2026):** the filing resolves the outlets' disagreement. DT Marks DEFI's lines show $526,810,321 of token proceeds distributed by WLF (The Block's $236.25M is only the cash line) and $65,625,000 from the WLF Holdco equity sale, $592.4M in all ("about $594M" with staking). Adding $196,875,000 to DT Marks SC from Stablecoin Holdco gives $789.3M (Reuters and the NYT's "almost $800M"). Both entities are about 70% Trump's and 30% unnamed family members'. The form does not say whether the amounts are entity totals or Trump's share. *(Corrected 16 Nov 2026; see the audit addendum.)* The form lists 15.75B WLFI under DTTM Operations, valued only "Over $50,000,000". The "about $1.3B" for 22.5B tokens is CAP's July 2026 market valuation, not a disclosed figure. These are revenue figures, not profit. C29 covers the full totals. [4][8]
 
 ### 3. Steve Witkoff's about $107M of 2025 income and the disputed divestment: confirmed for the income, unresolved for the divestment
 - ABC News reported (September 2026, from filings a government watchdog obtained) that Witkoff's 2025 OGE disclosure shows nearly $107M of income from a holding company affiliated with WLF, up from $34M in 2024. One outlet reports a split of about $69M in cash and $38M in digital assets. [9][10][11]
@@ -72,7 +72,7 @@ This check asks how money flowed out of World Liberty Financial (WLF) to the Tru
 
 ## Corrections
 - "Insiders borrowing" should read "WLF's own treasury or multisig wallets borrowed". No personal borrowing by insiders is documented.
-- "75% of net revenue" describes the revenue entitlement in the Gold Paper. DT Marks DEFI's equity stake in WLF Holdco fell to about 38.25%.
+- "75% of net revenue" describes the revenue entitlement in the Gold Paper. DT Marks DEFI's equity stake in WLF Holdco was 75% at the end of 2024 and 38.25% at the end of 2025, according to Trump's OGE filings.
 - Witkoff's $107M came from "a WLF-linked holding company", not necessarily from WLF itself. The filing does not break the figure down.
 
 ## Other side
@@ -141,3 +141,12 @@ New sources:
 - NOTUS, "Trump Discloses More Than $1.1 Billion In Crypto Earnings", 2026-06-30. https://www.notus.org/trump-white-house/trump-annual-financial-disclosure-crypto-earnings
 - The Block, "President Trump's financial disclosures show hundreds of millions in crypto-related income", 2026-06-30. https://www.theblock.co/news/regulation/2026-06-30-president-trump-financial-disclosures-hundreds-millions-crypto-related-income-406782
 - CoinDesk, "Trump's World Liberty Financial uses 5 billion WLFI to borrow $75 million from a platform its adviser co-founded", 2026-04-09. https://www.coindesk.com/markets/2026/04/09/trump-s-world-liberty-financial-borrows-usd75-million-against-its-own-token-trapping-depositors-on-dolomite
+
+## Audit addendum (16 Nov 2026, disclosure check)
+
+**Corrected against the OGE PDFs:**
+- The 2024 "$57M from WLF" is World Liberty Financial, Inc.'s own token-sale revenue (line 391), not a payment to Trump.
+- The forms give the WLF Holdco stake as 75% at the end of 2024 and 38.25% at the end of 2025. The 60% and 40% figures come from WLF statements, not from the forms.
+- The contested $594M-$800M is resolved: $592.4M on DT Marks DEFI's lines, or $789.3M including DT Marks SC.
+- The form lists 15.75B WLFI under DTTM Operations, valued only "Over $50,000,000". The "$1.3B" for the 22.5B-token stake is CAP's July 2026 market valuation, not a disclosed figure.
+- DT Marks DEFI and DT Marks SC are 70% Trump's and 30% unnamed family members'. The form does not say whether the amounts are entity totals or his share.

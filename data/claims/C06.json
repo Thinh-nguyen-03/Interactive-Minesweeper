@@ -17,7 +17,7 @@
     {
       "statement": "The deal was $500M for 49% of World Liberty Financial.",
       "verdict": "confirmed",
-      "finding": "Aryam Investment 1 agreed to pay $500M for 49%. $250M was paid upfront, of which about $187M went to Trump-family entities and at least $31M to Witkoff-linked entities. The remaining $250M was due by 2025-07-15, and its distribution could not be determined. Some outlets relaying the WSJ also report a further $31M to an entity tied to co-founders Zak Folkman and Chase Herro; this detail is less consistently reported. No reporting found through Nov 2026 confirms whether or how the second $250M was paid.",
+      "finding": "Aryam Investment 1 agreed to pay $500M for 49%. $250M was paid upfront, of which about $187M went to Trump-family entities and at least $31M to Witkoff-linked entities. The remaining $250M was due by 2025-07-15, and its distribution could not be determined. Some outlets relaying the WSJ also report a further $31M to an entity tied to co-founders Zak Folkman and Chase Herro; this detail is less consistently reported. No reporting found through Nov 2026 confirms whether or how the second $250M was paid. Trump's 2025 OGE report (released 2026-06-30) lists $65,625,000 of net proceeds from an equity sale in WLF Holdco (line 124.2, DT Marks DEFI) and $196,875,000 from new members' capital contribution to and Class C units of Stablecoin Holdco (line 114, DT Marks SC), $262.5M in all, without naming a buyer. DT Marks DEFI's stake in WLF Holdco fell from 75% (end of 2024) to 38.25% (end of 2025), the drop a 49% dilution would produce (75% x 51%; our arithmetic). Whether the $262.5M reflects the full $500M depends on whether the form's amounts are the two entities' totals (then about $350M of the price would have been paid, at the 75% split) or Trump's 70% share (then the full $500M); the form does not say whether the amounts on these lines are the entities' totals or Trump's share, so the second tranche remains undocumented.",
       "sources": [
         "https://www.theblock.co/news/deals/2026-02-01-uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj-387931",
         "https://cointelegraph.com/news/uae-backed-firm-buys-49-percent-trump-linked-world-liberty-wsj",
@@ -66,7 +66,8 @@
     }
   ],
   "corrections": [
-    "The buyer was Aryam Investment 1, a Tahnoon-backed vehicle, not Tahnoon personally."
+    "The buyer was Aryam Investment 1, a Tahnoon-backed vehicle, not Tahnoon personally.",
+    "2026-11-16 (disclosure audit, C96/C97): Added from Trump's 2025 OGE report: $65,625,000 (WLF Holdco equity sale) and $196,875,000 (Stablecoin Holdco) were received by DT Marks DEFI and DT Marks SC in 2025, no buyer named; the stake fell from 75% to 38.25%. This fits the reported 49% sale but does not show whether the second $250M was paid."
   ],
   "denials_and_context": [
     "Trump said in the Oval Office in early February 2026: 'I don't know about it ... My sons are handling that.' He later told CBS he knows 'nothing' about the firm.",
@@ -384,14 +385,16 @@
       "$500M for 49% via Aryam Investment 1, signed by Eric Trump on 2025-01-16",
       "$250M upfront with ~$187M to Trump-family entities and at least $31M to Witkoff-linked entities",
       "Second $250M due 2025-07-15 and whether it was paid",
-      "Non-disclosure and the official responses/denials"
+      "Non-disclosure and the official responses/denials",
+      "Whether Trump's 2025 OGE report documents the Aryam payments or the second tranche"
     ],
     "result": "upheld",
     "changes": [
       "Core figures, date, signer and secrecy re-confirmed across further outlets (all still relaying the WSJ; no independent document seen).",
       "Added that some relays report a further $31M to a Folkman/Herro-linked entity (flagged as less consistently reported).",
       "Noted that no reporting through Nov 2026 confirms payment of the second $250M.",
-      "Added the February 2026 House (Khanna) inquiry to context."
+      "Added the February 2026 House (Khanna) inquiry to context.",
+      "2026-11-16 (disclosure audit, C96/C97): Added the filing's $262.5M of 2025 stake-sale proceeds (lines 124.2 and 114) and the 75% to 38.25% stake change; explained that the form cannot settle the second tranche because it does not say whether the amounts are entity totals or Trump's share. A fresh search found no reporting through Nov 2026 that the second $250M was paid."
     ],
     "new_sources": [
       {
@@ -405,6 +408,18 @@
         "publisher": "The Block",
         "url": "https://www.theblock.co/post/388607/house-launches-probe-world-liberty-financial",
         "date": "2026-02"
+      },
+      {
+        "title": "OGE Form 278e, Donald J. Trump, annual report for calendar 2025",
+        "publisher": "US Office of Government Ethics",
+        "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+        "date": "2026-06-30"
+      },
+      {
+        "title": "OGE Form 278e, Donald J. Trump, annual report for calendar 2024",
+        "publisher": "US Office of Government Ethics",
+        "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump,%20Donald%20J.%202025%20Annual%20278.pdf",
+        "date": "2025-06-13"
       }
     ]
   }

@@ -3,12 +3,12 @@
   "title": "How World Liberty insiders took money out",
   "verdict": "mostly-accurate",
   "confidence": "medium",
-  "summary": "The documented record supports most of the claim. Trump-owned DT Marks DEFI is entitled to 75% of WLF's net revenue, including token-sale proceeds. Trump disclosed about $57M from WLF for 2024 and about $594M-$800M for 2025; outlets disagree on the size of the equity-sale line, which is reported as $65M by some and more than $250M by others. Steve Witkoff reported about $107M of 2025 income from a WLF-linked holding company while the White House says he has divested, though no buyer or certificate has been shown. WLF borrowed about $75M of stablecoins on Dolomite against about 5B WLFI as the token hit record lows. Sun's wallet and 271 others were frozen, WLF promoted the $SPSC memecoin, and WLFI fell about 80-85% from its $0.33 peak. Three points need correction or remain open: the borrower was WLF's own treasury, not individual insiders; no source puts a dollar figure on retail losses; and StringZ Holding's reported Tahnoon backing rests on a single WSJ report citing anonymous sources, which the OCC record does not confirm.",
+  "summary": "The documented record supports most of the claim. DT Marks DEFI (70% Trump's companies, 30% unnamed family members) is entitled to 75% of WLF's net revenue, including token-sale proceeds. Trump's filings list $57.4M of 2024 token sales on World Liberty Financial, Inc.'s own line (company revenue, not a payment to him) and, for 2025, $592.4M on DT Marks DEFI's lines ($526.8M of token proceeds and $65.6M from a WLF Holdco equity sale), or $789.3M including $196.9M to DT Marks SC from Stablecoin Holdco. Steve Witkoff reported about $107M of 2025 income from a WLF-linked holding company while the White House says he has divested, though no buyer or certificate has been shown. WLF borrowed about $75M of stablecoins on Dolomite against about 5B WLFI as the token hit record lows. Sun's wallet and 271 others were frozen, WLF promoted the $SPSC memecoin, and WLFI fell about 80-85% from its $0.33 peak. Three points need correction or remain open: the borrower was WLF's own treasury, not individual insiders; no source puts a dollar figure on retail losses; and StringZ Holding's reported Tahnoon backing rests on a single WSJ report citing anonymous sources, which the OCC record does not confirm.",
   "sub_claims": [
     {
       "statement": "DT Marks DEFI LLC is entitled to 75% of WLF's net token-sale and protocol revenue.",
       "verdict": "confirmed",
-      "finding": "The October 2024 Gold Paper gives DT Marks DEFI 22.5B WLFI and 75% of 'net protocol revenues'. These cover revenue from any source, including token-sale proceeds and fees, after a $30M reserve and agreed expenses. The other 25% goes to Axiom Management Group, owned by Herro and Folkman. On the $550M raised, Decrypt estimated about $390M for Trump-side entities, though one analyst disputes that reading. This entitlement is separate from DT Marks DEFI's equity in WLF Holdco, which was reported at about 60%, then 40%, then 38.25%.",
+      "finding": "The October 2024 Gold Paper gives DT Marks DEFI 22.5B WLFI (Trump's OGE filings list 15.75B, 70% of that, under DTTM Operations LLC) and 75% of 'net protocol revenues'. These cover revenue from any source, including token-sale proceeds and fees, after a $30M reserve and agreed expenses. The other 25% goes to Axiom Management Group, owned by Herro and Folkman. On the $550M raised, Decrypt estimated about $390M for Trump-side entities, though one analyst disputes that reading. This entitlement is separate from DT Marks DEFI's equity in WLF Holdco, which Trump's filings give as 75% at the end of 2024 and 38.25% at the end of 2025; WLF's own statements gave about 60% and 40% in between.",
       "sources": [
         "https://www.nbcnews.com/tech/crypto/trump-family-gets-75-crypto-coin-revenue-no-liability-new-document-rev-rcna176088",
         "https://benzinga.com/markets/cryptocurrency/24/10/41395007/trump-affiliated-entity-will-get-75-of-world-liberty-financials-revenue-and-22-of-wlfi-tok",
@@ -19,7 +19,7 @@
     {
       "statement": "Trump disclosed income from WLF.",
       "verdict": "confirmed",
-      "finding": "The 2024 OGE filing, released June 2025, shows about $57.35M from WLF token sales ($57.7M per Bloomberg Tax). For the 2025 filing, released June 30, 2026, outlets disagree on the WLF total. Reuters and the NYT (see C29) report about $800M: more than $520M from token sales and more than $250M from selling interests in the business. Bloomberg, NOTUS and others report about $594M: roughly $515-529M from token sales plus about $65-66M from selling equity in WLF Holdco. The Block itemizes $236.25M of token proceeds distributed by WLF plus $65.6M from the equity sale. Many entries on the form are ranges, so no exact figure can be pinned down. The token-sale figure of more than $500M is consistent across outlets; the size of the equity-sale line is not. The 22.5B-token stake was valued at about $1.3B. These are revenue figures, not profit.",
+      "finding": "Trump's 2024 OGE filing (released June 2025) lists $57,355,532 of token sales on the line of World Liberty Financial, Inc. itself (line 391; Bloomberg Tax reported $57.7M). That is the company's revenue (100% owned by WLF Holdco, then 75% by DT Marks DEFI), not a distribution to Trump; DT Marks DEFI's own 2024 line shows no income. The 2025 filing (released June 30, 2026) resolves the outlets' disagreement: DT Marks DEFI's lines show $526,810,321 of token-sale proceeds distributed by WLF (lines 124.3-124.12: $236,250,000 in cash, the figure The Block itemized, and the rest in nine crypto wallets) and $65,625,000 from selling WLF Holdco equity, $592.4M in all (Bloomberg and NOTUS's 'about $594M' adds staking rewards); adding $196,875,000 to DT Marks SC from Stablecoin Holdco gives $789.3M (Reuters and the NYT's 'almost $800M'). DT Marks DEFI and DT Marks SC are 70% owned through Trump's companies (DTTM Operations 69% plus a 1% member corporation) and 30% by unnamed 'Trump Family Members'; the form does not say whether the amounts on these lines are the entities' totals or Trump's share. The form lists 15.75B WLFI under DTTM Operations, valued only 'Over $50,000,000'; the 'about $1.3B' for 22.5B tokens is CAP's July 2026 valuation at about $0.059, not a disclosed figure. These are revenue figures, not profit.",
       "sources": [
         "https://www.ctvnews.ca/world/article/trump-pocketed-over-57-million-from-crypto-coin-sales/",
         "https://news.bloombergtax.com/crypto/trump-earned-57-7-million-from-crypto-venture-disclosure-shows",
@@ -114,10 +114,11 @@
   ],
   "corrections": [
     "The claim says 'WLF insiders' borrowed. The reporting shows WLF's own treasury or multisig wallets borrowed on Dolomite, and no personal borrowing by Trump or Witkoff family members is documented. Loan size: about $75M per CoinDesk; the $150M and $261M estimates are unverified.",
-    "'75% of net revenue' is the Gold Paper revenue entitlement. DT Marks DEFI's equity stake in WLF Holdco is now reported at about 38.25%.",
+    "'75% of net revenue' is the Gold Paper revenue entitlement. DT Marks DEFI's equity stake in WLF Holdco was 75% at the end of 2024 and 38.25% at the end of 2025, according to Trump's OGE filings.",
     "Witkoff's about $107M came from a WLF-linked holding company, and the filing does not show how much came from WLF itself.",
     "Entity id note: C04 uses dt-marks-defi-llc and C13 uses dt-marks-defi for the same company. This file uses dt-marks-defi-llc.",
-    "The 2025 WLF income figure is contested. 'About $800M', with more than $250M from selling interests, is the Reuters/NYT reading. Bloomberg, NOTUS and others report about $594M: about $515-529M from token sales plus about $65-66M from the WLF Holdco equity sale. The form reports ranges, so the figure is given here as $594M-$800M."
+    "The 2025 WLF income figure was given as a contested $594M-$800M. The filing resolves it (2026-11-16): $592.4M on DT Marks DEFI's lines and $789.3M including DT Marks SC's $196.9M from Stablecoin Holdco; the form's exact line amounts are given, not ranges.",
+    "2026-11-16 (disclosure audit, C96/C97): Claimed: Trump 'disclosed about $57M from WLF' for 2024; the stake was 'about 60%, then 40%, then 38.25%'; the 22.5B-token stake was 'valued at about $1.3B per the 2025 filing'. The record shows: the $57,355,532 is World Liberty Financial, Inc.'s own revenue line, not a payment to Trump; the forms give only 75% (end-2024) and 38.25% (end-2025); the form lists 15.75B WLFI under DTTM Operations valued 'Over $50,000,000', and $1.3B is CAP's market valuation of 22.5B tokens in July 2026."
   ],
   "denials_and_context": [
     "WLF says the freezes protect users from phishing, calls concerns about the Dolomite loan 'FUD' because the position is overcollateralized, and calls Sun's allegations baseless.",
@@ -385,7 +386,7 @@
       "id": "dt-marks-defi-llc",
       "name": "DT Marks DEFI LLC",
       "type": "company",
-      "description": "Trump-owned entity holding 22.5B WLFI and 75% of WLF net revenue"
+      "description": "Entity 70% Trump's companies, 30% unnamed family members; entitled to 75% of WLF net revenue; with family members holds 22.5B WLFI per WLF"
     },
     {
       "id": "axiom-management-group",
@@ -619,17 +620,16 @@
     {
       "source": "dt-marks-defi-llc",
       "target": "wlfi-token",
-      "label": "holds 22.5B tokens (about $1.3B per 2025 filing)",
+      "label": "holds 22.5B tokens with family members per WLF (Trump's filing lists 15.75B under DTTM Operations, 'Over $50,000,000'; about $1.3B at July 2026 prices per CAP)",
       "type": "ownership",
-      "date": "2025-12",
-      "amount_usd": 1300000000
+      "date": "2025-12"
     },
     {
       "source": "dt-marks-defi-llc",
       "target": "wlf-holdco",
-      "label": "owns about 38.25% (earlier about 60%)",
+      "label": "owns 38.25% at end-2025 (75% at end-2024, per Trump's filings)",
       "type": "ownership",
-      "date": "2026"
+      "date": "2025-12"
     },
     {
       "source": "wlf-holdco",
@@ -640,18 +640,18 @@
     {
       "source": "world-liberty-financial",
       "target": "donald-trump",
-      "label": "paid about $57.35M of token-sale income (2024 disclosure)",
+      "label": "booked $57.36M of token sales as company revenue (2024 filing, line 391; not a distribution to Trump)",
       "type": "money",
       "date": "2024",
-      "amount_usd": 57350000
+      "amount_usd": 57355532
     },
     {
       "source": "world-liberty-financial",
       "target": "donald-trump",
-      "label": "paid about $594M-$800M of income (2025 disclosure; outlets differ)",
+      "label": "2025 receipts on DT Marks DEFI's lines $592.4M ($789.3M with DT Marks SC's Stablecoin Holdco line); entity totals or Trump's share not stated",
       "type": "money",
       "date": "2025",
-      "amount_usd": 594000000
+      "amount_usd": 592435321
     },
     {
       "source": "wc-digital-fi",
@@ -907,13 +907,15 @@
     "checked": [
       "Trump's 2025 OGE disclosure shows about $800M from WLF, including more than $250M from selling interests",
       "Witkoff reported about $107M of 2025 income from a WLF-linked holding company",
-      "WLF borrowed about $75M of stablecoins on Dolomite against about 5B WLFI"
+      "WLF borrowed about $75M of stablecoins on Dolomite against about 5B WLFI",
+      "WLF figures and stake percentages against the OGE forms"
     ],
     "result": "corrected",
     "changes": [
       "Corrected the 2025 WLF income figure from a flat 'about $800M' to a $594M-$800M range. Bloomberg, NOTUS and InvestmentNews report about $515-529M from token sales plus about $65-66M from the WLF Holdco equity sale, which does not match the '>$250M from selling interests' figure; The Block's itemization is lower again. The relationship amount_usd is now set to the conservative $594M. The same '$800M / >$250M' reading appears in C29 (not edited here; flagged for that file's auditor).",
       "Witkoff $107M upheld: Bloomberg Government confirms it, with the caveat that the holding company also has resort, golf, hotel and residential businesses, so the WLF share is unknown (already noted).",
-      "Dolomite borrowing (about 5B WLFI collateral, about $75M borrowed, more than $40M to Coinbase Prime, utilization at 93% to near 100%) upheld per CoinDesk, The Defiant and Gizmodo. One detail is reported differently: Gizmodo/Unchained describe Corey Caplan as WLF's CTO rather than an adviser; that wording was left unchanged."
+      "Dolomite borrowing (about 5B WLFI collateral, about $75M borrowed, more than $40M to Coinbase Prime, utilization at 93% to near 100%) upheld per CoinDesk, The Defiant and Gizmodo. One detail is reported differently: Gizmodo/Unchained describe Corey Caplan as WLF's CTO rather than an adviser; that wording was left unchanged.",
+      "2026-11-16 (disclosure audit, C96/C97): Replaced 'about $57M from WLF' with the company's own revenue line, the 60/40/38.25% sequence with the forms' 75% and 38.25%, the contested $594M-$800M with exact lines ($592.4M / $789.3M), and the '$1.3B per 2025 filing' with CAP's July 2026 valuation (form: 15.75B under DTTM Operations, 'Over $50,000,000'); removed that relationship's amount; added the 70/30 ownership and entity-or-share caveat."
     ],
     "new_sources": [
       {
@@ -939,6 +941,18 @@
         "publisher": "CoinDesk",
         "url": "https://www.coindesk.com/markets/2026/04/09/trump-s-world-liberty-financial-borrows-usd75-million-against-its-own-token-trapping-depositors-on-dolomite",
         "date": "2026-04-09"
+      },
+      {
+        "title": "OGE Form 278e, Donald J. Trump, annual report for calendar 2024",
+        "publisher": "US Office of Government Ethics",
+        "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump,%20Donald%20J.%202025%20Annual%20278.pdf",
+        "date": "2025-06-13"
+      },
+      {
+        "title": "OGE Form 278e, Donald J. Trump, annual report for calendar 2025",
+        "publisher": "US Office of Government Ethics",
+        "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+        "date": "2026-06-30"
       }
     ]
   }

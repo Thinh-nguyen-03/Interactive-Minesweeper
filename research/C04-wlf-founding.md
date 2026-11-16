@@ -10,7 +10,7 @@
 
 ## Findings by sub-claim
 
-1. **Founded by the Trump family shortly before the 2024 election: mostly confirmed, with nuance.** Trump announced WLF on X and launched it in a two-hour X Spaces event on 16 September 2024, about seven weeks before the election [1][2]. The operating founders were Chase Herro and Zachary Folkman, with Trump, Eric Trump and Donald Trump Jr. backing them [3][4]. Calling it "created by the Trump family" is a simplification. Still, a Trump-owned entity, DT Marks DEFI LLC, holds a contractual right to 75% of net protocol revenue, which includes token sales [5].
+1. **Founded by the Trump family shortly before the 2024 election: mostly confirmed, with nuance.** Trump announced WLF on X and launched it in a two-hour X Spaces event on 16 September 2024, about seven weeks before the election [1][2]. The operating founders were Chase Herro and Zachary Folkman, with Trump, Eric Trump and Donald Trump Jr. backing them [3][4]. Calling it "created by the Trump family" is a simplification. Still, DT Marks DEFI LLC, an entity about 70% owned through Trump's companies and 30% by unnamed family members (per his OGE filings), holds a contractual right to 75% of net protocol revenue, which includes token sales [5].
 2. **Planned DeFi app (trading, borrowing, lending); only WLFI and USD1 launched: confirmed until January 2026, now outdated.**
    - The WLFI governance token went on sale on 15 October 2024 and was non-transferable at first [6][7].
    - USD1 was confirmed in March 2025, with reserves custodied by BitGo [8].
@@ -72,3 +72,9 @@ Note: The Block and DL News pages could not be fetched from this environment. Th
 ## Audit (second pass, 2026-11-14)
 
 Result: upheld. The Defiant and CoinDesk confirm the 90% target cut (Oct 30-31, 2024); Decrypt confirms Sun's $30M buy closed the initial sale after slightly more than $20M in prior sales; Decrypt confirms World Liberty Markets launched Jan 12, 2026.
+
+## Audit addendum (16 Nov 2026, disclosure check)
+
+**Correction.** DT Marks DEFI was described as "Trump-owned". Trump's OGE filings give its ownership as "DT Marks Defi Member Corp: 1%, DTTM Operations LLC 69%, & Trump Family Members 30%" (2024 report, line 102; 2025 report, line 124). That makes it about 70% his and 30% unnamed family members'. The text has been changed accordingly.
+
+**Context.** The 2024 report lists $57,355,532 of token sales for calendar 2024 on the line of World Liberty Financial, Inc. itself (line 391). That is company revenue, not a payment to Trump.
