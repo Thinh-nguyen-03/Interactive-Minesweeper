@@ -97,7 +97,7 @@
       "https://www.sec.gov/Archives/edgar/data/1849635/000143774926035884/djt20260930_10q.htm",
       "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
     ],
-    "notes": "Shares were registered for resale in April 2025, but no sale is reported. No pledge of DJT shares is disclosed; a Schwab pledged-asset line of over $50M exists with collateral unstated."
+    "notes": "Shares were registered for resale in April 2025, but no sale is reported. No pledge of DJT shares is disclosed; a Schwab pledged-asset line of over $50M exists with collateral unstated. The trust's 114.75M shares were about 52% of TMTG until the end of May 2025 and about 41% since."
   },
   {
     "id": "C98-06",
@@ -117,7 +117,7 @@
       "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump,%20Donald%20J.%202025%20Annual%20278.pdf",
       "https://www.cnn.com/2026/07/01/us/trump-financial-disclosure-mar-a-lago-doral-income-invs"
     ],
-    "notes": "Gross revenue, not profit. Covers all of 2025, including the 19 days before the term. Initiation fees ($1M per CNN, single-source) are inside this line and not separable. Included in CNN's '$290M+' (C98-10)."
+    "notes": "Gross revenue, not profit. Covers all of 2025, including the 19 days before the term. Initiation fees ($1M per CNN, single-source) are inside this line and not separable. Included in CNN's '$290M+' (C98-10). OVERLAP: same line as C96-17; count once."
   },
   {
     "id": "C98-07",
@@ -138,7 +138,7 @@
       "https://www.cnn.com/2026/07/01/us/trump-financial-disclosure-mar-a-lago-doral-income-invs",
       "https://frontofficesports.com/trumps-golf-businesses-netted-nearly-395m-in-income-in-2025/"
     ],
-    "notes": "Gross revenue. Includes any LIV Golf payments (fees undisclosed). Mortgage of over $50M with Axos. Overlaps with C98-10."
+    "notes": "Gross revenue. Includes any LIV Golf payments (fees undisclosed). Mortgage of over $50M with Axos. Overlaps with C98-10. OVERLAP: same line as C96-18; count once."
   },
   {
     "id": "C98-08",
@@ -157,7 +157,7 @@
       "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
       "https://frontofficesports.com/trumps-golf-businesses-netted-nearly-395m-in-income-in-2025/"
     ],
-    "notes": "Gross revenue. Together with C98-06 and C98-07, US clubs total $413.6M. Front Office Sports' $394.8M golf total overlaps these rows plus C98-09."
+    "notes": "Gross revenue. Together with C98-06 and C98-07, US clubs total $413.6M. Front Office Sports' $394.8M golf total overlaps these rows plus C98-09. OVERLAP: C96-19 covers the same clubs plus Trump Virginia Acquisitions ($2,330,375), giving $216.6M; count once."
   },
   {
     "id": "C98-09",
@@ -175,7 +175,7 @@
     "sources": [
       "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
     ],
-    "notes": "Reported in foreign currency; the dollar range is ours. Counted in CREW's $117M foreign revenue (C98-14)."
+    "notes": "Reported in foreign currency; the dollar range is ours. Counted in CREW's $117M foreign revenue (C98-14). OVERLAP: same lines as C96-20; count once."
   },
   {
     "id": "C98-10",
@@ -213,7 +213,7 @@
       "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
       "https://www.cnbc.com/2026/08/10/trump-foreign-real-estate-licensing-income-gulf-deals.html"
     ],
-    "notes": "Part of C98-12. Corrects the '$21.9M' figure (The National/IndexBox) cited in C31. Fees are paid whether or not the projects are built."
+    "notes": "Part of C98-12. Corrects the '$21.9M' figure (The National/IndexBox) cited in C31. Fees are paid whether or not the projects are built. OVERLAP: C96-07, C96-08, C96-09 and part of C96-06 are the same lines. All four Dar-linked LLCs are owned 79% by the President's structure and 20% by unnamed 'Trump Family Members' (see C99-22)."
   },
   {
     "id": "C98-12",
@@ -233,7 +233,7 @@
       "https://www.indexbox.io/blog/trump-reports-38-million-in-gulf-licensing-fees-since-returning-to-office/",
       "https://www.cnbc.com/2026/08/10/trump-foreign-real-estate-licensing-income-gulf-deals.html"
     ],
-    "notes": "Includes C98-11; do not add the two. Damac amounts are exact, not range estimates."
+    "notes": "Includes C98-11; do not add the two. Damac amounts are exact, not range estimates. OVERLAP: equals C96-06 + C96-07 + C96-08 + C96-09. The Abu Dhabi, Al Raha Beach, Doha, Dubai DG and KSA LLCs carry a 20% family-member interest (C99-22)."
   },
   {
     "id": "C98-13",
@@ -253,7 +253,7 @@
       "https://www.cnbc.com/2026/08/10/trump-foreign-real-estate-licensing-income-gulf-deals.html",
       "https://www.citizensforethics.org/reports-investigations/crew-reports/trumps-foreign-revenue-exploded-during-his-first-year-back-in-office/"
     ],
-    "notes": "With C98-12, foreign fees total $63.06M by our count. CNBC's $59.5M (C98-15) and CREW's $59M overlap these rows."
+    "notes": "With C98-12, foreign fees total $63.06M by our count. CNBC's $59.5M (C98-15) and CREW's $59M overlap these rows. OVERLAP: equals C96-10 to C96-16. Bucharest, Vietnam, Gurgaon 69, Hyderabad, Noida 94, Pune Mundhwa and Philippines SV carry a 20% family-member interest (C99-22)."
   },
   {
     "id": "C98-14",
@@ -328,7 +328,7 @@
       "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
       "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump,%20Donald%20J.%202025%20Annual%20278.pdf"
     ],
-    "notes": "In 2024 the same lines were about $7.7M (watches $2.8M, sneakers and fragrances $2.5M, Bible $1.31M, guitar $1.06M). The filing says the watch and sneaker licence agreements were omitted from the prior report."
+    "notes": "In 2024 the same lines were about $7.7M (watches $2.8M, sneakers and fragrances $2.5M, Bible $1.31M, guitar $1.06M). The filing says the watch and sneaker licence agreements were omitted from the prior report. OVERLAP: same lines as C96-25 to C96-28; count once."
   },
   {
     "id": "C98-18",
@@ -346,7 +346,7 @@
     "sources": [
       "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
     ],
-    "notes": "Winning Team Publishing is co-founded by Donald Trump Jr. (see C99); his share is not counted here."
+    "notes": "Winning Team Publishing is co-founded by Donald Trump Jr. (see C99); his share is not counted here. OVERLAP: same lines as C96-24; count once."
   },
   {
     "id": "C98-19",
@@ -364,7 +364,7 @@
     "sources": [
       "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
     ],
-    "notes": "Earned before the term and paid during it; the filing says it was omitted from the prior report."
+    "notes": "Earned before the term and paid during it; the filing says it was omitted from the prior report. OVERLAP: same line as C96-30; count once."
   },
   {
     "id": "C98-20",

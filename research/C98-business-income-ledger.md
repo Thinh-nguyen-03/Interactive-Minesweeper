@@ -121,6 +121,8 @@ The gap is a matter of which management and development lines each tally counts.
 
 These fees are paid whether or not a project is ever built.
 
+Not all of this is the President's. Twelve of the fee-earning LLCs, which received $54.49M of the $63.06M, are owned "DTTM Operations LLC - Limited Partner - 79%; Trump Family Members - Limited Partner - 20%" plus a 1% member corporation. The form names no family member and shows no distribution (see C99).
+
 ### 7. Merchandise and other royalties: confirmed
 2025 royalties (2024 figures in brackets) [1][2]:
 - Watches: $4,700,000 [$2,800,000]
@@ -170,7 +172,7 @@ The latest annual filing covers 2025. Club, licensing and merchandise income for
 ## Corrections
 - **Dar Al Arkan fees (C31, The National/IndexBox).** Claimed: about $21.9M from Dar Al Arkan in 2025, "nearly identical" to 2024. The record shows: the three Dar Al Arkan licensee lines sum to $20.55M, and with the $5.25M Doha fee from Dar Global Holdings the total is $25.80M, the figure CNBC reports. The Gulf total of about $38.4M is correct.
 - **Damac fees (C31/C88).** Claimed: Damac's roughly $12.5M is an estimate drawn from value ranges. The record shows: the four Damac fee lines are exact and sum to $12,589,884.
-- **Trust's share of TMTG (C20 and some Forbes pieces).** Claimed: the trust holds about 52-53% of TMTG. The record shows: that was true through March 2025. After the May 2025 PIPE the same 114.75M shares were 41.5% (December 2025) and about 41% (November 2026).
+- **Trust's share of TMTG (C20 and some Forbes pieces).** Claimed: the trust holds about 52-53% of TMTG. The record shows: about 52% was true from December 2024 until the end of May 2025. After the 29 May 2025 private placement of 55,857,181 shares the same 114.75M shares were 41.5% (December 2025) and about 41% (November 2026).
 - **Foreign licensing totals.** CNN ("nearly $60M"), CNBC ($59.5M), CREW ($59M) and our line-by-line sum ($63.1M) differ only in which lines they count.
 - **Bedminster entity.** Front Office Sports attributes Bedminster's $37.6M to Lamington Family Holdings LLC. The filing shows the revenue under Lamington Farm Club, LLC.
 - **C17's 2024 royalty figures** check out against the primary filing.
@@ -213,3 +215,13 @@ The latest annual filing covers 2025. Club, licensing and merchandise income for
 22. Forbes, "Trump Media's nearly 50% rally adds $600 million…", 30 Jul 2026. Excerpt (site blocked). https://www.forbes.com/sites/antoniopequenoiv/2026/07/30/trump-medias-nearly-50-rally-adds-600-million-to-presidents-net-worth/
 23. Forbes, "Trump's net worth tumbles over $200 million as DJT stock plunges", 5 Nov 2026. Excerpt (site blocked). https://www.forbes.com/sites/conormurray/2026/11/05/trump-media-stock-plunges-again-trumps-lost-over-200-million-since-midterms/
 24. ABC News, "Trump Organization reveals $151,000 in profits from foreign government patrons", 9 Mar 2018. Excerpt. https://www.goodmorningamerica.com/news/story/trump-organization-reveals-151000-profits-foreign-government-patrons-53641250
+
+## Audit (second review, 16 Nov 2026)
+
+Result: **corrected** (verdict and confidence unchanged).
+
+- **Upheld against the filing text.** Gulf lines: DT Marks Dubai DG "License Fee ($ 10,361,458.68)", licensee Dar Al Arkan Properties LLC; DT Marks KSA "($ 9,243,574.15)"; DT Marks Oman "($ 949,642)"; DT Marks Doha "($ 5,250,000.00)", licensee "Dar Global Holdings for Real Estate LLC". Dar-linked total $25,804,675. Damac: DT Marks Abu Dhabi $5,000,000 (DAMAC Sky View Real Estate LLC), DT Marks Al Raha Beach $5,000,000 (DAMAC Properties Investment LLC), DT Marks Dubai $1,335,140 and DT Dubai Golf Manager $1,254,744 (Damac Crescent Properties LLC): $12,589,884. Gulf $38,394,559; all foreign fee lines $63,057,251. Mar-a-Lago "Resort Related Revenue ($ 77,482,488)"; Doral "Golf & Hotel Related Revenue ($ 121,861,496)". Royalty and book lines as stated.
+- **Trump Media.** 114,750,000 shares confirmed in the OGE filing ("the Filer transferred all 114,750,000 shares ... to The Donald J. Trump Revocable Trust"), the 13D/A (41.5% of 276,497,911) and the prospectus (about 41%). The 52% stake ended at the end of May 2025, not March 2025; corrected. Every dated value was recomputed from daily closes and holds; $35.59 on 21 January 2025 was the highest close of the term.
+- **Added.** Unnamed family members hold 20% of the licensing LLCs behind $54.49M of the foreign fees.
+- **Ledger.** Overlaps with C96 are now flagged row by row.
+
