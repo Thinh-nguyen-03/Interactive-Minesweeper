@@ -303,3 +303,9 @@ Measured: see command output of this round (shots, globe, contrast); `globefunc.
 Still weak: phone spacing and phone captions (five of nine fit); far-side captions sit among dimmed dots; names page has an empty right third at 1440.
 
 Stop check: stills approved no -> stills sent; live site not republished.
+
+## User feedback after round 07 (exact words)
+
+"Yup go for those weak points, font look ok now"
+
+Decision: font (IBM Plex Sans) accepted. Round 8: phone-specific globe layout, far-side captions on the silhouette with leaders, names list rebalanced, stylesheet cleanup and a consistency pass.
