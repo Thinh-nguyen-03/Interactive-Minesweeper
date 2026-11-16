@@ -1,0 +1,1200 @@
+{
+  "id": "C103",
+  "title": "Insider-trading oversight: requests, probes and outcomes",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "The requests are well documented: at least ten letters from members of Congress (April 2025 to July 2026) asked the SEC, its inspector general, GAO, the Pentagon inspector general, DOJ, state attorneys general and a House committee to investigate trading around the tariff pause, Iran announcements, a reported attempted trade by Defense Secretary Hegseth's broker and the paid Truth API. Public responses are mostly silence: no SEC, inspector-general, state or House Financial Services investigation of these episodes has been announced, and House Democrats said in February 2026 they had no substantive SEC reply. Enforcement that did happen came through the CFTC and DOJ on prediction markets, mostly detected by the platforms: a soldier charged over Maduro bets, settled orders against a White House teleprompter operator and George Santos; the CFTC oil-futures probe is open with no charges after a reported referral retraction. No authority has identified a trader in the April 2025 or Iran-related trades or made any finding about Trump, his family or senior officials; that is not exoneration, and the letters are allegations, not findings. The STOCK Act names the President in the securities-law duty and tippees can be liable, but the law has never been tested against a president and several gaps remain, while SEC enforcement staff fell 18% and CFTC staff about 21% below their ten-year average.",
+  "sub_claims": [
+    {
+      "statement": "Members of Congress asked the SEC, its inspector general and GAO to investigate trading around the 9 April 2025 tariff pause.",
+      "verdict": "confirmed",
+      "finding": "Data: a burst of same-day SPY/QQQ call buying in the minutes before the 1:18 pm pause post, and a 21% rise in DJT shares after the 9:37 am 'THIS IS A GREAT TIME TO BUY!!! DJT' post (see C58). Requests (letters read in full): on 10 April 2025 Rep. Maxine Waters and 20 other House Financial Services Democrats asked SEC Chair Paul Atkins, SEC Inspector General Deborah Jeffrey and Comptroller General Gene Dodaro for an immediate investigation of trading between Treasury Secretary Bessent's 6 April visit to Mar-a-Lago and the 9 April announcement, with preliminary findings by 18 April. On 11 April 2025 Senators Warren, Schumer, Kelly, Gallego, Schiff and Wyden asked Atkins whether Trump, Cabinet members, donors or other insiders engaged in insider trading or manipulation, whether the White House had contacted the SEC, and how staff departures affected its capacity, with answers by 25 April. Response: an SEC spokesperson declined to comment at the time. On 24 February 2026 Waters and Rep. Al Green wrote that 'It has been nearly a year and we have received no substantive response', that GAO 'does not have the authority to compel necessary information', and that Atkins, testifying earlier that month, 'appeared not to be aware of the facts and circumstances'. No SEC or SEC-IG investigation, finding or closure has been announced. No trader has been identified.",
+      "sources": [
+        "https://democrats-financialservices.house.gov/UploadedFiles/04.10.2025-_Ltr_SEC.GAOIT.pdf",
+        "https://www.banking.senate.gov/imo/media/doc/20250411 Letter to SEC re DJT Tariff Insider Trading.pdf",
+        "https://www.kelly.senate.gov/newsroom/press-releases/kelly-senate-colleagues-call-on-sec-to-investigate-possible-trump-tariff-market-manipulation-insider-trading/",
+        "https://democrats-financialservices.house.gov/uploadedfiles/02.24.2026_ltr_req_iti.pdf"
+      ]
+    },
+    {
+      "statement": "Senators asked state attorneys general to investigate, and state authorities acted.",
+      "verdict": "unverified",
+      "finding": "The request is documented: on 11 April 2025 Senators Schumer, Warren, Schiff and Wyden wrote to the National Association of Attorneys General asking state offices to investigate whether 'President Trump, his family, members of his administration, or members of Congress engaged in insider trading, market manipulation, or any violations of the laws of your states' around the tariff changes (letter read in full). No state attorney general, comptroller or securities regulator was found to have opened an inquiry into the tariff trading or the paid Truth API, including under New York's Martin Act. State action found in this period concerns prediction markets as gambling (New York's suit against Polymarket, Arizona's criminal case against Kalshi) and, per search excerpts, executive orders in New York and Maryland barring state employees from using nonpublic information on prediction markets. Those are not investigations of the federal allegations.",
+      "sources": [
+        "https://www.democrats.senate.gov/imo/media/doc/letter_to_state_attorneys_general_on_market_manipulation.pdf",
+        "https://www.execfunctions.org/p/is-trump-medias-early-access-feed"
+      ]
+    },
+    {
+      "statement": "House Democrats asked the House Financial Services Committee to investigate the April 2025 trading itself.",
+      "verdict": "confirmed",
+      "finding": "On 24 February 2026 Waters and Green asked Chairman French Hill to open a committee investigation into the identity of anyone who traded on, or manipulated markets around, the tariff pause, including call options in the 24 hours before the announcement and the 'DJT' post, and to refer any crimes to DOJ (letter read in full). No committee investigation or reply from the chairman was found.",
+      "sources": [
+        "https://democrats-financialservices.house.gov/uploadedfiles/02.24.2026_ltr_req_iti.pdf"
+      ]
+    },
+    {
+      "statement": "In 2026 senators asked the SEC and the Pentagon inspector general about trading before Iran and tariff announcements and about a broker for Defense Secretary Hegseth.",
+      "verdict": "confirmed",
+      "finding": "Data and inference: reporting described index-futures and options spikes minutes before Iran-related posts; the Financial Times reported (30 March 2026) that Hegseth's Morgan Stanley broker contacted BlackRock in February about a multimillion-dollar investment in its Defense Industrials Active ETF before the 28 February strikes; the investment was not executed because the fund was not yet available to Morgan Stanley clients. Requests: Senators Mark Warner and Adam Schiff wrote on 2 April 2026 to SEC Chair Atkins and DoD Inspector General Platte Moring asking what each was doing to detect and investigate such trades, with a briefing and written response by 16 April (press release read in full). Sen. Warren wrote to Atkins on 20 April 2026 asking whether the SEC had investigated any attempted trading by Hegseth or associates, with answers by 15 May (letter read in full). Responses: the SEC declined to comment on the Warner-Schiff letter (CNBC excerpt). A Pentagon spokesperson denied that 'Secretary Hegseth [or] any of his representatives approached BlackRock about any such investment', while the FT stood by its reporting. No SEC or IG reply, investigation or finding was found. Separately, the Washington Post reported on 22 October 2026 (cited in the House Oversight memo) that Hegseth issued a memo barring defense personnel from using nonpublic information or prediction markets for personal gain.",
+      "sources": [
+        "https://warner.senate.gov/public/index.cfm/2026/4/warner-schiff-call-for-investigation-into-misuse-of-insider-information",
+        "https://www.warner.senate.gov/public/_cache/files/f/7/f72b21cb-62b0-4d3a-84c1-75087a0d6d06/395A931C4F1360BE77AB5C2E2B1C4F2714B4E146A504F60F4A331ADEA6375538.4.2.26-insider-trading-letter-final-signed.pdf",
+        "https://www.cnbc.com/2026/04/02/hegseth-trump-mark-warner-adam-schiff-insider-trading-probe.html",
+        "https://www.banking.senate.gov/imo/media/doc/letter_to_sec_re_hegseth_investigation.pdf",
+        "https://oversight.house.gov/wp-content/uploads/2026/11/Prediction-Markets-Memo-11132026.pdf"
+      ]
+    },
+    {
+      "statement": "Lawmakers asked the SEC and DOJ to examine the paid Truth API, and the SEC investigated.",
+      "verdict": "unverified",
+      "finding": "Requests documented: Rep. Ritchie Torres wrote to Atkins in July 2026 (Axios, excerpt); Senators Warren and Schiff wrote on 28 July 2026 asking the SEC to 'immediately launch investigations' and for its legal analysis before the 1 August launch (letter read in full); Rep. Angie Craig asked DOJ and the SEC to investigate (search excerpt). Response: the SEC declined to comment to NPR and, per search excerpts, confirmed receipt of Torres's letter without saying whether it would act. TMTG says the product delivers 'publicly available Truth Social data' and called the letters partisan; CEO Kevin McGurn declined to comment on investigations in October 2026 (Axios excerpt). No SEC investigation has been announced. The only litigation is the First and Fifth Amendment suit by The Intercept and FPF (C58), not a securities case.",
+      "sources": [
+        "https://www.banking.senate.gov/imo/media/doc/2026.07.28%20Letter%20to%20SEC%20re%20Truth%20Social%20API.pdf",
+        "https://www.npr.org/2026/08/01/nx-s1-5912219/for-sale-early-access-to-trumps-truth-social-posts",
+        "https://axios.com/2026/07/21/trump-truth-social-api-posts",
+        "https://www.axios.com/2026/10/20/truth-social-tmtg-truth-api"
+      ]
+    },
+    {
+      "statement": "The CFTC is investigating oil-futures trades placed before Trump's Iran posts.",
+      "verdict": "mostly-accurate",
+      "finding": "Data: large Brent/WTI positions placed minutes before the 23 March 2026 post and a reported ~$950M short before the 7 April ceasefire post (C58). Reuters and Bloomberg reported in April 2026 that the CFTC, with DOJ, was examining the trades on CME and ICE. Bloomberg reported on 13 October 2026, citing people familiar, that Mel Gunewardena, an adviser to Chair Selig, had market-surveillance staff retract a referral to the enforcement division; the CFTC declined to comment and Gunewardena did not respond. On 22 October 2026 Enforcement Director David Miller said at a New York conference that the agency had 'from the beginning' been probing the trading and the investigation 'remained open' (Reuters syndication, read in full). No trader has been named, no charge filed and no finding made as of mid-November 2026. Verdict is 'mostly-accurate' because the probe's existence rests on the director's statement and anonymous sourcing; its scope and progress are not public.",
+      "sources": [
+        "https://www.devdiscourse.com/article/international/3996628-us-regulator-is-probing-suspicious-iran-oil-trading-official-says",
+        "https://www.ms.now/news/news-analysis/cftc-insider-trading-referral-oil-trades-trump-corruption",
+        "https://financefeeds.com/cftc-staff-told-to-withdraw-insider-trading-referral-on-oil-bets-before-trumps-iran-post/",
+        "https://finance.yahoo.com/markets/commodities/articles/us-probes-suspicious-oil-trades-185104849.html"
+      ]
+    },
+    {
+      "statement": "Regulators have brought insider-trading cases over prediction-market bets on government information.",
+      "verdict": "confirmed",
+      "finding": "Official actions (CFTC releases read in full): (1) 23 April 2026, CFTC civil complaint and SDNY indictment of Army Master Sgt. Gannon Ken Van Dyke over Polymarket bets on the Maduro operation; the CFTC called it its first insider-trading case on event contracts and first use of the 'Eddie Murphy Rule'. He pleaded not guilty on 28 April 2026; trial was tentatively set for 7 December 2026. (2) 28 August 2026, settled CFTC order against Gabriel Perez, a White House teleprompter operator, who between December 2025 and February 2026 traded presidential 'mention' contracts on Kalshi using speeches he saw in advance: disgorgement of $107,539.02, a $65,000 penalty discounted for cooperation, and a three-year trading ban. Press Secretary Karoline Leavitt had confirmed the probe on 16 July 2026, said he was on unpaid leave and that she knew of no other staff under investigation. (3) 31 July 2026, settled order against former Rep. George Santos ($35,000) for manipulating a State of the Union attendance contract. Also a 27 May 2026 complaint against a Google employee (not government). In each case the platform (Kalshi or Polymarket) detected and reported the trades. None of these cases involves Trump, his family or a policy-level official.",
+      "sources": [
+        "https://www.cftc.gov/PressRoom/PressReleases/9217-26",
+        "https://www.cftc.gov/PressRoom/PressReleases/9289-26",
+        "https://www.cftc.gov/PressRoom/PressReleases/9276-26",
+        "https://www.hawaiinewsnow.com/2026/07/17/wh-teleprompter-op-accused-betting-trump-speeches/",
+        "https://abc7news.com/post/us-soldier-charged-using-intel-win-400k-maduro-raid-appear-court-nyc/18985601/",
+        "https://decrypt.co/370571/december-trial-date-us-soldier-insider-trading-polymarket"
+      ]
+    },
+    {
+      "statement": "Congress and the prediction-market platforms investigated insider trading on those platforms.",
+      "verdict": "confirmed",
+      "finding": "House Oversight Chairman James Comer (R) opened an investigation on 22 May 2026 with letters to Polymarket CEO Shayne Coplan and Kalshi CEO Tarek Mansour, expanded on 29 September 2026 to Hyperliquid Labs, Crypto.com and PredictIt. A staff memorandum dated 13 November 2026 (read in full) says the committee received about 1,700 pages and five bipartisan briefings; four of five platforms cooperated, and Hyperliquid said it did not 'possess the types of records and information' requested. The memo credits the platforms with detecting most reported cases and recommends legislation restricting federal personnel from event contracts. It identifies no new trader and does not address securities or futures trades around presidential announcements. Rep. Casten, Rep. Lieu and 14 other House Democrats asked Acting Attorney General Todd Blanche on 12 May 2026 to prioritise prediction-market insider-trading prosecutions and questioned the July 2025 closure of the Polymarket probe (letter read in full); no DOJ reply was found. The Senate adopted S.Res. 708 on 30 April 2026 barring senators and staff from prediction-market trading.",
+      "sources": [
+        "https://oversight.house.gov/release/comer-launches-investigation-into-insider-trading-on-prediction-market-platforms/",
+        "https://oversight.house.gov/release/house-oversight-committee-releases-memorandum-on-insider-trading-risks-in-prediction-markets/",
+        "https://oversight.house.gov/wp-content/uploads/2026/11/Prediction-Markets-Memo-11132026.pdf",
+        "https://mcdonaldrivet.house.gov/sites/evo-subsites/mcdonaldrivet.house.gov/files/evo-media-document/letter-on-insider-trading-on-prediction-markets.pdf",
+        "https://casten.house.gov/media/press-releases/casten-lieu-urge-doj-to-prosecute-insider-trading-on-prediction-market-platforms"
+      ]
+    },
+    {
+      "statement": "The executive branch and the Office of Government Ethics responded with rules or guidance.",
+      "verdict": "partly-accurate",
+      "finding": "Documented: the White House Management Office emailed staff on 24 March 2026 that trading prediction or futures contracts on nonpublic information breaks ethics rules and can be criminal (C58); the White House disciplined the teleprompter operator; the CFTC Enforcement Division issued a prediction-markets advisory on 25 February 2026 citing CEA section 6(c)(1) and Rule 180.1; and the Defense Department issued a memo in October 2026 (Washington Post, via the House Oversight memo). Not found: any new OGE legal advisory or rule on prediction markets or on trading around presidential announcements. CREW asked OGE Acting Director Eric Ueland on 18 May 2026 to work with the President on a ban for political appointees and senior career staff (letter read in full); no OGE response was found.",
+      "sources": [
+        "https://qz.com/white-house-staff-warning-prediction-markets-insider-trading-041026",
+        "https://www.cftc.gov/PressRoom/PressReleases/9185-26",
+        "https://www.citizensforethics.org/wp-content/uploads/2026/05/Prediction-Markets-White-House-Letter.pdf",
+        "https://oversight.house.gov/wp-content/uploads/2026/11/Prediction-Markets-Memo-11132026.pdf"
+      ]
+    },
+    {
+      "statement": "Enforcement staffing and policy at the SEC, CFTC and DOJ changed in ways that bear on capacity to investigate.",
+      "verdict": "confirmed",
+      "finding": "Documented (no motive asserted). SEC: GAO-26-107813 (March 2026, read in part) found about 18% of SEC employees left in FY2025, mostly through voluntary incentives; Enforcement went from 1,305 staff to 235 fewer (18%), Trading and Markets lost 22%; the agency had about 4,000 employees in January 2026, its lowest since 2014. The SEC brought 313 cases in FY2025 versus 431 the year before (White & Case, excerpt); Better Markets, an advocacy group, calls it a ten-year low; the SEC says earlier resources were 'misapplied' to 'run up numbers'. The commission rescinded the Enforcement Director's delegated authority to issue formal orders in March 2025 (White & Case, excerpt), Enforcement Director Margaret Ryan resigned on 16 March 2026 after under seven months (C52), and the SEC has sought comment on 'foundational and existential aspects' of the Consolidated Audit Trail used to reconstruct trading (Better Markets). CFTC: OPM data show 21% fewer staff at end-2025 than the prior ten-year average and nearly 80% fewer enforcement actions in 2025 than the decade average (NPR, read in full); the CFTC says departures were mostly voluntary retirements and it plans about 100 hires by end-2026; Chair Selig is the sole commissioner. GAO agreed to review CFTC staffing at Sen. Warren's request, starting December 2026. DOJ: a 7 April 2025 memo by Deputy AG Todd Blanche disbanded the National Cryptocurrency Enforcement Team; NBC reported on 11 March 2025, citing three anonymous sources, that the Public Integrity Section would be cut to about half a dozen employees and stop directly handling prosecutions.",
+      "sources": [
+        "https://files.gao.gov/reports/GAO-26-107813/index.html",
+        "https://www.whitecase.com/insight-alert/sec-fy-2025-review-transformative-year-sec-enforcement",
+        "https://bettermarkets.org/wp-content/uploads/2026/04/SEC-ENF-Report-FY2025-FINAL-4-21-2026.pdf",
+        "https://www.gpb.org/news/2026/10/08/crypto-and-prediction-markets-expand-their-regulator-shrinks",
+        "https://decrypt.co/357602/cftc-legal-team-completely-eliminated-crypto-prediction-markets",
+        "https://amp.insurancejournal.com/news/national/2025/04/09/819076.htm",
+        "https://www.nbcnews.com/politics/justice-department/justice-department-office-prosecutes-public-corruption-slashed-size-so-rcna195928"
+      ]
+    },
+    {
+      "statement": "Insider-trading law reaches a president, officials, their families and friends.",
+      "verdict": "partly-accurate",
+      "finding": "Securities: STOCK Act section 9(b) (Pub. L. 112-105, read in full) affirms executive-branch employees are 'not exempt' from section 10(b) and Rule 10b-5 and adds Exchange Act section 21A(h), under which each executive-branch employee owes a duty of trust and confidence to the government and citizens for material nonpublic information 'derived from such person's position'; the Act's definition of executive-branch employee expressly includes the President and Vice President. Under Dirks v. SEC and Salman v. United States, a tipper is liable if he discloses for a personal benefit, which includes a gift of information to a relative or friend, and a tippee who knows of the breach is liable when trading. So officials, and family or friends who trade on a tip, are covered on paper. Commodities: CEA section 4c(a)(3)-(4) (7 U.S.C. 6c) bars any 'employee or agent of any department or agency of the Federal Government' from trading futures, options or swaps (which include event contracts) on government information or imparting it for personal gain, makes knowing tippees liable, and bars anyone from misappropriating such information; CFTC Rule 180.1 is modelled on 10b-5. Gaps and limits: (a) a public post is not a tip, and several professors (Coffee, Pritchard, Seyhun; PolitiFact, excerpt) say the 9 April post itself is unlikely to violate insider-trading law, while aides who traded would face STOCK Act exposure; (b) whether the President is an 'employee or agent of any department or agency' under the CEA provision is untested (our reading of the text; no source found deciding it); (c) the OGE rule on nonpublic information (5 CFR 2635.703) and 18 U.S.C. 208 do not apply to the President or Vice President (5 CFR 2635.102(h); 18 U.S.C. 202(c)); (d) after Kelly, the Second Circuit in Blaszczak (2022) held confidential agency regulatory information is not 'property' for Title 18 wire and securities fraud, narrowing criminal routes outside the Exchange Act and CEA; (e) DOJ policy (OLC, 2000) bars indicting a sitting president, and Trump v. United States (2024) gives immunity for official acts but not unofficial ones. John Coates, a former SEC general counsel under Biden, argues the STOCK Act makes the President a fiduciary and that selling early access to official announcements could breach it, with a five-year limitations period; TMTG rejects that theory. No court has applied any of these provisions to a president.",
+      "sources": [
+        "https://www.govinfo.gov/content/pkg/PLAW-112publ105/html/PLAW-112publ105.htm",
+        "https://www.law.cornell.edu/uscode/text/7/6c",
+        "https://www.law.cornell.edu/supremecourt/text/463/646",
+        "https://www.law.cornell.edu/supremecourt/text/15-628",
+        "https://www.law.cornell.edu/cfr/text/5/2635.102",
+        "https://www.law.cornell.edu/cfr/text/5/2635.703",
+        "https://www.law.cornell.edu/uscode/text/18/202",
+        "https://www.mofo.com/pdf/resources/insights/230123-second-circuit-nixes-theory",
+        "https://www.justice.gov/olc/opinion/sitting-president%E2%80%99s-amenability-indictment-and-criminal-prosecution",
+        "https://www.execfunctions.org/p/is-trump-medias-early-access-feed",
+        "https://www.politifact.com/article/2025/apr/10/critics-donald-trump-of-insider-trading-tariffs/"
+      ]
+    },
+    {
+      "statement": "Any authority has found that Trump, his family or a senior official traded on, or tipped others about, nonpublic information around these announcements.",
+      "verdict": "unverified",
+      "finding": "No. Through mid-November 2026 no regulator, prosecutor, inspector general, court or congressional committee has identified a trader in the 9 April 2025 options burst, the Iran oil-futures trades or the Iran-strike prediction-market bets, and none has made a finding about Trump, his family, Cabinet members or senior appointees. The only government personnel sanctioned or charged are a soldier (charged, pleads not guilty) and a White House teleprompter operator (settled civil order). The absence of an investigation or finding is not exoneration: the SEC has not said whether it looked, the CFTC oil probe is open, and requests for answers have gone unanswered in public. Equally, the letters are allegations and requests, not findings.",
+      "sources": [
+        "https://democrats-financialservices.house.gov/uploadedfiles/02.24.2026_ltr_req_iti.pdf",
+        "https://www.devdiscourse.com/article/international/3996628-us-regulator-is-probing-suspicious-iran-oil-trading-official-says",
+        "https://oversight.house.gov/wp-content/uploads/2026/11/Prediction-Markets-Memo-11132026.pdf",
+        "https://www.cftc.gov/PressRoom/PressReleases/9289-26"
+      ]
+    }
+  ],
+  "corrections": [
+    "Claimed in the 10 April 2025 and 24 February 2026 House letters: Trump said 'he made $2.5 million today'. The record shows: the Oval Office remark was 'two-and-a-half billion' (Charles Schwab) and '$900 million' (Roger Penske), Trump's own claims about paper gains (C58). The letters cite a social-media post for the quotation.",
+    "The House Oversight memo says a Hyperliquid short was placed 'within minutes' of an October 2025 tariff announcement, but the article it cites says the $1.1B position was opened about 30 hours before Trump's post. The timing is disputed and no trader has been identified.",
+    "The White House teleprompter operator's profit was first reported as 'close to $100,000'; the CFTC order puts it at $107,539.02, with a $65,000 penalty (about $172,500 in total).",
+    "The DOJ memo disbanding the National Cryptocurrency Enforcement Team (7 April 2025) was written by Deputy Attorney General Todd Blanche, not Attorney General Bondi, though it is often attributed to her."
+  ],
+  "denials_and_context": [
+    "The White House said in April 2025 that the 'great time to buy' post was meant to reassure markets, and spokesmen have called suggestions that officials traded on inside information 'baseless and irresponsible' (C58).",
+    "A Pentagon spokesperson denied that Hegseth or any representative approached BlackRock; the trade was never executed.",
+    "TMTG says the Truth API sells faster access to public data and that critics 'invented a new theory of insider trading'; it called the senators' letter partisan.",
+    "The SEC says its enforcement decline reflects a deliberate refocus away from 'misapplied' resources; Atkins called senators' enforcement statistics 'wrong' in February 2026 before the SEC's own figures showed the decline.",
+    "The CFTC says staff losses were mostly voluntary retirements, that it is hiring, and that the oil-trades probe has been open 'from the beginning'. It does not confirm or deny investigations, and the referral-retraction account rests on anonymous sources.",
+    "Kalshi and Polymarket say they police insider trading; the House Oversight memo credits them with detecting most known cases.",
+    "Several law professors (Coffee, Pritchard, Seyhun) say Trump's public post is unlikely to be insider trading in itself; others (Woody, Jones, Coates) say an investigation is warranted or that the Truth API raises STOCK Act issues. Coates disclosed that he served at the SEC under Biden.",
+    "Silence is not exoneration and allegations are not findings: congressional letters set out questions and inferences from timing; none identifies a trader.",
+    "Source limits: the 2 April 2026 Warner-Schiff PDF could not be parsed (its press release was read in full); CRS report LSB11406, the CLS Blue Sky 'Shadow SEC' statement, PolitiFact, White & Case, Axios and Bloomberg could not be read directly, so those points rest on excerpts or secondary coverage."
+  ],
+  "sources": [
+    {
+      "title": "Letter to SEC Chair Atkins, SEC IG and Comptroller General requesting investigation",
+      "publisher": "House Financial Services Committee Democrats",
+      "url": "https://democrats-financialservices.house.gov/UploadedFiles/04.10.2025-_Ltr_SEC.GAOIT.pdf",
+      "date": "2025-04-10",
+      "read": "full"
+    },
+    {
+      "title": "Letter to SEC re DJT tariff insider trading",
+      "publisher": "Senate Banking Committee minority",
+      "url": "https://www.banking.senate.gov/imo/media/doc/20250411 Letter to SEC re DJT Tariff Insider Trading.pdf",
+      "date": "2025-04-11",
+      "read": "full"
+    },
+    {
+      "title": "Kelly, Senate colleagues call on SEC to investigate possible Trump tariff market manipulation, insider trading",
+      "publisher": "Office of Sen. Mark Kelly",
+      "url": "https://www.kelly.senate.gov/newsroom/press-releases/kelly-senate-colleagues-call-on-sec-to-investigate-possible-trump-tariff-market-manipulation-insider-trading/",
+      "date": "2025-04-11",
+      "read": "excerpt"
+    },
+    {
+      "title": "Letter to state attorneys general on market manipulation",
+      "publisher": "Senate Democrats",
+      "url": "https://www.democrats.senate.gov/imo/media/doc/letter_to_state_attorneys_general_on_market_manipulation.pdf",
+      "date": "2025-04-11",
+      "read": "full"
+    },
+    {
+      "title": "Letter to Chairman French Hill requesting investigation",
+      "publisher": "House Financial Services Committee Democrats",
+      "url": "https://democrats-financialservices.house.gov/uploadedfiles/02.24.2026_ltr_req_iti.pdf",
+      "date": "2026-02-24",
+      "read": "full"
+    },
+    {
+      "title": "Warner, Schiff call for investigation into misuse of insider information",
+      "publisher": "Office of Sen. Mark Warner",
+      "url": "https://warner.senate.gov/public/index.cfm/2026/4/warner-schiff-call-for-investigation-into-misuse-of-insider-information",
+      "date": "2026-04-02",
+      "read": "full"
+    },
+    {
+      "title": "Letter to SEC Chair Atkins and DoD IG Moring (PDF)",
+      "publisher": "Office of Sen. Mark Warner",
+      "url": "https://www.warner.senate.gov/public/_cache/files/f/7/f72b21cb-62b0-4d3a-84c1-75087a0d6d06/395A931C4F1360BE77AB5C2E2B1C4F2714B4E146A504F60F4A331ADEA6375538.4.2.26-insider-trading-letter-final-signed.pdf",
+      "date": "2026-04-02",
+      "read": "excerpt"
+    },
+    {
+      "title": "Warner, Schiff probe potential insider trading in government",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/02/hegseth-trump-mark-warner-adam-schiff-insider-trading-probe.html",
+      "date": "2026-04-02",
+      "read": "excerpt"
+    },
+    {
+      "title": "Letter to SEC re Hegseth investigation",
+      "publisher": "Senate Banking Committee minority (Sen. Warren)",
+      "url": "https://www.banking.senate.gov/imo/media/doc/letter_to_sec_re_hegseth_investigation.pdf",
+      "date": "2026-04-20",
+      "read": "full"
+    },
+    {
+      "title": "Letter to SEC re Truth Social API",
+      "publisher": "Senate Banking Committee minority (Sens. Warren, Schiff)",
+      "url": "https://www.banking.senate.gov/imo/media/doc/2026.07.28%20Letter%20to%20SEC%20re%20Truth%20Social%20API.pdf",
+      "date": "2026-07-28",
+      "read": "full"
+    },
+    {
+      "title": "For sale: early access to Trump's Truth Social posts",
+      "publisher": "NPR",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5912219/for-sale-early-access-to-trumps-truth-social-posts",
+      "date": "2026-08-01",
+      "read": "full"
+    },
+    {
+      "title": "Lawmaker asks SEC to investigate Truth Social's plan to monetize access to its data",
+      "publisher": "Axios",
+      "url": "https://axios.com/2026/07/21/trump-truth-social-api-posts",
+      "date": "2026-07-21",
+      "read": "excerpt"
+    },
+    {
+      "title": "TMTG CEO declines to comment on Truth API investigations",
+      "publisher": "Axios",
+      "url": "https://www.axios.com/2026/10/20/truth-social-tmtg-truth-api",
+      "date": "2026-10-20",
+      "read": "excerpt"
+    },
+    {
+      "title": "Letter to Acting Attorney General Blanche on insider trading on prediction markets",
+      "publisher": "Reps. Casten, Lieu and colleagues",
+      "url": "https://mcdonaldrivet.house.gov/sites/evo-subsites/mcdonaldrivet.house.gov/files/evo-media-document/letter-on-insider-trading-on-prediction-markets.pdf",
+      "date": "2026-05-12",
+      "read": "full"
+    },
+    {
+      "title": "Casten, Lieu urge DOJ to prosecute insider trading on prediction market platforms",
+      "publisher": "Office of Rep. Sean Casten",
+      "url": "https://casten.house.gov/media/press-releases/casten-lieu-urge-doj-to-prosecute-insider-trading-on-prediction-market-platforms",
+      "date": "2026-05-12",
+      "read": "excerpt"
+    },
+    {
+      "title": "Comer launches investigation into insider trading on prediction market platforms",
+      "publisher": "House Oversight Committee",
+      "url": "https://oversight.house.gov/release/comer-launches-investigation-into-insider-trading-on-prediction-market-platforms/",
+      "date": "2026-05-22",
+      "read": "full"
+    },
+    {
+      "title": "House Oversight Committee releases memorandum on insider trading risks in prediction markets",
+      "publisher": "House Oversight Committee",
+      "url": "https://oversight.house.gov/release/house-oversight-committee-releases-memorandum-on-insider-trading-risks-in-prediction-markets/",
+      "date": "2026-11-13",
+      "read": "full"
+    },
+    {
+      "title": "The Committee's inquiry into insider trading risks on prediction markets (staff memorandum)",
+      "publisher": "House Oversight Committee",
+      "url": "https://oversight.house.gov/wp-content/uploads/2026/11/Prediction-Markets-Memo-11132026.pdf",
+      "date": "2026-11-13",
+      "read": "full"
+    },
+    {
+      "title": "Letter to OGE on executive branch employee use of prediction markets",
+      "publisher": "CREW",
+      "url": "https://www.citizensforethics.org/wp-content/uploads/2026/05/Prediction-Markets-White-House-Letter.pdf",
+      "date": "2026-05-18",
+      "read": "full"
+    },
+    {
+      "title": "CFTC orders Gabriel Perez to pay $172,000 for insider trading of mention market event contracts",
+      "publisher": "CFTC",
+      "url": "https://www.cftc.gov/PressRoom/PressReleases/9289-26",
+      "date": "2026-08-28",
+      "read": "full"
+    },
+    {
+      "title": "CFTC orders George Santos to pay $35,000 for manipulative trading of State-of-the-Union event contract",
+      "publisher": "CFTC",
+      "url": "https://www.cftc.gov/PressRoom/PressReleases/9276-26",
+      "date": "2026-07-31",
+      "read": "full"
+    },
+    {
+      "title": "CFTC charges U.S. service member with insider trading in Nicolas Maduro-related event contracts",
+      "publisher": "CFTC",
+      "url": "https://www.cftc.gov/PressRoom/PressReleases/9217-26",
+      "date": "2026-04-23",
+      "read": "full"
+    },
+    {
+      "title": "CFTC Enforcement Division issues prediction markets advisory",
+      "publisher": "CFTC",
+      "url": "https://www.cftc.gov/PressRoom/PressReleases/9185-26",
+      "date": "2026-02-25",
+      "read": "full"
+    },
+    {
+      "title": "WH teleprompter op accused of betting on Trump speeches",
+      "publisher": "Gray DC via Hawaii News Now",
+      "url": "https://www.hawaiinewsnow.com/2026/07/17/wh-teleprompter-op-accused-betting-trump-speeches/",
+      "date": "2026-07-17",
+      "read": "full"
+    },
+    {
+      "title": "US soldier pleads not guilty to using intel on Maduro raid to win $400,000 on Polymarket",
+      "publisher": "AP via ABC7",
+      "url": "https://abc7news.com/post/us-soldier-charged-using-intel-win-400k-maduro-raid-appear-court-nyc/18985601/",
+      "date": "2026-04-28",
+      "read": "excerpt"
+    },
+    {
+      "title": "December trial date set for US soldier accused of insider trading on Polymarket",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/370571/december-trial-date-us-soldier-insider-trading-polymarket",
+      "date": "2026",
+      "read": "excerpt"
+    },
+    {
+      "title": "US regulator is probing suspicious Iran oil trading, official says",
+      "publisher": "Reuters via Devdiscourse",
+      "url": "https://www.devdiscourse.com/article/international/3996628-us-regulator-is-probing-suspicious-iran-oil-trading-official-says",
+      "date": "2026-10-22",
+      "read": "full"
+    },
+    {
+      "title": "Top CFTC official reportedly intervened to kill insider trading referral regarding oil trades",
+      "publisher": "MS NOW",
+      "url": "https://www.ms.now/news/news-analysis/cftc-insider-trading-referral-oil-trades-trump-corruption",
+      "date": "2026-10-14",
+      "read": "full"
+    },
+    {
+      "title": "CFTC staff told to withdraw insider-trading referral on oil bets before Trump's Iran post",
+      "publisher": "FinanceFeeds (relaying Bloomberg)",
+      "url": "https://financefeeds.com/cftc-staff-told-to-withdraw-insider-trading-referral-on-oil-bets-before-trumps-iran-post/",
+      "date": "2026-10",
+      "read": "excerpt"
+    },
+    {
+      "title": "US probes suspicious oil trades made before Trump Iran pivots, source says",
+      "publisher": "Reuters via Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/us-probes-suspicious-oil-trades-185104849.html",
+      "date": "2026-04-15",
+      "read": "excerpt"
+    },
+    {
+      "title": "SEC personnel management changes (GAO-26-107813)",
+      "publisher": "U.S. Government Accountability Office",
+      "url": "https://files.gao.gov/reports/GAO-26-107813/index.html",
+      "date": "2026-03",
+      "read": "full"
+    },
+    {
+      "title": "SEC FY 2025 review: a transformative year in SEC enforcement",
+      "publisher": "White & Case",
+      "url": "https://www.whitecase.com/insight-alert/sec-fy-2025-review-transformative-year-sec-enforcement",
+      "date": "2025-12",
+      "read": "excerpt"
+    },
+    {
+      "title": "The SEC is supposed to prevent companies from misleading investors, but its 2025 enforcement report misleads the public",
+      "publisher": "Better Markets",
+      "url": "https://bettermarkets.org/wp-content/uploads/2026/04/SEC-ENF-Report-FY2025-FINAL-4-21-2026.pdf",
+      "date": "2026-04-21",
+      "read": "full"
+    },
+    {
+      "title": "As crypto and prediction markets expand, their regulator shrinks",
+      "publisher": "NPR via GPB",
+      "url": "https://www.gpb.org/news/2026/10/08/crypto-and-prediction-markets-expand-their-regulator-shrinks",
+      "date": "2026-10-08",
+      "read": "full"
+    },
+    {
+      "title": "CFTC 'top cop' legal team eliminated amid embrace of crypto, prediction markets",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/357602/cftc-legal-team-completely-eliminated-crypto-prediction-markets",
+      "date": "2026",
+      "read": "excerpt"
+    },
+    {
+      "title": "Justice Department disbands cryptocurrency enforcement team",
+      "publisher": "Insurance Journal (Reuters/Bloomberg)",
+      "url": "https://amp.insurancejournal.com/news/national/2025/04/09/819076.htm",
+      "date": "2025-04-09",
+      "read": "excerpt"
+    },
+    {
+      "title": "Justice Department office that prosecutes public corruption slashed in size, sources say",
+      "publisher": "NBC News",
+      "url": "https://www.nbcnews.com/politics/justice-department/justice-department-office-prosecutes-public-corruption-slashed-size-so-rcna195928",
+      "date": "2025-03-11",
+      "read": "full"
+    },
+    {
+      "title": "Stop Trading on Congressional Knowledge Act of 2012 (Pub. L. 112-105)",
+      "publisher": "GovInfo",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-112publ105/html/PLAW-112publ105.htm",
+      "date": "2012-04-04",
+      "read": "full"
+    },
+    {
+      "title": "7 U.S.C. 6c (Commodity Exchange Act section 4c)",
+      "publisher": "Cornell LII",
+      "url": "https://www.law.cornell.edu/uscode/text/7/6c",
+      "date": "current",
+      "read": "full"
+    },
+    {
+      "title": "5 CFR 2635.102 definitions",
+      "publisher": "Cornell LII",
+      "url": "https://www.law.cornell.edu/cfr/text/5/2635.102",
+      "date": "current",
+      "read": "full"
+    },
+    {
+      "title": "5 CFR 2635.703 use of nonpublic information",
+      "publisher": "Cornell LII",
+      "url": "https://www.law.cornell.edu/cfr/text/5/2635.703",
+      "date": "current",
+      "read": "full"
+    },
+    {
+      "title": "18 U.S.C. 202",
+      "publisher": "Cornell LII",
+      "url": "https://www.law.cornell.edu/uscode/text/18/202",
+      "date": "current",
+      "read": "full"
+    },
+    {
+      "title": "A sitting president's amenability to indictment and criminal prosecution",
+      "publisher": "DOJ Office of Legal Counsel",
+      "url": "https://www.justice.gov/olc/opinion/sitting-president%E2%80%99s-amenability-indictment-and-criminal-prosecution",
+      "date": "2000-10-16",
+      "read": "excerpt"
+    },
+    {
+      "title": "Dirks v. SEC, 463 U.S. 646",
+      "publisher": "Cornell LII",
+      "url": "https://www.law.cornell.edu/supremecourt/text/463/646",
+      "date": "1983-07-01",
+      "read": "excerpt"
+    },
+    {
+      "title": "Salman v. United States, 580 U.S. 39",
+      "publisher": "Cornell LII",
+      "url": "https://www.law.cornell.edu/supremecourt/text/15-628",
+      "date": "2016-12-06",
+      "read": "excerpt"
+    },
+    {
+      "title": "Second Circuit nixes theory of insider trading on confidential government agency information",
+      "publisher": "Morrison Foerster",
+      "url": "https://www.mofo.com/pdf/resources/insights/230123-second-circuit-nixes-theory",
+      "date": "2023-01-23",
+      "read": "excerpt"
+    },
+    {
+      "title": "Is Trump Media's early-access feed lawful? (Goldsmith interview with John Coates)",
+      "publisher": "Executive Functions",
+      "url": "https://www.execfunctions.org/p/is-trump-medias-early-access-feed",
+      "date": "2026-09",
+      "read": "full"
+    },
+    {
+      "title": "Critics accuse Donald Trump of insider trading. Experts say that's a stretch",
+      "publisher": "PolitiFact",
+      "url": "https://www.politifact.com/article/2025/apr/10/critics-donald-trump-of-insider-trading-tariffs/",
+      "date": "2025-04-10",
+      "read": "excerpt"
+    },
+    {
+      "title": "White House staff warned about prediction markets and insider trading",
+      "publisher": "Quartz",
+      "url": "https://qz.com/white-house-staff-warning-prediction-markets-insider-trading-041026",
+      "date": "2026-04-10",
+      "read": "excerpt"
+    }
+  ],
+  "entities": [
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "President; subject of insider-trading and manipulation requests, no finding"
+    },
+    {
+      "id": "donald-trump-jr",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "Trustee of Trump's TMTG stake; Kalshi and Polymarket adviser"
+    },
+    {
+      "id": "sec",
+      "name": "Securities and Exchange Commission",
+      "type": "government",
+      "description": "Recipient of at least six letters; no public investigation announced"
+    },
+    {
+      "id": "cftc",
+      "name": "Commodity Futures Trading Commission",
+      "type": "government",
+      "description": "Oil-futures probe open; first event-contract insider cases"
+    },
+    {
+      "id": "doj",
+      "name": "US Department of Justice",
+      "type": "government",
+      "description": "Charged Van Dyke; asked to prioritise prediction-market cases"
+    },
+    {
+      "id": "us-congress",
+      "name": "US Congress",
+      "type": "government",
+      "description": "Members sent the requests recorded here"
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Warned staff; put teleprompter operator on leave"
+    },
+    {
+      "id": "office-of-government-ethics",
+      "name": "Office of Government Ethics",
+      "type": "government",
+      "description": "Asked by CREW for a prediction-market ban; no response found"
+    },
+    {
+      "id": "gao",
+      "name": "Government Accountability Office",
+      "type": "government",
+      "description": "Says it cannot compel information; reported SEC staff losses; reviewing CFTC staffing"
+    },
+    {
+      "id": "sec-inspector-general",
+      "name": "SEC Office of Inspector General",
+      "type": "government",
+      "description": "Asked to investigate April 2025 trading; no response found"
+    },
+    {
+      "id": "dod-inspector-general",
+      "name": "DoD Inspector General (Platte B. Moring III)",
+      "type": "government",
+      "description": "Asked by Warner and Schiff about trading on military information"
+    },
+    {
+      "id": "house-oversight-committee",
+      "name": "House Committee on Oversight and Government Reform",
+      "type": "government",
+      "description": "Investigated prediction-market insider trading, memo 13 Nov 2026"
+    },
+    {
+      "id": "house-financial-services-democrats",
+      "name": "House Financial Services Committee Democrats",
+      "type": "government",
+      "description": "Sent April 2025 and February 2026 requests"
+    },
+    {
+      "id": "national-association-of-attorneys-general",
+      "name": "National Association of Attorneys General",
+      "type": "company",
+      "description": "Addressee of senators' April 2025 request to state AGs"
+    },
+    {
+      "id": "paul-atkins",
+      "name": "Paul Atkins",
+      "type": "person",
+      "description": "SEC chair; addressee of the letters"
+    },
+    {
+      "id": "mike-selig",
+      "name": "Mike Selig",
+      "type": "person",
+      "description": "CFTC chair and sole commissioner"
+    },
+    {
+      "id": "mel-gunewardena",
+      "name": "Mel Gunewardena",
+      "type": "person",
+      "description": "Selig adviser reported to have had an oil-trade referral retracted"
+    },
+    {
+      "id": "david-i-miller",
+      "name": "David I. Miller",
+      "type": "person",
+      "description": "CFTC Director of Enforcement; says oil probe is open"
+    },
+    {
+      "id": "elizabeth-warren",
+      "name": "Elizabeth Warren",
+      "type": "person",
+      "description": "Senate Banking ranking member; led several letters"
+    },
+    {
+      "id": "adam-schiff",
+      "name": "Adam Schiff",
+      "type": "person",
+      "description": "Senator; co-signed SEC, state AG, Warner and Truth API letters"
+    },
+    {
+      "id": "chuck-schumer",
+      "name": "Chuck Schumer",
+      "type": "person",
+      "description": "Senate Democratic leader; co-signed April 2025 letters"
+    },
+    {
+      "id": "ron-wyden",
+      "name": "Ron Wyden",
+      "type": "person",
+      "description": "Senator; co-signed April 2025 letters"
+    },
+    {
+      "id": "mark-kelly",
+      "name": "Mark Kelly",
+      "type": "person",
+      "description": "Senator; co-signed 11 April 2025 SEC letter"
+    },
+    {
+      "id": "ruben-gallego",
+      "name": "Ruben Gallego",
+      "type": "person",
+      "description": "Senator; co-signed 11 April 2025 SEC letter"
+    },
+    {
+      "id": "mark-warner",
+      "name": "Mark Warner",
+      "type": "person",
+      "description": "Senator; 2 April 2026 letter to SEC and DoD IG"
+    },
+    {
+      "id": "maxine-waters",
+      "name": "Maxine Waters",
+      "type": "person",
+      "description": "House Financial Services ranking member; led House requests"
+    },
+    {
+      "id": "al-green",
+      "name": "Al Green",
+      "type": "person",
+      "description": "Representative; co-signed House requests"
+    },
+    {
+      "id": "french-hill",
+      "name": "French Hill",
+      "type": "person",
+      "description": "House Financial Services chairman; addressee of Feb 2026 request"
+    },
+    {
+      "id": "james-comer",
+      "name": "James Comer",
+      "type": "person",
+      "description": "House Oversight chairman; opened prediction-market probe"
+    },
+    {
+      "id": "ritchie-torres",
+      "name": "Ritchie Torres",
+      "type": "person",
+      "description": "Representative; asked SEC to review Truth API and oil trades"
+    },
+    {
+      "id": "sean-casten",
+      "name": "Sean Casten",
+      "type": "person",
+      "description": "Representative; led 12 May 2026 letter to DOJ"
+    },
+    {
+      "id": "ted-lieu",
+      "name": "Ted Lieu",
+      "type": "person",
+      "description": "Representative; co-led 12 May 2026 letter to DOJ"
+    },
+    {
+      "id": "todd-blanche",
+      "name": "Todd Blanche",
+      "type": "person",
+      "description": "Deputy AG who disbanded NCET; later Acting AG"
+    },
+    {
+      "id": "pete-hegseth",
+      "name": "Pete Hegseth",
+      "type": "person",
+      "description": "Defense Secretary; broker report, denial; Oct 2026 memo"
+    },
+    {
+      "id": "karoline-leavitt",
+      "name": "Karoline Leavitt",
+      "type": "person",
+      "description": "Press secretary; confirmed teleprompter probe"
+    },
+    {
+      "id": "gabriel-perez",
+      "name": "Gabriel Perez",
+      "type": "person",
+      "description": "White House teleprompter operator; settled CFTC insider-trading order"
+    },
+    {
+      "id": "george-santos",
+      "name": "George Santos",
+      "type": "person",
+      "description": "Former congressman; settled CFTC manipulation order"
+    },
+    {
+      "id": "gannon-van-dyke",
+      "name": "Gannon Ken Van Dyke",
+      "type": "person",
+      "description": "Army master sergeant charged over Maduro bets; pleads not guilty"
+    },
+    {
+      "id": "eric-ueland",
+      "name": "Eric Ueland",
+      "type": "person",
+      "description": "Acting OGE director; addressee of CREW letter"
+    },
+    {
+      "id": "crew",
+      "name": "Citizens for Responsibility and Ethics in Washington",
+      "type": "company",
+      "description": "Asked OGE to ban prediction-market betting by appointees"
+    },
+    {
+      "id": "kalshi",
+      "name": "Kalshi",
+      "type": "company",
+      "description": "Detected and referred Perez and Santos trades"
+    },
+    {
+      "id": "polymarket",
+      "name": "Polymarket",
+      "type": "company",
+      "description": "Detected and referred Van Dyke trades; cooperated with Oversight"
+    },
+    {
+      "id": "hyperliquid",
+      "name": "Hyperliquid Labs",
+      "type": "company",
+      "description": "Told Oversight it lacked requested records"
+    },
+    {
+      "id": "crypto-com",
+      "name": "Crypto.com",
+      "type": "company",
+      "description": "Produced documents to House Oversight"
+    },
+    {
+      "id": "trump-media-technology-group",
+      "name": "Trump Media & Technology Group",
+      "type": "company",
+      "description": "Operates Truth API; denies insider-trading theory"
+    },
+    {
+      "id": "kevin-mcgurn",
+      "name": "Kevin McGurn",
+      "type": "person",
+      "description": "TMTG CEO; declined to comment on investigations"
+    },
+    {
+      "id": "truth-api",
+      "name": "Truth API",
+      "type": "product",
+      "description": "Paid early feed of Truth Social posts"
+    },
+    {
+      "id": "john-coates",
+      "name": "John Coates",
+      "type": "person",
+      "description": "Harvard law professor, ex-SEC general counsel; STOCK Act analysis"
+    },
+    {
+      "id": "stock-act",
+      "name": "STOCK Act",
+      "type": "law",
+      "description": "2012 law naming the President in the insider-trading duty"
+    },
+    {
+      "id": "commodity-exchange-act-4c",
+      "name": "Commodity Exchange Act section 4c(a)(3)-(4)",
+      "type": "law",
+      "description": "Bars federal employees and tippees from trading on government information"
+    },
+    {
+      "id": "exchange-act-10b",
+      "name": "Exchange Act section 10(b) and Rule 10b-5",
+      "type": "law",
+      "description": "General securities insider-trading prohibition"
+    },
+    {
+      "id": "cftc-oil-futures-probe",
+      "name": "CFTC probe of oil trades before Iran posts",
+      "type": "event",
+      "description": "Open as of Oct 2026; no charges"
+    },
+    {
+      "id": "pentagon",
+      "name": "Department of Defense",
+      "type": "government",
+      "description": "Denied Hegseth approach to BlackRock; Oct 2026 trading memo"
+    },
+    {
+      "id": "april-2025-tariff-pause",
+      "name": "90-day reciprocal tariff pause (9 Apr 2025)",
+      "type": "event",
+      "description": "Trading before it prompted the first requests"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "maxine-waters",
+      "target": "sec",
+      "label": "led House request to investigate tariff-pause trading",
+      "type": "regulatory",
+      "date": "2025-04-10"
+    },
+    {
+      "source": "house-financial-services-democrats",
+      "target": "sec-inspector-general",
+      "label": "asked to investigate tariff-pause trading",
+      "type": "regulatory",
+      "date": "2025-04-10"
+    },
+    {
+      "source": "house-financial-services-democrats",
+      "target": "gao",
+      "label": "asked to investigate; GAO said it cannot compel information",
+      "type": "regulatory",
+      "date": "2025-04-10"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "paul-atkins",
+      "label": "led Senate request for tariff-pause probe; no reply found",
+      "type": "regulatory",
+      "date": "2025-04-11"
+    },
+    {
+      "source": "mark-kelly",
+      "target": "sec",
+      "label": "co-signed tariff-pause letter",
+      "type": "regulatory",
+      "date": "2025-04-11"
+    },
+    {
+      "source": "ruben-gallego",
+      "target": "sec",
+      "label": "co-signed tariff-pause letter",
+      "type": "regulatory",
+      "date": "2025-04-11"
+    },
+    {
+      "source": "adam-schiff",
+      "target": "sec",
+      "label": "co-signed tariff-pause letter",
+      "type": "regulatory",
+      "date": "2025-04-11"
+    },
+    {
+      "source": "chuck-schumer",
+      "target": "national-association-of-attorneys-general",
+      "label": "asked state AGs to investigate; no state probe found",
+      "type": "legal",
+      "date": "2025-04-11"
+    },
+    {
+      "source": "ron-wyden",
+      "target": "national-association-of-attorneys-general",
+      "label": "co-signed request to state AGs",
+      "type": "legal",
+      "date": "2025-04-11"
+    },
+    {
+      "source": "maxine-waters",
+      "target": "french-hill",
+      "label": "asked committee to investigate tariff trading",
+      "type": "political",
+      "date": "2026-02-24"
+    },
+    {
+      "source": "al-green",
+      "target": "french-hill",
+      "label": "co-signed committee investigation request",
+      "type": "political",
+      "date": "2026-02-24"
+    },
+    {
+      "source": "mark-warner",
+      "target": "dod-inspector-general",
+      "label": "asked about trading on military information",
+      "type": "regulatory",
+      "date": "2026-04-02"
+    },
+    {
+      "source": "mark-warner",
+      "target": "sec",
+      "label": "asked about trading ahead of policy announcements",
+      "type": "regulatory",
+      "date": "2026-04-02"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "pete-hegseth",
+      "label": "asked SEC to examine reported attempted trade by broker",
+      "type": "regulatory",
+      "date": "2026-04-20"
+    },
+    {
+      "source": "sean-casten",
+      "target": "todd-blanche",
+      "label": "urged DOJ to prioritise prediction-market insider cases",
+      "type": "legal",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "ted-lieu",
+      "target": "doj",
+      "label": "co-led prediction-market prosecution request",
+      "type": "legal",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "crew",
+      "target": "office-of-government-ethics",
+      "label": "asked for prediction-market ban for appointees",
+      "type": "regulatory",
+      "date": "2026-05-18"
+    },
+    {
+      "source": "james-comer",
+      "target": "polymarket",
+      "label": "requested documents on insider-trading controls",
+      "type": "regulatory",
+      "date": "2026-05-22"
+    },
+    {
+      "source": "james-comer",
+      "target": "kalshi",
+      "label": "requested documents on insider-trading controls",
+      "type": "regulatory",
+      "date": "2026-05-22"
+    },
+    {
+      "source": "house-oversight-committee",
+      "target": "hyperliquid",
+      "label": "expanded inquiry; Hyperliquid said it lacked records",
+      "type": "regulatory",
+      "date": "2026-09-29"
+    },
+    {
+      "source": "house-oversight-committee",
+      "target": "crypto-com",
+      "label": "expanded inquiry; documents produced",
+      "type": "regulatory",
+      "date": "2026-09-29"
+    },
+    {
+      "source": "cftc",
+      "target": "gannon-van-dyke",
+      "label": "civil insider-trading complaint on event contracts",
+      "type": "regulatory",
+      "date": "2026-04-23"
+    },
+    {
+      "source": "doj",
+      "target": "gannon-van-dyke",
+      "label": "indicted; pleaded not guilty",
+      "type": "legal",
+      "date": "2026-04-23"
+    },
+    {
+      "source": "polymarket",
+      "target": "cftc",
+      "label": "detected and reported Van Dyke trades",
+      "type": "regulatory",
+      "date": "2026"
+    },
+    {
+      "source": "kalshi",
+      "target": "cftc",
+      "label": "detected and reported Perez and Santos trades",
+      "type": "regulatory",
+      "date": "2026"
+    },
+    {
+      "source": "cftc",
+      "target": "gabriel-perez",
+      "label": "settled order: $107,539 disgorgement, $65,000 penalty",
+      "type": "regulatory",
+      "date": "2026-08-28",
+      "amount_usd": 172539
+    },
+    {
+      "source": "cftc",
+      "target": "george-santos",
+      "label": "settled order: $35,000 for manipulative trading",
+      "type": "regulatory",
+      "date": "2026-07-31",
+      "amount_usd": 35070
+    },
+    {
+      "source": "white-house",
+      "target": "gabriel-perez",
+      "label": "placed on unpaid leave",
+      "type": "political",
+      "date": "2026-07-16"
+    },
+    {
+      "source": "karoline-leavitt",
+      "target": "gabriel-perez",
+      "label": "confirmed federal investigation",
+      "type": "media",
+      "date": "2026-07-16"
+    },
+    {
+      "source": "ritchie-torres",
+      "target": "sec",
+      "label": "asked to review Truth API",
+      "type": "regulatory",
+      "date": "2026-07"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "truth-api",
+      "label": "asked SEC to investigate (with Schiff); SEC declined comment",
+      "type": "regulatory",
+      "date": "2026-07-28"
+    },
+    {
+      "source": "trump-media-technology-group",
+      "target": "truth-api",
+      "label": "operates; denies insider-trading theory",
+      "type": "commercial",
+      "date": "2026-08-01"
+    },
+    {
+      "source": "donald-trump",
+      "target": "trump-media-technology-group",
+      "label": "about 41% holder via revocable trust",
+      "type": "ownership",
+      "date": "2026-07"
+    },
+    {
+      "source": "donald-trump-jr",
+      "target": "trump-media-technology-group",
+      "label": "trustee of Trump's stake",
+      "type": "family",
+      "date": "2026"
+    },
+    {
+      "source": "mel-gunewardena",
+      "target": "cftc-oil-futures-probe",
+      "label": "reportedly had staff retract enforcement referral (anonymous sources)",
+      "type": "regulatory",
+      "date": "2026-10-13"
+    },
+    {
+      "source": "david-i-miller",
+      "target": "cftc-oil-futures-probe",
+      "label": "said investigation remains open",
+      "type": "regulatory",
+      "date": "2026-10-22"
+    },
+    {
+      "source": "mike-selig",
+      "target": "cftc",
+      "label": "chair and sole commissioner",
+      "type": "regulatory",
+      "date": "2025-12-22"
+    },
+    {
+      "source": "todd-blanche",
+      "target": "doj",
+      "label": "memo disbanding National Cryptocurrency Enforcement Team",
+      "type": "regulatory",
+      "date": "2025-04-07"
+    },
+    {
+      "source": "gao",
+      "target": "sec",
+      "label": "found 18% staff loss in FY2025",
+      "type": "regulatory",
+      "date": "2026-03"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "gao",
+      "label": "requested review of CFTC staffing; starts Dec 2026",
+      "type": "regulatory",
+      "date": "2026-07"
+    },
+    {
+      "source": "stock-act",
+      "target": "donald-trump",
+      "label": "names the President as covered executive-branch employee",
+      "type": "legal",
+      "date": "2012-04-04"
+    },
+    {
+      "source": "john-coates",
+      "target": "truth-api",
+      "label": "argues sale of early access may breach STOCK Act duty",
+      "type": "media",
+      "date": "2026-09"
+    },
+    {
+      "source": "pete-hegseth",
+      "target": "pentagon",
+      "label": "issued memo barring personnel from trading on nonpublic information",
+      "type": "regulatory",
+      "date": "2026-10-22"
+    }
+  ],
+  "leads": [
+    {
+      "title": "Outcome of the CFTC oil-futures probe and the retracted referral",
+      "why_connected": "The largest documented trading before presidential posts; the probe is open and an adviser to the chair reportedly intervened in the referral. Any Tag 50 identities, charges or IG review would be the first identification of traders.",
+      "entities": [
+        "cftc",
+        "cftc-oil-futures-probe",
+        "mike-selig",
+        "mel-gunewardena",
+        "david-i-miller"
+      ],
+      "source_url": "https://www.devdiscourse.com/article/international/3996628-us-regulator-is-probing-suspicious-iran-oil-trading-official-says"
+    },
+    {
+      "title": "SEC replies (or FOIA records) on the April 2025, April 2026 and July 2026 letters",
+      "why_connected": "No substantive SEC answer is public; a FOIA request or IG statement could establish whether the SEC opened a matter under inquiry on the 9 April 2025 options activity.",
+      "entities": [
+        "sec",
+        "paul-atkins",
+        "sec-inspector-general",
+        "elizabeth-warren",
+        "maxine-waters"
+      ],
+      "source_url": "https://democrats-financialservices.house.gov/uploadedfiles/02.24.2026_ltr_req_iti.pdf"
+    },
+    {
+      "title": "Van Dyke trial (SDNY), tentatively 7 December 2026",
+      "why_connected": "First criminal test of insider-trading charges for event contracts on government information, including whether wire-fraud counts survive Blaszczak-type property challenges.",
+      "entities": [
+        "gannon-van-dyke",
+        "doj",
+        "cftc",
+        "polymarket"
+      ],
+      "source_url": "https://decrypt.co/370571/december-trial-date-us-soldier-insider-trading-polymarket"
+    },
+    {
+      "title": "GAO review of CFTC staffing (starting December 2026)",
+      "why_connected": "Will document enforcement capacity at the agency handling the oil and prediction-market cases.",
+      "entities": [
+        "gao",
+        "cftc",
+        "elizabeth-warren"
+      ],
+      "source_url": "https://www.gpb.org/news/2026/10/08/crypto-and-prediction-markets-expand-their-regulator-shrinks"
+    },
+    {
+      "title": "Hyperliquid short position before the October 2025 China tariff post",
+      "why_connected": "Cited by House Oversight as fitting an insider pattern; the platform told the committee it lacked identity records, and timing accounts conflict.",
+      "entities": [
+        "hyperliquid",
+        "house-oversight-committee",
+        "donald-trump"
+      ],
+      "source_url": "https://oversight.house.gov/wp-content/uploads/2026/11/Prediction-Markets-Memo-11132026.pdf"
+    }
+  ]
+}
