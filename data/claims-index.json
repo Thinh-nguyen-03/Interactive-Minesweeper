@@ -1407,5 +1407,56 @@
   "question": "How has Trump's estimated net worth changed since January 2025, and what have companies paid to settle his lawsuits?",
   "topic": "family-ventures-and-wealth",
   "hidden": false
+ },
+ {
+  "id": "C101",
+  "slug": "trading-ahead-of-announcements",
+  "lines": "",
+  "title": "Trading Ahead of Presidential Announcements",
+  "claim": "Were unusually large or well-timed trades placed shortly before market-moving presidential announcements since January 2025 (the 9 April 2025 tariff pause and the 'great time to buy' post, later tariff and China announcements, crypto reserve and policy posts, military and foreign-policy actions, and others)? For each episode establish the timeline to the minute where known, what market data and independent analyses show, who has alleged insider trading, what evidence identifies any trader, and what regulators and those named have said.",
+  "origin": "follow-up",
+  "parents": [
+   "C58",
+   "C20"
+  ],
+  "display_title": "Trading Ahead of Presidential Announcements",
+  "question": "Were well-timed trades placed before market-moving presidential announcements, and has anyone been identified?",
+  "topic": "trump-media-and-markets",
+  "hidden": false
+ },
+ {
+  "id": "C102",
+  "slug": "trades-by-officials-family-and-associates",
+  "lines": "",
+  "title": "Trades by Officials, Family & Associates",
+  "claim": "What do disclosure filings and reporting show about securities and prediction-market trades by administration officials, members of Congress, Trump family members and close associates around government actions since January 2025: periodic transaction reports, sales and purchases near tariff and policy announcements, trading in small companies before Trump family involvement was announced, and bets on prediction markets tied to government decisions? Separate documented trades from allegations of misuse of non-public information.",
+  "origin": "follow-up",
+  "parents": [
+   "C58",
+   "C91",
+   "C25",
+   "C39"
+  ],
+  "display_title": "Trades by Officials, Family & Associates",
+  "question": "What trades by officials, family members and associates around government actions are documented, and which allegations go beyond the record?",
+  "topic": "trump-media-and-markets",
+  "hidden": false
+ },
+ {
+  "id": "C103",
+  "slug": "insider-trading-oversight-and-enforcement",
+  "lines": "",
+  "title": "Insider-Trading Oversight: Requests, Probes & Outcomes",
+  "claim": "What has been done about the insider-trading allegations: letters and requests from members of Congress and state officials, any SEC, CFTC, Justice Department, inspector-general or state investigations and their outcomes, exchange and prediction-market platform inquiries, changes in enforcement staffing and policy, and what law actually applies to a president, officials and tippees (the STOCK Act, securities and commodities law)? Record what remains unanswered.",
+  "origin": "follow-up",
+  "parents": [
+   "C58",
+   "C52",
+   "C38"
+  ],
+  "display_title": "Insider-Trading Oversight: Requests, Probes & Outcomes",
+  "question": "What investigations of the insider-trading allegations exist, what did they find, and what law applies?",
+  "topic": "regulators-and-enforcement",
+  "hidden": false
  }
 ]

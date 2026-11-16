@@ -94,3 +94,7 @@ Besides the usual `data/claims/Cxx.json` and `research/Cxx-<slug>.md`, write `da
      "grade": "documented | single-source | inferred", "sources": ["url", "..."], "notes": "double-counting risks, disputes, denials"}
 
 Rules: never add paper value to cash; never present income earned during the presidency as income earned because of it; record the response of those named; flag overlaps between rows (the same money reported two ways) in `notes`; ranges, not false precision. Neutral wording; no mention of any video or creator.
+
+## Insider-trading checks (C101 to C103, 16 Nov)
+
+These concern allegations of crimes against named and unnamed people, so the evidence bar is strict. Separate four things in every point: (1) what market or filing data shows, (2) what an analyst or outlet infers from it, (3) who alleges wrongdoing, (4) whether any trader has been identified or any authority has made a finding. Well-timed volume is not proof that anyone traded on inside information; say so. An allegation without an identified trader or official finding is `unverified`. Name a person as having traded only where a filing or on-record reporting documents the trade, and record their response. Read primary documents where possible (OGE 278-T periodic transaction reports, congressional letters, SEC/CFTC statements, court filings, academic papers, exchange data write-ups) and mark sources `"read": "full"` or `"excerpt"`. No ledger file is needed.
