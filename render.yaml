@@ -1,0 +1,20 @@
+# Render blueprint: a static site, no server and no database.
+# The data is built into map/graph-data.js by build.py and committed,
+# so the host only has to wrap the page and serve the files.
+services:
+  - type: web
+    name: trump-claims-map
+    runtime: static
+    buildCommand: python3 make_site.py
+    staticPublishPath: ./site
+    pullRequestPreviewsEnabled: false
+    headers:
+      - path: /*
+        name: X-Content-Type-Options
+        value: nosniff
+      - path: /*
+        name: Referrer-Policy
+        value: strict-origin-when-cross-origin
+      - path: /graph-data.js
+        name: Cache-Control
+        value: public, max-age=3600
