@@ -2,8 +2,8 @@
 id: "electronic-arts"
 kind: "entity"
 type: "company"
-connections: 8
-claims: 4
+connections: 9
+claims: 5
 tags:
   - "entity"
   - "type/company"
@@ -15,12 +15,13 @@ Taken private for $55B by PIF, Silver Lake, Affinity (closed 2026-08-04)
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 4 checks |
-| Connections | 8 |
+| Appears in | 5 checks |
+| Connections | 9 |
 
 ## How Other Checks Describe It
 
 - US game publisher taken private for $55B, closed 4 Aug 2026
+- Taken private in 2026 by PIF, Silver Lake and Affinity.
 - Taken private for $55B (closed 2026-08-04)
 
 ## Appears in Checks
@@ -29,11 +30,13 @@ Taken private for $55B by PIF, Silver Lake, Affinity (closed 2026-08-04)
 - [[C68 Tech Billionaires as Counterparties & Beneficiaries]] · Mostly accurate
 - [[C80 Sovereign-Fund Megadeals That Need US Approval]] · Mostly accurate
 - [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds]] · Mostly accurate
+- [[C99 What Each Family Member Has Earned]] · Partly accurate
 
 ## Relationships
 
-### Ownership (12)
+### Ownership (13)
 
+- [[Affinity Partners]] *minority investor in take-private of* [[Electronic Arts]] · 2026-08 · [[C99 What Each Family Member Has Earned|C99]]
 - [[Affinity Partners]] *acquired ~1.1% (press estimate)* [[Electronic Arts]] · 2026-08-04 · [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds|C87]]
 - [[Affinity Partners]] *acquired ~1.1% of* [[Electronic Arts]] · 2026-08-04 · [[C80 Sovereign-Fund Megadeals That Need US Approval|C80]]
 - [[Affinity Partners]] *co-acquirer (~1.1% reported)* [[Electronic Arts]] · 2026-08-04 · [[C56 Saudi Arabia Family Deals Alongside US Policy Decisions|C56]]

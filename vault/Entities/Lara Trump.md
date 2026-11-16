@@ -2,25 +2,30 @@
 id: "lara-trump"
 kind: "entity"
 type: "person"
-connections: 3
-claims: 1
+connections: 4
+claims: 2
 tags:
   - "entity"
   - "type/person"
 ---
 # Lara Trump
 
-Eric Trump's wife; Fox News host; ex-RNC co-chair
+Fox News weekend host since Feb 2025; salary undisclosed.
 
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 check |
-| Connections | 3 |
+| Appears in | 2 checks |
+| Connections | 4 |
+
+## How Other Checks Describe It
+
+- Eric Trump's wife; Fox News host; ex-RNC co-chair
 
 ## Appears in Checks
 
 - [[C66 The Extended Family's Ventures & Roles]] · Partly accurate
+- [[C99 What Each Family Member Has Earned]] · Partly accurate
 
 ## Relationships
 
@@ -28,6 +33,7 @@ Eric Trump's wife; Fox News host; ex-RNC co-chair
 
 - [[Lara Trump]] *married to* [[Eric Trump]] · [[C66 The Extended Family's Ventures & Roles|C66]]
 
-### Media (1)
+### Media (2)
 
+- [[Fox News]] *employs as weekend host* [[Lara Trump]] · 2025-02 · [[C99 What Each Family Member Has Earned|C99]]
 - [[Lara Trump]] *hosts 'My View with Lara Trump'* [[Fox News]] · 2025-02-22 · [[C66 The Extended Family's Ventures & Roles|C66]]

@@ -2,8 +2,8 @@
 id: "pete-hegseth"
 kind: "entity"
 type: "person"
-connections: 12
-claims: 5
+connections: 13
+claims: 6
 tags:
   - "entity"
   - "type/person"
@@ -15,11 +15,12 @@ Defense Secretary; accepted jet; signed Idaho facility deal
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 5 checks |
-| Connections | 12 |
+| Appears in | 6 checks |
+| Connections | 13 |
 
 ## How Other Checks Describe It
 
+- Defense Secretary; broker report, denial; Oct 2026 memo
 - US Defense Secretary; accepted the jet on 21 May 2025
 - Defense Secretary; recipient of Warren letters
 - Secretary of Defense/War
@@ -31,13 +32,16 @@ Defense Secretary; accepted jet; signed Idaho facility deal
 - [[C65 Officials Who Decided Matters Involving Former Clients or Partners]] · Mostly accurate
 - [[C73 Qatar's Ties to People in & Around the Administration]] · Mostly accurate
 - [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts]] · Mostly accurate
+- [[C103 Insider-Trading Oversight Requests, Probes & Outcomes]] · Mostly accurate
 
 ## Relationships
 
-### Regulatory (2)
+### Regulatory (4)
 
 - [[Pete Hegseth]] *accepted* [[Qatar Boeing 747 gift]] · 2025-05-21 · [[C73 Qatar's Ties to People in & Around the Administration|C73]]
 - [[Pete Hegseth]] *formally accepted* [[Qatar Boeing 747 gift]] · 2025-05-21 · [[C16 Qatar The Gifted Jet, Arms Sales & a Trump Golf Project|C16]]
+- [[Elizabeth Warren]] *asked SEC to examine reported attempted trade by broker* [[Pete Hegseth]] · 2026-04-20 · [[C103 Insider-Trading Oversight Requests, Probes & Outcomes|C103]]
+- [[Pete Hegseth]] *issued memo barring personnel from trading on nonpublic information* [[Pentagon (Department of Defense)]] · 2026-10-22 · [[C103 Insider-Trading Oversight Requests, Probes & Outcomes|C103]]
 
 ### Political (6)
 

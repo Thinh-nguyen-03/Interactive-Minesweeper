@@ -5,8 +5,8 @@ type: "government"
 aliases:
   - "Congress"
   - "U.S. Congress"
-connections: 63
-claims: 40
+connections: 67
+claims: 43
 tags:
   - "entity"
   - "type/government"
@@ -20,8 +20,8 @@ Passed crypto legislation; questioned Selig.
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 40 checks |
-| Connections | 63 |
+| Appears in | 43 checks |
+| Connections | 67 |
 | Also known as | Congress; U.S. Congress |
 
 ## How Other Checks Describe It
@@ -74,6 +74,9 @@ Passed crypto legislation; questioned Selig.
 - [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards]] · Mostly accurate
 - [[C90 World Liberty's Token-Swap Pitch & Its Partners]] · Mostly accurate
 - [[C93 Umar Kremlev, the International Boxing Association & US Decisions]] · Partly accurate
+- [[C101 Trading Ahead of Presidential Announcements]] · Mostly accurate
+- [[C102 Trades by Officials, Family & Associates]] · Mostly accurate
+- [[C103 Insider-Trading Oversight Requests, Probes & Outcomes]] · Mostly accurate
 
 ## Relationships
 
@@ -84,7 +87,7 @@ Passed crypto legislation; questioned Selig.
 - [[US Congress]] *Senate Democrats demanded answers on failure to divest* [[Steve Witkoff]] · 2025-10 · [[C14 Steve & Zach Witkoff A Middle East Envoy & World Liberty|C14]]
 - [[US Congress]] *asked to review Witkoff's filings* [[Office of Government Ethics]] · 2025-11 · [[C53 The Witkoff Family's Own Gulf Money|C53]]
 - [[US Congress]] *Democratic committee inquiries into* [[Affinity Partners]] · 2026-03 · [[C15 Jared Kushner, Affinity Partners & Gulf Sovereign Funds|C15]]
-- [[US Congress]] *House China Select Committee information request* [[Dominari Holdings Dominari Securities]] · 2026-03-08 · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]]
+- [[US Congress]] *House China Select Committee information request* [[Dominari Holdings]] · 2026-03-08 · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]]
 - [[US Congress]] *House passed by voice vote; pending in Senate Commerce* [[Muhammad Ali American Boxing Revival Act (H.R. 4624)]] · 2026-03-24 · [[C93 Umar Kremlev, the International Boxing Association & US Decisions|C93]]
 - [[US Department of Energy]] *submitted 123 agreement to* [[US Congress]] · 2026-08-25 · [[C56 Saudi Arabia Family Deals Alongside US Policy Decisions|C56]]
 - [[US Congress]] *House passed 294-134; Senate cloture failed 49-50* [[CLARITY Act]] · 2026-09-15 · [[C11 The GENIUS & CLARITY Acts & the Family's Stablecoin|C11]]
@@ -111,6 +114,10 @@ Passed crypto legislation; questioned Selig.
 
 - [[US Congress]] *Democrats demanded documents from* [[Vulcan Elements]] · 2026-08-11 · [[C26 1789 Capital & the Vulcan Elements Magnet Deal|C26]]
 - [[US Congress]] *Raskin inquiry into* [[1789 Capital]] · 2026-08-26 · [[C26 1789 Capital & the Vulcan Elements Magnet Deal|C26]]
+
+### Media (1)
+
+- [[Campaign Legal Center]] *counted 2,200+ trades by 53 members ($34.9M-$140M) in tariff window* [[US Congress]] · 2025-07-24 · [[C102 Trades by Officials, Family & Associates|C102]]
 
 ## Themes
 

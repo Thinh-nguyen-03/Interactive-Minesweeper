@@ -57,14 +57,14 @@ $1B Dominari-created microcap investment vehicle (about 90% Dominari-owned) with
 
 ### Ownership (8)
 
-- [[Dominari Holdings Dominari Securities]] *created, owns about 90%* [[American Ventures]] · 2026 · [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network|C39]]
+- [[Dominari Holdings]] *created, owns about 90%* [[American Ventures]] · 2026 · [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network|C39]]
 - [[Donald Trump Jr]] *holds Powerus stake via* [[American Ventures]] · 2026-03 · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]
 - [[Eric Trump]] *holds Powerus stake via* [[American Ventures]] · 2026-03 · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]
-- [[Dominari Holdings Dominari Securities]] *owns 90% of American Ventures Management LLC* [[American Ventures]] · 2026-05 · [[C63 Shell Entities & Ownership Chains|C63]]
-- [[Dominari Holdings Dominari Securities]] *owns 90% of manager* [[American Ventures]] · 2026-05 · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]
+- [[Dominari Holdings]] *owns 90% of American Ventures Management LLC* [[American Ventures]] · 2026-05 · [[C63 Shell Entities & Ownership Chains|C63]]
+- [[Dominari Holdings]] *owns 90% of manager* [[American Ventures]] · 2026-05 · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]
 - [[American Ventures]] *expected 9.9% beneficial owner of* [[Powerus Corp]] · 2026-10 · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]
 - [[American Ventures]] *holds Trump sons' stake* [[Aureus Greenway Holdings]] · [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs|C72]]
-- [[Dominari Holdings Dominari Securities]] *controls ~90% of* [[American Ventures]] · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
+- [[Dominari Holdings]] *controls ~90% of* [[American Ventures]] · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
 
 ### Media (1)
 

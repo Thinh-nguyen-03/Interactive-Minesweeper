@@ -2,8 +2,8 @@
 id: "kevin-mcgurn"
 kind: "entity"
 type: "person"
-connections: 20
-claims: 10
+connections: 21
+claims: 11
 tags:
   - "entity"
   - "type/person"
@@ -15,8 +15,8 @@ Interim CEO of TMTG; said 'markets already move on Truth Social posts'.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 10 checks |
-| Connections | 20 |
+| Appears in | 11 checks |
+| Connections | 21 |
 
 ## How Other Checks Describe It
 
@@ -38,6 +38,7 @@ Interim CEO of TMTG; said 'markets already move on Truth Social posts'.
 - [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts]] · Mostly accurate
 - [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief]] · Mostly accurate
 - [[C85 Yorkville's Blank-Cheque Vehicles Venezuela, Blue Water III & PlusAI]] · Partly accurate
+- [[C103 Insider-Trading Oversight Requests, Probes & Outcomes]] · Mostly accurate
 
 ## Relationships
 

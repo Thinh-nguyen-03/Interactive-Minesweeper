@@ -25,7 +25,7 @@ tags:
 
 ## Bottom Line
 
-The Donald J. Trump Revocable Trust holds about 52-53% of TMTG, which owns Truth Social.
+The Donald J. Trump Revocable Trust is TMTG's largest shareholder, with 114.75M shares: about 52% until a share sale at the end of May 2025, and about 41% since. TMTG owns Truth Social.
 
 ## What Holds Up
 
@@ -40,6 +40,7 @@ The Donald J. Trump Revocable Trust holds about 52-53% of TMTG, which owns Truth
 - The Intel meme depicts the US government's Intel stake (bought at $20.47 a share in Aug 2025), framed as a gain for the country, not Trump's personal trade.
 - After the Sept 2025 Intel meme the stock dipped. Only the Sept 2026 repost was followed by a rise, and that rise was already part of a rally.
 - The 'others trade for him' defense comes mainly from the Trump Organization (independent managers). The White House line is that his children manage the trust.
+- 16 Nov 2026: Claimed: the trust holds about 52-53% of TMTG. The record shows: about 52% was correct from the Dec 2024 transfer until the end of May 2025. After TMTG sold 55,857,181 shares in a 29 May 2025 private placement, the same 114,750,000 shares were 41.5% (13D/A, 15 Dec 2025) and about 41% (prospectus, Nov 2026). The trust remains the largest shareholder.
 
 ## In More Detail
 
@@ -52,6 +53,7 @@ The Donald J. Trump Revocable Trust holds about 52-53% of TMTG, which owns Truth
 ## Checks That Build on This One
 
 - [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations]] · Mostly accurate
+- [[C101 Trading Ahead of Presidential Announcements]] · Mostly accurate
 
 ## Sub-Claims
 
@@ -59,12 +61,14 @@ The Donald J. Trump Revocable Trust holds about 52-53% of TMTG, which owns Truth
 
 **Confirmed**
 
-- In Dec 2024 Trump transferred about 114.75M DJT shares (about 52-53%) to the revocable trust.
+- In Dec 2024 Trump transferred all 114,750,000 DJT shares to the revocable trust.
+- That was about 52% of the 220.7M shares outstanding at 31 Dec 2024 (FY2025 10-K).
+- The count has not changed, but TMTG's private placement of 55.9M shares on 29 May 2025 diluted it: the trust held 41.5% at 15 Dec 2025 (Schedule 13D/A) and about 41% in Nov 2026 (TAE merger prospectus).
 - Trump is the sole beneficiary and Donald Trump Jr. is the trustee.
 - Truth Social is TMTG's platform.
-- Amounts: about 52-53%
-- Dates: Dec 2024
-- Sources: [1](https://www.benzinga.com/markets/equities/24/12/42609228/trump-transfers-entire-djt-stake-to-revocable-trust-ahead-of-inauguration) [2](https://www.fortune.com/2025/04/02/trump-media-stock-price-net-worth)
+- Amounts: about 52%; 41.5%; about 41%
+- Dates: Dec 2024; 31 Dec 2024; 29 May 2025; 15 Dec 2025; Nov 2026
+- Sources: [1](https://www.benzinga.com/markets/equities/24/12/42609228/trump-transfers-entire-djt-stake-to-revocable-trust-ahead-of-inauguration) [2](https://www.fortune.com/2025/04/02/trump-media-stock-price-net-worth) <https://www.sec.gov/Archives/edgar/data/1849635/000114036125046424/xslSCHEDULE_13D_X01/primary_doc.xml> <https://www.sec.gov/Archives/edgar/data/1849635/000114036126007174/ef20062365_10k.htm> <https://www.sec.gov/Archives/edgar/data/1849635/000143774926035350/djt20261104_424b3.htm>
 
 ### 2. Trump promotes stocks on Truth Social, even naming companies by ticker while in office.
 
@@ -162,7 +166,7 @@ The Donald J. Trump Revocable Trust holds about 52-53% of TMTG, which owns Truth
 
 ### Ownership (6)
 
-- [[Donald J. Trump Revocable Trust]] *owns about 52-53% of* [[Trump Media & Technology Group]] · 2024-12 · [[C20 Trump's Securities Purchases & His Truth Social Posts|C20]]
+- [[Donald J. Trump Revocable Trust]] *owns about 41% of (52% until May 2025)* [[Trump Media & Technology Group]] · 2024-12 · [[C20 Trump's Securities Purchases & His Truth Social Posts|C20]]
 - [[Donald Trump]] *sole beneficiary of* [[Donald J. Trump Revocable Trust]] · 2024-12 · [[C20 Trump's Securities Purchases & His Truth Social Posts|C20]]
 - [[Donald J. Trump Revocable Trust]] *largely owns* [[Trump Media & Technology Group]] · [[C20 Trump's Securities Purchases & His Truth Social Posts|C20]]
 - [[Donald Trump]] *beneficiary of* [[Donald J. Trump Revocable Trust]] · [[C20 Trump's Securities Purchases & His Truth Social Posts|C20]]
@@ -231,8 +235,8 @@ The Donald J. Trump Revocable Trust holds about 52-53% of TMTG, which owns Truth
 
 ### Evidence by sub-claim
 
-#### 1. The Revocable Trust majority-owns TMTG, which owns Truth Social: confirmed
-In December 2024, Trump moved his whole TMTG (DJT) stake, about 114.75M shares or roughly 52-53% of the company, into the Donald J. Trump Revocable Trust without payment. Trump is the trust's sole beneficiary and Donald Trump Jr. is its trustee [1][2]. Truth Social is TMTG's flagship platform. The stake percentage is as of 2025 reporting. Later share issuance may have diluted it, and I did not confirm a November 2026 figure. "Largely owned" is a fair description.
+#### 1. The Revocable Trust is TMTG's largest owner, and TMTG owns Truth Social: confirmed
+In December 2024, Trump moved his whole TMTG (DJT) stake, 114,750,000 shares or about 52% of the 220.7M shares then outstanding, into the Donald J. Trump Revocable Trust without payment. Trump is the trust's sole beneficiary and Donald Trump Jr. is its trustee [1][2]. Truth Social is TMTG's flagship platform. The share count has not changed, but the percentage has. TMTG sold 55,857,181 new shares in a private placement on 29 May 2025, so the same holding was 41.5% of 276,497,911 shares on 15 Dec 2025 (Schedule 13D/A) and about 41% in November 2026 (TAE merger prospectus). "Majority-owned" was true only until the end of May 2025. "Largely owned" by the largest shareholder remains a fair description.
 
 #### 2. Trump names companies and tickers in posts while in office: confirmed
 On April 10, 2026, Trump posted praise of Palantir's "war fighting capabilities" and included the ticker "(PLTR)". Outlets described this as the first time a sitting president had endorsed a stock by its ticker [3][4]. Palantir had been down as much as 6% intraday. It briefly rose about 3% after the post and then closed lower [4]. Calling this "pumping" is a characterization.
@@ -263,6 +267,8 @@ If the claim refers to the 2026 post, "the price went up" afterward is literally
 - The documented ticker example is Palantir (PLTR) on April 10, 2026. Palantir closed lower that day, after a brief roughly 3% bounce.
 - The "they trade on his behalf" defense comes mainly from the Trump Organization (independent managers). The White House version is that Trump's children manage the trust.
 
+- Claimed: the trust holds about 52-53% of TMTG. The record shows: about 52% from December 2024 to the end of May 2025, and about 41% since (correction of 16 Nov 2026).
+
 ### Denials and context
 - Trump Organization: independent third-party managers make all trades with no family input.
 - White House (David Ingle): the assets are in a trust managed by his children, and "there are no conflicts of interest."
@@ -287,8 +293,14 @@ If the claim refers to the 2026 post, "the price went up" afterward is literally
 14. Stocktwits, "INTC jumps overnight: Trump touts Intel stock in AI-generated trading image," 2026-09. https://stocktwits.com/news-articles/markets/equity/intc-jumps-overnight-trump-touts-intel-stock-in-ai-generated-trading-image-claims-he-made-billions-for-us/cZt3ndORJxU
 15. BeInCrypto, "Trump again touts Intel stock gains in AI image," 2026-09. https://beincrypto.com/trump-intel-stock-ai-image/
 16. Mediaite, "Trump Hyped Palantir After Buying More Than $500k of Company's Stock," 2026-05. https://www.mediaite.com/media/news/trump-hyped-palantir-after-buying-more-than-500k-of-companys-stock/
+17. SEC EDGAR, Trump Media & Technology Group Schedule 13D/A (Amendment No. 3), 2025-12-18 (read in full). https://www.sec.gov/Archives/edgar/data/1849635/000114036125046424/xslSCHEDULE_13D_X01/primary_doc.xml
+18. SEC EDGAR, Trump Media & Technology Group Form 10-K for 2025, 2026-02 (excerpt). https://www.sec.gov/Archives/edgar/data/1849635/000114036126007174/ef20062365_10k.htm
+19. SEC EDGAR, Trump Media & Technology Group 424(b)(3) prospectus for the TAE merger, 2026-11-04 (excerpt). https://www.sec.gov/Archives/edgar/data/1849635/000143774926035350/djt20261104_424b3.htm
 
 Note: several pages (Tom's Hardware, Stocktwits, ADN) could not be fetched from this environment. Their details come from search-result excerpts.
 
 ### Audit (second review, Nov 2026)
 Result: **upheld**. Re-checked the Palantir '(PLTR)' post (2026-04-10) and the $247k-$630k of Q1 buys, the 113-page Q1 278-T (3,642 trades, certified May 8, received May 12, filed late), the Trump-side defense, and the Sept 2026 Intel repost. All held up across Mediaite, Digital Today, Benzinga and Crypto Briefing. Added the "unsolicited" marking as context and the exact repost date. Verdict unchanged.
+
+#### Balance-sheet review (16 Nov 2026)
+- Result: corrected. The 52-53% stake figure held only until the end of May 2025. The FY2025 10-K gives 220,657,014 shares outstanding at 31 Dec 2024 (114.75M is 52.0%) and a 55,857,181-share private placement on 29 May 2025. The Dec 2025 Schedule 13D/A gives 114,750,000 shares, 41.5% of 276,497,911, and the Nov 2026 merger prospectus gives about 41%. The trust remains the largest shareholder.

@@ -6,8 +6,8 @@ aliases:
   - "The White House"
   - "Trump administration"
   - "White House"
-connections: 103
-claims: 60
+connections: 113
+claims: 66
 tags:
   - "entity"
   - "type/government"
@@ -21,8 +21,8 @@ Executive office; issues denials; an aide reportedly pushed the Vulcan deal.
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 60 checks |
-| Connections | 103 |
+| Appears in | 66 checks |
+| Connections | 113 |
 | Also known as | The White House; Trump administration; White House |
 
 ## How Other Checks Describe It
@@ -95,6 +95,12 @@ Executive office; issues denials; an aide reportedly pushed the Vulcan deal.
 - [[C90 World Liberty's Token-Swap Pitch & Its Partners]] · Mostly accurate
 - [[C92 The White House Ballroom Donor List]] · Partly accurate
 - [[C93 Umar Kremlev, the International Boxing Association & US Decisions]] · Partly accurate
+- [[C95 The Presidential Salary Pledge]] · Partly accurate
+- [[C97 Crypto Income During the Presidency]] · Mostly accurate
+- [[C98 Trump Media, Licensing & Merchandise Income During the Presidency]] · Mostly accurate
+- [[C101 Trading Ahead of Presidential Announcements]] · Mostly accurate
+- [[C102 Trades by Officials, Family & Associates]] · Mostly accurate
+- [[C103 Insider-Trading Oversight Requests, Probes & Outcomes]] · Mostly accurate
 
 ## Relationships
 
@@ -115,7 +121,7 @@ Executive office; issues denials; an aide reportedly pushed the Vulcan deal.
 - [[White House Trump administration]] *classifies as unpaid volunteer, no disclosure filed* [[Jared Kushner]] · [[C15 Jared Kushner, Affinity Partners & Gulf Sovereign Funds|C15]]
 - [[White House Trump administration]] *approved* [[UAE AI chips deal]] · [[C08 AI Chip Exports to the UAE, Stargate & a Possible Currency Swap|C08]]
 
-### Political (43)
+### Political (46)
 
 - [[Steve Witkoff]] *Special Envoy to the Middle East / for Peace Missions* [[White House Trump administration]] · 2024-11 · [[C14 Steve & Zach Witkoff A Middle East Envoy & World Liberty|C14]]
 - [[Jeff Miller]] *lobbied on behalf of Crypto.com* [[White House Trump administration]] · 2025 · [[C43 Overlap Between Dropped Enforcement Cases & Trump Donors|C43]]
@@ -138,10 +144,14 @@ Executive office; issues denials; an aide reportedly pushed the Vulcan deal.
 - [[White House Trump administration]] *reportedly contacted state officials on prediction markets* [[Republican Attorneys General Association]] · 2026 · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]
 - [[White House Trump administration]] *urged to sell Manono claim to US buyer* [[AVZ Minerals]] · 2026-01-21 · [[C75 Congo Minerals Diplomacy Massad Boulos & Gentry Beach|C75]]
 - [[White House Trump administration]] *denied wrongdoing in response to* [[The Wall Street Journal]] · 2026-02 · [[C06 A UAE-Backed 49% Stake in World Liberty Financial|C06]]
+- [[Kush Desai]] *spokesman; called the insinuations baseless* [[White House Trump administration]] · 2026-03 · [[C101 Trading Ahead of Presidential Announcements|C101]]
 - [[White House Trump administration]] *called Nobitex link 'totally laughable'* [[Reuters]] · 2026-05 · [[C90 World Liberty's Token-Swap Pitch & Its Partners|C90]]
 - [[White House Trump administration]] *denied special-interest influence on deal* [[Cove Kaz Capital Cove Capital]] · 2026-06 · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]
 - [[UFC Freedom 250]] *held on South Lawn of* [[White House Trump administration]] · 2026-06-14 · [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds|C87]]
+- [[White House Trump administration]] *denies any conflict of interest* [[Donald Trump]] · 2026-06-30 · [[C97 Crypto Income During the Presidency|C97]]
+- [[White House Trump administration]] *denies conflicts of interest* [[Donald Trump]] · 2026-06-30 · [[C11 The GENIUS & CLARITY Acts & the Family's Stablecoin|C11]] [[C98 Trump Media, Licensing & Merchandise Income During the Presidency|C98]]
 - [[White House Trump administration]] *says assets held in trust / discretionary accounts* [[Donald Trump]] · 2026-07 · [[C55 How Much Has the Trump Family Made Competing Estimates|C55]]
+- [[White House Trump administration]] *placed on unpaid leave* [[Gabriel Perez]] · 2026-07-16 · [[C103 Insider-Trading Oversight Requests, Probes & Outcomes|C103]]
 - [[White House Trump administration]] *says he has fully divested* [[Steve Witkoff]] · 2026-09 · [[C42 How World Liberty Insiders Took Money Out|C42]]
 - [[White House Trump administration]] *asked to resign as ambassador to Greece* [[Kimberly Guilfoyle]] · 2026-10-13 · [[C76 Russia-Linked Money Around the Family & the Envoys|C76]]
 - [[Anna Kelly]] *spokesperson for* [[White House Trump administration]] · [[C29 Trump Family Wealth Gains Since the Election|C29]]
@@ -158,17 +168,21 @@ Executive office; issues denials; an aide reportedly pushed the Vulcan deal.
 - [[Steve Witkoff]] *Special Envoy to Middle East for* [[White House Trump administration]] · [[C14 Steve & Zach Witkoff A Middle East Envoy & World Liberty|C14]]
 - [[Unnamed top White House aide]] *top aide in* [[White House Trump administration]] · [[C26 1789 Capital & the Vulcan Elements Magnet Deal|C26]]
 - [[White House Trump administration]] *defends ethics arrangements of* [[Donald Trump]] · [[C01 The $TRUMP Meme Coin & Who Profited|C01]]
-- [[White House Trump administration]] *denies conflicts of interest* [[Donald Trump]] · [[C11 The GENIUS & CLARITY Acts & the Family's Stablecoin|C11]]
 - [[White House Trump administration]] *says others trade for* [[Donald Trump]] · [[C20 Trump's Securities Purchases & His Truth Social Posts|C20]]
 
 ### Legal (1)
 
 - [[White House Trump administration]] *pardon* [[Changpeng Zhao]] · 2025-10-23 · [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]]
 
-### Media (2)
+### Media (3)
 
+- [[ProPublica]] *reported well-timed sales by more than a dozen officials and aides* [[White House Trump administration]] · 2025-05 · [[C102 Trades by Officials, Family & Associates|C102]]
 - [[David Ingle]] *called insider-trading implications 'baseless'* [[White House Trump administration]] · 2026-04 · [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations|C58]]
 - [[The New York Times]] *reported state outreach by* [[White House Trump administration]] · 2026-08-27 · [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]]
+
+### Commercial (1)
+
+- [[White House Historical Association]] *funds preservation and acquisitions at* [[White House Trump administration]] · 2025 · [[C95 The Presidential Salary Pledge|C95]]
 
 ## Themes
 

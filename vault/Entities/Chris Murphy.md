@@ -2,8 +2,8 @@
 id: "chris-murphy"
 kind: "entity"
 type: "person"
-connections: 5
-claims: 3
+connections: 6
+claims: 4
 tags:
   - "entity"
   - "type/person"
@@ -15,12 +15,13 @@ US senator who criticized Binance's promotion of Trump-linked crypto after the p
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 3 checks |
-| Connections | 5 |
+| Appears in | 4 checks |
+| Connections | 6 |
 
 ## How Other Checks Describe It
 
 - US senator; co-led Nov 2025 inquiry into Witkoff's ethics filings
+- Senator who asked who was behind the 23 March 2026 oil trades.
 - Senator co-leading the Witkoff ethics inquiry
 
 ## Appears in Checks
@@ -28,6 +29,7 @@ US senator who criticized Binance's promotion of Trump-linked crypto after the p
 - [[C09 The Dropped Binance Case & the Pardon of Changpeng Zhao]] · Mostly accurate
 - [[C53 The Witkoff Family's Own Gulf Money]] · Mostly accurate
 - [[C54 The Crypto Revolving Door]] · Mostly accurate
+- [[C101 Trading Ahead of Presidential Announcements]] · Mostly accurate
 
 ## Relationships
 

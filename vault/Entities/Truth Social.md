@@ -2,8 +2,8 @@
 id: "truth-social"
 kind: "entity"
 type: "company"
-connections: 14
-claims: 8
+connections: 16
+claims: 10
 tags:
   - "entity"
   - "type/company"
@@ -15,8 +15,8 @@ TMTG's social platform, where the president posts market-moving 'truths'.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 8 checks |
-| Connections | 14 |
+| Appears in | 10 checks |
+| Connections | 16 |
 
 ## How Other Checks Describe It
 
@@ -36,6 +36,8 @@ TMTG's social platform, where the president posts market-moving 'truths'.
 - [[C41 Trump Media Feed Subscribers, the Senators' SEC Request, Departures & the CRO Treasury]] · Mostly accurate
 - [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations]] · Mostly accurate
 - [[C85 Yorkville's Blank-Cheque Vehicles Venezuela, Blue Water III & PlusAI]] · Partly accurate
+- [[C98 Trump Media, Licensing & Merchandise Income During the Presidency]] · Mostly accurate
+- [[C101 Trading Ahead of Presidential Announcements]] · Mostly accurate
 
 ## Relationships
 

@@ -282,7 +282,7 @@ Most of the Qatari ties in the claim are documented. They include Bondi's Ballar
 - [[Colony Capital]] · Company
 - [[Dar Global]] · Company
 - [[DOJ memo on the Qatari jet]] · Event
-- [[Donald J. Trump Presidential Library Foundation, Inc]] · Fund
+- [[Donald J. Trump Presidential Library Foundation]] · Fund
 - [[Donald Trump]] · Person
 - [[EO 'Assuring the Security of the State of Qatar']] · Law or policy
 - [[Eric Trump]] · Person
@@ -370,7 +370,7 @@ Most of the Qatari ties in the claim are documented. They include Bondi's Ballar
 - [[Qatar Investment Authority]] *co-owned with Colony* [[Miramax]] · 2010 · [[C73 Qatar's Ties to People in & Around the Administration|C73]]
 - [[Jared Kushner]] *founder* [[Affinity Partners]] · 2021 · [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]] [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]] [[C73 Qatar's Ties to People in & Around the Administration|C73]]
 - [[Kash Patel]] *owns* [[Trishul LLC]] · 2024 · [[C64 Lobbyists & Intermediaries with White House Access|C64]] [[C73 Qatar's Ties to People in & Around the Administration|C73]]
-- [[Qatar Boeing 747 gift]] *slated to transfer to* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2029-01-01 · [[C73 Qatar's Ties to People in & Around the Administration|C73]]
+- [[Qatar Boeing 747 gift]] *slated to transfer to* [[Donald J. Trump Presidential Library Foundation]] · 2029-01-01 · [[C73 Qatar's Ties to People in & Around the Administration|C73]]
 - [[Bernard Kerik]] *owned* [[Kerik Group]] · [[C73 Qatar's Ties to People in & Around the Administration|C73]]
 - [[Keith Schiller]] *co-founded* [[Javelin Advisors]] · [[C73 Qatar's Ties to People in & Around the Administration|C73]]
 - [[Qatar Investment Authority]] *owns* [[Qatari Diar]] · [[C31 Trump Organization Real-Estate Deals in the Gulf|C31]] [[C73 Qatar's Ties to People in & Around the Administration|C73]]

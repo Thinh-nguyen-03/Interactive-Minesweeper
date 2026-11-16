@@ -26,4 +26,4 @@ Losing WBD bidder; received a $2.8B break fee
 
 ### Money (1)
 
-- [[Paramount]] *paid termination fee* [[Netflix]] · 2026-02-27 · $2.8B · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
+- [[Paramount Global]] *paid termination fee* [[Netflix]] · 2026-02-27 · $2.8B · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]

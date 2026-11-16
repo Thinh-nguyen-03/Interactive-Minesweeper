@@ -4,8 +4,8 @@ kind: "entity"
 type: "asset"
 aliases:
   - "BTC"
-connections: 12
-claims: 5
+connections: 13
+claims: 6
 tags:
   - "entity"
   - "type/asset"
@@ -17,8 +17,8 @@ Cryptocurrency; price surged on regulatory anticipation when Trump took office.
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 5 checks |
-| Connections | 12 |
+| Appears in | 6 checks |
+| Connections | 13 |
 | Also known as | BTC |
 
 ## How Other Checks Describe It
@@ -36,6 +36,7 @@ Cryptocurrency; price surged on regulatory anticipation when Trump took office.
 - [[C24 Trump Media's ETFs, the TAE Fusion Merger & Its Losses]] · Mostly accurate
 - [[C35 Howard Lutnick, Cantor Fitzgerald & Tether]] · Mostly accurate
 - [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business]] · Mostly accurate
+- [[C101 Trading Ahead of Presidential Announcements]] · Mostly accurate
 
 ## Relationships
 

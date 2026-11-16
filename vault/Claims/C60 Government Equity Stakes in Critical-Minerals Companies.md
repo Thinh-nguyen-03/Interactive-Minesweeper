@@ -256,7 +256,7 @@ The core of the claim is documented. A June 28, 2026 NYT investigation (Lipton a
 - [[Citizens for Responsibility and Ethics in Washington]] · Company
 - [[Cove Kaz Capital Cove Capital]] · Company
 - [[Critical Metals Corp]] · Company
-- [[Dominari Holdings Dominari Securities]] · Company
+- [[Dominari Holdings]] · Company
 - [[Donald Trump]] · Person
 - [[Donald Trump Jr]] · Person
 - [[Elizabeth Warren]] · Person
@@ -317,14 +317,14 @@ The core of the claim is documented. A June 28, 2026 NYT investigation (Lipton a
 
 ### Ownership (9)
 
-- [[Donald Trump Jr]] *partner at* [[1789 Capital]] · 2024-11 · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]] [[C26 1789 Capital & the Vulcan Elements Magnet Deal|C26]] [[C32 Donald Trump Jr.'s Ties to Other Government Contractors|C32]] [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]] [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]] [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
+- [[Donald Trump Jr]] *partner at* [[1789 Capital]] · 2024-11 · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]] [[C26 1789 Capital & the Vulcan Elements Magnet Deal|C26]] [[C32 Donald Trump Jr.'s Ties to Other Government Contractors|C32]] [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]] [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]] [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]] [[C99 What Each Family Member Has Earned|C99]]
 - [[Howard Lutnick]] *former chairman/CEO; stake moved to sons' trusts* [[Cantor Fitzgerald]] · 2025-02 · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
 - [[Skyline Builders Group]] *bought 20% for $20M* [[Kaz Resources]] · 2025-10-31 · $20M · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
 - [[Brandon Lutnick]] *chairman of* [[Cantor Fitzgerald]] · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
 - [[Cantor Fitzgerald]] *major investor in (reported)* [[Critical Metals Corp]] · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
-- [[Dominari Holdings Dominari Securities]] *controls ~90% of* [[American Ventures]] · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
-- [[Donald Trump Jr]] *shareholder* [[Dominari Holdings Dominari Securities]] · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
-- [[Eric Trump]] *shareholder and adviser* [[Dominari Holdings Dominari Securities]] · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
+- [[Dominari Holdings]] *controls ~90% of* [[American Ventures]] · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
+- [[Donald Trump Jr]] *shareholder* [[Dominari Holdings]] · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
+- [[Eric Trump]] *shareholder and adviser* [[Dominari Holdings]] · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
 - [[Kyle Lutnick]] *executive at* [[Cantor Fitzgerald]] · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
 
 ### Family (2)

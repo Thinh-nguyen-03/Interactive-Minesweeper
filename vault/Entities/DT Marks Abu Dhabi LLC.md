@@ -4,7 +4,7 @@ kind: "entity"
 type: "company"
 aliases:
   - "DT Marks Abu Dhabi LLC / DT Marks Al Raha Beach LLC"
-connections: 8
+connections: 9
 claims: 4
 tags:
   - "entity"
@@ -18,7 +18,7 @@ New Delaware Trump Org licensing entities tied to unannounced Abu Dhabi projects
 |---|---|
 | Type | Company |
 | Appears in | 4 checks |
-| Connections | 8 |
+| Connections | 9 |
 | Also known as | DT Marks Abu Dhabi LLC / DT Marks Al Raha Beach LLC |
 
 ## How Other Checks Describe It
@@ -38,8 +38,8 @@ New Delaware Trump Org licensing entities tied to unannounced Abu Dhabi projects
 
 ### Money (2)
 
-- [[Damac Properties Investment LLC]] *paid licence fee (one of two $5M fees; mapping not specified)* [[DT Marks Abu Dhabi LLC]] · 2025 · $5M · [[C88 Damac & Hussain Sajwani Licence Fees & a Data-Centre Pledge|C88]]
 - [[Damac Properties Investment LLC]] *paid licence fee (one of two $5M fees; payer-to-payee mapping not specified)* [[DT Marks Abu Dhabi LLC]] · 2025 · $5M · [[C82 Abu Dhabi Unannounced Trump Licensing Entities & StringZ|C82]]
+- [[Damac Sky View Real Estate LLC]] *paid a $5,000,000 licence fee to (2025, per the OGE filing)* [[DT Marks Abu Dhabi LLC]] · 2025 · $5M · [[C88 Damac & Hussain Sajwani Licence Fees & a Data-Centre Pledge|C88]]
 
 ### Ownership (6)
 

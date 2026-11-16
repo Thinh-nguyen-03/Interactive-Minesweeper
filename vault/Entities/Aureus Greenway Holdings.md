@@ -31,7 +31,7 @@ Florida golf-course company used as Powerus' listing vehicle
 
 ### Money (2)
 
-- [[Dominari Holdings Dominari Securities]] *arranged ~$9M financing for* [[Aureus Greenway Holdings]] · 2026-03 · $9M · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]
+- [[Dominari Holdings]] *arranged ~$9M financing for* [[Aureus Greenway Holdings]] · 2026-03 · $9M · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]
 - [[Unusual Machines]] *invested in financing round of* [[Aureus Greenway Holdings]] · 2026-03 · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]
 
 ### Ownership (2)

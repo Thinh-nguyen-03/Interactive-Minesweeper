@@ -6,8 +6,8 @@ aliases:
   - "$MELANIA"
   - "$MELANIA memecoin"
   - "Melania coin"
-connections: 21
-claims: 7
+connections: 22
+claims: 8
 tags:
   - "entity"
   - "type/asset"
@@ -19,8 +19,8 @@ Melania Trump's meme coin; down ~99%.
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 7 checks |
-| Connections | 21 |
+| Appears in | 8 checks |
+| Connections | 22 |
 | Also known as | $MELANIA; $MELANIA memecoin; Melania coin |
 
 ## How Other Checks Describe It
@@ -40,6 +40,7 @@ Melania Trump's meme coin; down ~99%.
 - [[C40 Who Ran the $TRUMP & $MELANIA Launches]] · Mostly accurate
 - [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles]] · Mostly accurate
 - [[C63 Shell Entities & Ownership Chains]] · Mostly accurate
+- [[C97 Crypto Income During the Presidency]] · Mostly accurate
 
 ## Relationships
 

@@ -34,4 +34,4 @@ Nasdaq TRX-treasury company; Dominari-placed financing
 
 ### Commercial (1)
 
-- [[Dominari Holdings Dominari Securities]] *exclusive placement agent on TRX-treasury financing* [[Tron Inc. (formerly SRM Entertainment)]] · 2025-06-16 · $100M · [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]]
+- [[Dominari Holdings]] *exclusive placement agent on TRX-treasury financing* [[Tron Inc. (formerly SRM Entertainment)]] · 2025-06-16 · $100M · [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]]

@@ -410,7 +410,7 @@ For most named partners, a family deal and a favourable US decision in the same 
 - [[Damac Properties]] *paid $5M licence fee via subsidiary* [[DT Marks Al Raha Beach LLC]] · 2025 · $5M · [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]]
 - [[Damac Properties]] *paid ~$11.3-12.5M in licence/management fees (2025)* [[Trump Organization]] · 2025 · $12.5M · [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]]
 - [[Aryam Investment 1]] *bought 49% for $500M* [[World Liberty Financial]] · 2025-01-16 · $500M · [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]]
-- [[MGX]] *settled $2B investment in USD1* [[Binance]] · 2025-05-01 · $2B · [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]]
+- [[MGX]] *settled $2B investment in USD1* [[Binance]] · 2025-05-01 · $2B · [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]] [[C97 Crypto Income During the Presidency|C97]]
 - [[Export-Import Bank of the United States]] *letter of interest up to $900M* [[Cove Kaz Capital Cove Capital]] · 2025-11 · $900M · [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]]
 - [[US International Development Finance Corporation]] *letters of interest $700M* [[Cove Kaz Capital Cove Capital]] · 2025-11 · $700M · [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]]
 - [[Konstantin Sokolov]] *donated to* [[White House ballroom]] · 2025/2026 · [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]]

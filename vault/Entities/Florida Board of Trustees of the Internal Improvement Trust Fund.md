@@ -26,7 +26,7 @@ Governor and Cabinet; voted 30 Sep 2025 to deed the land to the foundation
 
 ### Money (1)
 
-- [[Florida Board of Trustees of the Internal Improvement Trust Fund]] *deeded $67M+ parcel for $10* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-09-30 · $67M · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]]
+- [[Florida Board of Trustees of the Internal Improvement Trust Fund]] *deeded $67M+ parcel for $10* [[Donald J. Trump Presidential Library Foundation]] · 2025-09-30 · $67M · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]]
 
 ### Regulatory (1)
 

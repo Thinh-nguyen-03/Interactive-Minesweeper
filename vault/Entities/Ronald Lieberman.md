@@ -26,7 +26,7 @@ Trump Organization EVP of Management and Development; Dominari director since De
 
 ### Ownership (1)
 
-- [[Ronald Lieberman]] *director and shareholder* [[Dominari Holdings Dominari Securities]] · 2024-12 · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
+- [[Ronald Lieberman]] *director and shareholder* [[Dominari Holdings]] · 2024-12 · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
 
 ### Commercial (1)
 

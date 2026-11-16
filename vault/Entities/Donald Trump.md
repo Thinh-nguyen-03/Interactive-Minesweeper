@@ -5,8 +5,8 @@ type: "person"
 aliases:
   - "Donald J. Trump"
   - "Trump"
-connections: 294
-claims: 92
+connections: 328
+claims: 101
 tags:
   - "entity"
   - "type/person"
@@ -20,8 +20,8 @@ US president; he and his family hold business interests in sectors where he sign
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 92 checks |
-| Connections | 294 |
+| Appears in | 101 checks |
+| Connections | 328 |
 | Also known as | Donald J. Trump; Trump |
 
 ## How Other Checks Describe It
@@ -126,38 +126,74 @@ US president; he and his family hold business interests in sectors where he sign
 - [[C92 The White House Ballroom Donor List]] · Partly accurate
 - [[C93 Umar Kremlev, the International Boxing Association & US Decisions]] · Partly accurate
 - [[C94 The Sale of Lukoil's Foreign Assets & the Boehly Consortium]] · Mostly accurate
+- [[C95 The Presidential Salary Pledge]] · Partly accurate
+- [[C96 What Trump's Own Financial Disclosures Report]] · Confirmed
+- [[C97 Crypto Income During the Presidency]] · Mostly accurate
+- [[C98 Trump Media, Licensing & Merchandise Income During the Presidency]] · Mostly accurate
+- [[C99 What Each Family Member Has Earned]] · Partly accurate
+- [[C100 Net Worth Change & Legal Settlements Paid to Trump]] · Mostly accurate
+- [[C101 Trading Ahead of Presidential Announcements]] · Mostly accurate
+- [[C102 Trades by Officials, Family & Associates]] · Mostly accurate
+- [[C103 Insider-Trading Oversight Requests, Probes & Outcomes]] · Mostly accurate
 
 ## Relationships
 
-### Money (38)
+### Money (65)
 
 - [[Jay Weitzman]] *donated $25,000 to 2017 inauguration* [[Donald Trump]] · 2017-01 · $25K · [[C66 The Extended Family's Ventures & Roles|C66]]
+- [[Donald Trump]] *donated first-term salary ($78,333 Q1 2017; $100,000 Q2 2020) to* [[National Park Service]] · 2017-04-03 · $178.33K · [[C95 The Presidential Salary Pledge|C95]]
+- [[Donald Trump]] *donated several first-term quarterly salary checks to* [[Department of Health and Human Services]] · 2017-2020 · [[C95 The Presidential Salary Pledge|C95]]
 - [[Dar Global]] *paid licence fees (2024, Dubai and Oman) to* [[Donald Trump]] · 2024 · $21.9M · [[C31 Trump Organization Real-Estate Deals in the Gulf|C31]]
 - [[Trump Bible]] *paid royalties via Greenwood (2024) to* [[Donald Trump]] · 2024 · $1.31M · [[C17 Trump-Branded Merchandise & the T1 Phone|C17]]
 - [[NFT INT LLC]] *paid NFT licensing income (2024) to* [[Donald Trump]] · 2024 · $1.16M · [[C17 Trump-Branded Merchandise & the T1 Phone|C17]]
 - [[Trump golden sneakers]] *sneaker and fragrance royalties (2024) to* [[Donald Trump]] · 2024 · $2.5M · [[C17 Trump-Branded Merchandise & the T1 Phone|C17]]
 - [[Trump watches]] *paid royalties (2024) to* [[Donald Trump]] · 2024 · $2.8M · [[C17 Trump-Branded Merchandise & the T1 Phone|C17]]
-- [[World Liberty Financial]] *paid about $57.35M of token-sale income (2024 disclosure)* [[Donald Trump]] · 2024 · $57.35M · [[C42 How World Liberty Insiders Took Money Out|C42]]
+- [[World Liberty Financial]] *booked $57.36M of token sales as company revenue (2024 filing, line 391; not a distribution to Trump)* [[Donald Trump]] · 2024 · $57.36M · [[C42 How World Liberty Insiders Took Money Out|C42]]
 - [[Trevor Milton]] *donated (with wife) to Trump-aligned committees* [[Donald Trump]] · 2024-10 · $1.8M · [[C36 Clemency for Other Crypto & Donor-Linked Figures|C36]] [[C49 The Market for Pardon Lobbying|C49]]
 - [[Sam Altman]] *inaugural fund donation* [[Donald Trump]] · 2024-12 · $1M · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Aryam Investment 1]] *about $187M of upfront payment to Trump-family entities* [[Donald Trump]] · 2025 · $187M · [[C14 Steve & Zach Witkoff A Middle East Envoy & World Liberty|C14]]
+- [[Base Group (Base Co., Ltd.)]] *paid non-refundable development fee in 2025* [[Donald Trump]] · 2025 · $2M · [[C98 Trump Media, Licensing & Merchandise Income During the Presidency|C98]]
+- [[Charles Schwab]] *pledged-asset line, over $50M* [[Donald Trump]] · 2025 · $50M · [[C96 What Trump's Own Financial Disclosures Report|C96]]
 - [[CIC Digital LLC]] *paid 'Celebration Coins' royalties (2025 OGE)* [[Donald Trump]] · 2025 · $635.07M · [[C63 Shell Entities & Ownership Chains|C63]]
 - [[CIC Digital LLC]] *pays meme-coin royalties ($635M in 2025)* [[Donald Trump]] · 2025 · $635.07M · [[C40 Who Ran the $TRUMP & $MELANIA Launches|C40]]
 - [[CIC Digital LLC]] *reported 'Celebration Coins' royalties of $635,068,835 for 2025* [[Donald Trump]] · 2025 · $635.07M · [[C01 The $TRUMP Meme Coin & Who Profited|C01]]
-- [[Dar Al Arkan]] *reportedly ~$21.9M licence revenue in 2025 disclosure (estimate)* [[Donald Trump]] · 2025 · $21.9M · [[C31 Trump Organization Real-Estate Deals in the Gulf|C31]]
-- [[$TRUMP meme coin]] *generated about $635M in licensing royalties in 2025* [[Donald Trump]] · 2025 · $635M · [[C29 Trump Family Wealth Gains Since the Election|C29]]
+- [[CIC Ventures LLC]] *2025 book and merchandise royalties* [[Donald Trump]] · 2025 · $8.05M · [[C96 What Trump's Own Financial Disclosures Report|C96]]
+- [[Damac Properties]] *paid licence and management fees in 2025* [[Donald Trump]] · 2025 · $12.59M · [[C98 Trump Media, Licensing & Merchandise Income During the Presidency|C98]]
+- [[Dar Al Arkan]] *paid $25.80M in 2025 licence fees, including $5.25M for Doha via Dar Global Holdings (OGE filing)* [[Donald Trump]] · 2025 · $25.8M · [[C31 Trump Organization Real-Estate Deals in the Gulf|C31]]
+- [[Dar Al Arkan]] *paid licence fees (Dubai, Saudi Arabia, Oman) in 2025* [[Donald Trump]] · 2025 · $20.55M · [[C98 Trump Media, Licensing & Merchandise Income During the Presidency|C98]]
+- [[Dar Global]] *paid Doha licence fee in 2025* [[Donald Trump]] · 2025 · $5.25M · [[C98 Trump Media, Licensing & Merchandise Income During the Presidency|C98]]
+- [[Donald Trump]] *settlement proceeds (ABC, CBS, Meta) paid to* [[Donald J. Trump Presidential Library Foundation]] · 2025 · $56.5M · [[C96 What Trump's Own Financial Disclosures Report|C96]]
+- [[Donald Trump]] *YouTube settlement proceeds paid to* [[Trust for the National Mall]] · 2025 · $22M · [[C96 What Trump's Own Financial Disclosures Report|C96]]
+- [[Trump Bible]] *royalty in 2025* [[Donald Trump]] · 2025 · $208.49K · [[C98 Trump Media, Licensing & Merchandise Income During the Presidency|C98]]
+- [[Mar-a-Lago Club]] *2025 revenue reported on his 278e* [[Donald Trump]] · 2025 · $77.48M · [[C96 What Trump's Own Financial Disclosures Report|C96]]
+- [[Mar-a-Lago Club]] *reported 2025 revenue* [[Donald Trump]] · 2025 · $77.48M · [[C98 Trump Media, Licensing & Merchandise Income During the Presidency|C98]]
+- [[Reliance Industries]] *Reliance 4IR paid Hyderabad licence fee in 2025* [[Donald Trump]] · 2025 · $1.5M · [[C98 Trump Media, Licensing & Merchandise Income During the Presidency|C98]]
+- [[Stablecoin Holdco LLC]] *Stablecoin Holdco's 2025 net operating income of $8.3M, listed on Trump's form (company level; DT Marks SC owns 38.25%)* [[Donald Trump]] · 2025 · $8.33M · [[C97 Crypto Income During the Presidency|C97]]
+- [[$TRUMP meme coin]] *generated $635.1M of licensing royalties to CIC Digital in 2025* [[Donald Trump]] · 2025 · $635.07M · [[C29 Trump Family Wealth Gains Since the Election|C29]]
 - [[$TRUMP meme coin]] *~$635M royalties in 2025 via CIC Digital* [[Donald Trump]] · 2025 · $635M · [[C55 How Much Has the Trump Family Made Competing Estimates|C55]]
-- [[World Liberty Financial]] *paid about $594M-$800M (token sales plus sale of business interests; contested) in 2025* [[Donald Trump]] · 2025 · $594M · [[C29 Trump Family Wealth Gains Since the Election|C29]]
-- [[World Liberty Financial]] *paid about $594M-$800M of income (2025 disclosure; outlets differ)* [[Donald Trump]] · 2025 · $594M · [[C42 How World Liberty Insiders Took Money Out|C42]]
-- [[World Liberty Financial]] *~$800M income in 2025 per disclosure* [[Donald Trump]] · 2025 · $800M · [[C55 How Much Has the Trump Family Made Competing Estimates|C55]]
+- [[Trump International Hung Yen]] *Vietnam licence fee in 2025* [[Donald Trump]] · 2025 · $5M · [[C98 Trump Media, Licensing & Merchandise Income During the Presidency|C98]]
+- [[Trump National Bedminster]] *reported 2025 revenue* [[Donald Trump]] · 2025 · $37.6M · [[C98 Trump Media, Licensing & Merchandise Income During the Presidency|C98]]
+- [[Trump National Doral]] *2025 golf and hotel revenue reported on his 278e* [[Donald Trump]] · 2025 · $121.86M · [[C96 What Trump's Own Financial Disclosures Report|C96]]
+- [[Trump National Doral]] *reported 2025 revenue* [[Donald Trump]] · 2025 · $121.86M · [[C98 Trump Media, Licensing & Merchandise Income During the Presidency|C98]]
+- [[Trump Tower Bucharest]] *Bucharest licence fee in 2025* [[Donald Trump]] · 2025 · $5M · [[C98 Trump Media, Licensing & Merchandise Income During the Presidency|C98]]
+- [[Trump-branded projects in India]] *Indian licence fees in 2025* [[Donald Trump]] · 2025 · $10.21M · [[C98 Trump Media, Licensing & Merchandise Income During the Presidency|C98]]
+- [[Trump watches]] *royalty in 2025* [[Donald Trump]] · 2025 · $4.7M · [[C98 Trump Media, Licensing & Merchandise Income During the Presidency|C98]]
+- [[World Liberty Financial]] *$789.3M on World Liberty and stablecoin entity lines in 2025 per disclosure ($592.4M excluding Stablecoin Holdco)* [[Donald Trump]] · 2025 · $789.31M · [[C55 How Much Has the Trump Family Made Competing Estimates|C55]]
+- [[World Liberty Financial]] *2025 receipts on DT Marks DEFI's lines $592.4M ($789.3M with DT Marks SC's Stablecoin Holdco line); entity totals or Trump's share not stated* [[Donald Trump]] · 2025 · $592.44M · [[C42 How World Liberty Insiders Took Money Out|C42]]
+- [[World Liberty Financial]] *2025 receipts on Trump-family entity lines: $592.4M (DT Marks DEFI token proceeds and WLF Holdco equity sale) or $789.3M with DT Marks SC's Stablecoin Holdco line; entity totals or Trump's share not stated* [[Donald Trump]] · 2025 · $592.44M · [[C29 Trump Family Wealth Gains Since the Election|C29]]
 - [[X Corp]] *settlement paid personally (per 2025 OGE disclosure)* [[Donald Trump]] · 2025 · $8M · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]]
 - [[Aryam Investment 1]] *upfront payment of about $187M to Trump-family entities* [[Donald Trump]] · 2025-01 · $187M · [[C06 A UAE-Backed 49% Stake in World Liberty Financial|C06]]
 - [[Donald Trump]] *family entities received about $187M of Aryam upfront* [[World Liberty Financial]] · 2025-01 · $187M · [[C57 The UAE Network Tahnoon, G42, MGX & Their US Deals|C57]]
+- [[US Treasury]] *pays statutory salary of $400,000 a year to* [[Donald Trump]] · 2025-01-20 · $400K · [[C95 The Presidential Salary Pledge|C95]]
 - [[Meta]] *settled suspension suit (~$22M to library)* [[Donald Trump]] · 2025-01-29 · $25M · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[X Corp]] *settled suspension suit (reported)* [[Donald Trump]] · 2025-02 · $10M · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
+- [[X Corp]] *settled suspension suit for ~$10M (reported); $8M listed as Trump's settlement income on his disclosure* [[Donald Trump]] · 2025-02 · $8M · [[C33 Corporate Lawsuit Settlements & Donations to Trump's Library & Ballroom|C33]]
+- [[Donald Trump]] *accounts made 327 purchases (up to ~$12.8M) the day before* [[90-day reciprocal tariff pause (9 Apr 2025)]] · 2025-04-08 · [[C102 Trades by Officials, Family & Associates|C102]]
 - [[Aqua 1 Foundation]] *up to $75M of purchase reached Trump-and-sons company (per NYT)* [[Donald Trump]] · 2025-06 · $75M · [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]]
-- [[Paramount]] *settled '60 Minutes' suit for (to library)* [[Donald Trump]] · 2025-07-02 · $16M · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
+- [[Paramount Global]] *settled '60 Minutes' suit for (to library)* [[Donald Trump]] · 2025-07-02 · $16M · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
+- [[Donald Trump]] *accounts bought Intel bonds after government stake (reported)* [[Intel]] · 2025-09 · [[C102 Trades by Officials, Family & Associates|C102]]
 - [[Donald Trump]] *US (Department of War) agreed $35.6M for ~10% ($17.8M to Trilogy, $17.8M to South32) plus warrants* [[Trilogy Metals]] · 2025-10-06 · $35.6M · [[C86 Major Trump Donors with Stakes in Federally Backed Companies|C86]]
+- [[Donald Trump]] *gave part of salary to ($66,000 Jan-Oct 2025, per the association)* [[White House Historical Association]] · 2025-10-27 · $66K · [[C95 The Presidential Salary Pledge|C95]]
 - [[Donald Trump]] *bought shares ($1M-$5M on 2026-02-10, 278-T)* [[Nvidia]] · 2026-02-10 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Donald Trump]] *accounts bought $247k-$630k of shares (Q1 2026)* [[Palantir Technologies (PLTR)]] · 2026-03 · $630K · [[C20 Trump's Securities Purchases & His Truth Social Posts|C20]]
 - [[Donald Trump]] *bought PLTR; touted ticker on Truth Social* [[Palantir Technologies (PLTR)]] · 2026-04-10 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
@@ -170,7 +206,7 @@ US president; he and his family hold business interests in sectors where he sign
 - [[Trump financial disclosures]] *show ~$1.4B crypto income of ~$2.2B* [[Donald Trump]] · $1.4B · [[C29 Trump Family Wealth Gains Since the Election|C29]]
 - [[World Liberty Financial]] *pays president and family* [[Donald Trump]] · [[C07 MGX's $2 Billion Binance Investment Settled in USD1|C07]] [[C10 Binance's Role in the Growth of USD1|C10]] [[C29 Trump Family Wealth Gains Since the Election|C29]]
 
-### Ownership (35)
+### Ownership (41)
 
 - [[Donald Trump]] *settlor and sole beneficiary of* [[Donald J. Trump Revocable Trust]] · 2014-04-07 · [[C63 Shell Entities & Ownership Chains|C63]]
 - [[Donald Trump]] *manager, president, secretary, treasurer of* [[CIC Ventures LLC]] · 2023 · [[C63 Shell Entities & Ownership Chains|C63]]
@@ -178,8 +214,14 @@ US president; he and his family hold business interests in sectors where he sign
 - [[Donald Trump]] *controls with sons* [[DT Marks DEFI LLC]] · 2024-10 · [[C71 Who Bought World Liberty Tokens|C71]]
 - [[Donald Trump]] *owns (with family)* [[DT Marks DEFI LLC]] · 2024-10 · [[C04 World Liberty Financial Founding & Token Sale|C04]] [[C42 How World Liberty Insiders Took Money Out|C42]]
 - [[Donald Trump]] *sole beneficiary of* [[Donald J. Trump Revocable Trust]] · 2024-12 · [[C20 Trump's Securities Purchases & His Truth Social Posts|C20]]
+- [[Donald Trump]] *settlor and sole beneficiary* [[Donald J. Trump Revocable Trust]] · 2024-12-17 · [[C98 Trump Media, Licensing & Merchandise Income During the Presidency|C98]]
 - [[Donald Trump]] *ultimate owner (reported on OGE disclosure)* [[DT Marks Abu Dhabi LLC]] · 2025 · [[C82 Abu Dhabi Unannounced Trump Licensing Entities & StringZ|C82]]
-- [[Donald Trump]] *namesake and controlling figure of* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-05 · [[C33 Corporate Lawsuit Settlements & Donations to Trump's Library & Ballroom|C33]]
+- [[Donald Trump]] *namesake and controlling figure of* [[Donald J. Trump Presidential Library Foundation]] · 2025-05 · [[C33 Corporate Lawsuit Settlements & Donations to Trump's Library & Ballroom|C33]]
+- [[Donald Trump]] *owns 100% via revocable trust* [[CIC Digital LLC]] · 2025-12-31 · [[C97 Crypto Income During the Presidency|C97]]
+- [[Donald Trump]] *owns 69% (via DTTM Operations) of* [[DT Marks DEFI LLC]] · 2025-12-31 · [[C99 What Each Family Member Has Earned|C99]]
+- [[Donald Trump]] *owns about 70% via trust entities; family members own 30%* [[DT Marks DEFI LLC]] · 2025-12-31 · [[C97 Crypto Income During the Presidency|C97]]
+- [[Donald Trump]] *stake valued by Forbes at $1.2B (Mar 2026)* [[Trump Media & Technology Group]] · 2026-03-10 · $1.2B · [[C100 Net Worth Change & Legal Settlements Paid to Trump|C100]]
+- [[Donald Trump]] *about 41% holder via revocable trust* [[Trump Media & Technology Group]] · 2026-07 · [[C103 Insider-Trading Oversight Requests, Probes & Outcomes|C103]]
 - [[Donald Trump]] *manager, president, secretary, treasurer of* [[CIC Digital LLC]] · [[C63 Shell Entities & Ownership Chains|C63]]
 - [[Donald Trump]] *owns* [[CIC Digital LLC]] · [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]]
 - [[Donald Trump]] *owns via revocable trust* [[CIC Digital LLC]] · [[C03 The Private Dinner for Top $TRUMP Holders|C03]]
@@ -227,9 +269,10 @@ US president; he and his family hold business interests in sectors where he sign
 - [[Melania Trump]] *spouse of* [[Donald Trump]] · [[C30 Public Concern About Government Corruption & Criticism from Prominent Supporters|C30]] [[C44 Amazon's $40 Million Melania Trump Documentary Deal|C44]] [[C63 Shell Entities & Ownership Chains|C63]]
 - [[Melania Trump]] *wife of* [[Donald Trump]] · [[C02 The $MELANIA Coin & Melania Trump's NFT Income|C02]]
 
-### Regulatory (24)
+### Regulatory (28)
 
 - [[Donald Trump]] *administration keeps sanctions on* [[Bidzina Ivanishvili]] · 2025 · [[C59 Foreign Trump Organization Projects & Tariff Negotiations|C59]]
+- [[Donald Trump]] *filed 2025 annual 278e (calendar 2024)* [[Office of Government Ethics]] · 2025-06-13 · [[C96 What Trump's Own Financial Disclosures Report|C96]]
 - [[Donald Trump]] *signed* [[EO 'Accelerating Federal Permitting of Data Center Infrastructure']] · 2025-07 · [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]] [[C82 Abu Dhabi Unannounced Trump Licensing Entities & StringZ|C82]] [[C88 Damac & Hussain Sajwani Licence Fees & a Data-Centre Pledge|C88]]
 - [[Donald Trump]] *cut tariff from 32% to 19% in deal with* [[Indonesia]] · 2025-07-15 · [[C59 Foreign Trump Organization Projects & Tariff Negotiations|C59]]
 - [[Donald Trump]] *19% tariff and energy/trade deal* [[Pakistan]] · 2025-07-31 · [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs|C72]]
@@ -239,14 +282,17 @@ US president; he and his family hold business interests in sectors where he sign
 - [[Donald Trump]] *approved divestiture by executive order* [[TikTok USDS Joint Venture]] · 2025-09-25 · [[C57 The UAE Network Tahnoon, G42, MGX & Their US Deals|C57]]
 - [[Donald Trump]] *approved divestiture framework by EO* [[TikTok USDS Joint Venture]] · 2025-09-25 · [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds|C87]]
 - [[Donald Trump]] *approved road* [[Ambler Road]] · 2025-10-06 · [[C86 Major Trump Donors with Stakes in Federally Backed Companies|C86]]
+- [[Donald Trump]] *disclosed at least $82M of bond purchases (Aug-Oct 2025)* [[Office of Government Ethics]] · 2025-11 · $82M · [[C102 Trades by Officials, Family & Associates|C102]]
 - [[Donald Trump]] *granted one-year exemption after Orbán meeting* [[US one-year exemption for Hungary's Russian oil and gas]] · 2025-11-07 · [[C89 Unannounced Trump Organization Deals in Hungary & Serbia|C89]]
 - [[Donald Trump]] *allowed H200 China sales with 25% cut to US* [[Nvidia]] · 2025-12-08 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Donald Trump]] *signed* [[EO 'Ensuring a National Policy Framework for AI']] · 2025-12-11 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Donald Trump]] *raised tariffs to 50%, then cut to 18%* [[India]] · 2026-02 · [[C59 Foreign Trump Organization Projects & Tariff Negotiations|C59]]
 - [[White House Trump administration]] *staff warned not to trade on nonpublic info after his Iran pause post* [[Donald Trump]] · 2026-03-24 · [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations|C58]]
 - [[Office of Government Ethics]] *published 113-page Q1 2026 Form 278-T for* [[Donald Trump]] · 2026-05-12 · [[C20 Trump's Securities Purchases & His Truth Social Posts|C20]]
+- [[Donald Trump]] *filed 2025 annual 278e (calendar 2025)* [[Office of Government Ethics]] · 2026-06-29 · [[C96 What Trump's Own Financial Disclosures Report|C96]]
 - [[Donald Trump]] *filed 2025 annual disclosure (more than $1.4B crypto, at least $2.2B total)* [[Office of Government Ethics]] · 2026-06-30 · $2.2B · [[C29 Trump Family Wealth Gains Since the Election|C29]]
 - [[Donald Trump]] *filed 2025 disclosure with* [[Office of Government Ethics]] · 2026-06-30 · [[C42 How World Liberty Insiders Took Money Out|C42]]
+- [[Office of Government Ethics]] *released 2025 annual disclosure* [[Donald Trump]] · 2026-06-30 · [[C97 Crypto Income During the Presidency|C97]]
 - [[Office of Government Ethics]] *released 2025 disclosure listing film fee* [[Donald Trump]] · 2026-06-30 · [[C44 Amazon's $40 Million Melania Trump Documentary Deal|C44]]
 - [[Trump 2025 OGE financial disclosure]] *discloses income of* [[Donald Trump]] · 2026-06-30 · [[C01 The $TRUMP Meme Coin & Who Profited|C01]]
 - [[Donald Trump]] *appointed CFTC chair* [[Mike Selig]] · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]
@@ -262,7 +308,7 @@ US president; he and his family hold business interests in sectors where he sign
 - [[George Sorial]] *former Trump Organization EVP/chief compliance counsel* [[Donald Trump]] · [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department|C77]]
 - [[Steve Bannon]] *former chief strategist; architect of 'flood the zone' strategy* [[Donald Trump]] · [[C30 Public Concern About Government Corruption & Criticism from Prominent Supporters|C30]]
 
-### Political (141)
+### Political (148)
 
 - [[Keith Schiller]] *former bodyguard and Oval Office operations director* [[Donald Trump]] · 2017 · [[C64 Lobbyists & Intermediaries with White House Access|C64]]
 - [[Keith Schiller]] *former bodyguard; Oval Office operations director 2017* [[Donald Trump]] · 2017 · [[C83 Keith Schiller & George Sorial's Lobbying Clients|C83]]
@@ -309,10 +355,12 @@ US president; he and his family hold business interests in sectors where he sign
 - [[Tiger Woods]] *met at White House on PIF deal* [[Donald Trump]] · 2025-02-20 · [[C80 Sovereign-Fund Megadeals That Need US Approval|C80]]
 - [[Ballard Partners]] *employee pressed for crypto-reserve post; XRP named (Politico, anonymous sources)* [[Donald Trump]] · 2025-03 · [[C64 Lobbyists & Intermediaries with White House Access|C64]]
 - [[Donald Trump]] *appointed* [[Stephen Feinberg]] · 2025-03 · [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts|C74]]
+- [[Donald Trump]] *announced in Truth Social posts* [[Strategic Bitcoin Reserve]] · 2025-03-02 · [[C101 Trading Ahead of Presidential Announcements|C101]]
 - [[Donald Trump]] *signed EO 14233 establishing* [[Strategic Bitcoin Reserve]] · 2025-03-06 · [[C19 The Strategic Bitcoin Reserve, Trump Media's Bitcoin Treasury & a Cumberland Investor|C19]]
 - [[Donald Trump]] *appointed senior adviser for Africa/Arab affairs* [[Massad Boulos]] · 2025-04 · [[C66 The Extended Family's Ventures & Roles|C66]]
 - [[Donald Trump]] *signed* [[April 2025 offshore critical minerals executive order]] · 2025-04 · [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department|C77]]
 - [[Donald Trump]] *announced* [[90-day reciprocal tariff pause (9 Apr 2025)]] · 2025-04-09 · [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations|C58]]
+- [[Donald Trump]] *posted 'GREAT TIME TO BUY' at 9:37 a.m. and the pause at 1:18 p.m. ET* [[90-day reciprocal tariff pause (9 Apr 2025)]] · 2025-04-09 · [[C101 Trading Ahead of Presidential Announcements|C101]]
 - [[Donald Trump]] *boasted 'made two-and-a-half billion today'* [[Charles Schwab]] · 2025-04-09 · $2.5B · [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations|C58]]
 - [[Donald Trump]] *boasted 'made $900 million'* [[Roger Penske]] · 2025-04-09 · $900M · [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations|C58]]
 - [[Hussain Sajwani]] *Oval Office meeting and White House breakfast* [[Donald Trump]] · 2025-04-22 · [[C88 Damac & Hussain Sajwani Licence Fees & a Data-Centre Pledge|C88]]
@@ -325,6 +373,7 @@ US president; he and his family hold business interests in sectors where he sign
 - [[Hussain Sajwani]] *attended US-UAE business forum during Trump's Abu Dhabi visit* [[Donald Trump]] · 2025-05-16 · [[C88 Damac & Hussain Sajwani Licence Fees & a Data-Centre Pledge|C88]]
 - [[Qatar Boeing 747 gift]] *accepted for Air Force One use by* [[Donald Trump]] · 2025-05-21 · [[C84 Heritage Advisors & Sheikh Sultan bin Jassim|C84]]
 - [[Donald Trump]] *attended and spoke at* [[$TRUMP holders' dinner (May 22, 2025)]] · 2025-05-22 · [[C03 The Private Dinner for Top $TRUMP Holders|C03]]
+- [[Karoline Leavitt]] *defended 2025 filing on behalf of* [[Donald Trump]] · 2025-06 · [[C96 What Trump's Own Financial Disclosures Report|C96]]
 - [[Donald Trump]] *signed* [[EO 14307 'Unleashing American Drone Dominance']] · 2025-06-06 · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]
 - [[Donald Trump]] *hosted White House lunch* [[Asim Munir]] · 2025-06-18 · [[C64 Lobbyists & Intermediaries with White House Access|C64]]
 - [[Donald Trump]] *hosted for lunch* [[Asim Munir]] · 2025-06-18 · [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs|C72]]
@@ -338,11 +387,13 @@ US president; he and his family hold business interests in sectors where he sign
 - [[Donald Trump]] *signed* [[GENIUS Act]] · 2025-07-18 · [[C35 Howard Lutnick, Cantor Fitzgerald & Tether|C35]]
 - [[Donald Trump]] *signed into law* [[GENIUS Act]] · 2025-07-18 · [[C34 David Sacks The AI & Crypto Adviser & His Investments|C34]]
 - [[Donald Trump]] *created by executive order* [[White House Task Force on the 2028 Olympics]] · 2025-08 · [[C93 Umar Kremlev, the International Boxing Association & US Decisions|C93]]
+- [[Donald Trump]] *tied his salary gift to White House renovations including* [[White House ballroom]] · 2025-08-06 · [[C95 The Presidential Salary Pledge|C95]]
 - [[Asim Munir]] *presented mineral samples in Oval Office* [[Donald Trump]] · 2025-09-26 · [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs|C72]]
 - [[Donald Trump]] *demanded firing of Lisa Monaco citing contracts* [[Microsoft]] · 2025-09-26 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Donald Trump]] *signed* [[EO 'Assuring the Security of the State of Qatar']] · 2025-09-29 · [[C73 Qatar's Ties to People in & Around the Administration|C73]]
 - [[Donald Trump]] *withdrew CFTC chair nomination* [[Brian Quintenz]] · 2025-09-30 · [[C54 The Crypto Revolving Door|C54]]
 - [[Donald Trump]] *nominated as CFTC Chair* [[Mike Selig]] · 2025-10 · [[C22 Crypto.com's Deal with Trump Media|C22]] [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]] [[C54 The Crypto Revolving Door|C54]]
+- [[Donald Trump]] *posted 100% tariff on China at about 20:50 UTC* [[10 October 2025 China tariff post]] · 2025-10-10 · [[C101 Trading Ahead of Presidential Announcements|C101]]
 - [[Donald Trump]] *hosted donor dinner for* [[White House ballroom]] · 2025-10-15 · [[C69 Master Timeline Money Events & Government Actions|C69]]
 - [[Donald Trump]] *struck tungsten deal with* [[Kassym-Jomart Tokayev]] · 2025-11-06 · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]
 - [[Donald Trump]] *announced Kazakhstan tungsten deal for* [[Kaz Resources]] · 2025-11-06 · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
@@ -368,6 +419,9 @@ US president; he and his family hold business interests in sectors where he sign
 - [[Donald Trump]] *posted that CFTC exclusive authority must be kept ('major industry')* [[Commodity Futures Trading Commission]] · 2026-05-26 · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]
 - [[Donald Trump]] *publicly backed exclusive authority of* [[Commodity Futures Trading Commission]] · 2026-05-26 · [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]]
 - [[Shawn Ryan]] *former supporter turned critic; 'very self-serving'* [[Donald Trump]] · 2026-06 · [[C30 Public Concern About Government Corruption & Criticism from Prominent Supporters|C30]]
+- [[Anna Kelly]] *denied conflicts of interest on behalf of* [[Donald Trump]] · 2026-06-30 · [[C96 What Trump's Own Financial Disclosures Report|C96]]
+- [[White House Trump administration]] *denies any conflict of interest* [[Donald Trump]] · 2026-06-30 · [[C97 Crypto Income During the Presidency|C97]]
+- [[White House Trump administration]] *denies conflicts of interest* [[Donald Trump]] · 2026-06-30 · [[C11 The GENIUS & CLARITY Acts & the Family's Stablecoin|C11]] [[C98 Trump Media, Licensing & Merchandise Income During the Presidency|C98]]
 - [[White House Trump administration]] *says assets held in trust / discretionary accounts* [[Donald Trump]] · 2026-07 · [[C55 How Much Has the Trump Family Made Competing Estimates|C55]]
 - [[Donald Trump]] *cast crypto as race with* [[China]] · 2026-07-02 · [[C01 The $TRUMP Meme Coin & Who Profited|C01]]
 - [[House Judiciary Committee Democrats]] *estimated pardons erased $1.3B (2025), then $1.7B (2026)* [[Donald Trump]] · 2026-08-21 · $1.7B · [[C49 The Market for Pardon Lobbying|C49]]
@@ -402,19 +456,21 @@ US president; he and his family hold business interests in sectors where he sign
 - [[Trump-affiliated PACs]] *support* [[Donald Trump]] · [[C22 Crypto.com's Deal with Trump Media|C22]] [[C23 SEC Crypto Cases Dropped & the Firms' Donations|C23]]
 - [[Trump-Vance Inaugural Committee]] *inaugural fund for* [[Donald Trump]] · [[C23 SEC Crypto Cases Dropped & the Firms' Donations|C23]] [[C43 Overlap Between Dropped Enforcement Cases & Trump Donors|C43]]
 - [[White House Trump administration]] *defends ethics arrangements of* [[Donald Trump]] · [[C01 The $TRUMP Meme Coin & Who Profited|C01]]
-- [[White House Trump administration]] *denies conflicts of interest* [[Donald Trump]] · [[C11 The GENIUS & CLARITY Acts & the Family's Stablecoin|C11]]
 - [[White House Trump administration]] *says others trade for* [[Donald Trump]] · [[C20 Trump's Securities Purchases & His Truth Social Posts|C20]]
 - [[Ronald Lauder]] *longtime friend; suggested buying Greenland (per Bolton)* [[Donald Trump]] · first term · [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department|C77]]
 
-### Legal (34)
+### Legal (42)
 
+- [[Presidential salary (3 U.S.C. 102)]] *sets compensation of* [[Donald Trump]] · 2001-01-20 · [[C95 The Presidential Salary Pledge|C95]]
+- [[STOCK Act]] *names the President as covered executive-branch employee* [[Donald Trump]] · 2012-04-04 · [[C103 Insider-Trading Oversight Requests, Probes & Outcomes|C103]]
 - [[Donald Trump]] *pardoned* [[Charles Kushner]] · 2020-12-23 · [[C66 The Extended Family's Ventures & Roles|C66]]
 - [[James Kiley]] *personal attorney to* [[Donald Trump]] · 2020-2022 · [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]]
 - [[Dhillon Law Group]] *counsel to (campaign, Save America, transition)* [[Donald Trump]] · 2021-2025 · $13M · [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]]
 - [[Todd Blanche]] *criminal defence lawyer for* [[Donald Trump]] · 2023-2024 · [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]]
+- [[E. Jean Carroll]] *judgment creditor (stayed pending appeal; bonded)* [[Donald Trump]] · 2024 · [[C96 What Trump's Own Financial Disclosures Report|C96]]
 - [[Sullivan & Cromwell]] *appellate counsel to (hush-money, civil fraud)* [[Donald Trump]] · 2025-01 · [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]]
 - [[Donald Trump]] *pardoned* [[Ross Ulbricht]] · 2025-01-21 · [[C36 Clemency for Other Crypto & Donor-Linked Figures|C36]]
-- [[X Corp]] *settled suspension suit for ~$10M (reported)* [[Donald Trump]] · 2025-02 · $10M · [[C33 Corporate Lawsuit Settlements & Donations to Trump's Library & Ballroom|C33]]
+- [[X Corp]] *settlement reported as Trump's own income ($8M per disclosure, no pass-through noted; about $10M reported)* [[Donald Trump]] · 2025-02 · $8M · [[C100 Net Worth Change & Legal Settlements Paid to Trump|C100]]
 - [[Donald Trump]] *pardoned* [[Devon Archer]] · 2025-03 · [[C49 The Market for Pardon Lobbying|C49]]
 - [[Donald Trump]] *pardoned* [[Arthur Hayes]] · 2025-03-27 · [[C36 Clemency for Other Crypto & Donor-Linked Figures|C36]]
 - [[Donald Trump]] *pardoned* [[Benjamin Delo]] · 2025-03-27 · [[C36 Clemency for Other Crypto & Donor-Linked Figures|C36]]
@@ -432,7 +488,12 @@ US president; he and his family hold business interests in sectors where he sign
 - [[Donald Trump]] *missed 45-day reporting deadline under* [[STOCK Act]] · 2026 · [[C20 Trump's Securities Purchases & His Truth Social Posts|C20]]
 - [[Donald Trump]] *pardoned* [[Julio Herrera Velutini]] · 2026-01-15 · [[C92 The White House Ballroom Donor List|C92]]
 - [[Sistrunk Seeds v. Trump]] *emoluments suit against* [[Donald Trump]] · 2026-05-13 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]]
+- [[Donald Trump]] *settled $10B tax-leak suit for an apology and no payment* [[Internal Revenue Service]] · 2026-05-18 · [[C100 Net Worth Change & Legal Settlements Paid to Trump|C100]]
+- [[Donald Trump]] *filed administrative claims seeking about $230M; withdrawn May 2026* [[US Department of Justice (us-doj)]] · 2026-05-18 · $230M · [[C100 Net Worth Change & Legal Settlements Paid to Trump|C100]]
+- [[Letitia James]] *appealing to restore the voided civil-fraud penalty* [[Donald Trump]] · 2026-06 · [[C100 Net Worth Change & Legal Settlements Paid to Trump|C100]]
 - [[Sam Bankman-Fried]] *applied for a pardon (Trump says no)* [[Donald Trump]] · 2026-06 · [[C36 Clemency for Other Crypto & Donor-Linked Figures|C36]]
+- [[Judge Kathleen Williams]] *found the IRS suit collusive and sanctioned his counsel* [[Donald Trump]] · 2026-07 · [[C100 Net Worth Change & Legal Settlements Paid to Trump|C100]]
+- [[E. Jean Carroll]] *holds $83.3M judgment pending a Supreme Court petition* [[Donald Trump]] · 2026-07-28 · $83.3M · [[C100 Net Worth Change & Legal Settlements Paid to Trump|C100]]
 - [[Freedom of the Press Foundation]] *co-sued in Intercept v. Trump* [[Donald Trump]] · 2026-08-12 · [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations|C58]]
 - [[Freedom of the Press Foundation]] *sued over Truth API* [[Donald Trump]] · 2026-08-12 · [[C41 Trump Media Feed Subscribers, the Senators' SEC Request, Departures & the CRO Treasury|C41]]
 - [[The Intercept]] *sued over Truth API* [[Donald Trump]] · 2026-08-12 · [[C41 Trump Media Feed Subscribers, the Senators' SEC Request, Departures & the CRO Treasury|C41]]
@@ -443,7 +504,7 @@ US president; he and his family hold business interests in sectors where he sign
 - [[Donald Trump]] *commuted sentence (~$15.5M restitution voided)* [[David Gentile]] · $15.5M · [[C49 The Market for Pardon Lobbying|C49]]
 - [[James Kiley]] *has served as attorney for* [[Donald Trump]] · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]]
 
-### Media (19)
+### Media (26)
 
 - [[Center for American Progress]] *tracks 'Trump's Take' cash and gifts (~$2.9B snapshot)* [[Donald Trump]] · 2025 · [[C55 How Much Has the Trump Family Made Competing Estimates|C55]]
 - [[Donald Trump]] *posted 'THIS IS A GREAT TIME TO BUY!!!' hours before tariff pause* [[Truth Social]] · 2025-04-09 · [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations|C58]]
@@ -452,13 +513,20 @@ US president; he and his family hold business interests in sectors where he sign
 - [[CBS 60 Minutes]] *interviewed on Zhao pardon* [[Donald Trump]] · 2025-11-02 · [[C09 The Dropped Binance Case & the Pardon of Changpeng Zhao|C09]]
 - [[Donald Trump]] *said of killing 'things happen' and MBS 'knew nothing'* [[Jamal Khashoggi]] · 2025-11-18 · [[C56 Saudi Arabia Family Deals Alongside US Policy Decisions|C56]]
 - [[Mary Bruce]] *questioned on Khashoggi and family business* [[Donald Trump]] · 2025-11-18 · [[C56 Saudi Arabia Family Deals Alongside US Policy Decisions|C56]]
+- [[Queensland University of Technology]] *researchers found abnormal trading before oil-related posts* [[Donald Trump]] · 2026 · [[C101 Trading Ahead of Presidential Announcements|C101]]
 - [[Forbes]] *estimated net worth $6.5B* [[Donald Trump]] · 2026-03 · $6.5B · [[C55 How Much Has the Trump Family Made Competing Estimates|C55]]
 - [[Donald Trump]] *endorsed by ticker '(PLTR)' on Truth Social* [[Palantir Technologies (PLTR)]] · 2026-04-10 · [[C20 Trump's Securities Purchases & His Truth Social Posts|C20]]
 - [[CNBC]] *interviewed on UAE swap* [[Donald Trump]] · 2026-04-21 · [[C08 AI Chip Exports to the UAE, Stargate & a Possible Currency Swap|C08]]
-- [[Reuters]] *estimated at least $2.3B family earnings from four crypto ventures* [[Donald Trump]] · 2026-06-09 · $2.3B · [[C55 How Much Has the Trump Family Made Competing Estimates|C55]]
+- [[Reuters]] *estimated at least $2.3B family pretax earnings from four crypto ventures, Nov 2024-Apr 2026 (includes Eric Trump's American Bitcoin stake at paper value)* [[Donald Trump]] · 2026-06-09 · $2.3B · [[C55 How Much Has the Trump Family Made Competing Estimates|C55]]
+- [[Forbes]] *estimated $2.4B business revenue in 2025* [[Donald Trump]] · 2026-06-30 · [[C96 What Trump's Own Financial Disclosures Report|C96]]
+- [[Reuters]] *reported >$1.4B crypto income* [[Donald Trump]] · 2026-06-30 · [[C96 What Trump's Own Financial Disclosures Report|C96]]
+- [[Anna Kelly]] *said assets are in discretionary third-party accounts* [[Donald Trump]] · 2026-07 · [[C102 Trades by Officials, Family & Associates|C102]]
 - [[The New York Times]] *tallied at least $2.2B in 2025 income* [[Donald Trump]] · 2026-07-01 · $2.2B · [[C29 Trump Family Wealth Gains Since the Election|C29]]
 - [[Joe Kernen]] *interviewed on family crypto ventures* [[Donald Trump]] · 2026-07-02 · [[C01 The $TRUMP Meme Coin & Who Profited|C01]]
+- [[Citizens for Responsibility and Ethics in Washington]] *analysed foreign revenue (>$117M in 2025)* [[Donald Trump]] · 2026-08 · [[C96 What Trump's Own Financial Disclosures Report|C96]]
 - [[Joe Rogan]] *called family crypto deals 'nuts' and 'shady but legal'* [[Donald Trump]] · 2026-08 · [[C30 Public Concern About Government Corruption & Criticism from Prominent Supporters|C30]]
+- [[Daniel Dale]] *fact-checked salary claims of* [[Donald Trump]] · 2026-09 · [[C95 The Presidential Salary Pledge|C95]]
+- [[Forbes]] *estimated net worth at $7.3B (Sept 2025), $6.5B (Mar 2026), $7.0B (Sept 2026)* [[Donald Trump]] · 2026-09-15 · $7B · [[C100 Net Worth Change & Legal Settlements Paid to Trump|C100]]
 - [[Donald Trump]] *called excerpt 'a totally false story'* [[Vanity Fair (Condé Nast)]] · 2026-10-23 · [[C37 The Reported Hack of Jared Kushner's Phone|C37]] · unverified allegation
 - [[Citizens for Responsibility and Ethics in Washington]] *projects >$400M second-term foreign property income for* [[Donald Trump]] · [[C31 Trump Organization Real-Estate Deals in the Gulf|C31]]
 - [[Donald Trump]] *posted* [[Intel trading meme post]] · [[C20 Trump's Securities Purchases & His Truth Social Posts|C20]]

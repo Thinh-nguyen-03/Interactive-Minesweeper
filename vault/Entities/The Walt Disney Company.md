@@ -2,32 +2,38 @@
 id: "disney"
 kind: "entity"
 type: "company"
-connections: 4
-claims: 2
+connections: 6
+claims: 3
 tags:
   - "entity"
   - "type/company"
 ---
 # The Walt Disney Company
 
-Reported runner-up bidder (about $14M, per the WSJ).
+ABC's parent; wired the settlement to the Brito Law trust account on 19 Dec 2024.
 
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 2 checks |
-| Connections | 4 |
+| Appears in | 3 checks |
+| Connections | 6 |
 
 ## How Other Checks Describe It
 
+- Reported runner-up bidder (about $14M, per the WSJ).
 - Parent of ABC News
 
 ## Appears in Checks
 
 - [[C33 Corporate Lawsuit Settlements & Donations to Trump's Library & Ballroom]] · Mostly accurate
 - [[C44 Amazon's $40 Million Melania Trump Documentary Deal]] · Mostly accurate
+- [[C100 Net Worth Change & Legal Settlements Paid to Trump]] · Mostly accurate
 
 ## Relationships
+
+### Money (1)
+
+- [[The Walt Disney Company]] *wired $15M into his firm's trust account as escrow* [[Alejandro Brito]] · 2024-12-19 · $15M · [[C100 Net Worth Change & Legal Settlements Paid to Trump|C100]]
 
 ### Ownership (1)
 

@@ -259,7 +259,7 @@ Several lawyers and firms do recur across the Trump-family ventures, their count
 - [[David Sacks]] · Person
 - [[David Warrington]] · Person
 - [[Dhillon Law Group]] · Company
-- [[Donald J. Trump Presidential Library Foundation, Inc]] · Fund
+- [[Donald J. Trump Presidential Library Foundation]] · Fund
 - [[Donald Trump]] · Person
 - [[Emil Bove]] · Person
 - [[Eric Trump]] · Person
@@ -310,10 +310,10 @@ Several lawyers and firms do recur across the Trump-family ventures, their count
 - [[Jared Kushner]] *founder of* [[Affinity Partners]] · 2021 · [[C57 The UAE Network Tahnoon, G42, MGX & Their US Deals|C57]] [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]] [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds|C87]]
 - [[Martin Edelman]] *board member of* [[World Liberty Financial]] · 2025 · [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]]
 - [[Sheikh Tahnoon bin Zayed]] *backs* [[Aryam Investment 1]] · 2025-01 · [[C06 A UAE-Backed 49% Stake in World Liberty Financial|C06]] [[C07 MGX's $2 Billion Binance Investment Settled in USD1|C07]] [[C14 Steve & Zach Witkoff A Middle East Envoy & World Liberty|C14]] [[C42 How World Liberty Insiders Took Money Out|C42]] [[C57 The UAE Network Tahnoon, G42, MGX & Their US Deals|C57]] [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]] [[C63 Shell Entities & Ownership Chains|C63]] [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]]
-- [[Eric Trump]] *president and trustee of* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-05 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]] [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]] [[C66 The Extended Family's Ventures & Roles|C66]]
-- [[James Kiley]] *trustee of* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-05 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]] [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]]
-- [[Michael Boulos]] *trustee of* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-05 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]] [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]] [[C66 The Extended Family's Ventures & Roles|C66]]
-- [[Qatar Boeing 747 gift]] *slated to pass to* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2029 · [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]]
+- [[Eric Trump]] *president and trustee of* [[Donald J. Trump Presidential Library Foundation]] · 2025-05 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]] [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]] [[C66 The Extended Family's Ventures & Roles|C66]] [[C100 Net Worth Change & Legal Settlements Paid to Trump|C100]]
+- [[James Kiley]] *trustee of* [[Donald J. Trump Presidential Library Foundation]] · 2025-05 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]] [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]]
+- [[Michael Boulos]] *trustee of* [[Donald J. Trump Presidential Library Foundation]] · 2025-05 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]] [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]] [[C66 The Extended Family's Ventures & Roles|C66]]
+- [[Qatar Boeing 747 gift]] *slated to pass to* [[Donald J. Trump Presidential Library Foundation]] · 2029 · [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]]
 - [[Harmeet Dhillon]] *founder of* [[Dhillon Law Group]] · [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]]
 
 ### Family (1)

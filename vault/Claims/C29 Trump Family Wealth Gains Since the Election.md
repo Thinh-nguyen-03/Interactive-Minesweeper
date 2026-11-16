@@ -44,7 +44,8 @@ Trump's 2025 OGE disclosure (released June 30, 2026) shows crypto as his largest
 - The Forbes figures for the sons are from December 2025 and the Barron figure is from Sept/Oct 2025. They predate American Bitcoin's further collapse, so they likely overstate current values.
 - **Claimed:** Most 'American' investors lost money  
   **The record shows:** The loss data covers wallets worldwide and does not show nationality.
-- The World Liberty share of the $1.4B is contested and is given here as about $594M-$800M, not a flat $800M. Reuters/NYT report about $800M, including more than $250M from selling interests. Bloomberg, CNBC, NOTUS and The Block report about $515-529M from token sales plus about $65-66M from the WLF Holdco equity sale, about $594M in total. The difference appears to come from whether the about $197M Stablecoin Holdco sale is counted as World Liberty. This is our inference from the figures; no outlet states it. The reading matches C42.
+- The World Liberty component was given as a contested $594M-$800M range. The filing resolves it (2026-11-16): $592.4M on DT Marks DEFI's lines ($526,810,321 token proceeds plus $65,625,000 WLF Holdco equity sale) and $789.3M including DT Marks SC's $196,875,000 from Stablecoin Holdco. The reconciliation earlier marked as our inference is confirmed by the primary document.
+- 2026-11-16 (disclosure audit, C96/C97): Claimed: the World Liberty and meme-coin amounts are income 'Trump' made. The record shows: the World Liberty and stablecoin amounts are on the lines of DT Marks DEFI and DT Marks SC, which are 70% Trump's and 30% unnamed family members'; the form does not say whether they are entity totals or his share. The $635.1M meme-coin royalties go to CIC Digital, wholly his trust's, and are licence income, not coin sales.
 
 ## What Is Unproven
 
@@ -53,7 +54,8 @@ Trump's 2025 OGE disclosure (released June 30, 2026) shows crypto as his largest
 ## In More Detail
 
 - Reuters, the NYT and Bloomberg count more than $1.4B from crypto within at least $2.2B total; the AP counted about $1.2B, apparently before a Stablecoin Holdco (USD1) line of about $197M was added.
-- The World Liberty share is contested at about $594M-$800M: Reuters/NYT report about $800M (more than $520M from token sales and more than $250M from selling interests), while Bloomberg, CNBC, NOTUS and The Block report about $515-529M from token sales plus only about $65-66M from the WLF Holdco equity sale.
+- The filing itself resolves the apparent dispute over the World Liberty share: $592.4M on DT Marks DEFI's lines ($526.8M of token proceeds plus $65.6M from a WLF Holdco equity sale), or $789.3M including $196.9M to DT Marks SC from Stablecoin Holdco, the USD1 business; outlets' 'about $594M' and 'almost $800M' are these two classifications.
+- The lines belong to entities 30% owned by unnamed family members, and the form does not say whether the amounts are entity totals or Trump's share.
 - TRUMP coin licensing added about $635M. The Forbes figures are real but dated: Eric about $400M and 10x (Dec 2025), Don Jr. about $300M and 6x (Dec 2025), Barron about $150M (Oct 2025).
 - Most TRUMP coin, WLFI and ABTC buyers are underwater.
 - The filing shows revenue, not profit, so 'most profitable year' cannot be verified, and the loss data does not show investors were specifically American.
@@ -63,6 +65,12 @@ Trump's 2025 OGE disclosure (released June 30, 2026) shows crypto as his largest
 - [[C42 How World Liberty Insiders Took Money Out]] · Mostly accurate
 - [[C44 Amazon's $40 Million Melania Trump Documentary Deal]] · Mostly accurate
 - [[C55 How Much Has the Trump Family Made Competing Estimates]] · Mostly accurate
+- [[C95 The Presidential Salary Pledge]] · Partly accurate
+- [[C96 What Trump's Own Financial Disclosures Report]] · Confirmed
+- [[C97 Crypto Income During the Presidency]] · Mostly accurate
+- [[C98 Trump Media, Licensing & Merchandise Income During the Presidency]] · Mostly accurate
+- [[C99 What Each Family Member Has Earned]] · Partly accurate
+- [[C100 Net Worth Change & Legal Settlements Paid to Trump]] · Mostly accurate
 
 ## Sub-Claims
 
@@ -72,17 +80,15 @@ Trump's 2025 OGE disclosure (released June 30, 2026) shows crypto as his largest
 
 - The 927-page 2025 OGE filing was released 2026-06-30.
 - The more-than-$1.4B crypto total holds: Reuters and the NYT report it, and Bloomberg corrected its own headline from $1.2B to $1.4B after adding a Stablecoin Holdco LLC line (about $196.9M from new capital contributions and the sale of units) that it had first left out.
-- The World Liberty component is contested at about $594M-$800M. Reuters reports almost $800M from WLF: more than $520M from token sales and more than $250M from selling interests in the business.
-- Bloomberg, CNBC (via IBTimes), NOTUS and others report about $594M: roughly $515-529M from token sales plus about $65-66M from selling equity in WLF Holdco.
-- The Block itemizes $236.25M of token proceeds distributed by WLF plus $65.6M from the WLF Holdco equity sale.
-- Our own arithmetic (no outlet states it): $65.6M (WLF Holdco) + $196.9M (Stablecoin Holdco) is about $262M, which matches Reuters' 'over $250M' from selling interests.
-- So the gap appears to be whether the USD1 stablecoin entity is counted as World Liberty, not a disagreement about the crypto total.
+- The World Liberty figures differ only in classification, as the filing itself shows (C96, C97): token-sale proceeds distributed by WLF to DT Marks DEFI total $526,810,321 (lines 124.3-124.12; The Block's $236.25M is only the cash line 124.3), the WLF Holdco equity sale $65,625,000 (line 124.2) and the Stablecoin Holdco proceeds to DT Marks SC $196,875,000 (line 114).
+- $592.4M counts DT Marks DEFI only (Bloomberg, CNBC and NOTUS's 'about $594M' adds $1.8M of staking rewards); $789.3M adds DT Marks SC (Reuters and the NYT's 'almost $800M', of which $262.5M from selling interests).
+- Both entities are 70% owned through Trump's companies (DTTM Operations 69% plus a 1% member corporation) and 30% by unnamed 'Trump Family Members', and the form does not say whether the amounts on these lines are the entities' totals or Trump's share.
 - About $635M came from TRUMP meme-coin royalties via CIC Digital.
-- Roughly $594M + $197M + $635M is about $1.43B. NYT: at least $2.2B total income, up from a minimum of $622M for 2024.
+- $592.4M + $196.9M + $635.1M is $1.424B. NYT: at least $2.2B total income, up from a minimum of $622M for 2024.
 - Forbes: about $2.4B. AP: nearly $1.2B from crypto.
 - Real estate, golf and resorts brought in about $500-575M, so crypto was the largest category.
 - The form reports many entries as ranges, and all these figures are revenue/income, not profit.
-- Amounts: $1.4B; $1.2B to $1.4B; about $196.9M; about $594M-$800M; almost $800M
+- Amounts: $1.4B; $1.2B to $1.4B; about $196.9M; $526,810,321; $236.25M
 - Dates: 2026-06-30
 - Sources: [1](https://www.ksl.com/article/51583356/trump-reports-over-14-billion-in-income-from-crypto-ventures) [3](https://www.local10.com/business/2026/07/01/trump-filing-shows-he-took-in-about-12-billion-from-crypto-businesses-last-year/) [4](https://en.politis.com.cy/news/world/1016063/trump-made-at-least-22-billion-in-first-year-back-in-office-filing-shows) [6](https://news.bloomberglaw.com/crypto/trumps-1-4-billion-haul-makes-him-biggest-us-crypto-moneymaker) [20](https://theblock.co/post/406782/president-trump-financial-disclosures-hundreds-millions-crypto-related-income) [21](https://news.bloombergtax.com/crypto/trump-reports-at-least-1-2-billion-in-2025-crypto-earnings-1) [22](https://cryptobriefing.com/trump-reports-over-1-4b-in-crypto-earnings-as-bitcoin-nears-yearly-low/) [23](https://www.ibtimes.co.uk/trump-crypto-ventures-2025-earnings-1806107) [2](https://www.thestar.com.my/news/world/2026/07/01/trump-reports-over-14-billion-in-income-from-crypto-ventures)
 
@@ -187,8 +193,8 @@ Trump's 2025 OGE disclosure (released June 30, 2026) shows crypto as his largest
 
 ### Money (9)
 
-- [[$TRUMP meme coin]] *generated about $635M in licensing royalties in 2025* [[Donald Trump]] · 2025 · $635M · [[C29 Trump Family Wealth Gains Since the Election|C29]]
-- [[World Liberty Financial]] *paid about $594M-$800M (token sales plus sale of business interests; contested) in 2025* [[Donald Trump]] · 2025 · $594M · [[C29 Trump Family Wealth Gains Since the Election|C29]]
+- [[$TRUMP meme coin]] *generated $635.1M of licensing royalties to CIC Digital in 2025* [[Donald Trump]] · 2025 · $635.07M · [[C29 Trump Family Wealth Gains Since the Election|C29]]
+- [[World Liberty Financial]] *2025 receipts on Trump-family entity lines: $592.4M (DT Marks DEFI token proceeds and WLF Holdco equity sale) or $789.3M with DT Marks SC's Stablecoin Holdco line; entity totals or Trump's share not stated* [[Donald Trump]] · 2025 · $592.44M · [[C29 Trump Family Wealth Gains Since the Election|C29]]
 - [[Retail investors Trump supporters]] *lost ~94% on stock of* [[ALT5 Sigma]] · [[C13 The $1.5 Billion ALT5 Sigma Deal with World Liberty|C13]] [[C29 Trump Family Wealth Gains Since the Election|C29]]
 - [[Retail investors Trump supporters]] *lost money backing ventures of* [[Donald Trump]] · [[C29 Trump Family Wealth Gains Since the Election|C29]]
 - [[Retail investors Trump supporters]] *lost ~99% on* [[$MELANIA meme coin]] · [[C02 The $MELANIA Coin & Melania Trump's NFT Income|C02]] [[C29 Trump Family Wealth Gains Since the Election|C29]]
@@ -294,13 +300,13 @@ Direct fetches of every primary outlet I tried failed in this environment: Bloom
 #### 1. Trump's disclosure shows about $1.4B from crypto out of about $2.2B, and crypto was his biggest business. **Confirmed, with a caveat**
 - Trump's annual OGE disclosure covering calendar 2025 was released on **June 30, 2026**. It is about 927 pages.
 - **Reuters**, the NYT and Bloomberg all report **more than $1.4B** in crypto income. Bloomberg first reported $1.2B, then corrected its headline to $1.4B after adding a **Stablecoin Holdco LLC** (USD1) line of about **$196.9M** that its first count left out.
-- The **World Liberty share is contested, at about $594M-$800M** (the same reading as C42):
-  - **Reuters/NYT:** nearly **$800M from World Liberty Financial**: more than $520M from token sales and more than $250M from selling interests in the WLF business.
-  - **Bloomberg, CNBC (via IBTimes), NOTUS and others:** about **$594M**: roughly $515-529M from token sales plus only about $65-66M from selling equity in WLF Holdco. The Block itemizes $236.25M of token proceeds distributed by WLF plus $65.6M from the WLF Holdco equity sale.
-  - *Likely reconciliation (our own arithmetic; no outlet states it):* $65.6M (WLF Holdco) + $196.9M (Stablecoin Holdco) is about $262M, which matches Reuters' "over $250M". The two readings appear to differ only in whether the USD1 entity is counted as World Liberty.
+- The **World Liberty share** differs between outlets only in classification, as the filing itself shows (C96, C97):
+  - **DT Marks DEFI:** $526,810,321 of token-sale proceeds distributed by WLF (lines 124.3-124.12; The Block's $236.25M is only the cash line 124.3) plus $65,625,000 from selling WLF Holdco equity (line 124.2) = **$592.4M**. That is Bloomberg, CNBC and NOTUS's "about $594M" (with $1.8M of staking rewards).
+  - **Adding DT Marks SC:** $196,875,000 from new members of Stablecoin Holdco, the USD1 business (line 114), gives **$789.3M**. That is Reuters and the NYT's "almost $800M", including $262.5M from selling interests.
+  - Both entities are about 70% Trump's and 30% unnamed family members'. The form does not say whether the amounts are entity totals or Trump's share.
 - The rest of the breakdown:
   - about **$635M from TRUMP meme-coin licensing/royalties**, through CIC Digital and Celebration Coin.
-- The **AP** got "**nearly $1.2B**" from crypto businesses. That figure appears to leave out the Stablecoin Holdco line. The total still holds: about $594M + $197M + $635M is about $1.43B.
+- The **AP** got "**nearly $1.2B**" from crypto businesses. That figure appears to leave out the Stablecoin Holdco line. The total still holds: $592.4M + $196.9M + $635.1M is $1.424B.
 - The **NYT** put total 2025 income at **at least $2.2B**, more than triple the minimum of $622M reported for 2024. **Forbes** estimated about $2.4B.
 - Crypto was the largest category. Real estate, golf and resorts brought in about $500-575M.
 - Caveat: these numbers are revenue/income as the form reports it. The form does not show profit.
@@ -334,7 +340,8 @@ Direct fetches of every primary outlet I tried failed in this environment: Bloom
 
 ### Corrections
 - The $1.4B crypto figure is the Reuters/NYT/Bloomberg count, and it holds. The AP's about $1.2B appears to omit the roughly $197M Stablecoin Holdco line. All of these figures are revenue, not profit.
-- The World Liberty component is contested: about $594M-$800M, not a flat $800M. See sub-claim 1.
+- The World Liberty component is $592.4M on DT Marks DEFI's lines or $789.3M including DT Marks SC. The earlier "contested $594M-$800M" was resolved from the filing on 16 Nov 2026. See sub-claim 1.
+- (16 Nov 2026) These amounts sit on the lines of entities that are 30% owned by unnamed family members. The form does not say whether they are entity totals or Trump's share. The $635.1M is licence royalties to CIC Digital, not coin sales.
 - The $2.2B is a minimum figure from the NYT tally. Forbes estimated about $2.4B.
 - The Forbes figures for the sons date from Dec 2025 (Eric and Don Jr.) and for Barron from Sept/Oct 2025. They predate ABTC's deeper slide, so current values are probably lower.
 - The investor-loss data covers wallets worldwide, not specifically "American" investors.
@@ -377,3 +384,9 @@ Direct fetches of every primary outlet I tried failed in this environment: Bloom
 - **Crypto total:** the more-than-$1.4B total is upheld. Bloomberg's correction added the about $197M Stablecoin Holdco line, which also likely explains both the AP's $1.2B and Reuters' larger "interests" figure. That last link is our inference.
 - **Forbes figures:** no newer Forbes estimates for the sons or Barron were found.
 - **Method:** direct fetches of Bloomberg Law, GV Wire and CAP were blocked, so this audit relies on search-result snippets.
+
+### Audit addendum (16 Nov 2026, disclosure check)
+
+**Corrected.** The OGE PDF resolves the "$594M-$800M" range. DT Marks DEFI's lines show $526,810,321 of token proceeds and $65,625,000 from the WLF Holdco equity sale, $592.4M in total. Adding DT Marks SC's $196,875,000 from Stablecoin Holdco gives $789.3M.
+
+The ownership caveat has also been added: both entities are 70% Trump's and 30% unnamed family members', and the form does not say whether the amounts are entity totals or his share. The relationship amounts now use the exact figures.

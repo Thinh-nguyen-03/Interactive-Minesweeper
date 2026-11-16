@@ -2,8 +2,8 @@
 id: "chainalysis"
 kind: "entity"
 type: "company"
-connections: 4
-claims: 3
+connections: 5
+claims: 4
 tags:
   - "entity"
   - "type/company"
@@ -15,19 +15,21 @@ Blockchain analytics firm that estimated TRUMP fees and wallet losses
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 3 checks |
-| Connections | 4 |
+| Appears in | 4 checks |
+| Connections | 5 |
 
 ## How Other Checks Describe It
 
 - Blockchain analytics firm that counted TRUMP coin losing wallets.
 - Blockchain analytics firm; wallet profit/loss data on TRUMP
+- Blockchain analytics; $TRUMP fee data
 
 ## Appears in Checks
 
 - [[C01 The $TRUMP Meme Coin & Who Profited]] · Mostly accurate
 - [[C29 Trump Family Wealth Gains Since the Election]] · Mostly accurate
 - [[C40 Who Ran the $TRUMP & $MELANIA Launches]] · Mostly accurate
+- [[C97 Crypto Income During the Presidency]] · Mostly accurate
 
 ## Relationships
 

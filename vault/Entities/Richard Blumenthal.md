@@ -2,8 +2,8 @@
 id: "richard-blumenthal"
 kind: "entity"
 type: "person"
-connections: 28
-claims: 12
+connections: 29
+claims: 13
 tags:
   - "entity"
   - "type/person"
@@ -15,8 +15,8 @@ Senator; ranking member of the Permanent Subcommittee on Investigations
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 12 checks |
-| Connections | 28 |
+| Appears in | 13 checks |
+| Connections | 29 |
 
 ## How Other Checks Describe It
 
@@ -40,6 +40,7 @@ Senator; ranking member of the Permanent Subcommittee on Investigations
 - [[C60 Government Equity Stakes in Critical-Minerals Companies]] · Mostly accurate
 - [[C79 Lesser-Known Foreign Projects Tbilisi, South Korea, the Maldives & Vietnam]] · Mostly accurate
 - [[C80 Sovereign-Fund Megadeals That Need US Approval]] · Mostly accurate
+- [[C100 Net Worth Change & Legal Settlements Paid to Trump]] · Mostly accurate
 
 ## Relationships
 
@@ -57,7 +58,7 @@ Senator; ranking member of the Permanent Subcommittee on Investigations
 - [[Richard Blumenthal]] *urged 'searching scrutiny' of EA deal* [[Scott Bessent]] · 2025-10-14 · [[C80 Sovereign-Fund Megadeals That Need US Approval|C80]]
 - [[Richard Blumenthal]] *co-signed letters to* [[Pete Hegseth]] · 2026-01-22 · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]
 - [[Richard Blumenthal]] *letter demanding records on crypto settlements and Ryan's exit* [[Paul Atkins]] · 2026-03-30 · [[C52 Trump-Connected Lobbyists Hired by Crypto Firms & the SEC Enforcement Director's Exit|C52]]
-- [[Richard Blumenthal]] *co-signed inquiry into* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2026-07-16 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]]
+- [[Richard Blumenthal]] *co-signed inquiry into* [[Donald J. Trump Presidential Library Foundation]] · 2026-07-16 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]]
 - [[Richard Blumenthal]] *letter demanding records on 14 deals* [[Export-Import Bank of the United States]] · 2026-07-30 · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
 - [[Richard Blumenthal]] *co-signed inquiry letter* [[Base Group (Base Co., Ltd.)]] · 2026-08-06 · [[C79 Lesser-Known Foreign Projects Tbilisi, South Korea, the Maldives & Vietnam|C79]]
 - [[Richard Blumenthal]] *ranking member of* [[Senate Permanent Subcommittee on Investigations]] · [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business|C50]]

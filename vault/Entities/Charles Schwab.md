@@ -2,8 +2,8 @@
 id: "charles-schwab"
 kind: "entity"
 type: "person"
-connections: 2
-claims: 1
+connections: 3
+claims: 2
 tags:
   - "entity"
   - "type/person"
@@ -15,14 +15,23 @@ Billionaire Trump said 'made two-and-a-half billion today'
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 check |
-| Connections | 2 |
+| Appears in | 2 checks |
+| Connections | 3 |
+
+## How Other Checks Describe It
+
+- Lender of a pledged-asset line over $50M incurred in 2025
 
 ## Appears in Checks
 
 - [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations]] · Mostly accurate
+- [[C96 What Trump's Own Financial Disclosures Report]] · Confirmed
 
 ## Relationships
+
+### Money (1)
+
+- [[Charles Schwab]] *pledged-asset line, over $50M* [[Donald Trump]] · 2025 · $50M · [[C96 What Trump's Own Financial Disclosures Report|C96]]
 
 ### Political (1)
 

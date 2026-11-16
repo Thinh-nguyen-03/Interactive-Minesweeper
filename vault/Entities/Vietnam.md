@@ -2,8 +2,8 @@
 id: "vietnam"
 kind: "entity"
 type: "country"
-connections: 7
-claims: 3
+connections: 8
+claims: 4
 tags:
   - "entity"
   - "type/country"
@@ -15,12 +15,13 @@ Faced a 46% tariff threat; fast-tracked the Trump Hung Yen project
 | | |
 |---|---|
 | Type | Country |
-| Appears in | 3 checks |
-| Connections | 7 |
+| Appears in | 4 checks |
+| Connections | 8 |
 
 ## How Other Checks Describe It
 
 - Host of Hung Yen project; trade-deal partner
+- Site of the Hung Yen project
 - State
 
 ## Appears in Checks
@@ -28,6 +29,7 @@ Faced a 46% tariff threat; fast-tracked the Trump Hung Yen project
 - [[C59 Foreign Trump Organization Projects & Tariff Negotiations]] · Partly accurate
 - [[C70 What the Trump Family's Foreign Partners Obtained from Washington]] · Mostly accurate
 - [[C79 Lesser-Known Foreign Projects Tbilisi, South Korea, the Maldives & Vietnam]] · Mostly accurate
+- [[C98 Trump Media, Licensing & Merchandise Income During the Presidency]] · Mostly accurate
 
 ## Relationships
 

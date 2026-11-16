@@ -156,7 +156,7 @@ The core claims hold up. New America Acquisition I Corp filed with the SEC on Au
 - [[Associated Press]] · Media
 - [[Bloomberg]] · Media
 - [[D. Boral Capital]] · Company
-- [[Dominari Holdings Dominari Securities]] · Company
+- [[Dominari Holdings]] · Company
 - [[Donald Trump]] · Person
 - [[Donald Trump Jr]] · Person
 - [[Eric Trump]] · Person
@@ -176,11 +176,11 @@ The core claims hold up. New America Acquisition I Corp filed with the SEC on Au
 
 ### Ownership (5)
 
-- [[Dominari Holdings Dominari Securities]] *co-formed American Data Centers (later American Bitcoin) with Trump sons* [[American Bitcoin]] · 2025-02 · [[C27 The New America Acquisition I SPAC|C27]]
-- [[Donald Trump Jr]] *major shareholder* [[Dominari Holdings Dominari Securities]] · 2025-02 · [[C27 The New America Acquisition I SPAC|C27]]
-- [[Eric Trump]] *major shareholder* [[Dominari Holdings Dominari Securities]] · 2025-02 · [[C27 The New America Acquisition I SPAC|C27]]
+- [[Dominari Holdings]] *co-formed American Data Centers (later American Bitcoin) with Trump sons* [[American Bitcoin]] · 2025-02 · [[C27 The New America Acquisition I SPAC|C27]]
+- [[Donald Trump Jr]] *major shareholder* [[Dominari Holdings]] · 2025-02 · [[C27 The New America Acquisition I SPAC|C27]]
+- [[Eric Trump]] *major shareholder* [[Dominari Holdings]] · 2025-02 · [[C27 The New America Acquisition I SPAC|C27]]
 - [[Kevin McGurn]] *chairman, CEO and CFO (resigned as CEO and director Aug 5, 2026); indirect interest in 1M founder shares* [[New America Acquisition I Corp]] · 2025-07 · [[C27 The New America Acquisition I SPAC|C27]]
-- [[Kyle Wool]] *president of* [[Dominari Holdings Dominari Securities]] · [[C27 The New America Acquisition I SPAC|C27]]
+- [[Kyle Wool]] *president of* [[Dominari Holdings]] · [[C27 The New America Acquisition I SPAC|C27]]
 
 ### Family (2)
 
@@ -216,7 +216,7 @@ The core claims hold up. New America Acquisition I Corp filed with the SEC on Au
 ### Commercial (4)
 
 - [[D. Boral Capital]] *co-lead underwriter of IPO* [[New America Acquisition I Corp]] · 2025-12 · [[C27 The New America Acquisition I SPAC|C27]]
-- [[Dominari Holdings Dominari Securities]] *co-lead underwriter of IPO (Dominari Securities)* [[New America Acquisition I Corp]] · 2025-12 · [[C27 The New America Acquisition I SPAC|C27]]
+- [[Dominari Holdings]] *co-lead underwriter of IPO (Dominari Securities)* [[New America Acquisition I Corp]] · 2025-12 · [[C27 The New America Acquisition I SPAC|C27]]
 - [[New America Acquisition I Corp]] *listed $345M IPO (incl. over-allotment) as NWAX* [[New York Stock Exchange]] · 2025-12-05 · $345M · [[C27 The New America Acquisition I SPAC|C27]]
 - [[New America Acquisition I Corp]] *targets firms reliant on contracts from* [[US federal government]] · $300M · [[C27 The New America Acquisition I SPAC|C27]]
 
@@ -226,7 +226,7 @@ The core claims hold up. New America Acquisition I Corp filed with the SEC on Au
   - The Trump brothers are major Dominari shareholders.
   - Dominari Securities co-underwrote NWAX, and its president sits on the SPAC's board, so the sons may profit on both sides of the deal.
   - Dominari is also the origin of American Bitcoin.
-  - [[Dominari Holdings Dominari Securities]] [[Eric Trump]] [[Donald Trump Jr]] [[Kyle Wool]] [[New America Acquisition I Corp]] [[American Bitcoin]] · [Source](https://wendysiegelman.substack.com/p/eric-and-don-jr-partner-with-dominari)
+  - [[Dominari Holdings]] [[Eric Trump]] [[Donald Trump Jr]] [[Kyle Wool]] [[New America Acquisition I Corp]] [[American Bitcoin]] · [Source](https://wendysiegelman.substack.com/p/eric-and-don-jr-partner-with-dominari)
 - **GrabAGun / Colombier II: Don Jr.'s earlier SPAC deal**
   - An earlier 2025 SPAC deal with Don Jr. on the board of a firearms retailer, a sector shaped by federal regulation.
   - [[Donald Trump Jr]] [[GrabAGun Digital Holdings]] · [Source](https://www.gurufocus.com/news/2979153/grabagun-a-mobilefocused-online-firearms-retailer-and-defender-of-the-second-amendment-completes-business-combination-with-colombier-ii-and-will-begin-trading-on-nyse-clbr-stock-news)

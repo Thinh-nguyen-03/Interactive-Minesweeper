@@ -31,7 +31,7 @@ Acquired by Paramount Skydance (closed 2026-10-06); owns CNN
 
 ### Ownership (2)
 
-- [[Paramount]] *acquired (~$81B equity)* [[Warner Bros. Discovery]] · 2026-10-06 · $81B · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
+- [[Paramount Global]] *acquired (~$81B equity)* [[Warner Bros. Discovery]] · 2026-10-06 · $81B · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Warner Bros. Discovery]] *owns* [[CNN]] · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 
 ### Regulatory (1)

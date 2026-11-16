@@ -7,15 +7,15 @@ tags:
 
 A tool for looking into Donald Trump, his family, his cabinet and administration, and the business, financial and political connections around them.
 
-It holds 94 checks of claims in public circulation, 1,332 people and organisations, and 2,926 documented relationships between them. Each check was tested against news reports, filings and official records. 81 of the 94 checks came out confirmed or mostly accurate. Open the graph view to explore.
+It holds 103 checks of claims in public circulation, 1,391 people and organisations, and 3,121 documented relationships between them. Each check was tested against news reports, filings and official records. 88 of the 103 checks came out confirmed or mostly accurate. Open the graph view to explore.
 
 Everyone named denies wrongdoing. Nothing here is an accusation of a crime. A link between two names is a documented relationship, not proof that one caused the other.
 
 ## Verdicts
 
-- Confirmed: 2
-- Mostly accurate: 79
-- Partly accurate: 11
+- Confirmed: 3
+- Mostly accurate: 85
+- Partly accurate: 13
 - Unverified: 2
 
 ## Family Ventures & Wealth
@@ -34,6 +34,12 @@ What the Trump family's businesses, licensing entities and extended relatives ha
 - [[C66 The Extended Family's Ventures & Roles]] · Partly accurate · connection check
 - [[C69 Master Timeline Money Events & Government Actions]] · Partly accurate · connection check
 - [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival]] · Mostly accurate · connection check
+- [[C95 The Presidential Salary Pledge]] · Partly accurate
+- [[C96 What Trump's Own Financial Disclosures Report]] · Confirmed
+- [[C97 Crypto Income During the Presidency]] · Mostly accurate
+- [[C98 Trump Media, Licensing & Merchandise Income During the Presidency]] · Mostly accurate
+- [[C99 What Each Family Member Has Earned]] · Partly accurate
+- [[C100 Net Worth Change & Legal Settlements Paid to Trump]] · Mostly accurate
 
 ## Crypto Ventures
 
@@ -65,6 +71,8 @@ Trump Media & Technology Group, its financial products and backers, and the effe
 - [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles]] · Mostly accurate · connection check
 - [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief]] · Mostly accurate · connection check
 - [[C85 Yorkville's Blank-Cheque Vehicles Venezuela, Blue Water III & PlusAI]] · Partly accurate · connection check
+- [[C101 Trading Ahead of Presidential Announcements]] · Mostly accurate
+- [[C102 Trades by Officials, Family & Associates]] · Mostly accurate
 
 ## Gulf Money
 
@@ -115,6 +123,7 @@ Decisions by the SEC, the CFTC, the OCC and other agencies affecting companies w
 - [[C52 Trump-Connected Lobbyists Hired by Crypto Firms & the SEC Enforcement Director's Exit]] · Mostly accurate
 - [[C54 The Crypto Revolving Door]] · Mostly accurate
 - [[C65 Officials Who Decided Matters Involving Former Clients or Partners]] · Mostly accurate · connection check
+- [[C103 Insider-Trading Oversight Requests, Probes & Outcomes]] · Mostly accurate
 
 ## Pardons, Lobbyists & Access
 
@@ -169,20 +178,20 @@ Technology and media companies that made payments, settlements or donations whil
 ## Administration Officials
 
 - [[Steve Witkoff]]
-- [[Howard Lutnick]]
 - [[Karoline Leavitt]]
-- [[Scott Bessent]]
-- [[David Sacks]]
+- [[Howard Lutnick]]
 - [[Paul Atkins]]
+- [[Mike Selig]]
+- [[Scott Bessent]]
 
 ## Business Partners & Investors
 
-- [[Zach Witkoff]]
 - [[Sheikh Tahnoon bin Zayed]]
+- [[Zach Witkoff]]
 - [[Justin Sun]]
 - [[Changpeng Zhao]]
 - [[Kevin McGurn]]
-- [[Chase Herro]]
+- [[Elon Musk]]
 
 ## Foreign Governments & Funds
 
@@ -211,28 +220,28 @@ Technology and media companies that made payments, settlements or donations whil
 
 ## Most Connected
 
-- [[Donald Trump]] (92 checks, 294 connections)
-- [[World Liberty Financial]] (46 checks, 124 connections)
-- [[White House Trump administration]] (60 checks, 103 connections)
-- [[Securities and Exchange Commission]] (33 checks, 95 connections)
-- [[Donald Trump Jr]] (50 checks, 94 connections)
-- [[Eric Trump]] (49 checks, 89 connections)
-- [[Trump Organization]] (32 checks, 85 connections)
-- [[Elizabeth Warren]] (34 checks, 75 connections)
-- [[Jared Kushner]] (24 checks, 71 connections)
-- [[Trump Media & Technology Group]] (23 checks, 66 connections)
-- [[US Congress]] (40 checks, 63 connections)
+- [[Donald Trump]] (101 checks, 328 connections)
+- [[World Liberty Financial]] (50 checks, 128 connections)
+- [[White House Trump administration]] (66 checks, 113 connections)
+- [[Securities and Exchange Commission]] (37 checks, 105 connections)
+- [[Donald Trump Jr]] (56 checks, 102 connections)
+- [[Eric Trump]] (54 checks, 94 connections)
+- [[Trump Organization]] (36 checks, 90 connections)
+- [[Elizabeth Warren]] (37 checks, 80 connections)
+- [[Jared Kushner]] (25 checks, 73 connections)
+- [[Trump Media & Technology Group]] (28 checks, 73 connections)
+- [[US Congress]] (43 checks, 67 connections)
 - [[Steve Witkoff]] (23 checks, 56 connections)
-- [[White House ballroom]] (8 checks, 54 connections)
-- [[United Arab Emirates]] (26 checks, 49 connections)
-- [[Pentagon (Department of Defense)]] (17 checks, 43 connections)
+- [[White House ballroom]] (10 checks, 56 connections)
+- [[United Arab Emirates]] (27 checks, 50 connections)
+- [[Commodity Futures Trading Commission]] (15 checks, 45 connections)
+- [[The Wall Street Journal]] (25 checks, 45 connections)
+- [[Pentagon (Department of Defense)]] (18 checks, 44 connections)
+- [[Affinity Partners]] (20 checks, 42 connections)
+- [[Dominari Holdings]] (14 checks, 41 connections)
 - [[The New York Times]] (22 checks, 41 connections)
-- [[The Wall Street Journal]] (24 checks, 41 connections)
-- [[Affinity Partners]] (19 checks, 40 connections)
-- [[Qatar]] (15 checks, 40 connections)
-- [[Dominari Holdings Dominari Securities]] (12 checks, 39 connections)
-- [[Sheikh Tahnoon bin Zayed]] (22 checks, 38 connections)
-- [[Binance]] (18 checks, 36 connections)
+- [[Qatar]] (16 checks, 41 connections)
+- [[Sheikh Tahnoon bin Zayed]] (23 checks, 39 connections)
+- [[USD1]] (21 checks, 39 connections)
+- [[Binance]] (19 checks, 37 connections)
 - [[Cantor Fitzgerald]] (10 checks, 36 connections)
-- [[Commodity Futures Trading Commission]] (12 checks, 36 connections)
-- [[USD1]] (19 checks, 36 connections)

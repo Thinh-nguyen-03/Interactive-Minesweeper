@@ -2,8 +2,8 @@
 id: "china"
 kind: "entity"
 type: "country"
-connections: 17
-claims: 11
+connections: 18
+claims: 12
 tags:
   - "entity"
   - "type/country"
@@ -17,8 +17,8 @@ Rival invoked to justify the family's crypto and robotics ventures.
 | | |
 |---|---|
 | Type | Country |
-| Appears in | 11 checks |
-| Connections | 17 |
+| Appears in | 12 checks |
+| Connections | 18 |
 
 ## How Other Checks Describe It
 
@@ -41,6 +41,7 @@ Rival invoked to justify the family's crypto and robotics ventures.
 - [[C67 Investors Who Appear in Several Trump-Family Vehicles]] · Mostly accurate
 - [[C71 Who Bought World Liberty Tokens]] · Mostly accurate
 - [[C80 Sovereign-Fund Megadeals That Need US Approval]] · Mostly accurate
+- [[C101 Trading Ahead of Presidential Announcements]] · Mostly accurate
 
 ## Relationships
 

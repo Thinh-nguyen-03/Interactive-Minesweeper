@@ -2,24 +2,25 @@
 id: "ro-khanna"
 kind: "entity"
 type: "person"
-connections: 6
-claims: 3
+connections: 7
+claims: 4
 tags:
   - "entity"
   - "type/person"
 ---
 # Ro Khanna
 
-Ranking member, House Select Committee on the CCP.
+Representative who reported 438 transactions from 31 March to 9 April 2025
 
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 3 checks |
-| Connections | 6 |
+| Appears in | 4 checks |
+| Connections | 7 |
 
 ## How Other Checks Describe It
 
+- Ranking member, House Select Committee on the CCP.
 - Ranking member, House Select Committee on the CCP
 - Ranking member of the House China committee.
 
@@ -28,6 +29,7 @@ Ranking member, House Select Committee on the CCP.
 - [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings]] · Mostly accurate
 - [[C63 Shell Entities & Ownership Chains]] · Mostly accurate
 - [[C82 Abu Dhabi Unannounced Trump Licensing Entities & StringZ]] · Mostly accurate
+- [[C102 Trades by Officials, Family & Associates]] · Mostly accurate
 
 ## Relationships
 

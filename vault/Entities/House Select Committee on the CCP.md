@@ -37,8 +37,8 @@ Committee that probed Dominari and other underwriters over Chinese small-cap IPO
 
 - [[House Select Committee on the CCP]] *information-request letter on Chinese IPOs* [[D. Boral Capital]] · 2026-03-08 · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]
 - [[House Select Committee on the CCP]] *investigative letter on Chinese small-cap IPOs* [[D. Boral Capital]] · 2026-03-08 · [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network|C39]]
-- [[House Select Committee on the CCP]] *information-request letter on Chinese IPOs* [[Dominari Holdings Dominari Securities]] · 2026-03-08 · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]
-- [[House Select Committee on the CCP]] *investigative letter on Chinese small-cap IPOs* [[Dominari Holdings Dominari Securities]] · 2026-03-08 · [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network|C39]]
+- [[House Select Committee on the CCP]] *information-request letter on Chinese IPOs* [[Dominari Holdings]] · 2026-03-08 · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]
+- [[House Select Committee on the CCP]] *investigative letter on Chinese small-cap IPOs* [[Dominari Holdings]] · 2026-03-08 · [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network|C39]]
 - [[House Select Committee on the CCP]] *information-request letter on Chinese IPOs* [[Revere Securities LLC]] · 2026-03-08 · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]
 - [[House Select Committee on the CCP]] *investigative letter on Chinese small-cap IPOs* [[Revere Securities LLC]] · 2026-03-08 · [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network|C39]]
 

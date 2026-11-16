@@ -2,8 +2,8 @@
 id: "karoline-leavitt"
 kind: "entity"
 type: "person"
-connections: 20
-claims: 11
+connections: 23
+claims: 13
 tags:
   - "entity"
   - "type/person"
@@ -15,8 +15,8 @@ White House press secretary; said the president abides by all conflict-of-intere
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 11 checks |
-| Connections | 20 |
+| Appears in | 13 checks |
+| Connections | 23 |
 
 ## How Other Checks Describe It
 
@@ -39,15 +39,18 @@ White House press secretary; said the president abides by all conflict-of-intere
 - [[C53 The Witkoff Family's Own Gulf Money]] · Mostly accurate
 - [[C55 How Much Has the Trump Family Made Competing Estimates]] · Mostly accurate
 - [[C56 Saudi Arabia Family Deals Alongside US Policy Decisions]] · Mostly accurate
+- [[C96 What Trump's Own Financial Disclosures Report]] · Confirmed
+- [[C103 Insider-Trading Oversight Requests, Probes & Outcomes]] · Mostly accurate
 
 ## Relationships
 
-### Political (11)
+### Political (12)
 
 - [[Karoline Leavitt]] *criticized tariff display plan* [[Amazon]] · 2025-04-29 · [[C44 Amazon's $40 Million Melania Trump Documentary Deal|C44]]
 - [[Karoline Leavitt]] *defended as abiding by conflict laws* [[Donald Trump]] · 2025-05 · [[C56 Saudi Arabia Family Deals Alongside US Policy Decisions|C56]]
 - [[Karoline Leavitt]] *defended as compliant with conflict-of-interest laws* [[$TRUMP holders' dinner (May 22, 2025)]] · 2025-05-09 · [[C03 The Private Dinner for Top $TRUMP Holders|C03]]
 - [[Karoline Leavitt]] *defended legality of accepting* [[Qatar Boeing 747 gift]] · 2025-05-12 · [[C16 Qatar The Gifted Jet, Arms Sales & a Trump Golf Project|C16]]
+- [[Karoline Leavitt]] *defended 2025 filing on behalf of* [[Donald Trump]] · 2025-06 · [[C96 What Trump's Own Financial Disclosures Report|C96]]
 - [[Karoline Leavitt]] *called $3.4B tally 'absolutely absurd'* [[The New Yorker]] · 2025-08 · [[C55 How Much Has the Trump Family Made Competing Estimates|C55]]
 - [[Karoline Leavitt]] *defended* [[Pardon of Changpeng Zhao]] · 2025-10-23 · [[C09 The Dropped Binance Case & the Pardon of Changpeng Zhao|C09]]
 - [[Karoline Leavitt]] *said he obeys conflict laws* [[Donald Trump]] · [[C03 The Private Dinner for Top $TRUMP Holders|C03]]
@@ -56,10 +59,11 @@ White House press secretary; said the president abides by all conflict-of-intere
 - [[Karoline Leavitt]] *press secretary; denies pardon profiteering* [[White House Trump administration]] · [[C49 The Market for Pardon Lobbying|C49]]
 - [[Karoline Leavitt]] *speaks for* [[White House Trump administration]] · [[C03 The Private Dinner for Top $TRUMP Holders|C03]]
 
-### Media (2)
+### Media (3)
 
 - [[Andrew Egger]] *questioned about memecoin dinner* [[Karoline Leavitt]] · 2025-05-09 · [[C03 The Private Dinner for Top $TRUMP Holders|C03]]
 - [[Karoline Leavitt]] *said Witkoff warned Qatar beforehand* [[Israeli strike on Doha (Sept 9, 2025)]] · 2025-09-09 · [[C53 The Witkoff Family's Own Gulf Money|C53]]
+- [[Karoline Leavitt]] *confirmed federal investigation* [[Gabriel Perez]] · 2026-07-16 · [[C103 Insider-Trading Oversight Requests, Probes & Outcomes|C103]]
 
 ## Themes
 

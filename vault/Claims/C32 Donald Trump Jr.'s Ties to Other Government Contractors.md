@@ -228,7 +228,7 @@ Unusual Machines is the strongest example. Don Jr. joined its advisory board on 
 
 ### Ownership (9)
 
-- [[Donald Trump Jr]] *partner at* [[1789 Capital]] · 2024-11 · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]] [[C26 1789 Capital & the Vulcan Elements Magnet Deal|C26]] [[C32 Donald Trump Jr.'s Ties to Other Government Contractors|C32]] [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]] [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]] [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
+- [[Donald Trump Jr]] *partner at* [[1789 Capital]] · 2024-11 · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]] [[C26 1789 Capital & the Vulcan Elements Magnet Deal|C26]] [[C32 Donald Trump Jr.'s Ties to Other Government Contractors|C32]] [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]] [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]] [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]] [[C99 What Each Family Member Has Earned|C99]]
 - [[Alex Witkoff]] *reported co-founder of* [[Executive Branch]] · 2025-04 · [[C32 Donald Trump Jr.'s Ties to Other Government Contractors|C32]]
 - [[Chris Buskirk]] *co-founder of* [[Executive Branch]] · 2025-04 · [[C32 Donald Trump Jr.'s Ties to Other Government Contractors|C32]]
 - [[Donald Trump Jr]] *co-founder of* [[Executive Branch]] · 2025-04 · [[C32 Donald Trump Jr.'s Ties to Other Government Contractors|C32]]

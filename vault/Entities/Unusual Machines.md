@@ -4,8 +4,8 @@ kind: "entity"
 type: "company"
 aliases:
   - "Unusual Machines (UMAC)"
-connections: 22
-claims: 6
+connections: 24
+claims: 8
 tags:
   - "entity"
   - "type/company"
@@ -17,8 +17,8 @@ Drone-parts maker (UMAC); >220% run-up before Don Jr.'s Nov. 2024 appointment; D
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 6 checks |
-| Connections | 22 |
+| Appears in | 8 checks |
+| Connections | 24 |
 | Also known as | Unusual Machines (UMAC) |
 
 ## How Other Checks Describe It
@@ -27,7 +27,7 @@ Drone-parts maker (UMAC); >220% run-up before Don Jr.'s Nov. 2024 appointment; D
 - Drone-parts maker advised by Don Jr., which is seeking a Pentagon loan.
 - Drone parts maker (UMAC); Don Jr. adviser; repeat Dominari client.
 - Don Jr.-advised drone parts maker; in OSC talks, no loan announced
-- Orlando drone-component maker advised by Don Jr.
+- Drone component maker; Don Jr. is an adviser and shareholder.
 
 ## Appears in Checks
 
@@ -37,11 +37,14 @@ Drone-parts maker (UMAC); >220% run-up before Don Jr.'s Nov. 2024 appointment; D
 - [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme]] · Mostly accurate
 - [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts]] · Mostly accurate
 - [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival]] · Mostly accurate
+- [[C99 What Each Family Member Has Earned]] · Partly accurate
+- [[C102 Trades by Officials, Family & Associates]] · Mostly accurate
 
 ## Relationships
 
-### Money (5)
+### Money (6)
 
+- [[Unusual Machines]] *granted 200,000 advisory shares (331,580 held)* [[Donald Trump Jr]] · 2024-11 · [[C99 What Each Family Member Has Earned|C99]]
 - [[Unusual Machines]] *invested in merger of* [[XTEND]] · 2026-02 · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]
 - [[Unusual Machines]] *invested in financing round of* [[Aureus Greenway Holdings]] · 2026-03 · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]
 - [[Office of Strategic Capital]] *reportedly negotiating debt/equity funding with* [[Unusual Machines]] · 2026-05 · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]
@@ -56,11 +59,12 @@ Drone-parts maker (UMAC); >220% run-up before Don Jr.'s Nov. 2024 appointment; D
 
 - [[EO 14307 'Unleashing American Drone Dominance']] *favours domestic suppliers such as* [[Unusual Machines]] · 2025-06 · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]
 
-### Advisory (5)
+### Advisory (6)
 
 - [[Donald Trump Jr]] *adviser and shareholder of* [[Unusual Machines]] · 2024-11 · [[C26 1789 Capital & the Vulcan Elements Magnet Deal|C26]] [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]
 - [[Donald Trump Jr]] *advisory board member and shareholder* [[Unusual Machines]] · 2024-11-27 · [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network|C39]]
 - [[Donald Trump Jr]] *advisory board member and shareholder (331,580 shares) of* [[Unusual Machines]] · 2024-11-27 · [[C32 Donald Trump Jr.'s Ties to Other Government Contractors|C32]]
+- [[Donald Trump Jr]] *joined advisory board after 220%+ run-up* [[Unusual Machines]] · 2024-11-27 · [[C102 Trades by Officials, Family & Associates|C102]]
 - [[Donald Trump Jr]] *joined advisory board after >220% four-week run-up* [[Unusual Machines]] · 2024-11-27 · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
 - [[Donald Trump Jr]] *adviser and shareholder* [[Unusual Machines]] · [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts|C74]]
 
@@ -72,7 +76,7 @@ Drone-parts maker (UMAC); >220% run-up before Don Jr.'s Nov. 2024 appointment; D
 
 ### Commercial (6)
 
-- [[Dominari Holdings Dominari Securities]] *placement agent ($40M, $48.5M; co-agent on about $150M) and shareholder* [[Unusual Machines]] · 2025-05 · [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network|C39]]
+- [[Dominari Holdings]] *placement agent ($40M, $48.5M; co-agent on about $150M) and shareholder* [[Unusual Machines]] · 2025-05 · [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network|C39]]
 - [[Strategic Logix]] *placed $12.8M components order with* [[Unusual Machines]] · 2025-09 · $12.8M · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]
 - [[US Army]] *ordered 3,500 drone motors (value undisclosed) from* [[Unusual Machines]] · 2025-10-15 · [[C32 Donald Trump Jr.'s Ties to Other Government Contractors|C32]]
 - [[Powerus Corp]] *placed $16.9M components order with* [[Unusual Machines]] · 2026 · $16.9M · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]

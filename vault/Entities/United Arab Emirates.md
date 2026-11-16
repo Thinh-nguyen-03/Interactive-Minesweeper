@@ -6,8 +6,8 @@ aliases:
   - "Abu Dhabi"
   - "Dubai"
   - "UAE"
-connections: 49
-claims: 26
+connections: 50
+claims: 27
 tags:
   - "entity"
   - "type/country"
@@ -21,8 +21,8 @@ Gulf state tied to WLF stake, MGX, AI chips and possible currency swap.
 | | |
 |---|---|
 | Type | Country |
-| Appears in | 26 checks |
-| Connections | 49 |
+| Appears in | 27 checks |
+| Connections | 50 |
 | Also known as | Abu Dhabi; Dubai; UAE |
 
 ## How Other Checks Describe It
@@ -61,6 +61,7 @@ Gulf state tied to WLF stake, MGX, AI chips and possible currency swap.
 - [[C80 Sovereign-Fund Megadeals That Need US Approval]] · Mostly accurate
 - [[C88 Damac & Hussain Sajwani Licence Fees & a Data-Centre Pledge]] · Mostly accurate
 - [[C94 The Sale of Lukoil's Foreign Assets & the Boehly Consortium]] · Mostly accurate
+- [[C98 Trump Media, Licensing & Merchandise Income During the Presidency]] · Mostly accurate
 
 ## Relationships
 

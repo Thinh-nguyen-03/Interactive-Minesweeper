@@ -2,7 +2,7 @@
 id: "dt-marks-al-raha-beach"
 kind: "entity"
 type: "company"
-connections: 7
+connections: 8
 claims: 4
 tags:
   - "entity"
@@ -16,7 +16,7 @@ Delaware licensing entity formed July 2025 (same day as the data-centre permitti
 |---|---|
 | Type | Company |
 | Appears in | 4 checks |
-| Connections | 7 |
+| Connections | 8 |
 
 ## How Other Checks Describe It
 
@@ -36,7 +36,7 @@ Delaware licensing entity formed July 2025 (same day as the data-centre permitti
 ### Money (3)
 
 - [[Damac Properties]] *paid $5M licence fee via subsidiary* [[DT Marks Al Raha Beach LLC]] · 2025 · $5M · [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]]
-- [[Damac Sky View Real Estate LLC]] *paid licence fee (one of two $5M fees; mapping not specified)* [[DT Marks Al Raha Beach LLC]] · 2025 · $5M · [[C88 Damac & Hussain Sajwani Licence Fees & a Data-Centre Pledge|C88]]
+- [[Damac Properties Investment LLC]] *paid a $5,000,000 licence fee to (2025, per the OGE filing)* [[DT Marks Al Raha Beach LLC]] · 2025 · $5M · [[C88 Damac & Hussain Sajwani Licence Fees & a Data-Centre Pledge|C88]]
 - [[Damac Sky View Real Estate LLC]] *paid licence fee (one of two $5M fees; payer-to-payee mapping not specified)* [[DT Marks Al Raha Beach LLC]] · 2025 · $5M · [[C82 Abu Dhabi Unannounced Trump Licensing Entities & StringZ|C82]]
 
 ### Ownership (3)

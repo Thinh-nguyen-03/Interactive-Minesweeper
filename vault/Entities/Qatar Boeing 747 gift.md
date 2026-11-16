@@ -60,11 +60,11 @@ $400M luxury jet Qatar offered for use as Air Force One, later for Trump's libra
 ### Ownership (7)
 
 - [[Hamad bin Jassim Al Thani]] *reported prior owner of (P4-HBJ; current legal ownership undisclosed)* [[Qatar Boeing 747 gift]] · 2025-05 · [[C84 Heritage Advisors & Sheikh Sultan bin Jassim|C84]]
-- [[Qatar Boeing 747 gift]] *reportedly to be transferred by 2029-01-01 to* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-05-11 · [[C16 Qatar The Gifted Jet, Arms Sales & a Trump Golf Project|C16]]
-- [[Qatar Boeing 747 gift]] *reportedly to be transferred to* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-05-11 · [[C33 Corporate Lawsuit Settlements & Donations to Trump's Library & Ballroom|C33]]
-- [[Qatar Boeing 747 gift]] *slated to pass to* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2029 · [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]]
-- [[Qatar Boeing 747 gift]] *slated to transfer to* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2029-01-01 · [[C73 Qatar's Ties to People in & Around the Administration|C73]]
-- [[Qatar Boeing 747 gift]] *slated to transfer to by 2029 (not final)* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2029-01-01 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]]
+- [[Qatar Boeing 747 gift]] *reportedly to be transferred by 2029-01-01 to* [[Donald J. Trump Presidential Library Foundation]] · 2025-05-11 · [[C16 Qatar The Gifted Jet, Arms Sales & a Trump Golf Project|C16]]
+- [[Qatar Boeing 747 gift]] *reportedly to be transferred to* [[Donald J. Trump Presidential Library Foundation]] · 2025-05-11 · [[C33 Corporate Lawsuit Settlements & Donations to Trump's Library & Ballroom|C33]]
+- [[Qatar Boeing 747 gift]] *slated to pass to* [[Donald J. Trump Presidential Library Foundation]] · 2029 · [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]]
+- [[Qatar Boeing 747 gift]] *slated to transfer to* [[Donald J. Trump Presidential Library Foundation]] · 2029-01-01 · [[C73 Qatar's Ties to People in & Around the Administration|C73]]
+- [[Qatar Boeing 747 gift]] *slated to transfer to by 2029 (not final)* [[Donald J. Trump Presidential Library Foundation]] · 2029-01-01 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]]
 - [[Qatar Boeing 747 gift]] *to end up in* [[Trump presidential library]] · [[C16 Qatar The Gifted Jet, Arms Sales & a Trump Golf Project|C16]]
 
 ### Regulatory (4)

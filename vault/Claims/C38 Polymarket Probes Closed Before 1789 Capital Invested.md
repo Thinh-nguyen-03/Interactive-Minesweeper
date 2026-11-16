@@ -61,6 +61,10 @@ The dated facts in the claim hold up. Bloomberg, CNBC and others reported on 202
 - [[C25 Prediction Markets, the CFTC & Donald Trump Jr]] · Mostly accurate
 - [[C26 1789 Capital & the Vulcan Elements Magnet Deal]] · Mostly accurate
 
+## Checks That Build on This One
+
+- [[C103 Insider-Trading Oversight Requests, Probes & Outcomes]] · Mostly accurate
+
 ## Sub-Claims
 
 ### 1. The DOJ and CFTC closed their Polymarket investigations in July 2025.
@@ -211,7 +215,7 @@ The dated facts in the claim hold up. Bloomberg, CNBC and others reported on 202
 
 ### Ownership (4)
 
-- [[Donald Trump Jr]] *partner at* [[1789 Capital]] · 2024-11 · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]] [[C26 1789 Capital & the Vulcan Elements Magnet Deal|C26]] [[C32 Donald Trump Jr.'s Ties to Other Government Contractors|C32]] [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]] [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]] [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
+- [[Donald Trump Jr]] *partner at* [[1789 Capital]] · 2024-11 · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]] [[C26 1789 Capital & the Vulcan Elements Magnet Deal|C26]] [[C32 Donald Trump Jr.'s Ties to Other Government Contractors|C32]] [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]] [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]] [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]] [[C99 What Each Family Member Has Earned|C99]]
 - [[Omeed Malik]] *founder of* [[1789 Capital]] · [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]]
 - [[U.S. Attorney's Office, Southern District of New York]] *component of* [[US Department of Justice (us-doj)]] · [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]]
 - [[Shayne Coplan]] *founder and CEO* [[Polymarket]] · [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]]
@@ -229,7 +233,7 @@ The dated facts in the claim hold up. Bloomberg, CNBC and others reported on 202
 
 ### Advisory (2)
 
-- [[Donald Trump Jr]] *strategic adviser* [[Kalshi]] · 2025-01 · [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]] [[C54 The Crypto Revolving Door|C54]] [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations|C58]] [[C64 Lobbyists & Intermediaries with White House Access|C64]] [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
+- [[Donald Trump Jr]] *strategic adviser* [[Kalshi]] · 2025-01 · [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]] [[C54 The Crypto Revolving Door|C54]] [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations|C58]] [[C64 Lobbyists & Intermediaries with White House Access|C64]] [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]] [[C102 Trades by Officials, Family & Associates|C102]]
 - [[Donald Trump Jr]] *joined advisory board* [[Polymarket]] · 2025-08-26 · [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]]
 
 ### Political (9)

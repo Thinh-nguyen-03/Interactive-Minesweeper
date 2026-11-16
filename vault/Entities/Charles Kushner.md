@@ -2,8 +2,8 @@
 id: "charles-kushner"
 kind: "entity"
 type: "person"
-connections: 7
-claims: 2
+connections: 8
+claims: 3
 tags:
   - "entity"
   - "type/person"
@@ -15,17 +15,19 @@ Founder of Kushner Companies; pardoned 2020; US ambassador to France from 2025
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 2 checks |
-| Connections | 7 |
+| Appears in | 3 checks |
+| Connections | 8 |
 
 ## How Other Checks Describe It
 
+- Ambassador to France and Monaco; Jared Kushner's father.
 - Ambassador to France; Jared's father
 
 ## Appears in Checks
 
 - [[C65 Officials Who Decided Matters Involving Former Clients or Partners]] · Mostly accurate
 - [[C66 The Extended Family's Ventures & Roles]] · Partly accurate
+- [[C99 What Each Family Member Has Earned]] · Partly accurate
 
 ## Relationships
 

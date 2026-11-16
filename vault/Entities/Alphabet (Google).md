@@ -4,8 +4,9 @@ kind: "entity"
 type: "company"
 aliases:
   - "Alphabet / Google / YouTube"
-connections: 9
-claims: 5
+  - "Alphabet / YouTube"
+connections: 10
+claims: 6
 tags:
   - "entity"
   - "type/company"
@@ -17,12 +18,13 @@ YouTube paid $22M to the ballroom in a settlement; GSA OneGov Gemini deal
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 5 checks |
-| Connections | 9 |
-| Also known as | Alphabet / Google / YouTube |
+| Appears in | 6 checks |
+| Connections | 10 |
+| Also known as | Alphabet / Google / YouTube; Alphabet / YouTube |
 
 ## How Other Checks Describe It
 
+- YouTube settled Trump's suspension suit in Sept 2025 for $24.5M.
 - Paid $24.5M YouTube settlement; Google is a ballroom donor
 - Gemini for Government OneGov deal, Aug 2025.
 - $22M to ballroom via YouTube settlement
@@ -35,6 +37,7 @@ YouTube paid $22M to the ballroom in a settlement; GSA OneGov Gemini deal
 - [[C69 Master Timeline Money Events & Government Actions]] · Partly accurate
 - [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards]] · Mostly accurate
 - [[C92 The White House Ballroom Donor List]] · Partly accurate
+- [[C100 Net Worth Change & Legal Settlements Paid to Trump]] · Mostly accurate
 
 ## Relationships
 
@@ -45,6 +48,10 @@ YouTube paid $22M to the ballroom in a settlement; GSA OneGov Gemini deal
 - [[Alphabet (Google)]] *YouTube settlement, $22M to ballroom* [[White House ballroom]] · 2025-09-29 · $22M · [[C69 Master Timeline Money Events & Government Actions|C69]]
 - [[Alphabet (Google)]] *Google listed donor (amount undisclosed)* [[White House ballroom]] · 2025-10-23 · [[C33 Corporate Lawsuit Settlements & Donations to Trump's Library & Ballroom|C33]]
 - [[Alphabet (Google)]] *investor in* [[TAE Technologies]] · [[C24 Trump Media's ETFs, the TAE Fusion Merger & Its Losses|C24]]
+
+### Legal (1)
+
+- [[Alphabet (Google)]] *paid $22M for White House ballroom construction under the settlement* [[Trust for the National Mall]] · 2025-09-29 · $22M · [[C100 Net Worth Change & Legal Settlements Paid to Trump|C100]]
 
 ### Commercial (2)
 

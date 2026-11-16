@@ -33,7 +33,7 @@ Trump Organization EVP and Chief Legal Officer; Dominari selling stockholder; TV
 
 ### Ownership (1)
 
-- [[Alan Garten]] *shareholder (S-3 selling stockholder)* [[Dominari Holdings Dominari Securities]] · 2025-04 · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
+- [[Alan Garten]] *shareholder (S-3 selling stockholder)* [[Dominari Holdings]] · 2025-04 · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
 
 ### Advisory (1)
 

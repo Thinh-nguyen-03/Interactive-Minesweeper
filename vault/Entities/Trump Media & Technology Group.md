@@ -6,8 +6,8 @@ aliases:
   - "TMTG"
   - "Trump Media"
   - "Trump Media & Technology Group (DJT)"
-connections: 66
-claims: 23
+connections: 73
+claims: 28
 tags:
   - "entity"
   - "type/company"
@@ -19,8 +19,8 @@ Owner of Truth Social, largely owned by Trump's revocable trust; bitcoin treasur
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 23 checks |
-| Connections | 66 |
+| Appears in | 28 checks |
+| Connections | 73 |
 | Also known as | TMTG; Trump Media; Trump Media & Technology Group (DJT) |
 
 ## How Other Checks Describe It
@@ -56,15 +56,23 @@ Owner of Truth Social, largely owned by Trump's revocable trust; bitcoin treasur
 - [[C84 Heritage Advisors & Sheikh Sultan bin Jassim]] · Mostly accurate
 - [[C85 Yorkville's Blank-Cheque Vehicles Venezuela, Blue Water III & PlusAI]] · Partly accurate
 - [[C86 Major Trump Donors with Stakes in Federally Backed Companies]] · Partly accurate
+- [[C96 What Trump's Own Financial Disclosures Report]] · Confirmed
+- [[C98 Trump Media, Licensing & Merchandise Income During the Presidency]] · Mostly accurate
+- [[C100 Net Worth Change & Legal Settlements Paid to Trump]] · Mostly accurate
+- [[C102 Trades by Officials, Family & Associates]] · Mostly accurate
+- [[C103 Insider-Trading Oversight Requests, Probes & Outcomes]] · Mostly accurate
 
 ## Relationships
 
-### Money (22)
+### Money (25)
 
 - [[Yorkville Advisors]] *bought ~20M shares under $2.5B SEPA* [[Trump Media & Technology Group]] · 2024 · $450M · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]]
 - [[Yorkville Advisors]] *equity-line buyer, placement agent, ETF adviser* [[Trump Media & Technology Group]] · 2024-07 · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]
 - [[Trump Media & Technology Group]] *holds as treasury asset; marked-down losses drove FY2025 $712M loss* [[Bitcoin]] · 2025 · $712.3M · [[C24 Trump Media's ETFs, the TAE Fusion Merger & Its Losses|C24]]
 - [[Trump Media & Technology Group]] *granted 25,946 restricted shares (~$779K)* [[Kash Patel]] · 2025-01-28 · $779K · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
+- [[Sergio Gor]] *sold smaller holdings (reported)* [[Trump Media & Technology Group]] · 2025-03-27 · [[C102 Trades by Officials, Family & Associates|C102]]
+- [[Dan Scavino]] *sold $1M-$5M of stock (reported)* [[Trump Media & Technology Group]] · 2025-04-01 · $1M · [[C102 Trades by Officials, Family & Associates|C102]]
+- [[Pam Bondi]] *sold $1M-$5M of shares and $250K-$500K of warrants* [[Trump Media & Technology Group]] · 2025-04-02 · $1.25M · [[C102 Trades by Officials, Family & Associates|C102]]
 - [[Pam Bondi]] *sold >$1M of shares on Apr 2, 2025* [[Trump Media & Technology Group]] · 2025-04-02 · $1M · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
 - [[DRW Investments]] *bought ~$100M of shares* [[Trump Media & Technology Group]] · 2025-05 · $100M · [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]]
 - [[DRW Investments]] *bought ~4M shares* [[Trump Media & Technology Group]] · 2025-05 · $100M · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]]
@@ -84,15 +92,19 @@ Owner of Truth Social, largely owned by Trump's revocable trust; bitcoin treasur
 - [[Retail investors Trump supporters]] *funded ~$712M losses of* [[Trump Media & Technology Group]] · $712M · [[C24 Trump Media's ETFs, the TAE Fusion Merger & Its Losses|C24]] [[C29 Trump Family Wealth Gains Since the Election|C29]]
 - [[Trump Media & Technology Group]] *raised $2.5B for* [[TMTG bitcoin treasury]] · $2.5B · [[C19 The Strategic Bitcoin Reserve, Trump Media's Bitcoin Treasury & a Cumberland Investor|C19]]
 
-### Ownership (22)
+### Ownership (26)
 
 - [[Trump Media & Technology Group]] *operates* [[Truth+]] · 2024-08 · [[C21 Trump Media's Paid Feed of Market-Moving Posts & Truth+|C21]] [[C84 Heritage Advisors & Sheikh Sultan bin Jassim|C84]]
 - [[Donald J. Trump Revocable Trust]] *holds ~114.75M shares of* [[Trump Media & Technology Group]] · 2024-12 · [[C63 Shell Entities & Ownership Chains|C63]]
-- [[Donald J. Trump Revocable Trust]] *owns about 52-53% of* [[Trump Media & Technology Group]] · 2024-12 · [[C20 Trump's Securities Purchases & His Truth Social Posts|C20]]
+- [[Donald J. Trump Revocable Trust]] *owns about 41% of (52% until May 2025)* [[Trump Media & Technology Group]] · 2024-12 · [[C20 Trump's Securities Purchases & His Truth Social Posts|C20]]
+- [[Donald J. Trump Revocable Trust]] *holds 114,750,000 shares (about 41%), never sold* [[Trump Media & Technology Group]] · 2024-12-17 · [[C98 Trump Media, Licensing & Merchandise Income During the Presidency|C98]]
 - [[Trump Media & Technology Group]] *co-founded CRO treasury venture* [[Trump Media Group CRO Strategy]] · 2025-08-26 · [[C22 Crypto.com's Deal with Trump Media|C22]]
 - [[Trump Media & Technology Group]] *formed treasury vehicle* [[Trump Media Group CRO Strategy]] · 2025-08-26 · [[C63 Shell Entities & Ownership Chains|C63]]
 - [[Trump Media & Technology Group]] *launched* [[Truth Predict]] · 2025-10-28 · [[C22 Crypto.com's Deal with Trump Media|C22]]
+- [[Donald J. Trump Revocable Trust]] *holds 114,750,000 shares (Over $50M bracket)* [[Trump Media & Technology Group]] · 2025-12 · [[C96 What Trump's Own Financial Disclosures Report|C96]]
 - [[Trump Media & Technology Group]] *agreed all-stock merger valued at more than $6B with* [[TAE Technologies]] · 2025-12-18 · $6B · [[C24 Trump Media's ETFs, the TAE Fusion Merger & Its Losses|C24]]
+- [[Donald Trump]] *stake valued by Forbes at $1.2B (Mar 2026)* [[Trump Media & Technology Group]] · 2026-03-10 · $1.2B · [[C100 Net Worth Change & Legal Settlements Paid to Trump|C100]]
+- [[Donald Trump]] *about 41% holder via revocable trust* [[Trump Media & Technology Group]] · 2026-07 · [[C103 Insider-Trading Oversight Requests, Probes & Outcomes|C103]]
 - [[Trump Media & Technology Group]] *operates* [[Truth API]] · 2026-08-01 · [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations|C58]]
 - [[Donald J. Trump Revocable Trust]] *largely owns* [[Trump Media & Technology Group]] · [[C20 Trump's Securities Purchases & His Truth Social Posts|C20]]
 - [[Donald J. Trump Revocable Trust]] *largest shareholder (about 41% per Reuters)* [[Trump Media & Technology Group]] · [[C21 Trump Media's Paid Feed of Market-Moving Posts & Truth+|C21]]
@@ -108,6 +120,10 @@ Owner of Truth Social, largely owned by Trump's revocable trust; bitcoin treasur
 - [[Trump Media & Technology Group]] *owns* [[Truth Social]] · [[C20 Trump's Securities Purchases & His Truth Social Posts|C20]] [[C21 Trump Media's Paid Feed of Market-Moving Posts & Truth+|C21]]
 - [[Trump Media & Technology Group]] *owns and operates* [[Truth Social]] · [[C20 Trump's Securities Purchases & His Truth Social Posts|C20]]
 - [[Trump Media & Technology Group]] *Truth.Fi brand owner* [[Truth Social ETFs]] · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]
+
+### Family (1)
+
+- [[Donald Trump Jr]] *trustee of Trump's stake* [[Trump Media & Technology Group]] · 2026 · [[C103 Insider-Trading Oversight Requests, Probes & Outcomes|C103]]
 
 ### Regulatory (2)
 
@@ -135,7 +151,7 @@ Owner of Truth Social, largely owned by Trump's revocable trust; bitcoin treasur
 - [[Trump Media & Technology Group]] *litigation opponents sought Patomak records on TMTG* [[Patomak Global Partners]] · 2025-08 · [[C54 The Crypto Revolving Door|C54]]
 - [[Scott Glabe]] *general counsel* [[Trump Media & Technology Group]] · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]
 
-### Commercial (38)
+### Commercial (39)
 
 - [[Kash Patel]] *former director and paid consultant* [[Trump Media & Technology Group]] · 2022 · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
 - [[Crypto.com]] *ETF partnership for Truth.Fi (non-binding, then binding 2025-04-22)* [[Trump Media & Technology Group]] · 2025-03-24 · [[C22 Crypto.com's Deal with Trump Media|C22]]
@@ -154,7 +170,7 @@ Owner of Truth Social, largely owned by Trump's revocable trust; bitcoin treasur
 - [[Yorkville Securities]] *co-lead placement agent on ~$2.44B raise* [[Trump Media & Technology Group]] · 2025-05-27 · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]
 - [[Yorkville America Digital]] *sponsor of Truth Social crypto ETF filings* [[Trump Media & Technology Group]] · 2025-06 · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]]
 - [[Crypto.com]] *CRO-treasury deal partner of* [[Trump Media & Technology Group]] · 2025-08 · [[C43 Overlap Between Dropped Enforcement Cases & Trump Donors|C43]]
-- [[Trump Media & Technology Group]] *announced, then shelved* [[Truth Predict]] · 2025-10-28 · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]
+- [[Trump Media & Technology Group]] *announced, then shelved* [[Truth Predict]] · 2025-10-28 · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]] [[C102 Trades by Officials, Family & Associates|C102]]
 - [[Trump Media & Technology Group]] *party to* [[TMTG-TAE merger]] · 2025-12-18 · [[C24 Trump Media's ETFs, the TAE Fusion Merger & Its Losses|C24]] [[C41 Trump Media Feed Subscribers, the Senators' SEC Request, Departures & the CRO Treasury|C41]]
 - [[Trump Media & Technology Group]] *licenses Truth Social brand to / launched via Truth.Fi* [[Truth Social ETFs]] · 2025-12-30 · [[C24 Trump Media's ETFs, the TAE Fusion Merger & Its Losses|C24]]
 - [[Trump Media & Technology Group]] *announced shareholder token* [[TMTG shareholder rewards token]] · 2025-12-31 · [[C41 Trump Media Feed Subscribers, the Senators' SEC Request, Departures & the CRO Treasury|C41]]
@@ -162,6 +178,7 @@ Owner of Truth Social, largely owned by Trump's revocable trust; bitcoin treasur
 - [[Kevin McGurn]] *interim CEO* [[Trump Media & Technology Group]] · 2026-04-21 · [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts|C74]]
 - [[Trump Media & Technology Group]] *launched (announced 2026-07-16, live 2026-08-01)* [[Truth API]] · 2026-07-16 · [[C21 Trump Media's Paid Feed of Market-Moving Posts & Truth+|C21]]
 - [[Trump Media & Technology Group]] *partnered for Truth Predict; switched to marketing deal* [[Crypto.com]] · 2026-08 · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]
+- [[Trump Media & Technology Group]] *operates; denies insider-trading theory* [[Truth API]] · 2026-08-01 · [[C103 Insider-Trading Oversight Requests, Probes & Outcomes|C103]]
 - [[Trump Media & Technology Group]] *sells* [[Truth API]] · 2026-08-01 · [[C41 Trump Media Feed Subscribers, the Senators' SEC Request, Departures & the CRO Treasury|C41]]
 - [[Crypto.com]] *prediction-market marketing deal replacing integration* [[Trump Media & Technology Group]] · 2026-08-07 · [[C41 Trump Media Feed Subscribers, the Senators' SEC Request, Departures & the CRO Treasury|C41]]
 - [[Trump Media & Technology Group]] *mutually terminated SPAC treasury plan* [[Trump Media Group CRO Strategy]] · 2026-08-07 · [[C22 Crypto.com's Deal with Trump Media|C22]]

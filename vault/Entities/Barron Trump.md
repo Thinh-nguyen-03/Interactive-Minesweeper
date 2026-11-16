@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "Barron"
-connections: 7
-claims: 3
+connections: 8
+claims: 4
 tags:
   - "entity"
   - "type/person"
@@ -17,8 +17,8 @@ President's youngest son; Forbes estimates net worth of ~$150M.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 3 checks |
-| Connections | 7 |
+| Appears in | 4 checks |
+| Connections | 8 |
 | Also known as | Barron |
 
 ## How Other Checks Describe It
@@ -26,14 +26,20 @@ President's youngest son; Forbes estimates net worth of ~$150M.
 - Trump son; billed by WLF as its 'DeFi visionary'.
 - Trump son; Forbes estimated him at about $150M, mostly from WLF (Oct 2025).
 - Trump's youngest son; WLF co-founder
+- President's youngest son; listed as a World Liberty co-founder.
 
 ## Appears in Checks
 
 - [[C04 World Liberty Financial Founding & Token Sale]] · Mostly accurate
 - [[C29 Trump Family Wealth Gains Since the Election]] · Mostly accurate
 - [[C66 The Extended Family's Ventures & Roles]] · Partly accurate
+- [[C99 What Each Family Member Has Earned]] · Partly accurate
 
 ## Relationships
+
+### Money (1)
+
+- [[Barron Trump]] *co-founder; Forbes estimates ~$40M token proceeds* [[World Liberty Financial]] · 2025-06 · [[C99 What Each Family Member Has Earned|C99]]
 
 ### Ownership (3)
 

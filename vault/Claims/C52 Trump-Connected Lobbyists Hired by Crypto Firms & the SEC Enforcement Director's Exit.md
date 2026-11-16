@@ -70,6 +70,10 @@ The documented core holds up. Crypto.com (AP) and Gemini (an LDA record and Legi
 - [[C23 SEC Crypto Cases Dropped & the Firms' Donations]] · Mostly accurate
 - [[C22 Crypto.com's Deal with Trump Media]] · Mostly accurate
 
+## Checks That Build on This One
+
+- [[C103 Insider-Trading Oversight Requests, Probes & Outcomes]] · Mostly accurate
+
 ## Sub-Claims
 
 ### 1. Crypto.com hired Trump-connected Miller Strategies (Jeff Miller).
@@ -306,7 +310,7 @@ The documented core holds up. Crypto.com (AP) and Gemini (an LDA record and Legi
 - [[Margaret 'Meg' Ryan]] *Enforcement Director; resigned* [[Securities and Exchange Commission]] · 2026-03-16 · [[C52 Trump-Connected Lobbyists Hired by Crypto Firms & the SEC Enforcement Director's Exit|C52]]
 - [[David Woodcock]] *named Enforcement Director, effective* [[Securities and Exchange Commission]] · 2026-05-04 · [[C52 Trump-Connected Lobbyists Hired by Crypto Firms & the SEC Enforcement Director's Exit|C52]]
 - [[Commodity Futures Trading Commission]] *jointly moved to vacate $5M consent order* [[Gemini]] · 2026-05-27 · [[C52 Trump-Connected Lobbyists Hired by Crypto Firms & the SEC Enforcement Director's Exit|C52]]
-- [[Mike Selig]] *chairs* [[Commodity Futures Trading Commission]] · [[C22 Crypto.com's Deal with Trump Media|C22]] [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]] [[C52 Trump-Connected Lobbyists Hired by Crypto Firms & the SEC Enforcement Director's Exit|C52]]
+- [[Mike Selig]] *chairs* [[Commodity Futures Trading Commission]] · [[C22 Crypto.com's Deal with Trump Media|C22]] [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]] [[C52 Trump-Connected Lobbyists Hired by Crypto Firms & the SEC Enforcement Director's Exit|C52]] [[C101 Trading Ahead of Presidential Announcements|C101]]
 
 ### Political (12)
 

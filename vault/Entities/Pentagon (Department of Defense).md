@@ -11,8 +11,8 @@ aliases:
   - "Pentagon / Space Force"
   - "U.S. Department of Defense"
   - "US Department of Defense"
-connections: 43
-claims: 17
+connections: 44
+claims: 18
 tags:
   - "entity"
   - "type/government"
@@ -24,8 +24,8 @@ Awarded $24M contract to Foundation Future Industries.
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 17 checks |
-| Connections | 43 |
+| Appears in | 18 checks |
+| Connections | 44 |
 | Also known as | Department of Defense; Department of Defense / War; DoD; Pentagon; Pentagon / Department of War; Pentagon / Space Force; U.S. Department of Defense; US Department of Defense |
 
 ## How Other Checks Describe It
@@ -55,6 +55,7 @@ Awarded $24M contract to Foundation Future Industries.
 - [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department]] · Mostly accurate
 - [[C84 Heritage Advisors & Sheikh Sultan bin Jassim]] · Mostly accurate
 - [[C86 Major Trump Donors with Stakes in Federally Backed Companies]] · Partly accurate
+- [[C103 Insider-Trading Oversight Requests, Probes & Outcomes]] · Mostly accurate
 
 ## Relationships
 
@@ -78,8 +79,9 @@ Awarded $24M contract to Foundation Future Industries.
 - [[Office of Strategic Capital]] *part of* [[Pentagon (Department of Defense)]] · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]
 - [[Pentagon (Department of Defense)]] *houses* [[Office of Strategic Capital]] · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]
 
-### Regulatory (4)
+### Regulatory (5)
 
+- [[Pete Hegseth]] *issued memo barring personnel from trading on nonpublic information* [[Pentagon (Department of Defense)]] · 2026-10-22 · [[C103 Insider-Trading Oversight Requests, Probes & Outcomes|C103]]
 - [[Office of Strategic Capital]] *office within* [[Pentagon (Department of Defense)]] · [[C26 1789 Capital & the Vulcan Elements Magnet Deal|C26]]
 - [[Pentagon (Department of Defense)]] *runs* [[Drone Dominance program]] · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]
 - [[US Air Force]] *part of* [[Pentagon (Department of Defense)]] · [[C32 Donald Trump Jr.'s Ties to Other Government Contractors|C32]]

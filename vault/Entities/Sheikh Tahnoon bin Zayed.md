@@ -8,8 +8,8 @@ aliases:
   - "Tahnoon bin Zayed"
   - "Tahnoon bin Zayed Al Nahyan"
   - "spy sheikh"
-connections: 38
-claims: 22
+connections: 39
+claims: 23
 tags:
   - "entity"
   - "type/person"
@@ -23,8 +23,8 @@ UAE national security adviser, brother of the UAE president, MGX chairman; tied 
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 22 checks |
-| Connections | 38 |
+| Appears in | 23 checks |
+| Connections | 39 |
 | Also known as | Sheikh Tahnoon bin Zayed Al Nahyan; Tahnoon; Tahnoon bin Zayed; Tahnoon bin Zayed Al Nahyan; spy sheikh |
 
 ## How Other Checks Describe It
@@ -59,6 +59,7 @@ UAE national security adviser, brother of the UAE president, MGX chairman; tied 
 - [[C86 Major Trump Donors with Stakes in Federally Backed Companies]] · Partly accurate
 - [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds]] · Mostly accurate
 - [[C94 The Sale of Lukoil's Foreign Assets & the Boehly Consortium]] · Mostly accurate
+- [[C97 Crypto Income During the Presidency]] · Mostly accurate
 
 ## Relationships
 

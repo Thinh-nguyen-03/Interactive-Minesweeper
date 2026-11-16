@@ -308,7 +308,7 @@ Nearly every principal named in the claim is documented as both paying Trump, hi
 - [[OpenAI]] · Company
 - [[Oracle]] · Company
 - [[Palantir Technologies (PLTR)]] · Company
-- [[Paramount]] · Company
+- [[Paramount Global]] · Company
 - [[Pentagon (Department of Defense)]] · Government body
 - [[Peter Thiel]] · Person
 - [[Project Stargate]] · Product
@@ -338,14 +338,14 @@ Nearly every principal named in the claim is documented as both paying Trump, hi
 - [[Amazon]] *documentary licence fee to Melania (OGE)* [[Melania Trump]] · 2025 · $10.71M · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Meta]] *settled suspension suit (~$22M to library)* [[Donald Trump]] · 2025-01-29 · $25M · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[X Corp]] *settled suspension suit (reported)* [[Donald Trump]] · 2025-02 · $10M · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
-- [[Paramount]] *settled '60 Minutes' suit for (to library)* [[Donald Trump]] · 2025-07-02 · $16M · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
-- [[Affinity Partners]] *named backer of WBD bid, exited 2025-12-16* [[Paramount]] · 2025-12 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
-- [[L'imad Holding Company]] *co-financed WBD bid* [[Paramount]] · 2025-12 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
-- [[Qatar Investment Authority]] *co-financed WBD bid* [[Paramount]] · 2025-12 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
-- [[Public Investment Fund (Saudi Arabia)]] *co-financed WBD bid (with QIA, L'imad: $24B total)* [[Paramount]] · 2025-12 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
-- [[Larry Ellison]] *personally guaranteed bid equity* [[Paramount]] · 2025-12-22 · $40.4B · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
+- [[Paramount Global]] *settled '60 Minutes' suit for (to library)* [[Donald Trump]] · 2025-07-02 · $16M · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
+- [[Affinity Partners]] *named backer of WBD bid, exited 2025-12-16* [[Paramount Global]] · 2025-12 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
+- [[L'imad Holding Company]] *co-financed WBD bid* [[Paramount Global]] · 2025-12 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
+- [[Qatar Investment Authority]] *co-financed WBD bid* [[Paramount Global]] · 2025-12 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
+- [[Public Investment Fund (Saudi Arabia)]] *co-financed WBD bid (with QIA, L'imad: $24B total)* [[Paramount Global]] · 2025-12 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
+- [[Larry Ellison]] *personally guaranteed bid equity* [[Paramount Global]] · 2025-12-22 · $40.4B · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Donald Trump]] *bought shares ($1M-$5M on 2026-02-10, 278-T)* [[Nvidia]] · 2026-02-10 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
-- [[Paramount]] *paid termination fee* [[Netflix]] · 2026-02-27 · $2.8B · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
+- [[Paramount Global]] *paid termination fee* [[Netflix]] · 2026-02-27 · $2.8B · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[MGX]] *co-lead investor in $122B round* [[OpenAI]] · 2026-03-31 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Donald Trump]] *bought PLTR; touted ticker on Truth Social* [[Palantir Technologies (PLTR)]] · 2026-04-10 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Amazon]] *committed (WaPo leak)* [[White House ballroom]] · 2026-10-15 · $5M · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
@@ -369,7 +369,7 @@ Nearly every principal named in the claim is documented as both paying Trump, hi
 - [[Affinity Partners]] *~1.1% owner after buyout* [[Electronic Arts]] · 2026-08-04 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Public Investment Fund (Saudi Arabia)]] *~93.4% owner after buyout* [[Electronic Arts]] · 2026-08-04 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Silver Lake]] *~5.5% owner after buyout* [[Electronic Arts]] · 2026-08-04 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
-- [[Paramount]] *acquired (~$81B equity)* [[Warner Bros. Discovery]] · 2026-10-06 · $81B · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
+- [[Paramount Global]] *acquired (~$81B equity)* [[Warner Bros. Discovery]] · 2026-10-06 · $81B · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Josh Kushner]] *founder* [[Thrive Capital]] · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Larry Ellison]] *co-founder, largest shareholder* [[Oracle]] · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Peter Thiel]] *co-founder* [[Palantir Technologies (PLTR)]] · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
@@ -383,7 +383,7 @@ Nearly every principal named in the claim is documented as both paying Trump, hi
 
 ### Regulatory (6)
 
-- [[Federal Communications Commission]] *approved Skydance merger* [[Paramount]] · 2025-07-24 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
+- [[Federal Communications Commission]] *approved Skydance merger* [[Paramount Global]] · 2025-07-24 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Donald Trump]] *approved by executive order* [[TikTok USDS Joint Venture]] · 2025-09-25 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]] [[C86 Major Trump Donors with Stakes in Federally Backed Companies|C86]]
 - [[US Department of Commerce]] *licensed UAE/Saudi chip exports* [[Nvidia]] · 2025-11 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Donald Trump]] *allowed H200 China sales with 25% cut to US* [[Nvidia]] · 2025-12-08 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
@@ -419,10 +419,10 @@ Nearly every principal named in the claim is documented as both paying Trump, hi
 
 - **Ellison control of CNN and CBS after WBD: editorial changes, the state AG settlement's monitoring terms, and any administration contact**
   - The Ellisons won WBD after Trump called for CNN to be sold; the 12-state AG settlement includes CNN/CBS editorial monitoring.
-  - [[David Ellison]] [[Larry Ellison]] [[CNN]] [[Paramount]] [[Donald Trump]] · [Source](https://abcnews.com/Politics/wireStory/paramount-completes-takeover-warner-bros-become-hollywood-giant-137031060)
+  - [[David Ellison]] [[Larry Ellison]] [[CNN]] [[Paramount Global]] [[Donald Trump]] · [Source](https://abcnews.com/Politics/wireStory/paramount-completes-takeover-warner-bros-become-hollywood-giant-137031060)
 - **Gulf sovereign funds' $24B non-voting stake in Paramount-WBD and the no-CFIUS position**
   - PIF, QIA and an Abu Dhabi vehicle, all counterparties of Trump-family ventures, financed the deal; Paramount argued CFIUS review was not needed.
-  - [[Public Investment Fund (Saudi Arabia)]] [[Qatar Investment Authority]] [[L'imad Holding Company]] [[Paramount]] · [Source](https://deadline.com/2026/04/paramount-wbd-merger-foreign-backing-gulf-funds-deal-1236780058/)
+  - [[Public Investment Fund (Saudi Arabia)]] [[Qatar Investment Authority]] [[L'imad Holding Company]] [[Paramount Global]] · [Source](https://deadline.com/2026/04/paramount-wbd-merger-foreign-backing-gulf-funds-deal-1236780058/)
 - **1789 Capital's gain from the SpaceX IPO and xAI conversion**
   - Don Jr.'s fund held xAI/SpaceX stakes before the record June 2026 IPO; size and gain undisclosed.
   - [[1789 Capital]] [[Donald Trump Jr]] [[SpaceX]] [[xAI]] · [Source](https://www.bnnbloomberg.ca/business/2025/09/08/trump-linked-venture-fund-1789-capital-tops-us1-billion-in-assets/)

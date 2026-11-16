@@ -308,7 +308,7 @@ The SPAC web is real and larger than the claim: Yorkville controls four blank-ch
 - [[D. Boral Acquisition I]] · Company
 - [[D. Boral Capital]] · Company
 - [[Devin Nunes]] · Person
-- [[Dominari Holdings Dominari Securities]] · Company
+- [[Dominari Holdings]] · Company
 - [[Donald Trump]] · Person
 - [[Donald Trump Jr]] · Person
 - [[Eric Trump]] · Person
@@ -412,7 +412,7 @@ The SPAC web is real and larger than the claim: Yorkville controls four blank-ch
 - [[Mark Angelo]] *director of (single-source)* [[Blue Water Acquisition Corp III (BLUW)]] · 2025-11 · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]
 - [[Scott Glabe]] *director of (single-source)* [[Blue Water Acquisition Corp III (BLUW)]] · 2025-11 · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]
 - [[D. Boral Capital]] *co-lead book-runner of $345M IPO* [[New America Acquisition I Corp]] · 2025-12-05 · $345M · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]
-- [[Dominari Holdings Dominari Securities]] *co-lead book-runner of $345M IPO* [[New America Acquisition I Corp]] · 2025-12-05 · $345M · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]
+- [[Dominari Holdings]] *co-lead book-runner of $345M IPO* [[New America Acquisition I Corp]] · 2025-12-05 · $345M · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]
 - [[Kevin McGurn]] *director of* [[D. Boral Acquisition I]] · 2026 · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]
 - [[Stefan Passantino]] *director of* [[JFB Construction]] · 2026 · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]
 - [[Trump Organization]] *spokesperson says sons have no involvement with Yorkville* [[Yorkville Advisors]] · 2026-01 · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]
@@ -430,7 +430,7 @@ The SPAC web is real and larger than the claim: Yorkville controls four blank-ch
 - [[Yorkville Acquisition Corp]] *business combination terminated* [[Trump Media Group CRO Strategy]] · 2026-08-07 · [[C41 Trump Media Feed Subscribers, the Senators' SEC Request, Departures & the CRO Treasury|C41]] [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]
 - [[Texas Ventures Acquisition III Corp]] *merger agreement at $800M pre-money* [[Plus Automation Inc. (PlusAI)]] · 2026-09-03 · $800M · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]
 - [[Clear Street]] *underwriter of stock offerings* [[Strategy (MicroStrategy)]] · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]
-- [[Kyle Wool]] *president of Dominari Securities* [[Dominari Holdings Dominari Securities]] · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]
+- [[Kyle Wool]] *president of Dominari Securities* [[Dominari Holdings]] · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]
 - [[Lawrence Glick]] *EVP of Development* [[Trump Organization]] · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]] [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
 - [[Troy Rillo]] *co-CEO and director* [[Yorkville Securities]] · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]
 

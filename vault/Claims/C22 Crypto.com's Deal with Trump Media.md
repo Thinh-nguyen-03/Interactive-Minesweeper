@@ -204,7 +204,7 @@ Each core fact is documented. Crypto.com agreed on 2025-08-26 to take $50M of TM
 - [[Crypto.com]] *applied for* [[Crypto.com national trust bank charter]] · [[C22 Crypto.com's Deal with Trump Media|C22]]
 - [[Donald Trump]] *appoints head of* [[Office of the Comptroller of the Currency]] · [[C12 World Liberty's Bank Charter Application at the OCC|C12]] [[C22 Crypto.com's Deal with Trump Media|C22]]
 - [[Donald Trump]] *nominated to SEC* [[Paul Atkins]] · [[C22 Crypto.com's Deal with Trump Media|C22]]
-- [[Mike Selig]] *chairs* [[Commodity Futures Trading Commission]] · [[C22 Crypto.com's Deal with Trump Media|C22]] [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]] [[C52 Trump-Connected Lobbyists Hired by Crypto Firms & the SEC Enforcement Director's Exit|C52]]
+- [[Mike Selig]] *chairs* [[Commodity Futures Trading Commission]] · [[C22 Crypto.com's Deal with Trump Media|C22]] [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]] [[C52 Trump-Connected Lobbyists Hired by Crypto Firms & the SEC Enforcement Director's Exit|C52]] [[C101 Trading Ahead of Presidential Announcements|C101]]
 - [[Office of the Comptroller of the Currency]] *provisionally approved* [[Crypto.com national trust bank charter]] · [[C22 Crypto.com's Deal with Trump Media|C22]]
 - [[Paul Atkins]] *chairs* [[Securities and Exchange Commission]] · [[C21 Trump Media's Paid Feed of Market-Moving Posts & Truth+|C21]] [[C22 Crypto.com's Deal with Trump Media|C22]] [[C40 Who Ran the $TRUMP & $MELANIA Launches|C40]] [[C43 Overlap Between Dropped Enforcement Cases & Trump Donors|C43]]
 - [[Paul Atkins]] *pro-crypto leader of* [[Securities and Exchange Commission]] · [[C22 Crypto.com's Deal with Trump Media|C22]]

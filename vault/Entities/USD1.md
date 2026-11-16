@@ -4,8 +4,8 @@ kind: "entity"
 type: "asset"
 aliases:
   - "USD1 stablecoin"
-connections: 36
-claims: 19
+connections: 39
+claims: 21
 tags:
   - "entity"
   - "type/asset"
@@ -17,8 +17,8 @@ World Liberty Financial's dollar stablecoin; used for MGX's $2B Binance deal.
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 19 checks |
-| Connections | 36 |
+| Appears in | 21 checks |
+| Connections | 39 |
 | Also known as | USD1 stablecoin |
 
 ## How Other Checks Describe It
@@ -50,6 +50,8 @@ World Liberty Financial's dollar stablecoin; used for MGX's $2B Binance deal.
 - [[C70 What the Trump Family's Foreign Partners Obtained from Washington]] · Mostly accurate
 - [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs]] · Mostly accurate
 - [[C90 World Liberty's Token-Swap Pitch & Its Partners]] · Mostly accurate
+- [[C96 What Trump's Own Financial Disclosures Report]] · Confirmed
+- [[C97 Crypto Income During the Presidency]] · Mostly accurate
 
 ## Relationships
 
@@ -61,8 +63,9 @@ World Liberty Financial's dollar stablecoin; used for MGX's $2B Binance deal.
 - [[USD1]] *earns ~$159M a year for* [[World Liberty Financial]] · $159M · [[C10 Binance's Role in the Growth of USD1|C10]]
 - [[USD1]] *reserve interest flows to* [[World Liberty Financial]] · [[C07 MGX's $2 Billion Binance Investment Settled in USD1|C07]] [[C10 Binance's Role in the Growth of USD1|C10]]
 
-### Ownership (4)
+### Ownership (5)
 
+- [[Stablecoin Holdco LLC]] *runs the business of* [[USD1]] · 2025 · [[C96 What Trump's Own Financial Disclosures Report|C96]]
 - [[World Liberty Financial]] *issues and earns reserve yield on* [[USD1]] · 2025-03-25 · [[C07 MGX's $2 Billion Binance Investment Settled in USD1|C07]]
 - [[Binance]] *holds ~85-87% of supply of* [[USD1]] · 2026-02-09 · $4.7B · [[C10 Binance's Role in the Growth of USD1|C10]]
 - [[SC Financial Technologies]] *co-owns brand with WLF* [[USD1]] · [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs|C72]]

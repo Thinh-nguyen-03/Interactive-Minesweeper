@@ -51,7 +51,7 @@ Qatari sovereign wealth fund; invested in Affinity (part of about $1.5B, Dec 202
 - [[Qatar Investment Authority]] *invested (with Lunate, about $1.5B combined) in* [[Affinity Partners]] · 2024-12 · [[C15 Jared Kushner, Affinity Partners & Gulf Sovereign Funds|C15]]
 - [[Qatar Investment Authority]] *invested (with Lunate, ~$1.5B)* [[Affinity Partners]] · 2024-12 · $1.5B · [[C73 Qatar's Ties to People in & Around the Administration|C73]]
 - [[Qatar Investment Authority]] *invested (with Lunate) in* [[Affinity Partners]] · 2024-12-20 · [[C57 The UAE Network Tahnoon, G42, MGX & Their US Deals|C57]]
-- [[Qatar Investment Authority]] *co-financed WBD bid* [[Paramount]] · 2025-12 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
+- [[Qatar Investment Authority]] *co-financed WBD bid* [[Paramount Global]] · 2025-12 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Qatar Investment Authority]] *non-voting equity backer of WBD bid* [[Paramount Skydance]] · 2025-12 · [[C73 Qatar's Ties to People in & Around the Administration|C73]]
 - [[Jared Kushner]] *sought new capital from (NYT)* [[Qatar Investment Authority]] · 2026-03 · [[C73 Qatar's Ties to People in & Around the Administration|C73]]
 - [[Qatar Investment Authority]] *LP* [[Affinity Partners]] · [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]]

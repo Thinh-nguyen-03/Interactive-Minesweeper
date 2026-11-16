@@ -26,7 +26,7 @@ Investor charged by the SEC in 2018 over a pump-and-dump (settled, no admission)
 
 ### Money (1)
 
-- [[Barry Honig]] *historic investor in predecessor Spherix (2013-14)* [[Dominari Holdings Dominari Securities]] · 2013 · [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network|C39]]
+- [[Barry Honig]] *historic investor in predecessor Spherix (2013-14)* [[Dominari Holdings]] · 2013 · [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network|C39]]
 
 ### Legal (1)
 

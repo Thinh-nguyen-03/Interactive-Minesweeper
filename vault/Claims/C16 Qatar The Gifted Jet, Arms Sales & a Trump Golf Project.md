@@ -156,7 +156,7 @@ Documented: the ~$400M Qatari Boeing 747-8 was accepted by the Pentagon on 21 Ma
 - [[BAE Systems]] · Company
 - [[Dar Global]] · Company
 - [[Defense Security Cooperation Agency]] · Government body
-- [[Donald J. Trump Presidential Library Foundation, Inc]] · Fund
+- [[Donald J. Trump Presidential Library Foundation]] · Fund
 - [[Donald Trump]] · Person
 - [[Eric Trump]] · Person
 - [[General Atomics Aeronautical Systems]] · Company
@@ -196,7 +196,7 @@ Documented: the ~$400M Qatari Boeing 747-8 was accepted by the Pentagon on 21 Ma
 
 ### Ownership (7)
 
-- [[Qatar Boeing 747 gift]] *reportedly to be transferred by 2029-01-01 to* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-05-11 · [[C16 Qatar The Gifted Jet, Arms Sales & a Trump Golf Project|C16]]
+- [[Qatar Boeing 747 gift]] *reportedly to be transferred by 2029-01-01 to* [[Donald J. Trump Presidential Library Foundation]] · 2025-05-11 · [[C16 Qatar The Gifted Jet, Arms Sales & a Trump Golf Project|C16]]
 - [[Donald Trump]] *owns* [[Trump Organization]] · [[C16 Qatar The Gifted Jet, Arms Sales & a Trump Golf Project|C16]] [[C17 Trump-Branded Merchandise & the T1 Phone|C17]]
 - [[Eric Trump]] *executive vice president of* [[Trump Organization]] · [[C16 Qatar The Gifted Jet, Arms Sales & a Trump Golf Project|C16]] [[C59 Foreign Trump Organization Projects & Tariff Negotiations|C59]]
 - [[Isaac Saul]] *founded* [[Tangle News]] · [[C16 Qatar The Gifted Jet, Arms Sales & a Trump Golf Project|C16]] [[C30 Public Concern About Government Corruption & Criticism from Prominent Supporters|C30]]

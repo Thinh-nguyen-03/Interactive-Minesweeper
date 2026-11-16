@@ -33,7 +33,7 @@ Trump Organization EVP of Development; Dominari selling stockholder; TVA III dir
 
 ### Ownership (1)
 
-- [[Lawrence Glick]] *shareholder (S-3 selling stockholder)* [[Dominari Holdings Dominari Securities]] · 2025-04 · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
+- [[Lawrence Glick]] *shareholder (S-3 selling stockholder)* [[Dominari Holdings]] · 2025-04 · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
 
 ### Advisory (1)
 

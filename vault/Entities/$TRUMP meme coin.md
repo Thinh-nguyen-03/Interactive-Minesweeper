@@ -9,9 +9,10 @@ aliases:
   - "$TRUMP memecoin"
   - "GetTrumpMemes.com"
   - "Official Trump"
+  - "TRUMP meme coin"
   - "Trump coin"
-connections: 34
-claims: 11
+connections: 36
+claims: 13
 tags:
   - "entity"
   - "type/asset"
@@ -23,9 +24,9 @@ Official Trump meme coin launched two days before the inauguration; ~$600M to Tr
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 11 checks |
-| Connections | 34 |
-| Also known as | $TRUMP; $TRUMP (Official Trump meme coin); $TRUMP (Official Trump); $TRUMP memecoin; GetTrumpMemes.com; Official Trump; Trump coin |
+| Appears in | 13 checks |
+| Connections | 36 |
+| Also known as | $TRUMP; $TRUMP (Official Trump meme coin); $TRUMP (Official Trump); $TRUMP memecoin; GetTrumpMemes.com; Official Trump; TRUMP meme coin; Trump coin |
 
 ## How Other Checks Describe It
 
@@ -48,12 +49,15 @@ Official Trump meme coin launched two days before the inauguration; ~$600M to Tr
 - [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles]] · Mostly accurate
 - [[C63 Shell Entities & Ownership Chains]] · Mostly accurate
 - [[C67 Investors Who Appear in Several Trump-Family Vehicles]] · Mostly accurate
+- [[C96 What Trump's Own Financial Disclosures Report]] · Confirmed
+- [[C97 Crypto Income During the Presidency]] · Mostly accurate
 
 ## Relationships
 
-### Money (12)
+### Money (13)
 
-- [[$TRUMP meme coin]] *generated about $635M in licensing royalties in 2025* [[Donald Trump]] · 2025 · $635M · [[C29 Trump Family Wealth Gains Since the Election|C29]]
+- [[$TRUMP meme coin]] *royalties of $635.1M under 'Celebration Coins' license (2025)* [[CIC Digital LLC]] · 2025 · $635.07M · [[C97 Crypto Income During the Presidency|C97]]
+- [[$TRUMP meme coin]] *generated $635.1M of licensing royalties to CIC Digital in 2025* [[Donald Trump]] · 2025 · $635.07M · [[C29 Trump Family Wealth Gains Since the Election|C29]]
 - [[$TRUMP meme coin]] *~$635M royalties in 2025 via CIC Digital* [[Donald Trump]] · 2025 · $635M · [[C55 How Much Has the Trump Family Made Competing Estimates|C55]]
 - [[$TRUMP meme coin]] *generated at least $350M in token sales and fees for operating entities (FT estimate)* [[Fight Fight Fight LLC]] · 2025-03 · $350M · [[C40 Who Ran the $TRUMP & $MELANIA Launches|C40]]
 - [[Freight Technologies (Fr8Tech)]] *$20M TRUMP treasury plan* [[$TRUMP meme coin]] · 2025-04 · $20M · [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]]
@@ -97,9 +101,10 @@ Official Trump meme coin launched two days before the inauguration; ~$600M to Tr
 - [[Nansen]] *counted about 989K wallets in loss, about $3.8B* [[$TRUMP meme coin]] · 2026-06 · $3.81B · [[C29 Trump Family Wealth Gains Since the Election|C29]]
 - [[Chainalysis]] *estimated about $94M in early fees and about $320M by May 2025* [[$TRUMP meme coin]] · [[C40 Who Ran the $TRUMP & $MELANIA Launches|C40]]
 
-### Commercial (10)
+### Commercial (11)
 
 - [[CIC Digital LLC]] *receives royalties from* [[$TRUMP meme coin]] · 2025 · [[C29 Trump Family Wealth Gains Since the Election|C29]]
+- [[$TRUMP meme coin]] *generated royalties for* [[CIC Digital LLC]] · 2025 · [[C96 What Trump's Own Financial Disclosures Report|C96]]
 - [[Tuttle Capital Management]] *filed 2x leveraged ETF* [[$TRUMP meme coin]] · 2025-01 · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]]
 - [[Donald Trump]] *launched* [[$TRUMP meme coin]] · 2025-01-17 · [[C01 The $TRUMP Meme Coin & Who Profited|C01]] [[C02 The $MELANIA Coin & Melania Trump's NFT Income|C02]]
 - [[Donald Trump]] *launched and promoted* [[$TRUMP meme coin]] · 2025-01-17 · [[C01 The $TRUMP Meme Coin & Who Profited|C01]] [[C40 Who Ran the $TRUMP & $MELANIA Launches|C40]]

@@ -2,8 +2,8 @@
 id: "todd-blanche"
 kind: "entity"
 type: "person"
-connections: 17
-claims: 8
+connections: 19
+claims: 9
 tags:
   - "entity"
   - "type/person"
@@ -15,8 +15,8 @@ Deputy AG; acting AG from Apr 2, 2026; confirmed AG Aug 8, 2026, sworn in Aug 10
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 8 checks |
-| Connections | 17 |
+| Appears in | 9 checks |
+| Connections | 19 |
 
 ## How Other Checks Describe It
 
@@ -36,14 +36,16 @@ Deputy AG; acting AG from Apr 2, 2026; confirmed AG Aug 8, 2026, sworn in Aug 10
 - [[C76 Russia-Linked Money Around the Family & the Envoys]] · Partly accurate
 - [[C90 World Liberty's Token-Swap Pitch & Its Partners]] · Mostly accurate
 - [[C93 Umar Kremlev, the International Boxing Association & US Decisions]] · Partly accurate
+- [[C103 Insider-Trading Oversight Requests, Probes & Outcomes]] · Mostly accurate
 
 ## Relationships
 
-### Regulatory (4)
+### Regulatory (5)
 
 - [[Todd Blanche]] *disbanded by memo* [[National Cryptocurrency Enforcement Team]] · 2025-04-07 · [[C36 Clemency for Other Crypto & Donor-Linked Figures|C36]]
 - [[Todd Blanche]] *disbanded via memo* [[National Cryptocurrency Enforcement Team]] · 2025-04-07 · [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]]
 - [[Todd Blanche]] *disbanded via memo while holding crypto* [[National Cryptocurrency Enforcement Team]] · 2025-04-07 · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
+- [[Todd Blanche]] *memo disbanding National Cryptocurrency Enforcement Team* [[US Department of Justice (us-doj)]] · 2025-04-07 · [[C103 Insider-Trading Oversight Requests, Probes & Outcomes|C103]]
 - [[Todd Blanche]] *addressee of May and Sept 2026 WLF letters; no public answer* [[US Department of Justice (us-doj)]] · 2026 · [[C71 Who Bought World Liberty Tokens|C71]]
 
 ### Political (3)
@@ -52,11 +54,12 @@ Deputy AG; acting AG from Apr 2, 2026; confirmed AG Aug 8, 2026, sworn in Aug 10
 - [[Jack Reed]] *May 2026 letter seeking investigation of WLF-AB tie* [[Todd Blanche]] · 2026-05-13 · [[C90 World Liberty's Token-Swap Pitch & Its Partners|C90]]
 - [[Todd Blanche]] *Deputy AG; acting AG from Apr 2, 2026; confirmed AG Aug 8, 2026, sworn in Aug 10, 2026* [[US Department of Justice (us-doj)]] · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
 
-### Legal (5)
+### Legal (6)
 
 - [[Todd Blanche]] *criminal defence lawyer for* [[Donald Trump]] · 2023-2024 · [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]]
 - [[Todd Blanche]] *fired* [[Liz Oyer]] · 2025-03-07 · [[C49 The Market for Pardon Lobbying|C49]]
 - [[Campaign Legal Center]] *filed OIG complaint over crypto holdings* [[Todd Blanche]] · 2026-01 · [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]]
+- [[Sean Casten]] *urged DOJ to prioritise prediction-market insider cases* [[Todd Blanche]] · 2026-05-12 · [[C103 Insider-Trading Oversight Requests, Probes & Outcomes|C103]]
 - [[Todd Blanche]] *declined to investigate wedding payments to* [[Donald Trump Jr]] · 2026-09-16 · [[C76 Russia-Linked Money Around the Family & the Envoys|C76]]
 - [[Todd Blanche]] *declined to investigate ('What is there to investigate')* [[Umar Kremlev]] · 2026-09-16 · [[C93 Umar Kremlev, the International Boxing Association & US Decisions|C93]]
 

@@ -4,8 +4,8 @@ kind: "entity"
 type: "company"
 aliases:
   - "Binance US"
-connections: 36
-claims: 18
+connections: 37
+claims: 19
 tags:
   - "entity"
   - "type/company"
@@ -17,8 +17,8 @@ Largest crypto exchange; SEC case dropped; received MGX's $2B in USD1; promoted 
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 18 checks |
-| Connections | 36 |
+| Appears in | 19 checks |
+| Connections | 37 |
 | Also known as | Binance US |
 
 ## How Other Checks Describe It
@@ -49,6 +49,7 @@ Largest crypto exchange; SEC case dropped; received MGX's $2B in USD1; promoted 
 - [[C71 Who Bought World Liberty Tokens]] · Mostly accurate
 - [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs]] · Mostly accurate
 - [[C90 World Liberty's Token-Swap Pitch & Its Partners]] · Mostly accurate
+- [[C97 Crypto Income During the Presidency]] · Mostly accurate
 
 ## Relationships
 
@@ -62,7 +63,7 @@ Largest crypto exchange; SEC case dropped; received MGX's $2B in USD1; promoted 
 - [[MGX]] *invested $2B (settled in USD1) in* [[Binance]] · 2025-03-12 · $2B · [[C09 The Dropped Binance Case & the Pardon of Changpeng Zhao|C09]]
 - [[MGX]] *$2B investment settled in USD1* [[Binance]] · 2025-05-01 · $2B · [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]]
 - [[MGX]] *invested $2B in, settled in USD1* [[Binance]] · 2025-05-01 · $2B · [[C08 AI Chip Exports to the UAE, Stargate & a Possible Currency Swap|C08]] [[C10 Binance's Role in the Growth of USD1|C10]]
-- [[MGX]] *settled $2B investment in USD1* [[Binance]] · 2025-05-01 · $2B · [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]]
+- [[MGX]] *settled $2B investment in USD1* [[Binance]] · 2025-05-01 · $2B · [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]] [[C97 Crypto Income During the Presidency|C97]]
 - [[Binance]] *paid for 'executive relief' lobbying* [[Checkmate Government Relations]] · 2025-09 · $450K · [[C36 Clemency for Other Crypto & Donor-Linked Figures|C36]] [[C49 The Market for Pardon Lobbying|C49]]
 - [[Binance]] *paid ~$450K for 'executive relief' lobbying* [[Checkmate Government Relations]] · 2025-09 · $450K · [[C52 Trump-Connected Lobbyists Hired by Crypto Firms & the SEC Enforcement Director's Exit|C52]] [[C64 Lobbyists & Intermediaries with White House Access|C64]]
 - [[World Liberty Financial]] *reportedly provides marketing budget for promotions to* [[Binance]] · 2026 · [[C10 Binance's Role in the Growth of USD1|C10]]

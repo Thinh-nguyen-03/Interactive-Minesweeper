@@ -4,8 +4,8 @@ kind: "entity"
 type: "fund"
 aliases:
   - "Affinity"
-connections: 40
-claims: 19
+connections: 42
+claims: 20
 tags:
   - "entity"
   - "type/fund"
@@ -19,8 +19,8 @@ Jared Kushner's multibillion-dollar investment fund, largely Gulf-backed.
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 19 checks |
-| Connections | 40 |
+| Appears in | 20 checks |
+| Connections | 42 |
 | Also known as | Affinity |
 
 ## How Other Checks Describe It
@@ -52,14 +52,16 @@ Jared Kushner's multibillion-dollar investment fund, largely Gulf-backed.
 - [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds]] · Mostly accurate
 - [[C89 Unannounced Trump Organization Deals in Hungary & Serbia]] · Partly accurate
 - [[C94 The Sale of Lukoil's Foreign Assets & the Boehly Consortium]] · Mostly accurate
+- [[C99 What Each Family Member Has Earned]] · Partly accurate
 
 ## Relationships
 
-### Money (18)
+### Money (19)
 
 - [[Public Investment Fund (Saudi Arabia)]] *committed $2B to* [[Affinity Partners]] · 2021 · $2B · [[C56 Saudi Arabia Family Deals Alongside US Policy Decisions|C56]]
 - [[Public Investment Fund (Saudi Arabia)]] *largest investor ($2B)* [[Affinity Partners]] · 2021 · $2B · [[C57 The UAE Network Tahnoon, G42, MGX & Their US Deals|C57]]
 - [[Public Investment Fund (Saudi Arabia)]] *committed $2B to (largest investor)* [[Affinity Partners]] · 2021-07 · $2B · [[C15 Jared Kushner, Affinity Partners & Gulf Sovereign Funds|C15]] [[C37 The Reported Hack of Jared Kushner's Phone|C37]]
+- [[Public Investment Fund (Saudi Arabia)]] *paid $87M of ~$157.5M foreign management fees (to Sept 2024)* [[Affinity Partners]] · 2024-09 · $87M · [[C99 What Each Family Member Has Earned|C99]]
 - [[Lunate]] *LP (with QIA added $1.5B, Dec 2024)* [[Affinity Partners]] · 2024-12 · [[C80 Sovereign-Fund Megadeals That Need US Approval|C80]]
 - [[Lunate]] *invested (with QIA)* [[Affinity Partners]] · 2024-12 · [[C73 Qatar's Ties to People in & Around the Administration|C73]]
 - [[Lunate]] *invested (with QIA, about $1.5B combined) in* [[Affinity Partners]] · 2024-12 · [[C15 Jared Kushner, Affinity Partners & Gulf Sovereign Funds|C15]]
@@ -68,7 +70,7 @@ Jared Kushner's multibillion-dollar investment fund, largely Gulf-backed.
 - [[Lunate]] *invested (with QIA) $1.5B in* [[Affinity Partners]] · 2024-12-20 · $1.5B · [[C57 The UAE Network Tahnoon, G42, MGX & Their US Deals|C57]]
 - [[Lunate]] *invested in* [[Affinity Partners]] · 2024-12-20 · [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]]
 - [[Qatar Investment Authority]] *invested (with Lunate) in* [[Affinity Partners]] · 2024-12-20 · [[C57 The UAE Network Tahnoon, G42, MGX & Their US Deals|C57]]
-- [[Affinity Partners]] *named backer of WBD bid, exited 2025-12-16* [[Paramount]] · 2025-12 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
+- [[Affinity Partners]] *named backer of WBD bid, exited 2025-12-16* [[Paramount Global]] · 2025-12 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Affinity Partners]] *briefly co-backed WBD bid, exited 2025-12-16* [[Paramount Skydance]] · 2025-12 · [[C73 Qatar's Ties to People in & Around the Administration|C73]]
 - [[Affinity Partners]] *seeking part of $5B from* [[Other Gulf sovereign wealth funds]] · $5B · [[C15 Jared Kushner, Affinity Partners & Gulf Sovereign Funds|C15]]
 - [[Lunate]] *investor (C57)* [[Affinity Partners]] · [[C94 The Sale of Lukoil's Foreign Assets & the Boehly Consortium|C94]]
@@ -76,12 +78,14 @@ Jared Kushner's multibillion-dollar investment fund, largely Gulf-backed.
 - [[Public Investment Fund (Saudi Arabia)]] *$2B investment; EA co-buyer* [[Affinity Partners]] · [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]]
 - [[Public Investment Fund (Saudi Arabia)]] *invested $2B in* [[Affinity Partners]] · $2B · [[C15 Jared Kushner, Affinity Partners & Gulf Sovereign Funds|C15]]
 
-### Ownership (15)
+### Ownership (17)
 
 - [[Jared Kushner]] *founder* [[Affinity Partners]] · 2021 · [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]] [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]] [[C73 Qatar's Ties to People in & Around the Administration|C73]]
 - [[Jared Kushner]] *founder and CEO of* [[Affinity Partners]] · 2021 · [[C15 Jared Kushner, Affinity Partners & Gulf Sovereign Funds|C15]] [[C37 The Reported Hack of Jared Kushner's Phone|C37]] [[C80 Sovereign-Fund Megadeals That Need US Approval|C80]]
 - [[Jared Kushner]] *founder of* [[Affinity Partners]] · 2021 · [[C57 The UAE Network Tahnoon, G42, MGX & Their US Deals|C57]] [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]] [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds|C87]]
+- [[Affinity Partners]] *sole owner; scheduled $90M more foreign fees Sept 2024-Aug 2026* [[Jared Kushner]] · 2024-09-24 · $90M · [[C99 What Each Family Member Has Earned|C99]]
 - [[Affinity Partners]] *affiliated with (Reuters)* [[Atlantic Incubation Partners LLC]] · 2024-12-30 · [[C63 Shell Entities & Ownership Chains|C63]]
+- [[Affinity Partners]] *minority investor in take-private of* [[Electronic Arts]] · 2026-08 · [[C99 What Each Family Member Has Earned|C99]]
 - [[Affinity Partners]] *~1.1% co-investor* [[EA take-private]] · 2026-08-04 · [[C69 Master Timeline Money Events & Government Actions|C69]]
 - [[Affinity Partners]] *acquired ~1.1% (press estimate)* [[Electronic Arts]] · 2026-08-04 · [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds|C87]]
 - [[Affinity Partners]] *acquired ~1.1% of* [[Electronic Arts]] · 2026-08-04 · [[C80 Sovereign-Fund Megadeals That Need US Approval|C80]]
@@ -94,8 +98,9 @@ Jared Kushner's multibillion-dollar investment fund, largely Gulf-backed.
 - [[Jared Kushner]] *founder and head of* [[Affinity Partners]] · [[C45 Kushner's Resort Projects in Albania & Serbia|C45]]
 - [[Jared Kushner]] *runs* [[Affinity Partners]] · [[C15 Jared Kushner, Affinity Partners & Gulf Sovereign Funds|C15]]
 
-### Regulatory (3)
+### Regulatory (4)
 
+- [[US Senate Finance Committee]] *documented fees from foreign investors of* [[Affinity Partners]] · 2024-09-24 · [[C99 What Each Family Member Has Earned|C99]]
 - [[US Congress]] *Democratic committee inquiries into* [[Affinity Partners]] · 2026-03 · [[C15 Jared Kushner, Affinity Partners & Gulf Sovereign Funds|C15]]
 - [[Robert Garcia]] *investigating Gulf fundraising* [[Affinity Partners]] · 2026-03-19 · [[C15 Jared Kushner, Affinity Partners & Gulf Sovereign Funds|C15]]
 - [[Ron Wyden]] *investigating Gulf fundraising* [[Affinity Partners]] · 2026-03-19 · [[C15 Jared Kushner, Affinity Partners & Gulf Sovereign Funds|C15]]
@@ -109,7 +114,7 @@ Jared Kushner's multibillion-dollar investment fund, largely Gulf-backed.
 - [[The New York Times]] *reported $5B+ fundraising effort by* [[Affinity Partners]] · 2026-03 · [[C15 Jared Kushner, Affinity Partners & Gulf Sovereign Funds|C15]]
 - [[The New York Times]] *reported $5B raise by* [[Affinity Partners]] · [[C15 Jared Kushner, Affinity Partners & Gulf Sovereign Funds|C15]]
 
-### Commercial (9)
+### Commercial (10)
 
 - [[Chad Mizelle]] *chief legal officer of* [[Affinity Partners]] · 2022 · [[C15 Jared Kushner, Affinity Partners & Gulf Sovereign Funds|C15]] [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]]
 - [[Serbia]] *granted 99-year rent-free lease on General Staff site (2024 contract)* [[Affinity Partners]] · 2024 · [[C45 Kushner's Resort Projects in Albania & Serbia|C45]]
@@ -118,6 +123,7 @@ Jared Kushner's multibillion-dollar investment fund, largely Gulf-backed.
 - [[Silver Lake]] *co-investor in EA buyout with* [[Affinity Partners]] · 2025-09-29 · [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds|C87]]
 - [[Affinity Partners]] *sponsored (withdrawn)* [[Trump Tower Belgrade (General Staff site)]] · 2025-12 · [[C59 Foreign Trump Organization Projects & Tariff Negotiations|C59]]
 - [[Affinity Partners]] *sponsored, then withdrew from* [[Trump Tower Belgrade (General Staff site)]] · 2025-12-15 · $500M · [[C45 Kushner's Resort Projects in Albania & Serbia|C45]]
+- [[Affinity Partners]] *withdrew financing for WBD bid by* [[Paramount Skydance]] · 2025-12-16 · [[C99 What Each Family Member Has Earned|C99]]
 - [[Affinity Partners]] *sought part of $5B+ new raise from (per NYT)* [[Public Investment Fund (Saudi Arabia)]] · 2026-03 · $5B · [[C15 Jared Kushner, Affinity Partners & Gulf Sovereign Funds|C15]]
 - [[Affinity Partners]] *denies being investor or developer of* [[Zvernec Vjosa-Narta coastal project]] · 2026-06 · [[C45 Kushner's Resort Projects in Albania & Serbia|C45]]
 

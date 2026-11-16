@@ -4,8 +4,8 @@ kind: "entity"
 type: "asset"
 aliases:
   - "WLFI"
-connections: 21
-claims: 10
+connections: 24
+claims: 12
 tags:
   - "entity"
   - "type/asset"
@@ -17,8 +17,8 @@ World Liberty Financial governance token; ~$550M sold.
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 10 checks |
-| Connections | 21 |
+| Appears in | 12 checks |
+| Connections | 24 |
 | Also known as | WLFI |
 
 ## How Other Checks Describe It
@@ -41,6 +41,8 @@ World Liberty Financial governance token; ~$550M sold.
 - [[C71 Who Bought World Liberty Tokens]] · Mostly accurate
 - [[C76 Russia-Linked Money Around the Family & the Envoys]] · Partly accurate
 - [[C90 World Liberty's Token-Swap Pitch & Its Partners]] · Mostly accurate
+- [[C96 What Trump's Own Financial Disclosures Report]] · Confirmed
+- [[C97 Crypto Income During the Presidency]] · Mostly accurate
 
 ## Relationships
 
@@ -59,11 +61,13 @@ World Liberty Financial governance token; ~$550M sold.
 - [[DWF Labs]] *bought $25M WLFI* [[WLFI token]] · 2025-04-16 · $25M · [[C71 Who Bought World Liberty Tokens|C71]]
 - [[ALT5 Sigma]] *WLFI treasury buyer (C13)* [[WLFI token]] · 2025-08 · [[C42 How World Liberty Insiders Took Money Out|C42]]
 
-### Ownership (4)
+### Ownership (6)
 
 - [[ALT5 Sigma]] *treasury holding about 7.5% of supply, bought at $0.20* [[WLFI token]] · 2025-08 · [[C13 The $1.5 Billion ALT5 Sigma Deal with World Liberty|C13]]
 - [[ALT5 Sigma]] *holds ~$781M WLFI wallet (Reuters)* [[WLFI token]] · 2025-10 · [[C71 Who Bought World Liberty Tokens|C71]]
-- [[DT Marks DEFI LLC]] *holds 22.5B tokens (about $1.3B per 2025 filing)* [[WLFI token]] · 2025-12 · $1.3B · [[C42 How World Liberty Insiders Took Money Out|C42]]
+- [[DT Marks DEFI LLC]] *holds 22.5B tokens with family members per WLF (Trump's filing lists 15.75B under DTTM Operations, 'Over $50,000,000'; about $1.3B at July 2026 prices per CAP)* [[WLFI token]] · 2025-12 · [[C42 How World Liberty Insiders Took Money Out|C42]]
+- [[DTTM Operations LLC]] *holds 15.75B governance tokens (Over $50M bracket)* [[WLFI token]] · 2025-12 · [[C96 What Trump's Own Financial Disclosures Report|C96]]
+- [[DTTM Operations LLC]] *holds 15.75B WLFI (value 'Over $50,000,000' on filing)* [[WLFI token]] · 2025-12-31 · [[C97 Crypto Income During the Presidency|C97]]
 - [[ALT5 Sigma]] *buys and holds* [[WLFI token]] · [[C13 The $1.5 Billion ALT5 Sigma Deal with World Liberty|C13]]
 
 ### Media (1)
