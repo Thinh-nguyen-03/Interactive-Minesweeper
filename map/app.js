@@ -767,7 +767,7 @@
     lines.forEach(function (r) { var o = r.S === e ? r.T : r.S; if (!by.has(o)) by.set(o, []); by.get(o).push(r); });
     var near = Array.from(by.keys()).sort(function (a, b) { return by.get(b).length - by.get(a).length || b.cl.length - a.cl.length || a.name.localeCompare(b.name); });
     var sums = arr(e.sums).map(function (i) { return relAt[i]; }).filter(function (r) { return r && r.S && typeof r.amount_usd === 'number'; });
-    var top = sums.slice().sort(function (a, b) { return b.amount_usd - a.amount_usd; })[0];
+    var top = sums.filter(function (r) { return !r.alleged; }).sort(function (a, b) { return b.amount_usd - a.amount_usd; })[0];
     var tl = arr(e.timeline).map(function (i) { return relAt[i]; }).filter(function (r) { return r && r.S; });
     var alleged = lines.filter(function (r) { return r.alleged; }).length;
 
@@ -2300,7 +2300,7 @@
         var unvN = n.lines.filter(function (r) { return r.alleged; }).length;
         body = (n.unverified_only ? '<p class="pflag">' + mark('unverified') + 'Named only in an unverified check</p>' : '') + (n.role ? '<p class="prole">' + rich(cap(n.role)) + '</p>' : '') +
           '<dl class="dfigs"><div><dt>Links</dt><dd>' + num(n.lines.length) + '</dd></div><div><dt>Names</dt><dd>' + num(others.size) + '</dd></div><div><dt>Checks</dt><dd>' + num(n.cl.length) + '</dd></div>' +
-          (sums.length ? '<div><dt>Largest Sum</dt><dd>' + esc(money(sums[0].amount_usd)) + '</dd></div>' : unvN ? '<div><dt>Unverified</dt><dd>' + unvN + '</dd></div>' : '') + '</dl>';
+          (sums.some(function (r) { return !r.alleged; }) ? '<div><dt>Largest Sum</dt><dd>' + esc(money(sums.filter(function (r) { return !r.alleged; })[0].amount_usd)) + '</dd></div>' : unvN ? '<div><dt>Unverified</dt><dd>' + unvN + '</dd></div>' : '') + '</dl>';
         var types = RTYPES.concat(Array.from(new Set(n.lines.map(function (r) { return r.type; }))).filter(function (t) { return RTYPES.indexOf(t) < 0; }));
         if (n.lines.length) body += '<h3>Documented Links <span class="cnt">by kind, as lit on the globe</span></h3>';
         types.forEach(function (t) {

@@ -309,3 +309,18 @@ Stop check: stills approved no -> stills sent; live site not republished.
 "Yup go for those weak points, font look ok now"
 
 Decision: font (IBM Plex Sans) accepted. Round 8: phone-specific globe layout, far-side captions on the silhouette with leaders, names list rebalanced, stylesheet cleanup and a consistency pass.
+
+## Round 08
+
+Time: 15 to 16 Nov
+Focus: remaining weak points after the font was accepted.
+
+Changes: phone-specific globe layout (whole graph visible, no crop); far-side captions on the rim with leader lines; names list as a full-width sortable table (Kind, Main Topic, Checks, Links, Largest Sum); dead CSS pruned; dense text at least 13.5px; one table-head style. Headline "Largest Sum" on profiles and the map dossier now counts documented links only, matching the names table (an alleged sum had been shown as Jared Kushner's largest).
+
+Stills: `cook/stills/r08/`
+Scores: critics not run.
+Measured: shots, globe, contrast and globefunc output of this round; phone near-side spacing 10th percentile 3.0 px, median 7.7 px; phone captions 8 of 9; desktop captions 9 of 9 in default and three turned views; phone first-load layout about 0.9 s.
+
+Still weak: phone lobes softer than desktop, one phone caption missing; long leader when a lobe is directly behind the centre; "Main Topic" for Donald Trump reads "Regulators"; uneven row heights in home lead tables.
+
+Stop check: stills approved no -> stills sent; live site not republished.
