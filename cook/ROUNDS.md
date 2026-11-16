@@ -330,3 +330,17 @@ Stop check: stills approved no -> stills sent; live site not republished.
 "Sure fix those first, then create the public test link"
 
 Decision: round 9 fixes the four weak points (phone lobes and missing caption, long leader lines, Main Topic wording, home table rows), then the result is published as a separate test artifact; the existing live artifact is not touched.
+
+## Round 09
+
+Focus: the four weak points the user confirmed, then a test link.
+
+Changes: phone lobes set as a ring facing the reader with dark ground between them, nine phone captions, far-side dots dimmer on phone; leader lines capped at 60px and dropped for lobes behind the centre; "All Topics" or "N Topics" for names spread across topics (names table, map dossier, profile); home lead tables with fixed one-line rows ending level.
+
+Measured: `shots.js 09` no console errors or overflow; `contrast.js` 60 page states, 25,220 text elements, 0 under AA; `globefunc.js` no failures; phone near-side spacing 10th percentile about 3.2 px (sensitive to parameters), median 7.0 px.
+
+Published as a separate private test artifact from `testlink/` (copy of `map/`, title "Claims Map Test"): https://claude.ai/artifact/6t8aqq8mxssJkXBTpK7FV9 . The earlier live artifact (Hodpp6u6fLoqSvbVs8Y9XP) is unchanged.
+
+Still weak: smaller phone lobes sit partly behind and are named on the rim; the phone layout is a disc and shows edge-on if turned far; long names truncate in the home lead tables. Not tested: real phone, real GPU.
+
+Stop check: waiting on the user's hands-on test of the link.

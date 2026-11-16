@@ -526,3 +526,7 @@ thead th, .ctable thead th, .ctable thead .srcc, thead th.numc, .ctable thead th
 .leadgrid { grid-template-columns: minmax(0, .95fr) minmax(0, 1.35fr) minmax(0, 1.5fr); }
 @media (max-width: 1180px) { .leadgrid { grid-template-columns: 1fr 1fr; } }
 @media (max-width: 760px) { .leadgrid { grid-template-columns: 1fr; } .figrow > div, .methodfigs > div, .pfigs > div { border-right: 0; margin-right: 22px; padding-right: 0; } }
+.lead-t .lbar { display: none; }
+.leadgrid { grid-template-columns: minmax(0, 1.05fr) minmax(0, 1.3fr) minmax(0, 1.5fr); }
+@media (max-width: 1180px) { .leadgrid { grid-template-columns: 1fr 1fr; } }
+@media (max-width: 760px) { .leadgrid { grid-template-columns: 1fr; } }
