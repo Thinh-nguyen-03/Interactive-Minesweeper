@@ -131,7 +131,7 @@ What have Donald Trump Jr., Eric Trump, Jared Kushner, Ivanka Trump, Melania Tru
 ## Corrections to earlier checks
 - **C44.** The $10.71M film fee is listed in Part 5 (spouse income) of the primary OGE report, under MKT World LLC. That settles the earlier split among outlets: it is Melania Trump's income, reported on the President's form.
 - **C42 and C04.** DT Marks DEFI is not wholly Trump-owned. It is 69% DTTM Operations, 1% member corporation and 30% "Trump Family Members", and DT Marks SC is split the same way.
-- **C29.** Forbes's Eric figure of about $400M (December 2025) has been superseded by about $280M (April 2026). His American Bitcoin stake was about $116M at the 31 December 2025 close (not about $160M) and about $23M on 13 November 2026.
+- **C29.** Forbes's Eric figure of about $400M (December 2025) has been superseded by about $280M (April 2026). His American Bitcoin stake was about $160M in early December 2025, as stated (about $166M at the 4 December close), about $116M at the 31 December close and about $23M on 13 November 2026.
 - **C39.** Reports of a Don Jr. Dominari share sale misread the S-3 resale table. No sale is documented, which matches C39's reading.
 - **"The brothers own about 20% of American Bitcoin."** That was the combined Trump-linked stake at launch. Only Eric's stake is in the proxy.
 
