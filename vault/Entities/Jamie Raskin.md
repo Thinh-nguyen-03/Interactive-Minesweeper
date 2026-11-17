@@ -2,8 +2,8 @@
 id: "jamie-raskin"
 kind: "entity"
 type: "person"
-connections: 16
-claims: 8
+connections: 17
+claims: 9
 tags:
   - "entity"
   - "type/person"
@@ -17,16 +17,16 @@ House Judiciary ranking member; demanded Kushner's recusal from the Russia and I
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 8 checks |
-| Connections | 16 |
+| Appears in | 9 checks |
+| Connections | 17 |
 
 ## How Other Checks Describe It
 
 - House Judiciary ranking member; probing Kushner's Albania deals and envoy conflicts.
 - House Judiciary ranking member; demanded Kushner's recusal and account records.
+- Ranking Member, House Judiciary Committee; opened a probe on 17 Apr 2026
 - House Judiciary ranking Democrat; asked DOJ IG to probe Bondi's sale
 - House Judiciary ranking member; asked the IG to examine Bondi's sale
-- House Judiciary ranking member; 27 Feb 2026 tariff-refund letter
 
 ## Appears in Checks
 
@@ -38,6 +38,7 @@ House Judiciary ranking member; demanded Kushner's recusal from the Russia and I
 - [[C102 Trades by Officials, Family & Associates]] · Mostly accurate
 - [[C104 Howard Lutnick Holdings, Divestiture & Recusals]] · Mostly accurate
 - [[C108 Pam Bondi & Todd Blanche Prior Clients, Holdings & Recusals]] · Mostly accurate
+- [[C111 Jared Kushner, Affinity Partners & Israel]] · Mostly accurate
 
 ## Relationships
 
@@ -49,9 +50,10 @@ House Judiciary ranking member; demanded Kushner's recusal from the Russia and I
 - [[Jamie Raskin]] *demanded tariff records from* [[Howard Lutnick]] · 2026-02-27 · [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business|C50]]
 - [[Jamie Raskin]] *demanded recusal from Russia/Iran envoy role citing hack reports* [[Jared Kushner]] · 2026-10 · [[C37 The Reported Hack of Jared Kushner's Phone|C37]] · unverified allegation
 
-### Political (5)
+### Political (6)
 
 - [[Jamie Raskin]] *demanded tariff-refund records* [[Brandon Lutnick]] · 2026-02-27 · [[C104 Howard Lutnick Holdings, Divestiture & Recusals|C104]]
+- [[Jamie Raskin]] *opened House Judiciary probe of dual role* [[Jared Kushner]] · 2026-04-17 · [[C111 Jared Kushner, Affinity Partners & Israel|C111]]
 - [[Jamie Raskin]] *demanded recusal and bank records from* [[Jared Kushner]] · 2026-10 · [[C46 The Alleged Kushner Gulf Accounts|C46]] · unverified allegation
 - [[Jamie Raskin]] *ranking member of* [[House Judiciary Committee Democrats]] · [[C49 The Market for Pardon Lobbying|C49]]
 - [[Jamie Raskin]] *House Judiciary ranking member* [[US Congress]] · [[C45 Kushner's Resort Projects in Albania & Serbia|C45]]

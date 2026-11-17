@@ -2,8 +2,8 @@
 id: "maga-inc"
 kind: "entity"
 type: "fund"
-connections: 23
-claims: 11
+connections: 27
+claims: 12
 tags:
   - "entity"
   - "type/fund"
@@ -15,8 +15,8 @@ Pro-Trump super PAC that received about $35M from Foris DAX
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 11 checks |
-| Connections | 23 |
+| Appears in | 12 checks |
+| Connections | 27 |
 
 ## How Other Checks Describe It
 
@@ -24,7 +24,7 @@ Pro-Trump super PAC that received about $35M from Foris DAX
 - Pro-Trump super PAC; host of the $1M-per-head dinner
 - Pro-Trump super PAC; hosted the $1M-per-head dinner
 - Pro-Trump super PAC; Boehly is a $1M+ donor.
-- Pro-Trump super PAC
+- Trump-aligned super PAC
 
 ## Appears in Checks
 
@@ -39,13 +39,17 @@ Pro-Trump super PAC that received about $35M from Foris DAX
 - [[C86 Major Trump Donors with Stakes in Federally Backed Companies]] · Partly accurate
 - [[C94 The Sale of Lukoil's Foreign Assets & the Boehly Consortium]] · Mostly accurate
 - [[C106 David Sacks Holdings, Ethics Waivers & AI & Crypto Policy]] · Mostly accurate
+- [[C110 Pro-Israel Donors & Trump's Campaign]] · Mostly accurate
 
 ## Relationships
 
-### Money (6)
+### Money (9)
 
+- [[Paul Singer]] *gave $5M* [[MAGA Inc]] · 2024-08-15 · $5M · [[C110 Pro-Israel Donors & Trump's Campaign|C110]]
+- [[Ronald Lauder]] *reportedly gave $5M* [[MAGA Inc]] · 2025-03 · $5M · [[C110 Pro-Israel Donors & Trump's Campaign|C110]]
 - [[Crypto.com]] *gave $20M (two $10M gifts via Foris DAX) in filing period* [[MAGA Inc]] · 2025-10 · $20M · [[C43 Overlap Between Dropped Enforcement Cases & Trump Donors|C43]]
 - [[Gemini]] *donated 1.5M USDC to* [[MAGA Inc]] · 2025-12 · $1.5M · [[C43 Overlap Between Dropped Enforcement Cases & Trump Donors|C43]]
+- [[Miriam Adelson]] *gave $25M* [[MAGA Inc]] · 2026-05-05 · $25M · [[C110 Pro-Israel Donors & Trump's Campaign|C110]]
 - [[Cameron Winklevoss]] *gave 79.35 BTC (>$5M)* [[MAGA Inc]] · 2026-06-19 · $5.01M · [[C52 Trump-Connected Lobbyists Hired by Crypto Firms & the SEC Enforcement Director's Exit|C52]]
 - [[Cameron Winklevoss]] *gave >$5M in BTC to* [[MAGA Inc]] · 2026-06-19 · $5M · [[C43 Overlap Between Dropped Enforcement Cases & Trump Donors|C43]]
 - [[Tyler Winklevoss]] *gave 79.35 BTC (>$5M)* [[MAGA Inc]] · 2026-06-19 · $5.01M · [[C52 Trump-Connected Lobbyists Hired by Crypto Firms & the SEC Enforcement Director's Exit|C52]]

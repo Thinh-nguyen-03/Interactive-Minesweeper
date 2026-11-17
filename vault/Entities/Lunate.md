@@ -2,8 +2,8 @@
 id: "lunate"
 kind: "entity"
 type: "fund"
-connections: 12
-claims: 6
+connections: 13
+claims: 7
 tags:
   - "entity"
   - "type/fund"
@@ -15,16 +15,16 @@ Abu Dhabi alternative asset manager majority-owned by Tahnoon-overseen Chimera; 
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 6 checks |
-| Connections | 12 |
+| Appears in | 7 checks |
+| Connections | 13 |
 
 ## How Other Checks Describe It
 
 - Abu Dhabi-based investment manager; invested in Affinity (part of about $1.5B, Dec 2024).
+- Abu Dhabi asset manager that invested in Affinity in Dec 2024
 - Tahnoon-overseen Abu Dhabi investor in Affinity Partners.
 - Abu Dhabi manager; took over G42's 42XFund; Affinity LP
 - Abu Dhabi fund; co-invested with QIA in Affinity
-- Abu Dhabi manager; Affinity investor
 
 ## Appears in Checks
 
@@ -34,13 +34,15 @@ Abu Dhabi alternative asset manager majority-owned by Tahnoon-overseen Chimera; 
 - [[C73 Qatar's Ties to People in & Around the Administration]] · Mostly accurate
 - [[C80 Sovereign-Fund Megadeals That Need US Approval]] · Mostly accurate
 - [[C94 The Sale of Lukoil's Foreign Assets & the Boehly Consortium]] · Mostly accurate
+- [[C111 Jared Kushner, Affinity Partners & Israel]] · Mostly accurate
 
 ## Relationships
 
-### Money (6)
+### Money (7)
 
 - [[Lunate]] *LP (with QIA added $1.5B, Dec 2024)* [[Affinity Partners]] · 2024-12 · [[C80 Sovereign-Fund Megadeals That Need US Approval|C80]]
 - [[Lunate]] *invested (with QIA)* [[Affinity Partners]] · 2024-12 · [[C73 Qatar's Ties to People in & Around the Administration|C73]]
+- [[Lunate]] *invested (with QIA, about $1.5B combined)* [[Affinity Partners]] · 2024-12 · [[C111 Jared Kushner, Affinity Partners & Israel|C111]]
 - [[Lunate]] *invested (with QIA, about $1.5B combined) in* [[Affinity Partners]] · 2024-12 · [[C15 Jared Kushner, Affinity Partners & Gulf Sovereign Funds|C15]]
 - [[Lunate]] *invested (with QIA) $1.5B in* [[Affinity Partners]] · 2024-12-20 · $1.5B · [[C57 The UAE Network Tahnoon, G42, MGX & Their US Deals|C57]]
 - [[Lunate]] *invested in* [[Affinity Partners]] · 2024-12-20 · [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]]

@@ -1569,7 +1569,7 @@
   "display_title": "Pro-Israel Donors & Trump's Campaign",
   "question": "What did the largest pro-Israel donors give to Trump's campaign and allies, and what has he said about them?",
   "topic": "foreign-deals",
-  "hidden": true
+  "hidden": false
  },
  {
   "id": "C111",
@@ -1585,7 +1585,7 @@
   "display_title": "Jared Kushner, Affinity Partners & Israel",
   "question": "What has Jared Kushner's fund invested in Israel, and how does that overlap with his diplomatic role?",
   "topic": "foreign-deals",
-  "hidden": true
+  "hidden": false
  },
  {
   "id": "C112",
@@ -1601,7 +1601,7 @@
   "display_title": "Gaza Reconstruction, the Board of Peace & Who Is Involved",
   "question": "Who has a documented role or financial interest in Gaza's reconstruction plans?",
   "topic": "foreign-deals",
-  "hidden": true
+  "hidden": false
  },
  {
   "id": "C113",
@@ -1616,7 +1616,7 @@
   "display_title": "US Decisions on Israel: Arms, Sanctions & the Netanyahu Pardon Call",
   "question": "What has the administration decided on Israel since January 2025, with dates and amounts?",
   "topic": "foreign-deals",
-  "hidden": true
+  "hidden": false
  },
  {
   "id": "C114",
@@ -1632,6 +1632,6 @@
   "display_title": "Trump Family & Associates: Business in Israel",
   "question": "What business ties do the Trump family and associates have in Israel, and where is there none?",
   "topic": "foreign-deals",
-  "hidden": true
+  "hidden": false
  }
 ]

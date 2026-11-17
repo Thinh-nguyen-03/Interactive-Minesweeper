@@ -2,8 +2,8 @@
 id: "qatar-investment-authority"
 kind: "entity"
 type: "fund"
-connections: 24
-claims: 12
+connections: 25
+claims: 13
 tags:
   - "entity"
   - "type/fund"
@@ -15,8 +15,8 @@ Qatari sovereign wealth fund; invested in Affinity (part of about $1.5B, Dec 202
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 12 checks |
-| Connections | 24 |
+| Appears in | 13 checks |
+| Connections | 25 |
 
 ## How Other Checks Describe It
 
@@ -40,16 +40,18 @@ Qatari sovereign wealth fund; invested in Affinity (part of about $1.5B, Dec 202
 - [[C70 What the Trump Family's Foreign Partners Obtained from Washington]] · Mostly accurate
 - [[C73 Qatar's Ties to People in & Around the Administration]] · Mostly accurate
 - [[C105 Steve Witkoff Holdings, Divestiture & Overlapping Dealings]] · Mostly accurate
+- [[C111 Jared Kushner, Affinity Partners & Israel]] · Mostly accurate
 
 ## Relationships
 
-### Money (13)
+### Money (14)
 
 - [[Athene Annuity and Life Co]] *lent $400M for the Park Lane purchase* [[Qatar Investment Authority]] · 2023-08 · $400M · [[C53 The Witkoff Family's Own Gulf Money|C53]]
 - [[Qatar Investment Authority]] *bought (~$623M) from Witkoff-Mubadala JV* [[Park Lane Hotel (36 Central Park South)]] · 2023-08 · $623M · [[C73 Qatar's Ties to People in & Around the Administration|C73]]
 - [[Qatar Investment Authority]] *bought for ~$623M* [[Park Lane Hotel (36 Central Park South)]] · 2023-08 · $623M · [[C53 The Witkoff Family's Own Gulf Money|C53]]
 - [[Qatar Investment Authority]] *bought from a Witkoff-Mubadala JV for about $623M* [[Park Lane Hotel (36 Central Park South)]] · 2023-08 · $623M · [[C105 Steve Witkoff Holdings, Divestiture & Overlapping Dealings|C105]]
 - [[Qatar Investment Authority]] *bought Park Lane from Witkoff-Mubadala JV* [[Steve Witkoff]] · 2023-08 · $623M · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
+- [[Qatar Investment Authority]] *invested (with Lunate, about $1.5B combined)* [[Affinity Partners]] · 2024-12 · $1.5B · [[C111 Jared Kushner, Affinity Partners & Israel|C111]]
 - [[Qatar Investment Authority]] *invested (with Lunate, about $1.5B combined) in* [[Affinity Partners]] · 2024-12 · [[C15 Jared Kushner, Affinity Partners & Gulf Sovereign Funds|C15]]
 - [[Qatar Investment Authority]] *invested (with Lunate, ~$1.5B)* [[Affinity Partners]] · 2024-12 · $1.5B · [[C73 Qatar's Ties to People in & Around the Administration|C73]]
 - [[Qatar Investment Authority]] *invested (with Lunate) in* [[Affinity Partners]] · 2024-12-20 · [[C57 The UAE Network Tahnoon, G42, MGX & Their US Deals|C57]]

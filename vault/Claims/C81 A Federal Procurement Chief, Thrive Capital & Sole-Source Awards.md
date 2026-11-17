@@ -217,7 +217,7 @@ Documented: Josh Gruenbaum, as GSA's FAS commissioner, arranged early meetings w
 - [[Alphabet (Google)]] · Company
 - [[Anthropic]] · Company
 - [[Antonio Gracias]] · Person
-- [[Board of Peace (Gaza)]] · Government body
+- [[Board of Peace]] · Government body
 - [[Databricks]] · Company
 - [[Department of Government Efficiency]] · Government body
 - [[Donald Trump]] · Person
@@ -280,7 +280,7 @@ Documented: Josh Gruenbaum, as GSA's FAS commissioner, arranged early meetings w
 
 - [[Josh Gruenbaum]] *worked for on Gaza ceasefire talks* [[Jared Kushner]] · 2025-2026 · [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards|C81]]
 - [[Josh Gruenbaum]] *worked for on Gaza, Ukraine, Iran talks* [[Steve Witkoff]] · 2025-2026 · [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards|C81]]
-- [[Josh Gruenbaum]] *senior adviser to* [[Board of Peace (Gaza)]] · 2026-01 · [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards|C81]]
+- [[Josh Gruenbaum]] *senior adviser to* [[Board of Peace]] · 2026-01 · [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards|C81]]
 
 ### Political (6)
 
@@ -288,8 +288,8 @@ Documented: Josh Gruenbaum, as GSA's FAS commissioner, arranged early meetings w
 - [[Josh Gruenbaum]] *came in with Musk-linked DOGE contingent at GSA* [[Department of Government Efficiency]] · 2025-01 · [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards|C81]]
 - [[Antonio Gracias]] *DOGE volunteer at SSA* [[Department of Government Efficiency]] · 2025-03/2025-07 · [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards|C81]]
 - [[Gerald Connolly]] *opened probe of Ramp courtship* [[General Services Administration]] · 2025-05-09 · [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards|C81]]
-- [[Donald Trump]] *chairs* [[Board of Peace (Gaza)]] · 2026-01 · [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards|C81]]
-- [[Jared Kushner]] *executive board member* [[Board of Peace (Gaza)]] · 2026-01 · [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards|C81]]
+- [[Donald Trump]] *chairs* [[Board of Peace]] · 2026-01 · [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards|C81]]
+- [[Jared Kushner]] *executive board member* [[Board of Peace]] · 2026-01 · [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards|C81]] [[C111 Jared Kushner, Affinity Partners & Israel|C111]]
 
 ### Media (2)
 

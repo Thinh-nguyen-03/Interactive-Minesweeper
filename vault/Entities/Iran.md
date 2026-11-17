@@ -2,8 +2,8 @@
 id: "iran"
 kind: "entity"
 type: "country"
-connections: 19
-claims: 11
+connections: 21
+claims: 12
 tags:
   - "entity"
   - "type/country"
@@ -17,8 +17,8 @@ Country the US went to war with in 2026.
 | | |
 |---|---|
 | Type | Country |
-| Appears in | 11 checks |
-| Connections | 19 |
+| Appears in | 12 checks |
+| Connections | 21 |
 
 ## How Other Checks Describe It
 
@@ -41,6 +41,7 @@ Country the US went to war with in 2026.
 - [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations]] · Mostly accurate
 - [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs]] · Mostly accurate
 - [[C101 Trading Ahead of Presidential Announcements]] · Mostly accurate
+- [[C113 US Decisions on Israel Arms, Sanctions & the Netanyahu Pardon Call]] · Mostly accurate
 
 ## Relationships
 
@@ -48,10 +49,12 @@ Country the US went to war with in 2026.
 
 - [[Commodity Futures Trading Commission]] *probing oil-futures trades placed before Trump Iran posts* [[Iran]] · 2026-04 · [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations|C58]]
 
-### Political (5)
+### Political (7)
 
+- [[Donald Trump]] *ordered Operation Midnight Hammer strikes* [[Iran]] · 2025-06-22 · [[C113 US Decisions on Israel Arms, Sanctions & the Netanyahu Pardon Call|C113]]
 - [[Iran]] *missile/drone attacks and Hormuz blockade* [[United Arab Emirates]] · 2026 · [[C08 AI Chip Exports to the UAE, Stargate & a Possible Currency Swap|C08]]
 - [[Jared Kushner]] *participated in US talks with* [[Iran]] · 2026 · [[C15 Jared Kushner, Affinity Partners & Gulf Sovereign Funds|C15]]
+- [[Donald Trump]] *joined Israel in strikes on Iran* [[Iran]] · 2026-02-28 · [[C113 US Decisions on Israel Arms, Sanctions & the Netanyahu Pardon Call|C113]]
 - [[Iran]] *conflict cited as emergency basis for* [[2026 Qatar Patriot and APKWS sales]] · 2026-02-28 · [[C16 Qatar The Gifted Jet, Arms Sales & a Trump Golf Project|C16]]
 - [[Pakistan]] *brokered US-Iran talks* [[Iran]] · 2026-04 · [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs|C72]]
 - [[United States]] *went to war with* [[Iran]] · [[C08 AI Chip Exports to the UAE, Stargate & a Possible Currency Swap|C08]] [[C30 Public Concern About Government Corruption & Criticism from Prominent Supporters|C30]]

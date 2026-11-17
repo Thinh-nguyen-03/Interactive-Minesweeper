@@ -2,8 +2,8 @@
 id: "chad-mizelle"
 kind: "entity"
 type: "person"
-connections: 11
-claims: 4
+connections: 12
+claims: 5
 tags:
   - "entity"
   - "type/person"
@@ -17,14 +17,15 @@ Ex-Affinity chief legal officer; DOJ chief of staff Jan-Sept 2025; Kushner's law
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 4 checks |
-| Connections | 11 |
+| Appears in | 5 checks |
+| Connections | 12 |
 
 ## How Other Checks Describe It
 
 - Kushner's attorney and Affinity chief legal officer; disputes conflict allegations.
 - Kushner's lawyer: 'There are no accounts and never were'; threatened legal action.
 - Kushner's attorney; sent the 23 Oct 2026 defamation notice to Condé Nast.
+- Kushner's lawyer and Affinity chief legal officer
 
 ## Appears in Checks
 
@@ -32,6 +33,7 @@ Ex-Affinity chief legal officer; DOJ chief of staff Jan-Sept 2025; Kushner's law
 - [[C37 The Reported Hack of Jared Kushner's Phone]] · Unverified · unverified allegation, single source
 - [[C46 The Alleged Kushner Gulf Accounts]] · Unverified · unverified allegation, single source
 - [[C61 Lawyers & Law Firms That Recur Across the Deals]] · Mostly accurate
+- [[C111 Jared Kushner, Affinity Partners & Israel]] · Mostly accurate
 
 ## Relationships
 
@@ -40,9 +42,10 @@ Ex-Affinity chief legal officer; DOJ chief of staff Jan-Sept 2025; Kushner's law
 - [[Chad Mizelle]] *chief of staff to* [[Pam Bondi]] · 2025-01 · [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]]
 - [[Chad Mizelle]] *chief of staff at* [[US Department of Justice (us-doj)]] · 2025-01 · [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]]
 
-### Legal (6)
+### Legal (7)
 
 - [[Chad Mizelle]] *sent pre-publication denial letters to* [[Simon & Schuster]] · 2026-07-30 · [[C46 The Alleged Kushner Gulf Accounts|C46]] · unverified allegation
+- [[Chad Mizelle]] *attorney for; rejects CREW suit and CNN premise* [[Jared Kushner]] · 2026-10 · [[C111 Jared Kushner, Affinity Partners & Israel|C111]]
 - [[Chad Mizelle]] *personal lawyer to* [[Jared Kushner]] · 2026-10 · [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]]
 - [[Chad Mizelle]] *sent takedown and preservation demand to* [[Condé Nast]] · 2026-10-23 · [[C46 The Alleged Kushner Gulf Accounts|C46]] · unverified allegation
 - [[Chad Mizelle]] *sent defamation notice and takedown demand to* [[Vanity Fair (Condé Nast)]] · 2026-10-23 · [[C37 The Reported Hack of Jared Kushner's Phone|C37]] · unverified allegation

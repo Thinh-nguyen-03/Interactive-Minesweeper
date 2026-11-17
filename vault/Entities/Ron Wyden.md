@@ -2,29 +2,29 @@
 id: "ron-wyden"
 kind: "entity"
 type: "person"
-connections: 27
-claims: 17
+connections: 28
+claims: 18
 tags:
   - "entity"
   - "type/person"
 ---
 # Ron Wyden
 
-US Senator (D-OR); Senate Finance ranking member investigating Affinity.
+Ranking Member, Senate Finance Committee; co-wrote the 19 Mar 2026 letters
 
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 17 checks |
-| Connections | 27 |
+| Appears in | 18 checks |
+| Connections | 28 |
 
 ## How Other Checks Describe It
 
+- US Senator (D-OR); Senate Finance ranking member investigating Affinity.
 - Senate Finance ranking member; opened YICC inquiry Jun 25, 2026
 - US senator (D-OR); co-led the 2026 Kushner fundraising probe
 - Senate Finance ranking member; Yorkville inquiry 25 Jun 2026
 - US Senator; co-led the April 2026 Tether-loan letters
-- Senator probing Kushner's fundraising and 666 Fifth
 
 ## Appears in Checks
 
@@ -45,6 +45,7 @@ US Senator (D-OR); Senate Finance ranking member investigating Affinity.
 - [[C104 Howard Lutnick Holdings, Divestiture & Recusals]] · Mostly accurate
 - [[C107 Scott Bessent & Paul Atkins Holdings & Divestiture Deadlines]] · Partly accurate
 - [[C109 Other Senior Officials Waivers, Late Divestitures & Outside Interests]] · Mostly accurate
+- [[C111 Jared Kushner, Affinity Partners & Israel]] · Mostly accurate
 
 ## Relationships
 
@@ -55,10 +56,11 @@ US Senator (D-OR); Senate Finance ranking member investigating Affinity.
 - [[Ron Wyden]] *sought loan records from* [[Howard Lutnick]] · 2026-04-29 · [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business|C50]]
 - [[Ron Wyden]] *asked whether Yorkville sought OFAC licence* [[OFAC]] · 2026-06-25 · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]
 
-### Political (6)
+### Political (7)
 
 - [[Ron Wyden]] *criticised handling of ethics agreement* [[Scott Bessent]] · 2025-08 · [[C107 Scott Bessent & Paul Atkins Holdings & Divestiture Deadlines|C107]]
 - [[Ron Wyden]] *letter on USAR conflicts* [[Howard Lutnick]] · 2026-02-26 · [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department|C77]]
+- [[Ron Wyden]] *with Garcia, requested information on foreign fundraising* [[Affinity Partners]] · 2026-03-19 · [[C111 Jared Kushner, Affinity Partners & Israel|C111]]
 - [[Ron Wyden]] *asked about Tether loan to children's trust* [[Howard Lutnick]] · 2026-04-29 · [[C104 Howard Lutnick Holdings, Divestiture & Recusals|C104]]
 - [[Ron Wyden]] *opened Senate Finance inquiry (OFAC licences, Venezuela) into* [[Yorkville Advisors]] · 2026-06-25 · [[C85 Yorkville's Blank-Cheque Vehicles Venezuela, Blue Water III & PlusAI|C85]]
 - [[Ron Wyden]] *opened inquiry into Venezuela SPAC* [[Yorkville International Capital Corp (YICC)]] · 2026-06-25 · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]

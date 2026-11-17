@@ -59,6 +59,10 @@ All five leads are real and documented. The South Korean 'aggregator' lead is NY
 - [[C59 Foreign Trump Organization Projects & Tariff Negotiations]] · Partly accurate
 - [[C31 Trump Organization Real-Estate Deals in the Gulf]] · Mostly accurate
 
+## Checks That Build on This One
+
+- [[C114 Trump Family & Associates Business in Israel]] · Partly accurate
+
 ## Sub-Claims
 
 ### 1. Base Group (South Korea), parent of Korea Aluminium, paid Trump's company a $2M 'nonrefundable development fee' in 2025 while Korea Aluminium contested a Commerce circumvention case.

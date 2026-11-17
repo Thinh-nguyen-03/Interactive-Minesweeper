@@ -2,8 +2,8 @@
 id: "trump-organization"
 kind: "entity"
 type: "company"
-connections: 90
-claims: 36
+connections: 93
+claims: 38
 tags:
   - "entity"
   - "type/company"
@@ -15,8 +15,8 @@ The family's hotel and golf luxury business, incl.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 36 checks |
-| Connections | 90 |
+| Appears in | 38 checks |
+| Connections | 93 |
 
 ## Background
 
@@ -68,6 +68,8 @@ The family's hotel and golf luxury business, incl.
 - [[C97 Crypto Income During the Presidency]] · Mostly accurate
 - [[C98 Trump Media, Licensing & Merchandise Income During the Presidency]] · Mostly accurate
 - [[C99 What Each Family Member Has Earned]] · Partly accurate
+- [[C112 Gaza Reconstruction, the Board of Peace & Who Is Involved]] · Partly accurate
+- [[C114 Trump Family & Associates Business in Israel]] · Partly accurate
 
 ## Relationships
 
@@ -139,8 +141,9 @@ The family's hotel and golf luxury business, incl.
 
 - [[White House Trump administration]] *denies trade talks are related to* [[Trump Organization]] · 2025-05 · [[C59 Foreign Trump Organization Projects & Tariff Negotiations|C59]]
 
-### Legal (2)
+### Legal (3)
 
+- [[Trump Organization]] *sued over the lot flip; claim rejected (Ynet)* [[Crescent Heights]] · 2008 · [[C114 Trump Family & Associates Business in Israel|C114]]
 - [[Trump Organization]] *demanded retraction of tungsten story* [[The New York Times]] · 2026-07 · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]
 - [[Alan Garten]] *EVP and Chief Legal Officer* [[Trump Organization]] · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]] [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
 
@@ -151,8 +154,9 @@ The family's hotel and golf luxury business, incl.
 - [[Citizens for Responsibility and Ethics in Washington]] *counted more than $117M foreign revenue in 2025 and 24 foreign projects* [[Trump Organization]] · 2026-07 · $117M · [[C55 How Much Has the Trump Family Made Competing Estimates|C55]]
 - [[Forbes]] *reported Saudi expansion during nuclear talks* [[Trump Organization]] · 2026-07-23 · [[C56 Saudi Arabia Family Deals Alongside US Policy Decisions|C56]]
 
-### Commercial (34)
+### Commercial (35)
 
+- [[Trump Organization]] *licensed 'Trump Plaza' name for Ramat Gan tower (25% of unit sales; never built)* [[Crescent Heights]] · 2006 · [[C114 Trump Family & Associates Business in Israel|C114]]
 - [[MNC Group MNC Land]] *licensee for Lido and Bali Trump projects* [[Trump Organization]] · 2015/2019 · [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]]
 - [[Dar Global]] *licensee for Jeddah, Dubai, Riyadh/Diriyah, Oman, Maldives projects* [[Trump Organization]] · 2022/2026 · [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]]
 - [[Trump Organization]] *licenses brand to* [[Trump Tower Jeddah]] · 2024-07 · $530M · [[C56 Saudi Arabia Family Deals Alongside US Policy Decisions|C56]]

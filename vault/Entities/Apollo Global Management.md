@@ -2,8 +2,8 @@
 id: "apollo-global-management"
 kind: "entity"
 type: "company"
-connections: 5
-claims: 2
+connections: 7
+claims: 3
 tags:
   - "entity"
   - "type/company"
@@ -15,17 +15,19 @@ Private-equity firm; per a corrected NYT report it lent $100M to the Witkoff Gro
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 2 checks |
-| Connections | 5 |
+| Appears in | 3 checks |
+| Connections | 7 |
 
 ## How Other Checks Describe It
 
 - Lender on $100M Witkoff refinancing
+- Private equity firm led by Rowan.
 
 ## Appears in Checks
 
 - [[C53 The Witkoff Family's Own Gulf Money]] · Mostly accurate
 - [[C73 Qatar's Ties to People in & Around the Administration]] · Mostly accurate
+- [[C112 Gaza Reconstruction, the Board of Peace & Who Is Involved]] · Partly accurate
 
 ## Relationships
 
@@ -33,9 +35,10 @@ Private-equity firm; per a corrected NYT report it lent $100M to the Witkoff Gro
 
 - [[Apollo Global Management]] *lent $100M (refinancing)* [[Witkoff Group]] · 2025-05 · $100M · [[C73 Qatar's Ties to People in & Around the Administration|C73]]
 
-### Ownership (2)
+### Ownership (3)
 
 - [[Athene Annuity and Life Co]] *subsidiary of* [[Apollo Global Management]] · [[C53 The Witkoff Family's Own Gulf Money|C53]]
+- [[Marc Rowan]] *chief executive of* [[Apollo Global Management]] · [[C112 Gaza Reconstruction, the Board of Peace & Who Is Involved|C112]]
 - [[Qatar]] *investor in an Apollo-run trust (per NYT correction, that trust was not the Witkoff lender)* [[Apollo Global Management]] · [[C53 The Witkoff Family's Own Gulf Money|C53]]
 
 ### Commercial (1)

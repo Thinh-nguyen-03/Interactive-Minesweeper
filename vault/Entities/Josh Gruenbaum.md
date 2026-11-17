@@ -2,8 +2,8 @@
 id: "josh-gruenbaum"
 kind: "entity"
 type: "person"
-connections: 14
-claims: 2
+connections: 16
+claims: 3
 tags:
   - "entity"
   - "type/person"
@@ -15,17 +15,19 @@ GSA Federal Acquisition Service commissioner Jan 2025-Apr 2026; ex-KKR/Moelis; G
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 2 checks |
-| Connections | 14 |
+| Appears in | 3 checks |
+| Connections | 16 |
 
 ## How Other Checks Describe It
 
+- Federal Acquisition Service commissioner; Board of Peace senior adviser; co-author of Project Sunrise.
 - GSA Federal Acquisition Service commissioner; reported Thrive fund investor
 
 ## Appears in Checks
 
 - [[C66 The Extended Family's Ventures & Roles]] · Partly accurate
 - [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards]] · Mostly accurate
+- [[C112 Gaza Reconstruction, the Board of Peace & Who Is Involved]] · Partly accurate
 
 ## Relationships
 
@@ -40,11 +42,13 @@ GSA Federal Acquisition Service commissioner Jan 2025-Apr 2026; ex-KKR/Moelis; G
 - [[Josh Gruenbaum]] *FAS commissioner of* [[General Services Administration]] · 2025-01/2026-04 · [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards|C81]]
 - [[Ed Forst]] *reportedly asked to step aside (single-source)* [[Josh Gruenbaum]] · 2026-04 · [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards|C81]]
 
-### Advisory (3)
+### Advisory (5)
 
+- [[Josh Gruenbaum]] *co-authored* [[Project Sunrise New Gaza plan]] · 2025-12 · [[C112 Gaza Reconstruction, the Board of Peace & Who Is Involved|C112]]
 - [[Josh Gruenbaum]] *worked for on Gaza ceasefire talks* [[Jared Kushner]] · 2025-2026 · [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards|C81]]
 - [[Josh Gruenbaum]] *worked for on Gaza, Ukraine, Iran talks* [[Steve Witkoff]] · 2025-2026 · [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards|C81]]
-- [[Josh Gruenbaum]] *senior adviser to* [[Board of Peace (Gaza)]] · 2026-01 · [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards|C81]]
+- [[Josh Gruenbaum]] *senior adviser* [[Board of Peace]] · 2026-01 · [[C112 Gaza Reconstruction, the Board of Peace & Who Is Involved|C112]]
+- [[Josh Gruenbaum]] *senior adviser to* [[Board of Peace]] · 2026-01 · [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards|C81]]
 
 ### Political (2)
 

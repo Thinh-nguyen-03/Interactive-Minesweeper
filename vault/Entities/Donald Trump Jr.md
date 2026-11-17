@@ -5,8 +5,8 @@ type: "person"
 aliases:
   - "Don Jr."
   - "Trump Jr."
-connections: 102
-claims: 56
+connections: 103
+claims: 57
 tags:
   - "entity"
   - "type/person"
@@ -18,8 +18,8 @@ President's son; American Bitcoin co-owner, 1789 Capital partner, adviser to Kal
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 56 checks |
-| Connections | 102 |
+| Appears in | 57 checks |
+| Connections | 103 |
 | Also known as | Don Jr.; Trump Jr. |
 
 ## How Other Checks Describe It
@@ -88,6 +88,7 @@ President's son; American Bitcoin co-owner, 1789 Capital partner, adviser to Kal
 - [[C101 Trading Ahead of Presidential Announcements]] · Mostly accurate
 - [[C102 Trades by Officials, Family & Associates]] · Mostly accurate
 - [[C103 Insider-Trading Oversight Requests, Probes & Outcomes]] · Mostly accurate
+- [[C114 Trump Family & Associates Business in Israel]] · Partly accurate
 
 ## Relationships
 
@@ -107,7 +108,7 @@ President's son; American Bitcoin co-owner, 1789 Capital partner, adviser to Kal
 - [[Donald Trump Jr]] *investor* [[American Ventures]] · [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs|C72]]
 - [[Donald Trump Jr]] *investor via 1789 Capital (see C25); not linked to any bet* [[Polymarket]] · [[C101 Trading Ahead of Presidential Announcements|C101]]
 
-### Ownership (35)
+### Ownership (36)
 
 - [[Donald Trump Jr]] *co-founder* [[World Liberty Financial]] · 2024 · [[C11 The GENIUS & CLARITY Acts & the Family's Stablecoin|C11]] [[C55 How Much Has the Trump Family Made Competing Estimates|C55]]
 - [[Donald Trump Jr]] *partner* [[1789 Capital]] · 2024-11 · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]] [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]] [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
@@ -133,6 +134,7 @@ President's son; American Bitcoin co-owner, 1789 Capital partner, adviser to Kal
 - [[Donald Trump Jr]] *2M founder shares in* [[New America Acquisition I Corp]] · 2025-12 · [[C99 What Each Family Member Has Earned|C99]]
 - [[Donald Trump Jr]] *indirect investor via American Ventures* [[Powerus Corp]] · 2026 · [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]]
 - [[Donald Trump Jr]] *holds Powerus stake via* [[American Ventures]] · 2026-03 · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]
+- [[Donald Trump Jr]] *listed among backers* [[American Ventures]] · 2026-03 · [[C114 Trump Family & Associates Business in Israel|C114]]
 - [[Donald Trump Jr]] *part-owns* [[American Bitcoin]] · [[C18 Eric Trump, Metaplanet, American Bitcoin & Hut 8|C18]]
 - [[Donald Trump Jr]] *undisclosed stake below 5%* [[American Bitcoin]] · [[C97 Crypto Income During the Presidency|C97]]
 - [[Donald Trump Jr]] *shareholder* [[Dominari Holdings]] · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
@@ -159,9 +161,10 @@ President's son; American Bitcoin co-owner, 1789 Capital partner, adviser to Kal
 - [[Donald Trump Jr]] *father of* [[Kai Trump]] · [[C66 The Extended Family's Ventures & Roles|C66]]
 - [[Kimberly Guilfoyle]] *former fiancee of* [[Donald Trump Jr]] · [[C76 Russia-Linked Money Around the Family & the Envoys|C76]]
 
-### Advisory (32)
+### Advisory (33)
 
 - [[Donald Trump Jr]] *backs and promotes* [[World Liberty Financial]] · 2024-09 · [[C04 World Liberty Financial Founding & Token Sale|C04]]
+- [[Donald Trump Jr]] *adviser and shareholder* [[Unusual Machines]] · 2024-11 · [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts|C74]] [[C114 Trump Family & Associates Business in Israel|C114]]
 - [[Donald Trump Jr]] *adviser and shareholder of* [[Unusual Machines]] · 2024-11 · [[C26 1789 Capital & the Vulcan Elements Magnet Deal|C26]] [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]
 - [[Donald Trump Jr]] *advisory board member and shareholder* [[Unusual Machines]] · 2024-11-27 · [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network|C39]]
 - [[Donald Trump Jr]] *advisory board member and shareholder (331,580 shares) of* [[Unusual Machines]] · 2024-11-27 · [[C32 Donald Trump Jr.'s Ties to Other Government Contractors|C32]]
@@ -171,6 +174,7 @@ President's son; American Bitcoin co-owner, 1789 Capital partner, adviser to Kal
 - [[Donald Trump Jr]] *adviser* [[New America Acquisition I Corp]] · 2025 · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]]
 - [[Donald Trump Jr]] *strategic adviser* [[Kalshi]] · 2025-01 · [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]] [[C54 The Crypto Revolving Door|C54]] [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations|C58]] [[C64 Lobbyists & Intermediaries with White House Access|C64]] [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]] [[C102 Trades by Officials, Family & Associates|C102]]
 - [[Donald Trump Jr]] *strategic adviser (paid partly in shares, reportedly >$300k)* [[Kalshi]] · 2025-01 · $300K · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]
+- [[Donald Trump Jr]] *adviser* [[Dominari Holdings]] · 2025-02 · [[C114 Trump Family & Associates Business in Israel|C114]]
 - [[Donald Trump Jr]] *board member/adviser of* [[Dominari Holdings]] · 2025-02 · [[C18 Eric Trump, Metaplanet, American Bitcoin & Hut 8|C18]]
 - [[Donald Trump Jr]] *adviser (advisory board)* [[Dominari Holdings]] · 2025-02-10 · [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network|C39]]
 - [[Donald Trump Jr]] *adviser after 530-580% run-up (C39, C91)* [[Dominari Holdings]] · 2025-02-11 · [[C102 Trades by Officials, Family & Associates|C102]]
@@ -191,7 +195,6 @@ President's son; American Bitcoin co-owner, 1789 Capital partner, adviser to Kal
 - [[Donald Trump Jr]] *advisory board; 1789 Capital invested (C25)* [[Polymarket]] · [[C66 The Extended Family's Ventures & Roles|C66]]
 - [[Donald Trump Jr]] *board member* [[Trump Media & Technology Group]] · [[C21 Trump Media's Paid Feed of Market-Moving Posts & Truth+|C21]]
 - [[Donald Trump Jr]] *director of* [[Trump Media & Technology Group]] · [[C41 Trump Media Feed Subscribers, the Senators' SEC Request, Departures & the CRO Treasury|C41]]
-- [[Donald Trump Jr]] *adviser and shareholder* [[Unusual Machines]] · [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts|C74]]
 - [[Tarek Mansour]] *did not explain role of* [[Donald Trump Jr]] · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]
 
 ### Political (16)

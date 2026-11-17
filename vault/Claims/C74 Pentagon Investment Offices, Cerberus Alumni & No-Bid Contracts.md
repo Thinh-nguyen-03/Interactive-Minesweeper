@@ -315,8 +315,8 @@ Every role, contract and loan in the claim is documented. Lorch (ex-Cerberus MD)
 
 ### Advisory (2)
 
+- [[Donald Trump Jr]] *adviser and shareholder* [[Unusual Machines]] · 2024-11 · [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts|C74]] [[C114 Trump Family & Associates Business in Israel|C114]]
 - [[David Lorch]] *senior adviser to* [[Stephen Feinberg]] · 2025-11 · [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts|C74]]
-- [[Donald Trump Jr]] *adviser and shareholder* [[Unusual Machines]] · [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts|C74]]
 
 ### Political (8)
 

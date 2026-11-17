@@ -6,8 +6,8 @@ aliases:
   - "The White House"
   - "Trump administration"
   - "White House"
-connections: 120
-claims: 70
+connections: 125
+claims: 73
 tags:
   - "entity"
   - "type/government"
@@ -21,8 +21,8 @@ Executive office; issues denials; an aide reportedly pushed the Vulcan deal.
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 70 checks |
-| Connections | 120 |
+| Appears in | 73 checks |
+| Connections | 125 |
 | Also known as | The White House; Trump administration; White House |
 
 ## How Other Checks Describe It
@@ -105,6 +105,9 @@ Executive office; issues denials; an aide reportedly pushed the Vulcan deal.
 - [[C105 Steve Witkoff Holdings, Divestiture & Overlapping Dealings]] · Mostly accurate
 - [[C106 David Sacks Holdings, Ethics Waivers & AI & Crypto Policy]] · Mostly accurate
 - [[C109 Other Senior Officials Waivers, Late Divestitures & Outside Interests]] · Mostly accurate
+- [[C111 Jared Kushner, Affinity Partners & Israel]] · Mostly accurate
+- [[C112 Gaza Reconstruction, the Board of Peace & Who Is Involved]] · Partly accurate
+- [[C113 US Decisions on Israel Arms, Sanctions & the Netanyahu Pardon Call]] · Mostly accurate
 
 ## Relationships
 
@@ -128,11 +131,16 @@ Executive office; issues denials; an aide reportedly pushed the Vulcan deal.
 - [[White House Trump administration]] *classifies as unpaid volunteer, no disclosure filed* [[Jared Kushner]] · [[C15 Jared Kushner, Affinity Partners & Gulf Sovereign Funds|C15]]
 - [[White House Trump administration]] *approved* [[UAE AI chips deal]] · [[C08 AI Chip Exports to the UAE, Stargate & a Possible Currency Swap|C08]]
 
-### Political (47)
+### Advisory (1)
+
+- [[White House Trump administration]] *classes as unpaid volunteer, no disclosure filed* [[Jared Kushner]] · [[C111 Jared Kushner, Affinity Partners & Israel|C111]]
+
+### Political (49)
 
 - [[Steve Witkoff]] *Special Envoy to the Middle East / for Peace Missions* [[White House Trump administration]] · 2024-11 · [[C14 Steve & Zach Witkoff A Middle East Envoy & World Liberty|C14]]
 - [[Jeff Miller]] *lobbied on behalf of Crypto.com* [[White House Trump administration]] · 2025 · [[C43 Overlap Between Dropped Enforcement Cases & Trump Donors|C43]]
 - [[Susie Wiles]] *chief of staff* [[White House Trump administration]] · 2025-01 · [[C64 Lobbyists & Intermediaries with White House Access|C64]]
+- [[White House Trump administration]] *revoked EO 14115 West Bank settler sanctions* [[Government of Israel]] · 2025-01-20 · [[C113 US Decisions on Israel Arms, Sanctions & the Netanyahu Pardon Call|C113]]
 - [[International Boxing Association (IBA)]] *open letter asking Trump to 'look into' boxing at LA28 (22 Jan 2025); no reply reported* [[White House Trump administration]] · 2025-01-22 · [[C93 Umar Kremlev, the International Boxing Association & US Decisions|C93]]
 - [[White House Trump administration]] *staff told not to meet (Politico, anonymous)* [[Brian Ballard]] · 2025-03 · [[C64 Lobbyists & Intermediaries with White House Access|C64]]
 - [[David Sacks]] *AI & crypto czar under ethics waivers* [[White House Trump administration]] · 2025-03-05 · [[C54 The Crypto Revolving Door|C54]]
@@ -140,6 +148,7 @@ Executive office; issues denials; an aide reportedly pushed the Vulcan deal.
 - [[White House Trump administration]] *called tariff-cost display 'hostile and political act'* [[Amazon]] · 2025-04-29 · [[C44 Amazon's $40 Million Melania Trump Documentary Deal|C44]]
 - [[White House Trump administration]] *denies trade talks are related to* [[Trump Organization]] · 2025-05 · [[C59 Foreign Trump Organization Projects & Tariff Negotiations|C59]]
 - [[Steve Witkoff]] *appointed Assistant to the President and Special Envoy for Peace Missions* [[White House Trump administration]] · 2025-06-30 · [[C105 Steve Witkoff Holdings, Divestiture & Overlapping Dealings|C105]]
+- [[White House Trump administration]] *released 20-point plan* [[Comprehensive Plan to End the Gaza Conflict (20 points)]] · 2025-09-29 · [[C112 Gaza Reconstruction, the Board of Peace & Who Is Involved|C112]]
 - [[White House Trump administration]] *withdrew CFTC chair nomination* [[Brian Quintenz]] · 2025-09-30 · [[C92 The White House Ballroom Donor List|C92]]
 - [[White House Trump administration]] *withdrew CFTC nomination* [[Brian Quintenz]] · 2025-09-30 · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
 - [[White House Trump administration]] *released donor list for* [[White House ballroom]] · 2025-10 · [[C23 SEC Crypto Cases Dropped & the Firms' Donations|C23]]

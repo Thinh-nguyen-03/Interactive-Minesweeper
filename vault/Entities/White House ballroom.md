@@ -6,8 +6,8 @@ aliases:
   - "White House East Wing ballroom"
   - "White House State Ballroom"
   - "ballroom"
-connections: 56
-claims: 10
+connections: 57
+claims: 11
 tags:
   - "entity"
   - "type/asset"
@@ -19,8 +19,8 @@ Ballroom Trump wants to build, sponsored by crypto firms.
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 10 checks |
-| Connections | 56 |
+| Appears in | 11 checks |
+| Connections | 57 |
 | Also known as | White House East Wing ballroom; White House State Ballroom; ballroom |
 
 ## How Other Checks Describe It
@@ -43,10 +43,11 @@ Ballroom Trump wants to build, sponsored by crypto firms.
 - [[C92 The White House Ballroom Donor List]] · Partly accurate
 - [[C95 The Presidential Salary Pledge]] · Partly accurate
 - [[C100 Net Worth Change & Legal Settlements Paid to Trump]] · Mostly accurate
+- [[C110 Pro-Israel Donors & Trump's Campaign]] · Mostly accurate
 
 ## Relationships
 
-### Money (69)
+### Money (71)
 
 - [[Isabela Herrera]] *pledged $2.5M (WaPo leak)* [[White House ballroom]] · 2025-09 · $2.5M · [[C92 The White House Ballroom Donor List|C92]]
 - [[Rocket Companies]] *subsidiary pledged $10M ~3 weeks after FHFA approval (WaPo leak, single-source)* [[White House ballroom]] · 2025-09 · $10M · [[C92 The White House Ballroom Donor List|C92]]
@@ -97,6 +98,8 @@ Ballroom Trump wants to build, sponsored by crypto firms.
 - [[Charles Ergen]] *first $12.5M, anonymous (WaPo leak)* [[White House ballroom]] · 2025-12 · $12.5M · [[C92 The White House Ballroom Donor List|C92]]
 - [[Konstantin Sokolov]] *donated to* [[White House ballroom]] · 2025/2026 · [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]]
 - [[Charles Ergen]] *second $12.5M (WaPo leak)* [[White House ballroom]] · 2026-02 · $12.5M · [[C92 The White House Ballroom Donor List|C92]]
+- [[Adelson Family Foundation]] *reported to have committed $25M (Washington Post records via Boston Globe; single-source)* [[White House ballroom]] · 2026-10 · $25M · [[C64 Lobbyists & Intermediaries with White House Access|C64]] [[C86 Major Trump Donors with Stakes in Federally Backed Companies|C86]]
+- [[Adelson Family Foundation]] *reported to have committed $25M (Washington Post records)* [[White House ballroom]] · 2026-10 · $25M · [[C110 Pro-Israel Donors & Trump's Campaign|C110]]
 - [[Amazon]] *committed (WaPo leak)* [[White House ballroom]] · 2026-10-15 · $5M · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Meta]] *committed (WaPo leak)* [[White House ballroom]] · 2026-10-15 · $5M · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Microsoft]] *committed (WaPo leak)* [[White House ballroom]] · 2026-10-15 · $10M · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]

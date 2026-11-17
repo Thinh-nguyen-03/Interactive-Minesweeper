@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "Eric"
-connections: 94
-claims: 54
+connections: 97
+claims: 55
 tags:
   - "entity"
   - "type/person"
@@ -19,8 +19,8 @@ President's son; American Bitcoin co-owner, Metaplanet adviser, Foundation Futur
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 54 checks |
-| Connections | 94 |
+| Appears in | 55 checks |
+| Connections | 97 |
 | Also known as | Eric |
 
 ## How Other Checks Describe It
@@ -87,10 +87,11 @@ President's son; American Bitcoin co-owner, Metaplanet adviser, Foundation Futur
 - [[C99 What Each Family Member Has Earned]] · Partly accurate
 - [[C100 Net Worth Change & Legal Settlements Paid to Trump]] · Mostly accurate
 - [[C102 Trades by Officials, Family & Associates]] · Mostly accurate
+- [[C114 Trump Family & Associates Business in Israel]] · Partly accurate
 
 ## Relationships
 
-### Money (7)
+### Money (8)
 
 - [[Eric Trump]] *investor in most vehicles (FT)* [[American Ventures]] · 2025-08 · [[C63 Shell Entities & Ownership Chains|C63]]
 - [[Eric Trump]] *investor (passive)* [[American Ventures]] · 2026 · [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network|C39]]
@@ -98,9 +99,10 @@ President's son; American Bitcoin co-owner, Metaplanet adviser, Foundation Futur
 - [[Eric Trump]] *investor in* [[Foundation Future Industries]] · 2026 · [[C28 Foundation Future Industries, Its Pentagon Contract & Eric Trump|C28]]
 - [[Eric Trump]] *investor in XTEND/JFB drone merger* [[JFB Construction]] · 2026-02 · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]
 - [[Eric Trump]] *invested in merger of* [[XTEND]] · 2026-02 · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]
+- [[Eric Trump]] *strategic investor in the JFB merger (own amount not found)* [[XTEND]] · 2026-02 · [[C114 Trump Family & Associates Business in Israel|C114]]
 - [[Eric Trump]] *investor* [[American Ventures]] · [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs|C72]]
 
-### Ownership (35)
+### Ownership (36)
 
 - [[Eric Trump]] *co-founder; holds tokens and USD1-related interest* [[World Liberty Financial]] · 2024 · [[C29 Trump Family Wealth Gains Since the Election|C29]]
 - [[Eric Trump]] *co-founder (Reuters tally venture)* [[American Bitcoin]] · 2025 · [[C55 How Much Has the Trump Family Made Competing Estimates|C55]]
@@ -123,6 +125,7 @@ President's son; American Bitcoin co-owner, Metaplanet adviser, Foundation Futur
 - [[Eric Trump]] *3M founder shares in* [[New America Acquisition I Corp]] · 2025-12 · [[C99 What Each Family Member Has Earned|C99]]
 - [[Eric Trump]] *indirect investor via American Ventures* [[Powerus Corp]] · 2026 · [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]]
 - [[Eric Trump]] *holds Powerus stake via* [[American Ventures]] · 2026-03 · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]
+- [[Eric Trump]] *listed among backers* [[American Ventures]] · 2026-03 · [[C114 Trump Family & Associates Business in Israel|C114]]
 - [[Eric Trump]] *holds 68.4M pre-split shares (about 4.56M post-split) of* [[American Bitcoin]] · 2026-04-10 · [[C99 What Each Family Member Has Earned|C99]]
 - [[Eric Trump]] *part-owns* [[American Bitcoin]] · [[C18 Eric Trump, Metaplanet, American Bitcoin & Hut 8|C18]]
 - [[Eric Trump]] *shareholder and adviser* [[Dominari Holdings]] · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
@@ -148,9 +151,10 @@ President's son; American Bitcoin co-owner, Metaplanet adviser, Foundation Futur
 - [[Eric Trump]] *son of* [[Donald Trump]] · [[C09 The Dropped Binance Case & the Pardon of Changpeng Zhao|C09]] [[C11 The GENIUS & CLARITY Acts & the Family's Stablecoin|C11]] [[C13 The $1.5 Billion ALT5 Sigma Deal with World Liberty|C13]] [[C18 Eric Trump, Metaplanet, American Bitcoin & Hut 8|C18]] [[C28 Foundation Future Industries, Its Pentagon Contract & Eric Trump|C28]] [[C30 Public Concern About Government Corruption & Criticism from Prominent Supporters|C30]] [[C48 The Trump Presidential Library Foundation's Money & Land|C48]] [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]
 - [[Lara Trump]] *married to* [[Eric Trump]] · [[C66 The Extended Family's Ventures & Roles|C66]]
 
-### Advisory (13)
+### Advisory (14)
 
 - [[Eric Trump]] *backs and promotes* [[World Liberty Financial]] · 2024-09 · [[C04 World Liberty Financial Founding & Token Sale|C04]]
+- [[Eric Trump]] *adviser* [[Dominari Holdings]] · 2025-02 · [[C114 Trump Family & Associates Business in Israel|C114]]
 - [[Eric Trump]] *board member/adviser of* [[Dominari Holdings]] · 2025-02 · [[C18 Eric Trump, Metaplanet, American Bitcoin & Hut 8|C18]]
 - [[Eric Trump]] *adviser (advisory board)* [[Dominari Holdings]] · 2025-02-10 · [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network|C39]]
 - [[Eric Trump]] *named to Strategic Board of Advisors of* [[Metaplanet]] · 2025-03-21 · [[C18 Eric Trump, Metaplanet, American Bitcoin & Hut 8|C18]]
@@ -183,10 +187,12 @@ President's son; American Bitcoin co-owner, Metaplanet adviser, Foundation Futur
 - [[Forbes]] *estimates 10x richer* [[Eric Trump]] · [[C29 Trump Family Wealth Gains Since the Election|C29]]
 - [[Maria Bartiromo]] *interviewed* [[Eric Trump]] · [[C28 Foundation Future Industries, Its Pentagon Contract & Eric Trump|C28]]
 
-### Commercial (22)
+### Commercial (24)
 
 - [[Eric Trump]] *attended family wedding; opened Dubai golf club* [[Hussain Sajwani]] · 2018 · [[C88 Damac & Hussain Sajwani Licence Fees & a Data-Centre Pledge|C88]]
+- [[Eric Trump]] *discussed Jerusalem Haleom hotel branding via Lockwood-linked talks; none signed* [[Lockwood Development Partners]] · 2023 · [[C114 Trump Family & Associates Business in Israel|C114]]
 - [[Eric Trump]] *announced planned Abu Dhabi tower and golf community with* [[Dar Global]] · 2024-12 · [[C82 Abu Dhabi Unannounced Trump Licensing Entities & StringZ|C82]]
+- [[Eric Trump]] *preliminary talks on branding and managing the Sarona Hotel; nothing signed* [[Nitsba Group (Nitsba Holdings)]] · 2025 · [[C114 Trump Family & Associates Business in Israel|C114]]
 - [[Eric Trump]] *reportedly signed 49% stake deal with* [[Aryam Investment 1]] · 2025-01 · [[C07 MGX's $2 Billion Binance Investment Settled in USD1|C07]]
 - [[Eric Trump]] *signed stake sale with* [[Aryam Investment 1]] · 2025-01 · [[C14 Steve & Zach Witkoff A Middle East Envoy & World Liberty|C14]]
 - [[Jared Kushner]] *agreed Trump licensing for Belgrade hotel* [[Eric Trump]] · 2025-01 · [[C89 Unannounced Trump Organization Deals in Hungary & Serbia|C89]]

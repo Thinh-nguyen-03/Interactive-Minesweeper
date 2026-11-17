@@ -5,8 +5,8 @@ type: "company"
 aliases:
   - "CREW"
   - "Citizens for Responsibility and Ethics in Washington (CREW)"
-connections: 28
-claims: 17
+connections: 29
+claims: 18
 tags:
   - "entity"
   - "type/company"
@@ -18,8 +18,8 @@ Watchdog group that sued in Oct 2026 over Kushner's envoy role and lack of discl
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 17 checks |
-| Connections | 28 |
+| Appears in | 18 checks |
+| Connections | 29 |
 | Also known as | CREW; Citizens for Responsibility and Ethics in Washington (CREW) |
 
 ## How Other Checks Describe It
@@ -28,7 +28,7 @@ Watchdog group that sued in Oct 2026 over Kushner's envoy role and lack of discl
 - Watchdog that matched the entity formation dates to the disclosure.
 - Watchdog reporting Trump Organization involvement in the library
 - Ethics watchdog nonprofit that reported on Don Jr. board roles.
-- Watchdog that reported the Damac fees and the Ohio site.
+- Watchdog that sued over Kushner's envoy role on 14 Oct 2026
 
 ## Appears in Checks
 
@@ -49,6 +49,7 @@ Watchdog group that sued in Oct 2026 over Kushner's envoy role and lack of discl
 - [[C98 Trump Media, Licensing & Merchandise Income During the Presidency]] · Mostly accurate
 - [[C103 Insider-Trading Oversight Requests, Probes & Outcomes]] · Mostly accurate
 - [[C109 Other Senior Officials Waivers, Late Divestitures & Outside Interests]] · Mostly accurate
+- [[C111 Jared Kushner, Affinity Partners & Israel]] · Mostly accurate
 
 ## Relationships
 
@@ -56,11 +57,12 @@ Watchdog group that sued in Oct 2026 over Kushner's envoy role and lack of discl
 
 - [[Citizens for Responsibility and Ethics in Washington]] *asked for prediction-market ban for appointees* [[Office of Government Ethics]] · 2026-05-18 · [[C103 Insider-Trading Oversight Requests, Probes & Outcomes|C103]]
 
-### Legal (3)
+### Legal (4)
 
 - [[Citizens for Responsibility and Ethics in Washington]] *FOIA on mining communications* [[Howard Lutnick]] · 2026-07 · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]
 - [[Citizens for Responsibility and Ethics in Washington]] *FOIA request on Lutnick/Trump children and mining* [[US International Development Finance Corporation]] · 2026-07-28 · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
 - [[Citizens for Responsibility and Ethics in Washington]] *sued over envoy role and lack of disclosure* [[Jared Kushner]] · 2026-10 · [[C15 Jared Kushner, Affinity Partners & Gulf Sovereign Funds|C15]]
+- [[Citizens for Responsibility and Ethics in Washington]] *sued (D.D.C. 26-cv-3580) over envoy role and disclosure* [[Jared Kushner]] · 2026-10-14 · [[C111 Jared Kushner, Affinity Partners & Israel|C111]]
 
 ### Media (9)
 

@@ -6,8 +6,8 @@ aliases:
   - "Abu Dhabi"
   - "Dubai"
   - "UAE"
-connections: 51
-claims: 28
+connections: 53
+claims: 29
 tags:
   - "entity"
   - "type/country"
@@ -21,8 +21,8 @@ Gulf state tied to WLF stake, MGX, AI chips and possible currency swap.
 | | |
 |---|---|
 | Type | Country |
-| Appears in | 28 checks |
-| Connections | 51 |
+| Appears in | 29 checks |
+| Connections | 53 |
 | Also known as | Abu Dhabi; Dubai; UAE |
 
 ## How Other Checks Describe It
@@ -63,11 +63,13 @@ Gulf state tied to WLF stake, MGX, AI chips and possible currency swap.
 - [[C94 The Sale of Lukoil's Foreign Assets & the Boehly Consortium]] · Mostly accurate
 - [[C98 Trump Media, Licensing & Merchandise Income During the Presidency]] · Mostly accurate
 - [[C105 Steve Witkoff Holdings, Divestiture & Overlapping Dealings]] · Mostly accurate
+- [[C112 Gaza Reconstruction, the Board of Peace & Who Is Involved]] · Partly accurate
 
 ## Relationships
 
-### Money (3)
+### Money (4)
 
+- [[United Arab Emirates]] *pledged; donation reportedly to JPMorgan account* [[Board of Peace]] · 2026-02 · [[C112 Gaza Reconstruction, the Board of Peace & Who Is Involved|C112]]
 - [[US Treasury]] *discussed possible swap line with* [[United Arab Emirates]] · 2026-04 · [[C08 AI Chip Exports to the UAE, Stargate & a Possible Currency Swap|C08]]
 - [[United Arab Emirates]] *funds (government-funded charity)* [[Watani Al Emarat Foundation]] · [[C37 The Reported Hack of Jared Kushner's Phone|C37]] · unverified allegation
 - [[Possible UAE currency swap]] *would aid* [[United Arab Emirates]] · [[C08 AI Chip Exports to the UAE, Stargate & a Possible Currency Swap|C08]]

@@ -47,6 +47,7 @@ Paulson is the clearest case. He is a documented Trump fundraiser and the larges
 - Perpetua's federal backing did not begin under Trump. The record of decision, the first EXIM letter of interest ($1.8B, April 2024) and most of the DoD awards came under Biden.
 - Kelcy Warren and Harold Hamm received regulatory decisions (an LNG deadline extension, BLM permits), not federal equity stakes, loans or price floors. Lake Charles LNG was suspended in December 2025.
 - Trilogy's biggest paper winner was Electrum (~18.5%), not Paulson (~8.7%).
+- 2026-11-17: ballroom donor list. The Adelson Family Foundation (a US family foundation; not Israeli government or company money) is reported to have committed $25M to the White House ballroom, the top tier alongside Nvidia, Apple and Charles Ergen, per a Washington Post list of donor records relayed by the Boston Globe (16 Oct 2026). Single-source: one outlet's records, and the foundation did not comment. Neither this check nor the donor list it relied on carried an amount for the foundation, and no sentence here ties a donation to any decision. Details are in C110.
 
 ## What Is Unproven
 
@@ -67,6 +68,10 @@ Paulson is the clearest case. He is a documented Trump fundraiser and the larges
 
 - [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department]] · Mostly accurate
 - [[C60 Government Equity Stakes in Critical-Minerals Companies]] · Mostly accurate
+
+## Checks That Build on This One
+
+- [[C110 Pro-Israel Donors & Trump's Campaign]] · Mostly accurate
 
 ## Sub-Claims
 
@@ -225,6 +230,7 @@ Paulson is the clearest case. He is a documented Trump fundraiser and the larges
 
 ## People & Organisations
 
+- [[Adelson Family Foundation]] · Fund
 - [[ALT5 Sigma]] · Company
 - [[Ambler Road]] · Asset
 - [[Blackstone]] · Company
@@ -290,7 +296,7 @@ Paulson is the clearest case. He is a documented Trump fundraiser and the larges
 
 ## Relationships Documented
 
-### Money (7)
+### Money (8)
 
 - [[Pentagon (Department of Defense)]] *~$80M DPA and other awards (mostly Biden-era)* [[Perpetua Resources]] · 2022-2025 · $80M · [[C86 Major Trump Donors with Stakes in Federally Backed Companies|C86]]
 - [[Donald Trump]] *US (Department of War) agreed $35.6M for ~10% ($17.8M to Trilogy, $17.8M to South32) plus warrants* [[Trilogy Metals]] · 2025-10-06 · $35.6M · [[C86 Major Trump Donors with Stakes in Federally Backed Companies|C86]]
@@ -299,6 +305,7 @@ Paulson is the clearest case. He is a documented Trump fundraiser and the larges
 - [[Export-Import Bank of the United States]] *board approved $2.9B senior loan (subject to documents)* [[Perpetua Resources]] · 2026-05 · $2.9B · [[C86 Major Trump Donors with Stakes in Federally Backed Companies|C86]]
 - [[US Department of Commerce]] *~10% stake, $277M funding + $1.3B loan* [[USA Rare Earth]] · 2026-06-03 · $1.58B · [[C86 Major Trump Donors with Stakes in Federally Backed Companies|C86]]
 - [[US International Development Finance Corporation]] *reported mid-teens equity stake in Boehly bid* [[Lukoil International GmbH]] · 2026-09 · [[C86 Major Trump Donors with Stakes in Federally Backed Companies|C86]]
+- [[Adelson Family Foundation]] *reported to have committed $25M (Washington Post records via Boston Globe; single-source)* [[White House ballroom]] · 2026-10 · $25M · [[C64 Lobbyists & Intermediaries with White House Access|C64]] [[C86 Major Trump Donors with Stakes in Federally Backed Companies|C86]]
 
 ### Ownership (24)
 
@@ -386,7 +393,7 @@ Paulson is the clearest case. He is a documented Trump fundraiser and the larges
   - Same firm appears as DWAC holder (2024), TikTok USDS investor/board member (2026), Truth API subscriber (2026) and via its founder as MAGA Inc.'s $16M donor.
   - [[Susquehanna International Group]] [[Jeff Yass]] [[TikTok USDS Joint Venture]] [[Trump Media & Technology Group]] · [Source](https://technical.ly/entrepreneurship/susquehanna-international-group-jeff-yass-tiktok-board/)
 
-## Sources (50)
+## Sources (51)
 
 1. [Trump approves mining road, delivers $70 million windfall to MAGA billionaire](https://popular.info/p/trump-approves-mining-road-delivers) (Popular Information, 2025-10)
 2. [Billionaire Trump donor gains $70 million in Ambler windfall](https://www.dermotcole.com/reportingfromalaska/2025/10/7/billionaire-trump-donor-gains-70-million-in-ambler-windfall) (Dermot Cole, 2025-10-07)
@@ -438,6 +445,7 @@ Paulson is the clearest case. He is a documented Trump fundraiser and the larges
 48. [TikTok seals deal for new joint venture](https://thedailyrecord.com/2026/01/23/tiktok-bytedance-us-owned-joint-venture-ban/) (The Daily Record (Reuters), 2026-01-23)
 49. [Letter to DoD, Commerce, Energy, Interior on mineral equity deals](https://democrats-naturalresources.house.gov/imo/media/doc/2026-02-02_moc_to_defense_commerce_energy_interior_re_mineral_equity_deals_oversight.pdf) (House Natural Resources Democrats, 2026-02-02)
 50. [The U.S. government invested $27 billion in corporate stakes](https://fortune.com/2026/07/26/the-u-s-government-invested-27-billion-in-corporate-stakes-good-luck-finding-them/) (Fortune, 2026-07-26)
+51. [Adelson Family Foundation donated $25 million to Trump's ballroom](https://www.bostonglobe.com/2026/10/16/business/adelson-trump-ballroom-donor/) (Boston Globe, 2026-10-16)
 
 ## Full Report
 
@@ -556,6 +564,10 @@ These links are our own cross-referencing. No source we saw asserts them.
 - **Realised gains:** none is documented except Paulson's undisclosed Trilogy sale.
 - **Pending deals:** the Perpetua loan and the Boehly bid were still pending in November 2026.
 
+### Corrections
+
+- **Ballroom donor list (2026-11-17):** The Adelson Family Foundation (a US family foundation, not Israeli money) is reported to have committed $25M to the White House ballroom, per a Washington Post list of donor records relayed by the Boston Globe (16 Oct 2026). Single-source; the foundation did not comment. No sentence here ties a donation to a decision. See C110.
+
 ### Source limits
 - **Not read directly:** NBC and the Alaska Beacon could not be read directly, and the report relies on search-result summaries for them.
 - **FEC filings:** these were not queried directly.
@@ -615,11 +627,13 @@ These links are our own cross-referencing. No source we saw asserts them.
 
 ### Audit (second-opinion pass, Nov 2026)
 
-Result: **upheld** (verdict and confidence unchanged).
+Result: **corrected** (verdict and confidence unchanged).
 
 - **Perpetua.** Upheld. EXIM's board approved $2.9B. Funds are available only after definitive documents and conditions are met (expected in H2 2026), and no close was found through Nov 2026. 13F trackers put Paulson at ~25-26%, the largest holder.
 - **Trilogy.** Upheld: 8.7% stake; 14.3M shares sold in Q4 2025; dates and prices undisclosed. Clarified that only $17.8M of the $35.6M went to Trilogy itself.
 - **Yass / TikTok.** Upheld. Vastmere is named as a Susquehanna affiliate, and SIG's Mark Dooley holds one of seven board seats.
 - **Labels.** Our own arithmetic (the Perpetua paper gain) and the single-source items (USAR PIPE buyers, Boehly consortium) are labelled.
+- **Ballroom donor list (2026-11-17).** Added the Adelson Family Foundation's reported $25M commitment, graded single-source (Boston Globe, 16 Oct 2026). Neither check named Adelson before.
 
 New sources: Mining Weekly 2026-05-22; Trendlyne 13F history; Mining Technology 2025-10; Motley Fool 2026-02-19; TechCrunch 2026-01-27. URLs are in the JSON `audit.new_sources`.
+Boston Globe 2026-10-16 (Adelson Family Foundation, ballroom).

@@ -2,8 +2,8 @@
 id: "qatar"
 kind: "entity"
 type: "country"
-connections: 44
-claims: 19
+connections: 48
+claims: 21
 tags:
   - "entity"
   - "type/country"
@@ -15,8 +15,8 @@ Gulf state that offered the jet, bought arms, hosts a Trump golf project.
 | | |
 |---|---|
 | Type | Country |
-| Appears in | 19 checks |
-| Connections | 44 |
+| Appears in | 21 checks |
+| Connections | 48 |
 
 ## How Other Checks Describe It
 
@@ -47,6 +47,8 @@ Gulf state that offered the jet, bought arms, hosts a Trump golf project.
 - [[C105 Steve Witkoff Holdings, Divestiture & Overlapping Dealings]] · Mostly accurate
 - [[C108 Pam Bondi & Todd Blanche Prior Clients, Holdings & Recusals]] · Mostly accurate
 - [[C109 Other Senior Officials Waivers, Late Divestitures & Outside Interests]] · Mostly accurate
+- [[C112 Gaza Reconstruction, the Board of Peace & Who Is Involved]] · Partly accurate
+- [[C113 US Decisions on Israel Arms, Sanctions & the Netanyahu Pardon Call]] · Mostly accurate
 
 ## Relationships
 
@@ -91,12 +93,14 @@ Gulf state that offered the jet, bought arms, hosts a Trump golf project.
 
 - [[Pam Bondi]] *lobbied for (via Ballard; FARA)* [[Qatar]] · 2019-2021 · [[C64 Lobbyists & Intermediaries with White House Access|C64]]
 
-### Political (6)
+### Political (8)
 
 - [[Steve Witkoff]] *lead negotiator in Qatar-mediated Gaza talks; relayed Doha strike warning* [[Qatar]] · 2025 · [[C53 The Witkoff Family's Own Gulf Money|C53]]
 - [[Qatar]] *provided 747-8 (see C16)* [[Qatar Boeing 747 gift]] · 2025-05 · [[C53 The Witkoff Family's Own Gulf Money|C53]]
 - [[Qatar]] *gifted 747-8 to US* [[Qatar Boeing 747 gift]] · 2025-05-21 · [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]]
 - [[Qatar]] *gifted to US government* [[Qatar Boeing 747 gift]] · 2025-05-21 · $400M · [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]]
+- [[Benjamin Netanyahu]] *apologised by phone for Doha strike* [[Qatar]] · 2025-09-29 · [[C113 US Decisions on Israel Arms, Sanctions & the Netanyahu Pardon Call|C113]]
+- [[Donald Trump]] *signed order guaranteeing Qatar's security after Israeli strike* [[Qatar]] · 2025-09-29 · [[C113 US Decisions on Israel Arms, Sanctions & the Netanyahu Pardon Call|C113]]
 - [[EO 'Assuring the Security of the State of Qatar']] *pledges US defence of* [[Qatar]] · 2025-10-01 · [[C73 Qatar's Ties to People in & Around the Administration|C73]]
 - [[FBI]] *security agreements with* [[Qatar]] · 2025-12 · [[C73 Qatar's Ties to People in & Around the Administration|C73]]
 

@@ -5,8 +5,8 @@ type: "government"
 aliases:
   - "Congress"
   - "U.S. Congress"
-connections: 68
-claims: 44
+connections: 70
+claims: 45
 tags:
   - "entity"
   - "type/government"
@@ -20,8 +20,8 @@ Passed crypto legislation; questioned Selig.
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 44 checks |
-| Connections | 68 |
+| Appears in | 45 checks |
+| Connections | 70 |
 | Also known as | Congress; U.S. Congress |
 
 ## How Other Checks Describe It
@@ -78,11 +78,13 @@ Passed crypto legislation; questioned Selig.
 - [[C102 Trades by Officials, Family & Associates]] · Mostly accurate
 - [[C103 Insider-Trading Oversight Requests, Probes & Outcomes]] · Mostly accurate
 - [[C104 Howard Lutnick Holdings, Divestiture & Recusals]] · Mostly accurate
+- [[C113 US Decisions on Israel Arms, Sanctions & the Netanyahu Pardon Call]] · Mostly accurate
 
 ## Relationships
 
-### Regulatory (10)
+### Regulatory (11)
 
+- [[Pentagon (Department of Defense)]] *Foreign military sale notifications to Congress* [[US Congress]] · 2025-02-07 · [[C113 US Decisions on Israel Arms, Sanctions & the Netanyahu Pardon Call|C113]]
 - [[Defense Security Cooperation Agency]] *notified MQ-9B sale to* [[US Congress]] · 2025-03-26 · [[C16 Qatar The Gifted Jet, Arms Sales & a Trump Golf Project|C16]]
 - [[US Congress]] *passed (Senate 68-30, House 308-122)* [[GENIUS Act]] · 2025-07-17 · [[C11 The GENIUS & CLARITY Acts & the Family's Stablecoin|C11]]
 - [[US Congress]] *Senate Democrats demanded answers on failure to divest* [[Steve Witkoff]] · 2025-10 · [[C14 Steve & Zach Witkoff A Middle East Envoy & World Liberty|C14]]

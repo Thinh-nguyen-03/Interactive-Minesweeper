@@ -43,6 +43,7 @@ The core facts hold. Trump publicly named Kushner an 'envoy of peace' (19 Feb 20
 - **Claimed:** He is 'not subject to divestment requirements' and need not file disclosures  
   **The record shows:** That is the White House's position, which CREW contests in litigation filed Oct 2026, and no court has ruled.
 - The $5B was a fundraising effort reported by the NYT (March 2026), not a completed raise; headlines saying 'raised $5B' overstate it.
+- 2026-11-17: Kushner's Board of Peace role: he is a member of both the founding Executive Board and the Gaza Executive Board (White House statement, 16 Jan 2026), not one board. The description of CREW's suit is corrected: the complaint is framed around the Appointments Clause (with a non-delegation alternative) and disclosure filings; the phrase 'special government employee' was not found in coverage of the complaint, so it is no longer attributed to CREW.
 
 ## What Is Unproven
 
@@ -64,6 +65,8 @@ The core facts hold. Trump publicly named Kushner an 'envoy of peace' (19 Feb 20
 - [[C57 The UAE Network Tahnoon, G42, MGX & Their US Deals]] · Mostly accurate
 - [[C76 Russia-Linked Money Around the Family & the Envoys]] · Partly accurate
 - [[C80 Sovereign-Fund Megadeals That Need US Approval]] · Mostly accurate
+- [[C111 Jared Kushner, Affinity Partners & Israel]] · Mostly accurate
+- [[C112 Gaza Reconstruction, the Board of Peace & Who Is Involved]] · Partly accurate
 
 ## Sub-Claims
 
@@ -73,7 +76,8 @@ The core facts hold. Trump publicly named Kushner an 'envoy of peace' (19 Feb 20
 
 - At the first Board of Peace meeting on 19 Feb 2026, Trump said 'We're making Jared an envoy also, envoy of peace.'
 - The White House then said the role would not be official.
-- Dates: 19 Feb 2026
+- Kushner sits on both Board of Peace executive boards: the founding Executive Board and the Gaza Executive Board, per the White House statement of 16 Jan 2026 (read in full in C112); Witkoff holds the same two seats.
+- Dates: 19 Feb 2026; 16 Jan 2026
 - Sources: [1](https://justthenews.com/politics-policy/trump-names-kushner-envoy-peace) [2](https://www.aol.com/articles/trump-says-son-law-kushner-152430541.html) [3](https://www.citizensforethics.org/news/press-releases/crew-statement-on-jared-kushners-role-as-special-peace-envoy)
 
 ### 2. Kushner takes part in negotiations alongside Steve Witkoff in an unofficial capacity.
@@ -123,9 +127,10 @@ The core facts hold. Trump publicly named Kushner an 'envoy of peace' (19 Feb 20
 
 - He has filed no disclosure and has not divested.
 - 'Not subject to' is the White House position.
-- CREW argues he is at least a special government employee who must file, and it sued in Oct 2026.
+- CREW sued on about 14 Oct 2026 (D.D.C.), arguing under the Appointments Clause that he exercises government power without Senate confirmation and, in the alternative, that the power was unlawfully delegated to a private citizen; it asks the court to order financial-disclosure filings and, if it finds a violation, to bar him from continued service.
+- Coverage of the complaint does not use the term 'special government employee' (complaint itself not read).
 - Kushner's lawyer Chad Mizelle says ethics attorneys found his arrangements compliant. No ruling yet.
-- Dates: Oct 2026
+- Dates: 14 Oct 2026
 - Sources: [3](https://www.citizensforethics.org/news/press-releases/crew-statement-on-jared-kushners-role-as-special-peace-envoy) [6](https://www.nbcnewyork.com/news/national-international/crew-lawsuit-trump-administration-jared-kushner/6559505/) [5](https://news.bloomberglaw.com/us-law-week/white-house-sued-over-kushners-government-work-by-watchdog)
 
 ### 7. In closed-door meetings it is unknown whether he argues for the US government or for his own Gulf-backed financial interests.
@@ -154,7 +159,7 @@ The core facts hold. Trump publicly named Kushner an 'envoy of peace' (19 Feb 20
 ## People & Organisations
 
 - [[Affinity Partners]] · Fund
-- [[Board of Peace (Gaza)]] · Government body
+- [[Board of Peace]] · Government body
 - [[Chad Mizelle]] · Person
 - [[Citizens for Responsibility and Ethics in Washington]] · Company
 - [[Conflict-of-interest laws]] · Law or policy
@@ -210,7 +215,7 @@ The core facts hold. Trump publicly named Kushner an 'envoy of peace' (19 Feb 20
 
 - [[Jared Kushner]] *negotiates alongside* [[Steve Witkoff]] · 2025 · [[C15 Jared Kushner, Affinity Partners & Gulf Sovereign Funds|C15]]
 - [[Jared Kushner]] *participated in US talks with* [[Iran]] · 2026 · [[C15 Jared Kushner, Affinity Partners & Gulf Sovereign Funds|C15]]
-- [[Jared Kushner]] *executive board member of* [[Board of Peace (Gaza)]] · 2026-01 · [[C15 Jared Kushner, Affinity Partners & Gulf Sovereign Funds|C15]]
+- [[Jared Kushner]] *executive board member of* [[Board of Peace]] · 2026-01 · [[C15 Jared Kushner, Affinity Partners & Gulf Sovereign Funds|C15]]
 - [[Donald Trump]] *named 'envoy of peace' (unofficial, volunteer)* [[Jared Kushner]] · 2026-02-19 · [[C15 Jared Kushner, Affinity Partners & Gulf Sovereign Funds|C15]]
 - [[Jared Kushner]] *travels and negotiates with* [[Steve Witkoff]] · [[C15 Jared Kushner, Affinity Partners & Gulf Sovereign Funds|C15]]
 - [[Jared Kushner]] *unofficial 'peace envoy' for* [[White House Trump administration]] · [[C15 Jared Kushner, Affinity Partners & Gulf Sovereign Funds|C15]]
@@ -267,7 +272,7 @@ The core facts hold. Trump publicly named Kushner an 'envoy of peace' (19 Feb 20
 
 ### Evidence, sub-claim by sub-claim
 
-1. **Trump called him "peace envoy." Confirmed.** At the first Board of Peace meeting on 19 Feb 2026, Trump said: "We're making Jared an envoy also, envoy of peace" (Just the News, AOL/Hill coverage). The White House then told NewsNation the role would not be official. Kushner also sits on the executive board of the Gaza "Board of Peace," announced in January 2026 (Al-Monitor).
+1. **Trump called him "peace envoy." Confirmed.** At the first Board of Peace meeting on 19 Feb 2026, Trump said: "We're making Jared an envoy also, envoy of peace" (Just the News, AOL/Hill coverage). The White House then told NewsNation the role would not be official. Kushner also sits on both executive boards of the Gaza "Board of Peace" (the founding Executive Board and the Gaza Executive Board), announced by the White House on 16 Jan 2026.
 
 2. **He works alongside Witkoff in an unofficial capacity. Confirmed.** The AP, NBC and Bloomberg Law all report that he has no formal title and no Senate confirmation. He has worked with Witkoff on Gaza and Iran talks (including Geneva) and on Russia-Ukraine. The White House says he is "a volunteer and not serving in any official capacity," pays his own expenses and draws no salary. Witkoff, by contrast, is a formal employee and filed a public financial disclosure.
 
@@ -277,7 +282,7 @@ The core facts hold. Trump publicly named Kushner an 'envoy of peace' (19 Feb 20
 
 5. **Saudi PIF put in $2B. Confirmed.** The PIF committed $2B in mid-2021, a few months after Kushner left the White House. The NYT reported in 2022 that the PIF's screening panel objected on 30 Jun 2021, citing "public relations risks" and the "inexperience" of Affinity's management, and that the board chaired by Crown Prince Mohammed bin Salman overruled it. Correction: the PIF is often called "one of his biggest investors"; it is the **largest** (per Wyden's Senate Finance letter). Other Gulf money is already in: Qatar Investment Authority and Abu Dhabi's Lunate added about $1.5B in Dec 2024 (Bloomberg).
 
-6. **No official title, so no divestment or financial disclosure. Partly accurate.** It is true that Kushner has filed no financial disclosure and has not divested. "Not subject to" those rules is the White House's legal position, not settled law. CREW argues that the "special envoy for peace" designation and his continuing duties make him at least a special government employee, which would require a public disclosure within 30 days. In October 2026 CREW sued to bar him from the role without Senate confirmation. The suit names Witkoff, Wiles, Rubio and Hegseth in their official capacities. Kushner's lawyer, Chad Mizelle, calls the suit "without merit." He says outside and government ethics attorneys reviewed Kushner's "volunteer government service" and found it compliant. No ruling was found.
+6. **No official title, so no divestment or financial disclosure. Partly accurate.** It is true that Kushner has filed no financial disclosure and has not divested. "Not subject to" those rules is the White House's legal position, not settled law. In October 2026 CREW sued, arguing under the Appointments Clause that he exercises government power without Senate confirmation (with an alternative claim that the power was unlawfully delegated to a private citizen) and asking the court to order disclosure filings and, if it finds a violation, to bar him from continued service. Coverage of the complaint does not use the term "special government employee"; we did not read the complaint itself. The suit names Witkoff, Wiles, Rubio and Hegseth in their official capacities. Kushner's lawyer, Chad Mizelle, calls the suit "without merit." He says outside and government ethics attorneys reviewed Kushner's "volunteer government service" and found it compliant. No ruling was found.
 
 7. **Conflict-of-interest insinuation. Unverified (opinion/insinuation).** The documented fact is that Kushner sought Gulf sovereign money while negotiating for the US in that region. Senator Wyden and Rep. Garcia opened a formal inquiry into this on 19 Mar 2026. No public evidence shows he argued for his own financial interests in any specific meeting. Framing this as an open question is fair. It is not a proven fact.
 
@@ -317,3 +322,7 @@ The core facts hold. Trump publicly named Kushner an 'envoy of peace' (19 Feb 20
 18. Wikipedia, "Affinity Partners" (background). https://en.wikipedia.org/wiki/Affinity_Partners
 
 Method note: direct page fetches were blocked in this session, so this report rests on search-result extracts from the pages above. The original NYT articles could not be read directly; their content is taken from consistent secondary summaries (Mediaite, Axios, the House Oversight letter).
+
+
+### Correction (2026-11-17)
+Board of Peace seats: both executive boards (White House, 16 Jan 2026). CREW suit: described by its Appointments Clause and disclosure claims; the "special government employee" wording is not found in coverage and is no longer attributed to CREW.

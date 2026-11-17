@@ -3,31 +3,32 @@ id: "dominari-holdings"
 kind: "entity"
 type: "company"
 aliases:
+  - "Dominari Holdings (Dominari Securities)"
   - "Dominari Holdings / Dominari Securities"
-connections: 41
-claims: 14
+connections: 43
+claims: 15
 tags:
   - "entity"
   - "type/company"
 ---
 # Dominari Holdings
 
-Nasdaq: DOMH; Trump Tower-based investment bank and broker; the Trump sons are advisers and about 13% holders.
+Trump Tower-based financial firm advised by Donald Trump Jr. and Eric Trump; placement agent for JFB in the XTEND deal
 
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 14 checks |
-| Connections | 41 |
-| Also known as | Dominari Holdings / Dominari Securities |
+| Appears in | 15 checks |
+| Connections | 43 |
+| Also known as | Dominari Holdings (Dominari Securities); Dominari Holdings / Dominari Securities |
 
 ## How Other Checks Describe It
 
+- Nasdaq: DOMH; Trump Tower-based investment bank and broker; the Trump sons are advisers and about 13% holders.
 - Small investment firm; the Trump brothers are on its board or advise it; co-formed American Data Centers.
 - Nasdaq: DOMH; Trump Tower-based investment bank; the Trump sons are advisers and about 13% holders.
 - Trump Tower-based boutique bank in which the Trump sons are advisers and hold about 12%.
 - Trump Tower-based broker-dealer holding company; the sons are advisers and shareholders.
-- Nasdaq: DOMH; Trump sons are major shareholders; its broker-dealer co-led the SPAC IPO.
 
 ## Appears in Checks
 
@@ -45,6 +46,7 @@ Nasdaq: DOMH; Trump Tower-based investment bank and broker; the Trump sons are a
 - [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival]] · Mostly accurate
 - [[C99 What Each Family Member Has Earned]] · Partly accurate
 - [[C102 Trades by Officials, Family & Associates]] · Mostly accurate
+- [[C114 Trump Family & Associates Business in Israel]] · Partly accurate
 
 ## Relationships
 
@@ -101,9 +103,11 @@ Nasdaq: DOMH; Trump Tower-based investment bank and broker; the Trump sons are a
 - [[House Select Committee on the CCP]] *investigative letter on Chinese small-cap IPOs* [[Dominari Holdings]] · 2026-03-08 · [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network|C39]]
 - [[US Congress]] *House China Select Committee information request* [[Dominari Holdings]] · 2026-03-08 · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]]
 
-### Advisory (5)
+### Advisory (7)
 
+- [[Donald Trump Jr]] *adviser* [[Dominari Holdings]] · 2025-02 · [[C114 Trump Family & Associates Business in Israel|C114]]
 - [[Donald Trump Jr]] *board member/adviser of* [[Dominari Holdings]] · 2025-02 · [[C18 Eric Trump, Metaplanet, American Bitcoin & Hut 8|C18]]
+- [[Eric Trump]] *adviser* [[Dominari Holdings]] · 2025-02 · [[C114 Trump Family & Associates Business in Israel|C114]]
 - [[Eric Trump]] *board member/adviser of* [[Dominari Holdings]] · 2025-02 · [[C18 Eric Trump, Metaplanet, American Bitcoin & Hut 8|C18]]
 - [[Donald Trump Jr]] *adviser (advisory board)* [[Dominari Holdings]] · 2025-02-10 · [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network|C39]]
 - [[Eric Trump]] *adviser (advisory board)* [[Dominari Holdings]] · 2025-02-10 · [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network|C39]]
@@ -121,7 +125,7 @@ Nasdaq: DOMH; Trump Tower-based investment bank and broker; the Trump sons are a
 - [[Bloomberg]] *investigative reporting* [[Dominari Holdings]] · 2025-05-19 · [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network|C39]]
 - [[The Wall Street Journal]] *profile 'go-to dealmaker'* [[Dominari Holdings]] · 2025-08-19 · [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network|C39]]
 
-### Commercial (18)
+### Commercial (19)
 
 - [[Kyle Wool]] *president; CEO of Dominari Securities* [[Dominari Holdings]] · 2023-03 · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]] [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]]
 - [[Dominari Holdings]] *lead underwriter on raises* [[American Bitcoin]] · 2025 · $220M · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]]
@@ -140,4 +144,5 @@ Nasdaq: DOMH; Trump Tower-based investment bank and broker; the Trump sons are a
 - [[Dominari Holdings]] *co-lead underwriter of IPO (Dominari Securities)* [[New America Acquisition I Corp]] · 2025-12 · [[C27 The New America Acquisition I SPAC|C27]]
 - [[Dominari Holdings]] *co-led IPO* [[New America Acquisition I Corp]] · 2025-12 · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]
 - [[Dominari Holdings]] *co-lead book-runner of $345M IPO* [[New America Acquisition I Corp]] · 2025-12-05 · $345M · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]
+- [[Dominari Holdings]] *exclusive placement agent for the XTEND combination* [[JFB Construction Holdings]] · 2026 · [[C114 Trump Family & Associates Business in Israel|C114]]
 - [[Kyle Wool]] *president of Dominari Securities* [[Dominari Holdings]] · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]

@@ -54,6 +54,7 @@ Filings document most of the record. Witkoff served as State Department envoy fr
 - C76 says Witkoff 'sold a $120M stake in his firm in Sep 2025'. The record shows: the sale was disclosed in September 2025 (report signed 13 Aug, published about 13 Sep); the sale itself took place between January and 13 August 2025, date undisclosed.
 - C14 says no divestiture certificate or recipient of the WLF stake was found. Still true as of 17 Nov 2026; in addition, the annual report signed on 29 Jul 2026, which covers calendar 2025, still lists the WLF and SC Financial interests and no transaction disposing of them during 2025. It does not show his position in 2026, when the White House said he had divested.
 - The 22 Oct 2025 senators' letter describes a '$2 billion investment from one of Sheikh Tahnoon's investment firms' in WLF. The record shows: MGX's $2B went into Binance and was settled in USD1; the Tahnoon-backed equity investment in WLF was Aryam's $500M for 49% (C07, C14).
+- 2026-11-17: Witkoff holds two Board of Peace seats, on the founding Executive Board and on the Gaza Executive Board (White House statement, 16 Jan 2026, read in full for C112). Earlier text listed only his envoy posts.
 
 ## What Is Unproven
 
@@ -75,6 +76,11 @@ Filings document most of the record. Witkoff served as State Department envoy fr
 - [[C65 Officials Who Decided Matters Involving Former Clients or Partners]] · Mostly accurate
 - [[C70 What the Trump Family's Foreign Partners Obtained from Washington]] · Mostly accurate
 
+## Checks That Build on This One
+
+- [[C112 Gaza Reconstruction, the Board of Peace & Who Is Involved]] · Partly accurate
+- [[C114 Trump Family & Associates Business in Israel]] · Partly accurate
+
 ## Sub-Claims
 
 ### 1. Witkoff's employment status: special envoy from January 2025, a full appointee from mid-2025, and for a time a special government employee.
@@ -90,6 +96,8 @@ Filings document most of the record. Witkoff served as State Department envoy fr
 - That he was an SGE (a status capped at 130 days of service in 365) rests on watchdog research (Accountable.us, 22 Sep 2025, not readable here) and secondary summaries; CREW wrote in July 2025 that it was unclear in what capacity State employed him.
 - No official document stating SGE status was found.
 - A span of more than 130 calendar days would not by itself show the cap was exceeded, since only days worked count.
+- Board of Peace: the White House statement of 16 Jan 2026 lists Witkoff on both the founding Executive Board (with Rubio, Kushner, Blair, Rowan, Banga and Gabriel) and the Gaza Executive Board; the 2025 278e covers calendar 2025 and so does not show these 2026 appointments.
+- No pay or compensation for these seats was found.
 - Dates: 12 November 2024; 12 December 2025; 30 June 2025; 6 May 2025; 22 Sep 2025
 - Sources: [2](https://www.whitehouse.gov/wp-content/uploads/2025/12/Witkoff-Steven.pdf) [6](https://www.warren.senate.gov/imo/media/doc/warren_murphy_letter_to_white_house_oge_on_witkoff_financial_disclosures.pdf) [17](https://www.citizensforethics.org/news/analysis/if-white-house-employees-are-working-for-free-what-are-they-getting-instead/) [21](https://accountable.us/2025-09-22-research-on-steve-witkoff-special-government-employee-status)
 
@@ -434,6 +442,7 @@ Filings document most of the record. Witkoff served as State Department envoy fr
 Most of the record is documented in his own disclosure filings, which were read in full:
 
 - **Status.** He was Special Envoy to the Middle East at the State Department from January to June 2025. Since 30 June 2025 he has been a full ("Non-Career") White House appointee: Assistant to the President and Special Envoy for Peace Missions. That he was a special government employee (SGE) in the first period is reported by watchdogs but is not stated in any document we found.
+- **Board of Peace.** The White House statement of 16 Jan 2026 lists him on two bodies: the founding Executive Board and the Gaza Executive Board (added 2026-11-17). The 2025 278e covers calendar 2025, so it does not show these seats; no pay for them was found.
 - **Filings.**
   - His new-entrant OGE Form 278e was signed on 13 August 2025 and published around 13 September.
   - It was certified by the White House ethics official only on 12 December 2025, after senators complained, and was corrected at that time to add the State post.

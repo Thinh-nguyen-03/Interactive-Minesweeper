@@ -68,6 +68,7 @@ One specific allegation exists, but it rests on a single source.
 - [[C45 Kushner's Resort Projects in Albania & Serbia]] · Mostly accurate
 - [[C46 The Alleged Kushner Gulf Accounts]] · Unverified · unverified allegation, single source
 - [[C76 Russia-Linked Money Around the Family & the Envoys]] · Partly accurate
+- [[C111 Jared Kushner, Affinity Partners & Israel]] · Mostly accurate
 
 ## Sub-Claims
 

@@ -5,8 +5,8 @@ type: "fund"
 aliases:
   - "Trump 2025 inaugural committee"
   - "Trump Vance Inaugural Committee"
-connections: 17
-claims: 6
+connections: 19
+claims: 7
 tags:
   - "entity"
   - "type/fund"
@@ -18,12 +18,13 @@ tags:
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 6 checks |
-| Connections | 17 |
+| Appears in | 7 checks |
+| Connections | 19 |
 | Also known as | Trump 2025 inaugural committee; Trump Vance Inaugural Committee |
 
 ## How Other Checks Describe It
 
+- 2025 inaugural fundraising committee (FEC C00894162)
 - 2025 inaugural committee; ~$245M raised.
 - Received $1M from Crypto.com
 - Received $1M from Amazon.
@@ -37,16 +38,18 @@ tags:
 - [[C44 Amazon's $40 Million Melania Trump Documentary Deal]] · Mostly accurate
 - [[C61 Lawyers & Law Firms That Recur Across the Deals]] · Mostly accurate
 - [[C86 Major Trump Donors with Stakes in Federally Backed Companies]] · Partly accurate
+- [[C110 Pro-Israel Donors & Trump's Campaign]] · Mostly accurate
 
 ## Relationships
 
-### Money (6)
+### Money (7)
 
 - [[Amazon]] *donated $1M* [[Trump-Vance Inaugural Committee]] · 2024-12 · $1M · [[C44 Amazon's $40 Million Melania Trump Documentary Deal|C44]]
 - [[Kraken]] *donated $1M to* [[Trump-Vance Inaugural Committee]] · 2024-12 · $1M · [[C23 SEC Crypto Cases Dropped & the Firms' Donations|C23]]
 - [[Ripple]] *donated ~$4.9-5M in XRP to* [[Trump-Vance Inaugural Committee]] · 2024-12 · $4.9M · [[C23 SEC Crypto Cases Dropped & the Firms' Donations|C23]]
 - [[Coinbase]] *donated $1M to* [[Trump-Vance Inaugural Committee]] · 2025-01 · $1M · [[C23 SEC Crypto Cases Dropped & the Firms' Donations|C23]]
 - [[Crypto.com]] *donated $1M to* [[Trump-Vance Inaugural Committee]] · 2025-01 · $1M · [[C23 SEC Crypto Cases Dropped & the Firms' Donations|C23]]
+- [[Miriam Adelson]] *reported $1M (press summaries of filing; not verified)* [[Trump-Vance Inaugural Committee]] · 2025-01 · $1M · [[C110 Pro-Israel Donors & Trump's Campaign|C110]]
 - [[Robinhood Markets]] *donated $2M to* [[Trump-Vance Inaugural Committee]] · 2025-01 · $2M · [[C43 Overlap Between Dropped Enforcement Cases & Trump Donors|C43]]
 
 ### Political (5)

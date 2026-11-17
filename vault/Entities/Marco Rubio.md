@@ -2,8 +2,8 @@
 id: "marco-rubio"
 kind: "entity"
 type: "person"
-connections: 6
-claims: 3
+connections: 7
+claims: 4
 tags:
   - "entity"
   - "type/person"
@@ -15,12 +15,13 @@ Secretary of State; invoked emergency waiver for 2026 sales
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 3 checks |
-| Connections | 6 |
+| Appears in | 4 checks |
+| Connections | 7 |
 
 ## How Other Checks Describe It
 
 - Secretary of State; thanked by KoBold for the Manono deal.
+- Secretary of State; Board of Peace executive board member.
 - Secretary of State credited by Cove.
 
 ## Appears in Checks
@@ -28,6 +29,7 @@ Secretary of State; invoked emergency waiver for 2026 sales
 - [[C16 Qatar The Gifted Jet, Arms Sales & a Trump Golf Project]] · Mostly accurate
 - [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings]] · Mostly accurate
 - [[C75 Congo Minerals Diplomacy Massad Boulos & Gentry Beach]] · Partly accurate
+- [[C112 Gaza Reconstruction, the Board of Peace & Who Is Involved]] · Partly accurate
 
 ## Relationships
 

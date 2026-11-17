@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "Witkoff"
-connections: 62
-claims: 25
+connections: 68
+claims: 28
 tags:
   - "entity"
   - "type/person"
@@ -19,8 +19,8 @@ US Special Envoy to the Middle East; father of WLF co-founder Zach Witkoff; WLF 
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 25 checks |
-| Connections | 62 |
+| Appears in | 28 checks |
+| Connections | 68 |
 | Also known as | Witkoff |
 
 ## How Other Checks Describe It
@@ -58,6 +58,9 @@ US Special Envoy to the Middle East; father of WLF co-founder Zach Witkoff; WLF 
 - [[C94 The Sale of Lukoil's Foreign Assets & the Boehly Consortium]] · Mostly accurate
 - [[C105 Steve Witkoff Holdings, Divestiture & Overlapping Dealings]] · Mostly accurate
 - [[C106 David Sacks Holdings, Ethics Waivers & AI & Crypto Policy]] · Mostly accurate
+- [[C111 Jared Kushner, Affinity Partners & Israel]] · Mostly accurate
+- [[C112 Gaza Reconstruction, the Board of Peace & Who Is Involved]] · Partly accurate
+- [[C114 Trump Family & Associates Business in Israel]] · Partly accurate
 
 ## Relationships
 
@@ -107,12 +110,14 @@ US Special Envoy to the Middle East; father of WLF co-founder Zach Witkoff; WLF 
 - [[Steve Witkoff]] *filed 2025 disclosure with* [[Office of Government Ethics]] · 2026 · [[C42 How World Liberty Insiders Took Money Out|C42]]
 - [[Gregory Meeks]] *sought State and Commerce IG investigation* [[Steve Witkoff]] · 2026-01-08 · [[C53 The Witkoff Family's Own Gulf Money|C53]]
 
-### Advisory (2)
+### Advisory (4)
 
 - [[David Warrington]] *White House counsel defending his ethics compliance* [[Steve Witkoff]] · 2025 · [[C53 The Witkoff Family's Own Gulf Money|C53]]
+- [[Jared Kushner]] *negotiated alongside* [[Steve Witkoff]] · 2025 · [[C111 Jared Kushner, Affinity Partners & Israel|C111]]
+- [[Steve Witkoff]] *co-authored* [[Project Sunrise New Gaza plan]] · 2025-12 · [[C112 Gaza Reconstruction, the Board of Peace & Who Is Involved|C112]]
 - [[Josh Gruenbaum]] *worked for on Gaza, Ukraine, Iran talks* [[Steve Witkoff]] · 2025-2026 · [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards|C81]]
 
-### Political (33)
+### Political (35)
 
 - [[Steve Witkoff]] *Special Envoy to the Middle East / for Peace Missions* [[White House Trump administration]] · 2024-11 · [[C14 Steve & Zach Witkoff A Middle East Envoy & World Liberty|C14]]
 - [[Jared Kushner]] *co-negotiates Russia/Iran talks with* [[Steve Witkoff]] · 2025 · [[C37 The Reported Hack of Jared Kushner's Phone|C37]] · unverified allegation
@@ -128,6 +133,7 @@ US Special Envoy to the Middle East; father of WLF co-founder Zach Witkoff; WLF 
 - [[Steve Witkoff]] *attended White House lunch with* [[Asim Munir]] · 2025-06-18 · [[C64 Lobbyists & Intermediaries with White House Access|C64]]
 - [[Steve Witkoff]] *attended* [[Munir White House lunch]] · 2025-06-18 · [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs|C72]]
 - [[Steve Witkoff]] *appointed Assistant to the President and Special Envoy for Peace Missions* [[White House Trump administration]] · 2025-06-30 · [[C105 Steve Witkoff Holdings, Divestiture & Overlapping Dealings|C105]]
+- [[Steve Witkoff]] *toured a GHF site with Huckabee* [[Gaza Humanitarian Foundation]] · 2025-08-01 · [[C112 Gaza Reconstruction, the Board of Peace & Who Is Involved|C112]]
 - [[Steve Witkoff]] *told by Trump to warn Qatar (timing disputed)* [[Israeli strike on Doha (Sept 9, 2025)]] · 2025-09-09 · [[C53 The Witkoff Family's Own Gulf Money|C53]]
 - [[Steve Witkoff]] *named with Sacks in inspector-general request* [[UAE AI chips deal]] · 2025-09-23 · [[C106 David Sacks Holdings, Ethics Waivers & AI & Crypto Policy|C106]]
 - [[Steve Witkoff]] *negotiating counterpart (Washington Apr 2025, Miami Oct 2025)* [[Kirill Dmitriev]] · 2025-10 · [[C105 Steve Witkoff Holdings, Divestiture & Overlapping Dealings|C105]]
@@ -136,6 +142,7 @@ US Special Envoy to the Middle East; father of WLF co-founder Zach Witkoff; WLF 
 - [[US Congress]] *questioned failure to divest* [[Steve Witkoff]] · 2025-10-22 · [[C42 How World Liberty Insiders Took Money Out|C42]]
 - [[Chris Murphy]] *opened ethics inquiry (with Warren)* [[Steve Witkoff]] · 2025-11-18 · [[C54 The Crypto Revolving Door|C54]]
 - [[Elizabeth Warren]] *opened ethics inquiry (with Murphy)* [[Steve Witkoff]] · 2025-11-18 · [[C54 The Crypto Revolving Door|C54]]
+- [[Steve Witkoff]] *executive board and Gaza Executive Board member* [[Board of Peace]] · 2026-01 · [[C112 Gaza Reconstruction, the Board of Peace & Who Is Involved|C112]]
 - [[David Warrington]] *asserted divestment from WLF* [[Steve Witkoff]] · 2026-02 · [[C14 Steve & Zach Witkoff A Middle East Envoy & World Liberty|C14]]
 - [[David Warrington]] *vouched for WLF divestment of* [[Steve Witkoff]] · 2026-02 · [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]]
 - [[David Warrington]] *stated he has divested from WLF and does not participate in matters affecting his interests* [[Steve Witkoff]] · 2026-02-01 · [[C105 Steve Witkoff Holdings, Divestiture & Overlapping Dealings|C105]]

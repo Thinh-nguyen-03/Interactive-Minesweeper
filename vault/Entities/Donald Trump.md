@@ -5,8 +5,8 @@ type: "person"
 aliases:
   - "Donald J. Trump"
   - "Trump"
-connections: 334
-claims: 105
+connections: 351
+claims: 110
 tags:
   - "entity"
   - "type/person"
@@ -20,8 +20,8 @@ US president; he and his family hold business interests in sectors where he sign
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 105 checks |
-| Connections | 334 |
+| Appears in | 110 checks |
+| Connections | 351 |
 | Also known as | Donald J. Trump; Trump |
 
 ## How Other Checks Describe It
@@ -139,10 +139,15 @@ US president; he and his family hold business interests in sectors where he sign
 - [[C106 David Sacks Holdings, Ethics Waivers & AI & Crypto Policy]] · Mostly accurate
 - [[C107 Scott Bessent & Paul Atkins Holdings & Divestiture Deadlines]] · Partly accurate
 - [[C108 Pam Bondi & Todd Blanche Prior Clients, Holdings & Recusals]] · Mostly accurate
+- [[C110 Pro-Israel Donors & Trump's Campaign]] · Mostly accurate
+- [[C111 Jared Kushner, Affinity Partners & Israel]] · Mostly accurate
+- [[C112 Gaza Reconstruction, the Board of Peace & Who Is Involved]] · Partly accurate
+- [[C113 US Decisions on Israel Arms, Sanctions & the Netanyahu Pardon Call]] · Mostly accurate
+- [[C114 Trump Family & Associates Business in Israel]] · Partly accurate
 
 ## Relationships
 
-### Money (65)
+### Money (66)
 
 - [[Jay Weitzman]] *donated $25,000 to 2017 inauguration* [[Donald Trump]] · 2017-01 · $25K · [[C66 The Extended Family's Ventures & Roles|C66]]
 - [[Donald Trump]] *donated first-term salary ($78,333 Q1 2017; $100,000 Q2 2020) to* [[National Park Service]] · 2017-04-03 · $178.33K · [[C95 The Presidential Salary Pledge|C95]]
@@ -199,6 +204,7 @@ US president; he and his family hold business interests in sectors where he sign
 - [[Donald Trump]] *US (Department of War) agreed $35.6M for ~10% ($17.8M to Trilogy, $17.8M to South32) plus warrants* [[Trilogy Metals]] · 2025-10-06 · $35.6M · [[C86 Major Trump Donors with Stakes in Federally Backed Companies|C86]]
 - [[Donald Trump]] *gave part of salary to ($66,000 Jan-Oct 2025, per the association)* [[White House Historical Association]] · 2025-10-27 · $66K · [[C95 The Presidential Salary Pledge|C95]]
 - [[Donald Trump]] *bought shares ($1M-$5M on 2026-02-10, 278-T)* [[Nvidia]] · 2026-02-10 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
+- [[Donald Trump]] *US pledged $10B (announced)* [[Board of Peace]] · 2026-02-19 · $10B · [[C112 Gaza Reconstruction, the Board of Peace & Who Is Involved|C112]]
 - [[Donald Trump]] *accounts bought $247k-$630k of shares (Q1 2026)* [[Palantir]] · 2026-03 · $630K · [[C20 Trump's Securities Purchases & His Truth Social Posts|C20]]
 - [[Donald Trump]] *bought PLTR; touted ticker on Truth Social* [[Palantir]] · 2026-04-10 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Donald Trump]] *received about $635M in royalties (2025, per June 2026 disclosure)* [[$TRUMP meme coin]] · 2026-06-30 · $635M · [[C30 Public Concern About Government Corruption & Criticism from Prominent Supporters|C30]]
@@ -254,7 +260,7 @@ US president; he and his family hold business interests in sectors where he sign
 - [[Donald Trump]] *family-linked venture of* [[World Liberty Financial]] · [[C09 The Dropped Binance Case & the Pardon of Changpeng Zhao|C09]]
 - [[DT Marks DEFI LLC]] *Trump-family-owned entity* [[Donald Trump]] · [[C13 The $1.5 Billion ALT5 Sigma Deal with World Liberty|C13]]
 
-### Family (16)
+### Family (17)
 
 - [[Donald Trump]] *family-controlled entity* [[DT Marks DEFI LLC]] · 2024-10 · [[C90 World Liberty's Token-Swap Pitch & Its Partners|C90]]
 - [[Donald Trump]] *father-in-law of; called the story false* [[Jared Kushner]] · 2026-10-23 · [[C46 The Alleged Kushner Gulf Accounts|C46]] · unverified allegation
@@ -262,6 +268,7 @@ US president; he and his family hold business interests in sectors where he sign
 - [[Donald Trump]] *father of* [[Barron Trump]] · [[C04 World Liberty Financial Founding & Token Sale|C04]] [[C29 Trump Family Wealth Gains Since the Election|C29]]
 - [[Donald Trump]] *father of* [[Donald Trump Jr]] · [[C04 World Liberty Financial Founding & Token Sale|C04]] [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]] [[C27 The New America Acquisition I SPAC|C27]] [[C29 Trump Family Wealth Gains Since the Election|C29]] [[C32 Donald Trump Jr.'s Ties to Other Government Contractors|C32]] [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network|C39]] [[C76 Russia-Linked Money Around the Family & the Envoys|C76]]
 - [[Donald Trump]] *father of* [[Eric Trump]] · [[C01 The $TRUMP Meme Coin & Who Profited|C01]] [[C04 World Liberty Financial Founding & Token Sale|C04]] [[C06 A UAE-Backed 49% Stake in World Liberty Financial|C06]] [[C16 Qatar The Gifted Jet, Arms Sales & a Trump Golf Project|C16]] [[C27 The New America Acquisition I SPAC|C27]] [[C29 Trump Family Wealth Gains Since the Election|C29]] [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network|C39]]
+- [[Donald Trump]] *father-in-law; directed his envoy work* [[Jared Kushner]] · [[C111 Jared Kushner, Affinity Partners & Israel|C111]]
 - [[Donald Trump]] *spouse* [[Melania Trump]] · [[C01 The $TRUMP Meme Coin & Who Profited|C01]] [[C40 Who Ran the $TRUMP & $MELANIA Launches|C40]]
 - [[Donald Trump]] *spouse of* [[Melania Trump]] · [[C02 The $MELANIA Coin & Melania Trump's NFT Income|C02]]
 - [[Donald Trump]] *father of* [[Tiffany Trump]] · [[C66 The Extended Family's Ventures & Roles|C66]]
@@ -312,7 +319,7 @@ US president; he and his family hold business interests in sectors where he sign
 - [[George Sorial]] *former Trump Organization EVP/chief compliance counsel* [[Donald Trump]] · [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department|C77]]
 - [[Steve Bannon]] *former chief strategist; architect of 'flood the zone' strategy* [[Donald Trump]] · [[C30 Public Concern About Government Corruption & Criticism from Prominent Supporters|C30]]
 
-### Political (154)
+### Political (167)
 
 - [[Keith Schiller]] *former bodyguard and Oval Office operations director* [[Donald Trump]] · 2017 · [[C64 Lobbyists & Intermediaries with White House Access|C64]]
 - [[Keith Schiller]] *former bodyguard; Oval Office operations director 2017* [[Donald Trump]] · 2017 · [[C83 Keith Schiller & George Sorial's Lobbying Clients|C83]]
@@ -382,10 +389,12 @@ US president; he and his family hold business interests in sectors where he sign
 - [[Qatar Boeing 747 gift]] *accepted for Air Force One use by* [[Donald Trump]] · 2025-05-21 · [[C84 Heritage Advisors & Sheikh Sultan bin Jassim|C84]]
 - [[Donald Trump]] *attended and spoke at* [[$TRUMP holders' dinner (May 22, 2025)]] · 2025-05-22 · [[C03 The Private Dinner for Top $TRUMP Holders|C03]]
 - [[Karoline Leavitt]] *defended 2025 filing on behalf of* [[Donald Trump]] · 2025-06 · [[C96 What Trump's Own Financial Disclosures Report|C96]]
+- [[UN Security Council]] *US vetoed Gaza ceasefire draft* [[Donald Trump]] · 2025-06-04 · [[C113 US Decisions on Israel Arms, Sanctions & the Netanyahu Pardon Call|C113]]
 - [[Donald Trump]] *signed* [[EO 14307 'Unleashing American Drone Dominance']] · 2025-06-06 · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]
 - [[Donald Trump]] *hosted White House lunch* [[Asim Munir]] · 2025-06-18 · [[C64 Lobbyists & Intermediaries with White House Access|C64]]
 - [[Donald Trump]] *hosted for lunch* [[Asim Munir]] · 2025-06-18 · [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs|C72]]
 - [[Pakistan]] *Nobel Peace Prize nomination* [[Donald Trump]] · 2025-06-21 · [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs|C72]]
+- [[Donald Trump]] *ordered Operation Midnight Hammer strikes* [[Iran]] · 2025-06-22 · [[C113 US Decisions on Israel Arms, Sanctions & the Netanyahu Pardon Call|C113]]
 - [[Donald Trump]] *lobbied House to pass* [[CLARITY Act]] · 2025-07 · [[C11 The GENIUS & CLARITY Acts & the Family's Stablecoin|C11]]
 - [[Donald Trump]] *directs and promotes* [[White House ballroom]] · 2025-07 · [[C33 Corporate Lawsuit Settlements & Donations to Trump's Library & Ballroom|C33]]
 - [[Donald Trump]] *sponsors project* [[White House ballroom]] · 2025-07 · [[C92 The White House Ballroom Donor List|C92]]
@@ -395,16 +404,23 @@ US president; he and his family hold business interests in sectors where he sign
 - [[Donald Trump]] *signed* [[GENIUS Act]] · 2025-07-18 · [[C35 Howard Lutnick, Cantor Fitzgerald & Tether|C35]]
 - [[Donald Trump]] *signed into law* [[GENIUS Act]] · 2025-07-18 · [[C34 David Sacks The AI & Crypto Adviser & His Investments|C34]]
 - [[Donald Trump]] *created by executive order* [[White House Task Force on the 2028 Olympics]] · 2025-08 · [[C93 Umar Kremlev, the International Boxing Association & US Decisions|C93]]
+- [[GREAT Trust prospectus]] *shared with the White House per reporting; not adopted* [[Donald Trump]] · 2025-08 · [[C112 Gaza Reconstruction, the Board of Peace & Who Is Involved|C112]]
 - [[Donald Trump]] *tied his salary gift to White House renovations including* [[White House ballroom]] · 2025-08-06 · [[C95 The Presidential Salary Pledge|C95]]
 - [[Asim Munir]] *presented mineral samples in Oval Office* [[Donald Trump]] · 2025-09-26 · [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs|C72]]
 - [[Donald Trump]] *demanded firing of Lisa Monaco citing contracts* [[Microsoft]] · 2025-09-26 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
+- [[Donald Trump]] *signed order guaranteeing Qatar's security after Israeli strike* [[Qatar]] · 2025-09-29 · [[C113 US Decisions on Israel Arms, Sanctions & the Netanyahu Pardon Call|C113]]
 - [[Donald Trump]] *signed* [[EO 'Assuring the Security of the State of Qatar']] · 2025-09-29 · [[C73 Qatar's Ties to People in & Around the Administration|C73]]
 - [[Donald Trump]] *withdrew CFTC chair nomination* [[Brian Quintenz]] · 2025-09-30 · [[C54 The Crypto Revolving Door|C54]]
 - [[Donald Trump]] *nominated as CFTC Chair* [[Mike Selig]] · 2025-10 · [[C22 Crypto.com's Deal with Trump Media|C22]] [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]] [[C54 The Crypto Revolving Door|C54]]
 - [[Donald Trump]] *posted 100% tariff on China at about 20:50 UTC* [[10 October 2025 China tariff post]] · 2025-10-10 · [[C101 Trading Ahead of Presidential Announcements|C101]]
+- [[Donald Trump]] *credited her publicly at the Knesset; said she gave $250M* [[Miriam Adelson]] · 2025-10-13 · [[C110 Pro-Israel Donors & Trump's Campaign|C110]]
+- [[Donald Trump]] *warned that annexation of the West Bank would end US support* [[Government of Israel]] · 2025-10-15 · [[C113 US Decisions on Israel Arms, Sanctions & the Netanyahu Pardon Call|C113]]
 - [[Donald Trump]] *hosted donor dinner for* [[White House ballroom]] · 2025-10-15 · [[C69 Master Timeline Money Events & Government Actions|C69]]
 - [[Donald Trump]] *struck tungsten deal with* [[Kassym-Jomart Tokayev]] · 2025-11-06 · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]
 - [[Donald Trump]] *announced Kazakhstan tungsten deal for* [[Kaz Resources]] · 2025-11-06 · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
+- [[Donald Trump]] *publicly called for pardon (Knesset, letter, posts)* [[Benjamin Netanyahu]] · 2025-11-12 · [[C113 US Decisions on Israel Arms, Sanctions & the Netanyahu Pardon Call|C113]]
+- [[Donald Trump]] *letter urging full pardon of Netanyahu; later criticism* [[Isaac Herzog]] · 2025-11-12 · [[C113 US Decisions on Israel Arms, Sanctions & the Netanyahu Pardon Call|C113]]
+- [[UN Security Council]] *adopted US-drafted Resolution 2803 (13-0-2)* [[Donald Trump]] · 2025-11-17 · [[C113 US Decisions on Israel Arms, Sanctions & the Netanyahu Pardon Call|C113]]
 - [[Donald Trump]] *announced approval of* [[Saudi F-35 sale]] · 2025-11-18 · [[C56 Saudi Arabia Family Deals Alongside US Policy Decisions|C56]]
 - [[Donald Trump]] *announced* [[Saudi major non-NATO ally status]] · 2025-11-18 · [[C56 Saudi Arabia Family Deals Alongside US Policy Decisions|C56]]
 - [[David Ellison]] *visited, promised CNN changes (reported)* [[Donald Trump]] · 2025-12 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
@@ -414,11 +430,15 @@ US president; he and his family hold business interests in sectors where he sign
 - [[Mike Causey]] *urged no pardon for Lindberg* [[Donald Trump]] · 2025-12-23 · [[C83 Keith Schiller & George Sorial's Lobbying Clients|C83]]
 - [[Dana White]] *longtime ally of* [[Donald Trump]] · 2026 · [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds|C87]]
 - [[Donald Trump]] *reportedly approved curbs on chip diverters (3+ times)* [[US Department of Commerce]] · 2026 · [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business|C50]]
-- [[Donald Trump]] *chairs* [[Board of Peace (Gaza)]] · 2026-01 · [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards|C81]]
+- [[Donald Trump]] *chairs* [[Board of Peace]] · 2026-01 · [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards|C81]]
+- [[Donald Trump]] *chairs (personal capacity, charter ratified 22 Jan 2026)* [[Board of Peace]] · 2026-01 · [[C112 Gaza Reconstruction, the Board of Peace & Who Is Involved|C112]]
 - [[Donald Trump]] *pushed to acquire* [[Greenland]] · 2026-01 · [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department|C77]]
+- [[Donald Trump]] *endorsed against Massie* [[Ed Gallrein]] · 2026-01-05 · [[C110 Pro-Israel Donors & Trump's Campaign|C110]]
+- [[Donald Trump]] *no documented link; firm lobbied White House officials per Guardian* [[Gothams LLC]] · 2026-02 · [[C112 Gaza Reconstruction, the Board of Peace & Who Is Involved|C112]]
 - [[Donald Trump]] *endorsed on Truth Social* [[Nexstar-Tegna merger]] · 2026-02 · [[C84 Heritage Advisors & Sheikh Sultan bin Jassim|C84]]
 - [[Donald Trump]] *named 'envoy of peace'* [[Jared Kushner]] · 2026-02-19 · [[C45 Kushner's Resort Projects in Albania & Serbia|C45]]
 - [[Donald Trump]] *named 'envoy of peace' (unofficial, volunteer)* [[Jared Kushner]] · 2026-02-19 · [[C15 Jared Kushner, Affinity Partners & Gulf Sovereign Funds|C15]]
+- [[Donald Trump]] *joined Israel in strikes on Iran* [[Iran]] · 2026-02-28 · [[C113 US Decisions on Israel Arms, Sanctions & the Netanyahu Pardon Call|C113]]
 - [[Donald Trump]] *removed as AG (announced 2 Apr 2026); named to PCAST May 2026* [[Pam Bondi]] · 2026-04-02 · [[C108 Pam Bondi & Todd Blanche Prior Clients, Holdings & Recusals|C108]]
 - [[Donald Trump]] *said currency swap 'under consideration'; called 'good ally'* [[United Arab Emirates]] · 2026-04-21 · [[C08 AI Chip Exports to the UAE, Stargate & a Possible Currency Swap|C08]]
 - [[Fairshake]] *backed Trump-endorsed GOP primary candidates; ads touted his endorsement* [[Donald Trump]] · 2026-05 · [[C52 Trump-Connected Lobbyists Hired by Crypto Firms & the SEC Enforcement Director's Exit|C52]]
@@ -469,7 +489,7 @@ US president; he and his family hold business interests in sectors where he sign
 - [[White House Trump administration]] *says others trade for* [[Donald Trump]] · [[C20 Trump's Securities Purchases & His Truth Social Posts|C20]]
 - [[Ronald Lauder]] *longtime friend; suggested buying Greenland (per Bolton)* [[Donald Trump]] · first term · [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department|C77]]
 
-### Legal (43)
+### Legal (44)
 
 - [[Presidential salary (3 U.S.C. 102)]] *sets compensation of* [[Donald Trump]] · 2001-01-20 · [[C95 The Presidential Salary Pledge|C95]]
 - [[STOCK Act]] *names the President as covered executive-branch employee* [[Donald Trump]] · 2012-04-04 · [[C103 Insider-Trading Oversight Requests, Probes & Outcomes|C103]]
@@ -481,6 +501,7 @@ US president; he and his family hold business interests in sectors where he sign
 - [[Sullivan & Cromwell]] *appellate counsel to (hush-money, civil fraud)* [[Donald Trump]] · 2025-01 · [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]]
 - [[Donald Trump]] *pardoned* [[Ross Ulbricht]] · 2025-01-21 · [[C36 Clemency for Other Crypto & Donor-Linked Figures|C36]]
 - [[X Corp]] *settlement reported as Trump's own income ($8M per disclosure, no pass-through noted; about $10M reported)* [[Donald Trump]] · 2025-02 · $8M · [[C100 Net Worth Change & Legal Settlements Paid to Trump|C100]]
+- [[Donald Trump]] *signed EO 14203 sanctioning the court* [[International Criminal Court]] · 2025-02-06 · [[C113 US Decisions on Israel Arms, Sanctions & the Netanyahu Pardon Call|C113]]
 - [[Donald Trump]] *pardoned* [[Devon Archer]] · 2025-03 · [[C49 The Market for Pardon Lobbying|C49]]
 - [[Donald Trump]] *pardoned* [[Arthur Hayes]] · 2025-03-27 · [[C36 Clemency for Other Crypto & Donor-Linked Figures|C36]]
 - [[Donald Trump]] *pardoned* [[Benjamin Delo]] · 2025-03-27 · [[C36 Clemency for Other Crypto & Donor-Linked Figures|C36]]
@@ -544,9 +565,10 @@ US president; he and his family hold business interests in sectors where he sign
 - [[Donald Trump]] *posts stock tickers on* [[Truth Social]] · [[C20 Trump's Securities Purchases & His Truth Social Posts|C20]]
 - [[Molly White]] *tracks and criticizes crypto income of* [[Donald Trump]] · [[C01 The $TRUMP Meme Coin & Who Profited|C01]]
 
-### Commercial (9)
+### Commercial (10)
 
 - [[Donald Trump]] *lends name to* [[Victory 47 fragrance]] · 2024-12 · [[C17 Trump-Branded Merchandise & the T1 Phone|C17]]
+- [[Donald Trump]] *Trump marks registered at the Israeli Patent Office (six registrations in his 2025 disclosure)* [[Israel]] · 2025 · [[C114 Trump Family & Associates Business in Israel|C114]]
 - [[Donald Trump]] *launched* [[$TRUMP meme coin]] · 2025-01-17 · [[C01 The $TRUMP Meme Coin & Who Profited|C01]] [[C02 The $MELANIA Coin & Melania Trump's NFT Income|C02]]
 - [[Donald Trump]] *launched and promoted* [[$TRUMP meme coin]] · 2025-01-17 · [[C01 The $TRUMP Meme Coin & Who Profited|C01]] [[C40 Who Ran the $TRUMP & $MELANIA Launches|C40]]
 - [[Qatar Boeing 747 gift]] *used as interim Air Force One by* [[Donald Trump]] · 2026-06 · [[C16 Qatar The Gifted Jet, Arms Sales & a Trump Golf Project|C16]]

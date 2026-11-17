@@ -51,6 +51,7 @@ The access layer is well documented. Pam Bondi (AG until Apr 2, 2026) lobbied fo
 - Ballard's access is contested: Politico reports he was frozen out after the Mar 2025 XRP post.
 - Audit: Patel's one-year Qatar recusal was pledged in Nov 2024 and had expired before he signed the Dec 2025 Doha agreements; it was not a pledge made at the signing.
 - Audit: Bondi is former AG (left Apr 2, 2026); Todd Blanche is AG (acting from Apr 2, confirmed 50-49 on Aug 8, sworn in Aug 10, 2026).
+- 2026-11-17: ballroom donor list. The Adelson Family Foundation (a US family foundation; not Israeli government or company money) is reported to have committed $25M to the White House ballroom, the top tier alongside Nvidia, Apple and Charles Ergen, per a Washington Post list of donor records relayed by the Boston Globe (16 Oct 2026). Single-source: one outlet's records, and the foundation did not comment. Neither this check nor the donor list it relied on carried an amount for the foundation, and no sentence here ties a donation to any decision. Details are in C110.
 
 ## What Is Unproven
 
@@ -67,6 +68,7 @@ The access layer is well documented. Pam Bondi (AG until Apr 2, 2026) lobbied fo
 - [[C73 Qatar's Ties to People in & Around the Administration]] · Mostly accurate
 - [[C83 Keith Schiller & George Sorial's Lobbying Clients]] · Mostly accurate
 - [[C84 Heritage Advisors & Sheikh Sultan bin Jassim]] · Mostly accurate
+- [[C110 Pro-Israel Donors & Trump's Campaign]] · Mostly accurate
 
 ## Sub-Claims
 
@@ -254,6 +256,7 @@ The access layer is well documented. Pam Bondi (AG until Apr 2, 2026) lobbied fo
 ## People & Organisations
 
 - [[1789 Capital]] · Fund
+- [[Adelson Family Foundation]] · Fund
 - [[Albania]] · Country
 - [[Arthur Schwartz]] · Person
 - [[Asim Munir]] · Person
@@ -329,7 +332,7 @@ The access layer is well documented. Pam Bondi (AG until Apr 2, 2026) lobbied fo
 
 ## Relationships Documented
 
-### Money (23)
+### Money (24)
 
 - [[Mercury Public Affairs]] *FARA consulting contracts ($930K/6 months; $360K/year)* [[Qatar]] · 2015/2019 · $930K · [[C64 Lobbyists & Intermediaries with White House Access|C64]]
 - [[Socialist Party of Albania]] *hired at $20K/month* [[Ballard Partners]] · 2017-04 · $20K · [[C64 Lobbyists & Intermediaries with White House Access|C64]]
@@ -354,6 +357,7 @@ The access layer is well documented. Pam Bondi (AG until Apr 2, 2026) lobbied fo
 - [[Tether]] *donor (Tether America)* [[White House ballroom]] · 2025-10 · [[C64 Lobbyists & Intermediaries with White House Access|C64]]
 - [[Fred Daibes]] *paid $1M for pardon push* [[Javelin Advisors]] · 2025-Q1 · $1M · [[C64 Lobbyists & Intermediaries with White House Access|C64]]
 - [[Kalshi]] *paid $240K (H1 2026)* [[Miller Strategies]] · 2026-06 · $240K · [[C64 Lobbyists & Intermediaries with White House Access|C64]]
+- [[Adelson Family Foundation]] *reported to have committed $25M (Washington Post records via Boston Globe; single-source)* [[White House ballroom]] · 2026-10 · $25M · [[C64 Lobbyists & Intermediaries with White House Access|C64]] [[C86 Major Trump Donors with Stakes in Federally Backed Companies|C86]]
 
 ### Ownership (9)
 
@@ -447,7 +451,7 @@ The access layer is well documented. Pam Bondi (AG until Apr 2, 2026) lobbied fo
   - Pakistan's lobbying push (Seiden, Javelin, Checkmate) ran alongside WLF deals and a US-Pakistan rare-earths agreement.
   - [[Pakistan]] [[World Liberty Financial]] [[Seiden Law LLP]] [[Javelin Advisors]] · [Source](https://www.aljazeera.com/news/2026/7/3/500m-for-trump-access-for-pakistan-how-a-crypto-diplomatic-bet-paid-off)
 
-## Sources (61)
+## Sources (62)
 
 1. [Former Qatar lobbyist Pam Bondi approves jet deal](https://readsludge.com/2025/05/12/former-qatar-lobbyist-pam-bondi-approves-jet-deal/) (Sludge, 2025-05-12)
 2. [Fact Check: Pam Bondi used to lobby for Qatar — but no proof she personally made $115K per month](https://www.yahoo.com/news/fact-check-pam-bondi-used-175300308.html) (Yahoo News)
@@ -510,6 +514,7 @@ The access layer is well documented. Pam Bondi (AG until Apr 2, 2026) lobbied fo
 59. [SEC drops Milton suit](https://www.law360.com/bankruptcy-authority/articles/2387230) (Law360, 2025-09)
 60. [Senate confirms Todd Blanche as attorney general](https://www.axios.com/2026/08/08/todd-blanche-trump-attorney-general-confirmed) (Axios, 2026-08-08)
 61. [Todd Blanche is sworn in as attorney general after bruising confirmation fight](https://wtop.com/government/2026/08/todd-blanche-is-sworn-in-as-attorney-general-after-bruising-confirmation-fight/) (WTOP (AP), 2026-08-10)
+62. [Adelson Family Foundation donated $25 million to Trump's ballroom](https://www.bostonglobe.com/2026/10/16/business/adelson-trump-ballroom-donor/) (Boston Globe, 2026-10-16)
 
 ## Full Report
 
@@ -659,6 +664,7 @@ These links come from our own cross-referencing. No source asserts them.
 - **Wiles and Qatar:** The claim that Wiles "led" Mercury's Qatar work is single-source, and Mercury's documented Qatar contracts predate her joining.
 - **Albania:** The 2025 Albanian lobbying with Trump-world firms (Continental, LaCivita and Manafort) is for Berisha's opposition, not for Rama's government, which is Kushner's partner.
 - **Ballard's access:** Ballard's access is contested. Politico reports that he was frozen out after the Mar 2025 XRP post.
+- **Ballroom donor list (2026-11-17):** The Adelson Family Foundation (a US family foundation, not Israeli money) is reported to have committed $25M to the White House ballroom, per a Washington Post list of donor records relayed by the Boston Globe (16 Oct 2026). Single-source; the foundation did not comment. No sentence here ties a donation to a decision. See C110.
 
 ### Denials and context
 - **Ballard:** The firm declined to comment to Sludge and did not respond to the Washington Examiner. Ballard, Miller and Priebus declined to comment to CBS on the ballroom.
@@ -740,5 +746,7 @@ Result: **corrected** (verdict and confidence unchanged).
 - **Pakistan.** Upheld. Seiden Law signed on Apr 8, 2025 at $200K/month (some outlets say $125K). Javelin's FARA registration (Apr 25, 2025) lists Sorial, Schiller and Robert Seiden as co-owners.
 - **Kalshi.** Upheld: $240K to Miller Strategies in H1 2026 (OpenSecrets via Stateline).
 - **Ballard and Saudi Arabia.** Upheld: $60K/month from Mar 31, 2025. Ballard's Mar 2026 FARA supplemental still lists the Saudi embassy.
+- **Ballroom donor list (2026-11-17).** Added the Adelson Family Foundation's reported $25M commitment, graded single-source (Boston Globe, 16 Oct 2026). Neither check named Adelson before.
 
 New sources: Jewish Insider 2025-12; Public Citizen OGE complaint; FARA 7579 registration; Nukta; Stateline/Indiana Capital Chronicle 2026-10-05; Sludge 2026-02-05; FARA 7070 supplemental 2026-03-02; AP/National Newswatch 2026-04-02; Axios 2026-08-08; WTOP (AP) 2026-08-10. URLs are in the JSON `audit.new_sources`.
+Boston Globe 2026-10-16 (Adelson Family Foundation, ballroom).

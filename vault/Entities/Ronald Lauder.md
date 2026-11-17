@@ -2,27 +2,36 @@
 id: "ronald-lauder"
 kind: "entity"
 type: "person"
-connections: 4
-claims: 1
+connections: 6
+claims: 2
 tags:
   - "entity"
   - "type/person"
 ---
 # Ronald Lauder
 
-Billionaire Trump friend credited with the Greenland-purchase idea
+Estee Lauder heir and World Jewish Congress president; reported $5M to MAGA Inc. in 2025
 
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 check |
-| Connections | 4 |
+| Appears in | 2 checks |
+| Connections | 6 |
+
+## How Other Checks Describe It
+
+- Billionaire Trump friend credited with the Greenland-purchase idea
 
 ## Appears in Checks
 
 - [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department]] · Mostly accurate
+- [[C110 Pro-Israel Donors & Trump's Campaign]] · Mostly accurate
 
 ## Relationships
+
+### Money (1)
+
+- [[Ronald Lauder]] *reportedly gave $5M* [[MAGA Inc]] · 2025-03 · $5M · [[C110 Pro-Israel Donors & Trump's Campaign|C110]]
 
 ### Ownership (2)
 

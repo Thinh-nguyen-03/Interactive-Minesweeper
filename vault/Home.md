@@ -7,15 +7,15 @@ tags:
 
 A tool for looking into Donald Trump, his family, his cabinet and administration, and the business, financial and political connections around them.
 
-It holds 109 checks of claims in public circulation, 1,454 people and organisations, and 3,292 documented relationships between them. Each check was tested against news reports, filings and official records. 93 of the 109 checks came out confirmed or mostly accurate. Open the graph view to explore.
+It holds 114 checks of claims in public circulation, 1,508 people and organisations, and 3,401 documented relationships between them. Each check was tested against news reports, filings and official records. 96 of the 114 checks came out confirmed or mostly accurate. Open the graph view to explore.
 
 Everyone named denies wrongdoing. Nothing here is an accusation of a crime. A link between two names is a documented relationship, not proof that one caused the other.
 
 ## Verdicts
 
 - Confirmed: 3
-- Mostly accurate: 90
-- Partly accurate: 14
+- Mostly accurate: 93
+- Partly accurate: 16
 - Unverified: 2
 
 ## Family Ventures & Wealth
@@ -107,6 +107,11 @@ Business projects and financial ties outside the Gulf, set beside US policy towa
 - [[C93 Umar Kremlev, the International Boxing Association & US Decisions]] · Partly accurate · connection check
 - [[C94 The Sale of Lukoil's Foreign Assets & the Boehly Consortium]] · Mostly accurate · connection check
 - [[C105 Steve Witkoff Holdings, Divestiture & Overlapping Dealings]] · Mostly accurate
+- [[C110 Pro-Israel Donors & Trump's Campaign]] · Mostly accurate
+- [[C111 Jared Kushner, Affinity Partners & Israel]] · Mostly accurate
+- [[C112 Gaza Reconstruction, the Board of Peace & Who Is Involved]] · Partly accurate
+- [[C113 US Decisions on Israel Arms, Sanctions & the Netanyahu Pardon Call]] · Mostly accurate
+- [[C114 Trump Family & Associates Business in Israel]] · Partly accurate
 
 ## Regulators & Enforcement
 
@@ -203,8 +208,8 @@ Technology and media companies that made payments, settlements or donations whil
 
 - [[United Arab Emirates]]
 - [[Qatar]]
-- [[Aryam Investment 1]]
 - [[Public Investment Fund (Saudi Arabia)]]
+- [[Aryam Investment 1]]
 - [[Qatar Investment Authority]]
 - [[Saudi Arabia]]
 
@@ -226,28 +231,28 @@ Technology and media companies that made payments, settlements or donations whil
 
 ## Most Connected
 
-- [[Donald Trump]] (105 checks, 334 connections)
+- [[Donald Trump]] (110 checks, 351 connections)
 - [[World Liberty Financial]] (51 checks, 131 connections)
-- [[White House Trump administration]] (70 checks, 120 connections)
+- [[White House Trump administration]] (73 checks, 125 connections)
 - [[Securities and Exchange Commission]] (38 checks, 106 connections)
-- [[Donald Trump Jr]] (56 checks, 102 connections)
-- [[Eric Trump]] (54 checks, 94 connections)
+- [[Donald Trump Jr]] (57 checks, 103 connections)
+- [[Eric Trump]] (55 checks, 97 connections)
+- [[Trump Organization]] (38 checks, 93 connections)
 - [[Elizabeth Warren]] (43 checks, 91 connections)
-- [[Trump Organization]] (36 checks, 90 connections)
+- [[Jared Kushner]] (27 checks, 79 connections)
 - [[Trump Media & Technology Group]] (31 checks, 76 connections)
-- [[Jared Kushner]] (25 checks, 73 connections)
-- [[US Congress]] (44 checks, 68 connections)
-- [[Steve Witkoff]] (25 checks, 62 connections)
-- [[White House ballroom]] (10 checks, 56 connections)
-- [[United Arab Emirates]] (28 checks, 51 connections)
+- [[US Congress]] (45 checks, 70 connections)
+- [[Steve Witkoff]] (28 checks, 68 connections)
+- [[White House ballroom]] (11 checks, 57 connections)
+- [[United Arab Emirates]] (29 checks, 53 connections)
+- [[Affinity Partners]] (22 checks, 49 connections)
+- [[Qatar]] (21 checks, 48 connections)
+- [[Pentagon (Department of Defense)]] (19 checks, 47 connections)
 - [[Commodity Futures Trading Commission]] (15 checks, 45 connections)
 - [[The Wall Street Journal]] (25 checks, 45 connections)
 - [[Office of Government Ethics]] (22 checks, 44 connections)
-- [[Pentagon (Department of Defense)]] (18 checks, 44 connections)
-- [[Qatar]] (19 checks, 44 connections)
-- [[Affinity Partners]] (20 checks, 42 connections)
+- [[Dominari Holdings]] (15 checks, 43 connections)
 - [[The New York Times]] (23 checks, 42 connections)
 - [[David Sacks]] (11 checks, 41 connections)
-- [[Dominari Holdings]] (14 checks, 41 connections)
 - [[Cantor Fitzgerald]] (11 checks, 40 connections)
 - [[Sheikh Tahnoon bin Zayed]] (24 checks, 40 connections)

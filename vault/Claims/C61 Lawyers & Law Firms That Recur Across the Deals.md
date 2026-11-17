@@ -250,7 +250,7 @@ Several lawyers and firms do recur across the Trump-family ventures, their count
 - [[BakerHostetler]] · Company
 - [[Ballard Partners]] · Company
 - [[Binance]] · Company
-- [[Board of Peace (Gaza)]] · Government body
+- [[Board of Peace]] · Government body
 - [[Brad Bondi]] · Person
 - [[Campaign Legal Center]] · Company
 - [[Chad Mizelle]] · Person
@@ -339,7 +339,7 @@ Several lawyers and firms do recur across the Trump-family ventures, their count
 - [[Chad Mizelle]] *chief of staff to* [[Pam Bondi]] · 2025-01 · [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]]
 - [[Chad Mizelle]] *chief of staff at* [[US Department of Justice (us-doj)]] · 2025-01 · [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]]
 - [[David Warrington]] *White House counsel to* [[Donald Trump]] · 2025-01 · [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]]
-- [[Martin Edelman]] *named in leaked draft as executive board member (single-source)* [[Board of Peace (Gaza)]] · 2026 · [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]]
+- [[Martin Edelman]] *named in leaked draft as executive board member (single-source)* [[Board of Peace]] · 2026 · [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]]
 - [[David Warrington]] *vouched for WLF divestment of* [[Steve Witkoff]] · 2026-02 · [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]]
 - [[United Arab Emirates]] *awarded Order of the Union to* [[Martin Edelman]] · 2026-06 · [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]]
 
@@ -387,7 +387,7 @@ Several lawyers and firms do recur across the Trump-family ventures, their count
   - [[Brad Bondi]] [[Pam Bondi]] [[Paul Hastings LLP]] [[US Department of Justice (us-doj)]] [[Securities and Exchange Commission]] · [Source](https://www.schiff.senate.gov/wp-content/uploads/2026/03/Letter-from-Sen.-Schiff-and-Rep.-Min-to-DOJ-OIG-on-Brad-Bondi.pdf)
 - **Martin Edelman and the Gaza Board of Peace executive board**
   - A leaked draft names the Aryam/G42 WLF board designee to the board on which Witkoff and Kushner sit; needs confirmation from an official roster.
-  - [[Martin Edelman]] [[Board of Peace (Gaza)]] [[Steve Witkoff]] [[Jared Kushner]] · [Source](https://accuracy.org/?p=79371)
+  - [[Martin Edelman]] [[Board of Peace]] [[Steve Witkoff]] [[Jared Kushner]] · [Source](https://accuracy.org/?p=79371)
 - **Dhillon Law Group alumni in the administration and on Trump entities**
   - White House counsel, the Civil Rights AAG and the registrant of the inaugural committee and library fund all trace to one boutique paid by Trump's PAC; a full alumni map (e.g. Gary Lawkowski) is missing.
   - [[Dhillon Law Group]] [[David Warrington]] [[Harmeet Dhillon]] [[Jacob Roth]] [[Save America PAC]] · [Source](https://www.yahoo.com/news/several-administration-officials-formerly-trumps-225500153.html)

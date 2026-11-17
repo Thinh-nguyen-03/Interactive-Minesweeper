@@ -4,30 +4,30 @@ kind: "entity"
 type: "fund"
 aliases:
   - "American Ventures (Management LLC and SPVs)"
-connections: 14
-claims: 7
+connections: 16
+claims: 8
 tags:
   - "entity"
   - "type/fund"
 ---
 # American Ventures
 
-$1B Dominari-created microcap investment vehicle (about 90% Dominari-owned) with Trump-son investors.
+Texas-based vehicle listing Donald Trump Jr. and Eric Trump among its backers; holds XTEND, Powerus and Unusual Machines stakes (Bloomberg)
 
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 7 checks |
-| Connections | 14 |
+| Appears in | 8 checks |
+| Connections | 16 |
 | Also known as | American Ventures (Management LLC and SPVs) |
 
 ## How Other Checks Describe It
 
+- $1B Dominari-created microcap investment vehicle (about 90% Dominari-owned) with Trump-son investors.
 - Roughly $1B Dominari-controlled (90%) investment vehicle; the Trump sons are passive investors.
 - Fund through which the Trump brothers hold their Aureus/Powerus stake
 - Dominari-controlled vehicles holding Trump sons' microcap stakes
 - Dominari-controlled SPVs holding the Trump sons' Aureus stake.
-- Dominari-controlled fund with Trump-son investors
 
 ## Appears in Checks
 
@@ -38,6 +38,7 @@ $1B Dominari-created microcap investment vehicle (about 90% Dominari-owned) with
 - [[C63 Shell Entities & Ownership Chains]] · Mostly accurate
 - [[C70 What the Trump Family's Foreign Partners Obtained from Washington]] · Mostly accurate
 - [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs]] · Mostly accurate
+- [[C114 Trump Family & Associates Business in Israel]] · Partly accurate
 
 ## Relationships
 
@@ -55,11 +56,14 @@ $1B Dominari-created microcap investment vehicle (about 90% Dominari-owned) with
 - [[Donald Trump Jr]] *investor* [[American Ventures]] · [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs|C72]]
 - [[Eric Trump]] *investor* [[American Ventures]] · [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs|C72]]
 
-### Ownership (8)
+### Ownership (11)
 
 - [[Dominari Holdings]] *created, owns about 90%* [[American Ventures]] · 2026 · [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network|C39]]
+- [[American Ventures]] *stake estimated about $340M by Bloomberg (single outlet)* [[XTEND]] · 2026-03 · $340M · [[C114 Trump Family & Associates Business in Israel|C114]]
 - [[Donald Trump Jr]] *holds Powerus stake via* [[American Ventures]] · 2026-03 · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]
+- [[Donald Trump Jr]] *listed among backers* [[American Ventures]] · 2026-03 · [[C114 Trump Family & Associates Business in Israel|C114]]
 - [[Eric Trump]] *holds Powerus stake via* [[American Ventures]] · 2026-03 · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]
+- [[Eric Trump]] *listed among backers* [[American Ventures]] · 2026-03 · [[C114 Trump Family & Associates Business in Israel|C114]]
 - [[Dominari Holdings]] *owns 90% of American Ventures Management LLC* [[American Ventures]] · 2026-05 · [[C63 Shell Entities & Ownership Chains|C63]]
 - [[Dominari Holdings]] *owns 90% of manager* [[American Ventures]] · 2026-05 · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]
 - [[American Ventures]] *expected 9.9% beneficial owner of* [[Powerus Corp]] · 2026-10 · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]
