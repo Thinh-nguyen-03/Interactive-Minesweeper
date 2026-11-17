@@ -20,7 +20,7 @@ Evidence grades: **documented** (filings, official records or several outlets), 
 - The two firms bought the XI project out of a ~$900M Dec 2021 foreclosure and renamed it One High Line. They refinanced it with a $1.15B JPMorgan/Tyko loan (Aug 2024) and a $525M loan (Jan 2026). They also co-own Banyan Cay (West Palm Beach) and announced a North Beach, Miami project with Sandor Scher in Feb 2025 (The Real Deal, Bloomberg).
 - Counteroffensive (Apr 2025), Popular Information and Byline Times (1 Dec 2025) present this as an undisclosed conflict during the Russia talks. They note that Ukraine sanctioned Blavatnik for ten years in Dec 2023 on unpublished grounds.
 - Byline's further claim that Blavatnik was a "former adviser" to Dmitriev is **unverified**. In the coverage we could see, the named pre-2022 RDIF foreign advisers are Leon Black and Stephen Schwarzman.
-- Witkoff sold a $120M stake in his firm in Sep 2025. His son Alex still runs it, so the family's exposure to the partnership continues. That point is **inferred**.
+- Witkoff's disclosure, published in September 2025, shows a $120M sale of an interest in his firm. The sale took place between January and 13 August 2025; the date and buyer are undisclosed. He still holds a stake valued over $50M. His son Alex still runs it, so the family's exposure to the partnership continues. That point is **inferred**.
 - Denials: Access Industries says Blavatnik and Witkoff "have never spoken about the Russia-Ukraine negotiations." Blavatnik says he exited Russia in 2022.
 
 ### 3. Dmitriev ↔ Witkoff and Kushner: "make money not war" (documented)
@@ -135,3 +135,10 @@ New sources: Kyiv Independent https://kyivindependent.com/trump-says-son-reimbur
 
 Second audit cross-check (from the C94 review):
 - **Al-Khayyat-Kushner Albania partnership.** Upgraded from single-source to documented: Ramez Al-Khayyat confirmed it to the NYT (19 Apr 2026), a Sazan Real Estate spokesperson confirmed it to CBS, and OCCRP cites registry filings. 'Former' dropped, since no source says it ended. Sources: Balkanweb https://www.balkanweb.com/en/Two-Qatari-billionaires-and-a-complex-network-of-companies-behind-the-Sazan-project/; CBS News https://cbsnews.com/news/albania-protests-jared-kushner-luxury-resort-plans-anti-corruption
+
+## Audit addendum (17 Nov 2026, holdings check)
+
+Result: **corrected** (verdict unchanged).
+
+- **The $120M sale.** It was disclosed in September 2025 but took place between January and 13 August 2025, because the same line appears in his new-entrant report (period to 13 August 2025) and in his annual report for calendar 2025. The relationship date has been changed accordingly.
+- **Source.** 278e, read in full: https://www.whitehouse.gov/wp-content/uploads/2025/12/Witkoff-Steven.pdf

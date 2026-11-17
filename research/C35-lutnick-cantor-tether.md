@@ -10,7 +10,7 @@ The core financial ties are well documented:
 
 - Cantor is custodian of Tether's Treasury reserves.
 - Cantor holds a ~$600M convertible bond that converts into about 5% of Tether. This was negotiated in 2024, while Lutnick ran Cantor.
-- Lutnick announced the handover of Cantor to trusts for his children in May 2025; Bloomberg reports the sale to the trusts closed in October 2025. Brandon Lutnick is now chairman and CEO.
+- Lutnick signed all his sale agreements on 16 May 2025. The Cantor sale closed on 6 October 2025, after regulatory approvals, per his own 278-T. Cantor says his stake went to trusts for his children. Brandon Lutnick is now chairman and CEO.
 - Bloomberg reported in March 2026 that Tether lent money to one of those trusts while the children were buying his assets.
 - Cantor's SPAC, Cantor Equity Partners, took Twenty One Capital public. Twenty One is majority-owned by Tether and Bitfinex.
 - The GENIUS Act became law in July 2025. Tether then launched a GENIUS-compliant US coin, USAT, with Cantor as reserve custodian.
@@ -44,7 +44,8 @@ The original pages at theblock.co, decrypt.co, news.bloomberglaw.com, banking.se
 - **Confirmation:** the Senate confirmed Lutnick on 18 Feb 2025, 51–45, and he resigned his Cantor posts.
 - **Transfer to trusts:** the divestiture was announced on 19 May 2025 and parts took effect on 16 May 2025. The transfer of Lutnick's Cantor interest to trusts for his adult children was to close after regulatory approvals (expected Q3 2025); Bloomberg later reported the sale to the trusts took place in October 2025 (audit correction).
 - **Who runs Cantor now:** Brandon Lutnick is chairman and CEO. Kyle Lutnick is executive vice chair.
-- **Minority stakes:** these went to 26North and to Glenn August.
+- **Buyers:** the White House waiver of 8 July 2025 names the buyers as "26 North, Oak Hill Advisors and Cantor Fitzgerald, L.P.". Cantor's announcement describes 26North and Glenn August (founder of Oak Hill Advisors) as minority owners.
+- **Dates (corrected 17 Nov 2026):** his 278-T (signed 5 November 2025) says each sale was "entered into May 16, 2025 ... and consummated on October 6, 2025 following regulatory approvals". The sales cover Cantor Fitzgerald, L.P., CF Group Management, Inc., his BGC Class B shares and smaller interests.
 - **Buybacks:** BGC bought back ~16.4M shares from Lutnick for $151.5M. Newmark bought 11M shares for $127M. Cantor keeps control of both companies.
 
 ### 4. Tether financed the children's trust during the divestiture — partly documented
@@ -90,7 +91,7 @@ The original pages at theblock.co, decrypt.co, news.bloomberglaw.com, banking.se
 ## Denials and other side
 
 - **Tether (2024):** the relationship is purely professional, about managing reserves, and Lutnick's transition role gave it no regulatory influence.
-- **Commerce Department:** Lutnick has fully complied with his ethics agreement, including all divestiture and recusal requirements.
+- **Commerce Department:** Lutnick has fully complied with his ethics agreement, including all divestiture and recusal requirements. For context, the record also includes a limited interim waiver under 18 U.S.C. 208(b)(1), issued by White House Counsel on 8 July 2025. It let him take part in broad policy matters affecting Cantor, BGC and Newmark until the 6 October 2025 closing. It did not cover specific-party matters involving the firms or meetings with their representatives.
 - **Cantor:** the acquisition by the children's trusts "was funded through multiple sources, multiple companies and multiple trusts at market rates and market prices".
 - **Lutnick at his hearing:** he denied owning Tether, defended its use against comparisons with the dollar and euro in crime, and backed audits.
 - **The senators' letters:** they are investigative requests from Democrats in the minority, who lack subpoena power. No letter alleges a specific crime.
@@ -130,3 +131,12 @@ Result: **corrected** (verdict and confidence unchanged).
 - **Cantor and Nvidia (not checked before).** Cantor's Q3 2024 13F showed ~$1.19B of Nvidia exposure including large option positions (Benzinga). Aggregator data puts its Q1 2026 common position at ~1.78M shares (~$310M). Axios (11 Nov 2026, also via Reuters) reports that Lutnick resisted curbs on Megaspeed, a Nvidia customer accused of diverting chips to China. No source links Cantor's holdings or Tether to that stance, so the chip sub-claim stays unverified.
 
 Audit sources: Bloomberg Law (2026-03-18, 2025-05-19); The Block (2025-09, 2026-02-04); PYMNTS (2026-04); Benzinga (2024-11); GV Wire/Reuters (2026-11-11). URLs are in the JSON `audit.new_sources`.
+
+## Audit addendum (17 Nov 2026, holdings check)
+
+Result: **corrected** (verdict unchanged).
+
+- **Buyers.** The White House waiver (8 July 2025, read in full) names them as 26North, Oak Hill Advisors and Cantor Fitzgerald, L.P., not "26North and Glenn August". Glenn August founded Oak Hill Advisors.
+- **Dates.** All sale agreements were signed on 16 May 2025. The Cantor sale closed on 6 October 2025, per his 278-T signed 5 November 2025 (read in full).
+- **Waiver.** The limited interim 208(b)(1) waiver of 8 July 2025 has been added as context to Commerce's "fully complied" statement.
+- **Sources.** 278-T: https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/8C12E5475578E84385258D5C00345940/$FILE/Howard-Lutnick-11.05.2025-278T.pdf ; waiver: https://www.whitehouse.gov/wp-content/uploads/2025/07/Howard-W.-Lutnick-Limited-Waiver-Pursuant-to-18-U.S.C.-208b1.pdf

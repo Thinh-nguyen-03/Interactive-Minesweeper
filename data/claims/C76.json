@@ -8,7 +8,7 @@
     {
       "statement": "Steve Witkoff's real-estate business is in active partnership with Len Blavatnik's Access Industries while Witkoff negotiates with Russia.",
       "verdict": "confirmed",
-      "finding": "DOCUMENTED (trade press, multiple deals): Witkoff Group and Access Industries bought HFZ's XI condo project out of a ~$900M Dec 2021 foreclosure and renamed it One High Line (The Real Deal, 2021-12-23). They refinanced it with a $1.15B JPMorgan/Tyko loan (Aug 2024) and landed a further $525M loan (Jan 2026). They also co-own Banyan Cay (West Palm Beach) and announced a North Beach, Miami condo project with Sandor Scher (Feb 2025). The 'undisclosed conflict' framing is SINGLE-SOURCE commentary: Counteroffensive (Apr 2025), Popular Information, and Byline Times (1 Dec 2025). They note the partnership continued after Ukraine sanctioned Blavatnik in Dec 2023, on grounds Ukraine never published. Witkoff sold a $120M stake in his firm in Sep 2025. His son Alex still runs operations, so the family's exposure to the partnership continues; that last point is our INFERENCE. Access Industries says Blavatnik and Witkoff 'have never spoken about the Russia-Ukraine negotiations'. Blavatnik says he exited Russia in 2022. The tie shows a commercial relationship, not influence on policy.",
+      "finding": "DOCUMENTED (trade press, multiple deals): Witkoff Group and Access Industries bought HFZ's XI condo project out of a ~$900M Dec 2021 foreclosure and renamed it One High Line (The Real Deal, 2021-12-23). They refinanced it with a $1.15B JPMorgan/Tyko loan (Aug 2024) and landed a further $525M loan (Jan 2026). They also co-own Banyan Cay (West Palm Beach) and announced a North Beach, Miami condo project with Sandor Scher (Feb 2025). The 'undisclosed conflict' framing is SINGLE-SOURCE commentary: Counteroffensive (Apr 2025), Popular Information, and Byline Times (1 Dec 2025). They note the partnership continued after Ukraine sanctioned Blavatnik in Dec 2023, on grounds Ukraine never published. Witkoff's disclosure, published in September 2025, shows a $120M sale of an interest in his firm; the sale took place between January and 13 August 2025 (date and buyer undisclosed), and he still holds a stake valued over $50M. His son Alex still runs operations, so the family's exposure to the partnership continues; that last point is our INFERENCE. Access Industries says Blavatnik and Witkoff 'have never spoken about the Russia-Ukraine negotiations'. Blavatnik says he exited Russia in 2022. The tie shows a commercial relationship, not influence on policy.",
       "sources": [
         "https://therealdeal.com/new-york/2021/12/23/witkoff-and-access-industries-buy-hfzs-languishing-xi-condo-project",
         "https://therealdeal.com/new-york/2024/08/16/witkoff-blavatnik-refinance-one-high-line-condo-project",
@@ -16,7 +16,8 @@
         "https://www.counteroffensive.news/cp/161746319",
         "https://popular.info/p/top-trump-negotiator-retains-partnership",
         "https://bylinetimes.com/2025/12/01/trump-envoy-has-financial-ties-with-former-adviser-to-putins-money-man-now-leading-kremlin-peace-talks/",
-        "https://therealdeal.com/national/2025/09/16/steve-witkoff-sells-stake-in-real-estate-firm-for-120m"
+        "https://therealdeal.com/national/2025/09/16/steve-witkoff-sells-stake-in-real-estate-firm-for-120m",
+        "https://www.whitehouse.gov/wp-content/uploads/2025/12/Witkoff-Steven.pdf"
       ]
     },
     {
@@ -142,7 +143,8 @@
     "The claim lists Guilfoyle under Russia-linked ties; the WSJ allegation concerns a US donor (Eric Deters) and no Russia connection was found. She resigned on 13 Oct 2026 at the White House's request.",
     "The claim says the oligarch funded Don Jr.'s 'wedding parties'. The family's account is two after-parties, while ProPublica reports an island rental and fireworks across the weekend. Kremlev says he was repaid (6 Oct 2026).",
     "Byline Times calls Blavatnik a former adviser to Dmitriev. The pre-2022 RDIF advisers named in coverage we could see were Leon Black and Stephen Schwarzman; Blavatnik's role is unconfirmed.",
-    "Reports of Russian buyers of Trump-branded property are 2017-18 analyses of older sales, mostly in licensed buildings; none found for 2025-26."
+    "Reports of Russian buyers of Trump-branded property are 2017-18 analyses of older sales, mostly in licensed buildings; none found for 2025-26.",
+    "2026-11-17 (holdings audit, C104/C105): Claimed: Witkoff 'sold a $120M stake in his firm in Sep 2025'. The record shows: the sale was disclosed in September 2025 (new-entrant report signed 13 Aug 2025); the same line appears in his annual report for calendar 2025, so the sale took place between January and 13 August 2025. No date, buyer or share is given, and he still holds a Witkoff Group interest valued over $50M."
   ],
   "denials_and_context": [
     "Access Industries: Blavatnik and Witkoff 'have never spoken about the Russia-Ukraine negotiations'; Blavatnik says he divested from Russia in 2022.",
@@ -444,6 +446,13 @@
       "publisher": "Washington Times",
       "url": "https://m.washingtontimes.com/news/2017/nov/8/jared-kushner-linked-to-man-named-in-paradise-pape/",
       "date": "2017-11-08"
+    },
+    {
+      "title": "OGE Form 278e New Entrant Report, Steven C. Witkoff (certified 12 Dec 2025)",
+      "publisher": "The White House",
+      "url": "https://www.whitehouse.gov/wp-content/uploads/2025/12/Witkoff-Steven.pdf",
+      "date": "2025-12-12",
+      "read": "full"
     }
   ],
   "entities": [
@@ -755,9 +764,9 @@
     {
       "source": "steve-witkoff",
       "target": "witkoff-group",
-      "label": "founder; sold $120M stake",
+      "label": "founder; sold a $120M interest (Jan-Aug 2025, disclosed Sep 2025)",
       "type": "ownership",
-      "date": "2025-09",
+      "date": "2025",
       "amount_usd": 120000000
     },
     {
@@ -1098,14 +1107,16 @@
     "checked": [
       "ProPublica on Kremlev's payments for Don Jr.'s wedding celebrations, and the repayment",
       "The NYT report that Putin raised the Lukoil sale with Witkoff and Kushner, and the deal's status through Nov 2026",
-      "Beach-Novatek and the FT allegations about Polar LNG financing"
+      "Beach-Novatek and the FT allegations about Polar LNG financing",
+      "2026-11-17 (holdings audit, C104/C105): Timing of Witkoff's $120M Witkoff Group sale, against his 278e filings"
     ],
-    "result": "upheld",
+    "result": "corrected",
     "changes": [
       "Kremlev: the summary and relationship label no longer state the repayment as fact. It rests on Kremlev's word, and the amount, payer and recipient are undisclosed. Added the IBA's denial that it paid.",
       "Lukoil: the core point stays single-source (NYT). Added the update that OFAC GL 131K covers negotiations only to 21 Nov 2026, the blocked-proceeds condition, and the FT report of Tahnoon's role. No signed sale was found.",
       "Novatek/Polar LNG: the FT layer is attributed to former CEO Joel Riddle, and Polar LNG's 9 Nov 2026 denial is recorded.",
-      "Al-Khayyat-Kushner (cross-check with C94, second audit): upgraded from single-source to documented. Ramez Al-Khayyat confirmed the partnership to the NYT (19 Apr 2026), a Sazan Real Estate spokesperson confirmed it to CBS, and OCCRP cites Albanian registry filings. Dropped 'former', since no source says the partnership ended. Finding, relationship label and report updated."
+      "Al-Khayyat-Kushner (cross-check with C94, second audit): upgraded from single-source to documented. Ramez Al-Khayyat confirmed the partnership to the NYT (19 Apr 2026), a Sazan Real Estate spokesperson confirmed it to CBS, and OCCRP cites Albanian registry filings. Dropped 'former', since no source says the partnership ended. Finding, relationship label and report updated.",
+      "2026-11-17 (holdings audit, C104/C105): The $120M sale took place between January and 13 August 2025 and was disclosed in September 2025; corrected the sub-claim, added a correction and changed the relationship date from 2025-09 to 2025. Verdict unchanged."
     ],
     "new_sources": [
       {
@@ -1143,6 +1154,13 @@
         "publisher": "CBS News",
         "url": "https://cbsnews.com/news/albania-protests-jared-kushner-luxury-resort-plans-anti-corruption",
         "date": "2026"
+      },
+      {
+        "title": "OGE Form 278e New Entrant Report, Steven C. Witkoff (certified 12 Dec 2025)",
+        "publisher": "The White House",
+        "url": "https://www.whitehouse.gov/wp-content/uploads/2025/12/Witkoff-Steven.pdf",
+        "date": "2025-12-12",
+        "read": "full"
       }
     ]
   }

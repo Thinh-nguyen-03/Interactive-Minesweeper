@@ -31,7 +31,7 @@ The oversight offices changed sharply:
 | Official | Waiver (date, scope) | Late or incomplete divestiture | Letters / complaints | Retained interests of note | Response | Finding |
 |---|---|---|---|---|---|---|
 | Elon Musk (SGE, DOGE; left late May 2025) | None published | Not applicable; his disclosure was confidential | Schiff to OGE, 10 Feb 2025. House Oversight Democrats to White House Counsel, 1 May 2025. PSI minority memo, 27 Apr 2025 ($2.37B potential liability, a staff estimate). CLC request to OGE, June 2025 | Tesla, SpaceX, xAI and others (federal contracts, 65 federal actions per PSI) | White House said he would recuse himself from conflicting contracts | None |
-| Kash Patel (FBI) | None; the agency determined the likelihood of Elite Depot matters was "remote" | None found | Schiff and colleagues, 12 Feb 2025 | Elite Depot stock units ($1M-$5M, vesting to Nov 2025); one-year covered relationship with Qatar; Trump Media board seat to be resigned | Will not take part in matters affecting Elite Depot | None |
+| Kash Patel (FBI) | Qatar: a waiver of 4 Mar 2025 for an unnamed Qatar-related matter (reported; C73). Elite Depot: none; the agency determined the likelihood of matters was "remote" | None found | Schiff and colleagues, 12 Feb 2025; Public Citizen asked OGE to rescind the Qatar waiver | Elite Depot stock units ($1M-$5M, vesting to Nov 2025); one-year covered relationship with Qatar; Trump Media board seat to be resigned | Will not take part in matters affecting Elite Depot | None |
 | Robert F. Kennedy Jr. (HHS) | Interim 208(b)(1) waiver, 18 Feb 2025, for four Park Holdings funds (under $380K) until divested in Apr 2025 | Fee interest assigned to Wisner Baum on 11 Feb 2025, not to his son as the 1 Feb agreement said (per HHS letter of 25 Aug 2026) | Warren, Wyden, Blumenthal and Alsobrooks, 24 Sept 2026 | Gardasil fee interest given up (Merck settled for about $50M in June 2026) | HHS confirmed compliance in May 2025; Kennedy says he gave it up before taking office | None |
 | Mehmet Oz (CMS) | None found | Not established | None found | iHerb units ($5M-$25M) and dozens of health stocks to be sold; Oz Media kept | n/a | None |
 | Pete Hegseth (Defense) | None found | n/a | Warner-Schiff, 2 Apr 2026; Warren, 20 Apr 2026 (reported broker approach, FT single-source) | n/a | Pentagon denies any approach | None |
@@ -59,7 +59,7 @@ As a special government employee (SGE), limited to 130 days in any 365, Musk was
 His ethics agreement (read in full) sets out the following:
 
 - **Elite Depot:** he keeps his Elite Depot stock units, which vest quarterly to 1 Nov 2025. The agreement says "the agency has determined that it is not necessary at this time for me to divest my interests in Elite Depot, Ltd., because the likelihood that my duties will involve any such matter is remote." Instead he recuses from matters affecting it "for as long as I own it" unless he gets a 208(b)(1) waiver. That is neither a waiver nor a late divestiture.
-- **Qatar:** after consulting for its embassy until Nov 2024, he has a one-year covered relationship with Qatar. The agreement says a written authorization to take part in Qatar matters "will" be granted; whether it was granted is not public.
+- **Qatar:** after consulting for its embassy until Nov 2024, he has a one-year covered relationship with Qatar. The agreement says the agency "will grant" a written authorization to take part in Qatar matters. Responsible Statecraft and Jewish Insider report that a later disclosure shows the FBI's ethics official issued him a waiver on 4 Mar 2025 for "a particular matter" related to Qatar, without naming it (as reported; the document was not read here; C73). Public Citizen asked OGE to rescind it; no outcome was found.
 - **Trump Media:** he agreed to resign from the board.
 - **Stock sales:** 19 stocks are to be sold within 90 days.
 
@@ -210,7 +210,7 @@ The full list with dates, including the Hegseth letters reused from C103, is in 
 - Storch v. Hegseth after Trump v. Slaughter (back pay and the merits).
 - Senate action on Chamberlain's OGE nomination, and Ueland's GAO nomination (hearing on 19 Nov 2026).
 - Any OGE response to the Kennedy fee-assignment letter or the McMahon complaint.
-- Whether the FBI granted Patel the Qatar authorization his agreement anticipated.
+- The scope of Patel's 4 Mar 2025 Qatar waiver, and any OGE response to Public Citizen's request to rescind it.
 - Oz's compliance certification; Loeffler's SpaceX IPO gains (Reuters, relayed; fetch blocked).
 - OGE's agency-level conflict-of-interest waiver collection (not searchable here).
 
@@ -219,6 +219,7 @@ The full list with dates, including the Hegseth letters reused from C103, is in 
 - **Checked against the primary documents:** Patel's ethics agreement; the senators' 24 Sept 2026 letter to Kennedy (quoting HHS's 25 Aug 2026 letter) and his 18 Feb 2025 waiver; Isaacman's ethics agreement; Open Cabinet's late-filings page; the senators' Fiserv letter; OGE's removal notice and its June 2026 release; the 18 May 2026 senators' letter; the White House waiver list; the Storch docket listing.
 - **Changed:**
   - Patel's "remote" determination is attributed to "the agency" and quoted.
+  - Patel's Qatar authorization: the text said it was not public whether one was granted. A 4 Mar 2025 waiver for an unnamed Qatar-related matter is reported (already in C73), so this is corrected.
   - Bisignano's two sale dates are given.
   - The late-report counts now say what they measure.
   - Boulos is removed as a row because nothing about him is documented.

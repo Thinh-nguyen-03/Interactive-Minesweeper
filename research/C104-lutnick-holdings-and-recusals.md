@@ -27,7 +27,7 @@ Filings read in full document the divestiture step by step.
 
 **Cantor's business before Commerce.** Cantor's tariff-refund pitch, its Tether ties, its Satellogic, data-centre and critical-minerals work all fall in or near Commerce's remit. No decision by Lutnick favouring Cantor or a Cantor client is documented.
 
-**Investigations.** More than eight requests for investigation by Democratic members of Congress have produced no finding.
+**Investigations.** Eight requests for investigation from Democratic members of Congress, and one Campaign Legal Center complaint, have produced no finding.
 
 **What is not on the public record:**
 - the Cantor sale price;
@@ -51,6 +51,8 @@ This builds on C35 (Cantor and Tether), C50 (chips, the Tether loan probe, tarif
   | Newmark | $30M salary/bonus and a $5M equity bonus |
   | BGC | $8M salary/bonus, an $11M equity bonus and a $61.3M "2023 BGC unit" item |
 
+  A nominee report's income period runs from 1 January 2023 to the filing date (December 2024), so the $198,984,693 covers about two years. Endnotes say it aggregates all Cantor distributions attributed to him, including those on the Cantor interest then held by the Lutnick 1999 Descendants' Trust (a grantor trust at the time, value "Over $50,000,000").
+
   No personal Tether holding is listed. The Tether convertible bond is Cantor's.
 - **Ethics agreement** (signed 21 Jan 2025, read in full). Sections 2 to 4 set the sale terms for Cantor, BGC and Newmark:
   - sign within 90 days;
@@ -58,9 +60,10 @@ This builds on C35 (Cantor and Tether), C50 (chips, the Tether loan probe, tarif
   - close after regulatory approvals;
   - request a 208(b)(1) waiver for the ownership still held while the sale is pending;
   - recuse from matters with a direct and predictable effect on the firms until divested;
-  - stay out of specific-party matters involving the firms for one year after resignation or as long as he holds an interest, whichever is later.
+  - stay out of specific-party matters involving the firms for one year after resignation or as long as he holds an interest, whichever is later;
+  - stay out of specific-party matters in which the buyer is a party "until the sale closes and I receive the final payment".
 
-  Section 8 requires him to sell GE Healthcare, GE Vernova, GE Aerospace, Nasdaq, Disney, Roivant, Kimberly Akimbo LLC and Kiajia LLC within 90 days. He keeps family trusteeships and about 30 property and vehicle LLCs. He also keeps promissory notes owed to him by the Lutnick 2020 and 1999 Descendants' Trusts, with a recusal on matters affecting their ability to repay. Appendix D shows that he left the Satellogic board in Nov 2024 and Cantor Equity Partners and Cantor Equity Partners I in Dec 2024.
+  Section 8 requires him to sell GE Healthcare, GE Vernova, GE Aerospace, Nasdaq, Disney, Roivant, Kimberly Akimbo LLC and Kiajia LLC within 90 days. He keeps family trusteeships and about 30 property and vehicle LLCs. He also keeps promissory notes owed to him by the Lutnick 2020 and 1999 Descendants' Trusts ($1M-$5M and $5M-$25M on the nominee report), with a recusal on matters affecting their ability to repay. Appendix D shows that he left the Satellogic board in Nov 2024 and Cantor Equity Partners and Cantor Equity Partners I in Dec 2024.
 
 ### 2. BGC and Newmark buybacks, May 2025: confirmed
 - **278-T** (signed 17 Jun 2025, certified by OGE 14 Jul 2025, read in full). Sales dated 16 May 2025:
@@ -100,7 +103,12 @@ This builds on C35 (Cantor and Tether), C50 (chips, the Tether loan probe, tarif
   - Both certifications say no section 208 waiver had been received at those dates.
 - **The criticism.** The 17 Dec 2025 letter to the Commerce inspector general asks why the divestiture took until 6 Oct. It reads the agreement more strictly than its text. It is accurate that he kept legal ownership for almost eight months as Secretary.
 - **Official statements.** We found no OGE notice of non-compliance and no OGE or Senate committee statement either way. OGE certified both 278-Ts.
-- **A side point.** Three GE sales dated 7 Mar 2025 (under $80K in total) first appear in the 17 June report, more than 100 days later and outside the 45-day limit printed on the form. The form gives no explanation, and we found no reporting on it.
+- **A side point: late-reported GE sales.**
+  - Three GE sales dated 7 Mar 2025 (GE HealthCare $1K-$15K, GE Vernova $1K-$15K, GE Aerospace $15K-$50K; at most $80K in total) first appear on the report signed on 17 June, 102 days later.
+  - The form says transactions must be disclosed "within 30 days of receiving notification of a transaction but not later than 45 days after the transaction", which put the deadline at about 21 Apr 2025. Each line is marked "Notification received over 30 days ago: No", and the form gives no explanation.
+  - Under 5 C.F.R. 2634.704 a $200 late-filing fee applies to a report filed more than 30 days after its deadline, unless waived. Whether one was charged is not public.
+  - The sales themselves met the ethics agreement's 90-day deadline. The Commerce ethics official (18 June) and OGE (14 July 2025) certified the report. We found no reporting on the lateness.
+  - Roivant Sciences, also on the 90-day list and held at $1M-$5M on the nominee report, appears on neither published 278-T. Whether it was sold before he took office, when no 278-T is required, is not shown.
 
 ### 5. Certificates of divestiture and tax deferral: confirmed
 - **OGE's index** (read in full) lists certificates OGE-2025-070 to 075. They are available only on request through OGE Form 201; we did not read them.
@@ -183,6 +191,7 @@ This builds on C35 (Cantor and Tether), C50 (chips, the Tether loan probe, tarif
   - Raskin (27 Feb 2026, tariff refunds).
   - Warren and Wyden (29 Apr 2026, Tether loan).
   - Blumenthal (8 Oct 2026, Cantor and Tether).
+- **Who asked.** The eight congressional requests all come from Democratic members in the minority, without subpoena power. The Campaign Legal Center is a watchdog group.
 - **Outcomes.** No inspector-general report, OGE action or other finding was found as of 17 Nov 2026. OGE declined to comment on the Tesla remark.
 
 ## What goes beyond the record
@@ -239,3 +248,25 @@ This builds on C35 (Cantor and Tether), C50 (chips, the Tether loan probe, tarif
 28. AP via News4Jax, 21 Mar 2025, excerpt: https://www.news4jax.com/news/politics/2025/03/21/legal-experts-say-trump-official-broke-law-by-saying-buy-tesla-stock-but-dont-expect-a-crackdown/
 29. Campaign Legal Center complaint, Mar 2025, excerpt: https://campaignlegal.org/sites/default/files/2025-03/Lutnick Complaint-Final.pdf
 30. Office of Rep. Lofgren, Jul 2026, excerpt: https://lofgren.house.gov/media/press-releases/lofgren-warren-wyden-van-hollen-lead-new-probe-cantor-fitzgerald-usar-after-16
+
+## Audit (second review, 17 Nov 2026)
+
+Result: **corrected** (verdict and confidence unchanged: mostly-accurate, medium).
+
+- **Documents re-fetched.** The nominee 278e, both 278-Ts and the White House waiver were downloaded again from OGE and whitehouse.gov. They are identical to the copies the research used. The OGE index was re-read: the "Annual (2026)" report and the "Conflict of Interest Waiver" are still marked "need to upload".
+- **Upheld from the documents.**
+  - The ethics agreement terms: signing within 90 days "for a sum certain", and closing "after required regulatory approvals are obtained".
+  - Signing on 16 May 2025: the 278-T endnotes say "entered into May 16, 2025". The 19 June certification gives 19 May.
+  - Closing on 6 Oct 2025: "consummated on October 6, 2025 following regulatory approvals".
+  - The buyers named in the waiver: "26 North, Oak Hill Advisors and Cantor Fitzgerald, L.P.".
+  - The waiver's limits: no specific-party matters, no meetings with the three firms, and it lapses at closing.
+  - The $198,984,693 line.
+  - The "missed deadline" claim is **misleading** as stated, because the agreement separates signing from closing.
+- **Added.**
+  - The nominee report's income period, January 2023 to December 2024.
+  - The 1999 Descendants' Trust's pre-appointment Cantor interest.
+  - The buyer recusal that runs "until ... I receive the final payment".
+  - Exact details of the late GE reporting (102 days, against a deadline of about 21 April 2025), and that Roivant appears on neither 278-T.
+- **Corrected.** "More than eight congressional requests" is now eight congressional requests plus one Campaign Legal Center complaint.
+- **Promissory-note lead.** No document read names the 1999 or 2020 Descendants' Trusts among the 2025 Cantor buyers, or links them to "Dynasty Trust A". The lead stays open; it is not a finding.
+- **Newer reporting.** No IG report, OGE action, or reply from Cantor or Commerce to the Warren-Wyden (April 2026) or Blumenthal (October 2026) letters was found through 17 Nov 2026. Blumenthal's $250M and $192M figures cite CNBC's 30 Sep 2026 report on his 2025 annual 278e.

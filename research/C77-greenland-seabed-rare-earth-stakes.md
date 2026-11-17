@@ -48,7 +48,10 @@ Bolton told Forbes that Ronald Lauder gave Trump the idea of buying Greenland. P
   - 2026-10-19: public comment closed.
   - TMC expects a decision by the end of Q1 2027. No commercial permit has been issued.
 - Earthjustice is suing over NOAA's certification of a TMC USA exploration application.
-- **Recusal:** the NYT reported in 2025 that Lutnick would initially recuse himself from matters involving 106 entities. Whether TMC is on that list was not found. *Unverified.*
+- **Recusal:** secondary coverage says the NYT reported in 2025 that Lutnick would initially recuse himself from matters involving 106 entities. That figure could not be matched to his ethics agreement (read in full), whose Appendix A lists several hundred Cantor, BGC and Newmark subsidiaries. *Unverified.*
+  - Under the agreement, the bar on specific-party matters in which Cantor, BGC or Newmark is a party ran for one year after his resignation or as long as he held an interest, whichever was later. It ended about February 2026.
+  - The 18 U.S.C. 208 bar on matters affecting the firms' finances ended at divestiture on 6 October 2025. A limited waiver covered broad policy matters from 8 July 2025.
+  - Being a Cantor client does not make TMC a party covered by these bars. Whether Lutnick has stepped back from TMC decisions was not found.
 
 ### 5. A second Cantor-banked seabed applicant: American Ocean Minerals
 On 2026-04-08, AOMC agreed an all-stock merger with Odyssey Marine Exploration worth about $1B. Reuters reports that Citigroup and Cantor (chaired by Brandon Lutnick) arranged the private placement of more than $150M and act as AOMC's capital-markets advisers. NOAA advanced AOMC's Area-1 application on 2026-07-07. The investors' names and Cantor's fees are not public. We found no announcement that the merger has closed through Nov 2026. *Documented.*
@@ -147,3 +150,11 @@ Result: **upheld**. Re-checked:
 - **AOMC.** Citi and Cantor are confirmed as joint placement agents for the >$150M raise. No merger closing was found through Nov 2026.
 
 New sources: Mining Weekly https://www.miningweekly.com/article/tmc-says-deep-sea-mining-application-makes-permitting-progress-2026-03-09; Baird Maritime https://www.bairdmaritime.com/offshore/undersea-mining/odyssey-to-merge-with-ex-rio-tinto-ceos-deep-sea-mining-firm-in-1b-deal; Pulitzer Center https://pulitzercenter.org/stories/challenges-persist-tmcs-bid-mine-deep-sea-even-after-boost-trump
+
+## Audit addendum (17 Nov 2026, holdings check)
+
+Result: **corrected** (verdict unchanged).
+
+- **The "106 entities" figure.** It is known only through secondary coverage of the NYT and could not be matched to Lutnick's ethics agreement. It is now marked unverified.
+- **The one-year bar.** The bar on specific-party matters involving Cantor, BGC and Newmark ended about February 2026.
+- **Source.** Ethics agreement: https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/436440318CFB67BE85258C1C003219C1/$FILE/Lutnick%2C%20Howard%20%20finalEA.pdf

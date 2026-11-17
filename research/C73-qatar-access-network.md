@@ -215,3 +215,7 @@ Result: **upheld**. We re-checked four points with fresh searches.
 - **The Witkoff correction is upheld.** We added the family's defamation threat and Qatar's denial.
 
 New sources: OGE 278e (Zeldin); Florida Politics, 2018 Ballard-Qatar contract https://floridapolitics.com/archives/260868-qatar-taps-ballard-partners-for-2-1-million-push-ahead-of-emirs-visit; The Peninsula, 2025-12-09 https://s.thepeninsula.qa/article/09/12/2025/minister-of-interior-meets-with-fbi-director; Yahoo News, Witkoff defamation threat https://www.yahoo.com/news/articles/witkoff-family-threatens-nyt-defamation-212437336.html
+
+### Further audit (17 Nov 2026, applied from the review of C108)
+- **Correction:** Bondi's removal as Attorney General was announced on 2 April 2026, but her OGE termination report gives 1 April 2026 as her date of termination. Her tenure is now given as 4 February 2025 to 1 April 2026, with the announcement date noted.
+- **New source:** Bondi termination 278e (2026-06-16; read in full): https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/5A7DD536E124894585258E7A002D9D3E/$FILE/Pam-Bondi-2026-278TERM.pdf

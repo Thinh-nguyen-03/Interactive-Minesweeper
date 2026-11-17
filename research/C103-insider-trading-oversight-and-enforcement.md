@@ -57,7 +57,7 @@ This builds on C58 (the market data and the first letters), C52 (the SEC Enforce
 | 2026-04-23 | CFTC complaint and SDNY indictment of Van Dyke | Not-guilty plea 2026-04-28; trial tentatively 2026-12-07 |
 | 2026-04-30 | Senate adopts S.Res. 708, barring senators and staff from prediction markets | Rule in force |
 | 2026-05-12 | Casten, Lieu and 14 House Democrats write to Acting AG Blanche | No reply found |
-| 2026-05-18 | CREW writes to OGE Acting Director Ueland seeking a ban for appointees | No OGE response or guidance found |
+| 2026-05-18 | CREW writes to Eric Ueland as OGE acting director seeking a ban for appointees. Senators wrote the same day that his acting service had ended in early Dec 2025 and OGE had no acting head; Keith Sonderling was named acting director on 23 Jun 2026 | No OGE response or guidance found |
 | 2026-05-22 | Comer (House Oversight) opens a probe of Kalshi and Polymarket; expanded 2026-09-29 | Staff memo 2026-11-13 (see below) |
 | 2026-07 | Rep. Torres asks the SEC to review the Truth API; Rep. Craig asks DOJ and the SEC | The SEC reportedly confirmed receipt and declined to say whether it would act |
 | 2026-07 | Warren asks GAO to review CFTC staffing | GAO to begin in December 2026 |
@@ -243,3 +243,9 @@ Result: **corrected** (verdict and confidence unchanged: mostly-accurate, medium
 - **Law:** STOCK Act sections 2(3) and 9(b) (adding Exchange Act 21A(h)) are confirmed against the text. CEA 4c(a)(3)-(4) is restated from the text. The researcher's own readings (tippee coverage; whether the CEA reaches the President) are marked as such. The CFTC's treatment of event contracts as swaps is flagged as disputed.
 - **Enforcement:** Santos is a manipulation case. Van Dyke: five counts, motion to dismiss opposed in August 2026, trial still set for 7 December 2026.
 - **Upheld:** Blanche wrote the 7 April 2025 NCET memo. The retracted CFTC referral rests on anonymous sources, alongside the enforcement director's on-record statement that the probe is open. No charges, SEC action or finding about Trump, his family or senior officials were found through 16 Nov 2026.
+
+### Further audit (17 Nov 2026, applied from the review of C109)
+- **Correction:** CREW addressed its 18 May 2026 letter to Eric Ueland as OGE acting director. Sen. Schiff and colleagues wrote the same day that, "according to records received by Congress", Ueland "discontinued his service in early December 2025" and that OGE had no leader "even in an acting capacity" (letter read in full). OGE's release of 24 June 2026 says Keith Sonderling was named acting director on 23 June 2026.
+- **New sources:**
+  - Schiff and colleagues to Susie Wiles (2026-05-18): https://www.schiff.senate.gov/wp-content/uploads/2026/05/26.05.18-Letter-from-Sen.-Schiff-and-Colleagues-to-WH-on-OGE-Director-Vacancy.pdf
+  - OGE release (2026-06-24): https://extapps2.oge.gov/web/OGE.nsf/News%20Releases/4AF39DE896B559A785258E20004424A7

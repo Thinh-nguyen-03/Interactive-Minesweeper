@@ -23,11 +23,13 @@
   {
    "statement": "Kash Patel kept his Elite Depot (Shein parent) stock units as FBI director, and his ethics agreement records other outside interests.",
    "verdict": "confirmed",
-   "finding": "Grade: documented (ethics agreement of 28 Jan 2025, read in full). Section 7: he ended his Elite Depot consulting on 1 Jan 2025 and keeps vested and unvested restricted stock units vesting quarterly to 1 Nov 2025. The agreement records that 'the agency has determined that it is not necessary at this time for me to divest my interests in Elite Depot, Ltd., because the likelihood that my duties will involve any such matter is remote', so he recuses from matters affecting the company 'for as long as I own it' unless he obtains a 208(b)(1) waiver; this is not a waiver and not a late divestiture. The value was $1M-$5M on his nominee report (Schiff letter, excerpt). Other terms: resign from Trump Media's board (the 28 Jan 2025 share award is covered in C65); a one-year 'covered relationship' with Qatar after consulting for its embassy until Nov 2024, with a written authorization to participate 'will' be granted (whether it was is not public); divest 19 stocks (including Nvidia, Palantir, Rumble, MP Materials) within 90 days. Letter: Sen. Schiff and colleagues objected on 12 Feb 2025 to the retained Shein stake. No certification-of-compliance problem, waiver or finding was found. Response: Patel told senators he would not take part in matters affecting Elite Depot.",
+   "finding": "Grade: documented (ethics agreement of 28 Jan 2025, read in full). Section 7: he ended his Elite Depot consulting on 1 Jan 2025 and keeps vested and unvested restricted stock units vesting quarterly to 1 Nov 2025. The agreement records that 'the agency has determined that it is not necessary at this time for me to divest my interests in Elite Depot, Ltd., because the likelihood that my duties will involve any such matter is remote', so he recuses from matters affecting the company 'for as long as I own it' unless he obtains a 208(b)(1) waiver; this is not a waiver and not a late divestiture. The value was $1M-$5M on his nominee report (Schiff letter, excerpt). Other terms: resign from Trump Media's board (the 28 Jan 2025 share award is covered in C65); a one-year 'covered relationship' with Qatar after consulting for its embassy until Nov 2024, under which the agreement says the agency 'will grant' a written authorization to participate. Responsible Statecraft and Jewish Insider report that a later disclosure shows the FBI's ethics official issued him a waiver on 4 Mar 2025 for 'a particular matter' related to Qatar, without naming the matter (as reported; the document was not read here). It appears to be the authorization the agreement anticipated, though reports call it a waiver. Public Citizen asked OGE to rescind it; no outcome was found (C73); divest 19 stocks (including Nvidia, Palantir, Rumble, MP Materials) within 90 days. Letter: Sen. Schiff and colleagues objected on 12 Feb 2025 to the retained Shein stake. No certification-of-compliance problem, waiver or finding was found. Response: Patel told senators he would not take part in matters affecting Elite Depot.",
    "sources": [
     "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/730D7A12BBF6654785258C240032196E/$FILE/Patel%2C%20Kashyap%20%20finalEA.pdf",
     "https://www.schiff.senate.gov/wp-content/uploads/2025/02/20250211-Letter-to-FBI-Director-Nominee-Patel.pdf",
-    "https://thedailybeast.com/trumps-fbi-pick-kash-patel-set-to-make-millions-from-fast-fashion-brand-shein"
+    "https://thedailybeast.com/trumps-fbi-pick-kash-patel-set-to-make-millions-from-fast-fashion-brand-shein",
+    "https://responsiblestatecraft.org/kash-patel-qatar/",
+    "https://jewishinsider.com/2025/12/fbi-kash-patel-qatar-security-deals-lobbying-disclosure/"
    ]
   },
   {
@@ -188,7 +190,7 @@
  ],
  "corrections": [
   "C103 records CREW's 18 May 2026 letter as addressed to 'OGE Acting Director Eric Ueland'. CREW did address it that way, but senators wrote on the same day that Ueland's acting service had ended in early December 2025 and that OGE had no acting head; Keith Sonderling was named acting director on 23 June 2026. Suggested wording: 'addressed to Eric Ueland as acting director (senators said his acting service had ended in Dec 2025)'.",
-  "C65 (Patel) can add from his ethics agreement (read in full): he keeps Elite Depot (Shein parent) stock units under an agency 'remote' determination, agreed to resign from the Trump Media board, and has a one-year covered relationship with Qatar after embassy consulting that ended in Nov 2024. No change to C65's verdict.",
+  "C65 (Patel) can add from his ethics agreement (read in full): he keeps Elite Depot (Shein parent) stock units under an agency 'remote' determination, agreed to resign from the Trump Media board, and has a one-year covered relationship with Qatar after embassy consulting that ended in Nov 2024 (a 4 Mar 2025 waiver for a Qatar-related matter was later reported; C73). No change to C65's verdict.",
   "C68 (Musk) can add that no 208(b)(1) waiver for Musk appears on the White House waiver list and that his disclosure was confidential; no correction to its figures.",
   "C86: no overlap found; no correction.",
   "Claimed: Bisignano divested late. The record shows: his Fiserv sales (16 May to 1 July 2025) were inside the 120-day window; the dispute is about timing before the stock's fall, not lateness.",
@@ -624,6 +626,27 @@
    "url": "https://www.finance.senate.gov/imo/media/doc/wyden_warren_fiserv_letter.pdf",
    "date": "2025-11-06",
    "read": "full"
+  },
+  {
+   "title": "Kash Patel's Qatar waiver",
+   "publisher": "Responsible Statecraft",
+   "url": "https://responsiblestatecraft.org/kash-patel-qatar/",
+   "date": "2025",
+   "read": "excerpt"
+  },
+  {
+   "title": "FBI Director Patel signs security deals with Qatar, his former lobbying client",
+   "publisher": "Jewish Insider",
+   "url": "https://jewishinsider.com/2025/12/fbi-kash-patel-qatar-security-deals-lobbying-disclosure/",
+   "date": "2025-12",
+   "read": "excerpt"
+  },
+  {
+   "title": "Public Citizen complaint to OGE regarding ethics waiver for Patel",
+   "publisher": "Public Citizen",
+   "url": "https://www.citizen.org/article/public-citizen-complaint-to-oge-regarding-ethics-waiver-for-patel/",
+   "date": "2025",
+   "read": "excerpt"
   }
  ],
  "entities": [
@@ -1250,8 +1273,8 @@
    "source_url": "https://tribune.com.pk/story/2618782/spacex-ipo-earns-millions-for-us-small-business-administration-head-kelly-loeffler"
   },
   {
-   "title": "Whether the FBI granted Patel a written authorization for Qatar matters",
-   "why_connected": "His ethics agreement says one would be granted; Qatar later received FBI security agreements (see other checks).",
+   "title": "Scope of Patel's 4 March 2025 Qatar waiver and Public Citizen's request to rescind it",
+   "why_connected": "A waiver for an unnamed Qatar-related matter was reported (Responsible Statecraft, Jewish Insider); the matter and any OGE response are not public.",
    "entities": [
     "kash-patel",
     "qatar",
@@ -1281,6 +1304,7 @@
   "result": "corrected",
   "changes": [
    "Patel: the 'remote' determination is attributed to 'the agency', as the ethics agreement says, and quoted, rather than to 'the Justice Department'.",
+   "Patel: the earlier text said it was not public whether he received the Qatar authorization his agreement anticipated. A 4 Mar 2025 waiver for an unnamed Qatar-related matter is reported (Responsible Statecraft, Jewish Insider; already in C73), and Public Citizen asked OGE to rescind it. Corrected.",
    "Bisignano: sales dated 16 May and 1 July 2025 (two sales, per the senators' letter, now read in full) rather than 'between' those dates; still inside the 120-day window.",
    "Late-trade counts: added what they measure (filer's own 'notification received over 30 days ago' answers, tallied across all 278-Ts by Open Cabinet) and that the $200 fee is per report and waivable.",
    "Boulos: removed as a sub-claim and table row because nothing about him is documented; stated plainly in the no-finding point.",
