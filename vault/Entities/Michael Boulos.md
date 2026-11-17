@@ -2,8 +2,8 @@
 id: "michael-boulos"
 kind: "entity"
 type: "person"
-connections: 13
-claims: 4
+connections: 14
+claims: 5
 tags:
   - "entity"
   - "type/person"
@@ -15,12 +15,13 @@ Tiffany Trump's husband; library foundation trustee.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 4 checks |
-| Connections | 13 |
+| Appears in | 5 checks |
+| Connections | 14 |
 
 ## How Other Checks Describe It
 
 - Tiffany Trump's husband; library foundation trustee
+- Tiffany Trump's husband.
 - Tiffany Trump's husband
 
 ## Appears in Checks
@@ -29,6 +30,7 @@ Tiffany Trump's husband; library foundation trustee.
 - [[C61 Lawyers & Law Firms That Recur Across the Deals]] · Mostly accurate
 - [[C65 Officials Who Decided Matters Involving Former Clients or Partners]] · Mostly accurate
 - [[C66 The Extended Family's Ventures & Roles]] · Partly accurate
+- [[C99 What Each Family Member Has Earned]] · Partly accurate
 
 ## Relationships
 
@@ -39,7 +41,7 @@ Tiffany Trump's husband; library foundation trustee.
 
 ### Ownership (1)
 
-- [[Michael Boulos]] *trustee of* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-05 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]] [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]] [[C66 The Extended Family's Ventures & Roles|C66]]
+- [[Michael Boulos]] *trustee of* [[Donald J. Trump Presidential Library Foundation]] · 2025-05 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]] [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]] [[C66 The Extended Family's Ventures & Roles|C66]]
 
 ### Family (4)
 

@@ -2,8 +2,8 @@
 id: "dar-global"
 kind: "entity"
 type: "company"
-connections: 25
-claims: 11
+connections: 27
+claims: 13
 tags:
   - "entity"
   - "type/company"
@@ -15,16 +15,16 @@ Dar Al Arkan's international arm; named in Dec 2024 as the hoped-for Abu Dhabi p
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 11 checks |
-| Connections | 25 |
+| Appears in | 13 checks |
+| Connections | 27 |
 
 ## How Other Checks Describe It
 
 - London-listed international arm of Dar Al Arkan; developer of most Trump Gulf projects
 - London-listed international arm of Dar Al Arkan; Trump licensing partner
 - London-listed arm of Saudi Dar Al Arkan; main Trump licensee in Gulf
+- Dar Al Arkan unit; licensee for Doha ($5.25M) and hotel projects
 - Saudi Dar Al Arkan's international arm; Trump licensing partner
-- Developer of Trump Tower Dubai (often misattributed to Damac).
 
 ## Appears in Checks
 
@@ -39,13 +39,17 @@ Dar Al Arkan's international arm; named in Dec 2024 as the hoped-for Abu Dhabi p
 - [[C79 Lesser-Known Foreign Projects Tbilisi, South Korea, the Maldives & Vietnam]] · Mostly accurate
 - [[C82 Abu Dhabi Unannounced Trump Licensing Entities & StringZ]] · Mostly accurate
 - [[C88 Damac & Hussain Sajwani Licence Fees & a Data-Centre Pledge]] · Mostly accurate
+- [[C96 What Trump's Own Financial Disclosures Report]] · Confirmed
+- [[C98 Trump Media, Licensing & Merchandise Income During the Presidency]] · Mostly accurate
 
 ## Relationships
 
-### Money (3)
+### Money (5)
 
 - [[Dar Global]] *paid licence fees (2024, Dubai and Oman) to* [[Donald Trump]] · 2024 · $21.9M · [[C31 Trump Organization Real-Estate Deals in the Gulf|C31]]
+- [[Dar Global]] *paid Doha licence fee in 2025* [[Donald Trump]] · 2025 · $5.25M · [[C98 Trump Media, Licensing & Merchandise Income During the Presidency|C98]]
 - [[Dar Global]] *pays licence fees to (Dar Al Arkan ~$21.9M 2025)* [[DT Marks KSA LLC]] · 2025 · [[C63 Shell Entities & Ownership Chains|C63]]
+- [[Dar Global]] *paid Doha licence fee* [[Trump Organization]] · 2025 · $5.25M · [[C96 What Trump's Own Financial Disclosures Report|C96]]
 - [[Dar Global]] *pays licence fees to (Saudi/Gulf projects)* [[Trump Organization]] · 2025 · [[C56 Saudi Arabia Family Deals Alongside US Policy Decisions|C56]]
 
 ### Ownership (2)

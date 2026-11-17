@@ -318,7 +318,7 @@ The in-law roles are documented. Massad Boulos runs US Africa diplomacy, includi
 - [[Charles Kushner]] · Person
 - [[Databricks]] · Company
 - [[Democratic Republic of the Congo]] · Country
-- [[Donald J. Trump Presidential Library Foundation, Inc]] · Fund
+- [[Donald J. Trump Presidential Library Foundation]] · Fund
 - [[Donald Trump]] · Person
 - [[Donald Trump Jr]] · Person
 - [[Ercument Bayegan]] · Person
@@ -389,8 +389,8 @@ The in-law roles are documented. Massad Boulos runs US Africa diplomacy, includi
 - [[Barron Trump]] *co-founder; estimated about 7.5% stake (Forbes)* [[World Liberty Financial]] · 2024-09 · [[C66 The Extended Family's Ventures & Roles|C66]]
 - [[Ivanka Trump]] *co-founder of* [[Planet Harvest]] · 2025 · [[C66 The Extended Family's Ventures & Roles|C66]]
 - [[Thrive Capital]] *created and raised $1B for* [[Thrive Holdings]] · 2025 · [[C66 The Extended Family's Ventures & Roles|C66]]
-- [[Eric Trump]] *president and trustee of* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-05 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]] [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]] [[C66 The Extended Family's Ventures & Roles|C66]]
-- [[Michael Boulos]] *trustee of* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-05 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]] [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]] [[C66 The Extended Family's Ventures & Roles|C66]]
+- [[Eric Trump]] *president and trustee of* [[Donald J. Trump Presidential Library Foundation]] · 2025-05 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]] [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]] [[C66 The Extended Family's Ventures & Roles|C66]] [[C100 Net Worth Change & Legal Settlements Paid to Trump|C100]]
+- [[Michael Boulos]] *trustee of* [[Donald J. Trump Presidential Library Foundation]] · 2025-05 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]] [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]] [[C66 The Extended Family's Ventures & Roles|C66]]
 - [[OpenAI]] *took equity stake (paid in services)* [[Thrive Holdings]] · 2025-12-01 · [[C66 The Extended Family's Ventures & Roles|C66]]
 - [[Barron Trump]] *listed director per filings (Fox Business, snippet); identity not confirmed by family* [[Sollos Yerba Mate Inc]] · 2025-12-03 · [[C66 The Extended Family's Ventures & Roles|C66]]
 - [[Charles Kushner]] *founder and chairman of* [[Kushner Companies]] · [[C66 The Extended Family's Ventures & Roles|C66]]

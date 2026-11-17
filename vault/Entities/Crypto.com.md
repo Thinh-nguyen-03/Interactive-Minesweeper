@@ -4,8 +4,8 @@ kind: "entity"
 type: "company"
 aliases:
   - "Crypto.com (Foris DAX)"
-connections: 34
-claims: 12
+connections: 36
+claims: 13
 tags:
   - "entity"
   - "type/company"
@@ -17,8 +17,8 @@ Crypto exchange; SEC probe closed; bought $50M of TMTG stock; CFTC amicus; trust
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 12 checks |
-| Connections | 34 |
+| Appears in | 13 checks |
+| Connections | 36 |
 | Also known as | Crypto.com (Foris DAX) |
 
 ## How Other Checks Describe It
@@ -43,6 +43,7 @@ Crypto exchange; SEC probe closed; bought $50M of TMTG stock; CFTC amicus; trust
 - [[C64 Lobbyists & Intermediaries with White House Access]] · Mostly accurate
 - [[C67 Investors Who Appear in Several Trump-Family Vehicles]] · Mostly accurate
 - [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief]] · Mostly accurate
+- [[C103 Insider-Trading Oversight Requests, Probes & Outcomes]] · Mostly accurate
 
 ## Relationships
 
@@ -64,12 +65,13 @@ Crypto exchange; SEC probe closed; bought $50M of TMTG stock; CFTC amicus; trust
 - [[Crypto.com]] *parent* [[Foris DAX National Trust Bank]] · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]]
 - [[Kris Marszalek]] *CEO of* [[Crypto.com]] · [[C22 Crypto.com's Deal with Trump Media|C22]]
 
-### Regulatory (5)
+### Regulatory (6)
 
 - [[Securities and Exchange Commission]] *closed investigation with no action* [[Crypto.com]] · 2025-03-27 · [[C22 Crypto.com's Deal with Trump Media|C22]] [[C23 SEC Crypto Cases Dropped & the Firms' Donations|C23]] [[C43 Overlap Between Dropped Enforcement Cases & Trump Donors|C43]] [[C52 Trump-Connected Lobbyists Hired by Crypto Firms & the SEC Enforcement Director's Exit|C52]] [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]]
 - [[Securities and Exchange Commission]] *closed investigation, no action* [[Crypto.com]] · 2025-03-27 · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]]
 - [[Commodity Futures Trading Commission]] *amicus brief in Ninth Circuit* [[Crypto.com]] · 2026-02-17 · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]]
 - [[Commodity Futures Trading Commission]] *amicus brief supporting its position* [[Crypto.com]] · 2026-02-17 · [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]]
+- [[House Committee on Oversight and Government Reform]] *expanded inquiry; documents produced* [[Crypto.com]] · 2026-09-29 · [[C103 Insider-Trading Oversight Requests, Probes & Outcomes|C103]]
 - [[Crypto.com]] *applied for* [[Crypto.com national trust bank charter]] · [[C22 Crypto.com's Deal with Trump Media|C22]]
 
 ### Political (4)

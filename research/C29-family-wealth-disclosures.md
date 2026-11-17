@@ -35,13 +35,15 @@ Direct fetches of every primary outlet I tried failed in this environment: Bloom
 
 ### 3. Per Forbes, Eric Trump is about 10x richer since the election. **Confirmed (as of Dec 2025)**
 - Forbes (Kyle Mullins, **Dec 4, 2025**) ran the headline "Eric Trump has gotten 10 times richer since dad's election." It put him at about **$400M**.
-- His largest holding was his American Bitcoin stake, about $160M in early Dec 2025. The rest is mainly World Liberty tokens and USD1-related value.
+- His largest holding was his American Bitcoin stake, about $160M as of 4 Dec 2025. The same stake was about $116M at the end of 2025 and about $23M on 13 Nov 2026 (C99). The rest is mainly World Liberty tokens and USD1-related value.
+- Forbes has since superseded the figure: on 28 Apr 2026 it estimated him at about **$280M**.
 - Eric disputed parts of Forbes' valuation but offered no alternative figure.
 - The estimate is now dated. ABTC later fell 87-95% from its debut peak, so his current figure is probably lower.
 
 ### 4. Per Forbes, Don Jr. is about 6x richer. **Confirmed (as of Dec 2025)**
 - Forbes (Dec 8, 2025) ran the headline "How Donald Trump Jr.'s fortune jumped six-fold in a year." It put him at about **$300M**, six times his November 2024 level.
-- Forbes noted he had been near $500M in September 2025, before American Bitcoin's stock fell.
+- Forbes noted he had been near $500M in September 2025, before American Bitcoin's stock fell, so the 8 Dec 2025 figure was already a decline.
+- Kalshi ended his advisory role on 12 Nov 2026. Kalshi describes the decision as mutual (C99).
 
 ### 5. Per Forbes, Barron Trump is worth about $150M. **Confirmed (Forbes estimate, Sept/Oct 2025)**
 - Forbes' family tally (Sept 22, 2025) and the article "How 19-Year-Old Barron Trump Is Worth $150 Million" (Oct 6, 2025) both give this figure.
@@ -62,6 +64,7 @@ Direct fetches of every primary outlet I tried failed in this environment: Bloom
 - (16 Nov 2026) These amounts sit on the lines of entities that are 30% owned by unnamed family members. The form does not say whether they are entity totals or Trump's share. The $635.1M is licence royalties to CIC Digital, not coin sales.
 - The $2.2B is a minimum figure from the NYT tally. Forbes estimated about $2.4B.
 - The Forbes figures for the sons date from Dec 2025 (Eric and Don Jr.) and for Barron from Sept/Oct 2025. They predate ABTC's deeper slide, so current values are probably lower.
+- (16 Nov 2026) Forbes' about $400M for Eric Trump (4 Dec 2025) is superseded by about $280M (28 Apr 2026). The about $160M value of his American Bitcoin stake is as of 4 Dec 2025; the same stake was about $116M at the end of 2025 and about $23M on 13 Nov 2026. Forbes' about $300M for Donald Trump Jr. (8 Dec 2025) was itself down from about $500M in Sept 2025, and Kalshi ended his advisory role on 12 Nov 2026 (Kalshi calls it mutual).
 - The investor-loss data covers wallets worldwide, not specifically "American" investors.
 
 ## Denials / other side
@@ -108,3 +111,11 @@ Direct fetches of every primary outlet I tried failed in this environment: Bloom
 **Corrected.** The OGE PDF resolves the "$594M-$800M" range. DT Marks DEFI's lines show $526,810,321 of token proceeds and $65,625,000 from the WLF Holdco equity sale, $592.4M in total. Adding DT Marks SC's $196,875,000 from Stablecoin Holdco gives $789.3M.
 
 The ownership caveat has also been added: both entities are 70% Trump's and 30% unnamed family members', and the form does not say whether the amounts are entity totals or his share. The relationship amounts now use the exact figures.
+
+## Audit addendum (16 Nov 2026, family earnings review)
+
+**Corrected.**
+- Eric Trump: Forbes' estimate is about $280M (28 Apr 2026), superseding about $400M (4 Dec 2025). https://www.forbes.com/sites/danalexander/2026/04/28/how-eric-trump-got-rich-from-bitcoin-while-losing-investors-a-fortune/
+- The about $160M American Bitcoin value is as of 4 Dec 2025. By the same share count the stake was about $116M at the end of 2025 and about $23M on 13 Nov 2026 (C99).
+- Donald Trump Jr.: about $300M on 8 Dec 2025, down from about $500M in Sept 2025. Kalshi ended his advisory role on 12 Nov 2026 and calls the decision mutual. https://unchainedcrypto.com/donald-trump-jr-leaves-kalshi-keeps-polymarket-role-a-week-after-democrats-win-congress/
+- This report does not sum Trump's foreign licensing income, so the 20% family limited-partner stake in twelve licensing companies is not an issue here. It is recorded in C98 and C99.

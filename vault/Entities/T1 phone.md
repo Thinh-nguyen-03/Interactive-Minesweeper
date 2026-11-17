@@ -5,8 +5,8 @@ type: "product"
 aliases:
   - "T1 mobile phone"
   - "Trump Mobile T1"
-connections: 4
-claims: 2
+connections: 5
+claims: 3
 tags:
   - "entity"
   - "type/product"
@@ -18,19 +18,21 @@ Trump Mobile phone, 'made in America' until the website changed.
 | | |
 |---|---|
 | Type | Product |
-| Appears in | 2 checks |
-| Connections | 4 |
+| Appears in | 3 checks |
+| Connections | 5 |
 | Also known as | T1 mobile phone; Trump Mobile T1 |
 
 ## How Other Checks Describe It
 
 - $499 gold smartphone, once marketed as 'Made in the USA'; shipped May 2026
 - Trump Mobile handset
+- Trump Mobile handset; deposits taken from 2025
 
 ## Appears in Checks
 
 - [[C17 Trump-Branded Merchandise & the T1 Phone]] · Mostly accurate
 - [[C63 Shell Entities & Ownership Chains]] · Mostly accurate
+- [[C98 Trump Media, Licensing & Merchandise Income During the Presidency]] · Mostly accurate
 
 ## Relationships
 

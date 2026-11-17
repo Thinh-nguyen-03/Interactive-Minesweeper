@@ -262,7 +262,7 @@
   },
   {
     "id": "C97-15",
-    "recipient": "donald-trump-jr",
+    "recipient": "trump-family-members-dt-marks",
     "recipient_name": "Other Trump family members (30% of DT Marks DEFI and DT Marks SC)",
     "venture": "world-liberty-financial",
     "category": "crypto",
@@ -277,7 +277,7 @@
       "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
       "https://www.americanprogress.org/wp-content/uploads/sites/2/2026/07/2026-07-16-Memo-on-Understanding-Trumps-Crypto-Wealth-Updated-Google-Docs.pdf"
     ],
-    "notes": "No source states this amount; it is our arithmetic from the ownership percentages. The family members are not named on the form. CAP reads the $262.5M stake-sale figure as Trump's 70% share; the Senate Banking minority letter reads the DT Marks DEFI lines as the entity's receipts. Ceiling overlaps nothing; floor 0 if the lines are entity totals."
+    "notes": "No source states this amount; it is our arithmetic from the ownership percentages. The family members are not named on the form. CAP reads the $262.5M stake-sale figure as Trump's 70% share; the Senate Banking minority letter reads the DT Marks DEFI lines as the entity's receipts. Ceiling overlaps nothing; floor 0 if the lines are entity totals. Same 30% slice as C99-06: count once. Recorded against the unnamed family members, since the form names none of them."
   },
   {
     "id": "C97-16",

@@ -2,8 +2,8 @@
 id: "kimberly-guilfoyle"
 kind: "entity"
 type: "person"
-connections: 5
-claims: 1
+connections: 6
+claims: 2
 tags:
   - "entity"
   - "type/person"
@@ -15,12 +15,17 @@ US ambassador to Greece (2025-Oct 2026); Trump Jr.'s former fiancee.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 1 check |
-| Connections | 5 |
+| Appears in | 2 checks |
+| Connections | 6 |
+
+## How Other Checks Describe It
+
+- Ambassador to Greece until resigning on 13 Oct 2026.
 
 ## Appears in Checks
 
 - [[C76 Russia-Linked Money Around the Family & the Envoys]] · Partly accurate
+- [[C99 What Each Family Member Has Earned]] · Partly accurate
 
 ## Relationships
 

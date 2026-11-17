@@ -2,8 +2,8 @@
 id: "jamie-raskin"
 kind: "entity"
 type: "person"
-connections: 12
-claims: 5
+connections: 14
+claims: 6
 tags:
   - "entity"
   - "type/person"
@@ -17,13 +17,14 @@ House Judiciary ranking member; demanded Kushner's recusal from the Russia and I
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 5 checks |
-| Connections | 12 |
+| Appears in | 6 checks |
+| Connections | 14 |
 
 ## How Other Checks Describe It
 
 - House Judiciary ranking member; probing Kushner's Albania deals and envoy conflicts.
 - House Judiciary ranking member; demanded Kushner's recusal and account records.
+- House Judiciary ranking Democrat; asked DOJ IG to probe Bondi's sale
 - US Rep., House Judiciary ranking member
 - House Judiciary ranking member
 
@@ -34,11 +35,13 @@ House Judiciary ranking member; demanded Kushner's recusal from the Russia and I
 - [[C46 The Alleged Kushner Gulf Accounts]] · Unverified · unverified allegation, single source
 - [[C49 The Market for Pardon Lobbying]] · Mostly accurate
 - [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business]] · Mostly accurate
+- [[C102 Trades by Officials, Family & Associates]] · Mostly accurate
 
 ## Relationships
 
-### Regulatory (3)
+### Regulatory (4)
 
+- [[Jamie Raskin]] *asked DOJ Inspector General to investigate her sale* [[Pam Bondi]] · 2025-05-20 · [[C102 Trades by Officials, Family & Associates|C102]]
 - [[Jamie Raskin]] *demanded tariff records from* [[Brandon Lutnick]] · 2026-02-27 · [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business|C50]]
 - [[Jamie Raskin]] *demanded tariff records from* [[Howard Lutnick]] · 2026-02-27 · [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business|C50]]
 - [[Jamie Raskin]] *demanded recusal from Russia/Iran envoy role citing hack reports* [[Jared Kushner]] · 2026-10 · [[C37 The Reported Hack of Jared Kushner's Phone|C37]] · unverified allegation

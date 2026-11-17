@@ -2,8 +2,8 @@
 id: "liv-golf"
 kind: "entity"
 type: "company"
-connections: 10
-claims: 3
+connections: 11
+claims: 4
 tags:
   - "entity"
   - "type/company"
@@ -15,11 +15,12 @@ PIF-funded league; PIF funding ends after 2026; new unnamed lead investor
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 3 checks |
-| Connections | 10 |
+| Appears in | 4 checks |
+| Connections | 11 |
 
 ## How Other Checks Describe It
 
+- PIF-funded tour holding events at Trump courses; fees undisclosed
 - PIF-funded golf league; hosts events at Trump courses
 - PIF-funded league; events at Trump courses
 
@@ -28,6 +29,7 @@ PIF-funded league; PIF funding ends after 2026; new unnamed lead investor
 - [[C56 Saudi Arabia Family Deals Alongside US Policy Decisions]] · Mostly accurate
 - [[C69 Master Timeline Money Events & Government Actions]] · Partly accurate
 - [[C80 Sovereign-Fund Megadeals That Need US Approval]] · Mostly accurate
+- [[C98 Trump Media, Licensing & Merchandise Income During the Presidency]] · Mostly accurate
 
 ## Relationships
 
@@ -43,8 +45,9 @@ PIF-funded league; PIF funding ends after 2026; new unnamed lead investor
 - [[Public Investment Fund (Saudi Arabia)]] *funds* [[LIV Golf]] · [[C69 Master Timeline Money Events & Government Actions|C69]]
 - [[Scott O'Neil]] *CEO of* [[LIV Golf]] · [[C80 Sovereign-Fund Megadeals That Need US Approval|C80]]
 
-### Commercial (5)
+### Commercial (6)
 
+- [[LIV Golf]] *held events at the club (fees undisclosed)* [[Trump National Doral]] · 2025 · [[C98 Trump Media, Licensing & Merchandise Income During the Presidency|C98]]
 - [[LIV Golf]] *held LIV Golf Miami at* [[Trump National Doral]] · 2025-04 · [[C56 Saudi Arabia Family Deals Alongside US Policy Decisions|C56]]
 - [[LIV Golf]] *staged LIV Miami at* [[Trump National Doral]] · 2025-04 · [[C80 Sovereign-Fund Megadeals That Need US Approval|C80]]
 - [[LIV Golf]] *held LIV Golf Virginia at* [[Trump National Golf Club Washington DC]] · 2026-05 · [[C56 Saudi Arabia Family Deals Alongside US Policy Decisions|C56]]

@@ -2,8 +2,8 @@
 id: "pam-bondi"
 kind: "entity"
 type: "person"
-connections: 16
-claims: 6
+connections: 18
+claims: 7
 tags:
   - "entity"
   - "type/person"
@@ -15,16 +15,16 @@ U.S. Attorney General Feb 2025 - Apr 2, 2026 (fired; succeeded by Todd Blanche);
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 6 checks |
-| Connections | 16 |
+| Appears in | 7 checks |
+| Connections | 18 |
 
 ## How Other Checks Describe It
 
 - Attorney General Feb 2025 - Apr 2, 2026 (succeeded by Todd Blanche); ex-Ballard lobbyist for Qatar.
 - Attorney General Feb 2025 - Apr 2, 2026; ex-Ballard Qatar FARA registrant; signed jet memo
+- Attorney General until April 2026; sold Trump Media shares and warrants on 2 April 2025
 - Attorney General Feb 2025 - Apr 2, 2026; former Ballard lobbyist on the Qatar account
 - Former AG; ex-Ballard lobbyist registered for Qatar; signed jet memo
-- Former Attorney General; restored Gibson's gun rights
 
 ## Appears in Checks
 
@@ -34,11 +34,13 @@ U.S. Attorney General Feb 2025 - Apr 2, 2026 (fired; succeeded by Todd Blanche);
 - [[C64 Lobbyists & Intermediaries with White House Access]] · Mostly accurate
 - [[C65 Officials Who Decided Matters Involving Former Clients or Partners]] · Mostly accurate
 - [[C73 Qatar's Ties to People in & Around the Administration]] · Mostly accurate
+- [[C102 Trades by Officials, Family & Associates]] · Mostly accurate
 
 ## Relationships
 
-### Money (1)
+### Money (2)
 
+- [[Pam Bondi]] *sold $1M-$5M of shares and $250K-$500K of warrants* [[Trump Media & Technology Group]] · 2025-04-02 · $1.25M · [[C102 Trades by Officials, Family & Associates|C102]]
 - [[Pam Bondi]] *sold >$1M of shares on Apr 2, 2025* [[Trump Media & Technology Group]] · 2025-04-02 · $1M · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
 
 ### Family (2)
@@ -46,11 +48,12 @@ U.S. Attorney General Feb 2025 - Apr 2, 2026 (fired; succeeded by Todd Blanche);
 - [[Brad Bondi]] *brother* [[Pam Bondi]] · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
 - [[Brad Bondi]] *brother of* [[Pam Bondi]] · [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]] [[C64 Lobbyists & Intermediaries with White House Access|C64]]
 
-### Regulatory (3)
+### Regulatory (4)
 
 - [[Pam Bondi]] *signed* [[DOJ memo on the Qatari jet]] · 2025-05 · [[C73 Qatar's Ties to People in & Around the Administration|C73]]
 - [[Pam Bondi]] *signed DOJ memo clearing acceptance of* [[Qatar Boeing 747 gift]] · 2025-05 · [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]]
 - [[Pam Bondi]] *signed OLC memo calling acceptance legally permissible* [[Qatar Boeing 747 gift]] · 2025-05 · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
+- [[Jamie Raskin]] *asked DOJ Inspector General to investigate her sale* [[Pam Bondi]] · 2025-05-20 · [[C102 Trades by Officials, Family & Associates|C102]]
 
 ### Advisory (1)
 

@@ -5,8 +5,8 @@ type: "company"
 aliases:
   - "CREW"
   - "Citizens for Responsibility and Ethics in Washington (CREW)"
-connections: 23
-claims: 13
+connections: 27
+claims: 16
 tags:
   - "entity"
   - "type/company"
@@ -18,8 +18,8 @@ Watchdog group that sued in Oct 2026 over Kushner's envoy role and lack of discl
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 13 checks |
-| Connections | 23 |
+| Appears in | 16 checks |
+| Connections | 27 |
 | Also known as | CREW; Citizens for Responsibility and Ethics in Washington (CREW) |
 
 ## How Other Checks Describe It
@@ -45,8 +45,15 @@ Watchdog group that sued in Oct 2026 over Kushner's envoy role and lack of discl
 - [[C82 Abu Dhabi Unannounced Trump Licensing Entities & StringZ]] · Mostly accurate
 - [[C88 Damac & Hussain Sajwani Licence Fees & a Data-Centre Pledge]] · Mostly accurate
 - [[C89 Unannounced Trump Organization Deals in Hungary & Serbia]] · Partly accurate
+- [[C96 What Trump's Own Financial Disclosures Report]] · Confirmed
+- [[C98 Trump Media, Licensing & Merchandise Income During the Presidency]] · Mostly accurate
+- [[C103 Insider-Trading Oversight Requests, Probes & Outcomes]] · Mostly accurate
 
 ## Relationships
+
+### Regulatory (1)
+
+- [[Citizens for Responsibility and Ethics in Washington]] *asked for prediction-market ban for appointees* [[Office of Government Ethics]] · 2026-05-18 · [[C103 Insider-Trading Oversight Requests, Probes & Outcomes|C103]]
 
 ### Legal (3)
 
@@ -54,13 +61,14 @@ Watchdog group that sued in Oct 2026 over Kushner's envoy role and lack of discl
 - [[Citizens for Responsibility and Ethics in Washington]] *FOIA request on Lutnick/Trump children and mining* [[US International Development Finance Corporation]] · 2026-07-28 · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
 - [[Citizens for Responsibility and Ethics in Washington]] *sued over envoy role and lack of disclosure* [[Jared Kushner]] · 2026-10 · [[C15 Jared Kushner, Affinity Partners & Gulf Sovereign Funds|C15]]
 
-### Media (8)
+### Media (9)
 
 - [[Citizens for Responsibility and Ethics in Washington]] *tracks ~24 foreign projects of* [[Trump Organization]] · 2026 · [[C59 Foreign Trump Organization Projects & Tariff Negotiations|C59]]
-- [[Citizens for Responsibility and Ethics in Washington]] *reported on Trump Organization role and hotel plans* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2026 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]]
+- [[Citizens for Responsibility and Ethics in Washington]] *reported on Trump Organization role and hotel plans* [[Donald J. Trump Presidential Library Foundation]] · 2026 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]]
 - [[Citizens for Responsibility and Ethics in Washington]] *reported Vietnam trademark filings by* [[DTTM Operations LLC]] · 2026-01 · [[C79 Lesser-Known Foreign Projects Tbilisi, South Korea, the Maldives & Vietnam|C79]]
 - [[Citizens for Responsibility and Ethics in Washington]] *reported fees and Ohio site* [[Damac Properties]] · 2026-03-12 · [[C88 Damac & Hussain Sajwani Licence Fees & a Data-Centre Pledge|C88]]
 - [[Citizens for Responsibility and Ethics in Washington]] *counted more than $117M foreign revenue in 2025 and 24 foreign projects* [[Trump Organization]] · 2026-07 · $117M · [[C55 How Much Has the Trump Family Made Competing Estimates|C55]]
+- [[Citizens for Responsibility and Ethics in Washington]] *analysed foreign revenue (>$117M in 2025)* [[Donald Trump]] · 2026-08 · [[C96 What Trump's Own Financial Disclosures Report|C96]]
 - [[Citizens for Responsibility and Ethics in Washington]] *named in Hungary FOI requests* [[DT Marks Budapest LLC]] · 2026-08 · [[C89 Unannounced Trump Organization Deals in Hungary & Serbia|C89]]
 - [[Citizens for Responsibility and Ethics in Washington]] *projects >$400M second-term foreign property income for* [[Donald Trump]] · [[C31 Trump Organization Real-Estate Deals in the Gulf|C31]]
 - [[Citizens for Responsibility and Ethics in Washington]] *reported on board-role conflicts of* [[Donald Trump Jr]] · [[C32 Donald Trump Jr.'s Ties to Other Government Contractors|C32]]

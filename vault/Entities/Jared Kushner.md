@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "Kushner"
-connections: 71
-claims: 24
+connections: 73
+claims: 25
 tags:
   - "entity"
   - "type/person"
@@ -19,8 +19,8 @@ President's son-in-law; unofficial 'peace envoy' and head of Affinity Partners.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 24 checks |
-| Connections | 71 |
+| Appears in | 25 checks |
+| Connections | 73 |
 | Also known as | Kushner |
 
 ## How Other Checks Describe It
@@ -57,6 +57,7 @@ President's son-in-law; unofficial 'peace envoy' and head of Affinity Partners.
 - [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds]] · Mostly accurate
 - [[C89 Unannounced Trump Organization Deals in Hungary & Serbia]] · Partly accurate
 - [[C94 The Sale of Lukoil's Foreign Assets & the Boehly Consortium]] · Mostly accurate
+- [[C99 What Each Family Member Has Earned]] · Partly accurate
 
 ## Relationships
 
@@ -67,12 +68,13 @@ President's son-in-law; unofficial 'peace envoy' and head of Affinity Partners.
 - [[Michael Boulos]] *earned about $300K fee on yacht sold to* [[Jared Kushner]] · 2022 · $300K · [[C66 The Extended Family's Ventures & Roles|C66]]
 - [[Jared Kushner]] *sought new capital from (NYT)* [[Qatar Investment Authority]] · 2026-03 · [[C73 Qatar's Ties to People in & Around the Administration|C73]]
 
-### Ownership (12)
+### Ownership (13)
 
 - [[Jared Kushner]] *divested Thrive-linked LLCs (2017 ethics filing)* [[Thrive Capital]] · 2017-03 · [[C66 The Extended Family's Ventures & Roles|C66]]
 - [[Jared Kushner]] *founder* [[Affinity Partners]] · 2021 · [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]] [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]] [[C73 Qatar's Ties to People in & Around the Administration|C73]]
 - [[Jared Kushner]] *founder and CEO of* [[Affinity Partners]] · 2021 · [[C15 Jared Kushner, Affinity Partners & Gulf Sovereign Funds|C15]] [[C37 The Reported Hack of Jared Kushner's Phone|C37]] [[C80 Sovereign-Fund Megadeals That Need US Approval|C80]]
 - [[Jared Kushner]] *founder of* [[Affinity Partners]] · 2021 · [[C57 The UAE Network Tahnoon, G42, MGX & Their US Deals|C57]] [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]] [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds|C87]]
+- [[Affinity Partners]] *sole owner; scheduled $90M more foreign fees Sept 2024-Aug 2026* [[Jared Kushner]] · 2024-09-24 · $90M · [[C99 What Each Family Member Has Earned|C99]]
 - [[Jared Kushner]] *affiliated via Affinity partners; minority partner* [[Atlantic Incubation Partners LLC]] · 2024-12-30 · [[C63 Shell Entities & Ownership Chains|C63]]
 - [[Jared Kushner]] *self-described minority partner in* [[Zvernec Vjosa-Narta coastal project]] · 2026-10 · [[C45 Kushner's Resort Projects in Albania & Serbia|C45]]
 - [[Jared Kushner]] *founded* [[Affinity Partners]] · [[C59 Foreign Trump Organization Projects & Tariff Negotiations|C59]]
@@ -141,8 +143,9 @@ President's son-in-law; unofficial 'peace envoy' and head of Affinity Partners.
 - [[Chad Mizelle]] *lawyer for* [[Jared Kushner]] · [[C46 The Alleged Kushner Gulf Accounts|C46]] · unverified allegation
 - [[Jared Kushner]] *exempt from disclosure under* [[Conflict-of-interest laws]] · [[C15 Jared Kushner, Affinity Partners & Gulf Sovereign Funds|C15]]
 
-### Media (3)
+### Media (4)
 
+- [[Forbes]] *estimated net worth >$1B* [[Jared Kushner]] · 2025-09 · [[C99 What Each Family Member Has Earned|C99]]
 - [[The New Yorker]] *investigated Albania project; Kushner rebutted* [[Jared Kushner]] · 2026-10-08 · [[C45 Kushner's Resort Projects in Albania & Serbia|C45]]
 - [[Matthew Cole]] *alleges (single source) access to ~$2B in Gulf-funded secret accounts* [[Jared Kushner]] · 2026-10-22 · [[C46 The Alleged Kushner Gulf Accounts|C46]] · unverified allegation
 - [[Vanity Fair (Condé Nast)]] *published excerpt alleging phone hack and secret accounts* [[Jared Kushner]] · 2026-10-22 · [[C37 The Reported Hack of Jared Kushner's Phone|C37]] · unverified allegation

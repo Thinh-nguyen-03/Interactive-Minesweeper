@@ -3,10 +3,11 @@ id: "trump-sneakers"
 kind: "entity"
 type: "product"
 aliases:
+  - "Trump Sneakers & Fragrances"
   - "Trump Sneakers (Never Surrender high-tops)"
   - "golden shoes"
-connections: 3
-claims: 1
+connections: 4
+claims: 2
 tags:
   - "entity"
   - "type/product"
@@ -18,23 +19,26 @@ Trump-branded gold shoes.
 | | |
 |---|---|
 | Type | Product |
-| Appears in | 1 check |
-| Connections | 3 |
-| Also known as | Trump Sneakers (Never Surrender high-tops); golden shoes |
+| Appears in | 2 checks |
+| Connections | 4 |
+| Also known as | Trump Sneakers & Fragrances; Trump Sneakers (Never Surrender high-tops); golden shoes |
 
 ## How Other Checks Describe It
 
 - Gold $399 high-tops unveiled at Sneaker Con in Feb 2024
+- $67,634 royalties in 2025
 
 ## Appears in Checks
 
 - [[C17 Trump-Branded Merchandise & the T1 Phone]] · Mostly accurate
+- [[C96 What Trump's Own Financial Disclosures Report]] · Confirmed
 
 ## Relationships
 
-### Money (1)
+### Money (2)
 
 - [[Trump golden sneakers]] *sneaker and fragrance royalties (2024) to* [[Donald Trump]] · 2024 · $2.5M · [[C17 Trump-Branded Merchandise & the T1 Phone|C17]]
+- [[Trump golden sneakers]] *paid royalties* [[CIC Ventures LLC]] · 2025 · $67.63K · [[C96 What Trump's Own Financial Disclosures Report|C96]]
 
 ### Commercial (2)
 

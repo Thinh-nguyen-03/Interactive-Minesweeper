@@ -2,8 +2,8 @@
 id: "qatar"
 kind: "entity"
 type: "country"
-connections: 40
-claims: 15
+connections: 41
+claims: 16
 tags:
   - "entity"
   - "type/country"
@@ -15,8 +15,8 @@ Gulf state that offered the jet, bought arms, hosts a Trump golf project.
 | | |
 |---|---|
 | Type | Country |
-| Appears in | 15 checks |
-| Connections | 40 |
+| Appears in | 16 checks |
+| Connections | 41 |
 
 ## How Other Checks Describe It
 
@@ -43,6 +43,7 @@ Gulf state that offered the jet, bought arms, hosts a Trump golf project.
 - [[C73 Qatar's Ties to People in & Around the Administration]] · Mostly accurate
 - [[C84 Heritage Advisors & Sheikh Sultan bin Jassim]] · Mostly accurate
 - [[C94 The Sale of Lukoil's Foreign Assets & the Boehly Consortium]] · Mostly accurate
+- [[C98 Trump Media, Licensing & Merchandise Income During the Presidency]] · Mostly accurate
 
 ## Relationships
 

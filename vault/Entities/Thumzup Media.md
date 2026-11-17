@@ -39,4 +39,4 @@ Ad-tech firm turned crypto treasury/Dogecoin miner; Don Jr. holds a stake; Domin
 
 ### Commercial (1)
 
-- [[Dominari Holdings Dominari Securities]] *placement agent ($6M preferred; $50M offering)* [[Thumzup Media]] · 2025-07 · $50M · [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network|C39]]
+- [[Dominari Holdings]] *placement agent ($6M preferred; $50M offering)* [[Thumzup Media]] · 2025-07 · $50M · [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network|C39]]

@@ -2,8 +2,8 @@
 id: "paul-atkins"
 kind: "entity"
 type: "person"
-connections: 20
-claims: 9
+connections: 21
+claims: 10
 tags:
   - "entity"
   - "type/person"
@@ -15,8 +15,8 @@ Trump's pro-crypto nominee to lead the SEC.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 9 checks |
-| Connections | 20 |
+| Appears in | 10 checks |
+| Connections | 21 |
 
 ## How Other Checks Describe It
 
@@ -37,6 +37,7 @@ Trump's pro-crypto nominee to lead the SEC.
 - [[C54 The Crypto Revolving Door]] · Mostly accurate
 - [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations]] · Mostly accurate
 - [[C65 Officials Who Decided Matters Involving Former Clients or Partners]] · Mostly accurate
+- [[C103 Insider-Trading Oversight Requests, Probes & Outcomes]] · Mostly accurate
 
 ## Relationships
 
@@ -50,9 +51,10 @@ Trump's pro-crypto nominee to lead the SEC.
 - [[Paul Atkins]] *held ~$1M equity (pre-office)* [[Anchorage Digital]] · $1M · [[C54 The Crypto Revolving Door|C54]]
 - [[Paul Atkins]] *held $2.5-5M call options (pre-office)* [[Securitize]] · [[C54 The Crypto Revolving Door|C54]]
 
-### Regulatory (6)
+### Regulatory (7)
 
 - [[Maxine Waters]] *requested insider-trading investigation* [[Paul Atkins]] · 2025-04-10 · [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations|C58]]
+- [[Elizabeth Warren]] *led Senate request for tariff-pause probe; no reply found* [[Paul Atkins]] · 2025-04-11 · [[C103 Insider-Trading Oversight Requests, Probes & Outcomes|C103]]
 - [[Margaret 'Meg' Ryan]] *reportedly clashed with (anonymous Reuters sources)* [[Paul Atkins]] · 2026-03 · [[C52 Trump-Connected Lobbyists Hired by Crypto Firms & the SEC Enforcement Director's Exit|C52]]
 - [[Elizabeth Warren]] *asked SEC to investigate $TRUMP (with Blumenthal)* [[Paul Atkins]] · 2026-08-04 · [[C40 Who Ran the $TRUMP & $MELANIA Launches|C40]]
 - [[Donald Trump]] *nominated to SEC* [[Paul Atkins]] · [[C22 Crypto.com's Deal with Trump Media|C22]]

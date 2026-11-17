@@ -64,6 +64,7 @@ Most of the core facts hold up. TMTG announced Truth Predict in Oct 2025 and she
 - [[C38 Polymarket Probes Closed Before 1789 Capital Invested]] · Mostly accurate
 - [[C54 The Crypto Revolving Door]] · Mostly accurate
 - [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations]] · Mostly accurate
+- [[C102 Trades by Officials, Family & Associates]] · Mostly accurate
 
 ## Sub-Claims
 
@@ -215,7 +216,7 @@ Most of the core facts hold up. TMTG announced Truth Predict in Oct 2025 and she
 
 ### Ownership (2)
 
-- [[Donald Trump Jr]] *partner at* [[1789 Capital]] · 2024-11 · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]] [[C26 1789 Capital & the Vulcan Elements Magnet Deal|C26]] [[C32 Donald Trump Jr.'s Ties to Other Government Contractors|C32]] [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]] [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]] [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
+- [[Donald Trump Jr]] *partner at* [[1789 Capital]] · 2024-11 · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]] [[C26 1789 Capital & the Vulcan Elements Magnet Deal|C26]] [[C32 Donald Trump Jr.'s Ties to Other Government Contractors|C32]] [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]] [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]] [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]] [[C99 What Each Family Member Has Earned|C99]]
 - [[Tarek Mansour]] *CEO of* [[Kalshi]] · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]
 
 ### Family (2)
@@ -234,14 +235,14 @@ Most of the core facts hold up. TMTG announced Truth Predict in Oct 2025 and she
 - [[Commodity Futures Trading Commission]] *regulates* [[Prediction markets industry]] · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]
 - [[Donald Trump]] *appointed CFTC chair* [[Mike Selig]] · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]
 - [[Sports bets as event contracts theory]] *legalises sports bets on* [[Prediction markets industry]] · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]
-- [[Mike Selig]] *chairs* [[Commodity Futures Trading Commission]] · [[C22 Crypto.com's Deal with Trump Media|C22]] [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]] [[C52 Trump-Connected Lobbyists Hired by Crypto Firms & the SEC Enforcement Director's Exit|C52]]
+- [[Mike Selig]] *chairs* [[Commodity Futures Trading Commission]] · [[C22 Crypto.com's Deal with Trump Media|C22]] [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]] [[C52 Trump-Connected Lobbyists Hired by Crypto Firms & the SEC Enforcement Director's Exit|C52]] [[C101 Trading Ahead of Presidential Announcements|C101]]
 
 ### Advisory (5)
 
 - [[Donald Trump Jr]] *strategic adviser (paid partly in shares, reportedly >$300k)* [[Kalshi]] · 2025-01 · $300K · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]
-- [[Donald Trump Jr]] *advisory board member* [[Polymarket]] · 2025-08-26 · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]] [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations|C58]]
+- [[Donald Trump Jr]] *advisory board member* [[Polymarket]] · 2025-08-26 · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]] [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations|C58]] [[C102 Trades by Officials, Family & Associates|C102]]
+- [[Donald Trump Jr]] *advisory board member of* [[Polymarket]] · 2025-08-26 · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]] [[C99 What Each Family Member Has Earned|C99]]
 - [[Donald Trump Jr]] *strategic adviser to* [[Kalshi]] · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]
-- [[Donald Trump Jr]] *advisory board member of* [[Polymarket]] · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]
 - [[Tarek Mansour]] *did not explain role of* [[Donald Trump Jr]] · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]
 
 ### Political (11)
@@ -269,7 +270,7 @@ Most of the core facts hold up. TMTG announced Truth Predict in Oct 2025 and she
 
 ### Commercial (9)
 
-- [[Trump Media & Technology Group]] *announced, then shelved* [[Truth Predict]] · 2025-10-28 · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]
+- [[Trump Media & Technology Group]] *announced, then shelved* [[Truth Predict]] · 2025-10-28 · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]] [[C102 Trades by Officials, Family & Associates|C102]]
 - [[Kevin McGurn]] *shelved* [[Truth Predict]] · 2026-08 · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]
 - [[Trump Media & Technology Group]] *partnered for Truth Predict; switched to marketing deal* [[Crypto.com]] · 2026-08 · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]
 - [[Apple App Store]] *formerly topped by* [[PayPal]] · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]

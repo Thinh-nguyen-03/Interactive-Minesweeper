@@ -197,7 +197,7 @@ Don Jr. is a 1789 Capital partner. The firm passed $1B in assets in September 20
 ### Ownership (4)
 
 - [[Omeed Malik]] *co-founder and CEO of* [[1789 Capital]] · 2022 · [[C26 1789 Capital & the Vulcan Elements Magnet Deal|C26]]
-- [[Donald Trump Jr]] *partner at* [[1789 Capital]] · 2024-11 · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]] [[C26 1789 Capital & the Vulcan Elements Magnet Deal|C26]] [[C32 Donald Trump Jr.'s Ties to Other Government Contractors|C32]] [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]] [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]] [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
+- [[Donald Trump Jr]] *partner at* [[1789 Capital]] · 2024-11 · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]] [[C26 1789 Capital & the Vulcan Elements Magnet Deal|C26]] [[C32 Donald Trump Jr.'s Ties to Other Government Contractors|C32]] [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]] [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]] [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]] [[C99 What Each Family Member Has Earned|C99]]
 - [[Chris Buskirk]] *co-founder and partner of* [[1789 Capital]] · [[C26 1789 Capital & the Vulcan Elements Magnet Deal|C26]]
 - [[John Maslin]] *CEO of* [[Vulcan Elements]] · [[C26 1789 Capital & the Vulcan Elements Magnet Deal|C26]]
 

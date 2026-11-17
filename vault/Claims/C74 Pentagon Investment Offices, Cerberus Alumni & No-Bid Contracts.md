@@ -247,7 +247,7 @@ Every role, contract and loan in the claim is documented. Lorch (ex-Cerberus MD)
 - [[D. Boral Capital]] · Company
 - [[David Boral]] · Person
 - [[David Lorch]] · Person
-- [[Dominari Holdings Dominari Securities]] · Company
+- [[Dominari Holdings]] · Company
 - [[Donald Trump]] · Person
 - [[Donald Trump Jr]] · Person
 - [[Economic Defense Unit ('Deal Team Six')]] · Government body
@@ -340,7 +340,7 @@ Every role, contract and loan in the claim is documented. Lorch (ex-Cerberus MD)
 
 - [[Kevin McGurn]] *chairman, CEO and CFO (later CEO only); resigned effective Aug 5, 2026* [[New America Acquisition I Corp]] · 2025-07/2026-08-05 · [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts|C74]]
 - [[D. Boral Capital]] *co-lead underwriter of $345M IPO* [[New America Acquisition I Corp]] · 2025-12 · $345M · [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts|C74]]
-- [[Dominari Holdings Dominari Securities]] *co-lead underwriter* [[New America Acquisition I Corp]] · 2025-12 · $345M · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]] [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts|C74]]
+- [[Dominari Holdings]] *co-lead underwriter* [[New America Acquisition I Corp]] · 2025-12 · $345M · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]] [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts|C74]]
 - [[Kevin McGurn]] *director* [[D. Boral Acquisition I]] · 2026 · [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts|C74]]
 - [[Luisa Ingargiola]] *director* [[D. Boral Acquisition I]] · 2026 · [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts|C74]]
 - [[North Wind]] *awardee (per Warren)* [[Golden Dome]] · 2026 · [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts|C74]]

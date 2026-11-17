@@ -37,7 +37,7 @@ E-commerce and cloud giant; licensed the Melania film through Amazon MGM Studios
 
 - [[Amazon]] *donated $1M* [[Trump-Vance Inaugural Committee]] · 2024-12 · $1M · [[C44 Amazon's $40 Million Melania Trump Documentary Deal|C44]]
 - [[Amazon]] *documentary licence fee to Melania (OGE)* [[Melania Trump]] · 2025 · $10.71M · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
-- [[Amazon]] *film licensing fee ($10.71M on 2025 OGE report)* [[Melania Trump]] · 2025 · $10.71M · [[C44 Amazon's $40 Million Melania Trump Documentary Deal|C44]]
+- [[Amazon]] *film licence net proceeds ($10.71M, spouse income on the 2025 OGE report)* [[Melania Trump]] · 2025 · $10.71M · [[C44 Amazon's $40 Million Melania Trump Documentary Deal|C44]]
 - [[Amazon]] *named donor ($5M per WaPo)* [[White House ballroom]] · 2025-10-23 · $5M · [[C69 Master Timeline Money Events & Government Actions|C69]]
 - [[Amazon]] *committed (WaPo leak)* [[White House ballroom]] · 2026-10-15 · $5M · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Amazon]] *committed $5M (WaPo leak)* [[White House ballroom]] · $5M · [[C92 The White House Ballroom Donor List|C92]]

@@ -22,20 +22,26 @@
     {
       "statement": "Forbes estimates of the gains.",
       "verdict": "confirmed",
-      "finding": "Forbes tracks net worth, not cash. It estimated Trump at $7.3B in Sept 2025 (+$3B in a year), with the family collectively at about $10B. By March 2026 it had Trump at $6.5B (+$1.4B year on year) after the crypto drawdown. Its figures for the individual sons are in C29.",
+      "finding": "Forbes tracks net worth, not cash. It estimated Trump at $7.3B in Sept 2025 (+$3B in a year), with the family collectively at about $10B. By March 2026 it had Trump at $6.5B (+$1.4B year on year) after the crypto drawdown, and at about $7.0B in Sept 2026, against a 2024 baseline of $4.3B (C100). Its figures for the individual sons are in C29.",
       "sources": [
         "https://www.newser.com/story/386272/forbes-has-a-new-estimate-of-trumps-net-worth.html",
-        "https://www.forbes.com.au/?p=158228"
+        "https://www.forbes.com.au/?p=158228",
+        "https://www.forbes.com/sites/pr/2026/09/15/forbes-releases-its-45th-annual-forbes-400-ranking-of-richest-americans/",
+        "https://www.forbes.com.au/news/billionaires/heres-how-much-donald-trump-is-worth/",
+        "https://www.forbes.com.au/news/billionaires/how-donald-trump-climbed-back-onto-the-forbes-400/"
       ]
     },
     {
       "statement": "Bloomberg estimates of the gains.",
       "verdict": "confirmed",
-      "finding": "The Bloomberg Billionaires Index estimated that crypto had added about $620M by July 2025, then $1.3B in a few weeks, taking the family to $7.7B (Sept 2025). The family then fell to about $6.7B as crypto sank. Locked tokens are excluded. A 2026-05-12 revision added $660M from previously undisclosed WLFI token sales, putting family token-sale proceeds at about $1.55B.",
+      "finding": "The Bloomberg Billionaires Index estimated that crypto had added about $620M by July 2025, then $1.3B in a few weeks, taking the family to $7.7B (Sept 2025). On 2026-01-20 Bloomberg put the family at $6.8B, roughly flat on the year: crypto had added about $1.4B while Trump Media fell. On 2026-06-06 it put the family at $7.8B; part of that rise is a change in method, because a $630M stablecoin stake was counted for the first time. Locked tokens are excluded. A 2026-05-12 revision added $660M from previously undisclosed WLFI token sales, putting family token-sale proceeds at about $1.55B.",
       "sources": [
         "https://www.theblock.co/news/business/2025-07-02-trump-family-saw-620-million-from-crypto-venture-proceeds-in-recent-months-report-360791",
         "https://www.bloomberg.com/news/articles/2025-09-07/trump-family-adds-1-3-billion-of-crypto-wealth-in-span-of-weeks",
-        "https://www.bloomberg.com/news/articles/2026-05-12/quiet-token-sales-boosted-trump-crypto-wealth-by-660-million"
+        "https://www.bloomberg.com/news/articles/2026-05-12/quiet-token-sales-boosted-trump-crypto-wealth-by-660-million",
+        "https://www.bloomberg.com/news/features/2026-01-20/donald-trump-family-net-worth-increasingly-comes-from-crypto",
+        "https://www.bloomberglinea.com/cripto/fortuna-de-us6800-millones-de-la-familia-trump-se-vincula-cada-vez-mas-al-negocio-cripto/",
+        "https://www.spokesman.com/stories/2026/jun/06/trump-familys-stablecoin-wealth-fueled-by-binance-/"
       ]
     },
     {
@@ -91,7 +97,8 @@
     "Kirkpatrick's total includes some 2024 run-up money, so it is not strictly second-term.",
     "$1.4B crypto / $2.2B is Trump's personal gross income for calendar 2025, not a family total and not profit.",
     "The Fight Fight Fight treasury was a reported fundraising plan; no raise has been confirmed.",
-    "2026-11-16 (disclosure audit, C96/C97): Claimed: Reuters' $2.3B is earnings 'since the return to office'. The record shows: Reuters' estimate is pretax income from November 2024 to April 2026 and includes about $70M of paper value (Eric Trump's American Bitcoin stake), so it is not all cash. The disclosure's 'about $800M from WLF' is $789.3M on the World Liberty and stablecoin entity lines ($592.4M without Stablecoin Holdco), entities 30% owned by unnamed family members."
+    "2026-11-16 (disclosure audit, C96/C97): Claimed: Reuters' $2.3B is earnings 'since the return to office'. The record shows: Reuters' estimate is pretax income from November 2024 to April 2026 and includes about $70M of paper value (Eric Trump's American Bitcoin stake), so it is not all cash. The disclosure's 'about $800M from WLF' is $789.3M on the World Liberty and stablecoin entity lines ($592.4M without Stablecoin Holdco), entities 30% owned by unnamed family members.",
+    "2026-11-16: Claimed: the family fell to about $6.7B on Bloomberg's count. The record shows: Bloomberg's figure on 2026-01-20 was $6.8B, and on 2026-06-06 it was $7.8B. Part of the rise to $7.8B is a change in method, a $630M stablecoin stake counted for the first time, not new money. Forbes put Trump at about $7.0B in Sept 2026, against a 2024 baseline of $4.3B."
   ],
   "denials_and_context": [
     "Karoline Leavitt called the New Yorker figure 'absolutely absurd' and said Trump has lost hundreds of millions of dollars by serving. No records support that claim.",
@@ -249,6 +256,42 @@
       "publisher": "NPR",
       "url": "https://www.npr.org/2026/02/08/nx-s1-5704312/how-the-presidency-is-making-trump-richer",
       "date": "2026-02-08"
+    },
+    {
+      "title": "Donald Trump Family Net Worth Increasingly Comes From Crypto",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/features/2026-01-20/donald-trump-family-net-worth-increasingly-comes-from-crypto",
+      "date": "2026-01-20"
+    },
+    {
+      "title": "Fortuna de US$6.800 millones de la familia Trump se vincula cada vez más al negocio cripto",
+      "publisher": "Bloomberg Línea",
+      "url": "https://www.bloomberglinea.com/cripto/fortuna-de-us6800-millones-de-la-familia-trump-se-vincula-cada-vez-mas-al-negocio-cripto/",
+      "date": "2026-01-20"
+    },
+    {
+      "title": "Trump family's stablecoin wealth fueled by Binance relationship (Bloomberg)",
+      "publisher": "Spokesman-Review (Bloomberg)",
+      "url": "https://www.spokesman.com/stories/2026/jun/06/trump-familys-stablecoin-wealth-fueled-by-binance-/",
+      "date": "2026-06-06"
+    },
+    {
+      "title": "Forbes Releases Its 45th Annual Forbes 400 Ranking",
+      "publisher": "Forbes",
+      "url": "https://www.forbes.com/sites/pr/2026/09/15/forbes-releases-its-45th-annual-forbes-400-ranking-of-richest-americans/",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Here's how much Donald Trump is worth (Forbes, republished)",
+      "publisher": "Forbes Australia (Dan Alexander, Forbes)",
+      "url": "https://www.forbes.com.au/news/billionaires/heres-how-much-donald-trump-is-worth/",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "How Donald Trump climbed back onto The Forbes 400 (Forbes, republished)",
+      "publisher": "Forbes Australia (Dan Alexander, Forbes)",
+      "url": "https://www.forbes.com.au/news/billionaires/how-donald-trump-climbed-back-onto-the-forbes-400/",
+      "date": "2024-10-02"
     }
   ],
   "entities": [
@@ -564,7 +607,8 @@
     "changes": [
       "No factual changes; all three assertions matched fresh coverage (NPR repeats 'almost $4 billion'; Bloomberg's $660M/$1.55B and the disclosure figures confirmed in multiple outlets). Added corroborating sources only.",
       "Not re-checked: Forbes net-worth figures, CREW foreign-revenue count, Fight Fight Fight treasury status, Reuters portfolio-growth range.",
-      "2026-11-16 (disclosure audit, C96/C97): Reuters' $2.3B re-described as pretax income Nov 2024-Apr 2026 including Eric Trump's American Bitcoin stake at paper value (confirmed via CryptoSlate and Coin360 relays); disclosure WLF figure set to the exact $789.3M ($592.4M without Stablecoin Holdco) with the 70/30 entity caveat."
+      "2026-11-16 (disclosure audit, C96/C97): Reuters' $2.3B re-described as pretax income Nov 2024-Apr 2026 including Eric Trump's American Bitcoin stake at paper value (confirmed via CryptoSlate and Coin360 relays); disclosure WLF figure set to the exact $789.3M ($592.4M without Stablecoin Holdco) with the 70/30 entity caveat.",
+      "2026-11-16 (net-worth review, C100): Bloomberg's family figure corrected from about $6.7B to $6.8B (2026-01-20); Bloomberg's $7.8B of 2026-06-06 added, with the note that part of the rise is a change in method (a $630M stablecoin stake counted for the first time); Forbes' about $7.0B (Sept 2026) and its $4.3B 2024 baseline added."
     ],
     "new_sources": [
       {

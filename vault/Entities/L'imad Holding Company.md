@@ -26,4 +26,4 @@ Abu Dhabi vehicle in the WBD bid
 
 ### Money (1)
 
-- [[L'imad Holding Company]] *co-financed WBD bid* [[Paramount]] · 2025-12 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
+- [[L'imad Holding Company]] *co-financed WBD bid* [[Paramount Global]] · 2025-12 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]

@@ -2,8 +2,8 @@
 id: "ivanka-trump"
 kind: "entity"
 type: "person"
-connections: 8
-claims: 3
+connections: 9
+claims: 4
 tags:
   - "entity"
   - "type/person"
@@ -15,11 +15,12 @@ Kushner's wife; publicly promoted the Albania island plans.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 3 checks |
-| Connections | 8 |
+| Appears in | 4 checks |
+| Connections | 9 |
 
 ## How Other Checks Describe It
 
+- President's daughter; no documented 2025-26 income figure.
 - Kushner's wife; associated with the Sazan project.
 - Trump's daughter; Jared Kushner's wife
 
@@ -28,6 +29,7 @@ Kushner's wife; publicly promoted the Albania island plans.
 - [[C45 Kushner's Resort Projects in Albania & Serbia]] · Mostly accurate
 - [[C66 The Extended Family's Ventures & Roles]] · Partly accurate
 - [[C94 The Sale of Lukoil's Foreign Assets & the Boehly Consortium]] · Mostly accurate
+- [[C99 What Each Family Member Has Earned]] · Partly accurate
 
 ## Relationships
 

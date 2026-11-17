@@ -47,4 +47,4 @@ Broker Wool led and part-owned (30% until May 2025); co-underwriter with Dominar
 ### Commercial (2)
 
 - [[Kyle Wool]] *former president/chairman (2021-2023)* [[Revere Securities LLC]] · 2022 · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]
-- [[Revere Securities LLC]] *co-participant in underwritings earning Dominari $5.8M (2025) and $930K (2024)* [[Dominari Holdings Dominari Securities]] · 2025 · $5.8M · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
+- [[Revere Securities LLC]] *co-participant in underwritings earning Dominari $5.8M (2025) and $930K (2024)* [[Dominari Holdings]] · 2025 · $5.8M · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]

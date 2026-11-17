@@ -2,8 +2,8 @@
 id: "fight-fight-fight-llc"
 kind: "entity"
 type: "company"
-connections: 15
-claims: 6
+connections: 16
+claims: 7
 tags:
   - "entity"
   - "type/company"
@@ -15,14 +15,15 @@ Zanker-run co-holder of 80% of $TRUMP supply with CIC Digital
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 6 checks |
-| Connections | 15 |
+| Appears in | 7 checks |
+| Connections | 16 |
 
 ## How Other Checks Describe It
 
 - Entity behind $TRUMP that ran the dinner contest.
 - Co-issuer of $TRUMP, run by Bill Zanker
 - TRUMP coin co-issuer run by Bill Zanker
+- Co-issuer of $TRUMP with CIC Digital
 - $TRUMP co-issuer
 
 ## Appears in Checks
@@ -33,6 +34,7 @@ Zanker-run co-holder of 80% of $TRUMP supply with CIC Digital
 - [[C55 How Much Has the Trump Family Made Competing Estimates]] · Mostly accurate
 - [[C63 Shell Entities & Ownership Chains]] · Mostly accurate
 - [[C67 Investors Who Appear in Several Trump-Family Vehicles]] · Mostly accurate
+- [[C97 Crypto Income During the Presidency]] · Mostly accurate
 
 ## Relationships
 

@@ -4,9 +4,10 @@ kind: "entity"
 type: "asset"
 aliases:
   - "White House East Wing ballroom"
+  - "White House State Ballroom"
   - "ballroom"
-connections: 54
-claims: 8
+connections: 56
+claims: 10
 tags:
   - "entity"
   - "type/asset"
@@ -18,9 +19,9 @@ Ballroom Trump wants to build, sponsored by crypto firms.
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 8 checks |
-| Connections | 54 |
-| Also known as | White House East Wing ballroom; ballroom |
+| Appears in | 10 checks |
+| Connections | 56 |
+| Also known as | White House East Wing ballroom; White House State Ballroom; ballroom |
 
 ## How Other Checks Describe It
 
@@ -40,13 +41,16 @@ Ballroom Trump wants to build, sponsored by crypto firms.
 - [[C70 What the Trump Family's Foreign Partners Obtained from Washington]] · Mostly accurate
 - [[C86 Major Trump Donors with Stakes in Federally Backed Companies]] · Partly accurate
 - [[C92 The White House Ballroom Donor List]] · Partly accurate
+- [[C95 The Presidential Salary Pledge]] · Partly accurate
+- [[C100 Net Worth Change & Legal Settlements Paid to Trump]] · Mostly accurate
 
 ## Relationships
 
-### Money (68)
+### Money (69)
 
 - [[Isabela Herrera]] *pledged $2.5M (WaPo leak)* [[White House ballroom]] · 2025-09 · $2.5M · [[C92 The White House Ballroom Donor List|C92]]
 - [[Rocket Companies]] *subsidiary pledged $10M ~3 weeks after FHFA approval (WaPo leak, single-source)* [[White House ballroom]] · 2025-09 · $10M · [[C92 The White House Ballroom Donor List|C92]]
+- [[Trust for the National Mall]] *holds and disburses funds for* [[White House ballroom]] · 2025-09 · [[C100 Net Worth Change & Legal Settlements Paid to Trump|C100]]
 - [[Alphabet (Google)]] *$22M via YouTube settlement* [[White House ballroom]] · 2025-09-29 · $22M · [[C92 The White House Ballroom Donor List|C92]]
 - [[Alphabet (Google)]] *YouTube settlement, $22M to ballroom* [[White House ballroom]] · 2025-09-29 · $22M · [[C69 Master Timeline Money Events & Government Actions|C69]]
 - [[Cameron Winklevoss]] *donor to* [[White House ballroom]] · 2025-10 · [[C23 SEC Crypto Cases Dropped & the Firms' Donations|C23]]
@@ -114,11 +118,12 @@ Ballroom Trump wants to build, sponsored by crypto firms.
 - [[T-Mobile US]] *committed $5M (WaPo leak)* [[White House ballroom]] · $5M · [[C92 The White House Ballroom Donor List|C92]]
 - [[White House ballroom]] *donations administered by* [[Trust for the National Mall]] · [[C92 The White House Ballroom Donor List|C92]]
 
-### Political (10)
+### Political (11)
 
 - [[Donald Trump]] *commissioned* [[White House ballroom]] · 2025 · [[C23 SEC Crypto Cases Dropped & the Firms' Donations|C23]]
 - [[Donald Trump]] *directs and promotes* [[White House ballroom]] · 2025-07 · [[C33 Corporate Lawsuit Settlements & Donations to Trump's Library & Ballroom|C33]]
 - [[Donald Trump]] *sponsors project* [[White House ballroom]] · 2025-07 · [[C92 The White House Ballroom Donor List|C92]]
+- [[Donald Trump]] *tied his salary gift to White House renovations including* [[White House ballroom]] · 2025-08-06 · [[C95 The Presidential Salary Pledge|C95]]
 - [[Harold Hamm]] *named donor* [[White House ballroom]] · 2025-10 · [[C86 Major Trump Donors with Stakes in Federally Backed Companies|C86]]
 - [[Stephen Schwarzman]] *donor* [[White House ballroom]] · 2025-10 · [[C86 Major Trump Donors with Stakes in Federally Backed Companies|C86]]
 - [[White House Trump administration]] *released donor list for* [[White House ballroom]] · 2025-10 · [[C23 SEC Crypto Cases Dropped & the Firms' Donations|C23]]

@@ -4,8 +4,8 @@ kind: "entity"
 type: "company"
 aliases:
   - "TAE"
-connections: 10
-claims: 3
+connections: 12
+claims: 4
 tags:
   - "entity"
   - "type/company"
@@ -17,8 +17,8 @@ Fusion energy company in ~$6B stock merger with TMTG.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 3 checks |
-| Connections | 10 |
+| Appears in | 4 checks |
+| Connections | 12 |
 | Also known as | TAE |
 
 ## How Other Checks Describe It
@@ -26,12 +26,14 @@ Fusion energy company in ~$6B stock merger with TMTG.
 - California fusion-energy developer merging with TMTG in an all-stock deal valued at more than $6B.
 - Fusion developer merging with TMTG (vote 2026-12-14).
 - Fusion company merging with TMTG
+- Fusion company merging with TMTG; vote set for 14 Dec 2026
 
 ## Appears in Checks
 
 - [[C24 Trump Media's ETFs, the TAE Fusion Merger & Its Losses]] · Mostly accurate
 - [[C41 Trump Media Feed Subscribers, the Senators' SEC Request, Departures & the CRO Treasury]] · Mostly accurate
 - [[C85 Yorkville's Blank-Cheque Vehicles Venezuela, Blue Water III & PlusAI]] · Partly accurate
+- [[C98 Trump Media, Licensing & Merchandise Income During the Presidency]] · Mostly accurate
 
 ## Relationships
 
@@ -49,8 +51,9 @@ Fusion energy company in ~$6B stock merger with TMTG.
 
 - [[Michl Binderbauer]] *CEO of* [[TAE Technologies]] · [[C24 Trump Media's ETFs, the TAE Fusion Merger & Its Losses|C24]]
 
-### Commercial (4)
+### Commercial (5)
 
+- [[Donald J. Trump Revocable Trust]] *agreed to vote its TMTG shares for the TAE merger* [[TAE Technologies]] · 2025-12-18 · [[C98 Trump Media, Licensing & Merchandise Income During the Presidency|C98]]
 - [[TAE Technologies]] *party to* [[TMTG-TAE merger]] · 2025-12-18 · [[C24 Trump Media's ETFs, the TAE Fusion Merger & Its Losses|C24]] [[C41 Trump Media Feed Subscribers, the Senators' SEC Request, Departures & the CRO Treasury|C41]]
 - [[TAE Technologies]] *party to Truth Social spin-off discussions with* [[Texas Ventures Acquisition III Corp]] · 2026-02-27 · [[C85 Yorkville's Blank-Cheque Vehicles Venezuela, Blue Water III & PlusAI|C85]]
 - [[TAE Technologies]] *operates in* [[Fusion energy sector]] · [[C24 Trump Media's ETFs, the TAE Fusion Merger & Its Losses|C24]]

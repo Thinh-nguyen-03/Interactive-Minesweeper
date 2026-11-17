@@ -4,30 +4,30 @@ kind: "entity"
 type: "person"
 aliases:
   - "Sen. Elizabeth Warren"
-connections: 75
-claims: 34
+connections: 80
+claims: 37
 tags:
   - "entity"
   - "type/person"
 ---
 # Elizabeth Warren
 
-Democratic senator, Banking Committee ranking member; co-signed the SEC letter.
+Senator who asked the SEC and CFTC to investigate trades ahead of announcements.
 
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 34 checks |
-| Connections | 75 |
+| Appears in | 37 checks |
+| Connections | 80 |
 | Also known as | Sen. Elizabeth Warren |
 
 ## How Other Checks Describe It
 
+- Democratic senator, Banking Committee ranking member; co-signed the SEC letter.
 - Senate Banking ranking member; wrote to Sacks and OGE about his conflicts
 - Senate Banking ranking member who questioned EXIM, Commerce and DoD.
 - US senator (D-MA) leading the inquiry into library settlement money
 - US senator who called the arrangement 'corruption in plain sight'.
-- US Senator who led letters asking the FTC to examine Trump Mobile
 
 ## Appears in Checks
 
@@ -65,21 +65,28 @@ Democratic senator, Banking Committee ranking member; co-signed the SEC letter.
 - [[C82 Abu Dhabi Unannounced Trump Licensing Entities & StringZ]] · Mostly accurate
 - [[C86 Major Trump Donors with Stakes in Federally Backed Companies]] · Partly accurate
 - [[C90 World Liberty's Token-Swap Pitch & Its Partners]] · Mostly accurate
+- [[C100 Net Worth Change & Legal Settlements Paid to Trump]] · Mostly accurate
+- [[C101 Trading Ahead of Presidential Announcements]] · Mostly accurate
+- [[C103 Insider-Trading Oversight Requests, Probes & Outcomes]] · Mostly accurate
 
 ## Relationships
 
-### Regulatory (8)
+### Regulatory (12)
 
+- [[Elizabeth Warren]] *led Senate request for tariff-pause probe; no reply found* [[Paul Atkins]] · 2025-04-11 · [[C103 Insider-Trading Oversight Requests, Probes & Outcomes|C103]]
 - [[Elizabeth Warren]] *asked to investigate tariff-pause insider trading* [[Securities and Exchange Commission]] · 2025-04-11 · [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations|C58]]
 - [[Elizabeth Warren]] *ethics inquiry: unsigned disclosure* [[Steve Witkoff]] · 2025-11-18 · [[C53 The Witkoff Family's Own Gulf Money|C53]]
 - [[Elizabeth Warren]] *asked DOJ/Treasury to investigate token sales* [[World Liberty Financial]] · 2025-11-18 · [[C76 Russia-Linked Money Around the Family & the Envoys|C76]]
 - [[Elizabeth Warren]] *urged investigation of Trump Mobile marketing* [[Federal Trade Commission]] · 2026-01-15 · [[C17 Trump-Branded Merchandise & the T1 Phone|C17]]
 - [[Elizabeth Warren]] *letter on Mar-a-Lago memecoin conference (with Schiff, Blumenthal)* [[Bill Zanker]] · 2026-04-08 · [[C40 Who Ran the $TRUMP & $MELANIA Launches|C40]]
+- [[Elizabeth Warren]] *asked SEC to examine reported attempted trade by broker* [[Pete Hegseth]] · 2026-04-20 · [[C103 Insider-Trading Oversight Requests, Probes & Outcomes|C103]]
 - [[Elizabeth Warren]] *sought loan records from* [[Tether]] · 2026-04-29 · [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business|C50]]
+- [[Elizabeth Warren]] *requested review of CFTC staffing; starts Dec 2026* [[Government Accountability Office]] · 2026-07 · [[C103 Insider-Trading Oversight Requests, Probes & Outcomes|C103]]
 - [[Elizabeth Warren]] *questioned on Kazakh financing* [[Export-Import Bank of the United States]] · 2026-07-08 · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]
+- [[Elizabeth Warren]] *asked SEC to investigate (with Schiff); SEC declined comment* [[Truth API]] · 2026-07-28 · [[C103 Insider-Trading Oversight Requests, Probes & Outcomes|C103]]
 - [[Elizabeth Warren]] *asked SEC to investigate $TRUMP (with Blumenthal)* [[Paul Atkins]] · 2026-08-04 · [[C40 Who Ran the $TRUMP & $MELANIA Launches|C40]]
 
-### Political (44)
+### Political (46)
 
 - [[Elizabeth Warren]] *asked to scrutinize EA buyout* [[CFIUS]] · 2025 · [[C56 Saudi Arabia Family Deals Alongside US Policy Decisions|C56]]
 - [[Elizabeth Warren]] *questioned waivers and SGE status* [[David Sacks]] · 2025-03-06 · [[C34 David Sacks The AI & Crypto Adviser & His Investments|C34]]
@@ -105,19 +112,21 @@ Democratic senator, Banking Committee ranking member; co-signed the SEC letter.
 - [[Elizabeth Warren]] *letters alleging Trump allies got PIPE shares* [[USA Rare Earth]] · 2026-02-26 · [[C86 Major Trump Donors with Stakes in Federally Backed Companies|C86]]
 - [[Elizabeth Warren]] *questioned on library settlement* [[ABC News]] · 2026-03-11 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]]
 - [[Elizabeth Warren]] *questioned on library settlement* [[Meta]] · 2026-03-11 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]]
-- [[Elizabeth Warren]] *questioned on library settlement* [[Paramount]] · 2026-03-11 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]]
+- [[Elizabeth Warren]] *questioned on library settlement* [[Paramount Global]] · 2026-03-11 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]]
 - [[Elizabeth Warren]] *questioned on library settlement* [[X Corp]] · 2026-03-11 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]]
 - [[Elizabeth Warren]] *inquiry letter on possible bribery; 'bribery in plain sight'* [[Amazon]] · 2026-03-16 · [[C44 Amazon's $40 Million Melania Trump Documentary Deal|C44]]
 - [[Brian Huseman]] *replied denying impropriety* [[Elizabeth Warren]] · 2026-03-30 · [[C44 Amazon's $40 Million Melania Trump Documentary Deal|C44]]
 - [[Elizabeth Warren]] *criticized as 'corruption in plain sight'* [[Foundation Future Industries]] · 2026-04 · [[C28 Foundation Future Industries, Its Pentagon Contract & Eric Trump|C28]]
+- [[Elizabeth Warren]] *with Whitehouse, asked for investigation of the Iran oil trades* [[Commodity Futures Trading Commission]] · 2026-04-09 · [[C101 Trading Ahead of Presidential Announcements|C101]]
 - [[Elizabeth Warren]] *letters on Ryan's exit and enforcement decline* [[Paul Atkins]] · 2026-04-15 · [[C52 Trump-Connected Lobbyists Hired by Crypto Firms & the SEC Enforcement Director's Exit|C52]]
-- [[Elizabeth Warren]] *probing missing settlement money at* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2026-04-20 · [[C33 Corporate Lawsuit Settlements & Donations to Trump's Library & Ballroom|C33]]
+- [[Elizabeth Warren]] *probing missing settlement money at* [[Donald J. Trump Presidential Library Foundation]] · 2026-04-20 · [[C33 Corporate Lawsuit Settlements & Donations to Trump's Library & Ballroom|C33]]
 - [[Elizabeth Warren]] *letters on Cerberus conflicts* [[Stephen Feinberg]] · 2026-04-27 · [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts|C74]]
 - [[Elizabeth Warren]] *questioned on Unusual Machines contracts* [[Pete Hegseth]] · 2026-05-06 · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]
 - [[Elizabeth Warren]] *May 2026 letter seeking investigation of WLF-AB tie* [[Scott Bessent]] · 2026-05-13 · [[C90 World Liberty's Token-Swap Pitch & Its Partners|C90]]
 - [[Elizabeth Warren]] *letter criticizing Gemini vacatur motion* [[Commodity Futures Trading Commission]] · 2026-06 · [[C52 Trump-Connected Lobbyists Hired by Crypto Firms & the SEC Enforcement Director's Exit|C52]]
 - [[Elizabeth Warren]] *condemned, citing WLF stake* [[BIS UAE Country Group A 5 rule]] · 2026-07-10 · [[C80 Sovereign-Fund Megadeals That Need US Approval|C80]]
-- [[Elizabeth Warren]] *pressed on $6.5M-$14.5M missing and $7M unexplained spending* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2026-07-16 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]]
+- [[Elizabeth Warren]] *alleges $6.5M-$14.5M of settlement money missing* [[Donald J. Trump Presidential Library Foundation]] · 2026-07-15 · [[C100 Net Worth Change & Legal Settlements Paid to Trump|C100]]
+- [[Elizabeth Warren]] *pressed on $6.5M-$14.5M missing and $7M unexplained spending* [[Donald J. Trump Presidential Library Foundation]] · 2026-07-16 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]]
 - [[Elizabeth Warren]] *addressed letter to* [[Paul Atkins]] · 2026-07-28 · [[C41 Trump Media Feed Subscribers, the Senators' SEC Request, Departures & the CRO Treasury|C41]]
 - [[Elizabeth Warren]] *asked to investigate Truth API* [[Securities and Exchange Commission]] · 2026-07-29 · [[C21 Trump Media's Paid Feed of Market-Moving Posts & Truth+|C21]] [[C41 Trump Media Feed Subscribers, the Senators' SEC Request, Departures & the CRO Treasury|C41]]
 - [[Elizabeth Warren]] *demanded transcript of Don Jr. remarks* [[Republican Attorneys General Association]] · 2026-08 · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]

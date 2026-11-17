@@ -1,5 +1,8 @@
 // Functional pass over the globe view. Usage: node cook/harness/globefunc.js
 const {chromium}=require('playwright'); const serve=require('./serve.js');
+// The counts on the read-out come from the data, so the test reads them from the same file the page does.
+const META=(()=>{ const w={}; new Function('window',require('fs').readFileSync(require('path').resolve(__dirname,'..','..','map','graph-data.js'),'utf8'))(w); const g=w.GRAPH; return {names:g.meta.entities,checks:g.meta.claims,gulf:(g.meta.topics.find(t=>t.id==='gulf-money')||{claims:[]}).claims.length}; })();
+const NAMES='Names'+META.names.toLocaleString('en-US');
 (async()=>{
   const port=8400+Math.floor(Math.random()*200); const s=await serve(port); const b=await chromium.launch(); const errors=[], log=[];
   const watch=(p,tag)=>{ p.on('console',m=>{if(m.type()==='error')errors.push(tag+': '+m.text());}); p.on('pageerror',e=>errors.push(tag+': '+e.message)); };
@@ -10,7 +13,7 @@ const {chromium}=require('playwright'); const serve=require('./serve.js');
   let ctx=await b.newContext({viewport:{width:1440,height:900}}); await ctx.addInitScript(()=>{window.__STILL__=true;}); let p=await ctx.newPage(); watch(p,'desktop');
   await p.goto('http://localhost:'+port+'/#map'); await p.waitForTimeout(1500);
   await ok('rest panel: ranked names, sums, nine topics',async()=>(await p.locator('#panel .prank li').count())>=5&&(await p.locator('#panel .psums li').count())>=4&&(await p.locator('#panel .ptopics li').count())===9||'counts');
-  await ok('hud counts',async()=>/Names1,332Links2,402Checks94/.test(await txt(p,'#hud'))||await txt(p,'#hud'));
+  await ok('hud counts',async()=>new RegExp('^'+NAMES+'Links[\\d,]+Checks'+META.checks).test(await txt(p,'#hud'))||await txt(p,'#hud'));
   let t=await probe(p,'e:donald-trump'); await p.mouse.move(t.x,t.y); await p.waitForTimeout(250);
   await ok('hover shows name',async()=>/Donald Trump/.test(await txt(p,'#tip'))||await txt(p,'#tip'));
   await p.mouse.click(t.x,t.y); await p.waitForTimeout(500);
@@ -23,29 +26,32 @@ const {chromium}=require('playwright'); const serve=require('./serve.js');
   await ok('wheel zooms',async()=>r1.r>r0.r*1.1||r0.r+' '+r1.r);
   await p.click('#zoom-fit'); await p.waitForTimeout(800);
   await p.click('[data-act="iso"]'); await p.waitForTimeout(500);
-  await ok('isolate: banner and fewer names',async()=>/Isolated/.test(await txt(p,'#banner'))&&!/Names1,332/.test(await txt(p,'#hud'))||await txt(p,'#hud'));
+  await ok('isolate: banner and fewer names',async()=>/Isolated/.test(await txt(p,'#banner'))&&(await txt(p,'#hud')).indexOf(NAMES+'Links')<0||await txt(p,'#hud'));
   await p.click('[data-act="iso-more"]'); await p.waitForTimeout(300); await p.click('[data-act="iso-clear"]'); await p.waitForTimeout(300);
-  await ok('isolate cleared',async()=>(await txt(p,'#banner'))===''&&/Names1,332/.test(await txt(p,'#hud'))||'left');
+  await ok('isolate cleared',async()=>(await txt(p,'#banner'))===''&&(await txt(p,'#hud')).indexOf(NAMES+'Links')>=0||'left');
   await p.goto('http://localhost:'+port+'/#map-jared-kushner'); await p.waitForTimeout(900);
   await p.click('[data-act="path"]'); await p.waitForTimeout(300);
   await ok('trace asks for a second mark',async()=>/Trace a path/.test(await txt(p,'#banner'))||await txt(p,'#banner'));
-  t=await probe(p,'e:sec'); await p.mouse.click(t.x,t.y); await p.waitForTimeout(800);
+  { const cands=[]; for(const k of ['e:sec','e:white-house','e:donald-trump','e:saudi-pif','e:affinity-partners','e:qatar','e:steve-witkoff']){ const q=await probe(p,k); if(q) cands.push(q); } t=cands.sort((a,b)=>b.z-a.z)[0]; }
+  await p.mouse.click(t.x,t.y); await p.waitForTimeout(800);
   await ok('path by clicking a second mark: numbered steps with citations',async()=>(await p.locator('#panel .steps li').count())>=1&&(await p.locator('#panel .steps .cite').count())>=1&&/Path/.test(await txt(p,'#hud'))||await txt(p,'#panel h2'));
   await p.click('#panel [data-act="path-clear"]'); await p.waitForTimeout(400);
   await ok('path cleared, dossier back',async()=>!(await p.locator('#panel .steps').count())||'steps left');
   await p.goto('http://localhost:'+port+'/#map'); await p.waitForTimeout(700);
   for(const l of [1,2,0]){ await p.click('#detail-sw [data-level="'+l+'"]'); await p.waitForTimeout(250); }
   await ok('label levels switch',async()=>(await p.getAttribute('#detail-sw [data-level="0"]','aria-pressed'))==='true'||'pressed');
-  await p.click('#color-sw [data-color="kind"]'); await ok('colour by kind updates the key',async()=>/Kind of Name/.test(await txt(p,'#legend'))||await txt(p,'#legend')); await p.click('#color-sw [data-color="topic"]');
+  await p.click('#color-sw [data-color="kind"]'); await p.waitForTimeout(200);
+  if(await p.locator('#legend [data-act="key"][aria-expanded="false"]').count()){ await p.click('#legend [data-act="key"]'); await p.waitForTimeout(250); }   // the key is folded to one line until asked for
+  await ok('colour by kind updates the key',async()=>/Colour by Kind/.test(await txt(p,'#legend'))&&/Companies & Funds/.test(await txt(p,'#legend'))||await txt(p,'#legend')); await p.click('#color-sw [data-color="topic"]');
   await p.click('#panel .ptopics a[data-topic="gulf-money"]'); await p.waitForTimeout(500);
-  await ok('topic from panel',async()=>url(p)==='map-topic-gulf-money'&&/13 Checks/.test(await txt(p,'#panel'))&&/Gulf Money/.test(await txt(p,'#hud'))||url(p));
+  await ok('topic from panel',async()=>url(p)==='map-topic-gulf-money'&&new RegExp(META.gulf+' Checks').test(await txt(p,'#panel'))&&/Gulf Money/.test(await txt(p,'#hud'))||url(p));
   await p.click('.pback'); await p.waitForTimeout(400);
   await ok('All Topics goes back',async()=>url(p)==='map'&&/Where to Start/.test(await txt(p,'#panel h2'))||url(p));
   if(await p.locator('#legend [data-act="key"][aria-expanded="false"]').count()){ await p.click('#legend [data-act="key"]'); await p.waitForTimeout(250); }   // the key is folded to one line until asked for
   await p.click('#legend a[data-topic="crypto-ventures"]',{timeout:4000}).catch(()=>{}); await p.waitForTimeout(400);
   await ok('topic from the key',async()=>/^map-topic-/.test(url(p))||url(p)); await p.keyboard.press('Escape'); await p.goto('http://localhost:'+port+'/#map'); await p.waitForTimeout(500);
   await p.click('#tools-toggle'); await p.waitForTimeout(200); await p.click('.chk >> nth=1'); await p.waitForTimeout(300);
-  await ok('filter: count shown and fewer names',async()=>(await txt(p,'#filter-count'))==='1'&&!/Names1,332/.test(await txt(p,'#hud'))||await txt(p,'#hud'));
+  await ok('filter: count shown and fewer names',async()=>(await txt(p,'#filter-count'))==='1'&&(await txt(p,'#hud')).indexOf(NAMES+'Links')<0||await txt(p,'#hud'));
   await p.click('[data-act="reset"]'); await p.waitForTimeout(300); await p.keyboard.press('Escape');
   await p.fill('#search','World Liberty'); await p.waitForTimeout(400); await p.keyboard.press('ArrowDown'); await p.keyboard.press('Enter'); await p.waitForTimeout(700);
   log.push('info search from the map goes to: '+url(p));

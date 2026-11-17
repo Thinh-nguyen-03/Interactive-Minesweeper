@@ -7,8 +7,8 @@ aliases:
   - "New America Acquisition I Corp (NWAX)"
   - "New America Acquisition I Corp."
   - "New America SPAC"
-connections: 23
-claims: 9
+connections: 24
+claims: 10
 tags:
   - "entity"
   - "type/company"
@@ -20,8 +20,8 @@ $300M SPAC with Don Jr. and Eric as advisers, targeting firms benefiting from go
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 9 checks |
-| Connections | 23 |
+| Appears in | 10 checks |
+| Connections | 24 |
 | Also known as | New America Acquisition I; New America Acquisition I Corp (NWAX); New America Acquisition I Corp.; New America SPAC |
 
 ## How Other Checks Describe It
@@ -43,14 +43,17 @@ $300M SPAC with Don Jr. and Eric as advisers, targeting firms benefiting from go
 - [[C65 Officials Who Decided Matters Involving Former Clients or Partners]] · Mostly accurate
 - [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts]] · Mostly accurate
 - [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief]] · Mostly accurate
+- [[C99 What Each Family Member Has Earned]] · Partly accurate
 
 ## Relationships
 
-### Ownership (5)
+### Ownership (7)
 
 - [[New America Sponsor I LLC]] *sponsor of* [[New America Acquisition I Corp]] · 2025 · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]
 - [[Kevin McGurn]] *chairman, CEO and CFO (resigned as CEO and director Aug 5, 2026); indirect interest in 1M founder shares* [[New America Acquisition I Corp]] · 2025-07 · [[C27 The New America Acquisition I SPAC|C27]]
 - [[Kevin McGurn]] *chairman/CEO/CFO, then CEO; sponsor member (resigned Aug 5, 2026)* [[New America Acquisition I Corp]] · 2025-07 · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]]
+- [[Donald Trump Jr]] *2M founder shares in* [[New America Acquisition I Corp]] · 2025-12 · [[C99 What Each Family Member Has Earned|C99]]
+- [[Eric Trump]] *3M founder shares in* [[New America Acquisition I Corp]] · 2025-12 · [[C99 What Each Family Member Has Earned|C99]]
 - [[Donald Trump Jr]] *backer* [[New America Acquisition I Corp]] · [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts|C74]]
 - [[Eric Trump]] *backer* [[New America Acquisition I Corp]] · [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts|C74]]
 
@@ -90,12 +93,12 @@ $300M SPAC with Don Jr. and Eric as advisers, targeting firms benefiting from go
 - [[D. Boral Capital]] *co-lead underwriter of IPO* [[New America Acquisition I Corp]] · 2025-12 · [[C27 The New America Acquisition I SPAC|C27]]
 - [[D. Boral Capital]] *co-led IPO* [[New America Acquisition I Corp]] · 2025-12 · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]
 - [[D. Boral Capital]] *co-underwrote $345M IPO* [[New America Acquisition I Corp]] · 2025-12 · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
-- [[Dominari Holdings Dominari Securities]] *co-lead underwriter* [[New America Acquisition I Corp]] · 2025-12 · $345M · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]] [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts|C74]]
-- [[Dominari Holdings Dominari Securities]] *co-lead underwriter of IPO* [[New America Acquisition I Corp]] · 2025-12 · [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network|C39]]
-- [[Dominari Holdings Dominari Securities]] *co-lead underwriter of IPO (Dominari Securities)* [[New America Acquisition I Corp]] · 2025-12 · [[C27 The New America Acquisition I SPAC|C27]]
-- [[Dominari Holdings Dominari Securities]] *co-led IPO* [[New America Acquisition I Corp]] · 2025-12 · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]
+- [[Dominari Holdings]] *co-lead underwriter* [[New America Acquisition I Corp]] · 2025-12 · $345M · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]] [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts|C74]]
+- [[Dominari Holdings]] *co-lead underwriter of IPO* [[New America Acquisition I Corp]] · 2025-12 · [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network|C39]]
+- [[Dominari Holdings]] *co-lead underwriter of IPO (Dominari Securities)* [[New America Acquisition I Corp]] · 2025-12 · [[C27 The New America Acquisition I SPAC|C27]]
+- [[Dominari Holdings]] *co-led IPO* [[New America Acquisition I Corp]] · 2025-12 · [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings|C47]]
 - [[D. Boral Capital]] *co-lead book-runner of $345M IPO* [[New America Acquisition I Corp]] · 2025-12-05 · $345M · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]
-- [[Dominari Holdings Dominari Securities]] *co-lead book-runner of $345M IPO* [[New America Acquisition I Corp]] · 2025-12-05 · $345M · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]
+- [[Dominari Holdings]] *co-lead book-runner of $345M IPO* [[New America Acquisition I Corp]] · 2025-12-05 · $345M · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]
 - [[New America Acquisition I Corp]] *listed $345M IPO (incl. over-allotment) as NWAX* [[New York Stock Exchange]] · 2025-12-05 · $345M · [[C27 The New America Acquisition I SPAC|C27]]
 - [[Kyle Wool]] *chairman (Feb 2026), CEO (Aug 2026)* [[New America Acquisition I Corp]] · 2026-02-06 · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]
 - [[Stefan Passantino]] *independent director* [[New America Acquisition I Corp]] · 2026-02-06 · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]

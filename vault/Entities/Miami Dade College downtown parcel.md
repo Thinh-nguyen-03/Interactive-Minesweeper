@@ -31,5 +31,5 @@ tags:
 
 ### Ownership (2)
 
-- [[Donald J. Trump Presidential Library Foundation, Inc]] *owns* [[Miami Dade College downtown parcel]] · 2026-01 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]]
-- [[Miami Dade College downtown parcel]] *deeded for $10 to* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2026-02 · $67M · [[C33 Corporate Lawsuit Settlements & Donations to Trump's Library & Ballroom|C33]]
+- [[Donald J. Trump Presidential Library Foundation]] *owns* [[Miami Dade College downtown parcel]] · 2026-01 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]]
+- [[Miami Dade College downtown parcel]] *deeded for $10 to* [[Donald J. Trump Presidential Library Foundation]] · 2026-02 · $67M · [[C33 Corporate Lawsuit Settlements & Donations to Trump's Library & Ballroom|C33]]

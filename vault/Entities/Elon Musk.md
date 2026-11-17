@@ -2,8 +2,8 @@
 id: "elon-musk"
 kind: "entity"
 type: "person"
-connections: 13
-claims: 7
+connections: 14
+claims: 8
 tags:
   - "entity"
   - "type/person"
@@ -15,8 +15,8 @@ Reportedly consulted by Trump before approving the curbs (per Reuters' summary o
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 7 checks |
-| Connections | 13 |
+| Appears in | 8 checks |
+| Connections | 14 |
 
 ## How Other Checks Describe It
 
@@ -35,6 +35,7 @@ Reportedly consulted by Trump before approving the curbs (per Reuters' summary o
 - [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards]] · Mostly accurate
 - [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds]] · Mostly accurate
 - [[C88 Damac & Hussain Sajwani Licence Fees & a Data-Centre Pledge]] · Mostly accurate
+- [[C100 Net Worth Change & Legal Settlements Paid to Trump]] · Mostly accurate
 
 ## Relationships
 

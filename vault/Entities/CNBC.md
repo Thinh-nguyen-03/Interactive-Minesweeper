@@ -2,8 +2,8 @@
 id: "cnbc"
 kind: "entity"
 type: "media"
-connections: 8
-claims: 4
+connections: 9
+claims: 5
 tags:
   - "entity"
   - "type/media"
@@ -15,12 +15,13 @@ Reported in June 2026 that the family was entitled to about $500M.
 | | |
 |---|---|
 | Type | Media |
-| Appears in | 4 checks |
-| Connections | 8 |
+| Appears in | 5 checks |
+| Connections | 9 |
 
 ## How Other Checks Describe It
 
 - Broadcaster of Trump interview; reported Chainalysis wallet data
+- Reported $59.5M of 2025 foreign licensing income
 - Analysed Trump's 2026 disclosure; Damac $11.3M.
 - Interview where Trump discussed a UAE swap
 
@@ -30,6 +31,7 @@ Reported in June 2026 that the family was entitled to about $500M.
 - [[C08 AI Chip Exports to the UAE, Stargate & a Possible Currency Swap]] · Mostly accurate
 - [[C13 The $1.5 Billion ALT5 Sigma Deal with World Liberty]] · Mostly accurate
 - [[C88 Damac & Hussain Sajwani Licence Fees & a Data-Centre Pledge]] · Mostly accurate
+- [[C98 Trump Media, Licensing & Merchandise Income During the Presidency]] · Mostly accurate
 
 ## Relationships
 

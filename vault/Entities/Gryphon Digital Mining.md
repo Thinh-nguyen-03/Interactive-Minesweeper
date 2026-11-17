@@ -2,8 +2,8 @@
 id: "gryphon-digital-mining"
 kind: "entity"
 type: "company"
-connections: 3
-claims: 2
+connections: 4
+claims: 3
 tags:
   - "entity"
   - "type/company"
@@ -15,17 +15,19 @@ Nasdaq-listed miner merged with American Bitcoin (all-stock) in September 2025.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 2 checks |
-| Connections | 3 |
+| Appears in | 3 checks |
+| Connections | 4 |
 
 ## How Other Checks Describe It
 
 - Nasdaq bitcoin miner (GRYP) that reverse-merged with American Bitcoin in 2025.
+- Merged with American Bitcoin; spike came on announcement
 
 ## Appears in Checks
 
 - [[C18 Eric Trump, Metaplanet, American Bitcoin & Hut 8]] · Mostly accurate
 - [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival]] · Mostly accurate
+- [[C102 Trades by Officials, Family & Associates]] · Mostly accurate
 
 ## Relationships
 

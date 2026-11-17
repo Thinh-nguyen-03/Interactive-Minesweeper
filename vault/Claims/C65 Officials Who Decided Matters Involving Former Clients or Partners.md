@@ -57,6 +57,7 @@ Most of the named officials have documented prior ties to parties affected by th
 - Kollitides heads the Economic Defense Unit (which runs BOND), not OSC; he resigned from the D. Boral Acquisition I board effective Sep 23, 2026 (C74).
 - Blanche became acting AG on Apr 2, 2026 when Bondi was fired, and was confirmed as AG 50-49 on Aug 8, 2026 and sworn in on Aug 10, 2026; earlier text said he 'succeeded Bondi as AG' without dates.
 - The Securitize-CEPT merger closed on Jul 1, 2026 (NYSE: SECZ from Jul 2).
+- 2026-11-16 (audit of C101-C103): Bondi's 2 April 2025 Trump Media sale is $1M-$5M of shares plus $250K-$500K of warrants, which adds to $1.25M-$5.5M. Bloomberg Law's '$1M-$5.5M' combined figure rounds down the lower bound. The ranges are confirmed by ProPublica, read in full.
 
 ## What Is Unproven
 
@@ -112,16 +113,17 @@ Most of the named officials have documented prior ties to parties affected by th
 
 **Confirmed** · Evidence: Documented (her own periodic transaction report, disclosed May 14, 2025)
 
-- It shows a sale of $1M-$5M of TMTG shares plus $250K-$500K of warrants on Apr 2, 2025, the day of the tariff announcement (Bloomberg Law gives a combined $1M-$5.5M).
+- It shows a sale of $1M-$5M of TMTG shares plus $250K-$500K of warrants on Apr 2, 2025, the day of the tariff announcement (together $1.25M-$5.5M; Bloomberg Law rounds the combined figure to $1M-$5.5M).
+- ProPublica (read in full in a later audit) confirms both ranges, says the form gives no time of day, and reports that DOJ did not respond to questions.
 - Her ethics agreement required her to sell the TMTG stake within 90 days of confirmation, and she says the shares were pay for consulting tied to DWAC, so the sale itself was mandated; the question raised is its timing.
 - Rep. Raskin asked the DOJ IG to investigate (May 20, 2025).
 - Mother Jones and Accountable.US had earlier flagged that Bondi, Patel and McMahon held TMTG shares or board ties when appointed.
 - A sale before a market drop is not proof of insider trading.
 - The holding itself was an interest in the president's company, held while she led the agency with jurisdiction over matters touching it.
 - Trump fired Bondi as AG on Apr 2, 2026 and named Blanche acting AG (CBS, CNN via KVIA); Blanche was confirmed as AG 50-49 on Aug 8, 2026 and sworn in on Aug 10, 2026 (Axios; AP via WTOP); no outcome of the Raskin IG referral was found.
-- Amounts: $1M-$5M; $250K-$500K; $1M-$5.5M
+- Amounts: $1M-$5M; $250K-$500K; $1.25M-$5.5M; $1M-$5.5M
 - Dates: May 14, 2025; Apr 2, 2025; May 20, 2025; Apr 2, 2026; Aug 8, 2026
-- Sources: [12](https://news.bloomberglaw.com/us-law-week/attorney-general-pam-bondi-discloses-sale-of-trump-media-shares) <https://lailluminator.com/2025/05/18/bondi-trump/> [13](https://democrats-judiciary.house.gov/UploadedFiles/2025-05-20.Raskin_to_Horowitz_DOJ_OIG_re_Bondi_Insider_Trading.pdf) [14](https://www.motherjones.com/politics/2025/04/trump-media-technology-group-truth-social-kash-patel-pam-bondi-linda-mcmahon/) [63](https://www.cbsnews.com/news/pam-bondi-sold-at-least-1-million-dollars-trump-media-shares-on-liberation-day)
+- Sources: [12](https://news.bloomberglaw.com/us-law-week/attorney-general-pam-bondi-discloses-sale-of-trump-media-shares) <https://lailluminator.com/2025/05/18/bondi-trump/> [13](https://democrats-judiciary.house.gov/UploadedFiles/2025-05-20.Raskin_to_Horowitz_DOJ_OIG_re_Bondi_Insider_Trading.pdf) [14](https://www.motherjones.com/politics/2025/04/trump-media-technology-group-truth-social-kash-patel-pam-bondi-linda-mcmahon/) [63](https://www.cbsnews.com/news/pam-bondi-sold-at-least-1-million-dollars-trump-media-shares-on-liberation-day) [75](https://www.propublica.org/article/pam-bondi-trump-media-stock-tariffs)
 
 ### 4. Todd Blanche held crypto when he signed the Apr 7, 2025 memo disbanding NCET.
 
@@ -502,7 +504,7 @@ Most of the named officials have documented prior ties to parties affected by th
 
 ### Advisory (2)
 
-- [[Donald Trump Jr]] *strategic adviser* [[Kalshi]] · 2025-01 · [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]] [[C54 The Crypto Revolving Door|C54]] [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations|C58]] [[C64 Lobbyists & Intermediaries with White House Access|C64]] [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
+- [[Donald Trump Jr]] *strategic adviser* [[Kalshi]] · 2025-01 · [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]] [[C54 The Crypto Revolving Door|C54]] [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations|C58]] [[C64 Lobbyists & Intermediaries with White House Access|C64]] [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]] [[C102 Trades by Officials, Family & Associates|C102]]
 - [[Donald Trump Jr]] *advisory board* [[Polymarket]] · 2025-08 · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
 
 ### Political (16)
@@ -578,7 +580,7 @@ Most of the named officials have documented prior ties to parties affected by th
   - ProPublica: up to ~$350M in no-bid work for a firm whose investment affiliate still listed the BOND chief as a senior adviser.
   - [[Alvarez & Marsal Federal]] [[George Kollitides]] [[Pentagon (Department of Defense)]] · [Source](https://defenseone.com/policy/2026/10/pentagon-350-million-contracts-official/416543)
 
-## Sources (74)
+## Sources (75)
 
 1. [Fact Check: Pam Bondi used to lobby for Qatar](https://www.yahoo.com/news/fact-check-pam-bondi-used-175300308.html) (Yahoo/USA Today, 2024-12)
 2. [Pam Bondi, Trump's new attorney general pick, is a former Qatar lobbyist](https://semafor.com/article/11/22/2024/pam-bondi-trumps-new-attorney-general-pick-is-a-former-qatar-lobbyist) (Semafor, 2024-11-22)
@@ -654,6 +656,7 @@ Most of the named officials have documented prior ties to parties affected by th
 72. [Senate confirms Todd Blanche as attorney general](https://www.axios.com/2026/08/08/todd-blanche-trump-attorney-general-confirmed) (Axios, 2026-08-08)
 73. [Todd Blanche is sworn in as attorney general after bruising confirmation fight](https://wtop.com/government/2026/08/todd-blanche-is-sworn-in-as-attorney-general-after-bruising-confirmation-fight/) (WTOP (AP), 2026-08-10)
 74. [Todd Blanche sworn in as attorney general after bruising confirmation battle](https://www.pbs.org/newshour/politics/todd-blanche-sworn-in-as-attorney-general-after-bruising-confirmation-battle) (PBS NewsHour (AP), 2026-08-10)
+75. [U.S. AG Pam Bondi sold more than $1 million in Trump Media stock the day Trump announced sweeping tariffs](https://www.propublica.org/article/pam-bondi-trump-media-stock-tariffs) (ProPublica, 2025-05)
 
 ## Full Report
 
@@ -692,7 +695,7 @@ This check asks for administration officials whose decisions benefited entities 
 - **DOJ response:** "the Attorney General had no role in them."
 
 #### 3. Bondi's Trump Media stock (documented)
-- Bondi's periodic transaction report, disclosed May 14, 2025, shows a sale of $1M-$5M of DJT stock plus $250K-$500K of warrants on April 2, 2025 ("Liberation Day").
+- Bondi's periodic transaction report, disclosed May 14, 2025, shows a sale of $1M-$5M of DJT stock plus $250K-$500K of warrants on April 2, 2025 ("Liberation Day"). Together that is $1.25M-$5.5M; Bloomberg Law rounds the combined figure to $1M-$5.5M. ProPublica (read in full in the 16 Nov 2026 audit) confirms both ranges and notes the form gives no time of day.
 - Her ethics agreement required her to sell the stake within 90 days of confirmation, so the sale itself was mandated; the issue is its timing.
 - Rep. Raskin referred the sale to the DOJ IG.
 - This is a holding in the president's company, not a decision.
@@ -898,3 +901,7 @@ New sources:
 - Hughes Hubbard, CEPT closing: https://www.hugheshubbard.com/news-insights/news/cantor-equity-partners-ii-inc-completes-business-combination-with-securitize
 - ProPublica via WRAL, Vulcan (2026-05-28): https://www.wral.com/news/ap/white-house-intervened-to-get-620-million-deal-for-company-tied-to-donald-trump-jr-vulcan-elements-propublica-may-2026/
 - Reuters via AJOT, Barrack (2026-10): https://www.ajot.com/news/trump-envoy-kept-financial-ties-to-firm-behind-15-billion-hormuz-bypass-oil-pipeline-plan
+
+#### Further audit (16 Nov 2026, applied from the review of C101-C103)
+
+- **Correction:** Bondi's 2 April 2025 sale ($1M-$5M of shares plus $250K-$500K of warrants) adds to $1.25M-$5.5M. Bloomberg Law's $1M-$5.5M combined figure rounds down the lower bound. Confirmed by ProPublica (read in full): https://www.propublica.org/article/pam-bondi-trump-media-stock-tariffs. No change of substance.

@@ -2,8 +2,8 @@
 id: "india"
 kind: "entity"
 type: "country"
-connections: 7
-claims: 4
+connections: 8
+claims: 5
 tags:
   - "entity"
   - "type/country"
@@ -15,12 +15,13 @@ Largest foreign market for Trump-branded towers; tariffs 50% then 18%
 | | |
 |---|---|
 | Type | Country |
-| Appears in | 4 checks |
-| Connections | 7 |
+| Appears in | 5 checks |
+| Connections | 8 |
 
 ## How Other Checks Describe It
 
 - Rejects US mediation claims; Powerus licensed an Indian maker.
+- Site of several licensed towers
 - Hired SHW Partners in 2025
 - State
 
@@ -30,6 +31,7 @@ Largest foreign market for Trump-branded towers; tariffs 50% then 18%
 - [[C64 Lobbyists & Intermediaries with White House Access]] · Mostly accurate
 - [[C70 What the Trump Family's Foreign Partners Obtained from Washington]] · Mostly accurate
 - [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs]] · Mostly accurate
+- [[C98 Trump Media, Licensing & Merchandise Income During the Presidency]] · Mostly accurate
 
 ## Relationships
 

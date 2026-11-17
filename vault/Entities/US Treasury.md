@@ -4,30 +4,30 @@ kind: "entity"
 type: "government"
 aliases:
   - "US Department of the Treasury"
-connections: 29
-claims: 12
+connections: 31
+claims: 13
 tags:
   - "entity"
   - "type/government"
 ---
 # US Treasury
 
-Publicly blocked Gunvor; rejected the Xtellus bid; must licence any sale.
+Pays federal salaries; unused presidential expense allowance reverts to it
 
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 12 checks |
-| Connections | 29 |
+| Appears in | 13 checks |
+| Connections | 31 |
 | Also known as | US Department of the Treasury |
 
 ## How Other Checks Describe It
 
+- Publicly blocked Gunvor; rejected the Xtellus bid; must licence any sale.
 - Would run a swap line via Exchange Stabilization Fund
 - Imposed the Prince Group, A7A5 and Nobitex sanctions
 - Delisted Rogán; administers Russia sanctions.
 - Received Blumenthal's Tether referral
-- Cancelled Booz Allen contracts
 
 ## Appears in Checks
 
@@ -43,11 +43,13 @@ Publicly blocked Gunvor; rejected the Xtellus bid; must licence any sale.
 - [[C90 World Liberty's Token-Swap Pitch & Its Partners]] · Mostly accurate
 - [[C92 The White House Ballroom Donor List]] · Partly accurate
 - [[C94 The Sale of Lukoil's Foreign Assets & the Boehly Consortium]] · Mostly accurate
+- [[C95 The Presidential Salary Pledge]] · Partly accurate
 
 ## Relationships
 
-### Money (2)
+### Money (3)
 
+- [[US Treasury]] *pays statutory salary of $400,000 a year to* [[Donald Trump]] · 2025-01-20 · $400K · [[C95 The Presidential Salary Pledge|C95]]
 - [[US Treasury]] *$20B swap line* [[Argentina]] · 2025-10 · $20B · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
 - [[US Treasury]] *discussed possible swap line with* [[United Arab Emirates]] · 2026-04 · [[C08 AI Chip Exports to the UAE, Stargate & a Possible Currency Swap|C08]]
 

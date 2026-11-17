@@ -544,21 +544,41 @@
     "id": "C96-29",
     "recipient": "donald-trump",
     "recipient_name": "Donald Trump",
-    "venture": "media settlements",
+    "venture": "X account-suspension settlement",
     "category": "settlement",
     "kind": "reported-income",
-    "amount_low_usd": 86500000,
-    "amount_high_usd": 86500000,
+    "amount_low_usd": 8000000,
+    "amount_high_usd": 8000000,
     "period": "2025-01 to 2025-12",
     "as_of": "2026-06-30",
-    "basis": "Line 431: X Corp. $8M; ABC $16M, CBS $16M, Meta $24.5M (net proceeds to the presidential library foundation); Alphabet/YouTube $22M (to the Trust for the National Mall).",
+    "basis": "Line 431: X Corp. $8M, listed as settlement income with no note that it was paid to anyone else.",
     "grade": "documented",
     "sources": [
       "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
       "https://www.pbs.org/newshour/politics/how-crypto-real-estate-and-watches-added-up-for-trump-last-year",
       "https://www.ksl.com/article/51583356/trump-reports-over-14-billion-in-income-from-crypto-ventures"
     ],
-    "notes": "Listed on Trump's form, but $78.5M was paid to the library foundation or the Trust for the National Mall rather than to him; see C33. May overlap the Trump Organization LLC line in C96-23."
+    "notes": "The only media settlement the form reports as Trump's own income. Whether he kept it is not documented: lawmakers cite reports that it was meant for the library and asked the foundation whether it received it; no answer was found. Same money as C100-12: count once. The other four settlements on line 431 are row C96-29b and are not his income. May overlap the Trump Organization LLC line in C96-23."
+  },
+  {
+    "id": "C96-29b",
+    "recipient": "trump-presidential-library-foundation",
+    "recipient_name": "Donald J. Trump Presidential Library Foundation ($56.5M) and Trust for the National Mall ($22M)",
+    "venture": "media settlements directed to third parties",
+    "category": "settlement",
+    "kind": "settlement-paid",
+    "amount_low_usd": 78500000,
+    "amount_high_usd": 78500000,
+    "period": "2025-01 to 2025-12",
+    "as_of": "2026-06-30",
+    "basis": "Line 431: ABC $16M, CBS $16M and Meta $24.5M, listed with net proceeds paid to the presidential library foundation; Alphabet/YouTube $22M, listed as paid to the Trust for the National Mall.",
+    "grade": "documented",
+    "sources": [
+      "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "https://www.pbs.org/newshour/politics/how-crypto-real-estate-and-watches-added-up-for-trump-last-year",
+      "https://www.ksl.com/article/51583356/trump-reports-over-14-billion-in-income-from-crypto-ventures"
+    ],
+    "notes": "Listed on Trump's form but directed to the library foundation or the Trust for the National Mall: not counted as Trump's income. His family runs the foundation. Same money as C100-10, C100-11, C100-13 and C100-14: count once; see C33. Split on 2026-11-16 from the former single $86.5M row C96-29."
   },
   {
     "id": "C96-30",

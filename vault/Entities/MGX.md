@@ -2,8 +2,8 @@
 id: "mgx"
 kind: "entity"
 type: "company"
-connections: 28
-claims: 11
+connections: 29
+claims: 12
 tags:
   - "entity"
   - "type/company"
@@ -15,8 +15,8 @@ Abu Dhabi investment firm chaired by Tahnoon; invested $2B in Binance via USD1; 
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 11 checks |
-| Connections | 28 |
+| Appears in | 12 checks |
+| Connections | 29 |
 
 ## How Other Checks Describe It
 
@@ -39,6 +39,7 @@ Abu Dhabi investment firm chaired by Tahnoon; invested $2B in Binance via USD1; 
 - [[C80 Sovereign-Fund Megadeals That Need US Approval]] · Mostly accurate
 - [[C86 Major Trump Donors with Stakes in Federally Backed Companies]] · Partly accurate
 - [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds]] · Mostly accurate
+- [[C97 Crypto Income During the Presidency]] · Mostly accurate
 
 ## Relationships
 
@@ -51,7 +52,7 @@ Abu Dhabi investment firm chaired by Tahnoon; invested $2B in Binance via USD1; 
 - [[MGX]] *invested $2B (settled in USD1) in* [[Binance]] · 2025-03-12 · $2B · [[C09 The Dropped Binance Case & the Pardon of Changpeng Zhao|C09]]
 - [[MGX]] *$2B investment settled in USD1* [[Binance]] · 2025-05-01 · $2B · [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]]
 - [[MGX]] *invested $2B in, settled in USD1* [[Binance]] · 2025-05-01 · $2B · [[C08 AI Chip Exports to the UAE, Stargate & a Possible Currency Swap|C08]] [[C10 Binance's Role in the Growth of USD1|C10]]
-- [[MGX]] *settled $2B investment in USD1* [[Binance]] · 2025-05-01 · $2B · [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]]
+- [[MGX]] *settled $2B investment in USD1* [[Binance]] · 2025-05-01 · $2B · [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]] [[C97 Crypto Income During the Presidency|C97]]
 - [[MGX]] *used for $2B Binance deal* [[USD1]] · 2025-05-01 · $2B · [[C08 AI Chip Exports to the UAE, Stargate & a Possible Currency Swap|C08]]
 - [[MGX]] *co-acquirer ($40B deal)* [[Aligned Data Centers]] · 2025-10 · $40B · [[C57 The UAE Network Tahnoon, G42, MGX & Their US Deals|C57]]
 - [[MGX]] *invested in $20B Series E* [[xAI]] · 2026-01 · [[C57 The UAE Network Tahnoon, G42, MGX & Their US Deals|C57]]

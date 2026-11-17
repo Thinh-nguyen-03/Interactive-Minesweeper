@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "Michael Selig"
-connections: 18
-claims: 8
+connections: 20
+claims: 10
 tags:
   - "entity"
   - "type/person"
@@ -17,8 +17,8 @@ Trump-appointed CFTC chairman; denied favouritism when questioned in Congress ab
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 8 checks |
-| Connections | 18 |
+| Appears in | 10 checks |
+| Connections | 20 |
 | Also known as | Michael Selig |
 
 ## How Other Checks Describe It
@@ -39,20 +39,23 @@ Trump-appointed CFTC chairman; denied favouritism when questioned in Congress ab
 - [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations]] · Mostly accurate
 - [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles]] · Mostly accurate
 - [[C65 Officials Who Decided Matters Involving Former Clients or Partners]] · Mostly accurate
+- [[C101 Trading Ahead of Presidential Announcements]] · Mostly accurate
+- [[C103 Insider-Trading Oversight Requests, Probes & Outcomes]] · Mostly accurate
 
 ## Relationships
 
-### Regulatory (9)
+### Regulatory (10)
 
 - [[Mike Selig]] *chief counsel, Crypto Task Force* [[Securities and Exchange Commission]] · 2025 · [[C54 The Crypto Revolving Door|C54]]
 - [[Mike Selig]] *chair* [[Commodity Futures Trading Commission]] · 2025-12-18 · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]]
 - [[Mike Selig]] *chair of* [[Commodity Futures Trading Commission]] · 2025-12-18 · [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]]
 - [[Mike Selig]] *chairman of* [[Commodity Futures Trading Commission]] · 2025-12-18 · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]
 - [[Mike Selig]] *Chair (sworn in)* [[Commodity Futures Trading Commission]] · 2025-12-22 · [[C54 The Crypto Revolving Door|C54]]
+- [[Mike Selig]] *chair and sole commissioner* [[Commodity Futures Trading Commission]] · 2025-12-22 · [[C103 Insider-Trading Oversight Requests, Probes & Outcomes|C103]]
 - [[Mike Selig]] *chair; amicus and suits vs states on event contracts* [[Commodity Futures Trading Commission]] · 2025-12-22 · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
 - [[Mike Selig]] *chairs; vowed to pursue insider trading* [[Commodity Futures Trading Commission]] · 2026-04 · [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations|C58]]
 - [[Donald Trump]] *appointed CFTC chair* [[Mike Selig]] · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]
-- [[Mike Selig]] *chairs* [[Commodity Futures Trading Commission]] · [[C22 Crypto.com's Deal with Trump Media|C22]] [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]] [[C52 Trump-Connected Lobbyists Hired by Crypto Firms & the SEC Enforcement Director's Exit|C52]]
+- [[Mike Selig]] *chairs* [[Commodity Futures Trading Commission]] · [[C22 Crypto.com's Deal with Trump Media|C22]] [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]] [[C52 Trump-Connected Lobbyists Hired by Crypto Firms & the SEC Enforcement Director's Exit|C52]] [[C101 Trading Ahead of Presidential Announcements|C101]]
 
 ### Political (5)
 

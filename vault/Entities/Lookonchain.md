@@ -2,8 +2,8 @@
 id: "lookonchain"
 kind: "entity"
 type: "company"
-connections: 3
-claims: 2
+connections: 4
+claims: 3
 tags:
   - "entity"
   - "type/company"
@@ -15,17 +15,19 @@ On-chain analytics account that tracked sniping and liquidity pulls
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 2 checks |
-| Connections | 3 |
+| Appears in | 3 checks |
+| Connections | 4 |
 
 ## How Other Checks Describe It
 
+- On-chain tracker that reported the March 2025 leveraged longs.
 - On-chain analytics; AVAX/MNT buys
 
 ## Appears in Checks
 
 - [[C40 Who Ran the $TRUMP & $MELANIA Launches]] · Mostly accurate
 - [[C90 World Liberty's Token-Swap Pitch & Its Partners]] · Mostly accurate
+- [[C101 Trading Ahead of Presidential Announcements]] · Mostly accurate
 
 ## Relationships
 

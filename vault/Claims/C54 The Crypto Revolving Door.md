@@ -322,7 +322,7 @@ Most of the named moves are documented. Bo Hines left the White House crypto cou
 
 ### Advisory (1)
 
-- [[Donald Trump Jr]] *strategic adviser* [[Kalshi]] · 2025-01 · [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]] [[C54 The Crypto Revolving Door|C54]] [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations|C58]] [[C64 Lobbyists & Intermediaries with White House Access|C64]] [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
+- [[Donald Trump Jr]] *strategic adviser* [[Kalshi]] · 2025-01 · [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]] [[C54 The Crypto Revolving Door|C54]] [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations|C58]] [[C64 Lobbyists & Intermediaries with White House Access|C64]] [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]] [[C102 Trades by Officials, Family & Associates|C102]]
 
 ### Political (12)
 

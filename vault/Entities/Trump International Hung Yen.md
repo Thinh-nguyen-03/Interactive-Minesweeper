@@ -2,8 +2,8 @@
 id: "trump-international-hung-yen"
 kind: "entity"
 type: "asset"
-connections: 7
-claims: 2
+connections: 9
+claims: 3
 tags:
   - "entity"
   - "type/asset"
@@ -15,19 +15,25 @@ tags:
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 2 checks |
-| Connections | 7 |
+| Appears in | 3 checks |
+| Connections | 9 |
 
 ## How Other Checks Describe It
 
+- Vietnam project; $5M licence fee in 2025
 - $1.5B golf/urban project in Khoai Chau
 
 ## Appears in Checks
 
 - [[C59 Foreign Trump Organization Projects & Tariff Negotiations]] · Partly accurate
 - [[C79 Lesser-Known Foreign Projects Tbilisi, South Korea, the Maldives & Vietnam]] · Mostly accurate
+- [[C98 Trump Media, Licensing & Merchandise Income During the Presidency]] · Mostly accurate
 
 ## Relationships
+
+### Money (1)
+
+- [[Trump International Hung Yen]] *Vietnam licence fee in 2025* [[Donald Trump]] · 2025 · $5M · [[C98 Trump Media, Licensing & Merchandise Income During the Presidency|C98]]
 
 ### Ownership (1)
 

@@ -44,6 +44,7 @@ WLF and Nasdaq-listed ALT5 Sigma did announce a $1.5B WLFI-treasury deal on Aug 
   **The record shows:** WLF insiders sit on ALT5's board (Zach Witkoff is chairman; Eric Trump and Zak Folkman are director or observer), but its CEOs (Tassiopoulos, Hugh, Tony Isaac) were not WLF executives.
 - The $500M (Trump) and $90M (Witkoff) figures are journalists' estimates of entitlements from token-sale proceeds (DT Marks DEFI gets 75%), not documented payments.
 - The stock decline is reported as 90-96% depending on dates; about 94% is consistent with that.
+- 2026-11-16 (disclosure audit, C96/C97): Claimed (House Oversight Committee Democratic staff, Jan 2026): the $1.45B ALT5 deal counts as WLF token sales yielding 75% to the Trump family. The record shows: about $750M of the deal was WLFI exchanged for ALT5 shares; Reuters and CAP put ALT5's cash purchases of WLFI at $717M. The only documented figure is the $526.8M of 2025 token proceeds on DT Marks DEFI's lines, which does not separate ALT5.
 
 ## What Is Unproven
 
@@ -82,8 +83,11 @@ WLF and Nasdaq-listed ALT5 Sigma did announce a $1.5B WLFI-treasury deal on Aug 
 - The entity is DT Marks DEFI LLC, which under WLF's token-offering documents gets 75% of net token-sale proceeds.
 - The figure is an estimate after fees; no filing shows the actual amount paid.
 - 'Reportedly' is the right qualifier.
-- Amounts: roughly $500 million; 75%
-- Dates: Aug 31, 2025; June 9, 2026
+- Trump's 2025 OGE report lists $526.8M of token-sale proceeds distributed by WLF to DT Marks DEFI in 2025 (lines 124.3-124.12) without separating ALT5's purchases; DT Marks DEFI is 70% Trump's and 30% unnamed family members', and the form does not say whether the amounts on these lines are the entities' totals or Trump's share.
+- Reuters and CAP put ALT5's cash purchases of WLFI at $717M (75% is about $538M before expenses).
+- House Oversight Committee Democratic staff (Jan 20, 2026) counted the full $1.45B of the ALT5 deal as token sales in their 'at least $2.165 billion' of sales and 'nearly $1.6 billion' potential payout; about half of the deal was WLFI exchanged for ALT5 shares, not cash, so that count overstates the cash.
+- Amounts: roughly $500 million; 75%; $526.8M; 70%; 30%
+- Dates: Aug 31, 2025; June 9, 2026; Jan 20, 2026
 - Sources: [4](https://www-web.itiger.com/news/2563830850) [13](https://www.cnbc.com/2026/06/09/trump-world-liberty-financial-crypto-alt5-sigma.html) [5](https://seekingalpha.com/news/4491102-trump-family-set-to-land-500m-payday-via-circular-wlfi-deal---report) [17](https://www.pogo.org/investigates/no-sec-probe-of-trump-crypto-deal-despite-alleged-illegality)
 
 ### 3. The deal reportedly made $90 million for the Witkoff family.
@@ -154,6 +158,7 @@ WLF and Nasdaq-listed ALT5 Sigma did announce a $1.5B WLFI-treasury deal on Aug 
   - The Nevada shareholder suit was reportedly withdrawn with prejudice.
 - The company had a separate governance crisis: the CEO was suspended in Oct 2025, the acting CEO and COO were removed in Nov 2025, and a Rwandan court case involved a company principal.
   - These events are independent of the Trump-family payments.
+- The reported unusual trading in ALT5 shares before the Aug 11, 2025 announcement (The Block, without accusing the company) is recorded as an unverified lead; no trader has been identified and no authority has made a finding (see C102).
 
 ## Themes
 
@@ -247,6 +252,13 @@ WLF and Nasdaq-listed ALT5 Sigma did announce a $1.5B WLFI-treasury deal on Aug 
 - [[World Liberty Financial]] *struck $1.5B deal with* [[ALT5 Sigma]] · $1.5B · [[C13 The $1.5 Billion ALT5 Sigma Deal with World Liberty|C13]]
 - [[World Liberty Financial]] *party to* [[ALT5 Sigma $1.5B WLFI deal]] · [[C13 The $1.5 Billion ALT5 Sigma Deal with World Liberty|C13]]
 
+## Leads Not Covered Here
+
+- **Reported unusual trading in ALT5 Sigma shares before the Aug 11, 2025 WLFI-treasury announcement (unverified)**
+  - The Block reported 'some evidence of unusual trading activity' in ALT5 shares before the announcement while stating ALT5 is not accused of wrongdoing; the WSJ reported in Sept 2025 that the SEC and FINRA had contacted some crypto-treasury companies about pre-announcement trading, without confirming ALT5 among them.
+  - No trader identified and no finding; covered in C102.
+  - [[ALT5 Sigma]] [[World Liberty Financial]] [[Securities and Exchange Commission]] · [Source](https://www.theblock.co/post/380564/turmoil-inside-world-liberty-crypto-treasury-investigations-firings-rwandan-money-laundering-conviction)
+
 ## Sources (19)
 
 1. [ALT5 Sigma to raise $1.5 billion for WLFI token treasury strategy, to add Eric Trump to board](https://www.theblock.co/news/deals/2025-08-11-alt5-sigma-wlfi-token-treasury-strategy-eric-trump-366348) (The Block, 2025-08-11)
@@ -296,6 +308,8 @@ The core facts hold up: the $1.5B deal, the reported ~$500M and ~$90M payouts, t
 - The entity is DT Marks DEFI LLC, which holds a contractual right to 75% of WLF's net token-sale proceeds.
 - The number is an estimate after fees. No filing itemizes the actual cash paid.
 - A Reuters-based tally gives a higher figure (~$987M) for total token-sale proceeds across all sales, so estimates differ by scope.
+- Trump's 2025 OGE report lists $526.8M of token-sale proceeds distributed by WLF to DT Marks DEFI in 2025 and does not separate ALT5's purchases. DT Marks DEFI is 70% Trump's and 30% unnamed family members', and the form does not say whether the amounts are entity totals or Trump's share. Reuters and CAP put ALT5's cash purchases of WLFI at $717M.
+- House Oversight Committee Democratic staff (Jan 20, 2026) counted the full $1.45B of the ALT5 deal as token sales in their "at least $2.165 billion" of sales and "nearly $1.6 billion" potential payout. About half of the deal was WLFI exchanged for ALT5 shares, not cash, so that count overstates the cash.
 
 #### 3. About $90M to the Witkoff family: partly confirmed
 - Coverage of a February 2026 WSJ feature says "more than $500 million flowed to Trump entities and $90 million to Witkoffs through this structure" [8][9][19].
@@ -367,3 +381,10 @@ The core facts hold up: the $1.5B deal, the reported ~$500M and ~$90M payouts, t
 
 ### Audit (second review, Nov 2026)
 Result: **upheld**. Re-checked the AIFC rename and ticker dates, the $500M and $90M figures, and the stock decline. The company release confirms the rename (2026-04-28) and the ticker change (2026-04-29). The Daily Beast and IBTimes describe the $500M as an entitlement or estimate, and the stock at about 66 cents in mid-2026 is consistent with a drop of more than 90%. The $90M Witkoff figure still traces only to secondary relays of the WSJ, and other Witkoff totals (≥$200M; ABC's ~$107M for Steve Witkoff from a WLF-affiliated holding company in one year) measure different things. A filing-summary site mentions a Nasdaq listing deficiency (cure date 2026-12-28); I did not verify it, so it is not added. Sources: https://www.newswire.com/news/ai-financial-corporation-formerly-alt5-sigma-begins-trading-under-new-nasdaq ; https://www.thedailybeast.com/trump-family-scores-massive-payday-as-company-falls-apart?.tsrc=rss ; https://www.ibtimes.com/trump-family-reportedly-earned-hundreds-millions-crypto-deal-partner-firms-stock-tumbles-3803931
+
+### Audit addendum (16 Nov 2026, disclosure check)
+
+- **What the disclosure shows.** Trump's 2025 OGE report lists $526.8M of WLF token proceeds on the lines of DT Marks DEFI (70% Trump's, 30% unnamed family members') without separating ALT5. The ALT5 money therefore remains an estimate.
+- **The House Democrats' count.** The House Oversight Democrats' tally counts all $1.45B of the ALT5 deal as token sales. That overstates the cash, because about $750M was WLFI exchanged for shares.
+- **Lead only, unverified.** The Block reported "some evidence of unusual trading activity" in ALT5 shares before the August 11, 2025 announcement, and said ALT5 is not accused of wrongdoing. No trader has been identified and no authority has made a finding (see C102). https://www.theblock.co/post/380564/turmoil-inside-world-liberty-crypto-treasury-investigations-firings-rwandan-money-laundering-conviction
+- The verdict is unchanged.

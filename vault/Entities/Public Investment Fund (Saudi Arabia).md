@@ -7,8 +7,8 @@ aliases:
   - "Public Investment Fund"
   - "Public Investment Fund (PIF)"
   - "Saudi Public Investment Fund"
-connections: 24
-claims: 12
+connections: 25
+claims: 13
 tags:
   - "entity"
   - "type/fund"
@@ -22,8 +22,8 @@ Saudi sovereign wealth fund; put $2B into Affinity Partners.
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 12 checks |
-| Connections | 24 |
+| Appears in | 13 checks |
+| Connections | 25 |
 | Also known as | PIF; Public Investment Fund; Public Investment Fund (PIF); Saudi Public Investment Fund |
 
 ## How Other Checks Describe It
@@ -48,17 +48,19 @@ Saudi sovereign wealth fund; put $2B into Affinity Partners.
 - [[C70 What the Trump Family's Foreign Partners Obtained from Washington]] · Mostly accurate
 - [[C80 Sovereign-Fund Megadeals That Need US Approval]] · Mostly accurate
 - [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds]] · Mostly accurate
+- [[C99 What Each Family Member Has Earned]] · Partly accurate
 
 ## Relationships
 
-### Money (9)
+### Money (10)
 
 - [[Public Investment Fund (Saudi Arabia)]] *committed $2B to* [[Affinity Partners]] · 2021 · $2B · [[C56 Saudi Arabia Family Deals Alongside US Policy Decisions|C56]]
 - [[Public Investment Fund (Saudi Arabia)]] *largest investor ($2B)* [[Affinity Partners]] · 2021 · $2B · [[C57 The UAE Network Tahnoon, G42, MGX & Their US Deals|C57]]
 - [[Public Investment Fund (Saudi Arabia)]] *committed $2B to (largest investor)* [[Affinity Partners]] · 2021-07 · $2B · [[C15 Jared Kushner, Affinity Partners & Gulf Sovereign Funds|C15]] [[C37 The Reported Hack of Jared Kushner's Phone|C37]]
 - [[Public Investment Fund (Saudi Arabia)]] *funds (ending after 2026 season)* [[LIV Golf]] · 2022 · $5B · [[C56 Saudi Arabia Family Deals Alongside US Policy Decisions|C56]]
+- [[Public Investment Fund (Saudi Arabia)]] *paid $87M of ~$157.5M foreign management fees (to Sept 2024)* [[Affinity Partners]] · 2024-09 · $87M · [[C99 What Each Family Member Has Earned|C99]]
 - [[Public Investment Fund (Saudi Arabia)]] *proposed ~$1.5B investment in (not concluded)* [[PGA Tour Enterprises]] · 2025 · $1.5B · [[C80 Sovereign-Fund Megadeals That Need US Approval|C80]]
-- [[Public Investment Fund (Saudi Arabia)]] *co-financed WBD bid (with QIA, L'imad: $24B total)* [[Paramount]] · 2025-12 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
+- [[Public Investment Fund (Saudi Arabia)]] *co-financed WBD bid (with QIA, L'imad: $24B total)* [[Paramount Global]] · 2025-12 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Public Investment Fund (Saudi Arabia)]] *funded (>$5B), ending after 2026 season* [[LIV Golf]] · 2026-04-30 · $5B · [[C80 Sovereign-Fund Megadeals That Need US Approval|C80]]
 - [[Public Investment Fund (Saudi Arabia)]] *$2B investment; EA co-buyer* [[Affinity Partners]] · [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]]
 - [[Public Investment Fund (Saudi Arabia)]] *invested $2B in* [[Affinity Partners]] · $2B · [[C15 Jared Kushner, Affinity Partners & Gulf Sovereign Funds|C15]]

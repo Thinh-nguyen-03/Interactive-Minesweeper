@@ -18,6 +18,15 @@ const SHOTS=[
  {id:'S10',hash:'#C06',vp:P,scheme:'light'},
  {id:'S11',hash:'#map-matrix',vp:D,scheme:'light'},
  {id:'S12',hash:'#map-topic-gulf-money',vp:D,scheme:'light'},
+ {id:'S13',hash:'#balance',vp:D,scheme:'light'},
+ {id:'S14',hash:'#balance',vp:D,scheme:'dark'},
+ {id:'S15',hash:'#balance',vp:P,scheme:'light'},
+ {id:'S16',hash:'#C101',vp:D,scheme:'light'},
+ {id:'S17',hash:'#C102',vp:P,scheme:'light'},
+ {id:'S18',hash:'#balance-share=1&row=C96-01',vp:D,scheme:'light'},
+ {id:'S19',hash:'#balance-view=paper&row=C98-04',vp:D,scheme:'dark'},
+ {id:'S20',hash:'#balance-view=settlements',vp:D,scheme:'light'},
+ {id:'S21',hash:'#balance-view=estimates',vp:P,scheme:'dark'},
 ];
 (async()=>{
   const port=8700+Math.floor(Math.random()*200); const s=await serve(port);

@@ -6,8 +6,8 @@ aliases:
   - "SEC"
   - "U.S. Securities and Exchange Commission"
   - "US Securities and Exchange Commission"
-connections: 95
-claims: 33
+connections: 105
+claims: 37
 tags:
   - "entity"
   - "type/government"
@@ -19,8 +19,8 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 33 checks |
-| Connections | 95 |
+| Appears in | 37 checks |
+| Connections | 105 |
 | Also known as | SEC; U.S. Securities and Exchange Commission; US Securities and Exchange Commission |
 
 ## How Other Checks Describe It
@@ -66,6 +66,10 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 - [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief]] · Mostly accurate
 - [[C79 Lesser-Known Foreign Projects Tbilisi, South Korea, the Maldives & Vietnam]] · Mostly accurate
 - [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival]] · Mostly accurate
+- [[C98 Trump Media, Licensing & Merchandise Income During the Presidency]] · Mostly accurate
+- [[C101 Trading Ahead of Presidential Announcements]] · Mostly accurate
+- [[C102 Trades by Officials, Family & Associates]] · Mostly accurate
+- [[C103 Insider-Trading Oversight Requests, Probes & Outcomes]] · Mostly accurate
 
 ## Relationships
 
@@ -73,7 +77,7 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 
 - [[Tron]] *lobbying via Kelley Drye/Digital Sovereignty Alliance ($370K; single source)* [[Securities and Exchange Commission]] · 2025 · $370K · [[C64 Lobbyists & Intermediaries with White House Access|C64]]
 
-### Regulatory (81)
+### Regulatory (90)
 
 - [[Securities and Exchange Commission]] *fraud case dismissed with prejudice* [[Yorkville Advisors]] · 2018-10-29 · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]]
 - [[Securities and Exchange Commission]] *sued for fraud, market manipulation and unregistered securities* [[Justin Sun]] · 2023-03-22 · [[C05 Justin Sun, World Liberty Financial & the SEC|C05]]
@@ -107,10 +111,14 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 - [[Securities and Exchange Commission]] *dismissed case with prejudice* [[Kraken]] · 2025-03-27 · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]]
 - [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice* [[Kraken]] · 2025-03-27 · [[C23 SEC Crypto Cases Dropped & the Firms' Donations|C23]]
 - [[Securities and Exchange Commission]] *dismissed suit with prejudice* [[Kraken]] · 2025-03-27 · [[C52 Trump-Connected Lobbyists Hired by Crypto Firms & the SEC Enforcement Director's Exit|C52]]
+- [[Maxine Waters]] *led House request to investigate tariff-pause trading* [[Securities and Exchange Commission]] · 2025-04-10 · [[C103 Insider-Trading Oversight Requests, Probes & Outcomes|C103]]
 - [[Adam Schiff]] *co-signed letter seeking tariff-pause probe* [[Securities and Exchange Commission]] · 2025-04-11 · [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations|C58]]
+- [[Adam Schiff]] *co-signed tariff-pause letter* [[Securities and Exchange Commission]] · 2025-04-11 · [[C103 Insider-Trading Oversight Requests, Probes & Outcomes|C103]]
 - [[Chuck Schumer]] *co-led letter seeking tariff-pause probe* [[Securities and Exchange Commission]] · 2025-04-11 · [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations|C58]]
 - [[Elizabeth Warren]] *asked to investigate tariff-pause insider trading* [[Securities and Exchange Commission]] · 2025-04-11 · [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations|C58]]
+- [[Mark Kelly]] *co-signed tariff-pause letter* [[Securities and Exchange Commission]] · 2025-04-11 · [[C103 Insider-Trading Oversight Requests, Probes & Outcomes|C103]]
 - [[Ron Wyden]] *co-signed letter seeking tariff-pause probe* [[Securities and Exchange Commission]] · 2025-04-11 · [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations|C58]]
+- [[Ruben Gallego]] *co-signed tariff-pause letter* [[Securities and Exchange Commission]] · 2025-04-11 · [[C103 Insider-Trading Oversight Requests, Probes & Outcomes|C103]]
 - [[Securities and Exchange Commission]] *dismissed case* [[Binance]] · 2025-05-29 · [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]]
 - [[Securities and Exchange Commission]] *dismissed case with prejudice* [[Binance]] · 2025-05-29 · [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]]
 - [[Securities and Exchange Commission]] *dismissed lawsuit with prejudice* [[Binance]] · 2025-05-29 · [[C23 SEC Crypto Cases Dropped & the Firms' Donations|C23]] [[C43 Overlap Between Dropped Enforcement Cases & Trump Donors|C43]]
@@ -121,6 +129,8 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 - [[Securities and Exchange Commission]] *delayed decisions; no approval found* [[Truth Social ETFs]] · 2025-08 · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]
 - [[New America Acquisition I Corp]] *filed S-1 targeting firms benefiting from government incentives, amended same day to remove it* [[Securities and Exchange Commission]] · 2025-08-04 · [[C27 The New America Acquisition I SPAC|C27]]
 - [[Securities and Exchange Commission]] *dropped cross-appeal; $125M penalty stands* [[Ripple]] · 2025-08-07 · $125.04M · [[C33 Corporate Lawsuit Settlements & Donations to Trump's Library & Ballroom|C33]]
+- [[FINRA]] *joint reported review of pre-announcement trading in crypto-treasury firms* [[Securities and Exchange Commission]] · 2025-09 · [[C102 Trades by Officials, Family & Associates|C102]]
+- [[Securities and Exchange Commission]] *reported outreach to crypto-treasury firms (ALT5 not confirmed among them)* [[ALT5 Sigma]] · 2025-09 · [[C102 Trades by Officials, Family & Associates|C102]]
 - [[Securities and Exchange Commission]] *dismissed civil claims after commutation* [[Carlos Watson]] · 2025-09 · [[C49 The Market for Pardon Lobbying|C49]]
 - [[Securities and Exchange Commission]] *dismissed civil case after pardon* [[Devon Archer]] · 2025-09 · [[C49 The Market for Pardon Lobbying|C49]]
 - [[Securities and Exchange Commission]] *moved to dismiss civil claims* [[Ozy Media]] · 2025-09 · [[C49 The Market for Pardon Lobbying|C49]]
@@ -131,13 +141,16 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 - [[Securities and Exchange Commission]] *has not opened a probe (per POGO)* [[ALT5 Sigma]] · 2026 · [[C13 The $1.5 Billion ALT5 Sigma Deal with World Liberty|C13]]
 - [[Securities and Exchange Commission]] *stipulated dismissal of Gemini Earn suit* [[Gemini]] · 2026-01-23 · [[C23 SEC Crypto Cases Dropped & the Firms' Donations|C23]]
 - [[Taylor Lindman]] *Crypto Task Force chief counsel (from Chainlink)* [[Securities and Exchange Commission]] · 2026-02-23 · [[C54 The Crypto Revolving Door|C54]]
+- [[Government Accountability Office]] *found 18% staff loss in FY2025* [[Securities and Exchange Commission]] · 2026-03 · [[C103 Insider-Trading Oversight Requests, Probes & Outcomes|C103]]
 - [[Securities and Exchange Commission]] *dismissed claims; Rainberry paid $10M* [[Justin Sun]] · 2026-03 · $10M · [[C52 Trump-Connected Lobbyists Hired by Crypto Firms & the SEC Enforcement Director's Exit|C52]]
 - [[Securities and Exchange Commission]] *dismissed claims against* [[BitTorrent Foundation Ltd]] · 2026-03-05 · [[C05 Justin Sun, World Liberty Financial & the SEC|C05]]
 - [[Securities and Exchange Commission]] *dismissed all claims against* [[Justin Sun]] · 2026-03-05 · [[C05 Justin Sun, World Liberty Financial & the SEC|C05]]
 - [[Securities and Exchange Commission]] *dismissed claims; Rainberry pays $10M* [[Justin Sun]] · 2026-03-05 · $10M · [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]]
 - [[Margaret 'Meg' Ryan]] *Enforcement Director; resigned* [[Securities and Exchange Commission]] · 2026-03-16 · [[C52 Trump-Connected Lobbyists Hired by Crypto Firms & the SEC Enforcement Director's Exit|C52]]
+- [[Mark Warner]] *asked about trading ahead of policy announcements* [[Securities and Exchange Commission]] · 2026-04-02 · [[C103 Insider-Trading Oversight Requests, Probes & Outcomes|C103]]
 - [[David Woodcock]] *named Enforcement Director, effective* [[Securities and Exchange Commission]] · 2026-05-04 · [[C52 Trump-Connected Lobbyists Hired by Crypto Firms & the SEC Enforcement Director's Exit|C52]]
 - [[Securities and Exchange Commission]] *declared Securitize S-4 effective* [[Cantor Equity Partners II]] · 2026-06-05 · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
+- [[Ritchie Torres]] *asked to review Truth API* [[Securities and Exchange Commission]] · 2026-07 · [[C103 Insider-Trading Oversight Requests, Probes & Outcomes|C103]]
 - [[Securities and Exchange Commission]] *asked to probe Truth API (no probe confirmed)* [[Trump Media & Technology Group]] · 2026-07 · [[C21 Trump Media's Paid Feed of Market-Moving Posts & Truth+|C21]]
 - [[Securities and Exchange Commission]] *acknowledged complaint; no probe reported* [[Trump Media & Technology Group]] · 2026-07-29 · [[C41 Trump Media Feed Subscribers, the Senators' SEC Request, Departures & the CRO Treasury|C41]]
 - [[Securities and Exchange Commission]] *declared S-4 effective for* [[TMTG-TAE merger]] · 2026-11-05 · [[C24 Trump Media's ETFs, the TAE Fusion Merger & Its Losses|C24]]

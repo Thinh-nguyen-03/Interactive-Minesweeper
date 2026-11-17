@@ -27,7 +27,7 @@ Oracle co-founder and largest shareholder; guaranteed the Paramount-WBD equity
 ### Money (2)
 
 - [[Larry Ellison]] *committed to Twitter buyout* [[X Corp]] · 2022-05 · $1B · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
-- [[Larry Ellison]] *personally guaranteed bid equity* [[Paramount]] · 2025-12-22 · $40.4B · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
+- [[Larry Ellison]] *personally guaranteed bid equity* [[Paramount Global]] · 2025-12-22 · $40.4B · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 
 ### Ownership (1)
 

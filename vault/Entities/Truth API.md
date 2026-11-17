@@ -2,8 +2,8 @@
 id: "truth-api"
 kind: "entity"
 type: "product"
-connections: 14
-claims: 4
+connections: 17
+claims: 5
 tags:
   - "entity"
   - "type/product"
@@ -15,13 +15,14 @@ Paid licensed low-latency feed of Truth Social's 10 most influential accounts; $
 | | |
 |---|---|
 | Type | Product |
-| Appears in | 4 checks |
-| Connections | 14 |
+| Appears in | 5 checks |
+| Connections | 17 |
 
 ## How Other Checks Describe It
 
 - Paid low-latency feed of top Truth Social accounts, up to $100K a month, live since 2026-08-01.
 - Paid real-time feed of Truth Social posts ($60K-$100K/month)
+- Paid early feed of Truth Social posts
 - TMTG paid real-time post feed
 
 ## Appears in Checks
@@ -30,6 +31,7 @@ Paid licensed low-latency feed of Truth Social's 10 most influential accounts; $
 - [[C41 Trump Media Feed Subscribers, the Senators' SEC Request, Departures & the CRO Treasury]] · Mostly accurate
 - [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations]] · Mostly accurate
 - [[C67 Investors Who Appear in Several Trump-Family Vehicles]] · Mostly accurate
+- [[C103 Insider-Trading Oversight Requests, Probes & Outcomes]] · Mostly accurate
 
 ## Relationships
 
@@ -43,20 +45,26 @@ Paid licensed low-latency feed of Truth Social's 10 most influential accounts; $
 
 - [[Trump Media & Technology Group]] *operates* [[Truth API]] · 2026-08-01 · [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations|C58]]
 
+### Regulatory (1)
+
+- [[Elizabeth Warren]] *asked SEC to investigate (with Schiff); SEC declined comment* [[Truth API]] · 2026-07-28 · [[C103 Insider-Trading Oversight Requests, Probes & Outcomes|C103]]
+
 ### Legal (1)
 
 - [[The Intercept Media, Inc. v. Trump (1 26-cv-06867, SDNY)]] *challenges* [[Truth API]] · 2026-08-12 · [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations|C58]]
 
-### Media (4)
+### Media (5)
 
 - [[Financial Times]] *reported up-to-$100K/month pricing* [[Truth API]] · 2026-07-17 · [[C21 Trump Media's Paid Feed of Market-Moving Posts & Truth+|C21]]
 - [[Joe Rogan]] *questioned how it is legal* [[Truth API]] · 2026-08 · [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations|C58]]
 - [[Shane Gillis]] *called it 'literally insider trading'* [[Truth API]] · 2026-08 · [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations|C58]]
+- [[John Coates]] *argues sale of early access may breach STOCK Act duty* [[Truth API]] · 2026-09 · [[C103 Insider-Trading Oversight Requests, Probes & Outcomes|C103]]
 - [[Reuters]] *reported customer names of* [[Truth API]] · 2026-10-28 · [[C41 Trump Media Feed Subscribers, the Senators' SEC Request, Departures & the CRO Treasury|C41]]
 
-### Commercial (7)
+### Commercial (8)
 
 - [[Trump Media & Technology Group]] *launched (announced 2026-07-16, live 2026-08-01)* [[Truth API]] · 2026-07-16 · [[C21 Trump Media's Paid Feed of Market-Moving Posts & Truth+|C21]]
+- [[Trump Media & Technology Group]] *operates; denies insider-trading theory* [[Truth API]] · 2026-08-01 · [[C103 Insider-Trading Oversight Requests, Probes & Outcomes|C103]]
 - [[Trump Media & Technology Group]] *sells* [[Truth API]] · 2026-08-01 · [[C41 Trump Media Feed Subscribers, the Senators' SEC Request, Departures & the CRO Treasury|C41]]
 - [[Bloomberg LP]] *reportedly subscribes to* [[Truth API]] · 2026-10 · [[C41 Trump Media Feed Subscribers, the Senators' SEC Request, Departures & the CRO Treasury|C41]]
 - [[Jump Trading]] *reportedly subscribes to* [[Truth API]] · 2026-10 · [[C41 Trump Media Feed Subscribers, the Senators' SEC Request, Departures & the CRO Treasury|C41]]

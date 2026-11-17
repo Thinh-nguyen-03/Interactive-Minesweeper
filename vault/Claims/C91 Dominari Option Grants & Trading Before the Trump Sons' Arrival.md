@@ -71,6 +71,10 @@ The figures in the claim hold up. On Feb. 10, 2025, the day before the Trump son
 - [[C47 Dominari's Other Deals Tron, Kazakhstan Tungsten & Chinese Listings]] · Mostly accurate
 - [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief]] · Mostly accurate
 
+## Checks That Build on This One
+
+- [[C102 Trades by Officials, Family & Associates]] · Mostly accurate
+
 ## Sub-Claims
 
 ### 1. Hayes and Wool were granted 10M options on Feb. 10, 2025, the day before the Trump sons' advisory roles were announced.
@@ -283,7 +287,7 @@ The figures in the claim hold up. On Feb. 10, 2025, the day before the Trump son
 - [[Anthony Hayes]] · Person
 - [[Barron's]] · Media
 - [[Bloomberg]] · Media
-- [[Dominari Holdings Dominari Securities]] · Company
+- [[Dominari Holdings]] · Company
 - [[Donald Trump Jr]] · Person
 - [[Eric Trump]] · Person
 - [[Financial Times]] · Media
@@ -311,20 +315,20 @@ The figures in the claim hold up. On Feb. 10, 2025, the day before the Trump son
 
 ### Money (7)
 
-- [[Dominari Holdings Dominari Securities]] *paid about $34M total 2025 compensation (incl. option value)* [[Anthony Hayes]] · 2025 · $34M · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
-- [[Dominari Holdings Dominari Securities]] *paid almost $32M total 2025 compensation (incl. option value)* [[Kyle Wool]] · 2025 · $32M · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
-- [[Dominari Holdings Dominari Securities]] *granted 5M fully vested options at $6.16 (subject to plan approval)* [[Anthony Hayes]] · 2025-02-10 · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
-- [[Dominari Holdings Dominari Securities]] *granted 5M fully vested options at $6.16 (subject to plan approval)* [[Kyle Wool]] · 2025-02-10 · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
-- [[Anthony Hayes]] *bought 288,184 shares + warrants in $3.47 placement (Investing.com, Form 4)* [[Dominari Holdings Dominari Securities]] · 2025-02-12 · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
-- [[Kyle Wool]] *bought 288,184 shares + warrants in $3.47 placement (~$1M)* [[Dominari Holdings Dominari Securities]] · 2025-02-12 · $1M · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
+- [[Dominari Holdings]] *paid about $34M total 2025 compensation (incl. option value)* [[Anthony Hayes]] · 2025 · $34M · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
+- [[Dominari Holdings]] *paid almost $32M total 2025 compensation (incl. option value)* [[Kyle Wool]] · 2025 · $32M · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
+- [[Dominari Holdings]] *granted 5M fully vested options at $6.16 (subject to plan approval)* [[Anthony Hayes]] · 2025-02-10 · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
+- [[Dominari Holdings]] *granted 5M fully vested options at $6.16 (subject to plan approval)* [[Kyle Wool]] · 2025-02-10 · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
+- [[Anthony Hayes]] *bought 288,184 shares + warrants in $3.47 placement (Investing.com, Form 4)* [[Dominari Holdings]] · 2025-02-12 · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
+- [[Kyle Wool]] *bought 288,184 shares + warrants in $3.47 placement (~$1M)* [[Dominari Holdings]] · 2025-02-12 · $1M · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
 - [[Justin Sun]] *TRX treasury deal / adviser* [[SRM Entertainment Tron Inc]] · 2025-06-16 · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
 
 ### Ownership (7)
 
-- [[Ronald Lieberman]] *director and shareholder* [[Dominari Holdings Dominari Securities]] · 2024-12 · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
+- [[Ronald Lieberman]] *director and shareholder* [[Dominari Holdings]] · 2024-12 · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
 - [[Eric Trump]] *co-founder* [[American Bitcoin]] · 2025-03-31 · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]] [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]] [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
-- [[Alan Garten]] *shareholder (S-3 selling stockholder)* [[Dominari Holdings Dominari Securities]] · 2025-04 · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
-- [[Lawrence Glick]] *shareholder (S-3 selling stockholder)* [[Dominari Holdings Dominari Securities]] · 2025-04 · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
+- [[Alan Garten]] *shareholder (S-3 selling stockholder)* [[Dominari Holdings]] · 2025-04 · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
+- [[Lawrence Glick]] *shareholder (S-3 selling stockholder)* [[Dominari Holdings]] · 2025-04 · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
 - [[Kyle Wool]] *held 30% equity interest until May 2025* [[Revere Securities LLC]] · 2025-05 · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
 - [[Donald Trump Jr]] *350,000-share stake disclosed; stock fell 14-17%* [[Thumzup Media]] · 2025-07-09 · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
 - [[Yorkville Advisors]] *sponsor/controller* [[Texas Ventures Acquisition III Corp]] · 2025-09-18 · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
@@ -345,20 +349,20 @@ The figures in the claim hold up. On Feb. 10, 2025, the day before the Trump son
 
 ### Legal (2)
 
-- [[Purcell & Lefkowitz LLP]] *announced fiduciary-duty shareholder investigation (no complaint found)* [[Dominari Holdings Dominari Securities]] · 2025-10-27 · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
+- [[Purcell & Lefkowitz LLP]] *announced fiduciary-duty shareholder investigation (no complaint found)* [[Dominari Holdings]] · 2025-10-27 · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
 - [[Alan Garten]] *EVP and Chief Legal Officer* [[Trump Organization]] · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]] [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
 
 ### Media (1)
 
-- [[Adam Pritchard]] *called pre-announcement trading 'clearly unusual' (FT)* [[Dominari Holdings Dominari Securities]] · 2025-03 · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
+- [[Adam Pritchard]] *called pre-announcement trading 'clearly unusual' (FT)* [[Dominari Holdings]] · 2025-03 · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
 
 ### Commercial (7)
 
-- [[Revere Securities LLC]] *co-participant in underwritings earning Dominari $5.8M (2025) and $930K (2024)* [[Dominari Holdings Dominari Securities]] · 2025 · $5.8M · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
-- [[Donald Trump Jr]] *advisory agreement and $3.47 placement purchase (same day as option grants)* [[Dominari Holdings Dominari Securities]] · 2025-02-10 · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
-- [[Eric Trump]] *advisory agreement and $3.47 placement purchase (same day as option grants)* [[Dominari Holdings Dominari Securities]] · 2025-02-10 · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
+- [[Revere Securities LLC]] *co-participant in underwritings earning Dominari $5.8M (2025) and $930K (2024)* [[Dominari Holdings]] · 2025 · $5.8M · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
+- [[Donald Trump Jr]] *advisory agreement and $3.47 placement purchase (same day as option grants)* [[Dominari Holdings]] · 2025-02-10 · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
+- [[Eric Trump]] *advisory agreement and $3.47 placement purchase (same day as option grants)* [[Dominari Holdings]] · 2025-02-10 · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
 - [[Gryphon Digital Mining]] *all-stock merger announced; GRYP +~300% on the day* [[American Bitcoin]] · 2025-05-12 · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
-- [[Dominari Holdings Dominari Securities]] *exclusive placement agent; SRM rose 67% in two days before announcement (Protos)* [[SRM Entertainment Tron Inc]] · 2025-06-16 · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
+- [[Dominari Holdings]] *exclusive placement agent; SRM rose 67% in two days before announcement (Protos)* [[SRM Entertainment Tron Inc]] · 2025-06-16 · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
 - [[Lawrence Glick]] *EVP of Development* [[Trump Organization]] · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]] [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
 - [[Ronald Lieberman]] *EVP of Management and Development* [[Trump Organization]] · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
 
@@ -367,19 +371,19 @@ The figures in the claim hold up. On Feb. 10, 2025, the day before the Trump son
 - **Trump Organization executives Garten, Glick and Lieberman as Dominari shareholders**
   - When and at what price the Trump Org's chief legal officer and development EVP bought DOMH is undisclosed in coverage.
   - Both also sit on a Yorkville SPAC board (C78).
-  - [[Alan Garten]] [[Lawrence Glick]] [[Ronald Lieberman]] [[Dominari Holdings Dominari Securities]] [[Texas Ventures Acquisition III Corp]] · [Source](https://wendysiegelman.substack.com/p/over-20-of-dominari-holdings-common)
+  - [[Alan Garten]] [[Lawrence Glick]] [[Ronald Lieberman]] [[Dominari Holdings]] [[Texas Ventures Acquisition III Corp]] · [Source](https://wendysiegelman.substack.com/p/over-20-of-dominari-holdings-common)
 - **Dominari's March 2026 plan increase: 6M shares for special Hayes/Wool awards and a 20% annual evergreen**
   - A second large equity-pool expansion for the same two executives after the $66M year.
   - Whether the awards were granted, and at what price, is not established.
-  - [[Dominari Holdings Dominari Securities]] [[Anthony Hayes]] [[Kyle Wool]] · [Source](https://www.boardroomalpha.com/sec/domh-8-k-2026-03-05-0001213900-26-024123)
+  - [[Dominari Holdings]] [[Anthony Hayes]] [[Kyle Wool]] · [Source](https://www.boardroomalpha.com/sec/domh-8-k-2026-03-05-0001213900-26-024123)
 - **SRM Entertainment's 67% rise in the two days before the Dominari-placed Tron deal**
   - A pre-announcement run-up on a Dominari-arranged deal with Justin Sun.
   - Only Protos has reported it, and no options or volume analysis has been published.
-  - [[SRM Entertainment Tron Inc]] [[Dominari Holdings Dominari Securities]] [[Justin Sun]] · [Source](https://protos.com/justin-suns-new-stock-srm-rallied-67-before-tron-merger-news)
+  - [[SRM Entertainment Tron Inc]] [[Dominari Holdings]] [[Justin Sun]] · [Source](https://protos.com/justin-suns-new-stock-srm-rallied-67-before-tron-merger-news)
 - **Revere-Dominari co-underwritings and Wool's 30% Revere stake**
   - Related-party revenue ($5.8M in 2025) on deals with Wool's former firm, which FINRA fined for small-cap IPO AML failures.
   - The overlap of deals is unexamined.
-  - [[Kyle Wool]] [[Revere Securities LLC]] [[Dominari Holdings Dominari Securities]] [[FINRA]] · [Source](https://www.finra.org/media-center/newsreleases/2026/finra-fines-revere-securities-800000-small-cap-ipo-related-aml-and)
+  - [[Kyle Wool]] [[Revere Securities LLC]] [[Dominari Holdings]] [[FINRA]] · [Source](https://www.finra.org/media-center/newsreleases/2026/finra-fines-revere-securities-800000-small-cap-ipo-related-aml-and)
 
 ## Sources (41)
 

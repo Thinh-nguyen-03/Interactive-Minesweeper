@@ -29,12 +29,13 @@
     {
       "statement": "Hundreds of pages of financial disclosures show the president bought equities before posting about them.",
       "verdict": "confirmed",
-      "finding": "The Q1 2026 Form 278-T is 113 pages long and lists about 3,642-3,711 trades worth $220M-$750M. A 2025 disclosure listed more than 21,000 trades. It shows $247k-$630k of Palantir buys in Q1 2026, including at least seven in March, before the April 10 post. The filings give only value ranges. Most trades were never followed by a related post, and there is no evidence that Trump directed them.",
+      "finding": "The Q1 2026 Form 278-T is 113 pages long and lists about 3,642-3,711 trades worth $220M-$750M. The annual disclosure for 2025, released on 2026-06-30, lists about 21,000 transactions in 2025. Among them are 327 purchases ($3.6M to $12.8M) in one investment account on 2025-04-08, the day before the tariff pause, and 273 purchases in the same account on 2025-04-10. A reviewer's note on that filing says late fees were paid for transactions not previously reported (C102). It shows $247k-$630k of Palantir buys in Q1 2026, including at least seven in March, before the April 10 post. The filings give only value ranges. Most trades were never followed by a related post, and there is no evidence that Trump directed them.",
       "sources": [
         "https://cbsnews.com/news/trump-stock-trades-2026",
         "https://fortune.com/2026/05/23/trump-stock-portfolio-trading-market-strategies-indexing-tax-loss-harvesting/",
         "https://www.newstribune.com/news/2026/jul/05/trump-financial-disclosure-shows-21000-trades-in/",
-        "https://ground.news/article/trump-touted-palantir-on-truth-social-after-buying-the-companys-stock-records-show"
+        "https://ground.news/article/trump-touted-palantir-on-truth-social-after-buying-the-companys-stock-records-show",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
       ]
     },
     {
@@ -72,7 +73,8 @@
     "Fortune's analysis: the trade pattern looks like direct indexing and tax-loss harvesting. CNN: most trades were never followed by a related post.",
     "Critics (Rep. Don Beyer, NOTUS, CREW): it is not a blind trust, Trump missed STOCK Act deadlines and paid late fees, and Palantir sponsored administration events and donated to the ballroom project.",
     "The disclosures report only value ranges, and the same filing shows a sale of up to $5M of Palantir on Feb 10, 2026.",
-    "CNBC reported that several Palantir buys were marked 'unsolicited' (not on adviser recommendation). The filing format does not show who placed the trades, so this neither proves nor disproves Trump's involvement."
+    "CNBC reported that several Palantir buys were marked 'unsolicited' (not on adviser recommendation). The filing format does not show who placed the trades, so this neither proves nor disproves Trump's involvement.",
+    "On the 2025 purchases, the White House and the Trump Organization say the accounts are fully discretionary and managed by independent third parties, with no role for Trump or his family in choosing trades. The filing does not show who placed or directed any trade (C102)."
   ],
   "sources": [
     {
@@ -164,6 +166,12 @@
       "publisher": "Mediaite",
       "url": "https://www.mediaite.com/media/news/trump-hyped-palantir-after-buying-more-than-500k-of-companys-stock/",
       "date": "2026-05"
+    },
+    {
+      "title": "OGE Form 278e annual report for 2025, Donald J. Trump (Part 7 transactions and reviewer comments)",
+      "publisher": "U.S. Office of Government Ethics",
+      "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "date": "2026-06-30"
     }
   ],
   "entities": [
@@ -384,7 +392,8 @@
       "All checked figures upheld by different outlets (Mediaite, Digital Today, Benzinga, Crypto Briefing). The 3,642-trade count, the 113 pages and the late filing (certified May 8, received May 12) are confirmed.",
       "Added context to sub-claim 4 and to denials: CNBC reported that several Palantir buys were marked 'unsolicited'. The verdict is unchanged because the filing does not show who placed the trades.",
       "Added the exact date (2026-09-06) of the Intel repost.",
-      "16 Nov 2026: corrected the stake from '52-53%' to about 52% through May 2025 and about 41% since. Sources: the FY2025 10-K (220,657,014 shares at 31 Dec 2024; 55,857,181 PIPE shares sold 29 May 2025), the Dec 2025 Schedule 13D/A (114,750,000 shares, 41.5% of 276,497,911) and the Nov 2026 TAE merger prospectus (about 41%). The sub-claim stays confirmed: the trust is the largest holder but no longer a majority holder."
+      "16 Nov 2026: corrected the stake from '52-53%' to about 52% through May 2025 and about 41% since. Sources: the FY2025 10-K (220,657,014 shares at 31 Dec 2024; 55,857,181 PIPE shares sold 29 May 2025), the Dec 2025 Schedule 13D/A (114,750,000 shares, 41.5% of 276,497,911) and the Nov 2026 TAE merger prospectus (about 41%). The sub-claim stays confirmed: the trust is the largest holder but no longer a majority holder.",
+      "2026-11-16 (trading review, C102): added the 327 purchases ($3.6M to $12.8M) in one investment account on 2025-04-08 and the 273 on 2025-04-10, among about 21,000 transactions in 2025, from the annual report released 2026-06-30, with the reviewer's note that late fees were paid for transactions not previously reported, and the White House and Trump Organization response that the accounts are fully discretionary and managed by third parties."
     ],
     "new_sources": [
       {

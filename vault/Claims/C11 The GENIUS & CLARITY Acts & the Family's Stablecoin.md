@@ -42,6 +42,7 @@ Trump publicly pushed the GENIUS Act and lobbied House holdouts personally, incl
   **The record shows:** No such post was found. Eric Trump's documented January 2026 X post said USD1 had passed PayPal's PYUSD, and by total market cap USD1 was roughly 4th-6th, not 2nd.
 - The 'nighttime calls' are sourced mainly to Trump's own remarks at the signing (calls at 2-4 a.m.). Press reports document an evening Oval Office meeting with holdouts on 2025-07-15.
 - The write-up previously gave '$57.3M from WLF' as the 2025 disclosure figure; that was the June 2025 filing covering 2024. The filing for calendar 2025 (released 2026-06-30) reports about $526M from WLF token sales.
+- 2026-11-16 (disclosure audit, C96/C97): Claimed: Trump 'reported about $57.3M from WLF' for 2024 and the family 'holds ~60% of WLF'. The record shows: the $57,355,532 is World Liberty Financial, Inc.'s own token-sale revenue (line 391 of the 2024 report), not a distribution to Trump; DT Marks DEFI (70% Trump, 30% family) held 75% of WLF Holdco at the end of 2024 and 38.25% at the end of 2025. The 2025 receipts ($526.8M token proceeds, $65.6M and $196.9M from stake sales) sit on entity lines that are 30% family-owned.
 
 ## What Is Unproven
 
@@ -58,6 +59,12 @@ Trump publicly pushed the GENIUS Act and lobbied House holdouts personally, incl
 
 - [[C34 David Sacks The AI & Crypto Adviser & His Investments]] · Mostly accurate
 - [[C35 Howard Lutnick, Cantor Fitzgerald & Tether]] · Mostly accurate
+- [[C95 The Presidential Salary Pledge]] · Partly accurate
+- [[C96 What Trump's Own Financial Disclosures Report]] · Confirmed
+- [[C97 Crypto Income During the Presidency]] · Mostly accurate
+- [[C98 Trump Media, Licensing & Merchandise Income During the Presidency]] · Mostly accurate
+- [[C99 What Each Family Member Has Earned]] · Partly accurate
+- [[C100 Net Worth Change & Legal Settlements Paid to Trump]] · Mostly accurate
 
 ## Sub-Claims
 
@@ -98,10 +105,11 @@ Trump publicly pushed the GENIUS Act and lobbied House holdouts personally, incl
 **Confirmed**
 
 - USD1 is issued by World Liberty Financial.
-- The Trump family was reported to hold ~60% of WLF, and a Trump-affiliated entity was reported to receive 75% of token-sale revenue.
-- Trump's June 2025 disclosure (covering calendar 2024) reported about $57.3M from WLF token sales; his disclosure for calendar 2025, released 2026-06-30, reported about $526M more from WLF token sales.
+- DT Marks DEFI, an entity 70% owned through Trump's companies (DTTM Operations 69% plus a 1% member corporation) and 30% by unnamed 'Trump Family Members', is entitled to 75% of WLF's net token-sale revenue; its stake in WLF Holdco was 75% at the end of 2024 and 38.25% at the end of 2025 according to Trump's OGE filings (WLF's own statements gave about 60% and 40% in between).
+- Trump's June 2025 disclosure (covering calendar 2024) lists $57,355,532 of token sales on the line of World Liberty Financial, Inc. itself, which is company revenue rather than a distribution to him.
+- His disclosure for calendar 2025, released 2026-06-30, lists $526.8M of token-sale proceeds distributed by WLF to DT Marks DEFI, $65.6M from a WLF Holdco equity sale, and $196.9M to DT Marks SC from Stablecoin Holdco, the USD1 business; the form does not say whether the amounts on these lines are the entities' totals or Trump's share.
 - The White House denies any conflict.
-- Amounts: ~60%; 75%; about $57.3M; about $526M
+- Amounts: 70%; 69%; 1%; 30%; 75%
 - Dates: June 2025; 2026-06-30
 - Sources: [10](https://cointelegraph.com/news/senators-amendment-genius-act-world-liberty-financial-stablecoin) [11](https://www.nbcnews.com/politics/congress/senate-passes-landmark-crypto-regulation-bill-bipartisan-vote-sending-rcna213437) [22](https://www.foxbusiness.com/politics/trump-financial-disclosure-reveals-more-than-1b-crypto-income-during-first-year-back-office)
 
@@ -190,10 +198,10 @@ Trump publicly pushed the GENIUS Act and lobbied House holdouts personally, incl
 - [[US Congress]] *passed* [[GENIUS Act]] · 2025-07 · [[C11 The GENIUS & CLARITY Acts & the Family's Stablecoin|C11]] [[C35 Howard Lutnick, Cantor Fitzgerald & Tether|C35]]
 - [[Donald Trump]] *met and called holdouts to flip votes* [[House Freedom Caucus]] · 2025-07-15 · [[C11 The GENIUS & CLARITY Acts & the Family's Stablecoin|C11]]
 - [[Donald Trump]] *lobbied for and signed into law* [[GENIUS Act]] · 2025-07-18 · [[C11 The GENIUS & CLARITY Acts & the Family's Stablecoin|C11]]
+- [[White House Trump administration]] *denies conflicts of interest* [[Donald Trump]] · 2026-06-30 · [[C11 The GENIUS & CLARITY Acts & the Family's Stablecoin|C11]] [[C98 Trump Media, Licensing & Merchandise Income During the Presidency|C98]]
 - [[Donald Trump]] *pushed* [[CLARITY Act]] · [[C11 The GENIUS & CLARITY Acts & the Family's Stablecoin|C11]]
 - [[Donald Trump]] *pushed, lobbied votes for* [[GENIUS Act]] · [[C11 The GENIUS & CLARITY Acts & the Family's Stablecoin|C11]]
 - [[Donald Trump]] *made night-time calls to* [[US Congress]] · [[C11 The GENIUS & CLARITY Acts & the Family's Stablecoin|C11]]
-- [[White House Trump administration]] *denies conflicts of interest* [[Donald Trump]] · [[C11 The GENIUS & CLARITY Acts & the Family's Stablecoin|C11]]
 
 ### Media (2)
 
@@ -250,7 +258,7 @@ Trump publicly pushed the GENIUS Act and lobbied House holdouts personally, incl
 
 3. **"Nighttime calls" to get votes: confirmed, mainly from Trump's own words.** News reports document an evening Oval Office meeting (Trump posted shortly before 9 p.m. ET on July 15, 2025) and "multiple conversations with Trump" before the holdouts switched [5][6][7]. At the signing ceremony, Trump himself said he had been making phone calls "at 2:00, 3:00, 4:00 in the morning" and recalled being "about four short at 3:30 in the morning" [8]. So the late-night calls are documented, but the detail about the hour comes from Trump's own account.
 
-4. **The family profits from USD1: confirmed in substance.** World Liberty Financial (WLF) issues USD1. The Trump family held a reported ~60% stake in WLF, and a Trump-affiliated entity was reported to receive 75% of token-sale revenue [9]. Trump's June 2025 financial disclosure (covering 2024) reported about $57.3M from WLF token sales; his disclosure for calendar 2025, released June 30, 2026, reported about $526M more from WLF token sales [21]. USD1 reserve income flows to WLF. The figures for that income and for Binance are covered in C10.
+4. **The family profits from USD1: confirmed in substance.** World Liberty Financial (WLF) issues USD1. DT Marks DEFI, an entity about 70% owned through Trump's companies and 30% by unnamed family members, is entitled to 75% of WLF's net token-sale revenue. According to Trump's OGE filings, its stake in WLF Holdco was 75% at the end of 2024 and 38.25% at the end of 2025; WLF's own statements gave about 60% and 40% in between [9][21]. Trump's June 2025 financial disclosure (covering 2024) lists $57,355,532 of token sales on the line of World Liberty Financial, Inc. itself. That is company revenue, not a distribution to him. His disclosure for calendar 2025, released June 30, 2026, lists $526.8M of token-sale proceeds distributed by WLF to DT Marks DEFI, $65.6M from a WLF Holdco equity sale and $196.9M to DT Marks SC from Stablecoin Holdco, the USD1 business. The form does not say whether these are the entities' totals or Trump's share [21]. USD1 reserve income flows to WLF. The figures for that income and for Binance are covered in C10.
 
 5. **A Trump son boasted on X that USD1 is "the second largest GENIUS compliant stablecoin": unverified as worded.** I could not find a post with that exact wording. The closest documented statements are these:
    - On about January 23, 2026, Eric Trump posted on X that USD1 (~$4.4-4.5B) had overtaken PayPal's PYUSD, calling it "a major milestone" [14][15].
@@ -302,3 +310,11 @@ Note: the sources were found by web search. Direct page fetches were blocked in 
 ### Audit (second pass, 2026-11-14)
 
 Result: corrected. The $57.3M WLF figure was from the June 2025 filing covering 2024, not the 2025 disclosure, and the source previously cited for it (NBC on the Senate vote) did not support it. The calendar-2025 filing reports about $526M from WLF token sales, which strengthens the 'family profits' point. The GENIUS/CLARITY vote details and Eric Trump's posts were not re-checked because the search budget ran out.
+
+### Audit addendum (16 Nov 2026, disclosure check)
+
+**Corrected.** The 2024 "$57.3M from WLF" is World Liberty Financial, Inc.'s own token-sale revenue (line 391 of the 2024 report), not a payment to Trump.
+
+The reported "~60%" stake is replaced by what the filings show: DT Marks DEFI held 75% of WLF Holdco at the end of 2024 and 38.25% at the end of 2025. DT Marks DEFI is itself 70% Trump's and 30% unnamed family members'.
+
+The 2025 lines are now listed in full: $526.8M of token proceeds, $65.6M from the WLF Holdco equity sale, and $196.9M from Stablecoin Holdco. The form does not say whether these are entity totals or Trump's share.

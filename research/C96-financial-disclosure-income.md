@@ -139,7 +139,7 @@ Legacy book royalties, such as The Art of the Deal at $100,001 to $1,000,000, ar
 
 - **Speaking:** $200,000, the balance for a December 2022 fundraising event, paid in May 2025.
 - **Pensions:** SAG and AFTRA, $86,532 in total.
-- **Settlements:** $86.5M in total. Of that, $8M came from X Corp. ABC ($16M), CBS ($16M) and Meta ($24.5M) are listed with net proceeds paid to the presidential library foundation, and Alphabet/YouTube's $22M went to the Trust for the National Mall.
+- **Settlements:** $86.5M in total on the line. Of that, only the $8M from X Corp. is reported as Trump's own settlement income, and whether he kept it is not documented. ABC ($16M), CBS ($16M) and Meta ($24.5M) are listed with net proceeds paid to the presidential library foundation, and Alphabet/YouTube's $22M went to the Trust for the National Mall: that $78.5M is not counted as his income (ledger rows C96-29 and C96-29b; see C100).
 - **Unexplained line:** a separate Trump Organization LLC line of $30.2M is labelled "business income and legal settlements".
 - **Gifts (Part 9):** $372,050 in total, including a $250,000 sculpture from Sticker Mule's founder.
 - **Compensation:** Part 4 is "N/A". The presidential salary is not a reportable item on the form.

@@ -31,7 +31,7 @@ Long Island attorney who represented Trump 2020-22; library foundation trustee.
 
 ### Ownership (1)
 
-- [[James Kiley]] *trustee of* [[Donald J. Trump Presidential Library Foundation, Inc]] · 2025-05 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]] [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]]
+- [[James Kiley]] *trustee of* [[Donald J. Trump Presidential Library Foundation]] · 2025-05 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]] [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]]
 
 ### Legal (2)
 

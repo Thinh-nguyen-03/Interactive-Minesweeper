@@ -2,8 +2,8 @@
 id: "tiffany-trump"
 kind: "entity"
 type: "person"
-connections: 5
-claims: 2
+connections: 6
+claims: 3
 tags:
   - "entity"
   - "type/person"
@@ -15,17 +15,19 @@ Trump's daughter; reported by some outlets (not all) as a foundation trustee
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 2 checks |
-| Connections | 5 |
+| Appears in | 3 checks |
+| Connections | 6 |
 
 ## How Other Checks Describe It
 
 - Trump's daughter, married to Michael Boulos (Nov 2022)
+- President's daughter; no documented 2025-26 income.
 
 ## Appears in Checks
 
 - [[C48 The Trump Presidential Library Foundation's Money & Land]] · Mostly accurate
 - [[C66 The Extended Family's Ventures & Roles]] · Partly accurate
+- [[C99 What Each Family Member Has Earned]] · Partly accurate
 
 ## Relationships
 

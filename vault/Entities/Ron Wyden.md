@@ -2,8 +2,8 @@
 id: "ron-wyden"
 kind: "entity"
 type: "person"
-connections: 20
-claims: 12
+connections: 23
+claims: 14
 tags:
   - "entity"
   - "type/person"
@@ -15,8 +15,8 @@ US Senator (D-OR); Senate Finance ranking member investigating Affinity.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 12 checks |
-| Connections | 20 |
+| Appears in | 14 checks |
+| Connections | 23 |
 
 ## How Other Checks Describe It
 
@@ -40,6 +40,8 @@ US Senator (D-OR); Senate Finance ranking member investigating Affinity.
 - [[C79 Lesser-Known Foreign Projects Tbilisi, South Korea, the Maldives & Vietnam]] · Mostly accurate
 - [[C85 Yorkville's Blank-Cheque Vehicles Venezuela, Blue Water III & PlusAI]] · Partly accurate
 - [[C86 Major Trump Donors with Stakes in Federally Backed Companies]] · Partly accurate
+- [[C99 What Each Family Member Has Earned]] · Partly accurate
+- [[C103 Insider-Trading Oversight Requests, Probes & Outcomes]] · Mostly accurate
 
 ## Relationships
 
@@ -57,7 +59,8 @@ US Senator (D-OR); Senate Finance ranking member investigating Affinity.
 - [[Ron Wyden]] *opened inquiry into Venezuela SPAC* [[Yorkville International Capital Corp (YICC)]] · 2026-06-25 · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]
 - [[Ron Wyden]] *asked whether Commerce knew of Base Group payment* [[Howard Lutnick]] · 2026-08 · [[C79 Lesser-Known Foreign Projects Tbilisi, South Korea, the Maldives & Vietnam|C79]]
 
-### Legal (2)
+### Legal (3)
 
+- [[Ron Wyden]] *co-signed request to state AGs* [[National Association of Attorneys General]] · 2025-04-11 · [[C103 Insider-Trading Oversight Requests, Probes & Outcomes|C103]]
 - [[Ron Wyden]] *opened inquiry into fundraising* [[Jared Kushner]] · 2026-03 · [[C73 Qatar's Ties to People in & Around the Administration|C73]]
 - [[Ron Wyden]] *letter on Lutnick trust loan* [[Tether]] · 2026-04-29 · [[C35 Howard Lutnick, Cantor Fitzgerald & Tether|C35]]

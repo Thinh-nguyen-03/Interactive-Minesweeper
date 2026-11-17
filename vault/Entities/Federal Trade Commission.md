@@ -4,8 +4,8 @@ kind: "entity"
 type: "government"
 aliases:
   - "FTC"
-connections: 8
-claims: 5
+connections: 9
+claims: 6
 tags:
   - "entity"
   - "type/government"
@@ -17,13 +17,14 @@ Pursuing a monopolization case against Amazon (trial Mar 2027); got a $2.5B Prim
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 5 checks |
-| Connections | 8 |
+| Appears in | 6 checks |
+| Connections | 9 |
 | Also known as | FTC |
 
 ## How Other Checks Describe It
 
 - US consumer-protection regulator asked to probe the T1 marketing
+- Pursued its monopoly case against Meta.
 - Lost the Meta monopoly case
 - Amazon Prime settlement
 - Meta and Amazon cases
@@ -35,6 +36,7 @@ Pursuing a monopolization case against Amazon (trial Mar 2027); got a $2.5B Prim
 - [[C68 Tech Billionaires as Counterparties & Beneficiaries]] · Mostly accurate
 - [[C69 Master Timeline Money Events & Government Actions]] · Partly accurate
 - [[C92 The White House Ballroom Donor List]] · Partly accurate
+- [[C100 Net Worth Change & Legal Settlements Paid to Trump]] · Mostly accurate
 
 ## Relationships
 

@@ -39,6 +39,7 @@ The WSJ reported on 2026-02-01 that Aryam Investment 1, an Abu Dhabi vehicle bac
 ## What Needs Correcting
 
 - The buyer was Aryam Investment 1, a Tahnoon-backed vehicle, not Tahnoon personally.
+- 2026-11-16 (disclosure audit, C96/C97): Added from Trump's 2025 OGE report: $65,625,000 (WLF Holdco equity sale) and $196,875,000 (Stablecoin Holdco) were received by DT Marks DEFI and DT Marks SC in 2025, no buyer named; the stake fell from 75% to 38.25%. This fits the reported 49% sale but does not show whether the second $250M was paid.
 
 ## In More Detail
 
@@ -71,8 +72,11 @@ The WSJ reported on 2026-02-01 that Aryam Investment 1, an Abu Dhabi vehicle bac
 - The remaining $250M was due by 2025-07-15, and its distribution could not be determined.
 - Some outlets relaying the WSJ also report a further $31M to an entity tied to co-founders Zak Folkman and Chase Herro; this detail is less consistently reported.
 - No reporting found through Nov 2026 confirms whether or how the second $250M was paid.
+- Trump's 2025 OGE report (released 2026-06-30) lists $65,625,000 of net proceeds from an equity sale in WLF Holdco (line 124.2, DT Marks DEFI) and $196,875,000 from new members' capital contribution to and Class C units of Stablecoin Holdco (line 114, DT Marks SC), $262.5M in all, without naming a buyer.
+- DT Marks DEFI's stake in WLF Holdco fell from 75% (end of 2024) to 38.25% (end of 2025), the drop a 49% dilution would produce (75% x 51%; our arithmetic).
+- Whether the $262.5M reflects the full $500M depends on whether the form's amounts are the two entities' totals (then about $350M of the price would have been paid, at the 75% split) or Trump's 70% share (then the full $500M); the form does not say whether the amounts on these lines are the entities' totals or Trump's share, so the second tranche remains undocumented.
 - Amounts: $500M; 49%; $250M; about $187M; at least $31M
-- Dates: 2025-07-15; Nov 2026
+- Dates: 2025-07-15; Nov 2026; 2026-06-30
 - Sources: [1](https://www.theblock.co/news/deals/2026-02-01-uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj-387931) [2](https://cointelegraph.com/news/uae-backed-firm-buys-49-percent-trump-linked-world-liberty-wsj) [5](https://www.ledgerinsights.com/trump-linked-crypto-venture-world-liberty-sold-49-stake-to-uae-state-affiliated-firm/) [10](https://ground.news/article/abu-dhabi-royal-secretly-bought-stake-in-trump-crypto-firm_a173ab) [12](https://finance.yahoo.com/news/inside-187m-deal-between-trump-003116654.html)
 
 ### 3. It was signed four days before Trump's inauguration.
@@ -231,7 +235,7 @@ The WSJ reported on 2026-02-01 that Aryam Investment 1, an Abu Dhabi vehicle bac
 
 ### Evidence by sub-claim
 1. **A WSJ investigation exists, and Sam Kessler worked on it.** Confirmed. The WSJ published it on 2026-02-01 under the headline "Abu Dhabi Royal Secretly Bought Stake in Trump Crypto Firm". Secondary reports credit Sam Kessler alongside Rebecca Ballhaus, Eliot Brown and Angus Berwick. Kessler saying "just last week" fits an interview recorded in early February 2026.
-2. **$500M for 49%.** Confirmed as reported. The buyer was Aryam Investment 1, an Abu Dhabi vehicle backed by Tahnoon. It agreed to pay $500M for 49% of WLF. Half ($250M) was paid upfront. Of that half, about $187M went to Trump-family entities and at least $31M to entities linked to the Witkoff family. The WSJ said the second $250M was due by 2025-07-15 and that it could not trace where that money went.
+2. **$500M for 49%.** Confirmed as reported. The buyer was Aryam Investment 1, an Abu Dhabi vehicle backed by Tahnoon. It agreed to pay $500M for 49% of WLF. Half ($250M) was paid upfront. Of that half, about $187M went to Trump-family entities and at least $31M to entities linked to the Witkoff family. The WSJ said the second $250M was due by 2025-07-15 and that it could not trace where that money went. Trump's 2025 OGE report lists $65,625,000 from an equity sale in WLF Holdco (DT Marks DEFI, line 124.2) and $196,875,000 from new members of Stablecoin Holdco (DT Marks SC, line 114), $262.5M in all, with no buyer named. DT Marks DEFI's stake in WLF Holdco fell from 75% to 38.25%, the drop a 49% dilution would produce. Whether the $262.5M reflects the full $500M depends on whether these are the entities' totals (about $350M paid, at the 75% split) or Trump's 70% share (the full $500M). The form does not say which, so the second tranche is still undocumented.
 3. **Signed four days before the inauguration.** Confirmed. Eric Trump signed the deal in January 2025. Several outlets give the date as 2025-01-16, four days before the 2025-01-20 inauguration.
 4. **"An entity tied to" Tahnoon, who is national security adviser and brother of the president.** Confirmed. Tahnoon bin Zayed Al Nahyan is the UAE's national security adviser and a brother of President Mohamed bin Zayed. The "spy sheikh" nickname is widely used in the press. Two Aryam executives who also hold senior roles at G42 (Peng Xiao and Martin Edelman) joined WLF's five-member board.
 5. **Bigger than Sun.** Confirmed. Sun's publicly announced purchase was $75M (2024-11), against $500M here.
@@ -268,3 +272,7 @@ The WSJ reported on 2026-02-01 that Aryam Investment 1, an Abu Dhabi vehicle bac
 11. The Block, "UAE 'spy sheikh' takes 49% stake in Trump family's bank venture: WSJ", 2026-08-27. https://theblock.co/news/regulation/2026-08-27-uae-spy-sheikh-takes-49-stake-in-trump-familys-bank-venture-wsj-412971
 
 Note: none of these pages could be opened from this environment because the network blocks them. All details above come from search-result summaries of these pages, which agree with each other. The WSJ original should be checked to confirm the exact figures.
+
+### Audit addendum (16 Nov 2026, disclosure check)
+
+**Addition, not a correction of the verdict.** Trump's 2025 OGE report records $262.5M of 2025 stake-sale proceeds received by DT Marks DEFI and DT Marks SC, with no buyer named. It also shows the WLF Holdco stake falling from 75% to 38.25%. This is consistent with the reported 49% sale. It does not settle whether the second $250M was paid, because the form does not say whether its amounts are entity totals or Trump's 70% share. A fresh search found no reporting through November 2026 that the second tranche was paid.

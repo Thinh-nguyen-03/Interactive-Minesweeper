@@ -11,7 +11,7 @@ const yaml = fs.readFileSync(path.join(ROOT, 'render.yaml'), 'utf8');
 const cspM = /name: Content-Security-Policy\s*\n\s*value: "([^"]+)"/.exec(yaml);
 const CSP = cspM ? cspM[1] : '';
 const NOTE = 'Everyone named denies wrongdoing. A link is a documented relationship, not proof of cause.';
-const CHECKS = ['C06', 'C37', 'C46', 'C01', 'C15', 'C22', 'C33', 'C58', 'C77', 'C94'];
+const CHECKS = ['C06', 'C37', 'C46', 'C01', 'C15', 'C22', 'C33', 'C58', 'C77', 'C94', 'C95', 'C101'];
 const NAMES = ['donald-trump', 'jared-kushner', 'world-liberty-financial', 'qatar', 'sec', 'eric-trump', 'steve-witkoff', 'binance', 'white-house', 'affinity-partners'];
 const TOPIC = 'gulf-money';
 
@@ -33,6 +33,7 @@ const pageSlot = html => { const i = html.indexOf('<div id="page"'), j = html.in
     ...CHECKS.map(id => ({ url: '/checks/' + id + '/', kind: 'check', id, ready: '.article .aside .glance', has: ['The Claim', 'Verdict', 'Finding', 'The Points Checked', 'Sources', 'Who Is Involved'] })),
     ...names.map(id => ({ url: '/names/' + id + '/', kind: 'name', id, ready: 'article.profile .pbody', has: ['Checks That Name', 'documented link'] })),
     { url: '/names/', kind: 'names', ready: '.tabs [role=tab]', has: ['People & Organisations', 'Donald Trump', 'Companies & Funds'] },
+    { url: '/balance/', kind: 'balance', ready: '#bx-stage .bm', has: ['The Balance Sheet', 'Headline Figures', 'Salary Accrued This Term', '$725,000 to $730,000', 'Salary Donations Documented', '$66,000', 'Nothing documented after Oct 2025', '$1.424 billion', 'Read This First', 'Gross, Not Profit', 'Entity Total or His Share', '2026 Not Yet Disclosed', 'During, Not Because Of', 'Nothing here shows money received for an official act', 'Subtotals', 'There is no grand total', '$63,057,251', 'All Rows', '$635,068,835', 'Trust for the National Mall'] },
     { url: '/method/', kind: 'method', ready: 'ol.msteps', has: ['How We Checked', 'Method', 'Verdicts', 'Evidence Grades', 'Limits', 'Send a source'] },
     { url: '/map/', kind: 'map', ready: '#graph', has: ['Map of Checks, Names & Links', 'Most Connected Names'] },
     { url: '/map/matrix/', kind: 'matrix', ready: '#matrix', has: ['Matrix of the Most Connected Names'] },
@@ -60,6 +61,21 @@ const pageSlot = html => { const i = html.indexOf('<div id="page"'), j = html.in
       ok(tag + 'source list', (pageSlot(r.body).match(/<ol class="pre-src">[\s\S]*?<\/ol>/) || [''])[0].split('<li>').length - 1 === c.src, c.src);
       ok(tag + 'preloads only its own detail file', (r.body.match(/rel="preload" as="fetch"[^>]*href="[^"]*"/g) || []).length === 1 && new RegExp('/assets/d/' + pg.id + '\\.[0-9a-f]+\\.json').test(r.body));
       if (c.verdict === 'unverified') ok(tag + 'marked as an unverified single-source allegation', t.includes('Unverified, Single Source') && t.includes('rests on one source') && t.includes('Everyone named denies it') && /name="description" content="Unverified single-source allegation, denied by everyone named/.test(r.body));
+    }
+    if (pg.kind === 'balance') {
+      const slot = pageSlot(r.body), all = fs.readdirSync(path.join(ROOT, 'data', 'ledger')).flatMap(f => JSON.parse(fs.readFileSync(path.join(ROOT, 'data', 'ledger', f), 'utf8')).map(x => x.id));
+      const used = (slot.match(/data-rows="[^"]+"/g) || []).flatMap(a => a.slice(11, -1).split(' '));
+      ok(tag + 'every ledger row is in the HTML, and every figure names its rows', all.every(id => slot.includes('<tr data-rows="' + id + '">')) && used.every(id => all.includes(id)) && (slot.match(/<b data-rows=/g) || []).length >= 9, all.length + ' rows, ' + used.length + ' references');
+      ok(tag + 'links to the six checks behind it', ['C95', 'C96', 'C97', 'C98', 'C99', 'C100'].every(id => slot.includes('href="/checks/' + id + '/"')));
+      ok(tag + 'preloads the ledger file only', (r.body.match(/rel="preload" as="fetch"[^>]*href="[^"]*"/g) || []).length === 1 && /\/assets\/ledger\.[0-9a-f]+\.json/.test(r.body));
+      ok(tag + 'neutral wording', !/\b(grift\w*|corrupt\w*|profiteer\w*|bribe\w*|kickback\w*|quid pro quo)\b/i.test(t) && !t.includes('—'), (t.match(/.{30}\b(grift|corrupt|profiteer|bribe)\w*.{30}/i) || [])[0]);
+      ok(tag + 'no mention of a video or its maker (YouTube appears only as the company that settled)', !/\b(video|youtuber|creator|channel|podcast|influencer|streamer)\b/i.test(t.replace(/YouTube[^.<]{0,40}(settlement|Alphabet|pays|filing)/g, '')) && !/youtube(?!\/Alphabet|'s| \(Alphabet| pays| account)/i.test(t.replace(/Alphabet\/YouTube|YouTube\/Alphabet/g, '')), (t.match(/.{30}\b(video|creator|channel)\b.{30}/i) || t.match(/.{40}youtube.{40}/i) || [])[0]);
+      ok(tag + 'no grand total', !/grand total of|total income of|in total he received/i.test(t));
+    }
+    if (pg.kind === 'check' && (pg.id === 'C95' || pg.id === 'C101')) {
+      ok(tag + 'in the home list under its topic', new RegExp('<a href="/checks/' + pg.id + '/">').test((await raw(port, '/')).body));
+      if (pg.id === 'C95') ok(tag + 'links to the balance sheet', /href="\/balance\/">See the Balance Sheet<\/a>/.test(pageSlot(r.body)));
+      if (pg.id === 'C101') ok(tag + 'does not link to the balance sheet', !/href="\/balance\/"/.test(pageSlot(r.body)));
     }
     if (pg.kind === 'name') { const e = node('entity', pg.id); ok(tag + 'name, role and connections', t.includes(e.title) && (!e.role || t.includes(e.role.slice(0, 40))) && /Closest Connections/.test(t), e.title); }
   }
@@ -122,7 +138,16 @@ const pageSlot = html => { const i = html.indexOf('<div id="page"'), j = html.in
           const got = server.log.slice(before).map(l => l.url).filter(u => u.startsWith('/assets/d/'));
           ok(tag + 'fetches only its own detail file', got.length === 1 && got[0].startsWith('/assets/d/' + pg.id + '.'), got.join(' '));
           ok(tag + 'points, sources and report are drawn', await direct.evaluate(() => !!document.querySelector('#holds, #fixes, #unproven') && !!document.querySelector('#sources') && !!document.querySelector('#report-box') && document.querySelectorAll('ol.points > li').length > 0));
+          if (pg.id === 'C95') ok(tag + 'offers the balance sheet', await direct.evaluate(() => !!document.querySelector('.article .inote a[href="/balance/"]')));
           if (pg.id === 'C37' || pg.id === 'C46') ok(tag + 'flagged as unverified, single source', await direct.evaluate(() => /Unverified, Single Source/.test((document.querySelector('.inote.unv') || {}).textContent || '')));
+        }
+        if (pg.kind === 'balance') {
+          const got = server.log.slice(before).map(l => l.url).filter(u => /\/assets\/(ledger|d\/)/.test(u));
+          ok(tag + 'fetches the ledger file and no check detail', got.length === 1 && got[0].startsWith('/assets/ledger.'), got.join(' '));
+          ok(tag + 'toolbar, figure and dossier are drawn, each mark with its rows', await direct.evaluate(() => document.querySelectorAll('#bx-bar [data-bx="view"]').length === 5 && document.querySelectorAll('#bx-stage .bm').length > 30 && document.querySelectorAll('#bx-panel .bd-figs > div').length === 5 && document.querySelectorAll('#bx-panel .bd-caveats > div').length === 4 && Array.from(document.querySelectorAll('#bx-stage .bm, #bx-panel .bd-figs dd:not(.bd-n)')).every(e => /^C\d+-\d+/.test(e.getAttribute('data-rows') || ''))));
+          ok(tag + 'the header marks the section', (await direct.getAttribute('[data-nav="balance"]', 'aria-current')) === 'page');
+          if (width > 700) ok(tag + 'the tool fits one screen', await direct.evaluate(() => { const r = document.getElementById('bx').getBoundingClientRect(); return Math.abs(r.bottom - innerHeight) < 2 && r.top >= 0; }));
+          ok(tag + 'no paragraph runs past two sentences', await direct.evaluate(() => Array.from(document.querySelectorAll('#bx p, #bx dd, #bx li')).every(e => (e.textContent.match(/[.!?](\s|$)/g) || []).length <= 2)), await direct.evaluate(() => (Array.from(document.querySelectorAll('#bx p, #bx dd, #bx li')).find(e => (e.textContent.match(/[.!?](\s|$)/g) || []).length > 2) || {}).textContent));
         }
         if (pg.kind === 'map' || pg.kind === 'maptopic') ok(tag + 'the map is drawn', await direct.evaluate(() => document.getElementById('map-loading').hidden && !document.getElementById('mapview').hidden && document.getElementById('graph').width > 100));
         if (pg.kind === 'maptopic') ok(tag + 'the topic is selected', /Gulf Money/.test(await direct.evaluate(() => document.getElementById('hud').textContent + document.getElementById('panel').textContent)));
@@ -206,11 +231,67 @@ const pageSlot = html => { const i = html.indexOf('<div id="page"'), j = html.in
     await p.context().close();
   }
 
+  // ---- 3b. the balance sheet as a tool: views, selection, the share switch, deep links, keys, the data view
+  for (const width of [1440, 400]) {
+    const p = await open(width); p.tag = 'balance' + width;
+    const tap = q => p.evaluate(x => document.querySelector(x).dispatchEvent(new MouseEvent('click', { bubbles: true })), q);   // on a phone the open dossier sheet can cover a control
+    const T = 'balance tool ' + width + ': ', sel = () => p.evaluate(() => (document.querySelector('#bx-panel .panel-head h2') || {}).textContent || '');
+    await p.goto(origin + '/balance/', { waitUntil: 'load' }); await p.waitForSelector('#bx-stage .bm');
+    await p.evaluate(() => { window.__sameDocument = true; });
+    await tap('#bx-stage .bm[data-key="C96-01"]'); await p.waitForTimeout(150);
+    ok(T + 'clicking a mark selects it, opens its dossier and sets the address', (await where(p)) === '/balance/#row=C96-01' && /World Liberty Token-Sale Proceeds/.test(await sel()) && await p.evaluate(() => /\$526,810,321/.test(document.querySelector('.bd-amt').textContent) && /C96-01/.test(document.querySelector('.bd-ids').textContent) && /C97-01/.test(document.querySelector('.bd-ids').textContent) && !!document.querySelector('.bd-checks a[href="/checks/C96/"]') && document.querySelectorAll('#bx-panel .bd-sec a[target="_blank"]').length > 0), await where(p));
+    await tap('#bx-bar [data-bx="share"][data-v="1"]'); await p.waitForTimeout(150);
+    ok(T + 'the share switch shows both readings, the unknown labelled', (await where(p)) === '/balance/#share=1&row=C96-01' && await p.evaluate(() => /\$368,767,225/.test(document.querySelector('.bd-amt').textContent) && /As Reported\$526,810,321/.test(document.querySelector('.bd-two').textContent) && /Unknown/.test(document.querySelector('.bd-unk').textContent) && /does not say which reading is right/.test(document.getElementById('bx-note').textContent) && document.querySelectorAll('#bx-stage .bm-ghost').length >= 10), await where(p));
+    await tap('#bx-bar [data-bx="share"][data-v="0"]');
+    await tap('#bx-bar [data-bx="group"][data-v="venture"]'); await p.waitForTimeout(150);
+    ok(T + 'grouping by venture regroups the lanes and drops the subtotals', (await where(p)) === '/balance/#group=venture&row=C96-01' && await p.evaluate(() => /World Liberty Financial/.test(document.querySelector('#bx-stage').textContent) && !document.querySelector('#bx-stage .bl-row.tot') && /Subtotals are shown only under Category/.test(document.querySelector('#bx-stage').textContent)), await where(p));
+    await tap('#bx-bar [data-bx="scale"][data-v="linear"]'); await p.waitForTimeout(150);
+    ok(T + 'the scale switch redraws the axis', /scale=linear/.test(await where(p)) && await p.evaluate(() => /Linear scale|\$0/.test(document.querySelector('.bx-axis').textContent)));
+    for (const [view, key, name, extra] of [['paper', 'C98-04', 'Change Over the Term', () => document.querySelectorAll('#bx-stage .bl-row.linked').length >= 3], ['family', 'C99-06', '30% of DT Marks', () => /None documented/.test(document.getElementById('bx-stage').textContent)], ['settlements', 'C100-12', 'X Corp.', () => document.querySelectorAll('#bx-stage .bf-link').length === 5 && /Trust for the National Mall|National Mall Trust/.test(document.getElementById('bx-stage').textContent)], ['estimates', 'C100-08', 'Bloomberg, the Family, Jun 2026', () => /cannot be added/.test(document.getElementById('bx-note').textContent)]]) {
+      await tap('#bx-bar [data-bx="view"][data-v="' + view + '"]'); await p.waitForTimeout(150);
+      await tap('#bx-stage [data-key="' + key + '"]'); await p.waitForTimeout(150);
+      ok(T + 'view ' + view + ': drawn, a figure selected, address set', (await where(p)).startsWith('/balance/#view=' + view) && (await where(p)).endsWith('row=' + key) && (await sel()).includes(name) && await p.evaluate(extra) && await p.evaluate(() => Array.from(document.querySelectorAll('#bx-stage [data-key]')).every(e => /^C\d+-\d+/.test(e.getAttribute('data-rows') || ''))), (await where(p)) + ' ' + (await sel()));
+      ok(T + 'view ' + view + ': no sideways overflow', !(await overflow(p)));
+    }
+    ok(T + 'still the same document', await p.evaluate(() => window.__sameDocument === true));
+    await p.goBack(); await p.waitForTimeout(250);
+    ok(T + 'back clears the selection in the same view', (await where(p)) === '/balance/#view=estimates' && (await sel()) === '' && await p.evaluate(() => document.querySelector('#bx-bar [data-v="estimates"]').getAttribute('aria-pressed') === 'true'), await where(p));
+    await p.goBack(); await p.waitForTimeout(250);
+    ok(T + 'back again returns to the earlier view and its selection', (await where(p)) === '/balance/#view=settlements&row=C100-12' && /X Corp/.test(await sel()), await where(p));
+    await p.goForward(); await p.waitForTimeout(250);
+    ok(T + 'forward', (await where(p)) === '/balance/#view=estimates', await where(p));
+    // a deep link, loaded directly
+    await p.goto('about:blank'); await p.goto(origin + '/balance/#view=paper&row=C98-04', { waitUntil: 'load' }); await p.waitForSelector('#bx-stage .bm');
+    ok(T + 'a deep link opens its view with the row selected', /Change Over the Term/.test(await sel()) && await p.evaluate(() => document.querySelector('#bx-bar [data-v="paper"]').getAttribute('aria-pressed') === 'true' && /−\$4\.06 to −\$3\.44 billion/.test(document.querySelector('.bd-amt').textContent)));
+    if (width > 700) {
+      await p.goto(origin + '/balance/', { waitUntil: 'load' }); await p.waitForSelector('#bx-stage .bm');
+      await p.focus('#bx-stage'); await p.keyboard.press('ArrowDown'); await p.keyboard.press('ArrowDown'); await p.keyboard.press('ArrowDown'); await p.waitForTimeout(100);
+      ok(T + 'arrow keys move the selection', (await where(p)) === '/balance/#row=C96-04' && /TRUMP Coin/.test(await sel()), await where(p));
+      await p.keyboard.press('Enter'); ok(T + 'Enter moves to the dossier', await p.evaluate(() => document.activeElement === document.querySelector('#bx-panel .panel-head h2')));
+      await p.keyboard.press('Escape'); await p.waitForTimeout(100); ok(T + 'Escape clears', (await where(p)) === '/balance/' && (await sel()) === '', await where(p));
+      await tap('#bx-stage [data-key="C95-01"]'); ok(T + 'the salary marker opens the salary dossier', await p.evaluate(() => /The Statute/.test(document.getElementById('bx-panel').textContent) && /What Is Not Documented/.test(document.getElementById('bx-panel').textContent)));
+      await p.fill('#bx-q', 'doral'); await p.waitForTimeout(150);
+      ok(T + 'the filter narrows the figure', await p.evaluate(() => document.querySelectorAll('#bx-stage .bl-row:not(.pin)').length === 1 && /Trump National Doral/.test(document.getElementById('bx-stage').textContent)));
+      await p.fill('#bx-q', '');
+    }
+    if (width < 700) { await tap('#bx-panel [data-bx="clear"]'); await p.waitForTimeout(100); ok(T + 'the sheet closes', (await sel()) === ''); }   // on a phone the dossier is a sheet over the page
+    await p.click('#bx-rows summary'); await p.waitForSelector('#bx-table tbody tr');
+    ok(T + 'All Rows lists every ledger row', await p.evaluate(() => document.querySelectorAll('#bx-table tbody tr').length) === fs.readdirSync(path.join(ROOT, 'data', 'ledger')).reduce((n, f) => n + JSON.parse(fs.readFileSync(path.join(ROOT, 'data', 'ledger', f), 'utf8')).length, 0));
+    await p.click('#bx-table [data-bx="sort"][data-v="hi"]'); await p.click('#bx-table [data-bx="sort"][data-v="hi"]'); await p.waitForTimeout(100);
+    ok(T + 'the table sorts', await p.evaluate(() => document.querySelector('#bx-table tbody tr td:nth-child(7)').textContent === 'open' && document.querySelector('#bx-table th[aria-sort="descending"]') !== null), await p.evaluate(() => document.querySelector('#bx-table tbody tr').getAttribute('data-rows')));
+    await p.fill('#bx-tq', 'melania'); await p.waitForTimeout(100);
+    ok(T + 'the table filters', await p.evaluate(() => { const n = document.querySelectorAll('#bx-table tbody tr').length; return n > 2 && n < 12; }));
+    const [dl] = await Promise.all([p.waitForEvent('download', { timeout: 5000 }).catch(() => null), p.click('#bx-rows [data-bx="csv"]')]);
+    const csv = dl ? fs.readFileSync(await dl.path(), 'utf8') : '';
+    ok(T + 'Download CSV gives every row', !!dl && dl.suggestedFilename() === 'balance-sheet-ledger.csv' && csv.split('\n')[0].startsWith('id,check,recipient_name') && /\nC96-29b,/.test(csv) && /\nC95-01,C95,/.test(csv), dl ? csv.slice(0, 80) : 'no download');
+    await p.context().close();
+  }
+
   // ---- 4. addresses from the hash-routed version
   {
     const p = await open(1440); p.tag = 'old';
     const OLD = [['/#C06', '/checks/C06/'], ['/#name-jared-kushner', '/names/jared-kushner/'], ['/#map', '/map/'], ['/#map-matrix', '/map/matrix/'], ['/#map-topic-' + TOPIC, '/map/topic/' + TOPIC + '/'],
-      ['/#map-jared-kushner', '/map/#jared-kushner'], ['/#names', '/names/'], ['/#method', '/method/'], ['/#claims', '/checks/'], ['/#topic-' + TOPIC, '/checks/#topic-' + TOPIC], ['/#home', '/'], ['/#jared-kushner', '/names/jared-kushner/'], ['/#map-list', '/map/#list']];
+      ['/#map-jared-kushner', '/map/#jared-kushner'], ['/#names', '/names/'], ['/#method', '/method/'], ['/#balance', '/balance/'], ['/#balance-view=paper&row=C98-04', '/balance/#view=paper&row=C98-04'], ['/#claims', '/checks/'], ['/#topic-' + TOPIC, '/checks/#topic-' + TOPIC], ['/#home', '/'], ['/#jared-kushner', '/names/jared-kushner/'], ['/#map-list', '/map/#list']];
     for (const [from, to] of OLD) {
       await p.goto('about:blank'); await p.goto(origin + from, { waitUntil: 'load' }); await p.waitForTimeout(700);
       ok('old address ' + from + ' goes to ' + to, (await where(p)) === to, await where(p));
@@ -227,7 +308,7 @@ const pageSlot = html => { const i = html.indexOf('<div id="page"'), j = html.in
   // ---- 5. without JavaScript: readable, and no overflow
   for (const width of [1440, 400]) {
     const p = await open(width, { javaScriptEnabled: false }); p.tag = 'nojs' + width;
-    for (const u of ['/', '/checks/', '/checks/C37/', '/names/jared-kushner/', '/names/', '/method/', '/map/']) {
+    for (const u of ['/', '/checks/', '/checks/C37/', '/checks/C101/', '/balance/', '/names/jared-kushner/', '/names/', '/method/', '/map/']) {
       await p.goto(origin + u, { waitUntil: 'load' });
       const m = await p.locator('#page').evaluate(e => ({ wide: document.documentElement.scrollWidth > document.documentElement.clientWidth + 1, h1: !!e.querySelector('h1') && e.querySelector('h1').getBoundingClientRect().height > 10, links: e.querySelectorAll('a[href^="/"]').length }));
       ok('no JavaScript ' + width + ' ' + u + ': readable, with links, no overflow', !m.wide && m.h1 && m.links > 1, JSON.stringify(m));

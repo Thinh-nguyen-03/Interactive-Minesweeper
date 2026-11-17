@@ -26,4 +26,4 @@ Shareholder-plaintiff law firm; announced an investigation of Dominari's directo
 
 ### Legal (1)
 
-- [[Purcell & Lefkowitz LLP]] *announced fiduciary-duty shareholder investigation (no complaint found)* [[Dominari Holdings Dominari Securities]] · 2025-10-27 · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]
+- [[Purcell & Lefkowitz LLP]] *announced fiduciary-duty shareholder investigation (no complaint found)* [[Dominari Holdings]] · 2025-10-27 · [[C91 Dominari Option Grants & Trading Before the Trump Sons' Arrival|C91]]

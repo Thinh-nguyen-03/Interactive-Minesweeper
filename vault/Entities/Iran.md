@@ -2,8 +2,8 @@
 id: "iran"
 kind: "entity"
 type: "country"
-connections: 17
-claims: 10
+connections: 19
+claims: 11
 tags:
   - "entity"
   - "type/country"
@@ -17,8 +17,8 @@ Country the US went to war with in 2026.
 | | |
 |---|---|
 | Type | Country |
-| Appears in | 10 checks |
-| Connections | 17 |
+| Appears in | 11 checks |
+| Connections | 19 |
 
 ## How Other Checks Describe It
 
@@ -40,6 +40,7 @@ Country the US went to war with in 2026.
 - [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business]] · Mostly accurate
 - [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations]] · Mostly accurate
 - [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs]] · Mostly accurate
+- [[C101 Trading Ahead of Presidential Announcements]] · Mostly accurate
 
 ## Relationships
 
@@ -58,3 +59,7 @@ Country the US went to war with in 2026.
 ### Legal (1)
 
 - [[Tether]] *USDT allegedly used for sanctions evasion by* [[Iran]] · [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business|C50]]
+
+### Media (1)
+
+- [[Semafor]] *published a report about 33 minutes before the 23 March 2026 post, cited by some traders* [[Iran]] · 2026-03-23 · [[C101 Trading Ahead of Presidential Announcements|C101]]

@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "Melania"
-connections: 18
-claims: 8
+connections: 22
+claims: 11
 tags:
   - "entity"
   - "type/person"
@@ -17,8 +17,8 @@ First lady; launched the $MELANIA meme coin and NFTs.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 8 checks |
-| Connections | 18 |
+| Appears in | 11 checks |
+| Connections | 22 |
 | Also known as | Melania |
 
 ## How Other Checks Describe It
@@ -39,22 +39,31 @@ First lady; launched the $MELANIA meme coin and NFTs.
 - [[C63 Shell Entities & Ownership Chains]] · Mostly accurate
 - [[C68 Tech Billionaires as Counterparties & Beneficiaries]] · Mostly accurate
 - [[C93 Umar Kremlev, the International Boxing Association & US Decisions]] · Partly accurate
+- [[C96 What Trump's Own Financial Disclosures Report]] · Confirmed
+- [[C97 Crypto Income During the Presidency]] · Mostly accurate
+- [[C99 What Each Family Member Has Earned]] · Partly accurate
 
 ## Relationships
 
-### Money (6)
+### Money (10)
 
 - [[Amazon]] *documentary licence fee to Melania (OGE)* [[Melania Trump]] · 2025 · $10.71M · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
-- [[Amazon]] *film licensing fee ($10.71M on 2025 OGE report)* [[Melania Trump]] · 2025 · $10.71M · [[C44 Amazon's $40 Million Melania Trump Documentary Deal|C44]]
+- [[Amazon]] *film licence net proceeds ($10.71M, spouse income on the 2025 OGE report)* [[Melania Trump]] · 2025 · $10.71M · [[C44 Amazon's $40 Million Melania Trump Documentary Deal|C44]]
+- [[Amazon MGM Studios]] *film licence net proceeds reported (via MKT World/Designers Manager)* [[Melania Trump]] · 2025 · $10.71M · [[C99 What Each Family Member Has Earned|C99]]
+- [[Designers Manager]] *NFT and collectible licence net proceeds reported* [[Melania Trump]] · 2025 · $6.01M · [[C99 What Each Family Member Has Earned|C99]]
+- [[Designers Manager]] *memoir licence net proceeds reported* [[Melania Trump]] · 2025 · $521.16K · [[C99 What Each Family Member Has Earned|C99]]
 - [[Designers Manager]] *paid >$6M for NFTs/collectibles license in 2025* [[Melania Trump]] · 2025 · $6M · [[C01 The $TRUMP Meme Coin & Who Profited|C01]]
 - [[Designers Manager]] *paid NFT/collectibles licence income* [[Melania Trump]] · 2025 · $6.01M · [[C63 Shell Entities & Ownership Chains|C63]]
 - [[Designers Manager]] *paid NFT/collectibles license income to* [[Melania Trump]] · 2025 · $6.01M · [[C02 The $MELANIA Coin & Melania Trump's NFT Income|C02]]
+- [[Melania (2026 film)]] *net proceeds via MKT World LLC* [[Melania Trump]] · 2025 · $10.71M · [[C96 What Trump's Own Financial Disclosures Report|C96]]
 - [[$MELANIA meme coin]] *with NFTs earned ~$6M for* [[Melania Trump]] · $6M · [[C02 The $MELANIA Coin & Melania Trump's NFT Income|C02]]
 
-### Ownership (2)
+### Ownership (4)
 
 - [[Melania Trump]] *president of* [[MKT World LLC]] · 2021 · [[C63 Shell Entities & Ownership Chains|C63]]
+- [[MKT World LLC]] *spouse business entity* [[Melania Trump]] · 2025 · [[C99 What Each Family Member Has Earned|C99]]
 - [[Melania Trump]] *controls* [[MKT World LLC]] · [[C02 The $MELANIA Coin & Melania Trump's NFT Income|C02]] [[C40 Who Ran the $TRUMP & $MELANIA Launches|C40]]
+- [[Melania Trump]] *owns* [[MKT World LLC]] · [[C97 Crypto Income During the Presidency|C97]]
 
 ### Family (4)
 

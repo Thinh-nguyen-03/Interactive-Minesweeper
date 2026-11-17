@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "Sen. Adam Schiff"
-connections: 13
-claims: 8
+connections: 14
+claims: 9
 tags:
   - "entity"
   - "type/person"
@@ -17,17 +17,17 @@ US senator who led the October 2025 letter on Witkoff's divestment
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 8 checks |
-| Connections | 13 |
+| Appears in | 9 checks |
+| Connections | 14 |
 | Also known as | Sen. Adam Schiff |
 
 ## How Other Checks Describe It
 
+- Senator; co-signed SEC, state AG, Warner and Truth API letters
 - Co-signed July 2026 letter asking the SEC to probe Truth API
 - US senator; led Oct 2025 letter on Witkoff's WLF assets
 - Democratic senator; co-signed the SEC letter.
 - Senator who queried OGE on Witkoff's holdings
-- Senator who co-signed the April 2026 letter
 
 ## Appears in Checks
 
@@ -39,12 +39,14 @@ US senator who led the October 2025 letter on Witkoff's divestment
 - [[C54 The Crypto Revolving Door]] · Mostly accurate
 - [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations]] · Mostly accurate
 - [[C60 Government Equity Stakes in Critical-Minerals Companies]] · Mostly accurate
+- [[C103 Insider-Trading Oversight Requests, Probes & Outcomes]] · Mostly accurate
 
 ## Relationships
 
-### Regulatory (3)
+### Regulatory (4)
 
 - [[Adam Schiff]] *co-signed letter seeking tariff-pause probe* [[Securities and Exchange Commission]] · 2025-04-11 · [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations|C58]]
+- [[Adam Schiff]] *co-signed tariff-pause letter* [[Securities and Exchange Commission]] · 2025-04-11 · [[C103 Insider-Trading Oversight Requests, Probes & Outcomes|C103]]
 - [[Adam Schiff]] *letter on WLF assets* [[Steve Witkoff]] · 2025-10-22 · [[C53 The Witkoff Family's Own Gulf Money|C53]]
 - [[Adam Schiff]] *co-signed oversight letter* [[Fight Fight Fight LLC]] · 2026-04-08 · [[C40 Who Ran the $TRUMP & $MELANIA Launches|C40]]
 
