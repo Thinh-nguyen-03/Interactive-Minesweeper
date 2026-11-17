@@ -21,7 +21,7 @@
     {
       "statement": "In late July 2026 Affinity sold about a quarter of its Phoenix stake for about NIS 1.05B (about $343M) and remains the largest shareholder.",
       "verdict": "confirmed",
-      "finding": "GRADE: documented (Ynet/Calcalist, JNS citing Globes, CNN, Garcia letter). JNS (29 Jul 2026) says the sale took place 'on Tuesday', that is 28 Jul 2026: 2.5% of Phoenix (Calcalist: 2.45%) sold to US institutions through Jefferies at a 4% discount to the morning's price, cutting Affinity from 9.9% to 7.4%, a remaining stake worth about NIS 3.3B (about $1.06B-$1.08B). Ynet/Calcalist adds that the proceeds exceed Affinity's whole NIS 932M outlay, that about NIS 230M of dividends were also received, and that Phoenix's market value rose roughly fivefold since July 2024 (to about NIS 44B). Affinity said it remains a 'substantial long-term shareholder'. CNN and the Garcia letter describe the sale as 'more than five times its initial stock purchase'; that compares the proceeds with the cost of the quarter sold (our arithmetic: about NIS 233M), not with the whole investment. Realised proceeds go to the fund; what share reaches Kushner personally as sole owner of the management company, after fund-level costs and investors' share, is not public. Those 'more than $1 billion' and NIS 3.6B gain figures include unrealised value; do not add them to cash.",
+      "finding": "GRADE: documented (Ynet/Calcalist, JNS citing Globes, CNN, Garcia letter). JNS (29 Jul 2026) says the sale took place 'on Tuesday', that is 28 Jul 2026: 2.5% of Phoenix (Calcalist: 2.45%) sold to US institutions through Jefferies at a 4% discount to the morning's price, cutting Affinity from 9.9% to 7.4%, a remaining stake worth about NIS 3.3B (about $1.06B-$1.08B). Ynet/Calcalist adds that the proceeds exceed Affinity's whole NIS 932M outlay, that about NIS 230M of dividends were also received, and that Phoenix's market value rose roughly fivefold since July 2024 (to about NIS 44B). Affinity said it remains a 'substantial long-term shareholder'. CNN-based coverage and the Garcia letter describe the sale as 'more than five times its initial stock purchase'. The basis is not stated in the sources we read. Our arithmetic gives about 4.5 times for the shares sold (sale price NIS 168.5 a share against NIS 37.50 paid; about NIS 1.05B against about NIS 233M cost of the quarter sold), and Calcalist itself puts the return on the whole position (remaining shares plus dividends) at 'roughly 4.5 times its original cost'. 'More than five times' is therefore not reproduced by the figures; treat it as approximate. Realised proceeds go to the fund; what share reaches Kushner personally as sole owner of the management company, after fund-level costs and investors' share, is not public. Those 'more than $1 billion' and NIS 3.6B gain figures include unrealised value; do not add them to cash.",
       "sources": [
         "https://www.ynetnews.com/business/article/byukn3rsfg",
         "https://jns.org/news/israel-news/kushner-firm-sells-25-of-phoenix-financial-stake",
@@ -147,22 +147,25 @@
     }
   ],
   "corrections": [
-    "Claimed (CNN, Garcia letter): the July 2026 sale was a return of 'more than five times its initial stock purchase'. The record shows: the NIS 1.05B proceeds compare with about NIS 233M, the cost of the quarter sold (our arithmetic); they are about 1.1 times the whole NIS 932M outlay. Both statements hold, but they measure different things.",
+    "Claimed (coverage of CNN's story and the Garcia letter): the July 2026 sale was a return of 'more than five times its initial stock purchase'. The record shows: the NIS 1.05B proceeds are about 4.5 times the cost of the quarter sold (about NIS 233M; sale at NIS 168.5 a share against NIS 37.50 paid, our arithmetic) and about 1.1 times the whole NIS 932M outlay. Calcalist's own multiple, for the whole position (remaining shares plus dividends), is 'roughly 4.5 times'. We could not find the basis of 'more than five times'; use about 4.5 times.",
     "Claimed (CNN): Affinity agreed to buy the Shlomo stake 'for $150 million'. The record shows: $150M (NIS 570M) was the September 2023 signing price at a NIS 3.8B valuation; the deal closed on 1 Feb 2024 at about $110M at a NIS 2.7B valuation (Globes, Calcalist).",
     "Claimed (earlier check C15): CREW 'argues he is at least a special government employee'. The record shows (search excerpts of Bloomberg Law and NBC; complaint not read): the suit, filed 14 Oct 2026 (D.D.C., 26-cv-3580), argues that as chief negotiator he is an official who must file disclosures, and invokes the Appointments Clause; the 'special government employee' wording was not found in the coverage. C15's 'sued in Oct 2026' is right.",
     "Claimed (JNS item and some aggregators): sale 'in January' or dated 27 July. The record shows: the sale was on Tuesday 28 Jul 2026 (JNS of 29 Jul); January 2025 was the second purchase.",
     "Garcia's letter says Affinity is the largest shareholder in 'an Israeli company with more than $456 million invested in nine companies that supply Israel's military'. The record shows: CNN's count is of Phoenix's holdings in a partial set of filings, and Affinity's stake in Phoenix is 7.4% (9.9% before the sale), so Affinity's look-through share of that $456M is a fraction of it (our arithmetic: about 7-10%, about $34M-$45M if the holdings were proportionate; asserted by no source).",
-    "Fee figure for context (C99): the Garcia-Wyden letter of 19 Mar 2026 estimates Affinity collected more than $60M of foreign fees in 2025, including $39M from Saudi Arabia; this is the Democrats' estimate under the fee terms, not a reported receipt."
+    "Fee figure for context (C99): the Garcia-Wyden letter of 19 Mar 2026 estimates Affinity collected more than $60M of foreign fees in 2025, including $39M from Saudi Arabia; this is the Democrats' estimate under the fee terms, not a reported receipt.",
+    "Phoenix stake after the second purchase: this check says 9.9% (2 x 4.95%); Calcalist (29 Jul 2026) says 9.83%. The difference is rounding or share-count timing; the 7.4% remaining stake is stated by both Calcalist and Globes. The 28 Jul sale was to three global institutions, the largest Fidelity Investments (about 1.6%, Calcalist), via Jefferies at NIS 168.5 a share (4% discount)."
   ],
   "denials_and_context": [
-    "Kushner (X, 2 Oct 2026): CNN's story and headline are 'deeply misleading'; Phoenix is 'one of Israel's largest publicly traded financial institutions', not a defence company; the investment pre-dates Trump's re-election and his return to public service; CNN itself says it found no indication his diplomacy affected the investments.",
+    "Kushner (X, 2 Oct 2026): CNN's story and headline are 'deeply misleading'; Phoenix is 'one of Israel's largest publicly traded financial institutions', not a defence company; the investment pre-dates Trump's re-election and his return to public service (true of the first 4.95% bought in July 2024; the option for the second 4.95% was exercised after the Nov 2024 election, with regulator approval on 15 Jan 2025); CNN itself says it found no indication his diplomacy affected the investments.",
     "Kushner's lawyer (to CNN): he has 'never participated in or directed Phoenix's decisions', had 'no involvement' in buying, holding or selling the nine companies and has never been on Phoenix's board; he did speak regularly with Phoenix management, less since his volunteer work grew. CNN says it stands by its reporting.",
     "White House (Anna Kelly): the concerns are a 'tired narrative that Democrats have pushed'; his business 'has nothing to do with his diplomatic engagements, which he conducts on a volunteer basis'. The White House says he draws no salary and pays his own expenses.",
     "Chad Mizelle (Kushner's lawyer, Affinity chief legal officer): ethics lawyers inside and outside government reviewed his volunteer service and found it compliant; the CREW suit is 'without merit' and CREW lacks standing.",
     "Phoenix declined to address CNN's findings; its spokesperson said the group is regulated and that its shareholder value derives mainly from operating performance. Affinity said it is proud to be Phoenix's largest shareholder and expects to remain a long-term holder.",
     "Context: Israeli insurers routinely hold shares of domestic listed companies including defence manufacturers; the filings show Phoenix's holdings, not who decided them. Affinity's voting influence at Phoenix is not documented here; Kushner is not on its board.",
     "Context: an overlap in time is not a cause. The Shlomo and Phoenix purchases (2023-24) pre-date his 2025 envoy role; only the January 2025 block closing, the holding and the July 2026 sale fall in the second term.",
-    "Context: the letters come from minority-party Democrats (Garcia, Wyden, Raskin) without subpoena power; the language of 'criminal', 'on the payroll' and 'pawn' in them is the authors' characterisation. Affinity is a private adviser not required to disclose holdings; Kushner says he is not a federal employee."
+    "Context: the letters come from minority-party Democrats (Garcia, Wyden, Raskin) without subpoena power; the language of 'criminal', 'on the payroll' and 'pawn' in them is the authors' characterisation. Affinity is a private adviser not required to disclose holdings; Kushner says he is not a federal employee.",
+    "Further quoted responses (search excerpts of coverage of CNN's story): Kushner on X, 'I have no role in deciding what Phoenix buys or sells.' His lawyer told CNN that his earlier statement to Forbes (a 'very active dialogue' with Phoenix management, meetings every few weeks) was accurate when made, that he 'regularly spoke with Phoenix management about the company, broader market trends and potential strategic opportunities', that contact is now much less frequent, and that 'any suggestion that Jared's diplomatic work influenced Phoenix's investments in the companies you identify, or vice versa, is incorrect'. The lawyer's exact words come from secondary coverage; CNN's page is paywalled.",
+    "What CNN itself says it did not find (as quoted by Kushner and by Fox News, 2 Oct 2026): 'CNN found no indication that Kushner's actions as a diplomat directly affected the investments reviewed'; the records 'include only a fraction of Phoenix's holdings'; 'Affinity doesn't directly hold a stake in the nine companies'. Nothing in this check says or implies that Kushner profited from the Gaza war or that his diplomacy influenced any investment; those points are unverified."
   ],
   "sources": [
     {
@@ -738,5 +741,51 @@
       ],
       "source_url": "https://news.bloomberglaw.com/us-law-week/white-house-sued-over-kushners-government-work-by-watchdog"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "Shlomo Group: 15%, signed Sept 2023 about $150M (NIS 570M, NIS 3.8B valuation), closed 1 Feb 2024 about $110M (NIS 2.7B valuation), loan of $46.75M: Globes and Calcalist (company-side), plus Jewish Business News of 1 Feb 2024 (search excerpt): two or more independent outlets",
+      "Phoenix: 4.95% in July 2024 (NIS 37.50 a share, about NIS 466M), Israeli Capital Market, Insurance and Savings Authority approval reported 15 Jan 2025 for a further 4.95%, NIS 932M in all: Globes, Bloomberg Law, Reinsurance News/PrivSource (search excerpts): two or more outlets",
+      "28 Jul 2026 sale of 2.5% for about NIS 1.05B ($343M), 7.4% retained, about NIS 230M dividends: Calcalist (read in full), Globes, Ynet, JNS, Latham & Watkins deal note (30 Jul 2026): four outlets plus a law-firm note; Affinity's PR Newswire release located but not readable here",
+      "'More than five times' arithmetic against Calcalist's 'roughly 4.5 times'",
+      "CNN's stated limits (no indication that his diplomacy directly affected the investments; only a fraction of Phoenix's holdings; Affinity holds none of the nine directly) via Fox News (read in full) and Daily Beast/Mediaite excerpts",
+      "Kushner's and his lawyer's quotations; CREW suit wording; no sentence in the files says he profited from the war or that diplomacy influenced investments",
+      "Newer reporting to 17 Nov 2026: nothing new on the investments, replies to the letters or a ruling in the CREW case found"
+    ],
+    "result": "corrected",
+    "changes": [
+      "Replaced the explanation of 'more than five times': the earlier text said it compared the proceeds with the cost of the quarter sold, but that comparison gives about 4.5 times, not more than five, and Calcalist's own multiple is about 4.5 times. The basis of the 'five times' figure is now stated as unreconciled.",
+      "Added that the first Phoenix tranche (July 2024) pre-dates the election but the second (option exercised, approved 15 Jan 2025) came after it, qualifying Kushner's 'pre-dates re-election' statement.",
+      "Added further quoted responses (Kushner on X; lawyer's wording on Forbes comments and on any link between diplomacy and investments) and CNN's own stated limits.",
+      "Added the 9.83% versus 9.9% note and the buyers in the July 2026 sale.",
+      "Grades: figures for Shlomo, Phoenix purchases and the July 2026 sale now have two or more independent outlets. The Saudi approval of the Shlomo deal stays single-source (Globes). TASE filings were not readable; the CREW complaint was not read.",
+      "No change to verdict or confidence."
+    ],
+    "new_sources": [
+      {
+        "title": "Affinity Partners Brings Leading Global Investors into Phoenix, Remains Largest Shareholder",
+        "publisher": "PR Newswire (Affinity Partners)",
+        "url": "https://www.prnewswire.com/news-releases/affinity-partners-brings-leading-global-investors-into-phoenix-remains-largest-shareholder-with-a-significant-long-term-ownership-position-302835732.html",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "Latham advises on Affinity Partners sale of stake in Phoenix Financial",
+        "publisher": "Latham & Watkins",
+        "url": "https://www.lw.com/en/news/2026/07/latham-advises-on-affinity-partners-sale-of-stake-in-phoenix-financial",
+        "date": "2026-07-30"
+      },
+      {
+        "title": "Kushner's Affinity Gets Nod to Double Stake in Israel's Phoenix",
+        "publisher": "Bloomberg Law",
+        "url": "https://news.bloomberglaw.com/mergers-and-acquisitions/kushners-affinity-gets-nod-to-double-stake-in-israels-phoenix",
+        "date": "2025-01-15"
+      },
+      {
+        "title": "Jared Kushner scolds CNN over 'deeply misleading' report",
+        "publisher": "Fox News",
+        "url": "https://www.foxnews.com/media/jared-kushner-scolds-cnn-deeply-misleading-report-says-key-info-buried-paywall.print",
+        "date": "2026-10-02"
+      }
+    ]
+  }
 }

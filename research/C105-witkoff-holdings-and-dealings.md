@@ -9,6 +9,7 @@
 Most of the record is documented in his own disclosure filings, which were read in full:
 
 - **Status.** He was Special Envoy to the Middle East at the State Department from January to June 2025. Since 30 June 2025 he has been a full ("Non-Career") White House appointee: Assistant to the President and Special Envoy for Peace Missions. That he was a special government employee (SGE) in the first period is reported by watchdogs but is not stated in any document we found.
+- **Board of Peace.** The White House statement of 16 Jan 2026 lists him on two bodies: the founding Executive Board and the Gaza Executive Board (added 2026-11-17). The 2025 278e covers calendar 2025, so it does not show these seats; no pay for them was found.
 - **Filings.**
   - His new-entrant OGE Form 278e was signed on 13 August 2025 and published around 13 September.
   - It was certified by the White House ethics official only on 12 December 2025, after senators complained, and was corrected at that time to add the State post.

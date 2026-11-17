@@ -31,6 +31,7 @@ The 2025 OGE 278e (read in full; text searched for Israel, Tel Aviv, Jerusalem, 
 
 ### 4. XTEND: confirmed (investment); contract link inferred only
 - Documented: investor list, $152M commitments ($42M at signing), $1.5B implied value, close 3 Sep 2026 with $110M total capital, NYSE listing; Dominari Securities as JFB's placement agent.
+- Audit: the commitments and announcement are confirmed by further outlets (Globes, Al Jazeera, JNS). Capital at closing is reported differently ($152M Globes; $100M IntelliNews; $110M one trade report), so treat it as unreconciled. The company release names Eric Trump a strategic investor, but XTEND's CEO told DroneXL (3 Sep 2026) that he is "not a direct investor in XTEND and holds no board seat" and his exposure runs through American Ventures.
 - Single-source: Bloomberg's estimate that American Ventures' XTEND stake is about $340M (of about $750M across three drone firms). Eric Trump's own amount was not found.
 - Contract: Nov 2025 undisclosed multi-million DoD award; Drone Dominance participant; XTEND was not in Gauntlet I (Bloomberg via DroneXL). Reported Israeli Ministry of Defense partnership and a March 2026 fabrication request.
 - Responses: Unusual Machines and Don Jr.'s representatives said he played no role in its Army award; XTEND did not respond to Al Jazeera.
@@ -49,6 +50,9 @@ Eric: Feb 2023 scouting trip and June 2025 statement. Don Jr.: nothing found.
 
 ### 9. Policy motive: unverified
 Timing overlaps (Sarona talks weeks before June 2025 strikes; XTEND investment 11 days before the 28 Feb 2026 strikes) are not evidence of cause. Snopes could not establish what the brothers knew.
+
+## Audit (17 Nov 2026): corrected
+Verified: 17 Feb 2026 announcement; close and NYSE listing on 3-4 Sep 2026 (Globes, Calcalist, DroneXL); Nov 2025 Pentagon award predating the investment; hotel talks and Eric Trump's June 2025 statement (Yeshiva World News, NZ Herald and others relaying the NYT). Changed: direct-versus-indirect holding of Eric Trump; capital figures flagged unreconciled. Re-ran the nothing-found searches (Trump Organization, WLF, Trump Media, Don Jr. with Israel): nothing new; absence of evidence only. The $340M stake estimate stays single-source (Bloomberg via DroneXL). The SEC exhibit was not readable here.
 
 ## Corrections for older checks
 - Globes 2017 calls Trump a co-buyer of the Ramat Gan lot; Globes 2008 and Ynet show him as name licensor. We treat him as licensor.

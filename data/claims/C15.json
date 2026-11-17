@@ -8,7 +8,7 @@
     {
       "statement": "Trump has called Kushner the 'peace envoy'.",
       "verdict": "confirmed",
-      "finding": "At the first Board of Peace meeting on 19 Feb 2026, Trump said 'We're making Jared an envoy also, envoy of peace.' The White House then said the role would not be official.",
+      "finding": "At the first Board of Peace meeting on 19 Feb 2026, Trump said 'We're making Jared an envoy also, envoy of peace.' The White House then said the role would not be official. Kushner sits on both Board of Peace executive boards: the founding Executive Board and the Gaza Executive Board, per the White House statement of 16 Jan 2026 (read in full in C112); Witkoff holds the same two seats.",
       "sources": [
         "https://justthenews.com/politics-policy/trump-names-kushner-envoy-peace",
         "https://www.aol.com/articles/trump-says-son-law-kushner-152430541.html",
@@ -56,7 +56,7 @@
     {
       "statement": "Because he holds no official title, Kushner is not subject to divestment requirements and does not have to file financial disclosures.",
       "verdict": "partly-accurate",
-      "finding": "He has filed no disclosure and has not divested. 'Not subject to' is the White House position. CREW argues he is at least a special government employee who must file, and it sued in Oct 2026. Kushner's lawyer Chad Mizelle says ethics attorneys found his arrangements compliant. No ruling yet.",
+      "finding": "He has filed no disclosure and has not divested. 'Not subject to' is the White House position. CREW sued on about 14 Oct 2026 (D.D.C.), arguing under the Appointments Clause that he exercises government power without Senate confirmation and, in the alternative, that the power was unlawfully delegated to a private citizen; it asks the court to order financial-disclosure filings and, if it finds a violation, to bar him from continued service. Coverage of the complaint does not use the term 'special government employee' (complaint itself not read). Kushner's lawyer Chad Mizelle says ethics attorneys found his arrangements compliant. No ruling yet.",
       "sources": [
         "https://www.citizensforethics.org/news/press-releases/crew-statement-on-jared-kushners-role-as-special-peace-envoy",
         "https://www.nbcnewyork.com/news/national-international/crew-lawsuit-trump-administration-jared-kushner/6559505/",
@@ -76,7 +76,8 @@
   "corrections": [
     "Claimed: PIF is 'one of his biggest investors'. The record shows: it is Affinity's largest single investor ($2B, 2021). QIA and Lunate are also investors (about $1.5B, Dec 2024).",
     "Claimed: he is 'not subject to divestment requirements' and need not file disclosures. The record shows: that is the White House's position, which CREW contests in litigation filed Oct 2026, and no court has ruled.",
-    "The $5B was a fundraising effort reported by the NYT (March 2026), not a completed raise; headlines saying 'raised $5B' overstate it."
+    "The $5B was a fundraising effort reported by the NYT (March 2026), not a completed raise; headlines saying 'raised $5B' overstate it.",
+    "2026-11-17: Kushner's Board of Peace role: he is a member of both the founding Executive Board and the Gaza Executive Board (White House statement, 16 Jan 2026), not one board. The description of CREW's suit is corrected: the complaint is framed around the Appointments Clause (with a non-delegation alternative) and disclosure filings; the phrase 'special government employee' was not found in coverage of the complaint, so it is no longer attributed to CREW."
   ],
   "denials_and_context": [
     "White House: Kushner is a volunteer, serves in no official capacity, takes no salary and pays his own expenses.",
@@ -471,11 +472,13 @@
     "checked": [
       "CREW sued in Oct 2026 arguing Kushner must file disclosures; status of that suit",
       "Affinity's Form ADV (22 Mar 2026): about $6.16B in regulatory AUM, about 99% from non-US clients",
-      "Kushner's lawyer's response that his arrangements are ethics-compliant"
+      "Kushner's lawyer's response that his arrangements are ethics-compliant",
+      "2026-11-17 re-check: Board of Peace seats (White House, 16 Jan 2026) and wording of CREW's claims (Bloomberg Law, AP, NBC, IBTimes, CTV excerpts)"
     ],
-    "result": "upheld",
+    "result": "corrected",
     "changes": [
-      "No factual changes. The CREW suit (filed about 14-15 Oct 2026) is confirmed. It also brings an Appointments Clause claim, seeks his removal or at least disclosure filings, and names Susie Wiles, Marco Rubio and Pete Hegseth in their official capacities. I found no ruling as of mid-Nov 2026. The Form ADV figures and Chad Mizelle's response match. Bloomberg's prior filings showed $4.8B for 2024 and $3B for 2023."
+      "No factual changes. The CREW suit (filed about 14-15 Oct 2026) is confirmed. It also brings an Appointments Clause claim, seeks his removal or at least disclosure filings, and names Susie Wiles, Marco Rubio and Pete Hegseth in their official capacities. I found no ruling as of mid-Nov 2026. The Form ADV figures and Chad Mizelle's response match. Bloomberg's prior filings showed $4.8B for 2024 and $3B for 2023.",
+      "2026-11-17: corrected the CREW description (Appointments Clause and disclosure; no 'special government employee' wording found in coverage; complaint not read) and added that Kushner sits on both Board of Peace executive boards. No change to verdict."
     ],
     "new_sources": [
       {

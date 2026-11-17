@@ -3,7 +3,7 @@
  "title": "Trump Family & Associates: Business in Israel",
  "verdict": "partly-accurate",
  "confidence": "medium",
- "summary": "Documented: the Trump name was licensed for an abandoned Ramat Gan tower (2006-08); Eric Trump led preliminary hotel talks with Israeli developer Nitsba in 2023 and spring 2025 (nothing signed, he said 'no plans at this time'); and in Feb 2026 Eric Trump became a strategic investor in the merger of Israeli drone maker XTEND with JFB Construction (closed 3 Sep 2026), alongside Unusual Machines, which Donald Trump Jr. advises. XTEND's Nov 2025 Pentagon contract predates his investment, and no influence on any award is documented. Trump's 2025 disclosure shows no Israeli entity or income, only Israeli trademark registrations. Nothing was found for Israeli buyers in World Liberty, Trump Media or American Bitcoin, for Witkoff or his family, for Don Jr. visits or statements, or for Cantor, 1789 Capital or Dominari deals with Israeli firms.",
+ "summary": "Documented: the Trump name was licensed for an abandoned Ramat Gan tower (2006-08); Eric Trump led preliminary hotel talks with Israeli developer Nitsba in 2023 and spring 2025 (nothing signed, he said 'no plans at this time'); and in Feb 2026 Eric Trump became a strategic investor in the merger of Israeli drone maker XTEND with JFB Construction (closed 3 Sep 2026), alongside Unusual Machines, which Donald Trump Jr. advises. XTEND's Nov 2025 Pentagon contract predates his investment, and no influence on any award is documented. Trump's 2025 disclosure shows no Israeli entity or income, only Israeli trademark registrations. Nothing was found for Israeli buyers in World Liberty, Trump Media or American Bitcoin, for Witkoff or his family, for Don Jr. visits or statements, or for Cantor, 1789 Capital or Dominari deals with Israeli firms. Audit note: XTEND's CEO says Eric Trump holds his interest through American Ventures, not directly, and has no board seat; reports differ on how much capital was raised at closing.",
  "sub_claims": [
   {
    "statement": "Trump Organization / Trump family licensing or development projects in Israel have existed, but none has been built or has paid Trump.",
@@ -34,7 +34,7 @@
   {
    "statement": "Eric Trump invested in Israeli drone maker XTEND in its $1.5B merger with JFB Construction Holdings (announced 17 Feb 2026), alongside Unusual Machines, which Donald Trump Jr. advises.",
    "verdict": "confirmed",
-   "finding": "Grade: documented. The JFB/XTEND press release (SEC Exhibit 99.1) names Eric Trump as a strategic investor alongside Unusual Machines, American Ventures, Protego Ventures (described as Israel-based), Aliya Capital and Agostinelli Group; reported commitments of $152M with $42M funded at signing; implied valuation $1.5B; Stefan Passantino (first-term deputy White House counsel) joined JFB's board (Manufacturing Dive, read in full; Snopes, read in full). XTEND is Tel Aviv-based; it opened a US headquarters in Tampa in July 2025. Bloomberg (via DroneXL, read in full) estimates the stake held through American Ventures, a vehicle listing Donald Jr. and Eric as backers, at about $340M of an overall roughly $750M paper portfolio across XTEND, Powerus and Unusual Machines; this is a single-outlet estimate and Eric Trump's own dollar amount was not found. The merger closed on 3 Sep 2026 (Pulse 2.0, read in full) with $110M total capital, listing on the NYSE as XTND on 4 Sep, Dominari Securities as JFB's placement agent. Eric Trump has said he believes drones are a better investment than newspapers. XTEND did not respond to Al Jazeera's request for comment; no response from the Trump family on conflicts was found beyond that.",
+   "finding": "Grade: documented. The JFB/XTEND press release (SEC Exhibit 99.1) names Eric Trump as a strategic investor alongside Unusual Machines, American Ventures, Protego Ventures (described as Israel-based), Aliya Capital and Agostinelli Group; reported commitments of $152M with $42M funded at signing; implied valuation $1.5B; Stefan Passantino (first-term deputy White House counsel) joined JFB's board (Manufacturing Dive, read in full; Snopes, read in full). XTEND is Tel Aviv-based; it opened a US headquarters in Tampa in July 2025. Bloomberg (via DroneXL, read in full) estimates the stake held through American Ventures, a vehicle listing Donald Jr. and Eric as backers, at about $340M of an overall roughly $750M paper portfolio across XTEND, Powerus and Unusual Machines; this is a single-outlet estimate and Eric Trump's own dollar amount was not found. The merger closed on 3 Sep 2026 (Pulse 2.0, read in full) with $110M total capital, listing on the NYSE as XTND on 4 Sep, Dominari Securities as JFB's placement agent. Eric Trump has said he believes drones are a better investment than newspapers. XTEND did not respond to Al Jazeera's request for comment; no response from the Trump family on conflicts was found beyond that. Audit additions (17 Nov 2026): the 17 Feb 2026 announcement and the $152M commitments ($42M at signing) are confirmed by a second outlet (Globes, Al Jazeera, JNS excerpts; the SEC exhibit itself was not readable). Details disputed between outlets: IntelliNews says the private investment was cut from $152M to $100M while Globes still cites $152M, and the $110M total capital is from one trade report; treat the amounts at closing as unreconciled. Investor names vary in spelling between outlets (Aliya or Alaya Capital). Eric Trump's role: the company's February release names him as a strategic investor, but XTEND's CEO told DroneXL (3 Sep 2026) that Eric Trump 'is not a direct investor in XTEND and holds no board seat', that his exposure runs through American Ventures, and that there is 'no connection' between XTEND and Eric Trump beyond a meeting during due diligence; the stake estimate of about $340M (Bloomberg) is a single-source estimate of paper value, not a disclosed amount. The merger closing (3 Sep 2026) and NYSE trading (4 Sep, ticker XTND) are confirmed by Globes, Calcalist and DroneXL.",
    "sources": [
     "https://www.sec.gov/Archives/edgar/data/2024306/000149315226006957/ex99-1.htm",
     "https://www.manufacturingdive.com/news/eric-trump-15-billion-jfb-xtend-ai-merger-construction-drone-defense/812526/",
@@ -96,7 +96,8 @@
  "corrections": [
   "Globes (2017) describes the 2006 Ramat Gan buyers as 'Crescent Heights and the Trump group'; Globes (2008) and Ynet describe Trump as the name licensor (25% of unit sales) who sued Crescent Heights after it flipped the lot. We treat Trump as licensor, not buyer or owner of the site; the sources conflict.",
   "C105's statement that no Saudi or Israeli dealing was found for Witkoff stands; this check also found none.",
-  "C98's foreign licensing total ($63.1M) contains no Israeli line; the Israeli trademark registrations in the same filing carry no income."
+  "C98's foreign licensing total ($63.1M) contains no Israeli line; the Israeli trademark registrations in the same filing carry no income.",
+  "Claimed: Eric Trump is a direct investor in XTEND. The record shows: the company's February 2026 release names him as a strategic investor; XTEND's CEO says (3 Sep 2026) he is not a direct investor and his exposure is through American Ventures. Capital at closing is reported as $152M (Globes), $110M or $100M (other reports)."
  ],
  "denials_and_context": [
   "Eric Trump (to the Times, June 2025): 'Israel has always been a market we would love to explore, but we have no plans at this time, and any discussions have been strictly preliminary.' In Oct 2024 he said the deal 'absolutely would have gotten done if not for Oct. 7'.",
@@ -537,5 +538,54 @@
    ],
    "source_url": "https://www.washingtonexaminer.com/policy/technology/4363919/musk-netanyahu-israel-global-ai-leader/"
   }
- ]
+ ],
+ "audit": {
+  "checked": [
+   "XTEND: 17 Feb 2026 announcement, Eric Trump named strategic investor, $1.5B implied value, $152M commitments with $42M at signing, co-investors, closing 3 Sep 2026 and NYSE listing: JFB/XTEND release as reported by Manufacturing Dive (read in full), Globes, Calcalist, Al Jazeera, JNS, DroneXL, IntelliNews; the SEC exhibit and Barchart copy were not read",
+   "Nov 2025 Pentagon contract predating the Feb 2026 investment: Manufacturing Dive (read in full) and DroneXL; the amount is undisclosed",
+   "Hotel talks (Jerusalem, Sarona) and Eric Trump's June 2025 statement 'we have no plans at this time and any discussions have been strictly preliminary': Yeshiva World News (read in full), NZ Herald, JFeed, Benzinga, Newser, all relaying the NYT",
+   "Nothing-found items, re-run: searched 'Trump Organization OR World Liberty Financial OR Trump Media Israel investment deal Israeli company 2026 Don Jr. Israel business'; results returned only the XTEND deal and the Sarona talks, nothing for Don Jr. travel or business in Israel, World Liberty Financial or Trump Media; also searched the hotel talks' status (no later news)",
+   "Stake-size estimate (about $340M): single-source (Bloomberg via DroneXL)",
+   "Newer reporting to 17 Nov 2026: XTEND closed and listed in early Sept; DroneXL interview of 3 Sep; no later Trump-family Israel item found"
+  ],
+  "result": "corrected",
+  "changes": [
+   "Added the CEO's statement that Eric Trump is not a direct investor and holds no board seat (stake through American Ventures), and a correction for the direct-investor reading.",
+   "Flagged unreconciled capital figures at closing ($152M, $110M, $100M).",
+   "Confirmed the hotel-talk reporting by additional outlets and re-ran the nothing-found searches (nothing found; Don Jr., WLF and Trump Media remain absence of evidence, not proof). Stake estimate stays single-source.",
+   "No change to verdict or confidence."
+  ],
+  "new_sources": [
+   {
+    "title": "XTEND starts trading on NYSE this week at $1.5b valuation",
+    "publisher": "Globes",
+    "url": "https://en.globes.co.il/en/article-1001554052",
+    "date": "2026-09"
+   },
+   {
+    "title": "Israeli defence tech XTEND to begin trading on NYSE following $1.5bn merger",
+    "publisher": "bne IntelliNews",
+    "url": "https://www.intellinews.com/israeli-defence-tech-xtend-to-begin-trading-on-nyse-following-1-5bn-merger-465497/",
+    "date": "2026-09"
+   },
+   {
+    "title": "XTEND Shapira interview, NYSE and Gauntlet II",
+    "publisher": "DroneXL",
+    "url": "https://dronexl.co/2026/09/03/xtend-shapira-interview-nyse-gauntlet-ii/",
+    "date": "2026-09-03"
+   },
+   {
+    "title": "US president's son Eric Trump invests in drone maker with gov't contracts",
+    "publisher": "Al Jazeera",
+    "url": "https://www.aljazeera.com/economy/2026/2/17/us-presidents-son-eric-trump-invests-in-drone-maker-with-govt-contracts",
+    "date": "2026-02-17"
+   },
+   {
+    "title": "The Trump Organisation eyes hotel deals in Israel",
+    "publisher": "NZ Herald (relaying NYT)",
+    "url": "https://nzherald.co.nz/world/the-trump-organisation-eyes-hotel-deals-in-israel/3E6G4NVW2JAEJAX6QZECNRQNKM",
+    "date": "2025-06"
+   }
+  ]
+ }
 }

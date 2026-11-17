@@ -13,7 +13,7 @@
 
 ## Evidence, sub-claim by sub-claim
 
-1. **Trump called him "peace envoy." Confirmed.** At the first Board of Peace meeting on 19 Feb 2026, Trump said: "We're making Jared an envoy also, envoy of peace" (Just the News, AOL/Hill coverage). The White House then told NewsNation the role would not be official. Kushner also sits on the executive board of the Gaza "Board of Peace," announced in January 2026 (Al-Monitor).
+1. **Trump called him "peace envoy." Confirmed.** At the first Board of Peace meeting on 19 Feb 2026, Trump said: "We're making Jared an envoy also, envoy of peace" (Just the News, AOL/Hill coverage). The White House then told NewsNation the role would not be official. Kushner also sits on both executive boards of the Gaza "Board of Peace" (the founding Executive Board and the Gaza Executive Board), announced by the White House on 16 Jan 2026.
 
 2. **He works alongside Witkoff in an unofficial capacity. Confirmed.** The AP, NBC and Bloomberg Law all report that he has no formal title and no Senate confirmation. He has worked with Witkoff on Gaza and Iran talks (including Geneva) and on Russia-Ukraine. The White House says he is "a volunteer and not serving in any official capacity," pays his own expenses and draws no salary. Witkoff, by contrast, is a formal employee and filed a public financial disclosure.
 
@@ -23,7 +23,7 @@
 
 5. **Saudi PIF put in $2B. Confirmed.** The PIF committed $2B in mid-2021, a few months after Kushner left the White House. The NYT reported in 2022 that the PIF's screening panel objected on 30 Jun 2021, citing "public relations risks" and the "inexperience" of Affinity's management, and that the board chaired by Crown Prince Mohammed bin Salman overruled it. Correction: the PIF is often called "one of his biggest investors"; it is the **largest** (per Wyden's Senate Finance letter). Other Gulf money is already in: Qatar Investment Authority and Abu Dhabi's Lunate added about $1.5B in Dec 2024 (Bloomberg).
 
-6. **No official title, so no divestment or financial disclosure. Partly accurate.** It is true that Kushner has filed no financial disclosure and has not divested. "Not subject to" those rules is the White House's legal position, not settled law. CREW argues that the "special envoy for peace" designation and his continuing duties make him at least a special government employee, which would require a public disclosure within 30 days. In October 2026 CREW sued to bar him from the role without Senate confirmation. The suit names Witkoff, Wiles, Rubio and Hegseth in their official capacities. Kushner's lawyer, Chad Mizelle, calls the suit "without merit." He says outside and government ethics attorneys reviewed Kushner's "volunteer government service" and found it compliant. No ruling was found.
+6. **No official title, so no divestment or financial disclosure. Partly accurate.** It is true that Kushner has filed no financial disclosure and has not divested. "Not subject to" those rules is the White House's legal position, not settled law. In October 2026 CREW sued, arguing under the Appointments Clause that he exercises government power without Senate confirmation (with an alternative claim that the power was unlawfully delegated to a private citizen) and asking the court to order disclosure filings and, if it finds a violation, to bar him from continued service. Coverage of the complaint does not use the term "special government employee"; we did not read the complaint itself. The suit names Witkoff, Wiles, Rubio and Hegseth in their official capacities. Kushner's lawyer, Chad Mizelle, calls the suit "without merit." He says outside and government ethics attorneys reviewed Kushner's "volunteer government service" and found it compliant. No ruling was found.
 
 7. **Conflict-of-interest insinuation. Unverified (opinion/insinuation).** The documented fact is that Kushner sought Gulf sovereign money while negotiating for the US in that region. Senator Wyden and Rep. Garcia opened a formal inquiry into this on 19 Mar 2026. No public evidence shows he argued for his own financial interests in any specific meeting. Framing this as an open question is fair. It is not a proven fact.
 
@@ -63,3 +63,7 @@
 18. Wikipedia, "Affinity Partners" (background). https://en.wikipedia.org/wiki/Affinity_Partners
 
 Method note: direct page fetches were blocked in this session, so this report rests on search-result extracts from the pages above. The original NYT articles could not be read directly; their content is taken from consistent secondary summaries (Mediaite, Axios, the House Oversight letter).
+
+
+## Correction (2026-11-17)
+Board of Peace seats: both executive boards (White House, 16 Jan 2026). CREW suit: described by its Appointments Clause and disclosure claims; the "special government employee" wording is not found in coverage and is no longer attributed to CREW.
