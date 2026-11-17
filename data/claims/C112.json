@@ -1,0 +1,258 @@
+{
+  "id": "C112",
+  "title": "Gaza Reconstruction, the Board of Peace & Who Is Involved",
+  "verdict": "partly-accurate",
+  "confidence": "medium",
+  "summary": "The plans are documented in order: Trump's 4 Feb 2025 'Riviera of the Middle East' remarks, the 29 Sep 2025 20-point plan, the ceasefire of 10 Oct 2025, UN Security Council resolution 2803 (17 Nov 2025, 13-0, China and Russia abstaining) and the Board of Peace, whose charter Trump ratified at Davos on 22 Jan 2026 with himself as chairman. Named insiders have documented roles: Kushner and Witkoff sit on both executive boards, with Tony Blair, Marc Rowan (Apollo), Ajay Banga, Marco Rubio, Robert Gabriel and, on the Gaza board, the developer Yakir Gabay. No firm owned by or tied to the Trump family has been documented with a contract, commitment or stated financial interest in Gaza reconstruction, and none of the leaked or presented plans is a signed commitment. Pledges of about $17B (US $10B, nine states $7B) were announced on 19 Feb 2026, but the World Bank account had received nothing by late May 2026 according to the FT; some donations went to a JPMorgan account the board controls. The only construction award found is a provisional August 2026 contract to Louisiana firm Arkel International for a small military outpost, frozen because Israel has not admitted contractors. Conflict-of-interest concerns about Kushner's Affinity Partners, Rowan and others rest on indirect holdings and Gulf investor overlap, are reported by the Telegraph and others, and are denied by the board; no authority has made a finding.",
+  "sub_claims": [
+    {
+      "statement": "On 4 Feb 2025 Trump said the US would 'take over' Gaza, 'own it' and make it the 'Riviera of the Middle East'.",
+      "verdict": "confirmed",
+      "finding": "Grade: documented (official record of the remarks, American Presidency Project, text read). At the joint press conference with Netanyahu, Trump said 'The U.S. will take over the Gaza Strip, and we will do a job with it too. We'll own it and be responsible for dismantling all of the dangerous unexploded bombs'; he foresaw 'a long-term ownership position' and, asked where residents would go, said 'the Riviera of the Middle East. This could be so magnificent.' This was a spoken proposal: no document, funding or contract followed it. Reporting at the time says Press Secretary Leavitt then said Trump was not committing US money to reconstruction and that no US troops were planned (search excerpt, Fortune; not read).",
+      "sources": [
+        "https://www.presidency.ucsb.edu/documents/the-presidents-news-conference-with-prime-minister-benjamin-netanyahu-israel-0",
+        "https://www.axios.com/2025/02/05/trump-gaza-takeover-palestinians-israel",
+        "https://fortune.com/2025/02/05/trump-riviera-middle-east-gaza-palestine-israel-rubio-leavitt/"
+      ]
+    },
+    {
+      "statement": "The 29 Sep 2025 20-point plan created a Trump-chaired 'Board of Peace', and the UN Security Council endorsed it in Resolution 2803.",
+      "verdict": "confirmed",
+      "finding": "Grade: documented. The White House released the 20-point 'Comprehensive Plan to End the Gaza Conflict' on 29 Sep 2025; its governance point (as quoted by outlets reproducing the text; the whitehouse.gov page was not retrievable) places Gaza under a technocratic Palestinian committee supervised by a Board of Peace chaired by Trump, with Tony Blair named, which 'will set the framework and handle the funding for the redevelopment of Gaza'. A ceasefire took effect on 10 Oct 2025. The Security Council adopted resolution 2803 on 17 Nov 2025 by 13 votes to none with China and Russia abstaining; UN press coverage says the Board and the authorised international stabilisation force run to 31 Dec 2027 (the resolution text itself could not be opened here, so wording is from UN press and the White House statement of 16 Jan 2026, which says the resolution 'endorsed' the plan and 'welcomed the establishment of the Board of Peace'). The Board's own charter, unpublished at the time of the vote, does not mention Gaza (Carnegie).",
+      "sources": [
+        "https://www.whitehouse.gov/briefings-statements/2026/01/statement-on-president-trumps-comprehensive-plan-to-end-the-gaza-conflict/",
+        "https://www.jns.org/israel-news/full-text-trumps-comprehensive-plan-to-end-the-gaza-conflict",
+        "https://press.un.org/en/2025/sc16225.doc.htm",
+        "https://carnegieendowment.org/research/2026/03/the-board-of-peace-and-funding-for-gaza-reconstruction-on-whose-account"
+      ]
+    },
+    {
+      "statement": "The Board of Peace is chaired by Trump and its executive boards include Kushner, Witkoff, Blair, Rowan and others, with a mandate that goes beyond Gaza.",
+      "verdict": "confirmed",
+      "finding": "Grade: documented. White House statement of 16 Jan 2026 (read in full): founding Executive Board Marco Rubio, Steve Witkoff, Jared Kushner, Sir Tony Blair, Marc Rowan, Ajay Banga, Robert Gabriel; Aryeh Lightstone and Josh Gruenbaum named senior advisers 'leading day-to-day strategy and operations'; Nickolay Mladenov High Representative for Gaza; Maj. Gen. Jasper Jeffers commander of the stabilisation force; a Gaza Executive Board of Witkoff, Kushner, Hakan Fidan, Ali Al-Thawadi, Hassan Rashad, Blair, Rowan, Reem Al-Hashimy, Mladenov, Yakir Gabay and Sigrid Kaag; the Palestinian technocratic committee (NCAG) led by Ali Shaath. Trump ratified the charter in Davos on 22 Jan 2026 (White House release). Carnegie reads the charter as vesting authority over agenda, subsidiary bodies, the Executive Board and budgets in Trump in his personal capacity, with an indefinite term; permanent membership for states contributing $1B in the first year is reported (AP via PBS, citing an unnamed US official). Criticism of the charter came from the UK, France, Germany, Italy and Sen. Markey (Carnegie).",
+      "sources": [
+        "https://www.whitehouse.gov/briefings-statements/2026/01/statement-on-president-trumps-comprehensive-plan-to-end-the-gaza-conflict/",
+        "https://www.whitehouse.gov/briefings-statements/2026/01/president-trump-ratifies-board-of-peace-in-historic-ceremony-opening-path-to-hope-and-dignity-for-gazans/",
+        "https://carnegieendowment.org/research/2026/03/the-board-of-peace-and-funding-for-gaza-reconstruction-on-whose-account",
+        "https://www.pbs.org/newshour/world/1-billion-contribution-secures-permanent-seat-on-trumps-board-of-peace"
+      ]
+    },
+    {
+      "statement": "About $17 billion has been pledged to the Board of Peace and it is held in a World Bank account.",
+      "verdict": "partly-accurate",
+      "finding": "Grade: announcement documented; delivery and custody reported by the FT and disputed in part. At the first meeting on 19 Feb 2026 Trump announced $10B from the US (unspecified use) and about $7B from nine states (Kazakhstan, Azerbaijan, UAE, Morocco, Bahrain, Qatar, Saudi Arabia, Uzbekistan, Kuwait); a US official said the nine-state pledges were voluntary. The Intercept says Board documents show only eight formal pledges (single source, search excerpt). The FT reported (27 May 2026, five sources with direct knowledge; relayed by NPR on 1 June) that the World Bank-administered account had received nothing, including from the US, while donations from the UAE and Morocco, and possibly private donors, went to a JPMorgan account to which the board has direct access with no reporting requirement; none of the money was spent inside Gaza. The Board of Peace replied that the World Bank fund is 'one of many funding mechanisms' not yet used because Gaza has not reached the reconstruction phase, and that donors chose the JPMorgan account. A separate report says the State Department plans to redirect about $1.2B of aid toward the board's goals (search excerpt, unverified). A Board of Peace six-month roadmap of $2.45B was proposed in Sept 2026 (search excerpt). No public accounting of receipts or disbursements was found.",
+      "sources": [
+        "https://www.npr.org/2026/06/01/nx-s1-5837603/funds-for-trumps-board-of-peace-arent-in-world-bank-account-so-where-are-they",
+        "https://www.arabnews.com/node/2645143/middle-east",
+        "https://www.middleeasteye.net/news/board-peace-members-commit-7bn-gaza-relief-us-adding-further-10bn",
+        "https://theintercept.com/2026/03/02/trump-board-peace-human-right-abuses/",
+        "https://www.local10.com/news/world/2026/09/23/trumps-board-of-peace-proposes-245-billion-blueprint-to-begin-gaza-reconstruction/"
+      ]
+    },
+    {
+      "statement": "A leaked 'GREAT Trust' prospectus proposed a US-led trusteeship and 'Trump Riviera' redevelopment of Gaza, and it became policy.",
+      "verdict": "partly-accurate",
+      "finding": "Grade: document documented (a 38-page deck, read from a public mirror); authorship and official status single-source or disputed. The deck, 'The GREAT Trust' (Gaza Reconstitution, Economic Acceleration and Transformation), proposes a US-led custodianship, $70B-$100B public investment drawing $35B-$65B private, a land-trust and tokenisation model, a '$5K/person' relocation package and 'The Elon Musk Smart Manufacturing Zone', 'The American Data Safe Haven' and 'Gaza Trump Riviera & Islands' as named projects; those labels are concept names, not contracts or Trump Organization commitments. Outlets citing the Washington Post (31 Aug 2025) say it was prepared by Israeli businessmen including Michael Eisenberg and Liran Tancman, who were involved in setting up the Gaza Humanitarian Foundation, with financial modelling by Boston Consulting Group staff. BCG said it fired two partners (Matt Schlueter, Ryan Ordway) on 4 June 2025 over unauthorised work on the GHF project, said it had not been and would not be paid, and later said the modelling was unauthorised. The Tony Blair Institute said staff joined planning calls but that it never authored or endorsed relocation. The White House described a 27 Aug 2025 Trump meeting with Blair and Kushner as 'simply a policy meeting'. Several firms named in a Gaza plan reportedly denied involvement (search excerpt; it is not clear that this refers to this deck). The 20-point plan, per outlets reproducing it, says no one will be forced to leave; the later Kushner-Witkoff and Board decks are separate documents, and no relocation payment appears in the coverage of them that was read.",
+      "sources": [
+        "https://www.protagon.gr/wp-content/uploads/2025/08/TheGREATTrust.pdf",
+        "https://www.middleeasteye.net/news/four-takeaways-plan-trying-bring-trump-gaza-riviera-life",
+        "https://www.newarab.com/news/two-bcg-execs-lose-roles-over-gaza-displacement-plan",
+        "https://www.consultancy-me.com/news/10991/boston-consulting-group-under-fire-for-role-in-the-gaza-humanitarian-foundation",
+        "https://today.lorientlejour.com/article/1468320/tony-blair-institute-involved-in-controversial-gaza-reconstruction-project.html"
+      ]
+    },
+    {
+      "statement": "Kushner and Witkoff drafted reconstruction proposals ('Project Sunrise', $112B; the 'New Gaza' master plan shown at Davos) that favour real-estate development.",
+      "verdict": "confirmed",
+      "finding": "Grade: documented as proposals, not commitments. The Wall Street Journal (reported 23 Dec 2025) described a 32-slide 'sensitive but unclassified' deck by Kushner, Witkoff and adviser Josh Gruenbaum, costing about $112B over a decade with nearly $60B from US-anchored grants and loan guarantees, to be pitched to Egypt, Turkey and Gulf states; the deck did not say which companies or countries would invest. On 22 Jan 2026 in Davos Kushner presented a 'New Gaza' master plan (coastal towers, data centres, New Rafah with over 100,000 housing units, an airport; Board estimate of over $25B for utilities) and said Israeli-Cypriot developer Yakir Gabay volunteered to design the blueprint without profit motive. In April 2026 the plan was reported scaled back to a Rafah pilot. Funding for any of it depends on donors and Israeli permission.",
+      "sources": [
+        "https://abcnews4.com/news/nation-world/trump-administration-floats-112-billion-plan-to-rebuild-gaza-as-futuristic-coastal-hub-ai-united-states-jared-kushner-steve-witkoff-middle-east-marco-rubio",
+        "https://www.jta.org/2026/01/22/israel/jared-kushner-presents-plan-for-new-gaza-at-davos-as-trump-launches-board-of-peace-with-israel-absent",
+        "https://themedialine.org/headlines/jared-kushner-at-davos-lays-out-plan-for-new-gaza-as-economic-hub-by-2035",
+        "https://prospect.org/2026/02/09/board-of-peace-profits-trump-kushner-gaza/"
+      ]
+    },
+    {
+      "statement": "The Gaza Humanitarian Foundation (GHF) was US- and Israel-backed, used private contractors, and its funding is documented.",
+      "verdict": "partly-accurate",
+      "finding": "Grade: partly documented. GHF began distributing in late May 2025 and announced on 24 Nov 2025 that it was closing, handing its model to the US-led Civil-Military Coordination Center (AP). Reuters (Jul 2025) reported the State Department approved $30M in June 2025 and that Witkoff aides Aryeh Lightstone and Charles Leith told Congress on 8-9 July that Israel agreed to match it; Reuters could not verify the Israeli payment, Israel did not confirm, and GHF does not disclose donors (Johnnie Moore: 'we need more of it'). GHF said a Western European country gave over $100M (unnamed; search excerpt). Contractors reported by Reuters: Safe Reach Solutions (logistics, led by a former CIA officer; McNally Capital, a Chicago private equity firm, has an economic interest) and UG Solutions (armed US veterans). Witkoff and Ambassador Huckabee toured a GHF site on 1 Aug 2025. Deaths near sites are disputed by GHF and the Israeli military. No Trump-family firm is reported as a GHF funder or contractor. Several of the same planners later appear in the Board of Peace structure (Lightstone; Eisenberg and Tancman per the FT via secondary summaries).",
+      "sources": [
+        "https://www.al-monitor.com/originals/2025/07/exclusive-trump-officials-told-congress-israel-agreed-match-30-million-ghf",
+        "https://www.pbs.org/newshour/world/u-s-backed-gaza-humanitarian-foundation-shutters-operations",
+        "https://www.arabnews.pk/node/2603567",
+        "https://www.yahoo.com/news/articles/huckabee-witkoff-visit-us-backed-144448958.html",
+        "https://www.axios.com/2025/06/06/gaza-humanitarian-foundation-state-department-funding"
+      ]
+    },
+    {
+      "statement": "Named people on the Board of Peace have private business interests that overlap with Gaza: Kushner (Affinity Partners), Witkoff, Rowan (Apollo), Gabay, Blair.",
+      "verdict": "unverified",
+      "finding": "Grade: roles documented; financial interest in Gaza reconstruction not documented. Documented background: Affinity manages about $6.2B, almost all from non-US clients led by Saudi PIF with QIA and Lunate (C15); Witkoff's 278e shows WLF and other holdings inside Witkoff Holdings (C105). The Telegraph (reported 10 Oct 2026, relayed by the Jerusalem Post, original not read) says Affinity is the largest shareholder of Phoenix Financial, which held Israeli defence firm Smart Shooter, and raised questions about Rowan and about Bashar Masri's companies (Masri's lawyers call allegations speculation); the board called the allegations baseless ('no Board of Peace involvement, no Board of Peace decision, and zero demonstrated personal benefit') and an unnamed source said business interests were never discussed; Affinity says it does not control Phoenix's investment decisions; Rowan's role is described as unpaid service. Carnegie notes the charter has no conflict-of-interest rules. The Prospect and Carnegie say executive-board members are largely business or personal associates of Trump. No filing, contract, ethics finding or investigation tying any of these people or firms to a Gaza reconstruction contract was found. Kushner's lawyer has said his unpaid volunteer role was cleared by ethics lawyers; CREW sued in Oct 2026 (C15).",
+      "sources": [
+        "https://www.jpost.com/middle-east/article-911389",
+        "https://www.jpost.com/international/article-910380",
+        "https://prospect.org/2026/02/09/board-of-peace-profits-trump-kushner-gaza/",
+        "https://carnegieendowment.org/research/2026/03/the-board-of-peace-and-funding-for-gaza-reconstruction-on-whose-account"
+      ]
+    },
+    {
+      "statement": "Any firm tied to the Trump family or administration holds a documented contract, commitment or stated financial interest in Gaza reconstruction.",
+      "verdict": "unverified",
+      "finding": "Grade: nothing documented. Searches for the Trump Organization, Eric Trump, Donald Trump Jr., Trump Media, World Liberty Financial and American Bitcoin with Gaza found no contract, commitment or statement. The only company-level items: the 'Gaza Trump Riviera' label in the GREAT Trust deck (a concept name); Gothams LLC, a US disaster-response firm that circulated a trucking and logistics proposal reported by the Guardian as seeking a seven-year monopoly and 300% profit (CEO said in Dec 2025 he was halting it, a partner kept talking to White House officials and denied discussing returns; State said no procurement had been stood up); Arkel International (below); and a report headlined 'A Plan to Rebuild Gaza Lists Nearly 30 Companies. Many Say They're Not Involved' (search excerpt; outlet and plan not identified here). Relationships exist only through officials: Kushner and Witkoff are family or business associates of Trump (C15, C105).",
+      "sources": [
+        "https://www.democracynow.org/2026/2/3/headlines/us_firm_seeks_300_profits_from_monopoly_over_gaza_trucking_and_logistics",
+        "https://www.yahoo.com/news/articles/us-contractor-sent-gaza-plan-160012519.html",
+        "https://www.protagon.gr/wp-content/uploads/2025/08/TheGREATTrust.pdf"
+      ]
+    },
+    {
+      "statement": "Signed contracts or commitments for Gaza reconstruction exist.",
+      "verdict": "mostly-accurate",
+      "finding": "Grade: documented but small. The one construction award found is Arkel International (Louisiana), provisionally awarded in early Aug 2026 (Guardian, relayed by the Irish Times, Ynet and others) to build a 100m x 100m outpost at a former GHF site for about 150 of a planned 500 Moroccan and Kosovar troops; a board official said several awards were being prepared and none finalised; no value was reported. By 15 Oct 2026 Israel had not admitted contractors, machinery or materials, so the project was frozen, and the board expected movement only after the 27 Oct Israeli election and the US midterms. The UAE reportedly pledged $1.5B for 'New Rafah' (Prospect; single source). No signed donor agreement, reconstruction contract or procurement procedure was found. This is not a Trump-family firm; any link between Arkel and the Board's leaders was not reported.",
+      "sources": [
+        "https://www.theweek.in/news/middle-east/2026/10/15/gaza-reconstruction-project-stalled-israel-blocks-contractors.html",
+        "https://www.irishtimes.com/world/middle-east/2026/08/06/trumps-gaza-board-of-peace-issues-first-building-contract-for-military-base/",
+        "https://www.jpost.com/middle-east/article-911389",
+        "https://prospect.org/2026/02/09/board-of-peace-profits-trump-kushner-gaza/"
+      ]
+    }
+  ],
+  "corrections": [
+    "Common shorthand says the Board of Peace has a $17 billion fund. The record shows: $17B is an announced pledge total (US $10B, nine states about $7B), not money received; the FT reported in May 2026 that the World Bank-administered account was empty.",
+    "Common shorthand says the Riviera remark was an official plan. The record shows: it was a spoken proposal at a press conference on 4 Feb 2025; the 20-point plan of 29 Sep 2025 says nobody will be forced to leave and the UN-endorsed Board of Peace was a different instrument.",
+    "Common shorthand says the GREAT Trust was adopted. The record shows: no official source adopts it; BCG and the Tony Blair Institute disavow the relocation parts, and the later White House plans (Project Sunrise, New Gaza) are separate documents.",
+    "C15 describes Kushner as holding no official title. The 16 Jan 2026 White House statement lists him on both Board of Peace executive boards, and a Getty caption relayed by the Jerusalem Post (Sept 2026) calls him 'US Special Envoy for Peace'; C15's volunteer-status reading (White House position, CREW suit Oct 2026) is not contradicted but should note the board roles.",
+    "C105 lists Witkoff's formal posts; add that he sits on both Board of Peace executive boards per the 16 Jan 2026 statement."
+  ],
+  "denials_and_context": [
+    "Board of Peace: conflict-of-interest reporting is baseless ('no Board of Peace involvement, no Board of Peace decision, and zero demonstrated personal benefit'); an unnamed source said business interests were never discussed. The board says the World Bank fund was unused because Gaza has not reached the reconstruction phase and 'we're not hoarding money in a bank account'.",
+    "Affinity Partners: no control over Phoenix's investment decisions; Rowan's board role is not-for-profit service.",
+    "Tony Blair Institute: staff joined calls but it never authored, developed or endorsed relocation.",
+    "BCG: dismissed two partners, says the Gaza work was unauthorised and unpaid.",
+    "Israel: ministries did not confirm funding GHF; Reuters could not verify the matching $30M. GHF: donors are private; it denies violence inside its sites.",
+    "White House (Feb 2025): US money would not go to Gaza reconstruction; (Aug 2025) the Blair/Kushner meeting was a routine policy meeting.",
+    "Context: the ceasefire is partial; Israel reportedly controls about 60% of Gaza, no civilian administration operates inside it, and deliveries average about 227 trucks a day against a plan minimum of 600 (The Week, Oct 2026). Israel's election on 27 Oct 2026 and US midterms preceded a coalition process still open on 17 Nov 2026."
+  ],
+  "sources": [
+    {"title": "The President's News Conference With Prime Minister Netanyahu of Israel", "publisher": "American Presidency Project (UCSB)", "url": "https://www.presidency.ucsb.edu/documents/the-presidents-news-conference-with-prime-minister-benjamin-netanyahu-israel-0", "date": "2025-02-04", "read": "excerpt"},
+    {"title": "Statement on President Trump's Comprehensive Plan to End the Gaza Conflict", "publisher": "The White House", "url": "https://www.whitehouse.gov/briefings-statements/2026/01/statement-on-president-trumps-comprehensive-plan-to-end-the-gaza-conflict/", "date": "2026-01-16", "read": "full"},
+    {"title": "President Trump Ratifies Board of Peace in Historic Ceremony", "publisher": "The White House", "url": "https://www.whitehouse.gov/briefings-statements/2026/01/president-trump-ratifies-board-of-peace-in-historic-ceremony-opening-path-to-hope-and-dignity-for-gazans/", "date": "2026-01-22", "read": "excerpt"},
+    {"title": "Global Support for President Trump's Bold Vision for Peace in Gaza", "publisher": "The White House", "url": "https://www.whitehouse.gov/releases/2025/10/global-support-for-president-trumps-bold-vision-for-peace-in-gaza/", "date": "2025-10-01", "read": "excerpt"},
+    {"title": "Full text: Trump's Comprehensive Plan to End the Gaza Conflict", "publisher": "JNS (search excerpt)", "url": "https://www.jns.org/israel-news/full-text-trumps-comprehensive-plan-to-end-the-gaza-conflict", "date": "2025-09-29", "read": "excerpt"},
+    {"title": "Security Council adopts resolution 2803 (2025)", "publisher": "UN Press (search excerpt)", "url": "https://press.un.org/en/2025/sc16225.doc.htm", "date": "2025-11-17", "read": "excerpt"},
+    {"title": "The Board of Peace and Funding for Gaza Reconstruction: On Whose Account?", "publisher": "Carnegie Endowment", "url": "https://carnegieendowment.org/research/2026/03/the-board-of-peace-and-funding-for-gaza-reconstruction-on-whose-account", "date": "2026-03-16", "read": "excerpt"},
+    {"title": "$1 billion contribution secures permanent seat on Trump's Board of Peace", "publisher": "AP via PBS NewsHour", "url": "https://www.pbs.org/newshour/world/1-billion-contribution-secures-permanent-seat-on-trumps-board-of-peace", "date": "2026-01-19", "read": "excerpt"},
+    {"title": "Board of Peace members commit $7bn, US adding $10bn", "publisher": "Middle East Eye (search excerpt)", "url": "https://www.middleeasteye.net/news/board-peace-members-commit-7bn-gaza-relief-us-adding-further-10bn", "date": "2026-02-19", "read": "excerpt"},
+    {"title": "Funds for Trump's Board of Peace aren't in World Bank account. So where are they?", "publisher": "NPR (interview with FT's Abigail Hauslohner)", "url": "https://www.npr.org/2026/06/01/nx-s1-5837603/funds-for-trumps-board-of-peace-arent-in-world-bank-account-so-where-are-they", "date": "2026-06-01", "read": "full"},
+    {"title": "Trump's Board of Peace criticizes reports on Gaza reconstruction fund", "publisher": "Arab News", "url": "https://www.arabnews.com/node/2645143/middle-east", "date": "2026-05-27", "read": "full"},
+    {"title": "Trump's Orwellian Board of Peace Consists Entirely of Human Rights Abusers", "publisher": "The Intercept (search excerpt)", "url": "https://theintercept.com/2026/03/02/trump-board-peace-human-right-abuses/", "date": "2026-03-02", "read": "excerpt"},
+    {"title": "Trump's Board of Peace proposes $2.45 billion blueprint", "publisher": "Local 10 (search excerpt)", "url": "https://www.local10.com/news/world/2026/09/23/trumps-board-of-peace-proposes-245-billion-blueprint-to-begin-gaza-reconstruction/", "date": "2026-09-23", "read": "excerpt"},
+    {"title": "The GREAT Trust (38-page deck, public mirror)", "publisher": "protagon.gr mirror of leaked document", "url": "https://www.protagon.gr/wp-content/uploads/2025/08/TheGREATTrust.pdf", "date": "2025-08-31", "read": "excerpt"},
+    {"title": "Four takeaways from the plan trying to bring Trump's Gaza Riviera to life", "publisher": "Middle East Eye (search excerpt)", "url": "https://www.middleeasteye.net/news/four-takeaways-plan-trying-bring-trump-gaza-riviera-life", "date": "2025-09-02", "read": "excerpt"},
+    {"title": "Two BCG execs lose roles over Gaza displacement plan", "publisher": "The New Arab (search excerpt)", "url": "https://www.newarab.com/news/two-bcg-execs-lose-roles-over-gaza-displacement-plan", "date": "2025-06", "read": "excerpt"},
+    {"title": "Boston Consulting Group under fire for role in the Gaza Humanitarian Foundation", "publisher": "Consultancy-ME (search excerpt)", "url": "https://www.consultancy-me.com/news/10991/boston-consulting-group-under-fire-for-role-in-the-gaza-humanitarian-foundation", "date": "2025-06", "read": "excerpt"},
+    {"title": "Tony Blair Institute involved in controversial Gaza reconstruction project", "publisher": "L'Orient-Le Jour (search excerpt)", "url": "https://today.lorientlejour.com/article/1468320/tony-blair-institute-involved-in-controversial-gaza-reconstruction-project.html", "date": "2025-09", "read": "excerpt"},
+    {"title": "Trump administration floats $112 billion plan to rebuild Gaza", "publisher": "ABC affiliate (search excerpt, WSJ-sourced)", "url": "https://abcnews4.com/news/nation-world/trump-administration-floats-112-billion-plan-to-rebuild-gaza-as-futuristic-coastal-hub-ai-united-states-jared-kushner-steve-witkoff-middle-east-marco-rubio", "date": "2025-12-23", "read": "excerpt"},
+    {"title": "Jared Kushner presents plan for 'New Gaza' at Davos", "publisher": "JTA (search excerpt)", "url": "https://www.jta.org/2026/01/22/israel/jared-kushner-presents-plan-for-new-gaza-at-davos-as-trump-launches-board-of-peace-with-israel-absent", "date": "2026-01-22", "read": "excerpt"},
+    {"title": "Jared Kushner at Davos lays out plan for 'New Gaza' as economic hub by 2035", "publisher": "The Media Line (search excerpt)", "url": "https://themedialine.org/headlines/jared-kushner-at-davos-lays-out-plan-for-new-gaza-as-economic-hub-by-2035", "date": "2026-01-22", "read": "excerpt"},
+    {"title": "Board of Peace Is a Board of Profits", "publisher": "The American Prospect", "url": "https://prospect.org/2026/02/09/board-of-peace-profits-trump-kushner-gaza/", "date": "2026-02-09", "read": "excerpt"},
+    {"title": "Exclusive: Trump officials told Congress Israel agreed to match $30 million for GHF", "publisher": "Reuters via Al-Monitor", "url": "https://www.al-monitor.com/originals/2025/07/exclusive-trump-officials-told-congress-israel-agreed-match-30-million-ghf", "date": "2025-07-31", "read": "full"},
+    {"title": "US-backed Gaza Humanitarian Foundation shutters operations", "publisher": "AP via PBS NewsHour", "url": "https://www.pbs.org/newshour/world/u-s-backed-gaza-humanitarian-foundation-shutters-operations", "date": "2025-11-24", "read": "excerpt"},
+    {"title": "Gaza aid logistics company funded by Chicago private equity firm", "publisher": "Reuters via Arab News (search excerpt)", "url": "https://www.arabnews.pk/node/2603567", "date": "2025-06", "read": "excerpt"},
+    {"title": "Huckabee, Witkoff visit US-backed Gaza Humanitarian Foundation", "publisher": "Yahoo News (search excerpt)", "url": "https://www.yahoo.com/news/articles/huckabee-witkoff-visit-us-backed-144448958.html", "date": "2025-08-01", "read": "excerpt"},
+    {"title": "State Department considers giving $500 million to the new Gaza Humanitarian Foundation", "publisher": "Axios (search excerpt)", "url": "https://www.axios.com/2025/06/06/gaza-humanitarian-foundation-state-department-funding", "date": "2025-06-06", "read": "excerpt"},
+    {"title": "Trump claims U.S. will 'take over' Gaza and turn it into new 'Riviera'", "publisher": "Axios (search excerpt)", "url": "https://www.axios.com/2025/02/05/trump-gaza-takeover-palestinians-israel", "date": "2025-02-05", "read": "excerpt"},
+    {"title": "Trump says US will take over Gaza; Riviera remarks and Leavitt follow-up", "publisher": "Fortune (not retrievable; search excerpt)", "url": "https://fortune.com/2025/02/05/trump-riviera-middle-east-gaza-palestine-israel-rubio-leavitt/", "date": "2025-02-05", "read": "excerpt"},
+    {"title": "US firm seeks 300% profits from monopoly over Gaza trucking and logistics", "publisher": "Democracy Now (citing the Guardian; search excerpt)", "url": "https://www.democracynow.org/2026/2/3/headlines/us_firm_seeks_300_profits_from_monopoly_over_gaza_trucking_and_logistics", "date": "2026-02-03", "read": "excerpt"},
+    {"title": "US contractor sent Gaza plan to White House that would secure 300% profits", "publisher": "The Guardian via Yahoo (not retrievable; search excerpt)", "url": "https://www.yahoo.com/news/articles/us-contractor-sent-gaza-plan-160012519.html", "date": "2026-02", "read": "excerpt"},
+    {"title": "Trump's Gaza Board of Peace issues first building contract for military base", "publisher": "Irish Times (search excerpt)", "url": "https://www.irishtimes.com/world/middle-east/2026/08/06/trumps-gaza-board-of-peace-issues-first-building-contract-for-military-base/", "date": "2026-08-06", "read": "excerpt"},
+    {"title": "Trump's Gaza reconstruction plan stalls as Israel blocks contractors, heavy machinery", "publisher": "The Week (citing the Guardian)", "url": "https://www.theweek.in/news/middle-east/2026/10/15/gaza-reconstruction-project-stalled-israel-blocks-contractors.html", "date": "2026-10-15", "read": "excerpt"},
+    {"title": "Board of Peace expects Gaza reconstruction progress after Israeli, US elections", "publisher": "Jerusalem Post (citing the Telegraph)", "url": "https://www.jpost.com/middle-east/article-911389", "date": "2026-10-10", "read": "full"},
+    {"title": "Jerusalem Post report on CNN findings about Affinity and Phoenix Financial", "publisher": "Jerusalem Post (search excerpt)", "url": "https://www.jpost.com/international/article-910380", "date": "2026-10", "read": "excerpt"}
+  ],
+  "entities": [
+    {"id": "donald-trump", "name": "Donald Trump", "type": "person", "description": "US President; chairman of the Board of Peace in a personal capacity under its charter."},
+    {"id": "jared-kushner", "name": "Jared Kushner", "type": "person", "description": "Trump's son-in-law; Board of Peace and Gaza Executive Board member; presented the 'New Gaza' plan; founder of Affinity Partners."},
+    {"id": "steve-witkoff", "name": "Steve Witkoff", "type": "person", "description": "Special Envoy for Peace Missions; sits on both Board of Peace executive boards."},
+    {"id": "affinity-partners", "name": "Affinity Partners", "type": "fund", "description": "Kushner's private equity firm funded mostly by Gulf sovereign investors; reported largest shareholder of Phoenix Financial."},
+    {"id": "white-house", "name": "The White House", "type": "government", "description": "Published the 20-point plan and the Board of Peace membership statements."},
+    {"id": "state-department", "name": "US State Department", "type": "government", "description": "Approved $30M to GHF in June 2025."},
+    {"id": "uae", "name": "United Arab Emirates", "type": "country", "description": "Pledged to the Board of Peace; donations reportedly went to its JPMorgan account."},
+    {"id": "qatar", "name": "Qatar", "type": "country", "description": "Board of Peace pledging state; Gaza Executive Board member Ali Al-Thawadi."},
+    {"id": "saudi-arabia", "name": "Saudi Arabia", "type": "country", "description": "Board of Peace pledging state."},
+    {"id": "trump-organization", "name": "Trump Organization", "type": "company", "description": "No Gaza contract, commitment or statement found."},
+    {"id": "board-of-peace", "name": "Board of Peace", "type": "government", "description": "International body chaired by Trump; charter ratified at Davos 22 Jan 2026; welcomed by UN Security Council resolution 2803."},
+    {"id": "un-security-council-resolution-2803", "name": "UN Security Council resolution 2803 (2025)", "type": "law", "description": "Adopted 17 Nov 2025, 13-0 with China and Russia abstaining; endorses the 20-point plan and Board of Peace to 31 Dec 2027."},
+    {"id": "gaza-comprehensive-plan", "name": "Comprehensive Plan to End the Gaza Conflict (20 points)", "type": "event", "description": "Released 29 Sep 2025; ceasefire took effect 10 Oct 2025."},
+    {"id": "gaza-humanitarian-foundation", "name": "Gaza Humanitarian Foundation", "type": "company", "description": "US-registered, US- and Israel-backed aid distributor, May to Nov 2025; funding partly undisclosed."},
+    {"id": "great-trust-prospectus", "name": "GREAT Trust prospectus", "type": "product", "description": "38-page leaked deck proposing a US-led trusteeship, relocation packages and 'Trump Riviera' development; not adopted."},
+    {"id": "project-sunrise", "name": "Project Sunrise / New Gaza plan", "type": "product", "description": "Kushner-Witkoff-Gruenbaum $112B proposal (WSJ, Dec 2025) and the Davos master plan (Jan 2026)."},
+    {"id": "tony-blair", "name": "Tony Blair", "type": "person", "description": "Former UK PM named in the 20-point plan; Board of Peace and Gaza Executive Board member."},
+    {"id": "tony-blair-institute", "name": "Tony Blair Institute for Global Change", "type": "company", "description": "Staff joined GREAT Trust planning calls; denies authoring relocation proposals."},
+    {"id": "boston-consulting-group", "name": "Boston Consulting Group", "type": "company", "description": "Consultancy; fired two partners over unauthorised GHF and modelling work (June 2025)."},
+    {"id": "marc-rowan", "name": "Marc Rowan", "type": "person", "description": "Apollo Global Management CEO; Board of Peace and Gaza Executive Board member."},
+    {"id": "apollo-global-management", "name": "Apollo Global Management", "type": "company", "description": "Private equity firm led by Rowan."},
+    {"id": "yakir-gabay", "name": "Yakir Gabay", "type": "person", "description": "Israeli-Cypriot developer on the Gaza Executive Board; Kushner said he volunteered to design the blueprint."},
+    {"id": "aryeh-lightstone", "name": "Aryeh Lightstone", "type": "person", "description": "Witkoff aide; briefed Congress on GHF; Board of Peace senior adviser."},
+    {"id": "josh-gruenbaum", "name": "Josh Gruenbaum", "type": "person", "description": "Federal Acquisition Service commissioner; Board of Peace senior adviser; co-author of Project Sunrise."},
+    {"id": "michael-eisenberg", "name": "Michael Eisenberg", "type": "person", "description": "Israeli-American venture capitalist reported as an author of the GREAT Trust (secondary reporting)."},
+    {"id": "liran-tancman", "name": "Liran Tancman", "type": "person", "description": "Israeli entrepreneur reported as an author of the GREAT Trust (secondary reporting)."},
+    {"id": "marco-rubio", "name": "Marco Rubio", "type": "person", "description": "Secretary of State; Board of Peace executive board member."},
+    {"id": "ajay-banga", "name": "Ajay Banga", "type": "person", "description": "World Bank president; Board of Peace executive board member."},
+    {"id": "nickolay-mladenov", "name": "Nickolay Mladenov", "type": "person", "description": "High Representative for Gaza."},
+    {"id": "world-bank", "name": "World Bank", "type": "government", "description": "Administers the Gaza reconstruction fund account; FT reported it had received nothing by May 2026."},
+    {"id": "jpmorgan-chase", "name": "JPMorgan Chase", "type": "company", "description": "Holds the Board of Peace account that reportedly received UAE and Morocco donations."},
+    {"id": "arkel-international", "name": "Arkel International", "type": "company", "description": "Louisiana contractor provisionally awarded the first Board of Peace construction contract (Aug 2026)."},
+    {"id": "safe-reach-solutions", "name": "Safe Reach Solutions", "type": "company", "description": "GHF logistics contractor."},
+    {"id": "ug-solutions", "name": "UG Solutions", "type": "company", "description": "GHF security contractor."},
+    {"id": "mcnally-capital", "name": "McNally Capital", "type": "fund", "description": "Chicago private equity firm with an economic interest in Safe Reach Solutions (Reuters)."},
+    {"id": "gothams-llc", "name": "Gothams LLC", "type": "company", "description": "US disaster-response firm that circulated a Gaza logistics proposal; status disputed."},
+    {"id": "phoenix-financial", "name": "Phoenix Financial", "type": "company", "description": "Israeli financial group; Affinity reported its largest shareholder (Telegraph/CNN via secondary reports)."},
+    {"id": "israel", "name": "Israel", "type": "country", "description": "Party to the ceasefire; controls entry of contractors and materials; reportedly agreed to match $30M for GHF."}
+  ],
+  "relationships": [
+    {"source": "donald-trump", "target": "board-of-peace", "label": "chairs (personal capacity, charter ratified 22 Jan 2026)", "type": "political", "date": "2026-01"},
+    {"source": "board-of-peace", "target": "un-security-council-resolution-2803", "label": "welcomed and authorised by", "type": "legal", "date": "2025-11"},
+    {"source": "jared-kushner", "target": "board-of-peace", "label": "executive board and Gaza Executive Board member", "type": "political", "date": "2026-01"},
+    {"source": "steve-witkoff", "target": "board-of-peace", "label": "executive board and Gaza Executive Board member", "type": "political", "date": "2026-01"},
+    {"source": "tony-blair", "target": "board-of-peace", "label": "executive board member", "type": "advisory", "date": "2026-01"},
+    {"source": "marc-rowan", "target": "board-of-peace", "label": "executive board member", "type": "advisory", "date": "2026-01"},
+    {"source": "marc-rowan", "target": "apollo-global-management", "label": "chief executive of", "type": "ownership"},
+    {"source": "yakir-gabay", "target": "board-of-peace", "label": "Gaza Executive Board member; volunteered blueprint design (per Kushner)", "type": "advisory", "date": "2026-01"},
+    {"source": "aryeh-lightstone", "target": "board-of-peace", "label": "senior adviser", "type": "advisory", "date": "2026-01"},
+    {"source": "josh-gruenbaum", "target": "board-of-peace", "label": "senior adviser", "type": "advisory", "date": "2026-01"},
+    {"source": "jared-kushner", "target": "project-sunrise", "label": "co-authored with Witkoff and Gruenbaum", "type": "advisory", "date": "2025-12"},
+    {"source": "steve-witkoff", "target": "project-sunrise", "label": "co-authored", "type": "advisory", "date": "2025-12"},
+    {"source": "josh-gruenbaum", "target": "project-sunrise", "label": "co-authored", "type": "advisory", "date": "2025-12"},
+    {"source": "michael-eisenberg", "target": "great-trust-prospectus", "label": "reported author", "type": "advisory", "date": "2025-08"},
+    {"source": "liran-tancman", "target": "great-trust-prospectus", "label": "reported author", "type": "advisory", "date": "2025-08"},
+    {"source": "boston-consulting-group", "target": "great-trust-prospectus", "label": "staff reportedly built financial model; BCG says unauthorised", "type": "advisory", "date": "2025-06"},
+    {"source": "tony-blair-institute", "target": "great-trust-prospectus", "label": "staff joined planning calls; denies authoring relocation", "type": "advisory", "date": "2025-08"},
+    {"source": "great-trust-prospectus", "target": "donald-trump", "label": "shared with the White House per reporting; not adopted", "type": "political", "date": "2025-08"},
+    {"source": "state-department", "target": "gaza-humanitarian-foundation", "label": "approved $30M", "type": "money", "date": "2025-06", "amount_usd": 30000000},
+    {"source": "israel", "target": "gaza-humanitarian-foundation", "label": "reportedly agreed to match $30M (unverified)", "type": "money", "date": "2025-07", "amount_usd": 30000000},
+    {"source": "safe-reach-solutions", "target": "gaza-humanitarian-foundation", "label": "logistics contractor", "type": "commercial", "date": "2025-05"},
+    {"source": "ug-solutions", "target": "gaza-humanitarian-foundation", "label": "security contractor", "type": "commercial", "date": "2025-05"},
+    {"source": "mcnally-capital", "target": "safe-reach-solutions", "label": "holds an economic interest in", "type": "ownership", "date": "2025-06"},
+    {"source": "aryeh-lightstone", "target": "gaza-humanitarian-foundation", "label": "briefed Congress on GHF as Witkoff aide", "type": "political", "date": "2025-07"},
+    {"source": "steve-witkoff", "target": "gaza-humanitarian-foundation", "label": "toured a GHF site with Huckabee", "type": "political", "date": "2025-08-01"},
+    {"source": "donald-trump", "target": "board-of-peace", "label": "US pledged $10B (announced)", "type": "money", "date": "2026-02-19", "amount_usd": 10000000000},
+    {"source": "uae", "target": "board-of-peace", "label": "pledged; donation reportedly to JPMorgan account", "type": "money", "date": "2026-02"},
+    {"source": "board-of-peace", "target": "jpmorgan-chase", "label": "holds donor account with", "type": "commercial", "date": "2026"},
+    {"source": "board-of-peace", "target": "world-bank", "label": "designated fund administered by (reported empty May 2026)", "type": "commercial", "date": "2026-05"},
+    {"source": "board-of-peace", "target": "arkel-international", "label": "provisionally awarded outpost contract", "type": "commercial", "date": "2026-08"},
+    {"source": "affinity-partners", "target": "phoenix-financial", "label": "reported largest shareholder", "type": "ownership", "date": "2026-10"},
+    {"source": "jared-kushner", "target": "affinity-partners", "label": "founder and principal", "type": "ownership"},
+    {"source": "saudi-arabia", "target": "affinity-partners", "label": "PIF $2B commitment (C15)", "type": "money", "date": "2021-06", "amount_usd": 2000000000},
+    {"source": "donald-trump", "target": "gothams-llc", "label": "no documented link; firm lobbied White House officials per Guardian", "type": "political", "date": "2026-02"},
+    {"source": "white-house", "target": "gaza-comprehensive-plan", "label": "released 20-point plan", "type": "political", "date": "2025-09-29"}
+  ],
+  "leads": [
+    {"title": "Affinity Partners' stake in Phoenix Financial and Israeli defence holdings", "why_connected": "Telegraph and CNN reporting (second-hand here) ties Kushner's fund to an Israeli financial group with defence-technology holdings while he sits on the Board of Peace; needs the primary Form ADV, Phoenix filings and Affinity's reply.", "entities": ["affinity-partners", "phoenix-financial", "jared-kushner"], "source_url": "https://www.jpost.com/middle-east/article-911389"},
+    {"title": "Board of Peace JPMorgan account and donor disclosure", "why_connected": "FT reports donations bypass the World Bank account with no reporting requirement; a public accounting, legal basis for receiving funds and any US Treasury or congressional inquiry are not yet documented.", "entities": ["board-of-peace", "jpmorgan-chase", "world-bank"], "source_url": "https://www.npr.org/2026/06/01/nx-s1-5837603/funds-for-trumps-board-of-peace-arent-in-world-bank-account-so-where-are-they"},
+    {"title": "Arkel International and further Board of Peace procurement", "why_connected": "First construction award, value undisclosed; a board official said more awards are being prepared. Who owns Arkel and how it was selected is not reported.", "entities": ["arkel-international", "board-of-peace"], "source_url": "https://www.irishtimes.com/world/middle-east/2026/08/06/trumps-gaza-board-of-peace-issues-first-building-contract-for-military-base/"},
+    {"title": "Gothams LLC and the Gaza Supply System proposal", "why_connected": "Guardian reporting of a proposed seven-year logistics monopoly pitched to White House officials; the Guardian original and any State or GSA records should be read.", "entities": ["gothams-llc", "josh-gruenbaum"], "source_url": "https://www.democracynow.org/2026/2/3/headlines/us_firm_seeks_300_profits_from_monopoly_over_gaza_trucking_and_logistics"},
+    {"title": "Marc Rowan and Apollo business ties to Gulf investors and Trump administration", "why_connected": "Rowan sits on both executive boards; the Telegraph raised questions about his role. Apollo filings and his OGE or other disclosures, if any, were not reviewed.", "entities": ["marc-rowan", "apollo-global-management"], "source_url": "https://www.jpost.com/middle-east/article-911389"},
+    {"title": "GHF funding sources and the Israeli government's role", "why_connected": "Kan and Shomrim reporting alleges Israeli state funding (NIS 700M) that Israel does not confirm; GHF donor list never published; State FOIA litigation pending (CCR).", "entities": ["gaza-humanitarian-foundation", "israel", "state-department"], "source_url": "https://www.thejc.com/news/israel/israeli-government-diverted-nis-700-million-to-fund-gaza-aid-a5n8uo4p"}
+  ]
+}
