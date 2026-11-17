@@ -1,0 +1,873 @@
+{
+ "id": "C104",
+ "title": "Howard Lutnick: Holdings, Divestiture & Recusals",
+ "verdict": "mostly-accurate",
+ "confidence": "medium",
+ "summary": "Filings read in full document the divestiture. Lutnick signed agreements on 16 May 2025, inside his 90-day window, to sell his Cantor, BGC and Newmark interests at a fixed price, and gave up all economic benefit from that date. BGC and Newmark bought back about $278M of his shares. The Cantor sale, to buyers the White House names as 26North, Oak Hill Advisors and Cantor Fitzgerald (with Cantor saying his stake went to trusts for his children led by Brandon Lutnick), closed on 6 Oct 2025. His ethics agreement allowed that closing date, so the 'missed deadline' charge does not hold on its terms. From 8 Jul to 6 Oct 2025 a White House waiver let him work on broad policy affecting the three firms. OGE issued six certificates of divestiture, which defer tax. Cantor's tariff-refund pitch, Tether ties, Satellogic and data-centre work and its minerals deals all overlap with Commerce's remit, but no decision by Lutnick favouring them is documented. The sale price, the Tether loan's role and his 2025 annual report are not public. More than eight congressional requests have produced no finding. Lutnick, Commerce and Cantor say he complied fully.",
+ "sub_claims": [
+  {
+   "statement": "Lutnick's nominee disclosure and ethics agreement: what he held and what he promised.",
+   "verdict": "confirmed",
+   "finding": "Grade: documented (OGE Form 278e nominee report e-signed 30 Dec 2024 and ethics agreement dated 21 Jan 2025, both read in full). The 278e lists more than 800 positions and holdings. Part 2 reports Cantor Fitzgerald, L.P. partnership distributions of $198,984,693, a $16M salary/bonus from Cantor Fitzgerald Securities, $30M salary/bonus plus a $5M equity bonus from Newmark, and $8M salary/bonus, an $11M equity bonus and a $61.3M '2023 BGC unit' item from BGC. No Tether holding is listed for him personally; the Tether convertible bond is Cantor's. The agreement commits him to: resign from Cantor, BGC, Newmark and their subsidiaries on confirmation; sign agreements to sell his and his trusts' interests in all three 'as soon as practicable but not later than 90 days after my confirmation, for a sum certain', with the buyer receiving all economic interest from signing and the divestiture completed 'after required regulatory approvals are obtained'; request a written 18 U.S.C. 208(b)(1) waiver for the ownership he would still hold between signing and closing; recuse from any particular matter with a direct and predictable effect on the three firms until divested; and, under 5 C.F.R. 2635.502, stay out of specific-party matters in which they are or represent a party for one year after resignation or as long as he holds an interest, whichever is later. He also had to sell GE Healthcare, GE Vernova, GE Aerospace, Nasdaq, Disney, Roivant, Kimberly Akimbo LLC and Kiajia LLC within 90 days. He kept trusteeships of family trusts, about 30 property and vehicle LLCs and promissory notes owed to him by the Lutnick 2020 and 1999 Descendants' Trusts, with a recusal on matters affecting the trusts' ability to repay. Appendix D shows he left the Satellogic board in Nov 2024 and Cantor Equity Partners and Cantor Equity Partners I in Dec 2024. Confirmed 18 Feb 2025, so the 90-day signing deadline fell on 19 May 2025.",
+   "sources": [
+    "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/436440318CFB67BE85258C1C003219C1/$FILE/Lutnick%2C%20Howard%20%20finalEA.pdf",
+    "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/AC841CF0E3B5807A85258C1C00320D21/$FILE/Lutnick%2C%20Howard%20%20final278.pdf"
+   ]
+  },
+  {
+   "statement": "Lutnick sold his BGC and Newmark shares back to the companies in May 2025.",
+   "verdict": "confirmed",
+   "finding": "Grade: documented (his 278-T signed 17 Jun 2025 and certified by OGE on 14 Jul 2025, read in full; company announcements via Dow Jones and InvestmentNews). The 278-T lists sales dated 16 May 2025 of Newmark (NMRK) 'Over $50,000,000', BGC (BGC) 'Over $50,000,000', Nasdaq ($1M-$5M), Disney ($1K-$15K), Kimberly Akimbo LLC and Kiajia LLC ($50K-$100K each) and Structured Services Investor LLC ($100K-$250K). The companies announced on 19 May 2025 that BGC would repurchase 16,452,850 Class A shares for $151,501,133 (about $9.21 a share, the 14-16 May volume-weighted average) and Newmark about 11 million shares (10,969,523 per the release) for about $127M (about $11.58, the prior close). That is about $278.5M. The FT figure of $361M quoted by InvestmentNews appears to include BGC Class B shares sold to Cantor; we did not reconstruct it. The BGC release also said 337,748 retirement-account shares and his 8,973,721 Class B shares (sold to Cantor) would close only after the Cantor transactions. The BGC 8-K itself (sec.gov) refused automated access, so its figures come from search excerpts and press relays.",
+   "sources": [
+    "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/66A69EB879848CF885258CC9002C8582/$FILE/Howard-Lutnick-06.17.2025-278T.pdf",
+    "https://www.itiger.com/news/2536680589",
+    "https://www.investmentnews.com/industry-news/commerce-chief-howard-lutnick-divesting-ownership-in-cantor-fitzgerald/260569",
+    "https://www.sec.gov/Archives/edgar/data/1094831/000121390025045119/ea024268501ex99-1_bgc.htm"
+   ]
+  },
+  {
+   "statement": "His Cantor Fitzgerald interest was transferred to trusts for his children, with 26North and Glenn August as minority investors; the sale closed in October 2025.",
+   "verdict": "confirmed",
+   "finding": "Grade: documented (278-T signed 5 Nov 2025 and certified by OGE on 8 Dec 2025, read in full; White House waiver memo of 8 Jul 2025, read in full). The 278-T reports sales dated 6 Oct 2025 of Cantor Fitzgerald, L.P. (Over $50M), CF Group Management, Inc. (Cantor's managing general partner; Over $50M), BGC Class B shares (Over $50M), a 1% interest in Tangible Benefits LLC ($250K-$500K), a 10% interest in KBCR Management Partners LLC ($5M-$25M), LFA LLC (Over $1M) and BGC and Newmark shares in retirement accounts. Each endnote says the sale was 'entered into May 16, 2025, in accordance with my Ethics Agreement ... and consummated on October 6, 2025 following regulatory approvals.' The waiver memo names the buyers as '26 North, Oak Hill Advisors and Cantor Fitzgerald, L.P.' and says the assets were sold 'at a fixed price', with all economic benefit forgone from 16 May 2025. Cantor's announcement says his ownership went to trusts for his adult children, with Brandon Lutnick (chairman and CEO) as controlling trustee and Kyle Lutnick as executive vice chair, and with 26North (Josh Harris) and Glenn August (founder of Oak Hill Advisors) as minority owners. The price is not public: the 278-T gives only the top value band, and Cantor says the purchase was 'funded through multiple sources ... at market rates and market prices' (Bloomberg, excerpt). Bloomberg reported that Tether lent to 'Dynasty Trust A' under a credit document filed on 7 Oct 2025, the day after closing (see C35). Whether that loan financed the purchase is still unverified.",
+   "sources": [
+    "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/8C12E5475578E84385258D5C00345940/$FILE/Howard-Lutnick-11.05.2025-278T.pdf",
+    "https://www.whitehouse.gov/wp-content/uploads/2025/07/Howard-W.-Lutnick-Limited-Waiver-Pursuant-to-18-U.S.C.-208b1.pdf",
+    "https://www.investmentnews.com/industry-news/commerce-chief-howard-lutnick-divesting-ownership-in-cantor-fitzgerald/260569",
+    "https://news.bloomberglaw.com/banking-law/lutnick-divests-cantor-fitzgerald-to-children-investor-26north",
+    "https://news.bloomberglaw.com/mergers-and-acquisitions/as-lutnick-sold-cantor-to-his-children-tether-gave-them-a-loan",
+    "https://www.banking.senate.gov/imo/media/doc/20260429warrenwydenlettertolutnickretethercantorfitzgeraldloan.pdf"
+   ]
+  },
+  {
+   "statement": "The Cantor divestiture missed the 90-day ethics deadline.",
+   "verdict": "misleading",
+   "finding": "Grade: documented. The agreement required him to sign sale agreements within 90 days of confirmation (by 19 May 2025) and to complete the sale after regulatory approvals, with no fixed outer date. He signed on 16 May 2025, within the window, and closed on 6 Oct 2025. On 24 May 2025 he certified to OGE that he had completed the divestitures 'within the time period specified' (278-T 'Forthcoming'). An updated certification dated 19 June 2025 (both read in full) adds that on 19 May 2025 he and his trusts 'entered into agreements to divest' and that these 'are subject to regulatory approvals and will be completed once obtained'. The certification gives 19 May as the signing date, while both 278-Ts and the White House waiver give 16 May 2025. Either date is inside the window. Both certifications mark 'No' for any section 208 waiver as of those dates. The lawmakers' letter to the Commerce inspector general (17 Dec 2025) asks why the divestiture was not completed until 6 Oct 2025 and says he committed to divest by 19 May. That reads the agreement more strictly than its text, which separates signing from closing. The criticism that he kept legal ownership for almost eight months as Secretary is accurate. We found no OGE notice of non-compliance and no OGE or Senate committee statement that a deadline was missed or met. OGE certified both 278-Ts. A side point from the 17 June 278-T: three GE sales dated 7 Mar 2025 (under $80K in total) were first reported more than 100 days later, beyond the 45-day limit printed on the form. The form gives no explanation and we found no reporting on it.",
+   "sources": [
+    "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/436440318CFB67BE85258C1C003219C1/$FILE/Lutnick%2C%20Howard%20%20finalEA.pdf",
+    "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4452B23B6A938EFE85258C98002C2FD5/$FILE/Lutnick%20EA%20Certification%20Portfolio%201%20of%201.pdf",
+    "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/66A69EB879848CF885258CC9002C8582/$FILE/Howard-Lutnick-06.17.2025-278T.pdf",
+    "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/8C12E5475578E84385258D5C00345940/$FILE/Howard-Lutnick-11.05.2025-278T.pdf",
+    "https://www.warren.senate.gov/imo/media/doc/warren_dean_letter_to_commerce_ig.pdf"
+   ]
+  },
+  {
+   "statement": "He received certificates of divestiture deferring capital-gains tax.",
+   "verdict": "confirmed",
+   "finding": "Grade: documented that certificates exist (OGE index, read in full); terms from Bloomberg via Accounting Today (read in full). OGE's index lists 'Certificate of Divestiture OGE-2025-070, 071, 072, 073, 074 & 075', six certificates, available only on request through OGE Form 201. The certificates themselves were not read. Bloomberg reported (29 Apr 2025) that ethics officials issued them on Friday 25 April 2025, covering BGC, Newmark, his Cantor stake, Nasdaq, Disney and a trust stake in Kimberly Akimbo LLC. The certificates for the Cantor holding carry no values. To defer the gain under 26 U.S.C. 1043 he must reinvest the proceeds in Treasuries or diversified funds within 60 days; tax falls due when those are sold. Reporting on his 2025 annual report (WSJ and CNBC, via Daily Beast and others) says he bought at least $166M of stock-index and money-market funds. That is consistent with the rollover but was not verified on the form. The size of the deferred gain is not public.",
+   "sources": [
+    "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index?OpenView&Start=1&Count=2000&Expand=121",
+    "https://www.accountingtoday.com/articles/lutnick-poised-for-big-tax-break-only-if-he-takes-54m-in-paper-losses",
+    "https://www.thedailybeast.com/top-trump-goons-shocking-payday-in-office-revealed/"
+   ]
+  },
+  {
+   "statement": "A White House waiver let him take part in matters affecting Cantor, BGC and Newmark while he still owned them.",
+   "verdict": "confirmed",
+   "finding": "Grade: documented (memo from White House Counsel David Warrington, 8 Jul 2025, read in full). It is a 'limited interim waiver' under 18 U.S.C. 208(b)(1). It lets him take part in particular matters of general applicability that may affect Cantor, Newmark and BGC until regulatory approvals arrive and the sales close. It does not cover specific-party matters in which they are or represent a party, which are screened by a 'gatekeeping agreement' with the Commerce ethics office. It also bars meetings with representatives of the three firms, covers no other asset, and lapses at closing. The rationale is that he had already forgone all economic gain or loss from 16 May 2025, so he had no remaining financial stake in outcomes. OGE was consulted. OGE's index lists a 'Conflict of Interest Waiver' for Lutnick but marks it 'Oops! We need to upload this file'. Whether that entry is this memo or a separate document is not shown. The waiver means participation in broad policy, such as tariff or chip-export rules, was authorised from 8 Jul to 6 Oct 2025 even where it affected the three firms. Lawmakers asked the Commerce inspector general (17 Dec 2025) how it was enforced. No answer was found.",
+   "sources": [
+    "https://www.whitehouse.gov/wp-content/uploads/2025/07/Howard-W.-Lutnick-Limited-Waiver-Pursuant-to-18-U.S.C.-208b1.pdf",
+    "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index?OpenView&Start=1&Count=2000&Expand=121",
+    "https://www.warren.senate.gov/imo/media/doc/warren_dean_letter_to_commerce_ig.pdf"
+   ]
+  },
+  {
+   "statement": "Lutnick's 2025 income included a $192M Cantor distribution and more than $250M in total.",
+   "verdict": "mostly-accurate",
+   "finding": "Grade: documented by on-record reporting of his 2025 annual 278e (obtained by WSJ on 4 Sep 2026 and CNBC on 30 Sep 2026); the form was not read. OGE's index lists 'Annual (2026)' as 'Oops! We need to upload this file', so it is not posted. Reports: at least $250M of income and proceeds; a $192M Cantor distribution (WSJ: 'at least $190M') that the filing calls a tax distribution under the ethics agreement; at least $259M of sales between May and October 2025 (Newmark, BGC, Cantor, CF Group Management); at least $166M of index and money-market fund purchases; $4.2M of Newmark salary and bonus and $19.6M tied to exchanging Newmark partnership units; and assets of at least $237M at end-2025, against at least $805M on the nominee report. Sen. Blumenthal's 8 Oct 2026 letter cites the same $250M and $192M figures. How a $192M distribution squares with forgoing 'all economic benefits' from 16 May 2025 depends on the partnership's tax-distribution terms, which are not public; on the reported description it relates to pre-closing tax liabilities. Commerce did not respond to the Daily Beast.",
+   "sources": [
+    "https://www.thedailybeast.com/top-trump-goons-shocking-payday-in-office-revealed/",
+    "https://capwolf.com/lutnick-reports-over-250-million-income-in-2025-filing/",
+    "https://www.hsgac.senate.gov/wp-content/uploads/2026-10-08-Letter-from-Sen-Blumenthal-to-Chairman-Lutnick.pdf",
+    "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index?OpenView&Start=1&Count=2000&Expand=121"
+   ]
+  },
+  {
+   "statement": "Cantor's tariff-refund claim trading touches Commerce's tariff policy.",
+   "verdict": "partly-accurate",
+   "finding": "Grade: the pitch is documented; any trade or profit is unverified. Wired (21 Jul 2025) reported a Cantor letter offering importers 20-30% of duties paid for their IEEPA refund rights. The letter claimed it had 'already put a trade through representing about ~$10 million' and had capacity for 'several hundred million'. Sens. Wyden and Warren wrote to Brandon Lutnick on 14 Aug 2025 (Finance Committee release, read in full). After the Supreme Court struck down the IEEPA tariffs in Feb 2026, Rep. Raskin's 27 Feb 2026 letter (read in full) to Howard and Brandon Lutnick sought documents and Commerce communications by 9 Mar 2026. It quotes Cantor's denial that it 'has never executed any transactions or taken risk on the legality of tariffs', and Cantor's later statement that a salesman 'erroneously' believed the firm would approve the trade. Semafor reported that Cantor did not profit from the ruling. The conflict theory is that the Secretary had non-public insight into the tariffs' legal weakness. No document shows any communication between him and Cantor on the subject. No Cantor or Commerce reply to the letters, and no finding, was found. Commerce: Lutnick 'has no insight or strategic control over Cantor Fitzgerald'.",
+   "sources": [
+    "https://www.finance.senate.gov/ranking-members-news/wyden-warren-probe-lutnick-firms-potential-conflicts-of-interest-related-to-massive-tariff-bets",
+    "https://static.notus.org/82/43/d57e79c84053a225162295bdb93c/2026-02-27-raskin-to-lutnick-commerce-lutnick-cantorfitzgerald-re-tariffs.pdf",
+    "https://www.notus.org/congress/jamie-raskin-howard-lutnick-congress-house-investigation-tariffs",
+    "https://www.semafor.com/article/02/20/2026/cantor-fitzgerald-howard-lutnicks-old-firm-did-not-profit-from-supreme-court-tariff-ruling"
+   ]
+  },
+  {
+   "statement": "Cantor's Tether and stablecoin business is a Lutnick conflict at Commerce.",
+   "verdict": "partly-accurate",
+   "finding": "Grade: the ties are documented; no Commerce action benefiting Tether is documented. In written answers to the Senate Commerce Committee (Jan 2025, read in full), Lutnick said Cantor made 'a convertible debt investment in the holding company that owns the Tether stablecoin business in April 2024', that he 'participated in the negotiations', that it is not equity, and that neither he nor his family holds other Tether investments. He declined to commit to specific recusals, answering each time that he would follow guidance from Commerce's ethics office. Cantor custodies most of Tether's reserves and custodies its USAT coin (C35). The Commerce Secretary sits on the President's Working Group on Digital Asset Markets (EO 14178; C50). Warren and Wyden (29 Apr 2026, read in full) asked whether the Tether loan to Dynasty Trust A financed the divestiture, and what part he played in the GENIUS Act. Blumenthal (8 Oct 2026, read in full, addressed to Brandon Lutnick) asked for the terms of his exit and of 'any loan ... by Tether that enabled him to transfer his ownership stake', due 23 Oct 2026. No replies were found. Commerce has no stablecoin regulatory role, and no Commerce decision favouring Tether has been identified. Since his sons and their trusts are not imputed to him under 18 U.S.C. 208, Cantor's Tether income is not his financial interest after 6 Oct 2025. His public status as a long-time Tether backer is what the letters raise.",
+   "sources": [
+    "https://www.commerce.senate.gov/services/files/01C4706D-6E4A-4869-8785-D9166C796DE7",
+    "https://www.banking.senate.gov/imo/media/doc/20260429warrenwydenlettertolutnickretethercantorfitzgeraldloan.pdf",
+    "https://www.hsgac.senate.gov/wp-content/uploads/2026-10-08-Letter-from-Sen-Blumenthal-to-Chairman-Lutnick.pdf"
+   ]
+  },
+  {
+   "statement": "Cantor and affiliates have business before Commerce in chips, satellites, data centres and critical minerals.",
+   "verdict": "partly-accurate",
+   "finding": "Grade: each overlap is documented separately; no Lutnick decision favouring a Cantor client is documented. (a) Satellites: Cantor took Satellogic public via a SPAC and is a principal investor; Lutnick sat on its board until Nov 2024. Tether agreed in Apr 2024 to buy $30M of its notes (per a Senate QFR). NOAA, part of Commerce, licenses its remote sensing. He declined to commit to recusing on Satellogic. No Commerce licensing decision on Satellogic during his tenure was found (Sludge; AP, excerpt). (b) Data centres: the NYT (20 Nov 2025) reported Cantor and Newmark earned about $6M advising Fermi America, which he appeared alongside. Newmark, where Kyle Lutnick sits on the board, brokers data-centre deals. 25 Democrats asked the Commerce IG to review (17 Dec 2025); Commerce says he had no direct role. (c) Critical minerals: Cantor led USA Rare Earth's $1.5B PIPE beside Commerce's $1.6B LOI and banks NOAA seabed applicants (C77, C60). USAR says Cantor had no role in the government deal. (d) Chips: Cantor's Nvidia exposure and Axios's Megaspeed reporting are in C35 and C50. No source ties Cantor to a licence decision. Spectrum: no Cantor-linked Commerce or NTIA spectrum matter was found. Rule: after closing on 6 Oct 2025 his sons' interests are not imputed to him under section 208. The agreement's one-year specific-party bar on Cantor, BGC and Newmark ran to about mid-Feb 2026. 5 C.F.R. 2635.502 separately asks an official to weigh impartiality where a relative with whom he has a close personal relationship is or represents a party. Whether the Commerce ethics office applied it to matters his sons handle is not public.",
+   "sources": [
+    "https://www.commerce.senate.gov/services/files/01C4706D-6E4A-4869-8785-D9166C796DE7",
+    "https://readsludge.com/2025/09/19/lutnicks-family-firm-holds-stake-in-china-tied-satellogic/",
+    "https://gizmodo.com/the-sons-of-trumps-commerce-secretary-are-making-money-in-the-data-center-biz-2000689741",
+    "https://www.warren.senate.gov/imo/media/doc/warren_dean_letter_to_commerce_ig.pdf",
+    "https://lofgren.house.gov/media/press-releases/lofgren-warren-wyden-van-hollen-lead-new-probe-cantor-fitzgerald-usar-after-16"
+   ]
+  },
+  {
+   "statement": "Complaints and requests for investigation have produced a finding.",
+   "verdict": "unverified",
+   "finding": "Grade: requests documented; no finding exists. Known requests: Campaign Legal Center complaint to OGE and Commerce ethics office (Mar 2025, 'buy Tesla' TV remark); Sen. Reed to the Commerce IG and OGE (2 Apr 2025, read in full, same remark, citing Cantor's Tesla exposure); Wyden and Warren to Brandon Lutnick (14 Aug 2025, tariff refunds); Warren, Rep. Dean and 23 others to Commerce Acting IG Duane Townsend (17 Dec 2025, data centres, waiver and recusals; read in full); Raskin (27 Feb 2026, tariff refunds); Warren, Wyden and Van Hollen (26 Feb 2026) and, with Rep. Lofgren, again on 7 Jul 2026 (USA Rare Earth); Warren and Wyden (29 Apr 2026, Tether loan); Blumenthal, PSI minority (8 Oct 2026, Cantor-Tether). All come from Democrats in the minority without subpoena power. No inspector-general report, OGE action, DOJ referral outcome or committee finding was found as of 17 Nov 2026. OGE declined to comment on the Tesla remark (AP).",
+   "sources": [
+    "https://www.reed.senate.gov/download/4-2-2025-letter-to-commerce-ig-re-lutnick-ethics-issues-signed?download=1",
+    "https://www.warren.senate.gov/imo/media/doc/warren_dean_letter_to_commerce_ig.pdf",
+    "https://static.notus.org/82/43/d57e79c84053a225162295bdb93c/2026-02-27-raskin-to-lutnick-commerce-lutnick-cantorfitzgerald-re-tariffs.pdf",
+    "https://www.banking.senate.gov/imo/media/doc/20260429warrenwydenlettertolutnickretethercantorfitzgeraldloan.pdf",
+    "https://www.hsgac.senate.gov/wp-content/uploads/2026-10-08-Letter-from-Sen-Blumenthal-to-Chairman-Lutnick.pdf",
+    "https://www.finance.senate.gov/ranking-members-news/wyden-warren-probe-lutnick-firms-potential-conflicts-of-interest-related-to-massive-tariff-bets",
+    "https://www.news4jax.com/news/politics/2025/03/21/legal-experts-say-trump-official-broke-law-by-saying-buy-tesla-stock-but-dont-expect-a-crackdown/",
+    "https://campaignlegal.org/sites/default/files/2025-03/Lutnick Complaint-Final.pdf",
+    "https://lofgren.house.gov/media/press-releases/lofgren-warren-wyden-van-hollen-lead-new-probe-cantor-fitzgerald-usar-after-16"
+   ]
+  }
+ ],
+ "corrections": [
+  "Claimed: the divestiture missed the 90-day deadline. The record shows: the ethics agreement required sale agreements within 90 days (signed 16 May 2025, deadline 19 May) and completion after regulatory approvals; closing on 6 Oct 2025 is within those terms, as his 19 June 2025 certification explains.",
+  "C35: 'minority stakes went to 26North and Glenn August'. The White House waiver names the buyers as 26North, Oak Hill Advisors and Cantor Fitzgerald, L.P. (Glenn August founded Oak Hill). C35's 'Bloomberg: October 2025' closing is confirmed and narrowed by his own 278-T: consummated 6 Oct 2025. The assets sold also included CF Group Management, Inc. (Cantor's managing general partner) and his BGC Class B shares.",
+  "C35/C50: 'Commerce: Lutnick fully complied with ... recusal requirements'. Add the primary record: a limited 18 U.S.C. 208(b)(1) waiver (White House Counsel, 8 Jul 2025) authorised his participation in matters of general applicability affecting Cantor, BGC and Newmark until closing. His 24 May and 19 June 2025 certifications show no waiver at those dates.",
+  "C50 (tariff refunds): the ~$10M trade claim cited by Raskin comes from the Cantor sales letter reviewed by Wired, not from separate internal documents. Cantor's later explanation is that a salesman 'erroneously' believed the trade would be approved.",
+  "C50 (Blumenthal letter): the $250M income and $192M distribution come from his 2025 annual OGE report as reported by WSJ and CNBC. The filing describes the $192M as a tax distribution under the ethics agreement. The report is not yet posted by OGE.",
+  "C77: 'the NYT reported ... recusal from matters involving 106 corporate entities'. We could not match that number to the ethics agreement, whose Appendix A lists several hundred Cantor, BGC and Newmark subsidiaries. Treat the 106 figure as unverified. The specific-party bar on Cantor ran for one year from his resignation (to about Feb 2026), not indefinitely.",
+  "C35: 'the divestiture package was announced 19 May 2025 and parts took effect 16 May 2025'. Precisely: all sale agreements were signed on 16 May 2025; BGC Class A and Newmark buybacks, Nasdaq, Disney and the trust sales are dated 16 May; Cantor, CF Group Management, BGC Class B and retirement-account shares are dated 6 Oct 2025."
+ ],
+ "denials_and_context": [
+  "Commerce: Lutnick 'has fully complied with the terms of his ethics agreement, including all divestiture and recusal requirements', and he 'has no insight or strategic control over Cantor Fitzgerald'.",
+  "Cantor: the trusts' purchase was 'funded through multiple sources, multiple companies and multiple trusts at market rates and market prices'. It declined to say whether a Tether loan financed it. It says it never executed a tariff-refund trade. Its executives say they run the firm independently of Howard Lutnick, and WSJ reports the sons are barred from discussing firm business with him.",
+  "Lutnick (Senate QFRs, Jan 2025): Cantor's Tether position is debt, not equity; 'I have never suggested to anyone that I would do anything improper with respect to Tether'; on recusals he would follow guidance from Commerce's ethics office.",
+  "The White House waiver reasons that, having forgone all gain or loss from 16 May 2025, he had no financial stake in the firms' fortunes before closing, and that general policy matters were unlikely to have a measurable effect on them.",
+  "Rule: 18 U.S.C. 208 imputes to an official the interests of a spouse and minor children, not adult children. After 6 Oct 2025 Cantor's profits are not his financial interest under that statute, though 5 C.F.R. 2635.502 impartiality rules can still apply. Ethics experts quoted by Bloomberg say a sale to one's children financed by a firm's client undermines the spirit of divestiture. That is an opinion, not a finding.",
+  "All requests for investigation came from Democratic members in the minority. None has produced an inspector-general, OGE or DOJ finding as of 17 Nov 2026.",
+  "Research limits: sec.gov refused automated access, so SEC figures come from company releases and relays. Bloomberg, NYT, WSJ and CNBC pieces were seen only as excerpts or relays. The certificates of divestiture and the 2025 annual 278e were not read, and the OGE-listed 'Conflict of Interest Waiver' entry is not uploaded."
+ ],
+ "sources": [
+  {
+   "title": "Howard Lutnick ethics agreement (21 Jan 2025)",
+   "publisher": "U.S. Office of Government Ethics",
+   "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/436440318CFB67BE85258C1C003219C1/$FILE/Lutnick%2C%20Howard%20%20finalEA.pdf",
+   "date": "2025-01-21",
+   "read": "full"
+  },
+  {
+   "title": "Howard Lutnick OGE Form 278e nominee report",
+   "publisher": "U.S. Office of Government Ethics",
+   "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/AC841CF0E3B5807A85258C1C00320D21/$FILE/Lutnick%2C%20Howard%20%20final278.pdf",
+   "date": "2024-12-30",
+   "read": "full"
+  },
+  {
+   "title": "Certification of Ethics Agreement Compliance (24 May 2025) and updated certification (19 Jun 2025)",
+   "publisher": "U.S. Office of Government Ethics",
+   "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4452B23B6A938EFE85258C98002C2FD5/$FILE/Lutnick%20EA%20Certification%20Portfolio%201%20of%201.pdf",
+   "date": "2025-06-19",
+   "read": "full"
+  },
+  {
+   "title": "OGE Form 278-T, signed 17 Jun 2025 (OGE certified 14 Jul 2025)",
+   "publisher": "U.S. Office of Government Ethics",
+   "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/66A69EB879848CF885258CC9002C8582/$FILE/Howard-Lutnick-06.17.2025-278T.pdf",
+   "date": "2025-07-14",
+   "read": "full"
+  },
+  {
+   "title": "OGE Form 278-T, signed 5 Nov 2025 (OGE certified 8 Dec 2025)",
+   "publisher": "U.S. Office of Government Ethics",
+   "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/8C12E5475578E84385258D5C00345940/$FILE/Howard-Lutnick-11.05.2025-278T.pdf",
+   "date": "2025-12-08",
+   "read": "full"
+  },
+  {
+   "title": "OGE Presidential nominee index: Lutnick, Howard (documents list)",
+   "publisher": "U.S. Office of Government Ethics",
+   "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index?OpenView&Start=1&Count=2000&Expand=121",
+   "date": "2026-11-17",
+   "read": "full"
+  },
+  {
+   "title": "Limited Waiver Pursuant to 18 U.S.C. 208(b)(1) for Howard W. Lutnick",
+   "publisher": "The White House (Counsel to the President)",
+   "url": "https://www.whitehouse.gov/wp-content/uploads/2025/07/Howard-W.-Lutnick-Limited-Waiver-Pursuant-to-18-U.S.C.-208b1.pdf",
+   "date": "2025-07-08",
+   "read": "full"
+  },
+  {
+   "title": "Democratic questions for the record, Lutnick nomination hearing, with answers",
+   "publisher": "Senate Commerce, Science and Transportation Committee",
+   "url": "https://www.commerce.senate.gov/services/files/01C4706D-6E4A-4869-8785-D9166C796DE7",
+   "date": "2025-01-29",
+   "read": "full"
+  },
+  {
+   "title": "Warren-Wyden letter to Secretary Lutnick on reported Tether loan",
+   "publisher": "Senate Banking Committee minority",
+   "url": "https://www.banking.senate.gov/imo/media/doc/20260429warrenwydenlettertolutnickretethercantorfitzgeraldloan.pdf",
+   "date": "2026-04-29",
+   "read": "full"
+  },
+  {
+   "title": "Letter from Sen. Blumenthal to Cantor chairman Brandon Lutnick",
+   "publisher": "Senate HSGAC / PSI minority",
+   "url": "https://www.hsgac.senate.gov/wp-content/uploads/2026-10-08-Letter-from-Sen-Blumenthal-to-Chairman-Lutnick.pdf",
+   "date": "2026-10-08",
+   "read": "full"
+  },
+  {
+   "title": "Raskin letter to Howard and Brandon Lutnick on tariff refunds",
+   "publisher": "House Judiciary Committee minority (via NOTUS)",
+   "url": "https://static.notus.org/82/43/d57e79c84053a225162295bdb93c/2026-02-27-raskin-to-lutnick-commerce-lutnick-cantorfitzgerald-re-tariffs.pdf",
+   "date": "2026-02-27",
+   "read": "full"
+  },
+  {
+   "title": "Warren, Dean et al. letter to Commerce Acting Inspector General",
+   "publisher": "Office of Sen. Warren",
+   "url": "https://www.warren.senate.gov/imo/media/doc/warren_dean_letter_to_commerce_ig.pdf",
+   "date": "2025-12-17",
+   "read": "full"
+  },
+  {
+   "title": "Reed letter to Commerce IG and OGE on Lutnick's Tesla remarks",
+   "publisher": "Office of Sen. Reed",
+   "url": "https://www.reed.senate.gov/download/4-2-2025-letter-to-commerce-ig-re-lutnick-ethics-issues-signed?download=1",
+   "date": "2025-04-02",
+   "read": "full"
+  },
+  {
+   "title": "Wyden, Warren probe Lutnick firm's potential conflicts related to tariff bets",
+   "publisher": "Senate Finance Committee minority",
+   "url": "https://www.finance.senate.gov/ranking-members-news/wyden-warren-probe-lutnick-firms-potential-conflicts-of-interest-related-to-massive-tariff-bets",
+   "date": "2025-08-14",
+   "read": "full"
+  },
+  {
+   "title": "Commerce chief Howard Lutnick divesting ownership in Cantor Fitzgerald",
+   "publisher": "InvestmentNews",
+   "url": "https://www.investmentnews.com/industry-news/commerce-chief-howard-lutnick-divesting-ownership-in-cantor-fitzgerald/260569",
+   "date": "2025-05-19",
+   "read": "full"
+  },
+  {
+   "title": "Howard Lutnick sheds ownership stakes in Cantor Fitzgerald, BGC, Newmark",
+   "publisher": "Dow Jones (via Tiger Brokers)",
+   "url": "https://www.itiger.com/news/2536680589",
+   "date": "2025-05-19",
+   "read": "excerpt"
+  },
+  {
+   "title": "BGC announces repurchase of more than 16.4 million shares from Howard W. Lutnick (8-K exhibit 99.1)",
+   "publisher": "BGC Group / SEC EDGAR",
+   "url": "https://www.sec.gov/Archives/edgar/data/1094831/000121390025045119/ea024268501ex99-1_bgc.htm",
+   "date": "2025-05-19",
+   "read": "excerpt"
+  },
+  {
+   "title": "Lutnick poised for big tax break, if he takes $54M in losses",
+   "publisher": "Accounting Today (Bloomberg News)",
+   "url": "https://www.accountingtoday.com/articles/lutnick-poised-for-big-tax-break-only-if-he-takes-54m-in-paper-losses",
+   "date": "2025-04-29",
+   "read": "full"
+  },
+  {
+   "title": "Top Trump official's payday in office revealed (2025 annual disclosure, per WSJ)",
+   "publisher": "The Daily Beast",
+   "url": "https://www.thedailybeast.com/top-trump-goons-shocking-payday-in-office-revealed/",
+   "date": "2026-09-04",
+   "read": "full"
+  },
+  {
+   "title": "Lutnick reports over $250 million income in 2025 filing",
+   "publisher": "Capwolf (summarising CNBC)",
+   "url": "https://capwolf.com/lutnick-reports-over-250-million-income-in-2025-filing/",
+   "date": "2026-09-30",
+   "read": "excerpt"
+  },
+  {
+   "title": "As Lutnick sold Cantor to his children, Tether gave them a loan",
+   "publisher": "Bloomberg",
+   "url": "https://news.bloomberglaw.com/mergers-and-acquisitions/as-lutnick-sold-cantor-to-his-children-tether-gave-them-a-loan",
+   "date": "2026-03-18",
+   "read": "excerpt"
+  },
+  {
+   "title": "Lutnick divests Cantor Fitzgerald to his children, 26North",
+   "publisher": "Bloomberg Law",
+   "url": "https://news.bloomberglaw.com/banking-law/lutnick-divests-cantor-fitzgerald-to-children-investor-26north",
+   "date": "2025-05-19",
+   "read": "excerpt"
+  },
+  {
+   "title": "Lutnick sons score record year as Cantor denies Trump conflicts",
+   "publisher": "Bloomberg",
+   "url": "https://news.bgov.com/banking-law/lutnick-sons-score-record-year-as-cantor-denies-trump-conflicts",
+   "date": "2025-11-14",
+   "read": "excerpt"
+  },
+  {
+   "title": "Lutnick's family firm holds stake in China-tied Satellogic",
+   "publisher": "Sludge",
+   "url": "https://readsludge.com/2025/09/19/lutnicks-family-firm-holds-stake-in-china-tied-satellogic/",
+   "date": "2025-09-19",
+   "read": "excerpt"
+  },
+  {
+   "title": "The sons of Trump's commerce secretary are making money in the data center biz",
+   "publisher": "Gizmodo (on NYT reporting)",
+   "url": "https://gizmodo.com/the-sons-of-trumps-commerce-secretary-are-making-money-in-the-data-center-biz-2000689741",
+   "date": "2025-11-20",
+   "read": "excerpt"
+  },
+  {
+   "title": "Howard Lutnick's old firm did not, in fact, profit from Supreme Court tariff ruling",
+   "publisher": "Semafor",
+   "url": "https://www.semafor.com/article/02/20/2026/cantor-fitzgerald-howard-lutnicks-old-firm-did-not-profit-from-supreme-court-tariff-ruling",
+   "date": "2026-02-20",
+   "read": "excerpt"
+  },
+  {
+   "title": "Raskin opens probe of Lutnick and Cantor over tariff refunds",
+   "publisher": "NOTUS",
+   "url": "https://www.notus.org/congress/jamie-raskin-howard-lutnick-congress-house-investigation-tariffs",
+   "date": "2026-02-27",
+   "read": "excerpt"
+  },
+  {
+   "title": "Legal experts say Trump official broke law by saying 'buy Tesla' but don't expect a crackdown",
+   "publisher": "AP (via News4Jax)",
+   "url": "https://www.news4jax.com/news/politics/2025/03/21/legal-experts-say-trump-official-broke-law-by-saying-buy-tesla-stock-but-dont-expect-a-crackdown/",
+   "date": "2025-03-21",
+   "read": "excerpt"
+  },
+  {
+   "title": "Complaint regarding Secretary Lutnick's Tesla endorsement",
+   "publisher": "Campaign Legal Center",
+   "url": "https://campaignlegal.org/sites/default/files/2025-03/Lutnick Complaint-Final.pdf",
+   "date": "2025-03",
+   "read": "excerpt"
+  },
+  {
+   "title": "Lofgren, Warren, Wyden, Van Hollen lead new probe into Cantor Fitzgerald, USAR",
+   "publisher": "Office of Rep. Lofgren",
+   "url": "https://lofgren.house.gov/media/press-releases/lofgren-warren-wyden-van-hollen-lead-new-probe-cantor-fitzgerald-usar-after-16",
+   "date": "2026-07-07",
+   "read": "excerpt"
+  }
+ ],
+ "entities": [
+  {
+   "id": "howard-lutnick",
+   "name": "Howard Lutnick",
+   "type": "person",
+   "description": "Commerce Secretary since 18 Feb 2025; former chairman and CEO of Cantor Fitzgerald, BGC and Newmark"
+  },
+  {
+   "id": "brandon-lutnick",
+   "name": "Brandon Lutnick",
+   "type": "person",
+   "description": "Chairman and CEO of Cantor Fitzgerald; controlling trustee of the children's trusts"
+  },
+  {
+   "id": "kyle-lutnick",
+   "name": "Kyle Lutnick",
+   "type": "person",
+   "description": "Executive vice chair of Cantor Fitzgerald; Newmark director"
+  },
+  {
+   "id": "cantor-fitzgerald",
+   "name": "Cantor Fitzgerald",
+   "type": "company",
+   "description": "Financial firm whose ownership Lutnick sold on 6 Oct 2025"
+  },
+  {
+   "id": "cf-group-management",
+   "name": "CF Group Management, Inc.",
+   "type": "company",
+   "description": "Cantor's managing general partner; Lutnick's interest sold 6 Oct 2025"
+  },
+  {
+   "id": "bgc-group",
+   "name": "BGC Group",
+   "type": "company",
+   "description": "Brokerage; bought back $151.5M of Lutnick's shares in May 2025"
+  },
+  {
+   "id": "newmark",
+   "name": "Newmark Group",
+   "type": "company",
+   "description": "Commercial real-estate firm; bought back about $127M of Lutnick's shares in May 2025"
+  },
+  {
+   "id": "lutnick-dynasty-trust-a",
+   "name": "Dynasty Trust A",
+   "type": "fund",
+   "description": "Trust for Lutnick's children; reported borrower from Tether (Oct 2025 filing)"
+  },
+  {
+   "id": "26north",
+   "name": "26North",
+   "type": "fund",
+   "description": "Josh Harris's firm; named buyer and minority investor in Cantor"
+  },
+  {
+   "id": "oak-hill-advisors",
+   "name": "Oak Hill Advisors",
+   "type": "fund",
+   "description": "Named in the White House waiver as a buyer of Lutnick's interests"
+  },
+  {
+   "id": "glenn-august",
+   "name": "Glenn August",
+   "type": "person",
+   "description": "Oak Hill Advisors founder; minority investor in Cantor"
+  },
+  {
+   "id": "tether",
+   "name": "Tether",
+   "type": "company",
+   "description": "Stablecoin issuer; Cantor holds its convertible bond and custodies its reserves"
+  },
+  {
+   "id": "satellogic",
+   "name": "Satellogic",
+   "type": "company",
+   "description": "Satellite-imaging firm taken public by a Cantor SPAC; licensed by NOAA; Lutnick on its board to Nov 2024"
+  },
+  {
+   "id": "fermi-america",
+   "name": "Fermi America",
+   "type": "company",
+   "description": "Data-centre developer advised by Cantor and Newmark"
+  },
+  {
+   "id": "usa-rare-earth",
+   "name": "USA Rare Earth",
+   "type": "company",
+   "description": "Cantor-placed $1.5B PIPE alongside a Commerce letter of intent (C77)"
+  },
+  {
+   "id": "us-commerce-department",
+   "name": "U.S. Department of Commerce",
+   "type": "government",
+   "description": "Department Lutnick leads; includes NOAA, BIS and NTIA"
+  },
+  {
+   "id": "noaa",
+   "name": "NOAA",
+   "type": "government",
+   "description": "Commerce agency licensing remote sensing and seabed mining"
+  },
+  {
+   "id": "commerce-oig",
+   "name": "Commerce Office of Inspector General",
+   "type": "government",
+   "description": "Asked to review Lutnick's recusals and waiver (Dec 2025)"
+  },
+  {
+   "id": "office-of-government-ethics",
+   "name": "Office of Government Ethics",
+   "type": "government",
+   "description": "Certified Lutnick's 278-T reports; issued six certificates of divestiture"
+  },
+  {
+   "id": "white-house",
+   "name": "White House",
+   "type": "government",
+   "description": "Counsel's office issued Lutnick's limited 208(b)(1) waiver"
+  },
+  {
+   "id": "david-warrington",
+   "name": "David Warrington",
+   "type": "person",
+   "description": "Counsel to the President; signed Lutnick's 8 Jul 2025 waiver"
+  },
+  {
+   "id": "elizabeth-warren",
+   "name": "Elizabeth Warren",
+   "type": "person",
+   "description": "Senator; letters on Tether loan, tariff bets, data centres, USAR"
+  },
+  {
+   "id": "ron-wyden",
+   "name": "Ron Wyden",
+   "type": "person",
+   "description": "Senator; letters on Tether loan and tariff bets"
+  },
+  {
+   "id": "richard-blumenthal",
+   "name": "Richard Blumenthal",
+   "type": "person",
+   "description": "PSI ranking member; 8 Oct 2026 letter to Cantor"
+  },
+  {
+   "id": "jamie-raskin",
+   "name": "Jamie Raskin",
+   "type": "person",
+   "description": "House Judiciary ranking member; 27 Feb 2026 tariff-refund letter"
+  },
+  {
+   "id": "madeleine-dean",
+   "name": "Madeleine Dean",
+   "type": "person",
+   "description": "Representative; co-led Dec 2025 letter to the Commerce IG"
+  },
+  {
+   "id": "jack-reed",
+   "name": "Jack Reed",
+   "type": "person",
+   "description": "Senator; Apr 2025 letter on Lutnick's Tesla remarks"
+  },
+  {
+   "id": "campaign-legal-center",
+   "name": "Campaign Legal Center",
+   "type": "company",
+   "description": "Filed Mar 2025 ethics complaint over Tesla remarks"
+  },
+  {
+   "id": "tariff-refund-claims",
+   "name": "Tariff refund claims",
+   "type": "asset",
+   "description": "Rights to IEEPA tariff refunds Cantor offered to buy"
+  },
+  {
+   "id": "scotus-ieepa-tariff-ruling",
+   "name": "Supreme Court IEEPA tariff ruling",
+   "type": "event",
+   "description": "Feb 2026 ruling striking down IEEPA tariffs"
+  },
+  {
+   "id": "genius-act",
+   "name": "GENIUS Act",
+   "type": "law",
+   "description": "2025 stablecoin law"
+  },
+  {
+   "id": "presidents-working-group-digital-assets",
+   "name": "President's Working Group on Digital Asset Markets",
+   "type": "government",
+   "description": "EO 14178 body on which the Commerce Secretary sits"
+  },
+  {
+   "id": "nvidia",
+   "name": "Nvidia",
+   "type": "company",
+   "description": "Chipmaker; Cantor exposure and export decisions covered in C35/C50"
+  },
+  {
+   "id": "donald-trump",
+   "name": "Donald Trump",
+   "type": "person",
+   "description": "President; appointed Lutnick"
+  },
+  {
+   "id": "us-congress",
+   "name": "U.S. Congress",
+   "type": "government",
+   "description": "Source of the oversight letters"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "howard-lutnick",
+   "target": "us-commerce-department",
+   "label": "Secretary of Commerce (confirmed 18 Feb 2025)",
+   "type": "political",
+   "date": "2025-02-18"
+  },
+  {
+   "source": "donald-trump",
+   "target": "howard-lutnick",
+   "label": "nominated and appointed",
+   "type": "political",
+   "date": "2025-02"
+  },
+  {
+   "source": "howard-lutnick",
+   "target": "cantor-fitzgerald",
+   "label": "sold partnership interest (signed 16 May, closed 6 Oct 2025; value over $50M band)",
+   "type": "ownership",
+   "date": "2025-10-06"
+  },
+  {
+   "source": "howard-lutnick",
+   "target": "cf-group-management",
+   "label": "sold interest in Cantor's managing general partner",
+   "type": "ownership",
+   "date": "2025-10-06"
+  },
+  {
+   "source": "bgc-group",
+   "target": "howard-lutnick",
+   "label": "repurchased 16,452,850 Class A shares for $151,501,133",
+   "type": "money",
+   "date": "2025-05-16",
+   "amount_usd": 151501133
+  },
+  {
+   "source": "newmark",
+   "target": "howard-lutnick",
+   "label": "repurchased about 11M shares for about $127M",
+   "type": "money",
+   "date": "2025-05-16",
+   "amount_usd": 127000000
+  },
+  {
+   "source": "howard-lutnick",
+   "target": "cantor-fitzgerald",
+   "label": "sold BGC Class B shares to Cantor (over $50M band)",
+   "type": "money",
+   "date": "2025-10-06"
+  },
+  {
+   "source": "26north",
+   "target": "cantor-fitzgerald",
+   "label": "buyer and minority investor",
+   "type": "ownership",
+   "date": "2025-10-06"
+  },
+  {
+   "source": "oak-hill-advisors",
+   "target": "cantor-fitzgerald",
+   "label": "named buyer of Lutnick interests",
+   "type": "ownership",
+   "date": "2025-10-06"
+  },
+  {
+   "source": "glenn-august",
+   "target": "oak-hill-advisors",
+   "label": "founder",
+   "type": "ownership",
+   "date": ""
+  },
+  {
+   "source": "brandon-lutnick",
+   "target": "lutnick-dynasty-trust-a",
+   "label": "controlling trustee of children's trusts",
+   "type": "family",
+   "date": "2025-05"
+  },
+  {
+   "source": "brandon-lutnick",
+   "target": "howard-lutnick",
+   "label": "son",
+   "type": "family",
+   "date": ""
+  },
+  {
+   "source": "kyle-lutnick",
+   "target": "howard-lutnick",
+   "label": "son",
+   "type": "family",
+   "date": ""
+  },
+  {
+   "source": "tether",
+   "target": "lutnick-dynasty-trust-a",
+   "label": "lent undisclosed sum (credit filing 7 Oct 2025, reported)",
+   "type": "money",
+   "date": "2025-10-07"
+  },
+  {
+   "source": "cantor-fitzgerald",
+   "target": "howard-lutnick",
+   "label": "2025 tax distribution of about $192M (reported from annual 278e)",
+   "type": "money",
+   "date": "2025",
+   "amount_usd": 192000000
+  },
+  {
+   "source": "white-house",
+   "target": "howard-lutnick",
+   "label": "limited 208(b)(1) waiver for general matters affecting Cantor, BGC, Newmark",
+   "type": "regulatory",
+   "date": "2025-07-08"
+  },
+  {
+   "source": "david-warrington",
+   "target": "howard-lutnick",
+   "label": "signed limited interim waiver",
+   "type": "regulatory",
+   "date": "2025-07-08"
+  },
+  {
+   "source": "office-of-government-ethics",
+   "target": "howard-lutnick",
+   "label": "issued certificates of divestiture OGE-2025-070 to 075",
+   "type": "regulatory",
+   "date": "2025-04-25"
+  },
+  {
+   "source": "cantor-fitzgerald",
+   "target": "tether",
+   "label": "holds convertible bond (April 2024) and custodies reserves",
+   "type": "commercial",
+   "date": "2024-04",
+   "amount_usd": 600000000
+  },
+  {
+   "source": "cantor-fitzgerald",
+   "target": "satellogic",
+   "label": "SPAC sponsor and principal investor",
+   "type": "ownership",
+   "date": "2022"
+  },
+  {
+   "source": "noaa",
+   "target": "satellogic",
+   "label": "remote sensing licence (Nov 2023)",
+   "type": "regulatory",
+   "date": "2023-11"
+  },
+  {
+   "source": "tether",
+   "target": "satellogic",
+   "label": "agreed to buy $30M of secured convertible notes",
+   "type": "money",
+   "date": "2024-04",
+   "amount_usd": 30000000
+  },
+  {
+   "source": "cantor-fitzgerald",
+   "target": "fermi-america",
+   "label": "advised on financing, about $6M fees with Newmark (NYT)",
+   "type": "commercial",
+   "date": "2025",
+   "amount_usd": 6000000
+  },
+  {
+   "source": "cantor-fitzgerald",
+   "target": "tariff-refund-claims",
+   "label": "offered to buy importers' refund rights at 20-30% (no executed trade confirmed)",
+   "type": "commercial",
+   "date": "2025-07"
+  },
+  {
+   "source": "cantor-fitzgerald",
+   "target": "usa-rare-earth",
+   "label": "lead placement agent on $1.5B PIPE",
+   "type": "commercial",
+   "date": "2026-01-29"
+  },
+  {
+   "source": "us-commerce-department",
+   "target": "usa-rare-earth",
+   "label": "$1.6B letter of intent; definitive deal Jun 2026",
+   "type": "money",
+   "date": "2026-01",
+   "amount_usd": 1600000000
+  },
+  {
+   "source": "howard-lutnick",
+   "target": "presidents-working-group-digital-assets",
+   "label": "member as Commerce Secretary",
+   "type": "political",
+   "date": "2025-01-23"
+  },
+  {
+   "source": "jamie-raskin",
+   "target": "brandon-lutnick",
+   "label": "demanded tariff-refund records",
+   "type": "political",
+   "date": "2026-02-27"
+  },
+  {
+   "source": "elizabeth-warren",
+   "target": "howard-lutnick",
+   "label": "asked about Tether loan to children's trust",
+   "type": "political",
+   "date": "2026-04-29"
+  },
+  {
+   "source": "ron-wyden",
+   "target": "howard-lutnick",
+   "label": "asked about Tether loan to children's trust",
+   "type": "political",
+   "date": "2026-04-29"
+  },
+  {
+   "source": "richard-blumenthal",
+   "target": "brandon-lutnick",
+   "label": "requested Cantor-Tether records and exit terms",
+   "type": "political",
+   "date": "2026-10-08"
+  },
+  {
+   "source": "madeleine-dean",
+   "target": "commerce-oig",
+   "label": "asked IG to review Lutnick recusals and waiver",
+   "type": "political",
+   "date": "2025-12-17"
+  },
+  {
+   "source": "jack-reed",
+   "target": "commerce-oig",
+   "label": "asked IG and OGE to investigate Tesla remarks",
+   "type": "political",
+   "date": "2025-04-02"
+  },
+  {
+   "source": "campaign-legal-center",
+   "target": "office-of-government-ethics",
+   "label": "complaint over Tesla remarks",
+   "type": "legal",
+   "date": "2025-03"
+  }
+ ],
+ "leads": [
+  {
+   "title": "Who holds the promissory notes' collateral: the Lutnick 2020 and 1999 Descendants' Trusts",
+   "why_connected": "His ethics agreement says he holds notes from these trusts and recuses on matters affecting their ability to repay. If those trusts are among the Cantor buyers, a continuing financial link to Cantor would exist; the record does not say.",
+   "entities": [
+    "howard-lutnick",
+    "cantor-fitzgerald",
+    "lutnick-dynasty-trust-a"
+   ],
+   "source_url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/436440318CFB67BE85258C1C003219C1/$FILE/Lutnick%2C%20Howard%20%20finalEA.pdf"
+  },
+  {
+   "title": "The OGE-listed 'Conflict of Interest Waiver' and the six certificates of divestiture",
+   "why_connected": "OGE lists a waiver entry not yet uploaded and certificates OGE-2025-070 to 075 available by Form 201 request. They would show whether any waiver beyond the 8 Jul 2025 memo exists and which assets got tax deferral.",
+   "entities": [
+    "office-of-government-ethics",
+    "howard-lutnick"
+   ],
+   "source_url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index?OpenView&Start=1&Count=2000&Expand=121"
+  },
+  {
+   "title": "Lutnick's 2025 annual OGE report (filed 2026) not yet posted",
+   "why_connected": "Reported figures ($192M distribution, $259M of sales, $166M of reinvestment) come from press copies; the form would confirm the tax-distribution description and the rollover.",
+   "entities": [
+    "howard-lutnick",
+    "cantor-fitzgerald"
+   ],
+   "source_url": "https://www.thedailybeast.com/top-trump-goons-shocking-payday-in-office-revealed/"
+  },
+  {
+   "title": "Cantor Equity Partners II Schedule 13D of 6 Oct 2025",
+   "why_connected": "Cited by senators as evidence of the 6 Oct 2025 transfer; may show the post-closing ownership structure and the trusts' names.",
+   "entities": [
+    "cantor-fitzgerald",
+    "brandon-lutnick"
+   ],
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2034269/000121390025096664/xslSCHEDULE_13D_X01/primary_doc.xml"
+  },
+  {
+   "title": "Satellogic and NOAA's Office of Space Commerce",
+   "why_connected": "Cantor-backed, Tether-financed satellite firm under Commerce licensing; Lutnick would not commit to recusal; no tenure decision found yet.",
+   "entities": [
+    "satellogic",
+    "noaa",
+    "cantor-fitzgerald",
+    "tether"
+   ],
+   "source_url": "https://readsludge.com/2025/09/19/lutnicks-family-firm-holds-stake-in-china-tied-satellogic/"
+  }
+ ]
+}
