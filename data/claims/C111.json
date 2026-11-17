@@ -1,0 +1,743 @@
+{
+  "id": "C111",
+  "title": "Jared Kushner, Affinity Partners & Israel",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "The investments are documented in company-side reporting and CNN: Affinity Partners bought 15% of Shlomo Group's vehicle and credit arm (signed Sept 2023, closed 1 Feb 2024 at about $110M) and 4.95% of Phoenix in July 2024 (about NIS 466M), doubling to 9.9% on 15 Jan 2025 (NIS 932M in all), then sold 2.5% on 28 Jul 2026 for about NIS 1.05B ($343M), keeping a 7.4% stake worth about NIS 3.3B. Phoenix holds, per CNN, more than $456M in nine Israeli military suppliers (about $265M in Elbit); Affinity holds none directly. His role in the Oct 2025 ceasefire, the Board of Peace and Iran talks is documented, as is his unpaid, undisclosed status and the CREW suit of 14 Oct 2026. The two overlap in time only: CNN found no indication that his diplomacy affected the investments, he and the White House deny any connection, and no authority has made a finding. Gulf funding of Affinity is documented, but no source traces the Israeli deals to Gulf money, and Gulf approval is reported once (Globes, for Shlomo).",
+  "sub_claims": [
+    {
+      "statement": "Affinity Partners bought 4.95% of Phoenix Holdings (now Phoenix Financial) in July 2024 for about NIS 466M (about $128.5M) and exercised an option for a second 4.95% in January 2025, five days before the inauguration.",
+      "verdict": "confirmed",
+      "finding": "GRADE: documented (company-side reporting by Globes and Calcalist, plus CNN; the TASE filing itself could not be fetched, the site returned 403). Calcalist (16 Jul 2024): 4.95% bought from Centerbridge Partners and Gallatin Point at NIS 37.50 a share, a company valuation of NIS 9.4B, about $128M; a further 4.95% was committed subject to regulatory approval. Globes (15 Jan 2025) reports the Capital Market, Insurance and Savings Authority approved the second block on the last day of the option, taking Affinity to 9.9% and making it Phoenix's largest shareholder; it says Affinity paid about NIS 470M for the first block and a similar amount for the second. Ynet/Calcalist (Jul 2026) gives the total as NIS 932M for 9.9%; JNS gives about NIS 940M ($307M). CNN: 'five days before Trump was sworn back into office'. Dollar conversions vary by outlet ($128M, $128.5M, $152M-$165M for the first block); the shekel figures are the stable ones. Kushner on the July 2024 purchase: 'a decision rooted in my belief in Israel's resiliency' (quoted by CNN from Bloomberg).",
+      "sources": [
+        "https://www.calcalistech.com/ctechnews/article/s1upg3qu0",
+        "https://en.globes.co.il/en/article-1001484443",
+        "https://en.globes.co.il/en/article-jared-kushner-set-to-become-biggest-shareholder-in-phoenix-1001499509",
+        "https://www.ynetnews.com/business/article/byukn3rsfg",
+        "https://jns.org/news/israel-news/kushner-firm-sells-25-of-phoenix-financial-stake",
+        "https://www.cnn.com/2026/10/01/us/jared-kushner-israel-gaza-investments-invs-vis"
+      ]
+    },
+    {
+      "statement": "In late July 2026 Affinity sold about a quarter of its Phoenix stake for about NIS 1.05B (about $343M) and remains the largest shareholder.",
+      "verdict": "confirmed",
+      "finding": "GRADE: documented (Ynet/Calcalist, JNS citing Globes, CNN, Garcia letter). JNS (29 Jul 2026) says the sale took place 'on Tuesday', that is 28 Jul 2026: 2.5% of Phoenix (Calcalist: 2.45%) sold to US institutions through Jefferies at a 4% discount to the morning's price, cutting Affinity from 9.9% to 7.4%, a remaining stake worth about NIS 3.3B (about $1.06B-$1.08B). Ynet/Calcalist adds that the proceeds exceed Affinity's whole NIS 932M outlay, that about NIS 230M of dividends were also received, and that Phoenix's market value rose roughly fivefold since July 2024 (to about NIS 44B). Affinity said it remains a 'substantial long-term shareholder'. CNN and the Garcia letter describe the sale as 'more than five times its initial stock purchase'; that compares the proceeds with the cost of the quarter sold (our arithmetic: about NIS 233M), not with the whole investment. Realised proceeds go to the fund; what share reaches Kushner personally as sole owner of the management company, after fund-level costs and investors' share, is not public. Those 'more than $1 billion' and NIS 3.6B gain figures include unrealised value; do not add them to cash.",
+      "sources": [
+        "https://www.ynetnews.com/business/article/byukn3rsfg",
+        "https://jns.org/news/israel-news/kushner-firm-sells-25-of-phoenix-financial-stake",
+        "https://www.cnn.com/2026/10/01/us/jared-kushner-israel-gaza-investments-invs-vis",
+        "https://oversightdemocrats.house.gov/imo/media/doc/2026-10-05garciatojaredkushnerreaffinitypartnersisraeliinvestment.pdf"
+      ]
+    },
+    {
+      "statement": "Affinity bought 15% of Shlomo Group's vehicle leasing, rental and credit business: signed September 2023 at about NIS 570M ($150M), closed 1 February 2024 at about $110M.",
+      "verdict": "confirmed",
+      "finding": "GRADE: documented (Globes and Calcalist, read in full). Signing (Sept 2023): 15% of a new subsidiary holding Shlomo Group's leasing, rental, sales and credit activities, at a valuation of NIS 3.8B, about NIS 570M; Affinity's holding capped at 18% by a value-adjustment mechanism; one board director and one observer; from year five, a three-year window in which Affinity may ask Shlomo to buy it out at market price or demand an IPO. Globes states that Saudi Arabia, which 'invested $2 billion in Affinity Partners last year', 'has granted approval for the current investment in Israel'. Closing (1 Feb 2024): valuation cut to NIS 2.7B (about $740M) and price to about $110M, a $40M discount per Calcalist, after the Gaza war began; Shlomo Group lent Affinity NIS 46.75M to help complete the deal (Globes). The fleet: more than 78,000 vehicles, about 30% of the Israeli leasing and rental market. CNN's '$150 million' is the figure announced at signing, not the closing price. No sale of the Shlomo stake and no 2025-26 update was found.",
+      "sources": [
+        "https://en.globes.co.il/en/article-1001457191",
+        "https://en.globes.co.il/en/article-kushners-affinity-partners-buys-15-shlomo-group-stake-1001469198",
+        "https://www.calcalistech.com/ctechnews/article/hys3sau5a",
+        "https://www.cnn.com/2026/10/01/us/jared-kushner-israel-gaza-investments-invs-vis"
+      ]
+    },
+    {
+      "statement": "These are Affinity's only documented investments in Israeli companies.",
+      "verdict": "partly-accurate",
+      "finding": "GRADE: documented for the two named deals, 'nothing found' for others. CNN calls the Shlomo deal Affinity's 'first investment in Israel' (2023) and Phoenix the next; Globes (Jan 2025) lists no other Israeli holding; Affinity told CNN's reporters in March 2026 that it had made 28 investments in all, without listing them. Affinity is a private adviser and need not disclose holdings, so a complete list is not public. In May 2025 Calcalist, via Ynet, reported Kushner's plan to sell 2%-3% of Phoenix, which became the July 2026 sale. In 2024 Globes also reported an earlier attempt to buy 25% of Phoenix's insurance agencies; no completed deal was found. Phoenix itself holds many Israeli companies, including defence suppliers (next item), but Affinity holds those only indirectly.",
+      "sources": [
+        "https://www.cnn.com/2026/10/01/us/jared-kushner-israel-gaza-investments-invs-vis",
+        "https://en.globes.co.il/en/article-1001503692",
+        "https://www.ynetnews.com/business/article/byukn3rsfg"
+      ]
+    },
+    {
+      "statement": "Phoenix has invested more than $456M in nine companies that supply Israel's military, including about $265M in Elbit Systems.",
+      "verdict": "confirmed",
+      "finding": "GRADE: documented as CNN's analysis of Phoenix's mandatory Israeli quarterly filings; CNN says the records 'include only a fraction of Phoenix's holdings' and exclude retirement accounts, mutual funds and bonds, and two Israeli forensic accountants reviewed them (despite labelling inconsistencies in some reports). The $456M and $265M figures appear in the Garcia letter, citing CNN; the paywalled CNN text read here gives 'hundreds of millions of dollars' in Elbit Systems and 'at least eight other companies', and the totals come from the Garcia letter and secondary coverage. Some of the stakes pre-date Affinity's arrival; others, such as a maker of electronic fuzes for shells used in Gaza and a maker of tank parts, came after (CNN). Affinity holds none of the nine directly. Phoenix declined to comment on the findings; a spokesperson said the firm is regulated and that shareholder value derives primarily from operating performance. Holding Elbit shares through an insurer's investment portfolio is ordinary for an Israeli institutional investor; the filing data show what Phoenix holds, not why.",
+      "sources": [
+        "https://www.cnn.com/2026/10/01/us/jared-kushner-israel-gaza-investments-invs-vis",
+        "https://oversightdemocrats.house.gov/imo/media/doc/2026-10-05garciatojaredkushnerreaffinitypartnersisraeliinvestment.pdf",
+        "https://www.ynetnews.com/article/hkat0x25fx"
+      ]
+    },
+    {
+      "statement": "Affinity's capital for these Israeli investments came from Gulf sovereign investors, and Gulf investors approved the Israeli investments.",
+      "verdict": "partly-accurate",
+      "finding": "GRADE: documented for the fund's capital; single-source (Globes) for Saudi approval of Shlomo; nothing found for Phoenix. Capital: Saudi PIF committed $2B in 2021 (C15); Qatar's QIA and Abu Dhabi's Lunate added about $1.5B in Dec 2024; Form ADV (Mar 2026) shows about $6.16B of regulatory assets, about 99% from non-US clients (C15, C99; Raskin letter). Affinity raised roughly $3B by early 2024, mainly from PIF (Calcalist). Globes (Sept 2023) states that Saudi Arabia 'has granted approval' for the Shlomo investment; no document was found and no outlet quotes PIF. For Phoenix, Globes (Jul 2024 and Jan 2025) says Israeli approval of Affinity as a 'Saudi' fund was uncertain and expected to carry restrictions; no report says PIF or another Gulf investor approved or financed the Phoenix purchase. Affinity's investors' money is pooled; no source traces any Israeli deal to a specific Gulf investor's dollars. Kushner told a podcast (Sept 2025, via CNN) that his Middle East investors 'are now looking at Israel'. Regulators in Israel treated the fund as Gulf-funded when approving the second Phoenix block (Globes).",
+      "sources": [
+        "https://en.globes.co.il/en/article-1001457191",
+        "https://en.globes.co.il/en/article-1001484443",
+        "https://en.globes.co.il/en/article-jared-kushner-set-to-become-biggest-shareholder-in-phoenix-1001499509",
+        "https://www.calcalistech.com/ctechnews/article/hys3sau5a",
+        "https://www.cnn.com/2026/10/01/us/jared-kushner-israel-gaza-investments-invs-vis",
+        "https://oversightdemocrats.house.gov/imo/media/doc/2026-10-05garciatojaredkushnerreaffinitypartnersisraeliinvestment.pdf",
+        "https://oversightdemocrats.house.gov/imo/media/doc/2026-03-19garciawydenlettertoaffinitypartnersrekushnerfundraisingfinal.pdf"
+      ]
+    },
+    {
+      "statement": "Kushner and his family business have other ties to Israel (loans, investments by Israeli institutions).",
+      "verdict": "partly-accurate",
+      "finding": "GRADE: documented but old; nothing found for 2025-26. In Jan 2018 the NYT (relayed by the Forward) reported that Israeli insurer Menora Mivtachim invested about $30M in Kushner Companies' Maryland apartment properties shortly before his May 2017 Israel trip; Menora's executive said Kushner's role 'didn't make us do the deal'. Globes has reported that Kushner Companies borrowed from Bank Hapoalim and Bank Leumi and took equity from Psagot and Harel. In Dec 2020 Kushner Companies filed for a planned $100M bond sale on the Tel Aviv Stock Exchange (Commercial Observer, Forward). These pre-date the second term and the diplomatic role under review. We found no 2025-26 report of a new Israeli loan or investment in Kushner Companies; that does not prove none exists, because Kushner Companies is private. His father Charles Kushner is US ambassador to France (Globes); that is not an Israel tie.",
+      "sources": [
+        "https://forward.com/fast-forward/391628/jared-kushners-israel-ties-deepen-with-30m-insurance-investment-revelation/",
+        "https://commercialobserver.com/2020/12/kushner-companies-israeli-bonds-jared/",
+        "https://forward.com/fast-forward/461315/jared-kushners-company-plans-to-raise-100-million-in-israel-bonds-as-his/",
+        "https://en.globes.co.il/en/article-1001503692"
+      ]
+    },
+    {
+      "statement": "Kushner has been a central negotiator of the Gaza ceasefire, the hostage deal and regional diplomacy since 2025, with the title 'envoy of peace' and no pay.",
+      "verdict": "confirmed",
+      "finding": "GRADE: documented (CNN, Axios, Al Jazeera, Bloomberg Law; see also C15). CNN: Kushner began acting as an unofficial adviser in May 2025; in Sept 2025 he was in the Oval Office when Netanyahu called Qatar's prime minister after the Israeli strike in Doha, and went over a Gaza framework with Netanyahu's delegation; the 20-point plan was published on 29 Sept 2025; with Witkoff he went to Sharm el-Sheikh in Oct 2025, where Axios reports a direct meeting with Hamas negotiators helped close the deal; the ceasefire took effect on 10 Oct 2025 (CNN: 11 Oct in Hostages Square), the summit at Sharm el-Sheikh was on 13 Oct 2025. He presented a 'New Gaza' masterplan at Davos on 22 Jan 2026 and is an executive board member of the Board of Peace (named mid-Jan 2026; first meeting 19 Feb 2026). He has also taken part in Iran, Russia-Ukraine and Lebanon talks (Raskin letters; C15). Status: the White House says he is an unpaid volunteer who takes no government salary and pays his own expenses; he has filed no financial disclosure; the New York Times and others have also described him as 'special envoy for peace', which Kushner uses himself. Hostage-specific role: he took part in the deal that released the remaining living hostages (Oct 2025); no separate earlier hostage negotiation role in 2025 was established beyond the May 2025 start date.",
+      "sources": [
+        "https://www.cnn.com/2026/10/01/us/jared-kushner-israel-gaza-investments-invs-vis",
+        "https://www.axios.com/2025/10/13/gaza-deal-kushner-witkoff-hamas-direct-meeting",
+        "https://www.aljazeera.com/news/2026/1/18/who-is-part-of-trumps-board-of-peace-for-gaza",
+        "https://news.bloomberglaw.com/us-law-week/white-house-sued-over-kushners-government-work-by-watchdog",
+        "https://www.thewrap.com/media-platforms/politics/jared-kushner-cnn-misleading-middle-east-israeli-defense-companies/"
+      ]
+    },
+    {
+      "statement": "The CREW lawsuit challenges Kushner's volunteer envoy status and lack of disclosure.",
+      "verdict": "confirmed",
+      "finding": "GRADE: documented (Bloomberg Law and NBC, search excerpts; the complaint was not read). CREW filed suit on 14 Oct 2026 in the US District Court for the District of Columbia (26-cv-3580) against the administration and named officials, arguing under the Appointments Clause and federal ethics law that his role as chief negotiator makes him an official who must file financial disclosures, or be removed; it cites Affinity's roughly 99% foreign funding. Kushner's lawyer Chad Mizelle: the suit is 'without merit' and CREW lacks standing; outside and government ethics lawyers reviewed his volunteer service and found it compliant. The White House called CREW 'unserious, Trump-deranged' and said private envoys are an old presidential practice. No ruling found as of 17 Nov 2026. Earlier, CREW wrote to White House Counsel on 11 Mar 2026 asking for disclosure (cited in the Garcia-Wyden letter).",
+      "sources": [
+        "https://news.bloomberglaw.com/us-law-week/white-house-sued-over-kushners-government-work-by-watchdog",
+        "https://www.nbcnewyork.com/news/national-international/crew-lawsuit-trump-administration-jared-kushner/6559505/",
+        "https://oversightdemocrats.house.gov/imo/media/doc/2026-03-19garciawydenlettertoaffinitypartnersrekushnerfundraisingfinal.pdf"
+      ]
+    },
+    {
+      "statement": "Dated overlap: Affinity's Israeli investments and Kushner's diplomatic role overlap in time (overlap only, no cause shown).",
+      "verdict": "confirmed",
+      "finding": "GRADE: documented dates; the link itself is inferred from timing, and no source asserts a causal connection. Affinity held Phoenix throughout his 2025-26 diplomacy: second block closed 15 Jan 2025, before the second term and before his role began (about May 2025); the Shlomo stake has been held since Feb 2024; the partial sale on 28 Jul 2026 came during the Board of Peace period, nine months after the Oct 2025 ceasefire. CNN, which broke the story, 'found no indication that Kushner's actions as a diplomat directly affected the investments reviewed'. Kushner's lawyer: he 'never participated in or directed Phoenix's decisions', had 'no involvement in the decision to purchase, hold or sell any of the nine companies' and is not on Phoenix's board, but he 'regularly spoke with Phoenix management' (he told Forbes in Sept 2025 of 'a very active dialogue', meeting leadership every few weeks), a contact that had 'significantly reduced' since his volunteer work. Kushner on X: Phoenix is a financial institution, 'not a defense company', the investment pre-dates Trump's re-election and his return to public service. See the table in the report.",
+      "sources": [
+        "https://www.cnn.com/2026/10/01/us/jared-kushner-israel-gaza-investments-invs-vis",
+        "https://www.thewrap.com/media-platforms/politics/jared-kushner-cnn-misleading-middle-east-israeli-defense-companies/",
+        "https://www.foxnews.com/media/jared-kushner-scolds-cnn-deeply-misleading-report-says-key-info-buried-paywall.amp",
+        "https://oversightdemocrats.house.gov/imo/media/doc/2026-10-05garciatojaredkushnerreaffinitypartnersisraeliinvestment.pdf",
+        "https://www.ynetnews.com/business/article/byukn3rsfg"
+      ]
+    },
+    {
+      "statement": "Complaints and congressional letters: who wrote what, and the replies.",
+      "verdict": "confirmed",
+      "finding": "GRADE: documented. (1) Wyden (Senate Finance) and Garcia (House Oversight), 19 Mar 2026: letters to Affinity and the White House on the $5B-plus fundraising; no reply found. (2) Raskin (House Judiciary), 17 Apr 2026: wide-ranging requests (investors, meetings, foreign-official communications) on his 'glaring and incurable conflict of interest'; on 25 Aug 2026 Raskin said Kushner never answered and Affinity ignored staff follow-up, and he added Albania; the White House called the requests the 'same, tired narrative'; Affinity's chief legal officer said Kushner 'has complied with all applicable laws and requirements' (reported, search excerpt). (3) Garcia, 5 Oct 2026, to Kushner on the Phoenix stake: asks for all foreign investments since 20 Jan 2025 dependent on US action, a list of Affinity-Phoenix transactions, Phoenix's military-linked investments, his Israel and Gaza visits and meetings with the IDF or Phoenix, and full disclosure as a public filer, by 19 Oct 2026; no public reply found. These letters come from minority Democrats without subpoena power, so none is a finding. (4) CREW suit, 14 Oct 2026. Kushner's own response: X posts of 2 Oct 2026 and the lawyer's statements to CNN; the White House (Anna Kelly): 'Jared Kushner's personal business activities have nothing to do with his diplomatic engagements'. No agency, inspector general or court has made any finding.",
+      "sources": [
+        "https://oversightdemocrats.house.gov/imo/media/doc/2026-10-05garciatojaredkushnerreaffinitypartnersisraeliinvestment.pdf",
+        "https://oversightdemocrats.house.gov/imo/media/doc/2026-03-19garciawydenlettertoaffinitypartnersrekushnerfundraisingfinal.pdf",
+        "https://www.finance.senate.gov/ranking-members-news/wyden-garcia-investigate-kushner-raising-billions-from-middle-east-governments-while-negotiating-us-foreign-policy",
+        "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-opens-sweeping-investigation-into-us-special-envoy-for-peace-jared-kushner-s-foreign-entanglements-and-staggering-conflicts-of-interest",
+        "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-slams-jared-kushner-s-failure-to-respond-to-congress-and-expands-probe-into-suspicious-120-million-albanian-land-purchase",
+        "https://www.cnn.com/2026/10/01/us/jared-kushner-israel-gaza-investments-invs-vis",
+        "https://www.thewrap.com/media-platforms/politics/jared-kushner-cnn-misleading-middle-east-israeli-defense-companies/",
+        "https://news.bloomberglaw.com/us-law-week/white-house-sued-over-kushners-government-work-by-watchdog"
+      ]
+    },
+    {
+      "statement": "Allegation: Kushner's diplomacy advanced the Phoenix investment or the military-linked stakes, or he profited from the Gaza war.",
+      "verdict": "unverified",
+      "finding": "GRADE: allegation / inference. The Garcia and Raskin letters say the dual role 'presents significant conflicts of interest' and ask whether gains 'came at the cost of Americans' safety'. No source shows a decision, a negotiating position or a Phoenix investment that was changed because of his diplomacy; CNN says it found no such indication; Phoenix's rising share price is attributed by Ynet/Calcalist to business growth and a lower Israeli risk premium. That Phoenix's holdings in listed defence companies rose in value in 2025 is documented (CNN); that this was caused by or linked to the war or to Kushner's role is not shown. Kushner's September 2025 remarks that Middle East investors may now see 'a benefit to having these wars done' (CNN) are quoted by critics as a motive; they are his stated view that business ties support peace.",
+      "sources": [
+        "https://www.cnn.com/2026/10/01/us/jared-kushner-israel-gaza-investments-invs-vis",
+        "https://oversightdemocrats.house.gov/imo/media/doc/2026-10-05garciatojaredkushnerreaffinitypartnersisraeliinvestment.pdf",
+        "https://www.ynetnews.com/business/article/byukn3rsfg",
+        "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-opens-sweeping-investigation-into-us-special-envoy-for-peace-jared-kushner-s-foreign-entanglements-and-staggering-conflicts-of-interest"
+      ]
+    }
+  ],
+  "corrections": [
+    "Claimed (CNN, Garcia letter): the July 2026 sale was a return of 'more than five times its initial stock purchase'. The record shows: the NIS 1.05B proceeds compare with about NIS 233M, the cost of the quarter sold (our arithmetic); they are about 1.1 times the whole NIS 932M outlay. Both statements hold, but they measure different things.",
+    "Claimed (CNN): Affinity agreed to buy the Shlomo stake 'for $150 million'. The record shows: $150M (NIS 570M) was the September 2023 signing price at a NIS 3.8B valuation; the deal closed on 1 Feb 2024 at about $110M at a NIS 2.7B valuation (Globes, Calcalist).",
+    "Claimed (earlier check C15): CREW 'argues he is at least a special government employee'. The record shows (search excerpts of Bloomberg Law and NBC; complaint not read): the suit, filed 14 Oct 2026 (D.D.C., 26-cv-3580), argues that as chief negotiator he is an official who must file disclosures, and invokes the Appointments Clause; the 'special government employee' wording was not found in the coverage. C15's 'sued in Oct 2026' is right.",
+    "Claimed (JNS item and some aggregators): sale 'in January' or dated 27 July. The record shows: the sale was on Tuesday 28 Jul 2026 (JNS of 29 Jul); January 2025 was the second purchase.",
+    "Garcia's letter says Affinity is the largest shareholder in 'an Israeli company with more than $456 million invested in nine companies that supply Israel's military'. The record shows: CNN's count is of Phoenix's holdings in a partial set of filings, and Affinity's stake in Phoenix is 7.4% (9.9% before the sale), so Affinity's look-through share of that $456M is a fraction of it (our arithmetic: about 7-10%, about $34M-$45M if the holdings were proportionate; asserted by no source).",
+    "Fee figure for context (C99): the Garcia-Wyden letter of 19 Mar 2026 estimates Affinity collected more than $60M of foreign fees in 2025, including $39M from Saudi Arabia; this is the Democrats' estimate under the fee terms, not a reported receipt."
+  ],
+  "denials_and_context": [
+    "Kushner (X, 2 Oct 2026): CNN's story and headline are 'deeply misleading'; Phoenix is 'one of Israel's largest publicly traded financial institutions', not a defence company; the investment pre-dates Trump's re-election and his return to public service; CNN itself says it found no indication his diplomacy affected the investments.",
+    "Kushner's lawyer (to CNN): he has 'never participated in or directed Phoenix's decisions', had 'no involvement' in buying, holding or selling the nine companies and has never been on Phoenix's board; he did speak regularly with Phoenix management, less since his volunteer work grew. CNN says it stands by its reporting.",
+    "White House (Anna Kelly): the concerns are a 'tired narrative that Democrats have pushed'; his business 'has nothing to do with his diplomatic engagements, which he conducts on a volunteer basis'. The White House says he draws no salary and pays his own expenses.",
+    "Chad Mizelle (Kushner's lawyer, Affinity chief legal officer): ethics lawyers inside and outside government reviewed his volunteer service and found it compliant; the CREW suit is 'without merit' and CREW lacks standing.",
+    "Phoenix declined to address CNN's findings; its spokesperson said the group is regulated and that its shareholder value derives mainly from operating performance. Affinity said it is proud to be Phoenix's largest shareholder and expects to remain a long-term holder.",
+    "Context: Israeli insurers routinely hold shares of domestic listed companies including defence manufacturers; the filings show Phoenix's holdings, not who decided them. Affinity's voting influence at Phoenix is not documented here; Kushner is not on its board.",
+    "Context: an overlap in time is not a cause. The Shlomo and Phoenix purchases (2023-24) pre-date his 2025 envoy role; only the January 2025 block closing, the holding and the July 2026 sale fall in the second term.",
+    "Context: the letters come from minority-party Democrats (Garcia, Wyden, Raskin) without subpoena power; the language of 'criminal', 'on the payroll' and 'pawn' in them is the authors' characterisation. Affinity is a private adviser not required to disclose holdings; Kushner says he is not a federal employee.",
+    "The party leaders named in the C15 check, Comer and Tillis, are cited by the Democrats' letters as having criticised earlier Kushner dealings or the envoy arrangement; no Republican response to the Phoenix story was found."
+  ],
+  "sources": [
+    {
+      "title": "Garcia letter to Kushner re Affinity Partners' Israeli investment (3 pages)",
+      "publisher": "House Oversight Committee Democrats",
+      "url": "https://oversightdemocrats.house.gov/imo/media/doc/2026-10-05garciatojaredkushnerreaffinitypartnersisraeliinvestment.pdf",
+      "date": "2026-10-05",
+      "read": "full"
+    },
+    {
+      "title": "How Jared Kushner's firm's investment in an Israeli company could be a major conflict of interest",
+      "publisher": "CNN",
+      "url": "https://www.cnn.com/2026/10/01/us/jared-kushner-israel-gaza-investments-invs-vis",
+      "date": "2026-10-01",
+      "read": "full"
+    },
+    {
+      "title": "Jared Kushner in talks to buy Phoenix stake",
+      "publisher": "Globes",
+      "url": "https://en.globes.co.il/en/article-1001484443",
+      "date": "2024-07-15",
+      "read": "full"
+    },
+    {
+      "title": "Jared Kushner's Saudi backed firm paying $128 million for nearly 5% stake in Israel's Phoenix",
+      "publisher": "Calcalist (Ctech)",
+      "url": "https://www.calcalistech.com/ctechnews/article/s1upg3qu0",
+      "date": "2024-07-16",
+      "read": "full"
+    },
+    {
+      "title": "Jared Kushner becomes biggest shareholder in Phoenix",
+      "publisher": "Globes",
+      "url": "https://en.globes.co.il/en/article-jared-kushner-set-to-become-biggest-shareholder-in-phoenix-1001499509",
+      "date": "2025-01-15",
+      "read": "full"
+    },
+    {
+      "title": "Kushner sells NIS 1.05 billion stake in Israeli financial giant Phoenix to global investors",
+      "publisher": "Ynet / Calcalist",
+      "url": "https://www.ynetnews.com/business/article/byukn3rsfg",
+      "date": "2026-07-29",
+      "read": "full"
+    },
+    {
+      "title": "Kushner firm sells 25% of Phoenix Financial stake",
+      "publisher": "JNS",
+      "url": "https://jns.org/news/israel-news/kushner-firm-sells-25-of-phoenix-financial-stake",
+      "date": "2026-07-29",
+      "read": "excerpt"
+    },
+    {
+      "title": "Jared Kushner to invest NIS 570m in Shlomo Group",
+      "publisher": "Globes",
+      "url": "https://en.globes.co.il/en/article-1001457191",
+      "date": "2023-09",
+      "read": "full"
+    },
+    {
+      "title": "Kushner's Affinity Partners buys 15% Shlomo Group stake",
+      "publisher": "Globes",
+      "url": "https://en.globes.co.il/en/article-kushners-affinity-partners-buys-15-shlomo-group-stake-1001469198",
+      "date": "2024-02-01",
+      "read": "full"
+    },
+    {
+      "title": "Jared Kushner's Affinity Partners investing $110M to acquire 15% of Shlomo Group's auto and credit operations",
+      "publisher": "Calcalist (Ctech)",
+      "url": "https://www.calcalistech.com/ctechnews/article/hys3sau5a",
+      "date": "2024-02-01",
+      "read": "full"
+    },
+    {
+      "title": "Jared Kushner builds a Middle East business empire",
+      "publisher": "Globes",
+      "url": "https://en.globes.co.il/en/article-1001503692",
+      "date": "2025-01",
+      "read": "full"
+    },
+    {
+      "title": "Jared Kushner accuses CNN of 'deeply misleading' story",
+      "publisher": "TheWrap",
+      "url": "https://www.thewrap.com/media-platforms/politics/jared-kushner-cnn-misleading-middle-east-israeli-defense-companies/",
+      "date": "2026-10-02",
+      "read": "full"
+    },
+    {
+      "title": "Jared Kushner scolds CNN over 'deeply misleading' report",
+      "publisher": "Fox News",
+      "url": "https://www.foxnews.com/media/jared-kushner-scolds-cnn-deeply-misleading-report-says-key-info-buried-paywall.amp",
+      "date": "2026-10-02",
+      "read": "excerpt"
+    },
+    {
+      "title": "Kushner's firm profited from Israeli defense investments while he negotiated Gaza war end, probe finds",
+      "publisher": "Ynet (news agencies, summarising CNN)",
+      "url": "https://www.ynetnews.com/article/hkat0x25fx",
+      "date": "2026-10",
+      "read": "excerpt"
+    },
+    {
+      "title": "Raskin opens investigation into Kushner's foreign entanglements and conflicts of interest",
+      "publisher": "House Judiciary Committee Democrats",
+      "url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-opens-sweeping-investigation-into-us-special-envoy-for-peace-jared-kushner-s-foreign-entanglements-and-staggering-conflicts-of-interest",
+      "date": "2026-04-17",
+      "read": "full"
+    },
+    {
+      "title": "Raskin expands probe after Kushner fails to respond; Albanian land purchase",
+      "publisher": "House Judiciary Committee Democrats",
+      "url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-slams-jared-kushner-s-failure-to-respond-to-congress-and-expands-probe-into-suspicious-120-million-albanian-land-purchase",
+      "date": "2026-08-25",
+      "read": "full"
+    },
+    {
+      "title": "Garcia and Wyden letter to Affinity Partners on Kushner fundraising",
+      "publisher": "House Oversight Committee Democrats",
+      "url": "https://oversightdemocrats.house.gov/imo/media/doc/2026-03-19garciawydenlettertoaffinitypartnersrekushnerfundraisingfinal.pdf",
+      "date": "2026-03-19",
+      "read": "excerpt"
+    },
+    {
+      "title": "Wyden, Garcia investigate Kushner raising billions from Middle East governments",
+      "publisher": "Senate Finance Committee (ranking member)",
+      "url": "https://www.finance.senate.gov/ranking-members-news/wyden-garcia-investigate-kushner-raising-billions-from-middle-east-governments-while-negotiating-us-foreign-policy",
+      "date": "2026-03-19",
+      "read": "excerpt"
+    },
+    {
+      "title": "White House sued over Kushner's government work by watchdog",
+      "publisher": "Bloomberg Law",
+      "url": "https://news.bloomberglaw.com/us-law-week/white-house-sued-over-kushners-government-work-by-watchdog",
+      "date": "2026-10-14",
+      "read": "excerpt"
+    },
+    {
+      "title": "CREW lawsuit against Trump administration over Jared Kushner",
+      "publisher": "NBC News (local sites)",
+      "url": "https://www.nbcnewyork.com/news/national-international/crew-lawsuit-trump-administration-jared-kushner/6559505/",
+      "date": "2026-10-14",
+      "read": "excerpt"
+    },
+    {
+      "title": "Scoop: Direct meeting between Trump envoys and Hamas leaders sealed Gaza deal",
+      "publisher": "Axios",
+      "url": "https://www.axios.com/2025/10/13/gaza-deal-kushner-witkoff-hamas-direct-meeting",
+      "date": "2025-10-13",
+      "read": "excerpt"
+    },
+    {
+      "title": "Who is part of Trump's Board of Peace for Gaza?",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/1/18/who-is-part-of-trumps-board-of-peace-for-gaza",
+      "date": "2026-01-18",
+      "read": "excerpt"
+    },
+    {
+      "title": "Jared Kushner's Israel ties deepen with $30M insurance investment revelation",
+      "publisher": "Forward",
+      "url": "https://forward.com/fast-forward/391628/jared-kushners-israel-ties-deepen-with-30m-insurance-investment-revelation/",
+      "date": "2018-01",
+      "read": "excerpt"
+    },
+    {
+      "title": "Kushner Companies Considers Raising $500M Fund in Israel",
+      "publisher": "Commercial Observer",
+      "url": "https://commercialobserver.com/2020/12/kushner-companies-israeli-bonds-jared/",
+      "date": "2020-12",
+      "read": "excerpt"
+    },
+    {
+      "title": "Jared Kushner's company plans to raise $100 million in Israel bonds as his time as Mideast adviser nears end",
+      "publisher": "Forward",
+      "url": "https://forward.com/fast-forward/461315/jared-kushners-company-plans-to-raise-100-million-in-israel-bonds-as-his/",
+      "date": "2021",
+      "read": "excerpt"
+    }
+  ],
+  "entities": [
+    {
+      "id": "jared-kushner",
+      "name": "Jared Kushner",
+      "type": "person",
+      "description": "Trump's son-in-law, founder of Affinity Partners and unpaid Middle East envoy"
+    },
+    {
+      "id": "affinity-partners",
+      "name": "Affinity Partners",
+      "type": "fund",
+      "description": "Kushner's Miami private equity firm, about 99% foreign-funded, shareholder in Phoenix and Shlomo"
+    },
+    {
+      "id": "phoenix-financial",
+      "name": "Phoenix Financial (The Phoenix Holdings)",
+      "type": "company",
+      "description": "Tel Aviv-listed insurance, pensions and asset-management group; Affinity is largest shareholder (7.4% after July 2026)"
+    },
+    {
+      "id": "shlomo-group",
+      "name": "Shlomo Group",
+      "type": "company",
+      "description": "Israeli group; 15% of its vehicle leasing, rental and credit arm is held by Affinity"
+    },
+    {
+      "id": "elbit-systems",
+      "name": "Elbit Systems",
+      "type": "company",
+      "description": "Israel's largest arms maker; held by Phoenix (CNN: at least $265M)"
+    },
+    {
+      "id": "centerbridge-gallatin-point",
+      "name": "Centerbridge Partners and Gallatin Point Capital",
+      "type": "fund",
+      "description": "US funds that sold Phoenix shares to Affinity and others in 2024"
+    },
+    {
+      "id": "kushner-companies",
+      "name": "Kushner Companies",
+      "type": "company",
+      "description": "Kushner family real estate company; past Israeli institutional lenders and investors"
+    },
+    {
+      "id": "menora-mivtachim",
+      "name": "Menora Mivtachim",
+      "type": "company",
+      "description": "Israeli insurer that put about $30M into Kushner Companies properties in 2017"
+    },
+    {
+      "id": "israel",
+      "name": "Israel",
+      "type": "country",
+      "description": "Location of Phoenix and Shlomo; party to the Gaza ceasefire Kushner helped negotiate"
+    },
+    {
+      "id": "gaza-ceasefire",
+      "name": "Gaza ceasefire and 20-point plan (Oct 2025)",
+      "type": "event",
+      "description": "US-brokered Israel-Hamas ceasefire and hostage release; Kushner and Witkoff negotiated"
+    },
+    {
+      "id": "board-of-peace",
+      "name": "Board of Peace",
+      "type": "government",
+      "description": "Trump-chaired body for Gaza reconstruction and governance; Kushner is an executive board member"
+    },
+    {
+      "id": "crew",
+      "name": "Citizens for Responsibility and Ethics in Washington",
+      "type": "company",
+      "description": "Watchdog that sued over Kushner's envoy role on 14 Oct 2026"
+    },
+    {
+      "id": "robert-garcia",
+      "name": "Robert Garcia",
+      "type": "person",
+      "description": "Ranking Member, House Oversight Committee; wrote to Kushner on 5 Oct 2026"
+    },
+    {
+      "id": "ron-wyden",
+      "name": "Ron Wyden",
+      "type": "person",
+      "description": "Ranking Member, Senate Finance Committee; co-wrote the 19 Mar 2026 letters"
+    },
+    {
+      "id": "jamie-raskin",
+      "name": "Jamie Raskin",
+      "type": "person",
+      "description": "Ranking Member, House Judiciary Committee; opened a probe on 17 Apr 2026"
+    },
+    {
+      "id": "chad-mizelle",
+      "name": "Chad Mizelle",
+      "type": "person",
+      "description": "Kushner's lawyer and Affinity chief legal officer"
+    },
+    {
+      "id": "cnn",
+      "name": "CNN",
+      "type": "media",
+      "description": "Published the 1 Oct 2026 Phoenix investigation"
+    },
+    {
+      "id": "saudi-pif",
+      "name": "Saudi Public Investment Fund",
+      "type": "fund",
+      "description": "Affinity's largest investor ($2B, 2021)"
+    },
+    {
+      "id": "qatar-investment-authority",
+      "name": "Qatar Investment Authority",
+      "type": "fund",
+      "description": "Invested in Affinity in Dec 2024 with Lunate"
+    },
+    {
+      "id": "lunate",
+      "name": "Lunate",
+      "type": "fund",
+      "description": "Abu Dhabi asset manager that invested in Affinity in Dec 2024"
+    },
+    {
+      "id": "steve-witkoff",
+      "name": "Steve Witkoff",
+      "type": "person",
+      "description": "US special envoy who negotiated alongside Kushner"
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Says Kushner is an unpaid volunteer and his business is unrelated to diplomacy"
+    },
+    {
+      "id": "israel-capital-market-authority",
+      "name": "Israel Capital Market, Insurance and Savings Authority",
+      "type": "government",
+      "description": "Israeli regulator that approved Affinity's second Phoenix block in Jan 2025"
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "President; Kushner's father-in-law"
+    },
+    {
+      "id": "saudi-arabia",
+      "name": "Saudi Arabia",
+      "type": "country",
+      "description": "Home of PIF; Globes says it approved the Shlomo investment"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "affinity-partners",
+      "target": "shlomo-group",
+      "label": "signed for 15% of vehicle and credit arm (about NIS 570M / $150M)",
+      "type": "money",
+      "date": "2023-09",
+      "amount_usd": 150000000
+    },
+    {
+      "source": "affinity-partners",
+      "target": "shlomo-group",
+      "label": "closed 15% purchase at about $110M (NIS 2.7B valuation)",
+      "type": "ownership",
+      "date": "2024-02-01",
+      "amount_usd": 110000000
+    },
+    {
+      "source": "affinity-partners",
+      "target": "phoenix-financial",
+      "label": "bought 4.95% from Centerbridge and Gallatin Point (about NIS 466M)",
+      "type": "ownership",
+      "date": "2024-07-16",
+      "amount_usd": 128000000
+    },
+    {
+      "source": "affinity-partners",
+      "target": "phoenix-financial",
+      "label": "exercised option, taking stake to 9.9% (NIS 932M in total)",
+      "type": "ownership",
+      "date": "2025-01-15",
+      "amount_usd": 304600000
+    },
+    {
+      "source": "affinity-partners",
+      "target": "phoenix-financial",
+      "label": "sold 2.5% for about NIS 1.05B; keeps 7.4%",
+      "type": "money",
+      "date": "2026-07-28",
+      "amount_usd": 343000000
+    },
+    {
+      "source": "centerbridge-gallatin-point",
+      "target": "affinity-partners",
+      "label": "sold Phoenix shares to",
+      "type": "commercial",
+      "date": "2024-07"
+    },
+    {
+      "source": "phoenix-financial",
+      "target": "elbit-systems",
+      "label": "holds shares (CNN: at least $265M)",
+      "type": "ownership",
+      "date": "2026-10",
+      "amount_usd": 265000000
+    },
+    {
+      "source": "israel-capital-market-authority",
+      "target": "affinity-partners",
+      "label": "approved second Phoenix block",
+      "type": "regulatory",
+      "date": "2025-01-15"
+    },
+    {
+      "source": "jared-kushner",
+      "target": "affinity-partners",
+      "label": "sole owner of",
+      "type": "ownership"
+    },
+    {
+      "source": "saudi-pif",
+      "target": "affinity-partners",
+      "label": "$2B commitment (2021); largest investor",
+      "type": "money",
+      "date": "2021-07",
+      "amount_usd": 2000000000
+    },
+    {
+      "source": "qatar-investment-authority",
+      "target": "affinity-partners",
+      "label": "invested (with Lunate, about $1.5B combined)",
+      "type": "money",
+      "date": "2024-12",
+      "amount_usd": 1500000000
+    },
+    {
+      "source": "lunate",
+      "target": "affinity-partners",
+      "label": "invested (with QIA, about $1.5B combined)",
+      "type": "money",
+      "date": "2024-12"
+    },
+    {
+      "source": "saudi-arabia",
+      "target": "shlomo-group",
+      "label": "reported (Globes) to have approved Affinity's investment in",
+      "type": "political",
+      "date": "2023-09"
+    },
+    {
+      "source": "jared-kushner",
+      "target": "gaza-ceasefire",
+      "label": "co-negotiated with Witkoff",
+      "type": "political",
+      "date": "2025-10"
+    },
+    {
+      "source": "jared-kushner",
+      "target": "steve-witkoff",
+      "label": "negotiated alongside",
+      "type": "advisory",
+      "date": "2025"
+    },
+    {
+      "source": "jared-kushner",
+      "target": "board-of-peace",
+      "label": "executive board member",
+      "type": "advisory",
+      "date": "2026-01"
+    },
+    {
+      "source": "white-house",
+      "target": "jared-kushner",
+      "label": "classes as unpaid volunteer, no disclosure filed",
+      "type": "advisory"
+    },
+    {
+      "source": "donald-trump",
+      "target": "jared-kushner",
+      "label": "father-in-law; directed his envoy work",
+      "type": "family"
+    },
+    {
+      "source": "crew",
+      "target": "jared-kushner",
+      "label": "sued (D.D.C. 26-cv-3580) over envoy role and disclosure",
+      "type": "legal",
+      "date": "2026-10-14"
+    },
+    {
+      "source": "robert-garcia",
+      "target": "jared-kushner",
+      "label": "letter on Phoenix and Israeli military investments",
+      "type": "political",
+      "date": "2026-10-05"
+    },
+    {
+      "source": "robert-garcia",
+      "target": "affinity-partners",
+      "label": "with Wyden, requested information on foreign fundraising",
+      "type": "political",
+      "date": "2026-03-19"
+    },
+    {
+      "source": "ron-wyden",
+      "target": "affinity-partners",
+      "label": "with Garcia, requested information on foreign fundraising",
+      "type": "political",
+      "date": "2026-03-19"
+    },
+    {
+      "source": "jamie-raskin",
+      "target": "jared-kushner",
+      "label": "opened House Judiciary probe of dual role",
+      "type": "political",
+      "date": "2026-04-17"
+    },
+    {
+      "source": "chad-mizelle",
+      "target": "jared-kushner",
+      "label": "attorney for; rejects CREW suit and CNN premise",
+      "type": "legal",
+      "date": "2026-10"
+    },
+    {
+      "source": "cnn",
+      "target": "phoenix-financial",
+      "label": "reported Phoenix's military-linked holdings and Affinity's stake",
+      "type": "media",
+      "date": "2026-10-01"
+    },
+    {
+      "source": "menora-mivtachim",
+      "target": "kushner-companies",
+      "label": "invested about $30M in Maryland apartment properties",
+      "type": "money",
+      "date": "2017",
+      "amount_usd": 30000000
+    },
+    {
+      "source": "jared-kushner",
+      "target": "kushner-companies",
+      "label": "retained financial interest in family company",
+      "type": "ownership"
+    }
+  ],
+  "leads": [
+    {
+      "title": "Affinity's replies (if any) to the Garcia 5 Oct 2026 and Raskin letters, and what happens if the House changes hands",
+      "why_connected": "All current complaints are from minority Democrats; replies and any subpoena would be the first documents showing Affinity-Phoenix transactions.",
+      "entities": [
+        "affinity-partners",
+        "robert-garcia",
+        "jamie-raskin"
+      ],
+      "source_url": "https://oversightdemocrats.house.gov/imo/media/doc/2026-10-05garciatojaredkushnerreaffinitypartnersisraeliinvestment.pdf"
+    },
+    {
+      "title": "Phoenix's other military-linked and settlement-area holdings and Affinity's influence rights",
+      "why_connected": "CNN covered only a fraction of Phoenix's holdings; Phoenix's quarterly filings and Affinity's governance rights (board seats, voting caps) are on the public Israeli record and untested here.",
+      "entities": [
+        "phoenix-financial",
+        "affinity-partners",
+        "elbit-systems"
+      ],
+      "source_url": "https://www.cnn.com/2026/10/01/us/jared-kushner-israel-gaza-investments-invs-vis"
+    },
+    {
+      "title": "Shlomo Group put-option and IPO terms: any buyout of Affinity's 15% from 2029",
+      "why_connected": "The signing terms give Affinity a buyout or IPO right from year five; no 2025-26 update was found.",
+      "entities": [
+        "shlomo-group",
+        "affinity-partners"
+      ],
+      "source_url": "https://en.globes.co.il/en/article-1001457191"
+    },
+    {
+      "title": "Albanian Sazan resort land purchase and Raskin's FCPA question",
+      "why_connected": "Raskin expanded his probe on 25 Aug 2026 to a reported $120M land purchase, a separate foreign-government dealing during the same period (see C45).",
+      "entities": [
+        "jared-kushner",
+        "jamie-raskin"
+      ],
+      "source_url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-slams-jared-kushner-s-failure-to-respond-to-congress-and-expands-probe-into-suspicious-120-million-albanian-land-purchase"
+    },
+    {
+      "title": "CREW v. Trump administration (D.D.C. 26-cv-3580): motion to dismiss and standing",
+      "why_connected": "The first court test of whether an unpaid envoy must file disclosures.",
+      "entities": [
+        "crew",
+        "jared-kushner",
+        "white-house"
+      ],
+      "source_url": "https://news.bloomberglaw.com/us-law-week/white-house-sued-over-kushners-government-work-by-watchdog"
+    }
+  ]
+}

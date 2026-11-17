@@ -1,0 +1,541 @@
+{
+ "id": "C114",
+ "title": "Trump Family & Associates: Business in Israel",
+ "verdict": "partly-accurate",
+ "confidence": "medium",
+ "summary": "Documented: the Trump name was licensed for an abandoned Ramat Gan tower (2006-08); Eric Trump led preliminary hotel talks with Israeli developer Nitsba in 2023 and spring 2025 (nothing signed, he said 'no plans at this time'); and in Feb 2026 Eric Trump became a strategic investor in the merger of Israeli drone maker XTEND with JFB Construction (closed 3 Sep 2026), alongside Unusual Machines, which Donald Trump Jr. advises. XTEND's Nov 2025 Pentagon contract predates his investment, and no influence on any award is documented. Trump's 2025 disclosure shows no Israeli entity or income, only Israeli trademark registrations. Nothing was found for Israeli buyers in World Liberty, Trump Media or American Bitcoin, for Witkoff or his family, for Don Jr. visits or statements, or for Cantor, 1789 Capital or Dominari deals with Israeli firms.",
+ "sub_claims": [
+  {
+   "statement": "Trump Organization / Trump family licensing or development projects in Israel have existed, but none has been built or has paid Trump.",
+   "verdict": "confirmed",
+   "finding": "Grade: documented, with the key facts old. (1) Ramat Gan, 2006-08: Globes (2008, read in full) reports Trump licensed the 'Trump Plaza' name to Crescent Heights (Sonny Kahan) for a 70-storey tower on the former Elite chocolate-factory lot, with Trump to receive 25% of each unit sold plus royalties. Crescent Heights paid about $44M and resold the lot to Azorim (Shaya Boymelgreen) for about $80M. Trump sued in Manhattan in 2008; Ynet reports a $45M claim that was rejected by the court. The tower was never built. (2) Netanya hotel and Ashkelon golf park (Ynet, 2016, excerpt): both stayed 'on paper'; Trump's lawyers wrote to Ashkelon's mayor expressing interest. (3) Ynet also reports a Trump Organization sales office in Israel opened by Ivanka Trump to market US apartments. No Israeli project has been completed or is documented as having paid Trump.",
+   "sources": [
+    "https://en.globes.co.il/en/article-1000342879",
+    "https://en.globes.co.il/en/article-1001189541",
+    "https://www.ynetnews.com/business/article/4879842"
+   ]
+  },
+  {
+   "statement": "The Trump Organization held talks in 2023-25 on branded hotels in Jerusalem and Tel Aviv, led by Eric Trump; none was signed.",
+   "verdict": "confirmed",
+   "finding": "Grade: documented by the New York Times (Oct 2024 and June 2025), read only through reproductions and syndication. (1) Oct 2024: talks in 2023 with Israeli firm Nitsba and with Lockwood-linked partners on the Haleom Hotel on the former Foreign Ministry site in Jerusalem, and on the 47-storey Sarona tower in Tel Aviv near IDF headquarters; Eric Trump toured Israel in February 2023 (met the Dan Tel Aviv manager) and told the Times 'The deal absolutely would have gotten done if not for Oct. 7'. Lockwood told the Times the Trump campaign called off talks weeks before the war. (2) June 2025 (Times, via Yeshiva World News, read in full): preliminary spring-2025 talks with Nitsba Holdings on branding and managing the Sarona Hotel (800 rooms); Eric Trump said 'Israel has always been a market we would love to explore, but we have no plans at this time, and any discussions have been strictly preliminary.' Nitsba chairman Haim Tsuff said the brand could help win approval for 12 extra residential storeys. Nitsba did not respond to the Times. The Times also reported Eric toured the Princess Hotel in Eilat and passed. (3) No signing, announcement or later news was found through 17 Nov 2026.",
+   "sources": [
+    "https://lockwoodhotels.com/press/trump-family-business-eyes-hotel-deals-in-israel",
+    "https://www.thedailybeast.com/trump-organization-looking-into-new-hotel-deals-in-israel",
+    "https://www.theyeshivaworld.com/news/israel-news/2419075/trump-tower-tel-aviv-trump-organization-eyes-tel-avivs-tallest-hotel-for-luxury-branding-deal.html"
+   ]
+  },
+  {
+   "statement": "Trump's 2025 financial disclosure shows an Israeli entity or Israel-related income (nothing found; Israeli trademark registrations only).",
+   "verdict": "unverified",
+   "finding": "Grade: documented (OGE 278e annual report for 2025, text searched in full for 'Israel', 'Tel Aviv', 'Jerusalem', 'Ramat'). Nothing found: no Israeli entity, counterparty, property or licensing income appears in the income or assets schedules; the foreign licensing and development fees summed in C98 are Gulf, Asian and other, none Israeli. The only Israel hits are (a) six Israeli trademark registrations in the Part 2 trademark exhibit (Israel Patent Office numbers 211608 and 211609 'TRUMP' in classes 36 and 37, 190445, 190446 and 190447 'TRUMP TOWER' in Hebrew and Latin in classes 25, 36 and 37, and 238275 'TRUMP' in class 32 beverages), and (b) a municipal bond issued for Beth Israel Lahey Health (a Massachusetts hospital, unrelated). The extracted text did not isolate the registered-owner cell for the Israeli rows (the exhibit lists DTTM Operations LLC and other registrants); the registrations show the brand is held in Israel, not that any income arises there. Calendar-2026 income is not yet disclosed.",
+   "sources": []
+  },
+  {
+   "statement": "Eric Trump invested in Israeli drone maker XTEND in its $1.5B merger with JFB Construction Holdings (announced 17 Feb 2026), alongside Unusual Machines, which Donald Trump Jr. advises.",
+   "verdict": "confirmed",
+   "finding": "Grade: documented. The JFB/XTEND press release (SEC Exhibit 99.1) names Eric Trump as a strategic investor alongside Unusual Machines, American Ventures, Protego Ventures (described as Israel-based), Aliya Capital and Agostinelli Group; reported commitments of $152M with $42M funded at signing; implied valuation $1.5B; Stefan Passantino (first-term deputy White House counsel) joined JFB's board (Manufacturing Dive, read in full; Snopes, read in full). XTEND is Tel Aviv-based; it opened a US headquarters in Tampa in July 2025. Bloomberg (via DroneXL, read in full) estimates the stake held through American Ventures, a vehicle listing Donald Jr. and Eric as backers, at about $340M of an overall roughly $750M paper portfolio across XTEND, Powerus and Unusual Machines; this is a single-outlet estimate and Eric Trump's own dollar amount was not found. The merger closed on 3 Sep 2026 (Pulse 2.0, read in full) with $110M total capital, listing on the NYSE as XTND on 4 Sep, Dominari Securities as JFB's placement agent. Eric Trump has said he believes drones are a better investment than newspapers. XTEND did not respond to Al Jazeera's request for comment; no response from the Trump family on conflicts was found beyond that.",
+   "sources": [
+    "https://www.sec.gov/Archives/edgar/data/2024306/000149315226006957/ex99-1.htm",
+    "https://www.manufacturingdive.com/news/eric-trump-15-billion-jfb-xtend-ai-merger-construction-drone-defense/812526/",
+    "https://www.snopes.com/fact-check/eric-trump-drone-company-iran-war/",
+    "https://dronexl.co/2026/03/13/trump-family-750-million-drone-portfolio",
+    "https://pulse2.com/xtend-and-jfb-complete-business-combination-with-110-million-in-total-capital/"
+   ]
+  },
+  {
+   "statement": "XTEND holds US government contracts and Israeli government ties, creating a federal-contract link to a Trump son.",
+   "verdict": "partly-accurate",
+   "finding": "Grade: contract documented by the company and trade press; any link to the sons' role is inferred. Manufacturing Dive (full) reports an undisclosed multi-million, firm-fixed-price Department of Defense (War) award in Nov 2025 for close-quarters one-way-attack drone kits, a place among 25 vendors in the Drone Dominance Program, a 2020 US Army Special Forces Skylord project, and a partnership page with Israel's Ministry of Defense that has since been deleted. DroneXL/Bloomberg adds that XTEND was not among the 11 firms in Gauntlet I, and that in March 2026 it began mobilising fabrication equipment at the request of Israel's Ministry of Defense. The Nov 2025 award predates Eric Trump's Feb 2026 investment. Nothing documents that either son influenced an award. The same Bloomberg report records Unusual Machines and Donald Trump Jr.'s representatives saying he played no role in securing its separate Army award. Snopes notes it could not establish what the brothers knew about the Feb 2026 US-Israeli strikes on Iran.",
+   "sources": [
+    "https://www.manufacturingdive.com/news/eric-trump-15-billion-jfb-xtend-ai-merger-construction-drone-defense/812526/",
+    "https://dronexl.co/2026/03/13/trump-family-750-million-drone-portfolio",
+    "https://www.snopes.com/fact-check/eric-trump-drone-company-iran-war/"
+   ]
+  },
+  {
+   "statement": "Israeli investors or buyers in World Liberty Financial, Trump Media (including its TAE merger) or American Bitcoin.",
+   "verdict": "unverified",
+   "finding": "Grade: nothing found. Searches for Israeli or Israel-based buyers of WLFI, investors in Trump Media or American Bitcoin, and Israeli counterparties in the Trump Media-TAE deal returned only UAE (Aqua 1, MGX/Aryam), Dubai (DWF Labs), Chinese-born (Justin Sun) and US names. Token sales are largely pseudonymous, so absence of a named Israeli buyer is not proof there were none. American Bitcoin's $220M raise did not name investors. This extends C79, C98 and C105 and does not alter them.",
+   "sources": []
+  },
+  {
+   "statement": "Israeli firms with deals involving close associates (Lutnick's Cantor, 1789 Capital, Dominari, Musk).",
+   "verdict": "unverified",
+   "finding": "Grade: nothing found for Cantor, 1789 Capital or Dominari. Cantor's 2025 SPAC deals (Securitize, BSTR) are not Israeli in any source found. 1789 Capital reporting describes a US-only portfolio (Vulcan Elements, Hadrian, Polymarket); no Israeli company was found. Dominari: no Israeli counterparty found, although Dominari Securities acted as placement agent on the XTEND-JFB deal (documented, but the client is JFB, a US shell). Musk: Netanyahu's office held calls with Musk and Israel asked Tesla to bid for government cars and agreed Starlink arrangements; these come from search excerpts only (not read), concern Israeli government outreach rather than Trump-linked ventures, and no contract with an Israeli firm tied to a federal decision was found. Treat as open.",
+   "sources": []
+  },
+  {
+   "statement": "Steve Witkoff and his family have business dealings in Israel.",
+   "verdict": "unverified",
+   "finding": "Grade: nothing found for the period of the term. The 2025 annual 278e and C105 list no Israeli entity; C105's finding of no Saudi or Israeli dealing stands. The only Israeli link found is a 2014 Real Deal report (excerpt) that the Witkoff Group and Lightstone were considering raising debt on the Israeli capital market; it is a fundraising plan, with no outcome found and no Israeli counterparty named in what we read. Zach and Alex Witkoff's fundraising reporting concerns Qatar and UAE entities, not Israel.",
+   "sources": [
+    "https://therealdeal.com/new-york/2014/08/21/witkoff-group-lightstone-group-eye-israeli-capital-market/"
+   ]
+  },
+  {
+   "statement": "Donald Trump Jr. visited Israel or made statements about doing business there.",
+   "verdict": "unverified",
+   "finding": "Grade: nothing found. Searches for a Donald Trump Jr. trip to Israel in 2023-26 or statements on Israeli business surfaced no report; his documented Israel-adjacent link is only his advisory role at Unusual Machines, an XTEND investor. Eric Trump's documented visits are the Feb 2023 scouting trip (NYT, via Lockwood page) and his June 2025 statement above. Whether any 2025-26 visit by either son occurred was not determined.",
+   "sources": [
+    "https://lockwoodhotels.com/press/trump-family-business-eyes-hotel-deals-in-israel",
+    "https://www.theyeshivaworld.com/news/israel-news/2419075/trump-tower-tel-aviv-trump-organization-eyes-tel-avivs-tallest-hotel-for-luxury-branding-deal.html"
+   ]
+  },
+  {
+   "statement": "Any US policy decision toward Israel was taken because of these Trump business interests.",
+   "verdict": "unverified",
+   "finding": "Grade: allegation or insinuation only. Critics (including the Narativ substack on the Sarona talks and the 'conflict of interest' ethics experts quoted by Al Jazeera on XTEND) infer conflict; no investigation, finding or decision linking either to a business interest was found. Timing overlaps (the Sarona talks in spring 2025 weeks before US-Israeli strikes on Iran in June 2025; the XTEND investment 11 days before the 28 Feb 2026 strikes) are not evidence of cause. Eric Trump's stated position is that discussions were preliminary and that Israel is a market he would 'love to explore'.",
+   "sources": [
+    "https://www.theyeshivaworld.com/news/israel-news/2419075/trump-tower-tel-aviv-trump-organization-eyes-tel-avivs-tallest-hotel-for-luxury-branding-deal.html",
+    "https://www.snopes.com/fact-check/eric-trump-drone-company-iran-war/",
+    "https://www.aljazeera.com/economy/2026/2/17/us-presidents-son-eric-trump-invests-in-drone-maker-with-govt-contracts"
+   ]
+  }
+ ],
+ "corrections": [
+  "Globes (2017) describes the 2006 Ramat Gan buyers as 'Crescent Heights and the Trump group'; Globes (2008) and Ynet describe Trump as the name licensor (25% of unit sales) who sued Crescent Heights after it flipped the lot. We treat Trump as licensor, not buyer or owner of the site; the sources conflict.",
+  "C105's statement that no Saudi or Israeli dealing was found for Witkoff stands; this check also found none.",
+  "C98's foreign licensing total ($63.1M) contains no Israeli line; the Israeli trademark registrations in the same filing carry no income."
+ ],
+ "denials_and_context": [
+  "Eric Trump (to the Times, June 2025): 'Israel has always been a market we would love to explore, but we have no plans at this time, and any discussions have been strictly preliminary.' In Oct 2024 he said the deal 'absolutely would have gotten done if not for Oct. 7'.",
+  "Lockwood Development Partners told the Times that the Trump campaign called off the Jerusalem negotiations weeks before the war.",
+  "Unusual Machines and Donald Trump Jr.'s representatives told Bloomberg he played no role in securing the Army award to Unusual Machines.",
+  "XTEND did not respond to Al Jazeera's request for comment; Nitsba did not respond to the Times.",
+  "The January 2025 Trump Organization ethics white paper bars new deals directly with foreign governments but allows private foreign deals; the Israeli talks and the XTEND investment are private-sector and investment activity of Trump's sons, not deals with the Israeli state.",
+  "Holding a stake or discussing a licence is not a violation; no authority has made a finding on any item here. Whether Eric Trump disclosed the XTEND stake is unknown (his own filings are not public).",
+  "Absence of a named Israeli buyer of crypto tokens or Trump Media shares is not proof none exists: token sales are pseudonymous and shares are held in street name."
+ ],
+ "sources": [
+  {
+   "title": "Trump OGE Form 278e annual report for 2025 (filed 30 June 2026), trademark exhibit to Part 2 and income schedules; full text searched for Israel",
+   "publisher": "US Office of Government Ethics (copy held in project files as t2026.txt)",
+   "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/",
+   "date": "2026-06-30",
+   "read": "full"
+  },
+  {
+   "title": "Trump Family Business Eyes Hotel Deals in Israel (New York Times, 9 Oct 2024, reproduced on Lockwood Hotels press page)",
+   "publisher": "New York Times via Lockwood Hotels",
+   "url": "https://lockwoodhotels.com/press/trump-family-business-eyes-hotel-deals-in-israel",
+   "date": "2024-10-09",
+   "read": "excerpt"
+  },
+  {
+   "title": "Trump Org Looking Into Hotel Deals in Israel: Report",
+   "publisher": "The Daily Beast",
+   "url": "https://www.thedailybeast.com/trump-organization-looking-into-new-hotel-deals-in-israel",
+   "date": "2024-10-10",
+   "read": "excerpt"
+  },
+  {
+   "title": "Trump Tower Tel Aviv? Trump Organization Eyes Tel Aviv's Tallest Hotel (summarising the New York Times, June 2025)",
+   "publisher": "Yeshiva World News",
+   "url": "https://www.theyeshivaworld.com/news/israel-news/2419075/trump-tower-tel-aviv-trump-organization-eyes-tel-avivs-tallest-hotel-for-luxury-branding-deal.html",
+   "date": "2025-06-27",
+   "read": "full"
+  },
+  {
+   "title": "Trump's failed business affair with Israel",
+   "publisher": "Ynetnews",
+   "url": "https://www.ynetnews.com/business/article/4879842",
+   "date": "2016-11",
+   "read": "excerpt"
+  },
+  {
+   "title": "Donald Trump sues Ramat Gan developer",
+   "publisher": "Globes",
+   "url": "https://en.globes.co.il/en/article-1000342879",
+   "date": "2008-05-18",
+   "read": "full"
+  },
+  {
+   "title": "Trump didn't build it: 65-storey Ramat Gan tower planned",
+   "publisher": "Globes",
+   "url": "https://en.globes.co.il/en/article-1001189541",
+   "date": "2017-05-22",
+   "read": "excerpt"
+  },
+  {
+   "title": "Eric Trump invests in $1.5B drone manufacturer, construction merger",
+   "publisher": "Manufacturing Dive",
+   "url": "https://www.manufacturingdive.com/news/eric-trump-15-billion-jfb-xtend-ai-merger-construction-drone-defense/812526/",
+   "date": "2026-02-19",
+   "read": "full"
+  },
+  {
+   "title": "Did Eric Trump invest in a drone company shortly before the Iran war? (Snopes fact check)",
+   "publisher": "Snopes",
+   "url": "https://www.snopes.com/fact-check/eric-trump-drone-company-iran-war/",
+   "date": "2026-03",
+   "read": "full"
+  },
+  {
+   "title": "Trump family's drone portfolio reaches $750 million (summarising Bloomberg, 13 Mar 2026)",
+   "publisher": "DroneXL",
+   "url": "https://dronexl.co/2026/03/13/trump-family-750-million-drone-portfolio",
+   "date": "2026-03-13",
+   "read": "full"
+  },
+  {
+   "title": "Trump's sons invest in companies vying to fill gaps in US drone industry",
+   "publisher": "Defense News",
+   "url": "https://www.defensenews.com/news/your-military/2026/03/10/trumps-sons-invest-in-companies-vying-to-fill-gaps-in-us-drone-industry",
+   "date": "2026-03-10",
+   "read": "excerpt"
+  },
+  {
+   "title": "XTEND and JFB complete business combination with $110 million in total capital",
+   "publisher": "Pulse 2.0",
+   "url": "https://pulse2.com/xtend-and-jfb-complete-business-combination-with-110-million-in-total-capital/",
+   "date": "2026-09-03",
+   "read": "full"
+  },
+  {
+   "title": "US president's son Eric Trump invests in drone maker with gov't contracts",
+   "publisher": "Al Jazeera",
+   "url": "https://www.aljazeera.com/economy/2026/2/17/us-presidents-son-eric-trump-invests-in-drone-maker-with-govt-contracts",
+   "date": "2026-02-17",
+   "read": "excerpt"
+  },
+  {
+   "title": "JFB and XTEND announce $1.5B business combination (press release, Exhibit 99.1 to JFB filing)",
+   "publisher": "SEC EDGAR (JFB Construction Holdings)",
+   "url": "https://www.sec.gov/Archives/edgar/data/2024306/000149315226006957/ex99-1.htm",
+   "date": "2026-02-17",
+   "read": "excerpt"
+  },
+  {
+   "title": "Trump Media to merge with TAE Technologies (search for any Israeli counterparty; none found)",
+   "publisher": "Axios",
+   "url": "https://axios.com/2025/12/18/trump-nuclear-fusion",
+   "date": "2025-12-18",
+   "read": "excerpt"
+  },
+  {
+   "title": "Witkoff Group, Lightstone Group eye Israeli capital market",
+   "publisher": "The Real Deal",
+   "url": "https://therealdeal.com/new-york/2014/08/21/witkoff-group-lightstone-group-eye-israeli-capital-market/",
+   "date": "2014-08-21",
+   "read": "excerpt"
+  },
+  {
+   "title": "Trump Organization resumes hotel talks in Israel (search result, Eric Trump statements)",
+   "publisher": "Perigon (aggregator)",
+   "url": "https://perigon.io/news/politics/2024/10/09/trump-organization-resumes-hotel-talks-israel",
+   "date": "2024-10-09",
+   "read": "excerpt"
+  },
+  {
+   "title": "Trump-backed Dominari/American Data Centers and New America Acquisition I coverage (no Israeli counterparty found)",
+   "publisher": "Newstracs",
+   "url": "https://newstracs.com/don-jr-and-eric-trump-join-advisory-board-of-trump-tower-tenant-dominari-holdings/2025/02/12/",
+   "date": "2025-02-12",
+   "read": "excerpt"
+  },
+  {
+   "title": "Netanyahu and Musk discuss AI and smart transportation (Tesla and Starlink Israel items, search excerpts only)",
+   "publisher": "Washington Examiner",
+   "url": "https://www.washingtonexaminer.com/policy/technology/4363919/musk-netanyahu-israel-global-ai-leader/",
+   "date": "2025",
+   "read": "excerpt"
+  }
+ ],
+ "entities": [
+  {
+   "id": "israel",
+   "name": "Israel",
+   "type": "country",
+   "description": "Country of the Israeli government and of the companies and investors discussed here"
+  },
+  {
+   "id": "xtend",
+   "name": "XTEND (XTEND AI Robotics)",
+   "type": "company",
+   "description": "Tel Aviv-founded AI drone and robotics maker; US-listed as XTND (NYSE) since 4 Sep 2026"
+  },
+  {
+   "id": "jfb-construction-holdings",
+   "name": "JFB Construction Holdings",
+   "type": "company",
+   "description": "Nasdaq-listed Florida construction company that merged with XTEND (closed 3 Sep 2026)"
+  },
+  {
+   "id": "unusual-machines",
+   "name": "Unusual Machines",
+   "type": "company",
+   "description": "US drone-parts maker; Donald Trump Jr. is an adviser and shareholder; strategic investor in XTEND deal"
+  },
+  {
+   "id": "american-ventures",
+   "name": "American Ventures",
+   "type": "fund",
+   "description": "Texas-based vehicle listing Donald Trump Jr. and Eric Trump among its backers; holds XTEND, Powerus and Unusual Machines stakes (Bloomberg)"
+  },
+  {
+   "id": "protego-ventures",
+   "name": "Protego Ventures",
+   "type": "fund",
+   "description": "Israel-based defence private-equity investor in XTEND deal"
+  },
+  {
+   "id": "nitsba-group",
+   "name": "Nitsba Group (Nitsba Holdings)",
+   "type": "company",
+   "description": "Israeli real-estate developer, owner of the Sarona Hotel tower in Tel Aviv; chairman Haim Tsuff"
+  },
+  {
+   "id": "haim-tsuff",
+   "name": "Haim Tsuff",
+   "type": "person",
+   "description": "Chairman of Nitsba's controlling shareholder; told the NYT the Trump brand could help secure extra storeys"
+  },
+  {
+   "id": "crescent-heights",
+   "name": "Crescent Heights",
+   "type": "company",
+   "description": "US developer (Sonny Kahan) that licensed the Trump Plaza name for the 2006-07 Ramat Gan tower plan"
+  },
+  {
+   "id": "azorim",
+   "name": "Azorim Investment, Development and Construction",
+   "type": "company",
+   "description": "Israeli developer that bought the Elite lot in Ramat Gan for about $80M in 2007"
+  },
+  {
+   "id": "lockwood-development-partners",
+   "name": "Lockwood Development Partners",
+   "type": "company",
+   "description": "Florida firm said to have partnered with the Trump Organization on the Jerusalem hotel talks (NYT)"
+  },
+  {
+   "id": "dominari-holdings",
+   "name": "Dominari Holdings (Dominari Securities)",
+   "type": "company",
+   "description": "Trump Tower-based financial firm advised by Donald Trump Jr. and Eric Trump; placement agent for JFB in the XTEND deal"
+  },
+  {
+   "id": "us-department-of-war",
+   "name": "US Department of Defense / War",
+   "type": "government",
+   "description": "Awarded XTEND an undisclosed multi-million-dollar drone contract in Nov 2025"
+  },
+  {
+   "id": "donald-trump",
+   "name": "Donald Trump",
+   "type": "person",
+   "description": "President; second term from 20 Jan 2025"
+  },
+  {
+   "id": "eric-trump",
+   "name": "Eric Trump",
+   "type": "person",
+   "description": "Trump Organization executive vice president; American Bitcoin co-founder; led the Israel hotel talks and invested in XTEND"
+  },
+  {
+   "id": "donald-trump-jr",
+   "name": "Donald Trump Jr.",
+   "type": "person",
+   "description": "Trump Organization executive vice president; adviser to Unusual Machines and 1789 Capital partner"
+  },
+  {
+   "id": "trump-organization",
+   "name": "Trump Organization",
+   "type": "company",
+   "description": "Family business run by Eric Trump and Donald Trump Jr."
+  },
+  {
+   "id": "steve-witkoff",
+   "name": "Steve Witkoff",
+   "type": "person",
+   "description": "Special envoy; no Israeli business dealing found"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "trump-organization",
+   "target": "crescent-heights",
+   "label": "licensed 'Trump Plaza' name for Ramat Gan tower (25% of unit sales; never built)",
+   "type": "commercial",
+   "date": "2006"
+  },
+  {
+   "source": "crescent-heights",
+   "target": "azorim",
+   "label": "resold Ramat Gan Elite lot for about $80M",
+   "type": "money",
+   "date": "2007",
+   "amount_usd": 80000000
+  },
+  {
+   "source": "trump-organization",
+   "target": "crescent-heights",
+   "label": "sued over the lot flip; claim rejected (Ynet)",
+   "type": "legal",
+   "date": "2008"
+  },
+  {
+   "source": "eric-trump",
+   "target": "nitsba-group",
+   "label": "preliminary talks on branding and managing the Sarona Hotel; nothing signed",
+   "type": "commercial",
+   "date": "2025"
+  },
+  {
+   "source": "eric-trump",
+   "target": "lockwood-development-partners",
+   "label": "discussed Jerusalem Haleom hotel branding via Lockwood-linked talks; none signed",
+   "type": "commercial",
+   "date": "2023"
+  },
+  {
+   "source": "nitsba-group",
+   "target": "haim-tsuff",
+   "label": "chaired by (controlling shareholder's chair)",
+   "type": "ownership",
+   "date": "2025"
+  },
+  {
+   "source": "eric-trump",
+   "target": "xtend",
+   "label": "strategic investor in the JFB merger (own amount not found)",
+   "type": "money",
+   "date": "2026-02"
+  },
+  {
+   "source": "american-ventures",
+   "target": "xtend",
+   "label": "stake estimated about $340M by Bloomberg (single outlet)",
+   "type": "ownership",
+   "date": "2026-03",
+   "amount_usd": 340000000
+  },
+  {
+   "source": "donald-trump-jr",
+   "target": "american-ventures",
+   "label": "listed among backers",
+   "type": "ownership",
+   "date": "2026-03"
+  },
+  {
+   "source": "eric-trump",
+   "target": "american-ventures",
+   "label": "listed among backers",
+   "type": "ownership",
+   "date": "2026-03"
+  },
+  {
+   "source": "donald-trump-jr",
+   "target": "unusual-machines",
+   "label": "adviser and shareholder",
+   "type": "advisory",
+   "date": "2024-11"
+  },
+  {
+   "source": "unusual-machines",
+   "target": "xtend",
+   "label": "strategic investor in the JFB merger",
+   "type": "money",
+   "date": "2026-02"
+  },
+  {
+   "source": "protego-ventures",
+   "target": "xtend",
+   "label": "strategic investor, Israel-based",
+   "type": "money",
+   "date": "2026-02"
+  },
+  {
+   "source": "xtend",
+   "target": "jfb-construction-holdings",
+   "label": "merged; closed 3 Sep 2026",
+   "type": "ownership",
+   "date": "2026-09"
+  },
+  {
+   "source": "dominari-holdings",
+   "target": "jfb-construction-holdings",
+   "label": "exclusive placement agent for the XTEND combination",
+   "type": "commercial",
+   "date": "2026"
+  },
+  {
+   "source": "donald-trump-jr",
+   "target": "dominari-holdings",
+   "label": "adviser",
+   "type": "advisory",
+   "date": "2025-02"
+  },
+  {
+   "source": "eric-trump",
+   "target": "dominari-holdings",
+   "label": "adviser",
+   "type": "advisory",
+   "date": "2025-02"
+  },
+  {
+   "source": "us-department-of-war",
+   "target": "xtend",
+   "label": "awarded undisclosed multi-million drone contract (before Eric Trump's investment)",
+   "type": "commercial",
+   "date": "2025-11"
+  },
+  {
+   "source": "xtend",
+   "target": "israel",
+   "label": "Tel Aviv-based; reported Israeli Ministry of Defense partnership and fabrication request",
+   "type": "commercial",
+   "date": "2026-03"
+  },
+  {
+   "source": "donald-trump",
+   "target": "israel",
+   "label": "Trump marks registered at the Israeli Patent Office (six registrations in his 2025 disclosure)",
+   "type": "commercial",
+   "date": "2025"
+  }
+ ],
+ "leads": [
+  {
+   "title": "XTEND stake: Eric Trump's own dollar amount and the American Ventures ownership split",
+   "why_connected": "Only Bloomberg's estimate (about $340M for American Ventures) is public; the JFB proxy/DEFM14C and Eric Trump's 2026 disclosure would show the actual holdings.",
+   "entities": [
+    "eric-trump",
+    "american-ventures",
+    "xtend"
+   ],
+   "source_url": "https://dronexl.co/2026/03/13/trump-family-750-million-drone-portfolio"
+  },
+  {
+   "title": "Drone Dominance and other Pentagon awards to firms where Trump sons hold stakes (XTEND, Unusual Machines, Powerus)",
+   "why_connected": "Documented stakes plus Pentagon procurement; no link to decisions found, so a separate fact-check would rate the pattern.",
+   "entities": [
+    "donald-trump-jr",
+    "eric-trump",
+    "unusual-machines",
+    "xtend",
+    "us-department-of-war"
+   ],
+   "source_url": "https://www.manufacturingdive.com/news/eric-trump-15-billion-jfb-xtend-ai-merger-construction-drone-defense/812526/"
+  },
+  {
+   "title": "Status of the Sarona Hotel branding talks with Nitsba after June 2025",
+   "why_connected": "No 2026 reporting found; Israeli business press or a Trump Organization announcement would show whether talks resumed.",
+   "entities": [
+    "eric-trump",
+    "nitsba-group",
+    "trump-organization"
+   ],
+   "source_url": "https://www.theyeshivaworld.com/news/israel-news/2419075/trump-tower-tel-aviv-trump-organization-eyes-tel-avivs-tallest-hotel-for-luxury-branding-deal.html"
+  },
+  {
+   "title": "Musk, Tesla and Starlink arrangements with the Israeli government",
+   "why_connected": "Search excerpts only; not tied to a Trump-linked venture, but relevant to associates' Israel business.",
+   "entities": [
+    "israel"
+   ],
+   "source_url": "https://www.washingtonexaminer.com/policy/technology/4363919/musk-netanyahu-israel-global-ai-leader/"
+  }
+ ]
+}
