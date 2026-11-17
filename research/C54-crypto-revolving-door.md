@@ -82,10 +82,11 @@ No published waiver or 18 U.S.C. 207 determination for Hines was found.
 
 - **Patomak's clients.** They reportedly included banks, crypto exchanges and DeFi platforms. FTX signed on in early 2022.
 - **Holdings.** His OGE disclosure, public on 25 Mar 2025, showed:
-  - up to about $327M in family assets
-  - up to about $6M in crypto-related assets: Anchorage Digital equity (about $1M), Securitize call options ($2.5-5M) and a small Pontoro stake
+  - Atkins and his wife worth at least $327M (Bloomberg Law)
+  - about $6M in crypto-related assets, as reported: Anchorage Digital (Anchor Labs) equity of $250K-$500K, Securitize options of $250K-$500K, $1M-$5M in the Off the Chain Capital fund, and a small Pontoro stake
   - no direct crypto
 - **Ethics pledge.** He committed to divest Patomak within 90 days of confirmation and to stay out of matters involving Patomak or its clients for one year.
+- **Compliance.** He signed a certification on 18 Jul 2025 that all resignations and divestitures were completed on time, with no waivers or authorizations. OGE lists two Certificates of Divestiture for him (OGE-2025-099 and OGE-2025-160; see C107).
 - **The sale.** Warren asked on 6 Aug 2025 who bought his stake and for how much. No disclosure of either was found. The SEC says he complies with his ethics agreement.
 - **Trump Media subpoena.** Barron's reported in August 2025 that defendants in a Trump Media lawsuit sought Patomak records on any TMTG engagement. TMTG called this "meritless."
 
@@ -98,7 +99,7 @@ No published waiver or 18 U.S.C. 207 determination for Hines was found.
 
 ### 7. Sacks (confirmed; see C34)
 
-He served as a special government employee under ethics waivers dated 5 Mar 2025 (crypto) and mid-2025 (AI) while keeping Craft Ventures stakes. He stepped down as czar around 26-27 Mar 2026.
+He served as a special government employee under ethics waivers dated 5 Mar 2025 (crypto) and, for AI, undated but from March 2025 by its text (posted June 2025), while keeping Craft Ventures stakes. He left the czar post on 26 Mar 2026, saying his 130 SGE days were used up, and remains PCAST co-chair.
 
 ### 8. SEC/CFTC departures to crypto firms (partly-accurate)
 
@@ -227,3 +228,12 @@ New sources:
 - Finance Magnates, "Fireblocks taps former SEC acting chair for stablecoin and tokenisation push", 2026-08-17. https://www.financemagnates.com/executives/moves/fireblocks-taps-former-sec-acting-chair-for-stablecoin-and-tokenisation-push/
 - The Block, "Senate confirms former blockchain executive Jonathan Gould to lead OCC", 2025-07-10. https://www.theblock.co/amp/post/362071/senate-confirms-former-blockchain-executive-jonathan-gould-to-lead-occ
 - MoonPay, "CFTC Acting Chairman Caroline D. Pham to Join MoonPay", 2025-12-17. https://www.moonpay.com/newsroom/caroline-d-pham
+
+### Corrections, 17 Nov 2026 (holdings audit, C106/C107)
+
+- **Atkins's crypto holdings.** As reported from his nominee filing, his Anchorage and Securitize holdings were $250K-$500K each, not about $1M and $2.5M-$5M. Off the Chain Capital ($1M-$5M) was added.
+- **Family wealth.** "Up to ~$327M" becomes "at least $327M", as Bloomberg Law reported.
+- **Atkins's compliance.** Added his 18 Jul 2025 compliance certification (no waivers) and the two Certificates of Divestiture.
+- **Sacks's AI waiver.** It is dated to March 2025; it was posted in June 2025.
+
+The audit result is now **corrected**; the verdict is unchanged.

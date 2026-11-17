@@ -61,7 +61,7 @@
     {
       "statement": "Elon Musk: the largest 2024 Trump donor, then DOGE head; his companies won federal AI business and went public in a record IPO, and Don Jr.'s 1789 Capital holds stakes in xAI and SpaceX.",
       "verdict": "mostly-accurate",
-      "finding": "DOCUMENTED: Musk's 2024 political spending was about $277-290M per FEC-based tallies, mostly via America PAC. He then led DOGE. xAI was one of four firms (with Google, OpenAI and Anthropic) given a contract with a ceiling of up to $200M by the Pentagon's CDAO in July 2025, and launched 'Grok for Government' on the GSA schedule. SpaceX acquired xAI in an all-stock merger in early February 2026 (about $1.25T). SpaceX priced a record ~$75B IPO at $135 on 2026-06-11, valuing it at about $1.77T, and listed on Nasdaq on 2026-06-12. 1789 Capital, where Don Jr. has been a partner since Nov 2024, invested in SpaceX, xAI and Neuralink, reportedly more than $50M across xAI and SpaceX (Reuters, relayed by SMH and Marine Link), after Omeed Malik met Musk during the campaign (Reuters sources). INFERRED, not sourced: 1789's xAI stake converted into SpaceX stock and gained value in the IPO; no source gives 1789's gain. Musk fell out with Trump in 2025, reconciled, and America PAC re-entered the 2026 midterms ($50.3M raised as of 2026-06-30, almost all from Musk, per FactCheck.org). 1789 says Don Jr. recuses himself from dealing with the federal government (C32).",
+      "finding": "DOCUMENTED: Musk's 2024 political spending was about $277-290M per FEC-based tallies, mostly via America PAC. He then led DOGE as a special government employee, covered by 18 U.S.C. 208. A White House official said in Feb 2025 that his financial disclosure would be confidential, not public (AP via Star-Advertiser), and no 208(b)(1) waiver for him appears on the White House waiver list (checked 17 Nov 2026; C109). No finding on his compliance was found. xAI was one of four firms (with Google, OpenAI and Anthropic) given a contract with a ceiling of up to $200M by the Pentagon's CDAO in July 2025, and launched 'Grok for Government' on the GSA schedule. SpaceX acquired xAI in an all-stock merger in early February 2026 (about $1.25T). SpaceX priced a record ~$75B IPO at $135 on 2026-06-11, valuing it at about $1.77T, and listed on Nasdaq on 2026-06-12. 1789 Capital, where Don Jr. has been a partner since Nov 2024, invested in SpaceX, xAI and Neuralink, reportedly more than $50M across xAI and SpaceX (Reuters, relayed by SMH and Marine Link), after Omeed Malik met Musk during the campaign (Reuters sources). INFERRED, not sourced: 1789's xAI stake converted into SpaceX stock and gained value in the IPO; no source gives 1789's gain. Musk fell out with Trump in 2025, reconciled, and America PAC re-entered the 2026 midterms ($50.3M raised as of 2026-06-30, almost all from Musk, per FactCheck.org). 1789 says Don Jr. recuses himself from dealing with the federal government (C32).",
       "sources": [
         "https://www.adn.com/nation-world/2024/12/06/elon-musk-spent-at-least-277m-backing-trump-and-other-republicans-fec-filings-show/",
         "https://spokesman.com/stories/2025/feb/01/elon-musk-donated-288-million-in-2024-election-fin",
@@ -74,7 +74,9 @@
         "https://www.marinelink.com/blogs/blog/1789-capital-a-trumplinked-venture-capital-fund-has-assets-of-103282",
         "https://www.asiae.co.kr/en/article/2026051810171921837",
         "https://www.factcheck.org/2026/09/america-pac-2/",
-        "https://washingtonexaminer.com/news/4711280/elon-musk-america-pac-2026-midterm-elections-spending"
+        "https://washingtonexaminer.com/news/4711280/elon-musk-america-pac-2026-midterm-elections-spending",
+        "https://staradvertiser.com/2025/02/11/breaking-news/elon-musks-financial-disclosure-will-not-be-made-public",
+        "https://www.whitehouse.gov/disclosures/"
       ]
     },
     {
@@ -183,7 +185,8 @@
     "The Meta FTC outcome was a court ruling (Boasberg, 2025-11-18), not an administration decision. Meta's attempt to settle with the administration reportedly failed.",
     "'Ballroom?' for Nvidia: confirmed. $25M, anonymous, per the Washington Post's leaked spreadsheet (2026-10-15).",
     "Brockman's $25M MAGA Inc gift is filed as $12.5M each from Greg and Anna Brockman.",
-    "Paramount-WBD closing date: the deal closed on Tuesday 2026-10-06 (AP), not about 2026-09-29 as first inferred."
+    "Paramount-WBD closing date: the deal closed on Tuesday 2026-10-06 (AP), not about 2026-09-29 as first inferred.",
+    "2026-11-17: Added (from C109): Musk served as a special government employee with a confidential (non-public) financial disclosure, and no conflict-of-interest waiver for him has been published; no finding on his compliance was found. No change to the figures."
   ],
   "denials_and_context": [
     "Paramount says the settlement was unrelated to merger reviews. Trump said none of the WBD bidders were 'particularly great friends'.",
@@ -650,6 +653,20 @@
       "publisher": "Spokesman-Review",
       "url": "https://www.spokesman.com/stories/2026/jan/02/trump-aligned-maga-inc-super-pac-enters-2026-with-",
       "date": "2026-01-02"
+    },
+    {
+      "title": "Elon Musk's financial disclosure will not be made public",
+      "publisher": "Associated Press via Honolulu Star-Advertiser",
+      "url": "https://staradvertiser.com/2025/02/11/breaking-news/elon-musks-financial-disclosure-will-not-be-made-public",
+      "date": "2025-02-11",
+      "read": "excerpt"
+    },
+    {
+      "title": "Public disclosures: waivers list",
+      "publisher": "The White House",
+      "url": "https://www.whitehouse.gov/disclosures/",
+      "date": "2026-11-17",
+      "read": "full"
     }
   ],
   "entities": [
@@ -1533,14 +1550,16 @@
       "Paramount/WBD timeline, especially the closing date",
       "SpaceX IPO figures ($135/share, ~$75B, 2026-06-11 pricing, 2026-06-12 Nasdaq listing, ~$1.77T) and 1789 Capital's reported xAI/SpaceX stakes",
       "Greg and Anna Brockman's $25M to MAGA Inc. (received 2025-09-12)",
-      "Labelling of inferred links (Silver Lake hub, Ellison-X settlement, TikTok-Meta ruling, 1789 IPO gain) in findings, summary and relationship labels"
+      "Labelling of inferred links (Silver Lake hub, Ellison-X settlement, TikTok-Meta ruling, 1789 IPO gain) in findings, summary and relationship labels",
+      "2026-11-17: Musk's disclosure status and any published waiver (C109)"
     ],
     "result": "corrected",
     "changes": [
       "Corrected the Paramount-WBD closing date from an inferred ~2026-09-29 to Tuesday 2026-10-06 (AP via KSAT), in the sub-claim finding, the ABC/AP source date, the acquisition relationship date, the WBD entity description and the report timeline; added a correction line.",
       "Added to the Nvidia finding that Reuters did not independently verify the leaked spreadsheet, that the Post dates Nvidia's gift to October 2025 after the China chip arrangement, and that in-kind gifts are excluded.",
       "Upheld: SpaceX IPO figures match multiple outlets (some report $1.7T-$2.1T post-debut valuations; $1.77T at pricing is the common figure); 1789's >$50M across xAI/SpaceX is still reported only via Bloomberg/Reuters relays and no source quantifies an IPO gain, so that remains INFERRED as labelled; Brockman's $25M is FEC-based (FEC lists $12.5M from each spouse).",
-      "Inferred links are labelled INFERRED in findings and summary; relationship edges only record the documented endpoints, so no label changes were needed."
+      "Inferred links are labelled INFERRED in findings and summary; relationship edges only record the documented endpoints, so no label changes were needed.",
+      "2026-11-17: Musk sub-claim now states that his disclosure was confidential and that no waiver for him has been published (White House waiver list read in full; AP)."
     ],
     "new_sources": [
       {
@@ -1578,6 +1597,12 @@
         "publisher": "Spokesman-Review",
         "url": "https://www.spokesman.com/stories/2026/jan/02/trump-aligned-maga-inc-super-pac-enters-2026-with-",
         "date": "2026-01-02"
+      },
+      {
+        "title": "Public disclosures: waivers list",
+        "publisher": "The White House",
+        "url": "https://www.whitehouse.gov/disclosures/",
+        "date": "2026-11-17"
       }
     ]
   }

@@ -37,7 +37,7 @@ The documented record supports most of the claim. DT Marks DEFI (70% Trump's com
 
 - DT Marks DEFI LLC is entitled to 75% of WLF's net token-sale and protocol revenue.
 - Trump disclosed income from WLF.
-- Steve Witkoff received about $107M of 2025 income from his WLF-linked holding company.
+- Steve Witkoff received about $107M of 2025 income from the holding company that owns his WLF interest.
 - WLF insiders borrowed stablecoins against about 5B WLFI tokens as the price hit lows (mostly accurate)
 - WLF froze the tokens of Justin Sun and other holders.
 - WLF promoted the $SPSC memecoin.
@@ -47,10 +47,11 @@ The documented record supports most of the claim. DT Marks DEFI (70% Trump's com
 - WLFI price history and retail losses (partly accurate)
 - The claim says 'WLF insiders' borrowed. The reporting shows WLF's own treasury or multisig wallets borrowed on Dolomite, and no personal borrowing by Trump or Witkoff family members is documented. Loan size: about $75M per CoinDesk; the $150M and $261M estimates are unverified.
 - '75% of net revenue' is the Gold Paper revenue entitlement. DT Marks DEFI's equity stake in WLF Holdco was 75% at the end of 2024 and 38.25% at the end of 2025, according to Trump's OGE filings.
-- Witkoff's about $107M came from a WLF-linked holding company, and the filing does not show how much came from WLF itself.
+- Witkoff's $106,938,819 came from Witkoff Holdings LLC, a broad holding company that owns his WLF interest among other businesses; the filing does not show how much came from WLF itself.
 - Entity id note: C04 uses dt-marks-defi-llc and C13 uses dt-marks-defi for the same company. This file uses dt-marks-defi-llc.
 - The 2025 WLF income figure was given as a contested $594M-$800M. The filing resolves it (2026-11-16): $592.4M on DT Marks DEFI's lines and $789.3M including DT Marks SC's $196.9M from Stablecoin Holdco; the form's exact line amounts are given, not ranges.
 - 2026-11-16 (disclosure audit, C96/C97): Claimed: Trump 'disclosed about $57M from WLF' for 2024; the stake was 'about 60%, then 40%, then 38.25%'; the 22.5B-token stake was 'valued at about $1.3B per the 2025 filing'. The record shows: the $57,355,532 is World Liberty Financial, Inc.'s own revenue line, not a payment to Trump; the forms give only 75% (end-2024) and 38.25% (end-2025); the form lists 15.75B WLFI under DTTM Operations valued 'Over $50,000,000', and $1.3B is CAP's market valuation of 22.5B tokens in July 2026.
+- 2026-11-17 (holdings audit, C104/C105): Claimed: about $107M of 2025 income 'from a WLF-affiliated holding company', up from '$34M in 2024'. The record shows: the payer is Witkoff Holdings LLC (it owns WC Digital Fi, WC Digital SC and real-estate, golf and hotel businesses); the form splits the $106,938,819 into $68,875,000 cash and $38,063,819 cryptocurrency and attributes none of it to WLF; the $34,363,535 covers January 2024 to August 2025.
 
 ## What Is Unproven
 
@@ -60,7 +61,7 @@ The documented record supports most of the claim. DT Marks DEFI (70% Trump's com
 ## In More Detail
 
 - Trump's filings list $57.4M of 2024 token sales on World Liberty Financial, Inc.'s own line (company revenue, not a payment to him) and, for 2025, $592.4M on DT Marks DEFI's lines ($526.8M of token proceeds and $65.6M from a WLF Holdco equity sale), or $789.3M including $196.9M to DT Marks SC from Stablecoin Holdco.
-- Steve Witkoff reported about $107M of 2025 income from a WLF-linked holding company while the White House says he has divested, though no buyer or certificate has been shown.
+- Steve Witkoff reported $106.9M of 2025 distributions from Witkoff Holdings LLC, a broad holding company that owns his WLF interest among other businesses (the form does not say how much came from WLF), while the White House says he has divested, though no buyer or certificate has been shown.
 - WLF borrowed about $75M of stablecoins on Dolomite against about 5B WLFI as the token hit record lows.
 - Sun's wallet and 271 others were frozen, WLF promoted the $SPSC memecoin, and WLFI fell about 80-85% from its $0.33 peak.
 - Three points need correction or remain open: the borrower was WLF's own treasury, not individual insiders; no source puts a dollar figure on retail losses; and StringZ Holding's reported Tahnoon backing rests on a single WSJ report citing anonymous sources, which the OCC record does not confirm.
@@ -114,17 +115,18 @@ The documented record supports most of the claim. DT Marks DEFI (70% Trump's com
 - Dates: June 2025; June 30, 2026; July 2026
 - Sources: [6](https://www.ctvnews.ca/world/article/trump-pocketed-over-57-million-from-crypto-coin-sales/) [7](https://news.bloombergtax.com/crypto/trump-earned-57-7-million-from-crypto-venture-disclosure-shows) [4](https://unchainedcrypto.com/trumps-2025-financial-disclosure-shows-over-1-billion-in-crypto-income-as-bitcoin-slid-50/) [8](https://www.citationneeded.news/trumps-crypto-disclosure/) [39](https://news.bgov.com/crypto/witkoff-reports-107-million-from-entity-that-held-crypto-stake) [40](https://www.notus.org/trump-white-house/trump-annual-financial-disclosure-crypto-earnings) [41](https://www.theblock.co/news/regulation/2026-06-30-president-trump-financial-disclosures-hundreds-millions-crypto-related-income-406782)
 
-### 3. Steve Witkoff received about $107M of 2025 income from his WLF-linked holding company.
+### 3. Steve Witkoff received about $107M of 2025 income from the holding company that owns his WLF interest.
 
 **Confirmed**
 
-- His 2025 OGE disclosure, reported by ABC in September 2026 from a watchdog's copy, shows nearly $107M from a WLF-affiliated holding company, up from $34M in 2024.
-- One outlet splits it into about $69M cash and $38M in digital assets.
-- The filing does not show how much came from WLF itself and had not been certified.
+- His annual OGE report (signed 29 Jul 2026, covering calendar 2025; published on whitehouse.gov and reported by ABC in September 2026) shows $106,938,819 of distributions from Witkoff Holdings LLC. That is a broad holding company: besides WC Digital Fi LLC (WLF) and WC Digital SC LLC (SC Financial) it owns Banyan Cay, Ocean Terrace and golf and hotel operating companies.
+- An endnote splits the sum into $68,875,000 in cash and $38,063,819 in cryptocurrency.
+- The filing does not show how much came from WLF itself and, as published, carries no reviewer certification.
+- The comparison figure of $34,363,535 is from his new-entrant report and covers January 2024 to August 2025, not 2024 alone.
 - His 2025 new-entrant report listed WC Digital Fi LLC, which WLF's documents describe as an affiliate of Witkoff and his family.
-- Amounts: nearly $107M; $34M; about $69M; $38M
-- Dates: September 2026
-- Sources: [9](https://www.goodmorningamerica.com/news/story/steve-witkoff-earned-107m-trump-affiliated-crypto-venture-136307300) [10](https://yellow.com/news/witkoff-107m-world-liberty-financial) [11](https://ground.news/daily-briefing/ba32a445-8595-4aa0-867f-7d43da64fc50)
+- Amounts: $106,938,819; $68,875,000; $38,063,819; $34,363,535
+- Dates: 29 Jul 2026; September 2026; January 2024; August 2025
+- Sources: [9](https://www.goodmorningamerica.com/news/story/steve-witkoff-earned-107m-trump-affiliated-crypto-venture-136307300) [10](https://yellow.com/news/witkoff-107m-world-liberty-financial) [11](https://ground.news/daily-briefing/ba32a445-8595-4aa0-867f-7d43da64fc50) [42](https://www.whitehouse.gov/wp-content/uploads/2026/09/Witkoff-Steven-2026-Annual.pdf)
 
 ### 4. Witkoff's divestment from WLF is disputed.
 
@@ -238,6 +240,7 @@ The documented record supports most of the claim. DT Marks DEFI (70% Trump's com
 - [[USD1]] · Asset
 - [[WC Digital Fi LLC]] · Company
 - [[White House Trump administration]] · Government body
+- [[Witkoff Holdings LLC]] · Company
 - [[WLF Holdco LLC]] · Company
 - [[WLFI token]] · Asset
 - [[WLTC Holdings LLC]] · Company
@@ -253,19 +256,20 @@ The documented record supports most of the claim. DT Marks DEFI (70% Trump's com
 - [[World Liberty Financial]] *booked $57.36M of token sales as company revenue (2024 filing, line 391; not a distribution to Trump)* [[Donald Trump]] · 2024 · $57.36M · [[C42 How World Liberty Insiders Took Money Out|C42]]
 - [[Axiom Management Group]] *entitled to 25% of net protocol revenue* [[World Liberty Financial]] · 2024-10 · [[C42 How World Liberty Insiders Took Money Out|C42]] [[C63 Shell Entities & Ownership Chains|C63]]
 - [[DT Marks DEFI LLC]] *entitled to 75% of net protocol revenue incl. token sales* [[World Liberty Financial]] · 2024-10 · [[C42 How World Liberty Insiders Took Money Out|C42]]
-- [[WC Digital Fi LLC]] *paid about $107M of 2025 income (WLF-linked holding company)* [[Steve Witkoff]] · 2025 · $107M · [[C42 How World Liberty Insiders Took Money Out|C42]]
+- [[Witkoff Holdings LLC]] *paid $106,938,819 of 2025 distributions ($68.9M cash, $38.1M crypto; not attributed to WLF on the form)* [[Steve Witkoff]] · 2025 · $106.94M · [[C14 Steve & Zach Witkoff A Middle East Envoy & World Liberty|C14]] [[C42 How World Liberty Insiders Took Money Out|C42]]
 - [[World Liberty Financial]] *2025 receipts on DT Marks DEFI's lines $592.4M ($789.3M with DT Marks SC's Stablecoin Holdco line); entity totals or Trump's share not stated* [[Donald Trump]] · 2025 · $592.44M · [[C42 How World Liberty Insiders Took Money Out|C42]]
 - [[Aryam Investment 1]] *bought 49% for $500M (C14)* [[World Liberty Financial]] · 2025-01 · $500M · [[C42 How World Liberty Insiders Took Money Out|C42]]
 - [[ALT5 Sigma]] *WLFI treasury buyer (C13)* [[WLFI token]] · 2025-08 · [[C42 How World Liberty Insiders Took Money Out|C42]]
 - [[World Liberty Financial]] *sent more than $40M of borrowed stablecoins to Coinbase Prime* [[Coinbase]] · 2026-04-09 · $40M · [[C42 How World Liberty Insiders Took Money Out|C42]]
 - [[World Liberty Financial]] *borrowed about $75M of stablecoins against about 5B WLFI* [[Dolomite]] · 2026-04-09 · $75M · [[C42 How World Liberty Insiders Took Money Out|C42]]
 
-### Ownership (15)
+### Ownership (16)
 
 - [[Chase Herro]] *co-owns* [[Axiom Management Group]] · 2024-10 · [[C42 How World Liberty Insiders Took Money Out|C42]] [[C63 Shell Entities & Ownership Chains|C63]]
 - [[Donald Trump]] *owns (with family)* [[DT Marks DEFI LLC]] · 2024-10 · [[C04 World Liberty Financial Founding & Token Sale|C04]] [[C42 How World Liberty Insiders Took Money Out|C42]]
 - [[Zak Folkman]] *co-owns* [[Axiom Management Group]] · 2024-10 · [[C42 How World Liberty Insiders Took Money Out|C42]] [[C63 Shell Entities & Ownership Chains|C63]]
-- [[Sheikh Tahnoon bin Zayed]] *backs* [[Aryam Investment 1]] · 2025-01 · [[C06 A UAE-Backed 49% Stake in World Liberty Financial|C06]] [[C07 MGX's $2 Billion Binance Investment Settled in USD1|C07]] [[C14 Steve & Zach Witkoff A Middle East Envoy & World Liberty|C14]] [[C42 How World Liberty Insiders Took Money Out|C42]] [[C57 The UAE Network Tahnoon, G42, MGX & Their US Deals|C57]] [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]] [[C63 Shell Entities & Ownership Chains|C63]] [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]]
+- [[Witkoff Holdings LLC]] *owns (listed in his 278e filings)* [[WC Digital Fi LLC]] · 2025 · [[C42 How World Liberty Insiders Took Money Out|C42]]
+- [[Sheikh Tahnoon bin Zayed]] *backs* [[Aryam Investment 1]] · 2025-01 · [[C06 A UAE-Backed 49% Stake in World Liberty Financial|C06]] [[C07 MGX's $2 Billion Binance Investment Settled in USD1|C07]] [[C14 Steve & Zach Witkoff A Middle East Envoy & World Liberty|C14]] [[C42 How World Liberty Insiders Took Money Out|C42]] [[C57 The UAE Network Tahnoon, G42, MGX & Their US Deals|C57]] [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]] [[C63 Shell Entities & Ownership Chains|C63]] [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]] [[C105 Steve Witkoff Holdings, Divestiture & Overlapping Dealings|C105]]
 - [[WLF Holdco LLC]] *owns* [[World Liberty Financial]] · 2025-01 · [[C42 How World Liberty Insiders Took Money Out|C42]] [[C63 Shell Entities & Ownership Chains|C63]]
 - [[Steve Witkoff]] *holds interest in (divestment claimed, unverified)* [[WC Digital Fi LLC]] · 2025-08 · [[C42 How World Liberty Insiders Took Money Out|C42]]
 - [[DT Marks DEFI LLC]] *owns 38.25% at end-2025 (75% at end-2024, per Trump's filings)* [[WLF Holdco LLC]] · 2025-12 · [[C42 How World Liberty Insiders Took Money Out|C42]]
@@ -332,7 +336,7 @@ The documented record supports most of the claim. DT Marks DEFI (70% Trump's com
   - CAP's memo documents WLF's own shifting statements about how much of the venture the Trump family owns.
   - [[DT Marks DEFI LLC]] [[WLF Holdco LLC]] [[Donald Trump]] · [Source](https://www.americanprogress.org/wp-content/uploads/sites/2/2026/05/2026-05-05-Memo-on-Understanding-Trumps-Crypto-Wealth-Google-Docs.pdf)
 
-## Sources (41)
+## Sources (42)
 
 1. [Trump family gets 75% of crypto coin revenue, has no liability, new document reveals](https://www.nbcnews.com/tech/crypto/trump-family-gets-75-crypto-coin-revenue-no-liability-new-document-rev-rcna176088) (NBC News, 2024-10)
 2. [Trump-affiliated entity will get 75% of World Liberty Financial's revenue and 22% of WLFI tokens](https://benzinga.com/markets/cryptocurrency/24/10/41395007/trump-affiliated-entity-will-get-75-of-world-liberty-financials-revenue-and-22-of-wlfi-tok) (Benzinga, 2024-10)
@@ -375,6 +379,7 @@ The documented record supports most of the claim. DT Marks DEFI (70% Trump's com
 39. [Witkoff Reports $107 Million From Entity That Held Crypto Stake](https://news.bgov.com/crypto/witkoff-reports-107-million-from-entity-that-held-crypto-stake) (Bloomberg Government, 2026-09)
 40. [Trump Discloses More Than $1.1 Billion In Crypto Earnings](https://www.notus.org/trump-white-house/trump-annual-financial-disclosure-crypto-earnings) (NOTUS, 2026-06-30)
 41. [President Trump's financial disclosures show hundreds of millions in crypto-related income](https://www.theblock.co/news/regulation/2026-06-30-president-trump-financial-disclosures-hundreds-millions-crypto-related-income-406782) (The Block, 2026-06-30)
+42. [OGE Form 278e Annual Report 2026 (covers calendar 2025), Steven C. Witkoff, signed 29 Jul 2026](https://www.whitehouse.gov/wp-content/uploads/2026/09/Witkoff-Steven-2026-Annual.pdf) (The White House, 2026-07-29)
 
 ## Full Report
 
@@ -403,8 +408,12 @@ This check asks how money flowed out of World Liberty Financial (WLF) to the Tru
 - **2025 filing (released June 30, 2026):** the filing resolves the outlets' disagreement. DT Marks DEFI's lines show $526,810,321 of token proceeds distributed by WLF (The Block's $236.25M is only the cash line) and $65,625,000 from the WLF Holdco equity sale, $592.4M in all ("about $594M" with staking). Adding $196,875,000 to DT Marks SC from Stablecoin Holdco gives $789.3M (Reuters and the NYT's "almost $800M"). Both entities are about 70% Trump's and 30% unnamed family members'. The form does not say whether the amounts are entity totals or Trump's share. *(Corrected 16 Nov 2026; see the audit addendum.)* The form lists 15.75B WLFI under DTTM Operations, valued only "Over $50,000,000". The "about $1.3B" for 22.5B tokens is CAP's July 2026 market valuation, not a disclosed figure. These are revenue figures, not profit. C29 covers the full totals. [4][8]
 
 #### 3. Steve Witkoff's about $107M of 2025 income and the disputed divestment: confirmed for the income, unresolved for the divestment
-- ABC News reported (September 2026, from filings a government watchdog obtained) that Witkoff's 2025 OGE disclosure shows nearly $107M of income from a holding company affiliated with WLF, up from $34M in 2024. One outlet reports a split of about $69M in cash and $38M in digital assets. [9][10][11]
-- The filing does not show how much of that money came from WLF itself. It had also not received final OGE certification. [10][11]
+- ABC News reported in September 2026 that Witkoff's annual OGE report shows nearly $107M of income [9][10][11]. The report was signed on 29 July 2026 and covers calendar 2025.
+- **What the form shows (corrected 17 Nov 2026).**
+  - The payer is Witkoff Holdings LLC, which paid $106,938,819 of distributions: $68,875,000 in cash and $38,063,819 in cryptocurrency, per the form's endnote.
+  - Witkoff Holdings is a broad holding company. Besides WC Digital Fi LLC (WLF) and WC Digital SC LLC (SC Financial), it owns real-estate, golf and hotel businesses.
+  - The comparison figure of $34,363,535 comes from his new-entrant report and covers January 2024 to August 2025, not 2024 alone.
+- The filing does not show how much of that money came from WLF itself. As published, it carries no reviewer certification. [10][11]
 - His August 2025 new-entrant report listed WC Digital Fi LLC, which WLF's documents describe as "an affiliate of Steve Witkoff and certain of his family members". It also listed WC Digital SC LLC and SC Financial Technologies LLC. [11]
 - **Divestment timeline:**
   - May 2025: WLF said he was "in the process" of divesting.
@@ -451,7 +460,7 @@ This check asks how money flowed out of World Liberty Financial (WLF) to the Tru
 ### Corrections
 - "Insiders borrowing" should read "WLF's own treasury or multisig wallets borrowed". No personal borrowing by insiders is documented.
 - "75% of net revenue" describes the revenue entitlement in the Gold Paper. DT Marks DEFI's equity stake in WLF Holdco was 75% at the end of 2024 and 38.25% at the end of 2025, according to Trump's OGE filings.
-- Witkoff's $107M came from "a WLF-linked holding company", not necessarily from WLF itself. The filing does not break the figure down.
+- Witkoff's $106.9M came from Witkoff Holdings LLC, a broad holding company that owns his WLF interest among other businesses, not necessarily from WLF itself. The filing splits it only into cash ($68.9M) and crypto ($38.1M).
 
 ### Other side
 - WLF says the freezes protect users from phishing, that the Dolomite loan is overcollateralized, and that Sun's allegations are baseless.
@@ -528,3 +537,12 @@ New sources:
 - The contested $594M-$800M is resolved: $592.4M on DT Marks DEFI's lines, or $789.3M including DT Marks SC.
 - The form lists 15.75B WLFI under DTTM Operations, valued only "Over $50,000,000". The "$1.3B" for the 22.5B-token stake is CAP's July 2026 market valuation, not a disclosed figure.
 - DT Marks DEFI and DT Marks SC are 70% Trump's and 30% unnamed family members'. The form does not say whether the amounts are entity totals or his share.
+
+### Audit addendum (17 Nov 2026, holdings check; Witkoff items only)
+
+Result: **corrected** (verdict unchanged).
+
+- **The payer.** The $106,938,819 was paid by Witkoff Holdings LLC, not by WC Digital Fi or WLF. Witkoff Holdings owns WC Digital Fi among real-estate, golf and hotel interests. The form splits the sum into $68,875,000 in cash and $38,063,819 in cryptocurrency, and does not attribute it to WLF.
+- **The $34M.** The $34,363,535 covers January 2024 to August 2025.
+- **The map.** The money relationship now runs from the new entity `witkoff-holdings-llc`.
+- **Source.** 278e Annual Report 2026, read in full: https://www.whitehouse.gov/wp-content/uploads/2026/09/Witkoff-Steven-2026-Annual.pdf

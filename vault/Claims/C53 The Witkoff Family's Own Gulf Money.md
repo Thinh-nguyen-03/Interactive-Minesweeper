@@ -44,6 +44,9 @@ The core of the claim is documented. Qatar's sovereign fund (QIA) bought the Par
 - The claim dates the sons' fundraising to 2025. QIA dates Alex's pitch to 2024, before Witkoff took office. The NYT reported it in Sept 2025, and QIA declined, so the fund was shelved.
 - The claim names 'Alex/Zach'. Only Alex's approach to QIA is confirmed by the counterparty. Zach's role and the UAE and Kuwait approaches rest on NYT sourcing.
 - The NYT's '$100M from an Apollo-run trust partly owned by Qatar' was corrected. Per the correction relayed by the Jerusalem Post, the lender on the Belgrove loan was Apollo Global Management, not the Qatar-invested subsidiary. No Qatari money in that loan is documented (see C73).
+- 2026-11-17 (holdings audit, C104/C105): Claimed: his disclosures 'went uncertified'. The record shows: the White House DAEO certified the new-entrant report on 12 Dec 2025 (revised to add the State post, Jan-Jun 2025); the annual report signed 29 Jul 2026 shows no reviewer signature as published.
+- 2026-11-17 (holdings audit, C104/C105): The Warren-Murphy letter is dated 17 Nov 2025 (press releases 18 Nov). The Meeks-Amo-Garcia release names the acting inspectors general of State and Commerce only, not OGE. On 12 Dec 2025 State's OIG referred the Warren-Slotkin request to its Office of Investigations; no result has been reported.
+- 2026-11-17 (holdings audit, C104/C105): The $120M sale was disclosed in September 2025 but took place between January and 13 August 2025 (date undisclosed).
 
 ## What Is Unproven
 
@@ -52,7 +55,8 @@ The core of the claim is documented. Qatar's sovereign fund (QIA) bought the Par
 ## In More Detail
 
 - Alex Witkoff pitched QIA a planned $4B real-estate credit fund, and per the NYT the sons also approached UAE and Kuwaiti funds.
-- Steve Witkoff disclosed a $120M sale of a Witkoff Group stake with no buyer, date or percentage named, and his disclosures went uncertified while Congress pressed for investigations.
+- Steve Witkoff disclosed a $120M sale of a Witkoff Group stake (made between January and 13 August 2025) with no buyer, date or percentage named.
+- His new-entrant disclosure was certified only on 12 Dec 2025, after senators complained, and his later annual report is uncertified as published; Congress pressed for investigations, and State's inspector general referred one request to its Office of Investigations.
 - Corrections: the Park Lane seller was a Witkoff–Mubadala joint venture, and Qatar says the hotel was not Witkoff's.
 - The QIA pitch dates to 2024, not 2025, and QIA declined, so the fund was shelved.
 - The NYT's separate claim of $100M from a Qatar-part-owned Apollo trust was corrected: the lender was Apollo itself.
@@ -106,12 +110,12 @@ The core of the claim is documented. Qatar's sovereign fund (QIA) bought the Par
 
 **Confirmed**
 
-- Bloomberg reported on 2025-09-15/16, from his OGE disclosure, that he sold a Witkoff Group stake for $120M. The filing gave no buyer, date or percentage.
+- Bloomberg reported on 2025-09-15/16, from his OGE disclosure, that he sold a Witkoff Group stake for $120M. The filing gave no buyer, date or percentage; because the same line appears in his new-entrant report (period to 13 Aug 2025) and his annual report for calendar 2025, the sale took place between January and 13 August 2025.
 - A spokesperson says he remains a minority shareholder with no operating role since 2024, and Alex runs the firm.
 - Witkoff first said in March 2025 that he was divesting.
 - No buyer identity surfaced through Nov 2026.
 - Amounts: $120M
-- Dates: 2025-09-15; March 2025; Nov 2026
+- Dates: 2025-09-15; 13 Aug 2025; 13 August 2025; March 2025; Nov 2026
 - Sources: [13](https://therealdeal.com/national/2025/09/16/steve-witkoff-sells-stake-in-real-estate-firm-for-120m) [14](https://www.bisnow.com/national/news/commercial-real-estate/steve-witkoff-sells-120m-stake-in-his-real-estate-firm-130993) [15](https://dfnihf8fcqrzv.cloudfront.net/forbes/giacomo-tognini/how-peace-envoy-steve-witkoff-got-richer-thanks-to-trump-and-elon-musk/188276197) [12](https://therealdeal.com/national/2025/03/13/steve-witkoff-divesting-from-eponymous-real-estate-firm)
 
 ### 4. Witkoff's ethics agreement and disclosures leave the Gulf conflicts unresolved.
@@ -119,13 +123,13 @@ The core of the claim is documented. Qatar's sovereign fund (QIA) bought the Par
 **Mostly accurate**
 
 - No published ethics agreement surfaced.
-- Warren and Murphy (2025-11-18) said no ethics official had signed his disclosure, and asked about divestment and waivers.
+- Warren and Murphy (letter dated 2025-11-17; press releases 18 Nov) said no ethics official had signed his disclosure (the White House DAEO, Scott F. Gast, certified it on 12 Dec 2025, in a version that adds his State Department post), and asked about divestment and waivers.
 - Schiff and seven other senators (2025-10-22) pressed him on his WLF assets.
-- Meeks, Amo and Garcia (2026-01-08) asked the State and Commerce IGs and OGE to investigate him over the UAE AI-chip deal overlapping WLF's Emirati deal.
-- No IG outcome was found.
+- Meeks, Amo and Garcia (2026-01-08) asked the acting inspectors general of State and Commerce to investigate him over the UAE AI-chip deal overlapping WLF's Emirati deal; their release names only the two IGs, not OGE.
+- On 12 Dec 2025 State's OIG told Warren and Slotkin it had 'referred your request to our Office of Investigations for review'; no result has been reported and no authority has made a finding.
 - The WLF income and divestment questions are covered in C14 and C42.
-- Dates: 2025-11-18; 2025-10-22; 2026-01-08
-- Sources: [16](https://www.warren.senate.gov/newsroom/press-releases/warren-murphy-investigate-ethics-conflicts-related-to-trumps-envoy-to-the-middle-east) [17](https://fortune.com/img-assets/wp-content/uploads/2025/10/2025.10.22-Sen.-Schiff-Colleagues-Letter-to-Witkoff-on-WLF-Assets.pdf) [18](https://democrats-foreignaffairs.house.gov/2026/1/meeks-amo-garcia-demand-investigation-into-trump-despot-whisperer-witkoff-s-sketchy-business-dealings)
+- Dates: 2025-11-17; 18 Nov; 12 Dec 2025; 2025-10-22; 2026-01-08
+- Sources: [16](https://www.warren.senate.gov/newsroom/press-releases/warren-murphy-investigate-ethics-conflicts-related-to-trumps-envoy-to-the-middle-east) [17](https://fortune.com/img-assets/wp-content/uploads/2025/10/2025.10.22-Sen.-Schiff-Colleagues-Letter-to-Witkoff-on-WLF-Assets.pdf) [18](https://democrats-foreignaffairs.house.gov/2026/1/meeks-amo-garcia-demand-investigation-into-trump-despot-whisperer-witkoff-s-sketchy-business-dealings) [25](https://www.warren.senate.gov/imo/media/doc/warren_murphy_letter_to_white_house_oge_on_witkoff_financial_disclosures.pdf) [26](https://www.banking.senate.gov/imo/media/doc/2025_09_23_sens_slotkin_and_warren_requesting_oig_investigation_into_uae_chips_corruption_response1.pdf)
 
 ### 5. The family's Gulf money overlaps with Witkoff's Gaza, Qatar, Iran and Russia negotiations, including the Qatar jet and the Doha strike aftermath.
 
@@ -147,7 +151,7 @@ The core of the claim is documented. Qatar's sovereign fund (QIA) bought the Par
   - The NYT corrected a lender name on a separate (Belgrove) loan.
 - Apollo says its investors do not direct its investments.
   - The White House counsel says Witkoff takes ethics compliance seriously.
-- Against the family: the disclosures were uncertified, the $120M buyer is unnamed, and his son runs a firm that takes Qatar-linked capital.
+- Against the family: his new-entrant disclosure was certified only in December 2025 and his annual report is uncertified as published, the $120M buyer is unnamed, and his son runs a firm that takes Qatar-linked capital.
   - For the family: the QIA pitch predates his appointment and was rejected, and the Park Lane sale predates his government role.
 - The Witkoff family and Witkoff Group threatened the NYT with a defamation suit over the 26 Sep 2025 article and demanded corrections.
   - QIA denies investing in the Brook or Belgrove, and the White House called the story a 'bogus smear'.
@@ -213,7 +217,7 @@ The core of the claim is documented. Qatar's sovereign fund (QIA) bought the Par
 - [[US Congress]] *asked to review Witkoff's filings* [[Office of Government Ethics]] · 2025-11 · [[C53 The Witkoff Family's Own Gulf Money|C53]]
 - [[Chris Murphy]] *ethics inquiry: unsigned disclosure* [[Steve Witkoff]] · 2025-11-18 · [[C53 The Witkoff Family's Own Gulf Money|C53]]
 - [[Elizabeth Warren]] *ethics inquiry: unsigned disclosure* [[Steve Witkoff]] · 2025-11-18 · [[C53 The Witkoff Family's Own Gulf Money|C53]]
-- [[Gregory Meeks]] *sought IG/OGE investigation* [[Steve Witkoff]] · 2026-01-08 · [[C53 The Witkoff Family's Own Gulf Money|C53]]
+- [[Gregory Meeks]] *sought State and Commerce IG investigation* [[Steve Witkoff]] · 2026-01-08 · [[C53 The Witkoff Family's Own Gulf Money|C53]]
 
 ### Advisory (1)
 
@@ -262,7 +266,7 @@ The core of the claim is documented. Qatar's sovereign fund (QIA) bought the Par
   - NYT used it to frame Qatar's cultivation of Trump allies, including Witkoff; Qatar calls it false.
   - [[Qatar]] [[Steve Witkoff]] [[The New York Times]] · [Source](https://thepeninsulaqatar.com/article/27/09/2025/international-media-office-of-the-state-of-qatar-issues-statement-in-response-to-false-accusations-in-the-new-york-times)
 
-## Sources (24)
+## Sources (26)
 
 1. [Qatari fund pays $623M to acquire Park Lane Hotel](https://bisnow.com/new-york/news/hotel/qatari-fund-pays-623m-to-acquire-park-lane-hotel-120410) (Bisnow, 2023-08-29)
 2. [Qatar fund acquires Park Lane hotel for $622.9M in Midtown West](https://www.pincusco.com/qatar-fund-acquires-park-lane-hotel-for-622-9m-in-midtown-west) (PincusCo, 2023-08-28)
@@ -288,6 +292,8 @@ The core of the claim is documented. Qatar's sovereign fund (QIA) bought the Par
 22. [Trump envoy has financial ties with former adviser to Putin's money man now leading Kremlin peace talks](https://bylinetimes.com/2025/12/01/trump-envoy-has-financial-ties-with-former-adviser-to-putins-money-man-now-leading-kremlin-peace-talks/) (Byline Times, 2025-12-01)
 23. [Research on Steve Witkoff special government employee status](https://accountable.us/2025-09-22-research-on-steve-witkoff-special-government-employee-status) (Accountable.us, 2025-09-22)
 24. [The Times' reporting on Trump's circle draws accusations of bias](https://dailycaller.com/2025/10/04/the-times-reporting-on-trumps-circle-draws-accusations-of-bias) (Daily Caller, 2025-10-04)
+25. [Letter from Sens. Warren and Murphy to White House Counsel, OGE and White House DAEO on Witkoff's financial disclosures](https://www.warren.senate.gov/imo/media/doc/warren_murphy_letter_to_white_house_oge_on_witkoff_financial_disclosures.pdf) (US Senate (Office of Sen. Warren), 2025-11-17)
+26. [State Department OIG response to Sens. Warren and Slotkin](https://www.banking.senate.gov/imo/media/doc/2025_09_23_sens_slotkin_and_warren_requesting_oig_investigation_into_uae_chips_corruption_response1.pdf) (US Department of State Office of Inspector General (via Senate Banking Committee), 2025-12-12)
 
 ## Full Report
 
@@ -297,8 +303,8 @@ This check builds on C14, C42 and C16. The main elements are documented:
 
 - Qatar's sovereign fund bought the Park Lane Hotel in 2023.
 - The Witkoff sons pitched a multibillion-dollar real-estate fund to Gulf sovereign funds.
-- Steve Witkoff disclosed a $120M stake sale with no buyer named.
-- His ethics paperwork was uncertified and challenged by Congress.
+- Steve Witkoff disclosed a $120M stake sale with no buyer named. The sale took place between January and 13 August 2025.
+- His new-entrant disclosure was certified only on 12 December 2025, after senators complained. His later annual report is uncertified as published. Congress challenged both.
 
 Several details need correcting:
 
@@ -340,11 +346,11 @@ Note on method: the original pages at ynetnews.com and en.wikipedia.org were not
 
 #### 4. Ethics agreement and disclosures: mostly-accurate (the gaps are documented)
 - No published ethics agreement surfaced.
-- Sens. Warren and Murphy (Nov 18, 2025) said no ethics official had signed his disclosure and that it "appears to be" unreliable. They asked the White House counsel and OGE whether he had fully divested or received waivers.
+- Sens. Warren and Murphy (letter dated Nov 17, 2025; press releases Nov 18) said no ethics official had signed his disclosure. The White House ethics official certified it on Dec 12, 2025, in a version that adds his State Department post. They also said it "appears to be" unreliable. They asked the White House counsel and OGE whether he had fully divested or received waivers.
 - Eight Democratic senators led by Schiff (Oct 22, 2025) pressed him on his remaining WLF assets.
-- Reps. Meeks, Amo and Garcia (Jan 8, 2026) asked the State and Commerce inspectors general and OGE to investigate him (and David Sacks) over the UAE AI-chip deal overlapping WLF's Emirati deal.
-- No IG outcome was found.
-- The WLF side (about $107M of 2025 income, the Aryam stake, and divestment claims) is covered in C14 and C42 and is not repeated here.
+- Reps. Meeks, Amo and Garcia (Jan 8, 2026) asked the acting State and Commerce inspectors general to investigate him (and David Sacks) over the UAE AI-chip deal overlapping WLF's Emirati deal. Their release names only the two inspectors general, not OGE.
+- State's OIG told Warren and Slotkin on Dec 12, 2025 that it had "referred your request to our Office of Investigations for review". No result has been reported, and no authority has made a finding.
+- The WLF side (about $107M of 2025 distributions from Witkoff Holdings LLC, the holding company that owns his WLF interest, the Aryam stake, and divestment claims) is covered in C14 and C42 and is not repeated here.
 
 #### 5. Timing versus Gaza, Qatar, Iran and Russia negotiations: unverified as to influence; overlap confirmed
 - Witkoff was the lead negotiator on the January 2025 and October 2025 Gaza ceasefires, both with Qatar as mediator. The NYT story ran during the run-up to the October deal.
@@ -362,7 +368,7 @@ Note on method: the original pages at ynetnews.com and en.wikipedia.org were not
 - Qatar's International Media Office called the cultivation claims false and "absurd," and said Qatari entities have dealt with Witkoff for years, long before Trump's election.
 - The Witkoff family, through Parlatore, called the NYT story a "baseless narrative" and demanded a correction. The NYT corrected the name of a lender on a separate (Belgrove) loan.
 - The White House counsel said Witkoff "takes seriously his compliance with the government ethics rules."
-- Context cutting against the family: the envoy's disclosures remained uncertified, the $120M buyer is unnamed, and his son runs a firm that takes Qatar-linked capital.
+- Context cutting against the family: the envoy's new-entrant disclosure was certified only in December 2025 and his annual report is uncertified as published, the $120M buyer is unnamed, and his son runs a firm that takes Qatar-linked capital.
 - Context cutting the other way: the QIA pitch predates his appointment and was rejected, and the Park Lane sale predates his government role by over a year.
 
 ### Sources
@@ -411,3 +417,14 @@ New sources:
 - Daily Caller, "The Times' reporting on Trump's circle draws accusations of bias", 2025-10-04. https://dailycaller.com/2025/10/04/the-times-reporting-on-trumps-circle-draws-accusations-of-bias
 - The Real Deal, "Steve Witkoff sells stake in real estate firm for $120M", 2025-09-16. https://therealdeal.com/national/2025/09/16/steve-witkoff-sells-stake-in-real-estate-firm-for-120m
 - Gulf Times, "Qatar debunks NYT claims about Witkoff", 2025-09-27. https://www.gulf-times.com/article/711590/qatar/qatar-debunks-nyt-claims-about-witkoff
+
+### Audit addendum (17 Nov 2026, holdings check)
+
+Result: **corrected** (verdict unchanged).
+
+- **Certification.** The new-entrant report was certified on 12 December 2025 by the White House ethics official, Scott F. Gast. The annual report signed 29 July 2026 shows no reviewer signature as published.
+- **Letter dates.** The Warren-Murphy letter is dated 17 November 2025. The press releases are dated 18 November.
+- **The House request.** The Meeks-Amo-Garcia release names only the acting State and Commerce inspectors general, not OGE.
+- **The IG outcome.** State's OIG letter of 12 December 2025 (re-fetched and read) says it "referred your request to our Office of Investigations for review". No result has been reported.
+- **The $120M sale.** It took place between January and 13 August 2025.
+- **Sources.** Warren-Murphy letter: https://www.warren.senate.gov/imo/media/doc/warren_murphy_letter_to_white_house_oge_on_witkoff_financial_disclosures.pdf ; State OIG response: https://www.banking.senate.gov/imo/media/doc/2025_09_23_sens_slotkin_and_warren_requesting_oig_investigation_into_uae_chips_corruption_response1.pdf

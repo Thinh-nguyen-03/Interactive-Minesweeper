@@ -5,8 +5,8 @@ type: "government"
 aliases:
   - "Department of Justice"
   - "U.S. Department of Justice"
-connections: 36
-claims: 15
+connections: 39
+claims: 16
 tags:
   - "entity"
   - "type/government"
@@ -18,8 +18,8 @@ Received Trump's roughly $230M administrative claims; created the anti-weaponiza
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 15 checks |
-| Connections | 36 |
+| Appears in | 16 checks |
+| Connections | 39 |
 | Also known as | Department of Justice; U.S. Department of Justice |
 
 ## How Other Checks Describe It
@@ -47,6 +47,7 @@ Received Trump's roughly $230M administrative claims; created the anti-weaponiza
 - [[C101 Trading Ahead of Presidential Announcements]] · Mostly accurate
 - [[C102 Trades by Officials, Family & Associates]] · Mostly accurate
 - [[C103 Insider-Trading Oversight Requests, Probes & Outcomes]] · Mostly accurate
+- [[C108 Pam Bondi & Todd Blanche Prior Clients, Holdings & Recusals]] · Mostly accurate
 
 ## Relationships
 
@@ -73,11 +74,13 @@ Received Trump's roughly $230M administrative claims; created the anti-weaponiza
 - [[Jack Reed]] *co-signed letters asking for WLF probe* [[US Department of Justice (us-doj)]] · 2025-11-18 · [[C71 Who Bought World Liberty Tokens|C71]]
 - [[Todd Blanche]] *Deputy AG; acting AG from Apr 2, 2026; confirmed AG Aug 8, 2026, sworn in Aug 10, 2026* [[US Department of Justice (us-doj)]] · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
 
-### Legal (18)
+### Legal (20)
 
 - [[US Department of Justice (us-doj)]] *secured guilty plea (BSA/AML) from* [[Changpeng Zhao]] · 2023-11 · [[C09 The Dropped Binance Case & the Pardon of Changpeng Zhao|C09]]
+- [[US Department of Justice (us-doj)]] *prosecuted; sentenced 2 Apr 2025 to $428,059 and probation* [[CLS Global FZC LLC]] · 2025-04-02 · $428.06K · [[C108 Pam Bondi & Todd Blanche Prior Clients, Holdings & Recusals|C108]]
 - [[US Department of Justice (us-doj)]] *closed probe* [[Polymarket]] · 2025-07 · [[C25 Prediction Markets, the CFTC & Donald Trump Jr|C25]]
 - [[US Department of Justice (us-doj)]] *closed criminal probe without charges* [[Polymarket]] · 2025-07-15 · [[C38 Polymarket Probes Closed Before 1789 Capital Invested|C38]]
+- [[Freedom of the Press Foundation]] *FOIA suit for the jet memo (No. 25-2432, open)* [[US Department of Justice (us-doj)]] · 2025-07-28 · [[C108 Pam Bondi & Todd Blanche Prior Clients, Holdings & Recusals|C108]]
 - [[US Department of Justice (us-doj)]] *deferred prosecution agreement; about $50M paid to IRS* [[Roger Ver]] · 2025-10-14 · $49.9M · [[C36 Clemency for Other Crypto & Donor-Linked Figures|C36]]
 - [[Polymarket]] *referred suspicious Maduro trades* [[US Department of Justice (us-doj)]] · 2026 · [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations|C58]]
 - [[US Department of Justice (us-doj)]] *assisting oil-futures insider probe* [[Commodity Futures Trading Commission]] · 2026-04 · [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations|C58]]

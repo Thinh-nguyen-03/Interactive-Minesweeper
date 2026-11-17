@@ -45,12 +45,13 @@
     {
       "statement": "World Liberty Financial now says Steve Witkoff has divested his stake.",
       "verdict": "partly-accurate",
-      "finding": "WLF posted in May 2025 only that he was 'in the process' of divesting. Bloomberg reported on 2025-09-17 that he still held the WLF assets, and Senate Democrats said in October 2025 that his disclosure still showed WLF crypto. White House counsel David Warrington told CNN in February 2026 that he 'has also divested', and spokeswoman Anna Kelly told ABC in September 2026 that he had 'fully divested'. The disclosure ABC reported shows about $107M in 2025 income from a WLF-linked holding company. No divestiture certificate or recipient of the stake was found.",
+      "finding": "WLF posted in May 2025 only that he was 'in the process' of divesting. Bloomberg reported on 2025-09-17 that he still held the WLF assets, and Senate Democrats said in October 2025 that his disclosure still showed WLF crypto. White House counsel David Warrington told CNN in February 2026 that he 'has also divested', and spokeswoman Anna Kelly told ABC in September 2026 that he had 'fully divested'. His annual OGE report (signed 29 Jul 2026, covering calendar 2025) shows $106,938,819 of distributions from Witkoff Holdings LLC, a broad holding company that owns his WLF and SC Financial interests (through WC Digital Fi LLC and WC Digital SC LLC) as well as real-estate, golf and hotel businesses. An endnote splits the sum into $68,875,000 in cash and $38,063,819 in cryptocurrency; the form does not attribute any of it to WLF. The same report still lists the WLF interest for 2025 and records no disposal that year; it cannot show whether he held the interest in 2026, when the White House said he had divested. No divestiture certificate or recipient of the stake was found.",
       "sources": [
         "https://www.bloomberg.com/news/articles/2025-09-17/steve-witkoff-is-still-holding-trump-linked-crypto-assets",
         "https://www.aol.com/articles/uae-linked-firm-bought-major-043021118.html",
         "https://www.goodmorningamerica.com/news/story/steve-witkoff-earned-107m-trump-affiliated-crypto-venture-136307300",
-        "https://www.schiff.senate.gov/news/press-releases/news-sen-schiff-leads-senate-democrats-in-demanding-answers-from-trump-envoy-steve-witkoff-on-failure-to-divest-ownership-of-world-liberty-financial-crypto-assets/"
+        "https://www.schiff.senate.gov/news/press-releases/news-sen-schiff-leads-senate-democrats-in-demanding-answers-from-trump-envoy-steve-witkoff-on-failure-to-divest-ownership-of-world-liberty-financial-crypto-assets/",
+        "https://www.whitehouse.gov/wp-content/uploads/2026/09/Witkoff-Steven-2026-Annual.pdf"
       ]
     },
     {
@@ -64,9 +65,11 @@
   ],
   "corrections": [
     "Claimed: WLF 'now says' Steve Witkoff divested. The record shows: WLF said in May 2025 only that divestment was in process; the claim that it was complete came from White House counsel David Warrington (February 2026) and spokeswoman Anna Kelly (September 2026).",
-    "Divestment was reported incomplete as of September–October 2025 (Bloomberg; Senate Democrats). Witkoff also reported about $107M in 2025 income from his WLF-linked holding company, up from $34M in 2024.",
+    "Divestment was reported incomplete as of September–October 2025 (Bloomberg; Senate Democrats). Witkoff also reported $106,938,819 of 2025 distributions from Witkoff Holdings LLC, the holding company that owns his WLF interest among other businesses, against $34,363,535 on his new-entrant report.",
     "The 'largest shareholder from the Middle East' is Aryam Investment 1 (Abu Dhabi/UAE, backed by Sheikh Tahnoon) with 49%, described as the largest outside shareholder.",
-    "Witkoff's title by 2026 was also given as Special Envoy for Peace Missions."
+    "Witkoff's title by 2026 was also given as Special Envoy for Peace Missions.",
+    "2026-11-17 (holdings audit, C104/C105): Claimed: Witkoff received about $107M from a 'WLF-linked holding company', up from '$34M in 2024'. The record shows: the payer is Witkoff Holdings LLC, a broad holding company that owns WC Digital Fi (WLF) and WC Digital SC (SC Financial) as well as Banyan Cay, Ocean Terrace and golf and hotel operating companies; the $106,938,819 is split on the form into $68,875,000 cash and $38,063,819 cryptocurrency and is not attributed to WLF. The $34,363,535 comes from the new-entrant report, whose income period runs from January 2024 to the August 2025 filing date, so it is not a 2024-only figure.",
+    "2026-11-17 (holdings audit, C104/C105): The annual report signed on 29 Jul 2026 covers calendar 2025 and still lists the WLF interest, with no 2025 disposal. Still no certificate of divestiture or recipient has been published. The report does not show his position in 2026, when the White House said he had divested."
   ],
   "denials_and_context": [
     "WLF spokesman David Wachsman said neither Trump nor Steve Witkoff had any involvement in the Aryam transaction.",
@@ -147,6 +150,20 @@
       "publisher": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Zach_Witkoff",
       "date": "2026-11"
+    },
+    {
+      "title": "OGE Form 278e Annual Report 2026 (covers calendar 2025), Steven C. Witkoff, signed 29 Jul 2026",
+      "publisher": "The White House",
+      "url": "https://www.whitehouse.gov/wp-content/uploads/2026/09/Witkoff-Steven-2026-Annual.pdf",
+      "date": "2026-07-29",
+      "read": "full"
+    },
+    {
+      "title": "OGE Form 278e New Entrant Report, Steven C. Witkoff (certified 12 Dec 2025)",
+      "publisher": "The White House",
+      "url": "https://www.whitehouse.gov/wp-content/uploads/2025/12/Witkoff-Steven.pdf",
+      "date": "2025-12-12",
+      "read": "full"
     }
   ],
   "entities": [
@@ -245,6 +262,12 @@
       "name": "The Wall Street Journal",
       "type": "media",
       "description": "Broke the Aryam 49% stake story on 2026-02-01."
+    },
+    {
+      "id": "witkoff-holdings-llc",
+      "name": "Witkoff Holdings LLC",
+      "type": "company",
+      "description": "Holding company in Steve Witkoff's OGE filings; owns WC Digital Fi (WLF interest), WC Digital SC and real-estate, golf and hotel interests; paid him $106.9M in 2025"
     }
   ],
   "relationships": [
@@ -338,12 +361,12 @@
       "amount_usd": 187000000
     },
     {
-      "source": "world-liberty-financial",
+      "source": "witkoff-holdings-llc",
       "target": "steve-witkoff",
-      "label": "about $107M 2025 income via WLF-linked holding company",
+      "label": "paid $106,938,819 of 2025 distributions ($68.9M cash, $38.1M crypto; not attributed to WLF on the form)",
       "type": "money",
       "date": "2025",
-      "amount_usd": 107000000
+      "amount_usd": 106938819
     },
     {
       "source": "david-warrington",
@@ -379,17 +402,29 @@
       "label": "revealed stake",
       "type": "media",
       "date": "2026-02-01"
+    },
+    {
+      "source": "witkoff-holdings-llc",
+      "target": "world-liberty-financial",
+      "label": "holds Witkoff's interest via WC Digital Fi LLC (listed for 2025)",
+      "type": "ownership",
+      "date": "2025"
     }
   ],
   "audit": {
     "checked": [
       "Aryam Investment 1 (Tahnoon-backed) agreed in Jan 2025 to buy 49% of WLF for $500M; ~$187M of the upfront half to Trump entities, >=$31M to Witkoff entities, 2 board seats",
       "Witkoff's 2025 income of ~$107M from his WLF-linked holding company (up from $34M), and the White House's Sept 2026 'fully divested' statement",
-      "Divestment reported incomplete in Sept 2025 (Bloomberg)"
+      "Divestment reported incomplete in Sept 2025 (Bloomberg)",
+      "2026-11-17 (holdings audit, C104/C105): $107M income and '$34M in 2024' re-read on Witkoff's new-entrant and annual 278e (whitehouse.gov)",
+      "2026-11-17 (holdings audit, C104/C105): Whether the July 2026 annual report still lists the WLF interest"
     ],
-    "result": "upheld",
+    "result": "corrected",
     "changes": [
-      "No factual changes. Fresh searches (The Block, Enterprise AM, ABC/GMA, Bloomberg Government) match the write-up. ABC adds that the ~$107M was about $69M in cash and $38M in crypto, and that the filing does not break out how much came from WLF itself. No divestiture certificate or itemised sale of the WLF interest was found, so the 'fully divested' claim still rests on White House statements. The partly-accurate rating on the divestment sub-claim stands."
+      "No factual changes. Fresh searches (The Block, Enterprise AM, ABC/GMA, Bloomberg Government) match the write-up. ABC adds that the ~$107M was about $69M in cash and $38M in crypto, and that the filing does not break out how much came from WLF itself. No divestiture certificate or itemised sale of the WLF interest was found, so the 'fully divested' claim still rests on White House statements. The partly-accurate rating on the divestment sub-claim stands.",
+      "2026-11-17 (holdings audit, C104/C105): The $107M was paid by Witkoff Holdings LLC, a broad holding company, not by WLF: corrected the sub-claim, corrections and the money relationship (source changed to the new entity witkoff-holdings-llc, amount $106,938,819). The form splits it into $68,875,000 cash and $38,063,819 crypto and does not attribute it to WLF.",
+      "2026-11-17 (holdings audit, C104/C105): The '$34M in 2024' is the new-entrant report's $34,363,535 for January 2024 to August 2025; corrected.",
+      "2026-11-17 (holdings audit, C104/C105): Added that the annual report signed 29 Jul 2026 (covering calendar 2025) still lists the WLF interest with no 2025 disposal, and that it cannot show his 2026 position. Verdict unchanged."
     ],
     "new_sources": [
       {
@@ -415,6 +450,13 @@
         "publisher": "Enterprise AM",
         "url": "https://enterpriseam.com/uae/2026/02/02/tahnoon-linked-entity-quietly-buys-into-trump-linked-us-crypto-venture/",
         "date": "2026-02-02"
+      },
+      {
+        "title": "OGE Form 278e Annual Report 2026 (covers calendar 2025), Steven C. Witkoff, signed 29 Jul 2026",
+        "publisher": "The White House",
+        "url": "https://www.whitehouse.gov/wp-content/uploads/2026/09/Witkoff-Steven-2026-Annual.pdf",
+        "date": "2026-07-29",
+        "read": "full"
       }
     ]
   }

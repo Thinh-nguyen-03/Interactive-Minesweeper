@@ -5,8 +5,8 @@ type: "company"
 aliases:
   - "CREW"
   - "Citizens for Responsibility and Ethics in Washington (CREW)"
-connections: 27
-claims: 16
+connections: 28
+claims: 17
 tags:
   - "entity"
   - "type/company"
@@ -18,8 +18,8 @@ Watchdog group that sued in Oct 2026 over Kushner's envoy role and lack of discl
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 16 checks |
-| Connections | 27 |
+| Appears in | 17 checks |
+| Connections | 28 |
 | Also known as | CREW; Citizens for Responsibility and Ethics in Washington (CREW) |
 
 ## How Other Checks Describe It
@@ -48,6 +48,7 @@ Watchdog group that sued in Oct 2026 over Kushner's envoy role and lack of discl
 - [[C96 What Trump's Own Financial Disclosures Report]] · Confirmed
 - [[C98 Trump Media, Licensing & Merchandise Income During the Presidency]] · Mostly accurate
 - [[C103 Insider-Trading Oversight Requests, Probes & Outcomes]] · Mostly accurate
+- [[C109 Other Senior Officials Waivers, Late Divestitures & Outside Interests]] · Mostly accurate
 
 ## Relationships
 

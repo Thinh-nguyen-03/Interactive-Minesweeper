@@ -28,7 +28,7 @@ This extends C58 (market-moving posts, unidentified options and oil traders), C2
 ### 1. Bondi's Trump Media sale on 2 April 2025: confirmed (trade); misuse unverified
 - (1) Filing: her OGE periodic transaction report, public in mid-May 2025, shows a sale of $1M-$5M of TMTG shares and $250K-$500K of warrants on 2 April 2025 [1][2][54] (together $1.25M-$5.5M). Trump announced the tariffs after the close. The form does not show the time of day. DJT closed at $18.76 that day and opened at $17.92 the next morning (ProPublica, read in full), and fell about 13% within days (CBS).
 - (2) Outlets called the timing fortunate. (3) Rep. Raskin asked DOJ Inspector General Horowitz to investigate on 20 May 2025 [3][4]. (4) No finding was found as of Nov 2026.
-- Context: her ethics agreement required divesting the stake within 90 days of taking office.
+- Context: her ethics agreement required divesting the stake "not later than 90 days after my confirmation". She was confirmed on 4 February 2025, so the deadline was about 5 May 2025. The 278-T itself (read in full in C108) was signed 5 May 2025 and OGE-certified 12 May 2025.
 - Response: DOJ did not answer early questions. At a June 2025 House hearing Bondi said she complied with ethics rules and lost money on the stock (secondary summary [5]).
 
 ### 2. Scavino and Gor sold Trump Media stock before 2 April: mostly-accurate (Gor documented; Scavino single-source)
@@ -203,3 +203,6 @@ Result: **corrected** (verdict and confidence unchanged: mostly-accurate, medium
 - **Names:** Bondi, Duffy and the ProPublica names re-checked in full; Gor upgraded to documented from his own 278-T; Scavino kept single-source and his reported capital gains downgraded to unverified; Rana's "declined to comment" added; the Office of Administration lawyer's response added; Hern's 4 April date added, his response not found; Bresnahan's count kept single-source.
 - **Van Dyke:** five counts, not guilty plea, trial set for 7 December 2026.
 - No charge, inspector-general finding, SEC or CFTC action, or ethics-committee finding against anyone named here was found through 16 Nov 2026.
+
+### Further audit (17 Nov 2026, applied from the review of C108)
+- **Correction:** Bondi's divestiture deadline ran 90 days after her confirmation on 4 February 2025, not after taking office. Her 278-T was signed 5 May 2025 and OGE-certified 12 May 2025 (form read in full in C108). No change to the verdict.

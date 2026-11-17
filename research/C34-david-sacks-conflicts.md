@@ -12,16 +12,17 @@
 
 1. **Sacks was the White House AI and crypto czar, serving as a special government employee (SGE). Confirmed.**
    - He was named in December 2024 and served as an SGE, a status capped at 130 days a year. He remained a partner at Craft Ventures while in the role.
-   - He stepped down as czar in late March 2026 after reaching the 130-day limit. Reports give March 26 or 27. He moved to co-chair PCAST, the President's science and technology advisory council.
+   - Both March 2025 waivers already say he agreed to co-chair PCAST, the President's science and technology advisory council.
+   - He left the czar post on March 26, 2026 (some reports say 27), saying his 130 SGE days were used up. That rests on his own statement: no day count has been published. PCAST co-chair then became his only role.
    - Outlets disagree on whether a successor will be named.
 
 2. **He kept AI and crypto interests through Craft Ventures under ethics waivers. Confirmed.**
    - On March 5, 2025, White House Counsel David Warrington issued a waiver memo covering digital-asset matters.
-     - The memo acknowledged that Craft still held crypto stakes but called them "a small fraction" of its holdings, about 3.7% of Craft's total assets (The Lever, Jacobin).
-   - A second waiver covered AI. Outlets date it to June (NPR) or July 2025 (Nextgov).
-   - Sacks and Craft divested more than $200M in crypto and crypto-linked stock, at least $85M of it his own. That figure was first reported by CNBC on March 14, 2025, citing an ethics memo, and later repeated by the NYT.
+     - The memo listed Craft-fund stakes in 20 digital-asset companies and called them "a small fraction" of his and Craft's holdings. Its Schedule A puts them at 3.714% of *Sacks's own* total assets, not Craft's. BitGo is the largest at 2.468%, then Lightning Labs at 1.131%.
+   - A second waiver covered AI. It is undated, but its text places it in March 2025: TSMC and Amazon were to be sold "by March 31, 2025". It was posted in a June 2025 folder, which is why outlets date it to June (NPR) or July 2025 (Nextgov).
+   - Sacks and Craft divested more than $200M in crypto and crypto-linked stock, at least $85M of it his own (crypto waiver). Liquid crypto was sold before January 20, 2025, and his Bitwise 10 fund on January 22, 2025. Some private holdings (Animoca, Republic, CoinList, the Sequoia funds) were still being sold in March 2025.
    - NPR reports he sold out of Amazon, Meta and xAI. He and Craft still hold more than 400 AI-linked investments.
-   - Gap: the public filings give neither the timing of the sales nor the value of what remains, so his "over 99%" divestment claim cannot be checked independently.
+   - Gap: the waivers give percentages, not dollar values, and only some sale dates, so his "over 99%" divestment claim cannot be checked independently.
    - Ethics scholar Kathleen Clark called these "sham ethics waivers."
 
 3. **A late-2025 NYT investigation detailed hundreds of AI-related holdings. Confirmed.**
@@ -42,12 +43,12 @@
 5. **Sacks drove the GENIUS Act. Confirmed for his policy role; the conflict angle is unverified.**
    - He coordinated the White House position on the bill and promoted it publicly, saying it could create "trillions" in demand for US Treasurys (The Block, CNBC via NBC DFW).
    - He spoke at the July 18, 2025 signing. Trump signed the bill.
-   - The NYT cited Craft's 7.8% stake in BitGo, a crypto infrastructure firm, as of BitGo's IPO filing.
+   - The NYT cited Craft's 7.8% stake in BitGo, a crypto infrastructure firm, as of BitGo's IPO filing. This is the NYT's figure. The S-1 (excerpt; see C106) shows 7,421,851 Class A shares in three Craft I funds whose investment and voting decisions Sacks makes. The crypto waiver puts BitGo at 2.468% of his total assets.
    - *Audit:* BitGo priced its NYSE IPO (BTGO) on January 21, 2026 at $18, above its $15-17 range. It sold about 11.8M shares for about $212.8M gross, and trading began January 22 [A1][A2]. Craft and Sacks personally invested in BitGo's 2017 Series B. I could not check the 7.8% figure against the prospectus because sec.gov could not be read directly, so it remains the NYT's figure.
    - Separately, C11 records that BitGo custodies the reserves of World Liberty Financial's USD1 stablecoin. That overlap is documented, but no source shows Sacks acted on it.
 
 6. **Sacks and the White House deny any conflict. Confirmed.**
-   - Sacks called the story a "nothing burger" made of "a bunch of anecdotes that don't support the headline." He said the Office of Government Ethics (OGE) approved his waivers and that he had divested "hundreds of millions of dollars" at a cost to his net worth.
+   - Sacks called the story a "nothing burger" made of "a bunch of anecdotes that don't support the headline." He said the Office of Government Ethics (OGE) approved his waivers (his characterization: both waivers say the White House Counsel granted them after consulting OGE) and that he had divested "hundreds of millions of dollars" at a cost to his net worth.
    - A White House spokesperson said OGE required him to sell only certain kinds of AI holdings, not all of them.
    - Before publication, his defamation lawyers at Clare Locke sent the NYT a letter, which Sacks posted publicly.
      - The letter disputed the story's claims about the All-In podcast's role in a White House AI event.
@@ -66,8 +67,8 @@
 ## Corrections
 
 - The NYT investigation is dated November 30, 2025, and counted 449 AI-related holdings out of 708 tech investments. "Hundreds" is accurate.
-- There were two waivers: one for crypto (March 2025) and one for AI (June or July 2025).
-- Sacks no longer holds the czar title. He left in March 2026 and now co-chairs PCAST.
+- There were two waivers: one for crypto (March 5, 2025) and one for AI (undated; its text places it in March 2025, and it was posted in June 2025).
+- Sacks no longer holds the czar title. He left in March 2026 and co-chairs PCAST, a role he was designated for in 2025.
 - His role in the UAE chips deal was policy and negotiation, as reported. The formal approvals were Commerce/BIS licences.
 
 ## Sources
@@ -98,8 +99,19 @@
 Result: **upheld**.
 - **Lawsuit.** No suit against the NYT was found; only the demand letter is documented. A correction was added.
 - **BitGo.** The IPO details were added. The 7.8% stake is still attributed to the NYT.
-- **After March 2026.** Sacks left the czar post on March 26, 2026 at the 130-day limit and co-chairs PCAST [A6]. Craft filed a Form D for Craft Ventures V on August 7, 2026, reportedly targeting about $1B [A5]. The overlap between his advisory role and Craft's portfolio continues.
+- **After March 2026.** Sacks left the czar post on March 26, 2026, saying he had reached the 130-day limit, and co-chairs PCAST [A6]. Craft filed a Form D for Craft Ventures V on August 7, 2026, reportedly targeting about $1B [A5]. The overlap between his advisory role and Craft's portfolio continues.
 - The verdict is unchanged.
+
+**Corrections, 17 Nov 2026 (holdings audit, C106).** Both waivers were re-read from the White House PDFs [A7][A8].
+- **3.7%.** The figure is a share of Sacks's own total assets, not of Craft's.
+- **AI waiver date.** The AI waiver dates from March 2025 (it was posted in June 2025).
+- **PCAST.** He was designated PCAST co-chair in 2025.
+- **130-day limit.** "Left at the 130-day limit" rests on his own statement.
+- **OGE.** "OGE approved" is his characterization; the documents say OGE was consulted.
+- **BitGo.** The BitGo stake details were added.
+- **Divestment timing.** Some private holdings were still being sold in March 2025.
+
+The result is now **corrected**; the verdict is unchanged.
 
 A1. Business Wire, "BitGo Holdings Announces Pricing of Initial Public Offering", 2026-01-21. https://www.businesswire.com/news/home/20260121850585/en/BitGo-Holdings-Announces-Pricing-of-Initial-Public-Offering
 A2. The Block, "BitGo prices US IPO above marketed range", 2026-01-21. https://www.theblock.co/news/business/2026-01-21-bitgo-prices-us-ipo-386629
@@ -107,3 +119,5 @@ A3. Protos, "David Sacks sends silly legal threat to the New York Times", 2025-1
 A4. Law360, "White House Crypto Czar Hired Clare Locke Amid NYT Probe", 2025-11. https://www.law360.com/articles/2416588
 A5. Tech Startups, "David Sacks' Craft Ventures targets $1 billion for first new fund since leaving White House", 2026-08-11. https://techstartups.com/2026/08/11/david-sacks-craft-ventures-targets-1-billion-for-first-new-fund-since-leaving-white-house/
 A6. TechCrunch, "David Sacks is done as AI czar", 2026-03-26. https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/
+A7. The White House, Limited waiver for David O. Sacks (digital assets), 2025-03-05. https://www.whitehouse.gov/wp-content/uploads/2025/03/Memo-David-Sacks-3.5.2025-1.pdf
+A8. The White House, Limited waiver regarding A.I. assets (undated; March 2025). https://www.whitehouse.gov/wp-content/uploads/2025/06/David-Sacks.pdf

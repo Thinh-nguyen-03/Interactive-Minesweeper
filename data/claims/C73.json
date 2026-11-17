@@ -145,7 +145,8 @@
   "Claimed: Kerik hired Apr 2025. Correct, but he died on 29 May 2025, so the engagement lasted under two months.",
   "Al Udeid: the May 2025 fact sheet gives a $38B statement of intent (potential investments), not a firm commitment and not $10B.",
   "C64 says Patel would recuse from Qatar work for a year. His Nov 2024 pledge had expired, and a March 2025 waiver allowed participation.",
-  "The security EO is dated 29 Sep 2025 and was published 1 Oct 2025; the claim's 'Oct 2025' refers to publication."
+  "The security EO is dated 29 Sep 2025 and was published 1 Oct 2025; the claim's 'Oct 2025' refers to publication.",
+  "2026-11-17: Bondi's tenure end: her removal was announced on 2 Apr 2026, but her OGE termination report gives 1 Apr 2026 as her date of termination; the entity description now gives both (C108)."
  ],
  "denials_and_context": [
   "Qatar and QIA say investment decisions are separate from diplomacy. QIA denies any 666 Fifth role, and Brookfield denies Qatari involvement.",
@@ -402,6 +403,13 @@
    "publisher": "Sludge",
    "url": "https://readsludge.com/2026/02/05/foreign-interests-are-paying-millions-to-a-trump-linked-lobbying-firm/",
    "date": "2026-02-05"
+  },
+  {
+   "title": "OGE Form 278e termination report, Pam Bondi",
+   "publisher": "Office of Government Ethics",
+   "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/5A7DD536E124894585258E7A002D9D3E/$FILE/Pam-Bondi-2026-278TERM.pdf",
+   "date": "2026-06-16",
+   "read": "full"
   }
  ],
  "entities": [
@@ -451,7 +459,7 @@
    "id": "pam-bondi",
    "name": "Pam Bondi",
    "type": "person",
-   "description": "Attorney General Feb 2025 - Apr 2, 2026; ex-Ballard Qatar FARA registrant; signed jet memo"
+   "description": "Attorney General 4 Feb 2025 - 1 Apr 2026 (termination date on her OGE report; removal announced 2 Apr 2026); ex-Ballard Qatar FARA registrant; signed jet memo"
   },
   {
    "id": "ballard-partners",
@@ -1324,7 +1332,8 @@
    "Zeldin's consulting income from Heritage Advisors (OGE 278e, amount and period)",
    "Patel's March 2025 Qatar waiver and the Dec 2025 Doha security agreements",
    "The NYT correction on the Witkoff $100M Apollo loan",
-   "Whether Ballard holds a current Qatar embassy contract ($175K/month)"
+   "Whether Ballard holds a current Qatar embassy contract ($175K/month)",
+   "2026-11-17: Bondi's termination date against her OGE termination report (C108)"
   ],
   "result": "upheld",
   "changes": [
@@ -1332,7 +1341,8 @@
    "Patel: tightened the waiver description. It was issued on 4 Mar 2025 by the FBI ethics official for 'a particular matter' related to Qatar, not an unlimited licence for Qatar matters. The Doha MOUs (Dec 2025, not announced by the FBI) are confirmed by Qatari state media (The Peninsula).",
    "Ballard: the $175K/month Free Beacon figure matches the 2018 $2.1M one-year Qatar contract, so it is most likely historical. The sub-claim stays unverified, and the label is marked as our inference.",
    "Witkoff: recorded the family's defamation threat against the NYT and Qatar's denial.",
-   "Cross-file consistency: pam-bondi entity described her as the current Attorney General; she was removed on Apr 2, 2026 (C61, C65). Description now gives her tenure."
+   "Cross-file consistency: pam-bondi entity described her as the current Attorney General; she was removed on Apr 2, 2026 (C61, C65). Description now gives her tenure.",
+   "2026-11-17: pam-bondi description now reads 4 Feb 2025 - 1 Apr 2026 (OGE termination report), removal announced 2 Apr 2026."
   ],
   "new_sources": [
    {
@@ -1358,6 +1368,12 @@
     "publisher": "Yahoo News",
     "url": "https://www.yahoo.com/news/articles/witkoff-family-threatens-nyt-defamation-212437336.html",
     "date": "2025-09"
+   },
+   {
+    "title": "OGE Form 278e termination report, Pam Bondi",
+    "publisher": "Office of Government Ethics",
+    "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/5A7DD536E124894585258E7A002D9D3E/$FILE/Pam-Bondi-2026-278TERM.pdf",
+    "date": "2026-06-16"
    }
   ]
  }

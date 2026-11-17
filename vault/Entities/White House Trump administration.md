@@ -6,8 +6,8 @@ aliases:
   - "The White House"
   - "Trump administration"
   - "White House"
-connections: 113
-claims: 66
+connections: 120
+claims: 70
 tags:
   - "entity"
   - "type/government"
@@ -21,8 +21,8 @@ Executive office; issues denials; an aide reportedly pushed the Vulcan deal.
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 66 checks |
-| Connections | 113 |
+| Appears in | 70 checks |
+| Connections | 120 |
 | Also known as | The White House; Trump administration; White House |
 
 ## How Other Checks Describe It
@@ -101,6 +101,10 @@ Executive office; issues denials; an aide reportedly pushed the Vulcan deal.
 - [[C101 Trading Ahead of Presidential Announcements]] · Mostly accurate
 - [[C102 Trades by Officials, Family & Associates]] · Mostly accurate
 - [[C103 Insider-Trading Oversight Requests, Probes & Outcomes]] · Mostly accurate
+- [[C104 Howard Lutnick Holdings, Divestiture & Recusals]] · Mostly accurate
+- [[C105 Steve Witkoff Holdings, Divestiture & Overlapping Dealings]] · Mostly accurate
+- [[C106 David Sacks Holdings, Ethics Waivers & AI & Crypto Policy]] · Mostly accurate
+- [[C109 Other Senior Officials Waivers, Late Divestitures & Outside Interests]] · Mostly accurate
 
 ## Relationships
 
@@ -109,11 +113,14 @@ Executive office; issues denials; an aide reportedly pushed the Vulcan deal.
 - [[White House Trump administration]] *US government took a 9.9% stake at $20.47/share in* [[Intel]] · 2025-08-22 · [[C20 Trump's Securities Purchases & His Truth Social Posts|C20]]
 - [[White House Trump administration]] *announced ~10% U.S. government stake for $35.6M* [[Trilogy Metals]] · 2025-10-06 · $35.6M · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
 
-### Regulatory (9)
+### Regulatory (12)
 
+- [[White House Trump administration]] *revoked without replacement* [[Executive Order 13989 ethics pledge]] · 2025-01-20 · [[C109 Other Senior Officials Waivers, Late Divestitures & Outside Interests|C109]]
 - [[White House Trump administration]] *OIRA withdrew menthol ban proposal* [[Altria Group]] · 2025-01-21 · [[C92 The White House Ballroom Donor List|C92]]
+- [[Gerald Connolly]] *requested Musk's disclosure and 208 determination* [[White House Trump administration]] · 2025-05-01 · [[C109 Other Senior Officials Waivers, Late Divestitures & Outside Interests|C109]]
 - [[White House Trump administration]] *agreed AI Acceleration Partnership / chip framework with* [[United Arab Emirates]] · 2025-05-15 · [[C08 AI Chip Exports to the UAE, Stargate & a Possible Currency Swap|C08]]
 - [[White House Trump administration]] *issued AI ethics waiver to* [[David Sacks]] · 2025-06 · [[C34 David Sacks The AI & Crypto Adviser & His Investments|C34]]
+- [[White House Trump administration]] *limited 208(b)(1) waiver for general matters affecting Cantor, BGC, Newmark* [[Howard Lutnick]] · 2025-07-08 · [[C104 Howard Lutnick Holdings, Divestiture & Recusals|C104]]
 - [[White House Trump administration]] *executive order approving divestiture framework* [[TikTok USDS Joint Venture]] · 2025-09-25 · [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]]
 - [[White House Trump administration]] *approved advanced-chip exports* [[G42]] · 2025-11 · [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]]
 - [[White House Trump administration]] *staff warned not to trade on nonpublic info after his Iran pause post* [[Donald Trump]] · 2026-03-24 · [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations|C58]]
@@ -121,7 +128,7 @@ Executive office; issues denials; an aide reportedly pushed the Vulcan deal.
 - [[White House Trump administration]] *classifies as unpaid volunteer, no disclosure filed* [[Jared Kushner]] · [[C15 Jared Kushner, Affinity Partners & Gulf Sovereign Funds|C15]]
 - [[White House Trump administration]] *approved* [[UAE AI chips deal]] · [[C08 AI Chip Exports to the UAE, Stargate & a Possible Currency Swap|C08]]
 
-### Political (46)
+### Political (47)
 
 - [[Steve Witkoff]] *Special Envoy to the Middle East / for Peace Missions* [[White House Trump administration]] · 2024-11 · [[C14 Steve & Zach Witkoff A Middle East Envoy & World Liberty|C14]]
 - [[Jeff Miller]] *lobbied on behalf of Crypto.com* [[White House Trump administration]] · 2025 · [[C43 Overlap Between Dropped Enforcement Cases & Trump Donors|C43]]
@@ -132,6 +139,7 @@ Executive office; issues denials; an aide reportedly pushed the Vulcan deal.
 - [[White House Trump administration]] *issued executive order creating* [[Strategic Bitcoin Reserve]] · 2025-03-06 · [[C19 The Strategic Bitcoin Reserve, Trump Media's Bitcoin Treasury & a Cumberland Investor|C19]]
 - [[White House Trump administration]] *called tariff-cost display 'hostile and political act'* [[Amazon]] · 2025-04-29 · [[C44 Amazon's $40 Million Melania Trump Documentary Deal|C44]]
 - [[White House Trump administration]] *denies trade talks are related to* [[Trump Organization]] · 2025-05 · [[C59 Foreign Trump Organization Projects & Tariff Negotiations|C59]]
+- [[Steve Witkoff]] *appointed Assistant to the President and Special Envoy for Peace Missions* [[White House Trump administration]] · 2025-06-30 · [[C105 Steve Witkoff Holdings, Divestiture & Overlapping Dealings|C105]]
 - [[White House Trump administration]] *withdrew CFTC chair nomination* [[Brian Quintenz]] · 2025-09-30 · [[C92 The White House Ballroom Donor List|C92]]
 - [[White House Trump administration]] *withdrew CFTC nomination* [[Brian Quintenz]] · 2025-09-30 · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
 - [[White House Trump administration]] *released donor list for* [[White House ballroom]] · 2025-10 · [[C23 SEC Crypto Cases Dropped & the Firms' Donations|C23]]

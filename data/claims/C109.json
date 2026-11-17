@@ -1,0 +1,1330 @@
+{
+ "id": "C109",
+ "title": "Other Senior Officials: Waivers, Late Divestitures & Outside Interests",
+ "verdict": "mostly-accurate",
+ "confidence": "medium",
+ "summary": "Filings document a small set of published conflict-of-interest waivers (Kennedy's interim waiver for family-office funds, Wright's CERAWeek waiver, plus Sacks, Lutnick and one task-force official), retained interests approved in ethics agreements (Patel's Elite Depot units, Isaacman's Shift4 stake), a missed certification deadline flagged for McMahon by the Campaign Legal Center, and a gap between Kennedy's amended ethics agreement and how his Gardasil fee interest was actually assigned, according to HHS's own letter as quoted by senators. Musk served without a public disclosure or published waiver. Bisignano's Fiserv sale met its deadline, and nothing late was found for Oz or Hegseth; nothing at all was found on record for Boulos. The oversight offices changed sharply: the OGE director was removed in Feb 2025 and the office has been run by acting heads with other jobs or left vacant; a court found the Jan 2025 IG removals unlawful but did not reinstate anyone; Biden's ethics pledge was revoked without replacement. No authority has found that any named official violated 18 U.S.C. 208 or an ethics agreement.",
+ "sub_claims": [
+  {
+   "statement": "Elon Musk served as a special government employee without a public financial disclosure or a published conflict-of-interest waiver while his companies held federal contracts and faced federal regulators; he left in late May 2025.",
+   "verdict": "confirmed",
+   "finding": "Grade: documented status, no finding. Rule: as a special government employee (SGE, at most 130 days in 365) Musk was covered by 18 U.S.C. 208, which bars work on particular matters affecting his financial interests unless a 208(b) waiver or exemption applies. Filing: a White House official said in February 2025 that he would file a confidential (non-public) report, which SGEs may do (AP via Star-Advertiser, excerpt). Waiver: none appears on the White House list of 208(b)(1) waivers (read in full, Nov 2026: Kennedy, Leder, Lutnick, Sacks twice, Wright). Letters: Sen. Schiff asked OGE Director Huitema on 10 Feb 2025, the day Huitema was removed, whether any waiver existed (read in full); House Oversight Democrats asked White House Counsel Warrington on 1 May 2025 for the disclosure and any 208(b) determination (read in full). Exposure: a Senate PSI minority staff memo (27 Apr 2025, excerpt) counted 65 actions by 11 agencies against Musk's companies and estimated at least $2.37B of potential liability for 40 of them; this is a partisan staff estimate, not a finding. Departure: Musk announced on 28 May 2025 that his SGE time was ending (ABC, excerpt). The Campaign Legal Center asked OGE in June 2025 to check DOGE staff's disclosure compliance (read in full). Response: Press Secretary Leavitt said Musk would excuse himself from conflicting contracts (quoted in the Schiff letter). No OGE, inspector-general or court finding on his compliance was found. Builds on C68 (contracts, IPO).",
+   "sources": [
+    "https://staradvertiser.com/2025/02/11/breaking-news/elon-musks-financial-disclosure-will-not-be-made-public",
+    "https://www.whitehouse.gov/disclosures/",
+    "https://www.schiff.senate.gov/wp-content/uploads/2025/02/20250210-Sen-Schiff-Letter-to-OGE-on-Musk.pdf",
+    "https://oversightdemocrats.house.gov/imo/media/doc/2025-05-01.gec-et-al-to-whc-warrington-re-sge-conflicts_0.pdf",
+    "https://www.hsgac.senate.gov/wp-content/uploads/2025-04-27-Minority-Staff-Memorandum-Elon-Musk-Conflicts.pdf",
+    "https://abc7.com/post/elon-musk-is-leaving-trump-administration-criticizing-presidents-big-beautiful-bill/16580917/",
+    "https://campaignlegal.org/update/elon-musk-has-grown-even-wealthier-through-serving-trumps-administration",
+    "https://www.citizen.org/wp-content/uploads/Isnt_That_Special_REPORT.pdf"
+   ]
+  },
+  {
+   "statement": "Kash Patel kept his Elite Depot (Shein parent) stock units as FBI director, and his ethics agreement records other outside interests.",
+   "verdict": "confirmed",
+   "finding": "Grade: documented (ethics agreement of 28 Jan 2025, read in full). Section 7: he ended his Elite Depot consulting on 1 Jan 2025 and keeps vested and unvested restricted stock units vesting quarterly to 1 Nov 2025. The agreement records that 'the agency has determined that it is not necessary at this time for me to divest my interests in Elite Depot, Ltd., because the likelihood that my duties will involve any such matter is remote', so he recuses from matters affecting the company 'for as long as I own it' unless he obtains a 208(b)(1) waiver; this is not a waiver and not a late divestiture. The value was $1M-$5M on his nominee report (Schiff letter, excerpt). Other terms: resign from Trump Media's board (the 28 Jan 2025 share award is covered in C65); a one-year 'covered relationship' with Qatar after consulting for its embassy until Nov 2024, under which the agreement says the agency 'will grant' a written authorization to participate. Responsible Statecraft and Jewish Insider report that a later disclosure shows the FBI's ethics official issued him a waiver on 4 Mar 2025 for 'a particular matter' related to Qatar, without naming the matter (as reported; the document was not read here). It appears to be the authorization the agreement anticipated, though reports call it a waiver. Public Citizen asked OGE to rescind it; no outcome was found (C73); divest 19 stocks (including Nvidia, Palantir, Rumble, MP Materials) within 90 days. Letter: Sen. Schiff and colleagues objected on 12 Feb 2025 to the retained Shein stake. No certification-of-compliance problem, waiver or finding was found. Response: Patel told senators he would not take part in matters affecting Elite Depot.",
+   "sources": [
+    "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/730D7A12BBF6654785258C240032196E/$FILE/Patel%2C%20Kashyap%20%20finalEA.pdf",
+    "https://www.schiff.senate.gov/wp-content/uploads/2025/02/20250211-Letter-to-FBI-Director-Nominee-Patel.pdf",
+    "https://thedailybeast.com/trumps-fbi-pick-kash-patel-set-to-make-millions-from-fast-fashion-brand-shein",
+    "https://responsiblestatecraft.org/kash-patel-qatar/",
+    "https://jewishinsider.com/2025/12/fbi-kash-patel-qatar-security-deals-lobbying-disclosure/"
+   ]
+  },
+  {
+   "statement": "Robert F. Kennedy Jr. received an ethics waiver, and his Gardasil referral-fee interest was handled differently from his ethics agreement.",
+   "verdict": "mostly-accurate",
+   "finding": "Grade: documented waiver and documented discrepancy; no finding. Waiver: White House Counsel Warrington issued a 'limited, interim' 208(b)(1) waiver on 18 Feb 2025 covering four Park Holdings Group funds (under $380,000 in total) until they could be divested in April 2025 (read in full). Fees: his 21 Jan 2025 agreement kept a 10% contingency-fee interest in cases referred to Wisner Baum; the 1 Feb 2025 amended agreement said he would 'irrevocably' assign it to a non-dependent adult son. According to Sen. Warren and colleagues' letter of 24 Sept 2026 (excerpt), an HHS letter of 25 Aug 2026 said he instead assigned the interest to Wisner Baum on 11 Feb 2025, two days before his confirmation, and his 12 May 2025 compliance certification did not mention this. The senators say OGE approval is required to change an agreement and ask whether any future-payment understanding exists; Merck settled most Gardasil suits for about $50M on 4 June 2026 (Bloomberg, as cited). Response: Kennedy posted on 1 Aug 2026 that he relinquished the interest to the firm before taking office; HHS said it confirmed his compliance in May 2025 (AP, excerpt). No OGE determination was found.",
+   "sources": [
+    "https://www.whitehouse.gov/wp-content/uploads/2025/03/20250218102929192.pdf",
+    "https://www.warren.senate.gov/wp-content/uploads/2026/09/Letter-to-Sec.-Kennedy-re-Change-to-Ethics-Agreement.pdf",
+    "https://www.wsbtv.com/news/health/democrats-press-rfk/A5M7BM3KNU7IDACSOPX7GILACQ/",
+    "https://www.whitehouse.gov/disclosures/"
+   ]
+  },
+  {
+   "statement": "Mehmet Oz divested late or incompletely.",
+   "verdict": "unverified",
+   "finding": "Grade: pledge documented; compliance not established. His ethics agreement (Feb 2025) committed him to sell dozens of health holdings (including UnitedHealth, AbbVie, Eli Lilly, McKesson) and his $5M-$25M of iHerb units within 90 days of confirmation and to leave iHerb and Eko Health roles, while keeping interests such as Oz Media and a ranch (NPR, Fierce Healthcare, excerpts). An ethics lawyer called the iHerb wording ambiguous. We found no compliance certification, Senate or OGE letter, waiver or finding about late divestiture; no response was needed.",
+   "sources": [
+    "https://npr.org/sections/shots-health-news/2025/02/20/nx-s1-5304170/dr-oz-bhattacharya-cms-nih-ethics-disclosures",
+    "https://www.fiercehealthcare.com/regulatory/dr-oz-vows-sell-healthcare-stocks-once-confirmed-run-cms"
+   ]
+  },
+  {
+   "statement": "Pete Hegseth's broker approached BlackRock about a defence-fund investment before the Iran strikes.",
+   "verdict": "unverified",
+   "finding": "Grade: single-source (Financial Times, 30 Mar 2026, as recorded in C103). The reported approach was not executed. Letters: Warner and Schiff to the SEC and DoD inspector general (2 Apr 2026, read in full in C103) and Warren to the SEC (20 Apr 2026). Response: the Pentagon denied that Hegseth or any representative approached BlackRock. No waiver, investigation result or finding was found. Not repeated here beyond C103.",
+   "sources": [
+    "https://warner.senate.gov/public/index.cfm/2026/4/warner-schiff-call-for-investigation-into-misuse-of-insider-information",
+    "https://www.banking.senate.gov/imo/media/doc/letter_to_sec_re_hegseth_investigation.pdf",
+    "https://www.cnbc.com/2026/04/02/hegseth-trump-mark-warner-adam-schiff-insider-trading-probe.html"
+   ]
+  },
+  {
+   "statement": "Chris Wright received an ethics waiver while divesting Liberty Energy.",
+   "verdict": "confirmed",
+   "finding": "Grade: documented (waiver of 7 Mar 2025, pages 1-2 read). A limited 208(b)(1) waiver let him discuss energy policy at CERAWeek on 10-11 Mar 2025 while still holding Liberty Energy stock and three CAZ private-equity funds. It records an OGE certificate of divestiture (18 Feb 2025), 2,582,967 Liberty shares as of 18 Feb, a daily selling plan to finish by 21 Mar 2025, and CAZ funds to be exited by 1 Apr 2025 (he was confirmed 3 Feb 2025, so all within 90 days). His 278-T reports self-certify 11 of 301 transactions as reported late (Open Cabinet count). No late-divestiture finding.",
+   "sources": [
+    "https://www.whitehouse.gov/wp-content/uploads/2025/03/Memo-Chris-Wright-3.7.2025.pdf",
+    "https://www.whitehouse.gov/disclosures/",
+    "https://open-cabinet.org/late-filings"
+   ]
+  },
+  {
+   "statement": "Doug Burgum's divestitures or disclosures were late, and Interior has unresolved ethics questions.",
+   "verdict": "partly-accurate",
+   "finding": "Grade: documented reporting lag; no finding. He pledged to divest oil and gas lease interests and other holdings within 90 days and reportedly filed his compliance certification (Ground News summary, excerpt). His 278-T reports self-certify 106 of 153 transactions as reported late (Open Cabinet, from his filings); that is late reporting, not late divestiture. Separately, Interior released redacted ethics records in Feb 2026 for appointee Karen Budd-Falen over ties to the Thacker Pass lithium project; a conservation group asked for an inspector-general inquiry (High Country News, excerpt). No waiver or finding for Burgum was found. Measure: these are transactions on the 278-T reports for which the filer answered 'Yes' to the form's column 'Notification received over 30 days ago', i.e. the filer's own certification that the report came after the 30-day deadline; Open Cabinet (read in full, 17 Nov 2026) tallies them across all of the official's 278-Ts. A late report can carry a $200 fee per report, which the agency may waive.",
+   "sources": [
+    "https://ground.news/article/doug-burgum-completes-disclosures-and-divestitures-for-role-as-interior-secretary",
+    "https://open-cabinet.org/officials/burgum-douglas-j",
+    "https://open-cabinet.org/late-filings",
+    "https://www.hcn.org/articles/documents-shed-new-light-on-interior-officials-growing-ethics-scandal/"
+   ]
+  },
+  {
+   "statement": "Linda McMahon missed her divestiture deadline.",
+   "verdict": "mostly-accurate",
+   "finding": "Grade: documented complaint; no finding. Her ethics agreement (5 Feb 2025) listed 81 holdings, 78 of them school and university bonds, to sell within 90 days of her 3 Mar 2025 confirmation, i.e. by 1 June 2025. The Campaign Legal Center told OGE (acting director Greer) on 9 July 2025 that no compliance certification or transaction report had been made public more than a month after the deadline (complaint, pages 1-3 read). Her later 278-T filings list transactions from 19 Dec 2024 to 24 June 2025, with 153 of 156 self-certified as late (Open Cabinet); whether the post-deadline sales were ethics-agreement assets is not shown. No OGE response or finding was found; no response from McMahon was found. Measure: these are transactions on the 278-T reports for which the filer answered 'Yes' to the form's column 'Notification received over 30 days ago', i.e. the filer's own certification that the report came after the 30-day deadline; Open Cabinet (read in full, 17 Nov 2026) tallies them across all of the official's 278-Ts. A late report can carry a $200 fee per report, which the agency may waive.",
+   "sources": [
+    "https://campaignlegal.org/sites/default/files/2025-07/McMahon%20OGE%20Complaint.pdf",
+    "https://campaignlegal.org/document/clc-complaint-oge-regarding-education-secretary-linda-mcmahon",
+    "https://open-cabinet.org/officials/mcmahon-linda",
+    "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/39946C54002FE9C685258C2A00321A39/$FILE/McMahon,%20Linda%20%20finalEA.pdf",
+    "https://open-cabinet.org/late-filings"
+   ]
+  },
+  {
+   "statement": "Kelly Loeffler kept outside interests of note while running the SBA.",
+   "verdict": "partly-accurate",
+   "finding": "Grade: documented holdings; no finding. Fortune (June 2025, excerpt) reported she held Newsmax parent stock not on her divestiture list while appearing on Newsmax; the SBA said she complied with her agreement and OGE had reviewed her holdings. NOTUS (11 Feb 2026, read in full) reported a $3M investment in Groq through Descante Capital LLC in Oct 2025, weeks before Groq's $20B Nvidia licensing deal; the SBA said her portfolio is 'independently managed without her direction or input'. A filing published by NOTUS (named as a 278-T of 21 Nov 2025) lists a sale of Intercontinental Exchange stock, her husband's company, of $5M-$25M on 19 Nov 2025 (as summarised in search results; the form was not read). No waiver, letter result or finding was found.",
+   "sources": [
+    "https://www.fortune.com/2025/06/11/kelly-loeffler-newsmax-stock-shares-pete-jennifer-hegseth-kari-lake",
+    "https://www.notus.org/money/kelly-loeffler-nvidia-groq-stock-investment-trump-administration",
+    "https://static.notus.org/36/a5/128cffc64308bfca8dd506eaadc8/kelly-loeffler-11-21-2025-278t.pdf"
+   ]
+  },
+  {
+   "statement": "Frank Bisignano divested Fiserv late.",
+   "verdict": "false",
+   "finding": "Grade: documented. His ethics agreement required selling Fiserv within 120 days of his 6 May 2025 confirmation (Payments Dive, excerpt). Senators Wyden and Warren's letter to Fiserv of 6 Nov 2025 (read in full) says he owned 'roughly $594 million in Fiserv stock' at confirmation and sold it 'in tax-advantaged sales on May 16 and July 1, 2025', worth an estimated $530M, before the stock roughly halved in late Oct 2025; they asked Fiserv what he knew. The sale was within the deadline. Response: his agency said he complied with all obligations of his ethics agreement (GovExec, excerpt). No finding.",
+   "sources": [
+    "https://govexec.com/oversight/2025/11/ssa-chief-bisignano-faces-probe-wyden-and-warren-over-fiserv-stock-and-federal-contract-concerns/409402",
+    "https://www.paymentsdive.com/news/senators-democrats-fiserv-ceo-bisignano-payments/805082/",
+    "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/E423E41B5144B67D85258C3E00320557/$FILE/Bisignano%2C%20Frank%20J.%20%20finalEA.pdf",
+    "https://www.finance.senate.gov/imo/media/doc/wyden_warren_fiserv_letter.pdf"
+   ]
+  },
+  {
+   "statement": "Jared Isaacman kept a large stake in Shift4 at NASA.",
+   "verdict": "confirmed",
+   "finding": "Grade: documented (ethics agreement of 17 Nov 2025, relevant sections read). He keeps Shift4 Payments equity, gives up majority voting control (to about 25%), ends a tax receivable agreement and recuses from matters affecting Shift4 unless waived; the agreement lists other assets to sell within 90 days. Sludge (June 2026, excerpt) reported 278-T purchases of Shift4 stock of $5M-$25M each on 11 and 12 May 2026, weeks before the SpaceX IPO (Shift4 has a SpaceX relationship). His 278-T reports self-certify 128 of 147 transactions as late (Open Cabinet). Buying a retained, recused holding is not barred by the agreement; no waiver, letter outcome or finding was found. Measure: these are transactions on the 278-T reports for which the filer answered 'Yes' to the form's column 'Notification received over 30 days ago', i.e. the filer's own certification that the report came after the 30-day deadline; Open Cabinet (read in full, 17 Nov 2026) tallies them across all of the official's 278-Ts. A late report can carry a $200 fee per report, which the agency may waive.",
+   "sources": [
+    "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/93E5F973F53D3FF485258D470031927B/$FILE/Isaacman%2C%20Jared%20T.%20%20finalEA.pdf",
+    "https://readsludge.com/2026/06/18/nasa-chief-bought-millions-in-spacex-linked-stock-before-ipo-while-pushing-spacexs-agenda/",
+    "https://www.paymentsdive.com/news/shift4-payments-founder-isaacmanto-stake-nasa/805012/",
+    "https://open-cabinet.org/officials/isaacman-jared",
+    "https://open-cabinet.org/late-filings"
+   ]
+  },
+  {
+   "statement": "The White House has published only a handful of conflict-of-interest waivers, and no new ethics pledge replaced the one revoked on 20 Jan 2025.",
+   "verdict": "mostly-accurate",
+   "finding": "Grade: documented. On 20 Jan 2025 the President revoked EO 13989 (the Biden appointee ethics pledge) and issued no replacement pledge as of reporting we found (AP, Jan 2025; Campaign Legal Center, 23 Jan 2025, read in full); our searches found no later pledge order through Nov 2026, but this is an absence of results. Without a pledge there are no pledge waivers to post. The White House disclosures page (read in full, Nov 2026) lists six 208(b)(1) waivers: Kennedy (18 Feb 2025), Sacks (5 Mar and June 2025), Wright (7 Mar 2025), Lutnick (July 2025) and Jetson Leder Luis of the anti-fraud task force (16 Apr 2026, spouse's Amazon units). Agency-issued waivers go to OGE's collection, which we could not search.",
+   "sources": [
+    "https://www.whitehouse.gov/disclosures/",
+    "https://www.clickondetroit.com/news/politics/2025/01/22/trump-has-canceled-bidens-ethics-rules-critics-call-it-the-opposite-of-drain-the-swamp/",
+    "https://campaignlegal.org/update/day-one-his-presidency-trump-ignored-yet-another-ethics-norm",
+    "https://www.whitehouse.gov/wp-content/uploads/2026/04/Jetson-Leder-Limited-Waiver-Pursuant-to-18-U.S.C.-208b1.pdf",
+    "https://www.whitehouse.gov/wp-content/uploads/2025/07/Howard-W.-Lutnick-Limited-Waiver-Pursuant-to-18-U.S.C.-208b1.pdf",
+    "https://www.whitehouse.gov/wp-content/uploads/2025/03/Memo-David-Sacks-3.5.2025-1.pdf",
+    "https://www.whitehouse.gov/wp-content/uploads/2025/06/David-Sacks.pdf"
+   ]
+  },
+  {
+   "statement": "The OGE director was removed in February 2025 and the office has since been run by acting heads with other jobs or left without one.",
+   "verdict": "confirmed",
+   "finding": "Grade: documented. OGE posted on 10 Feb 2025 that the President was removing Director David Huitema (confirmed Dec 2024 for a five-year term; read in full). Acting heads: VA Secretary Doug Collins (Feb 2025), Trade Representative Jamieson Greer (about Apr to Sept 2025, also acting Special Counsel), OMB deputy Eric Ueland (from about Aug/Sept 2025) (CREW, read in full; senators' letter). Sen. Schiff and colleagues wrote to White House Chief of Staff Susie Wiles on 18 May 2026 (read in full) that 'according to records received by Congress' Ueland 'discontinued his service in early December 2025', that the 300-day acting limit had since expired, and that OGE 'is now operating without any leadership, even in an acting capacity'. On 23 June 2026 the President nominated Michael Chamberlain as director and named Acting Labor Secretary Keith Sonderling acting director (OGE release, read in full). We found no committee vote or confirmation for Chamberlain as of 17 Nov 2026. OGE staff kept certifying filings throughout (for example an OGE note of 2 Sept 2026 on Blanche's annual report, C108). Huitema said the firing did not appear personal (CBS, via search).",
+   "sources": [
+    "https://extapps2.oge.gov/web/OGE.nsf/News%20Releases/FCCCCDB6367A7C0A85258C2D00683079",
+    "https://federalnewsnetwork.com/agency-oversight/2025/02/trump-fires-top-government-ethics-whistleblower-officials/",
+    "https://www.citizensforethics.org/reports-investigations/crew-investigations/trumps-unprecedented-meddling-has-turned-oge-into-a-revolving-door/",
+    "https://www.schiff.senate.gov/wp-content/uploads/2026/05/26.05.18-Letter-from-Sen.-Schiff-and-Colleagues-to-WH-on-OGE-Director-Vacancy.pdf",
+    "https://extapps2.oge.gov/web/OGE.nsf/News%20Releases/4AF39DE896B559A785258E20004424A7"
+   ]
+  },
+  {
+   "statement": "Inspectors general were dismissed in January 2025, a court found the removals unlawful, and they were not reinstated.",
+   "verdict": "confirmed",
+   "finding": "Grade: documented. On 24 Jan 2025 more than a dozen IGs (about 17) were removed by a two-sentence email citing 'changing priorities', without the 30-day notice to Congress and case-specific reasons the IG Act requires. Eight sued (Storch v. Hegseth, D.D.C.). On 24 Sept 2025 Judge Ana Reyes found the President had almost certainly violated the IG Act but denied reinstatement for lack of irreparable harm, leaving back pay open, and stayed the rest pending Trump v. Slaughter (Clearinghouse summary, read in full; Washington Times, GovExec, excerpts). The Supreme Court decided Slaughter on 29 June 2026, 6-3, overruling Humphrey's Executor for FTC commissioners (law-firm summaries, excerpt); the Storch docket (Clearinghouse listing, read 17 Nov 2026) then shows a joint status report on 13 July 2026 and a 20 July 2026 minute order setting a pre-motion schedule for summary-judgment motions (requests due 3 Aug, conference the week of 24 Aug 2026); no merits or back-pay ruling was found. Later counts: Cato (Apr 2026) says at least 21 IGs were fired, forced out or replaced and 28 of 72 posts were vacant; OMB declined FY2026 funding for the IG council (CIGIE) in Oct 2025, then partly reversed (excerpts).",
+   "sources": [
+    "https://clearinghouse.net/case/46107/",
+    "https://m.washingtontimes.com/news/2025/sep/24/judge-rules-trump-broke-law-firing-inspectors-general-cant-restore/",
+    "https://www.govexec.com/oversight/2025/09/fired-watchdogs-cant-be-reinstated-despite-trumps-obvious-law-breaking-court-decides/408387",
+    "https://www.venable.com/insights/publications/2026/06/supreme-court-overrules-humphreys-executor",
+    "https://www.cato.org/blog/trump-cuts-inspectors-general",
+    "https://www.citizensforethics.org/?p=177799"
+   ]
+  },
+  {
+   "statement": "GAO or the courts have made findings about these officials' ethics compliance.",
+   "verdict": "unverified",
+   "finding": "Grade: none found. The only court finding in scope concerns the IG removals (above). GAO's findings in 2025-2026 concern the Impoundment Control Act (for example a second violation found in June 2025; Federal News Network, excerpt), not any official's holdings. On 16 Nov 2026 the President nominated Eric Ueland, OMB deputy director and former acting OGE head, to lead GAO for 15 years; a hearing was set for 19 Nov and Democrats called the selection process a 'sham' (NOTUS, read in full).",
+   "sources": [
+    "https://federalnewsnetwork.com/agency-oversight/2025/06/gao-finds-trump-administrations-second-violation-of-federal-spending-law/",
+    "https://www.notus.org/whitehouse/trump-taps-ueland-russ-vought-deputy-top-government-watchdog-gao"
+   ]
+  },
+  {
+   "statement": "Any authority has found that one of these officials violated 18 U.S.C. 208 or an ethics agreement.",
+   "verdict": "unverified",
+   "finding": "No OGE, inspector-general, court, DOJ or congressional-committee finding of a violation by Musk, Patel, Kennedy, Oz, Hegseth, Wright, Burgum, McMahon, Loeffler, Bisignano, Isaacman was found as of 17 Nov 2026. The documented items are waivers, agreements, letters, complaints and self-certified late reports. Holding an asset, or reporting a trade late, is not by itself a conflict-of-interest violation. With OGE led by acting heads or vacant for most of the term, the absence of findings is not exoneration. Massad Boulos (senior adviser) was also checked: no public financial disclosure, ethics agreement, waiver, letter or finding was located, so nothing about him is documented here.",
+   "sources": [
+    "https://www.whitehouse.gov/disclosures/",
+    "https://campaignlegal.org/sites/default/files/2025-07/McMahon%20OGE%20Complaint.pdf",
+    "https://www.warren.senate.gov/wp-content/uploads/2026/09/Letter-to-Sec.-Kennedy-re-Change-to-Ethics-Agreement.pdf",
+    "https://open-cabinet.org/late-filings"
+   ]
+  }
+ ],
+ "corrections": [
+  "C103 records CREW's 18 May 2026 letter as addressed to 'OGE Acting Director Eric Ueland'. CREW did address it that way, but senators wrote on the same day that Ueland's acting service had ended in early December 2025 and that OGE had no acting head; Keith Sonderling was named acting director on 23 June 2026. Suggested wording: 'addressed to Eric Ueland as acting director (senators said his acting service had ended in Dec 2025)'.",
+  "C65 (Patel) can add from his ethics agreement (read in full): he keeps Elite Depot (Shein parent) stock units under an agency 'remote' determination, agreed to resign from the Trump Media board, and has a one-year covered relationship with Qatar after embassy consulting that ended in Nov 2024 (a 4 Mar 2025 waiver for a Qatar-related matter was later reported; C73). No change to C65's verdict.",
+  "C68 (Musk) can add that no 208(b)(1) waiver for Musk appears on the White House waiver list and that his disclosure was confidential; no correction to its figures.",
+  "C86: no overlap found; no correction.",
+  "Claimed: Bisignano divested late. The record shows: his Fiserv sales (16 May to 1 July 2025) were inside the 120-day window; the dispute is about timing before the stock's fall, not lateness.",
+  "Claimed: Isaacman divested his Shift4 stake. The record shows: his ethics agreement lets him keep it with reduced voting control and recusal."
+ ],
+ "denials_and_context": [
+  "HHS says it confirmed Kennedy's compliance in May 2025; Kennedy says he gave up the fee interest before taking office.",
+  "The SBA says Loeffler's portfolio is independently managed without her direction and that she meets all ethical and legal requirements.",
+  "Bisignano's agency says he complied with all obligations of his ethics agreement.",
+  "The Pentagon denies that Hegseth or his representatives approached BlackRock; the FT stands by its report.",
+  "The White House said in Feb 2025 that Musk would excuse himself from conflicting contracts and was filing the required disclosure.",
+  "Late 278-T counts come from the officials' own certifications as tallied by Open Cabinet, a third-party tracker; they count transactions the filer marked as reported more than 30 days after notification; a late report is a reporting lapse that can carry a $200 per-report fee (waivable), not a late divestiture or a conflict violation.",
+  "The PSI figure is a minority staff estimate, and the IG vacancy counts come from advocacy groups and think tanks with differing denominators.",
+  "An absence of findings is not exoneration: OGE was led by acting heads or vacant for most of the term, and many IG posts were vacant."
+ ],
+ "sources": [
+  {
+   "title": "OGE notice: President removing David Huitema as Director",
+   "publisher": "U.S. Office of Government Ethics",
+   "url": "https://extapps2.oge.gov/web/OGE.nsf/News%20Releases/FCCCCDB6367A7C0A85258C2D00683079",
+   "date": "2025-02-10",
+   "read": "full"
+  },
+  {
+   "title": "President Trump has nominated Michael Chamberlain for OGE Director, and names Acting Director",
+   "publisher": "U.S. Office of Government Ethics",
+   "url": "https://extapps2.oge.gov/web/OGE.nsf/News%20Releases/4AF39DE896B559A785258E20004424A7",
+   "date": "2026-06-24",
+   "read": "full"
+  },
+  {
+   "title": "Trump's unprecedented meddling has turned OGE into a revolving door",
+   "publisher": "CREW",
+   "url": "https://www.citizensforethics.org/reports-investigations/crew-investigations/trumps-unprecedented-meddling-has-turned-oge-into-a-revolving-door/",
+   "date": "2025-12-19",
+   "read": "full"
+  },
+  {
+   "title": "Letter from Sen. Schiff and colleagues to White House on OGE director vacancy",
+   "publisher": "Office of Sen. Adam Schiff",
+   "url": "https://www.schiff.senate.gov/wp-content/uploads/2026/05/26.05.18-Letter-from-Sen.-Schiff-and-Colleagues-to-WH-on-OGE-Director-Vacancy.pdf",
+   "date": "2026-05-18",
+   "read": "full"
+  },
+  {
+   "title": "Trump fires top government ethics, whistleblower officials",
+   "publisher": "Federal News Network",
+   "url": "https://federalnewsnetwork.com/agency-oversight/2025/02/trump-fires-top-government-ethics-whistleblower-officials/",
+   "date": "2025-02-10",
+   "read": "excerpt"
+  },
+  {
+   "title": "Storch v. Hegseth case summary and docket listing",
+   "publisher": "Civil Rights Litigation Clearinghouse",
+   "url": "https://clearinghouse.net/case/46107/",
+   "date": "2026-11-16",
+   "read": "full"
+  },
+  {
+   "title": "Judge rules Trump broke law firing inspectors general, can't restore them",
+   "publisher": "Washington Times",
+   "url": "https://m.washingtontimes.com/news/2025/sep/24/judge-rules-trump-broke-law-firing-inspectors-general-cant-restore/",
+   "date": "2025-09-24",
+   "read": "excerpt"
+  },
+  {
+   "title": "Fired watchdogs can't be reinstated despite Trump's obvious law-breaking, court decides",
+   "publisher": "Government Executive",
+   "url": "https://www.govexec.com/oversight/2025/09/fired-watchdogs-cant-be-reinstated-despite-trumps-obvious-law-breaking-court-decides/408387",
+   "date": "2025-09-24",
+   "read": "excerpt"
+  },
+  {
+   "title": "Supreme Court overrules Humphrey's Executor",
+   "publisher": "Venable LLP",
+   "url": "https://www.venable.com/insights/publications/2026/06/supreme-court-overrules-humphreys-executor",
+   "date": "2026-06-29",
+   "read": "excerpt"
+  },
+  {
+   "title": "Trump cuts inspectors general",
+   "publisher": "Cato Institute",
+   "url": "https://www.cato.org/blog/trump-cuts-inspectors-general",
+   "date": "2026-04",
+   "read": "excerpt"
+  },
+  {
+   "title": "IG vacancies under Trump",
+   "publisher": "CREW",
+   "url": "https://www.citizensforethics.org/?p=177799",
+   "date": "2026",
+   "read": "excerpt"
+  },
+  {
+   "title": "Letter to White House Counsel Warrington re SGE conflicts (Musk)",
+   "publisher": "House Oversight Committee Democrats",
+   "url": "https://oversightdemocrats.house.gov/imo/media/doc/2025-05-01.gec-et-al-to-whc-warrington-re-sge-conflicts_0.pdf",
+   "date": "2025-05-01",
+   "read": "full"
+  },
+  {
+   "title": "Letter to OGE Director Huitema on Musk",
+   "publisher": "Office of Sen. Adam Schiff",
+   "url": "https://www.schiff.senate.gov/wp-content/uploads/2025/02/20250210-Sen-Schiff-Letter-to-OGE-on-Musk.pdf",
+   "date": "2025-02-10",
+   "read": "full"
+  },
+  {
+   "title": "Calculating Risk: Estimating the legal liability Elon Musk may avoid",
+   "publisher": "Senate PSI minority staff",
+   "url": "https://www.hsgac.senate.gov/wp-content/uploads/2025-04-27-Minority-Staff-Memorandum-Elon-Musk-Conflicts.pdf",
+   "date": "2025-04-27",
+   "read": "excerpt"
+  },
+  {
+   "title": "Elon Musk has grown even wealthier through serving in Trump's administration",
+   "publisher": "Campaign Legal Center",
+   "url": "https://campaignlegal.org/update/elon-musk-has-grown-even-wealthier-through-serving-trumps-administration",
+   "date": "2025-06-05",
+   "read": "full"
+  },
+  {
+   "title": "Elon Musk's financial disclosure will not be made public",
+   "publisher": "Honolulu Star-Advertiser (AP)",
+   "url": "https://staradvertiser.com/2025/02/11/breaking-news/elon-musks-financial-disclosure-will-not-be-made-public",
+   "date": "2025-02-11",
+   "read": "excerpt"
+  },
+  {
+   "title": "Elon Musk announces departure from Trump administration as 130-day role ends",
+   "publisher": "ABC7",
+   "url": "https://abc7.com/post/elon-musk-is-leaving-trump-administration-criticizing-presidents-big-beautiful-bill/16580917/",
+   "date": "2025-05-29",
+   "read": "excerpt"
+  },
+  {
+   "title": "Isn't That Special? The Trump administration's use of special government employees",
+   "publisher": "Public Citizen",
+   "url": "https://www.citizen.org/wp-content/uploads/Isnt_That_Special_REPORT.pdf",
+   "date": "2025-04-17",
+   "read": "excerpt"
+  },
+  {
+   "title": "Kashyap Patel ethics agreement",
+   "publisher": "U.S. Office of Government Ethics",
+   "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/730D7A12BBF6654785258C240032196E/$FILE/Patel%2C%20Kashyap%20%20finalEA.pdf",
+   "date": "2025-01-28",
+   "read": "full"
+  },
+  {
+   "title": "Letter to FBI Director nominee Patel (Elite Depot)",
+   "publisher": "Office of Sen. Adam Schiff",
+   "url": "https://www.schiff.senate.gov/wp-content/uploads/2025/02/20250211-Letter-to-FBI-Director-Nominee-Patel.pdf",
+   "date": "2025-02-12",
+   "read": "excerpt"
+  },
+  {
+   "title": "Trump's FBI pick Kash Patel set to make millions from Shein",
+   "publisher": "The Daily Beast",
+   "url": "https://thedailybeast.com/trumps-fbi-pick-kash-patel-set-to-make-millions-from-fast-fashion-brand-shein",
+   "date": "2025-02",
+   "read": "excerpt"
+  },
+  {
+   "title": "Public Disclosures (waivers and financial disclosure reports)",
+   "publisher": "The White House",
+   "url": "https://www.whitehouse.gov/disclosures/",
+   "date": "2026-11-17",
+   "read": "full"
+  },
+  {
+   "title": "Limited, interim waiver under 18 U.S.C. 208(b)(1) for Robert F. Kennedy Jr.",
+   "publisher": "The White House",
+   "url": "https://www.whitehouse.gov/wp-content/uploads/2025/03/20250218102929192.pdf",
+   "date": "2025-02-18",
+   "read": "full"
+  },
+  {
+   "title": "Limited waiver under 18 U.S.C. 208(b)(1) for Chris Wright",
+   "publisher": "The White House",
+   "url": "https://www.whitehouse.gov/wp-content/uploads/2025/03/Memo-Chris-Wright-3.7.2025.pdf",
+   "date": "2025-03-07",
+   "read": "excerpt"
+  },
+  {
+   "title": "Limited waiver under 18 U.S.C. 208(b)(1) for Jetson Leder Luis",
+   "publisher": "The White House",
+   "url": "https://www.whitehouse.gov/wp-content/uploads/2026/04/Jetson-Leder-Limited-Waiver-Pursuant-to-18-U.S.C.-208b1.pdf",
+   "date": "2026-04-16",
+   "read": "excerpt"
+  },
+  {
+   "title": "Limited waiver for Howard W. Lutnick (listed, not read; see C104)",
+   "publisher": "The White House",
+   "url": "https://www.whitehouse.gov/wp-content/uploads/2025/07/Howard-W.-Lutnick-Limited-Waiver-Pursuant-to-18-U.S.C.-208b1.pdf",
+   "date": "2025-07",
+   "read": "excerpt"
+  },
+  {
+   "title": "Limited waiver for David Sacks, March 2025 (listed, not read; see C106)",
+   "publisher": "The White House",
+   "url": "https://www.whitehouse.gov/wp-content/uploads/2025/03/Memo-David-Sacks-3.5.2025-1.pdf",
+   "date": "2025-03-05",
+   "read": "excerpt"
+  },
+  {
+   "title": "Limited waiver for David Sacks, June 2025 (listed, not read; see C106)",
+   "publisher": "The White House",
+   "url": "https://www.whitehouse.gov/wp-content/uploads/2025/06/David-Sacks.pdf",
+   "date": "2025-06",
+   "read": "excerpt"
+  },
+  {
+   "title": "Letter to Secretary Kennedy re change to ethics agreement",
+   "publisher": "Office of Sen. Elizabeth Warren",
+   "url": "https://www.warren.senate.gov/wp-content/uploads/2026/09/Letter-to-Sec.-Kennedy-re-Change-to-Ethics-Agreement.pdf",
+   "date": "2026-09-24",
+   "read": "excerpt"
+  },
+  {
+   "title": "Democrats press RFK Jr. on an ethics agreement change involving law firm fees",
+   "publisher": "AP via WSB-TV",
+   "url": "https://www.wsbtv.com/news/health/democrats-press-rfk/A5M7BM3KNU7IDACSOPX7GILACQ/",
+   "date": "2026-09-25",
+   "read": "excerpt"
+  },
+  {
+   "title": "Ethics letters for Trump's picks to lead Medicare and NIH show they'll divest stock",
+   "publisher": "NPR",
+   "url": "https://npr.org/sections/shots-health-news/2025/02/20/nx-s1-5304170/dr-oz-bhattacharya-cms-nih-ethics-disclosures",
+   "date": "2025-02-20",
+   "read": "excerpt"
+  },
+  {
+   "title": "Dr. Oz vows to sell healthcare stocks once confirmed to run CMS",
+   "publisher": "Fierce Healthcare",
+   "url": "https://www.fiercehealthcare.com/regulatory/dr-oz-vows-sell-healthcare-stocks-once-confirmed-run-cms",
+   "date": "2025-02",
+   "read": "excerpt"
+  },
+  {
+   "title": "Warner, Schiff call for investigation into misuse of insider information",
+   "publisher": "Office of Sen. Mark Warner",
+   "url": "https://warner.senate.gov/public/index.cfm/2026/4/warner-schiff-call-for-investigation-into-misuse-of-insider-information",
+   "date": "2026-04-02",
+   "read": "excerpt"
+  },
+  {
+   "title": "Letter to SEC re Hegseth investigation",
+   "publisher": "Senate Banking Committee minority",
+   "url": "https://www.banking.senate.gov/imo/media/doc/letter_to_sec_re_hegseth_investigation.pdf",
+   "date": "2026-04-20",
+   "read": "excerpt"
+  },
+  {
+   "title": "Warner, Schiff probe potential insider trading in government",
+   "publisher": "CNBC",
+   "url": "https://www.cnbc.com/2026/04/02/hegseth-trump-mark-warner-adam-schiff-insider-trading-probe.html",
+   "date": "2026-04-02",
+   "read": "excerpt"
+  },
+  {
+   "title": "Open Cabinet executive branch stock tracker",
+   "publisher": "Open Cabinet (Trevor Brown)",
+   "url": "https://open-cabinet.org/",
+   "date": "2026-11-17",
+   "read": "full"
+  },
+  {
+   "title": "Late-filed stock trades by executive branch officials",
+   "publisher": "Open Cabinet",
+   "url": "https://open-cabinet.org/late-filings",
+   "date": "2026-11-17",
+   "read": "full"
+  },
+  {
+   "title": "Linda McMahon financial trades",
+   "publisher": "Open Cabinet",
+   "url": "https://open-cabinet.org/officials/mcmahon-linda",
+   "date": "2026-11-17",
+   "read": "full"
+  },
+  {
+   "title": "Douglas J Burgum financial trades",
+   "publisher": "Open Cabinet",
+   "url": "https://open-cabinet.org/officials/burgum-douglas-j",
+   "date": "2026-11-17",
+   "read": "full"
+  },
+  {
+   "title": "Jared Isaacman financial trades",
+   "publisher": "Open Cabinet",
+   "url": "https://open-cabinet.org/officials/isaacman-jared",
+   "date": "2026-11-17",
+   "read": "full"
+  },
+  {
+   "title": "Doug Burgum completes disclosures and divestitures for role as Interior Secretary",
+   "publisher": "Ground News",
+   "url": "https://ground.news/article/doug-burgum-completes-disclosures-and-divestitures-for-role-as-interior-secretary",
+   "date": "2025",
+   "read": "excerpt"
+  },
+  {
+   "title": "Karen Budd-Falen's ethics documents spark renewed calls for an investigation",
+   "publisher": "High Country News / Public Domain",
+   "url": "https://www.hcn.org/articles/documents-shed-new-light-on-interior-officials-growing-ethics-scandal/",
+   "date": "2026-02-23",
+   "read": "excerpt"
+  },
+  {
+   "title": "CLC complaint to OGE regarding Education Secretary Linda McMahon (PDF)",
+   "publisher": "Campaign Legal Center",
+   "url": "https://campaignlegal.org/sites/default/files/2025-07/McMahon%20OGE%20Complaint.pdf",
+   "date": "2025-07-09",
+   "read": "excerpt"
+  },
+  {
+   "title": "CLC complaint to OGE regarding Education Secretary Linda McMahon",
+   "publisher": "Campaign Legal Center",
+   "url": "https://campaignlegal.org/document/clc-complaint-oge-regarding-education-secretary-linda-mcmahon",
+   "date": "2025-07-09",
+   "read": "full"
+  },
+  {
+   "title": "Linda McMahon ethics agreement",
+   "publisher": "U.S. Office of Government Ethics",
+   "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/39946C54002FE9C685258C2A00321A39/$FILE/McMahon,%20Linda%20%20finalEA.pdf",
+   "date": "2025-02-05",
+   "read": "excerpt"
+  },
+  {
+   "title": "Kelly Loeffler, Newsmax stock",
+   "publisher": "Fortune",
+   "url": "https://www.fortune.com/2025/06/11/kelly-loeffler-newsmax-stock-shares-pete-jennifer-hegseth-kari-lake",
+   "date": "2025-06-11",
+   "read": "excerpt"
+  },
+  {
+   "title": "Nvidia struck a $20 billion deal with an AI startup. Kelly Loeffler made a massive investment weeks earlier.",
+   "publisher": "NOTUS",
+   "url": "https://www.notus.org/money/kelly-loeffler-nvidia-groq-stock-investment-trump-administration",
+   "date": "2026-02-11",
+   "read": "full"
+  },
+  {
+   "title": "Kelly Loeffler OGE 278-T, 21 Nov 2025",
+   "publisher": "NOTUS (document)",
+   "url": "https://static.notus.org/36/a5/128cffc64308bfca8dd506eaadc8/kelly-loeffler-11-21-2025-278t.pdf",
+   "date": "2025-11-21",
+   "read": "excerpt"
+  },
+  {
+   "title": "SSA chief Bisignano faces probe from Wyden and Warren over Fiserv stock",
+   "publisher": "Government Executive",
+   "url": "https://govexec.com/oversight/2025/11/ssa-chief-bisignano-faces-probe-wyden-and-warren-over-fiserv-stock-and-federal-contract-concerns/409402",
+   "date": "2025-11",
+   "read": "excerpt"
+  },
+  {
+   "title": "Senators question Fiserv on former CEO Bisignano",
+   "publisher": "Payments Dive",
+   "url": "https://www.paymentsdive.com/news/senators-democrats-fiserv-ceo-bisignano-payments/805082/",
+   "date": "2025-11",
+   "read": "excerpt"
+  },
+  {
+   "title": "Frank J. Bisignano ethics agreement",
+   "publisher": "U.S. Office of Government Ethics",
+   "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/E423E41B5144B67D85258C3E00320557/$FILE/Bisignano%2C%20Frank%20J.%20%20finalEA.pdf",
+   "date": "2025",
+   "read": "excerpt"
+  },
+  {
+   "title": "Jared T. Isaacman ethics agreement",
+   "publisher": "U.S. Office of Government Ethics",
+   "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/93E5F973F53D3FF485258D470031927B/$FILE/Isaacman%2C%20Jared%20T.%20%20finalEA.pdf",
+   "date": "2025-11-17",
+   "read": "excerpt"
+  },
+  {
+   "title": "NASA chief bought millions in SpaceX-linked stock before IPO",
+   "publisher": "Sludge",
+   "url": "https://readsludge.com/2026/06/18/nasa-chief-bought-millions-in-spacex-linked-stock-before-ipo-while-pushing-spacexs-agenda/",
+   "date": "2026-06-18",
+   "read": "excerpt"
+  },
+  {
+   "title": "Shift4 founder Isaacman to keep stake while at NASA",
+   "publisher": "Payments Dive",
+   "url": "https://www.paymentsdive.com/news/shift4-payments-founder-isaacmanto-stake-nasa/805012/",
+   "date": "2025",
+   "read": "excerpt"
+  },
+  {
+   "title": "On Day One of his presidency, Trump ignored yet another ethics norm",
+   "publisher": "Campaign Legal Center",
+   "url": "https://campaignlegal.org/update/day-one-his-presidency-trump-ignored-yet-another-ethics-norm",
+   "date": "2025-01-23",
+   "read": "full"
+  },
+  {
+   "title": "Trump has canceled Biden's ethics rules",
+   "publisher": "AP via ClickOnDetroit",
+   "url": "https://www.clickondetroit.com/news/politics/2025/01/22/trump-has-canceled-bidens-ethics-rules-critics-call-it-the-opposite-of-drain-the-swamp/",
+   "date": "2025-01-22",
+   "read": "excerpt"
+  },
+  {
+   "title": "Trump taps Russ Vought's deputy to lead top government watchdog",
+   "publisher": "NOTUS",
+   "url": "https://www.notus.org/whitehouse/trump-taps-ueland-russ-vought-deputy-top-government-watchdog-gao",
+   "date": "2026-11-16",
+   "read": "full"
+  },
+  {
+   "title": "GAO finds Trump administration's second violation of federal spending law",
+   "publisher": "Federal News Network",
+   "url": "https://federalnewsnetwork.com/agency-oversight/2025/06/gao-finds-trump-administrations-second-violation-of-federal-spending-law/",
+   "date": "2025-06",
+   "read": "excerpt"
+  },
+  {
+   "title": "Letter to OGE on executive branch employee use of prediction markets",
+   "publisher": "CREW",
+   "url": "https://www.citizensforethics.org/wp-content/uploads/2026/05/Prediction-Markets-White-House-Letter.pdf",
+   "date": "2026-05-18",
+   "read": "full"
+  },
+  {
+   "title": "Letter from Sens. Wyden and Warren to Fiserv CEO Mike Lyons",
+   "publisher": "Senate Finance Committee (minority)",
+   "url": "https://www.finance.senate.gov/imo/media/doc/wyden_warren_fiserv_letter.pdf",
+   "date": "2025-11-06",
+   "read": "full"
+  },
+  {
+   "title": "Kash Patel's Qatar waiver",
+   "publisher": "Responsible Statecraft",
+   "url": "https://responsiblestatecraft.org/kash-patel-qatar/",
+   "date": "2025",
+   "read": "excerpt"
+  },
+  {
+   "title": "FBI Director Patel signs security deals with Qatar, his former lobbying client",
+   "publisher": "Jewish Insider",
+   "url": "https://jewishinsider.com/2025/12/fbi-kash-patel-qatar-security-deals-lobbying-disclosure/",
+   "date": "2025-12",
+   "read": "excerpt"
+  },
+  {
+   "title": "Public Citizen complaint to OGE regarding ethics waiver for Patel",
+   "publisher": "Public Citizen",
+   "url": "https://www.citizen.org/article/public-citizen-complaint-to-oge-regarding-ethics-waiver-for-patel/",
+   "date": "2025",
+   "read": "excerpt"
+  }
+ ],
+ "entities": [
+  {
+   "id": "elon-musk",
+   "name": "Elon Musk",
+   "type": "person",
+   "description": "Led DOGE as a special government employee until late May 2025."
+  },
+  {
+   "id": "spacex",
+   "name": "SpaceX",
+   "type": "company",
+   "description": "Musk company with federal contracts."
+  },
+  {
+   "id": "doge",
+   "name": "Department of Government Efficiency",
+   "type": "government",
+   "description": "Cost-cutting unit Musk led."
+  },
+  {
+   "id": "kash-patel",
+   "name": "Kash Patel",
+   "type": "person",
+   "description": "FBI director since Feb 2025."
+  },
+  {
+   "id": "elite-depot",
+   "name": "Elite Depot Ltd.",
+   "type": "company",
+   "description": "Cayman parent of Shein; Patel holds its stock units."
+  },
+  {
+   "id": "fbi",
+   "name": "FBI",
+   "type": "government",
+   "description": "Federal Bureau of Investigation."
+  },
+  {
+   "id": "qatar",
+   "name": "Qatar",
+   "type": "country",
+   "description": "Patel consulted for its embassy until Nov 2024."
+  },
+  {
+   "id": "trump-media-technology-group",
+   "name": "Trump Media & Technology Group",
+   "type": "company",
+   "description": "Patel agreed to resign from its board."
+  },
+  {
+   "id": "robert-f-kennedy-jr",
+   "name": "Robert F. Kennedy Jr.",
+   "type": "person",
+   "description": "Health and Human Services secretary."
+  },
+  {
+   "id": "wisner-baum",
+   "name": "Wisner Baum",
+   "type": "company",
+   "description": "Law firm in the Gardasil litigation; received Kennedy's fee interest."
+  },
+  {
+   "id": "park-holdings-group",
+   "name": "Park Holdings Group, LLC",
+   "type": "fund",
+   "description": "Kennedy family office funds covered by his interim waiver."
+  },
+  {
+   "id": "department-of-health-and-human-services",
+   "name": "Department of Health and Human Services",
+   "type": "government",
+   "description": "Kennedy's department."
+  },
+  {
+   "id": "mehmet-oz",
+   "name": "Mehmet Oz",
+   "type": "person",
+   "description": "Administrator of the Centers for Medicare & Medicaid Services."
+  },
+  {
+   "id": "iherb",
+   "name": "iHerb",
+   "type": "company",
+   "description": "Supplement retailer; Oz pledged to sell his units."
+  },
+  {
+   "id": "pete-hegseth",
+   "name": "Pete Hegseth",
+   "type": "person",
+   "description": "Defense secretary."
+  },
+  {
+   "id": "chris-wright",
+   "name": "Chris Wright",
+   "type": "person",
+   "description": "Energy secretary."
+  },
+  {
+   "id": "liberty-energy",
+   "name": "Liberty Energy",
+   "type": "company",
+   "description": "Oilfield services company Wright founded and divested."
+  },
+  {
+   "id": "doug-burgum",
+   "name": "Doug Burgum",
+   "type": "person",
+   "description": "Interior secretary."
+  },
+  {
+   "id": "karen-budd-falen",
+   "name": "Karen Budd-Falen",
+   "type": "person",
+   "description": "Interior appointee whose ethics records drew calls for an inquiry."
+  },
+  {
+   "id": "linda-mcmahon",
+   "name": "Linda McMahon",
+   "type": "person",
+   "description": "Education secretary."
+  },
+  {
+   "id": "kelly-loeffler",
+   "name": "Kelly Loeffler",
+   "type": "person",
+   "description": "Small Business Administration administrator."
+  },
+  {
+   "id": "jeff-sprecher",
+   "name": "Jeff Sprecher",
+   "type": "person",
+   "description": "Loeffler's husband; ICE chief executive."
+  },
+  {
+   "id": "intercontinental-exchange",
+   "name": "Intercontinental Exchange (ICE)",
+   "type": "company",
+   "description": "NYSE owner."
+  },
+  {
+   "id": "newsmax",
+   "name": "Newsmax",
+   "type": "media",
+   "description": "Broadcaster; Loeffler held stock in its parent."
+  },
+  {
+   "id": "groq",
+   "name": "Groq",
+   "type": "company",
+   "description": "AI chip startup; Loeffler invested $3M in Oct 2025."
+  },
+  {
+   "id": "nvidia",
+   "name": "Nvidia",
+   "type": "company",
+   "description": "Licensed Groq technology for $20B."
+  },
+  {
+   "id": "frank-bisignano",
+   "name": "Frank Bisignano",
+   "type": "person",
+   "description": "Social Security commissioner and IRS chief executive."
+  },
+  {
+   "id": "fiserv",
+   "name": "Fiserv",
+   "type": "company",
+   "description": "Payments company Bisignano led until 2025."
+  },
+  {
+   "id": "jared-isaacman",
+   "name": "Jared Isaacman",
+   "type": "person",
+   "description": "NASA administrator since Dec 2025."
+  },
+  {
+   "id": "shift4-payments",
+   "name": "Shift4 Payments",
+   "type": "company",
+   "description": "Isaacman's company; stake retained."
+  },
+  {
+   "id": "massad-boulos",
+   "name": "Massad Boulos",
+   "type": "person",
+   "description": "Senior adviser on Africa."
+  },
+  {
+   "id": "office-of-government-ethics",
+   "name": "Office of Government Ethics",
+   "type": "government",
+   "description": "Executive-branch ethics regulator."
+  },
+  {
+   "id": "david-huitema",
+   "name": "David Huitema",
+   "type": "person",
+   "description": "OGE director removed 10 Feb 2025."
+  },
+  {
+   "id": "doug-collins",
+   "name": "Doug Collins",
+   "type": "person",
+   "description": "VA secretary; acting OGE head from Feb 2025."
+  },
+  {
+   "id": "jamieson-greer",
+   "name": "Jamieson Greer",
+   "type": "person",
+   "description": "Trade Representative; acting OGE head about Apr-Sept 2025."
+  },
+  {
+   "id": "eric-ueland",
+   "name": "Eric Ueland",
+   "type": "person",
+   "description": "OMB deputy; acting OGE head 2025; GAO nominee Nov 2026."
+  },
+  {
+   "id": "keith-sonderling",
+   "name": "Keith Sonderling",
+   "type": "person",
+   "description": "Acting Labor secretary; acting OGE head from June 2026."
+  },
+  {
+   "id": "michael-chamberlain",
+   "name": "Michael Chamberlain",
+   "type": "person",
+   "description": "OGE director nominee, June 2026."
+  },
+  {
+   "id": "david-warrington",
+   "name": "David Warrington",
+   "type": "person",
+   "description": "White House Counsel; signs 208(b)(1) waivers."
+  },
+  {
+   "id": "white-house",
+   "name": "White House",
+   "type": "government",
+   "description": "Posts 208(b)(1) waivers."
+  },
+  {
+   "id": "storch-v-hegseth",
+   "name": "Storch v. Hegseth",
+   "type": "event",
+   "description": "Fired inspectors general's lawsuit."
+  },
+  {
+   "id": "gao",
+   "name": "Government Accountability Office",
+   "type": "government",
+   "description": "Congress's audit agency."
+  },
+  {
+   "id": "adam-schiff",
+   "name": "Sen. Adam Schiff",
+   "type": "person",
+   "description": "Wrote to OGE on Musk, Patel and the OGE vacancy."
+  },
+  {
+   "id": "elizabeth-warren",
+   "name": "Elizabeth Warren",
+   "type": "person",
+   "description": "Led letters on Kennedy and Bisignano."
+  },
+  {
+   "id": "ron-wyden",
+   "name": "Ron Wyden",
+   "type": "person",
+   "description": "Co-signed letters on Kennedy and Bisignano."
+  },
+  {
+   "id": "gerald-connolly",
+   "name": "Gerald Connolly",
+   "type": "person",
+   "description": "Led House Oversight Democrats' Musk letter."
+  },
+  {
+   "id": "senate-psi",
+   "name": "Senate Permanent Subcommittee on Investigations",
+   "type": "government",
+   "description": "Minority staff estimated Musk companies' liabilities."
+  },
+  {
+   "id": "campaign-legal-center",
+   "name": "Campaign Legal Center",
+   "type": "media",
+   "description": "Filed OGE complaints on McMahon and DOGE staff."
+  },
+  {
+   "id": "crew",
+   "name": "Citizens for Responsibility and Ethics in Washington",
+   "type": "media",
+   "description": "Watchdog tracking OGE leadership."
+  },
+  {
+   "id": "david-sacks",
+   "name": "David Sacks",
+   "type": "person",
+   "description": "White House AI and crypto adviser; two waivers (C106)."
+  },
+  {
+   "id": "howard-lutnick",
+   "name": "Howard Lutnick",
+   "type": "person",
+   "description": "Commerce secretary; one waiver (C104)."
+  },
+  {
+   "id": "ethics-pledge-eo-13989",
+   "name": "Executive Order 13989 ethics pledge",
+   "type": "law",
+   "description": "Appointee pledge revoked 20 Jan 2025."
+  }
+ ],
+ "relationships": [
+  {
+   "source": "elon-musk",
+   "target": "spacex",
+   "label": "owns and runs",
+   "type": "ownership",
+   "date": "2025-01"
+  },
+  {
+   "source": "elon-musk",
+   "target": "doge",
+   "label": "led as special government employee",
+   "type": "political",
+   "date": "2025-01-20"
+  },
+  {
+   "source": "adam-schiff",
+   "target": "office-of-government-ethics",
+   "label": "asked whether Musk had a 208 waiver",
+   "type": "regulatory",
+   "date": "2025-02-10"
+  },
+  {
+   "source": "gerald-connolly",
+   "target": "white-house",
+   "label": "requested Musk's disclosure and 208 determination",
+   "type": "regulatory",
+   "date": "2025-05-01"
+  },
+  {
+   "source": "senate-psi",
+   "target": "elon-musk",
+   "label": "minority staff estimated $2.37B of potential liability for his companies",
+   "type": "regulatory",
+   "date": "2025-04-27",
+   "amount_usd": 2370000000
+  },
+  {
+   "source": "kash-patel",
+   "target": "elite-depot",
+   "label": "retains $1M-$5M of stock units",
+   "type": "ownership",
+   "date": "2025-01-28",
+   "amount_usd": 1000000
+  },
+  {
+   "source": "kash-patel",
+   "target": "qatar",
+   "label": "one-year covered relationship after embassy consulting",
+   "type": "commercial",
+   "date": "2024-11"
+  },
+  {
+   "source": "kash-patel",
+   "target": "trump-media-technology-group",
+   "label": "agreed to resign from board",
+   "type": "advisory",
+   "date": "2025-01-28"
+  },
+  {
+   "source": "kash-patel",
+   "target": "fbi",
+   "label": "director",
+   "type": "political",
+   "date": "2025-02"
+  },
+  {
+   "source": "david-warrington",
+   "target": "robert-f-kennedy-jr",
+   "label": "signed limited interim 208(b)(1) waiver",
+   "type": "regulatory",
+   "date": "2025-02-18"
+  },
+  {
+   "source": "robert-f-kennedy-jr",
+   "target": "park-holdings-group",
+   "label": "held up to $380K in four funds",
+   "type": "ownership",
+   "date": "2025-02-18",
+   "amount_usd": 380000
+  },
+  {
+   "source": "robert-f-kennedy-jr",
+   "target": "wisner-baum",
+   "label": "assigned Gardasil fee interest to the firm (per HHS letter)",
+   "type": "legal",
+   "date": "2025-02-11"
+  },
+  {
+   "source": "elizabeth-warren",
+   "target": "robert-f-kennedy-jr",
+   "label": "questioned change to ethics agreement",
+   "type": "regulatory",
+   "date": "2026-09-24"
+  },
+  {
+   "source": "mehmet-oz",
+   "target": "iherb",
+   "label": "pledged to divest $5M-$25M of units",
+   "type": "ownership",
+   "date": "2025-02",
+   "amount_usd": 5000000
+  },
+  {
+   "source": "david-warrington",
+   "target": "chris-wright",
+   "label": "signed limited 208(b)(1) waiver for CERAWeek",
+   "type": "regulatory",
+   "date": "2025-03-07"
+  },
+  {
+   "source": "chris-wright",
+   "target": "liberty-energy",
+   "label": "divesting 2.58M shares by 21 Mar 2025",
+   "type": "ownership",
+   "date": "2025-03-07"
+  },
+  {
+   "source": "campaign-legal-center",
+   "target": "linda-mcmahon",
+   "label": "asked OGE to enforce divestiture",
+   "type": "regulatory",
+   "date": "2025-07-09"
+  },
+  {
+   "source": "kelly-loeffler",
+   "target": "groq",
+   "label": "invested $3M",
+   "type": "money",
+   "date": "2025-10",
+   "amount_usd": 3000000
+  },
+  {
+   "source": "kelly-loeffler",
+   "target": "newsmax",
+   "label": "held parent-company stock",
+   "type": "ownership",
+   "date": "2025-06"
+  },
+  {
+   "source": "kelly-loeffler",
+   "target": "intercontinental-exchange",
+   "label": "sold $5M-$25M of stock (as reported)",
+   "type": "ownership",
+   "date": "2025-11-19",
+   "amount_usd": 5000000
+  },
+  {
+   "source": "kelly-loeffler",
+   "target": "jeff-sprecher",
+   "label": "married to",
+   "type": "family",
+   "date": "2025"
+  },
+  {
+   "source": "frank-bisignano",
+   "target": "fiserv",
+   "label": "sold about $530M of stock within deadline",
+   "type": "ownership",
+   "date": "2025-07-01",
+   "amount_usd": 530000000
+  },
+  {
+   "source": "elizabeth-warren",
+   "target": "fiserv",
+   "label": "asked about Bisignano's knowledge",
+   "type": "regulatory",
+   "date": "2025-11"
+  },
+  {
+   "source": "jared-isaacman",
+   "target": "shift4-payments",
+   "label": "kept stake, reduced voting control to about 25%",
+   "type": "ownership",
+   "date": "2025-11-17"
+  },
+  {
+   "source": "david-huitema",
+   "target": "office-of-government-ethics",
+   "label": "removed as director",
+   "type": "political",
+   "date": "2025-02-10"
+  },
+  {
+   "source": "doug-collins",
+   "target": "office-of-government-ethics",
+   "label": "acting director",
+   "type": "political",
+   "date": "2025-02"
+  },
+  {
+   "source": "jamieson-greer",
+   "target": "office-of-government-ethics",
+   "label": "acting director",
+   "type": "political",
+   "date": "2025-04"
+  },
+  {
+   "source": "eric-ueland",
+   "target": "office-of-government-ethics",
+   "label": "acting director until early Dec 2025",
+   "type": "political",
+   "date": "2025-08"
+  },
+  {
+   "source": "keith-sonderling",
+   "target": "office-of-government-ethics",
+   "label": "named acting director",
+   "type": "political",
+   "date": "2026-06-23"
+  },
+  {
+   "source": "michael-chamberlain",
+   "target": "office-of-government-ethics",
+   "label": "nominated director",
+   "type": "political",
+   "date": "2026-06-23"
+  },
+  {
+   "source": "eric-ueland",
+   "target": "gao",
+   "label": "nominated Comptroller General",
+   "type": "political",
+   "date": "2026-11-16"
+  },
+  {
+   "source": "pete-hegseth",
+   "target": "storch-v-hegseth",
+   "label": "named defendant",
+   "type": "legal",
+   "date": "2025-02-12"
+  },
+  {
+   "source": "david-warrington",
+   "target": "david-sacks",
+   "label": "signed two limited 208(b)(1) waivers",
+   "type": "regulatory",
+   "date": "2025-03-05"
+  },
+  {
+   "source": "david-warrington",
+   "target": "howard-lutnick",
+   "label": "signed limited 208(b)(1) waiver",
+   "type": "regulatory",
+   "date": "2025-07"
+  },
+  {
+   "source": "white-house",
+   "target": "ethics-pledge-eo-13989",
+   "label": "revoked without replacement",
+   "type": "regulatory",
+   "date": "2025-01-20"
+  },
+  {
+   "source": "doug-burgum",
+   "target": "karen-budd-falen",
+   "label": "heads department where her ethics records are disputed",
+   "type": "political",
+   "date": "2026-02"
+  }
+ ],
+ "leads": [
+  {
+   "title": "Outcome of Storch v. Hegseth after Trump v. Slaughter",
+   "why_connected": "The IG case was stayed pending Slaughter (decided 29 June 2026); back pay and the merits remain open. Summary-judgment briefing was being scheduled in Aug 2026.",
+   "entities": [
+    "storch-v-hegseth",
+    "pete-hegseth"
+   ],
+   "source_url": "https://clearinghouse.net/case/46107/"
+  },
+  {
+   "title": "Senate action on Michael Chamberlain's OGE nomination",
+   "why_connected": "OGE has had no confirmed director since Feb 2025; the nominee's status after June 2026 was not found.",
+   "entities": [
+    "michael-chamberlain",
+    "office-of-government-ethics"
+   ],
+   "source_url": "https://extapps2.oge.gov/web/OGE.nsf/News%20Releases/4AF39DE896B559A785258E20004424A7"
+  },
+  {
+   "title": "Eric Ueland's GAO nomination",
+   "why_connected": "A former acting OGE head nominated on 16 Nov 2026 to lead Congress's auditor, with a hearing set for 19 Nov.",
+   "entities": [
+    "eric-ueland",
+    "gao"
+   ],
+   "source_url": "https://www.notus.org/whitehouse/trump-taps-ueland-russ-vought-deputy-top-government-watchdog-gao"
+  },
+  {
+   "title": "OGE's response, if any, on Kennedy's fee assignment and McMahon's certification",
+   "why_connected": "Both are documented complaints or letters without a published OGE determination.",
+   "entities": [
+    "robert-f-kennedy-jr",
+    "linda-mcmahon",
+    "office-of-government-ethics"
+   ],
+   "source_url": "https://www.warren.senate.gov/wp-content/uploads/2026/09/Letter-to-Sec.-Kennedy-re-Change-to-Ethics-Agreement.pdf"
+  },
+  {
+   "title": "Loeffler's SpaceX IPO gains and Groq investment",
+   "why_connected": "Reuters (July 2026, relayed) reported SpaceX IPO gains for Loeffler; the fetch was blocked.",
+   "entities": [
+    "kelly-loeffler",
+    "spacex",
+    "groq"
+   ],
+   "source_url": "https://tribune.com.pk/story/2618782/spacex-ipo-earns-millions-for-us-small-business-administration-head-kelly-loeffler"
+  },
+  {
+   "title": "Scope of Patel's 4 March 2025 Qatar waiver and Public Citizen's request to rescind it",
+   "why_connected": "A waiver for an unnamed Qatar-related matter was reported (Responsible Statecraft, Jewish Insider); the matter and any OGE response are not public.",
+   "entities": [
+    "kash-patel",
+    "qatar",
+    "fbi"
+   ],
+   "source_url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/730D7A12BBF6654785258C240032196E/$FILE/Patel%2C%20Kashyap%20%20finalEA.pdf"
+  },
+  {
+   "title": "Oz's divestiture compliance certification",
+   "why_connected": "Pledges are documented; no certification or later report was located.",
+   "entities": [
+    "mehmet-oz",
+    "iherb"
+   ],
+   "source_url": "https://npr.org/sections/shots-health-news/2025/02/20/nx-s1-5304170/dr-oz-bhattacharya-cms-nih-ethics-disclosures"
+  }
+ ],
+ "audit": {
+  "checked": [
+   "Patel ethics agreement section 7 (retained Elite Depot RSUs vesting to 1 Nov 2025; 'remote' determination by 'the agency'), Qatar covered relationship and Trump Media resignation",
+   "Kennedy fee assignment: Warren, Wyden, Blumenthal and Alsobrooks letter of 24 Sept 2026 quoting the HHS letter of 25 Aug 2026 ('On February 11, 2025... irrevocably assigned ... directly to Wisner Baum'); interim 208(b)(1) waiver of 18 Feb 2025 (under $380,000, four Park Holdings funds)",
+   "Late-trade counts (McMahon 153/156, Isaacman 128/147, Burgum 106/153) against Open Cabinet's late-filings page and what they measure",
+   "Isaacman ethics agreement (keeps Shift4, voting cut to about 25%); Bisignano's sales dates against the senators' letter",
+   "OGE timeline: Huitema removal notice 10 Feb 2025; 18 May 2026 senators' letter; OGE release on Chamberlain and Sonderling (23 June 2026); White House waiver list (six waivers)",
+   "Storch v. Hegseth (24 Sept 2025 ruling) and later docket entries; EO 13989 revocation"
+  ],
+  "result": "corrected",
+  "changes": [
+   "Patel: the 'remote' determination is attributed to 'the agency', as the ethics agreement says, and quoted, rather than to 'the Justice Department'.",
+   "Patel: the earlier text said it was not public whether he received the Qatar authorization his agreement anticipated. A 4 Mar 2025 waiver for an unnamed Qatar-related matter is reported (Responsible Statecraft, Jewish Insider; already in C73), and Public Citizen asked OGE to rescind it. Corrected.",
+   "Bisignano: sales dated 16 May and 1 July 2025 (two sales, per the senators' letter, now read in full) rather than 'between' those dates; still inside the 120-day window.",
+   "Late-trade counts: added what they measure (filer's own 'notification received over 30 days ago' answers, tallied across all 278-Ts by Open Cabinet) and that the $200 fee is per report and waivable.",
+   "Boulos: removed as a sub-claim and table row because nothing about him is documented; stated plainly in the no-finding point.",
+   "OGE: the 18 May 2026 letter is quoted and its addressee (Susie Wiles) given; Chamberlain still unconfirmed as of 17 Nov 2026.",
+   "Inspectors general: added the post-Slaughter docket activity in Storch (13 July 2026 status report; 20 July 2026 scheduling order); no merits ruling found.",
+   "Kennedy, Isaacman, Musk, Wright, waiver list and EO 13989 rows upheld."
+  ],
+  "new_sources": [
+   {
+    "title": "Letter from Sens. Wyden and Warren to Fiserv CEO Mike Lyons",
+    "publisher": "Senate Finance Committee (minority)",
+    "url": "https://www.finance.senate.gov/imo/media/doc/wyden_warren_fiserv_letter.pdf",
+    "date": "2025-11-06"
+   },
+   {
+    "title": "Storch v. Hegseth docket listing",
+    "publisher": "Civil Rights Litigation Clearinghouse",
+    "url": "https://clearinghouse.net/case/46107/",
+    "date": "2026-11-16"
+   }
+  ]
+ }
+}

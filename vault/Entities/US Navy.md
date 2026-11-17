@@ -26,4 +26,4 @@ ShipOS programme with Palantir
 
 ### Commercial (1)
 
-- [[US Navy]] *ShipOS, up to $448M* [[Palantir Technologies (PLTR)]] · 2025-12-09 · $448M · [[C69 Master Timeline Money Events & Government Actions|C69]]
+- [[US Navy]] *ShipOS, up to $448M* [[Palantir]] · 2025-12-09 · $448M · [[C69 Master Timeline Money Events & Government Actions|C69]]

@@ -32,7 +32,7 @@ Palantir co-founder; JD Vance's patron
 ### Ownership (2)
 
 - [[Peter Thiel]] *co-founder of* [[Founders Fund]] · [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards|C81]]
-- [[Peter Thiel]] *co-founder* [[Palantir Technologies (PLTR)]] · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
+- [[Peter Thiel]] *co-founder* [[Palantir]] · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 
 ### Political (1)
 

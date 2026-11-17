@@ -44,7 +44,10 @@ Each of the five leads matches real, dated reporting or official documents.
 - The claim implies Blumenthal's loan probe targets the Commerce Secretary. The 8 Oct 2026 letter was addressed to Cantor chairman Brandon Lutnick. Warren and Wyden wrote to Howard Lutnick and Tether directly on 29 Apr 2026.
 - 'Crypto council' is the President's Working Group on Digital Asset Markets (EO 14178). Commerce's seat is set by the order, not 'possible'.
 - Tether's role in Cantor's $2B bitcoin-lending business is documented only as talks (Bloomberg, Nov 2024), not as a confirmed funder.
-- No tariff-refund trade by Cantor is documented. Wired reported a sales pitch and an email claiming a ~$10M trade, and Cantor says none was executed.
+- No tariff-refund trade by Cantor is documented. Wired reported a sales pitch and a Cantor letter claiming a ~$10M trade, and Cantor says none was executed.
+- 2026-11-17 (holdings audit, C104/C105): An earlier audit note said Raskin cites unpublished internal documents for about $10M of trades. The record shows: his 27 Feb 2026 letter cites the Cantor letter reviewed by Wired ('already put a trade through representing about ~$10 million of IEEPA Rights'), and Cantor's later explanation is that a salesman 'erroneously' believed the trade would be approved.
+- 2026-11-17 (holdings audit, C104/C105): The $250M and $192M figures in Blumenthal's letter come from Lutnick's 2025 annual OGE report as reported by CNBC (30 Sep 2026, cited in the letter) and the WSJ, which describe the $192M as a tax distribution under his ethics agreement. The report is not yet posted by OGE.
+- 2026-11-17 (holdings audit, C104/C105): Context for Commerce's 'fully complied' statement: a limited interim 208(b)(1) waiver (8 Jul 2025) authorised his participation in broad policy matters affecting Cantor, BGC and Newmark until the 6 Oct 2025 closing.
 
 ## In More Detail
 
@@ -65,6 +68,7 @@ Each of the five leads matches real, dated reporting or official documents.
 
 - [[C60 Government Equity Stakes in Critical-Minerals Companies]] · Mostly accurate
 - [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department]] · Mostly accurate
+- [[C104 Howard Lutnick Holdings, Divestiture & Recusals]] · Mostly accurate
 
 ## Sub-Claims
 
@@ -106,12 +110,12 @@ Each of the five leads matches real, dated reporting or official documents.
 - The 8 Oct 2026 letter went to Cantor chairman Brandon Lutnick, not to the Commerce Secretary.
 - It makes 13 requests with a 23 Oct deadline.
 - Coverage says these include the terms of Howard Lutnick's exit, any Tether loan or financial support that helped move the stake to his children, and the custody and reserve arrangements.
-- It also cites more than $250M paid to Howard Lutnick, including a $192M Cantor distribution, and Blumenthal's ~$10B estimate for Cantor's Tether position.
+- It also cites more than $250M paid to Howard Lutnick, including a $192M Cantor distribution (the letter's footnote cites CNBC's 30 Sep 2026 report on his 2025 annual OGE report; WSJ and CNBC describe the $192M as a tax distribution under his ethics agreement, and the form itself is not posted by OGE), and Blumenthal's ~$10B estimate for Cantor's Tether position.
 - Summaries describe the loan as financing for 'his children'.
 - The 'Dynasty Trust A' framing comes from Bloomberg (18 Mar 2026) and the Warren/Wyden letters (29 Apr 2026), covered in C35.
 - No public reply from Cantor was found.
 - Amounts: more than $250M; $192M; ~$10B
-- Dates: 8 Oct 2026; 23 Oct; 18 Mar 2026; 29 Apr 2026
+- Dates: 8 Oct 2026; 23 Oct; 30 Sep 2026; 18 Mar 2026; 29 Apr 2026
 - Sources: [9](https://www.hsgac.senate.gov/wp-content/uploads/2026-10-08-Letter-from-Sen-Blumenthal-to-Chairman-Lutnick.pdf) [10](https://decrypt.co/380619?amp=1) [11](https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties) [14](https://www.bloomberg.com/news/features/2026-03-18/tether-made-loan-to-lutnick-s-children-as-they-bought-his-assets)
 
 ### 4. Lutnick (possibly) sits on the White House crypto council.
@@ -125,7 +129,9 @@ Each of the five leads matches real, dated reporting or official documents.
 - Sludge, Salon and Accountable.US flagged the Tether conflict in Feb 2025 and urged recusal.
 - Lutnick declined to commit to recusing at confirmation, and no recusal from the working group was found.
 - His actual involvement in the group's work is not documented.
-- Dates: 23 Jan 2025; 30 Jul 2025; Feb 2025
+- Separately, a limited interim 18 U.S.C.
+- 208(b)(1) waiver from White House Counsel (8 Jul 2025) let him take part in particular matters of general applicability affecting Cantor, BGC and Newmark until his Cantor sale closed on 6 Oct 2025; it excluded specific-party matters involving the firms and meetings with their representatives, and does not mention Tether.
+- Dates: 23 Jan 2025; 30 Jul 2025; Feb 2025; 8 Jul 2025; 6 Oct 2025
 - Sources: [15](https://readsludge.com/2025/02/04/lutnick-could-sit-on-crypto-council-despite-conflicts/) [16](https://www.salon.com/2025/02/06/howard-lutnick-commerce-pick-is-on-crypto-task-force-despite-conflicts) [17](https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-the-presidents-working-group-on-digital-asset-markets-releases-recommendations-to-strengthen-american-leadership-in-digital-financial-technology/?query-11-page=1) [18](https://www.theblock.co/news/regulation/2025-07-30-white-house-group-lays-out-roadmap-for-golden-age-of-digital-assets-in-fact-sheet-with-no-mention-of-bitcoin-reserve-364860)
 
 ### 5. Cantor runs a ~$2B bitcoin-lending programme with Tether.
@@ -146,7 +152,7 @@ Each of the five leads matches real, dated reporting or official documents.
 **Partly accurate**
 
 - In July 2025 Wired reported that Cantor salespeople offered to buy importers' IEEPA tariff-refund rights at 20-30% of duties paid.
-- One email claimed a ~$10M trade had 'already' been done.
+- A Cantor letter reviewed by Wired said the firm had 'already put a trade through representing about ~$10 million of IEEPA Rights'.
 - After the Supreme Court's February 2026 tariff ruling, Rep. Raskin (House Judiciary ranking member) wrote to Howard and Brandon Lutnick on 27 Feb 2026 asking for records and raised insider-information concerns.
 - Cantor says it 'has never executed any transactions or taken any position on tariffs refund claims': salespeople explored the idea and the firm dropped it.
 - Semafor reported Cantor did not profit from the ruling.
@@ -154,9 +160,9 @@ Each of the five leads matches real, dated reporting or official documents.
 - A completed trade or any profit is not.
 - Tariffs are set by the President, USTR and Commerce, so the conflict concern is plausible but unproven.
 - Audit note: Sens. Wyden and Warren had already written to Brandon Lutnick on 14 Aug 2025 asking how many refund agreements Cantor drafted or sold.
-- Raskin's letter cites internal documents claiming about $10M in trades.
-- Those documents have not been published, so Cantor's 'never executed' denial is contested but not disproved.
-- Amounts: 20-30%; ~$10M; about $10M
+- Raskin's letter (read in full) bases the ~$10M figure on that same Cantor letter reviewed by Wired, not on separate internal documents, and notes Cantor's later explanation that a salesman 'erroneously' believed the firm would approve the trade.
+- Cantor's 'never executed' denial is contested but not disproved.
+- Amounts: 20-30%; ~$10 million; ~$10M
 - Dates: July 2025; February 2026; 27 Feb 2026; 14 Aug 2025
 - Sources: [24](https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-demands-records-from-secretary-lutnick-son-over-appearance-of-tariff-profiteering) [25](https://www.notus.org/congress/jamie-raskin-howard-lutnick-congress-house-investigation-tariffs) [26](https://fortune.com/2026/03/07/winners-supreme-court-tariff-ruling-hedge-funds-creating-100-billion-secondary-market-refunds-brandon-howard-lutnick/) [27](https://www.semafor.com/article/02/20/2026/cantor-fitzgerald-howard-lutnicks-old-firm-did-not-profit-from-supreme-court-tariff-ruling) [29](https://www.finance.senate.gov/ranking-members-news/wyden-warren-probe-lutnick-firms-potential-conflicts-of-interest-related-to-massive-tariff-bets)
 
@@ -262,7 +268,7 @@ Each of the five leads matches real, dated reporting or official documents.
 
 ### Advisory (2)
 
-- [[Howard Lutnick]] *member (as Commerce Secretary)* [[President's Working Group on Digital Asset Markets]] · 2025-01 · [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business|C50]]
+- [[Howard Lutnick]] *member (as Commerce Secretary)* [[President's Working Group on Digital Asset Markets]] · 2025-01 · [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business|C50]] [[C104 Howard Lutnick Holdings, Divestiture & Recusals|C104]]
 - [[David Sacks]] *chairs* [[President's Working Group on Digital Asset Markets]] · [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business|C50]]
 
 ### Political (5)
@@ -315,7 +321,7 @@ Each of the five leads matches real, dated reporting or official documents.
   - Examines exposure of Tether's US banking partners, including Cantor, after the PSI Iran report.
   - [[Tether]] [[Cantor Fitzgerald]] [[Iran]] · [Source](https://www.americanbanker.com/news/why-tethers-iran-problem-is-a-bank-partner-problem)
 
-## Sources (30)
+## Sources (32)
 
 1. [Scoop: Lutnick stalled Trump's Nvidia-China chip curbs after Oval talks](https://axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls) (Axios, 2026-11-11)
 2. [Scoop: Bessent confronts Lutnick in Situation Room over China inaction](https://axios.com/2026/11/11/bessent-lutnick-megaspeed-nvidia-china-chips) (Axios, 2026-11-11)
@@ -347,6 +353,8 @@ Each of the five leads matches real, dated reporting or official documents.
 28. [Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits](https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick) (Decrypt, 2026-10)
 29. [Wyden, Warren probe Lutnick firm's potential conflicts of interest related to massive tariff bets](https://www.finance.senate.gov/ranking-members-news/wyden-warren-probe-lutnick-firms-potential-conflicts-of-interest-related-to-massive-tariff-bets) (Senate Finance Committee (ranking member), 2025-08-14)
 30. [Maple Finance, FalconX secure Bitcoin-backed loans from Cantor Fitzgerald](https://www.finanzen.net/nachricht/devisen/maple-finance-falconx-secure-bitcoin-backed-loans-from-cantor-fitzgerald-report-14518733) (finanzen.net (Bloomberg report), 2025-05)
+31. [Letter from Rep. Raskin to Howard and Brandon Lutnick on tariff-refund trading (27 Feb 2026)](https://static.notus.org/82/43/d57e79c84053a225162295bdb93c/2026-02-27-raskin-to-lutnick-commerce-lutnick-cantorfitzgerald-re-tariffs.pdf) (House Judiciary Committee Democrats (via NOTUS), 2026-02-27)
+32. [Limited Waiver Pursuant to 18 U.S.C. 208(b)(1), Howard W. Lutnick (8 Jul 2025)](https://www.whitehouse.gov/wp-content/uploads/2025/07/Howard-W.-Lutnick-Limited-Waiver-Pursuant-to-18-U.S.C.-208b1.pdf) (The White House, 2025-07-08)
 
 ## Full Report
 
@@ -394,7 +402,7 @@ The 8 Oct 2026 letter was addressed to Cantor chairman Brandon Lutnick, not to t
 - Cantor's Tether services and custody arrangements.
 - The terms of Howard Lutnick's exit, and any Tether loan or support that helped move the stake to his children.
 
-The letter also cites more than $250M received by Howard Lutnick, including a $192M Cantor distribution, and an estimated ~$10B value for Cantor's Tether position. [9][10][11]
+The letter also cites more than $250M received by Howard Lutnick, including a $192M Cantor distribution, and an estimated ~$10B value for Cantor's Tether position. [9][10][11] The letter's footnote sources the $250M and $192M to CNBC's 30 Sep 2026 report on his 2025 annual OGE report. The WSJ and CNBC describe the $192M as a tax distribution under his ethics agreement. OGE has not yet posted that report.
 
 Summaries say "children" rather than naming the trust. The "Dynasty Trust A" detail comes from Bloomberg (18 Mar 2026) and the Warren/Wyden letters of 29 Apr 2026 (see C35). [14] No reply from Cantor was found.
 
@@ -402,6 +410,8 @@ Summaries say "children" rather than naming the trust. The "Dynasty Trust A" det
 EO 14178 (23 Jan 2025) created the President's Working Group on Digital Asset Markets, chaired by David Sacks. It names the Commerce Secretary as a member, so the seat is not merely "possible". Lutnick is listed in coverage of the group's 30 Jul 2025 report. [15][16][17][18]
 
 Sludge, Salon and Accountable.US flagged the Tether conflict in Feb 2025. Lutnick declined at confirmation to commit to recusing, and no recusal from the group was found. His actual role in the group's work is not documented.
+
+Separately, White House Counsel issued a limited interim 18 U.S.C. 208(b)(1) waiver on 8 Jul 2025. It let him take part in broad policy matters affecting Cantor, BGC and Newmark until his Cantor sale closed on 6 Oct 2025. It excluded specific-party matters involving the firms and meetings with their representatives, and it does not mention Tether.
 
 #### 5. Cantor's ~$2B bitcoin-lending programme "with Tether": partly accurate
 - Jul 2024: Cantor announced the $2B programme, with further $2B tranches planned. [21]
@@ -411,7 +421,7 @@ Sludge, Salon and Accountable.US flagged the Tether conflict in Feb 2025. Lutnic
 None of the launch reports found confirms that Tether funded the programme.
 
 #### 6. Lutnick's sons' Cantor deals that depend on tariff policy (refund-claims trading): partly accurate
-In July 2025 Wired reported that Cantor salespeople offered to buy importers' IEEPA tariff-refund rights at 20-30% of duties paid. One email claimed a ~$10M trade had "already" been done.
+In July 2025 Wired reported that Cantor salespeople offered to buy importers' IEEPA tariff-refund rights at 20-30% of duties paid. A Cantor letter reviewed by Wired said the firm had "already put a trade through representing about ~$10 million of IEEPA Rights". Raskin's letter, read in full, relies on that same Cantor letter. It also notes Cantor's later explanation that a salesman "erroneously" believed the firm would approve the trade.
 
 After the Supreme Court's February 2026 ruling against the IEEPA tariffs, Rep. Raskin wrote to Howard and Brandon Lutnick on 27 Feb 2026 asking for records. [24][25]
 
@@ -491,3 +501,12 @@ New sources:
 - Decrypt, "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits", 2026-10. https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick
 - Senate Finance Committee (ranking member), "Wyden, Warren probe Lutnick firm's potential conflicts of interest related to massive tariff bets", 2025-08-14. https://www.finance.senate.gov/ranking-members-news/wyden-warren-probe-lutnick-firms-potential-conflicts-of-interest-related-to-massive-tariff-bets
 - finanzen.net (Bloomberg report), "Maple Finance, FalconX secure Bitcoin-backed loans from Cantor Fitzgerald", 2025-05. https://www.finanzen.net/nachricht/devisen/maple-finance-falconx-secure-bitcoin-backed-loans-from-cantor-fitzgerald-report-14518733
+
+### Audit addendum (17 Nov 2026, holdings check)
+
+Result: **corrected** (verdict unchanged).
+
+- **The ~$10M trade.** The earlier audit note said Raskin relied on unpublished internal documents. His 27 Feb 2026 letter (read in full) cites the Cantor letter reviewed by Wired instead. The denial remains contested but not disproved.
+- **The $250M and $192M figures.** Blumenthal's letter sources them to CNBC's report on Lutnick's 2025 annual OGE report. That report is not yet posted by OGE.
+- **The waiver.** The limited interim waiver of 8 July 2025 has been added as context.
+- **Sources.** Raskin letter: https://static.notus.org/82/43/d57e79c84053a225162295bdb93c/2026-02-27-raskin-to-lutnick-commerce-lutnick-cantorfitzgerald-re-tariffs.pdf ; Blumenthal letter: https://www.hsgac.senate.gov/wp-content/uploads/2026-10-08-Letter-from-Sen-Blumenthal-to-Chairman-Lutnick.pdf ; waiver: https://www.whitehouse.gov/wp-content/uploads/2025/07/Howard-W.-Lutnick-Limited-Waiver-Pursuant-to-18-U.S.C.-208b1.pdf

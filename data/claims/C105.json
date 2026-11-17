@@ -1,0 +1,1003 @@
+{
+ "id": "C105",
+ "title": "Steve Witkoff: Holdings, Divestiture & Overlapping Dealings",
+ "verdict": "mostly-accurate",
+ "confidence": "medium",
+ "summary": "Filings document most of the record. Witkoff served as State Department envoy from January to June 2025 and has been a full White House appointee since 30 June 2025. His SGE status in the first period is reported but not documented. His new-entrant 278e (signed 13 Aug 2025, certified only on 12 Dec 2025 after senators' letters, and corrected to add the State post) and his 2025 annual report (signed 29 Jul 2026, uncertified as published) show a $120M sale of a Witkoff Group interest (buyer, date and share undisclosed) while he keeps a stake worth over $50M, and both list his WLF and SC Financial interests inside Witkoff Holdings LLC, a broad holding company that paid him $106.9M in 2025 ($68.9M cash, $38.1M crypto; the form does not attribute any of it to WLF). The annual report covers calendar 2025: it shows he still held the WLF interest after the White House said in September 2025 that he was 'still in the process of divesting', and no disposal during 2025, but it cannot show his position when the White House said in February and September 2026 that he had divested. The White House says he has fully divested from WLF and does not take part in matters affecting his interests, but no certificate of divestiture, ethics agreement, waiver, recusal or recipient has been published. His UAE, Qatar, Russia and Pakistan work overlaps in time with family and WLF dealings with counterparts there (Aryam, MGX, Access Industries, Pakistan's government); no Saudi or Israeli dealing was found. State's inspector general referred one request to investigators in December 2025; no authority has made any finding.",
+ "sub_claims": [
+  {
+   "statement": "Witkoff's employment status: special envoy from January 2025, a full appointee from mid-2025, and for a time a special government employee.",
+   "verdict": "mostly-accurate",
+   "finding": "Grade: appointments documented; SGE status unverified. Trump named him Special Envoy to the Middle East on 12 November 2024. His new-entrant OGE Form 278e, as certified on 12 December 2025 (read in full), lists 'Special Envoy to the Middle East, Department of State (1/2025 - 6/2025)' and his current post, 'Assistant to the President and Special Envoy for Peace Missions' at the White House, with an appointment date of 30 June 2025 and appointment type 'Non-Career'. That makes him a regular (full) political appointee from 30 June 2025, subject to 18 U.S.C. 208 and the standards of conduct. He was sworn in at the Oval Office on 6 May 2025 (White House post cited in the Warren-Murphy letter). The form does not say whether the State Department role was as a special government employee (SGE), and the White House has said he takes no salary. That he was an SGE (a status capped at 130 days of service in 365) rests on watchdog research (Accountable.us, 22 Sep 2025, not readable here) and secondary summaries; CREW wrote in July 2025 that it was unclear in what capacity State employed him. No official document stating SGE status was found. A span of more than 130 calendar days would not by itself show the cap was exceeded, since only days worked count.",
+   "sources": [
+    "https://www.whitehouse.gov/wp-content/uploads/2025/12/Witkoff-Steven.pdf",
+    "https://www.warren.senate.gov/imo/media/doc/warren_murphy_letter_to_white_house_oge_on_witkoff_financial_disclosures.pdf",
+    "https://www.citizensforethics.org/news/analysis/if-white-house-employees-are-working-for-free-what-are-they-getting-instead/",
+    "https://accountable.us/2025-09-22-research-on-steve-witkoff-special-government-employee-status"
+   ]
+  },
+  {
+   "statement": "Witkoff filed his public financial disclosure late, months after he began working.",
+   "verdict": "partly-accurate",
+   "finding": "Grade: filing dates documented; lateness depends on an undetermined legal question. (1) Filings (read in full): the new-entrant report was e-signed on 13 August 2025 with the note 'Filer received a 30 day filing extension'; it was published by the White House around 13 September 2025 (Bisnow: 'released Saturday'). As first published it listed no other federal position in the preceding 12 months and carried no ethics official's signature. On 12 December 2025 the White House Designated Agency Ethics Official, Scott F. Gast, signed it as reviewer and certifying official ('in compliance with applicable laws and regulations'), and the revised version adds the State Department post from January to June 2025. His annual report (labelled 2026, covering 2025) was e-signed on 29 July 2026 with a 75-day extension and, as published on whitehouse.gov and read on 17 Nov 2026, carries no reviewer signature. Measured from the 30 June 2025 appointment, the new-entrant report was within the 30-day deadline plus extension. (2) The senators' point: Warren and Murphy (letter of 17 Nov 2025) wrote that he 'appears to have worked for months before disclosing his financial interests to the public', that the 60-day review deadline passed in October 2025, and that the form wrongly said he held no other federal post. (3)/(4) Whether a public report was legally due for the State period depends on his status and pay then (an unpaid SGE may file only a confidential report); no public or confidential State-period report was found, and no authority has found a filing violation. The certified version corrected the omission the senators identified. No late-filing fee is recorded on either form.",
+   "sources": [
+    "https://www.whitehouse.gov/wp-content/uploads/2025/09/Witkoff-Steven.pdf",
+    "https://www.whitehouse.gov/wp-content/uploads/2025/12/Witkoff-Steven.pdf",
+    "https://www.whitehouse.gov/wp-content/uploads/2026/09/Witkoff-Steven-2026-Annual.pdf",
+    "https://www.whitehouse.gov/disclosures/",
+    "https://www.warren.senate.gov/imo/media/doc/warren_murphy_letter_to_white_house_oge_on_witkoff_financial_disclosures.pdf",
+    "https://www.murphy.senate.gov/newsroom/press-releases/murphy-warren-continue-ethics-investigation-related-to-trumps-envoy-to-the-middle-east",
+    "https://www.bisnow.com/national/news/commercial-real-estate/steve-witkoff-sells-120m-stake-in-his-real-estate-firm-130993"
+   ]
+  },
+  {
+   "statement": "Witkoff sold a $120 million interest in the Witkoff Group as part of divestiture; the buyer is undisclosed.",
+   "verdict": "confirmed",
+   "finding": "Grade: documented (both 278e reports, read in full). Part 2 lists 'The Witkoff Group LLC (real estate management company)', value 'Over $50,000,000', income $120,000,000 described as 'Proceeds from the sale of an interest in the company as part of divestiture planning'. The same line appears in the new-entrant report (period from January 2024 to August 2025) and the 2025 annual report, so the sale fell between 1 January and 13 August 2025; neither form names the buyer, the date or the share sold, and Part 7 transactions were not required on the new-entrant report. He still held a Witkoff Group interest valued over $50M. Endnote 1 (certified Dec 2025) says he 'is beginning the process of resigning from his positions as managing member for the entities listed in Part 1' (77 entries, which also include corporate officer, director, trustee and member roles), will become a non-managing member and 'will only receive passive investment income'; the July 2026 annual says he is still 'in the process of resigning ... in collaboration with relevant partners and lenders', and 76 of the 77 entries still read 'Present' (the exception is a Bally's Corporation consultancy that ended in 9/2023). He told Bloomberg in March 2025 that he was divesting, and his son Alex runs the firm (Bisnow). Popular Information speculates the buyer could be a family member; that is speculation, and no source identifies the buyer.",
+   "sources": [
+    "https://www.whitehouse.gov/wp-content/uploads/2025/09/Witkoff-Steven.pdf",
+    "https://www.whitehouse.gov/wp-content/uploads/2025/12/Witkoff-Steven.pdf",
+    "https://www.whitehouse.gov/wp-content/uploads/2026/09/Witkoff-Steven-2026-Annual.pdf",
+    "https://www.bisnow.com/news/national/commercial-real-estate/trumps-middle-east-envoy-divesting-from-real-estate-firm-he-founded-128498",
+    "https://www.bisnow.com/national/news/commercial-real-estate/steve-witkoff-sells-120m-stake-in-his-real-estate-firm-130993",
+    "https://popular.info/p/top-trump-negotiator-retains-partnership"
+   ]
+  },
+  {
+   "statement": "Witkoff divested his World Liberty Financial interests, transferring them to his sons.",
+   "verdict": "unverified",
+   "finding": "Grade: holdings documented; divestiture and transfer unverified. Both 278e reports (read in full) list, under 'Witkoff Holdings LLC' (value over $50M), 'WC Digital Fi LLC' holding 'World Liberty Financial (cryptocurrency)' and 'WC Digital SC LLC' holding 'SC Financial Technologies LLC (stablecoin)'. Witkoff Holdings reported distributions of $34,363,535 in the new-entrant period (calendar 2024 to August 2025) and $106,938,819 in the 2025 annual, which an endnote splits into '$68,875,000 in cash distributions and $38,063,819 in cryptocurrency'. Witkoff Holdings also holds real-estate and operating interests (Banyan Cay, Ocean Terrace, golf and hotel management companies), so the filing does not show how much of either sum came from WLF. Statements: WLF (Zak Folkman, 23 May 2025) said he was 'in the process of fully divesting'; the White House said in Sept 2025 he was 'still in the process of divesting'; White House counsel David Warrington told CNN on 1-2 Feb 2026 that he 'has also divested from World Liberty Financial, notwithstanding his ability and willingness to recuse'; spokeswoman Anna Kelly told ABC on 9 Sep 2026 that he had 'fully divested'. What the annual report can and cannot show: it is the 2026 annual report ('Report Year: 2026'), whose reporting period is calendar 2025; it was signed on 29 July 2026 but describes 2025, not the position on the signing date. Part 6 line 35, 'Witkoff Holdings LLC' (value 'Over $50,000,000', 'Distributions $106,938,819'), lists underlying holdings including '35.8 WC Digital Fi LLC', '35.8.1 World Liberty Financial (cryptocurrency)', '35.9 WC Digital SC LLC' and '35.9.1 SC Financial Technologies LLC (stablecoin)'. These underlying lines carry no value or income of their own. The form's instructions say Part 6 lists each asset that 'ended the reporting period with a value greater than $1,000' or from which more than $200 in income 'was received during the reporting period', so the listing shows he held the interest through Witkoff Holdings during 2025 and is consistent with, but does not by itself prove, holding it on 31 December 2025. Part 7 (transactions) lists only the Reddit sale; whether a disposal of an interest held inside a private holding company would have to appear there is not settled by the form. Part 1 still lists him as managing member of Witkoff Holdings LLC from 5/2022 to 'Present'. Conclusion: the filings show he held the WLF interest after the May 2025 'in the process' statement and after the September 2025 'still in the process' statement, and record no disposal in 2025. They neither confirm nor contradict the White House statements of February and September 2026, which postdate the reporting period; a 2026 disposal would be expected on the next annual report (covering 2026) and, if it was a reportable securities transaction, on a 278-T, and none has been published. The statement that he has divested therefore rests on the White House's word, without a document. No certificate of divestiture, 278-T, buyer, recipient, price or date for the WLF interest was found. The claim that he was transferring the holdings to his sons comes from the Meeks-Amo-Garcia release (Jan 2026) and an expert quoted by Bloomberg (via Bisnow); no filing shows a transfer.",
+   "sources": [
+    "https://www.whitehouse.gov/wp-content/uploads/2025/09/Witkoff-Steven.pdf",
+    "https://www.whitehouse.gov/wp-content/uploads/2026/09/Witkoff-Steven-2026-Annual.pdf",
+    "https://krdo.com/politics/cnn-us-politics/2026/02/02/uae-linked-firm-bought-major-stake-in-trump-family-crypto-company-wall-street-journal-reports/",
+    "https://abcnews.go.com/Politics/steve-witkoff-earned-107m-trump-affiliated-crypto-venture/story?id=136307300",
+    "https://www.bloomberg.com/news/articles/2025-09-17/steve-witkoff-is-still-holding-trump-linked-crypto-assets",
+    "https://www.slotkin.senate.gov/wp-content/uploads/2025/10/2025.10.22-Sen.-Slotkin-Colleagues-Letter-to-Witkoff-on-WLF-Assets.pdf",
+    "https://democrats-foreignaffairs.house.gov/2026/1/meeks-amo-garcia-demand-investigation-into-trump-despot-whisperer-witkoff-s-sketchy-business-dealings",
+    "https://www.bisnow.com/news/national/commercial-real-estate/trumps-middle-east-envoy-divesting-from-real-estate-firm-he-founded-128498"
+   ]
+  },
+  {
+   "statement": "No certificate of divestiture, ethics agreement, waiver or written recusal for Witkoff has been published.",
+   "verdict": "confirmed",
+   "finding": "Grade: documented absence in the places checked. The White House disclosures page lists only his new-entrant and 2026 annual reports, with no ethics agreement, waiver or periodic transaction report under his name (read 17 Nov 2026); the senators' letters of 22 Oct and 17 Nov 2025 asked for any waiver under 18 U.S.C. 208(b)(1) or (b)(3), any 2635.502(d) authorisation, written recusals and screening arrangements, and no reply was found. By contrast David Sacks's 208(b)(1) waiver was published (cited in the Warren-Slotkin IG letter). Rules: 18 U.S.C. 208 bars personal and substantial participation in a particular matter affecting his own financial interest (and his spouse's or minor children's, or an organisation in which he is a general partner or officer), unless waived; adult sons' interests are not imputed under 208, but 5 C.F.R. 2635.502 asks an employee to consider impartiality where a relative with whom he has a close personal relationship is a party or represents a party to a specific-party matter. The White House position is that he 'has not and does not participate in any official matters that could impact his financial interests' (Warrington, Feb 2026), which describes recusal without a published document. The White House ethics official's certification of 12 Dec 2025 found the new-entrant report in compliance 'on the basis of information contained in this report'. Note: his new-entrant report listed Reddit Class A shares ($1,000,001-$5,000,000), and his annual report lists their sale ('Reddit Inc.-CL A [RDDT] [sold 10/1/2025]'; Part 7: 'Sale 10/01/2025 $1,000,001 - $5,000,000'), made while he was a public filer. A 278-T is due within 30 days of notification and no later than 45 days after a transaction (here about 15 Nov 2025). The White House page lists 278-Ts for more than 20 other staff but none for him (checked 17 Nov 2026). Reports can also be obtained on request, so whether one was filed but not posted is not known, and no authority has found a filing lapse.",
+   "sources": [
+    "https://www.whitehouse.gov/disclosures/",
+    "https://www.whitehouse.gov/wp-content/uploads/2025/12/Witkoff-Steven.pdf",
+    "https://www.whitehouse.gov/wp-content/uploads/2026/09/Witkoff-Steven-2026-Annual.pdf",
+    "https://www.slotkin.senate.gov/wp-content/uploads/2025/10/2025.10.22-Sen.-Slotkin-Colleagues-Letter-to-Witkoff-on-WLF-Assets.pdf",
+    "https://www.warren.senate.gov/imo/media/doc/warren_murphy_letter_to_white_house_oge_on_witkoff_financial_disclosures.pdf",
+    "https://www.banking.senate.gov/imo/media/doc/warren_slotkin_letter_requesting_oig_investigation_into_uae_chips_corruption.pdf",
+    "https://krdo.com/politics/cnn-us-politics/2026/02/02/uae-linked-firm-bought-major-stake-in-trump-family-crypto-company-wall-street-journal-reports/"
+   ]
+  },
+  {
+   "statement": "His other disclosed holdings include ongoing partnerships with counterparts linked to the countries he deals with.",
+   "verdict": "mostly-accurate",
+   "finding": "Grade: holdings documented in the filing; the identity of partners comes from trade press (carried from C53, C73, C76). The 278e lists 'WG 76 11th LLC' (over $50M) holding '76 Eleventh Avenue Property Owner LLC' (the One High Line condo owner, developed with Len Blavatnik's Access Industries since December 2021), the Banyan Cay entities in West Palm Beach (co-owned with Access), Ocean Terrace entities in Miami Beach (co-developed with Alex Blavatnik, per Popular Information's correction), 'WG 36 CPS Internal LLC' with $3,350,000 of 'sale proceeds and distribution' in the new-entrant period (36 Central Park South is the Park Lane Hotel address, sold to the Qatar Investment Authority in August 2023 by a Witkoff-Mubadala joint venture; the filing does not name the hotel, so the link is our inference), a Bally's Corporation consultancy (12/2022-9/2023 in the certified version), two Cayman Islands boat companies, and liabilities including a 2025 JPMorgan aircraft loan of $25M-$50M. The 2025 annual shows a Reddit sale on 1 Oct 2025 with capital gains of $1M-$5M. Holding these assets is not itself a violation.",
+   "sources": [
+    "https://www.whitehouse.gov/wp-content/uploads/2025/09/Witkoff-Steven.pdf",
+    "https://www.whitehouse.gov/wp-content/uploads/2025/12/Witkoff-Steven.pdf",
+    "https://www.whitehouse.gov/wp-content/uploads/2026/09/Witkoff-Steven-2026-Annual.pdf",
+    "https://popular.info/p/top-trump-negotiator-retains-partnership",
+    "https://therealdeal.com/new-york/2021/12/23/witkoff-and-access-industries-buy-hfzs-languishing-xi-condo-project",
+    "https://therealdeal.com/new-york/2026/01/30/one-high-line-developers-land-525m-loan",
+    "https://commercialobserver.com/2023/08/qatar-sovereign-fund-acquires-park-lane-hotel-for-623m/"
+   ]
+  },
+  {
+   "statement": "UAE: Witkoff's envoy work with Abu Dhabi overlapped in time with WLF and family dealings with Sheikh Tahnoon's entities.",
+   "verdict": "confirmed",
+   "finding": "Grade: each event documented; the overlap is in time only and no authority has found any link. Family and WLF side: Aryam Investment 1, backed by Tahnoon bin Zayed, agreed about four days before the inauguration (January 2025) to buy 49% of WLF for $500M, with at least $31M of the upfront payment going to Witkoff-family entities (WSJ, via CNN and The Block; reported 1 Feb 2026); on 1 May 2025 Zach Witkoff announced in Dubai that USD1 would settle MGX's $2B investment in Binance. Official side: Witkoff appeared at Bitcoin MENA in Abu Dhabi on 9-10 Dec 2024 as WLF co-founder and incoming envoy (pre-term); he accompanied the May 2025 Gulf trip, and the UAE AI-chip framework was announced on 15 May 2025; the US-Russia-Ukraine talks were held in Abu Dhabi on 23-24 Jan and from 4 Feb 2026 (and again in Nov 2026 per CBS, date as captioned). The NYT (15 Sep 2025) reported he discussed the chip deal in White House meetings and pushed colleagues to finalise it; the White House said he 'did not participate' in the chip negotiations and called the crypto deal 'totally unrelated to any government business'. Whether the $31M is part of the $68.9M cash distributions in his 2025 annual report is not shown; that possibility is our own cross-reference.",
+   "sources": [
+    "https://krdo.com/politics/cnn-us-politics/2026/02/02/uae-linked-firm-bought-major-stake-in-trump-family-crypto-company-wall-street-journal-reports/",
+    "https://www.theblock.co/news/deals/2026-02-01-uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj-387931",
+    "https://www-ak-ms.foxbusiness.com/markets/trumps-stablecoin-chosen-2-billion-abu-dhabi-investment-binance-co-founder-says",
+    "https://ghanaiantimes.com.gh/trump-family-and-allies-to-bask-in-crypto-industrys-euphoria-at-gulf-bitcoin-gathering/",
+    "https://www.al-monitor.com/originals/2025/05/trump-caps-gulf-tour-abu-dhabi-dizzying-investment-pledges",
+    "https://www.business-standard.com/world-news/trump-envoy-steve-witkoff-uae-deals-crypto-chips-tahnoon-125091600331_1.html",
+    "https://www.axios.com/2026/01/24/us-russia-ukraine-talks-abu-dhabi",
+    "https://cbsnews.com/news/us-russia-ukraine-war-talks-peace-abu-dhabi-deal",
+    "https://www.whitehouse.gov/wp-content/uploads/2026/09/Witkoff-Steven-2026-Annual.pdf"
+   ]
+  },
+  {
+   "statement": "Qatar: Witkoff's Gaza mediation with Qatar overlapped with his family's Qatar-linked business.",
+   "verdict": "partly-accurate",
+   "finding": "Grade: documented, but the Qatar business mostly predates the term. QIA bought the Park Lane Hotel (about $623M) from a Witkoff-Mubadala joint venture in August 2023; Alex Witkoff pitched QIA on a $4B credit fund in 2024 and QIA declined (C53). The NYT's report of $100M from a Qatar-part-owned Apollo trust in 2025 was corrected: the May 2025 $100M Banyan Cay refinancing lender was Apollo itself (C53, C73). In office, Witkoff worked with Qatar as mediator on the January and October 2025 Gaza ceasefires, and on 9 Sep 2025 the White House said he warned Qatar of Israel's strike on Doha while Qatar said the call came after it began (C53). No Qatar-linked family transaction dated within the term is documented. Qatar's International Media Office called the NYT account false.",
+   "sources": [
+    "https://commercialobserver.com/2023/08/qatar-sovereign-fund-acquires-park-lane-hotel-for-623m/",
+    "https://commercialobserver.com/2025/05/witkoff-access-west-palm-beach-dutchmans-pipe-golf-club-belgrove-resort-spa/",
+    "https://www.jpost.com/american-politics/article-869981",
+    "https://www.gulf-times.com/article/711590/qatar/qatar-debunks-nyt-claims-about-witkoff",
+    "https://app.al-monitor.com/originals/2025/09/trump-directed-top-aide-warn-qatar-israel-attack-was-coming-white-house-says",
+    "https://www.newarab.com/news/qatar-says-us-warning-came-after-israeli-strike-started"
+   ]
+  },
+  {
+   "statement": "Saudi Arabia and Israel: family or WLF dealings with counterparts there overlapped with his diplomacy.",
+   "verdict": "unverified",
+   "finding": "Grade: no dealing found. Witkoff represented the administration at the US-Russia talks in Riyadh on 18 Feb 2025 and in Saudi meetings in January 2025, and he works with Israel on Gaza. CREW (July 2025) says that after his appointment was announced he met sovereign-fund leaders in Saudi Arabia, the UAE and Qatar (pre-term, no deal named). We found no documented transaction between Witkoff-family companies or WLF and Saudi or Israeli government or business counterparts during the term.",
+   "sources": [
+    "https://www.warren.senate.gov/imo/media/doc/warren_murphy_letter_to_white_house_oge_on_witkoff_financial_disclosures.pdf",
+    "https://www.citizensforethics.org/news/analysis/if-white-house-employees-are-working-for-free-what-are-they-getting-instead/"
+   ]
+  },
+  {
+   "statement": "Russia and Ukraine: Witkoff's negotiations overlapped with his firm's partnership with Access Industries and with a sale bid involving a Tahnoon-chaired group.",
+   "verdict": "mostly-accurate",
+   "finding": "Grade: documented events, single-source on Lukoil. Witkoff met Putin repeatedly (including 6 Aug 2025 and 22 Jan 2026), hosted Kirill Dmitriev in Washington (2-3 Apr 2025) and Miami (24-26 Oct 2025), and helped draft the 28-point plan (C76). Meanwhile the One High Line partnership with Access Industries continued, landing a $525M loan in January 2026 (The Real Deal); his 278e lists the owning entity. Access says Blavatnik and Witkoff 'have never spoken about the Russia-Ukraine negotiations'. Per the NYT (3 Oct 2026, single-source, via relays), Putin raised the sale of Lukoil's foreign assets with Witkoff and Kushner on 5 Sep 2026; the bidding consortium reportedly includes Tahnoon-chaired IHC. Witkoff's spokesperson: he 'has no conflict of interest and no financial stake in this matter'. No Witkoff-family stake in the Lukoil deal is documented.",
+   "sources": [
+    "https://euromaidanpress.com/2025/04/03/putin-envoy-dmitriev-trump-envoy-witkoff-met-in-washington/",
+    "https://euromaidanpress.com/2025/11/19/trump-team-meets-top-putin-envoy-for-three-days-in-miami-drafts-secret-ukraine-peace-deal-axios-says",
+    "https://therealdeal.com/new-york/2026/01/30/one-high-line-developers-land-525m-loan",
+    "https://popular.info/p/top-trump-negotiator-retains-partnership",
+    "https://kyivindependent.com/u-s-peace-negotiations-with-russia-could-now-involve-multi-billion-dollar-lukoil-deal-nyt-reports/",
+    "https://www.whitehouse.gov/wp-content/uploads/2025/09/Witkoff-Steven.pdf"
+   ]
+  },
+  {
+   "statement": "Pakistan (other counterpart): WLF and the Witkoff sons' stablecoin firm signed deals with Pakistan while Witkoff met its army chief.",
+   "verdict": "confirmed",
+   "finding": "Grade: documented (C64, C70). WLF signed a letter of intent with the Pakistan Crypto Council on 26 Apr 2025; Witkoff attended Trump's lunch for Field Marshal Asim Munir on 18 Jun 2025; on 14 Jan 2026 SC Financial Technologies, in which Witkoff's filings list an interest through WC Digital SC LLC, signed an MoU with Pakistan's government, signed by Zach Witkoff. WLF says it receives no compensation from the MoU. Overlap in time only.",
+   "sources": [
+    "https://finance.yahoo.com/news/exclusive-pakistan-partner-world-liberty-062318246.html",
+    "https://tribune.com.pk/story/2587065/pakistan-signs-crypto-deal-linked-to-trump-family-to-explore-stablecoin-payments?amp=1",
+    "https://www.whitehouse.gov/wp-content/uploads/2025/09/Witkoff-Steven.pdf"
+   ]
+  },
+  {
+   "statement": "Members of Congress sought investigations; no authority has made a finding.",
+   "verdict": "confirmed",
+   "finding": "Grade: documented (letters read in full). 23 Sep 2025: Warren and Slotkin asked the State and Commerce inspectors general and OGE to investigate Witkoff and Sacks over the UAE chip decision. 22 Oct 2025: Schiff, Wyden, Kim, Durbin, Cortez Masto, Peters, Slotkin and Booker asked Witkoff nine questions on his WLF holdings, 208 participation and waivers (reply due 31 Oct). 17 Nov 2025: Warren and Murphy asked White House counsel, OGE and the White House DAEO about the unsigned form, his start date, his WLF holdings and recusals (reply due 1 Dec). 12 Dec 2025: State's OIG (Arne B. Baker) told Warren and Slotkin it had 'referred your request to our Office of Investigations for review' and does not comment on criminal allegations. 8 Jan 2026: Meeks, Amo and Garcia asked the acting inspectors general of Commerce and State to investigate. No reply from Witkoff, the White House or OGE, no IG report, no OGE action and no finding of any violation was found as of 17 Nov 2026.",
+   "sources": [
+    "https://www.banking.senate.gov/imo/media/doc/warren_slotkin_letter_requesting_oig_investigation_into_uae_chips_corruption.pdf",
+    "https://www.slotkin.senate.gov/wp-content/uploads/2025/10/2025.10.22-Sen.-Slotkin-Colleagues-Letter-to-Witkoff-on-WLF-Assets.pdf",
+    "https://www.warren.senate.gov/imo/media/doc/warren_murphy_letter_to_white_house_oge_on_witkoff_financial_disclosures.pdf",
+    "https://www.murphy.senate.gov/newsroom/press-releases/murphy-warren-continue-ethics-investigation-related-to-trumps-envoy-to-the-middle-east",
+    "https://www.banking.senate.gov/imo/media/doc/2025_09_23_sens_slotkin_and_warren_requesting_oig_investigation_into_uae_chips_corruption_response1.pdf",
+    "https://www.banking.senate.gov/newsroom/minority/following-ig-response-warren-and-slotkin-press-for-full-investigation-into-extent-of-donald-trump-trump-family-and-senior-trump-administration-officials-cashing-in-on-foreign-crypto-deals",
+    "https://democrats-foreignaffairs.house.gov/2026/1/meeks-amo-garcia-demand-investigation-into-trump-despot-whisperer-witkoff-s-sketchy-business-dealings"
+   ]
+  },
+  {
+   "statement": "Witkoff used his diplomatic role for personal or family financial benefit (quid pro quo).",
+   "verdict": "unverified",
+   "finding": "Grade: allegation only. Senators and House Democrats allege he 'potentially' acted 'in exchange for his personal financial benefit' (Warren-Murphy letter). The record shows overlapping timing and continuing holdings, not a decision taken because of them. No inspector general, OGE, Justice Department or court finding exists. Witkoff, the White House and WLF deny any link.",
+   "sources": [
+    "https://www.warren.senate.gov/imo/media/doc/warren_murphy_letter_to_white_house_oge_on_witkoff_financial_disclosures.pdf",
+    "https://www.banking.senate.gov/imo/media/doc/warren_slotkin_letter_requesting_oig_investigation_into_uae_chips_corruption.pdf",
+    "https://krdo.com/politics/cnn-us-politics/2026/02/02/uae-linked-firm-bought-major-stake-in-trump-family-crypto-company-wall-street-journal-reports/",
+    "https://www.business-standard.com/world-news/trump-envoy-steve-witkoff-uae-deals-crypto-chips-tahnoon-125091600331_1.html"
+   ]
+  }
+ ],
+ "corrections": [
+  "C14 and C42 describe the $107M as income 'from his WLF-linked holding company'. The record shows: the payer is Witkoff Holdings LLC, a broad holding company that also owns Banyan Cay, Ocean Terrace and golf and hotel operating companies besides WC Digital Fi (WLF) and WC Digital SC (SC Financial). The filing splits the $106,938,819 into $68,875,000 cash and $38,063,819 cryptocurrency but does not say how much came from WLF.",
+  "C14 and C42 say the income rose from '$34M in 2024'. The record shows: the $34,363,535 is from the new-entrant report, whose income period runs from January 2024 to the August 2025 filing date, so it is not a 2024-only figure.",
+  "C53 says his disclosures 'went uncertified'. The record shows: the White House DAEO, Scott F. Gast, certified the new-entrant report on 12 Dec 2025 and the revised version adds his State Department post (Jan-Jun 2025). The 2025 annual report (signed 29 Jul 2026) shows no reviewer signature as published.",
+  "C53 dates the Warren-Murphy letter 18 Nov 2025. The letter is dated 17 Nov 2025; the press releases are dated 18 Nov.",
+  "C53 says Meeks, Amo and Garcia wrote to the State and Commerce IGs 'and OGE'. The release read names the acting inspectors general of Commerce and State only; OGE is not mentioned in it.",
+  "C53 says no IG outcome was found. Update: on 12 Dec 2025 State's OIG told Warren and Slotkin it had referred their request to its Office of Investigations; no result has been reported.",
+  "C76 says Witkoff 'sold a $120M stake in his firm in Sep 2025'. The record shows: the sale was disclosed in September 2025 (report signed 13 Aug, published about 13 Sep); the sale itself took place between January and 13 August 2025, date undisclosed.",
+  "C14 says no divestiture certificate or recipient of the WLF stake was found. Still true as of 17 Nov 2026; in addition, the annual report signed on 29 Jul 2026, which covers calendar 2025, still lists the WLF and SC Financial interests and no transaction disposing of them during 2025. It does not show his position in 2026, when the White House said he had divested.",
+  "The 22 Oct 2025 senators' letter describes a '$2 billion investment from one of Sheikh Tahnoon's investment firms' in WLF. The record shows: MGX's $2B went into Binance and was settled in USD1; the Tahnoon-backed equity investment in WLF was Aryam's $500M for 49% (C07, C14)."
+ ],
+ "denials_and_context": [
+  "White House counsel David Warrington (to CNN, Feb 2026): Witkoff 'takes seriously his compliance with the government ethics rules... has not and does not participate in any official matters that could impact his financial interests. He has also divested from World Liberty Financial, notwithstanding his ability and willingness to recuse.'",
+  "White House spokeswoman Anna Kelly (to ABC, 9 Sep 2026): he has 'fully divested from World Liberty Financial, and his prior commercial activities are completely unrelated to his efforts to end global conflicts'. In Sept 2025 the White House said he was 'still in the process of divesting' and working with ethics officials, that he 'did not participate' in the UAE chip negotiations, and that the crypto deal was 'totally unrelated to any government business'.",
+  "A Witkoff spokesman says he 'does not discuss WLF or any other personal business while conducting his official duties'; on Lukoil his spokesperson said he 'has no conflict of interest and no financial stake in this matter'.",
+  "WLF (Zak Folkman, May 2025): Witkoff has 'no operational role, no financial interest in WLFI deals, and no influence on day-to-day decisions'. WLF spokesman David Wachsman (Feb 2026): neither Trump nor Witkoff 'had any involvement whatsoever' in the Aryam transaction, and any link to chip decisions is '100% false'.",
+  "The Witkoff sons, through lawyer Timothy Parlatore, threatened the NYT with a defamation suit over its September 2025 report on their Gulf fundraising; Qatar's International Media Office called that report false; Access Industries says Blavatnik and Witkoff never discussed the Russia-Ukraine negotiations.",
+  "Context: holding an asset, or a family member doing business with a foreign counterpart, is not by itself a violation. 18 U.S.C. 208 covers his own, spouse's and minor children's interests, not adult sons'. The White House ethics official certified his new-entrant report as compliant on the basis of its contents. No inspector general, OGE, DOJ or court finding exists.",
+  "Research limits: the NYT and Bloomberg articles were seen only through excerpts and relays; the Accountable.us research page could not be reached from this environment; diplomatic dates and the Qatar, Pakistan and Lukoil items are carried from older checks (C53, C64, C70, C73, C76) and were not re-verified independently except where a filing or a fetched article confirms them."
+ ],
+ "sources": [
+  {
+   "title": "OGE Form 278e New Entrant Report, Steven C. Witkoff (as first published, signed 13 Aug 2025)",
+   "publisher": "The White House",
+   "url": "https://www.whitehouse.gov/wp-content/uploads/2025/09/Witkoff-Steven.pdf",
+   "date": "2025-08-13",
+   "read": "full"
+  },
+  {
+   "title": "OGE Form 278e New Entrant Report, Steven C. Witkoff (certified 12 Dec 2025)",
+   "publisher": "The White House",
+   "url": "https://www.whitehouse.gov/wp-content/uploads/2025/12/Witkoff-Steven.pdf",
+   "date": "2025-12-12",
+   "read": "full"
+  },
+  {
+   "title": "OGE Form 278e Annual Report 2026, Steven C. Witkoff (signed 29 Jul 2026)",
+   "publisher": "The White House",
+   "url": "https://www.whitehouse.gov/wp-content/uploads/2026/09/Witkoff-Steven-2026-Annual.pdf",
+   "date": "2026-07-29",
+   "read": "full"
+  },
+  {
+   "title": "Public Disclosures (index of staff financial disclosures)",
+   "publisher": "The White House",
+   "url": "https://www.whitehouse.gov/disclosures/",
+   "date": "2026-11-17",
+   "read": "full"
+  },
+  {
+   "title": "Letter from Sens. Schiff, Wyden, Kim, Durbin, Cortez Masto, Peters, Slotkin and Booker to Steve Witkoff on WLF assets",
+   "publisher": "US Senate (Office of Sen. Slotkin)",
+   "url": "https://www.slotkin.senate.gov/wp-content/uploads/2025/10/2025.10.22-Sen.-Slotkin-Colleagues-Letter-to-Witkoff-on-WLF-Assets.pdf",
+   "date": "2025-10-22",
+   "read": "full"
+  },
+  {
+   "title": "Letter from Sens. Warren and Murphy to White House Counsel, OGE and White House DAEO on Witkoff's financial disclosures",
+   "publisher": "US Senate (Office of Sen. Warren)",
+   "url": "https://www.warren.senate.gov/imo/media/doc/warren_murphy_letter_to_white_house_oge_on_witkoff_financial_disclosures.pdf",
+   "date": "2025-11-17",
+   "read": "full"
+  },
+  {
+   "title": "Murphy, Warren continue ethics investigation related to Trump's envoy to the Middle East",
+   "publisher": "Office of Sen. Murphy",
+   "url": "https://www.murphy.senate.gov/newsroom/press-releases/murphy-warren-continue-ethics-investigation-related-to-trumps-envoy-to-the-middle-east",
+   "date": "2025-11-18",
+   "read": "full"
+  },
+  {
+   "title": "Letter from Sens. Warren and Slotkin requesting OIG investigation into UAE chips",
+   "publisher": "Senate Banking Committee (minority)",
+   "url": "https://www.banking.senate.gov/imo/media/doc/warren_slotkin_letter_requesting_oig_investigation_into_uae_chips_corruption.pdf",
+   "date": "2025-09-23",
+   "read": "full"
+  },
+  {
+   "title": "State Department OIG response to Sens. Warren and Slotkin",
+   "publisher": "US Department of State Office of Inspector General (via Senate Banking Committee)",
+   "url": "https://www.banking.senate.gov/imo/media/doc/2025_09_23_sens_slotkin_and_warren_requesting_oig_investigation_into_uae_chips_corruption_response1.pdf",
+   "date": "2025-12-12",
+   "read": "full"
+  },
+  {
+   "title": "Following IG response, Warren and Slotkin press for full investigation",
+   "publisher": "Senate Banking Committee (minority)",
+   "url": "https://www.banking.senate.gov/newsroom/minority/following-ig-response-warren-and-slotkin-press-for-full-investigation-into-extent-of-donald-trump-trump-family-and-senior-trump-administration-officials-cashing-in-on-foreign-crypto-deals",
+   "date": "2025-12-22",
+   "read": "full"
+  },
+  {
+   "title": "Meeks, Amo, Garcia demand investigation into Witkoff's business dealings",
+   "publisher": "House Foreign Affairs Committee Democrats",
+   "url": "https://democrats-foreignaffairs.house.gov/2026/1/meeks-amo-garcia-demand-investigation-into-trump-despot-whisperer-witkoff-s-sketchy-business-dealings",
+   "date": "2026-01-08",
+   "read": "full"
+  },
+  {
+   "title": "Steve Witkoff earned nearly $107M from Trump-affiliated crypto venture, disclosures show",
+   "publisher": "ABC News",
+   "url": "https://abcnews.go.com/Politics/steve-witkoff-earned-107m-trump-affiliated-crypto-venture/story?id=136307300",
+   "date": "2026-09-09",
+   "read": "full"
+  },
+  {
+   "title": "UAE-linked firm bought major stake in Trump family crypto company, Wall Street Journal reports",
+   "publisher": "CNN (via KRDO)",
+   "url": "https://krdo.com/politics/cnn-us-politics/2026/02/02/uae-linked-firm-bought-major-stake-in-trump-family-crypto-company-wall-street-journal-reports/",
+   "date": "2026-02-02",
+   "read": "full"
+  },
+  {
+   "title": "Steve Witkoff to divest from CRE firm as his White House influence grows",
+   "publisher": "Bisnow",
+   "url": "https://www.bisnow.com/news/national/commercial-real-estate/trumps-middle-east-envoy-divesting-from-real-estate-firm-he-founded-128498",
+   "date": "2025-03",
+   "read": "full"
+  },
+  {
+   "title": "Steve Witkoff sells $120M stake in his real estate firm",
+   "publisher": "Bisnow",
+   "url": "https://www.bisnow.com/national/news/commercial-real-estate/steve-witkoff-sells-120m-stake-in-his-real-estate-firm-130993",
+   "date": "2025-09-15",
+   "read": "full"
+  },
+  {
+   "title": "Top Trump negotiator retains partnership with Ukraine-sanctioned billionaire",
+   "publisher": "Popular Information",
+   "url": "https://popular.info/p/top-trump-negotiator-retains-partnership",
+   "date": "2025-12",
+   "read": "full"
+  },
+  {
+   "title": "If White House employees are working for free, what are they getting instead?",
+   "publisher": "CREW",
+   "url": "https://www.citizensforethics.org/news/analysis/if-white-house-employees-are-working-for-free-what-are-they-getting-instead/",
+   "date": "2025-07-17",
+   "read": "full"
+  },
+  {
+   "title": "US special envoy is still holding Trump-linked crypto assets",
+   "publisher": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2025-09-17/steve-witkoff-is-still-holding-trump-linked-crypto-assets",
+   "date": "2025-09-17",
+   "read": "excerpt"
+  },
+  {
+   "title": "A tale of two deals: Trump envoy's UAE deals raise personal gain concerns (relaying the NYT, 15 Sep 2025)",
+   "publisher": "Business Standard",
+   "url": "https://www.business-standard.com/world-news/trump-envoy-steve-witkoff-uae-deals-crypto-chips-tahnoon-125091600331_1.html",
+   "date": "2025-09-16",
+   "read": "excerpt"
+  },
+  {
+   "title": "UAE sheikh secretly acquired 49% of Trump's World Liberty Financial days before inauguration: WSJ",
+   "publisher": "The Block",
+   "url": "https://www.theblock.co/news/deals/2026-02-01-uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj-387931",
+   "date": "2026-02-01",
+   "read": "excerpt"
+  },
+  {
+   "title": "Research on Steve Witkoff special government employee status",
+   "publisher": "Accountable.us",
+   "url": "https://accountable.us/2025-09-22-research-on-steve-witkoff-special-government-employee-status",
+   "date": "2025-09-22",
+   "read": "excerpt"
+  },
+  {
+   "title": "Trump family and allies to bask in crypto industry's euphoria at Gulf bitcoin gathering (Reuters)",
+   "publisher": "Ghanaian Times (Reuters)",
+   "url": "https://ghanaiantimes.com.gh/trump-family-and-allies-to-bask-in-crypto-industrys-euphoria-at-gulf-bitcoin-gathering/",
+   "date": "2024-12-09",
+   "read": "excerpt"
+  },
+  {
+   "title": "U.S.-Russia-Ukraine trilateral talks to end war made progress, U.S. officials say",
+   "publisher": "Axios",
+   "url": "https://www.axios.com/2026/01/24/us-russia-ukraine-talks-abu-dhabi",
+   "date": "2026-01-24",
+   "read": "excerpt"
+  },
+  {
+   "title": "US, Russia, Ukraine talks in Abu Dhabi",
+   "publisher": "CBS News",
+   "url": "https://cbsnews.com/news/us-russia-ukraine-war-talks-peace-abu-dhabi-deal",
+   "date": "2026-11",
+   "read": "excerpt"
+  },
+  {
+   "title": "Trump's stablecoin chosen for $2 billion Abu Dhabi investment in Binance",
+   "publisher": "Fox Business",
+   "url": "https://www-ak-ms.foxbusiness.com/markets/trumps-stablecoin-chosen-2-billion-abu-dhabi-investment-binance-co-founder-says",
+   "date": "2025-05-01",
+   "read": "excerpt"
+  },
+  {
+   "title": "Trump caps Gulf tour in Abu Dhabi with dizzying investment pledges",
+   "publisher": "Al-Monitor",
+   "url": "https://www.al-monitor.com/originals/2025/05/trump-caps-gulf-tour-abu-dhabi-dizzying-investment-pledges",
+   "date": "2025-05",
+   "read": "excerpt"
+  },
+  {
+   "title": "One High Line developers land $525M loan",
+   "publisher": "The Real Deal",
+   "url": "https://therealdeal.com/new-york/2026/01/30/one-high-line-developers-land-525m-loan",
+   "date": "2026-01-30",
+   "read": "excerpt"
+  },
+  {
+   "title": "Witkoff and Access Industries buy HFZ's XI condo project",
+   "publisher": "The Real Deal",
+   "url": "https://therealdeal.com/new-york/2021/12/23/witkoff-and-access-industries-buy-hfzs-languishing-xi-condo-project",
+   "date": "2021-12-23",
+   "read": "excerpt"
+  },
+  {
+   "title": "Witkoff, Access get $100M Apollo refinancing for West Palm Beach golf resort",
+   "publisher": "Commercial Observer",
+   "url": "https://commercialobserver.com/2025/05/witkoff-access-west-palm-beach-dutchmans-pipe-golf-club-belgrove-resort-spa/",
+   "date": "2025-05",
+   "read": "excerpt"
+  },
+  {
+   "title": "Qatar sovereign fund acquires Park Lane Hotel for $623M",
+   "publisher": "Commercial Observer",
+   "url": "https://commercialobserver.com/2023/08/qatar-sovereign-fund-acquires-park-lane-hotel-for-623m/",
+   "date": "2023-08-29",
+   "read": "excerpt"
+  },
+  {
+   "title": "NYT correction on Witkoff loan (relay)",
+   "publisher": "Jerusalem Post",
+   "url": "https://www.jpost.com/american-politics/article-869981",
+   "date": "2025-10-03",
+   "read": "excerpt"
+  },
+  {
+   "title": "Qatar debunks NYT claims about Witkoff",
+   "publisher": "Gulf Times",
+   "url": "https://www.gulf-times.com/article/711590/qatar/qatar-debunks-nyt-claims-about-witkoff",
+   "date": "2025-09-27",
+   "read": "excerpt"
+  },
+  {
+   "title": "Trump directed top aide to warn Qatar Israel attack was coming, White House says",
+   "publisher": "Al-Monitor / AP",
+   "url": "https://app.al-monitor.com/originals/2025/09/trump-directed-top-aide-warn-qatar-israel-attack-was-coming-white-house-says",
+   "date": "2025-09-09",
+   "read": "excerpt"
+  },
+  {
+   "title": "Qatar says US warning came after Israeli strike started",
+   "publisher": "The New Arab",
+   "url": "https://www.newarab.com/news/qatar-says-us-warning-came-after-israeli-strike-started",
+   "date": "2025-09-10",
+   "read": "excerpt"
+  },
+  {
+   "title": "Pakistan signs crypto deal linked to Trump family to explore stablecoin payments",
+   "publisher": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2587065/pakistan-signs-crypto-deal-linked-to-trump-family-to-explore-stablecoin-payments?amp=1",
+   "date": "2026-01-14",
+   "read": "excerpt"
+  },
+  {
+   "title": "Exclusive: Pakistan to partner with World Liberty",
+   "publisher": "Yahoo Finance (Reuters)",
+   "url": "https://finance.yahoo.com/news/exclusive-pakistan-partner-world-liberty-062318246.html",
+   "date": "2025-04",
+   "read": "excerpt"
+  },
+  {
+   "title": "Putin envoy Dmitriev, Trump envoy Witkoff met in Washington",
+   "publisher": "Euromaidan Press",
+   "url": "https://euromaidanpress.com/2025/04/03/putin-envoy-dmitriev-trump-envoy-witkoff-met-in-washington/",
+   "date": "2025-04-03",
+   "read": "excerpt"
+  },
+  {
+   "title": "Trump team meets top Putin envoy for three days in Miami (Axios relay)",
+   "publisher": "Euromaidan Press",
+   "url": "https://euromaidanpress.com/2025/11/19/trump-team-meets-top-putin-envoy-for-three-days-in-miami-drafts-secret-ukraine-peace-deal-axios-says",
+   "date": "2025-11-19",
+   "read": "excerpt"
+  },
+  {
+   "title": "US peace negotiations with Russia could now involve multi-billion-dollar Lukoil deal, NYT reports",
+   "publisher": "Kyiv Independent",
+   "url": "https://kyivindependent.com/u-s-peace-negotiations-with-russia-could-now-involve-multi-billion-dollar-lukoil-deal-nyt-reports/",
+   "date": "2026-10-03",
+   "read": "excerpt"
+  }
+ ],
+ "entities": [
+  {
+   "id": "steve-witkoff",
+   "name": "Steve Witkoff",
+   "type": "person",
+   "description": "State Department special envoy Jan-Jun 2025; Assistant to the President and Special Envoy for Peace Missions since 30 Jun 2025"
+  },
+  {
+   "id": "zach-witkoff",
+   "name": "Zach Witkoff",
+   "type": "person",
+   "description": "Son; WLF co-founder and chief executive; signed the Pakistan USD1 MoU for SC Financial"
+  },
+  {
+   "id": "alex-witkoff",
+   "name": "Alex Witkoff",
+   "type": "person",
+   "description": "Son; runs the Witkoff Group"
+  },
+  {
+   "id": "witkoff-group",
+   "name": "The Witkoff Group",
+   "type": "company",
+   "description": "Family real-estate firm; Steve sold a $120M interest in 2025 and keeps a stake over $50M"
+  },
+  {
+   "id": "witkoff-holdings-llc",
+   "name": "Witkoff Holdings LLC",
+   "type": "company",
+   "description": "Holding company in his 278e; owns WC Digital Fi, WC Digital SC and real-estate interests; paid $106.9M in 2025"
+  },
+  {
+   "id": "wc-digital-fi",
+   "name": "WC Digital Fi LLC",
+   "type": "company",
+   "description": "Witkoff Holdings entity listed as holding the World Liberty Financial interest"
+  },
+  {
+   "id": "sc-financial-technologies",
+   "name": "SC Financial Technologies LLC",
+   "type": "company",
+   "description": "Stablecoin entity held through WC Digital SC LLC"
+  },
+  {
+   "id": "world-liberty-financial",
+   "name": "World Liberty Financial",
+   "type": "company",
+   "description": "Crypto venture co-founded by the Trump and Witkoff families"
+  },
+  {
+   "id": "usd1",
+   "name": "USD1",
+   "type": "product",
+   "description": "WLF stablecoin"
+  },
+  {
+   "id": "aryam-investment-1",
+   "name": "Aryam Investment 1",
+   "type": "fund",
+   "description": "Tahnoon-backed vehicle that agreed to buy 49% of WLF in Jan 2025"
+  },
+  {
+   "id": "tahnoon-bin-zayed",
+   "name": "Tahnoon bin Zayed Al Nahyan",
+   "type": "person",
+   "description": "UAE national security adviser; backs Aryam, MGX and G42"
+  },
+  {
+   "id": "mgx",
+   "name": "MGX",
+   "type": "fund",
+   "description": "Abu Dhabi investor whose $2B Binance stake was settled in USD1"
+  },
+  {
+   "id": "uae-chips-deal",
+   "name": "UAE AI-chip framework",
+   "type": "event",
+   "description": "Announced 15 May 2025"
+  },
+  {
+   "id": "access-industries",
+   "name": "Access Industries",
+   "type": "company",
+   "description": "Blavatnik group; Witkoff Group partner in One High Line and Banyan Cay"
+  },
+  {
+   "id": "leonard-blavatnik",
+   "name": "Len Blavatnik",
+   "type": "person",
+   "description": "Founder of Access Industries; sanctioned by Ukraine in Dec 2023"
+  },
+  {
+   "id": "one-high-line",
+   "name": "One High Line",
+   "type": "asset",
+   "description": "Manhattan condo project owned via 76 Eleventh Avenue Property Owner LLC"
+  },
+  {
+   "id": "qatar-investment-authority",
+   "name": "Qatar Investment Authority",
+   "type": "fund",
+   "description": "Bought the Park Lane Hotel in Aug 2023"
+  },
+  {
+   "id": "park-lane-hotel",
+   "name": "Park Lane Hotel",
+   "type": "asset",
+   "description": "36 Central Park South; sold by a Witkoff-Mubadala JV in 2023"
+  },
+  {
+   "id": "white-house",
+   "name": "The White House",
+   "type": "government",
+   "description": "Employer since 30 Jun 2025; posts his disclosures"
+  },
+  {
+   "id": "state-department",
+   "name": "US Department of State",
+   "type": "government",
+   "description": "Employer as Special Envoy to the Middle East, Jan-Jun 2025"
+  },
+  {
+   "id": "state-department-oig",
+   "name": "State Department Office of Inspector General",
+   "type": "government",
+   "description": "Referred a Senate request on Witkoff to its Office of Investigations, Dec 2025"
+  },
+  {
+   "id": "office-of-government-ethics",
+   "name": "Office of Government Ethics",
+   "type": "government",
+   "description": "Recipient of senators' letters; no action found"
+  },
+  {
+   "id": "scott-gast",
+   "name": "Scott F. Gast",
+   "type": "person",
+   "description": "White House Designated Agency Ethics Official; certified the new-entrant report on 12 Dec 2025"
+  },
+  {
+   "id": "david-warrington",
+   "name": "David Warrington",
+   "type": "person",
+   "description": "White House counsel; said Witkoff has divested from WLF"
+  },
+  {
+   "id": "anna-kelly",
+   "name": "Anna Kelly",
+   "type": "person",
+   "description": "White House spokeswoman; said Witkoff 'fully divested'"
+  },
+  {
+   "id": "david-wachsman",
+   "name": "David Wachsman",
+   "type": "person",
+   "description": "WLF spokesman"
+  },
+  {
+   "id": "elizabeth-warren",
+   "name": "Elizabeth Warren",
+   "type": "person",
+   "description": "Senator; co-wrote letters of 23 Sep and 17 Nov 2025"
+  },
+  {
+   "id": "chris-murphy",
+   "name": "Chris Murphy",
+   "type": "person",
+   "description": "Senator; co-wrote the 17 Nov 2025 letter"
+  },
+  {
+   "id": "elissa-slotkin",
+   "name": "Elissa Slotkin",
+   "type": "person",
+   "description": "Senator; co-wrote the 23 Sep and 22 Oct 2025 letters"
+  },
+  {
+   "id": "adam-schiff",
+   "name": "Adam Schiff",
+   "type": "person",
+   "description": "Senator; led the 22 Oct 2025 letter"
+  },
+  {
+   "id": "gregory-meeks",
+   "name": "Gregory Meeks",
+   "type": "person",
+   "description": "House Foreign Affairs ranking member; Jan 2026 IG request"
+  },
+  {
+   "id": "robert-garcia",
+   "name": "Robert Garcia",
+   "type": "person",
+   "description": "House Oversight ranking member; Jan 2026 IG request"
+  },
+  {
+   "id": "pakistan",
+   "name": "Pakistan",
+   "type": "country",
+   "description": "Signed WLF and SC Financial agreements in 2025-2026"
+  },
+  {
+   "id": "uae",
+   "name": "United Arab Emirates",
+   "type": "country",
+   "description": "Envoy counterpart; host of 2026 Russia-Ukraine talks"
+  },
+  {
+   "id": "qatar",
+   "name": "Qatar",
+   "type": "country",
+   "description": "Gaza mediator; QIA bought the Park Lane"
+  },
+  {
+   "id": "saudi-arabia",
+   "name": "Saudi Arabia",
+   "type": "country",
+   "description": "Host of Feb 2025 US-Russia talks; no family dealing found"
+  },
+  {
+   "id": "russia",
+   "name": "Russia",
+   "type": "country",
+   "description": "Negotiating counterpart"
+  },
+  {
+   "id": "kirill-dmitriev",
+   "name": "Kirill Dmitriev",
+   "type": "person",
+   "description": "RDIF head; Witkoff's Russian channel"
+  },
+  {
+   "id": "lukoil",
+   "name": "Lukoil",
+   "type": "company",
+   "description": "Sanctioned oil company whose foreign-asset sale was raised in 2026 talks"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "steve-witkoff",
+   "target": "state-department",
+   "label": "Special Envoy to the Middle East (per certified 278e)",
+   "type": "political",
+   "date": "2025-01"
+  },
+  {
+   "source": "steve-witkoff",
+   "target": "white-house",
+   "label": "appointed Assistant to the President and Special Envoy for Peace Missions",
+   "type": "political",
+   "date": "2025-06-30"
+  },
+  {
+   "source": "steve-witkoff",
+   "target": "witkoff-group",
+   "label": "sold an interest for $120M as 'divestiture planning'; retains stake over $50M",
+   "type": "ownership",
+   "date": "2025",
+   "amount_usd": 120000000
+  },
+  {
+   "source": "steve-witkoff",
+   "target": "witkoff-holdings-llc",
+   "label": "received $106,938,819 of distributions ($68.9M cash, $38.1M crypto)",
+   "type": "money",
+   "date": "2025",
+   "amount_usd": 106938819
+  },
+  {
+   "source": "steve-witkoff",
+   "target": "witkoff-holdings-llc",
+   "label": "received $34,363,535 of distributions (Jan 2024 to Aug 2025)",
+   "type": "money",
+   "date": "2025-08-13",
+   "amount_usd": 34363535
+  },
+  {
+   "source": "witkoff-holdings-llc",
+   "target": "wc-digital-fi",
+   "label": "owns",
+   "type": "ownership",
+   "date": "2025-08-13"
+  },
+  {
+   "source": "wc-digital-fi",
+   "target": "world-liberty-financial",
+   "label": "holds the Witkoff interest in",
+   "type": "ownership",
+   "date": "2026-07-29"
+  },
+  {
+   "source": "witkoff-holdings-llc",
+   "target": "sc-financial-technologies",
+   "label": "holds an interest via WC Digital SC LLC",
+   "type": "ownership",
+   "date": "2026-07-29"
+  },
+  {
+   "source": "zach-witkoff",
+   "target": "world-liberty-financial",
+   "label": "co-founder and chief executive",
+   "type": "commercial"
+  },
+  {
+   "source": "alex-witkoff",
+   "target": "witkoff-group",
+   "label": "runs day-to-day operations",
+   "type": "commercial",
+   "date": "2025-03"
+  },
+  {
+   "source": "aryam-investment-1",
+   "target": "world-liberty-financial",
+   "label": "agreed to buy 49% for $500M; at least $31M to Witkoff-family entities",
+   "type": "money",
+   "date": "2025-01",
+   "amount_usd": 500000000
+  },
+  {
+   "source": "tahnoon-bin-zayed",
+   "target": "aryam-investment-1",
+   "label": "backs",
+   "type": "ownership"
+  },
+  {
+   "source": "mgx",
+   "target": "usd1",
+   "label": "settled $2B Binance investment in",
+   "type": "money",
+   "date": "2025-05-01",
+   "amount_usd": 2000000000
+  },
+  {
+   "source": "steve-witkoff",
+   "target": "uae-chips-deal",
+   "label": "discussed the deal in White House meetings per NYT; White House says he did not participate in negotiations",
+   "type": "political",
+   "date": "2025-05-15"
+  },
+  {
+   "source": "steve-witkoff",
+   "target": "one-high-line",
+   "label": "holds interest via WG 76 11th LLC (over $50M)",
+   "type": "ownership",
+   "date": "2025-08-13"
+  },
+  {
+   "source": "witkoff-group",
+   "target": "access-industries",
+   "label": "partner in One High Line ($525M loan Jan 2026) and Banyan Cay",
+   "type": "commercial",
+   "date": "2026-01-30",
+   "amount_usd": 525000000
+  },
+  {
+   "source": "steve-witkoff",
+   "target": "kirill-dmitriev",
+   "label": "negotiating counterpart (Washington Apr 2025, Miami Oct 2025)",
+   "type": "political",
+   "date": "2025-10"
+  },
+  {
+   "source": "qatar-investment-authority",
+   "target": "park-lane-hotel",
+   "label": "bought from a Witkoff-Mubadala JV for about $623M",
+   "type": "money",
+   "date": "2023-08",
+   "amount_usd": 623000000
+  },
+  {
+   "source": "sc-financial-technologies",
+   "target": "pakistan",
+   "label": "signed USD1 payments MoU (signed by Zach Witkoff)",
+   "type": "commercial",
+   "date": "2026-01-14"
+  },
+  {
+   "source": "scott-gast",
+   "target": "steve-witkoff",
+   "label": "certified new-entrant 278e as compliant",
+   "type": "regulatory",
+   "date": "2025-12-12"
+  },
+  {
+   "source": "david-warrington",
+   "target": "steve-witkoff",
+   "label": "stated he has divested from WLF and does not participate in matters affecting his interests",
+   "type": "political",
+   "date": "2026-02-01"
+  },
+  {
+   "source": "anna-kelly",
+   "target": "steve-witkoff",
+   "label": "stated he has 'fully divested' from WLF",
+   "type": "political",
+   "date": "2026-09"
+  },
+  {
+   "source": "elizabeth-warren",
+   "target": "state-department-oig",
+   "label": "asked (with Slotkin) to investigate Witkoff and Sacks over UAE chips",
+   "type": "regulatory",
+   "date": "2025-09-23"
+  },
+  {
+   "source": "state-department-oig",
+   "target": "elizabeth-warren",
+   "label": "referred the request to its Office of Investigations",
+   "type": "regulatory",
+   "date": "2025-12-12"
+  },
+  {
+   "source": "adam-schiff",
+   "target": "steve-witkoff",
+   "label": "led eight senators asking about WLF holdings and waivers",
+   "type": "political",
+   "date": "2025-10-22"
+  },
+  {
+   "source": "chris-murphy",
+   "target": "office-of-government-ethics",
+   "label": "asked (with Warren) why the 278e was unsigned and whether waivers exist",
+   "type": "regulatory",
+   "date": "2025-11-17"
+  },
+  {
+   "source": "gregory-meeks",
+   "target": "state-department-oig",
+   "label": "asked (with Amo and Garcia) for an investigation of Witkoff",
+   "type": "regulatory",
+   "date": "2026-01-08"
+  },
+  {
+   "source": "david-wachsman",
+   "target": "world-liberty-financial",
+   "label": "spokesman; denied Trump or Witkoff involvement in the Aryam deal",
+   "type": "media",
+   "date": "2026-02-01"
+  }
+ ],
+ "leads": [
+  {
+   "title": "Buyer of the $120M Witkoff Group interest",
+   "why_connected": "Neither 278e names the buyer, date or share; whether it went to a family member, a partner or an outside investor determines whether the sale reduced the conflict.",
+   "entities": [
+    "steve-witkoff",
+    "witkoff-group",
+    "alex-witkoff"
+   ],
+   "source_url": "https://www.whitehouse.gov/wp-content/uploads/2025/12/Witkoff-Steven.pdf"
+  },
+  {
+   "title": "Certificate of divestiture or transaction record for the WLF interest",
+   "why_connected": "The White House says he fully divested, but his July 2026 annual still lists WC Digital Fi; a 2026 278-T, OGE certificate or the 2026 calendar-year report would show when and to whom.",
+   "entities": [
+    "steve-witkoff",
+    "wc-digital-fi",
+    "world-liberty-financial",
+    "white-house"
+   ],
+   "source_url": "https://www.whitehouse.gov/wp-content/uploads/2026/09/Witkoff-Steven-2026-Annual.pdf"
+  },
+  {
+   "title": "Missing 278-T for the 1 Oct 2025 Reddit sale",
+   "why_connected": "The annual report lists a $1M-$5M Reddit sale; no periodic transaction report appears on the White House page; any late filing would be noted by the reviewer.",
+   "entities": [
+    "steve-witkoff",
+    "white-house"
+   ],
+   "source_url": "https://www.whitehouse.gov/disclosures/"
+  },
+  {
+   "title": "State Department records for Jan-Jun 2025 service (status, pay, confidential disclosure)",
+   "why_connected": "The certified 278e adds the State post; whether he served as an SGE and filed an OGE 450 is unanswered and FOIA-able.",
+   "entities": [
+    "steve-witkoff",
+    "state-department"
+   ],
+   "source_url": "https://www.warren.senate.gov/imo/media/doc/warren_murphy_letter_to_white_house_oge_on_witkoff_financial_disclosures.pdf"
+  },
+  {
+   "title": "State OIG Office of Investigations review",
+   "why_connected": "Referred on 12 Dec 2025; no outcome reported.",
+   "entities": [
+    "state-department-oig",
+    "steve-witkoff"
+   ],
+   "source_url": "https://www.banking.senate.gov/imo/media/doc/2025_09_23_sens_slotkin_and_warren_requesting_oig_investigation_into_uae_chips_corruption_response1.pdf"
+  },
+  {
+   "title": "Composition of the $68.9M cash distributions from Witkoff Holdings in 2025",
+   "why_connected": "The WSJ says at least $31M of Aryam's upfront payment went to Witkoff-family entities; whether any of it reached Steve through Witkoff Holdings is not shown.",
+   "entities": [
+    "witkoff-holdings-llc",
+    "aryam-investment-1",
+    "steve-witkoff"
+   ],
+   "source_url": "https://krdo.com/politics/cnn-us-politics/2026/02/02/uae-linked-firm-bought-major-stake-in-trump-family-crypto-company-wall-street-journal-reports/"
+  }
+ ],
+ "audit": {
+  "checked": [
+   "Central finding: White House statements that he 'has divested' (Warrington, Feb 2026) and 'fully divested' (Anna Kelly, 9 Sep 2026) against the annual 278e signed 29 Jul 2026 that still lists WC Digital Fi LLC / World Liberty Financial and WC Digital SC LLC / SC Financial Technologies inside Witkoff Holdings LLC (re-fetched from whitehouse.gov; files identical to the researchers' copies)",
+   "The $120,000,000 Witkoff Group line ('Proceeds from the sale of an interest in the company as part of divestiture planning', value 'Over $50,000,000') in both the new-entrant and the annual report",
+   "Witkoff Holdings distributions: $34,363,535 (new-entrant period) and $106,938,819 (2025), endnote '$68,875,000 in cash distributions and $38,063,819 in cryptocurrency'",
+   "Appointment dates (State Department 1/2025-6/2025; White House 30 Jun 2025, Non-Career), signature dates (13 Aug 2025; 29 Jul 2026, 75-day extension) and the 12 Dec 2025 certification by Scott F. Gast; annual report shows no reviewer signature",
+   "Reddit sale of 1 Oct 2025 and the absence of any Witkoff 278-T on the White House disclosures page",
+   "Newer reporting through 17 Nov 2026: no IG report, OGE action, reply to the senators or new filing found"
+  ],
+  "result": "corrected",
+  "changes": [
+   "Sub-claim 4 and summary: spelled out what the annual report can show. It covers calendar 2025 (signed July 2026), its Part 6 lists assets held at year end or that produced income during the year, and the WLF lines carry no value of their own. It therefore shows the interest was still held after the September 2025 'still in the process' statement and records no 2025 disposal, but it neither confirms nor contradicts the February and September 2026 statements that he had divested. Removed any implication that the July 2026 signature shows he held the interest in July 2026.",
+   "Sub-claim 3: Part 1 has 77 entries, of which 76 read 'Present' (not all 77); the Bally's consultancy ended 9/2023. The entries include officer, director, trustee and member roles, not only managing-member roles; the endnote is now quoted exactly.",
+   "Sub-claim 5: Reddit holding is shown on the new-entrant report and the sale on the annual; 278-T due date (about 15 Nov 2025) added; noted that the White House page posts 278-Ts for more than 20 other staff but none for him, and that no authority has found a lapse.",
+   "Dated Anna Kelly's ABC statement to 9 Sep 2026. All figures, dates and the $120M, $106,938,819, $68,875,000 and $38,063,819 lines were re-read on the PDFs and stand. Verdict and confidence unchanged."
+  ],
+  "new_sources": [
+   {
+    "title": "Steve Witkoff earned nearly $107M from Trump-affiliated crypto venture, disclosures show (ABC News, syndicated)",
+    "publisher": "ABC News / Good Morning America",
+    "url": "https://www.goodmorningamerica.com/news/story/steve-witkoff-earned-107m-trump-affiliated-crypto-venture-136307300",
+    "date": "2026-09-09",
+    "read": "excerpt"
+   },
+   {
+    "title": "Report on the senators' 22 Oct 2025 letter to Witkoff (cites his 13 Aug 2025 disclosure)",
+    "publisher": "Fortune",
+    "url": "https://fortune.com/crypto/2025/10/22/adam-schiff-senators-steve-witkoff-trump-uae-world-liberty-financial/",
+    "date": "2025-10-22",
+    "read": "excerpt"
+   }
+  ]
+ }
+}

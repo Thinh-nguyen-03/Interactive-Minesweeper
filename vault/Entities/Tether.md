@@ -4,30 +4,30 @@ kind: "entity"
 type: "company"
 aliases:
   - "Tether (Tether America)"
-connections: 27
-claims: 11
+connections: 29
+claims: 12
 tags:
   - "entity"
   - "type/company"
 ---
 # Tether
 
-Stablecoin issuer; Miller Strategies client and ballroom donor
+Stablecoin issuer; Cantor holds its convertible bond and custodies its reserves
 
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 11 checks |
-| Connections | 27 |
+| Appears in | 12 checks |
+| Connections | 29 |
 | Also known as | Tether (Tether America) |
 
 ## How Other Checks Describe It
 
+- Stablecoin issuer; Miller Strategies client and ballroom donor
 - Stablecoin issuer; Tether America listed as a ballroom donor
 - Issuer of USDT; hired Hines and paid his co-owned firm Nxum
 - USDT issuer; Cantor-custodied; Anchorage investor
 - Issuer of USDT, the largest stablecoin, and USAT
-- Stablecoin issuer; in Blumenthal's PSI inquiry
 
 ## Appears in Checks
 
@@ -42,16 +42,19 @@ Stablecoin issuer; Miller Strategies client and ballroom donor
 - [[C64 Lobbyists & Intermediaries with White House Access]] · Mostly accurate
 - [[C69 Master Timeline Money Events & Government Actions]] · Partly accurate
 - [[C92 The White House Ballroom Donor List]] · Partly accurate
+- [[C104 Howard Lutnick Holdings, Divestiture & Recusals]] · Mostly accurate
 
 ## Relationships
 
-### Money (9)
+### Money (11)
 
+- [[Tether]] *agreed to buy $30M of secured convertible notes* [[Satellogic]] · 2024-04 · $30M · [[C104 Howard Lutnick Holdings, Divestiture & Recusals|C104]]
 - [[Tether]] *lent undisclosed sum to* [[Dynasty Trust A]] · 2025 · [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business|C50]]
 - [[Tether]] *lent undisclosed sum to (reported)* [[Dynasty Trust A]] · 2025 · [[C35 Howard Lutnick, Cantor Fitzgerald & Tether|C35]]
 - [[Tether]] *agreed to pay $415K/month; ~$6.3M paid (WSJ)* [[Nxum Group]] · 2025-05 · $6.3M · [[C54 The Crypto Revolving Door|C54]]
 - [[Tether]] *donor (Tether America)* [[White House ballroom]] · 2025-10 · [[C64 Lobbyists & Intermediaries with White House Access|C64]]
 - [[Tether]] *donor to (via Tether America)* [[White House ballroom]] · 2025-10 · [[C23 SEC Crypto Cases Dropped & the Firms' Donations|C23]]
+- [[Tether]] *lent undisclosed sum (credit filing 7 Oct 2025, reported)* [[Dynasty Trust A]] · 2025-10-07 · [[C104 Howard Lutnick Holdings, Divestiture & Recusals|C104]]
 - [[Tether]] *Tether America listed donor* [[White House ballroom]] · 2025-10-23 · [[C92 The White House Ballroom Donor List|C92]]
 - [[Tether]] *Tether America listed donor (amount undisclosed)* [[White House ballroom]] · 2025-10-23 · [[C33 Corporate Lawsuit Settlements & Donations to Trump's Library & Ballroom|C33]]
 - [[Tether]] *$100M equity investment* [[Anchorage Digital]] · 2026-02-05 · $100M · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]]
@@ -76,8 +79,9 @@ Stablecoin issuer; Miller Strategies client and ballroom donor
 - [[Richard Blumenthal]] *sought records on Nxum payments* [[Tether]] · 2026-10-22 · [[C54 The Crypto Revolving Door|C54]]
 - [[Tether]] *USDT allegedly used for sanctions evasion by* [[Iran]] · [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business|C50]]
 
-### Commercial (10)
+### Commercial (11)
 
+- [[Cantor Fitzgerald]] *holds convertible bond (April 2024) and custodies reserves* [[Tether]] · 2024-04 · $600M · [[C104 Howard Lutnick Holdings, Divestiture & Recusals|C104]]
 - [[Howard Lutnick]] *negotiated Cantor investment in* [[Tether]] · 2024-04 · [[C35 Howard Lutnick, Cantor Fitzgerald & Tether|C35]]
 - [[Cantor Fitzgerald]] *custodies Treasury reserves for fees* [[Tether]] · 2024-11 · [[C35 Howard Lutnick, Cantor Fitzgerald & Tether|C35]]
 - [[Cantor Fitzgerald]] *sought backing for bitcoin lending from (talks reported)* [[Tether]] · 2024-11 · [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business|C50]]

@@ -4,8 +4,8 @@ kind: "entity"
 type: "law"
 aliases:
   - "Genius Act"
-connections: 14
-claims: 5
+connections: 16
+claims: 7
 tags:
   - "entity"
   - "type/law"
@@ -17,8 +17,8 @@ Stablecoin law Trump pushed while his family profits from USD1.
 | | |
 |---|---|
 | Type | Law or policy |
-| Appears in | 5 checks |
-| Connections | 14 |
+| Appears in | 7 checks |
+| Connections | 16 |
 | Also known as | Genius Act |
 
 ## How Other Checks Describe It
@@ -36,6 +36,8 @@ Stablecoin law Trump pushed while his family profits from USD1.
 - [[C35 Howard Lutnick, Cantor Fitzgerald & Tether]] · Mostly accurate
 - [[C54 The Crypto Revolving Door]] · Mostly accurate
 - [[C90 World Liberty's Token-Swap Pitch & Its Partners]] · Mostly accurate
+- [[C104 Howard Lutnick Holdings, Divestiture & Recusals]] · Mostly accurate
+- [[C106 David Sacks Holdings, Ethics Waivers & AI & Crypto Policy]] · Mostly accurate
 
 ## Relationships
 
@@ -47,11 +49,12 @@ Stablecoin law Trump pushed while his family profits from USD1.
 - [[GENIUS Act]] *benefits* [[World Liberty Financial]] · [[C11 The GENIUS & CLARITY Acts & the Family's Stablecoin|C11]]
 - [[USD1]] *marketed as 2nd-largest compliant coin* [[GENIUS Act]] · [[C11 The GENIUS & CLARITY Acts & the Family's Stablecoin|C11]]
 
-### Political (9)
+### Political (10)
 
 - [[Bo Hines]] *pushed three-year transition period (WSJ)* [[GENIUS Act]] · 2025 · [[C54 The Crypto Revolving Door|C54]]
 - [[Elizabeth Warren]] *pushed anti-corruption amendment re Trump/USD1* [[GENIUS Act]] · 2025-05 · [[C11 The GENIUS & CLARITY Acts & the Family's Stablecoin|C11]]
 - [[David Sacks]] *coordinated White House push for* [[GENIUS Act]] · 2025-07 · [[C34 David Sacks The AI & Crypto Adviser & His Investments|C34]]
+- [[David Sacks]] *promoted the bill* [[GENIUS Act]] · 2025-07 · [[C106 David Sacks Holdings, Ethics Waivers & AI & Crypto Policy|C106]]
 - [[US Congress]] *passed* [[GENIUS Act]] · 2025-07 · [[C11 The GENIUS & CLARITY Acts & the Family's Stablecoin|C11]] [[C35 Howard Lutnick, Cantor Fitzgerald & Tether|C35]]
 - [[Donald Trump]] *lobbied for and signed into law* [[GENIUS Act]] · 2025-07-18 · [[C11 The GENIUS & CLARITY Acts & the Family's Stablecoin|C11]]
 - [[Donald Trump]] *signed* [[GENIUS Act]] · 2025-07-18 · [[C35 Howard Lutnick, Cantor Fitzgerald & Tether|C35]]

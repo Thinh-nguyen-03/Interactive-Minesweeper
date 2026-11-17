@@ -64,7 +64,7 @@
     {
       "statement": "The Metals Company, advised by Cantor, is seeking the first U.S. deep-sea mining permits from NOAA, which sits under Lutnick; Lutnick's recusal is unclear.",
       "verdict": "mostly-accurate",
-      "finding": "Evidence: the link and timeline are documented (AP, NOAA, company releases); the recusal is unverified. AP (2026-05-21) reports that TMC 'has received financial advice from Cantor Fitzgerald', and other outlets call Cantor one of TMC's leading bankers. AP also notes that Lutnick 'is now in charge of NOAA and could be influential in the final decision on permits'. The April 2025 seabed-mining executive order gave Lutnick 60 days to expedite licences and permits. Timeline: TMC filed within about a week of the order; NOAA's streamlined rule allowing consolidated applications came in January 2026; TMC filed the first consolidated exploration-plus-commercial-recovery application on 2026-02-06; NOAA found it in substantial compliance around 2026-03-09 and received an amended application on 2026-03-19, then found it in full compliance around 2026-04-28 to 05-01; Federal Register publication, with a notice of intent for an EIS on 2026-08-17; public comment closed 2026-10-19; TMC expects a decision by end of Q1 2027. No commercial permit had been issued as of Nov 2026. Earthjustice and others are suing over NOAA's certification of a TMC USA exploration application. Recusal: the NYT reported in 2025 that Lutnick's ethics agreement would require him, at least initially, to recuse from matters involving 106 corporate entities. Whether TMC is on that list, and whether Lutnick has stepped back from TMC decisions, was not found. Commerce says he complies with all divestiture and recusal requirements. Korea Zinc took 5% of TMC for $85M in Jun 2025.",
+      "finding": "Evidence: the link and timeline are documented (AP, NOAA, company releases); the recusal is unverified. AP (2026-05-21) reports that TMC 'has received financial advice from Cantor Fitzgerald', and other outlets call Cantor one of TMC's leading bankers. AP also notes that Lutnick 'is now in charge of NOAA and could be influential in the final decision on permits'. The April 2025 seabed-mining executive order gave Lutnick 60 days to expedite licences and permits. Timeline: TMC filed within about a week of the order; NOAA's streamlined rule allowing consolidated applications came in January 2026; TMC filed the first consolidated exploration-plus-commercial-recovery application on 2026-02-06; NOAA found it in substantial compliance around 2026-03-09 and received an amended application on 2026-03-19, then found it in full compliance around 2026-04-28 to 05-01; Federal Register publication, with a notice of intent for an EIS on 2026-08-17; public comment closed 2026-10-19; TMC expects a decision by end of Q1 2027. No commercial permit had been issued as of Nov 2026. Earthjustice and others are suing over NOAA's certification of a TMC USA exploration application. Recusal: secondary coverage attributes to the NYT (2025) a report that Lutnick would, at least initially, recuse from matters involving 106 corporate entities. That figure could not be matched to his ethics agreement (read in full), whose Appendix A lists several hundred subsidiaries of Cantor, BGC and Newmark, so it is unverified. Under the agreement, his bar on specific-party matters in which Cantor, BGC or Newmark is a party ran for one year after his resignation or as long as he held an interest, whichever was later, so it ended about February 2026; his 18 U.S.C. 208 bar on matters affecting the firms' financial interests ended when he divested on 6 Oct 2025 (with a limited waiver for broad policy matters from 8 Jul 2025). Being a Cantor client does not make TMC a party covered by those bars. Whether Lutnick has stepped back from TMC decisions was not found. Commerce says he complies with all divestiture and recusal requirements. Korea Zinc took 5% of TMC for $85M in Jun 2025.",
       "sources": [
         "https://wtop.com/news/2026/05/trumps-push-for-deep-sea-mining-spawns-new-companies-and-fast-tracked-rules/",
         "https://www.bnnbloomberg.ca/business/2026/05/21/trumps-push-for-deep-sea-mining-spawns-new-companies-and-fast-tracked-rules/",
@@ -74,7 +74,8 @@
         "https://earthjustice.org/press/2026/lawsuit-challenges-trump-administration-greenlighting-of-international-deep-sea-mining-exploration-permit",
         "https://www.yahoo.com/news/howard-lutnick-trumps-commerce-pick-194648767.html",
         "https://www.mining.com/?p=1181501",
-        "https://www.miningweekly.com/article/tmc-says-deep-sea-mining-application-makes-permitting-progress-2026-03-09"
+        "https://www.miningweekly.com/article/tmc-says-deep-sea-mining-application-makes-permitting-progress-2026-03-09",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/436440318CFB67BE85258C1C003219C1/$FILE/Lutnick%2C%20Howard%20%20finalEA.pdf"
       ]
     },
     {
@@ -136,7 +137,8 @@
     "NOAA has not issued TMC any commercial recovery permit. Its consolidated application is in EIS review, with a decision expected around Q1 2027.",
     "'Which Trump allies got shares': the only named investors (Schwarzman, Griffin, Cohen) come from a Senate letter, not from USAR disclosures.",
     "Perpetua's 'Cantor-linked' status rests on a 2021 offering and analyst coverage. Its more consequential political link is its largest shareholder, John Paulson.",
-    "Gains: USAR traded around $9.30 in Oct 2026 against the $21.50 PIPE price, so PIPE buyers were not in profit at that date."
+    "Gains: USAR traded around $9.30 in Oct 2026 against the $21.50 PIPE price, so PIPE buyers were not in profit at that date.",
+    "2026-11-17 (holdings audit, C104/C105): Claimed: the NYT reported a recusal from matters involving '106 corporate entities'. The record shows: the figure, known only through secondary coverage of the NYT, could not be matched to his ethics agreement (Appendix A lists several hundred Cantor, BGC and Newmark subsidiaries); treat it as unverified. The agreement's one-year bar on specific-party matters involving Cantor, BGC and Newmark ended about February 2026, not indefinitely."
   ],
   "denials_and_context": [
     "Commerce: Lutnick divested Cantor and complies with all divestiture and recusal requirements in his ethics agreement. It says neither he nor his department has discussed rare-earth companies with Cantor.",
@@ -475,6 +477,13 @@
       "publisher": "E&E News",
       "url": "https://www.eenews.net/articles/former-trump-staffers-allies-angle-for-minerals-cash/",
       "date": "2025-08-26"
+    },
+    {
+      "title": "Howard Lutnick ethics agreement (21 Jan 2025)",
+      "publisher": "U.S. Office of Government Ethics",
+      "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/436440318CFB67BE85258C1C003219C1/$FILE/Lutnick%2C%20Howard%20%20finalEA.pdf",
+      "date": "2025-01-21",
+      "read": "full"
     }
   ],
   "entities": [
@@ -1300,8 +1309,8 @@
       "source_url": "https://www.bairdmaritime.com/amp/story/offshore/undersea-mining/odyssey-to-merge-with-ex-rio-tinto-ceos-deep-sea-mining-firm-in-1b-deal"
     },
     {
-      "title": "Is TMC (or AOMC) on Lutnick's 106-entity recusal list?",
-      "why_connected": "The NYT reported an initial recusal from matters involving 106 entities; the OGE ethics agreement and any waivers would settle whether he is walled off from Cantor clients before NOAA.",
+      "title": "Has Lutnick stepped back from TMC or AOMC permit decisions?",
+      "why_connected": "A reported '106-entity' recusal figure could not be matched to his ethics agreement, and the agreement's one-year specific-party bar on Cantor, BGC and Newmark ended about February 2026. Any Commerce ethics-office screening of matters involving Cantor clients, or impartiality determinations under 5 C.F.R. 2635.502, is not public.",
       "entities": [
         "howard-lutnick",
         "the-metals-company",
@@ -1347,13 +1356,15 @@
     "checked": [
       "Schiller and Sorial as GreenMet shareholders (OCCRP/NPR) and their response",
       "Cantor's role with The Metals Company and the status of TMC's NOAA application",
-      "Cantor's role in American Ocean Minerals' >$150M placement and the Odyssey merger"
+      "Cantor's role in American Ocean Minerals' >$150M placement and the Odyssey merger",
+      "2026-11-17 (holdings audit, C104/C105): The '106 entities' recusal figure and the length of the specific-party bar, against Lutnick's ethics agreement"
     ],
-    "result": "upheld",
+    "result": "corrected",
     "changes": [
       "AOMC: confirmed that Citi and Cantor were joint private placement agents and capital-markets advisers (company release, Reuters). Added that the merger's closing was not found through Nov 2026.",
       "TMC: added NOAA's substantial-compliance finding (~2026-03-09) and the amended application (2026-03-19) before the full-compliance finding. Still no report of a Lutnick recusal on TMC, and Cantor is again described as one of TMC's leading bankers.",
-      "GreenMet: the shareholdings and the passive-investor denial were re-confirmed via CB Insights/CNBC. Schiller's director status rests on OCCRP. An unverified dossier claim that they left board roles in early 2025 was not adopted."
+      "GreenMet: the shareholdings and the passive-investor denial were re-confirmed via CB Insights/CNBC. Schiller's director status rests on OCCRP. An unverified dossier claim that they left board roles in early 2025 was not adopted.",
+      "2026-11-17 (holdings audit, C104/C105): Marked the '106 entities' figure unverified (not matched to the ethics agreement, which lists several hundred subsidiaries) and added that the one-year specific-party bar on Cantor, BGC and Newmark ended about February 2026; reworded lead 2. Verdict unchanged."
     ],
     "new_sources": [
       {
@@ -1373,6 +1384,13 @@
         "publisher": "Pulitzer Center",
         "url": "https://pulitzercenter.org/stories/challenges-persist-tmcs-bid-mine-deep-sea-even-after-boost-trump",
         "date": "2026"
+      },
+      {
+        "title": "Howard Lutnick ethics agreement (21 Jan 2025)",
+        "publisher": "U.S. Office of Government Ethics",
+        "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/436440318CFB67BE85258C1C003219C1/$FILE/Lutnick%2C%20Howard%20%20finalEA.pdf",
+        "date": "2025-01-21",
+        "read": "full"
       }
     ]
   }

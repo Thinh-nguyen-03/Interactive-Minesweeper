@@ -1,0 +1,1144 @@
+{
+  "id": "C108",
+  "title": "Pam Bondi & Todd Blanche: Prior Clients, Holdings & Recusals",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "The two officials' OGE filings document the core of this lead. Bondi earned $1.07M from Ballard Partners and was paid $2.97M in DWAC shares by Trump Media's predecessor. She sold her Trump Media shares and warrants on 2 April 2025, within her 90-day deadline. Blanche, Trump's former defence lawyer, signed the 7 April 2025 memo disbanding NCET while he held $158K-$470K of crypto. He disposed of it by sale and by gifts to relatives between 29 May and 2 June 2025. His 5 June 2025 certification answers 'No' to 'I received a waiver pursuant to 18 U.S.C. § 208', but in July 2026 he answered 'Yes' when senators asked whether he received a written 208(b)(1) determination before the memo; a 208(b)(1) determination is the statutory form of such a waiver, and the documents cannot be reconciled on their face. No authority has addressed the discrepancy. OGE notes that DOJ's inspector general 'declined further action'. The links between FARA, FCPA or other decisions and specific former clients (Qatar, Ballard clients) rest on timing, recusal requests and our own cross-referencing. No authority has found that either official breached 18 U.S.C. 208 or an ethics agreement.",
+  "sub_claims": [
+    {
+      "statement": "Pam Bondi's nominee disclosure lists her Ballard Partners income and the Ballard clients she served, her Trump Media holdings and her other income.",
+      "verdict": "confirmed",
+      "finding": "Grade: documented (her OGE Form 278e nominee report, signed 3 January 2025 and certified by OGE on 14 January 2025, read in full). Income in the reporting period: Ballard Partners $1,067,000 (consultant since January 2023); America First Policy Institute $520,000; Panza, Maurer & Maynard (law firm) $203,738; Newsmax $27,600 and a $20,000 bitnile.com speaking fee (both through her PB Advisory LLC); and $2,969,563 of consulting pay from Renatus LLC (Trump Media's predecessor) 'compensated with shares of Digital World Acquisition Corp'. She held Trump Media shares worth $1M-$5M and vested Trump Media warrants worth $1M-$5M. Part 4 (sources paying more than $5,000 for her services) names six Ballard clients she personally served: Aiden Torch Financial, the Florida Sheriffs Association, the Florida Sheriffs Risk Management Fund, Safety Net DC, Major County Sheriffs of America and iGas USA, plus Pfizer as a client of the law firm. Qatar is not on the list: the form covers 2023-24, and her registration as a foreign agent for Qatar's embassy at Ballard dates from 2019-20 (C64, C65, C73). Senate Judiciary Democrats (15 January 2025, read in full) said she had lobbied for more than 30 Ballard clients, including Amazon, Uber, the GEO Group and Qatar. Their statement that she was 'earning $115,000 per month' from Qatar overstates the record: that fee was paid to Ballard, and her own share is not on record. She was owed a fixed $500,001-$1,000,000 by former client CGI Investment Management Group and $15,001-$50,000 in fees by the law firm.",
+      "sources": [
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/ABF60CD8EC97BBB585258C150032DCB2/$FILE/Bondi%2C%20Pam%20%20final278.pdf",
+        "https://www.judiciary.senate.gov/press/dem/releases/pam-bondis-extensive-lobbying-for-wealthy-special-interests-and-foreign-government-poses-serious-conflict-of-interest",
+        "https://www.citizen.org/article/conflicted-justice/"
+      ]
+    },
+    {
+      "statement": "Bondi's ethics agreement set recusal commitments for her former employers and clients, and she received no waiver or authorization.",
+      "verdict": "confirmed",
+      "finding": "Grade: documented (ethics agreement of 14 January 2025 and her Certification of Ethics Agreement Compliance, both read in full). The agreement commits her to resign from Ballard Partners, the law firm and AFPI on confirmation. Under the impartiality rule (5 C.F.R. 2635.502) she would stay out of particular matters involving specific parties in which Ballard, the law firm, AFPI or SOMA Global is a party or represents a party, for one year after she resigned. She would also stay out of such matters involving any former client for one year after she last served that client. Newsmax was handled the same way for one year, unless she obtained written authorization. Under 18 U.S.C. 208, she would not take part in matters affecting Trump Media until she divested it, or in matters affecting CGI's or the law firm's ability to pay her. She had to divest Trump Media 'not later than 90 days after my confirmation'. The certification shows she was confirmed on 4 February 2025 and signed the form on 5 May 2025 (due 12 May). It reports the divestitures completed and disclosed on a 278-T filed on 5 May 2025, and interim recusals complied with. It answers 'No' to receiving a section 208 waiver, a 2635.502(d) authorization or a 2635.503(c) waiver. What this means: the Ballard recusal ran until about February 2026. The former-client recusal covered only clients she had served in the year before she left, so it did not reach Qatar, whose work ended in 2020-21. No public recusal memo listing specific matters was found.",
+      "sources": [
+        "https://extapps2.oge.gov/201/Presiden.nsf/FC3B6F6F496E257B85258C150032F344/$FILE/Bondi,%20Pam%20%20finalEA.pdf",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/3CDD529EC3045A9785258C84002C1259/$FILE/Bondi%20EA%20Certification%201%20of%201.pdf"
+      ]
+    },
+    {
+      "statement": "Bondi sold her Trump Media shares and warrants on 2 April 2025, and Rep. Raskin asked the inspector general to investigate.",
+      "verdict": "confirmed",
+      "finding": "Grade: documented (her 278-T, read in full). The form, signed 5 May 2025 and certified by OGE on 12 May 2025, lists two sales dated 2 April 2025: Trump Media & Technology Group shares, $1,000,001-$5,000,000, and Trump Media warrants, $250,001-$500,000. Both are marked as not reported late. The warrants were valued at $1M-$5M on her January 2025 nominee report; the lower range at sale reflects their value on a different date, and the forms give no prices. The sale fell within her 90-day divestiture deadline (confirmed 4 February 2025, so the deadline was about 5 May), so the sale itself was required; only its date has been questioned. Rep. Jamie Raskin asked Inspector General Michael Horowitz on 20 May 2025 to examine whether she or other DOJ officials traded on non-public tariff information. Bondi told a House hearing in June 2025 that the sale complied with her ethics agreement (as summarised by Voz; the hearing record was not read). Her termination report (signed 16 June 2026, OGE-certified 18 September 2026, read in full) lists no transactions and carries no reviewer note about an inspector-general matter. No inspector-general response, finding or closure was found as of 17 November 2026. This builds on C65 and C102, and the evidence rule of C102 applies: a dated sale is not evidence that non-public information was used.",
+      "sources": [
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/102E39A4A731A68785258C8A002C7208/$FILE/Pam-Bondi-05.05.2025-278T.pdf",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/ABF60CD8EC97BBB585258C150032DCB2/$FILE/Bondi%2C%20Pam%20%20final278.pdf",
+        "https://democrats-judiciary.house.gov/UploadedFiles/2025-05-20.Raskin_to_Horowitz_DOJ_OIG_re_Bondi_Insider_Trading.pdf",
+        "https://voz.us/en/politics/250624/26126/pam-bondi-defends-before-the-house-the-sale-of-more-than-1-million-in-trump-media-shares.html",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/5A7DD536E124894585258E7A002D9D3E/$FILE/Pam-Bondi-2026-278TERM.pdf",
+        "https://www.propublica.org/article/pam-bondi-trump-media-stock-tariffs"
+      ]
+    },
+    {
+      "statement": "Bondi, a former registered agent for Qatar, signed the Justice Department memo clearing acceptance of Qatar's 747 without recusing.",
+      "verdict": "mostly-accurate",
+      "finding": "Grade: documented for the prior registration and the signature; the memo's text is not public. Ballard's 2019-20 FARA work for Qatar's embassy, with Bondi listed, and her signature on a May 2025 memo finding the gift 'legally permissible' are established in C64, C65 and C73 and are not repeated here. What this check adds: (a) Her ethics agreement's former-client recusal ran for one year after last service, so on its terms it did not reach a principal she last served in 2020-21. A DOJ official told CNN that career ethics officials found no conflict requiring recusal. CREW and Sen. Durbin argued she should have stepped aside, which the general impartiality provision (5 C.F.R. 2635.502(a)(2)) allows. (b) The memo is still unreleased. Freedom of the Press Foundation (represented by American Oversight) sued in D.D.C. (No. 25-2432) in July 2025 after DOJ estimated 620 days to produce one document. DOJ moved to strike background allegations from the complaint, and the case is listed as open, with no production reported as of November 2026. No inspector-general or OGE finding on her role was found. The record shows a prior paid relationship and a later favourable decision; it does not show that the one influenced the other.",
+      "sources": [
+        "https://extapps2.oge.gov/201/Presiden.nsf/FC3B6F6F496E257B85258C150032F344/$FILE/Bondi,%20Pam%20%20finalEA.pdf",
+        "https://www.yahoo.com/news/doj-lawyers-cleared-pam-bondi-164935036.html",
+        "https://freedom.press/issues/fpf-sues-doj-for-trump-memo-on-qatari-jet/",
+        "https://americanoversight.org/opposition-filed-against-doj-effort-to-strike-context-from-complaint-about-qatars-gifted-jet-to-trump-administration/",
+        "https://americanoversight.org/litigation/freedom-of-the-press-foundation-v-doj-qatars-gifted-jet-to-trump-administration/"
+      ]
+    },
+    {
+      "statement": "Bondi and Blanche narrowed FARA and FCPA enforcement in ways that benefit lobbyists and companies, including former clients.",
+      "verdict": "partly-accurate",
+      "finding": "Grade: documented for the policy changes. No source ties them to a specific former client. Bondi's 5 February 2025 memo 'General Policy Regarding Charging, Plea Negotiations, and Sentencing' (read in the relevant part) disbanded the Foreign Influence Task Force. It limited criminal charges under FARA and 18 U.S.C. 951 'to instances of alleged conduct similar to more traditional espionage by foreign government actors', with the FARA Unit to 'focus on civil enforcement, regulatory initiatives, and public guidance'. Executive Order 14209 (10 February 2025) paused new FCPA cases for 180 days. Blanche's 9 June 2025 FCPA guidelines (read in part) direct prosecutors to focus on individuals and cartel-linked bribery, consider collateral consequences, and require Criminal Division sign-off for new cases. Critics, such as a FARA lawyer quoted by Responsible Statecraft, said the FARA change lets foreign-influence work go undisclosed. Law-firm analyses say a September 2025 presidential memorandum later pointed Joint Terrorism Task Forces at FARA again (excerpt). These are policies that apply to everyone, which is how both officials have described their enforcement memos. We found no reporting that a FARA or FCPA matter involving Ballard Partners, Qatar or a Blanche Law client was dropped because of them. That link is unverified.",
+      "sources": [
+        "https://www.justice.gov/ag/media/1388541/dl?inline",
+        "https://www.justice.gov/dag/media/1403031/dl?inline",
+        "https://responsiblestatecraft.org/fara",
+        "https://www.mondaq.com/unitedstates/money-laundering/1683878/is-the-bondi-memorandum-dead-trump-executive-order-unpauses-fara-enforcement"
+      ]
+    },
+    {
+      "statement": "Bondi took part in other Justice Department matters involving former Ballard clients (Warner Bros. Discovery bidders, UnitedHealth in the Mangione case).",
+      "verdict": "unverified",
+      "finding": "Grade: documented requests; any improper participation is unverified. (a) On 17 December 2025, Sens. Warren and Blumenthal asked Bondi to recuse from the antitrust review of bids for Warner Bros. Discovery. They noted that Ballard Partners had taken on Netflix and Paramount as clients after her nomination, and that DOJ had said she would lead the review with Antitrust chief Gail Slater. DOJ spokesperson Gates McGavick told CNN that 'all officials at the Department of Justice follow the guidance of career ethics officials'. Ballard called the letter a 'blindly partisan' attack (excerpts). The request fell within her one-year Ballard recusal period, but that rule covers matters in which Ballard 'is a party or represents a party'. Whether Ballard appeared before DOJ in the review is not shown, and no recusal decision was published. (b) Luigi Mangione's lawyers argued in December 2025 that her April 2025 decision to seek the death penalty was tainted because Ballard lobbies for UnitedHealth Group and she still had a Ballard retirement plan. Prosecutors defended her impartiality, saying she had cut financial ties with Ballard and calling the conflict claims meritless (excerpts). On 30 January 2026, Judge Margaret Garnett dismissed the death-eligible count on statutory grounds (stalking is not a 'crime of violence'). No ruling on the conflict claim was found. The Ballard 401(k) she kept holds only a JPMorgan money-market fund, according to both her nominee and termination reports. No authority has found that she breached her agreement in either matter.",
+      "sources": [
+        "https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-demand-bondi-recuse-from-warner-bros-deal-review-amid-apparent-conflicts-of-interest-trump-doj-cloud-of-corruption",
+        "https://www.warren.senate.gov/newsroom/news-coverage/senators-demand-ag-pam-bondi-recuse-herself-from-warner-bros-antitrust-review",
+        "https://www.bangordailynews.com/2025/12/20/nation/luigi-mangiones-lawyers-say-bondis-death-penalty-decision-was-tainted-by-conflict-of-interest/",
+        "https://www.courthousenews.com/prosecutors-defend-pam-bondis-impartiality-in-mangione-murder-case/",
+        "https://courthousenews.com/judge-rules-feds-cant-seek-death-penalty-against-luigi-mangione/",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/5A7DD536E124894585258E7A002D9D3E/$FILE/Pam-Bondi-2026-278TERM.pdf"
+      ]
+    },
+    {
+      "statement": "Todd Blanche's disclosure lists his representation of Donald Trump, his other law clients and his crypto holdings.",
+      "verdict": "confirmed",
+      "finding": "Grade: documented (his DAG nominee 278e, signed 18 January 2025 and certified by OGE on 11 February 2025; his AG nominee 278e, signed 11 June 2026 and certified on 30 June 2026; both read in full). Clients paying more than $5,000: Save America PAC, for 'Representing President Donald J. Trump'; Bus Patrol; Dalbir Singh; CLS Global FZC LLC (UAE); Mendel Deutsch; Standard Holdings; Roadget Business Pte. (Singapore); HongShan Capital Advisors (Hong Kong); Double Care; Ron Frey; Boston Consulting Group; Fresenius Medical Care North America (at Cadwalader); and one confidential client said to be the subject of a non-public grand-jury proceeding. Income: a Blanche Law PLLC partnership draw of $2,160,000 and $96,972 in salary, with his stake valued at $1M-$5M (2025 report); a final draw of $490,000 (2026 reports). Crypto in a Coinbase account: bitcoin $100,001-$250,000, ether $50,001-$100,000, and solana, cardano, ethereum classic, polygon, polkadot, Basic Attention Token, Quant and 'Decentralized' at $1,001-$15,000 each. He also held Coinbase Global shares worth $1,001-$15,000. By our arithmetic the coins total $158,010-$470,000, or $159,011-$485,000 with the Coinbase shares, which explains the two ranges in circulation. His June 2026 AG report shows no crypto. It also lists his service as Acting Librarian of Congress (May-December 2025) and as Acting AG from April 2026. One listed client, CLS Global FZC LLC, had signed a plea agreement with the US Attorney in Massachusetts on 8 January 2025, before he took office (the letter is addressed to Lex Urban of The Blanche Law Firm), and was sentenced on 2 April 2025; no source reports any role for Blanche in that case.",
+      "sources": [
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4B1E6A519F015E7D85258C30003200C5/$FILE/Blanche%2C%20Todd%20%20final278.pdf",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/17E740413EA73B3485258E29002D9F37/$FILE/Blanche%2C%20Todd%20%20final278.pdf",
+        "https://www.gibsondunn.com/wp-content/uploads/2026/01/CLS-Global-FZC-LLC_Plea-Agreement.pdf",
+        "https://www.justice.gov/usao-ma/pr/cryptocurrency-financial-services-firm-sentenced-cryptocurrency-wash-trading"
+      ]
+    },
+    {
+      "statement": "Blanche signed the 7 April 2025 memo ending 'regulation by prosecution' and disbanding the crypto enforcement team while he still held crypto, and disposed of it only in late May and early June 2025, partly by gifts to relatives.",
+      "verdict": "confirmed",
+      "finding": "Grade: documented (his ethics agreement, the memo, his 278-T and his certification, all read in full). His ethics agreement of 10 February 2025 lists the ten coins and Coinbase stock. It commits him to divest them within 90 days of confirmation and not to take part in any particular matter with a direct and predictable effect on his interest in the virtual currency until then, unless he first obtains a written 208(b)(1) waiver. He was confirmed on 5 March 2025 and sworn in on 6 March, so the deadline was about 3 June 2025. On 7 April 2025 he signed 'Ending Regulation By Prosecution'. It tells prosecutors to stop targeting exchanges, mixers and offline wallets 'for the acts of their end users', not to charge certain regulatory violations without proof of wilfulness, and to close inconsistent investigations. It also orders the Market Integrity and Major Frauds Unit to cease crypto enforcement and disbands NCET 'effective immediately'. His 278-T, signed 3 June 2025 and OGE-certified 10 July 2025, lists sales of bitcoin ($100,001-$250,000, 2 June), ether ($15,001-$50,000, 2 June), solana (30 May), ethereum classic (2 June), polygon (30 May), polkadot and Quant (31 May), and Coinbase stock (29 May). It carries a reviewer note: 'The following crypto assets were gifted in their entirety to my grandchild and adult children: Bitcoin, Solana, Cardano, and Ethereum.' The form is therefore ambiguous: three of the four 'gifted' assets also appear as 'Sale' lines. ProPublica reads it as $116K-$315K gifted and $5K-$75K sold. Basic Attention Token and 'Decentralized' appear in no later filing we read, a gap the Campaign Legal Center (CLC) also flagged. The dispositions met the 90-day deadline. The question raised is his participation in the memo before divesting. Under 18 U.S.C. 208, gifts to adult children and grandchildren end the imputed interest, because only a spouse's and minor children's interests are imputed.",
+      "sources": [
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/0E4C3EB0ACE8404785258C30003217F2/$FILE/Blanche%2C%20Todd%20%20finalEA.pdf",
+        "https://www.justice.gov/dag/media/1395781/dl?inline",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/9E22E6BED062C62D85258CC5002C7DEA/$FILE/Todd-Blanche-06.03.2025-278T.pdf",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/92E6C79E88537F4485258CA1002C2338/$FILE/Blanche%20EA%20Certification%201%20of%201.pdf",
+        "https://www.propublica.org/article/todd-blanche-crypto-doj-trump"
+      ]
+    },
+    {
+      "statement": "Blanche's participation in the crypto memo was cleared by a waiver or ethics determination.",
+      "verdict": "unverified",
+      "finding": "Grade: the two documents conflict on their face, no waiver or determination is public, and no authority has addressed the conflict. (1) Certification. His Certification of Ethics Agreement Compliance as Deputy AG, digitally signed 5 June 2025 (read in full, including the form's answer fields), asks at item 7a: 'I received a waiver pursuant to 18 U.S.C. § 208.' The box marked is 'No', and the follow-up 'If yes, indicate the date of the waiver and indicate the financial interest covered by the waiver' is blank. Item 7b ('I received an authorization pursuant to 5 C.F.R. § 2635.502(d)') and 7c (a 2635.503(c) waiver) are also 'No'. Item 5 is 'Yes': 'I have complied with my interim recusal obligations pending the divestitures required by my ethics agreement.' The appointee comment reads: 'Some assets were gifted to family members, whose financial interests are not imputed to me, and did not require a transaction report.' The section's heading adds: '(Consult with your agency's DAEO if uncertain under what authority a waiver or authorization was granted.)' The question is not limited by date or matter. (2) Senate answers. Sen. Hirono's written question 16(b) (questions dated 17 July 2026; DOJ's compiled responses dated 20 July 2026, read in excerpt) asks: 'Did you receive a written determination pursuant to 18 U.S.C. § 208(b)(1) in advance of issuing your April 7, 2025 memorandum regarding cryptocurrency enforcement? If so, please provide a copy.' His answer: 'Yes, but such determinations are not subject to disclosure.' To 16(f), why he did not recuse, he answered that the memo 'set general enforcement priorities and did not constitute a particular matter having a direct and predictable effect on my personal financial interests within the meaning of 18 U.S.C. § 208. The matter was reviewed with, and cleared by, the Department's ethics officials in advance.' To 16(a) he said the matter 'was appropriately flagged, addressed, and cleared in advance with the Department's ethics officials' and declined to itemise 'privileged internal ethics communications'. (3) Can they be reconciled? Not from the documents. A '208(b)(1) determination' and a 'section 208 waiver' are the same instrument: section 208(b)(1) exempts an employee who 'receives in advance a written determination' that the interest is not so substantial as to affect his services, and the White House's own posted 208(b)(1) instruments are titled 'Waiver' (Kennedy's of 18 February 2025 says 'This waiver reflects my determination...'). On the dates, a determination received before 7 April 2025 would predate the 5 June 2025 certification, which answers 'No'. His other answer, that the memo was not a particular matter, would mean no waiver was needed, which also sits uneasily with having received one. One possible reading, that ethics officials gave him a written opinion that section 208 did not apply rather than a (b)(1) exemption, would fit the 'No' but not his 'Yes' to a question that names 208(b)(1); neither he nor DOJ has offered that or any other explanation, and the determination has not been produced. (4) Disclosure rule. 18 U.S.C. 208(d)(1) says a copy of any determination granting a (b)(1) exemption 'shall be made available to the public' on request, subject to FOIA exemptions (also 5 C.F.R. 2640.304); his answer that such determinations 'are not subject to disclosure' does not match that rule as written. (5) Open legal question. CLC and ProPublica's sources argue the memo is a particular matter of general applicability under OGE advisory LA-23-12; Blanche and DOJ say it is not. No inspector general, OGE or court has ruled on that question or on the certification answer (OGE's 2 September 2026 note records only that the DOJ IG 'declined further action'; see the next point). The 2025 certification's 'No' and the 2026 'Yes' are both his own statements; which is accurate is not established.",
+      "sources": [
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/92E6C79E88537F4485258CA1002C2338/$FILE/Blanche%20EA%20Certification%201%20of%201.pdf",
+        "https://www.propublica.org/article/todd-blanche-complaint-conflict-of-interest",
+        "https://www.judiciary.senate.gov/imo/media/doc/blanche_-_qfrs.pdf",
+        "https://campaignlegal.org/sites/default/files/2026-01/Blanche%20208%20Complaint%20_Update%201-23%20%281%29.pdf",
+        "https://www.whitehouse.gov/wp-content/uploads/2025/03/20250218102929192.pdf",
+        "https://www.whitehouse.gov/disclosures/"
+      ]
+    },
+    {
+      "statement": "Complaints about Blanche's crypto holdings led to an inspector-general or OGE finding.",
+      "verdict": "unverified",
+      "finding": "Grade: documented complaints and a documented OGE annotation; no finding of a violation. CLC asked DOJ's acting inspector general to investigate on 22 January 2026, with a corrected version on 23 January. It asked OGE and DOJ's ethics official on 28 January 2026 to determine whether his compliance certification contained a false statement. Six Democratic senators (Hirono, Warren, Durbin, Whitehouse, Coons, Blumenthal) wrote to him on 28 January 2026. Hirono, Warren and Durbin followed up on 9 June 2026, and Hirono said in July that neither letter had been answered. His 2026 annual report (signed 25 June 2026, read in full) carries an OGE note dated 2 September 2026 by Scott de la Vega: 'Part 7, Lines 1 - 6 and 15; DOJ IG declined further action.' Those lines are the bitcoin, solana, ethereum classic, polygon, polkadot, Quant and ether dispositions. The note does not say what the inspector general reviewed or why it declined; the Washington Sun first reported it on 30 September 2026. A declination is not a finding either way. No criminal referral, OGE finding of non-compliance, or published inspector-general report was found. OGE declined to comment, and the Washington Sun reports that DOJ did not respond.",
+      "sources": [
+        "https://campaignlegal.org/sites/default/files/2026-01/Blanche%20208%20Complaint%20_Update%201-23%20%281%29.pdf",
+        "https://campaignlegal.org/sites/default/files/2026-01/CLC%20Complaint%20_%20Blanche%20_%20DOJ%20OIG%20%281%29.pdf",
+        "https://campaignlegal.org/sites/default/files/2026-01/Letter%20to%20OGE%20and%20DAEO%20re%20Blanche.pdf",
+        "https://www.hirono.senate.gov/imo/media/doc/20260128ltrfromsenatorstodagrecryptocurrencyconflicts.pdf",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/A91705E58BCA51B085258E73002D9F9B/$FILE/Todd-Blanche-2026-278ANNU.pdf",
+        "https://www.washingtonsun.com/money/todd-blanche-bitcoin-crypto-doj-inspector-general",
+        "https://www.judiciary.senate.gov/imo/media/doc/blanche_-_qfrs.pdf"
+      ]
+    },
+    {
+      "statement": "Blanche, Trump's former defence lawyer, was advised to recuse from Trump matters and did not fully do so.",
+      "verdict": "partly-accurate",
+      "finding": "Grade: documented for the advice on cases he handled; single-source for its wider scope; any breach is unverified. His February 2025 ethics agreement has the same one-year former-client recusal as Bondi's, running from his last service, or until the client pays any outstanding bill, whichever is later. He told the Senate in July 2026 that he withdrew from representing Trump before his 6 March 2025 oath. He also said: 'I was advised to recuse from the matters in which I represented the President, including the January 6 case against him, and I am recused from those matters.' Elsewhere he named the New York, D.C. and Southern District of Florida cases. CNN reported on 14 May 2026 that DOJ's top career ethics official, Joseph Tirrell, briefed him in March 2025 that recusal from cases involving Trump in his personal capacity was necessary (anonymous sourcing, seen via syndication). Tirrell was fired in July 2025 and has sued. A DOJ spokeswoman said Blanche complies with his ethics obligations and would recuse 'to the extent DOJ is investigating something related to the President for which Todd was previously representing him'. As Acting AG, Blanche signed documents in the May 2026 settlement of Trump's suit against the IRS (C100). Asked by Sen. Durbin why he did not recuse, he said it would be inappropriate to comment on internal deliberations. Durbin's account that Blanche privately invoked the 'rule of necessity' is Durbin's alone. Sen. Schiff and colleagues asked DOJ's ethics official on 18 May 2026 for the ethics advice; no answer was found. No OGE, inspector-general or court finding of a recusal breach was found. In July 2026, Judge Kathleen Williams sanctioned Trump's private counsel in the IRS case, not Blanche (C100).",
+      "sources": [
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/0E4C3EB0ACE8404785258C30003217F2/$FILE/Blanche%2C%20Todd%20%20finalEA.pdf",
+        "https://www.judiciary.senate.gov/imo/media/doc/blanche_-_qfrs.pdf",
+        "https://www.nbcpalmsprings.com/ca-us-and-world/2026/05/14/acting-attorney-general-todd-blanche-advised-to-recuse-from-trump-matters-last-year",
+        "https://www.schiff.senate.gov/wp-content/uploads/2026/05/Letter-from-Sen.-Schiff-and-Colleagues-to-Lauria-on-Blanche-Recusals.pdf"
+      ]
+    },
+    {
+      "statement": "Current positions and dates: Bondi left as Attorney General in April 2026; Blanche was confirmed as Attorney General on 8 August 2026 and sworn in on 10 August 2026.",
+      "verdict": "confirmed",
+      "finding": "Grade: documented. Bondi was confirmed as AG on 4 February 2025 (OGE certification). Trump announced on 2 April 2026 that she was out and named Blanche acting AG (Al Jazeera and others). Her OGE termination report gives her date of termination as 1 April 2026. Multiple outlets, citing Axios, reported in late May 2026 that she had been named to the President's Council of Advisors on Science and Technology (PCAST), co-chaired by David Sacks and Michael Kratsios. Her official capacity there was not disclosed, and no newer post was found. Blanche was confirmed as Deputy AG on 5 March 2025 and took the oath on 6 March 2025. He served as Acting AG from 2 April 2026 ('I assumed the role of Acting Attorney General on April 2, 2026', his written Senate answers; his OGE filings say April 2026). His AG compliance certification, signed 6 November 2026, gives 'Date Confirmed: 08/08/2026' (the Senate vote was 50-49). AP via PBS reports he was sworn in at the White House on Monday 10 August 2026, by Judge Emil Bove. That certification answers 'No' to any 208 waiver or 2635.502(d) authorization. It reports his AG-agreement divestitures (a Franklin FTSE Canada ETF and an energy-sector SPDR ETF) as completed without a 278-T; OGE's index lists a Certificate of Divestiture, OGE-2026-183. He is the Senate-confirmed Attorney General as of 17 November 2026.",
+      "sources": [
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/3CDD529EC3045A9785258C84002C1259/$FILE/Bondi%20EA%20Certification%201%20of%201.pdf",
+        "https://aljazeera.com/news/2026/4/2/trump-says-pam-bondi-out-as-attorney-general",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/5A7DD536E124894585258E7A002D9D3E/$FILE/Pam-Bondi-2026-278TERM.pdf",
+        "https://www.rawstory.com/pam-bondi-2676958214/",
+        "https://wset.com/news/nation-world/former-ag-pam-bondi-gets-appointed-to-science-panel-by-trump-democrats-republicans-david-sacks-china",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/C95B83BAED7342EF85258E29002DF14C/$FILE/Blanche%2C%20Todd%20%20finalEA.pdf",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4D20C4019C10A34485258EA80032DF3E/$FILE/Blanche,%20Todd%20-%20Final%20EA%20Certification.pdf",
+        "https://www.pbs.org/newshour/politics/todd-blanche-sworn-in-as-attorney-general-after-bruising-confirmation-battle",
+        "https://www.axios.com/2026/08/08/todd-blanche-trump-attorney-general-confirmed",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index?OpenView&Start=1&Count=1000&Expand=24",
+        "https://www.judiciary.senate.gov/imo/media/doc/blanche_-_qfrs.pdf"
+      ]
+    }
+  ],
+  "corrections": [
+    "C65 (Blanche sub-claim) says 'ProPublica's range is $158K-$470K and the Senate letter's $159K-$485K'. The record shows the reverse. ProPublica (22 December 2025, read in full) gives $159,000-$485,000. The senators' 28 January 2026 letter gives $158,000-$470,000. By arithmetic from his nominee 278, the coins alone total $158,010-$470,000 and $159,011-$485,000 with his Coinbase shares.",
+    "C65 says the divestment 'took place May 31-June 3, 2025'. His 278-T shows crypto dispositions dated 30 May to 2 June 2025 and the Coinbase sale on 29 May; 3 June is the date he signed the form. The senators' letter also uses 31 May-3 June.",
+    "C65 says the June 2025 filing reports the crypto holdings 'were gifted in their entirety'. The filing's note names only bitcoin, solana, cardano and ether as gifted. The same form lists bitcoin, solana and ether as 'Sale' lines, and ethereum classic, polygon, polkadot, Quant and Coinbase stock as sales. Basic Attention Token and 'Decentralized' appear in no later filing reviewed.",
+    "C65 says 'no waiver has been published, and no official finding was found'. Still true, with three additions. His 5 June 2025 compliance certification answers 'No' to receiving a section 208 waiver. In July 2026 written answers he said he did receive a written 208(b)(1) determination before the memo but would not disclose it. An OGE note of 2 September 2026 on his annual report says 'DOJ IG declined further action' on seven crypto dispositions.",
+    "C65 and C102 say Bondi's TMTG sale was 'disclosed May 14, 2025' or 'made public in mid-May 2025' and that the form itself was not read. The 278-T (now read in full) was signed and agency-certified on 5 May 2025 and OGE-certified on 12 May 2025, with values and dates as already recorded. C102's 'confirmed in early Feb 2025' can be made precise: 4 February 2025.",
+    "C102 describes Bondi's ethics agreement as requiring divestiture 'within 90 days of taking office'. The agreement says 'not later than 90 days after my confirmation', which made the deadline about 5 May 2025.",
+    "C65, C73 and others date Bondi's removal to 2 April 2026. That is the date it was announced; her OGE termination report gives 1 April 2026 as the date of termination. Both dates should be stated where precision matters.",
+    "The Senate Judiciary Democrats' 15 January 2025 release says Bondi was 'earning $115,000 per month' from Qatar. The $115,000 monthly fee was paid to Ballard Partners; her own share is not on record (already noted in C65).",
+    "CLC's first complaint (22 January 2026) gave Blanche's holdings as $274,013-$785,000. Its 23 January correction gives $159,011-$485,000, but its conclusion still says 'up to $785,000'. The lower range is the one supported by his filing."
+  ],
+  "denials_and_context": [
+    "DOJ on Blanche's crypto memo: 'appropriately flagged, addressed, and cleared in advance' and a 'baseless character assassination' (spokesperson to ProPublica, 23 January 2026). Blanche: the memo 'set general enforcement priorities' and was not a particular matter affecting his finances; divestiture 'required time to accomplish in an orderly manner' (written answers, July 2026). For ProPublica's December 2025 article, a Blanche staffer said he and DOJ would not comment.",
+    "Blanche on Trump matters: he withdrew from representing Trump before his 6 March 2025 oath and is recused 'from the matters in which I represented the President'. DOJ says he complies with his ethics obligations.",
+    "DOJ on Bondi and the Qatar jet memo: career ethics officials found no conflict requiring recusal (DOJ official to CNN). On the Warner Bros. review: 'All officials at the Department of Justice follow the guidance of career ethics officials.' Ballard Partners called the senators' recusal letter 'blindly partisan'.",
+    "Bondi on her Trump Media sale: it complied with her ethics agreement, which required the divestiture (June 2025 House hearing, secondary summary). No inspector-general result on Raskin's request was found.",
+    "The ethics-agreement terms cut both ways. Bondi's sale and Blanche's dispositions both met the 90-day deadlines. Gifts to adult children and grandchildren end the imputed interest under 18 U.S.C. 208, though ethics experts quoted by ProPublica say this defeats the purpose of divestiture.",
+    "The FARA and FCPA changes and the crypto memo are department-wide policies tied to executive orders. No source documents a dropped case involving Ballard Partners, Qatar or a Blanche Law client as a result.",
+    "An inspector-general declination (Blanche) and the absence of an inspector-general result (Bondi) are not findings of compliance or of a violation. No authority has found that either official breached 18 U.S.C. 208 or an ethics agreement."
+  ],
+  "sources": [
+    {
+      "title": "Ethics agreement, Pam Bondi (Attorney General nominee)",
+      "publisher": "Office of Government Ethics",
+      "url": "https://extapps2.oge.gov/201/Presiden.nsf/FC3B6F6F496E257B85258C150032F344/$FILE/Bondi,%20Pam%20%20finalEA.pdf",
+      "date": "2025-01-14",
+      "read": "full"
+    },
+    {
+      "title": "OGE Form 278e nominee report, Pam Bondi",
+      "publisher": "Office of Government Ethics",
+      "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/ABF60CD8EC97BBB585258C150032DCB2/$FILE/Bondi%2C%20Pam%20%20final278.pdf",
+      "date": "2025-01-14",
+      "read": "full"
+    },
+    {
+      "title": "Certification of Ethics Agreement Compliance, Pam Bondi",
+      "publisher": "Office of Government Ethics",
+      "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/3CDD529EC3045A9785258C84002C1259/$FILE/Bondi%20EA%20Certification%201%20of%201.pdf",
+      "date": "2025-05-05",
+      "read": "full"
+    },
+    {
+      "title": "OGE Form 278-T, Pam Bondi (Trump Media sales of 2 April 2025)",
+      "publisher": "Office of Government Ethics",
+      "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/102E39A4A731A68785258C8A002C7208/$FILE/Pam-Bondi-05.05.2025-278T.pdf",
+      "date": "2025-05-05",
+      "read": "full"
+    },
+    {
+      "title": "OGE Form 278e termination report, Pam Bondi",
+      "publisher": "Office of Government Ethics",
+      "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/5A7DD536E124894585258E7A002D9D3E/$FILE/Pam-Bondi-2026-278TERM.pdf",
+      "date": "2026-06-16",
+      "read": "full"
+    },
+    {
+      "title": "Ethics agreement, Todd Blanche (Deputy Attorney General nominee)",
+      "publisher": "Office of Government Ethics",
+      "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/0E4C3EB0ACE8404785258C30003217F2/$FILE/Blanche%2C%20Todd%20%20finalEA.pdf",
+      "date": "2025-02-10",
+      "read": "full"
+    },
+    {
+      "title": "OGE Form 278e nominee report, Todd Blanche (Deputy Attorney General)",
+      "publisher": "Office of Government Ethics",
+      "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4B1E6A519F015E7D85258C30003200C5/$FILE/Blanche%2C%20Todd%20%20final278.pdf",
+      "date": "2025-01-18",
+      "read": "full"
+    },
+    {
+      "title": "OGE Form 278-T, Todd Blanche (crypto and stock dispositions)",
+      "publisher": "Office of Government Ethics",
+      "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/9E22E6BED062C62D85258CC5002C7DEA/$FILE/Todd-Blanche-06.03.2025-278T.pdf",
+      "date": "2025-06-03",
+      "read": "full"
+    },
+    {
+      "title": "Certification of Ethics Agreement Compliance, Todd Blanche (Deputy Attorney General)",
+      "publisher": "Office of Government Ethics",
+      "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/92E6C79E88537F4485258CA1002C2338/$FILE/Blanche%20EA%20Certification%201%20of%201.pdf",
+      "date": "2025-06-05",
+      "read": "full"
+    },
+    {
+      "title": "OGE Form 278e annual report 2026, Todd Blanche (OGE note: 'DOJ IG declined further action')",
+      "publisher": "Office of Government Ethics",
+      "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/A91705E58BCA51B085258E73002D9F9B/$FILE/Todd-Blanche-2026-278ANNU.pdf",
+      "date": "2026-06-25",
+      "read": "full"
+    },
+    {
+      "title": "Ethics agreement, Todd Blanche (Attorney General nominee)",
+      "publisher": "Office of Government Ethics",
+      "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/C95B83BAED7342EF85258E29002DF14C/$FILE/Blanche%2C%20Todd%20%20finalEA.pdf",
+      "date": "2026-06-25",
+      "read": "full"
+    },
+    {
+      "title": "OGE Form 278e nominee report, Todd Blanche (Attorney General)",
+      "publisher": "Office of Government Ethics",
+      "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/17E740413EA73B3485258E29002D9F37/$FILE/Blanche%2C%20Todd%20%20final278.pdf",
+      "date": "2026-06-11",
+      "read": "full"
+    },
+    {
+      "title": "Certification of Ethics Agreement Compliance, Todd Blanche (Attorney General)",
+      "publisher": "Office of Government Ethics",
+      "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4D20C4019C10A34485258EA80032DF3E/$FILE/Blanche,%20Todd%20-%20Final%20EA%20Certification.pdf",
+      "date": "2026-11-06",
+      "read": "excerpt"
+    },
+    {
+      "title": "PAS index entries for Blanche and Bondi (document list, Certificate of Divestiture OGE-2026-183)",
+      "publisher": "Office of Government Ethics",
+      "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index?OpenView&Start=1&Count=1000&Expand=24",
+      "date": "2026-11-17",
+      "read": "full"
+    },
+    {
+      "title": "Ending Regulation By Prosecution (Deputy Attorney General memorandum)",
+      "publisher": "US Department of Justice",
+      "url": "https://www.justice.gov/dag/media/1395781/dl?inline",
+      "date": "2025-04-07",
+      "read": "full"
+    },
+    {
+      "title": "General Policy Regarding Charging, Plea Negotiations, and Sentencing (Attorney General memorandum)",
+      "publisher": "US Department of Justice",
+      "url": "https://www.justice.gov/ag/media/1388541/dl?inline",
+      "date": "2025-02-05",
+      "read": "excerpt"
+    },
+    {
+      "title": "Guidelines for Investigations and Enforcement of the FCPA (Deputy Attorney General memorandum)",
+      "publisher": "US Department of Justice",
+      "url": "https://www.justice.gov/dag/media/1403031/dl?inline",
+      "date": "2025-06-09",
+      "read": "excerpt"
+    },
+    {
+      "title": "Complaint to DOJ Inspector General regarding Todd Blanche (corrected version)",
+      "publisher": "Campaign Legal Center",
+      "url": "https://campaignlegal.org/sites/default/files/2026-01/Blanche%20208%20Complaint%20_Update%201-23%20%281%29.pdf",
+      "date": "2026-01-23",
+      "read": "full"
+    },
+    {
+      "title": "Complaint to DOJ Inspector General regarding Todd Blanche (original version)",
+      "publisher": "Campaign Legal Center",
+      "url": "https://campaignlegal.org/sites/default/files/2026-01/CLC%20Complaint%20_%20Blanche%20_%20DOJ%20OIG%20%281%29.pdf",
+      "date": "2026-01-22",
+      "read": "full"
+    },
+    {
+      "title": "Letter to OGE and DOJ ethics official regarding Todd Blanche",
+      "publisher": "Campaign Legal Center",
+      "url": "https://campaignlegal.org/sites/default/files/2026-01/Letter%20to%20OGE%20and%20DAEO%20re%20Blanche.pdf",
+      "date": "2026-01-28",
+      "read": "excerpt"
+    },
+    {
+      "title": "Letter from six senators to Deputy Attorney General Blanche on cryptocurrency conflicts",
+      "publisher": "Office of Sen. Mazie Hirono",
+      "url": "https://www.hirono.senate.gov/imo/media/doc/20260128ltrfromsenatorstodagrecryptocurrencyconflicts.pdf",
+      "date": "2026-01-28",
+      "read": "excerpt"
+    },
+    {
+      "title": "Todd Blanche Shut Down Crypto Enforcement While Holding Crypto Assets",
+      "publisher": "ProPublica",
+      "url": "https://www.propublica.org/article/todd-blanche-crypto-doj-trump",
+      "date": "2025-12-22",
+      "read": "full"
+    },
+    {
+      "title": "Complaint Accuses Todd Blanche of 'Blatant' Crypto Conflict",
+      "publisher": "ProPublica",
+      "url": "https://www.propublica.org/article/todd-blanche-complaint-conflict-of-interest",
+      "date": "2026-01-23",
+      "read": "full"
+    },
+    {
+      "title": "Senators Accuse Todd Blanche of 'Glaring' Crypto Conflict",
+      "publisher": "ProPublica",
+      "url": "https://www.propublica.org/article/todd-blanche-crypto-conflict-senator-letter",
+      "date": "2026-01-29",
+      "read": "full"
+    },
+    {
+      "title": "U.S. AG Pam Bondi sold more than $1 million in Trump Media stock the day Trump announced sweeping tariffs",
+      "publisher": "ProPublica",
+      "url": "https://www.propublica.org/article/pam-bondi-trump-media-stock-tariffs",
+      "date": "2025-05-14",
+      "read": "excerpt"
+    },
+    {
+      "title": "DOJ Inspector General 'Declined Further Action' on Todd Blanche Cryptocurrency Matter",
+      "publisher": "The Washington Sun",
+      "url": "https://www.washingtonsun.com/money/todd-blanche-bitcoin-crypto-doj-inspector-general",
+      "date": "2026-09-30",
+      "read": "full"
+    },
+    {
+      "title": "Questions for the Record and responses, nomination of Todd Blanche to be Attorney General",
+      "publisher": "Senate Judiciary Committee",
+      "url": "https://www.judiciary.senate.gov/imo/media/doc/blanche_-_qfrs.pdf",
+      "date": "2026-07-17",
+      "read": "excerpt"
+    },
+    {
+      "title": "Letter from Sen. Schiff and colleagues to DOJ ethics official on Blanche recusals",
+      "publisher": "Office of Sen. Adam Schiff",
+      "url": "https://www.schiff.senate.gov/wp-content/uploads/2026/05/Letter-from-Sen.-Schiff-and-Colleagues-to-Lauria-on-Blanche-Recusals.pdf",
+      "date": "2026-05-18",
+      "read": "excerpt"
+    },
+    {
+      "title": "Acting Attorney General Todd Blanche advised to recuse from Trump matters last year (CNN, syndicated)",
+      "publisher": "CNN via NBC Palm Springs",
+      "url": "https://www.nbcpalmsprings.com/ca-us-and-world/2026/05/14/acting-attorney-general-todd-blanche-advised-to-recuse-from-trump-matters-last-year",
+      "date": "2026-05-14",
+      "read": "excerpt"
+    },
+    {
+      "title": "Pam Bondi's extensive lobbying for wealthy special interests and foreign government poses serious conflict of interest",
+      "publisher": "Senate Judiciary Committee Democrats",
+      "url": "https://www.judiciary.senate.gov/press/dem/releases/pam-bondis-extensive-lobbying-for-wealthy-special-interests-and-foreign-government-poses-serious-conflict-of-interest",
+      "date": "2025-01-15",
+      "read": "full"
+    },
+    {
+      "title": "Conflicted Justice",
+      "publisher": "Public Citizen",
+      "url": "https://www.citizen.org/article/conflicted-justice/",
+      "date": "2025-01",
+      "read": "excerpt"
+    },
+    {
+      "title": "Raskin letter to DOJ Inspector General on Bondi stock sale",
+      "publisher": "House Judiciary Committee Democrats",
+      "url": "https://democrats-judiciary.house.gov/UploadedFiles/2025-05-20.Raskin_to_Horowitz_DOJ_OIG_re_Bondi_Insider_Trading.pdf",
+      "date": "2025-05-20",
+      "read": "excerpt"
+    },
+    {
+      "title": "Pam Bondi defends before the House the sale of more than $1 million in Trump Media shares",
+      "publisher": "Voz",
+      "url": "https://voz.us/en/politics/250624/26126/pam-bondi-defends-before-the-house-the-sale-of-more-than-1-million-in-trump-media-shares.html",
+      "date": "2025-06-24",
+      "read": "excerpt"
+    },
+    {
+      "title": "DOJ lawyers cleared Pam Bondi's memo backing legality of Trump accepting Qatari 747 (CNN)",
+      "publisher": "Yahoo News (CNN)",
+      "url": "https://www.yahoo.com/news/doj-lawyers-cleared-pam-bondi-164935036.html",
+      "date": "2025-05",
+      "read": "excerpt"
+    },
+    {
+      "title": "FPF sues DOJ for Trump memo on Qatari jet",
+      "publisher": "Freedom of the Press Foundation",
+      "url": "https://freedom.press/issues/fpf-sues-doj-for-trump-memo-on-qatari-jet/",
+      "date": "2025-07-28",
+      "read": "full"
+    },
+    {
+      "title": "Opposition filed against DOJ effort to strike context from complaint about Qatar's gifted jet",
+      "publisher": "American Oversight",
+      "url": "https://americanoversight.org/opposition-filed-against-doj-effort-to-strike-context-from-complaint-about-qatars-gifted-jet-to-trump-administration/",
+      "date": "2025-10-10",
+      "read": "full"
+    },
+    {
+      "title": "Freedom of the Press Foundation v. DOJ (case page, status open, No. 25-2432)",
+      "publisher": "American Oversight",
+      "url": "https://americanoversight.org/litigation/freedom-of-the-press-foundation-v-doj-qatars-gifted-jet-to-trump-administration/",
+      "date": "2026-11-17",
+      "read": "full"
+    },
+    {
+      "title": "Warren, Blumenthal demand Bondi recuse from Warner Bros. deal review",
+      "publisher": "Office of Sen. Elizabeth Warren",
+      "url": "https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-demand-bondi-recuse-from-warner-bros-deal-review-amid-apparent-conflicts-of-interest-trump-doj-cloud-of-corruption",
+      "date": "2025-12-17",
+      "read": "excerpt"
+    },
+    {
+      "title": "Senators demand AG Pam Bondi recuse herself from Warner Bros. antitrust review (CNN, reposted)",
+      "publisher": "Office of Sen. Elizabeth Warren",
+      "url": "https://www.warren.senate.gov/newsroom/news-coverage/senators-demand-ag-pam-bondi-recuse-herself-from-warner-bros-antitrust-review",
+      "date": "2025-12-17",
+      "read": "excerpt"
+    },
+    {
+      "title": "Luigi Mangione's lawyers say Bondi's death penalty decision was tainted by conflict of interest (AP)",
+      "publisher": "Bangor Daily News (AP)",
+      "url": "https://www.bangordailynews.com/2025/12/20/nation/luigi-mangiones-lawyers-say-bondis-death-penalty-decision-was-tainted-by-conflict-of-interest/",
+      "date": "2025-12-20",
+      "read": "excerpt"
+    },
+    {
+      "title": "Prosecutors defend Pam Bondi's impartiality in Mangione murder case",
+      "publisher": "Courthouse News Service",
+      "url": "https://www.courthousenews.com/prosecutors-defend-pam-bondis-impartiality-in-mangione-murder-case/",
+      "date": "2026-01",
+      "read": "excerpt"
+    },
+    {
+      "title": "Judge rules feds can't seek death penalty against Luigi Mangione",
+      "publisher": "Courthouse News Service",
+      "url": "https://courthousenews.com/judge-rules-feds-cant-seek-death-penalty-against-luigi-mangione/",
+      "date": "2026-01-30",
+      "read": "excerpt"
+    },
+    {
+      "title": "Plea agreement, United States v. CLS Global FZC LLC (D. Mass. 24-cr-10293)",
+      "publisher": "US Attorney, District of Massachusetts (via Gibson Dunn)",
+      "url": "https://www.gibsondunn.com/wp-content/uploads/2026/01/CLS-Global-FZC-LLC_Plea-Agreement.pdf",
+      "date": "2025-01-08",
+      "read": "excerpt"
+    },
+    {
+      "title": "Crypto market maker hit with $428,000 fine over wash trading",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/313111/crypto-market-maker-hit-with-428000-fine-over-wash-trading",
+      "date": "2025-04-03",
+      "read": "full"
+    },
+    {
+      "title": "FARA enforcement changes (analysis)",
+      "publisher": "Responsible Statecraft",
+      "url": "https://responsiblestatecraft.org/fara",
+      "date": "2025",
+      "read": "excerpt"
+    },
+    {
+      "title": "Is the Bondi memorandum dead? Trump executive order unpauses FARA enforcement",
+      "publisher": "Mondaq",
+      "url": "https://www.mondaq.com/unitedstates/money-laundering/1683878/is-the-bondi-memorandum-dead-trump-executive-order-unpauses-fara-enforcement",
+      "date": "2025-09",
+      "read": "excerpt"
+    },
+    {
+      "title": "Todd Blanche sworn in as attorney general after bruising confirmation battle (AP)",
+      "publisher": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/politics/todd-blanche-sworn-in-as-attorney-general-after-bruising-confirmation-battle",
+      "date": "2026-08-10",
+      "read": "excerpt"
+    },
+    {
+      "title": "Senate confirms Todd Blanche as attorney general",
+      "publisher": "Axios",
+      "url": "https://www.axios.com/2026/08/08/todd-blanche-trump-attorney-general-confirmed",
+      "date": "2026-08-08",
+      "read": "excerpt"
+    },
+    {
+      "title": "Trump fires Pam Bondi as US attorney general, elevates Todd Blanche",
+      "publisher": "Al Jazeera",
+      "url": "https://aljazeera.com/news/2026/4/2/trump-says-pam-bondi-out-as-attorney-general",
+      "date": "2026-04-02",
+      "read": "excerpt"
+    },
+    {
+      "title": "Pam Bondi returning to the Trump admin (relaying Axios on PCAST)",
+      "publisher": "Raw Story",
+      "url": "https://www.rawstory.com/pam-bondi-2676958214/",
+      "date": "2026-05-27",
+      "read": "excerpt"
+    },
+    {
+      "title": "Former AG Pam Bondi gets appointed to science panel by Trump",
+      "publisher": "WSET (Sinclair)",
+      "url": "https://wset.com/news/nation-world/former-ag-pam-bondi-gets-appointed-to-science-panel-by-trump-democrats-republicans-david-sacks-china",
+      "date": "2026-05",
+      "read": "excerpt"
+    },
+    {
+      "title": "Limited, Interim Waiver Under 18 U.S.C. 208(b)(1), Robert F. Kennedy Jr.",
+      "publisher": "The White House (Counsel to the President)",
+      "url": "https://www.whitehouse.gov/wp-content/uploads/2025/03/20250218102929192.pdf",
+      "date": "2025-02-18",
+      "read": "full"
+    },
+    {
+      "title": "Public disclosures: waivers list",
+      "publisher": "The White House",
+      "url": "https://www.whitehouse.gov/disclosures/",
+      "date": "2026-11-17",
+      "read": "full"
+    },
+    {
+      "title": "Cryptocurrency financial services firm sentenced for cryptocurrency wash trading",
+      "publisher": "US Attorney's Office, D. Mass.",
+      "url": "https://www.justice.gov/usao-ma/pr/cryptocurrency-financial-services-firm-sentenced-cryptocurrency-wash-trading",
+      "date": "2025-04-02",
+      "read": "excerpt"
+    }
+  ],
+  "entities": [
+    {
+      "id": "pam-bondi",
+      "name": "Pam Bondi",
+      "type": "person",
+      "description": "Attorney General 4 Feb 2025 to 1 Apr 2026 (removal announced 2 Apr); former Ballard Partners lobbyist; named to PCAST in May 2026"
+    },
+    {
+      "id": "todd-blanche",
+      "name": "Todd Blanche",
+      "type": "person",
+      "description": "Trump's former defence lawyer; Deputy AG from 6 Mar 2025, acting AG from Apr 2026, AG since 10 Aug 2026 (confirmed 8 Aug)"
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "President; Blanche's former client; appointed both officials"
+    },
+    {
+      "id": "doj",
+      "name": "US Department of Justice",
+      "type": "government",
+      "description": "Led by Bondi, then Blanche"
+    },
+    {
+      "id": "ballard-partners",
+      "name": "Ballard Partners",
+      "type": "company",
+      "description": "Lobbying firm; paid Bondi $1,067,000 in her disclosure period; earlier registered for Qatar"
+    },
+    {
+      "id": "qatar",
+      "name": "Qatar",
+      "type": "country",
+      "description": "Former Ballard foreign principal (2019-20), with Bondi listed"
+    },
+    {
+      "id": "pam-bondi-jet-memo",
+      "name": "DOJ memo on the Qatari jet",
+      "type": "event",
+      "description": "May 2025 memo signed by Bondi; still unreleased; subject of FOIA suit No. 25-2432"
+    },
+    {
+      "id": "qatar-jet",
+      "name": "Qatari Boeing 747-8",
+      "type": "asset",
+      "description": "Jet accepted from Qatar in May 2025"
+    },
+    {
+      "id": "trump-media-technology-group",
+      "name": "Trump Media & Technology Group",
+      "type": "company",
+      "description": "Bondi held shares and warrants received as Renatus consulting pay; sold 2 Apr 2025"
+    },
+    {
+      "id": "renatus-llc",
+      "name": "Renatus LLC",
+      "type": "company",
+      "description": "Trump Media's predecessor; paid Bondi $2,969,563 in DWAC shares for consulting (2023-24)"
+    },
+    {
+      "id": "digital-world-acquisition-corp",
+      "name": "Digital World Acquisition Corp.",
+      "type": "company",
+      "description": "SPAC whose shares paid Bondi's Renatus consulting fee"
+    },
+    {
+      "id": "blanche-law-pllc",
+      "name": "Blanche Law PLLC",
+      "type": "company",
+      "description": "Blanche's law firm, dormant since March 2025"
+    },
+    {
+      "id": "save-america-pac",
+      "name": "Save America PAC",
+      "type": "fund",
+      "description": "Paid Blanche Law for representing Donald Trump"
+    },
+    {
+      "id": "cls-global",
+      "name": "CLS Global FZC LLC",
+      "type": "company",
+      "description": "UAE crypto market maker; listed Blanche Law client; pleaded guilty in D. Mass. (wash-trading sting), sentenced 2 Apr 2025"
+    },
+    {
+      "id": "ending-regulation-by-prosecution-memo",
+      "name": "Ending Regulation By Prosecution memo",
+      "type": "law",
+      "description": "Blanche's 7 Apr 2025 memo narrowing crypto prosecutions and disbanding NCET"
+    },
+    {
+      "id": "ncet",
+      "name": "National Cryptocurrency Enforcement Team",
+      "type": "government",
+      "description": "DOJ unit disbanded by the 7 Apr 2025 memo"
+    },
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "type": "asset",
+      "description": "Blanche held $100K-$250K until Jun 2025"
+    },
+    {
+      "id": "ethereum",
+      "name": "Ether (Ethereum)",
+      "type": "asset",
+      "description": "Blanche held $50K-$100K at nomination"
+    },
+    {
+      "id": "coinbase",
+      "name": "Coinbase",
+      "type": "company",
+      "description": "Held Blanche's crypto account; he also held its shares until 29 May 2025"
+    },
+    {
+      "id": "office-of-government-ethics",
+      "name": "Office of Government Ethics",
+      "type": "government",
+      "description": "Certified both officials' filings; noted 'DOJ IG declined further action' on Blanche's crypto lines"
+    },
+    {
+      "id": "doj-inspector-general",
+      "name": "DOJ Office of the Inspector General",
+      "type": "government",
+      "description": "Received Raskin's Bondi request and CLC's Blanche complaint; declined further action on Blanche"
+    },
+    {
+      "id": "campaign-legal-center",
+      "name": "Campaign Legal Center",
+      "type": "company",
+      "description": "Ethics watchdog; filed Blanche complaints in Jan 2026"
+    },
+    {
+      "id": "jamie-raskin",
+      "name": "Jamie Raskin",
+      "type": "person",
+      "description": "House Judiciary ranking member; asked the IG to examine Bondi's sale"
+    },
+    {
+      "id": "mazie-hirono",
+      "name": "Mazie Hirono",
+      "type": "person",
+      "description": "Senator; led letters to Blanche on crypto conflicts"
+    },
+    {
+      "id": "elizabeth-warren",
+      "name": "Elizabeth Warren",
+      "type": "person",
+      "description": "Senator; co-signed Blanche letters and the Bondi WBD recusal request"
+    },
+    {
+      "id": "dick-durbin",
+      "name": "Dick Durbin",
+      "type": "person",
+      "description": "Senate Judiciary ranking member; questioned both officials' recusals"
+    },
+    {
+      "id": "richard-blumenthal",
+      "name": "Richard Blumenthal",
+      "type": "person",
+      "description": "Senator; co-signed Blanche letters and the WBD recusal request"
+    },
+    {
+      "id": "adam-schiff",
+      "name": "Adam Schiff",
+      "type": "person",
+      "description": "Senator; asked DOJ ethics official about Blanche recusals (May 2026)"
+    },
+    {
+      "id": "joseph-tirrell",
+      "name": "Joseph Tirrell",
+      "type": "person",
+      "description": "DOJ career ethics director; reviewed both officials' filings; reportedly advised Blanche on recusal; fired July 2025"
+    },
+    {
+      "id": "freedom-of-the-press-foundation",
+      "name": "Freedom of the Press Foundation",
+      "type": "company",
+      "description": "Suing DOJ for the Qatar jet memo"
+    },
+    {
+      "id": "american-oversight",
+      "name": "American Oversight",
+      "type": "company",
+      "description": "Counsel in the FOIA suit for the jet memo"
+    },
+    {
+      "id": "warner-bros-discovery",
+      "name": "Warner Bros. Discovery",
+      "type": "company",
+      "description": "Target of bids reviewed by DOJ antitrust"
+    },
+    {
+      "id": "netflix",
+      "name": "Netflix",
+      "type": "company",
+      "description": "Ballard client after Bondi's nomination; WBD bidder"
+    },
+    {
+      "id": "paramount-skydance",
+      "name": "Paramount Skydance",
+      "type": "company",
+      "description": "Ballard client after Bondi's nomination; WBD bidder"
+    },
+    {
+      "id": "unitedhealth-group",
+      "name": "UnitedHealth Group",
+      "type": "company",
+      "description": "Ballard lobbying client cited in the Mangione defence motion"
+    },
+    {
+      "id": "foreign-agents-registration-act",
+      "name": "Foreign Agents Registration Act",
+      "type": "law",
+      "description": "Criminal enforcement narrowed by Bondi's 5 Feb 2025 memo"
+    },
+    {
+      "id": "foreign-corrupt-practices-act",
+      "name": "Foreign Corrupt Practices Act",
+      "type": "law",
+      "description": "Paused by EO 14209; new guidelines from Blanche on 9 Jun 2025"
+    },
+    {
+      "id": "pcast",
+      "name": "President's Council of Advisors on Science and Technology",
+      "type": "government",
+      "description": "Bondi named a member in May 2026"
+    },
+    {
+      "id": "irs",
+      "name": "Internal Revenue Service",
+      "type": "government",
+      "description": "Defendant in Trump's suit settled in May 2026 with Blanche's signature (C100)"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "pam-bondi",
+      "target": "ballard-partners",
+      "label": "consultant 2023-Feb 2025; $1,067,000 reported income",
+      "type": "money",
+      "date": "2025-01",
+      "amount_usd": 1067000
+    },
+    {
+      "source": "ballard-partners",
+      "target": "qatar",
+      "label": "registered foreign agent for Qatar's embassy, Bondi listed",
+      "type": "commercial",
+      "date": "2019"
+    },
+    {
+      "source": "pam-bondi",
+      "target": "pam-bondi-jet-memo",
+      "label": "signed; no recusal; ethics officials reportedly cleared",
+      "type": "regulatory",
+      "date": "2025-05"
+    },
+    {
+      "source": "pam-bondi-jet-memo",
+      "target": "qatar-jet",
+      "label": "found acceptance legally permissible (unreleased)",
+      "type": "regulatory",
+      "date": "2025-05"
+    },
+    {
+      "source": "renatus-llc",
+      "target": "pam-bondi",
+      "label": "paid $2,969,563 for consulting in DWAC shares",
+      "type": "money",
+      "date": "2024",
+      "amount_usd": 2969563
+    },
+    {
+      "source": "pam-bondi",
+      "target": "trump-media-technology-group",
+      "label": "sold $1M-$5M of shares and $250K-$500K of warrants (required divestiture)",
+      "type": "money",
+      "date": "2025-04-02",
+      "amount_usd": 1250001
+    },
+    {
+      "source": "jamie-raskin",
+      "target": "pam-bondi",
+      "label": "asked DOJ IG to examine her Trump Media sale; no outcome found",
+      "type": "regulatory",
+      "date": "2025-05-20"
+    },
+    {
+      "source": "pam-bondi",
+      "target": "foreign-agents-registration-act",
+      "label": "limited criminal enforcement to espionage-like conduct",
+      "type": "regulatory",
+      "date": "2025-02-05"
+    },
+    {
+      "source": "todd-blanche",
+      "target": "foreign-corrupt-practices-act",
+      "label": "issued new enforcement guidelines",
+      "type": "regulatory",
+      "date": "2025-06-09"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "pam-bondi",
+      "label": "asked her to recuse from WBD bid review citing Ballard clients",
+      "type": "political",
+      "date": "2025-12-17"
+    },
+    {
+      "source": "richard-blumenthal",
+      "target": "pam-bondi",
+      "label": "asked her to recuse from WBD bid review",
+      "type": "political",
+      "date": "2025-12-17"
+    },
+    {
+      "source": "ballard-partners",
+      "target": "netflix",
+      "label": "lobbying client (after Bondi's nomination)",
+      "type": "commercial"
+    },
+    {
+      "source": "ballard-partners",
+      "target": "paramount-skydance",
+      "label": "lobbying client (after Bondi's nomination)",
+      "type": "commercial"
+    },
+    {
+      "source": "ballard-partners",
+      "target": "unitedhealth-group",
+      "label": "lobbying client (cited by Mangione defence)",
+      "type": "commercial"
+    },
+    {
+      "source": "freedom-of-the-press-foundation",
+      "target": "doj",
+      "label": "FOIA suit for the jet memo (No. 25-2432, open)",
+      "type": "legal",
+      "date": "2025-07-28"
+    },
+    {
+      "source": "american-oversight",
+      "target": "freedom-of-the-press-foundation",
+      "label": "counsel in jet-memo FOIA suit",
+      "type": "legal",
+      "date": "2025-07-28"
+    },
+    {
+      "source": "donald-trump",
+      "target": "pam-bondi",
+      "label": "removed as AG (announced 2 Apr 2026); named to PCAST May 2026",
+      "type": "political",
+      "date": "2026-04-02"
+    },
+    {
+      "source": "pam-bondi",
+      "target": "pcast",
+      "label": "named member",
+      "type": "political",
+      "date": "2026-05"
+    },
+    {
+      "source": "save-america-pac",
+      "target": "blanche-law-pllc",
+      "label": "paid legal fees for representing Donald Trump",
+      "type": "money",
+      "date": "2024"
+    },
+    {
+      "source": "todd-blanche",
+      "target": "donald-trump",
+      "label": "former criminal defence lawyer; withdrew before 6 Mar 2025",
+      "type": "legal"
+    },
+    {
+      "source": "todd-blanche",
+      "target": "blanche-law-pllc",
+      "label": "founder; $2.16M draw (2025 report), $490K final draw",
+      "type": "ownership",
+      "amount_usd": 2160000
+    },
+    {
+      "source": "blanche-law-pllc",
+      "target": "cls-global",
+      "label": "represented in D. Mass. plea agreement (8 Jan 2025, before Blanche took office)",
+      "type": "legal",
+      "date": "2025-01-08"
+    },
+    {
+      "source": "doj",
+      "target": "cls-global",
+      "label": "prosecuted; sentenced 2 Apr 2025 to $428,059 and probation",
+      "type": "legal",
+      "date": "2025-04-02",
+      "amount_usd": 428059
+    },
+    {
+      "source": "todd-blanche",
+      "target": "ending-regulation-by-prosecution-memo",
+      "label": "signed while holding crypto",
+      "type": "regulatory",
+      "date": "2025-04-07"
+    },
+    {
+      "source": "ending-regulation-by-prosecution-memo",
+      "target": "ncet",
+      "label": "disbanded effective immediately",
+      "type": "regulatory",
+      "date": "2025-04-07"
+    },
+    {
+      "source": "todd-blanche",
+      "target": "bitcoin",
+      "label": "held $100K-$250K; gifted or sold 2 Jun 2025",
+      "type": "ownership",
+      "date": "2025-06-02"
+    },
+    {
+      "source": "todd-blanche",
+      "target": "ethereum",
+      "label": "held $50K-$100K at nomination; disposed 2 Jun 2025",
+      "type": "ownership",
+      "date": "2025-06-02"
+    },
+    {
+      "source": "todd-blanche",
+      "target": "coinbase",
+      "label": "held shares ($1K-$15K) until 29 May 2025; crypto account",
+      "type": "ownership",
+      "date": "2025-05-29"
+    },
+    {
+      "source": "campaign-legal-center",
+      "target": "todd-blanche",
+      "label": "asked DOJ IG and OGE to investigate crypto conflict",
+      "type": "regulatory",
+      "date": "2026-01-22"
+    },
+    {
+      "source": "doj-inspector-general",
+      "target": "todd-blanche",
+      "label": "declined further action on crypto dispositions (OGE note)",
+      "type": "regulatory",
+      "date": "2026-09-02"
+    },
+    {
+      "source": "office-of-government-ethics",
+      "target": "todd-blanche",
+      "label": "certified filings; Certificate of Divestiture OGE-2026-183",
+      "type": "regulatory",
+      "date": "2026"
+    },
+    {
+      "source": "mazie-hirono",
+      "target": "todd-blanche",
+      "label": "led senators' letters on crypto conflict (28 Jan and 9 Jun 2026)",
+      "type": "political",
+      "date": "2026-01-28"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "todd-blanche",
+      "label": "co-signed crypto conflict letters",
+      "type": "political",
+      "date": "2026-01-28"
+    },
+    {
+      "source": "dick-durbin",
+      "target": "todd-blanche",
+      "label": "asked why he did not recuse from crypto memo and IRS settlement",
+      "type": "political",
+      "date": "2026-07-17"
+    },
+    {
+      "source": "adam-schiff",
+      "target": "todd-blanche",
+      "label": "inquiry into Trump-matter recusals",
+      "type": "political",
+      "date": "2026-05-18"
+    },
+    {
+      "source": "joseph-tirrell",
+      "target": "todd-blanche",
+      "label": "advised recusal from Trump matters (Mar 2025)",
+      "type": "advisory",
+      "date": "2025-03"
+    },
+    {
+      "source": "todd-blanche",
+      "target": "irs",
+      "label": "signed settlement of Trump's suit as acting AG (C100)",
+      "type": "legal",
+      "date": "2026-05-18"
+    },
+    {
+      "source": "donald-trump",
+      "target": "todd-blanche",
+      "label": "nominated as AG; confirmed 8 Aug, sworn in 10 Aug 2026",
+      "type": "political",
+      "date": "2026-08-10"
+    }
+  ],
+  "leads": [
+    {
+      "title": "Blanche's undisclosed 208(b)(1) determination",
+      "why_connected": "He told the Senate he received a written 208(b)(1) determination before the 7 Apr 2025 memo; his June 2025 certification says no 208 waiver. 18 U.S.C. 208(d)(1) provides for release on request; a FOIA request could settle the conflict.",
+      "entities": [
+        "todd-blanche",
+        "doj",
+        "office-of-government-ethics"
+      ],
+      "source_url": "https://www.judiciary.senate.gov/imo/media/doc/blanche_-_qfrs.pdf"
+    },
+    {
+      "title": "Scope of the DOJ inspector general's declination on Blanche",
+      "why_connected": "OGE's 2 Sep 2026 note says the IG 'declined further action' on seven crypto lines, without saying what was reviewed.",
+      "entities": [
+        "doj-inspector-general",
+        "todd-blanche",
+        "campaign-legal-center"
+      ],
+      "source_url": "https://www.washingtonsun.com/money/todd-blanche-bitcoin-crypto-doj-inspector-general"
+    },
+    {
+      "title": "Blanche Law clients before DOJ: HongShan, Roadget (Shein) and the confidential grand-jury client",
+      "why_connected": "His disclosures list foreign clients and one client under a non-public grand-jury investigation in 2025; any DOJ action involving them falls within his former-client recusal window.",
+      "entities": [
+        "todd-blanche",
+        "blanche-law-pllc",
+        "doj"
+      ],
+      "source_url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/4B1E6A519F015E7D85258C30003200C5/$FILE/Blanche%2C%20Todd%20%20final278.pdf"
+    },
+    {
+      "title": "Joseph Tirrell's lawsuit over his firing",
+      "why_connected": "The ethics director who reviewed both officials' filings and reportedly advised Blanche on recusal was fired in July 2025 and has sued.",
+      "entities": [
+        "joseph-tirrell",
+        "todd-blanche",
+        "pam-bondi",
+        "doj"
+      ],
+      "source_url": "https://www.nbcpalmsprings.com/ca-us-and-world/2026/05/14/acting-attorney-general-todd-blanche-advised-to-recuse-from-trump-matters-last-year"
+    },
+    {
+      "title": "FOIA case for the Qatar jet memo (D.D.C. 25-2432)",
+      "why_connected": "The memo Bondi signed is still unreleased; the docket may show a production schedule or a ruling on withholding.",
+      "entities": [
+        "pam-bondi-jet-memo",
+        "freedom-of-the-press-foundation",
+        "doj"
+      ],
+      "source_url": "https://americanoversight.org/litigation/freedom-of-the-press-foundation-v-doj-qatars-gifted-jet-to-trump-administration/"
+    }
+  ],
+  "audit": {
+    "checked": [
+      "Blanche's 5 June 2025 certification item 7a answer (read from the PDF's form fields: 'No') against his written Senate answer 16(b) ('Yes, but such determinations are not subject to disclosure')",
+      "Blanche's nominee 278e crypto lines and ranges, the 90-day term in his 10 Feb 2025 ethics agreement, and the 278-T dispositions (29 May to 2 June 2025) and gift note",
+      "OGE note of 2 Sept 2026 on his 2026 annual report: 'Part 7, Lines 1 - 6 and 15; DOJ IG declined further action.'",
+      "Blanche confirmed as AG 8 Aug 2026 (50-49) and sworn in Monday 10 Aug 2026 by Judge Bove; acting AG from 2 Apr 2026",
+      "Bondi: termination date 1 Apr 2026 on her termination 278e, compliance certification signed 5 May 2025 (handwritten date), 278-T signed 5 May and OGE-certified 12 May 2025, 2 Apr 2025 Trump Media sale, PCAST appointment (late May 2026, press reports citing Axios), no inspector-general outcome found",
+      "CLS Global plea agreement addressee (Lex Urban, The Blanche Law Firm, 8 Jan 2025, filed 21 Jan 2025) and sentencing date (2 Apr 2025)"
+    ],
+    "result": "corrected",
+    "changes": [
+      "Sharpened the waiver/determination point with exact quotations of both documents and an explicit reconciliation analysis: a 208(b)(1) written determination is the statutory waiver, the dates do not help, and neither Blanche nor DOJ has explained; 208(d)(1) provides for public release on request. Summary updated to match.",
+      "CLS Global: removed as a standalone sub-claim (it was our own cross-reference and documented nothing about Blanche's conduct). It is now one neutral sentence in the disclosure sub-claim, with the sentencing date corrected from 'about April 2025' to 2 April 2025 per the US Attorney's release. Removed from the summary; relationship labels made neutral.",
+      "Acting AG start date made precise (2 April 2026, his written Senate answer).",
+      "All other checked figures and dates upheld from the primary filings."
+    ],
+    "new_sources": [
+      {
+        "title": "Limited, Interim Waiver Under 18 U.S.C. 208(b)(1), Robert F. Kennedy Jr.",
+        "publisher": "The White House",
+        "url": "https://www.whitehouse.gov/wp-content/uploads/2025/03/20250218102929192.pdf",
+        "date": "2025-02-18"
+      },
+      {
+        "title": "Cryptocurrency financial services firm sentenced for cryptocurrency wash trading",
+        "publisher": "US Attorney's Office, D. Mass.",
+        "url": "https://www.justice.gov/usao-ma/pr/cryptocurrency-financial-services-firm-sentenced-cryptocurrency-wash-trading",
+        "date": "2025-04-02"
+      }
+    ]
+  }
+}

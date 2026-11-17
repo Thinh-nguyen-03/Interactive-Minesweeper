@@ -1,0 +1,962 @@
+{
+  "id": "C106",
+  "title": "David Sacks: Holdings, Ethics Waivers & AI and Crypto Policy",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "The two White House waivers, both read in full, document the core facts. David Sacks served as an unpaid special government employee while staying a Craft Ventures partner. White House Counsel David Warrington granted him limited waivers under 18 U.S.C. 208(b)(1): for digital assets on 5 March 2025, and for AI in an undated memo whose text places it in March 2025 (it was posted in a June 2025 folder). The waivers record more than $200M of crypto sales (at least $85M his own) and pending sales of Meta, Amazon, TSMC and xAI. They also list what he kept: Craft fund stakes in about 20 digital-asset companies (BitGo largest, under 2.5% of his total assets), small AI start-up stakes, and hundreds of software and hardware holdings, including Palantir directly. New York Times reporting (30 Nov 2025) links his policy work on the GENIUS Act, chip exports and the AI Action Plan to companies he or Craft hold, and to his All-In podcast. No authority has found a violation. Whether he exceeded the 130-day limit was never answered with a day log: he left the czar post on 26 March 2026, saying his non-consecutive 130 days were used up, and stayed on as PCAST co-chair. Sacks, his spokeswoman and the White House deny any conflict; Sacks calls the Times story a 'hoax' and a 'nothing burger', and the Times stands by it.",
+  "sub_claims": [
+    {
+      "statement": "Sacks served as an unpaid special government employee (SGE) under a 130-day limit while remaining a Craft Ventures partner.",
+      "verdict": "confirmed",
+      "finding": "Grade: documented. Both waivers (read in full) say he 'agreed to be a special government employee serving as Special Advisor for AI and Crypto' and is 'expected to work ... for 130 days or less in a one-year period' (18 U.S.C. 202(a)). The March waiver names him chair of the President's Working Group on Digital Asset Markets. Both waivers also say he 'agreed to co-chair' PCAST, so he held the PCAST title from early 2025, not only from March 2026. The waivers call him co-founder and general partner of Craft Ventures. The NYT reports he is not paid for government work. Warren's letters note that SGE status lets him keep earning from Craft (18 U.S.C. 209). Trump announced the appointment on 5 Dec 2024, and he began work on or around 20 Jan 2025 (Warren-Stansbury letter, read in full).",
+      "sources": [
+        "https://www.whitehouse.gov/wp-content/uploads/2025/03/Memo-David-Sacks-3.5.2025-1.pdf",
+        "https://www.whitehouse.gov/wp-content/uploads/2025/06/David-Sacks.pdf",
+        "https://www.warren.senate.gov/imo/media/doc/david_sacks_sge_letter_91625.pdf",
+        "https://eforum2025.blogspot.com/2025/12/silicon-valleys-man-in-white-house-is.html"
+      ]
+    },
+    {
+      "statement": "Sacks exceeded the SGE limit of 130 days in a 365-day period.",
+      "verdict": "unverified",
+      "finding": "Grade: allegation without a finding. (1) Record: the 17 Sept 2025 letter from Warren, Stansbury and six others (read in full) calculated that working every calendar day from 20 Jan 2025 would put his 130th day at 29 May 2025, and every business day at 25 July 2025. The letter cited OGE guidance that any day with more than de minimis work counts. It asked for his SF-50 and a day-by-day list by 1 Oct 2025. The letter quotes the SF Standard: the White House said it 'counted' only days he worked as czar, and Craft said he split weeks between D.C. and Silicon Valley. (2) No day log, SF-50 or reply was found. (3) On 26 March 2026 Sacks told Bloomberg he had 'used up' his time; TechCrunch (read in full) calls it a 'non-consecutive 130-day stint'. He moved to PCAST co-chair, which DL News and TechCrunch describe as advisory. (4) No OGE, inspector-general or other finding on the day count was found. How the White House counted days, and whether a new 365-day period began in 2026, is not public.",
+      "sources": [
+        "https://www.warren.senate.gov/imo/media/doc/david_sacks_sge_letter_91625.pdf",
+        "https://www.warren.senate.gov/newsroom/press-releases/warren-stansbury-members-of-congress-launch-investigation-into-trump-crypto-ai-czars-ethics-conflicts/",
+        "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
+        "https://decrypt.co/362531/david-sacks-leaves-white-house-crypto-role-legislation",
+        "https://dlnews.com/articles/regulation/president-trump-crypto-czar-stepping-down-and-into-new-role",
+        "https://news.bloomberglaw.com/business-and-practice/sacks-may-have-exceeded-term-in-white-house-role-democrats-say"
+      ]
+    },
+    {
+      "statement": "The 5 March 2025 crypto waiver let Sacks work on digital-asset policy while he and Craft kept stakes in digital-asset companies.",
+      "verdict": "confirmed",
+      "finding": "Grade: documented (waiver read in full: 8-page memo plus schedules A-C, signed by White House Counsel David Warrington on 5 March 2025). Sold, per the memo: he and Craft sold all liquid crypto (including BTC, ETH and SOL) before 20 Jan 2025; he sold his Bitwise 10 Crypto Index Fund (BITW) on 22 Jan 2025 and his Coinbase and Robinhood stock; he sold LP stakes in Multicoin and Blockchain Capital; Craft sold its Multicoin and Bitwise Asset Management interests. Over $200M divested in total, 'at least $85 million' directly his. He also started selling LP stakes in Sequoia funds and about 90 other VC funds; the Sequoia funds (1.2% of his assets) were set to close on 31 March 2025. Still held (Schedule A): Craft-fund stakes in 20 digital-asset companies totalling 3.714% of his total investment assets. The largest are BitGo (2.468%) and Lightning Labs (1.131%); the others include dYdX Trading, Chia Network, Dapper Labs, Fold, River Financial and Talos. Schedule B: Beldore Capital Fund (an S&P 500 exchange fund, 5.07%) and AL Venture/AngelList (0.03%). Schedule C (sale pending): Animoca Brands, Republic, CoinList, Sequoia funds. Reasoning: the interests are 'not so substantial' (5 C.F.R. 2640.301(b)(4)), and the role needs industry expertise. Limits: no new digital-asset holdings; Craft to be instructed likewise; consult an ethics official if holdings pass 5% of his assets. The waiver covers only 'particular matters of general applicability', not matters involving specific parties. It says SGEs cannot get certificates of divestiture, so his sales were taxable. OGE was 'consulted' beforehand.",
+      "sources": [
+        "https://www.whitehouse.gov/wp-content/uploads/2025/03/Memo-David-Sacks-3.5.2025-1.pdf",
+        "https://levernews.com/trump-issues-ethics-waiver-for-his-ai-crypto-czar",
+        "https://www.banking.senate.gov/imo/media/doc/oge_sacks_letter.pdf"
+      ]
+    },
+    {
+      "statement": "A second waiver covered AI, issued in mid-2025.",
+      "verdict": "mostly-accurate",
+      "finding": "Grade: documented (39-page PDF, memo read in full, schedules skimmed). It is a 'Limited Waiver Pursuant to 18 U.S.C. 208(b)(1) Regarding A.I. Assets', signed by Warrington but undated on its face. Its text says TSMC and Amazon 'will be fully sold by March 31, 2025', Meta by the end of Q2 2025, and the Sequoia stakes 'by the end of this month'. That places the signing in March 2025, and the NYT says he received both waivers 'in March'. The file sits in a June 2025 upload folder on whitehouse.gov, which is likely why outlets call it a June or July waiver. Contents: direct AI interests pending sale (Schedule A: Meta 1.762%, Amazon 0.034%, TSMC 0.035% of his total assets); Craft-fund AI interests of 0.045% (Schedule B: xAI pending sale, plus Groq, Etched, Runway, Stability AI and others at about 0%). It states he started or finished divesting 'over 99%' of potentially conflicting holdings and that Craft funds did so for 'over 97%'. The waiver also covers software-as-a-service interests (Schedules C and D, 'just over 13%' of his assets) and hardware interests (Schedules E and F, under 2%), 'out of an abundance of caution'. It says many SaaS companies 'do not currently use' AI materially but 'many ... are likely to'. Palantir is listed as a direct SaaS interest at 1.819%. Limits: Craft must consult the White House Counsel's office before closing new investments. The waiver does not cover specific-party matters or matters affecting Craft Ventures itself beyond the listed fund interests.",
+      "sources": [
+        "https://www.whitehouse.gov/wp-content/uploads/2025/06/David-Sacks.pdf",
+        "https://eforum2025.blogspot.com/2025/12/silicon-valleys-man-in-white-house-is.html",
+        "https://techcrunch.com/2025/11/30/new-report-examines-how-david-sacks-might-profit-from-trump-administration-role/"
+      ]
+    },
+    {
+      "statement": "Sacks and Craft kept hundreds of AI and crypto-linked holdings (NYT: 708 tech investments, 449 AI-related, 20 crypto).",
+      "verdict": "mostly-accurate",
+      "finding": "Grade: the holdings lists are documented in the waivers; the 708/449/20 counts are the NYT's own classification (read in full via an unofficial repost). The NYT says 11 holdings were designated 'A.I. Interests' and 438 were classed as software or hardware although the companies market AI, 41 of them with AI in their names. Our reading matches the structure: the AI schedules are small, and the SaaS and hardware schedules run to many pages. The waivers give percentages of his total assets, not dollar values, and no sale dates, so whether he profited cannot be checked from them (the NYT makes the same point). His OGE 278e is not public (Warren to OGE, 5 May 2025). BitGo: the S-1 beneficial-ownership footnote (excerpt) lists 7,421,851 Class A shares held by three Craft I funds and says Sacks, as managing member of their general partner, makes their investment and voting decisions. The NYT gives 7.8%; a third-party tracker shows about 6.4% after the IPO. Neither percentage was checked against the filing. At the $18 IPO price (21 Jan 2026) the shares would be worth about $134M (our arithmetic, inferred).",
+      "sources": [
+        "https://eforum2025.blogspot.com/2025/12/silicon-valleys-man-in-white-house-is.html",
+        "https://www.whitehouse.gov/wp-content/uploads/2025/03/Memo-David-Sacks-3.5.2025-1.pdf",
+        "https://www.whitehouse.gov/wp-content/uploads/2025/06/David-Sacks.pdf",
+        "https://www.banking.senate.gov/imo/media/doc/oge_sacks_letter.pdf",
+        "https://www.sec.gov/Archives/edgar/data/1740604/000162828025042203/bitgoholdingsincforms-1.htm",
+        "https://simplywall.st/stocks/de/diversified-financials/duse-o7s/bitgo-holdings-shares/ownership",
+        "https://www.businesswire.com/news/home/20260121850585/en/BitGo-Holdings-Announces-Pricing-of-Initial-Public-Offering"
+      ]
+    },
+    {
+      "statement": "Sacks shaped the GENIUS Act and crypto policy while Craft held crypto-infrastructure stakes such as BitGo.",
+      "verdict": "mostly-accurate",
+      "finding": "Grade: documented overlap; benefit not shown. He chaired the President's Working Group on Digital Asset Markets (EO 14178; crypto waiver). He promoted the GENIUS Act, signed 18 July 2025, and called it 'historic' and 'momentous' (NYT). The crypto waiver lists BitGo as his largest retained digital-asset interest. The NYT says BitGo marketed its services as fitting the new law and filed for an IPO in September 2025. His spokeswoman says the Act 'contained no specific benefit for BitGo'. Market-structure legislation (CLARITY Act) was unfinished when he left; per C11 it passed only the House and failed a Senate cloture vote in September 2026. The waiver allows work on general-applicability matters such as legislation; no source shows him acting on a BitGo-specific matter. No finding.",
+      "sources": [
+        "https://www.whitehouse.gov/wp-content/uploads/2025/03/Memo-David-Sacks-3.5.2025-1.pdf",
+        "https://eforum2025.blogspot.com/2025/12/silicon-valleys-man-in-white-house-is.html",
+        "https://decrypt.co/362531/david-sacks-leaves-white-house-crypto-role-legislation"
+      ]
+    },
+    {
+      "statement": "Sacks or people close to him profited from the strategic bitcoin reserve announcements.",
+      "verdict": "unverified",
+      "finding": "Grade: questions raised, no evidence of trading found. On 6 March 2025 Sacks announced the executive order creating a Strategic Bitcoin Reserve and Digital Asset Stockpile. Warren's 6 March letter (read in full) noted Craft's past stake in Bitwise, whose index top holdings matched the five tokens Trump named on 2 March, and that Craft's website was updated on 4 March to show it exited Bitwise in January 2025. She asked when he and Craft sold. The 5 March waiver answers part of this: liquid crypto was sold before 20 Jan 2025, his BITW position on 22 Jan 2025, and Craft's Bitwise interest is listed as sold. No source documents trading by Sacks or associates around the reserve announcements, and no inquiry or finding was found.",
+      "sources": [
+        "https://www.banking.senate.gov/imo/media/doc/letter_to_david_sacks.pdf",
+        "https://www.whitehouse.gov/wp-content/uploads/2025/03/Memo-David-Sacks-3.5.2025-1.pdf"
+      ]
+    },
+    {
+      "statement": "Sacks drove chip-export decisions (UAE deal, China sales) that benefited Nvidia and AI companies he invests in.",
+      "verdict": "unverified",
+      "finding": "Grade: allegation without a finding. His role is reported by the NYT from anonymous sources; no Nvidia holding is documented, and no source shows a chip decision benefiting a company he holds. The NYT reports he worked to remove Biden-era export limits (the AI diffusion rule) and flew to the Gulf in May 2025 to strike a deal for about 500,000 chips for the UAE (analysts: up to $200B in Nvidia sales). It also reports he joined Jensen Huang in a July 2025 Oval Office meeting before Trump cleared Nvidia sales to China. Bloomberg reports he backed the December 2025 decision to allow H200 sales to China. Neither waiver lists Nvidia. The AI waiver lists Craft-fund stakes of about 0% in chip start-ups Groq and Etched, and he held TSMC (0.035%, pending sale in March 2025). His spokeswoman: 'None of his holdings benefited from the Emirates deal.' Nvidia says Lutnick was its main contact for foreign sales. Formal licences came from Commerce/BIS (C34). Whether the UAE negotiation was a specific-party matter outside the waivers is our own question; no source asserts it. State OIG referred the Warren-Slotkin request (about 'senior administration officials'; the reply does not name Sacks) to its Office of Investigations on 12 Dec 2025, adding that it does not comment on criminal allegations; no outcome found.",
+      "sources": [
+        "https://eforum2025.blogspot.com/2025/12/silicon-valleys-man-in-white-house-is.html",
+        "https://www.bloomberg.com/news/articles/2025-12-12/china-is-rejecting-h200s-outfoxing-us-strategy-sacks-says",
+        "https://www.nbcnews.com/world/asia/us-approves-nvidia-h200-chip-exports-china-conditions-rcna253948",
+        "https://www.whitehouse.gov/wp-content/uploads/2025/06/David-Sacks.pdf",
+        "https://www.banking.senate.gov/imo/media/doc/2025_09_23_sens_slotkin_and_warren_requesting_oig_investigation_into_uae_chips_corruption_response1.pdf"
+      ]
+    },
+    {
+      "statement": "The AI Action Plan and related orders favoured companies in Sacks's portfolio, such as defence start-ups.",
+      "verdict": "unverified",
+      "finding": "Grade: documented holdings and policy; benefit is the NYT's inference. Trump unveiled the AI Action Plan, drafted in part by Sacks, on 23 July 2025. The NYT says it promoted AI drones and other military uses, and that his filings show stakes in Anduril, Firestorm Labs and Swarm Aero. Anduril won a $159M Army goggles contract in September 2025, and its spokeswoman said the relationship pre-dated the plan. Sacks's spokeswoman called military AI an 'obvious idea'. He also helped shape the December 2025 order against state AI laws (NPR). These are general-applicability matters that the AI waiver expressly covers. No finding.",
+      "sources": [
+        "https://eforum2025.blogspot.com/2025/12/silicon-valleys-man-in-white-house-is.html",
+        "https://www.npr.org/2025/12/12/nx-s1-5631823/david-sacks-ai-advisor-investment-conflicts",
+        "https://www.whitehouse.gov/wp-content/uploads/2025/06/David-Sacks.pdf"
+      ]
+    },
+    {
+      "statement": "Sacks's All-In podcast and related businesses gained from his government role, including through the July 2025 AI summit.",
+      "verdict": "unverified",
+      "finding": "Grade: allegation without a finding; whether All-In gained is disputed. The NYT reports these points, several from anonymous sources or a proposal it viewed. All-In asked potential sponsors to pay $1M each for access to a private reception and other events 'bringing together President Donald Trump and leading A.I. innovators' (proposal viewed by the NYT). Chief of staff Susie Wiles stepped in so All-In would not be the sole host (two people), and the Hill and Valley Forum co-hosted. Visa and the NYSE sponsored; amounts were not disclosed. Other figures: All-In's 2025 conference ticket sales were about $21M (the NYT's estimate) and a $1,200 tequila launched in June 2025. Cabinet secretaries gave interviews and the show posted an Oval Office tour. Response: his spokeswoman and Clare Locke say All-In lost money on the summit, two sponsors got only logo placement, 'no V.I.P. reception occurred', and no access to Trump was offered. Sacks gives up AI and crypto-related revenue such as sponsorships but shares in ticket and tequila sales. No finding.",
+      "sources": [
+        "https://eforum2025.blogspot.com/2025/12/silicon-valleys-man-in-white-house-is.html",
+        "https://techcrunch.com/2025/11/30/new-report-examines-how-david-sacks-might-profit-from-trump-administration-role/",
+        "https://www.thewrap.com/david-sacks-nyt-conflict-of-interest-hit-piece-white-house-ai-crypto-czar-trump/"
+      ]
+    },
+    {
+      "statement": "While czar, Sacks co-hosted a $1.5M-per-person crypto and AI fundraiser for the pro-Trump super PAC MAGA Inc.",
+      "verdict": "mostly-accurate",
+      "finding": "Grade: multi-outlet, based on an invitation reported by Axios; the invitation was not read. Several outlets report a 5 May 2025 'Crypto & AI Innovators Dinner' for MAGA Inc. at $1.5M a plate, with Sacks co-headlining. Warren's 5 May letter to OGE (read in full) says he was 'reportedly co-hosting' it. No Hatch Act complaint or finding about the event was found.",
+      "sources": [
+        "https://www.banking.senate.gov/imo/media/doc/oge_sacks_letter.pdf",
+        "https://www.theblock.co/post/353176/trumps-two-crypto-dinners-in-may-raise-potential-for-conflicts-of-interest",
+        "https://www.nbcnews.com/business/markets/trump-set-raise-millions-crypto-meme-coin-month-rcna204847"
+      ]
+    },
+    {
+      "statement": "Lawmakers and watchdogs asked for answers or investigations, and oversight bodies responded.",
+      "verdict": "confirmed",
+      "finding": "Grade: documented (letters read in full). Warren to Sacks, 6 March 2025: questions on divestment timing and SGE status, due 14 March; she said in May he had not responded. Warren to Acting OGE Director Jamieson Greer, 5 May 2025: was OGE consulted, what did it recommend, and will it release his 278e; due 19 May; no reply found. Warren, Stansbury and others to Sacks, 17 Sept 2025, on the day count; no reply found. Warren and Slotkin to the State and Commerce inspectors general and OGE, 23 Sept 2025, on the UAE chips role of Sacks and Witkoff. State OIG replied on 12 Dec 2025 that it had referred the request to its Office of Investigations, and it does not comment on criminal allegations; no Commerce OIG or OGE reply found. American Oversight filed a FOIA request with OGE on 24 April 2025 (OGE-25-1162) covering Sacks's ethics records; its outcome was not found. House Foreign Affairs Democrats asked for an inspector-general probe of Witkoff and Sacks in January 2026 (see C53). No finding by any authority was found as of Nov 2026.",
+      "sources": [
+        "https://www.banking.senate.gov/imo/media/doc/letter_to_david_sacks.pdf",
+        "https://www.banking.senate.gov/imo/media/doc/oge_sacks_letter.pdf",
+        "https://www.warren.senate.gov/imo/media/doc/david_sacks_sge_letter_91625.pdf",
+        "https://www.warren.senate.gov/newsroom/press-releases/warren-stansbury-members-of-congress-launch-investigation-into-trump-crypto-ai-czars-ethics-conflicts/",
+        "https://www.banking.senate.gov/imo/media/doc/2025_09_23_sens_slotkin_and_warren_requesting_oig_investigation_into_uae_chips_corruption_response1.pdf",
+        "https://www.banking.senate.gov/newsroom/minority/following-ig-response-warren-and-slotkin-press-for-full-investigation-into-extent-of-donald-trump-trump-family-and-senior-trump-administration-officials-cashing-in-on-foreign-crypto-deals",
+        "https://www.semafor.com/article/12/22/2025/sacks-witkoff-could-face-ethics-probe-over-uae-deals",
+        "https://archive.americanoversight.org/2025/25-1162/OGE-25-1162.pdf"
+      ]
+    },
+    {
+      "statement": "OGE approved Sacks's waivers and found he had no conflicts.",
+      "verdict": "partly-accurate",
+      "finding": "Grade: Sacks's characterization; the documents say less. Sacks said on All-In that OGE 'approved his public waivers and concluded he had no conflicts' (NPR). His spokeswoman says OGE decided which AI investments he had to sell. Both waivers say only that the White House Counsel, as the President's designee, made the determination after consulting OGE as 5 C.F.R. 2640.303 requires, and that 'the waiver decision is within the sound discretion of the agency'. OGE's own view has not been published, and Warren's questions to OGE went unanswered in what we found. The White House says he was recused until he divested or received a waiver (NYT).",
+      "sources": [
+        "https://www.npr.org/2025/12/12/nx-s1-5631823/david-sacks-ai-advisor-investment-conflicts",
+        "https://www.whitehouse.gov/wp-content/uploads/2025/03/Memo-David-Sacks-3.5.2025-1.pdf",
+        "https://www.whitehouse.gov/wp-content/uploads/2025/06/David-Sacks.pdf",
+        "https://www.banking.senate.gov/imo/media/doc/oge_sacks_letter.pdf",
+        "https://eforum2025.blogspot.com/2025/12/silicon-valleys-man-in-white-house-is.html"
+      ]
+    },
+    {
+      "statement": "Sacks, Craft and the White House dispute the conflict-of-interest reporting; Sacks threatened or sued the NYT.",
+      "verdict": "mostly-accurate",
+      "finding": "Grade: documented for the dispute; no lawsuit. Sacks called the NYT story a 'nothing burger' and the paper a 'hoax factory' on X (30 Nov 2025). He posted a four-page Clare Locke letter (dated 24 Nov 2025, per C34) demanding the Times 'abandon' the article. The letter says a reported dinner with Jensen Huang never happened (the Times dropped that reference), disputes the All-In claims, and says Sacks gave up AI and crypto revenue. Spokeswoman Jessica Hoffman called the narrative false and said the role cost him money. White House spokeswoman Liz Huston called him 'an invaluable asset'. The Times said it is confident in its reporting. No lawsuit, correction or retraction was found as of Nov 2026.",
+      "sources": [
+        "https://techcrunch.com/2025/11/30/new-report-examines-how-david-sacks-might-profit-from-trump-administration-role/",
+        "https://www.thewrap.com/david-sacks-nyt-conflict-of-interest-hit-piece-white-house-ai-crypto-czar-trump/",
+        "https://protos.com/david-sacks-sends-silly-legal-threat-to-the-new-york-times",
+        "https://www.npr.org/2025/12/12/nx-s1-5631823/david-sacks-ai-advisor-investment-conflicts",
+        "https://eforum2025.blogspot.com/2025/12/silicon-valleys-man-in-white-house-is.html"
+      ]
+    }
+  ],
+  "corrections": [
+    "C34 says Craft's remaining crypto stakes were 'about 3.7% of its assets'. The waiver's Schedule A gives 3.714% of Sacks's own total investment assets, not of Craft's assets.",
+    "C34 and C54 date the AI waiver to 'June or July 2025' or 'mid-2025'. The memo is undated, but its text places it in March 2025 and the NYT says he received both waivers in March. It was posted in a June 2025 folder on whitehouse.gov.",
+    "C34 says Sacks 'became PCAST co-chair' in March 2026. Both March 2025 waivers already say he agreed to co-chair PCAST, and Warren's 6 March 2025 letter addresses him as PCAST chair. In March 2026 he left the czar post, kept the PCAST role, and PCAST's members were named.",
+    "C34 says he left 'at the 130-day limit' as if settled. Sacks says his non-consecutive 130 days were used up, but no day count has been published, and the question of whether he passed the limit in 2025 has not been answered.",
+    "C34 reports, attributed to Sacks, that 'OGE approved his waivers'. The waivers say the White House Counsel granted them after consulting OGE; OGE's position is not public.",
+    "C34's 7.8% BitGo stake is the NYT's figure. BitGo's S-1 (excerpt) shows 7,421,851 Class A shares in three Craft I funds, with Sacks making their investment and voting decisions. The crypto waiver puts BitGo at 2.468% of his total assets. The percentage of BitGo was not checked against the filing.",
+    "C34's relationship dates the crypto divestment to 2025-01. The waiver says liquid crypto was sold before 20 Jan 2025, BITW on 22 Jan 2025, and some private holdings (Animoca, Republic, CoinList, Sequoia funds) were still being sold in March 2025.",
+    "C65 and C68 contain no substantive Sacks findings (C65 lists him only as an entity pointing to C34), so they need no correction. C68's Nvidia section could cross-reference the NYT reporting on Sacks's chip-export role."
+  ],
+  "denials_and_context": [
+    "Sacks: he divested 'hundreds of millions of dollars' at a cost to his net worth, OGE approved his waivers, and the NYT story is a 'nothing burger' built on debunked claims.",
+    "Jessica Hoffman (spokeswoman): 'this conflict of interest narrative is false'; he complied with SGE rules; none of his holdings benefited from the UAE deal; the GENIUS Act 'contained no specific benefit for BitGo'.",
+    "Clare Locke (his lawyers): All-In lost money on the July 2025 summit, no VIP reception took place, no access to Trump was offered, and the reported Huang dinner never happened.",
+    "White House (Liz Huston): Sacks addressed potential conflicts, was recused until he divested or received a waiver, and is 'an invaluable asset'.",
+    "The New York Times stands by its reporting and did not allege a crime.",
+    "Kathleen Clark (Washington University) calls them 'sham ethics waivers', 'like a presidential pardon in advance'.",
+    "Rule context: 18 U.S.C. 208 bars participation in particular matters affecting one's financial interest unless a 208(b)(1) waiver finds the interest not so substantial as to affect integrity. Both waivers do this for general-applicability matters only. A waiver makes participation lawful under 208; it does not mean no interest exists.",
+    "No authority (OGE, an inspector general, DOJ or a court) has found that Sacks violated ethics law. The waivers give percentages, not dollar values or sale dates, so no profit or loss from his service can be computed from the public record.",
+    "Access limits: the NYT article was read via an unofficial repost; SEC EDGAR refused automated access; the Clare Locke letter was seen only through press accounts; Bloomberg, The Block and Semafor were seen only in excerpts."
+  ],
+  "sources": [
+    {
+      "title": "Memorandum for David O. Sacks: Limited Waiver Pursuant to 18 U.S.C. 208(b)(1) (digital assets)",
+      "publisher": "The White House (Counsel to the President)",
+      "url": "https://www.whitehouse.gov/wp-content/uploads/2025/03/Memo-David-Sacks-3.5.2025-1.pdf",
+      "date": "2025-03-05",
+      "read": "full"
+    },
+    {
+      "title": "Memorandum to David O. Sacks: Limited Waiver Pursuant to 18 U.S.C. 208(b)(1) Regarding A.I. Assets",
+      "publisher": "The White House (Counsel to the President)",
+      "url": "https://www.whitehouse.gov/wp-content/uploads/2025/06/David-Sacks.pdf",
+      "date": "2025-03",
+      "read": "full"
+    },
+    {
+      "title": "Letter from Sen. Warren to David Sacks on crypto conflicts",
+      "publisher": "Senate Banking Committee (minority)",
+      "url": "https://www.banking.senate.gov/imo/media/doc/letter_to_david_sacks.pdf",
+      "date": "2025-03-06",
+      "read": "full"
+    },
+    {
+      "title": "Letter from Sen. Warren to Acting OGE Director Jamieson Greer on the Sacks waiver",
+      "publisher": "Senate Banking Committee (minority)",
+      "url": "https://www.banking.senate.gov/imo/media/doc/oge_sacks_letter.pdf",
+      "date": "2025-05-05",
+      "read": "full"
+    },
+    {
+      "title": "Letter from Sen. Warren, Rep. Stansbury and others to David Sacks on SGE day count",
+      "publisher": "Office of Sen. Elizabeth Warren",
+      "url": "https://www.warren.senate.gov/imo/media/doc/david_sacks_sge_letter_91625.pdf",
+      "date": "2025-09-17",
+      "read": "full"
+    },
+    {
+      "title": "Warren, Stansbury, members of Congress launch investigation into Trump crypto and AI czar's ethics conflicts",
+      "publisher": "Office of Sen. Elizabeth Warren",
+      "url": "https://www.warren.senate.gov/newsroom/press-releases/warren-stansbury-members-of-congress-launch-investigation-into-trump-crypto-ai-czars-ethics-conflicts/",
+      "date": "2025-09-17",
+      "read": "full"
+    },
+    {
+      "title": "State Department OIG response to Sens. Warren and Slotkin",
+      "publisher": "U.S. Department of State Office of Inspector General",
+      "url": "https://www.banking.senate.gov/imo/media/doc/2025_09_23_sens_slotkin_and_warren_requesting_oig_investigation_into_uae_chips_corruption_response1.pdf",
+      "date": "2025-12-12",
+      "read": "full"
+    },
+    {
+      "title": "Following IG response, Warren and Slotkin press for full investigation",
+      "publisher": "Senate Banking Committee (minority)",
+      "url": "https://www.banking.senate.gov/newsroom/minority/following-ig-response-warren-and-slotkin-press-for-full-investigation-into-extent-of-donald-trump-trump-family-and-senior-trump-administration-officials-cashing-in-on-foreign-crypto-deals",
+      "date": "2025-12-22",
+      "read": "full"
+    },
+    {
+      "title": "Silicon Valley's Man in the White House Is Benefiting Himself and His Friends (unofficial repost of the NYT article)",
+      "publisher": "The New York Times (via eforum2025.blogspot.com)",
+      "url": "https://eforum2025.blogspot.com/2025/12/silicon-valleys-man-in-white-house-is.html",
+      "date": "2025-11-30",
+      "read": "full"
+    },
+    {
+      "title": "New report examines how David Sacks might profit from Trump administration role",
+      "publisher": "TechCrunch",
+      "url": "https://techcrunch.com/2025/11/30/new-report-examines-how-david-sacks-might-profit-from-trump-administration-role/",
+      "date": "2025-11-30",
+      "read": "full"
+    },
+    {
+      "title": "David Sacks calls NYT conflict-of-interest 'hit piece' a 'willful misunderstanding'",
+      "publisher": "TheWrap",
+      "url": "https://www.thewrap.com/david-sacks-nyt-conflict-of-interest-hit-piece-white-house-ai-crypto-czar-trump/",
+      "date": "2025-11-30",
+      "read": "full"
+    },
+    {
+      "title": "David Sacks sends silly legal threat to the New York Times",
+      "publisher": "Protos",
+      "url": "https://protos.com/david-sacks-sends-silly-legal-threat-to-the-new-york-times",
+      "date": "2025-12",
+      "read": "full"
+    },
+    {
+      "title": "Trump tech adviser David Sacks under fire over vast AI investments",
+      "publisher": "NPR",
+      "url": "https://www.npr.org/2025/12/12/nx-s1-5631823/david-sacks-ai-advisor-investment-conflicts",
+      "date": "2025-12-12",
+      "read": "excerpt"
+    },
+    {
+      "title": "David Sacks is done as AI czar, here's what he's doing instead",
+      "publisher": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
+      "date": "2026-03-26",
+      "read": "full"
+    },
+    {
+      "title": "David Sacks leaves White House crypto role with key legislation still unresolved",
+      "publisher": "Decrypt",
+      "url": "https://decrypt.co/362531/david-sacks-leaves-white-house-crypto-role-legislation",
+      "date": "2026-03-26",
+      "read": "excerpt"
+    },
+    {
+      "title": "President Trump's crypto czar is stepping down, and into this new role",
+      "publisher": "DL News",
+      "url": "https://dlnews.com/articles/regulation/president-trump-crypto-czar-stepping-down-and-into-new-role",
+      "date": "2026-03-27",
+      "read": "excerpt"
+    },
+    {
+      "title": "FOIA request OGE-25-1162 (SGE ethics records incl. David Sacks)",
+      "publisher": "American Oversight",
+      "url": "https://archive.americanoversight.org/2025/25-1162/OGE-25-1162.pdf",
+      "date": "2025-04-24",
+      "read": "full"
+    },
+    {
+      "title": "Trump issues ethics waiver for his AI/crypto czar",
+      "publisher": "The Lever",
+      "url": "https://levernews.com/trump-issues-ethics-waiver-for-his-ai-crypto-czar",
+      "date": "2025-03",
+      "read": "excerpt"
+    },
+    {
+      "title": "BitGo Holdings, Inc. Form S-1",
+      "publisher": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/1740604/000162828025042203/bitgoholdingsincforms-1.htm",
+      "date": "2025-09",
+      "read": "excerpt"
+    },
+    {
+      "title": "BitGo Holdings ownership",
+      "publisher": "Simply Wall St",
+      "url": "https://simplywall.st/stocks/de/diversified-financials/duse-o7s/bitgo-holdings-shares/ownership",
+      "date": "2026",
+      "read": "excerpt"
+    },
+    {
+      "title": "BitGo Holdings announces pricing of initial public offering",
+      "publisher": "Business Wire",
+      "url": "https://www.businesswire.com/news/home/20260121850585/en/BitGo-Holdings-Announces-Pricing-of-Initial-Public-Offering",
+      "date": "2026-01-21",
+      "read": "excerpt"
+    },
+    {
+      "title": "China is 'rejecting' Nvidia's H200 chips, outfoxing US strategy, Sacks says",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-12/china-is-rejecting-h200s-outfoxing-us-strategy-sacks-says",
+      "date": "2025-12-12",
+      "read": "excerpt"
+    },
+    {
+      "title": "US approves Nvidia H200 chip exports to China with conditions",
+      "publisher": "NBC News",
+      "url": "https://www.nbcnews.com/world/asia/us-approves-nvidia-h200-chip-exports-china-conditions-rcna253948",
+      "date": "2025-12",
+      "read": "excerpt"
+    },
+    {
+      "title": "Trump's two crypto dinners in May raise potential for conflicts of interest",
+      "publisher": "The Block",
+      "url": "https://www.theblock.co/post/353176/trumps-two-crypto-dinners-in-may-raise-potential-for-conflicts-of-interest",
+      "date": "2025-05",
+      "read": "excerpt"
+    },
+    {
+      "title": "Trump set to raise millions from crypto and meme coin this month",
+      "publisher": "NBC News",
+      "url": "https://www.nbcnews.com/business/markets/trump-set-raise-millions-crypto-meme-coin-month-rcna204847",
+      "date": "2025-05",
+      "read": "excerpt"
+    },
+    {
+      "title": "Sacks, Witkoff could face ethics probe over UAE deals",
+      "publisher": "Semafor",
+      "url": "https://www.semafor.com/article/12/22/2025/sacks-witkoff-could-face-ethics-probe-over-uae-deals",
+      "date": "2025-12-22",
+      "read": "excerpt"
+    },
+    {
+      "title": "Sacks may have exceeded term in White House role, Democrats say",
+      "publisher": "Bloomberg Law",
+      "url": "https://news.bloomberglaw.com/business-and-practice/sacks-may-have-exceeded-term-in-white-house-role-democrats-say",
+      "date": "2025-09-17",
+      "read": "excerpt"
+    }
+  ],
+  "entities": [
+    {
+      "id": "david-sacks",
+      "name": "David Sacks",
+      "type": "person",
+      "description": "White House AI and crypto adviser (SGE) Jan 2025 to Mar 2026; PCAST co-chair; Craft Ventures co-founder"
+    },
+    {
+      "id": "craft-ventures",
+      "name": "Craft Ventures",
+      "type": "fund",
+      "description": "Sacks's venture firm; its funds kept digital-asset and AI-linked stakes listed in the waivers"
+    },
+    {
+      "id": "david-warrington",
+      "name": "David Warrington",
+      "type": "person",
+      "description": "Counsel to the President; signed both Sacks waivers"
+    },
+    {
+      "id": "office-of-government-ethics",
+      "name": "Office of Government Ethics",
+      "type": "government",
+      "description": "Consulted before the waivers; its own view has not been published"
+    },
+    {
+      "id": "pcast",
+      "name": "President's Council of Advisors on Science and Technology",
+      "type": "government",
+      "description": "Advisory council Sacks co-chairs"
+    },
+    {
+      "id": "white-house",
+      "name": "White House",
+      "type": "government",
+      "description": "Issued the waivers and defends Sacks"
+    },
+    {
+      "id": "bitgo",
+      "name": "BitGo",
+      "type": "company",
+      "description": "Crypto custodian; largest digital-asset holding left in the Craft funds"
+    },
+    {
+      "id": "lightning-labs",
+      "name": "Lightning Labs",
+      "type": "company",
+      "description": "Bitcoin payments firm; second-largest digital-asset holding in the Craft funds"
+    },
+    {
+      "id": "bitwise",
+      "name": "Bitwise Asset Management",
+      "type": "company",
+      "description": "Crypto index manager; Sacks and Craft sold their interests in January 2025"
+    },
+    {
+      "id": "beldore-capital-fund",
+      "name": "Beldore Capital Fund LLC",
+      "type": "fund",
+      "description": "S&P 500 exchange fund; 5.07% of Sacks's assets"
+    },
+    {
+      "id": "palantir",
+      "name": "Palantir",
+      "type": "company",
+      "description": "Listed in the AI waiver as a direct SaaS interest (1.819%)"
+    },
+    {
+      "id": "xai",
+      "name": "xAI",
+      "type": "company",
+      "description": "Craft-fund AI interest listed as pending sale"
+    },
+    {
+      "id": "meta",
+      "name": "Meta",
+      "type": "company",
+      "description": "Direct holding (1.762%) listed as pending sale"
+    },
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "type": "company",
+      "description": "Direct holding listed as pending sale"
+    },
+    {
+      "id": "anduril",
+      "name": "Anduril",
+      "type": "company",
+      "description": "Defence start-up in Sacks's filings per the NYT"
+    },
+    {
+      "id": "all-in-podcast",
+      "name": "All-In podcast",
+      "type": "media",
+      "description": "Podcast Sacks co-hosts; co-hosted the July 2025 AI summit"
+    },
+    {
+      "id": "hill-and-valley-forum",
+      "name": "Hill and Valley Forum",
+      "type": "event",
+      "description": "Co-host of the July 2025 AI summit"
+    },
+    {
+      "id": "susie-wiles",
+      "name": "Susie Wiles",
+      "type": "person",
+      "description": "White House chief of staff; reportedly required a co-host for the summit"
+    },
+    {
+      "id": "new-york-times",
+      "name": "The New York Times",
+      "type": "media",
+      "description": "Published the 30 Nov 2025 investigation of Sacks"
+    },
+    {
+      "id": "clare-locke",
+      "name": "Clare Locke LLP",
+      "type": "company",
+      "description": "Sacks's lawyers in the dispute with the NYT"
+    },
+    {
+      "id": "jessica-hoffman",
+      "name": "Jessica Hoffman",
+      "type": "person",
+      "description": "Spokeswoman for Sacks"
+    },
+    {
+      "id": "elizabeth-warren",
+      "name": "Elizabeth Warren",
+      "type": "person",
+      "description": "Senate Banking ranking member; wrote to Sacks and OGE"
+    },
+    {
+      "id": "melanie-stansbury",
+      "name": "Melanie Stansbury",
+      "type": "person",
+      "description": "US Representative; co-led the Sept 2025 day-count inquiry"
+    },
+    {
+      "id": "elissa-slotkin",
+      "name": "Elissa Slotkin",
+      "type": "person",
+      "description": "US Senator; co-requested inspector-general reviews of the UAE chips role"
+    },
+    {
+      "id": "state-department-oig",
+      "name": "State Department Office of Inspector General",
+      "type": "government",
+      "description": "Referred the Warren-Slotkin request to its Office of Investigations"
+    },
+    {
+      "id": "american-oversight",
+      "name": "American Oversight",
+      "type": "company",
+      "description": "Watchdog that sought OGE records on Sacks by FOIA"
+    },
+    {
+      "id": "kathleen-clark",
+      "name": "Kathleen Clark",
+      "type": "person",
+      "description": "Ethics law scholar critical of the waivers"
+    },
+    {
+      "id": "genius-act",
+      "name": "GENIUS Act",
+      "type": "law",
+      "description": "Stablecoin law signed 18 July 2025"
+    },
+    {
+      "id": "clarity-act",
+      "name": "CLARITY Act",
+      "type": "law",
+      "description": "Crypto market-structure bill, unfinished in the Senate"
+    },
+    {
+      "id": "strategic-bitcoin-reserve",
+      "name": "Strategic Bitcoin Reserve",
+      "type": "event",
+      "description": "Created by executive order on 6 March 2025"
+    },
+    {
+      "id": "ai-action-plan",
+      "name": "AI Action Plan",
+      "type": "law",
+      "description": "Administration AI plan unveiled 23 July 2025, drafted in part by Sacks"
+    },
+    {
+      "id": "ai-diffusion-rule",
+      "name": "AI diffusion rule",
+      "type": "law",
+      "description": "Biden-era chip export rule the administration rescinded"
+    },
+    {
+      "id": "ai-preemption-eo",
+      "name": "Executive order on state AI laws",
+      "type": "law",
+      "description": "December 2025 order Sacks helped shape"
+    },
+    {
+      "id": "nvidia",
+      "name": "Nvidia",
+      "type": "company",
+      "description": "Chipmaker affected by export decisions; not listed in Sacks's waivers"
+    },
+    {
+      "id": "jensen-huang",
+      "name": "Jensen Huang",
+      "type": "person",
+      "description": "Nvidia CEO; NYT reports a close working tie with Sacks"
+    },
+    {
+      "id": "uae-chips-deal",
+      "name": "US-UAE AI chips deal",
+      "type": "event",
+      "description": "May 2025 framework for advanced chips to the UAE"
+    },
+    {
+      "id": "maga-inc",
+      "name": "MAGA Inc.",
+      "type": "fund",
+      "description": "Pro-Trump super PAC; beneficiary of the 5 May 2025 dinner"
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Appointed Sacks"
+    },
+    {
+      "id": "steve-witkoff",
+      "name": "Steve Witkoff",
+      "type": "person",
+      "description": "Envoy named with Sacks in the inspector-general request"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "donald-trump",
+      "target": "david-sacks",
+      "label": "appointed White House AI and crypto czar",
+      "type": "political",
+      "date": "2024-12-05"
+    },
+    {
+      "source": "david-warrington",
+      "target": "david-sacks",
+      "label": "granted 208(b)(1) waiver for digital-asset matters",
+      "type": "regulatory",
+      "date": "2025-03-05"
+    },
+    {
+      "source": "david-warrington",
+      "target": "david-sacks",
+      "label": "granted 208(b)(1) waiver for AI matters (undated; text points to March 2025)",
+      "type": "regulatory",
+      "date": "2025-03"
+    },
+    {
+      "source": "david-warrington",
+      "target": "office-of-government-ethics",
+      "label": "consulted before granting waivers",
+      "type": "regulatory",
+      "date": "2025-03"
+    },
+    {
+      "source": "david-sacks",
+      "target": "craft-ventures",
+      "label": "co-founder and general partner while an SGE",
+      "type": "ownership"
+    },
+    {
+      "source": "david-sacks",
+      "target": "bitwise",
+      "label": "sold BITW position; Craft sold Bitwise interest",
+      "type": "money",
+      "date": "2025-01-22"
+    },
+    {
+      "source": "craft-ventures",
+      "target": "bitgo",
+      "label": "funds hold 7,421,851 Class A shares; Sacks directs voting (S-1)",
+      "type": "ownership",
+      "date": "2025-09"
+    },
+    {
+      "source": "craft-ventures",
+      "target": "lightning-labs",
+      "label": "funds hold stake (1.131% of Sacks's assets)",
+      "type": "ownership",
+      "date": "2025-03"
+    },
+    {
+      "source": "craft-ventures",
+      "target": "xai",
+      "label": "stake listed as pending sale",
+      "type": "ownership",
+      "date": "2025-03"
+    },
+    {
+      "source": "david-sacks",
+      "target": "palantir",
+      "label": "direct holding (1.819% of his assets) classed as SaaS",
+      "type": "ownership",
+      "date": "2025-03"
+    },
+    {
+      "source": "david-sacks",
+      "target": "meta",
+      "label": "direct holding pending sale by end of Q2 2025",
+      "type": "ownership",
+      "date": "2025-03"
+    },
+    {
+      "source": "david-sacks",
+      "target": "amazon",
+      "label": "direct holding sold by 31 March 2025",
+      "type": "ownership",
+      "date": "2025-03"
+    },
+    {
+      "source": "david-sacks",
+      "target": "beldore-capital-fund",
+      "label": "holds interest (5.07% of his assets)",
+      "type": "ownership",
+      "date": "2025-02"
+    },
+    {
+      "source": "david-sacks",
+      "target": "anduril",
+      "label": "holds stake per NYT reading of filings",
+      "type": "ownership"
+    },
+    {
+      "source": "david-sacks",
+      "target": "genius-act",
+      "label": "promoted the bill",
+      "type": "political",
+      "date": "2025-07"
+    },
+    {
+      "source": "david-sacks",
+      "target": "strategic-bitcoin-reserve",
+      "label": "announced executive order",
+      "type": "political",
+      "date": "2025-03-06"
+    },
+    {
+      "source": "david-sacks",
+      "target": "ai-action-plan",
+      "label": "drafted in part",
+      "type": "political",
+      "date": "2025-07-23"
+    },
+    {
+      "source": "david-sacks",
+      "target": "uae-chips-deal",
+      "label": "negotiated chip framework (NYT)",
+      "type": "political",
+      "date": "2025-05"
+    },
+    {
+      "source": "david-sacks",
+      "target": "jensen-huang",
+      "label": "argued for looser chip-export limits alongside (NYT)",
+      "type": "political",
+      "date": "2025-07"
+    },
+    {
+      "source": "david-sacks",
+      "target": "ai-preemption-eo",
+      "label": "helped shape",
+      "type": "political",
+      "date": "2025-12"
+    },
+    {
+      "source": "david-sacks",
+      "target": "all-in-podcast",
+      "label": "co-hosts; shares in ticket and tequila revenue",
+      "type": "media"
+    },
+    {
+      "source": "all-in-podcast",
+      "target": "ai-action-plan",
+      "label": "co-hosted the summit where the plan was unveiled",
+      "type": "commercial",
+      "date": "2025-07-23"
+    },
+    {
+      "source": "susie-wiles",
+      "target": "all-in-podcast",
+      "label": "reportedly required a co-host for the AI summit",
+      "type": "political",
+      "date": "2025-07"
+    },
+    {
+      "source": "david-sacks",
+      "target": "maga-inc",
+      "label": "co-headlined $1.5M-per-person fundraiser",
+      "type": "political",
+      "date": "2025-05-05",
+      "amount_usd": 1500000
+    },
+    {
+      "source": "david-sacks",
+      "target": "pcast",
+      "label": "co-chair (designated 2025; sole role from Mar 2026)",
+      "type": "advisory",
+      "date": "2026-03-26"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "david-sacks",
+      "label": "asked about divestment timing and SGE status",
+      "type": "political",
+      "date": "2025-03-06"
+    },
+    {
+      "source": "elizabeth-warren",
+      "target": "office-of-government-ethics",
+      "label": "asked whether OGE backed the waiver and to release his 278e",
+      "type": "political",
+      "date": "2025-05-05"
+    },
+    {
+      "source": "melanie-stansbury",
+      "target": "david-sacks",
+      "label": "co-led day-count inquiry",
+      "type": "political",
+      "date": "2025-09-17"
+    },
+    {
+      "source": "elissa-slotkin",
+      "target": "state-department-oig",
+      "label": "requested investigation of UAE chips role (with Warren)",
+      "type": "political",
+      "date": "2025-09-23"
+    },
+    {
+      "source": "state-department-oig",
+      "target": "david-sacks",
+      "label": "referred request to Office of Investigations",
+      "type": "regulatory",
+      "date": "2025-12-12"
+    },
+    {
+      "source": "american-oversight",
+      "target": "office-of-government-ethics",
+      "label": "FOIA request for Sacks's ethics records",
+      "type": "legal",
+      "date": "2025-04-24"
+    },
+    {
+      "source": "new-york-times",
+      "target": "david-sacks",
+      "label": "investigation of holdings and policy role",
+      "type": "media",
+      "date": "2025-11-30"
+    },
+    {
+      "source": "clare-locke",
+      "target": "new-york-times",
+      "label": "demanded the Times 'abandon' its article",
+      "type": "legal",
+      "date": "2025-11-24"
+    },
+    {
+      "source": "jessica-hoffman",
+      "target": "david-sacks",
+      "label": "spokeswoman",
+      "type": "media"
+    },
+    {
+      "source": "kathleen-clark",
+      "target": "david-sacks",
+      "label": "called the waivers 'sham ethics waivers'",
+      "type": "media",
+      "date": "2025-12"
+    },
+    {
+      "source": "steve-witkoff",
+      "target": "uae-chips-deal",
+      "label": "named with Sacks in inspector-general request",
+      "type": "political",
+      "date": "2025-09-23"
+    }
+  ],
+  "leads": [
+    {
+      "title": "Outcome of State OIG Office of Investigations referral on Sacks and Witkoff",
+      "why_connected": "State OIG referred the Warren-Slotkin request in Dec 2025; no outcome is public, and Commerce OIG and OGE have not replied publicly.",
+      "entities": [
+        "state-department-oig",
+        "david-sacks",
+        "steve-witkoff",
+        "uae-chips-deal"
+      ],
+      "source_url": "https://www.banking.senate.gov/imo/media/doc/2025_09_23_sens_slotkin_and_warren_requesting_oig_investigation_into_uae_chips_corruption_response1.pdf"
+    },
+    {
+      "title": "American Oversight FOIA OGE-25-1162 for SGE ethics records",
+      "why_connected": "Seeks certificates, disclosures and exemption decisions for Sacks, Witkoff and other SGEs; any release could show his 278e or exemption status.",
+      "entities": [
+        "american-oversight",
+        "office-of-government-ethics",
+        "david-sacks"
+      ],
+      "source_url": "https://archive.americanoversight.org/2025/25-1162/OGE-25-1162.pdf"
+    },
+    {
+      "title": "Craft's BitGo stake after the IPO",
+      "why_connected": "Sacks directs voting of Craft I funds' BitGo shares; post-lock-up sales or Form 4 / 13G filings would show what the stake realised.",
+      "entities": [
+        "craft-ventures",
+        "bitgo",
+        "david-sacks"
+      ],
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1740604/000162828025042203/bitgoholdingsincforms-1.htm"
+    },
+    {
+      "title": "Craft's pre-closing consultations with White House Counsel",
+      "why_connected": "The AI waiver requires Craft to consult the Counsel's office before new investments; no record of these consultations is public.",
+      "entities": [
+        "craft-ventures",
+        "white-house",
+        "david-sacks"
+      ],
+      "source_url": "https://www.whitehouse.gov/wp-content/uploads/2025/06/David-Sacks.pdf"
+    },
+    {
+      "title": "Conflicts among PCAST members",
+      "why_connected": "PCAST, which Sacks co-chairs, includes the heads of Nvidia, Meta, Oracle and AMD; an advocacy group argues this creates conflicts. Whether members serve as SGEs with waivers is unknown.",
+      "entities": [
+        "pcast",
+        "david-sacks",
+        "jensen-huang",
+        "nvidia"
+      ],
+      "source_url": "https://therevolvingdoorproject.org/david-sacks-dangerous-ai-crypto-record/"
+    },
+    {
+      "title": "House Foreign Affairs Democrats' Jan 2026 request for an IG probe of Witkoff and Sacks",
+      "why_connected": "A further oversight request on the UAE deals, recorded in C53; outcome unknown.",
+      "entities": [
+        "steve-witkoff",
+        "david-sacks",
+        "uae-chips-deal"
+      ],
+      "source_url": "https://democrats-foreignaffairs.house.gov/2026/1/meeks-amo-garcia-demand-investigation-into-trump-despot-whisperer-witkoff-s-sketchy-business-dealings"
+    }
+  ],
+  "audit": {
+    "checked": [
+      "Crypto waiver (re-read from the White House PDF): signed by David Warrington, Counsel to the President, dated 5 Mar 2025; 'over $200 million' divested by Sacks and Craft, 'at least $85 million' directly his; Schedule A total 3.714% of his total assets, BitGo 2.468%, Lightning Labs 1.131%, 20 companies; 'for 130 days or less in a one-year period'; OGE 'consulted' under 5 C.F.R. 2640.303, decision 'within the sound discretion of the agency'.",
+      "AI waiver (re-read): signed by Warrington, undated on its face; TSMC and Amazon to be sold 'by March 31, 2025', Meta by end of Q2 2025, Sequoia stakes divested 'by the end of this month' (so March 2025); SaaS interests 'just over 13%'; Palantir 1.819% (Schedule C); Meta 1.762%, Amazon 0.034%, TSMC 0.035%; OGE consulted, not approving.",
+      "Warren's 6 Mar 2025 letter addresses Sacks as 'Chair, President's Council of Advisors on Science and Technology'; both waivers say he agreed to co-chair PCAST.",
+      "Departure on 26 Mar 2026 (Bloomberg TV interview; some outlets say the White House announced it on 25 Mar), his statement that his SGE time was used up, and the move to PCAST co-chair alongside Michael Kratsios.",
+      "State Department OIG reply of 12 Dec 2025 (re-read): it referred the Warren-Slotkin request to its Office of Investigations; the letter does not name Sacks.",
+      "No newer finding by OGE, an inspector general, DOJ or a court through Nov 2026; nothing in the write-up asserts that he profited or exceeded the 130-day limit."
+    ],
+    "result": "upheld",
+    "changes": [
+      "Sub-claim on chip exports regraded from partly-accurate to unverified: it alleges a benefit to companies he invests in, and no finding exists (evidence rule for C104 to C109). Added that the State OIG reply does not name Sacks.",
+      "Sub-claim on All-In gaining from his role regraded from mostly-accurate to unverified: the gain is an allegation from NYT reporting (partly anonymous) and is disputed by Sacks's side; no finding.",
+      "All waiver figures, dates, signatory and OGE wording confirmed against the primary PDFs; no factual changes needed."
+    ],
+    "new_sources": [
+      {
+        "title": "David Sacks steps down as White House crypto czar with key legislation still in limbo",
+        "publisher": "Unchained",
+        "url": "https://unchainedcrypto.com/david-sacks-steps-down-as-white-house-crypto-czar-with-key-legislation-still-in-limbo/",
+        "date": "2026-03-26",
+        "read": "excerpt"
+      },
+      {
+        "title": "White House AI and crypto czar David Sacks steps down, shifts to broader tech advisory role",
+        "publisher": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/david-sacks-ai-crypto-czar-resigns/",
+        "date": "2026-03-26",
+        "read": "excerpt"
+      }
+    ]
+  }
+}

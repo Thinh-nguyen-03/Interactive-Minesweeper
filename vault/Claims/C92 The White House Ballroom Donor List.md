@@ -381,7 +381,7 @@ The October 2025 roster of about 37 donors is documented. The amounts come from 
 - [[Mr. Cooper Group]] · Company
 - [[Nvidia]] · Company
 - [[Office of the Comptroller of the Currency]] · Government body
-- [[Palantir Technologies (PLTR)]] · Company
+- [[Palantir]] · Company
 - [[Paxos]] · Company
 - [[Polymarket]] · Company
 - [[Public Citizen]] · Company
@@ -444,7 +444,7 @@ The October 2025 roster of about 37 donors is documented. The amounts come from 
 - [[Lockheed Martin]] *committed $10M (WaPo leak)* [[White House ballroom]] · $10M · [[C92 The White House Ballroom Donor List|C92]]
 - [[Meta]] *committed $5M (WaPo leak)* [[White House ballroom]] · $5M · [[C92 The White House Ballroom Donor List|C92]]
 - [[Microsoft]] *committed $10M (WaPo leak)* [[White House ballroom]] · $10M · [[C92 The White House Ballroom Donor List|C92]]
-- [[Palantir Technologies (PLTR)]] *committed $10M (WaPo leak)* [[White House ballroom]] · $10M · [[C92 The White House Ballroom Donor List|C92]]
+- [[Palantir]] *committed $10M (WaPo leak)* [[White House ballroom]] · $10M · [[C92 The White House Ballroom Donor List|C92]]
 - [[ServiceNow]] *gave $5M (company confirmed)* [[White House ballroom]] · $5M · [[C92 The White House Ballroom Donor List|C92]]
 - [[T-Mobile US]] *committed $5M (WaPo leak)* [[White House ballroom]] · $5M · [[C92 The White House Ballroom Donor List|C92]]
 - [[White House ballroom]] *donations administered by* [[Trust for the National Mall]] · [[C92 The White House Ballroom Donor List|C92]]
@@ -459,7 +459,7 @@ The October 2025 roster of about 37 donors is documented. The amounts come from 
 
 ### Family (3)
 
-- [[Brandon Lutnick]] *son* [[Howard Lutnick]] · [[C92 The White House Ballroom Donor List|C92]]
+- [[Brandon Lutnick]] *son* [[Howard Lutnick]] · [[C92 The White House Ballroom Donor List|C92]] [[C104 Howard Lutnick Holdings, Divestiture & Recusals|C104]]
 - [[Isabela Herrera]] *daughter* [[Julio Herrera Velutini]] · [[C92 The White House Ballroom Donor List|C92]]
 - [[Jeff Sprecher]] *spouse* [[Kelly Loeffler]] · [[C92 The White House Ballroom Donor List|C92]]
 

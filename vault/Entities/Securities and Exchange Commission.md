@@ -6,8 +6,8 @@ aliases:
   - "SEC"
   - "U.S. Securities and Exchange Commission"
   - "US Securities and Exchange Commission"
-connections: 105
-claims: 37
+connections: 106
+claims: 38
 tags:
   - "entity"
   - "type/government"
@@ -19,8 +19,8 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 37 checks |
-| Connections | 105 |
+| Appears in | 38 checks |
+| Connections | 106 |
 | Also known as | SEC; U.S. Securities and Exchange Commission; US Securities and Exchange Commission |
 
 ## How Other Checks Describe It
@@ -70,6 +70,7 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 - [[C101 Trading Ahead of Presidential Announcements]] · Mostly accurate
 - [[C102 Trades by Officials, Family & Associates]] · Mostly accurate
 - [[C103 Insider-Trading Oversight Requests, Probes & Outcomes]] · Mostly accurate
+- [[C107 Scott Bessent & Paul Atkins Holdings & Divestiture Deadlines]] · Partly accurate
 
 ## Relationships
 
@@ -170,12 +171,13 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 - [[Securities and Exchange Commission]] *dismissed* [[SEC fraud case against Justin Sun]] · [[C05 Justin Sun, World Liberty Financial & the SEC|C05]] [[C23 SEC Crypto Cases Dropped & the Firms' Donations|C23]]
 - [[Securities and Exchange Commission]] *settled with* [[Tron]] · [[C05 Justin Sun, World Liberty Financial & the SEC|C05]]
 
-### Political (10)
+### Political (11)
 
 - [[Teresa Goody Guillén]] *considered for chair by Trump transition* [[Securities and Exchange Commission]] · 2024-11 · [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]]
 - [[Donald Trump]] *appointed leadership of* [[Securities and Exchange Commission]] · 2025 · [[C23 SEC Crypto Cases Dropped & the Firms' Donations|C23]]
 - [[Jeff Miller]] *lobbied on behalf of Crypto.com* [[Securities and Exchange Commission]] · 2025 · [[C43 Overlap Between Dropped Enforcement Cases & Trump Donors|C43]]
 - [[Paul Atkins]] *chair* [[Securities and Exchange Commission]] · 2025-04 · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
+- [[Paul Atkins]] *chairman* [[Securities and Exchange Commission]] · 2025-04 · [[C107 Scott Bessent & Paul Atkins Holdings & Divestiture Deadlines|C107]]
 - [[Maxine Waters]] *alleged 'pay-to-play' in letter to* [[Securities and Exchange Commission]] · 2026-01-15 · [[C43 Overlap Between Dropped Enforcement Cases & Trump Donors|C43]]
 - [[Amanda Fischer]] *criticized Sun settlement by* [[Securities and Exchange Commission]] · 2026-03 · [[C05 Justin Sun, World Liberty Financial & the SEC|C05]]
 - [[Adam Schiff]] *asked to investigate Truth API* [[Securities and Exchange Commission]] · 2026-07-29 · [[C21 Trump Media's Paid Feed of Market-Moving Posts & Truth+|C21]] [[C41 Trump Media Feed Subscribers, the Senators' SEC Request, Departures & the CRO Treasury|C41]]
@@ -183,12 +185,13 @@ Securities regulator that dropped a string of crypto cases after Trump took offi
 - [[Donald Trump]] *appoints leadership of* [[Securities and Exchange Commission]] · [[C13 The $1.5 Billion ALT5 Sigma Deal with World Liberty|C13]] [[C19 The Strategic Bitcoin Reserve, Trump Media's Bitcoin Treasury & a Cumberland Investor|C19]] [[C22 Crypto.com's Deal with Trump Media|C22]] [[C23 SEC Crypto Cases Dropped & the Firms' Donations|C23]]
 - [[Miller Strategies]] *lobbied for Crypto.com* [[Securities and Exchange Commission]] · [[C52 Trump-Connected Lobbyists Hired by Crypto Firms & the SEC Enforcement Director's Exit|C52]]
 
-### Legal (7)
+### Legal (8)
 
 - [[Securities and Exchange Commission]] *charged over pump-and-dump (2018; settled 2019)* [[Barry Honig]] · 2018-09 · [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network|C39]]
 - [[Securities and Exchange Commission]] *sued as unregistered dealer* [[Cumberland (DRW)]] · 2024-10 · [[C19 The Strategic Bitcoin Reserve, Trump Media's Bitcoin Treasury & a Cumberland Investor|C19]]
 - [[Securities and Exchange Commission]] *dropped appeal* [[Ripple]] · 2025-08-07 · [[C43 Overlap Between Dropped Enforcement Cases & Trump Donors|C43]]
 - [[Securities and Exchange Commission]] *dropped appeal; $125M judgment stands* [[Ripple]] · 2025-08-07 · $125.04M · [[C23 SEC Crypto Cases Dropped & the Firms' Donations|C23]]
+- [[Securities and Exchange Commission]] *dismissed civil case; Atkins recused (spokesperson)* [[Devon Archer]] · 2025-09-18 · [[C107 Scott Bessent & Paul Atkins Holdings & Divestiture Deadlines|C107]]
 - [[Rainberry]] *agreed to pay $10M penalty to* [[Securities and Exchange Commission]] · 2026-03-05 · $10M · [[C43 Overlap Between Dropped Enforcement Cases & Trump Donors|C43]]
 - [[Rainberry]] *agreed to pay civil penalty (wash trading)* [[Securities and Exchange Commission]] · 2026-03-05 · $10M · [[C05 Justin Sun, World Liberty Financial & the SEC|C05]]
 - [[Securities and Exchange Commission]] *paused, then dismissed claims against* [[Justin Sun]] · 2026-03-05 · [[C43 Overlap Between Dropped Enforcement Cases & Trump Donors|C43]]

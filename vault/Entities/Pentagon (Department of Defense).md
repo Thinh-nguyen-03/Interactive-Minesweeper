@@ -108,7 +108,7 @@ Awarded $24M contract to Foundation Future Industries.
 - [[Pentagon (Department of Defense)]] *awarded $45M to* [[Cerebras Systems]] · 2025-04 · $45M · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]
 - [[Pentagon (Department of Defense)]] *awarded 7 NSSL missions (~$2.3B)* [[Blue Origin]] · 2025-04-04 · $2.3B · [[C44 Amazon's $40 Million Melania Trump Documentary Deal|C44]]
 - [[Pentagon (Department of Defense)]] *CDAO AI contract (ceiling)* [[xAI]] · 2025-07 · $200M · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
-- [[Pentagon (Department of Defense)]] *Army enterprise agreement (ceiling)* [[Palantir Technologies (PLTR)]] · 2025-07-31 · $10B · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
+- [[Pentagon (Department of Defense)]] *Army enterprise agreement (ceiling)* [[Palantir]] · 2025-07-31 · $10B · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Pentagon (Department of Defense)]] *definitized F-35 Lots 18-19 ($12.5B modification)* [[Lockheed Martin]] · 2025-09-29 · $12.5B · [[C69 Master Timeline Money Events & Government Actions|C69]]
 - [[Pentagon (Department of Defense)]] *~$24M in research awards (Army/Navy/Air Force), as promoted* [[Foundation Future Industries]] · 2026-04 · $24M · [[C28 Foundation Future Industries, Its Pentagon Contract & Eric Trump|C28]]
 - [[Pentagon (Department of Defense)]] *deal partner of* [[Vulcan Elements]] · [[C26 1789 Capital & the Vulcan Elements Magnet Deal|C26]]

@@ -4,8 +4,8 @@ kind: "entity"
 type: "asset"
 aliases:
   - "USD1 stablecoin"
-connections: 39
-claims: 21
+connections: 40
+claims: 22
 tags:
   - "entity"
   - "type/asset"
@@ -17,8 +17,8 @@ World Liberty Financial's dollar stablecoin; used for MGX's $2B Binance deal.
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 21 checks |
-| Connections | 39 |
+| Appears in | 22 checks |
+| Connections | 40 |
 | Also known as | USD1 stablecoin |
 
 ## How Other Checks Describe It
@@ -52,11 +52,13 @@ World Liberty Financial's dollar stablecoin; used for MGX's $2B Binance deal.
 - [[C90 World Liberty's Token-Swap Pitch & Its Partners]] · Mostly accurate
 - [[C96 What Trump's Own Financial Disclosures Report]] · Confirmed
 - [[C97 Crypto Income During the Presidency]] · Mostly accurate
+- [[C105 Steve Witkoff Holdings, Divestiture & Overlapping Dealings]] · Mostly accurate
 
 ## Relationships
 
-### Money (5)
+### Money (6)
 
+- [[MGX]] *settled $2B Binance investment in* [[USD1]] · 2025-05-01 · $2B · [[C105 Steve Witkoff Holdings, Divestiture & Overlapping Dealings|C105]]
 - [[MGX]] *used for $2B Binance deal* [[USD1]] · 2025-05-01 · $2B · [[C08 AI Chip Exports to the UAE, Stargate & a Possible Currency Swap|C08]]
 - [[USD1]] *generates $159.5M annualized revenue run rate (WLF claim) for* [[World Liberty Financial]] · 2026-04 · $159.5M · [[C10 Binance's Role in the Growth of USD1|C10]]
 - [[Binance]] *holds about $3.8B USD1 (Arkham via Reuters)* [[USD1]] · 2026-05 · $3.8B · [[C90 World Liberty's Token-Swap Pitch & Its Partners|C90]]

@@ -54,6 +54,7 @@ Most of the Qatari ties in the claim are documented. They include Bondi's Ballar
 - Al Udeid: the May 2025 fact sheet gives a $38B statement of intent (potential investments), not a firm commitment and not $10B.
 - C64 says Patel would recuse from Qatar work for a year. His Nov 2024 pledge had expired, and a March 2025 waiver allowed participation.
 - The security EO is dated 29 Sep 2025 and was published 1 Oct 2025; the claim's 'Oct 2025' refers to publication.
+- 2026-11-17: Bondi's tenure end: her removal was announced on 2 Apr 2026, but her OGE termination report gives 1 Apr 2026 as her date of termination; the entity description now gives both (C108).
 
 ## What Is Unproven
 
@@ -443,7 +444,7 @@ Most of the Qatari ties in the claim are documented. They include Bondi's Ballar
   - The scope of the March 2025 waiver and the content of the Dec 2025 agreements are undisclosed; the OGE and FARA complaints are pending.
   - [[Kash Patel]] [[FBI-Qatar security agreements (Dec 2025)]] [[Public Citizen]] · [Source](https://jewishinsider.com/2025/12/fbi-kash-patel-qatar-security-deals-lobbying-disclosure/)
 
-## Sources (41)
+## Sources (42)
 
 1. [New Trump executive order guarantees Qatar security after Israeli attack](https://www.aljazeera.com/amp/news/2025/10/1/new-trump-executive-order-guarantees-qatar-security-after-israeli-attack) (Al Jazeera, 2025-10-01)
 2. [Trump gives Qatar unprecedented security guarantee after Israeli attack](https://www.axios.com/2025/10/01/trump-qatar-security-guarantee-israel-attack) (Axios, 2025-10-01)
@@ -486,6 +487,7 @@ Most of the Qatari ties in the claim are documented. They include Bondi's Ballar
 39. [Owner of Trump's Qatari Air Force One linked to Bob Menendez corruption scandal (headline only seen)](https://freebeacon.com/?p=2031229) (Washington Free Beacon, undated)
 40. [Qatar lobby reaches deep into US conservative media, documents show](https://www.ynetnews.com/business/article/hjuuz7p11xe) (Ynet, 2025)
 41. [Foreign interests are paying millions to a Trump-linked lobbying firm](https://readsludge.com/2026/02/05/foreign-interests-are-paying-millions-to-a-trump-linked-lobbying-firm/) (Sludge, 2026-02-05)
+42. [OGE Form 278e termination report, Pam Bondi](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/5A7DD536E124894585258E7A002D9D3E/$FILE/Pam-Bondi-2026-278TERM.pdf) (Office of Government Ethics, 2026-06-16)
 
 ## Full Report
 
@@ -704,3 +706,7 @@ Result: **upheld**. We re-checked four points with fresh searches.
 - **The Witkoff correction is upheld.** We added the family's defamation threat and Qatar's denial.
 
 New sources: OGE 278e (Zeldin); Florida Politics, 2018 Ballard-Qatar contract https://floridapolitics.com/archives/260868-qatar-taps-ballard-partners-for-2-1-million-push-ahead-of-emirs-visit; The Peninsula, 2025-12-09 https://s.thepeninsula.qa/article/09/12/2025/minister-of-interior-meets-with-fbi-director; Yahoo News, Witkoff defamation threat https://www.yahoo.com/news/articles/witkoff-family-threatens-nyt-defamation-212437336.html
+
+#### Further audit (17 Nov 2026, applied from the review of C108)
+- **Correction:** Bondi's removal as Attorney General was announced on 2 April 2026, but her OGE termination report gives 1 April 2026 as her date of termination. Her tenure is now given as 4 February 2025 to 1 April 2026, with the announcement date noted.
+- **New source:** Bondi termination 278e (2026-06-16; read in full): https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/5A7DD536E124894585258E7A002D9D3E/$FILE/Pam-Bondi-2026-278TERM.pdf

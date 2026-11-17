@@ -105,7 +105,7 @@ No source frames Silver Lake as a link between the Tahnoon network and Kushner/P
 ### 5. Musk, DOGE, xAI/SpaceX and Don Jr.'s 1789 Capital (documented, with one inferred step)
 
 **Documented.**
-- Musk spent about $277-290M on the 2024 election, then led DOGE.
+- Musk spent about $277-290M on the 2024 election, then led DOGE as a special government employee. His financial disclosure was confidential, not public (a White House official, Feb 2025, per AP). No conflict-of-interest waiver for him appears on the White House waiver list (checked 17 Nov 2026; C109). No finding on his compliance was found.
 - In July 2025, xAI got a Pentagon CDAO contract with a ceiling of up to $200M. Google, OpenAI and Anthropic got the same form of award. xAI also launched "Grok for Government" on the GSA schedule.
 - SpaceX acquired xAI in February 2026, at about $1.25T.
 - SpaceX's IPO priced on 2026-06-11 at $135 a share, raising about $75B at a valuation of about $1.77T.
@@ -290,3 +290,9 @@ Result: **corrected**.
 - **1789 Capital:** its xAI/SpaceX stakes (more than $50M, reported) are upheld. No source quantifies its IPO gain, so that stays **inferred**.
 - **Brockman:** upheld. The FEC lists $12.5M from each spouse.
 - New sources: KSAT/AP, 2026-10-06 (https://www.ksat.com/news/politics/2026/10/06/paramount-closes-on-81-billion-takeover-of-warner-bros-discovery-joining-two-of-americas-oldest-hollywood-studios/); Canberra Times/Reuters, 2026-10-16 (https://www.canberratimes.com.au/story/9369916/nvidia-apple-each-gave-us25m-for-trumps-ballroom/); Aftermath (https://aftermath.site/nvidia-microsoft-white-house-ballroom/); CBS News (https://www.cbsnews.com/news/spacex-stock-price-ipo-spcx-initial-public-offering/); Daily Beast (https://www2.thedailybeast.com/maga-figures-cash-in-big-on-elon-musks-space-venture); Spokesman-Review/Reuters (https://www.spokesman.com/stories/2026/jan/02/trump-aligned-maga-inc-super-pac-enters-2026-with-).
+
+### Further audit (17 Nov 2026, applied from the review of C109)
+- **Addition:** Musk served as a special government employee with a confidential financial disclosure, and no waiver for him has been published. No figures change.
+- **New sources:**
+  - AP via Star-Advertiser (2025-02-11): https://staradvertiser.com/2025/02/11/breaking-news/elon-musks-financial-disclosure-will-not-be-made-public
+  - White House disclosures page: https://www.whitehouse.gov/disclosures/

@@ -4,8 +4,8 @@ kind: "entity"
 type: "company"
 aliases:
   - "Meta Platforms"
-connections: 14
-claims: 7
+connections: 16
+claims: 8
 tags:
   - "entity"
   - "type/company"
@@ -17,17 +17,17 @@ Settled Trump's account-suspension suit in Jan 2025 for $25M.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 7 checks |
-| Connections | 14 |
+| Appears in | 8 checks |
+| Connections | 16 |
 | Also known as | Meta Platforms |
 
 ## How Other Checks Describe It
 
+- Direct holding (1.762%) listed as pending sale
 - Paid ~$22-25M settlement toward the library
 - Paid $25M settlement; ballroom donor
 - Named ballroom donor ($5M per WaPo)
 - Llama added to OneGov Sept 2025.
-- $25M settlement; $5M ballroom
 
 ## Appears in Checks
 
@@ -38,6 +38,7 @@ Settled Trump's account-suspension suit in Jan 2025 for $25M.
 - [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards]] · Mostly accurate
 - [[C92 The White House Ballroom Donor List]] · Partly accurate
 - [[C100 Net Worth Change & Legal Settlements Paid to Trump]] · Mostly accurate
+- [[C106 David Sacks Holdings, Ethics Waivers & AI & Crypto Policy]] · Mostly accurate
 
 ## Relationships
 
@@ -49,6 +50,10 @@ Settled Trump's account-suspension suit in Jan 2025 for $25M.
 - [[Meta]] *listed donor (amount undisclosed)* [[White House ballroom]] · 2025-10-23 · [[C33 Corporate Lawsuit Settlements & Donations to Trump's Library & Ballroom|C33]]
 - [[Meta]] *committed (WaPo leak)* [[White House ballroom]] · 2026-10-15 · $5M · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Meta]] *committed $5M (WaPo leak)* [[White House ballroom]] · $5M · [[C92 The White House Ballroom Donor List|C92]]
+
+### Ownership (1)
+
+- [[David Sacks]] *direct holding pending sale by end of Q2 2025* [[Meta]] · 2025-03 · [[C106 David Sacks Holdings, Ethics Waivers & AI & Crypto Policy|C106]]
 
 ### Political (1)
 

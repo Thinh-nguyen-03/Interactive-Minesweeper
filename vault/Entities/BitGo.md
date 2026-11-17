@@ -4,8 +4,8 @@ kind: "entity"
 type: "company"
 aliases:
   - "BitGo Bank and Trust"
-connections: 11
-claims: 7
+connections: 12
+claims: 8
 tags:
   - "entity"
   - "type/company"
@@ -17,17 +17,17 @@ USD1 reserve custodian sharing reserve interest with World Liberty affiliates
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 7 checks |
-| Connections | 11 |
+| Appears in | 8 checks |
+| Connections | 12 |
 | Also known as | BitGo Bank and Trust |
 
 ## How Other Checks Describe It
 
 - Crypto custodian; Craft held 7.8% at its IPO filing; custodies USD1 reserves
+- Crypto custodian; largest digital-asset holding left in the Craft funds
 - USD1 reserve custodian; OCC charter conversion Dec 2025
 - Current USD1 custodian, to be replaced by WLTC
 - Custodian of USD1 reserves.
-- Custodian of USD1 reserves
 
 ## Appears in Checks
 
@@ -38,12 +38,14 @@ USD1 reserve custodian sharing reserve interest with World Liberty affiliates
 - [[C34 David Sacks The AI & Crypto Adviser & His Investments]] · Mostly accurate
 - [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles]] · Mostly accurate
 - [[C97 Crypto Income During the Presidency]] · Mostly accurate
+- [[C106 David Sacks Holdings, Ethics Waivers & AI & Crypto Policy]] · Mostly accurate
 
 ## Relationships
 
-### Ownership (2)
+### Ownership (3)
 
 - [[Craft Ventures]] *7.8% holder at IPO filing (NYT)* [[BitGo]] · 2025-09 · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]]
+- [[Craft Ventures]] *funds hold 7,421,851 Class A shares; Sacks directs voting (S-1)* [[BitGo]] · 2025-09 · [[C106 David Sacks Holdings, Ethics Waivers & AI & Crypto Policy|C106]]
 - [[Craft Ventures]] *held 7.8% stake at IPO filing* [[BitGo]] · [[C34 David Sacks The AI & Crypto Adviser & His Investments|C34]]
 
 ### Regulatory (1)

@@ -59,6 +59,7 @@ Disclosure filings document many well-timed trades around tariff and policy news
 - 2026-11-16 (audit): earlier text described an 'unnamed White House lawyer' and 'no response from Rana'. ProPublica names the lawyer (a career acting general counsel of the White House Office of Administration, who says his wife made the sale) and reports that Rana declined to comment; Rana was already ambassador to Slovakia when the report appeared.
 - 2026-11-16 (audit): Gor's 27 March 2025 Trump Media sale ($15,001-$50,000) is now documented from his own 278-T; Scavino's 1 April sale remains single-source, and the reported Scavino capital gains are unverified.
 - 2026-11-16 (audit): Van Dyke faces five counts, not only commodities-fraud and wire-fraud counts.
+- 2026-11-17: Claimed: Bondi's ethics agreement required divestiture within 90 days of taking office, and she was confirmed in early Feb 2025. The record shows: the agreement says 'not later than 90 days after my confirmation'; she was confirmed on 4 Feb 2025, so the deadline was about 5 May 2025. Her 278-T was signed 5 May 2025 and OGE-certified 12 May 2025 (read in full in C108).
 
 ## What Is Unproven
 
@@ -79,21 +80,25 @@ Disclosure filings document many well-timed trades around tariff and policy news
 - [[C25 Prediction Markets, the CFTC & Donald Trump Jr]] · Mostly accurate
 - [[C39 Dominari Holdings & the Trump Sons' Small-Cap Network]] · Mostly accurate
 
+## Checks That Build on This One
+
+- [[C108 Pam Bondi & Todd Blanche Prior Clients, Holdings & Recusals]] · Mostly accurate
+
 ## Sub-Claims
 
 ### 1. Attorney General Pam Bondi sold Trump Media shares and warrants on 2 April 2025, the day of the 'Liberation Day' tariff announcement.
 
 **Confirmed**
 
-- Grade: documented (her OGE periodic transaction report, made public in mid-May 2025, as reported by Bloomberg Law, CBS and ProPublica; ProPublica's report was read in full, the form itself was not). (1) Filing: a sale of Trump Media & Technology Group shares valued at $1M-$5M plus warrants valued at $250K-$500K, both dated 2 April 2025 (combined $1.25M-$5.5M by our arithmetic; Bloomberg Law gives $1M-$5.5M).
+- Grade: documented (her OGE periodic transaction report, signed 5 May 2025 and OGE-certified 12 May 2025, made public in mid-May 2025; the form was read in full in C108, as was ProPublica's report). (1) Filing: a sale of Trump Media & Technology Group shares valued at $1M-$5M plus warrants valued at $250K-$500K, both dated 2 April 2025 (combined $1.25M-$5.5M by our arithmetic; Bloomberg Law gives $1M-$5.5M).
 - ProPublica: DJT closed at $18.76 on 2 April and opened at $17.92 the next morning.
 - The form does not give the time of day; Trump announced the tariffs after the market close that day, and DJT shares fell in the following sessions (CBS reports about 13% within days). (2) Inference by outlets: the timing was unusually fortunate. (3) Allegation: Rep. Jamie Raskin asked DOJ Inspector General Michael Horowitz on 20 May 2025 to investigate whether Bondi or other DOJ officials traded on non-public information. (4) No finding: no inspector-general result or other official finding was found as of Nov 2026.
-- Context: her ethics agreement required her to divest the TMTG holding within 90 days of taking office (she was confirmed in early Feb 2025), so a sale in that window was required; only its date is in question.
+- Context: her ethics agreement required her to divest the TMTG holding 'not later than 90 days after my confirmation' (she was confirmed on 4 Feb 2025, so the deadline was about 5 May 2025), so a sale in that window was required; only its date is in question.
 - Response: the DOJ did not answer early press questions; at a June 2025 House hearing Bondi said she had complied with ethics rules and had lost money on the stock (as summarised by Ground News; the hearing record was not read).
 - Builds on C65, which already records this sale.
 - Amounts: $1M-$5M; $250K-$500K; $1.25M-$5.5M; $1M-$5.5M; $18.76
-- Dates: mid-May 2025; 2 April 2025; 2 April; 20 May 2025; Nov 2026
-- Sources: [1](https://news.bloomberglaw.com/us-law-week/attorney-general-pam-bondi-discloses-sale-of-trump-media-shares) [2](https://www.cbsnews.com/news/pam-bondi-sold-at-least-1-million-dollars-trump-media-shares-on-liberation-day) [3](https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-demands-inspector-general-probe-suspicious-timing-of-stock-sale-by-attorney-general-bondi) [4](https://democrats-judiciary.house.gov/UploadedFiles/2025-05-20.Raskin_to_Horowitz_DOJ_OIG_re_Bondi_Insider_Trading.pdf) [5](https://ground.news/article/tell-me-what-the-numbers-are-dem-rep-rosa-delauro-repeatedly-shouts-down-pam-bondi-at-hearing) [55](https://www.propublica.org/article/pam-bondi-trump-media-stock-tariffs)
+- Dates: 5 May 2025; 12 May 2025; mid-May 2025; 2 April 2025; 2 April
+- Sources: [1](https://news.bloomberglaw.com/us-law-week/attorney-general-pam-bondi-discloses-sale-of-trump-media-shares) [2](https://www.cbsnews.com/news/pam-bondi-sold-at-least-1-million-dollars-trump-media-shares-on-liberation-day) [3](https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-demands-inspector-general-probe-suspicious-timing-of-stock-sale-by-attorney-general-bondi) [4](https://democrats-judiciary.house.gov/UploadedFiles/2025-05-20.Raskin_to_Horowitz_DOJ_OIG_re_Bondi_Insider_Trading.pdf) [5](https://ground.news/article/tell-me-what-the-numbers-are-dem-rep-rosa-delauro-repeatedly-shouts-down-pam-bondi-at-hearing) [55](https://www.propublica.org/article/pam-bondi-trump-media-stock-tariffs) [64](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/102E39A4A731A68785258C8A002C7208/$FILE/Pam-Bondi-05.05.2025-278T.pdf) [65](https://extapps2.oge.gov/201/Presiden.nsf/FC3B6F6F496E257B85258C150032F344/$FILE/Bondi,%20Pam%20%20finalEA.pdf)
 
 ### 2. Deputy Chief of Staff Dan Scavino and personnel director Sergio Gor sold Trump Media stock days before 2 April 2025.
 
@@ -356,7 +361,7 @@ Disclosure filings document many well-timed trades around tariff and policy news
   - A single report says the filing shows $1M-$5M of gains; the filing itself has not been read.
   - [[Dan Scavino]] [[Trump Media & Technology Group]] · [Source](https://www.joemygod.com/2026/10/white-house-aide-got-millions-from-truth-social/)
 
-## Sources (63)
+## Sources (65)
 
 1. [Attorney General Pam Bondi discloses sale of Trump Media shares](https://news.bloomberglaw.com/us-law-week/attorney-general-pam-bondi-discloses-sale-of-trump-media-shares) (Bloomberg Law, 2025-05)
 2. [Bondi sold at least $1 million in Trump Media shares on 'Liberation Day,' documents show](https://www.cbsnews.com/news/pam-bondi-sold-at-least-1-million-dollars-trump-media-shares-on-liberation-day) (CBS News, 2025-05)
@@ -421,6 +426,8 @@ Disclosure filings document many well-timed trades around tariff and policy news
 61. [The days around Trump's trade war announcements saw spikes in lawmaker stock market transactions (CNN)](https://ktvz.com/politics/cnn-us-politics/2025/06/11/the-days-around-trumps-trade-war-announcements-saw-spikes-in-lawmaker-stock-market-transactions/) (KTVZ (CNN syndication), 2025-06-11)
 62. [Rob Bresnahan puts more guardrails on stock trades after scrutiny](https://www.washingtonexaminer.com/?p=3481765) (Washington Examiner, 2025-07)
 63. [CFTC charges U.S. service member with insider trading in Nicolas Maduro-related event contracts](https://www.cftc.gov/PressRoom/PressReleases/9217-26) (CFTC, 2026-04-23)
+64. [OGE Form 278-T, Pam Bondi](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/102E39A4A731A68785258C8A002C7208/$FILE/Pam-Bondi-05.05.2025-278T.pdf) (Office of Government Ethics, 2025-05-05)
+65. [Ethics agreement, Pam Bondi](https://extapps2.oge.gov/201/Presiden.nsf/FC3B6F6F496E257B85258C150032F344/$FILE/Bondi,%20Pam%20%20finalEA.pdf) (Office of Government Ethics, 2025-01-14)
 
 ## Full Report
 
@@ -452,7 +459,7 @@ This extends C58 (market-moving posts, unidentified options and oil traders), C2
 #### 1. Bondi's Trump Media sale on 2 April 2025: confirmed (trade); misuse unverified
 - (1) Filing: her OGE periodic transaction report, public in mid-May 2025, shows a sale of $1M-$5M of TMTG shares and $250K-$500K of warrants on 2 April 2025 [1][2][54] (together $1.25M-$5.5M). Trump announced the tariffs after the close. The form does not show the time of day. DJT closed at $18.76 that day and opened at $17.92 the next morning (ProPublica, read in full), and fell about 13% within days (CBS).
 - (2) Outlets called the timing fortunate. (3) Rep. Raskin asked DOJ Inspector General Horowitz to investigate on 20 May 2025 [3][4]. (4) No finding was found as of Nov 2026.
-- Context: her ethics agreement required divesting the stake within 90 days of taking office.
+- Context: her ethics agreement required divesting the stake "not later than 90 days after my confirmation". She was confirmed on 4 February 2025, so the deadline was about 5 May 2025. The 278-T itself (read in full in C108) was signed 5 May 2025 and OGE-certified 12 May 2025.
 - Response: DOJ did not answer early questions. At a June 2025 House hearing Bondi said she complied with ethics rules and lost money on the stock (secondary summary [5]).
 
 #### 2. Scavino and Gor sold Trump Media stock before 2 April: mostly-accurate (Gor documented; Scavino single-source)
@@ -627,3 +634,6 @@ Result: **corrected** (verdict and confidence unchanged: mostly-accurate, medium
 - **Names:** Bondi, Duffy and the ProPublica names re-checked in full; Gor upgraded to documented from his own 278-T; Scavino kept single-source and his reported capital gains downgraded to unverified; Rana's "declined to comment" added; the Office of Administration lawyer's response added; Hern's 4 April date added, his response not found; Bresnahan's count kept single-source.
 - **Van Dyke:** five counts, not guilty plea, trial set for 7 December 2026.
 - No charge, inspector-general finding, SEC or CFTC action, or ethics-committee finding against anyone named here was found through 16 Nov 2026.
+
+#### Further audit (17 Nov 2026, applied from the review of C108)
+- **Correction:** Bondi's divestiture deadline ran 90 days after her confirmation on 4 February 2025, not after taking office. Her 278-T was signed 5 May 2025 and OGE-certified 12 May 2025 (form read in full in C108). No change to the verdict.

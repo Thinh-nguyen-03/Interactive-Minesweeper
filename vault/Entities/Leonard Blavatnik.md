@@ -3,9 +3,10 @@ id: "leonard-blavatnik"
 kind: "entity"
 type: "person"
 aliases:
+  - "Len Blavatnik"
   - "Leonard (Len) Blavatnik"
-connections: 5
-claims: 2
+connections: 6
+claims: 3
 tags:
   - "entity"
   - "type/person"
@@ -17,18 +18,20 @@ Soviet-born billionaire, Access Industries founder; sanctioned by Ukraine Dec 20
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 2 checks |
-| Connections | 5 |
-| Also known as | Leonard (Len) Blavatnik |
+| Appears in | 3 checks |
+| Connections | 6 |
+| Also known as | Len Blavatnik; Leonard (Len) Blavatnik |
 
 ## How Other Checks Describe It
 
 - Billionaire with a reported real-estate tie to Witkoff (Byline Times)
+- Founder of Access Industries; sanctioned by Ukraine in Dec 2023
 
 ## Appears in Checks
 
 - [[C53 The Witkoff Family's Own Gulf Money]] · Mostly accurate
 - [[C76 Russia-Linked Money Around the Family & the Envoys]] · Partly accurate
+- [[C105 Steve Witkoff Holdings, Divestiture & Overlapping Dealings]] · Mostly accurate
 
 ## Relationships
 

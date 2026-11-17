@@ -3,12 +3,12 @@
  "title": "Officials who decided matters involving their former clients or partners",
  "verdict": "mostly-accurate",
  "confidence": "medium",
- "summary": "Most of the named officials have documented prior ties to parties affected by their offices. The strongest cases: Bondi (ex-Qatar registered agent) signed the memo clearing Qatar's jet; Blanche disbanded NCET while holding $159K+ in crypto; Selig's former clients Paradigm and Willkie-represented Polymarket sit on the side of the CFTC's prediction-market fight; Navarro initiated the 1789-backed Vulcan loan; and Cerberus alumni of Deputy Secretary Feinberg run the Pentagon's OSC and BOND investment arms. Reuters single-sourced Barrack's push for his partner's TI Capital, and Mother Jones and Popular Information reported Bessent's Argentina swap aiding friend Rob Citrone. For Quintenz (never confirmed), Gould, Kratsios (whose current Scale AI holding is unverified), Patel, Boulos and Charles Kushner we found ties but no specific benefiting decision. No authority has found an ethics violation in any of these cases, and most rest on timing and relationships, not proof of influence. Bondi was fired as AG on Apr 2, 2026; Blanche was acting AG until the Senate confirmed him 50-49 on Aug 8, 2026, and he was sworn in as AG on Aug 10, 2026.",
+ "summary": "Most of the named officials have documented prior ties to parties affected by their offices. The strongest cases: Bondi (ex-Qatar registered agent) signed the memo clearing Qatar's jet; Blanche disbanded NCET while holding $158K-$470K in crypto ($159K-$485K with Coinbase shares); Selig's former clients Paradigm and Willkie-represented Polymarket sit on the side of the CFTC's prediction-market fight; Navarro initiated the 1789-backed Vulcan loan; and Cerberus alumni of Deputy Secretary Feinberg run the Pentagon's OSC and BOND investment arms. Reuters single-sourced Barrack's push for his partner's TI Capital, and Mother Jones and Popular Information reported Bessent's Argentina swap aiding friend Rob Citrone. For Quintenz (never confirmed), Gould, Kratsios (whose current Scale AI holding is unverified), Patel, Boulos and Charles Kushner we found ties but no specific benefiting decision. No authority has found an ethics violation in any of these cases, and most rest on timing and relationships, not proof of influence. Bondi's removal as AG was announced on Apr 2, 2026 (termination date 1 Apr 2026 on her OGE report); Blanche was acting AG until the Senate confirmed him 50-49 on Aug 8, 2026, and he was sworn in as AG on Aug 10, 2026.",
  "sub_claims": [
   {
    "statement": "Pam Bondi was a registered agent for Qatar at Ballard Partners and later backed the legality of Trump accepting Qatar's 747.",
    "verdict": "confirmed",
-   "finding": "Evidence grade: documented. FARA records and fact-checks show Ballard Partners was paid $115,000 a month by Qatar's embassy (about July 2019 to June 2020), with Bondi listed as key personnel. She left in Nov 2019 for Trump's impeachment defence and rejoined in Mar 2020. Her personal share is not on record, and the fact-check rates 'she personally earned $115K/month' undetermined. In May 2025 multiple outlets reported a DOJ memo, drafted by the Office of Legal Counsel and signed by Bondi (with White House counsel David Warrington), finding it 'legally permissible' to accept the jet and later transfer it to the library foundation. A DOJ official told CNN that career ethics officials found no conflict requiring recusal. CREW and Sen. Durbin argued she should have recused. The memo has not been released; Freedom of the Press Foundation sued for it after DOJ quoted a 600+ day FOIA wait. This shows a former paid foreign-agent relationship and a later decision favourable to that principal. It does not show that the lobbying shaped the memo. Bondi was fired as AG on Apr 2, 2026 (see sub-claim on her TMTG sale).",
+   "finding": "Evidence grade: documented. FARA records and fact-checks show Ballard Partners was paid $115,000 a month by Qatar's embassy (about July 2019 to June 2020), with Bondi listed as key personnel. She left in Nov 2019 for Trump's impeachment defence and rejoined in Mar 2020. Her personal share is not on record, and the fact-check rates 'she personally earned $115K/month' undetermined. In May 2025 multiple outlets reported a DOJ memo, drafted by the Office of Legal Counsel and signed by Bondi (with White House counsel David Warrington), finding it 'legally permissible' to accept the jet and later transfer it to the library foundation. A DOJ official told CNN that career ethics officials found no conflict requiring recusal. CREW and Sen. Durbin argued she should have recused. The memo has not been released; Freedom of the Press Foundation sued for it after DOJ quoted a 600+ day FOIA wait. This shows a former paid foreign-agent relationship and a later decision favourable to that principal. It does not show that the lobbying shaped the memo. Bondi's removal as AG was announced on Apr 2, 2026; her OGE termination report gives 1 Apr 2026 as her date of termination (see sub-claim on her TMTG sale).",
    "sources": [
     "https://www.yahoo.com/news/fact-check-pam-bondi-used-175300308.html",
     "https://semafor.com/article/11/22/2024/pam-bondi-trumps-new-attorney-general-pick-is-a-former-qatar-lobbyist",
@@ -34,27 +34,34 @@
   {
    "statement": "Bondi held Trump Media (DJT) stock as AG and sold it on 'Liberation Day'.",
    "verdict": "confirmed",
-   "finding": "Evidence grade: documented (her own periodic transaction report, disclosed May 14, 2025). It shows a sale of $1M-$5M of TMTG shares plus $250K-$500K of warrants on Apr 2, 2025, the day of the tariff announcement (together $1.25M-$5.5M; Bloomberg Law rounds the combined figure to $1M-$5.5M). ProPublica (read in full in a later audit) confirms both ranges, says the form gives no time of day, and reports that DOJ did not respond to questions. Her ethics agreement required her to sell the TMTG stake within 90 days of confirmation, and she says the shares were pay for consulting tied to DWAC, so the sale itself was mandated; the question raised is its timing. Rep. Raskin asked the DOJ IG to investigate (May 20, 2025). Mother Jones and Accountable.US had earlier flagged that Bondi, Patel and McMahon held TMTG shares or board ties when appointed. A sale before a market drop is not proof of insider trading. The holding itself was an interest in the president's company, held while she led the agency with jurisdiction over matters touching it. Trump fired Bondi as AG on Apr 2, 2026 and named Blanche acting AG (CBS, CNN via KVIA); Blanche was confirmed as AG 50-49 on Aug 8, 2026 and sworn in on Aug 10, 2026 (Axios; AP via WTOP); no outcome of the Raskin IG referral was found.",
+   "finding": "Evidence grade: documented (her own periodic transaction report, read in full: signed 5 May 2025 and OGE-certified 12 May 2025; first reported publicly in mid-May 2025). It shows a sale of $1M-$5M of TMTG shares plus $250K-$500K of warrants on Apr 2, 2025, the day of the tariff announcement (together $1.25M-$5.5M; Bloomberg Law rounds the combined figure to $1M-$5.5M). ProPublica (read in full in a later audit) confirms both ranges, says the form gives no time of day, and reports that DOJ did not respond to questions. Her ethics agreement required her to sell the TMTG stake 'not later than 90 days after my confirmation' (confirmed 4 Feb 2025, so by about 5 May 2025), and she says the shares were pay for consulting tied to DWAC, so the sale itself was mandated; the question raised is its timing. Rep. Raskin asked the DOJ IG to investigate (May 20, 2025). Mother Jones and Accountable.US had earlier flagged that Bondi, Patel and McMahon held TMTG shares or board ties when appointed. A sale before a market drop is not proof of insider trading. The holding itself was an interest in the president's company, held while she led the agency with jurisdiction over matters touching it. Trump announced Bondi's removal on Apr 2, 2026 and named Blanche acting AG (CBS, CNN via KVIA); her OGE termination report gives 1 Apr 2026 as her termination date; Blanche was confirmed as AG 50-49 on Aug 8, 2026 and sworn in on Aug 10, 2026 (Axios; AP via WTOP); no outcome of the Raskin IG referral was found.",
    "sources": [
     "https://news.bloomberglaw.com/us-law-week/attorney-general-pam-bondi-discloses-sale-of-trump-media-shares",
     "https://lailluminator.com/2025/05/18/bondi-trump/",
     "https://democrats-judiciary.house.gov/UploadedFiles/2025-05-20.Raskin_to_Horowitz_DOJ_OIG_re_Bondi_Insider_Trading.pdf",
     "https://www.motherjones.com/politics/2025/04/trump-media-technology-group-truth-social-kash-patel-pam-bondi-linda-mcmahon/",
     "https://www.cbsnews.com/news/pam-bondi-sold-at-least-1-million-dollars-trump-media-shares-on-liberation-day",
-    "https://www.propublica.org/article/pam-bondi-trump-media-stock-tariffs"
+    "https://www.propublica.org/article/pam-bondi-trump-media-stock-tariffs",
+    "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/102E39A4A731A68785258C8A002C7208/$FILE/Pam-Bondi-05.05.2025-278T.pdf",
+    "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/5A7DD536E124894585258E7A002D9D3E/$FILE/Pam-Bondi-2026-278TERM.pdf"
    ]
   },
   {
    "statement": "Todd Blanche held crypto when he signed the Apr 7, 2025 memo disbanding NCET.",
    "verdict": "confirmed",
-   "finding": "Evidence grade: documented (OGE 278 filings via ProPublica; Jan 28, 2026 letter from six Democratic senators). Blanche held roughly $159K-$485K in crypto assets (bitcoin, ether, solana); outlets give slightly different ranges. His ethics agreement required divestment within 90 days of confirmation. The 'Ending Regulation by Prosecution' memo came on Apr 7, 2025, and the divestment took place May 31-June 3, 2025. Per the Daily Beast's reading of his June 2025 ethics filing, the holdings 'were gifted in their entirety to my grandchild and adult children' rather than sold; experts say the narrow family exception may make that technically permissible. ProPublica's range is $158K-$470K and the Senate letter's $159K-$485K. Former federal ethics officials told ProPublica the memo likely breached 18 U.S.C. 208 and his agreement. The senators asked whether he had a 208(b)(1) waiver; no waiver has been published, and no official finding was found. The memo benefited the crypto sector as a class, not a former client. Blanche became acting AG when Trump fired Bondi on Apr 2, 2026 (CBS, Al Jazeera); the Senate confirmed him as AG 50-49 on Aug 8, 2026, and he was sworn in on Aug 10, 2026 (Axios; AP via WTOP), so he is the Senate-confirmed AG as of Nov 2026.",
+   "finding": "Evidence grade: documented (his own OGE filings, read in full in C108; Jan 28, 2026 letter from six Democratic senators). His nominee report lists ten coins (bitcoin $100,001-$250,000, ether $50,001-$100,000, eight others at $1,001-$15,000 each) and Coinbase shares ($1,001-$15,000). The coins total $158,010-$470,000, the range the senators use ($158K-$470K); with the Coinbase shares the total is $159,011-$485,000, the range ProPublica uses ($159K-$485K). His ethics agreement required divestment within 90 days of confirmation (5 Mar 2025, so by about 3 June 2025). The 'Ending Regulation by Prosecution' memo came on Apr 7, 2025. His 278-T (signed 3 June 2025) shows the Coinbase shares sold on 29 May and coin dispositions dated 30 May to 2 June 2025. Its note says only four coins 'were gifted in their entirety to my grandchild and adult children: Bitcoin, Solana, Cardano, and Ethereum'; three of these also appear as 'Sale' lines, the other coins and the Coinbase shares are listed as sales, and Basic Attention Token and 'Decentralized' appear in no later filing. ProPublica reads the form as $116K-$315K gifted and $5K-$75K sold. Experts say gifts to adult children and grandchildren end the imputed interest. Former federal ethics officials told ProPublica the memo likely breached 18 U.S.C. 208 and his agreement; he and DOJ say the memo was not a particular matter and was cleared in advance by ethics officials. Waiver: none has been published. His 5 June 2025 compliance certification answers 'No' to 'I received a waiver pursuant to 18 U.S.C. § 208'. In written Senate answers in July 2026 he answered 'Yes, but such determinations are not subject to disclosure' when asked whether he received a written 208(b)(1) determination before the memo. A 208(b)(1) determination is the statutory form of a section 208 waiver, so the two statements conflict and have not been explained (see C108). Findings: an OGE note of 2 Sept 2026 on his 2026 annual report reads 'Part 7, Lines 1 - 6 and 15; DOJ IG declined further action' (seven crypto dispositions); the scope and reasons are not stated, and a declination is not a finding either way. No official finding of a violation was found. The memo benefited the crypto sector as a class, not a former client. Blanche became acting AG on Apr 2, 2026 after Bondi's removal (CBS, Al Jazeera); the Senate confirmed him as AG 50-49 on Aug 8, 2026, and he was sworn in on Aug 10, 2026 (Axios; AP via WTOP), so he is the Senate-confirmed AG as of Nov 2026.",
    "sources": [
     "https://www.propublica.org/article/todd-blanche-complaint-conflict-of-interest",
     "https://decrypt.co/356452/democrats-doj-deputy-crypto-holdings-enforcement-retreat",
     "https://www.theblock.co/amp/post/387554/blanche-crypto-conflicts-of-interest",
     "https://www.hirono.senate.gov/imo/media/doc/20260128ltrfromsenatorstodagrecryptocurrencyconflicts.pdf",
     "https://www.thedailybeast.com/trump-legal-goon-accused-of-breaking-law-over-massive-crypto-holding",
-    "https://www.aljazeera.com/amp/news/2026/4/3/why-did-trump-fire-pam-bondi-from-justice-department-who-is-todd-blanche"
+    "https://www.aljazeera.com/amp/news/2026/4/3/why-did-trump-fire-pam-bondi-from-justice-department-who-is-todd-blanche",
+    "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/9E22E6BED062C62D85258CC5002C7DEA/$FILE/Todd-Blanche-06.03.2025-278T.pdf",
+    "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/92E6C79E88537F4485258CA1002C2338/$FILE/Blanche%20EA%20Certification%201%20of%201.pdf",
+    "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/A91705E58BCA51B085258E73002D9F9B/$FILE/Todd-Blanche-2026-278ANNU.pdf",
+    "https://www.judiciary.senate.gov/imo/media/doc/blanche_-_qfrs.pdf",
+    "https://www.propublica.org/article/todd-blanche-crypto-doj-trump"
    ]
   },
   {
@@ -156,24 +163,32 @@
   {
    "statement": "Scott Bessent: late divestment of China-exposed farmland, and an Argentina rescue that benefited a friend's fund.",
    "verdict": "mostly-accurate",
-   "finding": "Evidence grade: documented for the farmland, single-source and secondary for the Citrone link. OGE told Senate Finance that Bessent had missed his Apr 28, 2025 divestment deadline. About $25M of North Dakota farmland remained, a crop roughly 70% exported to China, while he led China trade talks. He said in Oct 2025 that he had divested it. On Argentina, Mother Jones and Popular Information reported that Rob Citrone of Discovery Capital, a friend and former Soros colleague of Bessent, held large Argentine positions and bought more bonds days before Treasury's $20B swap-line announcement (Sep-Oct 2025). Argentine press reported that he lobbied Bessent; the NYT said his role was unclear. Bessent denies that the swap was a gift to investors and says Treasury profited. Citrone is a personal friend, not a former client of Bessent's in office.",
+   "finding": "Evidence grade: documented for the farmland, single-source and secondary for the Citrone link. OGE wrote to Senate Finance Chairman Crapo on 11 Aug 2025 that Bessent 'has failed to timely comply with certain terms of the ethics agreement', which required compliance by Apr 28, 2025 (read in full). His North Dakota farmland, valued at $5,000,001-$25,000,000 on his nominee report, remained while he led China trade talks; soybeans are a crop heavily exported to China. In Oct 2025 he still described himself as 'actually a soybean farmer'. On 7 Dec 2025 he said he had 'just divested it this week'; under a December 2025 amendment to his ethics agreement his partnership exchanged the farmland for a non-recourse promissory note from Glacier Ridge, LLP ($5M-$25M on his 2026 annual report), so he keeps an economic interest through the note (C107). On Argentina, Mother Jones and Popular Information reported that Rob Citrone of Discovery Capital, a friend and former Soros colleague of Bessent, held large Argentine positions and bought more bonds days before Treasury's $20B swap-line announcement (Sep-Oct 2025). Argentine press reported that he lobbied Bessent; the NYT said his role was unclear. Bessent denies that the swap was a gift to investors and says Treasury profited. Citrone is a personal friend, not a former client of Bessent's in office.",
    "sources": [
     "https://www.bankingdive.com/news/bessent-ethics-farmland-divest-assets-investments-china-north-dakota-treasury-crapo-wyden-oge/757703/",
     "https://www.aol.com/news/us-treasurys-bessent-not-compliance-214905451.html",
     "https://www.scmp.com/news/world/united-states-canada/article/3335539/us-treasury-secretary-scott-bessent-says-he-has-divested-his-soybean-farm",
     "https://develop.motherjones.com/politics/2025/09/trump-argentina-bailout-hedge-fund-billionaire-rob-citrone-scott-bessent",
     "https://popular.info/p/update-treasury-secretary-pressed",
-    "https://batimes.com.ar/news/economy/bessent-steps-in-to-protect-profits-of-friendly-investors-in-argentina.phtml"
+    "https://batimes.com.ar/news/economy/bessent-steps-in-to-protect-profits-of-friendly-investors-in-argentina.phtml",
+    "https://www.oge.gov/web/OGE.nsf/0/E9352B5076C281E385258CE600522721/$FILE/Bessent%20Ethics%20Agreement%20Non-Compliance%20Letter%20to%20Senate.pdf",
+    "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/374699921973EC3385258C0F0033701B/$FILE/Bessent%2C%20Scott%20%20AMENDED(3)finalEA.pdf",
+    "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/49D5550BCEB079A185258C0F00335A1B/$FILE/Bessent%2C%20Scott%20%20AMENDED%20final278.pdf",
+    "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/CF8CA0328CB1970085258E7B002D9B7E/$FILE/Scott-Bessent-2026-278ANNU.pdf",
+    "https://rapidcitypost.com/bessent-divests-from-soybean-farmland-ahead-of-trump-aid-announcement-for-farmers/"
    ]
   },
   {
    "statement": "Kash Patel was a Trump Media director who received a stock award just before becoming FBI director.",
    "verdict": "mostly-accurate",
-   "finding": "Evidence grade: documented (SEC Form 4). TMTG granted Patel 25,946 restricted shares on Jan 28, 2025, worth about $779K-$840K. Patel told senators he did not and would not accept them and had no stake. Mother Jones reported that he earned $120K a year as a TMTG consultant from 2022, and the award was absent from his disclosure. We found no FBI decision benefiting TMTG. This records a tie, not a decision.",
+   "finding": "Evidence grade: documented (SEC Form 4). TMTG granted Patel 25,946 restricted shares on Jan 28, 2025, worth about $779K-$840K. Patel told senators he did not and would not accept them and had no stake. Mother Jones reported that he earned $120K a year as a TMTG consultant from 2022, and the award was absent from his disclosure. We found no FBI decision benefiting TMTG. This records a tie, not a decision. His ethics agreement (28 Jan 2025, read in full in C109) adds: he resigns from the Trump Media board on confirmation; he keeps his Elite Depot (Shein parent) restricted stock units, vesting quarterly to 1 Nov 2025, because 'the agency has determined' the likelihood of his duties involving the company 'is remote', and recuses from matters affecting it while he owns them; and after consulting for Qatar's embassy until Nov 2024 he has a one-year 'covered relationship' with Qatar, and the agreement says the agency 'will grant' a written authorization to participate; a waiver dated 4 Mar 2025 for an unnamed Qatar-related matter was later reported (Responsible Statecraft, Jewish Insider; C73), and Public Citizen asked OGE to rescind it. No finding was found.",
    "sources": [
     "https://www.bloomberg.com/news/articles/2025-02-04/kash-patel-s-800-000-trump-media-award-raises-conflict-questions-for-fbi-pick",
     "https://ktvz.com/money/cnn-business-consumer/2025/01/31/trump-media-grants-large-amounts-of-stock-to-directors-including-two-who-are-trump-administration-nominees/",
-    "https://www.motherjones.com/politics/2025/04/trump-media-technology-group-truth-social-kash-patel-pam-bondi-linda-mcmahon/"
+    "https://www.motherjones.com/politics/2025/04/trump-media-technology-group-truth-social-kash-patel-pam-bondi-linda-mcmahon/",
+    "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/730D7A12BBF6654785258C240032196E/$FILE/Patel%2C%20Kashyap%20%20finalEA.pdf",
+    "https://responsiblestatecraft.org/kash-patel-qatar/",
+    "https://jewishinsider.com/2025/12/fbi-kash-patel-qatar-security-deals-lobbying-disclosure/"
    ]
   },
   {
@@ -230,11 +245,15 @@
   "Bondi's personal pay from the Qatar contract is not on record. The $115K/month went to Ballard Partners.",
   "Reported Atkins holding ranges differ between outlets (Securitize options $250K-$500K per Fortune/The Block vs larger figures elsewhere, incl. C54). Treat them as ranges.",
   "Quintenz was never confirmed, so he made no decisions as an official.",
-  "Blanche did not sell all his crypto: his June 2025 filing (as reported) says the holdings were gifted to his grandchild and adult children, May 31-June 3, 2025.",
+  "Blanche did not sell all his crypto: his 278-T note says four coins (bitcoin, solana, cardano, ether) were gifted to his grandchild and adult children; the other coins and his Coinbase shares are listed as sales, dated 29 May to 2 June 2025 (corrected 2026-11-17; earlier text said all holdings were gifted, 31 May to 3 June).",
   "Kollitides heads the Economic Defense Unit (which runs BOND), not OSC; he resigned from the D. Boral Acquisition I board effective Sep 23, 2026 (C74).",
   "Blanche became acting AG on Apr 2, 2026 when Bondi was fired, and was confirmed as AG 50-49 on Aug 8, 2026 and sworn in on Aug 10, 2026; earlier text said he 'succeeded Bondi as AG' without dates.",
   "The Securitize-CEPT merger closed on Jul 1, 2026 (NYSE: SECZ from Jul 2).",
-  "2026-11-16 (audit of C101-C103): Bondi's 2 April 2025 Trump Media sale is $1M-$5M of shares plus $250K-$500K of warrants, which adds to $1.25M-$5.5M. Bloomberg Law's '$1M-$5.5M' combined figure rounds down the lower bound. The ranges are confirmed by ProPublica, read in full."
+  "2026-11-16 (audit of C101-C103): Bondi's 2 April 2025 Trump Media sale is $1M-$5M of shares plus $250K-$500K of warrants, which adds to $1.25M-$5.5M. Bloomberg Law's '$1M-$5.5M' combined figure rounds down the lower bound. The ranges are confirmed by ProPublica, read in full.",
+  "2026-11-17: Claimed: ProPublica's Blanche range is $158K-$470K and the Senate letter's $159K-$485K. The record shows the reverse: ProPublica (22 Dec 2025) gives $159K-$485K and the senators (28 Jan 2026) $158K-$470K; the difference is his Coinbase shares. Claimed: divestment 31 May-3 June 2025 and holdings 'gifted in their entirety'. The 278-T shows dispositions dated 29 May (Coinbase shares) and 30 May-2 June (coins); 3 June is the signing date; only four coins are named as gifts. Added: his 5 June 2025 certification answers 'No' to a section 208 waiver, while in July 2026 he said he received a written 208(b)(1) determination; OGE's 2 Sept 2026 note reads 'DOJ IG declined further action'.",
+  "2026-11-17: Claimed: Bondi's sale was 'disclosed May 14, 2025' and she was 'fired on Apr 2, 2026'. The record shows: her 278-T was signed 5 May 2025 and OGE-certified 12 May 2025 (reported mid-May); she was confirmed 4 Feb 2025; her removal was announced 2 Apr 2026 and her OGE termination report gives 1 Apr 2026.",
+  "2026-11-17: Claimed: Bessent said in Oct 2025 he had divested about $25M of farmland. The record shows: the farmland is reported as a $5M-$25M range; he announced the divestment on 7 Dec 2025, and the land was exchanged for a non-recourse promissory note under a December 2025 amendment; OGE's 11 Aug 2025 letter said he had 'failed to timely comply' with his ethics agreement.",
+  "2026-11-17: Added from Patel's ethics agreement: retained Elite Depot units under an agency 'remote' determination with recusal, the Trump Media board resignation, and a one-year covered relationship with Qatar (a 4 Mar 2025 waiver for a Qatar-related matter was later reported; C73)."
  ],
  "denials_and_context": [
   "DOJ: Bondi consulted career ethics officials who found no recusal was needed on the jet, and 'the Attorney General had no role' in the brother's cases.",
@@ -541,7 +560,7 @@
    "title": "Bessent says he has divested his soybean farm",
    "publisher": "SCMP/Reuters",
    "url": "https://www.scmp.com/news/world/united-states-canada/article/3335539/us-treasury-secretary-scott-bessent-says-he-has-divested-his-soybean-farm",
-   "date": "2025-10"
+   "date": "2025-12"
   },
   {
    "title": "Trump's Argentina bailout enriches one well-connected US billionaire",
@@ -698,6 +717,97 @@
    "publisher": "ProPublica",
    "url": "https://www.propublica.org/article/pam-bondi-trump-media-stock-tariffs",
    "date": "2025-05"
+  },
+  {
+   "title": "OGE Form 278-T, Pam Bondi",
+   "publisher": "Office of Government Ethics",
+   "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/102E39A4A731A68785258C8A002C7208/$FILE/Pam-Bondi-05.05.2025-278T.pdf",
+   "date": "2025-05-05",
+   "read": "full"
+  },
+  {
+   "title": "OGE Form 278e termination report, Pam Bondi",
+   "publisher": "Office of Government Ethics",
+   "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/5A7DD536E124894585258E7A002D9D3E/$FILE/Pam-Bondi-2026-278TERM.pdf",
+   "date": "2026-06-16",
+   "read": "full"
+  },
+  {
+   "title": "OGE Form 278-T, Todd Blanche",
+   "publisher": "Office of Government Ethics",
+   "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/9E22E6BED062C62D85258CC5002C7DEA/$FILE/Todd-Blanche-06.03.2025-278T.pdf",
+   "date": "2025-06-03",
+   "read": "full"
+  },
+  {
+   "title": "Certification of Ethics Agreement Compliance, Todd Blanche (Deputy AG)",
+   "publisher": "Office of Government Ethics",
+   "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/92E6C79E88537F4485258CA1002C2338/$FILE/Blanche%20EA%20Certification%201%20of%201.pdf",
+   "date": "2025-06-05",
+   "read": "full"
+  },
+  {
+   "title": "OGE Form 278e annual report 2026, Todd Blanche (OGE note 2 Sept 2026)",
+   "publisher": "Office of Government Ethics",
+   "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/A91705E58BCA51B085258E73002D9F9B/$FILE/Todd-Blanche-2026-278ANNU.pdf",
+   "date": "2026-09-02",
+   "read": "full"
+  },
+  {
+   "title": "Questions for the record and responses, Todd Blanche AG nomination",
+   "publisher": "Senate Judiciary Committee",
+   "url": "https://www.judiciary.senate.gov/imo/media/doc/blanche_-_qfrs.pdf",
+   "date": "2026-07-20",
+   "read": "excerpt"
+  },
+  {
+   "title": "Todd Blanche shut down crypto enforcement while holding crypto",
+   "publisher": "ProPublica",
+   "url": "https://www.propublica.org/article/todd-blanche-crypto-doj-trump",
+   "date": "2025-12-22",
+   "read": "full"
+  },
+  {
+   "title": "Ethics agreement, Kashyap Patel",
+   "publisher": "Office of Government Ethics",
+   "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/730D7A12BBF6654785258C240032196E/$FILE/Patel%2C%20Kashyap%20%20finalEA.pdf",
+   "date": "2025-01-28",
+   "read": "full"
+  },
+  {
+   "title": "OGE letter to Sen. Crapo: Bessent failed to timely comply with ethics agreement",
+   "publisher": "Office of Government Ethics",
+   "url": "https://www.oge.gov/web/OGE.nsf/0/E9352B5076C281E385258CE600522721/$FILE/Bessent%20Ethics%20Agreement%20Non-Compliance%20Letter%20to%20Senate.pdf",
+   "date": "2025-08-11",
+   "read": "full"
+  },
+  {
+   "title": "Scott Bessent amended ethics agreement (Dec 2025)",
+   "publisher": "Office of Government Ethics",
+   "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/374699921973EC3385258C0F0033701B/$FILE/Bessent%2C%20Scott%20%20AMENDED(3)finalEA.pdf",
+   "date": "2025-12-08",
+   "read": "full"
+  },
+  {
+   "title": "Scott Bessent nominee OGE Form 278e",
+   "publisher": "Office of Government Ethics",
+   "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/49D5550BCEB079A185258C0F00335A1B/$FILE/Bessent%2C%20Scott%20%20AMENDED%20final278.pdf",
+   "date": "2025-05-05",
+   "read": "full"
+  },
+  {
+   "title": "Scott Bessent OGE Form 278e annual report 2026",
+   "publisher": "Office of Government Ethics",
+   "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/CF8CA0328CB1970085258E7B002D9B7E/$FILE/Scott-Bessent-2026-278ANNU.pdf",
+   "date": "2026-09-22",
+   "read": "full"
+  },
+  {
+   "title": "Bessent divests from soybean farmland ahead of Trump aid announcement for farmers",
+   "publisher": "Associated Press via Rapid City Post",
+   "url": "https://rapidcitypost.com/bessent-divests-from-soybean-farmland-ahead-of-trump-aid-announcement-for-farmers/",
+   "date": "2025-12-08",
+   "read": "full"
   }
  ],
  "entities": [
@@ -711,7 +821,7 @@
    "id": "pam-bondi",
    "name": "Pam Bondi",
    "type": "person",
-   "description": "Former AG; ex-Ballard lobbyist registered for Qatar; signed jet memo"
+   "description": "Former AG (confirmed 4 Feb 2025; removal announced 2 Apr 2026, termination date 1 Apr 2026); ex-Ballard lobbyist registered for Qatar; signed jet memo"
   },
   {
    "id": "brad-bondi",
@@ -1041,7 +1151,7 @@
    "id": "scott-bessent",
    "name": "Scott Bessent",
    "type": "person",
-   "description": "Treasury Secretary; late farmland divestment; Argentina swap"
+   "description": "Treasury Secretary; missed farmland divestment deadline (OGE, Aug 2025), farmland exchanged for a promissory note in Dec 2025; Argentina swap"
   },
   {
    "id": "rob-citrone",
@@ -1789,7 +1899,8 @@
    "Open threads: Patomak buyer; Kratsios/Scale AI; Securitize merger close",
    "Reconciliation with C74 (Kollitides role and D. Boral resignation) and C75 (Boulos, Gentry Beach)",
    "Blanche's current post: confirmation and swearing-in dates (second reviewer)",
-   "2026-11-16: Bondi's TMTG share and warrant ranges (ProPublica, read in full; C102)"
+   "2026-11-16: Bondi's TMTG share and warrant ranges (ProPublica, read in full; C102)",
+   "2026-11-17: Blanche crypto ranges, disposition dates, gift note, waiver/determination statements and OGE IG note; Bondi 278-T dates, confirmation and termination dates; Patel ethics-agreement terms; Bessent farmland range, OGE non-compliance letter and Dec 2025 note exchange (primary OGE filings, read in C107-C109)"
   ],
   "result": "corrected",
   "changes": [
@@ -1803,7 +1914,8 @@
    "Upheld: Navarro/Vulcan (ProPublica, multi-outlet syndication with denials) and Barrack/TI Capital (still single-source Reuters; State denies any interest).",
    "AG succession reconciled across C49, C61, C64 and C65: Bondi out Apr 2, 2026; Blanche acting AG from Apr 2, confirmed by the Senate 50-49 in a pre-dawn Saturday vote on Aug 8, 2026 (Axios), sworn in at the White House on Monday Aug 10, 2026 (AP via WTOP, PBS). C65 previously said Blanche was 'acting AG, not AG' and that the current holder was not established; that is superseded: summary, Bondi finding, Blanche finding, correction, entity description and Blanche-DOJ label updated.",
    "kevin-mcgurn entity description said he is CEO of New America Acquisition I; he resigned effective Aug 5, 2026 (8-K, C62/C78). Now 'former CEO ... (resigned Aug 5, 2026); TMTG interim CEO from Apr 21, 2026'.",
-   "2026-11-16: Bondi finding states the combined range as $1.25M-$5.5M (Bloomberg Law's $1M lower bound is a rounding); ProPublica added as a source. No change of substance."
+   "2026-11-16: Bondi finding states the combined range as $1.25M-$5.5M (Bloomberg Law's $1M lower bound is a rounding); ProPublica added as a source. No change of substance.",
+   "2026-11-17: Blanche: ranges un-reversed ($158K-$470K senators, coins only; $159K-$485K ProPublica, with Coinbase shares); dispositions 29 May-2 June 2025 (3 June is the signing date); only four coins named as gifts; added the 2025 'No' to a 208 waiver versus the July 2026 'Yes' to a 208(b)(1) determination, and OGE's 'DOJ IG declined further action' note. Bondi: 278-T signed 5 May and OGE-certified 12 May 2025, confirmed 4 Feb 2025, removal announced 2 Apr 2026 with termination date 1 Apr 2026. Patel: ethics-agreement terms added. Bessent: farmland range $5M-$25M, OGE 'failed to timely comply' letter, divestment announced 7 Dec 2025 as an exchange for a promissory note, not Oct 2025. The SCMP/Reuters source on the divestment was misdated Oct 2025; it reports the 7 Dec 2025 statement."
   ],
   "new_sources": [
    {
@@ -1883,6 +1995,24 @@
     "publisher": "ProPublica",
     "url": "https://www.propublica.org/article/pam-bondi-trump-media-stock-tariffs",
     "date": "2025-05"
+   },
+   {
+    "title": "OGE letter to Sen. Crapo on Bessent",
+    "publisher": "Office of Government Ethics",
+    "url": "https://www.oge.gov/web/OGE.nsf/0/E9352B5076C281E385258CE600522721/$FILE/Bessent%20Ethics%20Agreement%20Non-Compliance%20Letter%20to%20Senate.pdf",
+    "date": "2025-08-11"
+   },
+   {
+    "title": "OGE Form 278-T, Todd Blanche",
+    "publisher": "Office of Government Ethics",
+    "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/9E22E6BED062C62D85258CC5002C7DEA/$FILE/Todd-Blanche-06.03.2025-278T.pdf",
+    "date": "2025-06-03"
+   },
+   {
+    "title": "Ethics agreement, Kashyap Patel",
+    "publisher": "Office of Government Ethics",
+    "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/730D7A12BBF6654785258C240032196E/$FILE/Patel%2C%20Kashyap%20%20finalEA.pdf",
+    "date": "2025-01-28"
    }
   ]
  }

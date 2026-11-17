@@ -9,8 +9,8 @@ aliases:
   - "Qatari 747 for Air Force One"
   - "Qatari Boeing 747-8"
   - "Qatari Boeing 747-8 (Air Force One)"
-connections: 24
-claims: 11
+connections: 25
+claims: 12
 tags:
   - "entity"
   - "type/asset"
@@ -22,8 +22,8 @@ $400M luxury jet Qatar offered for use as Air Force One, later for Trump's libra
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 11 checks |
-| Connections | 24 |
+| Appears in | 12 checks |
+| Connections | 25 |
 | Also known as | Air Force One gift; Qatar plane; Qatari 747; Qatari 747 for Air Force One; Qatari Boeing 747-8; Qatari Boeing 747-8 (Air Force One) |
 
 ## How Other Checks Describe It
@@ -47,6 +47,7 @@ $400M luxury jet Qatar offered for use as Air Force One, later for Trump's libra
 - [[C70 What the Trump Family's Foreign Partners Obtained from Washington]] · Mostly accurate
 - [[C73 Qatar's Ties to People in & Around the Administration]] · Mostly accurate
 - [[C84 Heritage Advisors & Sheikh Sultan bin Jassim]] · Mostly accurate
+- [[C108 Pam Bondi & Todd Blanche Prior Clients, Holdings & Recusals]] · Mostly accurate
 
 ## Relationships
 
@@ -67,10 +68,11 @@ $400M luxury jet Qatar offered for use as Air Force One, later for Trump's libra
 - [[Qatar Boeing 747 gift]] *slated to transfer to by 2029 (not final)* [[Donald J. Trump Presidential Library Foundation]] · 2029-01-01 · [[C48 The Trump Presidential Library Foundation's Money & Land|C48]]
 - [[Qatar Boeing 747 gift]] *to end up in* [[Trump presidential library]] · [[C16 Qatar The Gifted Jet, Arms Sales & a Trump Golf Project|C16]]
 
-### Regulatory (4)
+### Regulatory (5)
 
 - [[Pam Bondi]] *signed DOJ memo clearing acceptance of* [[Qatar Boeing 747 gift]] · 2025-05 · [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]]
 - [[Pam Bondi]] *signed OLC memo calling acceptance legally permissible* [[Qatar Boeing 747 gift]] · 2025-05 · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
+- [[DOJ memo on the Qatari jet]] *found acceptance legally permissible (unreleased)* [[Qatar Boeing 747 gift]] · 2025-05 · [[C108 Pam Bondi & Todd Blanche Prior Clients, Holdings & Recusals|C108]]
 - [[Pete Hegseth]] *accepted* [[Qatar Boeing 747 gift]] · 2025-05-21 · [[C73 Qatar's Ties to People in & Around the Administration|C73]]
 - [[Pete Hegseth]] *formally accepted* [[Qatar Boeing 747 gift]] · 2025-05-21 · [[C16 Qatar The Gifted Jet, Arms Sales & a Trump Golf Project|C16]]
 

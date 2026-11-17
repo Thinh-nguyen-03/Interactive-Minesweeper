@@ -149,7 +149,7 @@ The Donald J. Trump Revocable Trust is TMTG's largest shareholder, with 114.75M 
 - [[Intel trading meme post]] · Event
 - [[Nvidia]] · Company
 - [[Office of Government Ethics]] · Government body
-- [[Palantir Technologies (PLTR)]] · Company
+- [[Palantir]] · Company
 - [[Rep. Don Beyer]] · Person
 - [[STOCK Act]] · Law or policy
 - [[Trump financial disclosures]] · Event
@@ -164,7 +164,7 @@ The Donald J. Trump Revocable Trust is TMTG's largest shareholder, with 114.75M 
 
 - [[White House Trump administration]] *US government took a 9.9% stake at $20.47/share in* [[Intel]] · 2025-08-22 · [[C20 Trump's Securities Purchases & His Truth Social Posts|C20]]
 - [[Nvidia]] *invested $5B in* [[Intel]] · 2025-09 · $5B · [[C20 Trump's Securities Purchases & His Truth Social Posts|C20]]
-- [[Donald Trump]] *accounts bought $247k-$630k of shares (Q1 2026)* [[Palantir Technologies (PLTR)]] · 2026-03 · $630K · [[C20 Trump's Securities Purchases & His Truth Social Posts|C20]]
+- [[Donald Trump]] *accounts bought $247k-$630k of shares (Q1 2026)* [[Palantir]] · 2026-03 · $630K · [[C20 Trump's Securities Purchases & His Truth Social Posts|C20]]
 - [[Intel trading meme post]] *preceded price rise of* [[Intel]] · [[C20 Trump's Securities Purchases & His Truth Social Posts|C20]]
 - [[Trump financial disclosures]] *show equity buys before posts by* [[Donald Trump]] · [[C20 Trump's Securities Purchases & His Truth Social Posts|C20]]
 
@@ -203,7 +203,7 @@ The Donald J. Trump Revocable Trust is TMTG's largest shareholder, with 114.75M 
 
 - [[Donald Trump]] *posted on Truth Social* [[Intel Oval Office trading meme]] · 2025-09 · [[C20 Trump's Securities Purchases & His Truth Social Posts|C20]]
 - [[Intel Oval Office trading meme]] *depicts trading of* [[Intel]] · 2025-09 · [[C20 Trump's Securities Purchases & His Truth Social Posts|C20]]
-- [[Donald Trump]] *endorsed by ticker '(PLTR)' on Truth Social* [[Palantir Technologies (PLTR)]] · 2026-04-10 · [[C20 Trump's Securities Purchases & His Truth Social Posts|C20]]
+- [[Donald Trump]] *endorsed by ticker '(PLTR)' on Truth Social* [[Palantir]] · 2026-04-10 · [[C20 Trump's Securities Purchases & His Truth Social Posts|C20]]
 - [[Donald Trump]] *posted* [[Intel trading meme post]] · [[C20 Trump's Securities Purchases & His Truth Social Posts|C20]]
 - [[Donald Trump]] *posts stock tickers on* [[Truth Social]] · [[C20 Trump's Securities Purchases & His Truth Social Posts|C20]]
 

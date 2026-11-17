@@ -356,7 +356,7 @@ The core of the claim is documented. A June 28, 2026 NYT investigation (Lipton a
 ### Commercial (4)
 
 - [[Cantor Fitzgerald]] *joint book-runner on $50M offering* [[ASP Isotopes]] · 2025-06 · $50M · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
-- [[Cantor Fitzgerald]] *lead placement agent on $1.5B PIPE* [[USA Rare Earth]] · 2026-01-26 · $1.5B · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
+- [[Cantor Fitzgerald]] *lead placement agent on $1.5B PIPE* [[USA Rare Earth]] · 2026-01-26 · $1.5B · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]] [[C104 Howard Lutnick Holdings, Divestiture & Recusals|C104]]
 - [[Cantor Fitzgerald]] *raised $210M for a project investment partner (NYT)* [[Kaz Resources]] · $210M · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
 - [[Cantor Fitzgerald]] *banker/financial adviser to* [[The Metals Company]] · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
 

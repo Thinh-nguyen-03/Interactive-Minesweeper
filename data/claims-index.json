@@ -1458,5 +1458,101 @@
   "question": "What investigations of the insider-trading allegations exist, what did they find, and what law applies?",
   "topic": "regulators-and-enforcement",
   "hidden": false
+ },
+ {
+  "id": "C104",
+  "slug": "lutnick-holdings-and-recusals",
+  "lines": "",
+  "title": "Howard Lutnick: Holdings, Divestiture & Recusals",
+  "claim": "What did Commerce Secretary Howard Lutnick disclose and agree to divest on taking office (Cantor Fitzgerald, BGC, Newmark, Tether-related interests), how and to whom were the interests transferred (including to his children and trusts), what do his disclosure and transaction filings show, which matters before the Commerce Department touch those businesses (tariffs and tariff-refund trading, chips, stablecoins, satellites), and what recusals, waivers, complaints or findings exist?",
+  "origin": "follow-up",
+  "parents": [
+   "C50",
+   "C65"
+  ],
+  "display_title": "Howard Lutnick: Holdings, Divestiture & Recusals",
+  "question": "What did Howard Lutnick divest, to whom, and which of his department's decisions touch his former businesses?",
+  "topic": "regulators-and-enforcement",
+  "hidden": false
+ },
+ {
+  "id": "C105",
+  "slug": "witkoff-holdings-and-dealings",
+  "lines": "",
+  "title": "Steve Witkoff: Holdings, Divestiture & Overlapping Dealings",
+  "claim": "What has special envoy Steve Witkoff disclosed and divested (Witkoff Group, World Liberty Financial, other holdings), what is his employment status and which ethics rules apply, when were filings made, and how do his diplomatic assignments (Gulf states, Russia, Israel and Gaza) overlap in time with business dealings by his family's companies and World Liberty with the same counterparts? Record waivers, complaints and responses.",
+  "origin": "follow-up",
+  "parents": [
+   "C65",
+   "C70"
+  ],
+  "display_title": "Steve Witkoff: Holdings, Divestiture & Overlapping Dealings",
+  "question": "What has Steve Witkoff disclosed and divested, and where do his diplomatic assignments overlap with his family's business counterparts?",
+  "topic": "foreign-deals",
+  "hidden": false
+ },
+ {
+  "id": "C106",
+  "slug": "sacks-holdings-and-waivers",
+  "lines": "",
+  "title": "David Sacks: Holdings, Ethics Waivers & AI and Crypto Policy",
+  "claim": "What is David Sacks's status as White House AI and crypto adviser (special government employee, day limits), what ethics waivers were issued and what do they say he sold or kept (Craft Ventures, crypto and AI holdings), what has reporting found about holdings affected by policies he shaped, and what complaints, congressional requests and responses exist?",
+  "origin": "follow-up",
+  "parents": [
+   "C65",
+   "C68"
+  ],
+  "display_title": "David Sacks: Holdings, Ethics Waivers & AI and Crypto Policy",
+  "question": "What did David Sacks's ethics waivers allow him to keep, and which policies he shaped affect those holdings?",
+  "topic": "tech-and-media-companies",
+  "hidden": false
+ },
+ {
+  "id": "C107",
+  "slug": "bessent-atkins-holdings",
+  "lines": "",
+  "title": "Scott Bessent & Paul Atkins: Holdings & Divestiture Deadlines",
+  "claim": "What did Treasury Secretary Scott Bessent and SEC Chair Paul Atkins disclose and agree to divest (Key Square, farmland and other assets; Patomak Global Partners, crypto-related interests), were the ethics-agreement deadlines met according to the Office of Government Ethics and Senate letters, and which decisions in office touch former clients or holdings? Record waivers, complaints and responses.",
+  "origin": "follow-up",
+  "parents": [
+   "C54",
+   "C65"
+  ],
+  "display_title": "Scott Bessent & Paul Atkins: Holdings & Divestiture Deadlines",
+  "question": "Did Scott Bessent and Paul Atkins divest on time, and which of their decisions touch former clients or holdings?",
+  "topic": "regulators-and-enforcement",
+  "hidden": false
+ },
+ {
+  "id": "C108",
+  "slug": "bondi-blanche-prior-clients",
+  "lines": "",
+  "title": "Pam Bondi & Todd Blanche: Prior Clients, Holdings & Recusals",
+  "claim": "What did Attorney General Pam Bondi and Deputy Attorney General Todd Blanche disclose about prior clients and holdings (Ballard Partners clients including Qatar; Trump Media shares; Blanche's representation of Donald Trump and reported crypto holdings), what recusals or waivers were issued, and which Justice Department decisions touched those former clients or assets (crypto enforcement memo, FARA and FCPA enforcement changes, cases involving former clients)? Record complaints, inspector-general requests, findings and responses.",
+  "origin": "follow-up",
+  "parents": [
+   "C65",
+   "C102"
+  ],
+  "display_title": "Pam Bondi & Todd Blanche: Prior Clients, Holdings & Recusals",
+  "question": "Which Justice Department decisions touched the former clients or holdings of Pam Bondi and Todd Blanche, and were they recused?",
+  "topic": "regulators-and-enforcement",
+  "hidden": false
+ },
+ {
+  "id": "C109",
+  "slug": "other-officials-holdings-and-waivers",
+  "lines": "",
+  "title": "Other Senior Officials: Waivers, Late Divestitures & Outside Interests",
+  "claim": "Across the rest of the senior administration (for example Elon Musk during his time as a special government employee, Kash Patel, Robert F. Kennedy Jr., Mehmet Oz, Pete Hegseth, Chris Wright, Doug Burgum, Linda McMahon, Kelly Loeffler, Frank Bisignano, Jared Isaacman, Michael Boulos's father Massad Boulos and others), what ethics waivers were granted, which divestitures were late or incomplete according to the Office of Government Ethics, inspectors general or Senate letters, and what happened to the ethics oversight offices themselves (the OGE director, inspectors general)? Document only what filings and on-record reporting show.",
+  "origin": "follow-up",
+  "parents": [
+   "C65",
+   "C103"
+  ],
+  "display_title": "Other Senior Officials: Waivers, Late Divestitures & Outside Interests",
+  "question": "Which other senior officials received ethics waivers or divested late, and what happened to the offices that oversee them?",
+  "topic": "pardons-lobbyists-and-access",
+  "hidden": false
  }
 ]

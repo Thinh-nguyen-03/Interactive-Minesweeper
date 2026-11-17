@@ -4,8 +4,8 @@ kind: "entity"
 type: "company"
 aliases:
   - "USA Rare Earth (USAR)"
-connections: 12
-claims: 3
+connections: 13
+claims: 4
 tags:
   - "entity"
   - "type/company"
@@ -17,12 +17,13 @@ Mine-to-magnet company; $1.6B Commerce CHIPS LOI and ~10% government stake
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 3 checks |
-| Connections | 12 |
+| Appears in | 4 checks |
+| Connections | 13 |
 | Also known as | USA Rare Earth (USAR) |
 
 ## How Other Checks Describe It
 
+- Cantor-placed $1.5B PIPE alongside a Commerce letter of intent (C77)
 - Round Top/Stillwater rare-earth magnet company; Commerce CHIPS deal
 - Commerce ~10% stake + $1.3B loan; $1.5B PIPE
 
@@ -31,13 +32,15 @@ Mine-to-magnet company; $1.6B Commerce CHIPS LOI and ~10% government stake
 - [[C60 Government Equity Stakes in Critical-Minerals Companies]] · Mostly accurate
 - [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department]] · Mostly accurate
 - [[C86 Major Trump Donors with Stakes in Federally Backed Companies]] · Partly accurate
+- [[C104 Howard Lutnick Holdings, Divestiture & Recusals]] · Mostly accurate
 
 ## Relationships
 
-### Money (6)
+### Money (7)
 
 - [[Stephen Schwarzman]] *alleged PIPE buyer (senators' letter only)* [[USA Rare Earth]] · 2026-01 · [[C86 Major Trump Donors with Stakes in Federally Backed Companies|C86]]
 - [[Steven A. Cohen]] *alleged PIPE buyer (senators' letter only)* [[USA Rare Earth]] · 2026-01 · [[C86 Major Trump Donors with Stakes in Federally Backed Companies|C86]]
+- [[US Department of Commerce]] *$1.6B letter of intent; definitive deal Jun 2026* [[USA Rare Earth]] · 2026-01 · $1.6B · [[C104 Howard Lutnick Holdings, Divestiture & Recusals|C104]]
 - [[Inflection Point]] *anchored PIPE* [[USA Rare Earth]] · 2026-01-26 · [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department|C77]]
 - [[US Department of Commerce]] *$1.6B CHIPS LOI for ~10% stake* [[USA Rare Earth]] · 2026-01-26 · $1.6B · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
 - [[US Department of Commerce]] *definitive CHIPS agreements: $277M funding + $1.3B loan for ~16.1M shares + warrants* [[USA Rare Earth]] · 2026-06-03 · $1.6B · [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department|C77]]
@@ -59,5 +62,5 @@ Mine-to-magnet company; $1.6B Commerce CHIPS LOI and ~10% government stake
 
 ### Commercial (2)
 
-- [[Cantor Fitzgerald]] *lead placement agent on $1.5B PIPE* [[USA Rare Earth]] · 2026-01-26 · $1.5B · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
+- [[Cantor Fitzgerald]] *lead placement agent on $1.5B PIPE* [[USA Rare Earth]] · 2026-01-26 · $1.5B · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]] [[C104 Howard Lutnick Holdings, Divestiture & Recusals|C104]]
 - [[Barbara Humpton]] *CEO* [[USA Rare Earth]] · [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department|C77]]

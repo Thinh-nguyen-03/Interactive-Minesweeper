@@ -50,6 +50,7 @@ The Russia-adjacent links are real but mostly indirect. Several are documented.
 - The claim says the oligarch funded Don Jr.'s 'wedding parties'. The family's account is two after-parties, while ProPublica reports an island rental and fireworks across the weekend. Kremlev says he was repaid (6 Oct 2026).
 - Byline Times calls Blavatnik a former adviser to Dmitriev. The pre-2022 RDIF advisers named in coverage we could see were Leon Black and Stephen Schwarzman; Blavatnik's role is unconfirmed.
 - Reports of Russian buyers of Trump-branded property are 2017-18 analyses of older sales, mostly in licensed buildings; none found for 2025-26.
+- 2026-11-17 (holdings audit, C104/C105): Claimed: Witkoff 'sold a $120M stake in his firm in Sep 2025'. The record shows: the sale was disclosed in September 2025 (new-entrant report signed 13 Aug 2025); the same line appears in his annual report for calendar 2025, so the sale took place between January and 13 August 2025. No date, buyer or share is given, and he still holds a Witkoff Group interest valued over $50M.
 
 ## What Is Unproven
 
@@ -90,14 +91,13 @@ The Russia-adjacent links are real but mostly indirect. Several are documented.
 - They also co-own Banyan Cay (West Palm Beach) and announced a North Beach, Miami condo project with Sandor Scher (Feb 2025).
 - The 'undisclosed conflict' framing is single-source commentary: Counteroffensive (Apr 2025), Popular Information, and Byline Times (1 Dec 2025).
 - They note the partnership continued after Ukraine sanctioned Blavatnik in Dec 2023, on grounds Ukraine never published.
-- Witkoff sold a $120M stake in his firm in Sep 2025.
-- His son Alex still runs operations, so the family's exposure to the partnership continues; that last point is our INFERENCE.
+- Witkoff's disclosure, published in September 2025, shows a $120M sale of an interest in his firm; the sale took place between January and 13 August 2025 (date and buyer undisclosed), and he still holds a stake valued over $50M. His son Alex still runs operations, so the family's exposure to the partnership continues; that last point is our INFERENCE.
 - Access Industries says Blavatnik and Witkoff 'have never spoken about the Russia-Ukraine negotiations'.
 - Blavatnik says he exited Russia in 2022.
 - The tie shows a commercial relationship, not influence on policy.
-- Amounts: ~$900M; $1.15B; $525M; $120M
+- Amounts: ~$900M; $1.15B; $525M; $120M; over $50M
 - Dates: Dec 2021; 2021-12-23; Aug 2024; Jan 2026; Feb 2025
-- Sources: [4](https://therealdeal.com/new-york/2021/12/23/witkoff-and-access-industries-buy-hfzs-languishing-xi-condo-project) [5](https://therealdeal.com/new-york/2024/08/16/witkoff-blavatnik-refinance-one-high-line-condo-project) [6](https://therealdeal.com/new-york/2026/01/30/one-high-line-developers-land-525m-loan) [3](https://www.counteroffensive.news/cp/161746319) [2](https://popular.info/p/top-trump-negotiator-retains-partnership) [1](https://bylinetimes.com/2025/12/01/trump-envoy-has-financial-ties-with-former-adviser-to-putins-money-man-now-leading-kremlin-peace-talks/) [7](https://therealdeal.com/national/2025/09/16/steve-witkoff-sells-stake-in-real-estate-firm-for-120m)
+- Sources: [4](https://therealdeal.com/new-york/2021/12/23/witkoff-and-access-industries-buy-hfzs-languishing-xi-condo-project) [5](https://therealdeal.com/new-york/2024/08/16/witkoff-blavatnik-refinance-one-high-line-condo-project) [6](https://therealdeal.com/new-york/2026/01/30/one-high-line-developers-land-525m-loan) [3](https://www.counteroffensive.news/cp/161746319) [2](https://popular.info/p/top-trump-negotiator-retains-partnership) [1](https://bylinetimes.com/2025/12/01/trump-envoy-has-financial-ties-with-former-adviser-to-putins-money-man-now-leading-kremlin-peace-talks/) [7](https://therealdeal.com/national/2025/09/16/steve-witkoff-sells-stake-in-real-estate-firm-for-120m) [49](https://www.whitehouse.gov/wp-content/uploads/2025/12/Witkoff-Steven.pdf)
 
 ### 2. Blavatnik was a former adviser to Kirill Dmitriev / RDIF, putting Witkoff's financing 'in the orbit' of Dmitriev.
 
@@ -343,7 +343,7 @@ The Russia-adjacent links are real but mostly indirect. Several are documented.
 ### Ownership (9)
 
 - [[Witkoff Group]] *co-acquired out of ~$900M foreclosure* [[One High Line]] · 2021-12 · $900M · [[C76 Russia-Linked Money Around the Family & the Envoys|C76]]
-- [[Steve Witkoff]] *founder; sold $120M stake* [[Witkoff Group]] · 2025-09 · $120M · [[C76 Russia-Linked Money Around the Family & the Envoys|C76]]
+- [[Steve Witkoff]] *founder; sold a $120M interest (Jan-Aug 2025, disclosed Sep 2025)* [[Witkoff Group]] · 2025 · $120M · [[C76 Russia-Linked Money Around the Family & the Envoys|C76]]
 - [[Alex Witkoff]] *runs operations of* [[Witkoff Group]] · [[C76 Russia-Linked Money Around the Family & the Envoys|C76]]
 - [[International Boxing Association (IBA)]] *affiliated Dubai entity* [[IB Challenger]] · [[C76 Russia-Linked Money Around the Family & the Envoys|C76]]
 - [[Jared Kushner]] *co-founded* [[Cadre]] · [[C76 Russia-Linked Money Around the Family & the Envoys|C76]]
@@ -417,7 +417,7 @@ The Russia-adjacent links are real but mostly indirect. Several are documented.
   - AP said her exit also followed scrutiny of ties to Greek energy executives, and the State Department OIG was reportedly looking into it; this is separate from the Deters allegation and unexplored here.
   - [[Kimberly Guilfoyle]] · [Source](https://www.foreignpolicyjournal.com/2026/10/14/u-s-ambassador-kimberly-guilfoyle-resigns-from-greece-post-amid-misconduct-allegations/)
 
-## Sources (48)
+## Sources (49)
 
 1. [Trump envoy has financial ties with former adviser to Putin's money man now leading Kremlin peace talks](https://bylinetimes.com/2025/12/01/trump-envoy-has-financial-ties-with-former-adviser-to-putins-money-man-now-leading-kremlin-peace-talks/) (Byline Times, 2025-12-01)
 2. [Top Trump negotiator retains partnership with Ukraine-sanctioned billionaire](https://popular.info/p/top-trump-negotiator-retains-partnership) (Popular Information, 2025)
@@ -467,6 +467,7 @@ The Russia-adjacent links are real but mostly indirect. Several are documented.
 46. [Eric Deters files defamation lawsuit against Kimberly Guilfoyle](https://www.allsides.com/news/2026-10-17-0700/politics-eric-deters-files-defamation-lawsuit-against-kimberly-guilfoyle) (AllSides, 2026-10-17)
 47. [Early backer of Facebook linked to Russia bank, Kushner platform](https://www.bloomberg.com/news/articles/2017-11-04/early-backer-of-facebook-linked-to-russia-bank-kushner-platform) (Bloomberg, 2017-11-04)
 48. [Jared Kushner linked to man named in Paradise Papers](https://m.washingtontimes.com/news/2017/nov/8/jared-kushner-linked-to-man-named-in-paradise-pape/) (Washington Times, 2017-11-08)
+49. [OGE Form 278e New Entrant Report, Steven C. Witkoff (certified 12 Dec 2025)](https://www.whitehouse.gov/wp-content/uploads/2025/12/Witkoff-Steven.pdf) (The White House, 2025-12-12)
 
 ## Full Report
 
@@ -490,7 +491,7 @@ Evidence grades: **documented** (filings, official records or several outlets), 
 - The two firms bought the XI project out of a ~$900M Dec 2021 foreclosure and renamed it One High Line. They refinanced it with a $1.15B JPMorgan/Tyko loan (Aug 2024) and a $525M loan (Jan 2026). They also co-own Banyan Cay (West Palm Beach) and announced a North Beach, Miami project with Sandor Scher in Feb 2025 (The Real Deal, Bloomberg).
 - Counteroffensive (Apr 2025), Popular Information and Byline Times (1 Dec 2025) present this as an undisclosed conflict during the Russia talks. They note that Ukraine sanctioned Blavatnik for ten years in Dec 2023 on unpublished grounds.
 - Byline's further claim that Blavatnik was a "former adviser" to Dmitriev is **unverified**. In the coverage we could see, the named pre-2022 RDIF foreign advisers are Leon Black and Stephen Schwarzman.
-- Witkoff sold a $120M stake in his firm in Sep 2025. His son Alex still runs it, so the family's exposure to the partnership continues. That point is **inferred**.
+- Witkoff's disclosure, published in September 2025, shows a $120M sale of an interest in his firm. The sale took place between January and 13 August 2025; the date and buyer are undisclosed. He still holds a stake valued over $50M. His son Alex still runs it, so the family's exposure to the partnership continues. That point is **inferred**.
 - Denials: Access Industries says Blavatnik and Witkoff "have never spoken about the Russia-Ukraine negotiations." Blavatnik says he exited Russia in 2022.
 
 #### 3. Dmitriev ↔ Witkoff and Kushner: "make money not war" (documented)
@@ -605,3 +606,10 @@ New sources: Kyiv Independent https://kyivindependent.com/trump-says-son-reimbur
 
 Second audit cross-check (from the C94 review):
 - **Al-Khayyat-Kushner Albania partnership.** Upgraded from single-source to documented: Ramez Al-Khayyat confirmed it to the NYT (19 Apr 2026), a Sazan Real Estate spokesperson confirmed it to CBS, and OCCRP cites registry filings. 'Former' dropped, since no source says it ended. Sources: Balkanweb https://www.balkanweb.com/en/Two-Qatari-billionaires-and-a-complex-network-of-companies-behind-the-Sazan-project/; CBS News https://cbsnews.com/news/albania-protests-jared-kushner-luxury-resort-plans-anti-corruption
+
+### Audit addendum (17 Nov 2026, holdings check)
+
+Result: **corrected** (verdict unchanged).
+
+- **The $120M sale.** It was disclosed in September 2025 but took place between January and 13 August 2025, because the same line appears in his new-entrant report (period to 13 August 2025) and in his annual report for calendar 2025. The relationship date has been changed accordingly.
+- **Source.** 278e, read in full: https://www.whitehouse.gov/wp-content/uploads/2025/12/Witkoff-Steven.pdf

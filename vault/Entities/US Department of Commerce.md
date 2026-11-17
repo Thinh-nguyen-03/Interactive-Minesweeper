@@ -8,8 +8,8 @@ aliases:
   - "US Commerce Department"
   - "US Commerce Department (BIS)"
   - "US Department of Commerce (CHIPS Program Office)"
-connections: 34
-claims: 17
+connections: 35
+claims: 18
 tags:
   - "entity"
   - "type/government"
@@ -21,17 +21,17 @@ Provided $50M in CHIPS incentives/equity in the Vulcan package.
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 17 checks |
-| Connections | 34 |
+| Appears in | 18 checks |
+| Connections | 35 |
 | Also known as | U.S. Commerce Department; U.S. Department of Commerce; US Commerce Department; US Commerce Department (BIS); US Department of Commerce (CHIPS Program Office) |
 
 ## How Other Checks Describe It
 
+- Department Lutnick leads; includes NOAA, BIS and NTIA
 - Issues chip export licences (BIS); led by Lutnick
 - Runs export controls through BIS; led by Lutnick
 - Approved Blackwell chip exports to Humain/G42
 - Issued UAE/G42 chip export authorizations.
-- CHIPS office, NOAA parent; led by Lutnick
 
 ## Appears in Checks
 
@@ -52,14 +52,16 @@ Provided $50M in CHIPS incentives/equity in the Vulcan package.
 - [[C80 Sovereign-Fund Megadeals That Need US Approval]] · Mostly accurate
 - [[C86 Major Trump Donors with Stakes in Federally Backed Companies]] · Partly accurate
 - [[C92 The White House Ballroom Donor List]] · Partly accurate
+- [[C104 Howard Lutnick Holdings, Divestiture & Recusals]] · Mostly accurate
 
 ## Relationships
 
-### Money (6)
+### Money (7)
 
 - [[US Department of Commerce]] *~10% government stake* [[Intel]] · 2025-08 · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
 - [[US Department of Commerce]] *$50M CHIPS LOI/equity* [[Vulcan Elements]] · 2025-11-03 · $50M · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
 - [[US Department of Commerce]] *$50M CHIPS incentives/equity to* [[Vulcan Elements]] · 2025-11-03 · $50M · [[C26 1789 Capital & the Vulcan Elements Magnet Deal|C26]]
+- [[US Department of Commerce]] *$1.6B letter of intent; definitive deal Jun 2026* [[USA Rare Earth]] · 2026-01 · $1.6B · [[C104 Howard Lutnick Holdings, Divestiture & Recusals|C104]]
 - [[US Department of Commerce]] *$1.6B CHIPS LOI for ~10% stake* [[USA Rare Earth]] · 2026-01-26 · $1.6B · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]]
 - [[US Department of Commerce]] *definitive CHIPS agreements: $277M funding + $1.3B loan for ~16.1M shares + warrants* [[USA Rare Earth]] · 2026-06-03 · $1.6B · [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department|C77]]
 - [[US Department of Commerce]] *~10% stake, $277M funding + $1.3B loan* [[USA Rare Earth]] · 2026-06-03 · $1.58B · [[C86 Major Trump Donors with Stakes in Federally Backed Companies|C86]]
@@ -89,11 +91,12 @@ Provided $50M in CHIPS incentives/equity in the Vulcan package.
 - [[US Department of Commerce]] *licenses AI-chip exports of* [[Nvidia]] · [[C35 Howard Lutnick, Cantor Fitzgerald & Tether|C35]]
 - [[US Department of Commerce]] *licenses chips under* [[UAE AI chips deal]] · [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business|C50]]
 
-### Political (6)
+### Political (7)
 
 - [[Howard Lutnick]] *Secretary of* [[US Department of Commerce]] · 2025 · [[C60 Government Equity Stakes in Critical-Minerals Companies|C60]] [[C79 Lesser-Known Foreign Projects Tbilisi, South Korea, the Maldives & Vietnam|C79]]
 - [[Howard Lutnick]] *Secretary* [[US Department of Commerce]] · 2025-02 · [[C77 Greenland, Seabed Mining & Rare Earths Cantor-Linked Firms & the Commerce Department|C77]] [[C86 Major Trump Donors with Stakes in Federally Backed Companies|C86]]
 - [[Howard Lutnick]] *heads* [[US Department of Commerce]] · 2025-02 · [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business|C50]]
 - [[Howard Lutnick]] *Secretary of Commerce* [[US Department of Commerce]] · 2025-02-18 · [[C35 Howard Lutnick, Cantor Fitzgerald & Tether|C35]]
+- [[Howard Lutnick]] *Secretary of Commerce (confirmed 18 Feb 2025)* [[US Department of Commerce]] · 2025-02-18 · [[C104 Howard Lutnick Holdings, Divestiture & Recusals|C104]]
 - [[Donald Trump]] *reportedly approved curbs on chip diverters (3+ times)* [[US Department of Commerce]] · 2026 · [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business|C50]]
 - [[House Natural Resources Committee Democrats]] *asked whether Trump donors hold equity in stake companies* [[US Department of Commerce]] · 2026-02-02 · [[C86 Major Trump Donors with Stakes in Federally Backed Companies|C86]]

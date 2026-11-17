@@ -8,8 +8,8 @@ aliases:
   - "Tahnoon bin Zayed"
   - "Tahnoon bin Zayed Al Nahyan"
   - "spy sheikh"
-connections: 39
-claims: 23
+connections: 40
+claims: 24
 tags:
   - "entity"
   - "type/person"
@@ -23,8 +23,8 @@ UAE national security adviser, brother of the UAE president, MGX chairman; tied 
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 23 checks |
-| Connections | 39 |
+| Appears in | 24 checks |
+| Connections | 40 |
 | Also known as | Sheikh Tahnoon bin Zayed Al Nahyan; Tahnoon; Tahnoon bin Zayed; Tahnoon bin Zayed Al Nahyan; spy sheikh |
 
 ## How Other Checks Describe It
@@ -60,6 +60,7 @@ UAE national security adviser, brother of the UAE president, MGX chairman; tied 
 - [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds]] · Mostly accurate
 - [[C94 The Sale of Lukoil's Foreign Assets & the Boehly Consortium]] · Mostly accurate
 - [[C97 Crypto Income During the Presidency]] · Mostly accurate
+- [[C105 Steve Witkoff Holdings, Divestiture & Overlapping Dealings]] · Mostly accurate
 
 ## Relationships
 
@@ -74,7 +75,7 @@ UAE national security adviser, brother of the UAE president, MGX chairman; tied 
 - [[Sheikh Tahnoon bin Zayed]] *chairs* [[G42]] · 2021 · [[C06 A UAE-Backed 49% Stake in World Liberty Financial|C06]] [[C07 MGX's $2 Billion Binance Investment Settled in USD1|C07]] [[C08 AI Chip Exports to the UAE, Stargate & a Possible Currency Swap|C08]] [[C34 David Sacks The AI & Crypto Adviser & His Investments|C34]] [[C57 The UAE Network Tahnoon, G42, MGX & Their US Deals|C57]] [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]] [[C80 Sovereign-Fund Megadeals That Need US Approval|C80]] [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds|C87]]
 - [[Sheikh Tahnoon bin Zayed]] *chairs* [[MGX]] · 2024-03 · [[C07 MGX's $2 Billion Binance Investment Settled in USD1|C07]] [[C08 AI Chip Exports to the UAE, Stargate & a Possible Currency Swap|C08]] [[C09 The Dropped Binance Case & the Pardon of Changpeng Zhao|C09]] [[C57 The UAE Network Tahnoon, G42, MGX & Their US Deals|C57]] [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]] [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]] [[C80 Sovereign-Fund Megadeals That Need US Approval|C80]] [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds|C87]]
 - [[Sheikh Tahnoon bin Zayed]] *Aryam holds 49% of (C06/C57)* [[World Liberty Financial]] · 2025 · [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds|C87]]
-- [[Sheikh Tahnoon bin Zayed]] *backs* [[Aryam Investment 1]] · 2025-01 · [[C06 A UAE-Backed 49% Stake in World Liberty Financial|C06]] [[C07 MGX's $2 Billion Binance Investment Settled in USD1|C07]] [[C14 Steve & Zach Witkoff A Middle East Envoy & World Liberty|C14]] [[C42 How World Liberty Insiders Took Money Out|C42]] [[C57 The UAE Network Tahnoon, G42, MGX & Their US Deals|C57]] [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]] [[C63 Shell Entities & Ownership Chains|C63]] [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]]
+- [[Sheikh Tahnoon bin Zayed]] *backs* [[Aryam Investment 1]] · 2025-01 · [[C06 A UAE-Backed 49% Stake in World Liberty Financial|C06]] [[C07 MGX's $2 Billion Binance Investment Settled in USD1|C07]] [[C14 Steve & Zach Witkoff A Middle East Envoy & World Liberty|C14]] [[C42 How World Liberty Insiders Took Money Out|C42]] [[C57 The UAE Network Tahnoon, G42, MGX & Their US Deals|C57]] [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]] [[C63 Shell Entities & Ownership Chains|C63]] [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]] [[C105 Steve Witkoff Holdings, Divestiture & Overlapping Dealings|C105]]
 - [[Sheikh Tahnoon bin Zayed]] *linked to / backs* [[Aryam Investment 1]] · 2025-01 · [[C08 AI Chip Exports to the UAE, Stargate & a Possible Currency Swap|C08]]
 - [[Sheikh Tahnoon bin Zayed]] *linked Aryam holds 49% of (C57)* [[World Liberty Financial]] · 2025-01 · [[C80 Sovereign-Fund Megadeals That Need US Approval|C80]]
 - [[Sheikh Tahnoon bin Zayed]] *reportedly backs* [[StringZ Holding RSC (DE) LLC]] · 2025-04 · [[C57 The UAE Network Tahnoon, G42, MGX & Their US Deals|C57]]

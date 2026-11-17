@@ -17,13 +17,15 @@ The Witkoffs are "much more than co-founders of World Liberty Financial": Zach W
    - In September 2025, Bloomberg reported, citing the White House, that he had *not yet* divested his crypto assets, including the WLF stake.
    - In October 2025, Senate Democrats said his disclosure showed he still held WLF crypto assets.
    - In February 2026, *White House counsel David Warrington* (not WLF) told CNN that Witkoff "has also divested from World Liberty Financial." WLF's spokesman, David Wachsman, said neither Trump nor Witkoff was involved in the Aryam deal.
-   - In September 2026, ABC News reported a disclosure, obtained by a watchdog, showing Witkoff took in about $107M in 2025 from a holding company tied to his WLF stake, up from $34M in 2024. White House spokeswoman Anna Kelly said he had "fully divested."
+   - In September 2026, ABC News reported his annual disclosure. White House spokeswoman Anna Kelly said he had "fully divested." The report itself (signed 29 Jul 2026, covering calendar 2025) shows $106,938,819 of distributions from Witkoff Holdings LLC. That is a broad holding company that owns his WLF and SC Financial interests as well as real-estate, golf and hotel businesses. The form splits the sum into $68,875,000 in cash and $38,063,819 in cryptocurrency, and does not attribute any of it to WLF. The comparison figure of $34,363,535 comes from his new-entrant report and covers January 2024 to August 2025, not 2024 alone.
+   - The annual report still lists the WLF interest for 2025 and records no disposal that year. It cannot show whether he held the interest in 2026, when the White House said he had divested.
    - No public divestiture certificate was found, and it is not documented who received his interest. Whether it went to family members is unverified.
 6. **The divestment was meant to avoid these questions.** *Insinuation.* Divestment was announced in May 2025, before the Aryam stake became public in February 2026. Avoiding conflict-of-interest questions is the normal reason ethics rules require divestment, so the reading is plausible. The White House says Witkoff recuses himself and does not discuss WLF in official work.
 
 ## Corrections
 - The divestment claim came mainly from the White House (Warrington to CNN, February 2026; Anna Kelly to ABC, September 2026). WLF's own statement, in May 2025, said only that divestment was "in process."
-- Divestment was reported as incomplete through at least September–October 2025. Witkoff also reported about $107M in 2025 income from the WLF-linked holding company.
+- Divestment was reported as incomplete through at least September–October 2025. Witkoff also reported $106,938,819 of 2025 distributions from Witkoff Holdings LLC. That holding company owns his WLF interest among other businesses, and the form does not say how much came from WLF.
+- 2026-11-17 (holdings audit): the "$34M in 2024" figure is the new-entrant report's $34,363,535 for January 2024 to August 2025. The annual report signed in July 2026 covers 2025 and still lists the WLF interest. No certificate of divestiture or recipient has been published.
 - Aryam held 49% and has been described as WLF's largest outside shareholder. It is an Abu Dhabi/UAE vehicle linked to Tahnoon, so "the Middle East" means the UAE.
 - Witkoff's title by 2026 was also "Special Envoy for Peace Missions."
 
@@ -48,3 +50,12 @@ The Witkoffs are "much more than co-founders of World Liberty Financial": Zach W
 12. Wikipedia, "Zach Witkoff" (background only). https://en.wikipedia.org/wiki/Zach_Witkoff
 
 *Note: direct page fetches were blocked in this environment, so these findings rest on search-result extracts of the cited pages. Some dates are given to the month only because the exact day could not be confirmed.*
+
+## Audit addendum (17 Nov 2026, holdings check)
+
+Result: **corrected** (verdict unchanged).
+
+- **The $107M.** The figure was re-read on Witkoff's 278e filings (whitehouse.gov, read in full). The payer is Witkoff Holdings LLC, not WLF. It is a broad holding company that owns WC Digital Fi LLC (WLF) and WC Digital SC LLC (SC Financial) as well as real-estate, golf and hotel businesses. The 2025 sum is $106,938,819: $68,875,000 in cash and $38,063,819 in cryptocurrency. The form does not attribute any of it to WLF.
+- **The $34M.** The $34,363,535 covers January 2024 to August 2025, not 2024 alone.
+- **The WLF interest.** The annual report signed on 29 July 2026 covers calendar 2025. It still lists the WLF interest and records no 2025 disposal. It cannot show his position in 2026.
+- **Sources.** 278e Annual Report 2026: https://www.whitehouse.gov/wp-content/uploads/2026/09/Witkoff-Steven-2026-Annual.pdf ; new-entrant report (certified): https://www.whitehouse.gov/wp-content/uploads/2025/12/Witkoff-Steven.pdf
