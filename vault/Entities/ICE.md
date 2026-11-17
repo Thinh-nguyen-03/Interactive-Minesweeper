@@ -26,4 +26,4 @@ ImmigrationOS contract
 
 ### Commercial (1)
 
-- [[ICE]] *ImmigrationOS contract* [[Palantir Technologies (PLTR)]] · 2025-04 · $30M · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
+- [[ICE]] *ImmigrationOS contract* [[Palantir]] · 2025-04 · $30M · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]

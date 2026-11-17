@@ -2,8 +2,8 @@
 id: "susie-wiles"
 kind: "entity"
 type: "person"
-connections: 13
-claims: 7
+connections: 15
+claims: 8
 tags:
   - "entity"
   - "type/person"
@@ -17,16 +17,16 @@ White House chief of staff; Gabbard allegedly briefed her on the intercept.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 7 checks |
-| Connections | 13 |
+| Appears in | 8 checks |
+| Connections | 15 |
 
 ## How Other Checks Describe It
 
+- White House chief of staff; reportedly required a co-host for the summit
 - White House chief of staff; ex-Ballard and Mercury lobbyist
 - White House chief of staff; formerly at Ballard Partners.
 - White House chief of staff; addressee of Garcia letter
 - White House chief of staff; former Ballard partner
-- White House chief of staff; ex-Ballard and Mercury
 
 ## Appears in Checks
 
@@ -37,6 +37,7 @@ White House chief of staff; Gabbard allegedly briefed her on the intercept.
 - [[C73 Qatar's Ties to People in & Around the Administration]] · Mostly accurate
 - [[C75 Congo Minerals Diplomacy Massad Boulos & Gentry Beach]] · Partly accurate
 - [[C93 Umar Kremlev, the International Boxing Association & US Decisions]] · Partly accurate
+- [[C106 David Sacks Holdings, Ethics Waivers & AI & Crypto Policy]] · Mostly accurate
 
 ## Relationships
 
@@ -45,11 +46,12 @@ White House chief of staff; Gabbard allegedly briefed her on the intercept.
 - [[Susie Wiles]] *former lobbyist at* [[Ballard Partners]] · 2011-2019 · [[C64 Lobbyists & Intermediaries with White House Access|C64]] [[C73 Qatar's Ties to People in & Around the Administration|C73]]
 - [[Susie Wiles]] *co-chair FL/DC offices* [[Mercury Public Affairs]] · 2022-02 · [[C64 Lobbyists & Intermediaries with White House Access|C64]]
 
-### Political (4)
+### Political (5)
 
 - [[Tulsi Gabbard]] *allegedly briefed on Kushner intercept* [[Susie Wiles]] · 2025 · [[C46 The Alleged Kushner Gulf Accounts|C46]] · unverified allegation
 - [[Susie Wiles]] *chief of staff* [[White House Trump administration]] · 2025-01 · [[C64 Lobbyists & Intermediaries with White House Access|C64]]
 - [[David Sacks]] *complained about Ballard-pushed XRP post* [[Susie Wiles]] · 2025-03 · [[C64 Lobbyists & Intermediaries with White House Access|C64]]
+- [[Susie Wiles]] *reportedly required a co-host for the AI summit* [[All-In podcast]] · 2025-07 · [[C106 David Sacks Holdings, Ethics Waivers & AI & Crypto Policy|C106]]
 - [[Robert Garcia]] *records request on Kremlev relationship* [[Susie Wiles]] · 2026-09-15 · [[C93 Umar Kremlev, the International Boxing Association & US Decisions|C93]]
 
 ### Commercial (4)

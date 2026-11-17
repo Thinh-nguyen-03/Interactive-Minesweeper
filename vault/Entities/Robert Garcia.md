@@ -2,8 +2,8 @@
 id: "robert-garcia"
 kind: "entity"
 type: "person"
-connections: 12
-claims: 5
+connections: 13
+claims: 6
 tags:
   - "entity"
   - "type/person"
@@ -15,12 +15,13 @@ US Representative (D-CA); House Oversight ranking member investigating Affinity.
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 5 checks |
-| Connections | 12 |
+| Appears in | 6 checks |
+| Connections | 13 |
 
 ## How Other Checks Describe It
 
 - Ranking member, House Oversight; letters to Boulos/Allam/Frangi
+- House Oversight ranking member; Jan 2026 IG request
 - House Oversight ranking member; wrote DoD IG
 - Ranking Democrat, House Oversight Committee.
 - House Oversight ranking Democrat
@@ -32,6 +33,7 @@ US Representative (D-CA); House Oversight ranking member investigating Affinity.
 - [[C66 The Extended Family's Ventures & Roles]] · Partly accurate
 - [[C76 Russia-Linked Money Around the Family & the Envoys]] · Partly accurate
 - [[C93 Umar Kremlev, the International Boxing Association & US Decisions]] · Partly accurate
+- [[C105 Steve Witkoff Holdings, Divestiture & Overlapping Dealings]] · Mostly accurate
 
 ## Relationships
 

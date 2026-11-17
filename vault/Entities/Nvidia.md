@@ -2,29 +2,29 @@
 id: "nvidia"
 kind: "entity"
 type: "company"
-connections: 20
-claims: 11
+connections: 23
+claims: 14
 tags:
   - "entity"
   - "type/company"
 ---
 # Nvidia
 
-AI-chip maker whose chips are allegedly diverted to China
+Chipmaker affected by export decisions; not listed in Sacks's waivers
 
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 11 checks |
-| Connections | 20 |
+| Appears in | 14 checks |
+| Connections | 23 |
 
 ## How Other Checks Describe It
 
+- Chipmaker; Cantor exposure and export decisions covered in C35/C50
+- AI-chip maker whose chips are allegedly diverted to China
 - $25M anonymous ballroom commitment (Oct 2025, per WaPo)
 - Maker of the advanced AI chips exported to the UAE
 - Chip supplier for UAE licences and Stargate UAE.
-- AIP co-founder; chip supplier under UAE licences
-- Maker of the advanced AI chips exported to UAE
 
 ## Appears in Checks
 
@@ -39,6 +39,9 @@ AI-chip maker whose chips are allegedly diverted to China
 - [[C69 Master Timeline Money Events & Government Actions]] · Partly accurate
 - [[C80 Sovereign-Fund Megadeals That Need US Approval]] · Mostly accurate
 - [[C92 The White House Ballroom Donor List]] · Partly accurate
+- [[C104 Howard Lutnick Holdings, Divestiture & Recusals]] · Mostly accurate
+- [[C106 David Sacks Holdings, Ethics Waivers & AI & Crypto Policy]] · Mostly accurate
+- [[C109 Other Senior Officials Waivers, Late Divestitures & Outside Interests]] · Mostly accurate
 
 ## Relationships
 

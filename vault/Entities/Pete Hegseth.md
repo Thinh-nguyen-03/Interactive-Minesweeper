@@ -2,8 +2,8 @@
 id: "pete-hegseth"
 kind: "entity"
 type: "person"
-connections: 13
-claims: 6
+connections: 15
+claims: 7
 tags:
   - "entity"
   - "type/person"
@@ -15,8 +15,8 @@ Defense Secretary; accepted jet; signed Idaho facility deal
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 6 checks |
-| Connections | 13 |
+| Appears in | 7 checks |
+| Connections | 15 |
 
 ## How Other Checks Describe It
 
@@ -24,6 +24,7 @@ Defense Secretary; accepted jet; signed Idaho facility deal
 - US Defense Secretary; accepted the jet on 21 May 2025
 - Defense Secretary; recipient of Warren letters
 - Secretary of Defense/War
+- Defense secretary.
 
 ## Appears in Checks
 
@@ -33,6 +34,7 @@ Defense Secretary; accepted jet; signed Idaho facility deal
 - [[C73 Qatar's Ties to People in & Around the Administration]] · Mostly accurate
 - [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts]] · Mostly accurate
 - [[C103 Insider-Trading Oversight Requests, Probes & Outcomes]] · Mostly accurate
+- [[C109 Other Senior Officials Waivers, Late Divestitures & Outside Interests]] · Mostly accurate
 
 ## Relationships
 
@@ -51,3 +53,7 @@ Defense Secretary; accepted jet; signed Idaho facility deal
 - [[Richard Blumenthal]] *co-signed letters to* [[Pete Hegseth]] · 2026-01-22 · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]
 - [[Elizabeth Warren]] *questioned on Unusual Machines contracts* [[Pete Hegseth]] · 2026-05-06 · [[C51 The Trump Sons' Drone Ventures & the Pentagon's Drone Dominance Programme|C51]]
 - [[Pete Hegseth]] *publicly backs him* [[Stephen Feinberg]] · 2026-09-05 · [[C74 Pentagon Investment Offices, Cerberus Alumni & No-Bid Contracts|C74]]
+
+### Legal (1)
+
+- [[Pete Hegseth]] *named defendant* [[Storch v. Hegseth]] · 2025-02-12 · [[C109 Other Senior Officials Waivers, Late Divestitures & Outside Interests|C109]]

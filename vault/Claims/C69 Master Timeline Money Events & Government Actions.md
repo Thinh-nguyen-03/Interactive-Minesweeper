@@ -234,7 +234,7 @@ We built a 272-event master timeline (277 before the Nov 2026 audit merged dupli
 - [[Microsoft]] · Company
 - [[Nvidia]] · Company
 - [[Pakistan]] · Country
-- [[Palantir Technologies (PLTR)]] · Company
+- [[Palantir]] · Company
 - [[Pentagon (Department of Defense)]] · Government body
 - [[Public Investment Fund (Saudi Arabia)]] · Fund
 - [[Qatar]] · Country
@@ -261,7 +261,7 @@ We built a 272-event master timeline (277 before the Nov 2026 audit merged dupli
 - [[Amazon]] *named donor ($5M per WaPo)* [[White House ballroom]] · 2025-10-23 · $5M · [[C69 Master Timeline Money Events & Government Actions|C69]]
 - [[Lockheed Martin]] *named donor ($10M per WaPo)* [[White House ballroom]] · 2025-10-23 · $10M · [[C69 Master Timeline Money Events & Government Actions|C69]]
 - [[Microsoft]] *named donor ($10M per WaPo)* [[White House ballroom]] · 2025-10-23 · $10M · [[C69 Master Timeline Money Events & Government Actions|C69]]
-- [[Palantir Technologies (PLTR)]] *named donor ($10M per WaPo)* [[White House ballroom]] · 2025-10-23 · $10M · [[C69 Master Timeline Money Events & Government Actions|C69]]
+- [[Palantir]] *named donor ($10M per WaPo)* [[White House ballroom]] · 2025-10-23 · $10M · [[C69 Master Timeline Money Events & Government Actions|C69]]
 - [[Ripple]] *named donor* [[White House ballroom]] · 2025-10-23 · [[C69 Master Timeline Money Events & Government Actions|C69]]
 - [[Charles Ergen]] *committed $25M in two tranches (per WaPo)* [[White House ballroom]] · 2025-12 · $25M · [[C69 Master Timeline Money Events & Government Actions|C69]]
 - [[Export-Import Bank of the United States]] *financed Reko Diq project* [[Barrick]] · 2025-12-10 · $1.25B · [[C69 Master Timeline Money Events & Government Actions|C69]]
@@ -297,7 +297,7 @@ We built a 272-event master timeline (277 before the Nov 2026 audit merged dupli
 - [[General Services Administration]] *OneGov 'Gemini for Government' agreement* [[Alphabet (Google)]] · 2025-08-21 · [[C69 Master Timeline Money Events & Government Actions|C69]]
 - [[Microsoft]] *OneGov discount (~$3.1B first-year savings)* [[General Services Administration]] · 2025-09-02 · [[C69 Master Timeline Money Events & Government Actions|C69]]
 - [[Pentagon (Department of Defense)]] *definitized F-35 Lots 18-19 ($12.5B modification)* [[Lockheed Martin]] · 2025-09-29 · $12.5B · [[C69 Master Timeline Money Events & Government Actions|C69]]
-- [[US Navy]] *ShipOS, up to $448M* [[Palantir Technologies (PLTR)]] · 2025-12-09 · $448M · [[C69 Master Timeline Money Events & Government Actions|C69]]
+- [[US Navy]] *ShipOS, up to $448M* [[Palantir]] · 2025-12-09 · $448M · [[C69 Master Timeline Money Events & Government Actions|C69]]
 - [[Binance]] *converted B-Token reserves into* [[USD1]] · 2025-12-11 · [[C69 Master Timeline Money Events & Government Actions|C69]]
 - [[Pakistan]] *signed USD1 payments MoU with* [[SC Financial Technologies]] · 2026-01-14 · [[C69 Master Timeline Money Events & Government Actions|C69]]
 - [[Zach Witkoff]] *signed Pakistan MoU for* [[SC Financial Technologies]] · 2026-01-14 · [[C69 Master Timeline Money Events & Government Actions|C69]] [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]]
@@ -314,7 +314,7 @@ We built a 272-event master timeline (277 before the Nov 2026 audit merged dupli
   - Of the ~37 named donors, several (Microsoft, Lockheed, Palantir, Ripple, Google) had federal licences, contracts or charters within about 50 days of the list.
   - Donation dates are unknown.
   - A fuller pass over all 67 spreadsheet entries (WaPo, Oct 2026) could date each gift.
-  - [[White House ballroom]] [[Microsoft]] [[Lockheed Martin]] [[Palantir Technologies (PLTR)]] [[Ripple]] [[Alphabet (Google)]] · [Source](https://thehill.com/homenews/administration/6152301-white-house-ballroom-private-donations/amp/)
+  - [[White House ballroom]] [[Microsoft]] [[Lockheed Martin]] [[Palantir]] [[Ripple]] [[Alphabet (Google)]] · [Source](https://thehill.com/homenews/administration/6152301-white-house-ballroom-private-donations/amp/)
 - **Pakistan: EXIM Reko Diq financing and the USD1 MoU**
   - A US financing decision toward Pakistan preceded Pakistan's MoU with a Witkoff/WLF-linked firm by about five weeks.
   - It is worth checking who in the US government pushed the Reko Diq financing.

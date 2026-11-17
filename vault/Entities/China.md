@@ -2,8 +2,8 @@
 id: "china"
 kind: "entity"
 type: "country"
-connections: 18
-claims: 12
+connections: 20
+claims: 13
 tags:
   - "entity"
   - "type/country"
@@ -17,8 +17,8 @@ Rival invoked to justify the family's crypto and robotics ventures.
 | | |
 |---|---|
 | Type | Country |
-| Appears in | 12 checks |
-| Connections | 18 |
+| Appears in | 13 checks |
+| Connections | 20 |
 
 ## How Other Checks Describe It
 
@@ -42,6 +42,7 @@ Rival invoked to justify the family's crypto and robotics ventures.
 - [[C71 Who Bought World Liberty Tokens]] · Mostly accurate
 - [[C80 Sovereign-Fund Megadeals That Need US Approval]] · Mostly accurate
 - [[C101 Trading Ahead of Presidential Announcements]] · Mostly accurate
+- [[C107 Scott Bessent & Paul Atkins Holdings & Divestiture Deadlines]] · Partly accurate
 
 ## Relationships
 
@@ -49,8 +50,9 @@ Rival invoked to justify the family's crypto and robotics ventures.
 
 - [[China]] *state sponsor of (per US officials)* [[Salt Typhoon]] · [[C37 The Reported Hack of Jared Kushner's Phone|C37]] · unverified allegation
 
-### Political (3)
+### Political (4)
 
+- [[Scott Bessent]] *led trade talks; announced soybean purchase commitments* [[China]] · 2025-10-30 · [[C107 Scott Bessent & Paul Atkins Holdings & Divestiture Deadlines|C107]]
 - [[Donald Trump]] *cast crypto as race with* [[China]] · 2026-07-02 · [[C01 The $TRUMP Meme Coin & Who Profited|C01]]
 - [[Donald Trump]] *justifies crypto as beating* [[China]] · [[C01 The $TRUMP Meme Coin & Who Profited|C01]]
 - [[Eric Trump]] *justifies ventures as beating* [[China]] · [[C28 Foundation Future Industries, Its Pentagon Contract & Eric Trump|C28]]

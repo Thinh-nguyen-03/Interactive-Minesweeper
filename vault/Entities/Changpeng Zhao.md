@@ -86,7 +86,7 @@ Binance founder and ultimate beneficial owner; pardoned by Trump.
 
 ### Media (1)
 
-- [[All-In Podcast]] *interviewed on pardon* [[Changpeng Zhao]] · 2026-02-10 · [[C09 The Dropped Binance Case & the Pardon of Changpeng Zhao|C09]]
+- [[All-In podcast]] *interviewed on pardon* [[Changpeng Zhao]] · 2026-02-10 · [[C09 The Dropped Binance Case & the Pardon of Changpeng Zhao|C09]]
 
 ### Commercial (1)
 

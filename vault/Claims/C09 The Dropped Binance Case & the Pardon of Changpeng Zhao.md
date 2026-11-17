@@ -142,7 +142,7 @@ The SEC dismissed its case against Binance and Zhao with prejudice on May 29, 20
 
 ## People & Organisations
 
-- [[All-In Podcast]] · Media
+- [[All-In podcast]] · Media
 - [[Binance]] · Company
 - [[CBS 60 Minutes]] · Media
 - [[Changpeng Zhao]] · Person
@@ -218,7 +218,7 @@ The SEC dismissed its case against Binance and Zhao with prejudice on May 29, 20
 
 - [[The Wall Street Journal]] *reported Binance helped build USD1* [[Binance]] · 2025-10 · [[C09 The Dropped Binance Case & the Pardon of Changpeng Zhao|C09]]
 - [[CBS 60 Minutes]] *interviewed on Zhao pardon* [[Donald Trump]] · 2025-11-02 · [[C09 The Dropped Binance Case & the Pardon of Changpeng Zhao|C09]]
-- [[All-In Podcast]] *interviewed on pardon* [[Changpeng Zhao]] · 2026-02-10 · [[C09 The Dropped Binance Case & the Pardon of Changpeng Zhao|C09]]
+- [[All-In podcast]] *interviewed on pardon* [[Changpeng Zhao]] · 2026-02-10 · [[C09 The Dropped Binance Case & the Pardon of Changpeng Zhao|C09]]
 
 ### Commercial (4)
 

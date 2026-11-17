@@ -4,8 +4,8 @@ kind: "entity"
 type: "law"
 aliases:
   - "Clarity Act"
-connections: 5
-claims: 3
+connections: 6
+claims: 4
 tags:
   - "entity"
   - "type/law"
@@ -17,8 +17,8 @@ Crypto market-structure bill Trump pushed.
 | | |
 |---|---|
 | Type | Law or policy |
-| Appears in | 3 checks |
-| Connections | 5 |
+| Appears in | 4 checks |
+| Connections | 6 |
 | Also known as | Clarity Act |
 
 ## How Other Checks Describe It
@@ -26,12 +26,14 @@ Crypto market-structure bill Trump pushed.
 - Crypto market-structure bill; passed House 2025, failed Senate cloture 2026-09-15
 - Market-structure bill that stalled in 2026
 - Market-structure bill; May 2026 letter timed to its markup
+- Crypto market-structure bill, unfinished in the Senate
 
 ## Appears in Checks
 
 - [[C11 The GENIUS & CLARITY Acts & the Family's Stablecoin]] · Mostly accurate
 - [[C54 The Crypto Revolving Door]] · Mostly accurate
 - [[C90 World Liberty's Token-Swap Pitch & Its Partners]] · Mostly accurate
+- [[C106 David Sacks Holdings, Ethics Waivers & AI & Crypto Policy]] · Mostly accurate
 
 ## Relationships
 

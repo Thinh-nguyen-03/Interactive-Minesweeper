@@ -1473,7 +1473,7 @@
   "display_title": "Howard Lutnick: Holdings, Divestiture & Recusals",
   "question": "What did Howard Lutnick divest, to whom, and which of his department's decisions touch his former businesses?",
   "topic": "regulators-and-enforcement",
-  "hidden": true
+  "hidden": false
  },
  {
   "id": "C105",
@@ -1489,7 +1489,7 @@
   "display_title": "Steve Witkoff: Holdings, Divestiture & Overlapping Dealings",
   "question": "What has Steve Witkoff disclosed and divested, and where do his diplomatic assignments overlap with his family's business counterparts?",
   "topic": "foreign-deals",
-  "hidden": true
+  "hidden": false
  },
  {
   "id": "C106",
@@ -1505,7 +1505,7 @@
   "display_title": "David Sacks: Holdings, Ethics Waivers & AI and Crypto Policy",
   "question": "What did David Sacks's ethics waivers allow him to keep, and which policies he shaped affect those holdings?",
   "topic": "tech-and-media-companies",
-  "hidden": true
+  "hidden": false
  },
  {
   "id": "C107",
@@ -1521,7 +1521,7 @@
   "display_title": "Scott Bessent & Paul Atkins: Holdings & Divestiture Deadlines",
   "question": "Did Scott Bessent and Paul Atkins divest on time, and which of their decisions touch former clients or holdings?",
   "topic": "regulators-and-enforcement",
-  "hidden": true
+  "hidden": false
  },
  {
   "id": "C108",
@@ -1537,7 +1537,7 @@
   "display_title": "Pam Bondi & Todd Blanche: Prior Clients, Holdings & Recusals",
   "question": "Which Justice Department decisions touched the former clients or holdings of Pam Bondi and Todd Blanche, and were they recused?",
   "topic": "regulators-and-enforcement",
-  "hidden": true
+  "hidden": false
  },
  {
   "id": "C109",
@@ -1553,6 +1553,6 @@
   "display_title": "Other Senior Officials: Waivers, Late Divestitures & Outside Interests",
   "question": "Which other senior officials received ethics waivers or divested late, and what happened to the offices that oversee them?",
   "topic": "pardons-lobbyists-and-access",
-  "hidden": true
+  "hidden": false
  }
 ]

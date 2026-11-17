@@ -2,8 +2,8 @@
 id: "russia"
 kind: "entity"
 type: "country"
-connections: 9
-claims: 4
+connections: 10
+claims: 5
 tags:
   - "entity"
   - "type/country"
@@ -17,13 +17,14 @@ Kremlin approval is required; confirmed on 21 Oct 2026 that it is discussing Luk
 | | |
 |---|---|
 | Type | Country |
-| Appears in | 4 checks |
-| Connections | 9 |
+| Appears in | 5 checks |
+| Connections | 10 |
 
 ## How Other Checks Describe It
 
 - GRU's state; counterpart in the Ukraine talks Kushner co-negotiates.
 - Counterparty in the Ukraine peace talks.
+- Negotiating counterpart
 - Kremlev's country
 
 ## Appears in Checks
@@ -32,6 +33,7 @@ Kremlin approval is required; confirmed on 21 Oct 2026 that it is discussing Luk
 - [[C76 Russia-Linked Money Around the Family & the Envoys]] · Partly accurate
 - [[C93 Umar Kremlev, the International Boxing Association & US Decisions]] · Partly accurate
 - [[C94 The Sale of Lukoil's Foreign Assets & the Boehly Consortium]] · Mostly accurate
+- [[C105 Steve Witkoff Holdings, Divestiture & Overlapping Dealings]] · Mostly accurate
 
 ## Relationships
 

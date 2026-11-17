@@ -50,6 +50,7 @@ Most of the claim's links are documented. Cantor was a top shareholder of Critic
 - 'Which Trump allies got shares': the only named investors (Schwarzman, Griffin, Cohen) come from a Senate letter, not from USAR disclosures.
 - Perpetua's 'Cantor-linked' status rests on a 2021 offering and analyst coverage. Its more consequential political link is its largest shareholder, John Paulson.
 - Gains: USAR traded around $9.30 in Oct 2026 against the $21.50 PIPE price, so PIPE buyers were not in profit at that date.
+- 2026-11-17 (holdings audit, C104/C105): Claimed: the NYT reported a recusal from matters involving '106 corporate entities'. The record shows: the figure, known only through secondary coverage of the NYT, could not be matched to his ethics agreement (Appendix A lists several hundred Cantor, BGC and Newmark subsidiaries); treat it as unverified. The agreement's one-year bar on specific-party matters involving Cantor, BGC and Newmark ended about February 2026, not indefinitely.
 
 ## What Is Unproven
 
@@ -162,13 +163,17 @@ Most of the claim's links are documented. Cantor was a top shareholder of Critic
 - Timeline: TMC filed within about a week of the order; NOAA's streamlined rule allowing consolidated applications came in January 2026; TMC filed the first consolidated exploration-plus-commercial-recovery application on 2026-02-06; NOAA found it in substantial compliance around 2026-03-09 and received an amended application on 2026-03-19, then found it in full compliance around 2026-04-28 to 05-01; Federal Register publication, with a notice of intent for an EIS on 2026-08-17; public comment closed 2026-10-19; TMC expects a decision by end of Q1 2027.
 - No commercial permit had been issued as of Nov 2026.
 - Earthjustice and others are suing over NOAA's certification of a TMC USA exploration application.
-- Recusal: the NYT reported in 2025 that Lutnick's ethics agreement would require him, at least initially, to recuse from matters involving 106 corporate entities.
-- Whether TMC is on that list, and whether Lutnick has stepped back from TMC decisions, was not found.
+- Recusal: secondary coverage attributes to the NYT (2025) a report that Lutnick would, at least initially, recuse from matters involving 106 corporate entities.
+- That figure could not be matched to his ethics agreement (read in full), whose Appendix A lists several hundred subsidiaries of Cantor, BGC and Newmark, so it is unverified.
+- Under the agreement, his bar on specific-party matters in which Cantor, BGC or Newmark is a party ran for one year after his resignation or as long as he held an interest, whichever was later, so it ended about February 2026; his 18 U.S.C.
+- 208 bar on matters affecting the firms' financial interests ended when he divested on 6 Oct 2025 (with a limited waiver for broad policy matters from 8 Jul 2025).
+- Being a Cantor client does not make TMC a party covered by those bars.
+- Whether Lutnick has stepped back from TMC decisions was not found.
 - Commerce says he complies with all divestiture and recusal requirements.
 - Korea Zinc took 5% of TMC for $85M in Jun 2025.
 - Amounts: 5%; $85M
 - Dates: 2026-05-21; April 2025; January 2026; 2026-02-06; 2026-03-09
-- Sources: [22](https://wtop.com/news/2026/05/trumps-push-for-deep-sea-mining-spawns-new-companies-and-fast-tracked-rules/) [23](https://www.bnnbloomberg.ca/business/2026/05/21/trumps-push-for-deep-sea-mining-spawns-new-companies-and-fast-tracked-rules/) [24](https://www.noaa.gov/news-release/noaa-advances-review-of-first-ever-deep-seabed-mining-commercial-recovery-application) [25](https://www.barchart.com/story/news/37171286/tmc-usa-files-first-consolidated-deep-seabed-mining-application-increasing-expected-commercial-recovery-permit-area-to-65-000-km2) [26](https://www.barchart.com/story/news/1644737/noaa-determines-tmc-usas-consolidated-deep-seabed-mining-application-is-in-full-compliance) [27](https://earthjustice.org/press/2026/lawsuit-challenges-trump-administration-greenlighting-of-international-deep-sea-mining-exploration-permit) [33](https://www.yahoo.com/news/howard-lutnick-trumps-commerce-pick-194648767.html) [28](https://www.mining.com/?p=1181501) <https://www.miningweekly.com/article/tmc-says-deep-sea-mining-application-makes-permitting-progress-2026-03-09>
+- Sources: [22](https://wtop.com/news/2026/05/trumps-push-for-deep-sea-mining-spawns-new-companies-and-fast-tracked-rules/) [23](https://www.bnnbloomberg.ca/business/2026/05/21/trumps-push-for-deep-sea-mining-spawns-new-companies-and-fast-tracked-rules/) [24](https://www.noaa.gov/news-release/noaa-advances-review-of-first-ever-deep-seabed-mining-commercial-recovery-application) [25](https://www.barchart.com/story/news/37171286/tmc-usa-files-first-consolidated-deep-seabed-mining-application-increasing-expected-commercial-recovery-permit-area-to-65-000-km2) [26](https://www.barchart.com/story/news/1644737/noaa-determines-tmc-usas-consolidated-deep-seabed-mining-application-is-in-full-compliance) [27](https://earthjustice.org/press/2026/lawsuit-challenges-trump-administration-greenlighting-of-international-deep-sea-mining-exploration-permit) [33](https://www.yahoo.com/news/howard-lutnick-trumps-commerce-pick-194648767.html) [28](https://www.mining.com/?p=1181501) <https://www.miningweekly.com/article/tmc-says-deep-sea-mining-application-makes-permitting-progress-2026-03-09> [56](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/436440318CFB67BE85258C1C003219C1/$FILE/Lutnick%2C%20Howard%20%20finalEA.pdf)
 
 ### 7. Cantor also raised money for a second NOAA seabed applicant, American Ocean Minerals (merging with Odyssey Marine).
 
@@ -406,8 +411,10 @@ Most of the claim's links are documented. Cantor was a top shareholder of Critic
 - **American Ocean Minerals / Odyssey: Cantor-placed raise and NOAA permits**
   - Cantor (Brandon Lutnick) co-arranged the >$150M placement for a second NOAA seabed applicant; investors and fees are undisclosed; check the S-4 for buyers and placement fees.
   - [[American Ocean Minerals]] [[Odyssey Marine Exploration]] [[Cantor Fitzgerald]] [[NOAA]] [[Howard Lutnick]] · [Source](https://www.bairdmaritime.com/amp/story/offshore/undersea-mining/odyssey-to-merge-with-ex-rio-tinto-ceos-deep-sea-mining-firm-in-1b-deal)
-- **Is TMC (or AOMC) on Lutnick's 106-entity recusal list?**
-  - The NYT reported an initial recusal from matters involving 106 entities; the OGE ethics agreement and any waivers would settle whether he is walled off from Cantor clients before NOAA.
+- **Has Lutnick stepped back from TMC or AOMC permit decisions?**
+  - A reported '106-entity' recusal figure could not be matched to his ethics agreement, and the agreement's one-year specific-party bar on Cantor, BGC and Newmark ended about February 2026.
+  - Any Commerce ethics-office screening of matters involving Cantor clients, or impartiality determinations under 5 C.F.R.
+  - 2635.502, is not public.
   - [[Howard Lutnick]] [[The Metals Company]] [[NOAA]] · [Source](https://www.yahoo.com/news/howard-lutnick-trumps-commerce-pick-194648767.html)
 - **GreenMet's U.S.-government access contracts in Africa**
   - Firm owned in part by Schiller and Sorial signed a $1M contract to help a DRC miner build U.S. government ties, the same model as Javelin's FARA work.
@@ -419,7 +426,7 @@ Most of the claim's links are documented. Cantor was a top shareholder of Critic
   - Trump's friend who pitched the Greenland purchase is linked to a consortium seeking hydropower at Greenland's largest lake; any U.S. financing (EXIM/DFC) would be a direct conflict test.
   - [[Ronald Lauder]] [[Greenland Development Partners]] [[Greenland]] [[Donald Trump]] · [Source](https://www.irishtimes.com/world/europe/2026/01/15/an-abandoned-building-a-billionaire-trump-pal-and-the-battle-for-greenland/)
 
-## Sources (55)
+## Sources (56)
 
 1. [Trump administration eyes stake in company developing Greenland rare earths mine (Reuters)](https://www.miningweekly.com/article/trump-administration-eyes-stake-in-company-developing-greenland-rare-earths-mine-2025-10-06) (Mining Weekly / Reuters, 2025-10-06)
 2. [US government pours cold water on Critical Metals deal](https://www.mining.com/us-government-pours-cold-water-on-critical-metals-deal) (Mining.com, 2025-10)
@@ -476,6 +483,7 @@ Most of the claim's links are documented. Cantor was a top shareholder of Critic
 53. [Billionaire Paulson sells stake in Alaska-focused Trilogy Metals](https://www.mining.com/web/billionaire-paulson-sells-stake-in-alaska-focused-trilogy-metals/) (Mining.com, 2025)
 54. [Revealed: Trump-linked firms cash in on mineral lobbying deals as US cuts aid](https://www.globalwitness.org/en/campaigns/transition-minerals/revealed-trump-linked-firms-cash-in-on-mineral-lobbying-deals-as-us-cuts-aid) (Global Witness, 2025)
 55. [Former Trump staffers, allies angle for minerals cash](https://www.eenews.net/articles/former-trump-staffers-allies-angle-for-minerals-cash/) (E&E News, 2025-08-26)
+56. [Howard Lutnick ethics agreement (21 Jan 2025)](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/436440318CFB67BE85258C1C003219C1/$FILE/Lutnick%2C%20Howard%20%20finalEA.pdf) (U.S. Office of Government Ethics, 2025-01-21)
 
 ## Full Report
 
@@ -527,7 +535,10 @@ Bolton told Forbes that Ronald Lauder gave Trump the idea of buying Greenland. P
   - 2026-10-19: public comment closed.
   - TMC expects a decision by the end of Q1 2027. No commercial permit has been issued.
 - Earthjustice is suing over NOAA's certification of a TMC USA exploration application.
-- **Recusal:** the NYT reported in 2025 that Lutnick would initially recuse himself from matters involving 106 entities. Whether TMC is on that list was not found. *Unverified.*
+- **Recusal:** secondary coverage says the NYT reported in 2025 that Lutnick would initially recuse himself from matters involving 106 entities. That figure could not be matched to his ethics agreement (read in full), whose Appendix A lists several hundred Cantor, BGC and Newmark subsidiaries. *Unverified.*
+  - Under the agreement, the bar on specific-party matters in which Cantor, BGC or Newmark is a party ran for one year after his resignation or as long as he held an interest, whichever was later. It ended about February 2026.
+  - The 18 U.S.C. 208 bar on matters affecting the firms' finances ended at divestiture on 6 October 2025. A limited waiver covered broad policy matters from 8 July 2025.
+  - Being a Cantor client does not make TMC a party covered by these bars. Whether Lutnick has stepped back from TMC decisions was not found.
 
 #### 5. A second Cantor-banked seabed applicant: American Ocean Minerals
 On 2026-04-08, AOMC agreed an all-stock merger with Odyssey Marine Exploration worth about $1B. Reuters reports that Citigroup and Cantor (chaired by Brandon Lutnick) arranged the private placement of more than $150M and act as AOMC's capital-markets advisers. NOAA advanced AOMC's Area-1 application on 2026-07-07. The investors' names and Cantor's fees are not public. We found no announcement that the merger has closed through Nov 2026. *Documented.*
@@ -626,3 +637,11 @@ Result: **upheld**. Re-checked:
 - **AOMC.** Citi and Cantor are confirmed as joint placement agents for the >$150M raise. No merger closing was found through Nov 2026.
 
 New sources: Mining Weekly https://www.miningweekly.com/article/tmc-says-deep-sea-mining-application-makes-permitting-progress-2026-03-09; Baird Maritime https://www.bairdmaritime.com/offshore/undersea-mining/odyssey-to-merge-with-ex-rio-tinto-ceos-deep-sea-mining-firm-in-1b-deal; Pulitzer Center https://pulitzercenter.org/stories/challenges-persist-tmcs-bid-mine-deep-sea-even-after-boost-trump
+
+### Audit addendum (17 Nov 2026, holdings check)
+
+Result: **corrected** (verdict unchanged).
+
+- **The "106 entities" figure.** It is known only through secondary coverage of the NYT and could not be matched to Lutnick's ethics agreement. It is now marked unverified.
+- **The one-year bar.** The bar on specific-party matters involving Cantor, BGC and Newmark ended about February 2026.
+- **Source.** Ethics agreement: https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/436440318CFB67BE85258C1C003219C1/$FILE/Lutnick%2C%20Howard%20%20finalEA.pdf

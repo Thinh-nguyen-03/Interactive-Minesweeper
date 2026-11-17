@@ -2,8 +2,8 @@
 id: "gao"
 kind: "entity"
 type: "government"
-connections: 4
-claims: 1
+connections: 6
+claims: 2
 tags:
   - "entity"
   - "type/government"
@@ -15,12 +15,17 @@ Says it cannot compel information; reported SEC staff losses; reviewing CFTC sta
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 1 check |
-| Connections | 4 |
+| Appears in | 2 checks |
+| Connections | 6 |
+
+## How Other Checks Describe It
+
+- Congress's audit agency.
 
 ## Appears in Checks
 
 - [[C103 Insider-Trading Oversight Requests, Probes & Outcomes]] · Mostly accurate
+- [[C109 Other Senior Officials Waivers, Late Divestitures & Outside Interests]] · Mostly accurate
 
 ## Relationships
 
@@ -29,3 +34,7 @@ Says it cannot compel information; reported SEC staff losses; reviewing CFTC sta
 - [[House Financial Services Committee Democrats]] *asked to investigate; GAO said it cannot compel information* [[Government Accountability Office]] · 2025-04-10 · [[C103 Insider-Trading Oversight Requests, Probes & Outcomes|C103]]
 - [[Government Accountability Office]] *found 18% staff loss in FY2025* [[Securities and Exchange Commission]] · 2026-03 · [[C103 Insider-Trading Oversight Requests, Probes & Outcomes|C103]]
 - [[Elizabeth Warren]] *requested review of CFTC staffing; starts Dec 2026* [[Government Accountability Office]] · 2026-07 · [[C103 Insider-Trading Oversight Requests, Probes & Outcomes|C103]]
+
+### Political (1)
+
+- [[Eric Ueland]] *nominated Comptroller General* [[Government Accountability Office]] · 2026-11-16 · [[C109 Other Senior Officials Waivers, Late Divestitures & Outside Interests|C109]]

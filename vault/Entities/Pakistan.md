@@ -2,8 +2,8 @@
 id: "pakistan"
 kind: "entity"
 type: "country"
-connections: 18
-claims: 6
+connections: 19
+claims: 7
 tags:
   - "entity"
   - "type/country"
@@ -15,16 +15,16 @@ Hired Trump-tied lobbyists in 2025 and signed WLF, minerals and drone deals.
 | | |
 |---|---|
 | Type | Country |
-| Appears in | 6 checks |
-| Connections | 18 |
+| Appears in | 7 checks |
+| Connections | 19 |
 
 ## How Other Checks Describe It
 
 - Javelin's first foreign client (2025), via Seiden Law
 - Beach's Jan 2025 investment delegation destination.
+- Signed WLF and SC Financial agreements in 2025-2026
 - Signed USD1 MoU with SC Financial (Jan 2026)
 - Hired several Trump-tied firms in 2025
-- State
 
 ## Appears in Checks
 
@@ -34,6 +34,7 @@ Hired Trump-tied lobbyists in 2025 and signed WLF, minerals and drone deals.
 - [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs]] · Mostly accurate
 - [[C75 Congo Minerals Diplomacy Massad Boulos & Gentry Beach]] · Partly accurate
 - [[C83 Keith Schiller & George Sorial's Lobbying Clients]] · Mostly accurate
+- [[C105 Steve Witkoff Holdings, Divestiture & Overlapping Dealings]] · Mostly accurate
 
 ## Relationships
 
@@ -61,7 +62,7 @@ Hired Trump-tied lobbyists in 2025 and signed WLF, minerals and drone deals.
 - [[Pakistan]] *Nobel Peace Prize nomination* [[Donald Trump]] · 2025-06-21 · [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs|C72]]
 - [[Pakistan]] *brokered US-Iran talks* [[Iran]] · 2026-04 · [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs|C72]]
 
-### Commercial (8)
+### Commercial (9)
 
 - [[Gentry Beach]] *led investor delegation to* [[Pakistan]] · 2025-01-30 · [[C75 Congo Minerals Diplomacy Massad Boulos & Gentry Beach|C75]]
 - [[Pakistan]] *Checkmate engagement on behalf of* [[Greystone Investment & Management LLC]] · 2025-05 · [[C64 Lobbyists & Intermediaries with White House Access|C64]]
@@ -70,4 +71,5 @@ Hired Trump-tied lobbyists in 2025 and signed WLF, minerals and drone deals.
 - [[Pakistan]] *signed USD1 payments MoU with* [[SC Financial Technologies]] · 2026-01-14 · [[C69 Master Timeline Money Events & Government Actions|C69]]
 - [[SC Financial Technologies]] *non-binding USD1 payments MoU* [[Pakistan]] · 2026-01-14 · [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs|C72]]
 - [[SC Financial Technologies]] *signed USD1 cross-border payments MoU with* [[Pakistan]] · 2026-01-14 · [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]]
+- [[SC Financial Technologies]] *signed USD1 payments MoU (signed by Zach Witkoff)* [[Pakistan]] · 2026-01-14 · [[C105 Steve Witkoff Holdings, Divestiture & Overlapping Dealings|C105]]
 - [[Powerus Corp]] *MoD limited procurement order + Army MoU (value undisclosed)* [[Pakistan]] · 2026-09-17 · [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs|C72]]

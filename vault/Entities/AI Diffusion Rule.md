@@ -2,8 +2,10 @@
 id: "ai-diffusion-rule"
 kind: "entity"
 type: "law"
-connections: 3
-claims: 1
+aliases:
+  - "AI diffusion rule"
+connections: 4
+claims: 2
 tags:
   - "entity"
   - "type/law"
@@ -15,12 +17,18 @@ Biden-era Jan 2025 export rule placing UAE in tier 2; rescinded May 2025
 | | |
 |---|---|
 | Type | Law or policy |
-| Appears in | 1 check |
-| Connections | 3 |
+| Appears in | 2 checks |
+| Connections | 4 |
+| Also known as | AI diffusion rule |
+
+## How Other Checks Describe It
+
+- Biden-era chip export rule the administration rescinded
 
 ## Appears in Checks
 
 - [[C08 AI Chip Exports to the UAE, Stargate & a Possible Currency Swap]] · Mostly accurate
+- [[C106 David Sacks Holdings, Ethics Waivers & AI & Crypto Policy]] · Mostly accurate
 
 ## Relationships
 

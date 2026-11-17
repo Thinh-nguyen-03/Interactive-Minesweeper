@@ -2,8 +2,8 @@
 id: "newsmax"
 kind: "entity"
 type: "media"
-connections: 12
-claims: 3
+connections: 14
+claims: 4
 tags:
   - "entity"
   - "type/media"
@@ -15,11 +15,12 @@ Pro-Trump network; ~$50M Qatari-royal investment 2019-20
 | | |
 |---|---|
 | Type | Media |
-| Appears in | 3 checks |
-| Connections | 12 |
+| Appears in | 4 checks |
+| Connections | 14 |
 
 ## How Other Checks Describe It
 
+- Broadcaster; Loeffler held stock in its parent.
 - Pro-Trump network; NYSE-listed March 2025
 - Conservative channel carried on Truth+
 
@@ -28,6 +29,7 @@ Pro-Trump network; ~$50M Qatari-royal investment 2019-20
 - [[C21 Trump Media's Paid Feed of Market-Moving Posts & Truth+]] · Mostly accurate
 - [[C73 Qatar's Ties to People in & Around the Administration]] · Mostly accurate
 - [[C84 Heritage Advisors & Sheikh Sultan bin Jassim]] · Mostly accurate
+- [[C109 Other Senior Officials Waivers, Late Divestitures & Outside Interests]] · Mostly accurate
 
 ## Relationships
 
@@ -36,10 +38,11 @@ Pro-Trump network; ~$50M Qatari-royal investment 2019-20
 - [[Sheikh Sultan bin Jassim Al Thani]] *invested ~$50M in* [[Newsmax]] · 2019 · $50M · [[C73 Qatar's Ties to People in & Around the Administration|C73]]
 - [[Heritage Advisors]] *invested ~$50M in* [[Newsmax]] · 2019-2020 · $50M · [[C84 Heritage Advisors & Sheikh Sultan bin Jassim|C84]]
 
-### Ownership (2)
+### Ownership (3)
 
 - [[Christopher Ruddy]] *founder; ~30% holder of* [[Newsmax]] · 2025-03 · [[C84 Heritage Advisors & Sheikh Sultan bin Jassim|C84]]
 - [[Naples Investment Holdco LLC]] *holds 19,737,553 Class B shares (~15%, our arithmetic) of* [[Newsmax]] · 2025-05 · [[C84 Heritage Advisors & Sheikh Sultan bin Jassim|C84]]
+- [[Kelly Loeffler]] *held parent-company stock* [[Newsmax]] · 2025-06 · [[C109 Other Senior Officials Waivers, Late Divestitures & Outside Interests|C109]]
 
 ### Legal (3)
 

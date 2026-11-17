@@ -4,8 +4,8 @@ kind: "entity"
 type: "person"
 aliases:
   - "Zachary Witkoff"
-connections: 36
-claims: 23
+connections: 37
+claims: 24
 tags:
   - "entity"
   - "type/person"
@@ -17,8 +17,8 @@ Co-founder of World Liberty Financial; announced USD1's use in the MGX-Binance d
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 23 checks |
-| Connections | 36 |
+| Appears in | 24 checks |
+| Connections | 37 |
 | Also known as | Zachary Witkoff |
 
 ## How Other Checks Describe It
@@ -54,6 +54,7 @@ Co-founder of World Liberty Financial; announced USD1's use in the MGX-Binance d
 - [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs]] · Mostly accurate
 - [[C82 Abu Dhabi Unannounced Trump Licensing Entities & StringZ]] · Mostly accurate
 - [[C90 World Liberty's Token-Swap Pitch & Its Partners]] · Mostly accurate
+- [[C105 Steve Witkoff Holdings, Divestiture & Overlapping Dealings]] · Mostly accurate
 
 ## Relationships
 
@@ -95,7 +96,7 @@ Co-founder of World Liberty Financial; announced USD1's use in the MGX-Binance d
 
 - [[Zach Witkoff]] *announced USD1 selection for MGX-Binance deal* [[USD1]] · 2025-05-01 · [[C07 MGX's $2 Billion Binance Investment Settled in USD1|C07]]
 
-### Commercial (6)
+### Commercial (7)
 
 - [[Zach Witkoff]] *reportedly involved in fundraising (NYT)* [[Special Situations Real Estate Credit Fund]] · 2024-2025 · [[C53 The Witkoff Family's Own Gulf Money|C53]]
 - [[Zach Witkoff]] *signed WLF letter of intent with* [[Pakistan Crypto Council]] · 2025-04-26 · [[C64 Lobbyists & Intermediaries with White House Access|C64]]
@@ -103,6 +104,7 @@ Co-founder of World Liberty Financial; announced USD1's use in the MGX-Binance d
 - [[Zach Witkoff]] *announced as settlement currency for MGX deal* [[USD1]] · 2025-05-01 · [[C08 AI Chip Exports to the UAE, Stargate & a Possible Currency Swap|C08]]
 - [[Zach Witkoff]] *signed Pakistan MoU for* [[SC Financial Technologies]] · 2026-01-14 · [[C69 Master Timeline Money Events & Government Actions|C69]] [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]]
 - [[Zach Witkoff]] *announced USD1 role in* [[MGX $2B investment in Binance]] · [[C07 MGX's $2 Billion Binance Investment Settled in USD1|C07]]
+- [[Zach Witkoff]] *co-founder and chief executive* [[World Liberty Financial]] · [[C105 Steve Witkoff Holdings, Divestiture & Overlapping Dealings|C105]]
 
 ## Themes
 

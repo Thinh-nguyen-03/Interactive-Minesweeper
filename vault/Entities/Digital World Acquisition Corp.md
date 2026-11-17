@@ -2,25 +2,30 @@
 id: "digital-world-acquisition-corp"
 kind: "entity"
 type: "company"
-connections: 2
-claims: 1
+connections: 3
+claims: 2
 tags:
   - "entity"
   - "type/company"
 ---
 # Digital World Acquisition Corp.
 
-SPAC that merged with TMTG
+SPAC whose shares paid Bondi's Renatus consulting fee
 
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 1 check |
-| Connections | 2 |
+| Appears in | 2 checks |
+| Connections | 3 |
+
+## How Other Checks Describe It
+
+- SPAC that merged with TMTG
 
 ## Appears in Checks
 
 - [[C86 Major Trump Donors with Stakes in Federally Backed Companies]] · Partly accurate
+- [[C108 Pam Bondi & Todd Blanche Prior Clients, Holdings & Recusals]] · Mostly accurate
 
 ## Relationships
 

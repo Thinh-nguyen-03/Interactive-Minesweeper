@@ -4,8 +4,8 @@ kind: "entity"
 type: "government"
 aliases:
   - "US Department of the Treasury"
-connections: 31
-claims: 13
+connections: 32
+claims: 14
 tags:
   - "entity"
   - "type/government"
@@ -17,8 +17,8 @@ Pays federal salaries; unused presidential expense allowance reverts to it
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 13 checks |
-| Connections | 31 |
+| Appears in | 14 checks |
+| Connections | 32 |
 | Also known as | US Department of the Treasury |
 
 ## How Other Checks Describe It
@@ -44,12 +44,14 @@ Pays federal salaries; unused presidential expense allowance reverts to it
 - [[C92 The White House Ballroom Donor List]] · Partly accurate
 - [[C94 The Sale of Lukoil's Foreign Assets & the Boehly Consortium]] · Mostly accurate
 - [[C95 The Presidential Salary Pledge]] · Partly accurate
+- [[C107 Scott Bessent & Paul Atkins Holdings & Divestiture Deadlines]] · Partly accurate
 
 ## Relationships
 
-### Money (3)
+### Money (4)
 
 - [[US Treasury]] *pays statutory salary of $400,000 a year to* [[Donald Trump]] · 2025-01-20 · $400K · [[C95 The Presidential Salary Pledge|C95]]
+- [[US Treasury]] *$20B exchange stabilization agreement; $2.5B drawn and repaid* [[Argentina]] · 2025-10 · $20B · [[C107 Scott Bessent & Paul Atkins Holdings & Divestiture Deadlines|C107]]
 - [[US Treasury]] *$20B swap line* [[Argentina]] · 2025-10 · $20B · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
 - [[US Treasury]] *discussed possible swap line with* [[United Arab Emirates]] · 2026-04 · [[C08 AI Chip Exports to the UAE, Stargate & a Possible Currency Swap|C08]]
 
@@ -71,5 +73,5 @@ Pays federal salaries; unused presidential expense allowance reverts to it
 
 ### Political (2)
 
-- [[Scott Bessent]] *Secretary* [[US Treasury]] · 2025-01 · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
+- [[Scott Bessent]] *Secretary* [[US Treasury]] · 2025-01 · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]] [[C107 Scott Bessent & Paul Atkins Holdings & Divestiture Deadlines|C107]]
 - [[Elizabeth Warren]] *letters on WLF illicit wallets, Aryam, AB, Aqua 1* [[US Treasury]] · 2025-11-18/2026-09-15 · [[C71 Who Bought World Liberty Tokens|C71]]

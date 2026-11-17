@@ -2,8 +2,8 @@
 id: "coinbase"
 kind: "entity"
 type: "company"
-connections: 17
-claims: 8
+connections: 19
+claims: 9
 tags:
   - "entity"
   - "type/company"
@@ -15,8 +15,8 @@ Crypto exchange whose SEC lawsuit was dropped.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 8 checks |
-| Connections | 17 |
+| Appears in | 9 checks |
+| Connections | 19 |
 
 ## How Other Checks Describe It
 
@@ -36,6 +36,7 @@ Crypto exchange whose SEC lawsuit was dropped.
 - [[C54 The Crypto Revolving Door]] · Mostly accurate
 - [[C69 Master Timeline Money Events & Government Actions]] · Partly accurate
 - [[C92 The White House Ballroom Donor List]] · Partly accurate
+- [[C108 Pam Bondi & Todd Blanche Prior Clients, Holdings & Recusals]] · Mostly accurate
 
 ## Relationships
 
@@ -48,6 +49,10 @@ Crypto exchange whose SEC lawsuit was dropped.
 - [[Coinbase]] *listed donor* [[White House ballroom]] · 2025-10-23 · [[C92 The White House Ballroom Donor List|C92]]
 - [[Coinbase]] *listed donor (amount undisclosed)* [[White House ballroom]] · 2025-10-23 · [[C33 Corporate Lawsuit Settlements & Donations to Trump's Library & Ballroom|C33]]
 - [[World Liberty Financial]] *sent more than $40M of borrowed stablecoins to Coinbase Prime* [[Coinbase]] · 2026-04-09 · $40M · [[C42 How World Liberty Insiders Took Money Out|C42]]
+
+### Ownership (1)
+
+- [[Todd Blanche]] *held shares ($1K-$15K) until 29 May 2025; crypto account* [[Coinbase]] · 2025-05-29 · [[C108 Pam Bondi & Todd Blanche Prior Clients, Holdings & Recusals|C108]]
 
 ### Regulatory (3)
 

@@ -2,8 +2,8 @@
 id: "massad-boulos"
 kind: "entity"
 type: "person"
-connections: 17
-claims: 4
+connections: 18
+claims: 5
 tags:
   - "entity"
   - "type/person"
@@ -15,14 +15,15 @@ Senior Advisor for Africa; Tiffany Trump's father-in-law; fronted DRC-Rwanda min
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 4 checks |
-| Connections | 17 |
+| Appears in | 5 checks |
+| Connections | 18 |
 
 ## How Other Checks Describe It
 
 - Tiffany Trump's father-in-law; Senior Advisor for Africa and Arab affairs since 2025
 - Senior adviser for Africa and Arab affairs; Tiffany Trump's father-in-law.
 - Senior adviser for Africa; father-in-law of Tiffany Trump
+- Senior adviser on Africa.
 
 ## Appears in Checks
 
@@ -30,6 +31,7 @@ Senior Advisor for Africa; Tiffany Trump's father-in-law; fronted DRC-Rwanda min
 - [[C66 The Extended Family's Ventures & Roles]] · Partly accurate
 - [[C75 Congo Minerals Diplomacy Massad Boulos & Gentry Beach]] · Partly accurate
 - [[C99 What Each Family Member Has Earned]] · Partly accurate
+- [[C109 Other Senior Officials Waivers, Late Divestitures & Outside Interests]] · Mostly accurate
 
 ## Relationships
 

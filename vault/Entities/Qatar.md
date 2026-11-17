@@ -2,8 +2,8 @@
 id: "qatar"
 kind: "entity"
 type: "country"
-connections: 41
-claims: 16
+connections: 44
+claims: 19
 tags:
   - "entity"
   - "type/country"
@@ -15,8 +15,8 @@ Gulf state that offered the jet, bought arms, hosts a Trump golf project.
 | | |
 |---|---|
 | Type | Country |
-| Appears in | 16 checks |
-| Connections | 41 |
+| Appears in | 19 checks |
+| Connections | 44 |
 
 ## How Other Checks Describe It
 
@@ -44,6 +44,9 @@ Gulf state that offered the jet, bought arms, hosts a Trump golf project.
 - [[C84 Heritage Advisors & Sheikh Sultan bin Jassim]] · Mostly accurate
 - [[C94 The Sale of Lukoil's Foreign Assets & the Boehly Consortium]] · Mostly accurate
 - [[C98 Trump Media, Licensing & Merchandise Income During the Presidency]] · Mostly accurate
+- [[C105 Steve Witkoff Holdings, Divestiture & Overlapping Dealings]] · Mostly accurate
+- [[C108 Pam Bondi & Todd Blanche Prior Clients, Holdings & Recusals]] · Mostly accurate
+- [[C109 Other Senior Officials Waivers, Late Divestitures & Outside Interests]] · Mostly accurate
 
 ## Relationships
 
@@ -101,8 +104,10 @@ Gulf state that offered the jet, bought arms, hosts a Trump golf project.
 
 - [[Qatar]] *rejected the report as 'absurd'* [[The New York Times]] · 2025-09-27 · [[C53 The Witkoff Family's Own Gulf Money|C53]]
 
-### Commercial (5)
+### Commercial (7)
 
+- [[Ballard Partners]] *registered foreign agent for Qatar's embassy, Bondi listed* [[Qatar]] · 2019 · [[C108 Pam Bondi & Todd Blanche Prior Clients, Holdings & Recusals|C108]]
+- [[Kash Patel]] *one-year covered relationship after embassy consulting* [[Qatar]] · 2024-11 · [[C109 Other Senior Officials Waivers, Late Divestitures & Outside Interests|C109]]
 - [[Qatar]] *signed LOA during Trump visit* [[MQ-9B sale to Qatar]] · 2025-05-14 · $1.96B · [[C16 Qatar The Gifted Jet, Arms Sales & a Trump Golf Project|C16]]
 - [[2026 possible military sales to Qatar ($5B)]] *possible sale to* [[Qatar]] · 2026 · [[C16 Qatar The Gifted Jet, Arms Sales & a Trump Golf Project|C16]]
 - [[Qatar]] *negotiated* [[$1.96B Qatar arms deal]] · $1.96B · [[C16 Qatar The Gifted Jet, Arms Sales & a Trump Golf Project|C16]]

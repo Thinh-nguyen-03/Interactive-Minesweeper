@@ -2,8 +2,8 @@
 id: "maga-inc"
 kind: "entity"
 type: "fund"
-connections: 21
-claims: 10
+connections: 23
+claims: 11
 tags:
   - "entity"
   - "type/fund"
@@ -15,11 +15,12 @@ Pro-Trump super PAC that received about $35M from Foris DAX
 | | |
 |---|---|
 | Type | Fund |
-| Appears in | 10 checks |
-| Connections | 21 |
+| Appears in | 11 checks |
+| Connections | 23 |
 
 ## How Other Checks Describe It
 
+- Pro-Trump super PAC; beneficiary of the 5 May 2025 dinner
 - Pro-Trump super PAC; host of the $1M-per-head dinner
 - Pro-Trump super PAC; hosted the $1M-per-head dinner
 - Pro-Trump super PAC; Boehly is a $1M+ donor.
@@ -37,6 +38,7 @@ Pro-Trump super PAC that received about $35M from Foris DAX
 - [[C69 Master Timeline Money Events & Government Actions]] · Partly accurate
 - [[C86 Major Trump Donors with Stakes in Federally Backed Companies]] · Partly accurate
 - [[C94 The Sale of Lukoil's Foreign Assets & the Boehly Consortium]] · Mostly accurate
+- [[C106 David Sacks Holdings, Ethics Waivers & AI & Crypto Policy]] · Mostly accurate
 
 ## Relationships
 
@@ -49,7 +51,7 @@ Pro-Trump super PAC that received about $35M from Foris DAX
 - [[Tyler Winklevoss]] *gave 79.35 BTC (>$5M)* [[MAGA Inc]] · 2026-06-19 · $5.01M · [[C52 Trump-Connected Lobbyists Hired by Crypto Firms & the SEC Enforcement Director's Exit|C52]]
 - [[Tyler Winklevoss]] *gave >$5M in BTC to* [[MAGA Inc]] · 2026-06-19 · $5M · [[C43 Overlap Between Dropped Enforcement Cases & Trump Donors|C43]]
 
-### Political (12)
+### Political (13)
 
 - [[Todd Boehly]] *$1M+ donor (NBC/FEC)* [[MAGA Inc]] · 2025 · [[C94 The Sale of Lukoil's Foreign Assets & the Boehly Consortium|C94]]
 - [[Todd Boehly]] *listed as $1M+ donor (amount unconfirmed)* [[MAGA Inc]] · 2025 · [[C86 Major Trump Donors with Stakes in Federally Backed Companies|C86]]
@@ -58,6 +60,7 @@ Pro-Trump super PAC that received about $35M from Foris DAX
 - [[Jeff Yass]] *$16M ($1M Jan 2025, $15M Mar 2025)* [[MAGA Inc]] · 2025-03 · $16M · [[C86 Major Trump Donors with Stakes in Federally Backed Companies|C86]]
 - [[Elizabeth Fago]] *attended $1M-per-head dinner* [[MAGA Inc]] · 2025-04 · [[C49 The Market for Pardon Lobbying|C49]]
 - [[Elizabeth Fago]] *attended $1M-per-head dinner (payment unclear)* [[MAGA Inc]] · 2025-04 · [[C36 Clemency for Other Crypto & Donor-Linked Figures|C36]]
+- [[David Sacks]] *co-headlined $1.5M-per-person fundraiser* [[MAGA Inc]] · 2025-05-05 · $1.5M · [[C106 David Sacks Holdings, Ethics Waivers & AI & Crypto Policy|C106]]
 - [[Greg Brockman]] *donation (with wife Anna)* [[MAGA Inc]] · 2025-09-12 · $25M · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Crypto.com]] *~$35M in contributions* [[MAGA Inc]] · 2025-2026 · $35M · [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]]
 - [[Stephen Schwarzman]] *donated $5M* [[MAGA Inc]] · 2025-H2 · $5M · [[C86 Major Trump Donors with Stakes in Federally Backed Companies|C86]]

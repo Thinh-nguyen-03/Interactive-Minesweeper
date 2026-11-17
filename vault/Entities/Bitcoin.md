@@ -4,8 +4,8 @@ kind: "entity"
 type: "asset"
 aliases:
   - "BTC"
-connections: 13
-claims: 6
+connections: 15
+claims: 7
 tags:
   - "entity"
   - "type/asset"
@@ -17,8 +17,8 @@ Cryptocurrency; price surged on regulatory anticipation when Trump took office.
 | | |
 |---|---|
 | Type | Asset |
-| Appears in | 6 checks |
-| Connections | 13 |
+| Appears in | 7 checks |
+| Connections | 15 |
 | Also known as | BTC |
 
 ## How Other Checks Describe It
@@ -37,6 +37,7 @@ Cryptocurrency; price surged on regulatory anticipation when Trump took office.
 - [[C35 Howard Lutnick, Cantor Fitzgerald & Tether]] · Mostly accurate
 - [[C50 Lutnick Nvidia Chip Curbs, Tether Inquiries & Cantor's Crypto Business]] · Mostly accurate
 - [[C101 Trading Ahead of Presidential Announcements]] · Mostly accurate
+- [[C108 Pam Bondi & Todd Blanche Prior Clients, Holdings & Recusals]] · Mostly accurate
 
 ## Relationships
 
@@ -45,8 +46,9 @@ Cryptocurrency; price surged on regulatory anticipation when Trump took office.
 - [[Trump Media & Technology Group]] *holds as treasury asset; marked-down losses drove FY2025 $712M loss* [[Bitcoin]] · 2025 · $712.3M · [[C24 Trump Media's ETFs, the TAE Fusion Merger & Its Losses|C24]]
 - [[Trump Media & Technology Group]] *raised ~$2.44B gross to build treasury in* [[Bitcoin]] · 2025-05-30 · $2.44B · [[C19 The Strategic Bitcoin Reserve, Trump Media's Bitcoin Treasury & a Cumberland Investor|C19]]
 
-### Ownership (4)
+### Ownership (5)
 
+- [[Todd Blanche]] *held $100K-$250K; gifted or sold 2 Jun 2025* [[Bitcoin]] · 2025-06-02 · [[C108 Pam Bondi & Todd Blanche Prior Clients, Holdings & Recusals|C108]]
 - [[American Bitcoin]] *mines and accumulates* [[Bitcoin]] · [[C18 Eric Trump, Metaplanet, American Bitcoin & Hut 8|C18]]
 - [[Metaplanet]] *holds as treasury* [[Bitcoin]] · [[C18 Eric Trump, Metaplanet, American Bitcoin & Hut 8|C18]]
 - [[Strategic Bitcoin Reserve]] *stockpiles* [[Bitcoin]] · [[C19 The Strategic Bitcoin Reserve, Trump Media's Bitcoin Treasury & a Cumberland Investor|C19]]

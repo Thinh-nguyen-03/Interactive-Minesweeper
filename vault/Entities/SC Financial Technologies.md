@@ -2,8 +2,10 @@
 id: "sc-financial-technologies"
 kind: "entity"
 type: "company"
-connections: 10
-claims: 4
+aliases:
+  - "SC Financial Technologies LLC"
+connections: 12
+claims: 5
 tags:
   - "entity"
   - "type/company"
@@ -15,12 +17,14 @@ Delaware WLF affiliate co-owning the USD1 brand; Zach Witkoff CEO.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 4 checks |
-| Connections | 10 |
+| Appears in | 5 checks |
+| Connections | 12 |
+| Also known as | SC Financial Technologies LLC |
 
 ## How Other Checks Describe It
 
 - Delaware co-owner of USD1 brand; Pakistan MoU counterparty
+- Stablecoin entity held through WC Digital SC LLC
 - WLF affiliate; Jan 2026 USD1 MOU with Pakistan
 - Delaware WLF affiliate co-owning USD1 brand
 
@@ -30,17 +34,19 @@ Delaware WLF affiliate co-owning the USD1 brand; Zach Witkoff CEO.
 - [[C69 Master Timeline Money Events & Government Actions]] · Partly accurate
 - [[C70 What the Trump Family's Foreign Partners Obtained from Washington]] · Mostly accurate
 - [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs]] · Mostly accurate
+- [[C105 Steve Witkoff Holdings, Divestiture & Overlapping Dealings]] · Mostly accurate
 
 ## Relationships
 
-### Ownership (4)
+### Ownership (5)
 
 - [[Steve Witkoff]] *lists as asset on Aug 2025 disclosure* [[SC Financial Technologies]] · 2025-08-13 · [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]]
+- [[Witkoff Holdings LLC]] *holds an interest via WC Digital SC LLC* [[SC Financial Technologies]] · 2026-07-29 · [[C105 Steve Witkoff Holdings, Divestiture & Overlapping Dealings|C105]]
 - [[SC Financial Technologies]] *co-owns brand with WLF* [[USD1]] · [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs|C72]]
 - [[SC Financial Technologies]] *affiliate of* [[World Liberty Financial]] · [[C64 Lobbyists & Intermediaries with White House Access|C64]]
 - [[Zach Witkoff]] *CEO* [[SC Financial Technologies]] · [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs|C72]]
 
-### Commercial (7)
+### Commercial (8)
 
 - [[SC Financial Technologies]] *MOU to integrate USD1* [[Pakistan]] · 2026-01 · [[C64 Lobbyists & Intermediaries with White House Access|C64]]
 - [[SC Financial Technologies]] *to integrate* [[USD1]] · 2026-01 · [[C64 Lobbyists & Intermediaries with White House Access|C64]]
@@ -48,4 +54,5 @@ Delaware WLF affiliate co-owning the USD1 brand; Zach Witkoff CEO.
 - [[Pakistan]] *signed USD1 payments MoU with* [[SC Financial Technologies]] · 2026-01-14 · [[C69 Master Timeline Money Events & Government Actions|C69]]
 - [[SC Financial Technologies]] *non-binding USD1 payments MoU* [[Pakistan]] · 2026-01-14 · [[C72 Pakistan A World Liberty Deal, Lobbyists, Minerals & Tariffs|C72]]
 - [[SC Financial Technologies]] *signed USD1 cross-border payments MoU with* [[Pakistan]] · 2026-01-14 · [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]]
+- [[SC Financial Technologies]] *signed USD1 payments MoU (signed by Zach Witkoff)* [[Pakistan]] · 2026-01-14 · [[C105 Steve Witkoff Holdings, Divestiture & Overlapping Dealings|C105]]
 - [[Zach Witkoff]] *signed Pakistan MoU for* [[SC Financial Technologies]] · 2026-01-14 · [[C69 Master Timeline Money Events & Government Actions|C69]] [[C70 What the Trump Family's Foreign Partners Obtained from Washington|C70]]

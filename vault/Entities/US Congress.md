@@ -5,8 +5,8 @@ type: "government"
 aliases:
   - "Congress"
   - "U.S. Congress"
-connections: 67
-claims: 43
+connections: 68
+claims: 44
 tags:
   - "entity"
   - "type/government"
@@ -20,8 +20,8 @@ Passed crypto legislation; questioned Selig.
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 43 checks |
-| Connections | 67 |
+| Appears in | 44 checks |
+| Connections | 68 |
 | Also known as | Congress; U.S. Congress |
 
 ## How Other Checks Describe It
@@ -77,6 +77,7 @@ Passed crypto legislation; questioned Selig.
 - [[C101 Trading Ahead of Presidential Announcements]] · Mostly accurate
 - [[C102 Trades by Officials, Family & Associates]] · Mostly accurate
 - [[C103 Insider-Trading Oversight Requests, Probes & Outcomes]] · Mostly accurate
+- [[C104 Howard Lutnick Holdings, Divestiture & Recusals]] · Mostly accurate
 
 ## Relationships
 

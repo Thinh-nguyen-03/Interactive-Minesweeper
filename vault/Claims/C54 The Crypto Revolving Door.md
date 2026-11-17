@@ -50,6 +50,10 @@ Most of the named moves are documented. Bo Hines left the White House crypto cou
 - Hines was first a Tether 'strategic adviser' (19 Aug 2025). He became CEO of the US arm/USAT on 12 Sep 2025, not on leaving the White House.
 - The '200+ officials' revolving-door count (Tech Transparency Project) dates from 2022 and does not measure this administration.
 - No 2025-26 SEC staff move to Coinbase or a16z was confirmed. The best-documented departures are CFTC leaders (Pham to MoonPay, Mersinger to Blockchain Association).
+- 2026-11-17 (holdings audit, C107): Claimed: Atkins held about $1M of Anchorage Digital equity and Securitize call options worth $2.5-5M. The record shows (as reported from his nominee filing): $250K-$500K each, plus $1M-$5M in Off the Chain Capital.
+- 2026-11-17 (holdings audit, C107): Claimed: 'up to ~$327M' in family assets. The record shows: Bloomberg Law reported Atkins and his wife worth 'at least $327 million'.
+- 2026-11-17 (holdings audit, C107): Added: Atkins certified on 18 Jul 2025 that all divestitures were completed on time, with no waivers or authorizations; OGE lists two Certificates of Divestiture (OGE-2025-099, OGE-2025-160). The Patomak buyer is still not public.
+- 2026-11-17 (holdings audit, C106): Claimed: the Sacks AI waiver dates from mid-2025. The record shows: it is undated; its text places it in March 2025, and it was posted in a June 2025 folder.
 
 ## What Is Unproven
 
@@ -68,6 +72,10 @@ Most of the named moves are documented. Bo Hines left the White House crypto cou
 - [[C25 Prediction Markets, the CFTC & Donald Trump Jr]] · Mostly accurate
 - [[C12 World Liberty's Bank Charter Application at the OCC]] · Mostly accurate
 - [[C34 David Sacks The AI & Crypto Adviser & His Investments]] · Mostly accurate
+
+## Checks That Build on This One
+
+- [[C107 Scott Bessent & Paul Atkins Holdings & Divestiture Deadlines]] · Partly accurate
 
 ## Sub-Claims
 
@@ -139,15 +147,16 @@ Most of the named moves are documented. Bo Hines left the White House crypto cou
 
 - Atkins founded Patomak Global Partners, whose clients reportedly included banks, crypto exchanges and DeFi platforms.
 - FTX signed on in early 2022.
-- His OGE disclosure, made public on 25 Mar 2025, showed up to ~$327M in family assets and up to ~$6M in crypto-related assets: about $1M of Anchorage Digital equity, Securitize call options worth $2.5-5M, and a small Pontoro stake.
+- His OGE disclosure, made public on 25 Mar 2025, showed Atkins and his wife worth at least $327M (Bloomberg Law) and about $6M in crypto-related assets: as reported, Anchorage Digital (Anchor Labs) equity of $250K-$500K, Securitize options of $250K-$500K, $1M-$5M in the Off the Chain Capital fund, and a small Pontoro stake.
 - He reported no direct crypto.
 - He pledged to resign from Patomak and divest within 90 days of confirmation, and to stay out of matters involving Patomak or its clients for one year.
 - On 6 Aug 2025 Sen. Warren asked him to name the buyer and the price; the SEC said he complies with his ethics agreement, and no buyer has been disclosed in what I found.
+- He signed a certification of ethics-agreement compliance on 18 Jul 2025 stating all resignations and divestitures were completed on time, with no waivers or authorizations, and OGE lists two Certificates of Divestiture for him (OGE-2025-099 and OGE-2025-160; see C107).
 - Barron's (Aug 2025) reported that defendants in a Trump Media lawsuit sought Patomak records on any TMTG engagement.
 - TMTG called this 'meritless' and denied engaging Patomak.
-- Amounts: ~$327M; ~$6M; about $1M; $2.5-5M
-- Dates: early 2022; 25 Mar 2025; 6 Aug 2025; Aug 2025
-- Sources: [18](https://cointelegraph.com/news/paul-atkins-sec-hearing-financial-disclosure-wife) [19](https://www.theblock.co/amp/post/348123/sec-chair-nominee-paul-atkins-held-shares-in-securitize-and-anchorage-digital-financial-disclosures-show-reports) [20](https://www.theblock.co/post/347827/sen-warren-presses-sec-nominee-paul-atkins-on-ftx-ties-trumps-crypto-conflicts) [21](https://www.banking.senate.gov/newsroom/minority/warren-calls-on-atkins-to-disclosure-buyer-of-lucrative-consulting-business) <https://www.thinkadvisor.com/amp/2025/08/06/sen-warren-presses-sec-chair-on-consulting-firm-sale/> [22](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/84398B6A308FF36C85258C58002C898F/$FILE/Atkins%2C Paul S.  finalEA.pdf) [23](https://news.bloomberglaw.com/us-law-week/trumps-sec-pick-brings-slew-of-potential-conflicts-to-new-role) [24](https://www.itiger.com/news/2559943634)
+- Amounts: at least $327M; about $6M; $250K-$500K; $1M-$5M
+- Dates: early 2022; 25 Mar 2025; 6 Aug 2025; 18 Jul 2025; Aug 2025
+- Sources: [18](https://cointelegraph.com/news/paul-atkins-sec-hearing-financial-disclosure-wife) [19](https://www.theblock.co/amp/post/348123/sec-chair-nominee-paul-atkins-held-shares-in-securitize-and-anchorage-digital-financial-disclosures-show-reports) [20](https://www.theblock.co/post/347827/sen-warren-presses-sec-nominee-paul-atkins-on-ftx-ties-trumps-crypto-conflicts) [21](https://www.banking.senate.gov/newsroom/minority/warren-calls-on-atkins-to-disclosure-buyer-of-lucrative-consulting-business) <https://www.thinkadvisor.com/amp/2025/08/06/sen-warren-presses-sec-chair-on-consulting-firm-sale/> [22](https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/84398B6A308FF36C85258C58002C898F/$FILE/Atkins%2C Paul S.  finalEA.pdf) [23](https://news.bloomberglaw.com/us-law-week/trumps-sec-pick-brings-slew-of-potential-conflicts-to-new-role) [24](https://www.itiger.com/news/2559943634) <https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/F00D85AB58CFE72985258CD6002C2199/$FILE/Atkins%20EA%20Certification%201%20of%201.pdf>
 
 ### 6. Jonathan Gould (OCC) came from crypto firm Bitfury.
 
@@ -167,11 +176,11 @@ Most of the named moves are documented. Bo Hines left the White House crypto cou
 
 **Confirmed**
 
-- Established in C34. He served as a special government employee under ethics waivers (crypto, 5 Mar 2025; AI, mid-2025) while Craft Ventures kept AI-linked stakes and a 7.8% BitGo stake.
-- He stepped down as czar around 26-27 Mar 2026 and became PCAST co-chair.
+- Established in C34. He served as a special government employee under ethics waivers (crypto, 5 Mar 2025; AI, undated but from March 2025 by its text, posted June 2025) while Craft Ventures kept AI-linked stakes and a 7.8% BitGo stake.
+- He left the czar post on 26 Mar 2026, saying his 130 SGE days were used up, and remains PCAST co-chair, a role he was designated for in 2025.
 - Sacks denies any conflict.
 - Amounts: 7.8%
-- Dates: 5 Mar 2025; mid-2025; 27 Mar 2026
+- Dates: 5 Mar 2025; March 2025; June 2025; 26 Mar 2026
 - Sources: <https://www.warren.senate.gov/newsroom/press-releases/warren-stansbury-members-of-congress-launch-investigation-into-trump-crypto-and-ai-czars-ethics-conflicts>
 
 ### 8. SEC/CFTC officials departed to crypto firms (Coinbase, a16z, etc.).
@@ -301,8 +310,8 @@ Most of the named moves are documented. Bo Hines left the White House crypto cou
 - [[Bo Hines]] *co-founder, retained one-third stake while in government* [[Nxum Group]] · 2025 · [[C54 The Crypto Revolving Door|C54]]
 - [[Paul Atkins]] *founder; pledged to divest within 90 days* [[Patomak Global Partners]] · 2025-03-20 · [[C54 The Crypto Revolving Door|C54]]
 - [[Steve Witkoff]] *co-founder; retained holdings per Aug 2025 disclosure* [[World Liberty Financial]] · 2025-08-13 · [[C54 The Crypto Revolving Door|C54]]
-- [[Paul Atkins]] *held ~$1M equity (pre-office)* [[Anchorage Digital]] · $1M · [[C54 The Crypto Revolving Door|C54]]
-- [[Paul Atkins]] *held $2.5-5M call options (pre-office)* [[Securitize]] · [[C54 The Crypto Revolving Door|C54]]
+- [[Paul Atkins]] *held $250K-$500K equity, as reported (pre-office)* [[Anchorage Digital]] · $250K · [[C54 The Crypto Revolving Door|C54]]
+- [[Paul Atkins]] *held $250K-$500K of options, as reported (pre-office)* [[Securitize]] · [[C54 The Crypto Revolving Door|C54]]
 - [[Todd Hines]] *CEO of* [[Nxum Group]] · [[C54 The Crypto Revolving Door|C54]]
 
 ### Family (3)
@@ -516,10 +525,11 @@ No published waiver or 18 U.S.C. 207 determination for Hines was found.
 
 - **Patomak's clients.** They reportedly included banks, crypto exchanges and DeFi platforms. FTX signed on in early 2022.
 - **Holdings.** His OGE disclosure, public on 25 Mar 2025, showed:
-  - up to about $327M in family assets
-  - up to about $6M in crypto-related assets: Anchorage Digital equity (about $1M), Securitize call options ($2.5-5M) and a small Pontoro stake
+  - Atkins and his wife worth at least $327M (Bloomberg Law)
+  - about $6M in crypto-related assets, as reported: Anchorage Digital (Anchor Labs) equity of $250K-$500K, Securitize options of $250K-$500K, $1M-$5M in the Off the Chain Capital fund, and a small Pontoro stake
   - no direct crypto
 - **Ethics pledge.** He committed to divest Patomak within 90 days of confirmation and to stay out of matters involving Patomak or its clients for one year.
+- **Compliance.** He signed a certification on 18 Jul 2025 that all resignations and divestitures were completed on time, with no waivers or authorizations. OGE lists two Certificates of Divestiture for him (OGE-2025-099 and OGE-2025-160; see C107).
 - **The sale.** Warren asked on 6 Aug 2025 who bought his stake and for how much. No disclosure of either was found. The SEC says he complies with his ethics agreement.
 - **Trump Media subpoena.** Barron's reported in August 2025 that defendants in a Trump Media lawsuit sought Patomak records on any TMTG engagement. TMTG called this "meritless."
 
@@ -532,7 +542,7 @@ No published waiver or 18 U.S.C. 207 determination for Hines was found.
 
 #### 7. Sacks (confirmed; see C34)
 
-He served as a special government employee under ethics waivers dated 5 Mar 2025 (crypto) and mid-2025 (AI) while keeping Craft Ventures stakes. He stepped down as czar around 26-27 Mar 2026.
+He served as a special government employee under ethics waivers dated 5 Mar 2025 (crypto) and, for AI, undated but from March 2025 by its text (posted June 2025), while keeping Craft Ventures stakes. He left the czar post on 26 Mar 2026, saying his 130 SGE days were used up, and remains PCAST co-chair.
 
 #### 8. SEC/CFTC departures to crypto firms (partly-accurate)
 
@@ -661,3 +671,12 @@ New sources:
 - Finance Magnates, "Fireblocks taps former SEC acting chair for stablecoin and tokenisation push", 2026-08-17. https://www.financemagnates.com/executives/moves/fireblocks-taps-former-sec-acting-chair-for-stablecoin-and-tokenisation-push/
 - The Block, "Senate confirms former blockchain executive Jonathan Gould to lead OCC", 2025-07-10. https://www.theblock.co/amp/post/362071/senate-confirms-former-blockchain-executive-jonathan-gould-to-lead-occ
 - MoonPay, "CFTC Acting Chairman Caroline D. Pham to Join MoonPay", 2025-12-17. https://www.moonpay.com/newsroom/caroline-d-pham
+
+#### Corrections, 17 Nov 2026 (holdings audit, C106/C107)
+
+- **Atkins's crypto holdings.** As reported from his nominee filing, his Anchorage and Securitize holdings were $250K-$500K each, not about $1M and $2.5M-$5M. Off the Chain Capital ($1M-$5M) was added.
+- **Family wealth.** "Up to ~$327M" becomes "at least $327M", as Bloomberg Law reported.
+- **Atkins's compliance.** Added his 18 Jul 2025 compliance certification (no waivers) and the two Certificates of Divestiture.
+- **Sacks's AI waiver.** It is dated to March 2025; it was posted in June 2025.
+
+The audit result is now **corrected**; the verdict is unchanged.

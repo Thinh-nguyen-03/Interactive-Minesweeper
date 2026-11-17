@@ -74,6 +74,7 @@ For most named partners, a family deal and a favourable US decision in the same 
 ## Checks That Build on This One
 
 - [[C88 Damac & Hussain Sajwani Licence Fees & a Data-Centre Pledge]] · Mostly accurate
+- [[C105 Steve Witkoff Holdings, Divestiture & Overlapping Dealings]] · Mostly accurate
 
 ## Sub-Claims
 

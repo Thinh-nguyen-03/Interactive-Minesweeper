@@ -2,29 +2,29 @@
 id: "anchorage-digital"
 kind: "entity"
 type: "company"
-connections: 14
-claims: 7
+connections: 15
+claims: 8
 tags:
   - "entity"
   - "type/company"
 ---
 # Anchorage Digital
 
-Crypto bank; Atkins held equity; TMTG custodian and USAT issuer
+USAT issuer; Atkins held $250K-$500K of equity (as reported) before taking office
 
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 7 checks |
-| Connections | 14 |
+| Appears in | 8 checks |
+| Connections | 15 |
 
 ## How Other Checks Describe It
 
+- Crypto bank; Atkins held equity; TMTG custodian and USAT issuer
+- Crypto bank (parent Anchor Labs); Atkins held equity until 2025
 - Crypto bank; reported custodian for Cantor's lending programme
 - OCC-chartered crypto bank; TMTG bitcoin custodian; USAT issuer
-- USAT issuer; Atkins held ~$1M equity before taking office
 - Federally chartered crypto bank; issuer of USAT
-- Named custodian for TMTG's bitcoin treasury
 
 ## Appears in Checks
 
@@ -35,6 +35,7 @@ Crypto bank; Atkins held equity; TMTG custodian and USAT issuer
 - [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles]] · Mostly accurate
 - [[C65 Officials Who Decided Matters Involving Former Clients or Partners]] · Mostly accurate
 - [[C92 The White House Ballroom Donor List]] · Partly accurate
+- [[C107 Scott Bessent & Paul Atkins Holdings & Divestiture Deadlines]] · Partly accurate
 
 ## Relationships
 
@@ -42,10 +43,11 @@ Crypto bank; Atkins held equity; TMTG custodian and USAT issuer
 
 - [[Tether]] *$100M equity investment* [[Anchorage Digital]] · 2026-02-05 · $100M · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]]
 
-### Ownership (2)
+### Ownership (3)
 
 - [[Paul Atkins]] *held equity before taking office* [[Anchorage Digital]] · 2025-03 · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
-- [[Paul Atkins]] *held ~$1M equity (pre-office)* [[Anchorage Digital]] · $1M · [[C54 The Crypto Revolving Door|C54]]
+- [[Paul Atkins]] *held $250K-$500K of equity, divested 2025* [[Anchorage Digital]] · 2025-07 · [[C107 Scott Bessent & Paul Atkins Holdings & Divestiture Deadlines|C107]]
+- [[Paul Atkins]] *held $250K-$500K equity, as reported (pre-office)* [[Anchorage Digital]] · $250K · [[C54 The Crypto Revolving Door|C54]]
 
 ### Regulatory (1)
 

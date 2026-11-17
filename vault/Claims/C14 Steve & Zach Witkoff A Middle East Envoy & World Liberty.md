@@ -38,9 +38,11 @@ Zach and Steve Witkoff co-founded World Liberty Financial, and Steve is Trump's 
 - World Liberty Financial now says Steve Witkoff has divested his stake (partly accurate)
 - **Claimed:** WLF 'now says' Steve Witkoff divested  
   **The record shows:** WLF said in May 2025 only that divestment was in process; the claim that it was complete came from White House counsel David Warrington (February 2026) and spokeswoman Anna Kelly (September 2026).
-- Divestment was reported incomplete as of September–October 2025 (Bloomberg; Senate Democrats). Witkoff also reported about $107M in 2025 income from his WLF-linked holding company, up from $34M in 2024.
+- Divestment was reported incomplete as of September–October 2025 (Bloomberg; Senate Democrats). Witkoff also reported $106,938,819 of 2025 distributions from Witkoff Holdings LLC, the holding company that owns his WLF interest among other businesses, against $34,363,535 on his new-entrant report.
 - The 'largest shareholder from the Middle East' is Aryam Investment 1 (Abu Dhabi/UAE, backed by Sheikh Tahnoon) with 49%, described as the largest outside shareholder.
 - Witkoff's title by 2026 was also given as Special Envoy for Peace Missions.
+- 2026-11-17 (holdings audit, C104/C105): Claimed: Witkoff received about $107M from a 'WLF-linked holding company', up from '$34M in 2024'. The record shows: the payer is Witkoff Holdings LLC, a broad holding company that owns WC Digital Fi (WLF) and WC Digital SC (SC Financial) as well as Banyan Cay, Ocean Terrace and golf and hotel operating companies; the $106,938,819 is split on the form into $68,875,000 cash and $38,063,819 cryptocurrency and is not attributed to WLF. The $34,363,535 comes from the new-entrant report, whose income period runs from January 2024 to the August 2025 filing date, so it is not a 2024-only figure.
+- 2026-11-17 (holdings audit, C104/C105): The annual report signed on 29 Jul 2026 covers calendar 2025 and still lists the WLF interest, with no 2025 disposal. Still no certificate of divestiture or recipient has been published. The report does not show his position in 2026, when the White House said he had divested.
 
 ## What Is Unproven
 
@@ -108,11 +110,13 @@ Zach and Steve Witkoff co-founded World Liberty Financial, and Steve is Trump's 
 - WLF posted in May 2025 only that he was 'in the process' of divesting.
 - Bloomberg reported on 2025-09-17 that he still held the WLF assets, and Senate Democrats said in October 2025 that his disclosure still showed WLF crypto.
 - White House counsel David Warrington told CNN in February 2026 that he 'has also divested', and spokeswoman Anna Kelly told ABC in September 2026 that he had 'fully divested'.
-- The disclosure ABC reported shows about $107M in 2025 income from a WLF-linked holding company.
+- His annual OGE report (signed 29 Jul 2026, covering calendar 2025) shows $106,938,819 of distributions from Witkoff Holdings LLC, a broad holding company that owns his WLF and SC Financial interests (through WC Digital Fi LLC and WC Digital SC LLC) as well as real-estate, golf and hotel businesses.
+- An endnote splits the sum into $68,875,000 in cash and $38,063,819 in cryptocurrency; the form does not attribute any of it to WLF.
+- The same report still lists the WLF interest for 2025 and records no disposal that year; it cannot show whether he held the interest in 2026, when the White House said he had divested.
 - No divestiture certificate or recipient of the stake was found.
-- Amounts: about $107M
+- Amounts: $106,938,819; $68,875,000; $38,063,819
 - Dates: May 2025; 2025-09-17; October 2025; February 2026; September 2026
-- Sources: [6](https://www.bloomberg.com/news/articles/2025-09-17/steve-witkoff-is-still-holding-trump-linked-crypto-assets) [3](https://www.aol.com/articles/uae-linked-firm-bought-major-043021118.html) [9](https://www.goodmorningamerica.com/news/story/steve-witkoff-earned-107m-trump-affiliated-crypto-venture-136307300) [8](https://www.schiff.senate.gov/news/press-releases/news-sen-schiff-leads-senate-democrats-in-demanding-answers-from-trump-envoy-steve-witkoff-on-failure-to-divest-ownership-of-world-liberty-financial-crypto-assets/)
+- Sources: [6](https://www.bloomberg.com/news/articles/2025-09-17/steve-witkoff-is-still-holding-trump-linked-crypto-assets) [3](https://www.aol.com/articles/uae-linked-firm-bought-major-043021118.html) [9](https://www.goodmorningamerica.com/news/story/steve-witkoff-earned-107m-trump-affiliated-crypto-venture-136307300) [8](https://www.schiff.senate.gov/news/press-releases/news-sen-schiff-leads-senate-democrats-in-demanding-answers-from-trump-envoy-steve-witkoff-on-failure-to-divest-ownership-of-world-liberty-financial-crypto-assets/) [13](https://www.whitehouse.gov/wp-content/uploads/2026/09/Witkoff-Steven-2026-Annual.pdf)
 
 ### 6. The divestment seems intended to avoid precisely these conflict questions.
 
@@ -153,6 +157,7 @@ Zach and Steve Witkoff co-founded World Liberty Financial, and Steve is Trump's 
 - [[United Arab Emirates]] · Country
 - [[US Congress]] · Government body
 - [[White House Trump administration]] · Government body
+- [[Witkoff Holdings LLC]] · Company
 - [[World Liberty Financial]] · Company
 - [[Zach Witkoff]] · Person
 
@@ -162,15 +167,16 @@ Zach and Steve Witkoff co-founded World Liberty Financial, and Steve is Trump's 
 
 - [[Aryam Investment 1]] *about $187M of upfront payment to Trump-family entities* [[Donald Trump]] · 2025 · $187M · [[C14 Steve & Zach Witkoff A Middle East Envoy & World Liberty|C14]]
 - [[Aryam Investment 1]] *at least $31M of upfront payment to Witkoff-family entities* [[Steve Witkoff]] · 2025 · $31M · [[C14 Steve & Zach Witkoff A Middle East Envoy & World Liberty|C14]]
-- [[World Liberty Financial]] *about $107M 2025 income via WLF-linked holding company* [[Steve Witkoff]] · 2025 · $107M · [[C14 Steve & Zach Witkoff A Middle East Envoy & World Liberty|C14]]
+- [[Witkoff Holdings LLC]] *paid $106,938,819 of 2025 distributions ($68.9M cash, $38.1M crypto; not attributed to WLF on the form)* [[Steve Witkoff]] · 2025 · $106.94M · [[C14 Steve & Zach Witkoff A Middle East Envoy & World Liberty|C14]] [[C42 How World Liberty Insiders Took Money Out|C42]]
 - [[Aryam Investment 1]] *bought 49% stake for* [[World Liberty Financial]] · 2025-01 · $500M · [[C14 Steve & Zach Witkoff A Middle East Envoy & World Liberty|C14]]
 
-### Ownership (7)
+### Ownership (8)
 
 - [[Alex Witkoff]] *co-founder* [[World Liberty Financial]] · 2024 · [[C14 Steve & Zach Witkoff A Middle East Envoy & World Liberty|C14]]
 - [[Steve Witkoff]] *co-founded (later co-founder emeritus)* [[World Liberty Financial]] · 2024 · [[C14 Steve & Zach Witkoff A Middle East Envoy & World Liberty|C14]]
 - [[Zach Witkoff]] *co-founder, CEO and board member* [[World Liberty Financial]] · 2024 · [[C14 Steve & Zach Witkoff A Middle East Envoy & World Liberty|C14]]
-- [[Sheikh Tahnoon bin Zayed]] *backs* [[Aryam Investment 1]] · 2025-01 · [[C06 A UAE-Backed 49% Stake in World Liberty Financial|C06]] [[C07 MGX's $2 Billion Binance Investment Settled in USD1|C07]] [[C14 Steve & Zach Witkoff A Middle East Envoy & World Liberty|C14]] [[C42 How World Liberty Insiders Took Money Out|C42]] [[C57 The UAE Network Tahnoon, G42, MGX & Their US Deals|C57]] [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]] [[C63 Shell Entities & Ownership Chains|C63]] [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]]
+- [[Witkoff Holdings LLC]] *holds Witkoff's interest via WC Digital Fi LLC (listed for 2025)* [[World Liberty Financial]] · 2025 · [[C14 Steve & Zach Witkoff A Middle East Envoy & World Liberty|C14]]
+- [[Sheikh Tahnoon bin Zayed]] *backs* [[Aryam Investment 1]] · 2025-01 · [[C06 A UAE-Backed 49% Stake in World Liberty Financial|C06]] [[C07 MGX's $2 Billion Binance Investment Settled in USD1|C07]] [[C14 Steve & Zach Witkoff A Middle East Envoy & World Liberty|C14]] [[C42 How World Liberty Insiders Took Money Out|C42]] [[C57 The UAE Network Tahnoon, G42, MGX & Their US Deals|C57]] [[C61 Lawyers & Law Firms That Recur Across the Deals|C61]] [[C63 Shell Entities & Ownership Chains|C63]] [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]] [[C105 Steve Witkoff Holdings, Divestiture & Overlapping Dealings|C105]]
 - [[Tahnoon-linked investment vehicle]] *secretly bought 49% for $500M* [[World Liberty Financial]] · 2025-01-16 · $500M · [[C06 A UAE-Backed 49% Stake in World Liberty Financial|C06]] [[C14 Steve & Zach Witkoff A Middle East Envoy & World Liberty|C14]]
 - [[Steve Witkoff]] *held stake, said to have divested* [[World Liberty Financial]] · [[C14 Steve & Zach Witkoff A Middle East Envoy & World Liberty|C14]]
 - [[Zach Witkoff]] *co-founded* [[World Liberty Financial]] · [[C04 World Liberty Financial Founding & Token Sale|C04]] [[C14 Steve & Zach Witkoff A Middle East Envoy & World Liberty|C14]]
@@ -206,7 +212,7 @@ Zach and Steve Witkoff co-founded World Liberty Financial, and Steve is Trump's 
 
 - [[Eric Trump]] *signed stake sale with* [[Aryam Investment 1]] · 2025-01 · [[C14 Steve & Zach Witkoff A Middle East Envoy & World Liberty|C14]]
 
-## Sources (12)
+## Sources (14)
 
 1. [UAE Sheikh secretly acquired 49% of Trump's World Liberty Financial days before inauguration: WSJ](https://www.theblock.co/news/deals/2026-02-01-uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj-387931) (The Block, 2026-02-01)
 2. [President Trump says he was unaware of $500 million UAE investment in World Liberty Financial](https://www.theblock.co/news/deals/2026-02-03-president-trump-says-he-was-unaware-of-500-million-uae-investment-in-world-liberty-financial-388191) (The Block, 2026-02-03)
@@ -220,6 +226,8 @@ Zach and Steve Witkoff co-founded World Liberty Financial, and Steve is Trump's 
 10. [Trump Envoy Witkoff's Income Triples to $107M From World Liberty Crypto Entity](https://www.cryptotimes.io/2026/09/09/trump-envoy-witkoffs-income-triples-to-107m-from-world-liberty-crypto-entity/) (The Crypto Times, 2026-09-09)
 11. [Steve Witkoff To Divest From CRE Firm As His White House Influence Grows](https://www.bisnow.com/news/national/commercial-real-estate/trumps-middle-east-envoy-divesting-from-real-estate-firm-he-founded-128498) (Bisnow, 2025-03)
 12. [Zach Witkoff](https://en.wikipedia.org/wiki/Zach_Witkoff) (Wikipedia, 2026-11)
+13. [OGE Form 278e Annual Report 2026 (covers calendar 2025), Steven C. Witkoff, signed 29 Jul 2026](https://www.whitehouse.gov/wp-content/uploads/2026/09/Witkoff-Steven-2026-Annual.pdf) (The White House, 2026-07-29)
+14. [OGE Form 278e New Entrant Report, Steven C. Witkoff (certified 12 Dec 2025)](https://www.whitehouse.gov/wp-content/uploads/2025/12/Witkoff-Steven.pdf) (The White House, 2025-12-12)
 
 ## Full Report
 
@@ -240,13 +248,15 @@ The Witkoffs are "much more than co-founders of World Liberty Financial": Zach W
    - In September 2025, Bloomberg reported, citing the White House, that he had *not yet* divested his crypto assets, including the WLF stake.
    - In October 2025, Senate Democrats said his disclosure showed he still held WLF crypto assets.
    - In February 2026, *White House counsel David Warrington* (not WLF) told CNN that Witkoff "has also divested from World Liberty Financial." WLF's spokesman, David Wachsman, said neither Trump nor Witkoff was involved in the Aryam deal.
-   - In September 2026, ABC News reported a disclosure, obtained by a watchdog, showing Witkoff took in about $107M in 2025 from a holding company tied to his WLF stake, up from $34M in 2024. White House spokeswoman Anna Kelly said he had "fully divested."
+   - In September 2026, ABC News reported his annual disclosure. White House spokeswoman Anna Kelly said he had "fully divested." The report itself (signed 29 Jul 2026, covering calendar 2025) shows $106,938,819 of distributions from Witkoff Holdings LLC. That is a broad holding company that owns his WLF and SC Financial interests as well as real-estate, golf and hotel businesses. The form splits the sum into $68,875,000 in cash and $38,063,819 in cryptocurrency, and does not attribute any of it to WLF. The comparison figure of $34,363,535 comes from his new-entrant report and covers January 2024 to August 2025, not 2024 alone.
+   - The annual report still lists the WLF interest for 2025 and records no disposal that year. It cannot show whether he held the interest in 2026, when the White House said he had divested.
    - No public divestiture certificate was found, and it is not documented who received his interest. Whether it went to family members is unverified.
 6. **The divestment was meant to avoid these questions.** *Insinuation.* Divestment was announced in May 2025, before the Aryam stake became public in February 2026. Avoiding conflict-of-interest questions is the normal reason ethics rules require divestment, so the reading is plausible. The White House says Witkoff recuses himself and does not discuss WLF in official work.
 
 ### Corrections
 - The divestment claim came mainly from the White House (Warrington to CNN, February 2026; Anna Kelly to ABC, September 2026). WLF's own statement, in May 2025, said only that divestment was "in process."
-- Divestment was reported as incomplete through at least September–October 2025. Witkoff also reported about $107M in 2025 income from the WLF-linked holding company.
+- Divestment was reported as incomplete through at least September–October 2025. Witkoff also reported $106,938,819 of 2025 distributions from Witkoff Holdings LLC. That holding company owns his WLF interest among other businesses, and the form does not say how much came from WLF.
+- 2026-11-17 (holdings audit): the "$34M in 2024" figure is the new-entrant report's $34,363,535 for January 2024 to August 2025. The annual report signed in July 2026 covers 2025 and still lists the WLF interest. No certificate of divestiture or recipient has been published.
 - Aryam held 49% and has been described as WLF's largest outside shareholder. It is an Abu Dhabi/UAE vehicle linked to Tahnoon, so "the Middle East" means the UAE.
 - Witkoff's title by 2026 was also "Special Envoy for Peace Missions."
 
@@ -271,3 +281,12 @@ The Witkoffs are "much more than co-founders of World Liberty Financial": Zach W
 12. Wikipedia, "Zach Witkoff" (background only). https://en.wikipedia.org/wiki/Zach_Witkoff
 
 *Note: direct page fetches were blocked in this environment, so these findings rest on search-result extracts of the cited pages. Some dates are given to the month only because the exact day could not be confirmed.*
+
+### Audit addendum (17 Nov 2026, holdings check)
+
+Result: **corrected** (verdict unchanged).
+
+- **The $107M.** The figure was re-read on Witkoff's 278e filings (whitehouse.gov, read in full). The payer is Witkoff Holdings LLC, not WLF. It is a broad holding company that owns WC Digital Fi LLC (WLF) and WC Digital SC LLC (SC Financial) as well as real-estate, golf and hotel businesses. The 2025 sum is $106,938,819: $68,875,000 in cash and $38,063,819 in cryptocurrency. The form does not attribute any of it to WLF.
+- **The $34M.** The $34,363,535 covers January 2024 to August 2025, not 2024 alone.
+- **The WLF interest.** The annual report signed on 29 July 2026 covers calendar 2025. It still lists the WLF interest and records no 2025 disposal. It cannot show his position in 2026.
+- **Sources.** 278e Annual Report 2026: https://www.whitehouse.gov/wp-content/uploads/2026/09/Witkoff-Steven-2026-Annual.pdf ; new-entrant report (certified): https://www.whitehouse.gov/wp-content/uploads/2025/12/Witkoff-Steven.pdf

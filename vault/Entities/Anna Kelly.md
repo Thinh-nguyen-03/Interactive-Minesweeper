@@ -2,8 +2,8 @@
 id: "anna-kelly"
 kind: "entity"
 type: "person"
-connections: 11
-claims: 7
+connections: 12
+claims: 8
 tags:
   - "entity"
   - "type/person"
@@ -17,16 +17,16 @@ White House spokesperson; the line that Trump's assets are in fully discretionar
 | | |
 |---|---|
 | Type | Person |
-| Appears in | 7 checks |
-| Connections | 11 |
+| Appears in | 8 checks |
+| Connections | 12 |
 
 ## How Other Checks Describe It
 
 - White House deputy press secretary who issued the conflict denials.
 - White House spokeswoman; said Witkoff 'fully divested' from WLF.
 - White House spokeswoman; called the reporting 'baseless smears'.
+- White House spokeswoman; said Witkoff 'fully divested'
 - White House spokesperson
-- White House spokeswoman
 
 ## Appears in Checks
 
@@ -37,13 +37,15 @@ White House spokesperson; the line that Trump's assets are in fully discretionar
 - [[C96 What Trump's Own Financial Disclosures Report]] · Confirmed
 - [[C97 Crypto Income During the Presidency]] · Mostly accurate
 - [[C102 Trades by Officials, Family & Associates]] · Mostly accurate
+- [[C105 Steve Witkoff Holdings, Divestiture & Overlapping Dealings]] · Mostly accurate
 
 ## Relationships
 
-### Political (4)
+### Political (5)
 
 - [[Anna Kelly]] *denied conflicts of interest on behalf of* [[Donald Trump]] · 2026-06-30 · [[C96 What Trump's Own Financial Disclosures Report|C96]]
 - [[Anna Kelly]] *asserted 'fully divested' from WLF* [[Steve Witkoff]] · 2026-09 · [[C14 Steve & Zach Witkoff A Middle East Envoy & World Liberty|C14]]
+- [[Anna Kelly]] *stated he has 'fully divested' from WLF* [[Steve Witkoff]] · 2026-09 · [[C105 Steve Witkoff Holdings, Divestiture & Overlapping Dealings|C105]]
 - [[Anna Kelly]] *called reporting 'baseless smears'* [[Princes and Thieves (book)]] · 2026-10 · [[C46 The Alleged Kushner Gulf Accounts|C46]] · unverified allegation
 - [[Anna Kelly]] *spokesperson for* [[White House Trump administration]] · [[C29 Trump Family Wealth Gains Since the Election|C29]]
 

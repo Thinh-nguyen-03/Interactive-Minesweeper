@@ -4,8 +4,9 @@ kind: "entity"
 type: "government"
 aliases:
   - "State Department"
-connections: 19
-claims: 9
+  - "US Department of State"
+connections: 21
+claims: 10
 tags:
   - "entity"
   - "type/government"
@@ -17,9 +18,9 @@ Approved possible military sales to Qatar.
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 9 checks |
-| Connections | 19 |
-| Also known as | State Department |
+| Appears in | 10 checks |
+| Connections | 21 |
+| Also known as | State Department; US Department of State |
 
 ## How Other Checks Describe It
 
@@ -40,6 +41,7 @@ Approved possible military sales to Qatar.
 - [[C73 Qatar's Ties to People in & Around the Administration]] · Mostly accurate
 - [[C75 Congo Minerals Diplomacy Massad Boulos & Gentry Beach]] · Partly accurate
 - [[C79 Lesser-Known Foreign Projects Tbilisi, South Korea, the Maldives & Vietnam]] · Mostly accurate
+- [[C105 Steve Witkoff Holdings, Divestiture & Overlapping Dealings]] · Mostly accurate
 
 ## Relationships
 
@@ -55,8 +57,9 @@ Approved possible military sales to Qatar.
 - [[US State Department]] *approved* [[KC-46A sale to Qatar]] · 2026-08-20 · $4.5B · [[C73 Qatar's Ties to People in & Around the Administration|C73]]
 - [[US State Department]] *notified F-35 sale to* [[US Congress]] · 2026-09-17 · $24.3B · [[C56 Saudi Arabia Family Deals Alongside US Policy Decisions|C56]]
 
-### Political (4)
+### Political (5)
 
+- [[Steve Witkoff]] *Special Envoy to the Middle East (per certified 278e)* [[US State Department]] · 2025-01 · [[C105 Steve Witkoff Holdings, Divestiture & Overlapping Dealings|C105]]
 - [[Massad Boulos]] *senior adviser at* [[US State Department]] · 2025-04 · [[C66 The Extended Family's Ventures & Roles|C66]]
 - [[US State Department]] *'fully supports'* [[Virtus Minerals]] · 2026-04 · [[C75 Congo Minerals Diplomacy Massad Boulos & Gentry Beach|C75]]
 - [[US State Department]] *reset-talks delegation to Tbilisi* [[Georgia]] · 2026-05-25 · [[C79 Lesser-Known Foreign Projects Tbilisi, South Korea, the Maldives & Vietnam|C79]]

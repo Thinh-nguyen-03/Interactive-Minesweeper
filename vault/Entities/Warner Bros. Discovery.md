@@ -2,8 +2,8 @@
 id: "warner-bros-discovery"
 kind: "entity"
 type: "company"
-connections: 7
-claims: 2
+connections: 8
+claims: 3
 tags:
   - "entity"
   - "type/company"
@@ -15,17 +15,19 @@ Acquired by Paramount Skydance (closed 2026-10-06); owns CNN
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 2 checks |
-| Connections | 7 |
+| Appears in | 3 checks |
+| Connections | 8 |
 
 ## How Other Checks Describe It
 
+- Target of bids reviewed by DOJ antitrust
 - Target of Paramount bid
 
 ## Appears in Checks
 
 - [[C68 Tech Billionaires as Counterparties & Beneficiaries]] · Mostly accurate
 - [[C73 Qatar's Ties to People in & Around the Administration]] · Mostly accurate
+- [[C108 Pam Bondi & Todd Blanche Prior Clients, Holdings & Recusals]] · Mostly accurate
 
 ## Relationships
 

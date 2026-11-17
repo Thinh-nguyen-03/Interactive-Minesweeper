@@ -52,6 +52,7 @@ The requests are well documented: at least ten letters from members of Congress 
 - The White House teleprompter operator's profit was first reported as 'close to $100,000'; the CFTC order puts it at $107,539.02, with a $65,000 penalty (about $172,500 in total).
 - The DOJ memo disbanding the National Cryptocurrency Enforcement Team (7 April 2025) was written by Deputy Attorney General Todd Blanche, not Attorney General Bondi, though it is often attributed to her.
 - 2026-11-16 (audit): the George Santos order is for manipulation of a contract on his own attendance, not insider trading; the Van Dyke indictment has five counts; the CFTC complaint and DOJ give slightly different profit figures (more than $404,000 versus about $409,881).
+- 2026-11-17: Claimed: CREW's 18 May 2026 letter went to 'OGE Acting Director Eric Ueland'. CREW did address it that way, but senators wrote the same day that his acting service had ended in early Dec 2025 and that OGE had no acting head; Keith Sonderling was named acting director on 23 June 2026 (C109).
 
 ## What Is Unproven
 
@@ -71,6 +72,10 @@ The requests are well documented: at least ten letters from members of Congress 
 - [[C58 Market-Moving Presidential Posts & Insider-Trading Allegations]] · Mostly accurate
 - [[C52 Trump-Connected Lobbyists Hired by Crypto Firms & the SEC Enforcement Director's Exit]] · Mostly accurate
 - [[C38 Polymarket Probes Closed Before 1789 Capital Invested]] · Mostly accurate
+
+## Checks That Build on This One
+
+- [[C109 Other Senior Officials Waivers, Late Divestitures & Outside Interests]] · Mostly accurate
 
 ## Sub-Claims
 
@@ -185,9 +190,9 @@ The requests are well documented: at least ten letters from members of Congress 
 
 - Documented: the White House Management Office emailed staff on 24 March 2026 that trading prediction or futures contracts on nonpublic information breaks ethics rules and can be criminal (C58); the White House disciplined the teleprompter operator; the CFTC Enforcement Division issued a prediction-markets advisory on 25 February 2026 citing CEA section 6(c)(1) and Rule 180.1; and the Defense Department issued a memo in October 2026 (Washington Post, via the House Oversight memo).
 - Not found: any new OGE legal advisory or rule on prediction markets or on trading around presidential announcements.
-- CREW asked OGE Acting Director Eric Ueland on 18 May 2026 to work with the President on a ban for political appointees and senior career staff (letter read in full); no OGE response was found.
-- Dates: 24 March 2026; 25 February 2026; October 2026; 18 May 2026
-- Sources: [49](https://qz.com/white-house-staff-warning-prediction-markets-insider-trading-041026) [23](https://www.cftc.gov/PressRoom/PressReleases/9185-26) [19](https://www.citizensforethics.org/wp-content/uploads/2026/05/Prediction-Markets-White-House-Letter.pdf) [18](https://oversight.house.gov/wp-content/uploads/2026/11/Prediction-Markets-Memo-11132026.pdf)
+- CREW wrote on 18 May 2026 to Eric Ueland as OGE acting director (senators wrote the same day that, according to records received by Congress, his acting service had ended in early Dec 2025 and OGE had no acting head; Acting Labor Secretary Keith Sonderling was named acting director on 23 June 2026), to work with the President on a ban for political appointees and senior career staff (letter read in full); no OGE response was found.
+- Dates: 24 March 2026; 25 February 2026; October 2026; 18 May 2026; early Dec 2025
+- Sources: [49](https://qz.com/white-house-staff-warning-prediction-markets-insider-trading-041026) [23](https://www.cftc.gov/PressRoom/PressReleases/9185-26) [19](https://www.citizensforethics.org/wp-content/uploads/2026/05/Prediction-Markets-White-House-Letter.pdf) [18](https://oversight.house.gov/wp-content/uploads/2026/11/Prediction-Markets-Memo-11132026.pdf) [53](https://www.schiff.senate.gov/wp-content/uploads/2026/05/26.05.18-Letter-from-Sen.-Schiff-and-Colleagues-to-WH-on-OGE-Director-Vacancy.pdf) [54](https://extapps2.oge.gov/web/OGE.nsf/News%20Releases/4AF39DE896B559A785258E20004424A7)
 
 ### 10. Enforcement staffing and policy at the SEC, CFTC and DOJ changed in ways that bear on capacity to investigate.
 
@@ -389,7 +394,7 @@ The requests are well documented: at least ten letters from members of Congress 
   - Cited by House Oversight as fitting an insider pattern; the platform told the committee it lacked identity records, and timing accounts conflict.
   - [[Hyperliquid]] [[House Committee on Oversight and Government Reform]] [[Donald Trump]] · [Source](https://oversight.house.gov/wp-content/uploads/2026/11/Prediction-Markets-Memo-11132026.pdf)
 
-## Sources (52)
+## Sources (54)
 
 1. [Letter to SEC Chair Atkins, SEC IG and Comptroller General requesting investigation](https://democrats-financialservices.house.gov/UploadedFiles/04.10.2025-_Ltr_SEC.GAOIT.pdf) (House Financial Services Committee Democrats, 2025-04-10)
 2. [Letter to SEC re DJT tariff insider trading](https://www.banking.senate.gov/imo/media/doc/20250411 Letter to SEC re DJT Tariff Insider Trading.pdf) (Senate Banking Committee minority, 2025-04-11)
@@ -443,6 +448,8 @@ The requests are well documented: at least ten letters from members of Congress 
 50. [Prosecutors urge judge to reject soldier's motion to dismiss Polymarket charges](https://www.goodmorningamerica.com/news/story/soldier-charged-polymarket-trades-seeks-dismissal-135797525) (ABC News (Good Morning America), 2026-08-20)
 51. [The '1011' crypto crash and the mystery of the $1 billion whale (Charles-Henry Monchau; republished by Investing.com on 2025-10-22 and cited by House Oversight)](https://blog.syzgroup.com/slow-food-for-thought/the-1011-crypto-crash-and-the-mystery-of-the-1-billion-whale) (Bank Syz, 2025-10-21)
 52. [Letter to Hyperliquid Labs (Chairman Comer to Jeff Yan)](https://oversight.house.gov/wp-content/uploads/2026/09/Hyperliquid-Letter-9.29.26.pdf) (House Committee on Oversight and Government Reform, 2026-09-29)
+53. [Sen. Schiff and colleagues to Susie Wiles on the OGE director vacancy](https://www.schiff.senate.gov/wp-content/uploads/2026/05/26.05.18-Letter-from-Sen.-Schiff-and-Colleagues-to-WH-on-OGE-Director-Vacancy.pdf) (Office of Sen. Adam Schiff, 2026-05-18)
+54. [President Trump has nominated Michael Chamberlain for OGE Director, and names Acting Director](https://extapps2.oge.gov/web/OGE.nsf/News%20Releases/4AF39DE896B559A785258E20004424A7) (Office of Government Ethics, 2026-06-24)
 
 ## Full Report
 
@@ -503,7 +510,7 @@ This builds on C58 (the market data and the first letters), C52 (the SEC Enforce
 | 2026-04-23 | CFTC complaint and SDNY indictment of Van Dyke | Not-guilty plea 2026-04-28; trial tentatively 2026-12-07 |
 | 2026-04-30 | Senate adopts S.Res. 708, barring senators and staff from prediction markets | Rule in force |
 | 2026-05-12 | Casten, Lieu and 14 House Democrats write to Acting AG Blanche | No reply found |
-| 2026-05-18 | CREW writes to OGE Acting Director Ueland seeking a ban for appointees | No OGE response or guidance found |
+| 2026-05-18 | CREW writes to Eric Ueland as OGE acting director seeking a ban for appointees. Senators wrote the same day that his acting service had ended in early Dec 2025 and OGE had no acting head; Keith Sonderling was named acting director on 23 Jun 2026 | No OGE response or guidance found |
 | 2026-05-22 | Comer (House Oversight) opens a probe of Kalshi and Polymarket; expanded 2026-09-29 | Staff memo 2026-11-13 (see below) |
 | 2026-07 | Rep. Torres asks the SEC to review the Truth API; Rep. Craig asks DOJ and the SEC | The SEC reportedly confirmed receipt and declined to say whether it would act |
 | 2026-07 | Warren asks GAO to review CFTC staffing | GAO to begin in December 2026 |
@@ -689,3 +696,9 @@ Result: **corrected** (verdict and confidence unchanged: mostly-accurate, medium
 - **Law:** STOCK Act sections 2(3) and 9(b) (adding Exchange Act 21A(h)) are confirmed against the text. CEA 4c(a)(3)-(4) is restated from the text. The researcher's own readings (tippee coverage; whether the CEA reaches the President) are marked as such. The CFTC's treatment of event contracts as swaps is flagged as disputed.
 - **Enforcement:** Santos is a manipulation case. Van Dyke: five counts, motion to dismiss opposed in August 2026, trial still set for 7 December 2026.
 - **Upheld:** Blanche wrote the 7 April 2025 NCET memo. The retracted CFTC referral rests on anonymous sources, alongside the enforcement director's on-record statement that the probe is open. No charges, SEC action or finding about Trump, his family or senior officials were found through 16 Nov 2026.
+
+#### Further audit (17 Nov 2026, applied from the review of C109)
+- **Correction:** CREW addressed its 18 May 2026 letter to Eric Ueland as OGE acting director. Sen. Schiff and colleagues wrote the same day that, "according to records received by Congress", Ueland "discontinued his service in early December 2025" and that OGE had no leader "even in an acting capacity" (letter read in full). OGE's release of 24 June 2026 says Keith Sonderling was named acting director on 23 June 2026.
+- **New sources:**
+  - Schiff and colleagues to Susie Wiles (2026-05-18): https://www.schiff.senate.gov/wp-content/uploads/2026/05/26.05.18-Letter-from-Sen.-Schiff-and-Colleagues-to-WH-on-OGE-Director-Vacancy.pdf
+  - OGE release (2026-06-24): https://extapps2.oge.gov/web/OGE.nsf/News%20Releases/4AF39DE896B559A785258E20004424A7

@@ -6,8 +6,8 @@ aliases:
   - "TMTG"
   - "Trump Media"
   - "Trump Media & Technology Group (DJT)"
-connections: 73
-claims: 28
+connections: 76
+claims: 31
 tags:
   - "entity"
   - "type/company"
@@ -19,8 +19,8 @@ Owner of Truth Social, largely owned by Trump's revocable trust; bitcoin treasur
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 28 checks |
-| Connections | 73 |
+| Appears in | 31 checks |
+| Connections | 76 |
 | Also known as | TMTG; Trump Media; Trump Media & Technology Group (DJT) |
 
 ## How Other Checks Describe It
@@ -61,10 +61,13 @@ Owner of Truth Social, largely owned by Trump's revocable trust; bitcoin treasur
 - [[C100 Net Worth Change & Legal Settlements Paid to Trump]] · Mostly accurate
 - [[C102 Trades by Officials, Family & Associates]] · Mostly accurate
 - [[C103 Insider-Trading Oversight Requests, Probes & Outcomes]] · Mostly accurate
+- [[C107 Scott Bessent & Paul Atkins Holdings & Divestiture Deadlines]] · Partly accurate
+- [[C108 Pam Bondi & Todd Blanche Prior Clients, Holdings & Recusals]] · Mostly accurate
+- [[C109 Other Senior Officials Waivers, Late Divestitures & Outside Interests]] · Mostly accurate
 
 ## Relationships
 
-### Money (25)
+### Money (26)
 
 - [[Yorkville Advisors]] *bought ~20M shares under $2.5B SEPA* [[Trump Media & Technology Group]] · 2024 · $450M · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]]
 - [[Yorkville Advisors]] *equity-line buyer, placement agent, ETF adviser* [[Trump Media & Technology Group]] · 2024-07 · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]
@@ -73,6 +76,7 @@ Owner of Truth Social, largely owned by Trump's revocable trust; bitcoin treasur
 - [[Sergio Gor]] *sold smaller holdings (reported)* [[Trump Media & Technology Group]] · 2025-03-27 · [[C102 Trades by Officials, Family & Associates|C102]]
 - [[Dan Scavino]] *sold $1M-$5M of stock (reported)* [[Trump Media & Technology Group]] · 2025-04-01 · $1M · [[C102 Trades by Officials, Family & Associates|C102]]
 - [[Pam Bondi]] *sold $1M-$5M of shares and $250K-$500K of warrants* [[Trump Media & Technology Group]] · 2025-04-02 · $1.25M · [[C102 Trades by Officials, Family & Associates|C102]]
+- [[Pam Bondi]] *sold $1M-$5M of shares and $250K-$500K of warrants (required divestiture)* [[Trump Media & Technology Group]] · 2025-04-02 · $1.25M · [[C108 Pam Bondi & Todd Blanche Prior Clients, Holdings & Recusals|C108]]
 - [[Pam Bondi]] *sold >$1M of shares on Apr 2, 2025* [[Trump Media & Technology Group]] · 2025-04-02 · $1M · [[C65 Officials Who Decided Matters Involving Former Clients or Partners|C65]]
 - [[DRW Investments]] *bought ~$100M of shares* [[Trump Media & Technology Group]] · 2025-05 · $100M · [[C67 Investors Who Appear in Several Trump-Family Vehicles|C67]]
 - [[DRW Investments]] *bought ~4M shares* [[Trump Media & Technology Group]] · 2025-05 · $100M · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]]
@@ -130,9 +134,10 @@ Owner of Truth Social, largely owned by Trump's revocable trust; bitcoin treasur
 - [[Securities and Exchange Commission]] *asked to probe Truth API (no probe confirmed)* [[Trump Media & Technology Group]] · 2026-07 · [[C21 Trump Media's Paid Feed of Market-Moving Posts & Truth+|C21]]
 - [[Securities and Exchange Commission]] *acknowledged complaint; no probe reported* [[Trump Media & Technology Group]] · 2026-07-29 · [[C41 Trump Media Feed Subscribers, the Senators' SEC Request, Departures & the CRO Treasury|C41]]
 
-### Advisory (9)
+### Advisory (10)
 
 - [[Kevin McGurn]] *adviser, then interim CEO* [[Trump Media & Technology Group]] · 2024-12 · [[C62 The Financiers, Custodians & Underwriters Behind Trump-Linked Vehicles|C62]]
+- [[Kash Patel]] *agreed to resign from board* [[Trump Media & Technology Group]] · 2025-01-28 · [[C109 Other Senior Officials Waivers, Late Divestitures & Outside Interests|C109]]
 - [[Robert Lighthizer]] *resigned from board of* [[Trump Media & Technology Group]] · 2026-03-06 · [[C41 Trump Media Feed Subscribers, the Senators' SEC Request, Departures & the CRO Treasury|C41]]
 - [[Devin Nunes]] *former CEO, stepped down* [[Trump Media & Technology Group]] · 2026-04 · [[C21 Trump Media's Paid Feed of Market-Moving Posts & Truth+|C21]]
 - [[Kevin McGurn]] *interim CEO of* [[Trump Media & Technology Group]] · 2026-04 · [[C21 Trump Media's Paid Feed of Market-Moving Posts & Truth+|C21]] [[C24 Trump Media's ETFs, the TAE Fusion Merger & Its Losses|C24]] [[C41 Trump Media Feed Subscribers, the Senators' SEC Request, Departures & the CRO Treasury|C41]] [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]
@@ -146,9 +151,10 @@ Owner of Truth Social, largely owned by Trump's revocable trust; bitcoin treasur
 
 - [[Cumberland (DRW)]] *denies quid pro quo with* [[Trump Media & Technology Group]] · [[C19 The Strategic Bitcoin Reserve, Trump Media's Bitcoin Treasury & a Cumberland Investor|C19]]
 
-### Legal (2)
+### Legal (3)
 
 - [[Trump Media & Technology Group]] *litigation opponents sought Patomak records on TMTG* [[Patomak Global Partners]] · 2025-08 · [[C54 The Crypto Revolving Door|C54]]
+- [[Trump Media & Technology Group]] *litigation opponents sought its records; TMTG denies engagement* [[Patomak Global Partners]] · 2025-08 · [[C107 Scott Bessent & Paul Atkins Holdings & Divestiture Deadlines|C107]]
 - [[Scott Glabe]] *general counsel* [[Trump Media & Technology Group]] · [[C78 The Blank-Cheque Companies Run by Trump Media's Interim Chief|C78]]
 
 ### Commercial (39)

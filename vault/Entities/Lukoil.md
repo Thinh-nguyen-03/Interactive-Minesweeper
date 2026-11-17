@@ -2,8 +2,8 @@
 id: "lukoil"
 kind: "entity"
 type: "company"
-connections: 11
-claims: 3
+connections: 12
+claims: 4
 tags:
   - "entity"
   - "type/company"
@@ -15,11 +15,12 @@ US-sanctioned Russian oil major (Oct 2025) forced to sell its foreign assets.
 | | |
 |---|---|
 | Type | Company |
-| Appears in | 3 checks |
-| Connections | 11 |
+| Appears in | 4 checks |
+| Connections | 12 |
 
 ## How Other Checks Describe It
 
+- Sanctioned oil company whose foreign-asset sale was raised in 2026 talks
 - US-sanctioned Russian oil major selling about $20B of foreign assets.
 - Sanctioned Russian oil major selling foreign assets
 
@@ -28,6 +29,7 @@ US-sanctioned Russian oil major (Oct 2025) forced to sell its foreign assets.
 - [[C76 Russia-Linked Money Around the Family & the Envoys]] · Partly accurate
 - [[C86 Major Trump Donors with Stakes in Federally Backed Companies]] · Partly accurate
 - [[C94 The Sale of Lukoil's Foreign Assets & the Boehly Consortium]] · Mostly accurate
+- [[C105 Steve Witkoff Holdings, Divestiture & Overlapping Dealings]] · Mostly accurate
 
 ## Relationships
 

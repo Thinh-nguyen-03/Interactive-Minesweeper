@@ -2,8 +2,8 @@
 id: "department-of-health-and-human-services"
 kind: "entity"
 type: "government"
-connections: 2
-claims: 1
+connections: 3
+claims: 2
 tags:
   - "entity"
   - "type/government"
@@ -15,12 +15,17 @@ Received several first-term salary gifts (opioids, coronavirus)
 | | |
 |---|---|
 | Type | Government body |
-| Appears in | 1 check |
-| Connections | 2 |
+| Appears in | 2 checks |
+| Connections | 3 |
+
+## How Other Checks Describe It
+
+- Kennedy's department.
 
 ## Appears in Checks
 
 - [[C95 The Presidential Salary Pledge]] · Partly accurate
+- [[C109 Other Senior Officials Waivers, Late Divestitures & Outside Interests]] · Mostly accurate
 
 ## Relationships
 

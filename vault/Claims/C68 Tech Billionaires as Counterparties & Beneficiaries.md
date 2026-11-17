@@ -52,6 +52,7 @@ Nearly every principal named in the claim is documented as both paying Trump, hi
 - 'Ballroom?' for Nvidia: confirmed. $25M, anonymous, per the Washington Post's leaked spreadsheet (2026-10-15).
 - Brockman's $25M MAGA Inc gift is filed as $12.5M each from Greg and Anna Brockman.
 - Paramount-WBD closing date: the deal closed on Tuesday 2026-10-06 (AP), not about 2026-09-29 as first inferred.
+- 2026-11-17: Added (from C109): Musk served as a special government employee with a confidential (non-public) financial disclosure, and no conflict-of-interest waiver for him has been published; no finding on his compliance was found. No change to the figures.
 
 ## In More Detail
 
@@ -67,6 +68,7 @@ Nearly every principal named in the claim is documented as both paying Trump, hi
 - [[C81 A Federal Procurement Chief, Thrive Capital & Sole-Source Awards]] · Mostly accurate
 - [[C87 Silver Lake A Co-Investor with Both Saudi & Abu Dhabi Funds]] · Mostly accurate
 - [[C92 The White House Ballroom Donor List]] · Partly accurate
+- [[C106 David Sacks Holdings, Ethics Waivers & AI & Crypto Policy]] · Mostly accurate
 
 ## Sub-Claims
 
@@ -131,7 +133,9 @@ Nearly every principal named in the claim is documented as both paying Trump, hi
 **Mostly accurate**
 
 - Documented: Musk's 2024 political spending was about $277-290M per FEC-based tallies, mostly via America PAC.
-- He then led DOGE. xAI was one of four firms (with Google, OpenAI and Anthropic) given a contract with a ceiling of up to $200M by the Pentagon's CDAO in July 2025, and launched 'Grok for Government' on the GSA schedule.
+- He then led DOGE as a special government employee, covered by 18 U.S.C. 208.
+- A White House official said in Feb 2025 that his financial disclosure would be confidential, not public (AP via Star-Advertiser), and no 208(b)(1) waiver for him appears on the White House waiver list (checked 17 Nov 2026; C109).
+- No finding on his compliance was found. xAI was one of four firms (with Google, OpenAI and Anthropic) given a contract with a ceiling of up to $200M by the Pentagon's CDAO in July 2025, and launched 'Grok for Government' on the GSA schedule.
 - SpaceX acquired xAI in an all-stock merger in early February 2026 (about $1.25T).
 - SpaceX priced a record ~$75B IPO at $135 on 2026-06-11, valuing it at about $1.77T, and listed on Nasdaq on 2026-06-12.
 - 1789 Capital, where Don Jr. has been a partner since Nov 2024, invested in SpaceX, xAI and Neuralink, reportedly more than $50M across xAI and SpaceX (Reuters, relayed by SMH and Marine Link), after Omeed Malik met Musk during the campaign (Reuters sources).
@@ -139,8 +143,8 @@ Nearly every principal named in the claim is documented as both paying Trump, hi
 - Musk fell out with Trump in 2025, reconciled, and America PAC re-entered the 2026 midterms ($50.3M raised as of 2026-06-30, almost all from Musk, per FactCheck.org).
 - 1789 says Don Jr. recuses himself from dealing with the federal government (C32).
 - Amounts: about $277-290M; up to $200M; about $1.25T; ~$75B; $135
-- Dates: July 2025; early February 2026; 2026-06-11; 2026-06-12; Nov 2024
-- Sources: [27](https://www.adn.com/nation-world/2024/12/06/elon-musk-spent-at-least-277m-backing-trump-and-other-republicans-fec-filings-show/) [28](https://spokesman.com/stories/2025/feb/01/elon-musk-donated-288-million-in-2024-election-fin) [31](https://www.nextgov.com/acquisition/2025/07/pentagon-awards-multiple-companies-200m-contracts-ai-tools/406698) [32](https://www.cbsnews.com/news/grok-elon-musk-xai-pentagon-contract) [33](https://www.investmentnews.com/equities/musk-merger-creates-125t-privately-held-company-ripe-for-ipo-but-what-about-tesla/265106) [34](https://dealstreetasia.com/stories/musk-spacex-ipo-485300) [35](https://www.thestar.com.my/news/world/2026/06/12/musk039s-spacex-prices-record-75-billion-ipo-at-135-a-share) [36](https://www.bnnbloomberg.ca/business/2025/09/08/trump-linked-venture-fund-1789-capital-tops-us1-billion-in-assets/) [37](https://www.marinelink.com/blogs/blog/1789-capital-a-trumplinked-venture-capital-fund-has-assets-of-103282) [38](https://www.asiae.co.kr/en/article/2026051810171921837) [29](https://www.factcheck.org/2026/09/america-pac-2/) [30](https://washingtonexaminer.com/news/4711280/elon-musk-america-pac-2026-midterm-elections-spending)
+- Dates: Feb 2025; 17 Nov 2026; July 2025; early February 2026; 2026-06-11
+- Sources: [27](https://www.adn.com/nation-world/2024/12/06/elon-musk-spent-at-least-277m-backing-trump-and-other-republicans-fec-filings-show/) [28](https://spokesman.com/stories/2025/feb/01/elon-musk-donated-288-million-in-2024-election-fin) [31](https://www.nextgov.com/acquisition/2025/07/pentagon-awards-multiple-companies-200m-contracts-ai-tools/406698) [32](https://www.cbsnews.com/news/grok-elon-musk-xai-pentagon-contract) [33](https://www.investmentnews.com/equities/musk-merger-creates-125t-privately-held-company-ripe-for-ipo-but-what-about-tesla/265106) [34](https://dealstreetasia.com/stories/musk-spacex-ipo-485300) [35](https://www.thestar.com.my/news/world/2026/06/12/musk039s-spacex-prices-record-75-billion-ipo-at-135-a-share) [36](https://www.bnnbloomberg.ca/business/2025/09/08/trump-linked-venture-fund-1789-capital-tops-us1-billion-in-assets/) [37](https://www.marinelink.com/blogs/blog/1789-capital-a-trumplinked-venture-capital-fund-has-assets-of-103282) [38](https://www.asiae.co.kr/en/article/2026051810171921837) [29](https://www.factcheck.org/2026/09/america-pac-2/) [30](https://washingtonexaminer.com/news/4711280/elon-musk-america-pac-2026-midterm-elections-spending) [77](https://staradvertiser.com/2025/02/11/breaking-news/elon-musks-financial-disclosure-will-not-be-made-public) [78](https://www.whitehouse.gov/disclosures/)
 
 ### 6. Larry Ellison financed Musk's Twitter takeover, and X later paid about $10M to settle Trump's suit.
 
@@ -307,7 +311,7 @@ Nearly every principal named in the claim is documented as both paying Trump, hi
 - [[Omeed Malik]] · Person
 - [[OpenAI]] · Company
 - [[Oracle]] · Company
-- [[Palantir Technologies (PLTR)]] · Company
+- [[Palantir]] · Company
 - [[Paramount Global]] · Company
 - [[Pentagon (Department of Defense)]] · Government body
 - [[Peter Thiel]] · Person
@@ -347,12 +351,12 @@ Nearly every principal named in the claim is documented as both paying Trump, hi
 - [[Donald Trump]] *bought shares ($1M-$5M on 2026-02-10, 278-T)* [[Nvidia]] · 2026-02-10 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Paramount Global]] *paid termination fee* [[Netflix]] · 2026-02-27 · $2.8B · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[MGX]] *co-lead investor in $122B round* [[OpenAI]] · 2026-03-31 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
-- [[Donald Trump]] *bought PLTR; touted ticker on Truth Social* [[Palantir Technologies (PLTR)]] · 2026-04-10 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
+- [[Donald Trump]] *bought PLTR; touted ticker on Truth Social* [[Palantir]] · 2026-04-10 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Amazon]] *committed (WaPo leak)* [[White House ballroom]] · 2026-10-15 · $5M · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Meta]] *committed (WaPo leak)* [[White House ballroom]] · 2026-10-15 · $5M · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Microsoft]] *committed (WaPo leak)* [[White House ballroom]] · 2026-10-15 · $10M · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Nvidia]] *committed, anonymously (WaPo leak)* [[White House ballroom]] · 2026-10-15 · $25M · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
-- [[Palantir Technologies (PLTR)]] *committed (WaPo leak)* [[White House ballroom]] · 2026-10-15 · $10M · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
+- [[Palantir]] *committed (WaPo leak)* [[White House ballroom]] · 2026-10-15 · $10M · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Donald Trump]] *bought shares ($2.2M-$10.6M, Q1 2026 278-T)* [[Oracle]] · 2026-Q1 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 
 ### Ownership (18)
@@ -372,7 +376,7 @@ Nearly every principal named in the claim is documented as both paying Trump, hi
 - [[Paramount Global]] *acquired (~$81B equity)* [[Warner Bros. Discovery]] · 2026-10-06 · $81B · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Josh Kushner]] *founder* [[Thrive Capital]] · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Larry Ellison]] *co-founder, largest shareholder* [[Oracle]] · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
-- [[Peter Thiel]] *co-founder* [[Palantir Technologies (PLTR)]] · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
+- [[Peter Thiel]] *co-founder* [[Palantir]] · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Sheikh Tahnoon bin Zayed]] *chairman* [[MGX]] · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Warner Bros. Discovery]] *owns* [[CNN]] · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 
@@ -410,9 +414,9 @@ Nearly every principal named in the claim is documented as both paying Trump, hi
 
 - [[Lisa Monaco]] *president of global affairs* [[Microsoft]] · 2025 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Oracle]] *initial equity partner* [[Project Stargate]] · 2025-01-21 · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
-- [[ICE]] *ImmigrationOS contract* [[Palantir Technologies (PLTR)]] · 2025-04 · $30M · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
+- [[ICE]] *ImmigrationOS contract* [[Palantir]] · 2025-04 · $30M · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[Pentagon (Department of Defense)]] *CDAO AI contract (ceiling)* [[xAI]] · 2025-07 · $200M · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
-- [[Pentagon (Department of Defense)]] *Army enterprise agreement (ceiling)* [[Palantir Technologies (PLTR)]] · 2025-07-31 · $10B · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
+- [[Pentagon (Department of Defense)]] *Army enterprise agreement (ceiling)* [[Palantir]] · 2025-07-31 · $10B · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 - [[OpenAI]] *~$300B 5-year compute contract (WSJ)* [[Oracle]] · 2025-09-10 · $300B · [[C68 Tech Billionaires as Counterparties & Beneficiaries|C68]]
 
 ## Leads Not Covered Here
@@ -431,9 +435,9 @@ Nearly every principal named in the claim is documented as both paying Trump, hi
   - [[Leading the Future]] [[Greg Brockman]] [[Andreessen Horowitz (a16z crypto)]] [[EO 'Ensuring a National Policy Framework for AI']] · [Source](https://axios.com/2025/12/11/trump-signs-executive-order-state-ai-laws)
 - **Washington Post ballroom spreadsheet: anonymous donors vs. pending decisions**
   - Nvidia's $25M was hidden from the October 2025 list; 67 donations total ~$333M.
-  - [[Nvidia]] [[White House ballroom]] [[Palantir Technologies (PLTR)]] [[Microsoft]] · [Source](https://thenextweb.com/news/nvidia-apple-25m-trump-ballroom-donors)
+  - [[Nvidia]] [[White House ballroom]] [[Palantir]] [[Microsoft]] · [Source](https://thenextweb.com/news/nvidia-apple-25m-trump-ballroom-donors)
 
-## Sources (76)
+## Sources (78)
 
 1. [Paramount unveils Jared Kushner, Middle East sovereign funds as backers of hostile WBD bid](https://deadline.com/2025/12/paramount-warner-bros-bid-jared-kushner-middle-east-funds-1236642045/) (Deadline, 2025-12-08)
 2. [Kushner's Affinity Partners exits Paramount bid for Warner Bros. Discovery](https://www.cnbc.com/2025/12/16/kushner-affinity-paramount-wbd-netflix.html) (CNBC, 2025-12-16)
@@ -511,6 +515,8 @@ Nearly every principal named in the claim is documented as both paying Trump, hi
 74. [SpaceX set to begin trading after raising $75 billion in record IPO](https://www.cbsnews.com/news/spacex-stock-price-ipo-spcx-initial-public-offering/) (CBS News, 2026-06-12)
 75. [MAGA figures cash in big on Elon Musk's space venture](https://www2.thedailybeast.com/maga-figures-cash-in-big-on-elon-musks-space-venture) (The Daily Beast, 2026-06)
 76. [Trump-aligned MAGA Inc super PAC enters 2026 with $300 million stockpile (Reuters)](https://www.spokesman.com/stories/2026/jan/02/trump-aligned-maga-inc-super-pac-enters-2026-with-) (Spokesman-Review, 2026-01-02)
+77. [Elon Musk's financial disclosure will not be made public](https://staradvertiser.com/2025/02/11/breaking-news/elon-musks-financial-disclosure-will-not-be-made-public) (Associated Press via Honolulu Star-Advertiser, 2025-02-11)
+78. [Public disclosures: waivers list](https://www.whitehouse.gov/disclosures/) (The White House, 2026-11-17)
 
 ## Full Report
 
@@ -619,7 +625,7 @@ No source frames Silver Lake as a link between the Tahnoon network and Kushner/P
 #### 5. Musk, DOGE, xAI/SpaceX and Don Jr.'s 1789 Capital (documented, with one inferred step)
 
 **Documented.**
-- Musk spent about $277-290M on the 2024 election, then led DOGE.
+- Musk spent about $277-290M on the 2024 election, then led DOGE as a special government employee. His financial disclosure was confidential, not public (a White House official, Feb 2025, per AP). No conflict-of-interest waiver for him appears on the White House waiver list (checked 17 Nov 2026; C109). No finding on his compliance was found.
 - In July 2025, xAI got a Pentagon CDAO contract with a ceiling of up to $200M. Google, OpenAI and Anthropic got the same form of award. xAI also launched "Grok for Government" on the GSA schedule.
 - SpaceX acquired xAI in February 2026, at about $1.25T.
 - SpaceX's IPO priced on 2026-06-11 at $135 a share, raising about $75B at a valuation of about $1.77T.
@@ -804,3 +810,9 @@ Result: **corrected**.
 - **1789 Capital:** its xAI/SpaceX stakes (more than $50M, reported) are upheld. No source quantifies its IPO gain, so that stays **inferred**.
 - **Brockman:** upheld. The FEC lists $12.5M from each spouse.
 - New sources: KSAT/AP, 2026-10-06 (https://www.ksat.com/news/politics/2026/10/06/paramount-closes-on-81-billion-takeover-of-warner-bros-discovery-joining-two-of-americas-oldest-hollywood-studios/); Canberra Times/Reuters, 2026-10-16 (https://www.canberratimes.com.au/story/9369916/nvidia-apple-each-gave-us25m-for-trumps-ballroom/); Aftermath (https://aftermath.site/nvidia-microsoft-white-house-ballroom/); CBS News (https://www.cbsnews.com/news/spacex-stock-price-ipo-spcx-initial-public-offering/); Daily Beast (https://www2.thedailybeast.com/maga-figures-cash-in-big-on-elon-musks-space-venture); Spokesman-Review/Reuters (https://www.spokesman.com/stories/2026/jan/02/trump-aligned-maga-inc-super-pac-enters-2026-with-).
+
+#### Further audit (17 Nov 2026, applied from the review of C109)
+- **Addition:** Musk served as a special government employee with a confidential financial disclosure, and no waiver for him has been published. No figures change.
+- **New sources:**
+  - AP via Star-Advertiser (2025-02-11): https://staradvertiser.com/2025/02/11/breaking-news/elon-musks-financial-disclosure-will-not-be-made-public
+  - White House disclosures page: https://www.whitehouse.gov/disclosures/
