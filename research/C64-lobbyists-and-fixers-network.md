@@ -146,6 +146,7 @@ These links come from our own cross-referencing. No source asserts them.
 - **Wiles and Qatar:** The claim that Wiles "led" Mercury's Qatar work is single-source, and Mercury's documented Qatar contracts predate her joining.
 - **Albania:** The 2025 Albanian lobbying with Trump-world firms (Continental, LaCivita and Manafort) is for Berisha's opposition, not for Rama's government, which is Kushner's partner.
 - **Ballard's access:** Ballard's access is contested. Politico reports that he was frozen out after the Mar 2025 XRP post.
+- **Ballroom donor list (2026-11-17):** The Adelson Family Foundation (a US family foundation, not Israeli money) is reported to have committed $25M to the White House ballroom, per a Washington Post list of donor records relayed by the Boston Globe (16 Oct 2026). Single-source; the foundation did not comment. No sentence here ties a donation to a decision. See C110.
 
 ## Denials and context
 - **Ballard:** The firm declined to comment to Sludge and did not respond to the Washington Examiner. Ballard, Miller and Priebus declined to comment to CBS on the ballroom.
@@ -227,5 +228,7 @@ Result: **corrected** (verdict and confidence unchanged).
 - **Pakistan.** Upheld. Seiden Law signed on Apr 8, 2025 at $200K/month (some outlets say $125K). Javelin's FARA registration (Apr 25, 2025) lists Sorial, Schiller and Robert Seiden as co-owners.
 - **Kalshi.** Upheld: $240K to Miller Strategies in H1 2026 (OpenSecrets via Stateline).
 - **Ballard and Saudi Arabia.** Upheld: $60K/month from Mar 31, 2025. Ballard's Mar 2026 FARA supplemental still lists the Saudi embassy.
+- **Ballroom donor list (2026-11-17).** Added the Adelson Family Foundation's reported $25M commitment, graded single-source (Boston Globe, 16 Oct 2026). Neither check named Adelson before.
 
 New sources: Jewish Insider 2025-12; Public Citizen OGE complaint; FARA 7579 registration; Nukta; Stateline/Indiana Capital Chronicle 2026-10-05; Sludge 2026-02-05; FARA 7070 supplemental 2026-03-02; AP/National Newswatch 2026-04-02; Axios 2026-08-08; WTOP (AP) 2026-08-10. URLs are in the JSON `audit.new_sources`.
+Boston Globe 2026-10-16 (Adelson Family Foundation, ballroom).

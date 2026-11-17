@@ -3,7 +3,7 @@
   "title": "US Decisions on Israel: Arms, Sanctions & the Netanyahu Pardon Call",
   "verdict": "mostly-accurate",
   "confidence": "medium",
-  "summary": "The record since 20 Jan 2025 documents many US decisions that Israel's government sought: release of held bomb shipments (Jan-Feb 2025), DSCA notifications worth several billion dollars (about $6.75B and $660M on 7 Feb 2025, $510M on 30 Jun 2025, about $6.67B on 30 Jan 2026), emergency determinations skipping congressional review (1 Mar 2025, Mar 2026), the ICC sanctions order (EO 14203, 6 Feb 2025) with later designations through 9 Oct 2026, lifting of settler sanctions (20 Jan 2025), US vetoes of Gaza ceasefire drafts, joint strikes on Iran, and Trump's repeated public calls for a Netanyahu pardon (Knesset 13 Oct 2025, letter 12 Nov 2025). It also records decisions that cut against Israel's government: the Qatar security guarantee and Netanyahu's apology (29 Sep 2025), annexation warnings, a 15% tariff above the 10% Israel sought, and exclusion from US-Iran talks. No pardon has been reported. The DSCA notices themselves were blocked, so values rest on secondary excerpts, and nothing here shows that any donation or investment caused any decision.",
+  "summary": "The record since 20 Jan 2025 documents many US decisions that Israel's government sought: release of held bomb shipments (Jan-Feb 2025); arms-sale notifications to Congress whose texts were read in the Federal Register (about $6.75B and $660M on 7 Feb 2025, about $2.04B, $675.7M and $295M on 28 Feb 2025, $180M on 14 Apr 2025, $510M on 30 Jun 2025, about $6.67B in four packages on 30 Jan 2026, $151.8M on 6 Mar 2026 and $992.4M on 1 May 2026); Secretary of State emergency determinations waiving congressional review (the 28 Feb 2025 notices, announced 1 Mar; March 2026 and May 2026, the last two reported by outlets quoting the State Department); the ICC sanctions order (EO 14203, 6 Feb 2025) with designations through the court itself on 9 Oct 2026; lifting of settler sanctions (20 Jan 2025); two US vetoes of Gaza ceasefire drafts (4 Jun and 18 Sep 2025, each 14-1); joint strikes on Iran; and Trump's repeated public calls for a Netanyahu pardon (Knesset 13 Oct 2025, letter 12 Nov 2025). It also records decisions that cut against Israel's government: the Qatar security guarantee and Netanyahu's apology (29 Sep 2025), annexation warnings, a 15% tariff rate from 7 Aug 2025 (17% had been announced in April; the IEEPA tariffs were struck down on 20 Feb 2026) and exclusion from US-Iran talks. No pardon has been reported granted. dsca.mil refused plain curl; values come from the notice texts published in the Federal Register (read in full via govinfo.gov). Nothing here shows that any donation or investment caused any decision.",
   "sub_claims": [
     {
       "statement": "Since 20 Jan 2025 the administration released shipments of heavy bombs that the previous administration had held, and the first deliveries followed.",
@@ -17,65 +17,86 @@
     {
       "statement": "Formal Congress notifications of Israel arms sales (DSCA) since 20 Jan 2025, with values.",
       "verdict": "confirmed",
-      "finding": "Act of the US government at Israel's request. Grade: documented in DSCA notifications (dsca.mil returns 403 to plain curl, so every notice below was read as a search excerpt or secondary summary, not the notice itself). 7 Feb 2025: munitions guidance kits, fuzes and support, about $6.75B; and 3,000 AGM-114 Hellfire missiles, $660M (transmittal 24-104). 28 Feb 2025: two notifications, about $2.04B munitions and $295M Caterpillar D9 bulldozers (see emergency item). 14 Apr 2025: Eitan armoured-vehicle powerpack engines, $180M. 30 Jun 2025: 3,845 KMU-558B/B and 3,280 KMU-572 F/B JDAM guidance kits plus support, $510M, principal contractor Boeing. 30 Jan 2026: four packages totalling about $6.67B, including AH-64E Apache helicopters $3.8B and Namer power packs $740M (JLTV and AW119Kx values not retrieved). Sales are paid for by Israel (or with US FMF funds); a notification is not a delivery. Possible further notices (for example Nov 2025 to May 2026 Federal Register entries) were not individually read, so this list may be incomplete.",
+      "finding": "Act of the US government at Israel's request. Evidence grade: documented; the audit read each notice as published in the Federal Register (via govinfo.gov), each naming the Government of Israel and the date delivered to Congress. Notifications: 7 Feb 2025, 24-13 munitions guidance kits, bombs and fuzes $6.75B (MDE $5.61B) and 24-104 3,000 Hellfire missiles $660M; amendments on 7 Feb (24-0U, +$312.5M to the Dec 2023 155mm case, now $460M), 3 Feb (25-0E, +$305M AMRAAM) and 28 Feb 2025 (25-0C, +$893M to the 2012 JDAM case, now $1.54B); 28 Feb 2025, 25-34 bomb bodies and penetrator warheads $2.04B, 25-26 bomb bodies and JDAM kits $675.7M, 24-38 D9 bulldozers $295M; 14 Apr 2025, 25-28 Eitan powerpack engines $180M (whole case); 30 Jun 2025, 25-59 JDAM kits $510M; 30 Jan 2026, four packages: 25-94 30 AH-64E Apache $3.8B, 25-87 3,250 JLTV $1.98B, 25-86 Namer power packs $740M, 26-08 AW119Kx helicopters $150M (sum $6.67B); 6 Mar 2026, 26-32 12,000 BLU-110A/B bomb bodies $151.8M and amendment 26-0O (+$209M, 10,000 BLU-111 bombs added to case 24-13, now $6.959B); 1 May 2026, 26-60 10,000 APKWS-II rounds $992.4M. Funding source as printed: Foreign Military Financing (US assistance) for all, with Israel's national funds added for 24-13, 25-34 and 25-87. A notification is not a delivery. The Federal Register prints notices months late (latest read: 14 May 2026), so later notices may exist and are not listed.",
       "sources": [
-        "https://www.dsca.mil/Press-Media/Major-Arms-Sales/Article-Display/Article/4060920/israel-munitions-guidance-kits-fuzes-and-munitions-support",
-        "https://www.dsca.mil/Congressional-Notification-Archive/Article/4060949/israel-agm-114-hellfire-missiles",
-        "https://www.dsca.mil/Congressional-Notification-Archive/Article/4154118/israel-eitan-powerpack-engines",
-        "https://www.dsca.mil/Press-Media/Major-Arms-Sales/Article-Display/Article/4230375/israel-munitions-guidance-kits-and-munitions-support",
-        "https://www.dsca.mil/Press-Media/Major-Arms-Sales/Article-Display/Article/4394583/israel-ah-64e-apache-helicopters",
-        "https://www.dsca.mil/Press-Media/Major-Arms-Sales/Article-Display/Article/4394549/israel-namer-armored-personnel-carrier-power-packs-less-transmissions-and-integ",
-        "https://www.cp24.com/news/world/2026/01/31/us-approves-major-new-arms-sales-to-israel-worth-us667-billion-and-to-saudi-arabia-worth-9-billion/",
-        "https://www.federalregister.gov/documents/2026/01/26/2026-01342/arms-sales-notification"
+        "https://www.govinfo.gov/content/pkg/FR-2026-01-16/html/2026-00766.htm",
+        "https://www.govinfo.gov/content/pkg/FR-2026-01-16/html/2026-00767.htm",
+        "https://www.govinfo.gov/content/pkg/FR-2026-01-13/html/2026-00444.htm",
+        "https://www.govinfo.gov/content/pkg/FR-2026-02-02/html/2026-02054.htm",
+        "https://www.govinfo.gov/content/pkg/FR-2026-02-02/html/2026-02077.htm",
+        "https://www.govinfo.gov/content/pkg/FR-2026-02-02/html/2026-02079.htm",
+        "https://www.govinfo.gov/content/pkg/FR-2026-02-02/html/2026-02063.htm",
+        "https://www.govinfo.gov/content/pkg/FR-2026-02-02/html/2026-02053.htm",
+        "https://www.govinfo.gov/content/pkg/FR-2026-01-12/html/2026-00312.htm",
+        "https://www.govinfo.gov/content/pkg/FR-2026-01-26/html/2026-01342.htm",
+        "https://www.govinfo.gov/content/pkg/FR-2026-03-17/html/2026-05142.htm",
+        "https://www.govinfo.gov/content/pkg/FR-2026-03-17/html/2026-05143.htm",
+        "https://www.govinfo.gov/content/pkg/FR-2026-03-17/html/2026-05144.htm",
+        "https://www.govinfo.gov/content/pkg/FR-2026-03-17/html/2026-05139.htm",
+        "https://www.govinfo.gov/content/pkg/FR-2026-04-14/html/2026-07238.htm",
+        "https://www.govinfo.gov/content/pkg/FR-2026-04-15/html/2026-07243.htm",
+        "https://www.govinfo.gov/content/pkg/FR-2026-05-14/html/2026-09646.htm"
       ]
     },
     {
       "statement": "The administration used emergency determinations under the Arms Export Control Act to skip congressional review of sales to Israel.",
       "verdict": "confirmed",
-      "finding": "Act of the US government (Secretary of State Rubio) at Israel's request. Grade: documented by several outlets (excerpts; the determinations themselves were not read). (a) Declared 1 Mar 2025: emergency waiver covering the 28 Feb 2025 notifications (about $2.04B munitions and $295M D9 bulldozers; the same declaration was described as fast-tracking about $4B), bypassing the informal committee pre-clearance practice. (b) About 6-7 Mar 2026, during the war with Iran: 12,000 BLU-110A/B 1,000-lb bomb bodies, $151.8M, principal contractor Repkon USA; Rep. Gregory Meeks called it 'an emergency of the Trump administration's own creation'. One NYT-based report put two packages at nearly $660M; the $151.8M figure is for the single notice cited. (c) May 2026: 10,000 APKWS rounds, $992.4M, reported in a search summary only (not verified against the notice). Context: the Biden administration also used emergency waivers for Israel (December 2023).",
+      "finding": "Act of the US government (Secretary of State Rubio) at Israel's request. Grade: (a) documented in the notice texts; (b) and (c) documented by two or more outlets quoting State Department statements, but the Federal Register text of those two notices carries no determination wording. (a) 28 Feb 2025 (announced by Rubio 1 Mar): the Federal Register texts of Transmittal 25-34 ($2.04B) and 25-26 ($675.7M) state that 'the Secretary of State has determined and provided detailed justification that an emergency exists that requires the immediate sale to the Government of Israel ... thereby waiving the Congressional review requirements under Section 36(b)'. Correction: the D9 bulldozer notice (24-38, $295M) has no such wording in its text, although several outlets (Media Line, Times of Israel, per search) say the waiver covered '$2.04 billion for munitions and $295 million for Caterpillar D9 bulldozers' and about $4B in all. The audit found 25-26 ($675.7M) was also under the determination, which those reports omit. Our arithmetic only: $2.04B + $675.7M + $295M + the $893M JDAM case increase (25-0C) is about $3.9B, close to the '$4 billion' in the announcement; no source states that breakdown. Arms Control Association: Rubio's announcement did not cite a specific emergency. (b) 6 Mar 2026, a week after the war with Iran began: 12,000 BLU-110A/B bomb bodies, $151.8M, principal contractor Repkon USA. Reuters (via Al-Monitor, read in full): 'Rubio determined that an emergency existed that required the immediate sale'; The New Arab agrees. Rep. Gregory Meeks called it 'an emergency of the Trump administration's own creation' (a criticism). The Federal Register text of 26-32 does not contain the determination. One NYT-based report put two packages at nearly $660M; the notice is $151.8M. (c) 1 May 2026: 10,000 APKWS-II rounds, $992.4M. JNS quotes the State Department: 'The secretary of state has determined and provided detailed justification that an emergency exists that requires the immediate sale to Israel'; Ynet reports the same approach in a package of more than $8.6B to Middle Eastern allies, including a same-size APKWS sale to Qatar. The Federal Register text of 26-60 does not contain the wording. The earlier 'search summary only' grade is replaced: the notice is verified, the emergency basis rests on two outlets. Context: the Biden administration also used emergency waivers for Israel (December 2023). Democratic members and arms-control groups objected; Republicans and pro-Israel groups welcomed the sales.",
       "sources": [
+        "https://www.govinfo.gov/content/pkg/FR-2026-02-02/html/2026-02077.htm",
+        "https://www.govinfo.gov/content/pkg/FR-2026-02-02/html/2026-02079.htm",
+        "https://www.govinfo.gov/content/pkg/FR-2026-02-02/html/2026-02063.htm",
+        "https://www.govinfo.gov/content/pkg/FR-2026-04-14/html/2026-07238.htm",
+        "https://www.govinfo.gov/content/pkg/FR-2026-05-14/html/2026-09646.htm",
         "https://www.armscontrol.org/act/2025-04/news-briefs/rubio-bypasses-congress-israel-arms-sale",
-        "https://arabcenterdc.org/resource/trump-sidesteps-congress-giving-billions-to-israel/",
         "https://themedialine.org/headlines/rubio-signs-declaration-to-fast-track-4-billion-in-military-aid-to-israel/print",
         "https://www.al-monitor.com/originals/2026/03/us-skips-congressional-review-approve-munitions-sale-israel",
-        "https://www.ynetnews.com/article/1km45pccq",
-        "https://www.dsca.mil/Press-Media/Major-Arms-Sales"
+        "https://www.newarab.com/news/us-skips-congressional-review-approve-israel-munitions-sale",
+        "https://www.jns.org/news/u-s-news/us-approves-992-4-million-sale-of-laser-guided-rockets-to-israel",
+        "https://www.ynetnews.com/article/bka00pmxrwl"
       ]
     },
     {
       "statement": "The International Criminal Court was sanctioned by executive order, and further designations followed.",
       "verdict": "confirmed",
-      "finding": "Act of the US government; the order cites the ICC arrest warrants for Netanyahu and Gallant, and Israel's government sought it and welcomed it. Grade: documented. EO 14203 (6 Feb 2025, read in full) invokes IEEPA, the National Emergencies Act, INA 212(f) and 3 USC 301, and says the ICC engaged in 'illegitimate and baseless actions targeting America and our close ally Israel'. Designations: Prosecutor Karim Khan (Feb 2025); four judges on 5 Jun 2025 (two on the Afghanistan inquiry, two on the Netanyahu/Gallant warrants); two judges and two deputy prosecutors on 20 Aug 2025; two Appeals Chamber judges on 18 Dec 2025 (State Department release headed 'Targeting of Israel'); two ICC officials (Tomoko Akane, Abdoulaye Seye) in Aug 2026; and the ICC as an institution on 9 Oct 2026 (Global Sanctions and a Council on Foreign Relations-hosted summary; a Treasury notice of 15 May 2026 on the program was found but its content was not shown). Three ICC judges have sued over the sanctions; the ICC called them an attack on judicial independence.",
+      "finding": "Act of the US government; the order cites the ICC arrest warrants for Netanyahu and Gallant, and Israel's government sought and welcomed it. Grade: documented; OFAC's recent-actions pages (treasury.gov) and EO 14203 were read in full. EO 14203 (6 Feb 2025) invokes IEEPA, the National Emergencies Act, INA 212(f) and 3 USC 301, and says the ICC engaged in 'illegitimate and baseless actions targeting America and our close ally Israel'. Designations onto OFAC's SDN list under tag [ICC-EO14203]: Prosecutor Karim Khan (13 Feb 2025); four judges on 5 Jun 2025 (Alapini Gansou, Bossa, Hohler, Ibanez Carranza); two judges (Guillou, Shameem Khan) and two deputy prosecutors (Niang, Prost) on 20 Aug 2025; two judges (Damdin, Lordkipanidze) on 18 Dec 2025 (State Department release headed 'Targeting of Israel'); ICC President Tomoko Akane and Abdoulaye Seye on 18 Aug 2026 (OFAC; wind-down General License 12; Seye is on the team that sought the Netanyahu warrant per press reports, Netanyahu welcomed it); and the International Criminal Court itself, as an entity at The Hague, on 9 Oct 2026 (OFAC recent action 20261009, press release 'Imposing Sanctions on the International Criminal Court', with General Licenses 13 to 16 for certain transactions, telecommunications and software, pensions and detainees). OFAC also posted a notice on 15 May 2026 on the program page (content not shown). Three ICC judges and four human-rights groups have sued over the sanctions; the ICC called the Aug 2026 designations a 'flagrant attack' on its independence, and the UN Secretary-General said he was deeply concerned.",
       "sources": [
         "https://www.whitehouse.gov/presidential-actions/2025/02/imposing-sanctions-on-the-international-criminal-court/",
+        "https://ofac.treasury.gov/recent-actions/20250213",
+        "https://ofac.treasury.gov/recent-actions/20250605",
+        "https://ofac.treasury.gov/recent-actions/20250820",
+        "https://ofac.treasury.gov/recent-actions/20251218",
+        "https://ofac.treasury.gov/recent-actions/20260818",
+        "https://ofac.treasury.gov/recent-actions/20261009",
         "https://www.hrw.org/news/2025/06/05/us-sanctions-international-criminal-court-judges",
-        "https://www.hrw.org/news/2025/08/20/us-sanctions-two-additional-icc-judges-and-the-courts-deputy-prosecutors",
         "https://www.globalsecurity.org/military/library/news/2025/12/mil-251218-state02.htm",
-        "https://globalsanctions.com/2026/10/us-designates-international-criminal-court/",
-        "https://cof.org/node/20406",
-        "https://ofac.treasury.gov/recent-actions/20260515"
+        "https://cof.org/node/20406"
       ]
     },
     {
       "statement": "Sanctions on West Bank settlers were lifted on the first day.",
       "verdict": "confirmed",
-      "finding": "Act of the US government that Israel's government sought. Grade: documented. The Initial Rescissions order of 20 Jan 2025 (read in full) lists Executive Order 14115 of 1 Feb 2024 ('Imposing Certain Sanctions on Persons Undermining Peace, Security, and Stability in the West Bank'). OFAC published the termination of the emergency and designation removals on 24 Jan 2025. Outlets reported more than 30 settler individuals and entities were affected (Al Jazeera figure not independently checked).",
+      "finding": "Act of the US government that Israel's government sought. Grade: documented. The Initial Rescissions order of 20 Jan 2025 (read in full) lists Executive Order 14115 of 1 Feb 2024 ('Imposing Certain Sanctions on Persons Undermining Peace, Security, and Stability in the West Bank'). OFAC's recent-actions page of 24 Jan 2025 (read in full by the audit) states it removed the West Bank-related sanctions program and all persons designated under EO 14115 from the SDN list and unblocked their property. Outlets reported more than 30 settler individuals and entities were affected (Al Jazeera figure not independently checked).",
       "sources": [
         "https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions/",
         "https://jewishinsider.com/2025/01/president-donald-trump-executive-orders-west-bank-settlers-sanctions/",
         "https://www.timesofisrael.com/on-day-one-trump-rolls-back-biden-sanctions-regime-targeting-violent-israeli-settlers/",
-        "https://tagteam.harvard.edu/hub_feeds/3945/feed_items/13153727"
+        "https://tagteam.harvard.edu/hub_feeds/3945/feed_items/13153727",
+        "https://ofac.treasury.gov/recent-actions/20250124"
       ]
     },
     {
       "statement": "The US voted against Gaza ceasefire drafts in the UN Security Council and later sponsored the resolution endorsing its own Gaza plan.",
-      "verdict": "mostly-accurate",
-      "finding": "Act of the US government; Israel's government opposed the ceasefire drafts as framed. Grade: documented by several outlets (UN meeting records were blocked to curl; excerpts only). 4 Jun 2025: draft by the elected ten members, 14 in favour, US the sole vote against (veto); the US objected that it did not link a ceasefire to hostage release. 18 Sep 2025: a further draft for an immediate, unconditional, permanent ceasefire, reported 14-1 with the US veto (the 14-1 count was not stated by a dated source in the excerpts). 17 Nov 2025: Resolution 2803, drafted by the US, endorsing the Trump Gaza plan, a Board of Peace and a temporary stabilisation force, adopted 13-0 with China and Russia abstaining.",
+      "verdict": "confirmed",
+      "finding": "Act of the US government; Israel's government opposed the ceasefire drafts as framed (not re-checked). Grade: documented in UN records (UN press releases and UN News located by search; press.un.org itself refused plain curl). 4 Jun 2025: draft S/2025/353 by the Council's ten elected members, 14 in favour, the US the sole vote against (veto); the US objected that it did not link a ceasefire to hostage release (UN press release SC/16078). 18 Sep 2025: draft S/2025/583 for an immediate, unconditional and permanent ceasefire, 14 in favour, 1 against (US), no abstentions; Ambassador Morgan Ortagus said it failed to condemn Hamas and to recognise Israel's right to defend itself (UN News and the Council's verbatim record, 10,000th meeting). The previously missing dated source for the 14-1 count was found. 17 Nov 2025: Resolution 2803, drafted by the US, endorsing the Trump Gaza plan, a Board of Peace and a temporary international stabilisation force, adopted 13 in favour, none against, 2 abstentions (China, Russian Federation) (UN press release SC/16225).",
       "sources": [
+        "https://press.un.org/en/2025/sc16078.doc.htm",
+        "https://news.un.org/en/story/2025/09/1165881",
+        "https://www.un.org/unispal/document/security-council-10000th-meeting-verbatim-record-18sep25/",
+        "https://press.un.org/en/2025/sc16225.doc.htm",
+        "https://news.un.org/en/story/2025/11/1166391",
         "https://www.ungeneva.org/en/news-media/news/2025/06/107048/us-vetoes-security-council-resolution-demanding-permanent-ceasefire",
-        "https://www.japantimes.co.jp/article/631394",
-        "https://www.chathamhouse.org/2025/11/what-security-council-resolution-2803-and-what-does-it-mean-trump-gaza-plan",
-        "https://www.un.org/unispal/document/security-council-meeting-coverage-17nov25/"
+        "https://www.chathamhouse.org/2025/11/what-security-council-resolution-2803-and-what-does-it-mean-trump-gaza-plan"
       ]
     },
     {
@@ -92,8 +113,11 @@
     {
       "statement": "Tariffs were applied to Israel and a trade arrangement followed.",
       "verdict": "partly-accurate",
-      "finding": "Act of the US government; Israel's government sought lower rates. Grade: documented in trade and Israeli press, no primary Federal Register text read. Israel removed its remaining tariffs on US imports on 1 Apr 2025 before the 2 Apr announcement; the proposed US rate was 17%, later set at 15% (Israel had hoped for 10%). Reported easing for defence and diamond imports. A US-Israel agricultural arrangement removes Israeli duties on many US fruit and vegetable products from 1 Jan 2026, and a proclamation of 29 Dec 2025 extended tariff-rate-quota access for specified Israeli farm products through 31 Dec 2026. A comprehensive trade agreement was reported close in Jan 2026; no signed agreement was confirmed. A tariff-tracker claim of a 12.5% Section 301 duty from 24 Jul 2026 could not be verified and is not included in the record.",
+      "finding": "Act of the US government; Israel's government sought lower rates. Grade: documented in trade and Israeli press and law-firm notes; the Federal Register order text (EO 14326, 31 Jul 2025, 'Further Modifying the Reciprocal Tariff Rates', published 6 Aug 2025) was located but its country annex was not read, so Israel's line rests on press. Israel removed its remaining tariffs on US imports on 1 Apr 2025, before the 2 Apr announcement. A 17% rate for Israel was announced on 2 Apr 2025 (law-firm summaries say it was not ultimately implemented); a 15% reciprocal rate applied from 7 Aug 2025 (the same level as the EU; the claim that Israel had hoped for 10% rests on Ynet alone). Correction and update: the Supreme Court held on 20 Feb 2026 (6-3) that IEEPA does not authorise tariffs, ending the IEEPA reciprocal tariffs; the administration replaced them with a Section 122 global tariff (10%, reported raised toward 15%, limited to 150 days). Israel's rate after that was not verified for Nov 2026. Reported easing for defence and diamond imports. A US-Israel agricultural arrangement removes Israeli duties on many US fruit and vegetable products from 1 Jan 2026 (a Federal Register notice implementing it appeared on 8 Jan 2026), and a proclamation of 29 Dec 2025 extended tariff-rate-quota access for specified Israeli farm products through 31 Dec 2026. No signed comprehensive agreement was confirmed. A tariff-tracker claim of a 12.5% Section 301 duty from 24 Jul 2026 could not be verified and is not included. The 15% rate was a general rate set for many partners, not an Israel-specific act.",
       "sources": [
+        "https://www.govinfo.gov/content/pkg/FR-2025-08-06/html/2025-15010.htm",
+        "https://www.freshplaza.com/africa/article/9754559/u-s-applied-15-tariff-on-israeli-goods-from-august-7",
+        "https://www.cfr.org/articles/the-supreme-court-clipped-trumps-tariff-powers-and-opened-new-trade-battle-fronts",
         "https://www.ynetnews.com/business/article/byqswbhqwg",
         "https://en.globes.co.il/en/article-1001529819",
         "https://www.ghy.com/trade-compliance/us-extends-duty-free-access-israeli-agricultural-products-2026/",
@@ -113,7 +137,7 @@
     {
       "statement": "Trump has publicly called for a pardon for Netanyahu, including by letter to President Herzog.",
       "verdict": "confirmed",
-      "finding": "Public statements by Trump; Israeli President Isaac Herzog holds the pardon power and Netanyahu is on trial in Israel on corruption charges which he denies. Grade: documented by multiple outlets; the letter text is reproduced in part by outlets. Late Jun 2025: Truth Social posts calling the trial a 'political witch hunt'. 13 Oct 2025, Knesset address: 'Why don't you give him a pardon?'. 12 Nov 2025, letter released by Herzog's office: 'I hereby call on you to fully pardon Benjamin Netanyahu', calling the case a 'political, unjustified prosecution'. Netanyahu's lawyers filed a formal pardon request in November 2025 (Trump shared a link to the story on Truth Social). 29 Dec 2025 (Mar-a-Lago): Trump said Herzog had told him a pardon was on its way; Herzog's office disputed it. 12 Feb 2026: Herzog 'should be ashamed' and 'disgraceful'. 5 Mar 2026 (Axios): pardon 'today' so Netanyahu could focus on the Iran war. 29 Apr 2026: Herzog would be a 'national hero' if he pardoned Netanyahu.",
+      "finding": "Public statements by Trump; Israeli President Isaac Herzog holds the pardon power and Netanyahu is on trial in Israel on corruption charges which he denies. Grade: documented by multiple outlets; the letter text is reproduced in part by outlets. Late Jun 2025: Truth Social posts calling the trial a 'political witch hunt'. 13 Oct 2025, Knesset address: 'Mr. President, why don't you give him a pardon?' (JWeekly's rendering; other outlets word it slightly differently and no official transcript was fetched). 12 Nov 2025, letter released by Herzog's office: 'I hereby call on you to fully pardon Benjamin Netanyahu', calling the case a 'political, unjustified prosecution'. Netanyahu's lawyers filed a formal pardon request in November 2025 (Trump shared a link to the story on Truth Social). 29 Dec 2025 (Mar-a-Lago): Trump said Herzog had told him a pardon was on its way; Herzog's office disputed it. 12 Feb 2026: Herzog 'should be ashamed' and 'disgraceful'. 5 Mar 2026 (Axios): pardon 'today' so Netanyahu could focus on the Iran war. 29 Apr 2026: Herzog would be a 'national hero' if he pardoned Netanyahu.",
       "sources": [
         "https://www.jewishvirtuallibrary.org/trump-letter-to-herzog-asking-him-to-pardon-netanyahu",
         "https://abc7news.com/post/trump-pens-letter-asking-israeli-president-pardon-netanyahu-corruption-trial/18148119/",
@@ -124,13 +148,14 @@
         "https://www.axios.com/2026/02/12/trump-netanyahu-pardon-president-herzog-ashamed",
         "https://www.aljazeera.com/news/2026/2/12/trump-calls-israels-president-disgraceful-for-not-pardoning-netanyahu",
         "https://axios.com/2026/03/05/trump-netanyahu-pardon-israel-iran-war",
-        "https://axios.com/2026/04/29/trump-pardon-netanyahu-herzog-national-hero"
+        "https://axios.com/2026/04/29/trump-pardon-netanyahu-herzog-national-hero",
+        "https://jweekly.com/2025/10/13/iran-bibis-trial-and-more-what-trump-said-in-his-historic-knesset-speech/"
       ]
     },
     {
       "statement": "What happened to the pardon request.",
       "verdict": "unverified",
-      "finding": "Grade: documented to about mid-2026, nothing found later. Herzog's office said anyone seeking a pardon must follow the formal procedure, later that the request was under legal review and (Apr 2026, reported by the New York Times) that he preferred a mediated plea deal; Israeli outlets (Kan, JNS) reported the review was frozen. No pardon has been reported as granted. Autumn 2026 status was not found; Israeli law normally weighs admission of guilt and remorse, which Netanyahu has not given.",
+      "finding": "Grade: documented to about mid-2026; the audit's Nov 2026 search found nothing newer than the April 2026 reports, so the current status is unknown. Herzog's office said anyone seeking a pardon must follow the formal procedure, later that the request was under legal review and (Apr 2026, reported by the New York Times) that he preferred a mediated plea deal; Israeli outlets (Kan, JNS) reported the review was frozen. No pardon has been reported as granted. Autumn 2026 status was not found; Israeli law normally weighs admission of guilt and remorse, which Netanyahu has not given.",
       "sources": [
         "https://www.algemeiner.com/2026/04/26/president-herzog-doesnt-plan-to-pardon-netanyahu-intends-to-pursue-a-plea-deal/",
         "https://www.jns.org/news/israel-news/herzog-freezes-netanyahu-pardon-despite-trump-pressure",
@@ -140,7 +165,7 @@
     {
       "statement": "The administration also pressed Israel against its government's wishes: Qatar guarantee, apology, annexation.",
       "verdict": "confirmed",
-      "finding": "Acts and statements of the US government that Israel's government opposed or accepted under pressure. Grade: documented. 9 Sep 2025 Israel struck Hamas officials in Doha (six killed, including a Qatari security officer per the White House). 29 Sep 2025 Trump signed an order (published 1 Oct, read in full) stating the US policy 'to guarantee the security and territorial integrity of the State of Qatar against external attack' and committing to 'diplomatic, economic, and, if necessary, military' measures. The same day Netanyahu telephoned an apology to Qatar's prime minister from the White House (reported by Axios and Ynet; the White House gave few details). Annexation: 15 Oct 2025 (Time) Trump said it 'won't happen' and that Israel would lose all US support; after a 25-24 preliminary Knesset vote on 22 Oct 2025, Vance called it 'a very stupid political stunt' and Trump said Israel 'is not going to do anything with the West Bank'; Rubio said it could threaten the peace deal. Netanyahu's office distanced itself from the bills. In Apr 2026 Israel was left out of the US-Iran ceasefire talks. The Oct 2025 Gaza ceasefire and hostage release was a US-brokered arrangement the Israeli government accepted.",
+      "finding": "Acts and statements of the US government that Israel's government opposed or accepted under pressure. Grade: documented. 9 Sep 2025 Israel struck Hamas officials in Doha (six killed, including a Qatari security officer per the White House). 29 Sep 2025 Trump signed an order (published 1 Oct, read in full) stating the US policy 'to guarantee the security and territorial integrity of the State of Qatar against external attack' and committing to 'diplomatic, economic, and, if necessary, military' measures. The same day Netanyahu telephoned an apology to Qatar's prime minister from the White House (reported by Axios and Ynet; the White House gave few details). Annexation: in a Time interview conducted 15 Oct 2025 and published 23 Oct, Trump said it 'won't happen' and that Israel would lose all US support; after a 25-24 preliminary Knesset vote on 22 Oct 2025, Vance called it 'a very stupid political stunt' and Trump said Israel 'is not going to do anything with the West Bank'; Rubio said it could threaten the peace deal. Netanyahu's office distanced itself from the bills. In Apr 2026 Israel was left out of the US-Iran ceasefire talks. The Oct 2025 Gaza ceasefire and hostage release was a US-brokered arrangement the Israeli government accepted.",
       "sources": [
         "https://www.whitehouse.gov/presidential-actions/2025/09/assuring-the-security-of-the-state-of-qatar/",
         "https://www.axios.com/2025/10/01/trump-qatar-security-guarantee-israel-attack",
@@ -155,10 +180,11 @@
     "Some summaries describe the March 2025 emergency as a single $4B package: the notifications behind it were about $2.04B (munitions) and $295M (bulldozers), with the roughly $4B figure referring to the wider fast-tracked aid as described by one outlet.",
     "The 2026 emergency sale is $151.8M for the notice in question; a figure of 'nearly $660 million' from one NYT-based report refers to two packages and does not match it.",
     "The West Bank settler order is often dated 24 Jan 2025 (OFAC action); the revocation of EO 14115 is in the 20 Jan 2025 rescissions order, with OFAC's follow-up on 24 Jan.",
-    "Not located: a dated source stating the 14-1 count for the 18 Sep 2025 veto; the exact text of Trump's Truth Social posts on the pardon (only reports of them); any 2026 supplemental for Israel."
+    "Audit corrections (17 Nov 2026): the 28 Feb 2025 emergency determination appears in the notice texts for $2.04B and $675.7M, not for the $295M bulldozer notice; the March 2026 and May 2026 determinations are reported by outlets quoting State, not in the Federal Register text; the May 2026 APKWS notice ($992.4M, 1 May) is verified; the JLTV ($1.98B) and AW119Kx ($150M) values are filled; the ICC designation dates are set (13 Feb, 5 Jun, 20 Aug, 18 Dec 2025; 18 Aug and 9 Oct 2026); the 14-1 count for 18 Sep 2025 is sourced; the tariff entry now records the 20 Feb 2026 Supreme Court ruling.",
+    "Not located: the exact text of Trump's Truth Social posts on the pardon (only reports of them); any 2026 supplemental for Israel; Federal Register notices after about May 2026 (publication lags)."
   ],
   "denials_and_context": [
-    "The administration describes sales as in the US national security interest and says the sales do not change the regional military balance; Israel pays for sales (or uses FMF).",
+    "The administration describes sales as in the US national security interest and says the sales do not change the regional military balance. The notices list Foreign Military Financing (US assistance) as the funding source for every sale, with Israel's national funds added for some.",
     "Democratic members (for example Rep. Meeks) and arms-control groups objected to the use of emergency waivers; Republicans and pro-Israel groups welcomed them. Biden-era emergency waivers for Israel and the earlier hold on bombs show the instruments are not new.",
     "Not every decision favoured Israel's government: the Qatar security guarantee, Netanyahu's apology to Qatar, the annexation warnings, the 15% tariff (above the 10% Israel sought) and Israel's exclusion from the Apr 2026 US-Iran talks.",
     "Herzog's office disputes Trump's account that a pardon was promised. Netanyahu denies the charges and has called the trial a political persecution; critics in Israel and the US say Trump's pressure is interference in Israeli justice.",
@@ -565,11 +591,11 @@
       "read": "excerpt"
     },
     {
-      "title": "Emergency FMS to Israel: 10,000 APKWS rounds, $992.4 million (May 2026, reported in a search summary only)",
-      "publisher": "search summary of State Department notice",
-      "url": "https://www.dsca.mil/Press-Media/Major-Arms-Sales",
-      "date": "2026-05",
-      "read": "excerpt"
+      "title": "Arms Sales Notification, Transmittal 26-60 (Israel APKWS-II, $992.4M)",
+      "publisher": "Federal Register via govinfo.gov",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-05-14/html/2026-09646.htm",
+      "date": "2026-05-14",
+      "read": "full"
     },
     {
       "title": "Trump Sidesteps Congress, Giving Billions to Israel",
@@ -583,6 +609,237 @@
       "publisher": "The Media Line",
       "url": "https://themedialine.org/headlines/rubio-signs-declaration-to-fast-track-4-billion-in-military-aid-to-israel/print",
       "date": "2025-03-01",
+      "read": "excerpt"
+    },
+    {
+      "title": "Arms Sales Notification, Transmittal 24-13 (Israel)",
+      "publisher": "Federal Register via govinfo.gov",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-16/html/2026-00766.htm",
+      "date": "2026-01-16",
+      "read": "full"
+    },
+    {
+      "title": "Arms Sales Notification, Transmittal 24-104 (Israel)",
+      "publisher": "Federal Register via govinfo.gov",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-16/html/2026-00767.htm",
+      "date": "2026-01-16",
+      "read": "full"
+    },
+    {
+      "title": "Arms Sales Notification, Transmittal 25-28 (Israel)",
+      "publisher": "Federal Register via govinfo.gov",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-12/html/2026-00312.htm",
+      "date": "2026-01-12",
+      "read": "full"
+    },
+    {
+      "title": "Arms Sales Notification, Transmittal 25-59 (Israel)",
+      "publisher": "Federal Register via govinfo.gov",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-26/html/2026-01342.htm",
+      "date": "2026-01-26",
+      "read": "full"
+    },
+    {
+      "title": "Arms Sales Notification, Transmittal 24-38 (Israel)",
+      "publisher": "Federal Register via govinfo.gov",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-02-02/html/2026-02063.htm",
+      "date": "2026-02-02",
+      "read": "full"
+    },
+    {
+      "title": "Arms Sales Notification, Transmittal 25-34 (Israel)",
+      "publisher": "Federal Register via govinfo.gov",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-02-02/html/2026-02077.htm",
+      "date": "2026-02-02",
+      "read": "full"
+    },
+    {
+      "title": "Arms Sales Notification, Transmittal 25-26 (Israel)",
+      "publisher": "Federal Register via govinfo.gov",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-02-02/html/2026-02079.htm",
+      "date": "2026-02-02",
+      "read": "full"
+    },
+    {
+      "title": "Arms Sales Notification, Transmittal 26-08 (Israel)",
+      "publisher": "Federal Register via govinfo.gov",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-03-17/html/2026-05139.htm",
+      "date": "2026-03-17",
+      "read": "full"
+    },
+    {
+      "title": "Arms Sales Notification, Transmittal 25-94 (Israel)",
+      "publisher": "Federal Register via govinfo.gov",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-03-17/html/2026-05142.htm",
+      "date": "2026-03-17",
+      "read": "full"
+    },
+    {
+      "title": "Arms Sales Notification, Transmittal 25-87 (Israel)",
+      "publisher": "Federal Register via govinfo.gov",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-03-17/html/2026-05143.htm",
+      "date": "2026-03-17",
+      "read": "full"
+    },
+    {
+      "title": "Arms Sales Notification, Transmittal 25-86 (Israel)",
+      "publisher": "Federal Register via govinfo.gov",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-03-17/html/2026-05144.htm",
+      "date": "2026-03-17",
+      "read": "full"
+    },
+    {
+      "title": "Arms Sales Notification, Transmittal 26-32 (Israel)",
+      "publisher": "Federal Register via govinfo.gov",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-04-14/html/2026-07238.htm",
+      "date": "2026-04-14",
+      "read": "full"
+    },
+    {
+      "title": "Arms Sales Notification, Transmittal 24-0U (Israel)",
+      "publisher": "Federal Register via govinfo.gov",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-13/html/2026-00444.htm",
+      "date": "2026-01-13",
+      "read": "full"
+    },
+    {
+      "title": "Arms Sales Notification, Transmittal 25-0C (Israel)",
+      "publisher": "Federal Register via govinfo.gov",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-02-02/html/2026-02053.htm",
+      "date": "2026-02-02",
+      "read": "full"
+    },
+    {
+      "title": "Arms Sales Notification, Transmittal 25-0E (Israel)",
+      "publisher": "Federal Register via govinfo.gov",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-02-02/html/2026-02054.htm",
+      "date": "2026-02-02",
+      "read": "full"
+    },
+    {
+      "title": "Arms Sales Notification, Transmittal 26-0O (Israel)",
+      "publisher": "Federal Register via govinfo.gov",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-04-15/html/2026-07243.htm",
+      "date": "2026-04-15",
+      "read": "full"
+    },
+    {
+      "title": "OFAC recent actions: ICC designation of Karim Khan",
+      "publisher": "US Treasury, OFAC",
+      "url": "https://ofac.treasury.gov/recent-actions/20250213",
+      "date": "2025-02-13",
+      "read": "full"
+    },
+    {
+      "title": "OFAC recent actions: ICC designations (4 judges)",
+      "publisher": "US Treasury, OFAC",
+      "url": "https://ofac.treasury.gov/recent-actions/20250605",
+      "date": "2025-06-05",
+      "read": "full"
+    },
+    {
+      "title": "OFAC recent actions: ICC designations (2 judges, 2 deputy prosecutors)",
+      "publisher": "US Treasury, OFAC",
+      "url": "https://ofac.treasury.gov/recent-actions/20250820",
+      "date": "2025-08-20",
+      "read": "full"
+    },
+    {
+      "title": "OFAC recent actions: ICC designations (2 judges)",
+      "publisher": "US Treasury, OFAC",
+      "url": "https://ofac.treasury.gov/recent-actions/20251218",
+      "date": "2025-12-18",
+      "read": "full"
+    },
+    {
+      "title": "OFAC recent actions: ICC designations (President Akane, Seye)",
+      "publisher": "US Treasury, OFAC",
+      "url": "https://ofac.treasury.gov/recent-actions/20260818",
+      "date": "2026-08-18",
+      "read": "full"
+    },
+    {
+      "title": "OFAC recent actions: ICC designated as an entity; General Licenses 13-16",
+      "publisher": "US Treasury, OFAC",
+      "url": "https://ofac.treasury.gov/recent-actions/20261009",
+      "date": "2026-10-09",
+      "read": "full"
+    },
+    {
+      "title": "OFAC recent actions: West Bank sanctions termination and designation removals",
+      "publisher": "US Treasury, OFAC",
+      "url": "https://ofac.treasury.gov/recent-actions/20250124",
+      "date": "2025-01-24",
+      "read": "full"
+    },
+    {
+      "title": "Security Council adopts resolution 2803 (SC/16225), 13-0-2",
+      "publisher": "United Nations",
+      "url": "https://press.un.org/en/2025/sc16225.doc.htm",
+      "date": "2025-11-17",
+      "read": "excerpt"
+    },
+    {
+      "title": "Security Council fails to adopt ceasefire resolution owing to US veto (SC/16078), 14-1",
+      "publisher": "United Nations",
+      "url": "https://press.un.org/en/2025/sc16078.doc.htm",
+      "date": "2025-06-04",
+      "read": "excerpt"
+    },
+    {
+      "title": "Security Council: US votes against resolution on Gaza ceasefire (S/2025/583, 14-1-0)",
+      "publisher": "UN News",
+      "url": "https://news.un.org/en/story/2025/09/1165881",
+      "date": "2025-09-18",
+      "read": "excerpt"
+    },
+    {
+      "title": "US approves $992.4 million sale of laser-guided rockets to Israel (quotes State Department emergency wording)",
+      "publisher": "JNS",
+      "url": "https://www.jns.org/news/u-s-news/us-approves-992-4-million-sale-of-laser-guided-rockets-to-israel",
+      "date": "2026-05",
+      "read": "full"
+    },
+    {
+      "title": "US clears advanced rocket systems for Israel, Qatar in $8.6B arms package",
+      "publisher": "Ynet",
+      "url": "https://www.ynetnews.com/article/bka00pmxrwl",
+      "date": "2026-05",
+      "read": "full"
+    },
+    {
+      "title": "US skips congressional review to approve munitions sale to Israel (Reuters)",
+      "publisher": "The New Arab",
+      "url": "https://www.newarab.com/news/us-skips-congressional-review-approve-israel-munitions-sale",
+      "date": "2026-03-07",
+      "read": "excerpt"
+    },
+    {
+      "title": "Trump imposes 15% tariff on Israeli goods from 7 August",
+      "publisher": "FreshPlaza",
+      "url": "https://www.freshplaza.com/africa/article/9754559/u-s-applied-15-tariff-on-israeli-goods-from-august-7",
+      "date": "2025-08",
+      "read": "excerpt"
+    },
+    {
+      "title": "The Supreme Court clipped Trump's tariff powers and opened new trade battle fronts",
+      "publisher": "Council on Foreign Relations",
+      "url": "https://www.cfr.org/articles/the-supreme-court-clipped-trumps-tariff-powers-and-opened-new-trade-battle-fronts",
+      "date": "2026-02",
+      "read": "excerpt"
+    },
+    {
+      "title": "Further Modifying the Reciprocal Tariff Rates (EO 14326)",
+      "publisher": "Federal Register via govinfo.gov",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2025-08-06/html/2025-15010.htm",
+      "date": "2025-08-06",
+      "read": "excerpt"
+    },
+    {
+      "title": "What Trump said at the Knesset (pardon exchange)",
+      "publisher": "JWeekly",
+      "url": "https://jweekly.com/2025/10/13/iran-bibis-trial-and-more-what-trump-said-in-his-historic-knesset-speech/",
+      "date": "2025-10-13",
       "read": "excerpt"
     }
   ],
@@ -695,7 +952,7 @@
     {
       "source": "state-department",
       "target": "international-criminal-court",
-      "label": "designated the court as an institution under EO 14203",
+      "label": "designated the court as an institution under EO 14203 (OFAC SDN list, 9 Oct 2026)",
       "type": "regulatory",
       "date": "2026-10-09"
     },
@@ -709,15 +966,15 @@
     {
       "source": "state-department",
       "target": "israel-government",
-      "label": "emergency determination waiving congressional review of arms sale",
+      "label": "emergency determination waiving congressional review of two arms sales (25-34 $2.04B, 25-26 $675.7M)",
       "type": "regulatory",
-      "date": "2025-03-01",
-      "amount_usd": 2335000000
+      "date": "2025-02-28",
+      "amount_usd": 2715700000
     },
     {
       "source": "state-department",
       "target": "israel-government",
-      "label": "emergency determination, 12,000 bomb bodies",
+      "label": "sale of 12,000 bomb bodies; emergency determination reported by Reuters",
       "type": "regulatory",
       "date": "2026-03-06",
       "amount_usd": 151800000
@@ -845,6 +1102,22 @@
       "label": "adopted US-drafted Resolution 2803 (13-0-2)",
       "type": "political",
       "date": "2025-11-17"
+    },
+    {
+      "source": "state-department",
+      "target": "israel-government",
+      "label": "notified 10,000 APKWS-II sale; emergency determination reported by JNS and Ynet",
+      "type": "regulatory",
+      "date": "2026-05-01",
+      "amount_usd": 992400000
+    },
+    {
+      "source": "state-department",
+      "target": "israel-government",
+      "label": "notified JLTV sale (30 Jan 2026)",
+      "type": "regulatory",
+      "date": "2026-01-30",
+      "amount_usd": 1980000000
     }
   ],
   "leads": [
@@ -886,5 +1159,228 @@
       ],
       "source_url": "https://cof.org/node/20406"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "Every arms-sale notification (date, item, value) against the Federal Register notice text via govinfo.gov",
+      "Emergency determinations (28 Feb 2025, Mar 2026, May 2026)",
+      "ICC designations and the 9 Oct 2026 designation of the court (OFAC recent actions)",
+      "Settler-sanctions revocation (EO text and OFAC 24 Jan 2025 page)",
+      "UN vetoes 4 Jun and 18 Sep 2025 and Resolution 2803 votes",
+      "Tariff rate and its current status",
+      "Netanyahu pardon quotes, dates and status",
+      "Qatar order and annexation items"
+    ],
+    "result": "corrected",
+    "changes": [
+      "Arms sales: all values re-read from the notice texts; JLTV $1.98B and AW119Kx $150M filled; 17 notices and amendments tabulated; 'Israel pays' replaced by the funding source printed in each notice (FMF, plus national funds for some).",
+      "Emergency: the determination text is in 25-34 ($2.04B) and 25-26 ($675.7M), not in the $295M bulldozer notice, contrary to press reports; Mar 2026 ($151.8M) and May 2026 ($992.4M) determinations rest on Reuters, New Arab, JNS and Ynet quoting State, as the Federal Register text lacks the wording; the '$4B' is noted as not itemised by any source.",
+      "APKWS item verified (Transmittal 26-60, 1 May 2026) and kept.",
+      "ICC: dates and persons set from OFAC pages; 18 Aug 2026 (Akane, Seye) and 9 Oct 2026 (the court, SDN entry, GLs 13-16) confirmed.",
+      "UN: 14-1 for both vetoes and 13-0-2 for Resolution 2803 sourced to UN records; sub-claim upgraded to confirmed.",
+      "Tariff: added the 20 Feb 2026 Supreme Court ruling and Section 122 replacement; Israel's current rate unverified; 10% hope kept as single-source (Ynet).",
+      "Pardon: Knesset wording noted as varying by outlet; status after April 2026 not found. Annexation interview dated 15 Oct, published 23 Oct.",
+      "Even-handedness and causation: unchanged; items against Israel's government remain; no sentence asserts a cause."
+    ],
+    "new_sources": [
+      {
+        "title": "Arms Sales Notification, Transmittal 24-13 (Israel)",
+        "publisher": "Federal Register via govinfo.gov",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-16/html/2026-00766.htm",
+        "date": "2026-01-16"
+      },
+      {
+        "title": "Arms Sales Notification, Transmittal 24-104 (Israel)",
+        "publisher": "Federal Register via govinfo.gov",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-16/html/2026-00767.htm",
+        "date": "2026-01-16"
+      },
+      {
+        "title": "Arms Sales Notification, Transmittal 25-28 (Israel)",
+        "publisher": "Federal Register via govinfo.gov",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-12/html/2026-00312.htm",
+        "date": "2026-01-12"
+      },
+      {
+        "title": "Arms Sales Notification, Transmittal 25-59 (Israel)",
+        "publisher": "Federal Register via govinfo.gov",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-26/html/2026-01342.htm",
+        "date": "2026-01-26"
+      },
+      {
+        "title": "Arms Sales Notification, Transmittal 24-38 (Israel)",
+        "publisher": "Federal Register via govinfo.gov",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-02-02/html/2026-02063.htm",
+        "date": "2026-02-02"
+      },
+      {
+        "title": "Arms Sales Notification, Transmittal 25-34 (Israel)",
+        "publisher": "Federal Register via govinfo.gov",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-02-02/html/2026-02077.htm",
+        "date": "2026-02-02"
+      },
+      {
+        "title": "Arms Sales Notification, Transmittal 25-26 (Israel)",
+        "publisher": "Federal Register via govinfo.gov",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-02-02/html/2026-02079.htm",
+        "date": "2026-02-02"
+      },
+      {
+        "title": "Arms Sales Notification, Transmittal 26-08 (Israel)",
+        "publisher": "Federal Register via govinfo.gov",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-03-17/html/2026-05139.htm",
+        "date": "2026-03-17"
+      },
+      {
+        "title": "Arms Sales Notification, Transmittal 25-94 (Israel)",
+        "publisher": "Federal Register via govinfo.gov",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-03-17/html/2026-05142.htm",
+        "date": "2026-03-17"
+      },
+      {
+        "title": "Arms Sales Notification, Transmittal 25-87 (Israel)",
+        "publisher": "Federal Register via govinfo.gov",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-03-17/html/2026-05143.htm",
+        "date": "2026-03-17"
+      },
+      {
+        "title": "Arms Sales Notification, Transmittal 25-86 (Israel)",
+        "publisher": "Federal Register via govinfo.gov",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-03-17/html/2026-05144.htm",
+        "date": "2026-03-17"
+      },
+      {
+        "title": "Arms Sales Notification, Transmittal 26-32 (Israel)",
+        "publisher": "Federal Register via govinfo.gov",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-04-14/html/2026-07238.htm",
+        "date": "2026-04-14"
+      },
+      {
+        "title": "Arms Sales Notification, Transmittal 24-0U (Israel)",
+        "publisher": "Federal Register via govinfo.gov",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-13/html/2026-00444.htm",
+        "date": "2026-01-13"
+      },
+      {
+        "title": "Arms Sales Notification, Transmittal 25-0C (Israel)",
+        "publisher": "Federal Register via govinfo.gov",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-02-02/html/2026-02053.htm",
+        "date": "2026-02-02"
+      },
+      {
+        "title": "Arms Sales Notification, Transmittal 25-0E (Israel)",
+        "publisher": "Federal Register via govinfo.gov",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-02-02/html/2026-02054.htm",
+        "date": "2026-02-02"
+      },
+      {
+        "title": "Arms Sales Notification, Transmittal 26-0O (Israel)",
+        "publisher": "Federal Register via govinfo.gov",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-04-15/html/2026-07243.htm",
+        "date": "2026-04-15"
+      },
+      {
+        "title": "OFAC recent actions: ICC designation of Karim Khan",
+        "publisher": "US Treasury, OFAC",
+        "url": "https://ofac.treasury.gov/recent-actions/20250213",
+        "date": "2025-02-13"
+      },
+      {
+        "title": "OFAC recent actions: ICC designations (4 judges)",
+        "publisher": "US Treasury, OFAC",
+        "url": "https://ofac.treasury.gov/recent-actions/20250605",
+        "date": "2025-06-05"
+      },
+      {
+        "title": "OFAC recent actions: ICC designations (2 judges, 2 deputy prosecutors)",
+        "publisher": "US Treasury, OFAC",
+        "url": "https://ofac.treasury.gov/recent-actions/20250820",
+        "date": "2025-08-20"
+      },
+      {
+        "title": "OFAC recent actions: ICC designations (2 judges)",
+        "publisher": "US Treasury, OFAC",
+        "url": "https://ofac.treasury.gov/recent-actions/20251218",
+        "date": "2025-12-18"
+      },
+      {
+        "title": "OFAC recent actions: ICC designations (President Akane, Seye)",
+        "publisher": "US Treasury, OFAC",
+        "url": "https://ofac.treasury.gov/recent-actions/20260818",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "OFAC recent actions: ICC designated as an entity; General Licenses 13-16",
+        "publisher": "US Treasury, OFAC",
+        "url": "https://ofac.treasury.gov/recent-actions/20261009",
+        "date": "2026-10-09"
+      },
+      {
+        "title": "OFAC recent actions: West Bank sanctions termination and designation removals",
+        "publisher": "US Treasury, OFAC",
+        "url": "https://ofac.treasury.gov/recent-actions/20250124",
+        "date": "2025-01-24"
+      },
+      {
+        "title": "Security Council adopts resolution 2803 (SC/16225), 13-0-2",
+        "publisher": "United Nations",
+        "url": "https://press.un.org/en/2025/sc16225.doc.htm",
+        "date": "2025-11-17"
+      },
+      {
+        "title": "Security Council fails to adopt ceasefire resolution owing to US veto (SC/16078), 14-1",
+        "publisher": "United Nations",
+        "url": "https://press.un.org/en/2025/sc16078.doc.htm",
+        "date": "2025-06-04"
+      },
+      {
+        "title": "Security Council: US votes against resolution on Gaza ceasefire (S/2025/583, 14-1-0)",
+        "publisher": "UN News",
+        "url": "https://news.un.org/en/story/2025/09/1165881",
+        "date": "2025-09-18"
+      },
+      {
+        "title": "US approves $992.4 million sale of laser-guided rockets to Israel (quotes State Department emergency wording)",
+        "publisher": "JNS",
+        "url": "https://www.jns.org/news/u-s-news/us-approves-992-4-million-sale-of-laser-guided-rockets-to-israel",
+        "date": "2026-05"
+      },
+      {
+        "title": "US clears advanced rocket systems for Israel, Qatar in $8.6B arms package",
+        "publisher": "Ynet",
+        "url": "https://www.ynetnews.com/article/bka00pmxrwl",
+        "date": "2026-05"
+      },
+      {
+        "title": "US skips congressional review to approve munitions sale to Israel (Reuters)",
+        "publisher": "The New Arab",
+        "url": "https://www.newarab.com/news/us-skips-congressional-review-approve-israel-munitions-sale",
+        "date": "2026-03-07"
+      },
+      {
+        "title": "Trump imposes 15% tariff on Israeli goods from 7 August",
+        "publisher": "FreshPlaza",
+        "url": "https://www.freshplaza.com/africa/article/9754559/u-s-applied-15-tariff-on-israeli-goods-from-august-7",
+        "date": "2025-08"
+      },
+      {
+        "title": "The Supreme Court clipped Trump's tariff powers and opened new trade battle fronts",
+        "publisher": "Council on Foreign Relations",
+        "url": "https://www.cfr.org/articles/the-supreme-court-clipped-trumps-tariff-powers-and-opened-new-trade-battle-fronts",
+        "date": "2026-02"
+      },
+      {
+        "title": "Further Modifying the Reciprocal Tariff Rates (EO 14326)",
+        "publisher": "Federal Register via govinfo.gov",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2025-08-06/html/2025-15010.htm",
+        "date": "2025-08-06"
+      },
+      {
+        "title": "What Trump said at the Knesset (pardon exchange)",
+        "publisher": "JWeekly",
+        "url": "https://jweekly.com/2025/10/13/iran-bibis-trial-and-more-what-trump-said-in-his-historic-knesset-speech/",
+        "date": "2025-10-13"
+      }
+    ]
+  }
 }

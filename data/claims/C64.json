@@ -169,7 +169,8 @@
   "2025 Albanian lobbying by Trump-world operatives (Continental, LaCivita, Manafort) is for Berisha's opposition, not Rama's government, Kushner's partner.",
   "Ballard's access is contested: Politico reports he was frozen out after the Mar 2025 XRP post.",
   "Audit: Patel's one-year Qatar recusal was pledged in Nov 2024 and had expired before he signed the Dec 2025 Doha agreements; it was not a pledge made at the signing.",
-  "Audit: Bondi is former AG (left Apr 2, 2026); Todd Blanche is AG (acting from Apr 2, confirmed 50-49 on Aug 8, sworn in Aug 10, 2026)."
+  "Audit: Bondi is former AG (left Apr 2, 2026); Todd Blanche is AG (acting from Apr 2, confirmed 50-49 on Aug 8, sworn in Aug 10, 2026).",
+  "2026-11-17: ballroom donor list. The Adelson Family Foundation (a US family foundation; not Israeli government or company money) is reported to have committed $25M to the White House ballroom, the top tier alongside Nvidia, Apple and Charles Ergen, per a Washington Post list of donor records relayed by the Boston Globe (16 Oct 2026). Single-source: one outlet's records, and the foundation did not comment. Neither this check nor the donor list it relied on carried an amount for the foundation, and no sentence here ties a donation to any decision. Details are in C110."
  ],
  "denials_and_context": [
   "Ballard declined to comment to Sludge; Ballard, Miller and Priebus declined comment to CBS on the ballroom.",
@@ -545,6 +546,13 @@
    "publisher": "WTOP (AP)",
    "url": "https://wtop.com/government/2026/08/todd-blanche-is-sworn-in-as-attorney-general-after-bruising-confirmation-fight/",
    "date": "2026-08-10"
+  },
+  {
+   "title": "Adelson Family Foundation donated $25 million to Trump's ballroom",
+   "publisher": "Boston Globe",
+   "url": "https://www.bostonglobe.com/2026/10/16/business/adelson-trump-ballroom-donor/",
+   "date": "2026-10-16",
+   "read": "full"
   }
  ],
  "entities": [
@@ -985,6 +993,12 @@
    "name": "1789 Capital",
    "type": "fund",
    "description": "Trump Jr.-linked VC fund"
+  },
+  {
+   "id": "adelson-family-foundation",
+   "name": "Adelson Family Foundation",
+   "type": "fund",
+   "description": "US (Needham, MA) family foundation; reported to have committed $25M to the White House ballroom (single-source, Washington Post records)"
   }
  ],
  "relationships": [
@@ -1517,6 +1531,14 @@
    "type": "money",
    "date": "2025",
    "amount_usd": 370000
+  },
+  {
+   "source": "adelson-family-foundation",
+   "target": "white-house-ballroom",
+   "label": "reported to have committed $25M (Washington Post records via Boston Globe; single-source)",
+   "type": "money",
+   "date": "2026-10",
+   "amount_usd": 25000000
   }
  ],
  "leads": [
@@ -1568,7 +1590,8 @@
    "Kalshi's $240K to Miller Strategies in H1 2026",
    "Ballard's $60K/month Saudi embassy contract",
    "Brad Bondi's role for Trevor Milton; Bondi's AG status",
-   "Blanche's confirmation vs swearing-in dates (cross-file consistency)"
+   "Blanche's confirmation vs swearing-in dates (cross-file consistency)",
+   "Ballroom donor list: Adelson Family Foundation's reported amount (cross-check from C110)"
   ],
   "result": "corrected",
   "changes": [
@@ -1577,7 +1600,8 @@
    "Brad Bondi: documented role is lead criminal defence counsel while at Cahill; the 'SEC counsel' description is from C36 and was not re-checked, so the statement and relationship label were adjusted.",
    "Upheld: Seiden Law Apr 8, 2025 at $200K/month (some outlets say $125K) and Javelin's Apr 25, 2025 FARA registration, which lists Sorial, Schiller and Robert Seiden as co-owners; Kalshi-Miller $240K (OpenSecrets via Stateline); Ballard-Saudi $60K/month from Mar 31, 2025, still listed in a Mar 2026 FARA supplemental. Verdict and confidence unchanged.",
    "Relationship labels resting on anonymous or single-outlet reporting now name that sourcing: ballard-partners -> donald-trump.",
-   "AG succession reconciled across C49, C61, C64 and C65: Bondi out Apr 2, 2026; Blanche acting AG from Apr 2, confirmed by the Senate 50-49 in a pre-dawn Saturday vote on Aug 8, 2026 (Axios), sworn in at the White House on Monday Aug 10, 2026 (AP via WTOP, PBS). C64: added the 50-49 vote and Aug 10 swearing-in to the correction; the pam-bondi -> us-department-of-justice label said she 'heads' DOJ and now reads 'headed (Attorney General, Feb 2025 - Apr 2, 2026)'."
+   "AG succession reconciled across C49, C61, C64 and C65: Bondi out Apr 2, 2026; Blanche acting AG from Apr 2, confirmed by the Senate 50-49 in a pre-dawn Saturday vote on Aug 8, 2026 (Axios), sworn in at the White House on Monday Aug 10, 2026 (AP via WTOP, PBS). C64: added the 50-49 vote and Aug 10 swearing-in to the correction; the pam-bondi -> us-department-of-justice label said she 'heads' DOJ and now reads 'headed (Attorney General, Feb 2025 - Apr 2, 2026)'.",
+   "2026-11-17: recorded the Adelson Family Foundation's reported $25M ballroom commitment as single-source (Washington Post records via Boston Globe); added the foundation entity and a relationship to the ballroom. Neither file previously named Adelson. No verdict or confidence change."
   ],
   "new_sources": [
    {
@@ -1639,6 +1663,12 @@
     "publisher": "WTOP (AP)",
     "url": "https://wtop.com/government/2026/08/todd-blanche-is-sworn-in-as-attorney-general-after-bruising-confirmation-fight/",
     "date": "2026-08-10"
+   },
+   {
+    "title": "Adelson Family Foundation donated $25 million to Trump's ballroom",
+    "publisher": "Boston Globe",
+    "url": "https://www.bostonglobe.com/2026/10/16/business/adelson-trump-ballroom-donor/",
+    "date": "2026-10-16"
    }
   ]
  }

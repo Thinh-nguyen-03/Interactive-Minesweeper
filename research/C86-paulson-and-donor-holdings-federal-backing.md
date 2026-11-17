@@ -115,6 +115,10 @@ These links are our own cross-referencing. No source we saw asserts them.
 - **Realised gains:** none is documented except Paulson's undisclosed Trilogy sale.
 - **Pending deals:** the Perpetua loan and the Boehly bid were still pending in November 2026.
 
+## Corrections
+
+- **Ballroom donor list (2026-11-17):** The Adelson Family Foundation (a US family foundation, not Israeli money) is reported to have committed $25M to the White House ballroom, per a Washington Post list of donor records relayed by the Boston Globe (16 Oct 2026). Single-source; the foundation did not comment. No sentence here ties a donation to a decision. See C110.
+
 ## Source limits
 - **Not read directly:** NBC and the Alaska Beacon could not be read directly, and the report relies on search-result summaries for them.
 - **FEC filings:** these were not queried directly.
@@ -174,11 +178,13 @@ These links are our own cross-referencing. No source we saw asserts them.
 
 ## Audit (second-opinion pass, Nov 2026)
 
-Result: **upheld** (verdict and confidence unchanged).
+Result: **corrected** (verdict and confidence unchanged).
 
 - **Perpetua.** Upheld. EXIM's board approved $2.9B. Funds are available only after definitive documents and conditions are met (expected in H2 2026), and no close was found through Nov 2026. 13F trackers put Paulson at ~25-26%, the largest holder.
 - **Trilogy.** Upheld: 8.7% stake; 14.3M shares sold in Q4 2025; dates and prices undisclosed. Clarified that only $17.8M of the $35.6M went to Trilogy itself.
 - **Yass / TikTok.** Upheld. Vastmere is named as a Susquehanna affiliate, and SIG's Mark Dooley holds one of seven board seats.
 - **Labels.** Our own arithmetic (the Perpetua paper gain) and the single-source items (USAR PIPE buyers, Boehly consortium) are labelled.
+- **Ballroom donor list (2026-11-17).** Added the Adelson Family Foundation's reported $25M commitment, graded single-source (Boston Globe, 16 Oct 2026). Neither check named Adelson before.
 
 New sources: Mining Weekly 2026-05-22; Trendlyne 13F history; Mining Technology 2025-10; Motley Fool 2026-02-19; TechCrunch 2026-01-27. URLs are in the JSON `audit.new_sources`.
+Boston Globe 2026-10-16 (Adelson Family Foundation, ballroom).

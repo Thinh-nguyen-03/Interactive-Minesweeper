@@ -129,7 +129,8 @@
     "We found no Trump or MAGA Inc. donation from Steven A. Cohen. His documented Trump-family link is Point72's 4% Alt5 Sigma stake.",
     "Perpetua's federal backing did not begin under Trump. The record of decision, the first EXIM letter of interest ($1.8B, April 2024) and most of the DoD awards came under Biden.",
     "Kelcy Warren and Harold Hamm received regulatory decisions (an LNG deadline extension, BLM permits), not federal equity stakes, loans or price floors. Lake Charles LNG was suspended in December 2025.",
-    "Trilogy's biggest paper winner was Electrum (~18.5%), not Paulson (~8.7%)."
+    "Trilogy's biggest paper winner was Electrum (~18.5%), not Paulson (~8.7%).",
+    "2026-11-17: ballroom donor list. The Adelson Family Foundation (a US family foundation; not Israeli government or company money) is reported to have committed $25M to the White House ballroom, the top tier alongside Nvidia, Apple and Charles Ergen, per a Washington Post list of donor records relayed by the Boston Globe (16 Oct 2026). Single-source: one outlet's records, and the foundation did not comment. Neither this check nor the donor list it relied on carried an amount for the foundation, and no sentence here ties a donation to any decision. Details are in C110."
   ],
   "denials_and_context": [
     "Cantor says it had no role in USA Rare Earth's government negotiations or financing.",
@@ -439,6 +440,13 @@
       "publisher": "Fortune",
       "url": "https://fortune.com/2026/07/26/the-u-s-government-invested-27-billion-in-corporate-stakes-good-luck-finding-them/",
       "date": "2026-07-26"
+    },
+    {
+      "title": "Adelson Family Foundation donated $25 million to Trump's ballroom",
+      "publisher": "Boston Globe",
+      "url": "https://www.bostonglobe.com/2026/10/16/business/adelson-trump-ballroom-donor/",
+      "date": "2026-10-16",
+      "read": "full"
     }
   ],
   "entities": [
@@ -813,6 +821,12 @@
       "name": "House Natural Resources Committee Democrats",
       "type": "government",
       "description": "Asked agencies about donor equity positions"
+    },
+    {
+      "id": "adelson-family-foundation",
+      "name": "Adelson Family Foundation",
+      "type": "fund",
+      "description": "US (Needham, MA) family foundation; reported to have committed $25M to the White House ballroom (single-source, Washington Post records)"
     }
   ],
   "relationships": [
@@ -1253,6 +1267,14 @@
       "label": "asked whether Trump donors hold equity in stake companies",
       "type": "political",
       "date": "2026-02-02"
+    },
+    {
+      "source": "adelson-family-foundation",
+      "target": "white-house-ballroom",
+      "label": "reported to have committed $25M (Washington Post records via Boston Globe; single-source)",
+      "type": "money",
+      "date": "2026-10",
+      "amount_usd": 25000000
     }
   ],
   "leads": [
@@ -1316,14 +1338,16 @@
     "checked": [
       "Paulson as Perpetua's largest holder and the $2.9B EXIM loan approval/close",
       "Paulson's Trilogy Metals stake, the US $35.6M stake and his Q4 2025 exit",
-      "Yass/Susquehanna's position in the TikTok USDS joint venture (Vastmere, board seat)"
+      "Yass/Susquehanna's position in the TikTok USDS joint venture (Vastmere, board seat)",
+      "Ballroom donor list: Adelson Family Foundation's reported amount (cross-check from C110)"
     ],
-    "result": "upheld",
+    "result": "corrected",
     "changes": [
       "Perpetua: upheld. EXIM's board approved $2.9B (largest 'Make More in America' loan), funds available only after definitive documents and conditions; no close found through Nov 2026. Added 13F-tracker figure of ~25-26% (32.3M shares, Q1 2026) for Paulson's holding.",
       "Trilogy: upheld (8.7%, 14.3M shares sold in Q4 2025 per Bloomberg/13F; dates and prices undisclosed). Clarified that the $35.6M was split: only $17.8M went to Trilogy; the other $17.8M bought existing shares from South32. Relationship label updated.",
       "TikTok/Yass: upheld. Vastmere Strategic Investments is named as a Susquehanna affiliate and SIG's Mark Dooley holds one of seven board seats; Oracle, Silver Lake and MGX hold 15% each and ByteDance 19.9%. Sources still disagree on the residual 'other investors' share; no change needed.",
-      "Label check: Paulson's ~$100M Perpetua paper gain is marked as our arithmetic; the USAR PIPE purchases are marked single-source; the Boehly consortium is marked single-source (FT)."
+      "Label check: Paulson's ~$100M Perpetua paper gain is marked as our arithmetic; the USAR PIPE purchases are marked single-source; the Boehly consortium is marked single-source (FT).",
+      "2026-11-17: recorded the Adelson Family Foundation's reported $25M ballroom commitment as single-source (Washington Post records via Boston Globe); added the foundation entity and a relationship to the ballroom. Neither file previously named Adelson. No verdict or confidence change."
     ],
     "new_sources": [
       {
@@ -1355,6 +1379,12 @@
         "publisher": "TechCrunch",
         "url": "https://techcrunch.com/2026/01/27/what-you-should-know-about-the-owners-of-us-tiktok",
         "date": "2026-01-27"
+      },
+      {
+        "title": "Adelson Family Foundation donated $25 million to Trump's ballroom",
+        "publisher": "Boston Globe",
+        "url": "https://www.bostonglobe.com/2026/10/16/business/adelson-trump-ballroom-donor/",
+        "date": "2026-10-16"
       }
     ]
   }
