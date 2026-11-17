@@ -1554,5 +1554,84 @@
   "question": "Which other senior officials received ethics waivers or divested late, and what happened to the offices that oversee them?",
   "topic": "pardons-lobbyists-and-access",
   "hidden": false
+ },
+ {
+  "id": "C110",
+  "slug": "pro-israel-donors-and-trump",
+  "lines": "",
+  "title": "Pro-Israel Donors & Trump's Campaign",
+  "claim": "What did the largest donors identified with pro-Israel causes give to Donald Trump's 2024 campaign, allied committees and inauguration (Miriam Adelson and Preserve America, and others), what has Trump said in public about those donors and what they asked for, what did AIPAC and its affiliated committees spend in 2024 and 2026 and on whom, and what is documented about requests made to him? Use FEC records and on-record statements.",
+  "origin": "follow-up",
+  "parents": [
+   "C86",
+   "C64"
+  ],
+  "display_title": "Pro-Israel Donors & Trump's Campaign",
+  "question": "What did the largest pro-Israel donors give to Trump's campaign and allies, and what has he said about them?",
+  "topic": "foreign-deals",
+  "hidden": true
+ },
+ {
+  "id": "C111",
+  "slug": "kushner-affinity-and-israel",
+  "lines": "",
+  "title": "Jared Kushner, Affinity Partners & Israel",
+  "claim": "What has Jared Kushner's Affinity Partners invested in Israeli companies (for example Phoenix Financial and Shlomo Group), with what money and on what dates, what other business ties to Israel do Kushner and his family have, and how do those overlap in time with his role in Gaza, hostage and regional diplomacy since January 2025? State overlaps in time only.",
+  "origin": "follow-up",
+  "parents": [
+   "C15",
+   "C37"
+  ],
+  "display_title": "Jared Kushner, Affinity Partners & Israel",
+  "question": "What has Jared Kushner's fund invested in Israel, and how does that overlap with his diplomatic role?",
+  "topic": "foreign-deals",
+  "hidden": true
+ },
+ {
+  "id": "C112",
+  "slug": "gaza-reconstruction-and-board-of-peace",
+  "lines": "",
+  "title": "Gaza Reconstruction, the Board of Peace & Who Is Involved",
+  "claim": "What are the documented plans for Gaza's reconstruction and governance since 2025 (Trump's 'Riviera' remarks, the 20-point plan, the Board of Peace and its membership and funding, redevelopment proposals circulated by advisers), which named individuals and firms connected to the Trump family or administration have a documented role or financial interest, and what contracts or commitments exist? Separate plans and proposals from signed commitments.",
+  "origin": "follow-up",
+  "parents": [
+   "C15",
+   "C105"
+  ],
+  "display_title": "Gaza Reconstruction, the Board of Peace & Who Is Involved",
+  "question": "Who has a documented role or financial interest in Gaza's reconstruction plans?",
+  "topic": "foreign-deals",
+  "hidden": true
+ },
+ {
+  "id": "C113",
+  "slug": "us-israel-decisions-timeline",
+  "lines": "",
+  "title": "US Decisions on Israel: Arms, Sanctions & the Netanyahu Pardon Call",
+  "claim": "What major decisions has the administration taken on Israel since January 2025 (arms sales and emergency transfers with amounts, sanctions on the International Criminal Court and lifting of settler sanctions, UN votes, the Iran strikes, Trump's public calls for a pardon for Benjamin Netanyahu and tariff or aid decisions), each with date, amount and source? Present them as a dated record beside the money flows documented in related checks, without asserting cause.",
+  "origin": "follow-up",
+  "parents": [
+   "C110"
+  ],
+  "display_title": "US Decisions on Israel: Arms, Sanctions & the Netanyahu Pardon Call",
+  "question": "What has the administration decided on Israel since January 2025, with dates and amounts?",
+  "topic": "foreign-deals",
+  "hidden": true
+ },
+ {
+  "id": "C114",
+  "slug": "trump-family-business-in-israel",
+  "lines": "",
+  "title": "Trump Family & Associates: Business in Israel",
+  "claim": "What business do the Trump Organization, Trump family members and close associates have in Israel or with Israeli companies and investors (licensing or development projects past and proposed, Israeli investors in Trump-linked ventures such as World Liberty or Trump Media, Israeli firms with federal contracts tied to associates, Steve Witkoff's dealings), and where was nothing found? Record 'nothing found' plainly.",
+  "origin": "follow-up",
+  "parents": [
+   "C105",
+   "C79"
+  ],
+  "display_title": "Trump Family & Associates: Business in Israel",
+  "question": "What business ties do the Trump family and associates have in Israel, and where is there none?",
+  "topic": "foreign-deals",
+  "hidden": true
  }
 ]
