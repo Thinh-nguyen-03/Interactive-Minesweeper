@@ -14,7 +14,7 @@
   - the Argentina swap and investors who are his former Soros colleagues
   - SEC dismissals under Atkins, including the Devon Archer case, from which Atkins reportedly recused
 
-  The decisions themselves are documented. **That any of them served the official's own interests is an allegation.** No authority has made such a finding. The one review on record went the other way: the Treasury Inspector General found "no knowing violation" over Bessent's spouse's mis-reported JPMorgan stock.
+  The decisions themselves are documented. **That any of them served the official's own interests is an allegation.** No authority has made such a finding. The one review on record went the other way: according to a Treasury ethics official's comment on Bessent's 2026 annual report, the Treasury Inspector General found "no knowing violation" over his spouse's mis-reported JPMorgan stock.
 
 This extends C52, C54 and C65, and corrects them in a few places (see Corrections).
 
@@ -76,7 +76,7 @@ This extends C52, C54 and C65, and corrects them in a few places (see Correction
 ### 5. Conflicts with China, farm or tariff decisions: unverified (allegation)
 - **The complaints:** Campaign Legal Center (9 Jul 2025), then Democracy Defenders Fund and CLC (13 and 20 Aug 2025), asked OGE and the Treasury Inspector General to investigate a possible 18 U.S.C. 208 violation. They argued that talks with China and Canada while he held the farmland created a "serious risk" of conflict.
 - **Context:** the July complaint said Verizon and ADM were undivested. Filings posted later show both were sold on 4 Mar 2025, though they were not public when CLC wrote.
-- **Findings:** no OGE, Inspector General or court finding of a violation was found. The only finding on record is narrower. His spouse's JPMorgan stock had been reported as a bank deposit; it was sold in July 2025 once noticed, and a $200 late fee was paid. The Treasury OIG "determined that there was no knowing violation" of the Ethics in Government Act or 18 U.S.C. 208, and Treasury's ethics official concurred.
+- **Findings:** no OGE, Inspector General or court finding of a violation was found. The only finding on record is narrower, and it is known only from a comment by Treasury's ethics official, Mark Vetter (3 Sep 2026), on the 2026 annual report. His spouse's JPMorgan stock ($100K-$250K) had been reported as a bank deposit ($1M-$5M). It was sold on 14 Jul 2025 once noticed, and a $200 late fee was paid. The Treasury OIG "determined that there was no knowing violation" of the Ethics in Government Act or 18 U.S.C. 208, and Treasury's ethics official concurred. No separate OIG document was found.
 
 ### 6. Argentina package and former colleagues' investments: unverified (allegation)
 - **The package:** Treasury announced support in September 2025 and in mid-October signed a $20B exchange stabilization agreement with Argentina's central bank. Argentina drew $2.5B and repaid it in December 2025. Treasury's 20 Jan 2026 letter says the Exchange Stabilization Fund holds no pesos. Sen. Warren (4 Feb 2026, read in full) notes that the agreement has not been shown to be terminated.
@@ -191,6 +191,26 @@ Marked "read in full" or "excerpt" (search results or syndicated summaries).
 49. Rolling Stone (2025-03), excerpt: https://www.rollingstone.com/politics/politics-news/trump-sec-paul-atkins-wall-street-oil-crypto-1235303581/
 50. The Block, Securitize S-4 effective (2026-06-05), excerpt: https://www.theblock.co/news/deals/2026-06-05-securitize-clears-sec-registration-statement-hurdle-sets-path-to-nyse-listing-as-secz-403842
 51. Blumenthal letter to Atkins (2026-03-30), excerpt: https://www.hsgac.senate.gov/wp-content/uploads/2026-03-30-Letter-from-Sen-Blumenthal-to-Chairman-Atkins-1.pdf
+
+## Audit (second review, 17 Nov 2026)
+
+**Result: corrected (minor).**
+
+**Re-read and confirmed from the saved primary documents:**
+- **OGE's 11 Aug 2025 letter:** "failed to timely comply", with compliance due 28 Apr 2025 and certification due 5 May 2025.
+- **OGE's 13 Aug 2025 supplement:** the 15 Dec 2025 completion date.
+- **Bessent's certifications:** the first, signed 2 May 2025, and the final one, signed "5 Dec 25".
+- **The December amendment:** a promissory note, with no equity taken back on default.
+- **The 2026 annual report:** a "Note from Glacier Ridge, LLP" worth $5M-$25M, described as a "Non-recourse note exchanged for farmland".
+- **Atkins's certification of 18 Jul 2025:** no waivers or authorizations. OGE's index lists his two Certificates of Divestiture.
+
+**Corrections:**
+- **The farmland note.** The JSON said the note was "secured, as reported, by the same land". No source says so, so that wording was removed.
+- **The JPMorgan finding.** It is now attributed to the ethics official's comment in the annual report. No standalone Treasury OIG document was found.
+
+**Still unresolved:**
+- No reporting through 17 Nov 2026 names who owns Glacier Ridge, LLP or who bought Patomak.
+- The Archer recusal still rests on the NYT, relayed by other outlets.
 
 ## Open leads
 

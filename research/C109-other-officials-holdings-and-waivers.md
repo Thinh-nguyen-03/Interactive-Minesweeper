@@ -14,7 +14,7 @@ Filings and official letters document:
 - **A gap in Kennedy's case.** His amended ethics agreement said he would assign his Gardasil fee interest to his adult son. HHS's own letter, as quoted by senators, says he assigned it to the law firm Wisner Baum instead.
 - **Musk** served as a special government employee. His disclosure was confidential, and no waiver for him has been published.
 
-Nothing late was found for Bisignano, whose Fiserv sale met its deadline, or for Oz, Hegseth or Boulos.
+Nothing late was found for Bisignano, whose Fiserv sales met their deadline, or for Oz or Hegseth. Nothing at all was found on record for Massad Boulos (no public disclosure, ethics agreement, waiver, letter or finding), so he is not listed.
 
 The oversight offices changed sharply:
 
@@ -24,14 +24,14 @@ The oversight offices changed sharply:
 
 **No authority has found that any official named here violated 18 U.S.C. 208 or an ethics agreement.**
 
-**Evidence rule applied:** holding an asset is not a violation. A late transaction report is a reporting lapse with a $200 fee, not a late divestiture. An allegation without a finding is marked unverified. This check builds on C65 (Patel, Boulos), C68 (Musk) and C103 (Hegseth, OGE). The waivers for Lutnick (C104) and Sacks (C106) are only listed here.
+**Evidence rule applied:** holding an asset is not a violation. A late transaction report is a reporting lapse that can carry a $200 per-report fee (waivable by the agency), not a late divestiture. An allegation without a finding is marked unverified. This check builds on C65 (Patel), C68 (Musk) and C103 (Hegseth, OGE). The waivers for Lutnick (C104) and Sacks (C106) are only listed here.
 
 ## Table: one row per official
 
 | Official | Waiver (date, scope) | Late or incomplete divestiture | Letters / complaints | Retained interests of note | Response | Finding |
 |---|---|---|---|---|---|---|
 | Elon Musk (SGE, DOGE; left late May 2025) | None published | Not applicable; his disclosure was confidential | Schiff to OGE, 10 Feb 2025. House Oversight Democrats to White House Counsel, 1 May 2025. PSI minority memo, 27 Apr 2025 ($2.37B potential liability, a staff estimate). CLC request to OGE, June 2025 | Tesla, SpaceX, xAI and others (federal contracts, 65 federal actions per PSI) | White House said he would recuse himself from conflicting contracts | None |
-| Kash Patel (FBI) | None; agency found the Elite Depot conflict "remote" | None found | Schiff and colleagues, 12 Feb 2025 | Elite Depot stock units ($1M-$5M, vesting to Nov 2025); one-year covered relationship with Qatar; Trump Media board seat to be resigned | Will not take part in matters affecting Elite Depot | None |
+| Kash Patel (FBI) | None; the agency determined the likelihood of Elite Depot matters was "remote" | None found | Schiff and colleagues, 12 Feb 2025 | Elite Depot stock units ($1M-$5M, vesting to Nov 2025); one-year covered relationship with Qatar; Trump Media board seat to be resigned | Will not take part in matters affecting Elite Depot | None |
 | Robert F. Kennedy Jr. (HHS) | Interim 208(b)(1) waiver, 18 Feb 2025, for four Park Holdings funds (under $380K) until divested in Apr 2025 | Fee interest assigned to Wisner Baum on 11 Feb 2025, not to his son as the 1 Feb agreement said (per HHS letter of 25 Aug 2026) | Warren, Wyden, Blumenthal and Alsobrooks, 24 Sept 2026 | Gardasil fee interest given up (Merck settled for about $50M in June 2026) | HHS confirmed compliance in May 2025; Kennedy says he gave it up before taking office | None |
 | Mehmet Oz (CMS) | None found | Not established | None found | iHerb units ($5M-$25M) and dozens of health stocks to be sold; Oz Media kept | n/a | None |
 | Pete Hegseth (Defense) | None found | n/a | Warner-Schiff, 2 Apr 2026; Warren, 20 Apr 2026 (reported broker approach, FT single-source) | n/a | Pentagon denies any approach | None |
@@ -39,9 +39,8 @@ The oversight offices changed sharply:
 | Doug Burgum (Interior) | None found | Compliance certification reportedly filed; 106 of 153 transaction reports self-certified late | Group asked the inspector general to look at appointee Budd-Falen (Feb 2026) | Family farm and mineral interests disclosed | n/a | None |
 | Linda McMahon (Education) | None found | No certification public more than a month after the 1 June 2025 deadline (CLC); 153 of 156 transaction reports self-certified late | CLC complaint to OGE, 9 July 2025 | 78 school and university bonds to be sold | None found | None |
 | Kelly Loeffler (SBA) | None found | n/a | None found | Newsmax parent stock (Fortune); $3M in Groq (Oct 2025); ICE stock sold, $5M-$25M (Nov 2025, as reported) | SBA: portfolio managed independently; she complies | None |
-| Frank Bisignano (SSA, IRS) | None found | Not late: Fiserv sold 16 May to 1 July 2025, inside the 120-day window | Warren and Wyden to Fiserv, Nov 2025 | None | Agency: complied with all obligations | None |
+| Frank Bisignano (SSA, IRS) | None found | Not late: Fiserv sold on 16 May and 1 July 2025, inside the 120-day window | Warren and Wyden to Fiserv, Nov 2025 | None | Agency: complied with all obligations | None |
 | Jared Isaacman (NASA, since Dec 2025) | None found | Not required to sell Shift4; 128 of 147 transaction reports self-certified late | None found | Shift4 stake (voting cut to about 25%); bought $10M-$50M more in May 2026 (Sludge) | n/a | None |
-| Massad Boulos (senior adviser) | None found | No public filing located | None found | Business interests disputed (C65) | n/a | None |
 | Others | Jetson Leder Luis (task force), 16 Apr 2026, for his spouse's Amazon units; Lutnick (C104); Sacks (C106) | n/a | n/a | n/a | n/a | None |
 
 ## Sub-claims
@@ -59,7 +58,7 @@ As a special government employee (SGE), limited to 130 days in any 365, Musk was
 ### 2. Patel: confirmed; no finding
 His ethics agreement (read in full) sets out the following:
 
-- **Elite Depot:** he keeps his Elite Depot stock units, which vest quarterly to 1 Nov 2025. Instead of divesting, he recuses: the Justice Department judged that matters involving the company were "remote". That is neither a waiver nor a late divestiture.
+- **Elite Depot:** he keeps his Elite Depot stock units, which vest quarterly to 1 Nov 2025. The agreement says "the agency has determined that it is not necessary at this time for me to divest my interests in Elite Depot, Ltd., because the likelihood that my duties will involve any such matter is remote." Instead he recuses from matters affecting it "for as long as I own it" unless he gets a 208(b)(1) waiver. That is neither a waiver nor a late divestiture.
 - **Qatar:** after consulting for its embassy until Nov 2024, he has a one-year covered relationship with Qatar. The agreement says a written authorization to take part in Qatar matters "will" be granted; whether it was granted is not public.
 - **Trump Media:** he agreed to resign from the board.
 - **Stock sales:** 19 stocks are to be sold within 90 days.
@@ -90,6 +89,7 @@ All of this falls within 90 days of his confirmation on 3 Feb 2025.
 ### 7. Burgum: partly-accurate
 - **Certification:** reportedly filed (excerpt).
 - **Late reports:** his transaction reports (278-T) self-certify 106 of 153 transactions as late. This is late reporting, not late divestiture.
+- **What the counts measure (all three officials):** transactions for which the filer answered "Yes" to the 278-T column "Notification received over 30 days ago", that is, the filer's own statement that the report came after the 30-day deadline. Open Cabinet tallies them across all of an official's 278-Ts (late-filings page, read in full 17 Nov 2026). A late report can carry a $200 fee per report, which the agency may waive.
 - **Department matter:** Interior appointee Karen Budd-Falen's redacted ethics records drew calls for an inspector-general inquiry (High Country News, excerpt).
 
 ### 8. McMahon: mostly-accurate (complaint documented; no finding)
@@ -108,7 +108,7 @@ Her later 278-T filings run to 24 June 2025, and 153 of 156 transactions are sel
 - **Waivers and findings:** none found.
 
 ### 10. Bisignano: false (as "late")
-He sold Fiserv between 16 May and 1 July 2025, inside his 120-day window. The senators' question is about timing: the stock fell later in 2025. The agency says he complied with his agreement.
+Sens. Wyden and Warren's letter to Fiserv of 6 Nov 2025 (read in full) says he owned "roughly $594 million in Fiserv stock" at confirmation and sold it "in tax-advantaged sales on May 16 and July 1, 2025", worth about $530M. Both dates are inside his 120-day window. The senators' question is about timing: the stock fell later in 2025. The agency says he complied with his agreement.
 
 ### 11. Isaacman: confirmed (retained stake)
 - **Agreement:** dated 17 Nov 2025 (relevant sections read). He keeps his Shift4 stake, his voting control is reduced to about 25%, and he recuses from matters affecting Shift4.
@@ -116,31 +116,28 @@ He sold Fiserv between 16 May and 1 July 2025, inside his 120-day window. The se
 - **Late reports:** 128 of 147 transactions are self-certified as late.
 - **Finding:** none.
 
-### 12. Boulos: unverified
-No public financial disclosure, ethics agreement, waiver or finding was located.
-
-### 13. Ethics pledge and waiver publication: mostly-accurate
+### 12. Ethics pledge and waiver publication: mostly-accurate
 - **Pledge:** EO 13989 was revoked on 20 Jan 2025, and no replacement pledge appeared in the reporting we found or in later searches.
 - **Waivers:** the White House disclosures page lists six 208(b)(1) waivers.
 - **Agency waivers:** these are filed with OGE; that collection was not searchable here.
 
-### 14. OGE leadership: confirmed
+### 13. OGE leadership: confirmed
 - **Removal:** Huitema was removed on 10 Feb 2025 (OGE notice, read in full).
 - **Acting heads:** Collins (Feb 2025), then Greer (about Apr to Sept 2025), then Ueland (from about Aug or Sept 2025). Senators say Ueland's service ended in early Dec 2025.
-- **Vacancy:** the 300-day acting limit expired, and on 18 May 2026 senators said OGE had no head even in an acting capacity.
-- **Since June 2026:** Sonderling was named acting director and Chamberlain was nominated, both on 23 June 2026 (read in full). No confirmation vote was found.
+- **Vacancy:** Sen. Schiff and colleagues wrote to White House Chief of Staff Susie Wiles on 18 May 2026 that, "according to records received by Congress", Ueland "discontinued his service in early December 2025", that the 300-day acting limit had expired, and that OGE "is now operating without any leadership, even in an acting capacity".
+- **Since June 2026:** Sonderling was named acting director and Chamberlain was nominated, both on 23 June 2026 (read in full). No committee vote or confirmation was found as of 17 Nov 2026. OGE staff kept certifying filings throughout.
 
-### 15. Inspectors general: confirmed
+### 14. Inspectors general: confirmed
 - **Removals:** about 17 inspectors general were removed on 24 Jan 2025 without the notice to Congress and reasons that the IG Act requires.
-- **Ruling:** in Storch v. Hegseth (24 Sept 2025), Judge Reyes found the President had almost certainly violated the law but denied reinstatement. The case was then stayed pending Trump v. Slaughter, which the Supreme Court decided on 29 June 2026. No later ruling in Storch was found.
+- **Ruling:** in Storch v. Hegseth (24 Sept 2025), Judge Reyes found the President had almost certainly violated the law but denied reinstatement. The case was then stayed pending Trump v. Slaughter, which the Supreme Court decided on 29 June 2026. The docket then shows a joint status report (13 July 2026) and a 20 July 2026 order setting a pre-motion schedule for summary-judgment motions (conference the week of 24 Aug 2026). No merits or back-pay ruling was found.
 - **Since then:** Cato (Apr 2026) counts at least 21 inspectors general removed or replaced and 28 of 72 posts vacant. OMB withheld FY2026 funding from the inspectors general's council (CIGIE) in Oct 2025, then partly reversed that decision.
 
-### 16. GAO and court findings on ethics: unverified
+### 15. GAO and court findings on ethics: unverified
 - **GAO:** its findings concern the Impoundment Control Act, not officials' holdings. On 16 Nov 2026 the President nominated Ueland to lead GAO (NOTUS, read in full).
 - **Courts:** the only court finding in scope is the inspector-general ruling above.
 
-### 17. Any violation finding: unverified
-None was found for any official named here.
+### 16. Any violation finding: unverified
+None was found for any official named here, or for Boulos.
 
 ## Corrections
 
@@ -204,6 +201,7 @@ Excerpts (partial reads or search results):
 37. Star-Advertiser (AP) on Musk's confidential disclosure, 11 Feb 2025: https://staradvertiser.com/2025/02/11/breaking-news/elon-musks-financial-disclosure-will-not-be-made-public
 38. Public Citizen, "Isn't That Special?", 17 Apr 2025: https://www.citizen.org/wp-content/uploads/Isnt_That_Special_REPORT.pdf
 39. Federal News Network on GAO's second impoundment finding, June 2025: https://federalnewsnetwork.com/agency-oversight/2025/06/gao-finds-trump-administrations-second-violation-of-federal-spending-law/
+40. Sens. Wyden and Warren to Fiserv, 6 Nov 2025 (read in full): https://www.finance.senate.gov/imo/media/doc/wyden_warren_fiserv_letter.pdf
 
 The full list with dates, including the Hegseth letters reused from C103, is in `data/claims/C109.json`.
 
@@ -215,3 +213,16 @@ The full list with dates, including the Hegseth letters reused from C103, is in 
 - Whether the FBI granted Patel the Qatar authorization his agreement anticipated.
 - Oz's compliance certification; Loeffler's SpaceX IPO gains (Reuters, relayed; fetch blocked).
 - OGE's agency-level conflict-of-interest waiver collection (not searchable here).
+
+## Audit (second reviewer, 17 November 2026)
+**Result: corrected.**
+- **Checked against the primary documents:** Patel's ethics agreement; the senators' 24 Sept 2026 letter to Kennedy (quoting HHS's 25 Aug 2026 letter) and his 18 Feb 2025 waiver; Isaacman's ethics agreement; Open Cabinet's late-filings page; the senators' Fiserv letter; OGE's removal notice and its June 2026 release; the 18 May 2026 senators' letter; the White House waiver list; the Storch docket listing.
+- **Changed:**
+  - Patel's "remote" determination is attributed to "the agency" and quoted.
+  - Bisignano's two sale dates are given.
+  - The late-report counts now say what they measure.
+  - Boulos is removed as a row because nothing about him is documented.
+  - The OGE letter is quoted, with its addressee.
+  - The post-Slaughter Storch docket entries are added.
+- **Upheld:** Kennedy's fee assignment (as quoted by the senators), Isaacman's retained stake, Bisignano's on-time sale, the OGE timeline (removal 10 Feb 2025; Sonderling named 23 Jun 2026), the 24 Jan 2025 IG removals, the 24 Sept 2025 ruling, and the EO 13989 revocation.
+

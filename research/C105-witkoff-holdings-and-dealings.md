@@ -14,7 +14,8 @@ Most of the record is documented in his own disclosure filings, which were read 
   - It was certified by the White House ethics official only on 12 December 2025, after senators complained, and was corrected at that time to add the State post.
   - His annual report (labelled 2026, covering 2025) was signed on 29 July 2026. As published, it carries no reviewer signature.
 - **Witkoff Group.** He sold an interest in the Witkoff Group for $120M "as part of divestiture planning". The forms name no buyer, date or share, and he still holds a stake worth over $50M.
-- **World Liberty Financial.** Both reports still list his World Liberty Financial and SC Financial interests inside Witkoff Holdings LLC. Witkoff Holdings paid him $106.9M in 2025: $68.9M in cash and $38.1M in cryptocurrency.
+- **World Liberty Financial.** Both reports list his World Liberty Financial and SC Financial interests inside Witkoff Holdings LLC, a broad holding company. Witkoff Holdings paid him $106.9M in 2025: $68.9M in cash and $38.1M in cryptocurrency. The form does not say how much came from WLF.
+- **What the annual report can show.** It covers calendar 2025. It shows he still held the WLF interest after the White House said in September 2025 that he was "still in the process of divesting", and it records no disposal in 2025. It cannot show whether he held the interest in 2026, when the White House said he had divested.
 - **Divestiture claims.** The White House says he has "fully divested" from WLF and does not take part in matters affecting his interests. No certificate of divestiture, ethics agreement, waiver, written recusal, buyer or recipient has been published.
 - **Overlaps.** His work on the UAE, Qatar, Russia and Pakistan overlaps in time with family and WLF dealings with counterparts in those places (Aryam, MGX, Access Industries, Pakistan's government). We found no Saudi or Israeli dealing.
 - **Investigations.** State's inspector general referred one request to its investigators in December 2025. No authority has made any finding.
@@ -55,7 +56,7 @@ This extends C14 (WLF divestiture), C42 (the $107M), C53 (family Gulf money and 
   - Both reports, Part 2: "The Witkoff Group LLC (real estate management company)", value "Over $50,000,000", income $120,000,000, "Proceeds from the sale of an interest in the company as part of divestiture planning" [1][3].
   - Because the line appears in both reporting periods, the sale took place between 1 January and 13 August 2025.
   - No buyer, date or share is given, and he still holds a stake worth over $50M.
-- **Managing roles.** Endnote 1 (December 2025) says he "is beginning the process of resigning" as managing member of 77 entities and will receive "only passive investment income". In July 2026 he was still "in the process ... in collaboration with relevant partners and lenders", and all 77 positions still read "Present".
+- **Managing roles.** Endnote 1 (December 2025) says he "is beginning the process of resigning from his positions as managing member for the entities listed in Part 1" and "will only receive passive investment income". Part 1 has 77 entries, which also include officer, director, trustee and member roles. In July 2026 he was still "in the process of resigning ... in collaboration with relevant partners and lenders", and 76 of the 77 entries still read "Present" (the exception is a Bally's consultancy that ended in 9/2023).
 - **Who runs the firm.** He told Bloomberg in March 2025 that he was divesting. His son Alex runs the firm [14].
 - **The buyer.** Popular Information speculates the buyer could be a family member [16]. That is speculation; no source identifies the buyer.
 
@@ -71,8 +72,14 @@ This extends C14 (WLF divestiture), C42 (the $107M), C53 (family Gulf money and 
   - WLF (Zak Folkman, 23 May 2025): he was "in the process of fully divesting".
   - White House (September 2025): "still in the process of divesting" [19].
   - White House counsel Warrington to CNN (1-2 February 2026): he "has also divested from World Liberty Financial, notwithstanding his ability and willingness to recuse" [13].
-  - Spokeswoman Anna Kelly to ABC (September 2026): "fully divested" [12].
-- **What the July 2026 report shows.** It still lists the WLF and SC Financial interests and no transaction disposing of them. It reports 2025 holdings, so a disposal in 2026 would not necessarily appear.
+  - Spokeswoman Anna Kelly to ABC (9 September 2026): "fully divested" [12].
+- **What the July 2026 report shows, and what it cannot.**
+  - It is the "Annual Report" for "Report Year: 2026", whose reporting period is calendar 2025. It was signed on 29 July 2026 but describes 2025, not the position on the signing date.
+  - Part 6, line 35: "Witkoff Holdings LLC", value "Over $50,000,000", "Distributions $106,938,819". Its underlying lines include "35.8 WC Digital Fi LLC", "35.8.1 World Liberty Financial (cryptocurrency)", "35.9 WC Digital SC LLC" and "35.9.1 SC Financial Technologies LLC (stablecoin)". These lines carry no value or income of their own.
+  - The form's instructions say Part 6 lists each asset that "ended the reporting period with a value greater than $1,000" or from which more than $200 in income "was received during the reporting period". So the listing shows he held the interest during 2025. It is consistent with, but does not by itself prove, holding it on 31 December 2025.
+  - Part 7 (transactions) lists only the Reddit sale. Whether a disposal of an interest held inside a private holding company would have to appear there is not settled by the form.
+  - Part 1 still lists him as managing member of Witkoff Holdings LLC from 5/2022 to "Present".
+- **Conclusion.** The filings show he held the WLF interest after the May 2025 and September 2025 "in the process" statements, and they record no disposal in 2025. They neither confirm nor contradict the White House statements of February and September 2026, which postdate the reporting period. A 2026 disposal would be expected on the next annual report (covering 2026) and, if it was a reportable securities transaction, on a 278-T. None has been published, so the statement that he has divested rests on the White House's word, without a document.
 - **What is missing.** No certificate of divestiture, 278-T, buyer, recipient, price or date was found.
 - **"Transferred to his sons."** This comes from the Meeks-Amo-Garcia release [11] and an expert quoted via Bisnow [14]. No filing shows such a transfer.
 
@@ -87,7 +94,7 @@ This extends C14 (WLF divestiture), C42 (the $107M), C53 (family Gulf money and 
 - **Comparison.** David Sacks's 208(b)(1) waiver was published [8].
 - **White House position.** He "has not and does not participate in any official matters that could impact his financial interests" [13]. That describes a recusal, but no recusal document has been published.
 - **Ethics review.** The ethics official certified the new-entrant report as compliant "on the basis of information contained in this report" [2].
-- **Reddit sale.** The annual report lists a Reddit sale of $1,000,001-$5,000,000 on 1 October 2025. No 278-T for it appears on the White House page [3][4]. Whether one was filed but not posted is unknown.
+- **Reddit sale.** The new-entrant report listed Reddit Class A shares ($1,000,001-$5,000,000). The annual report lists their sale: "Reddit Inc.-CL A [RDDT] [sold 10/1/2025]"; Part 7: "Sale 10/01/2025 $1,000,001 - $5,000,000". A 278-T was due no later than 45 days after the sale (about 15 November 2025). The White House page posts 278-Ts for more than 20 other staff but none for him [3][4]. Reports can also be obtained on request, so whether one was filed but not posted is unknown. No authority has found a filing lapse.
 
 ### 6. Other holdings tied to counterparts: mostly-accurate
 Holdings are documented in the filing; the identity of the partners comes from trade press, carried over from C53, C73 and C76.
@@ -180,9 +187,9 @@ Holdings are documented in the filing; the identity of the partners comes from t
 | 30 Jan 2026 | | One High Line (with Access) lands a $525M loan |
 | 1-2 Feb 2026 | White House counsel: "has also divested" from WLF | Aryam stake reported by the WSJ |
 | 4 Feb 2026 | Second Abu Dhabi round | |
-| 29 Jul 2026 | Signs annual 278e (WLF still listed) | Witkoff Holdings paid $106.9M in 2025 |
+| 29 Jul 2026 | Signs annual 278e covering 2025 (WLF still listed for 2025) | Witkoff Holdings paid $106.9M in 2025 |
 | 5-6 Sep 2026 | Kremlin meeting (Lukoil raised, per NYT); Kyiv | Bidding consortium reportedly includes Tahnoon-chaired IHC (no Witkoff stake documented) |
-| Sep 2026 | White House: "fully divested" | |
+| 9 Sep 2026 | White House: "fully divested" | |
 | Nov 2026 | Abu Dhabi talks (date as captioned) | |
 
 ## Corrections for older checks
@@ -193,12 +200,12 @@ Holdings are documented in the filing; the identity of the partners comes from t
 - **C53:** the Meeks-Amo-Garcia release names the acting IGs of Commerce and State, not OGE.
 - **C53 ("no IG outcome"):** State's OIG referred the Warren-Slotkin request to its Office of Investigations on 12 December 2025. No result has been reported.
 - **C76:** the $120M sale was disclosed in September 2025, but it took place between January and 13 August 2025.
-- **C14:** still no certificate of divestiture or recipient. The July 2026 annual report still lists the WLF interest.
+- **C14:** still no certificate of divestiture or recipient. The annual report signed in July 2026, which covers calendar 2025, still lists the WLF interest and no 2025 disposal. It does not show his position in 2026.
 - **The 22 October 2025 senators' letter** describes a "$2 billion investment" by a Tahnoon firm in WLF. In fact, MGX's $2B went into Binance and was settled in USD1. The equity investment in WLF was Aryam's $500M.
 
 ## Denials and responses
 - **White House counsel Warrington (February 2026):** Witkoff "has not and does not participate in any official matters that could impact his financial interests. He has also divested from World Liberty Financial, notwithstanding his ability and willingness to recuse."
-- **Anna Kelly (September 2026):** "fully divested from World Liberty Financial, and his prior commercial activities are completely unrelated to his efforts to end global conflicts".
+- **Anna Kelly (9 September 2026):** "fully divested from World Liberty Financial, and his prior commercial activities are completely unrelated to his efforts to end global conflicts".
 - **White House (September 2025):** he "did not participate" in the chip negotiations, and the crypto deal is "totally unrelated to any government business".
 - **Witkoff's spokespeople:** he "does not discuss WLF or any other personal business while conducting his official duties". On Lukoil, he has "no conflict of interest and no financial stake".
 - **WLF:** Folkman said he has "no operational role, no financial interest in WLFI deals". Wachsman said neither Trump nor Witkoff "had any involvement whatsoever" in the Aryam deal, and that any link to chip decisions is "100% false".
@@ -256,3 +263,13 @@ Holdings are documented in the filing; the identity of the partners comes from t
 37. Euromaidan Press, Dmitriev in Washington (3 April 2025): https://euromaidanpress.com/2025/04/03/putin-envoy-dmitriev-trump-envoy-witkoff-met-in-washington/
 38. Euromaidan Press, Miami talks (19 November 2025): https://euromaidanpress.com/2025/11/19/trump-team-meets-top-putin-envoy-for-three-days-in-miami-drafts-secret-ukraine-peace-deal-axios-says
 39. Kyiv Independent, Lukoil deal in the talks (3 October 2026): https://kyivindependent.com/u-s-peace-negotiations-with-russia-could-now-involve-multi-billion-dollar-lukoil-deal-nyt-reports/
+
+## Audit (second review, 17 Nov 2026)
+
+Result: **corrected** (verdict and confidence unchanged: mostly-accurate, medium).
+
+- **Documents re-fetched.** All three 278e versions were downloaded again from whitehouse.gov and are byte-identical to the copies the research used. The figures were re-read on them: the $120,000,000 Witkoff Group line ("Proceeds from the sale of an interest in the company as part of divestiture planning", value "Over $50,000,000"); Witkoff Holdings distributions of $34,363,535 and $106,938,819; the endnote "$68,875,000 in cash distributions and $38,063,819 in cryptocurrency"; the appointment dates; the 13 August 2025 and 29 July 2026 signatures; the 12 December 2025 certification by Scott F. Gast; and the missing reviewer signature on the annual report. All stand.
+- **Divestiture statements against the annual report.** The report covers calendar 2025. The WLF lines show he held the interest during 2025, after the September 2025 "still in the process" statement, and no disposal is recorded for 2025. They do not show his position in 2026, when the White House said he had divested (February and 9 September 2026). The write-up now says this explicitly. It no longer reads the July 2026 signature date as evidence that he held the interest in July 2026. The two cannot be reconciled or set against each other until a 2026 filing or a divestiture document is published.
+- **Part 1.** There are 77 entries, of which 76 read "Present". The exception is the Bally's consultancy, which ended in 9/2023. The entries also include officer, director, trustee and member roles.
+- **Reddit.** The holding appears on the new-entrant report and the sale on the annual report. A 278-T was due by about 15 November 2025. The White House page posts 278-Ts for more than 20 other staff but none for him. No authority has found a lapse.
+- **Newer reporting.** Searches through 17 November 2026 found no IG report, OGE action, reply to the senators or House members, or new Witkoff filing.

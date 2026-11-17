@@ -22,15 +22,15 @@ Both officials' own OGE filings document the core of this lead. All of the filin
 **Blanche**
 - Blanche, Trump's former defence lawyer, held $158K-$470K in ten cryptocurrencies, plus Coinbase shares, when he signed the 7 April 2025 memo "Ending Regulation By Prosecution". The memo disbanded the National Cryptocurrency Enforcement Team (NCET).
 - His 278-T shows the crypto and Coinbase shares disposed of between 29 May and 2 June 2025, within his deadline. A note says bitcoin, solana, cardano and ether were "gifted in their entirety" to his grandchild and adult children.
-- His June 2025 certification answers "No" to receiving a section 208 waiver.
-- In July 2026 he told the Senate he had received a written 208(b)(1) determination before the memo, but would not disclose it.
+- His 5 June 2025 certification answers "No" to "I received a waiver pursuant to 18 U.S.C. § 208."
+- In July 2026, asked in writing whether he received "a written determination pursuant to 18 U.S.C. § 208(b)(1)" before the memo, he answered: "Yes, but such determinations are not subject to disclosure." A 208(b)(1) determination is the statutory form of a section 208 waiver, so the two answers cannot be reconciled on the face of the documents. Neither he nor DOJ has explained the difference, and no authority has addressed it.
 - An OGE note dated 2 September 2026 on his annual report reads: "DOJ IG declined further action" on seven of the crypto lines.
 
-**What remains allegation or inference:** that the FARA and FCPA enforcement changes, the Qatar jet memo, the Warner Bros. review or the Mangione case were shaped by the officials' former clients. The same applies to the CLS Global prosecution, a former Blanche Law client sentenced while he was Deputy AG; that pairing is our own cross-referencing. No inspector-general, OGE or court finding that either official breached 18 U.S.C. 208 or an ethics agreement was found as of 17 November 2026.
+**What remains allegation or inference:** that the FARA and FCPA enforcement changes, the Qatar jet memo, the Warner Bros. review or the Mangione case were shaped by the officials' former clients. No inspector-general, OGE or court finding that either official breached 18 U.S.C. 208 or an ethics agreement was found as of 17 November 2026.
 
 **Current posts:**
 - Bondi was AG from 4 February 2025. Her OGE termination report gives 1 April 2026 as her termination date; the removal was announced on 2 April. She was named to PCAST in late May 2026.
-- Blanche was confirmed as Deputy AG on 5 March 2025 and sworn in on 6 March 2025. He was acting AG from April 2026. The Senate confirmed him as AG 50-49 on 8 August 2026, a date his own OGE certification confirms, and he was sworn in on 10 August 2026.
+- Blanche was confirmed as Deputy AG on 5 March 2025 and sworn in on 6 March 2025. He was acting AG from 2 April 2026 (his written Senate answers). The Senate confirmed him as AG 50-49 on 8 August 2026, a date his own OGE certification confirms, and he was sworn in on 10 August 2026.
 
 **Evidence rule applied:** holding an asset, or a decision that benefits a former employer or client, is not by itself a violation. Each point states the rule (18 U.S.C. 208, the ethics agreement, the 5 C.F.R. 2635.502 recusal period), whether a waiver or recusal exists, and whether any authority has made a finding.
 
@@ -127,6 +127,7 @@ Both officials' own OGE filings document the core of this lead. All of the filin
   - Coinbase shares $1,001-$15,000
 - **Totals:** $158,010-$470,000 for the coins, or $159,011-$485,000 with the shares. This is why ProPublica and the senators give different ranges.
 - **2026 report:** no crypto remaining.
+- **CLS Global:** one listed client, CLS Global FZC LLC, signed a plea agreement with the US Attorney in Massachusetts on 8 January 2025, before he took office (addressed to Lex Urban of The Blanche Law Firm [51]), and was sentenced on 2 April 2025 [53]. No source reports any role for Blanche in the case.
 
 ### 8. The crypto memo and the dispositions. Confirmed
 - **Ethics agreement** (10 February 2025 [6]): divest the coins and Coinbase shares within 90 days of confirmation. Until then, no participation in matters with a direct and predictable effect on his crypto, without a written 208(b)(1) waiver.
@@ -155,17 +156,25 @@ Both officials' own OGE filings document the core of this lead. All of the filin
 - **Rules:** the deadline was met. Gifts to adult children and grandchildren end the imputed interest under section 208; only a spouse's and minor children's interests are imputed.
 
 ### 9. Waiver or clearance for the memo. Unverified (the record conflicts)
-- **2025 certification** (signed 5 June 2025 [9]):
-  - "No" to a section 208 waiver and to a 2635.502(d) authorization.
-  - "Yes" to complying with interim recusals.
-  - Comment: "some assets were gifted to family members, whose financial interests are not imputed to me".
+- **2025 certification** (digitally signed 5 June 2025 [9]; the answer fields were read from the PDF and checked against the rendered page):
+  - Item 7a: "I received a waiver pursuant to 18 U.S.C. § 208." Marked **No**. The follow-up "If yes, indicate the date of the waiver and indicate the financial interest covered by the waiver" is blank.
+  - The section heading says: "(Consult with your agency's DAEO if uncertain under what authority a waiver or authorization was granted.)"
+  - Items 7b (a 2635.502(d) authorization) and 7c (a 2635.503(c) waiver): No.
+  - Item 5: Yes to "I have complied with my interim recusal obligations pending the divestitures required by my ethics agreement."
+  - Comment: "Some assets were gifted to family members, whose financial interests are not imputed to me, and did not require a transaction report."
 - **DOJ** (23 January 2026): "appropriately flagged, addressed, and cleared in advance" [23].
-- **Blanche's written answers** (July 2026 [27]):
-  - The memo "set general enforcement priorities and did not constitute a particular matter".
-  - Asked whether he received a written 208(b)(1) determination before 7 April 2025: "Yes, but such determinations are not subject to disclosure."
-- **The conflict:** a 208(b)(1) determination sits uneasily with both the 2025 "No" and his own position that there was no particular matter.
-- **Disclosure rule:** section 208(d)(1) provides for public release of such determinations on request, subject to FOIA exemptions.
-- **Open legal question:** CLC argues the memo is a particular matter of general applicability under OGE advisory LA-23-12 [18]. Blanche disagrees. No authority has ruled.
+- **Blanche's written answers** (Sen. Hirono's questions dated 17 July 2026; compiled responses dated 20 July 2026 [27]):
+  - 16(b): "Did you receive a written determination pursuant to 18 U.S.C. § 208(b)(1) in advance of issuing your April 7, 2025 memorandum regarding cryptocurrency enforcement? If so, please provide a copy." Answer: "Yes, but such determinations are not subject to disclosure."
+  - 16(f), on why he did not recuse: the memo "set general enforcement priorities and did not constitute a particular matter having a direct and predictable effect on my personal financial interests within the meaning of 18 U.S.C. § 208. The matter was reviewed with, and cleared by, the Department's ethics officials in advance."
+  - 16(a): it "was appropriately flagged, addressed, and cleared in advance with the Department's ethics officials"; he would not itemise "privileged internal ethics communications".
+- **Can the two be reconciled? Not from the documents.**
+  - A 208(b)(1) "determination" and a section 208 "waiver" are the same instrument. The statute exempts an employee who "receives in advance a written determination" that the interest is not so substantial as to affect his services. The White House's own posted 208(b)(1) instruments are titled "Waiver"; Kennedy's of 18 February 2025 says "This waiver reflects my determination..." [52].
+  - Dates do not help: a determination received before 7 April 2025 predates the 5 June 2025 "No".
+  - His position that the memo was not a particular matter would mean no waiver was needed, which also sits uneasily with having received one.
+  - One possible reading is that ethics officials gave him a written opinion that section 208 did not apply, not a (b)(1) exemption. That would fit the "No" but not his "Yes" to a question naming 208(b)(1). Neither he nor DOJ has offered this or any other explanation, and the document has not been produced.
+  - Both are his own statements; which is accurate is not established.
+- **Disclosure rule:** 18 U.S.C. 208(d)(1) says a copy of any determination granting a (b)(1) exemption "shall be made available to the public" on request, subject to FOIA exemptions (also 5 C.F.R. 2640.304). His answer that such determinations "are not subject to disclosure" does not match the rule as written.
+- **Open legal question:** CLC argues the memo is a particular matter of general applicability under OGE advisory LA-23-12 [18]. Blanche disagrees. No authority has ruled on that, or on the certification answer.
 
 ### 10. Complaints and outcomes on Blanche's crypto. Unverified (no finding)
 - **Complaints and letters:**
@@ -186,24 +195,14 @@ Both officials' own OGE filings document the core of this lead. All of the filin
 - **Senate inquiry:** Sen. Schiff and colleagues asked DOJ's ethics official for the advice on 18 May 2026 [28]. No answer was found.
 - **Findings:** none.
 
-### 12. CLS Global, a former Blanche Law client prosecuted by DOJ. Confirmed (link); no participation alleged
-- **The client:** CLS Global FZC LLC is on both of Blanche's client lists.
-- **The plea agreement** in D. Mass. 24-cr-10293:
-  - Dated 8 January 2025 and filed 21 January 2025.
-  - Addressed to "Lex Urban, Esq., The Blanche Law Firm" [51].
-  - A binding Rule 11(c)(1)(C) plea arising from the FBI's NexFundAI wash-trading sting.
-- **Sentence:** about April 2025, $428,059 and three years' probation [43].
-- **Timing:** the deal predates Blanche's tenure. The sentencing fell during his one-year former-client recusal.
-- **Inferred link:** whether he recused is not documented. The pairing is our cross-referencing, not an allegation in any source.
-
-### 13. Current positions. Confirmed
+### 12. Current positions. Confirmed
 - **Bondi:**
   - Confirmed as AG on 4 February 2025.
   - Removal announced 2 April 2026 [48]; termination date on her OGE report 1 April 2026.
   - Named to PCAST in late May 2026 (multiple outlets relaying Axios [49][50]); no newer post found.
 - **Blanche:**
   - Confirmed as Deputy AG 5 March 2025; oath 6 March 2025.
-  - Acting AG from April 2026.
+  - Acting AG from 2 April 2026 ("I assumed the role of Acting Attorney General on April 2, 2026", written Senate answers [27]).
   - His AG certification [13] gives "Date Confirmed: 08/08/2026" (vote 50-49 [47]). It reports no waivers and completed divestitures; OGE lists Certificate of Divestiture OGE-2026-183 [14].
   - Sworn in by Judge Emil Bove at the White House on 10 August 2026 [46].
   - He is the Senate-confirmed Attorney General as of 17 November 2026.
@@ -289,6 +288,8 @@ Both officials' own OGE filings document the core of this lead. All of the filin
 49. Raw Story relaying Axios, Bondi to PCAST (2026-05-27; excerpt): https://www.rawstory.com/pam-bondi-2676958214/
 50. WSET, Bondi appointed to science panel (2026-05; excerpt): https://wset.com/news/nation-world/former-ag-pam-bondi-gets-appointed-to-science-panel-by-trump-democrats-republicans-david-sacks-china
 51. US Attorney, D. Mass., plea agreement in United States v. CLS Global FZC LLC (2025-01-08; excerpt): https://www.gibsondunn.com/wp-content/uploads/2026/01/CLS-Global-FZC-LLC_Plea-Agreement.pdf
+52. White House Counsel, Limited, Interim Waiver Under 18 U.S.C. 208(b)(1) for Robert F. Kennedy Jr. (2025-02-18; full): https://www.whitehouse.gov/wp-content/uploads/2025/03/20250218102929192.pdf
+53. US Attorney's Office, D. Mass., CLS Global sentenced (2025-04-02; search excerpt, direct fetch refused): https://www.justice.gov/usao-ma/pr/cryptocurrency-financial-services-firm-sentenced-cryptocurrency-wash-trading
 
 Access notes:
 - Fetched directly: OGE, justice.gov, CLC, Senate and ProPublica pages, plus the Washington Sun.
@@ -302,3 +303,13 @@ Access notes:
 - **Joseph Tirrell's lawsuit** and the ethics advice it may surface.
 - **D.D.C. 25-2432:** any production schedule or ruling on the jet memo.
 - **Ballard Partners' FARA filings for Qatar** in the FARA eFile system, to fix Bondi's last date of service.
+
+## Audit (second reviewer, 17 November 2026)
+**Result: corrected.**
+- **Checked against the primary documents:** Blanche's 2025 certification (answer fields and rendered page), his written Senate answers, his nominee report, ethics agreement, 278-T and 2026 annual report with the OGE note; Bondi's certification (handwritten date 5/5/25), 278-T, termination report; the CLS Global plea letter; AP/PBS on the 10 August 2026 swearing-in.
+- **Changed:**
+  - The waiver / determination point now quotes both documents and explains why they cannot be reconciled on their face.
+  - CLS Global is no longer a separate point: it was our own cross-reference and documented nothing about Blanche's conduct. It is now one neutral line under his disclosure, with the sentencing date corrected to 2 April 2025.
+  - Blanche's acting-AG start date is now 2 April 2026.
+- **Upheld:** the crypto ranges, the 90-day term, the 29 May to 2 June 2025 dispositions and gift note, the OGE note "DOJ IG declined further action", the 8 August 2026 confirmation, Bondi's 1 April 2026 termination date, her PCAST appointment (press reports citing Axios), and the 2 April 2025 Trump Media sale. No inspector-general outcome on Bondi's sale was found.
+

@@ -93,7 +93,7 @@ The 39-page PDF [2]: the memo was read in full, the schedules were skimmed.
 - The waiver [1] answers part of this: crypto was sold before 20 January 2025, BITW on 22 January, and Craft's Bitwise interest is listed as sold.
 - No trading by Sacks or his associates around the reserve announcements is documented.
 
-### 8. Chip exports and Nvidia: partly-accurate
+### 8. Chip exports and Nvidia: unverified (allegation; role single-source)
 **What the NYT reports (anonymous sources) [9]:**
 - He worked to remove Biden-era export limits.
 - In May 2025 he struck a UAE deal for about 500,000 chips; analysts put Nvidia's potential sales at up to $200B.
@@ -109,7 +109,9 @@ The 39-page PDF [2]: the memo was read in full, the schedules were skimmed.
 - His spokeswoman: "None of his holdings benefited from the Emirates deal."
 - Nvidia says Commerce Secretary Lutnick was its main contact. Formal licences came from Commerce/BIS (C34).
 
-**Oversight:** State OIG referred a Warren–Slotkin request to its Office of Investigations on 12 December 2025 [7][8]. No outcome has been found.
+**Oversight:** State OIG referred a Warren–Slotkin request to its Office of Investigations on 12 December 2025 [7][8]. The reply speaks of "senior administration officials" and does not name Sacks, and says the OIG does not comment on criminal allegations. No outcome has been found.
+
+**Grade:** no Nvidia holding is documented and no source shows a chip decision benefiting a company he holds, so the benefit claim is an allegation without a finding.
 
 ### 9. AI Action Plan and defence start-ups: unverified
 - The plan (23 July 2025), drafted in part by Sacks, promoted military AI. The NYT says his filings show stakes in Anduril, Firestorm Labs and Swarm Aero.
@@ -117,7 +119,7 @@ The 39-page PDF [2]: the memo was read in full, the schedules were skimmed.
 - He also helped shape the December 2025 order against state AI laws [13].
 - All of these are general-applicability matters, which the AI waiver covers.
 
-### 10. All-In podcast and the July 2025 summit: mostly-accurate (largely single-source)
+### 10. All-In podcast and the July 2025 summit: unverified (allegation; largely single-source, disputed)
 **What the NYT reports [9][10]:**
 - All-In proposed $1M sponsorships including access to a private reception (from a proposal the NYT viewed).
 - Susie Wiles required a co-host (two anonymous people), and the Hill and Valley Forum co-hosted.
@@ -204,3 +206,18 @@ No finding by OGE, any inspector general, DOJ or a court was found as of Novembe
 25. NBC News, May 2025. https://www.nbcnews.com/business/markets/trump-set-raise-millions-crypto-meme-coin-month-rcna204847 (excerpt)
 26. Semafor, 22 Dec 2025. https://www.semafor.com/article/12/22/2025/sacks-witkoff-could-face-ethics-probe-over-uae-deals (excerpt)
 27. Bloomberg Law, 17 Sep 2025. https://news.bloomberglaw.com/business-and-practice/sacks-may-have-exceeded-term-in-white-house-role-democrats-say (excerpt)
+
+## Audit (second review, 17 Nov 2026)
+
+**Result: upheld.** Both White House waivers were re-downloaded and re-read from the page images.
+- **Crypto waiver:** signed by David Warrington on 5 March 2025. It records "over $200 million" divested, "at least $85 million" of it his own. Schedule A totals 3.714% of his total assets, with BitGo at 2.468% and Lightning Labs at 1.131%. It sets the "130 days or less in a one-year period" expectation, and it says OGE was "consulted".
+- **AI waiver:** also signed by Warrington, but undated. Its text points to March 2025: "by March 31, 2025", and the Sequoia stakes divested "by the end of this month". SaaS interests are "just over 13%", and Palantir is 1.819%. OGE was consulted.
+- **Other checks:**
+  - Warren's 6 March 2025 letter addresses him as PCAST chair.
+  - His 26 March 2026 departure and the move to PCAST co-chair (with Michael Kratsios) are confirmed. Some outlets say the White House announced it on 25 March.
+  - No finding by any authority was found through November 2026.
+
+**Changes:**
+- Sub-claims 8 (chip exports) and 10 (All-In) were regraded to unverified under the evidence rule for officials' holdings. Each alleges a benefit for which no authority has made a finding.
+- Added that the State OIG reply does not name Sacks.
+

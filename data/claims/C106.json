@@ -84,8 +84,8 @@
     },
     {
       "statement": "Sacks drove chip-export decisions (UAE deal, China sales) that benefited Nvidia and AI companies he invests in.",
-      "verdict": "partly-accurate",
-      "finding": "Grade: role single-source (NYT, anonymous sources); no Nvidia holding documented. The NYT reports he worked to remove Biden-era export limits (the AI diffusion rule) and flew to the Gulf in May 2025 to strike a deal for about 500,000 chips for the UAE (analysts: up to $200B in Nvidia sales). It also reports he joined Jensen Huang in a July 2025 Oval Office meeting before Trump cleared Nvidia sales to China. Bloomberg reports he backed the December 2025 decision to allow H200 sales to China. Neither waiver lists Nvidia. The AI waiver lists Craft-fund stakes of about 0% in chip start-ups Groq and Etched, and he held TSMC (0.035%, pending sale in March 2025). His spokeswoman: 'None of his holdings benefited from the Emirates deal.' Nvidia says Lutnick was its main contact for foreign sales. Formal licences came from Commerce/BIS (C34). Whether the UAE negotiation was a specific-party matter outside the waivers is our own question; no source asserts it. State OIG referred a Warren-Slotkin request to its Office of Investigations (12 Dec 2025); no outcome found.",
+      "verdict": "unverified",
+      "finding": "Grade: allegation without a finding. His role is reported by the NYT from anonymous sources; no Nvidia holding is documented, and no source shows a chip decision benefiting a company he holds. The NYT reports he worked to remove Biden-era export limits (the AI diffusion rule) and flew to the Gulf in May 2025 to strike a deal for about 500,000 chips for the UAE (analysts: up to $200B in Nvidia sales). It also reports he joined Jensen Huang in a July 2025 Oval Office meeting before Trump cleared Nvidia sales to China. Bloomberg reports he backed the December 2025 decision to allow H200 sales to China. Neither waiver lists Nvidia. The AI waiver lists Craft-fund stakes of about 0% in chip start-ups Groq and Etched, and he held TSMC (0.035%, pending sale in March 2025). His spokeswoman: 'None of his holdings benefited from the Emirates deal.' Nvidia says Lutnick was its main contact for foreign sales. Formal licences came from Commerce/BIS (C34). Whether the UAE negotiation was a specific-party matter outside the waivers is our own question; no source asserts it. State OIG referred the Warren-Slotkin request (about 'senior administration officials'; the reply does not name Sacks) to its Office of Investigations on 12 Dec 2025, adding that it does not comment on criminal allegations; no outcome found.",
       "sources": [
         "https://eforum2025.blogspot.com/2025/12/silicon-valleys-man-in-white-house-is.html",
         "https://www.bloomberg.com/news/articles/2025-12-12/china-is-rejecting-h200s-outfoxing-us-strategy-sacks-says",
@@ -106,8 +106,8 @@
     },
     {
       "statement": "Sacks's All-In podcast and related businesses gained from his government role, including through the July 2025 AI summit.",
-      "verdict": "mostly-accurate",
-      "finding": "Grade: the NYT reports these points, several from anonymous sources or a proposal it viewed. All-In asked potential sponsors to pay $1M each for access to a private reception and other events 'bringing together President Donald Trump and leading A.I. innovators' (proposal viewed by the NYT). Chief of staff Susie Wiles stepped in so All-In would not be the sole host (two people), and the Hill and Valley Forum co-hosted. Visa and the NYSE sponsored; amounts were not disclosed. Other figures: All-In's 2025 conference ticket sales were about $21M (the NYT's estimate) and a $1,200 tequila launched in June 2025. Cabinet secretaries gave interviews and the show posted an Oval Office tour. Response: his spokeswoman and Clare Locke say All-In lost money on the summit, two sponsors got only logo placement, 'no V.I.P. reception occurred', and no access to Trump was offered. Sacks gives up AI and crypto-related revenue such as sponsorships but shares in ticket and tequila sales. No finding.",
+      "verdict": "unverified",
+      "finding": "Grade: allegation without a finding; whether All-In gained is disputed. The NYT reports these points, several from anonymous sources or a proposal it viewed. All-In asked potential sponsors to pay $1M each for access to a private reception and other events 'bringing together President Donald Trump and leading A.I. innovators' (proposal viewed by the NYT). Chief of staff Susie Wiles stepped in so All-In would not be the sole host (two people), and the Hill and Valley Forum co-hosted. Visa and the NYSE sponsored; amounts were not disclosed. Other figures: All-In's 2025 conference ticket sales were about $21M (the NYT's estimate) and a $1,200 tequila launched in June 2025. Cabinet secretaries gave interviews and the show posted an Oval Office tour. Response: his spokeswoman and Clare Locke say All-In lost money on the summit, two sponsors got only logo placement, 'no V.I.P. reception occurred', and no access to Trump was offered. Sacks gives up AI and crypto-related revenue such as sponsorships but shares in ticket and tequila sales. No finding.",
       "sources": [
         "https://eforum2025.blogspot.com/2025/12/silicon-valleys-man-in-white-house-is.html",
         "https://techcrunch.com/2025/11/30/new-report-examines-how-david-sacks-might-profit-from-trump-administration-role/",
@@ -926,5 +926,37 @@
       ],
       "source_url": "https://democrats-foreignaffairs.house.gov/2026/1/meeks-amo-garcia-demand-investigation-into-trump-despot-whisperer-witkoff-s-sketchy-business-dealings"
     }
-  ]
+  ],
+  "audit": {
+    "checked": [
+      "Crypto waiver (re-read from the White House PDF): signed by David Warrington, Counsel to the President, dated 5 Mar 2025; 'over $200 million' divested by Sacks and Craft, 'at least $85 million' directly his; Schedule A total 3.714% of his total assets, BitGo 2.468%, Lightning Labs 1.131%, 20 companies; 'for 130 days or less in a one-year period'; OGE 'consulted' under 5 C.F.R. 2640.303, decision 'within the sound discretion of the agency'.",
+      "AI waiver (re-read): signed by Warrington, undated on its face; TSMC and Amazon to be sold 'by March 31, 2025', Meta by end of Q2 2025, Sequoia stakes divested 'by the end of this month' (so March 2025); SaaS interests 'just over 13%'; Palantir 1.819% (Schedule C); Meta 1.762%, Amazon 0.034%, TSMC 0.035%; OGE consulted, not approving.",
+      "Warren's 6 Mar 2025 letter addresses Sacks as 'Chair, President's Council of Advisors on Science and Technology'; both waivers say he agreed to co-chair PCAST.",
+      "Departure on 26 Mar 2026 (Bloomberg TV interview; some outlets say the White House announced it on 25 Mar), his statement that his SGE time was used up, and the move to PCAST co-chair alongside Michael Kratsios.",
+      "State Department OIG reply of 12 Dec 2025 (re-read): it referred the Warren-Slotkin request to its Office of Investigations; the letter does not name Sacks.",
+      "No newer finding by OGE, an inspector general, DOJ or a court through Nov 2026; nothing in the write-up asserts that he profited or exceeded the 130-day limit."
+    ],
+    "result": "upheld",
+    "changes": [
+      "Sub-claim on chip exports regraded from partly-accurate to unverified: it alleges a benefit to companies he invests in, and no finding exists (evidence rule for C104 to C109). Added that the State OIG reply does not name Sacks.",
+      "Sub-claim on All-In gaining from his role regraded from mostly-accurate to unverified: the gain is an allegation from NYT reporting (partly anonymous) and is disputed by Sacks's side; no finding.",
+      "All waiver figures, dates, signatory and OGE wording confirmed against the primary PDFs; no factual changes needed."
+    ],
+    "new_sources": [
+      {
+        "title": "David Sacks steps down as White House crypto czar with key legislation still in limbo",
+        "publisher": "Unchained",
+        "url": "https://unchainedcrypto.com/david-sacks-steps-down-as-white-house-crypto-czar-with-key-legislation-still-in-limbo/",
+        "date": "2026-03-26",
+        "read": "excerpt"
+      },
+      {
+        "title": "White House AI and crypto czar David Sacks steps down, shifts to broader tech advisory role",
+        "publisher": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/david-sacks-ai-crypto-czar-resigns/",
+        "date": "2026-03-26",
+        "read": "excerpt"
+      }
+    ]
+  }
 }

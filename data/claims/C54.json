@@ -62,7 +62,7 @@
     {
       "statement": "Paul Atkins's prior crypto clients and holdings.",
       "verdict": "confirmed",
-      "finding": "Atkins founded Patomak Global Partners, whose clients reportedly included banks, crypto exchanges and DeFi platforms. FTX signed on in early 2022. His OGE disclosure, made public on 25 Mar 2025, showed up to ~$327M in family assets and up to ~$6M in crypto-related assets: about $1M of Anchorage Digital equity, Securitize call options worth $2.5-5M, and a small Pontoro stake. He reported no direct crypto. He pledged to resign from Patomak and divest within 90 days of confirmation, and to stay out of matters involving Patomak or its clients for one year. On 6 Aug 2025 Sen. Warren asked him to name the buyer and the price; the SEC said he complies with his ethics agreement, and no buyer has been disclosed in what I found. Barron's (Aug 2025) reported that defendants in a Trump Media lawsuit sought Patomak records on any TMTG engagement. TMTG called this 'meritless' and denied engaging Patomak.",
+      "finding": "Atkins founded Patomak Global Partners, whose clients reportedly included banks, crypto exchanges and DeFi platforms. FTX signed on in early 2022. His OGE disclosure, made public on 25 Mar 2025, showed Atkins and his wife worth at least $327M (Bloomberg Law) and about $6M in crypto-related assets: as reported, Anchorage Digital (Anchor Labs) equity of $250K-$500K, Securitize options of $250K-$500K, $1M-$5M in the Off the Chain Capital fund, and a small Pontoro stake. He reported no direct crypto. He pledged to resign from Patomak and divest within 90 days of confirmation, and to stay out of matters involving Patomak or its clients for one year. On 6 Aug 2025 Sen. Warren asked him to name the buyer and the price; the SEC said he complies with his ethics agreement, and no buyer has been disclosed in what I found. He signed a certification of ethics-agreement compliance on 18 Jul 2025 stating all resignations and divestitures were completed on time, with no waivers or authorizations, and OGE lists two Certificates of Divestiture for him (OGE-2025-099 and OGE-2025-160; see C107). Barron's (Aug 2025) reported that defendants in a Trump Media lawsuit sought Patomak records on any TMTG engagement. TMTG called this 'meritless' and denied engaging Patomak.",
       "sources": [
         "https://cointelegraph.com/news/paul-atkins-sec-hearing-financial-disclosure-wife",
         "https://www.theblock.co/amp/post/348123/sec-chair-nominee-paul-atkins-held-shares-in-securitize-and-anchorage-digital-financial-disclosures-show-reports",
@@ -71,7 +71,8 @@
         "https://www.thinkadvisor.com/amp/2025/08/06/sen-warren-presses-sec-chair-on-consulting-firm-sale/",
         "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/84398B6A308FF36C85258C58002C898F/$FILE/Atkins%2C Paul S.  finalEA.pdf",
         "https://news.bloomberglaw.com/us-law-week/trumps-sec-pick-brings-slew-of-potential-conflicts-to-new-role",
-        "https://www.itiger.com/news/2559943634"
+        "https://www.itiger.com/news/2559943634",
+        "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/F00D85AB58CFE72985258CD6002C2199/$FILE/Atkins%20EA%20Certification%201%20of%201.pdf"
       ]
     },
     {
@@ -88,7 +89,7 @@
     {
       "statement": "David Sacks (AI & crypto czar) kept industry holdings under ethics waivers.",
       "verdict": "confirmed",
-      "finding": "Established in C34. He served as a special government employee under ethics waivers (crypto, 5 Mar 2025; AI, mid-2025) while Craft Ventures kept AI-linked stakes and a 7.8% BitGo stake. He stepped down as czar around 26-27 Mar 2026 and became PCAST co-chair. Sacks denies any conflict.",
+      "finding": "Established in C34. He served as a special government employee under ethics waivers (crypto, 5 Mar 2025; AI, undated but from March 2025 by its text, posted June 2025) while Craft Ventures kept AI-linked stakes and a 7.8% BitGo stake. He left the czar post on 26 Mar 2026, saying his 130 SGE days were used up, and remains PCAST co-chair, a role he was designated for in 2025. Sacks denies any conflict.",
       "sources": [
         "https://www.warren.senate.gov/newsroom/press-releases/warren-stansbury-members-of-congress-launch-investigation-into-trump-crypto-and-ai-czars-ethics-conflicts"
       ]
@@ -134,7 +135,11 @@
     "The claim calls Quintenz part of an official-to-industry move, but he never took office in this administration. His nomination was withdrawn on 30 Sep 2025, and his Kalshi board seat predated the nomination.",
     "Hines was first a Tether 'strategic adviser' (19 Aug 2025). He became CEO of the US arm/USAT on 12 Sep 2025, not on leaving the White House.",
     "The '200+ officials' revolving-door count (Tech Transparency Project) dates from 2022 and does not measure this administration.",
-    "No 2025-26 SEC staff move to Coinbase or a16z was confirmed. The best-documented departures are CFTC leaders (Pham to MoonPay, Mersinger to Blockchain Association)."
+    "No 2025-26 SEC staff move to Coinbase or a16z was confirmed. The best-documented departures are CFTC leaders (Pham to MoonPay, Mersinger to Blockchain Association).",
+    "2026-11-17 (holdings audit, C107): Claimed: Atkins held about $1M of Anchorage Digital equity and Securitize call options worth $2.5-5M. The record shows (as reported from his nominee filing): $250K-$500K each, plus $1M-$5M in Off the Chain Capital.",
+    "2026-11-17 (holdings audit, C107): Claimed: 'up to ~$327M' in family assets. The record shows: Bloomberg Law reported Atkins and his wife worth 'at least $327 million'.",
+    "2026-11-17 (holdings audit, C107): Added: Atkins certified on 18 Jul 2025 that all divestitures were completed on time, with no waivers or authorizations; OGE lists two Certificates of Divestiture (OGE-2025-099, OGE-2025-160). The Patomak buyer is still not public.",
+    "2026-11-17 (holdings audit, C106): Claimed: the Sacks AI waiver dates from mid-2025. The record shows: it is undated; its text places it in March 2025, and it was posted in a June 2025 folder."
   ],
   "denials_and_context": [
     "Nxum's representative said Hines did not know of the Tether deal and received no Tether funds while at the White House. Tether says an external-counsel investigation found no wrongdoing.",
@@ -433,7 +438,7 @@
       "id": "anchorage-digital",
       "name": "Anchorage Digital",
       "type": "company",
-      "description": "USAT issuer; Atkins held ~$1M equity before taking office"
+      "description": "USAT issuer; Atkins held $250K-$500K of equity (as reported) before taking office"
     },
     {
       "id": "cantor-fitzgerald",
@@ -918,14 +923,14 @@
     {
       "source": "paul-atkins",
       "target": "anchorage-digital",
-      "label": "held ~$1M equity (pre-office)",
+      "label": "held $250K-$500K equity, as reported (pre-office)",
       "type": "ownership",
-      "amount_usd": 1000000
+      "amount_usd": 250000
     },
     {
       "source": "paul-atkins",
       "target": "securitize",
-      "label": "held $2.5-5M call options (pre-office)",
+      "label": "held $250K-$500K of options, as reported (pre-office)",
       "type": "ownership"
     },
     {
@@ -1130,13 +1135,15 @@
       "WSJ (14 Oct 2026): Tether's $415K/month deal and ~$6.3M to Hines-co-owned Nxum, plus Blumenthal's 22 Oct letters",
       "Date and nature of Quintenz's prediction-markets coalition role",
       "Whether Gould's ethics agreement or recusal is public",
-      "Named 2025-26 SEC staff moves to Coinbase or a16z; Pham's MoonPay move"
+      "Named 2025-26 SEC staff moves to Coinbase or a16z; Pham's MoonPay move",
+      "2026-11-17: Atkins's holdings ranges, net-worth wording, 18 Jul 2025 certification and certificates of divestiture; Sacks AI waiver date"
     ],
-    "result": "strengthened",
+    "result": "corrected",
     "changes": [
       "Filled the three gaps left by the first round of research. Quintenz was named a senior adviser to the Coalition for Prediction Markets in July 2026 (updated sub-claim and summary). A fresh search again found no public Gould ethics agreement or recusal, so that gap is recorded as checked-and-absent. Again no named 2025-26 SEC staff move to Coinbase or a16z; Roisman's Aug 2026 Fireblocks hire is noted as an older-era official.",
       "Hines sub-claim: confirmed the 22 Oct 2026 letters (to Ardoino and to Todd Hines at Nxum). Added the unregistered-lobbying point, the Fellowship PAC's $6.55M to Nxum (WSJ/FEC), and Nxum's and Tether's denials. These remain allegations.",
-      "Pham's MoonPay move (announced Dec 2025) re-confirmed via MoonPay's newsroom. Verdict and confidence unchanged."
+      "Pham's MoonPay move (announced Dec 2025) re-confirmed via MoonPay's newsroom. Verdict and confidence unchanged.",
+      "2026-11-17 (holdings audit, C106/C107): Corrected Atkins's Anchorage and Securitize figures to the reported $250K-$500K each and added Off the Chain ($1M-$5M); 'up to ~$327M' to 'at least $327M'; added his 18 Jul 2025 compliance certification (no waivers) and two Certificates of Divestiture; dated the Sacks AI waiver to March 2025 (posted June 2025). Verdict unchanged."
     ],
     "new_sources": [
       {
@@ -1186,6 +1193,24 @@
         "publisher": "MoonPay",
         "url": "https://www.moonpay.com/newsroom/caroline-d-pham",
         "date": "2025-12-17"
+      },
+      {
+        "title": "Atkins EA Certification (signed 18 Jul 2025)",
+        "publisher": "Office of Government Ethics",
+        "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/F00D85AB58CFE72985258CD6002C2199/$FILE/Atkins%20EA%20Certification%201%20of%201.pdf",
+        "date": "2025-07-18"
+      },
+      {
+        "title": "SEC chair nominee Atkins, spouse worth at least $327 million",
+        "publisher": "Bloomberg Law",
+        "url": "https://news.bloomberglaw.com/banking-law/sec-chair-nominee-atkins-spouse-worth-at-least-327-million",
+        "date": "2025-03-25"
+      },
+      {
+        "title": "Paul Atkins disclosed $6 million in crypto-related assets",
+        "publisher": "Fortune",
+        "url": "https://fortune.com/crypto/2025/03/25/paul-atkins-sec-nominee-securitize-anchorage-off-the-chain-capital-6-million-ethics-disclosure/",
+        "date": "2025-03-25"
       }
     ]
   }
