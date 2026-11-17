@@ -1,0 +1,208 @@
+{
+  "id": "C110",
+  "title": "Pro-Israel donors and Trump's campaign",
+  "verdict": "mostly-accurate",
+  "confidence": "medium",
+  "summary": "The money is documented in FEC records. Miriam Adelson, an American donor, gave about $106M to the pro-Trump super PAC Preserve America in 2024 (17 itemised gifts of $1M or more to Republican committees that cycle total $142M). In the 2025-26 cycle she has given $25M to MAGA Inc. and $40M to the Senate and House leadership funds. The Adelson Family Foundation is reported to have committed $25M to the White House ballroom. Paul Singer, a major funder of the AIPAC super PAC, gave $5M to MAGA Inc. and $2.5M to Preserve America in 2024. Trump has said on the record that Adelson gave his campaign 'indirectly and directly $250 million', that she and her husband influenced his Israel decisions, and that she offered another $250M for a third term. AIPAC's super PAC (United Democracy Project, UDP) spends mainly in congressional primaries, mostly against or for Democrats, not on presidential races; in 2026 its largest single Republican target was Rep. Thomas Massie, whom Trump also opposed. No document shows an agreement tying any donation to a policy. The only report of such a condition (annexation, 2024) was denied by Adelson's spokesman, and Trump publicly said in October 2025 that annexation 'won't happen'.",
+  "sub_claims": [
+    {
+      "statement": "Miriam Adelson (an American donor, born in Israel) gave about $100M or more to Preserve America PAC and other pro-Trump and Republican committees in 2024.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented (FEC itemised receipts, 2023-24 cycle, queried directly; all dates are in 2024). Preserve America PAC (pro-Trump super PAC): $5M (3 May), $25M (26 Jul), $25M (13 Aug), $25M (9 Sep), $20M (17 Sep), $6M (28 Oct) = $106M. The FEC list also shows, from the same donor: Senate Leadership Fund $15M (10M on 3 May, 5M on 20 Sep); Congressional Leadership Fund $10M (5M, 4M, 1M); RJC Victory Fund $5M (9 Aug); 170 Freedom Milwaukee 2024 Host Committee (the Republican National Convention host committee) $3M; Truth and Courage PAC $2M; Hardworking Americans Inc. $1M. The 17 gifts of $1M or more total $142M. Contributions to Trump's campaign committee itself are capped at a few thousand dollars and were not retrieved. Press reports of 'about $95M in the third quarter, $100M year-to-date' match the FEC rows (the $6M followed on 28 Oct). One aggregator page that gives $120M and a single $95M gift does not match FEC data and was disregarded. Preserve America is a super PAC and legally cannot coordinate with the campaign.",
+      "sources": [
+        "https://api.open.fec.gov/v1/schedules/schedule_a/ (contributor_name=Adelson, Miriam; two_year_transaction_period=2024)",
+        "https://www.factcheck.org/2024/08/preserve-america-pac-2",
+        "https://forward.com/fast-forward/665095/miriam-adelson-donates-100m-to-trump-campaign-making-good-on-reported-promise/",
+        "https://www.aljazeera.com/news/2026/5/18/massie-race-breaks-spending-record-as-pro-israel-groups-target-trump-critic"
+      ]
+    },
+    {
+      "statement": "Adelson has continued to give in 2025-26, including to Trump's own super PAC, and her family foundation is among the largest ballroom donors.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented for the FEC rows; single-source (Washington Post donor records, relayed by the Boston Globe) for the ballroom amount. FEC, 2025-26 cycle, gifts of $500K or more: Senate Leadership Fund $30M (11 Mar 2026); MAGA Inc. $25M (5 May 2026); Congressional Leadership Fund $10M (11 Mar 2026); NRSC Victory $764,100 (11 Mar 2026); Security Is Strength PAC $1M (2 Sep 2025). Total about $66.8M. Front Office Sports reports a similar total (about $67.6M) and calls her MAGA Inc.'s largest overall contributor. Ballroom: the Adelson Family Foundation (a foundation, not Adelson personally) was on the White House's October 2025 list of 37 donors, which gave no amounts; an October 2026 Washington Post list of internal records, reported by the Boston Globe, says it committed $25M, the top tier alongside Nvidia and Apple. The Laura and Isaac Perlmutter Foundation is reported at more than $20M in the same records (Perlmutter's pro-Israel giving was not established). 2025 inauguration: press reports list Miriam Adelson at $1M to the Trump-Vance Inaugural Committee; we could not retrieve the FEC line (one aggregator gives $25M, which no news report supports), so treat $1M as reported, not verified. Preserve America PAC itself gave $750,000 to MAGA KY on 27 Jun 2025 (FEC); its 2025 donors were not retrieved.",
+      "sources": [
+        "https://api.open.fec.gov/v1/schedules/schedule_a/ (contributor_name=Adelson, Miriam; two_year_transaction_period=2026)",
+        "https://api.open.fec.gov/v1/schedules/schedule_a/ (committee_id=C00908723, MAGA KY, 2026)",
+        "https://www.bostonglobe.com/2026/10/16/business/adelson-trump-ballroom-donor/",
+        "https://www.kptv.com/2025/11/13/these-are-37-donors-helping-pay-trumps-300-million-white-house-ballroom/",
+        "https://www.essentiallysports.com/nba-active-basketball-news-mavs-owner-miriam-adelsons-jaw-dropping-donation-to-help-donald-trumps-midterms-campaign-revealed/",
+        "https://www.brennancenter.org/our-work/research-reports/million-dollar-donors-flooded-trumps-second-inauguration"
+      ]
+    },
+    {
+      "statement": "Other American donors identified with pro-Israel causes also gave to Trump's campaign, allied committees, the inauguration or the ballroom.",
+      "verdict": "partly-accurate",
+      "finding": "Evidence grade: documented (FEC) for Singer and Perlmutter 2024; single-source (press) for Lauder. Paul Singer (Elliott Management; FactCheck.org lists him among UDP's largest 2026 contributors and he opposed Trump in the 2016 primary): MAGA Inc. $5M (15 Aug 2024), Preserve America PAC $2.5M (21 Oct 2024), Trump 47 Committee $419,600 (17 Jun 2024, joint fundraising committee); the bulk of his 2024 giving went to the Senate Leadership Fund and Congressional Leadership Fund (about $25M and $13M that year) and he gave UDP $1M in 2024 and $2.5M on 29 Jul 2025. In 2025-26 he gave MAGA KY $1M (27 Jun 2025) and $15M to leadership funds and STW PAC in 2026; no 2026 MAGA Inc. gift of $1M or more was found. Ronald Lauder (World Jewish Congress president): no 2024 gift of $250K or more to a Trump committee in the FEC pull; he reportedly gave MAGA Inc. $5M in March 2025 (Daily Beast, Revolving Door Project) and was reported in August 2026 to have stopped giving to Republicans. Ike Perlmutter: $12.45M to Right for America, a pro-Trump super PAC, in 2024 (FEC); the ballroom figure is above. Ken Griffin and others on the inaugural list are not identified with pro-Israel causes. Sheldon Adelson died in 2021; his $5M 2017 inaugural gift is history, not 2025. Not checked: Haim Saban, Marc Rowan, Blair Frank (UDP's largest donors) and their Trump-side giving, because FEC rate limits cut the search short.",
+      "sources": [
+        "https://api.open.fec.gov/v1/schedules/schedule_a/ (contributor_name=Singer, Paul; 2024 and 2026 periods)",
+        "https://api.open.fec.gov/v1/schedules/schedule_a/ (contributor_name=Perlmutter, Isaac; Lauder, Ronald; Wynn, Steve; 2024)",
+        "https://www.factcheck.org/2026/08/united-democracy-project-3/",
+        "https://thedailybeast.com/billionaire-republican-megadonor-ronald-lauder-pulls-the-plug-on-trumps-party",
+        "https://fortune.com/2026/08/05/billionaire-donations-midterms-ronald-lauder-republican-party-new-york/",
+        "https://www.nbcnews.com/politics/2024-election/gop-donors-pour-hundreds-millions-trump-super-pacs-election-day-rcna175705"
+      ]
+    },
+    {
+      "statement": "Trump has said on the record that Adelson and her husband shaped his Israel decisions and that she gave his campaign $250M.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented (on-record remarks reported by Reuters, the Daily Beast and others; no official transcript fetched). (1) Knesset, Jerusalem, 13 Oct 2025 (Reuters): Trump told the Knesset 'She loves Israel', credited the Adelsons with his 2017 Jerusalem recognition, the 2018 embassy move and the 2019 Golan sovereignty recognition, said 'Stand up, Miriam', recalled that the couple would regularly call and visit the Oval Office, and, gesturing at her, said 'She's got $60 billion in the bank', adding 'I think she is saying, \"No, more,\"'. Other outlets quote him asking her 'what do you love more, the United States or Israel?', saying she refused to answer and 'That might mean Israel' (wording varies between outlets). (2) White House Hanukkah reception, 16 Dec 2025 (Daily Beast, 17 Dec): Trump praised her for giving his campaign 'indirectly and directly $250 million' ('she was number one' in other reports). The $250M figure is Trump's own and is not reconciled with filings: FEC rows show about $106M to Preserve America and $142M across Republican committees in 2024. (3) August 2024 at Bedminster: Trump called the Medal of Freedom 'much better' than the Medal of Honor in remarks that referred to Adelson's 2018 medal. These remarks acknowledge influence and access; they do not describe an agreement.",
+      "sources": [
+        "https://theprint.in/world/trump-salutes-mega-donor-miriam-adelson-for-help-shaping-us-decisions-on-israel/2763153",
+        "https://www.thedailybeast.com/megadonor-miriam-adelson-offers-donald-trump-250m-to-run-for-third-term",
+        "https://www.al-monitor.com/originals/2025/10/trump-salutes-mega-donor-miriam-adelson-help-shaping-us-decisions-israel",
+        "https://www.aljazeera.com/news/2025/10/13/who-is-miriam-adelson-the-pro-israel-donor-trump-lauded-at-the-knesset",
+        "https://www.casino.org/news/trump-suggests-miriam-adelson-loves-israel-more-than-us/"
+      ]
+    },
+    {
+      "statement": "Documented requests from donors to Trump or his team: Adelson's public third-term appeal and her reported behind-the-scenes role on the hostage deal.",
+      "verdict": "partly-accurate",
+      "finding": "Evidence grade: documented for what was said in public; single-source for anything private. At the 16 Dec 2025 Hanukkah reception Adelson told Trump: 'I met Alan Dershowitz and he said the legal thing about four more years, and I said, \"Alan, I agree with you. We can do it!\" Think about it' (Daily Beast); reports quote Trump saying she offered him 'another $250 million' for a run. The Constitution's 22nd Amendment limits a president to two elected terms and Trump has previously said he does not plan a third. This is a public appeal about his candidacy, not about Israel policy. Reuters reports that 'a senior U.S. official' (unnamed) said Adelson had a behind-the-scenes role in urging Trump to keep pressing for the return of the hostages held by Hamas. A Spanish-language JPost tag headline says she pressed him on the hostage deal; the underlying article was not found. No filing, FARA record or on-record statement from Trump's office documents any specific policy ask from Adelson, Singer, Lauder or other donors named here, apart from Trump's own general remark that the Adelsons called and visited.",
+      "sources": [
+        "https://www.thedailybeast.com/megadonor-miriam-adelson-offers-donald-trump-250m-to-run-for-third-term",
+        "https://mediaite.com/politics/trump-says-miriam-adelson-offered-him-another-250-million-to-run-for-a-third-term",
+        "https://theprint.in/world/trump-salutes-mega-donor-miriam-adelson-for-help-shaping-us-decisions-on-israel/2763153"
+      ]
+    },
+    {
+      "statement": "Adelson made her 2024 giving conditional on Trump backing West Bank annexation.",
+      "verdict": "unverified",
+      "finding": "Evidence grade: single-source allegation, denied. In 2024, Haaretz (drawing on a New York magazine profile) reported that Adelson wanted Israeli annexation of the West Bank and US recognition of sovereignty, and other outlets (972 Magazine, The New Arab, Revolving Door Project) wrote that her support was reportedly tied to it. Her spokesman, Andy Abboud, denied the report that she was urging Trump to publicly support annexation in exchange for her backing (a New York Times report, seen only as a reposted copy). Trump never made such a commitment publicly, and in a Time interview of 15 Oct 2025 (published 23 Oct) he said annexation 'won't happen' because he 'gave my word to the Arab countries' and that Israel would lose all US support if it did it; Vance called the Knesset preliminary vote a 'stupid' stunt. This outcome is evidence against a delivered quid pro quo but does not prove the 2024 report false. Adelson gave very large sums regardless, and the Knesset speech credits her with earlier decisions (Golan 2019), which pre-date the 2024 money.",
+      "sources": [
+        "https://newarab.com/news/pro-israel-mogul-wants-west-bank-annexed-after-trump-donation",
+        "https://forward.com/fast-forward/618034/miriam-adelson-funding-trump-israel?amp=1",
+        "https://iowa.forums.rivals.com/threads/the-pro-israel-donor-with-a-100-million-plan-to-elect-trump.445819",
+        "https://www.dawn.com/news/1950799",
+        "https://timesofisrael.com/israel-would-lose-all-support-from-the-us-if-it-annexes-west-bank/"
+      ]
+    },
+    {
+      "statement": "AIPAC's super PAC, United Democracy Project, spent heavily in 2024 and 2026, on whom.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented (FEC totals pulled directly; FactCheck.org read in full; Intercept and Sludge as excerpts). UDP is an American super PAC created in Jan 2022 by AIPAC; AIPAC PAC (separate) gives candidates up to $5,000 per election. 2024 cycle: UDP raised $87.1M and spent about $61.4M, including $34.8M on independent expenditures for or against Democratic House candidates (FactCheck). Headline races: Rep. Jamaal Bowman (NY-16), more than $14.5M in the primary (Sludge, search excerpt; about $9.9M against Bowman and $4.8M for George Latimer per FactCheck 2024), and Rep. Cori Bush (MO-1), about $5.2M against plus $3.3M for Wesley Bell. Intercept counts UDP at $41.4M direct in 2024 races. 2026 cycle (FEC, to 14 Oct 2026): receipts about $108.6M, disbursements $85.1M, independent expenditures $53.6M, plus $13.1M to other federal committees. Intercept: AIPAC (direct contributions) $53.3M and UDP $66.7M, with spending in 333 of 473 seats; more than $30M on the Michigan Senate Democratic primary (against Abdul El-Sayed or for Haley Stevens; El-Sayed won). FactCheck (Aug 2026): about $5M for Melissa Conyears-Ervin (IL-7, lost 17 Mar), over $2M against Tom Malinowski (NJ-11 special primary, lost 5 Feb), more than $1M for Adrian Boafo (MD-5, won 23 Jun), over $3M against Massie (KY-4) plus about $500,000 for Gallrein. Politico reported that over 40% of UDP's primary money was routed through pop-up and pass-through PACs. UDP's largest 2026 donors include Paul Singer, Blair Frank, Marc Rowan and Haim Saban. It is bipartisan and mostly congressional; no UDP spending for or against Trump himself was found in the sources read (its presidential filings were not searched).",
+      "sources": [
+        "https://api.open.fec.gov/v1/committee/C00799031/totals/ (cycle 2026)",
+        "https://www.factcheck.org/2026/08/united-democracy-project-3/",
+        "https://theintercept.com/2026/10/29/aipac-israel-midterms-spending-elections-congress/",
+        "https://www.factcheck.org/2024/09/united-democracy-project-2/",
+        "https://readsludge.com/2024/06/20/no-group-has-ever-spent-as-much-as-aipac-has-in-the-bowman-latimer-primary/"
+      ]
+    },
+    {
+      "statement": "The Massie primary shows pro-Israel groups and Trump working together against a Republican critic of Israel.",
+      "verdict": "partly-accurate",
+      "finding": "Evidence grade: documented that both opposed Massie and spent or posted in the same race; no source shows coordination. Trump endorsed Ed Gallrein in a post on Monday 5 Jan 2026, calling Massie 'a true hater of Israel' and a 'totally ineffective loser' (Algemeiner), and on 18 May 2026 posted 'The worst Congressman in the long and storied history of the Republican Party is Thomas Massie' (Al Jazeera); his posts also cite Massie's votes on other Republican priorities. Gallrein won 54% to 45% on 19 May 2026. Groups linked to pro-Israel donors spent more than $15.5M (Al Jazeera, FEC): UDP over $4.1M by 18 May (about $3.5M opposing Massie plus about $0.5M for Gallrein in FactCheck's later count), RJC Victory Fund about $3.9M, MAGA KY $7.5M. MAGA KY's receipts include $1M from Paul Singer and $750,000 from Preserve America PAC (both 27 Jun 2025; FEC) and $250,000 from John Paulson. UDP's spokesman Patrick Dorton called Massie 'the most anti-Israel Republican in the House'. Massie said Trump and AIPAC were 'panicked'. Whether pro-Israel money changed the result, and whether anyone asked Trump to endorse, is not documented.",
+      "sources": [
+        "https://www.algemeiner.com/2026/01/07/trump-slams-rep-thomas-massie-hater-israel-praises-republican-primary-challenger-ed-gallrein/",
+        "https://www.aljazeera.com/news/2026/5/18/massie-race-breaks-spending-record-as-pro-israel-groups-target-trump-critic",
+        "https://www.factcheck.org/2026/08/united-democracy-project-3/",
+        "https://api.open.fec.gov/v1/schedules/schedule_a/ (committee_id=C00908723, MAGA KY)",
+        "https://www.washingtonexaminer.com/news/campaigns/congressional/4571959/massie-panicked-trump-aipac-kentucky-primary/"
+      ]
+    },
+    {
+      "statement": "Trump has commented on the pro-Israel lobby's influence over Congress.",
+      "verdict": "confirmed",
+      "finding": "Evidence grade: documented in outlet reports (full transcripts not fetched; wording varies). In a late August 2025 Daily Caller interview Trump said Israel once had the strongest lobby in Congress of any body he had seen and 'Today, it doesn't have that strong a lobby', adding that he was 'a little surprised'. At a Hanukkah event in December 2025 he repeated that it was no longer the strongest in Congress, and in an August 2026 interview (Real America's Voice) he said pro-Israel groups have lost influence compared with 20 to 25 years earlier. He has not been recorded here describing AIPAC's spending as help to him. AIPAC criticised the US-Iran deal in June 2026 (per search excerpt), so its interests and the administration's do not always align.",
+      "sources": [
+        "https://www.newarab.com/news/trump-acknowledges-declining-israeli-influence-us",
+        "https://www.jns.org/trump-surprised-israel-lobby-no-longer-has-total-control-over-congress/",
+        "https://www.aljazeera.com/news/2026/8/12/trump-remarks-on-diminishing-impact-of-pro-israel-groups-in-congress"
+      ]
+    },
+    {
+      "statement": "Any agreement tying donor money to US policy toward Israel is documented.",
+      "verdict": "unverified",
+      "finding": "Not documented. No filing, court record, FARA registration, official statement or on-record account shows an agreement, condition or payment-for-policy between Adelson, Singer, Lauder, Perlmutter, AIPAC or UDP and Trump or his team. What exists is (a) FEC proof of large American donations, (b) Trump's public remarks crediting Adelson with influence and access, (c) a 2024 report of an annexation condition that her spokesman denied and that Trump's later public position contradicts, (d) overlap in time between donations and decisions, which does not establish cause. Contributions were by American citizens to US committees; none of the donors is an agent of the Israeli government on the record we found, and FARA records were not searched for Adelson-linked entities. The responses of Adelson, Singer, Lauder and the White House to the ballroom and 2026 giving were not found beyond Abboud's 2024 denial.",
+      "sources": [
+        "https://theprint.in/world/trump-salutes-mega-donor-miriam-adelson-for-help-shaping-us-decisions-on-israel/2763153",
+        "https://www.dawn.com/news/1950799",
+        "https://forward.com/fast-forward/618034/miriam-adelson-funding-trump-israel?amp=1"
+      ]
+    }
+  ],
+  "corrections": [
+    "An aggregator page (PowerMap) says Adelson gave $120M in 2024, one $95M gift, and $25M to the 2025 inauguration. FEC rows show $106M to Preserve America in six gifts in 2024 (the $95M figure is the Q3 total of four gifts); the inauguration figure reported by news outlets is $1M. We disregarded that page.",
+    "A search snippet attributed 'Paul Singer $1 million' and 'Adelson $1 million' to the 2025 inaugural committee; the CBS article behind part of that snippet is about the 2017 inauguration (Sheldon Adelson $5M, Singer $1M). The 2025 Adelson $1M comes from press summaries of the committee filing and was not verified against the FEC line.",
+    "Trump's statement that Adelson gave his campaign 'indirectly and directly $250 million' is his own figure and not supported by one filing total; FEC shows about $106M to Preserve America and $142M across Republican committees in 2024, plus about $67M so far in 2025-26.",
+    "The C86 and C64 checks list the Adelson family foundation only as a ballroom donor on the White House list without amounts. The Washington Post records (Oct 2026) put it at $25M."
+  ],
+  "denials_and_context": [
+    "Adelson's spokesman Andy Abboud denied the 2024 report that she was urging Trump to support West Bank annexation in exchange for her backing (reposted NYT text; original not read). In August 2024 CNBC reported Abboud telling Bedminster attendees that whatever Trump needed from Adelson he would get.",
+    "Preserve America is an independent-expenditure super PAC; coordination with the campaign is illegal and none is alleged in the sources read.",
+    "AIPAC and UDP describe themselves as nonpartisan and focus on candidates who support the US-Israel relationship; most of their spending is in House and Senate primaries, and UDP's 2024 independent expenditures went mainly to Democratic House races. UDP's spokesman Patrick Dorton called Massie 'the most anti-Israel Republican in the House'. AIPAC called Massie 'one of the most consistently hostile voices in Congress toward the U.S.-Israel relationship' (Intercept).",
+    "Trump's own comments in 2025-26 say the lobby's influence has declined, and he told Time in Oct 2025 that West Bank annexation 'won't happen'.",
+    "These are American citizens and US political committees giving under US law. This check does not concern Israeli government money."
+  ],
+  "sources": [
+    {"title": "FEC schedule A API: contributions by Adelson, Miriam (2024 and 2026 periods)", "publisher": "Federal Election Commission", "url": "https://api.open.fec.gov/v1/schedules/schedule_a/", "date": "2026-11-17", "read": "full"},
+    {"title": "FEC committee totals API: United Democracy Project (C00799031), cycle 2026", "publisher": "Federal Election Commission", "url": "https://api.open.fec.gov/v1/committee/C00799031/totals/", "date": "2026-10-14", "read": "full"},
+    {"title": "FEC schedule A API: Singer, Perlmutter, Lauder, Wynn (2024); Singer (2026); MAGA KY receipts (C00908723)", "publisher": "Federal Election Commission", "url": "https://api.open.fec.gov/v1/schedules/schedule_a/", "date": "2026-11-17", "read": "full"},
+    {"title": "United Democracy Project (Players Guide 2026)", "publisher": "FactCheck.org", "url": "https://www.factcheck.org/2026/08/united-democracy-project-3/", "date": "2026-08-07", "read": "full"},
+    {"title": "Preserve America PAC (Players Guide 2024)", "publisher": "FactCheck.org", "url": "https://www.factcheck.org/2024/08/preserve-america-pac-2", "date": "2024-08-21", "read": "full"},
+    {"title": "United Democracy Project (Players Guide 2024)", "publisher": "FactCheck.org", "url": "https://www.factcheck.org/2024/09/united-democracy-project-2/", "date": "2024-09-17", "read": "excerpt"},
+    {"title": "Trump salutes mega donor Miriam Adelson for help shaping US decisions on Israel", "publisher": "Reuters via ThePrint", "url": "https://theprint.in/world/trump-salutes-mega-donor-miriam-adelson-for-help-shaping-us-decisions-on-israel/2763153", "date": "2025-10-13", "read": "full"},
+    {"title": "Megadonor Offers Trump $250M to Run for Third Term", "publisher": "The Daily Beast", "url": "https://www.thedailybeast.com/megadonor-miriam-adelson-offers-donald-trump-250m-to-run-for-third-term", "date": "2025-12-17", "read": "excerpt"},
+    {"title": "Trump Says Miriam Adelson Offered Him 'Another $250 Million' to Run for a Third Term", "publisher": "Mediaite", "url": "https://mediaite.com/politics/trump-says-miriam-adelson-offered-him-another-250-million-to-run-for-a-third-term", "date": "2025-12-17", "read": "excerpt"},
+    {"title": "Needham-based Adelson foundation reportedly among top donors to Trump's White House ballroom", "publisher": "The Boston Globe", "url": "https://www.bostonglobe.com/2026/10/16/business/adelson-trump-ballroom-donor/", "date": "2026-10-16", "read": "excerpt"},
+    {"title": "These are the 37 donors helping pay for Trump's $300 million White House ballroom", "publisher": "Associated Press via KPTV", "url": "https://www.kptv.com/2025/11/13/these-are-37-donors-helping-pay-trumps-300-million-white-house-ballroom/", "date": "2025-11-13", "read": "excerpt"},
+    {"title": "Million-dollar donors flooded Trump's second inauguration", "publisher": "Brennan Center for Justice", "url": "https://www.brennancenter.org/our-work/research-reports/million-dollar-donors-flooded-trumps-second-inauguration", "date": "2025-04-21", "read": "excerpt"},
+    {"title": "Massie race breaks spending record as pro-Israel groups target Trump critic", "publisher": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/5/18/massie-race-breaks-spending-record-as-pro-israel-groups-target-trump-critic", "date": "2026-05-18", "read": "full"},
+    {"title": "Trump Slams Rep. Thomas Massie as 'Hater of Israel'", "publisher": "Algemeiner", "url": "https://www.algemeiner.com/2026/01/07/trump-slams-rep-thomas-massie-hater-israel-praises-republican-primary-challenger-ed-gallrein/", "date": "2026-01-07", "read": "excerpt"},
+    {"title": "AIPAC and UDP spending in the 2026 midterms", "publisher": "The Intercept", "url": "https://theintercept.com/2026/10/29/aipac-israel-midterms-spending-elections-congress/", "date": "2026-10-29", "read": "excerpt"},
+    {"title": "No group has ever spent as much as AIPAC has in the Bowman-Latimer primary", "publisher": "Sludge", "url": "https://readsludge.com/2024/06/20/no-group-has-ever-spent-as-much-as-aipac-has-in-the-bowman-latimer-primary/", "date": "2024-06-20", "read": "excerpt"},
+    {"title": "Billionaire Republican megadonor Ronald Lauder pulls the plug on Trump's party", "publisher": "The Daily Beast", "url": "https://thedailybeast.com/billionaire-republican-megadonor-ronald-lauder-pulls-the-plug-on-trumps-party", "date": "2026-08-05", "read": "excerpt"},
+    {"title": "Pro-Israel billionaire Miriam Adelson backs Trump's campaign, pushes for West Bank annexation", "publisher": "The New Arab", "url": "https://newarab.com/news/pro-israel-mogul-wants-west-bank-annexed-after-trump-donation", "date": "2024-06-01", "read": "excerpt"},
+    {"title": "Miriam Adelson commits more than $100 million to Trump's campaign", "publisher": "Forward", "url": "https://forward.com/fast-forward/618034/miriam-adelson-funding-trump-israel?amp=1", "date": "2024-05-30", "read": "excerpt"},
+    {"title": "Trump says would pull US support if Israel annexes West Bank", "publisher": "Dawn (Time interview reports)", "url": "https://www.dawn.com/news/1950799", "date": "2025-10-23", "read": "excerpt"},
+    {"title": "Trump acknowledges declining Israeli influence in US", "publisher": "The New Arab", "url": "https://www.newarab.com/news/trump-acknowledges-declining-israeli-influence-us", "date": "2025-09-03", "read": "excerpt"},
+    {"title": "Trump remarks on diminishing impact of pro-Israel groups in Congress", "publisher": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/8/12/trump-remarks-on-diminishing-impact-of-pro-israel-groups-in-congress", "date": "2026-08-12", "read": "excerpt"}
+  ],
+  "entities": [
+    {"id": "donald-trump", "name": "Donald Trump", "type": "person", "description": "US president; 2024 candidate"},
+    {"id": "miriam-adelson", "name": "Miriam Adelson", "type": "person", "description": "American physician and Republican megadonor, Israeli-born; majority owner of the Dallas Mavericks"},
+    {"id": "preserve-america-pac", "name": "Preserve America PAC", "type": "fund", "description": "Pro-Trump super PAC funded mainly by Miriam Adelson"},
+    {"id": "adelson-family-foundation", "name": "Adelson Family Foundation", "type": "fund", "description": "Family foundation reported to have committed $25M to the White House ballroom"},
+    {"id": "paul-singer", "name": "Paul Singer", "type": "person", "description": "Elliott Management founder; Republican donor and a top funder of the AIPAC super PAC"},
+    {"id": "ronald-lauder", "name": "Ronald Lauder", "type": "person", "description": "Estee Lauder heir and World Jewish Congress president; reported $5M to MAGA Inc. in 2025"},
+    {"id": "isaac-perlmutter", "name": "Isaac Perlmutter", "type": "person", "description": "Former Marvel chairman; funded Right for America in 2024; foundation reported as ballroom donor"},
+    {"id": "aipac", "name": "AIPAC", "type": "company", "description": "American Israel Public Affairs Committee, US lobbying group; has an affiliated PAC and super PAC"},
+    {"id": "united-democracy-project", "name": "United Democracy Project", "type": "fund", "description": "AIPAC's super PAC (FEC C00799031), established Jan 2022"},
+    {"id": "thomas-massie", "name": "Thomas Massie", "type": "person", "description": "Kentucky Republican congressman who lost the May 2026 primary"},
+    {"id": "ed-gallrein", "name": "Ed Gallrein", "type": "person", "description": "Trump-endorsed challenger who won the KY-4 Republican primary"},
+    {"id": "senate-leadership-fund", "name": "Senate Leadership Fund", "type": "fund", "description": "Republican Senate super PAC"},
+    {"id": "congressional-leadership-fund", "name": "Congressional Leadership Fund", "type": "fund", "description": "Republican House super PAC"},
+    {"id": "right-for-america", "name": "Right for America", "type": "fund", "description": "Pro-Trump super PAC funded by Ike Perlmutter in 2024"},
+    {"id": "maga-inc", "name": "MAGA Inc.", "type": "fund", "description": "Trump-aligned super PAC"},
+    {"id": "maga-ky", "name": "MAGA KY", "type": "fund", "description": "Super PAC that spent $7.5M against Massie"},
+    {"id": "white-house-ballroom", "name": "White House ballroom", "type": "event", "description": "Privately funded White House ballroom project"},
+    {"id": "trump-inaugural-committee", "name": "Trump Vance Inaugural Committee", "type": "event", "description": "2025 inaugural fundraising committee (FEC C00894162)"}
+  ],
+  "relationships": [
+    {"source": "miriam-adelson", "target": "preserve-america-pac", "label": "gave $106M in 2024 (six gifts)", "type": "money", "date": "2024", "amount_usd": 106000000},
+    {"source": "miriam-adelson", "target": "senate-leadership-fund", "label": "gave $15M in 2024", "type": "money", "date": "2024", "amount_usd": 15000000},
+    {"source": "miriam-adelson", "target": "congressional-leadership-fund", "label": "gave $10M in 2024", "type": "money", "date": "2024", "amount_usd": 10000000},
+    {"source": "miriam-adelson", "target": "maga-inc", "label": "gave $25M", "type": "money", "date": "2026-05-05", "amount_usd": 25000000},
+    {"source": "miriam-adelson", "target": "senate-leadership-fund", "label": "gave $30M", "type": "money", "date": "2026-03-11", "amount_usd": 30000000},
+    {"source": "miriam-adelson", "target": "congressional-leadership-fund", "label": "gave $10M", "type": "money", "date": "2026-03-11", "amount_usd": 10000000},
+    {"source": "adelson-family-foundation", "target": "white-house-ballroom", "label": "reported to have committed $25M (Washington Post records)", "type": "money", "date": "2026-10", "amount_usd": 25000000},
+    {"source": "miriam-adelson", "target": "trump-inaugural-committee", "label": "reported $1M (press summaries of filing; not verified)", "type": "money", "date": "2025-01", "amount_usd": 1000000},
+    {"source": "preserve-america-pac", "target": "maga-ky", "label": "gave $750,000", "type": "money", "date": "2025-06-27", "amount_usd": 750000},
+    {"source": "paul-singer", "target": "maga-inc", "label": "gave $5M", "type": "money", "date": "2024-08-15", "amount_usd": 5000000},
+    {"source": "paul-singer", "target": "preserve-america-pac", "label": "gave $2.5M", "type": "money", "date": "2024-10-21", "amount_usd": 2500000},
+    {"source": "paul-singer", "target": "united-democracy-project", "label": "gave $2.5M", "type": "money", "date": "2025-07-29", "amount_usd": 2500000},
+    {"source": "paul-singer", "target": "maga-ky", "label": "gave $1M", "type": "money", "date": "2025-06-27", "amount_usd": 1000000},
+    {"source": "ronald-lauder", "target": "maga-inc", "label": "reportedly gave $5M", "type": "money", "date": "2025-03", "amount_usd": 5000000},
+    {"source": "isaac-perlmutter", "target": "right-for-america", "label": "gave $12.45M in 2024", "type": "money", "date": "2024", "amount_usd": 12450000},
+    {"source": "aipac", "target": "united-democracy-project", "label": "affiliated super PAC", "type": "political", "date": "2022-01"},
+    {"source": "united-democracy-project", "target": "thomas-massie", "label": "spent over $3M opposing in KY-4 primary", "type": "political", "date": "2026-05", "amount_usd": 3000000},
+    {"source": "donald-trump", "target": "ed-gallrein", "label": "endorsed against Massie", "type": "political", "date": "2026-01-05"},
+    {"source": "donald-trump", "target": "miriam-adelson", "label": "credited her publicly at the Knesset; said she gave $250M", "type": "political", "date": "2025-10-13"}
+  ],
+  "leads": [
+    {"title": "Who funds MAGA KY, Preserve America PAC's 2025-26 receipts and America 21 PAC", "why_connected": "MAGA KY was the largest spender against Massie ($7.5M); its donors include Singer, Paulson and Preserve America PAC, and Preserve America's own 2025-26 donors were not retrieved.", "entities": ["maga-ky", "preserve-america-pac", "paul-singer"], "source_url": "https://www.aljazeera.com/news/2026/5/18/massie-race-breaks-spending-record-as-pro-israel-groups-target-trump-critic"},
+    {"title": "UDP pop-up and pass-through PACs in 2026 primaries", "why_connected": "Politico and the Intercept report that over 40% of UDP's primary money went through short-lived PACs that disclosed donors only after the vote.", "entities": ["united-democracy-project", "aipac"], "source_url": "https://theintercept.com/2026/10/29/aipac-israel-midterms-spending-elections-congress/"},
+    {"title": "2025 inaugural committee individual donors versus the FEC line items", "why_connected": "The Adelson and Singer inaugural figures rest on press summaries; the FEC itemisation for committee C00894162 was not retrieved.", "entities": ["trump-inaugural-committee", "miriam-adelson"], "source_url": "https://www.brennancenter.org/our-work/research-reports/million-dollar-donors-flooded-trumps-second-inauguration"},
+    {"title": "Haim Saban, Marc Rowan and Blair Frank: UDP's top donors and their giving to Trump committees", "why_connected": "FactCheck names them as UDP's largest 2026 contributors; their MAGA Inc., ballroom or inaugural giving was not checked.", "entities": ["united-democracy-project"], "source_url": "https://www.factcheck.org/2026/08/united-democracy-project-3/"}
+  ]
+}
