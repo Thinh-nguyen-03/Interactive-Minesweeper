@@ -1,6 +1,6 @@
 # The Trump Connection
 
-An interactive investigative map of the documented business, financial and political connections around Donald Trump, his family and his administration, with source-cited checks of 103 claims.
+An interactive investigative map of the documented business, financial and political connections around Donald Trump, his family and his administration, with source-cited checks of 114 claims.
 
 It is a static website with five parts:
 
@@ -16,16 +16,16 @@ This is a verification project, not an accusation. Everyone named denies wrongdo
 
 | | Count |
 |---|---|
-| Checks of claims and of the questions they raised | 69 |
+| Checks of claims and of the questions they raised | 80 |
 | Connection checks (cross-referencing across checks) | 34 |
 | Topics the checks are grouped under | 9 |
-| Individual points checked | 938 |
-| Sources cited | about 3,700 |
-| People, organisations and other names | 1,392 |
-| Documented links between them | 3,121 |
+| Individual points checked | 1,067 |
+| Sources cited | about 4,200 |
+| People, organisations and other names | 1,508 |
+| Documented links between them | 3,401 |
 | Ledger rows behind the balance sheet | 125 |
 
-Verdicts across the 103 checks: 3 confirmed, 85 mostly accurate, 13 partly accurate, 2 unverified. Of the 938 points, 658 hold up, 162 needed correcting and 118 are unproven. All 103 checks have had an independent second review. `python3 build.py` prints the current counts.
+Verdicts across the 114 checks: 3 confirmed, 93 mostly accurate, 16 partly accurate, 2 unverified. Of the 1,067 points, 733 hold up, 185 needed correcting and 149 are unproven. All 114 checks have had an independent second review. `python3 build.py` prints the current counts.
 
 "Mostly accurate" usually means the core facts hold and specific figures, dates or framings needed correcting. The corrections are listed on each check's page.
 
